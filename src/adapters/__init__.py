@@ -6,12 +6,14 @@ from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
 from .liverpool import LiverpoolAdapter
 from .vtex import VtexAdapter
+from .walmart import WalmartAdapter
 
 _TYPES = {
     "vtex": VtexAdapter,
     "jsonld": JsonLdAdapter,
     "homedepot": HomeDepotAdapter,
     "liverpool": LiverpoolAdapter,
+    "walmart": WalmartAdapter,
 }
 
 

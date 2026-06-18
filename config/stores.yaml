@@ -79,9 +79,18 @@ stores:
     urls: []
   walmart:
     name: Walmart MX
-    type: jsonld
-    enabled: false
-    urls: []
+    type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)
+    enabled: true
+    max_products_per_term: 60
+    search_terms:
+      - taladro
+      - pantalla
+      - laptop
+      - refrigerador
+      - lavadora
+      - audifonos
+      - licuadora
+      - bicicleta
   sams:
     name: Sam's Club MX
     type: jsonld
