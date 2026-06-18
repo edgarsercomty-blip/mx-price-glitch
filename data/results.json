@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-06-18 21:14 UTC",
-  "products_scanned": 639,
+  "generated_at": "2026-06-18 21:20 UTC",
+  "products_scanned": 579,
   "threshold_pct": 50,
-  "count": 12,
+  "count": 15,
   "findings": [
+    {
+      "kind": "own_discount",
+      "discount_pct": 60.5,
+      "detail": "$660 vs lista $1,671 (-60%)",
+      "store": "liverpool",
+      "name": "Taladro y brocas inalámbrico Lab.G Compacto de 127 V",
+      "url": "https://liverpool.com.mx/tienda/pdp/Taladro-y-brocas-inal%C3%A1mbrico-Lab.G-Compacto-de-127-V/1189491871",
+      "price": 659.62,
+      "list_price": 1670.8,
+      "ean": null,
+      "brand": "LAB.G",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189491871",
+        "marketplace": "true"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 59.2,
+      "detail": "$900 vs lista $2,207 (-59%)",
+      "store": "liverpool",
+      "name": "Rotomartillo Truper ROTO-1/2A7 650 W",
+      "url": "https://liverpool.com.mx/tienda/pdp/Rotomartillo-Truper-ROTO-1/2A7-650-W/1114797207",
+      "price": 900.0,
+      "list_price": 2207.0,
+      "ean": null,
+      "brand": "TRUPER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1114797207",
+        "marketplace": "true"
+      }
+    },
     {
       "kind": "own_discount",
       "discount_pct": 58.0,
@@ -55,6 +91,24 @@
       "currency": "MXN",
       "extra": {
         "partNumber": "244958P"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 55.7,
+      "detail": "$1,061 vs lista $2,395 (-56%)",
+      "store": "liverpool",
+      "name": "Set taladro atornillador inalámbrico genérico de 110 - 120 V",
+      "url": "https://liverpool.com.mx/tienda/pdp/Set-taladro-atornillador-inal%C3%A1mbrico-gen%C3%A9rico-de-110---120-V/1139610349",
+      "price": 1060.78,
+      "list_price": 2395.03,
+      "ean": null,
+      "brand": "Genérica",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1139610349",
+        "marketplace": "true"
       }
     },
     {

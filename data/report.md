@@ -1,14 +1,17 @@
-# Errores/chollos de precio — 2026-06-18 21:14 UTC
+# Errores/chollos de precio — 2026-06-18 21:20 UTC
 
-- Productos revisados: **639**
+- Productos revisados: **579**
 - Umbral de diferencia: **50%**
-- Hallazgos: **12**
+- Hallazgos: **15**
 
 | Desc. | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|--------|----------|-------:|------|---------|
+| -60% | liverpool | [Taladro y brocas inalámbrico Lab.G Compacto de 127 V](https://liverpool.com.mx/tienda/pdp/Taladro-y-brocas-inal%C3%A1mbrico-Lab.G-Compacto-de-127-V/1189491871) | $660 | Descuento propio | $660 vs lista $1,671 (-60%) |
+| -59% | liverpool | [Rotomartillo Truper ROTO-1/2A7 650 W](https://liverpool.com.mx/tienda/pdp/Rotomartillo-Truper-ROTO-1/2A7-650-W/1114797207) | $900 | Descuento propio | $900 vs lista $2,207 (-59%) |
 | -58% | liverpool | [Lavadora Samsung 21 kg automática carga superior WA21B3554GV…](https://liverpool.com.mx/tienda/pdp/Lavadora-Samsung-21-kg-autom%C3%A1tica-carga-superior-WA21B3554GV/AX/1126607721) | $10,038 | Descuento propio | $10,038 vs lista $23,899 (-58%) |
 | -58% | liverpool | [Pantalla Smart TV Lg OLED de 55 pulgadas 4K OLED55C5PSA con …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-OLED-de-55-pulgadas-4K-OLED55C5PSA-con-Evo-AI/1175150265) | $15,999 | Descuento propio | $15,999 vs lista $37,999 (-58%) |
 | -57% | homedepot | [PANTALLA 100" QLED FIRE TV 4K ULTRA HD](https://www.homedepot.com.mx/p/hisense-pantalla-100-qled-fire-tv-4k-ultra-hd-100qd6sfm-244958) | $29,899 | Descuento propio | $29,899 vs lista $69,999 (-57%) |
+| -56% | liverpool | [Set taladro atornillador inalámbrico genérico de 110 - 120 V](https://liverpool.com.mx/tienda/pdp/Set-taladro-atornillador-inal%C3%A1mbrico-gen%C3%A9rico-de-110---120-V/1139610349) | $1,061 | Descuento propio | $1,061 vs lista $2,395 (-56%) |
 | -55% | liverpool | [Pantalla Smart TV Tcl QLED de 98 pulgadas 4K/UHD 98Q7K con G…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Tcl-QLED-de-98-pulgadas-4K/UHD-98Q7K-con-Google-TV/1173911927) | $27,999 | Descuento propio | $27,999 vs lista $62,220 (-55%) |
 | -53% | liverpool | [Pantalla Smart TV LG NanoCell 50 pulgadas 4K/UHD 50NU850BPSA…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-50-pulgadas-4K/UHD-50NU850BPSA-con-AI-webOS/1199018091) | $6,999 | Descuento propio | $6,999 vs lista $14,999 (-53%) |
 | -52% | homedepot | [PANTALLA 50" VIDAA 4K](https://www.homedepot.com.mx/p/hisense-pantalla-50-vidaa-4k-50a65nv-244959) | $5,999 | Descuento propio | $5,999 vs lista $12,499 (-52%) |
