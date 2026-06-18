@@ -60,7 +60,7 @@ class HomeDepotAdapter(StoreAdapter):
         except requests.RequestException:
             pass
         try:
-            return brightdata.fetch(url)
+            return brightdata.fetch(url, timeout=25, retries=1)
         except brightdata.FetchError:
             return None
 
