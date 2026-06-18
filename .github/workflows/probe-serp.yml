@@ -1,0 +1,24 @@
+name: Probe SERP (diagnóstico Google Shopping)
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: "Texto a buscar en Google Shopping"
+        required: false
+        default: "OLED55C5PSA"
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Probe
+        env:
+          BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+          BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
+        run: python -m src.probe_serp "${{ inputs.query }}"
