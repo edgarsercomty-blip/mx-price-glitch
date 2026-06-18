@@ -42,6 +42,7 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     cfg = load_config()
     threshold = threshold if threshold is not None else cfg.get(
         "threshold_pct", detect.DEFAULT_THRESHOLD)
+    max_pct = float(cfg.get("max_discount_pct", detect.DEFAULT_MAX))
 
     products: list[Product] = []
     if dry_run:
@@ -65,8 +66,8 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             products.extend(got)
 
     print(f"Total productos: {len(products)}")
-    findings = detect.detect(products, threshold)
-    print(f"Hallazgos >= {threshold:.0f}%: {len(findings)}")
+    findings = detect.detect(products, threshold, max_pct)
+    print(f"Hallazgos {threshold:.0f}%-{max_pct:.0f}%: {len(findings)}")
 
     results_path, report_path = write_outputs(
         findings, ROOT / "data", len(products), threshold)

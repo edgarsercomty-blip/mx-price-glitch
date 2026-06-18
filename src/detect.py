@@ -18,6 +18,7 @@ from typing import Iterable
 from .models import Product
 
 DEFAULT_THRESHOLD = 50.0  # % de diferencia mínima
+DEFAULT_MAX = 99.0        # % máximo: por encima suele ser error de dato, no chollo
 
 
 @dataclass
@@ -34,11 +35,12 @@ class Finding:
         return d
 
 
-def own_discount(products: Iterable[Product], threshold: float) -> list[Finding]:
+def own_discount(products: Iterable[Product], threshold: float,
+                 max_pct: float = DEFAULT_MAX) -> list[Finding]:
     out = []
     for p in products:
         d = p.discount_pct
-        if d is not None and d >= threshold and p.available:
+        if d is not None and threshold <= d <= max_pct and p.available:
             out.append(Finding(
                 kind="own_discount", product=p, discount_pct=d,
                 detail=(f"${p.price:,.0f} vs lista ${p.list_price:,.0f} "
@@ -48,7 +50,7 @@ def own_discount(products: Iterable[Product], threshold: float) -> list[Finding]
 
 
 def cross_store(products: Iterable[Product], threshold: float,
-                min_others: int = 2) -> list[Finding]:
+                max_pct: float = DEFAULT_MAX, min_others: int = 2) -> list[Finding]:
     by_ean: dict[str, list[Product]] = {}
     for p in products:
         if p.ean and p.available and p.price > 0:
@@ -68,7 +70,7 @@ def cross_store(products: Iterable[Product], threshold: float,
         if ref <= 0:
             continue
         diff = round((1 - cheapest.price / ref) * 100, 1)
-        if diff >= threshold:
+        if threshold <= diff <= max_pct:
             out.append(Finding(
                 kind="cross_store", product=cheapest, discount_pct=diff,
                 detail=(f"EAN {ean}: ${cheapest.price:,.0f} en {cheapest.store} "
@@ -78,9 +80,10 @@ def cross_store(products: Iterable[Product], threshold: float,
     return out
 
 
-def detect(products: list[Product], threshold: float = DEFAULT_THRESHOLD
-           ) -> list[Finding]:
-    findings = own_discount(products, threshold) + cross_store(products, threshold)
+def detect(products: list[Product], threshold: float = DEFAULT_THRESHOLD,
+           max_pct: float = DEFAULT_MAX) -> list[Finding]:
+    findings = (own_discount(products, threshold, max_pct)
+                + cross_store(products, threshold, max_pct))
     # ordena por mayor descuento primero
     findings.sort(key=lambda f: f.discount_pct, reverse=True)
     return findings

@@ -8,7 +8,8 @@
 #
 # Para errores de precio, agrega términos/categorías de OFERTAS o LIQUIDACIÓN.
 
-threshold_pct: 50          # % mínimo de diferencia para reportar
+threshold_pct: 50          # % mínimo de diferencia para reportar (incluye 50%)
+max_discount_pct: 99       # % máximo: arriba de esto suele ser error de dato, se ignora
 
 stores:
   homedepot:
