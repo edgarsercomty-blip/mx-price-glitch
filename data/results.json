@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18 20:42 UTC",
-  "products_scanned": 640,
+  "generated_at": "2026-06-18 20:59 UTC",
+  "products_scanned": 642,
   "threshold_pct": 50,
   "count": 12,
   "findings": [
@@ -24,6 +24,24 @@
     },
     {
       "kind": "own_discount",
+      "discount_pct": 57.9,
+      "detail": "$15,999 vs lista $37,999 (-58%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Lg OLED de 55 pulgadas 4K OLED55C5PSA con Evo AI",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-OLED-de-55-pulgadas-4K-OLED55C5PSA-con-Evo-AI/1175150265",
+      "price": 15998.85,
+      "list_price": 37999.0,
+      "ean": null,
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175150265",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "own_discount",
       "discount_pct": 57.3,
       "detail": "$29,899 vs lista $69,999 (-57%)",
       "store": "homedepot",
@@ -37,24 +55,6 @@
       "currency": "MXN",
       "extra": {
         "partNumber": "244958P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 55.0,
-      "detail": "$15,999 vs lista $35,553 (-55%)",
-      "store": "liverpool",
-      "name": "Pantalla Smart TV Lg OLED de 55 pulgadas 4K OLED55C5PSA con Evo AI",
-      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-OLED-de-55-pulgadas-4K-OLED55C5PSA-con-Evo-AI/1175150265",
-      "price": 15998.85,
-      "list_price": 35553.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1175150265",
-        "marketplace": "false"
       }
     },
     {
@@ -77,6 +77,24 @@
     },
     {
       "kind": "own_discount",
+      "discount_pct": 53.3,
+      "detail": "$6,999 vs lista $14,999 (-53%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV LG NanoCell 50 pulgadas 4K/UHD 50NU850BPSA con AI webOS",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-50-pulgadas-4K/UHD-50NU850BPSA-con-AI-webOS/1199018091",
+      "price": 6999.0,
+      "list_price": 14999.0,
+      "ean": null,
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1199018091",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "own_discount",
       "discount_pct": 52.0,
       "detail": "$5,999 vs lista $12,499 (-52%)",
       "store": "homedepot",
@@ -90,6 +108,24 @@
       "currency": "MXN",
       "extra": {
         "partNumber": "244959P"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 51.3,
+      "detail": "$3,899 vs lista $7,999 (-51%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Lg LED de 32 pulgadas Full HD 32LR650BPSA",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-LED-de-32-pulgadas-Full-HD-32LR650BPSA/1146759285",
+      "price": 3899.0,
+      "list_price": 7999.0,
+      "ean": null,
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1146759285",
+        "marketplace": "false"
       }
     },
     {
@@ -142,42 +178,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1173699383",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 50.0,
-      "detail": "$6,999 vs lista $13,998 (-50%)",
-      "store": "liverpool",
-      "name": "Pantalla Smart TV LG NanoCell 50 pulgadas 4K/UHD 50NU850BPSA con AI webOS",
-      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-50-pulgadas-4K/UHD-50NU850BPSA-con-AI-webOS/1199018091",
-      "price": 6999.0,
-      "list_price": 13998.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199018091",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 50.0,
-      "detail": "$3,899 vs lista $7,798 (-50%)",
-      "store": "liverpool",
-      "name": "Pantalla Smart TV Lg LED de 32 pulgadas Full HD 32LR650BPSA",
-      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-LED-de-32-pulgadas-Full-HD-32LR650BPSA/1146759285",
-      "price": 3899.0,
-      "list_price": 7798.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1146759285",
         "marketplace": "false"
       }
     },
