@@ -1,11 +1,11 @@
 name: Cazador de errores de precio MX
 
 on:
-  schedule:
-    # Cada hora. Para errores de precio conviene frecuente; sube/baja según
-    # tu presupuesto de Bright Data. (GitHub puede retrasar los cron.)
-    - cron: "0 * * * *"
-  workflow_dispatch: {}        # permite correrlo a mano desde la pestaña Actions
+  # Cron PAUSADO mientras afinamos los extractores. Para reactivarlo,
+  # descomenta el bloque schedule (ej. cada 6 h: "0 */6 * * *").
+  # schedule:
+  #   - cron: "0 */6 * * *"
+  workflow_dispatch: {}        # por ahora solo corre a mano (Run workflow)
 
 permissions:
   contents: write              # para commitear data/

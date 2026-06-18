@@ -1,93 +1,67 @@
 # Configuración de tiendas a vigilar.
 #
-# type: vtex     -> API de catálogo (precio, precio de lista y EAN confiables).
-# type: jsonld   -> best-effort por HTML/JSON-LD (puede faltar precio de lista).
+# Estado actual del desarrollo:
+#   homedepot -> adaptador propio funcionando (HCL Commerce + Next.js).
+#   liverpool -> en construcción (Algolia).
+#   El resto está deshabilitado hasta tener su extractor real (la config VTEX
+#   inicial resultó incorrecta para esas tiendas).
 #
-# Ajusta `categories` (vtex) y `urls` (jsonld) a las secciones que te interesen,
-# sobre todo páginas de OFERTAS / LIQUIDACIÓN / CLEARANCE, que es donde brincan
-# los errores de precio.
+# Para errores de precio, agrega términos/categorías de OFERTAS o LIQUIDACIÓN.
 
 threshold_pct: 50          # % mínimo de diferencia para reportar
 
 stores:
-  # ---------- VTEX (sólido) ----------
-  coppel:
-    name: Coppel
-    type: vtex
-    host: www.coppel.com
-    enabled: true
-    max_per_category: 200
-    categories:
-      - ofertas
-      - tecnologia/telefonia/celulares
-      - computo-tablets/laptops
-
   homedepot:
     name: The Home Depot MX
-    type: vtex
-    host: www.homedepot.com.mx
+    type: homedepot
     enabled: true
-    max_per_category: 200
-    categories:
-      - ofertas
-      - herramientas
-
-  palacio:
-    name: El Palacio de Hierro
-    type: vtex
-    host: www.elpalaciodehierro.com
-    enabled: true
-    max_per_category: 200
-    categories:
-      - ofertas
-
-  # Bonus (mismo grupo, también VTEX) — descomenta si quieres:
-  # sears:
-  #   name: Sears MX
-  #   type: vtex
-  #   host: www.sears.com.mx
-  #   categories: [ofertas]
-  # sanborns:
-  #   name: Sanborns
-  #   type: vtex
-  #   host: www.sanborns.com.mx
-  #   categories: [ofertas]
-
-  # ---------- best-effort por JSON-LD ----------
-  # Estas tiendas no exponen API abierta de catálogo. Pon aquí URLs de
-  # productos o listados concretos que quieras vigilar. El descuento propio
-  # solo se detecta si la página publica el precio de lista en su JSON-LD;
-  # aun sin eso, suman al cruce por EAN cuando lo traen.
-  amazon:
-    name: Amazon MX
-    type: jsonld
-    enabled: true
-    urls:
-      # - https://www.amazon.com.mx/dp/XXXXXXXXXX
-      []
-
-  walmart:
-    name: Walmart MX
-    type: jsonld
-    enabled: true
-    urls:
-      # - https://www.walmart.com.mx/ip/...
-      []
-
-  sams:
-    name: Sam's Club MX
-    type: jsonld
-    enabled: true
-    urls: []
+    store_id: "10351"
+    only_promo: true            # solo pide detalle de productos con icono de promo
+    max_products_per_term: 50
+    search_terms:
+      - taladro
+      - refrigerador
+      - lavadora
+      - pantalla
+      - sala
+      - bicicleta
+      - generador
+      - climas
 
   liverpool:
     name: Liverpool
-    type: jsonld
-    enabled: true
+    type: jsonld                # TODO: cambiar a adaptador Algolia propio
+    enabled: false
     urls: []
 
+  # --- deshabilitadas hasta tener extractor real ---
+  coppel:
+    name: Coppel
+    type: jsonld
+    enabled: false
+    urls: []
+  palacio:
+    name: El Palacio de Hierro
+    type: jsonld
+    enabled: false
+    urls: []
+  amazon:
+    name: Amazon MX
+    type: jsonld
+    enabled: false
+    urls: []
+  walmart:
+    name: Walmart MX
+    type: jsonld
+    enabled: false
+    urls: []
+  sams:
+    name: Sam's Club MX
+    type: jsonld
+    enabled: false
+    urls: []
   suburbia:
     name: Suburbia
     type: jsonld
-    enabled: true
+    enabled: false
     urls: []
