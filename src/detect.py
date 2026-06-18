@@ -11,6 +11,7 @@ Dos señales, según lo acordado ("ambos"):
 """
 from __future__ import annotations
 
+import re
 import statistics
 from dataclasses import dataclass
 from typing import Iterable
@@ -19,6 +20,17 @@ from .models import Product
 
 DEFAULT_THRESHOLD = 50.0  # % de diferencia mínima
 DEFAULT_MAX = 99.0        # % máximo: por encima suele ser error de dato, no chollo
+
+# Productos que NO son nuevos: reacondicionado, open box, usado, etc. Se excluyen
+# porque su precio bajo no es un error/chollo comparable contra producto nuevo.
+_REFURB = re.compile(
+    r"(reacondicionad\w*|reacond\b|refurb\w*|renewed|renovad\w*|"
+    r"open[\s\-]?box|caja abierta|semi[\s\-]?nuev\w*|remanufactur\w*|"
+    r"segunda mano|\busad[oa]s?\b|\bused\b)", re.I)
+
+
+def is_refurbished(name: str | None) -> bool:
+    return bool(name and _REFURB.search(name))
 
 
 @dataclass

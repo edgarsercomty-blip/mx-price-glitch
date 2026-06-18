@@ -16,7 +16,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
 from .adapters.base import StoreAdapter
-from .detect import Finding
+from .detect import Finding, is_refurbished
 from .models import Product
 
 
@@ -112,14 +112,16 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
             if key == p.store:
                 continue
             for op in _cached_lookup(ad, key, query, cache, ttl):
-                if op.price > 0 and models_match(query, op.model, op.name):
+                if (op.price > 0 and not is_refurbished(op.name)
+                        and models_match(query, op.model, op.name)):
                     others.append(op)
 
         # árbitro extra: Google Shopping (solo top candidatos + presupuesto)
         if google is not None and (p.discount_pct or 0) >= google_min_pct:
             budget_left = google_max_lookups - google.calls
             for gp in google.lookup(query, budget_left):
-                if gp.price > 0 and models_match(query, None, gp.name):
+                if (gp.price > 0 and not is_refurbished(gp.name)
+                        and models_match(query, None, gp.name)):
                     others.append(gp)
 
         if not others:

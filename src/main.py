@@ -122,6 +122,12 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             print(f"   {len(got)} productos")
             products.extend(got)
 
+    if not dry_run:
+        before = len(products)
+        products = [p for p in products if not detect.is_refurbished(p.name)]
+        removed = before - len(products)
+        if removed:
+            print(f"Excluidos por reacondicionado/usado: {removed}")
     print(f"Total productos: {len(products)}")
 
     if verify_cross and not dry_run:

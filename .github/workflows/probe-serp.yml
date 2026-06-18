@@ -8,7 +8,7 @@ on:
         required: true
         default: "serp"
         type: choice
-        options: [serp, walmart]
+        options: [serp, walmart, amazon]
       query:
         description: "Texto a buscar"
         required: false
