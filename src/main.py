@@ -12,18 +12,61 @@ import argparse
 import json
 import os
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
 
 from . import detect
 from .adapters import build_adapter
+from .detect import Finding
 from .models import Product
-from .report import write_outputs
+from .report import write_new_report, write_outputs
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "stores.yaml"
 FIXTURES = ROOT / "tests" / "fixtures"
+SEEN = ROOT / "data" / "seen.json"
+SEEN_TTL_DAYS = 30          # tras este tiempo, un hallazgo que reaparece se vuelve a avisar
+
+
+def _finding_key(f: Finding) -> str:
+    """Identidad estable de un hallazgo: tienda + producto + precio.
+    Incluye el precio para que una BAJADA distinta se considere novedad."""
+    p = f.product
+    pid = (p.extra or {}).get("productId") or (p.extra or {}).get("partNumber") or p.url
+    return f"{p.store}|{pid}|{int(round(p.price))}"
+
+
+def split_new(findings: list[Finding]) -> list[Finding]:
+    """Devuelve solo los hallazgos no avisados antes; actualiza data/seen.json."""
+    now = datetime.now(timezone.utc)
+    seen: dict[str, str] = {}
+    if SEEN.exists():
+        try:
+            seen = json.loads(SEEN.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            seen = {}
+    # purga lo viejo (permite re-avisar si vuelve a aparecer más adelante)
+    cutoff = now - timedelta(days=SEEN_TTL_DAYS)
+    seen = {k: v for k, v in seen.items()
+            if _parse(v) and _parse(v) > cutoff}
+
+    new = [f for f in findings if _finding_key(f) not in seen]
+    for f in findings:                       # marca todo lo visto ahora
+        seen[_finding_key(f)] = now.isoformat()
+
+    SEEN.parent.mkdir(parents=True, exist_ok=True)
+    SEEN.write_text(json.dumps(seen, ensure_ascii=False, indent=2),
+                    encoding="utf-8")
+    return new
+
+
+def _parse(iso: str):
+    try:
+        return datetime.fromisoformat(iso)
+    except (ValueError, TypeError):
+        return None
 
 
 def load_config() -> dict:
@@ -69,17 +112,25 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     findings = detect.detect(products, threshold, max_pct)
     print(f"Hallazgos {threshold:.0f}%-{max_pct:.0f}%: {len(findings)}")
 
+    # solo lo NUEVO respecto a corridas anteriores (estado en data/seen.json)
+    new = [] if dry_run else split_new(findings)
+    if dry_run:
+        new = findings
+    print(f"Nuevos: {len(new)}")
+
     results_path, report_path = write_outputs(
         findings, ROOT / "data", len(products), threshold)
+    write_new_report(new, ROOT / "data")
     print(f"Escrito: {results_path}")
     print(f"Escrito: {report_path}")
 
-    # exporta para GitHub Actions (si hay hallazgos, abrimos issue)
+    # exporta para GitHub Actions: solo notificamos si hay NUEVOS
     gha_out = os.environ.get("GITHUB_OUTPUT")
     if gha_out:
         with open(gha_out, "a", encoding="utf-8") as fh:
             fh.write(f"findings={len(findings)}\n")
-    return len(findings)
+            fh.write(f"new={len(new)}\n")
+    return len(new)
 
 
 def main() -> None:

@@ -36,16 +36,27 @@ def write_outputs(findings: list[Finding], out_dir: Path, scanned: int,
     return results_path, report_path
 
 
-def _markdown(findings: list[Finding], ts: str, scanned: int,
-              threshold: float) -> str:
-    lines = [
-        f"# Errores/chollos de precio — {ts}",
-        "",
-        f"- Productos revisados: **{scanned}**",
-        f"- Umbral de diferencia: **{threshold:.0f}%**",
-        f"- Hallazgos: **{len(findings)}**",
-        "",
-    ]
+def write_new_report(new_findings: list[Finding], out_dir: Path,
+                     ts: str | None = None) -> Path:
+    """Escribe data/new.md con SOLO los hallazgos nuevos (para la notificación)."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    ts = ts or datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
+    path = out_dir / "new.md"
+    path.write_text(_markdown(new_findings, ts, None, None,
+                              heading="🆕 Nuevos posibles errores de precio"),
+                    encoding="utf-8")
+    return path
+
+
+def _markdown(findings: list[Finding], ts: str, scanned: int | None,
+              threshold: float | None,
+              heading: str = "Errores/chollos de precio") -> str:
+    lines = [f"# {heading} — {ts}", ""]
+    if scanned is not None:
+        lines.append(f"- Productos revisados: **{scanned}**")
+    if threshold is not None:
+        lines.append(f"- Umbral de diferencia: **{threshold:.0f}%**")
+    lines += [f"- Hallazgos: **{len(findings)}**", ""]
     if not findings:
         lines.append("_Sin hallazgos por encima del umbral en esta corrida._")
         return "\n".join(lines)

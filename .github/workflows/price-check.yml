@@ -1,11 +1,9 @@
 name: Cazador de errores de precio MX
 
 on:
-  # Cron PAUSADO mientras afinamos los extractores. Para reactivarlo,
-  # descomenta el bloque schedule (ej. cada 6 h: "0 */6 * * *").
-  # schedule:
-  #   - cron: "0 */6 * * *"
-  workflow_dispatch: {}        # por ahora solo corre a mano (Run workflow)
+  schedule:
+    - cron: "*/30 * * * *"     # cada 30 minutos (GitHub puede retrasar los cron)
+  workflow_dispatch: {}        # también se puede correr a mano (Run workflow)
 
 permissions:
   contents: write              # para commitear data/
@@ -14,6 +12,9 @@ permissions:
 concurrency:
   group: price-check
   cancel-in-progress: false
+
+env:
+  NOTIFY_USER: edgarsercomty-blip   # a quién se asigna/menciona (push en la app de GitHub)
 
 jobs:
   scan:
@@ -35,7 +36,7 @@ jobs:
           BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
         run: python -m src.main
 
-      - name: Guardar resultados en el repo
+      - name: Guardar resultados/estado en el repo
         run: |
           git config user.name  "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
@@ -47,11 +48,16 @@ jobs:
             git push
           fi
 
-      - name: Abrir Issue si hubo hallazgos
-        if: ${{ steps.scan.outputs.findings != '0' && steps.scan.outputs.findings != '' }}
+      # Solo notifica si hay hallazgos NUEVOS (no vistos en corridas previas).
+      # Se asigna y menciona al usuario -> la app de GitHub manda push al teléfono.
+      - name: Notificar nuevos (Issue asignado)
+        if: ${{ steps.scan.outputs.new != '0' && steps.scan.outputs.new != '' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          printf '@%s nuevos posibles errores de precio 👇\n\n' "$NOTIFY_USER" > body.md
+          cat data/new.md >> body.md
           gh issue create \
-            --title "💸 ${{ steps.scan.outputs.findings }} posibles errores de precio — $(date -u +'%Y-%m-%d %H:%M UTC')" \
-            --body-file data/report.md
+            --title "💸 ${{ steps.scan.outputs.new }} nuevos errores de precio — $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            --body-file body.md \
+            --assignee "$NOTIFY_USER"
