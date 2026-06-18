@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-06-18 14:38 Central Standard Time (Mexico)
+# Errores/chollos de precio — 2026-06-18 20:42 UTC
 
-- Productos revisados: **641**
+- Productos revisados: **640**
 - Umbral de diferencia: **50%**
 - Hallazgos: **12**
 
