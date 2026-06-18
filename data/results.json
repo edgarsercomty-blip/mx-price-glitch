@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-06-18 13:35 Central Standard Time (Mexico)",
+  "products_scanned": 6,
+  "threshold_pct": 50,
+  "count": 3,
+  "findings": [
+    {
+      "kind": "own_discount",
+      "discount_pct": 88.5,
+      "detail": "$1,499 vs lista $12,999 (-88%)",
+      "store": "coppel",
+      "name": "Pantalla LG 55\" 4K UHD (ERROR)",
+      "url": "https://www.coppel.com/p/demo-1",
+      "price": 1499,
+      "list_price": 12999,
+      "ean": "7501234500011",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {}
+    },
+    {
+      "kind": "cross_store",
+      "discount_pct": null,
+      "detail": "EAN 7501234599999: $690 en palacio vs mediana $1,849 (3 tiendas) (-63%)",
+      "store": "palacio",
+      "name": "Audífonos inalámbricos X (ERROR cruce)",
+      "url": "https://www.elpalaciodehierro.com/p/demo-c",
+      "price": 690,
+      "list_price": null,
+      "ean": "7501234599999",
+      "brand": "Marca",
+      "available": true,
+      "currency": "MXN",
+      "extra": {}
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 50.0,
+      "detail": "$899 vs lista $1,799 (-50%)",
+      "store": "homedepot",
+      "name": "Taladro inalámbrico 20V",
+      "url": "https://www.homedepot.com.mx/p/demo-2",
+      "price": 899,
+      "list_price": 1799,
+      "ean": "7501234500022",
+      "brand": "Truper",
+      "available": true,
+      "currency": "MXN",
+      "extra": {}
+    }
+  ]
+}

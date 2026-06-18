@@ -1,0 +1,9 @@
+[
+  {"store": "coppel", "name": "Pantalla LG 55\" 4K UHD (ERROR)", "url": "https://www.coppel.com/p/demo-1", "price": 1499, "list_price": 12999, "ean": "7501234500011", "brand": "LG", "available": true},
+  {"store": "homedepot", "name": "Taladro inalámbrico 20V", "url": "https://www.homedepot.com.mx/p/demo-2", "price": 899, "list_price": 1799, "ean": "7501234500022", "brand": "Truper", "available": true},
+  {"store": "palacio", "name": "Reloj automático acero", "url": "https://www.elpalaciodehierro.com/p/demo-3", "price": 4800, "list_price": 5200, "ean": "7501234500033", "brand": "Fossil", "available": true},
+
+  {"store": "coppel", "name": "Audífonos inalámbricos X", "url": "https://www.coppel.com/p/demo-a", "price": 1899, "list_price": 1999, "ean": "7501234599999", "brand": "Marca", "available": true},
+  {"store": "homedepot", "name": "Audífonos inalámbricos X", "url": "https://www.homedepot.com.mx/p/demo-b", "price": 1799, "list_price": 1999, "ean": "7501234599999", "brand": "Marca", "available": true},
+  {"store": "palacio", "name": "Audífonos inalámbricos X (ERROR cruce)", "url": "https://www.elpalaciodehierro.com/p/demo-c", "price": 690, "list_price": null, "ean": "7501234599999", "brand": "Marca", "available": true}
+]
