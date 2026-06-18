@@ -4,12 +4,14 @@ from __future__ import annotations
 from .base import StoreAdapter
 from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
+from .liverpool import LiverpoolAdapter
 from .vtex import VtexAdapter
 
 _TYPES = {
     "vtex": VtexAdapter,
     "jsonld": JsonLdAdapter,
     "homedepot": HomeDepotAdapter,
+    "liverpool": LiverpoolAdapter,
 }
 
 

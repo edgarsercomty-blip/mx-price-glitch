@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-06-18 14:32 Central Standard Time (Mexico)",
-  "products_scanned": 170,
-  "threshold_pct": 1.0,
-  "count": 93,
+  "generated_at": "2026-06-18 14:38 Central Standard Time (Mexico)",
+  "products_scanned": 641,
+  "threshold_pct": 50,
+  "count": 12,
   "findings": [
+    {
+      "kind": "own_discount",
+      "discount_pct": 58.0,
+      "detail": "$10,038 vs lista $23,899 (-58%)",
+      "store": "liverpool",
+      "name": "Lavadora Samsung 21 kg automática carga superior WA21B3554GV/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavadora-Samsung-21-kg-autom%C3%A1tica-carga-superior-WA21B3554GV/AX/1126607721",
+      "price": 10037.58,
+      "list_price": 23899.0,
+      "ean": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1126607721",
+        "marketplace": "false"
+      }
+    },
     {
       "kind": "own_discount",
       "discount_pct": 57.3,
@@ -19,6 +37,42 @@
       "currency": "MXN",
       "extra": {
         "partNumber": "244958P"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 55.0,
+      "detail": "$15,999 vs lista $35,553 (-55%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Lg OLED de 55 pulgadas 4K OLED55C5PSA con Evo AI",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-OLED-de-55-pulgadas-4K-OLED55C5PSA-con-Evo-AI/1175150265",
+      "price": 15998.85,
+      "list_price": 35553.0,
+      "ean": null,
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175150265",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 55.0,
+      "detail": "$27,999 vs lista $62,220 (-55%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Tcl QLED de 98 pulgadas 4K/UHD 98Q7K con Google TV",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Tcl-QLED-de-98-pulgadas-4K/UHD-98Q7K-con-Google-TV/1173911927",
+      "price": 27999.0,
+      "list_price": 62220.0,
+      "ean": null,
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173911927",
+        "marketplace": "false"
       }
     },
     {
@@ -40,6 +94,24 @@
     },
     {
       "kind": "own_discount",
+      "discount_pct": 51.0,
+      "detail": "$10,388 vs lista $21,199 (-51%)",
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659",
+      "price": 10387.51,
+      "list_price": 21199.0,
+      "ean": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110891659",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "own_discount",
       "discount_pct": 50.5,
       "detail": "$10,899 vs lista $21,999 (-50%)",
       "store": "homedepot",
@@ -57,1532 +129,92 @@
     },
     {
       "kind": "own_discount",
-      "discount_pct": 48.2,
-      "detail": "$6,999 vs lista $13,499 (-48%)",
-      "store": "homedepot",
-      "name": "LAVADORA AUTOMÁTICA MIDEA CARGA SUPERIOR 18KG WAVE WASH IMPELLER TITANIUM",
-      "url": "https://www.homedepot.com.mx/p/midea-lavadora-automatica-midea-carga-superior-18kg-wave-wash-impeller-titanium-ma512w18-t-232781",
+      "discount_pct": 50.0,
+      "detail": "$11,799 vs lista $23,598 (-50%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Tcl QLED de 75 pulgadas 4K/UHD 75Q6K con Google TV",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Tcl-QLED-de-75-pulgadas-4K/UHD-75Q6K-con-Google-TV/1173699383",
+      "price": 11799.0,
+      "list_price": 23598.0,
+      "ean": null,
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173699383",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "own_discount",
+      "discount_pct": 50.0,
+      "detail": "$6,999 vs lista $13,998 (-50%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV LG NanoCell 50 pulgadas 4K/UHD 50NU850BPSA con AI webOS",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-50-pulgadas-4K/UHD-50NU850BPSA-con-AI-webOS/1199018091",
       "price": 6999.0,
-      "list_price": 13499.0,
+      "list_price": 13998.0,
       "ean": null,
-      "brand": "MIDEA",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "partNumber": "232781P"
+        "productId": "1199018091",
+        "marketplace": "false"
       }
     },
     {
       "kind": "own_discount",
-      "discount_pct": 45.7,
-      "detail": "$8,599 vs lista $15,849 (-46%)",
-      "store": "homedepot",
-      "name": "LAVADORA AUTOMÁTICA MIDEA CARGA SUPERIOR 22KG CON AGITADOR COLOR TITANIUM",
-      "url": "https://www.homedepot.com.mx/p/midea-lavadora-automatica-midea-carga-superior-22kg-con-agitador-color-titanium-ma500w22-t-232782",
-      "price": 8599.0,
-      "list_price": 15849.0,
+      "discount_pct": 50.0,
+      "detail": "$3,899 vs lista $7,798 (-50%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Lg LED de 32 pulgadas Full HD 32LR650BPSA",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-LED-de-32-pulgadas-Full-HD-32LR650BPSA/1146759285",
+      "price": 3899.0,
+      "list_price": 7798.0,
       "ean": null,
-      "brand": "MIDEA",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "partNumber": "232782P"
+        "productId": "1146759285",
+        "marketplace": "false"
       }
     },
     {
       "kind": "own_discount",
-      "discount_pct": 44.8,
-      "detail": "$15,999 vs lista $28,999 (-45%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 19 PIES DÚPLEX MULTI-DOOR INVERTER BRU STEEL",
-      "url": "https://www.homedepot.com.mx/p/midea-refrigerador-19-pies-duplex-multi-door-inverter-bru-steel-mdrf691fgm46-238255",
-      "price": 15999.0,
-      "list_price": 28999.0,
-      "ean": null,
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238255P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 44.2,
-      "detail": "$14,999 vs lista $26,899 (-44%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR DUPLEX 20 PIES INVERTER JAZZ BLACK",
-      "url": "https://www.homedepot.com.mx/p/midea-refrigerador-duplex-20-pies-inverter-jazz-black-mdrs710fgm28w-232780",
-      "price": 14999.0,
-      "list_price": 26899.0,
-      "ean": null,
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "232780P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 40.8,
-      "detail": "$12,199 vs lista $20,599 (-41%)",
-      "store": "homedepot",
-      "name": "LAVADORA FRONT LOAD 20KG INVERTER SELF CLEAN+ BLANCA",
-      "url": "https://www.homedepot.com.mx/p/samsung-lavadora-front-load-20kg-inverter-self-clean-blanca-wf20t6000aw-ax-152574",
-      "price": 12199.0,
-      "list_price": 20599.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "152574P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 40.7,
-      "detail": "$15,999 vs lista $26,999 (-41%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR FRENCH DOOR 23 PIES 3 PUERTAS INVERTER QUATTRO BRU STEEL",
-      "url": "https://www.homedepot.com.mx/p/midea-refrigerador-french-door-23-pies-3-puertas-inverter-quattro-bru-steel-mdrf853mgm46i-244495",
-      "price": 15999.0,
-      "list_price": 26999.0,
-      "ean": null,
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "244495P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 40.0,
-      "detail": "$3,599 vs lista $5,999 (-40%)",
-      "store": "homedepot",
-      "name": "SMART TV 43\" WEBOS FHD",
-      "url": "https://www.homedepot.com.mx/p/sansui-smart-tv-43-webos-fhd-smx43kafw-238448",
-      "price": 3599.0,
-      "list_price": 5999.0,
-      "ean": null,
-      "brand": "SANSUI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238448P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 40.0,
-      "detail": "$4,499 vs lista $7,499 (-40%)",
-      "store": "homedepot",
-      "name": "MINISPLIT AVANT+ 1 TONELADA 115V FRÍO/CALOR BLANCO",
-      "url": "https://www.homedepot.com.mx/p/frikko-minisplit-avant-1-tonelada-115v-frio-calor-blanco-avant-121h-236924",
-      "price": 4499.0,
-      "list_price": 7499.0,
-      "ean": null,
-      "brand": "FRIKKO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "236924P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 39.5,
-      "detail": "$12,999 vs lista $21,499 (-40%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 19 PIES TOP MOUNT 2 PUERTAS DIGITAL INVERTER C/ ESTANTE DESLIZABLE ACERO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-19-pies-top-mount-2-puertas-digital-inverter-c-estante-deslizable-acero-rt53dg6758s9em-217697",
-      "price": 12999.0,
-      "list_price": 21499.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217697P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 38.9,
-      "detail": "$6,970 vs lista $11,399 (-39%)",
-      "store": "homedepot",
-      "name": "Sofa Cama Pisa",
-      "url": "https://www.homedepot.com.mx/p/violanti-sofa-cama-pisa-sce-513-202591",
-      "price": 6970.0,
-      "list_price": 11399.0,
-      "ean": null,
-      "brand": "VIOLANTI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "202591P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 38.8,
-      "detail": "$8,999 vs lista $14,699 (-39%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR SAMSUNG 21 KG AQUA SAVING",
-      "url": "https://www.homedepot.com.mx/p/samsung-lavadora-carga-superior-samsung-21-kg-aqua-saving-wa21a3341gw-ax-160223",
-      "price": 8999.0,
-      "list_price": 14699.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "160223P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 38.5,
-      "detail": "$29,499 vs lista $47,999 (-38%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 22 PIES DÚPLEX 2 PUERTAS FAMILY HUB ACERO INOX",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-22-pies-duplex-2-puertas-family-hub-acero-inox-rs22t5561s9-em-155613",
-      "price": 29499.0,
-      "list_price": 47999.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "155613P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 37.5,
-      "detail": "$9,999 vs lista $15,999 (-38%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR IMPELLER XPERT ECO 21 KG GRIS",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-carga-superior-impeller-xpert-eco-21-kg-gris-ww21btahme-237727",
+      "discount_pct": 50.0,
+      "detail": "$9,999 vs lista $19,998 (-50%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV Lg QNED de 55 pulgadas 4K 55QNED83ASG con Evo AI",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-QNED-de-55-pulgadas-4K-55QNED83ASG-con-Evo-AI/1183858552",
       "price": 9999.0,
-      "list_price": 15999.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237727P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 36.8,
-      "detail": "$10,999 vs lista $17,399 (-37%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 14 PIES TOP MOUNT 2 PUERTAS DIGITAL INVERTER ACERO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-14-pies-top-mount-2-puertas-digital-inverter-acero-rt38dg6734s9em-217712",
-      "price": 10999.0,
-      "list_price": 17399.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217712P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 36.7,
-      "detail": "$18,999 vs lista $29,999 (-37%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 22 PIES DÚPLEX 2 PUERTAS INVERTER NEGRO MATE",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-22-pies-duplex-2-puertas-inverter-negro-mate-142442",
-      "price": 18999.0,
-      "list_price": 29999.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "142442P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 36.3,
-      "detail": "$9,999 vs lista $15,699 (-36%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 12 PIES TOP MOUNT 2 PUERTAS DIGITAL INVERTER ACERO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-12-pies-top-mount-2-puertas-digital-inverter-acero-rt35dg5724s9em-217713",
-      "price": 9999.0,
-      "list_price": 15699.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217713P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 36.3,
-      "detail": "$22,979 vs lista $36,099 (-36%)",
-      "store": "homedepot",
-      "name": "LAVASECADORA 22KG LG NEGRA INVERTER AI WD22BV2S6R",
-      "url": "https://www.homedepot.com.mx/p/lg-lavasecadora-22kg-lg-negra-inverter-ai-wd22bv2s6r-wd22bv2s6r-192831",
-      "price": 22979.0,
-      "list_price": 36099.0,
+      "list_price": 19998.0,
       "ean": null,
       "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "partNumber": "192831P"
+        "productId": "1183858552",
+        "marketplace": "false"
       }
     },
     {
       "kind": "own_discount",
-      "discount_pct": 35.6,
-      "detail": "$59,999 vs lista $93,149 (-36%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 31 PIES FRENCH DOOR 3 PUERTAS INSTAVIEW ACERO INOX",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-31-pies-french-door-3-puertas-instaview-acero-inox-gm89sxd-233508",
-      "price": 59999.0,
-      "list_price": 93149.0,
+      "discount_pct": 50.0,
+      "detail": "$950 vs lista $1,899 (-50%)",
+      "store": "liverpool",
+      "name": "Tenis Champion para hombre",
+      "url": "https://liverpool.com.mx/tienda/pdp/Tenis-Champion-para-hombre/1184144297",
+      "price": 949.5,
+      "list_price": 1899.0,
       "ean": null,
-      "brand": "LG",
+      "brand": "CHAMPION",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "partNumber": "233508P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 35.5,
-      "detail": "$19,999 vs lista $30,999 (-36%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 21 PIES DÚPLEX 2 PUERTAS DESPACHADOR AGUA Y HIELO ACERO INOX",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-refrigerador-21-pies-duplex-2-puertas-despachador-agua-y-hielo-acero-inox-7wrs21sdhm-236395",
-      "price": 19999.0,
-      "list_price": 30999.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "236395P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 35.2,
-      "detail": "$18,999 vs lista $29,299 (-35%)",
-      "store": "homedepot",
-      "name": "PANTALLA 55\" OLED THINQ IA 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-oled-thinq-ia-4k-uhd-oled55c5psa-237357",
-      "price": 18999.0,
-      "list_price": 29299.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237357P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 35.0,
-      "detail": "$2,599 vs lista $3,999 (-35%)",
-      "store": "homedepot",
-      "name": "Lavadora Semiautomática Doble Tina 11 Kg Blanca",
-      "url": "https://www.homedepot.com.mx/p/midea-lavadora-semiautomatica-doble-tina-11-kg-blanca-mt100w110-wg-mx-243871",
-      "price": 2599.0,
-      "list_price": 3999.0,
-      "ean": null,
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "243871P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 34.3,
-      "detail": "$4,599 vs lista $6,997 (-34%)",
-      "store": "homedepot",
-      "name": "SMART TV 50\" WEBOS 4K",
-      "url": "https://www.homedepot.com.mx/p/sansui-smart-tv-50-webos-4k-smx50vauw-238451",
-      "price": 4599.0,
-      "list_price": 6997.0,
-      "ean": null,
-      "brand": "SANSUI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238451P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 34.1,
-      "detail": "$11,689 vs lista $17,749 (-34%)",
-      "store": "homedepot",
-      "name": "LAVASECADORA 12 KG LAVADO / 7 KG SECADO VIVACE INVERTER PLATA",
-      "url": "https://www.homedepot.com.mx/p/lg-lavasecadora-12-kg-lavado-7-kg-secado-vivace-inverter-plata-wd12vvc4s6s-154901",
-      "price": 11689.0,
-      "list_price": 17749.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "154901P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 34.1,
-      "detail": "$5,999 vs lista $9,099 (-34%)",
-      "store": "homedepot",
-      "name": "PANTALLA 43\" UHD AI 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-43-uhd-ai-4k-uhd-43ua7500psa-237358",
-      "price": 5999.0,
-      "list_price": 9099.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237358P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 33.9,
-      "detail": "$26,099 vs lista $39,499 (-34%)",
-      "store": "homedepot",
-      "name": "SOFÁ PARA TRES PERSONAS COLOR BEIGE",
-      "url": "https://www.homedepot.com.mx/p/sochic-sofa-para-tres-personas-color-beige-pit3plz-cream-223259",
-      "price": 26099.0,
-      "list_price": 39499.0,
-      "ean": null,
-      "brand": "SOCHIC",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "223259P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 33.9,
-      "detail": "$10,399 vs lista $15,735 (-34%)",
-      "store": "homedepot",
-      "name": "TABURETE PARA SALA COLOR AZUL",
-      "url": "https://www.homedepot.com.mx/p/sochic-taburete-para-sala-color-azul-pittabu-navy-223151",
-      "price": 10399.0,
-      "list_price": 15735.0,
-      "ean": null,
-      "brand": "SOCHIC",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "223151P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.7,
-      "detail": "$20,799 vs lista $29,999 (-31%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 12 PIES BOTTOM MOUNT 2 PUERTAS BESPOKE BLANCO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-12-pies-bottom-mount-2-puertas-bespoke-blanco-rb33a307012-em-241394",
-      "price": 20799.0,
-      "list_price": 29999.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "241394P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.3,
-      "detail": "$22,999 vs lista $32,999 (-30%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 32 PIES FRENCH DOOR 3 PUERTAS MULTI AIR FLOW PLATA",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-32-pies-french-door-3-puertas-multi-air-flow-plata-gm90hip-238908",
-      "price": 22999.0,
-      "list_price": 32999.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238908P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.1,
-      "detail": "$11,599 vs lista $16,599 (-30%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 18 PIES TOP MOUNT 2 PUERTAS QUICKSPACE ANTIFINGERPRINT ACERO INOX",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-refrigerador-18-pies-top-mount-2-puertas-quickspace-antifingerprint-acero-inox-128447",
-      "price": 11599.0,
-      "list_price": 16599.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "128447P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.0,
-      "detail": "$299 vs lista $427 (-30%)",
-      "store": "homedepot",
-      "name": "ATORNILLADOR BLACK+DECKER 3.6 V",
-      "url": "https://www.homedepot.com.mx/p/blackdecker-atornillador-blackdecker-36-v-kc3610b3-231468",
-      "price": 299.0,
-      "list_price": 427.0,
-      "ean": null,
-      "brand": "BLACK+DECKER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "231468P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.0,
-      "detail": "$1,889 vs lista $2,697 (-30%)",
-      "store": "homedepot",
-      "name": "MATRACA INALAMBRICA MILWAUKEE M12 DE 3/8 DE PULGADA",
-      "url": "https://www.homedepot.com.mx/p/milwaukee-matraca-inalambrica-milwaukee-m12-de-3-8-de-pulgada-2457-20-228708",
-      "price": 1889.0,
-      "list_price": 2697.0,
-      "ean": null,
-      "brand": "MILWAUKEE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228708P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 30.0,
-      "detail": "$3,499 vs lista $4,997 (-30%)",
-      "store": "homedepot",
-      "name": "GENERADOR ELÉCTRICO DE ENERGÍA PORTÁTIL 300W FORZA",
-      "url": "https://www.homedepot.com.mx/p/forza-generador-electrico-de-energia-portatil-300w-forza-up120for10-239615",
-      "price": 3499.0,
-      "list_price": 4997.0,
-      "ean": null,
-      "brand": "FORZA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "239615P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.3,
-      "detail": "$24,999 vs lista $35,349 (-29%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 28 PIES DÚPLEX 2 PUERTAS DIGITAL INVERTER BLANCO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-28-pies-duplex-2-puertas-digital-inverter-blanco-rs28cb70na12em-225871",
-      "price": 24999.0,
-      "list_price": 35349.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "225871P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.2,
-      "detail": "$14,999 vs lista $21,199 (-29%)",
-      "store": "homedepot",
-      "name": "LAVADORA MAYTAG CARGA SUPERIOR 24KG",
-      "url": "https://www.homedepot.com.mx/p/maytag-lavadora-maytag-carga-superior-24kg-7mmvw5035pw-217708",
-      "price": 14999.0,
-      "list_price": 21199.0,
-      "ean": null,
-      "brand": "MAYTAG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217708P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.2,
-      "detail": "$7,999 vs lista $11,299 (-29%)",
-      "store": "homedepot",
-      "name": "PANTALLA 55\" UHD AI 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-uhd-ai-4k-uhd-55ua7500psa-237354",
-      "price": 7999.0,
-      "list_price": 11299.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237354P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.1,
-      "detail": "$22,699 vs lista $31,999 (-29%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 32 PIES FRENCH DOOR 3 PUERTAS LG THINQ PLATINUM SILVER",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-32-pies-french-door-3-puertas-lg-thinq-platinum-silver-gm90fip-238907",
-      "price": 22699.0,
-      "list_price": 31999.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238907P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.1,
-      "detail": "$9,999 vs lista $14,099 (-29%)",
-      "store": "homedepot",
-      "name": "MINISPLIT INVERTER MIRAGE MAGNUM 1 TONELADA 110 V FRÍO Y CALOR",
-      "url": "https://www.homedepot.com.mx/p/mirage-minisplit-inverter-mirage-magnum-1-tonelada-110-v-frio-y-calor-setcmc120e-142567",
-      "price": 9999.0,
-      "list_price": 14099.0,
-      "ean": null,
-      "brand": "MIRAGE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "142567P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 29.0,
-      "detail": "$14,199 vs lista $19,999 (-29%)",
-      "store": "homedepot",
-      "name": "LAVADORA WHIRLPOOL CARGA SUPERIOR 26 KG GRIS 2 EN 1 XPERT DUAL",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-whirlpool-carga-superior-26-kg-gris-2-en-1-xpert-dual-8mwtw2654wsg-237939",
-      "price": 14199.0,
-      "list_price": 19999.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237939P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 28.6,
-      "detail": "$9,999 vs lista $13,999 (-29%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 11 PIES TOP MOUNT 2 PUERTAS DIGITAL INVERTER NEGRO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-11-pies-top-mount-2-puertas-digital-inverter-negro-rt31dg5724b1em-217863",
-      "price": 9999.0,
-      "list_price": 13999.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217863P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 28.6,
-      "detail": "$12,499 vs lista $17,499 (-29%)",
-      "store": "homedepot",
-      "name": "PANTALLA 75\" AI 4K QNED",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-75-ai-4k-qned-75qned73asc-237353",
-      "price": 12499.0,
-      "list_price": 17499.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237353P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 27.1,
-      "detail": "$13,999 vs lista $19,199 (-27%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR LG TOP MOUNT NEGRO 20 PIES CUBICOS",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-lg-top-mount-negro-20-pies-cubicos-lt57bt-226208",
-      "price": 13999.0,
-      "list_price": 19199.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "226208P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 26.7,
-      "detail": "$10,999 vs lista $14,999 (-27%)",
-      "store": "homedepot",
-      "name": "LAVADORA AUTOMÁTICA 20 KG BLANCA AQUA RECOVERY GREEN",
-      "url": "https://www.homedepot.com.mx/p/mabe-lavadora-automatica-20-kg-blanca-aqua-recovery-green-lmq70214vbab0-237940",
-      "price": 10999.0,
-      "list_price": 14999.0,
-      "ean": null,
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237940P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 26.1,
-      "detail": "$7,499 vs lista $10,149 (-26%)",
-      "store": "homedepot",
-      "name": "PANTALLA 50\" UHD AI 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-50-uhd-ai-4k-uhd-50ua7500psa-237352",
-      "price": 7499.0,
-      "list_price": 10149.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237352P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 25.7,
-      "detail": "$19,999 vs lista $26,899 (-26%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 25 PIES FRENCH DOOR 3 PUERTAS INVERTER PLATA",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-25-pies-french-door-3-puertas-inverter-plata-gm65bpp-225447",
-      "price": 19999.0,
-      "list_price": 26899.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "225447P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 25.7,
-      "detail": "$12,999 vs lista $17,499 (-26%)",
-      "store": "homedepot",
-      "name": "LAVADORA SAMSUNG WA22C3544GVAX 22KG",
-      "url": "https://www.homedepot.com.mx/p/samsung-lavadora-samsung-wa22c3544gvax-22kg-wa22c3544gvax-217872",
-      "price": 12999.0,
-      "list_price": 17499.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217872P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 25.7,
-      "detail": "$15,599 vs lista $20,999 (-26%)",
-      "store": "homedepot",
-      "name": "A23C3554GV/AX LAVADORA SAMSUNG CARGA SUPERIOR 23KG NEGRA WA23C3554GV/AX",
-      "url": "https://www.homedepot.com.mx/p/samsung-a23c3554gv-ax-lavadora-samsung-carga-superior-23kg-negra-wa23c3554gv-ax-wa23c3554gv-ax-230591",
-      "price": 15599.0,
-      "list_price": 20999.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "230591P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.9,
-      "detail": "$1,499 vs lista $1,997 (-25%)",
-      "store": "homedepot",
-      "name": "KIT DE 3 HERRAMIENTAS USB LITHIUM CON BATERÍA DE 2AH Y CARGADOR",
-      "url": "https://www.homedepot.com.mx/p/ryobi-kit-de-3-herramientas-usb-lithium-con-bateria-de-2ah-y-cargador-fvk103k1sb-236147",
-      "price": 1499.0,
-      "list_price": 1997.0,
-      "ean": null,
-      "brand": "RYOBI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "236147P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.9,
-      "detail": "$13,999 vs lista $18,649 (-25%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 19 PIES TOP MOUNT 2 PUERTAS DIGITAL INVERTER ACERO",
-      "url": "https://www.homedepot.com.mx/p/samsung-refrigerador-19-pies-top-mount-2-puertas-digital-inverter-acero-rt53dg6128s9em-217867",
-      "price": 13999.0,
-      "list_price": 18649.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "217867P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.9,
-      "detail": "$10,549 vs lista $14,045 (-25%)",
-      "store": "homedepot",
-      "name": "MUEBLE PARA TV NICK COLOR BLANCO Y NEGRO",
-      "url": "https://www.homedepot.com.mx/p/alterego-mueble-para-tv-nick-color-blanco-y-negro-nick-bi-197521",
-      "price": 10549.0,
-      "list_price": 14045.0,
-      "ean": null,
-      "brand": "ALTEREGO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "197521P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.6,
-      "detail": "$14,999 vs lista $19,899 (-25%)",
-      "store": "homedepot",
-      "name": "LAVADORA WHIRLPOOL CARGA SUPERIOR AGITADOR 2 EN 1XPERT DUAL 26 KG BLANCO",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-whirlpool-carga-superior-agitador-2-en-1xpert-dual-26-kg-blanco-8mwtw2654wrm-237720",
-      "price": 14999.0,
-      "list_price": 19899.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237720P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.1,
-      "detail": "$17,999 vs lista $23,699 (-24%)",
-      "store": "homedepot",
-      "name": "PANTALLA 48\" OLED THINQ IA 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-48-oled-thinq-ia-4k-uhd-oled48c5psa-237350",
-      "price": 17999.0,
-      "list_price": 23699.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237350P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 24.0,
-      "detail": "$25,999 vs lista $34,199 (-24%)",
-      "store": "homedepot",
-      "name": "CENTRO DE LAVADO 23 KG ELÉCTRICO 220 V SPIRAL WASHING GRIS",
-      "url": "https://www.homedepot.com.mx/p/ge-centro-de-lavado-23-kg-electrico-220-v-spiral-washing-gris-gcl2340esdg0-223526",
-      "price": 25999.0,
-      "list_price": 34199.0,
-      "ean": null,
-      "brand": "GE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "223526P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 23.1,
-      "detail": "$19,999 vs lista $25,999 (-23%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 25 PIES FRENCH DOOR 3 PUERTAS LG THINQ NEGRO",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-25-pies-french-door-3-puertas-lg-thinq-negro-gm65bpt-244651",
-      "price": 19999.0,
-      "list_price": 25999.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "244651P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 22.2,
-      "detail": "$27,999 vs lista $35,999 (-22%)",
-      "store": "homedepot",
-      "name": "PANTALLA 65\" OLED THINQ IA 4K UHD",
-      "url": "https://www.homedepot.com.mx/p/lg-pantalla-65-oled-thinq-ia-4k-uhd-oled65c5psa-237349",
-      "price": 27999.0,
-      "list_price": 35999.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237349P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 21.6,
-      "detail": "$11,999 vs lista $15,299 (-22%)",
-      "store": "homedepot",
-      "name": "LAVADORA SAMSUNG CARGA SUPERIOR 19 KG DIGITAL INVERTER NEGRA",
-      "url": "https://www.homedepot.com.mx/p/samsung-lavadora-samsung-carga-superior-19-kg-digital-inverter-negra-wa19cg6746bvax-230323",
-      "price": 11999.0,
-      "list_price": 15299.0,
-      "ean": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "230323P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 20.2,
-      "detail": "$18,999 vs lista $23,799 (-20%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR 25 KG PET PRO SYSTEM NEGRO",
-      "url": "https://www.homedepot.com.mx/p/maytag-lavadora-carga-superior-25-kg-pet-pro-system-negro-7mmvw6500rb-228766",
-      "price": 18999.0,
-      "list_price": 23799.0,
-      "ean": null,
-      "brand": "MAYTAG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228766P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 20.0,
-      "detail": "$19,999 vs lista $24,999 (-20%)",
-      "store": "homedepot",
-      "name": "GENERADOR ELÉCTRICO SOLAR DELTA 3 UPS 1024WH 1800W + PANEL SOLAR PLEGABLE 160W",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-generador-electrico-solar-delta-3-ups-1024wh-1800w-panel-solar-plegable-160w-delta-3-panel-solar-160w-237763",
-      "price": 19999.0,
-      "list_price": 24999.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237763P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 19.9,
-      "detail": "$2,775 vs lista $3,465 (-20%)",
-      "store": "homedepot",
-      "name": "SOPORTE MUEBLE DE TV 120X40X48CM ARCE",
-      "url": "https://www.homedepot.com.mx/p/homemake-soporte-mueble-de-tv-120x40x48cm-arce-loft-katods-197871",
-      "price": 2775.0,
-      "list_price": 3465.0,
-      "ean": null,
-      "brand": "HOMEMAKE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "197871P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 19.9,
-      "detail": "$6,299 vs lista $7,865 (-20%)",
-      "store": "homedepot",
-      "name": "MINISPLIT NEO INVERTER FRIO/CALOR 1 TON 115 V SETCNC120G",
-      "url": "https://www.homedepot.com.mx/p/mirage-minisplit-neo-inverter-frio-calor-1-ton-115-v-setcnc120g-setcnc120g-243365",
-      "price": 6299.0,
-      "list_price": 7865.0,
-      "ean": null,
-      "brand": "MIRAGE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "243365P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 19.8,
-      "detail": "$13,899 vs lista $17,322 (-20%)",
-      "store": "homedepot",
-      "name": "MINISPLIT NEO INVERTER FRIO/CALOR 2 TON 230 V SETCNC261G",
-      "url": "https://www.homedepot.com.mx/p/mirage-minisplit-neo-inverter-frio-calor-2-ton-230-v-setcnc261g-setcnc261g-243266",
-      "price": 13899.0,
-      "list_price": 17322.5,
-      "ean": null,
-      "brand": "MIRAGE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "243266P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 18.9,
-      "detail": "$10,499 vs lista $12,949 (-19%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 11 PIES TOP MOUNT 2 PUERTAS INVERTER PLATINUM",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-11-pies-top-mount-2-puertas-inverter-platinum-gt35bp-236869",
-      "price": 10499.0,
-      "list_price": 12949.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "236869P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 18.5,
-      "detail": "$10,599 vs lista $12,997 (-18%)",
-      "store": "homedepot",
-      "name": "PANTALLA SANSUI 75\" 4K GOOGLE TV S75VHUG",
-      "url": "https://www.homedepot.com.mx/p/sansui-pantalla-sansui-75-4k-google-tv-s75vhug-s75vhug-238449",
-      "price": 10599.0,
-      "list_price": 12997.0,
-      "ean": null,
-      "brand": "SANSUI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238449P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 18.5,
-      "detail": "$10,599 vs lista $12,997 (-18%)",
-      "store": "homedepot",
-      "name": "SMART TV 75\" GOOGLE TV 4K",
-      "url": "https://www.homedepot.com.mx/p/sansui-smart-tv-75-google-tv-4k-smx75vhug-238447",
-      "price": 10599.0,
-      "list_price": 12997.0,
-      "ean": null,
-      "brand": "SANSUI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238447P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 18.3,
-      "detail": "$102,999 vs lista $126,099 (-18%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 18 PIES Y CONGELADOR 18 PIES SIDEKICK ACERO INOXIDABLE",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-refrigerador-18-pies-y-congelador-18-pies-sidekick-acero-inoxidable-ccwsz57l18dm-228616",
-      "price": 102999.0,
-      "list_price": 126099.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228616P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 18.0,
-      "detail": "$10,999 vs lista $13,415 (-18%)",
-      "store": "homedepot",
-      "name": "Sillón Individual Tapizado en Tela Premium Café Plomo. Estructura de Madera Sólida",
-      "url": "https://www.homedepot.com.mx/p/sochic-sillon-individual-tapizado-en-tela-premium-cafe-plomo-estructura-de-madera-solida-cosmo1plz-camel-228411",
-      "price": 10999.0,
-      "list_price": 13415.0,
-      "ean": null,
-      "brand": "SOCHIC",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228411P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 17.0,
-      "detail": "$8,299 vs lista $9,999 (-17%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 10 PIES TOP MOUNT 2 PUERTAS ACERO INOX PLATINADO",
-      "url": "https://www.homedepot.com.mx/p/vissani-refrigerador-10-pies-top-mount-2-puertas-acero-inox-platinado-hvdr1000pm-231915",
-      "price": 8299.0,
-      "list_price": 9999.0,
-      "ean": null,
-      "brand": "VISSANI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "231915P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 16.7,
-      "detail": "$12,499 vs lista $14,999 (-17%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR 24 KG XPERT SYSTEM BLANCA",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-carga-superior-24-kg-xpert-system-blanca-8mwtw2424wpm-241387",
-      "price": 12499.0,
-      "list_price": 14999.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "241387P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 16.0,
-      "detail": "$19,999 vs lista $23,799 (-16%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 22 PIES FRENCH DOOR 3 PUERTAS LINEAR INVERTER ACERO INOX",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-22-pies-french-door-3-puertas-linear-inverter-acero-inox-gf22bgskastfmxm-150513",
-      "price": 19999.0,
-      "list_price": 23799.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "150513P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 15.2,
-      "detail": "$9,499 vs lista $11,199 (-15%)",
-      "store": "homedepot",
-      "name": "LAVADORA AUTOMÁTICA 19 KG BLANCA, BLACK OUT RECOVERY",
-      "url": "https://www.homedepot.com.mx/p/mabe-lavadora-automatica-19-kg-blanca-black-out-recovery-lma79114vbak0-237938",
-      "price": 9499.0,
-      "list_price": 11199.0,
-      "ean": null,
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237938P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 15.0,
-      "detail": "$2,869 vs lista $3,375 (-15%)",
-      "store": "homedepot",
-      "name": "MESA DE TV BERTOLINI CHARLOTTE ROBLE VERDE",
-      "url": "https://www.homedepot.com.mx/p/bertolini-mesa-de-tv-bertolini-charlotte-roble-verde-3-meses-215738",
-      "price": 2869.0,
-      "list_price": 3375.0,
-      "ean": null,
-      "brand": "BERTOLINI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "215738P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 15.0,
-      "detail": "$24,399 vs lista $28,699 (-15%)",
-      "store": "homedepot",
-      "name": "GENERADOR ELÉCTRICO SOLAR DELTA 3 UPS 1024WH 1800W + BATERÍA ADICIONAL 1024WH",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-generador-electrico-solar-delta-3-ups-1024wh-1800w-bateria-adicional-1024wh-delta-3-bateria-adicional-237764",
-      "price": 24399.0,
-      "list_price": 28699.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237764P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 15.0,
-      "detail": "$33,579 vs lista $39,499 (-15%)",
-      "store": "homedepot",
-      "name": "GENERADOR DE ENERGÍA DE GASOLINA/GAS LP DUAL FUEL SG4000, PARA USO DOMÉSTICO O INDUSTRIAL",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-generador-de-energia-de-gasolina-gas-lp-dual-fuel-sg4000-para-uso-domestico-o-industrial-smart-generator-4000-dual-fuel-237871",
-      "price": 33579.0,
-      "list_price": 39499.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237871P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 15.0,
-      "detail": "$73,099 vs lista $85,999 (-15%)",
-      "store": "homedepot",
-      "name": "GENERADOR ELÉCTRICO SOLAR DELTA PRO 3 UPS 4096WH 4000W + BATERÍA ADICIONAL 4096 WH",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-generador-electrico-solar-delta-pro-3-ups-4096wh-4000w-bateria-adicional-4096-wh-dp3dp3eb-237847",
-      "price": 73099.0,
-      "list_price": 85999.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237847P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 14.9,
-      "detail": "$6,039 vs lista $7,099 (-15%)",
-      "store": "homedepot",
-      "name": "GENERADOR ELÉCTRICO SOLAR RIVER 3 268?WH 300?W + PANEL SOLAR PLEGABLE 45?W",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-generador-electrico-solar-river-3-268-wh-300-w-panel-solar-plegable-45-w-river-3-panel-45w-237870",
-      "price": 6039.0,
-      "list_price": 7099.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237870P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 14.9,
-      "detail": "$8,249 vs lista $9,699 (-15%)",
-      "store": "homedepot",
-      "name": "PANEL SOLAR PLEGABLE ECOFLOW 220W BIFACIAL PORTÁTIL ALTA EFICIENCIA CARGA RÁPIDA COMPAT GENERADORES",
-      "url": "https://www.homedepot.com.mx/p/ecoflow-panel-solar-plegable-ecoflow-220w-bifacial-portatil-alta-eficiencia-carga-rapida-compat-generadores-solar220w-n-230556",
-      "price": 8249.0,
-      "list_price": 9699.0,
-      "ean": null,
-      "brand": "ECOFLOW",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "230556P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 14.6,
-      "detail": "$3,049 vs lista $3,569 (-15%)",
-      "store": "homedepot",
-      "name": "MESA DE CENTRO 1.05 M X 42 X 50 CM",
-      "url": "https://www.homedepot.com.mx/p/homemake-mesa-de-centro-105-m-x-42-x-50-cm-loft-coffee-212252",
-      "price": 3049.0,
-      "list_price": 3569.0,
-      "ean": null,
-      "brand": "HOMEMAKE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "212252P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 14.3,
-      "detail": "$11,999 vs lista $13,999 (-14%)",
-      "store": "homedepot",
-      "name": "LAVADORA AUTOMÁTICA 22 KG DIAMOND GRAY, BLACK OUT RECOVERY",
-      "url": "https://www.homedepot.com.mx/p/mabe-lavadora-automatica-22-kg-diamond-gray-black-out-recovery-lma72215wdab0-237942",
-      "price": 11999.0,
-      "list_price": 13999.0,
-      "ean": null,
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "237942P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 14.0,
-      "detail": "$36,999 vs lista $42,999 (-14%)",
-      "store": "homedepot",
-      "name": "REFRIGERADOR 31 PIES FRENCH DOOR 3 PUERTAS LINEAR COOLING PLATINUM SILVER",
-      "url": "https://www.homedepot.com.mx/p/lg-refrigerador-31-pies-french-door-3-puertas-linear-cooling-platinum-silver-gm90lip-238909",
-      "price": 36999.0,
-      "list_price": 42999.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "238909P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 13.4,
-      "detail": "$14,289 vs lista $16,499 (-13%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR 23 KG AI DD NEGRO ONIX",
-      "url": "https://www.homedepot.com.mx/p/lg-lavadora-carga-superior-23-kg-ai-dd-negro-onix-wt23obtx6-245351",
-      "price": 14289.0,
-      "list_price": 16499.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "245351P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 13.0,
-      "detail": "$9,999 vs lista $11,499 (-13%)",
-      "store": "homedepot",
-      "name": "LAVADORA CARGA SUPERIOR 20KG XPERT SYSTEM AGITADOR GRIS OSCURO",
-      "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-carga-superior-20kg-xpert-system-agitador-gris-oscuro-8mwtw2024wlg-241401",
-      "price": 9999.0,
-      "list_price": 11499.0,
-      "ean": null,
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "241401P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 10.3,
-      "detail": "$5,199 vs lista $5,799 (-10%)",
-      "store": "homedepot",
-      "name": "TALADRO PERCUTOR DE 3 VELOCIDADES 20V MAX XR INALÁMBRICO DEWALT",
-      "url": "https://www.homedepot.com.mx/p/dewalt-taladro-percutor-de-3-velocidades-20v-max-xr-inalambrico-dewalt-dcd1007bb3-233822",
-      "price": 5199.0,
-      "list_price": 5799.0,
-      "ean": null,
-      "brand": "DEWALT",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "233822P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 10.1,
-      "detail": "$16,799 vs lista $18,689 (-10%)",
-      "store": "homedepot",
-      "name": "SALA ESCORPIO CHICA IZQUIERDA",
-      "url": "https://www.homedepot.com.mx/p/ikasa-sala-escorpio-chica-izquierda-modelo-escorpio-203108",
-      "price": 16799.0,
-      "list_price": 18689.0,
-      "ean": null,
-      "brand": "IKASA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "203108P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 10.0,
-      "detail": "$2,699 vs lista $2,999 (-10%)",
-      "store": "homedepot",
-      "name": "Panel para Tv hasta 50 Pulgadas Madesa Arizona con 1 Estante y 2 Nichos Marrón",
-      "url": "https://www.homedepot.com.mx/p/madesa-panel-para-tv-hasta-50-pulgadas-madesa-arizona-con-1-estante-y-2-nichos-marron-21089g1-199763",
-      "price": 2699.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "brand": "MADESA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "199763P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 10.0,
-      "detail": "$3,599 vs lista $3,999 (-10%)",
-      "store": "homedepot",
-      "name": "PANEL TV 60 PULGADAS ALFA NEGRO MADESA",
-      "url": "https://www.homedepot.com.mx/p/madesa-panel-tv-60-pulgadas-alfa-negro-madesa-21058n1-222583",
-      "price": 3599.0,
-      "list_price": 3999.0,
-      "ean": null,
-      "brand": "MADESA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "222583P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 9.9,
-      "detail": "$1,775 vs lista $1,969 (-10%)",
-      "store": "homedepot",
-      "name": "ONE+ 18V TALADRO ATORNILLADOR INALÁMBRICO DE 3/8 IN. CON BATERÍA DE 1.5AH Y CARGADOR",
-      "url": "https://www.homedepot.com.mx/p/ryobi-one-18v-taladro-atornillador-inalambrico-de-3-8-in-con-bateria-de-15ah-y-cargador-pcl201k1-149365",
-      "price": 1775.0,
-      "list_price": 1969.0,
-      "ean": null,
-      "brand": "RYOBI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "149365P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 9.9,
-      "detail": "$16,649 vs lista $18,479 (-10%)",
-      "store": "homedepot",
-      "name": "SALA MODULAR DERECHAECHA ESCORPIO CHICA GRIS OXFORD COORD",
-      "url": "https://www.homedepot.com.mx/p/ikasa-sala-modular-derechaecha-escorpio-chica-gris-oxford-coord-modelo-escorpio-203094",
-      "price": 16649.0,
-      "list_price": 18479.0,
-      "ean": null,
-      "brand": "IKASA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "203094P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 9.9,
-      "detail": "$31,799 vs lista $35,279 (-10%)",
-      "store": "homedepot",
-      "name": "SALA TAMARA",
-      "url": "https://www.homedepot.com.mx/p/ikasa-sala-tamara-tamara-228622",
-      "price": 31799.0,
-      "list_price": 35279.0,
-      "ean": null,
-      "brand": "IKASA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228622P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 9.9,
-      "detail": "$31,799 vs lista $35,279 (-10%)",
-      "store": "homedepot",
-      "name": "SALA TAMARA",
-      "url": "https://www.homedepot.com.mx/p/ikasa-sala-tamara-tamara-228623",
-      "price": 31799.0,
-      "list_price": 35279.0,
-      "ean": null,
-      "brand": "IKASA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "228623P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 5.7,
-      "detail": "$3,299 vs lista $3,499 (-6%)",
-      "store": "homedepot",
-      "name": "DESTORNILLADOR INALÁMBRICO HEXAGONAL MILWAUKEE M12 DE 1/4 DE PULGADA",
-      "url": "https://www.homedepot.com.mx/p/milwaukee-destornillador-inalambrico-hexagonal-milwaukee-m12-de-1-4-de-pulgada-2401-22-119879",
-      "price": 3299.0,
-      "list_price": 3499.0,
-      "ean": null,
-      "brand": "MILWAUKEE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "119879P"
-      }
-    },
-    {
-      "kind": "own_discount",
-      "discount_pct": 4.2,
-      "detail": "$18,109 vs lista $18,899 (-4%)",
-      "store": "homedepot",
-      "name": "LAVADORA 22 KG FRONTAL AI LG THINQ BLANCA",
-      "url": "https://www.homedepot.com.mx/p/lg-lavadora-22-kg-frontal-ai-lg-thinq-blanca-wm22wv26sr-169934",
-      "price": 18109.0,
-      "list_price": 18899.0,
-      "ean": null,
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "partNumber": "169934P"
+        "productId": "1184144297",
+        "marketplace": "false"
       }
     }
   ]

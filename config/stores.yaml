@@ -30,9 +30,18 @@ stores:
 
   liverpool:
     name: Liverpool
-    type: jsonld                # TODO: cambiar a adaptador Algolia propio
-    enabled: false
-    urls: []
+    type: liverpool             # productos embebidos en __NEXT_DATA__
+    enabled: true
+    pages_per_term: 1
+    search_terms:
+      - taladro
+      - pantalla
+      - laptop
+      - refrigerador
+      - lavadora
+      - perfume
+      - tenis
+      - audifonos
 
   # --- deshabilitadas hasta tener extractor real ---
   coppel:
