@@ -1,12 +1,18 @@
-name: Probe SERP (diagnóstico Google Shopping)
+name: Probe (diagnóstico SERP / Walmart)
 
 on:
   workflow_dispatch:
     inputs:
+      target:
+        description: "Qué probar"
+        required: true
+        default: "serp"
+        type: choice
+        options: [serp, walmart]
       query:
-        description: "Texto a buscar en Google Shopping"
+        description: "Texto a buscar"
         required: false
-        default: "OLED55C5PSA"
+        default: "taladro"
 
 jobs:
   probe:
@@ -20,5 +26,6 @@ jobs:
       - name: Probe
         env:
           BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+          BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
           BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
-        run: python -m src.probe_serp "${{ inputs.query }}"
+        run: python -m src.probe_${{ inputs.target }} "${{ inputs.query }}"
