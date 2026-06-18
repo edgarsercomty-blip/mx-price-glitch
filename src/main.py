@@ -118,10 +118,15 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     print(f"Total productos: {len(products)}")
 
     if verify_cross and not dry_run:
-        # candidatos por descuento propio -> confirmar contra otras tiendas
-        candidates = detect.own_discount(products, candidate_min, max_pct)
+        # candidatos por descuento propio -> confirmar contra otras tiendas.
+        # Se acotan a los de MAYOR descuento (cada uno hace lookups de red).
+        verify_max = int(cfg.get("verify_max_candidates", 40))
+        all_cands = detect.own_discount(products, candidate_min, max_pct)
+        all_cands.sort(key=lambda f: f.product.discount_pct or 0, reverse=True)
+        candidates = all_cands[:verify_max]
         print(f"Candidatos (desc. propio >= {candidate_min:.0f}%): "
-              f"{len(candidates)} -> verificando contra otras tiendas...")
+              f"{len(all_cands)}; verificando top {len(candidates)} "
+              f"contra otras tiendas...")
 
         google = None
         if gcfg.get("enabled"):

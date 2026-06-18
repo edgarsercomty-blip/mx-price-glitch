@@ -84,19 +84,35 @@ class GoogleShopping:
         self.calls += 1
         return self._to_products(items)
 
+    _debugged = False
+
     def _query_serp(self, query: str) -> list[dict]:
         zone = __import__("os").environ.get("BRIGHTDATA_SERP_ZONE")
         url = (f"{SERP_BASE}?tbm=shop&q={_q(query)}"
                f"&gl={self.country}&hl={self.hl}&brd_json=1")
         try:
-            body = brightdata.fetch(url, country=self.country, zone=zone)
-        except brightdata.FetchError:
+            # falla rápido: timeout corto y sin reintentos largos (evita que la
+            # corrida se eternice si la SERP no responde).
+            body = brightdata.fetch(url, country=self.country, zone=zone,
+                                    timeout=25, retries=1)
+        except brightdata.FetchError as e:
+            if not GoogleShopping._debugged:
+                print(f"   [gshop] error SERP para '{query}': {e}")
+                GoogleShopping._debugged = True
             return []
         try:
             data = json.loads(body)
         except json.JSONDecodeError:
+            if not GoogleShopping._debugged:
+                print(f"   [gshop] SERP no-JSON ({len(body)}b): {body[:300]}")
+                GoogleShopping._debugged = True
             return []
-        return _parse_shopping(data)
+        items = _parse_shopping(data)
+        if not GoogleShopping._debugged:
+            top = list(data.keys()) if isinstance(data, dict) else type(data).__name__
+            print(f"   [gshop] OK '{query}': {len(items)} items; claves={top}")
+            GoogleShopping._debugged = True
+        return items
 
     @staticmethod
     def _to_products(items: list[dict]) -> list[Product]:
