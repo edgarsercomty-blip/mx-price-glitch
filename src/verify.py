@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 
 from .adapters.base import StoreAdapter
 from .detect import Finding
@@ -58,9 +59,36 @@ def _query_for(p: Product) -> str | None:
     return None
 
 
+def _cached_lookup(ad: StoreAdapter, store_key: str, query: str,
+                   cache: dict, ttl: timedelta) -> list[Product]:
+    """Lookup con caché persistente entre corridas (precio de la competencia
+    cambia poco en horas; evita repetir la misma consulta de red cada corrida)."""
+    ckey = f"{store_key}|{_norm(query)}"
+    ent = cache.get(ckey)
+    if ent:
+        try:
+            fresh = datetime.now(timezone.utc) - datetime.fromisoformat(ent["ts"]) < ttl
+        except (KeyError, ValueError, TypeError):
+            fresh = False
+        if fresh:
+            return [Product(**d) for d in ent.get("items", [])]
+    try:
+        hits = ad.lookup(query)
+    except Exception:
+        hits = []
+    cache[ckey] = {
+        "ts": datetime.now(timezone.utc).isoformat(),
+        "items": [{"store": h.store, "name": h.name, "url": h.url,
+                   "price": h.price, "model": h.model} for h in hits],
+    }
+    return hits
+
+
 def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
            confirm_pct: float, google=None, google_min_pct: float = 45,
-           google_max_lookups: int = 15) -> list[Finding]:
+           google_max_lookups: int = 15,
+           lookup_cache: dict | None = None,
+           lookup_ttl_hours: float = 12) -> list[Finding]:
     """Devuelve solo los candidatos confirmados más baratos que otra tienda,
     anotando en el detalle los precios de la competencia.
 
@@ -71,6 +99,8 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
     # se gaste en los más prometedores)
     candidates = sorted(candidates,
                         key=lambda f: f.product.discount_pct or 0, reverse=True)
+    cache = lookup_cache if lookup_cache is not None else {}
+    ttl = timedelta(hours=lookup_ttl_hours)
     confirmed: list[Finding] = []
     for f in candidates:
         p = f.product
@@ -81,11 +111,7 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         for key, ad in adapters.items():
             if key == p.store:
                 continue
-            try:
-                hits = ad.lookup(query)
-            except Exception:
-                hits = []
-            for op in hits:
+            for op in _cached_lookup(ad, key, query, cache, ttl):
                 if op.price > 0 and models_match(query, op.model, op.name):
                     others.append(op)
 

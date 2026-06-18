@@ -70,6 +70,13 @@ def _parse(iso: str):
         return None
 
 
+def _prune_lookup_cache(cache: dict, ttl_hours: float) -> None:
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=ttl_hours)
+    for k in [k for k, v in cache.items()
+              if not (_parse(v.get("ts", "")) and _parse(v["ts"]) > cutoff)]:
+        del cache[k]
+
+
 def load_config() -> dict:
     with open(CONFIG, encoding="utf-8") as fh:
         return yaml.safe_load(fh)
@@ -138,10 +145,25 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
                 print("   Google Shopping habilitado pero falta BRIGHTDATA_SERP_ZONE; se omite.")
                 google = None
 
+        lookup_cache_path = ROOT / "data" / "lookup_cache.json"
+        lookup_cache = {}
+        if lookup_cache_path.exists():
+            try:
+                lookup_cache = json.loads(lookup_cache_path.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                lookup_cache = {}
+        lookup_ttl = float(cfg.get("lookup_cache_ttl_hours", 12))
+
         findings = verify(
             candidates, adapters, confirm_pct, google=google,
             google_min_pct=float(gcfg.get("min_pct", 45)),
-            google_max_lookups=int(gcfg.get("max_lookups", 15)))
+            google_max_lookups=int(gcfg.get("max_lookups", 15)),
+            lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl)
+
+        # purga entradas vencidas y guarda el caché de lookups
+        _prune_lookup_cache(lookup_cache, lookup_ttl)
+        lookup_cache_path.write_text(
+            json.dumps(lookup_cache, ensure_ascii=False, indent=2), encoding="utf-8")
         if google is not None:
             google.save()
             print(f"   Consultas Google Shopping (red): {google.calls}")
