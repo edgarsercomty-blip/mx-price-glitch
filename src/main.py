@@ -90,6 +90,7 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     verify_cross = bool(cfg.get("verify_cross_store", True))
     candidate_min = float(cfg.get("candidate_min_pct", 30))
     confirm_pct = float(cfg.get("cross_confirm_pct", threshold))
+    gcfg = cfg.get("google_shopping", {}) or {}
 
     products: list[Product] = []
     adapters: dict = {}
@@ -121,7 +122,24 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
         candidates = detect.own_discount(products, candidate_min, max_pct)
         print(f"Candidatos (desc. propio >= {candidate_min:.0f}%): "
               f"{len(candidates)} -> verificando contra otras tiendas...")
-        findings = verify(candidates, adapters, confirm_pct)
+
+        google = None
+        if gcfg.get("enabled"):
+            from .gshop import GoogleShopping
+            google = GoogleShopping(
+                ROOT / "data" / "gshop_cache.json",
+                ttl_hours=float(gcfg.get("cache_ttl_hours", 24)))
+            if not google.available():
+                print("   Google Shopping habilitado pero falta BRIGHTDATA_SERP_ZONE; se omite.")
+                google = None
+
+        findings = verify(
+            candidates, adapters, confirm_pct, google=google,
+            google_min_pct=float(gcfg.get("min_pct", 45)),
+            google_max_lookups=int(gcfg.get("max_lookups", 15)))
+        if google is not None:
+            google.save()
+            print(f"   Consultas Google Shopping (red): {google.calls}")
         findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
         findings.sort(key=lambda f: f.discount_pct, reverse=True)
         print(f"Confirmados más baratos que la competencia (>= "

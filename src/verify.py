@@ -44,6 +44,13 @@ class CrossResult:
     real_pct: float | None     # % por debajo de la oferta más barata de otra tienda
 
 
+def _label(o: Product) -> str:
+    if o.store == "google":
+        m = (o.extra or {}).get("merchant")
+        return f"google/{m} ${o.price:,.0f}" if m else f"google ${o.price:,.0f}"
+    return f"{o.store} ${o.price:,.0f}"
+
+
 def _query_for(p: Product) -> str | None:
     model = p.model
     if model and len(_norm(model)) >= 5:
@@ -52,9 +59,18 @@ def _query_for(p: Product) -> str | None:
 
 
 def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
-           confirm_pct: float) -> list[Finding]:
+           confirm_pct: float, google=None, google_min_pct: float = 45,
+           google_max_lookups: int = 15) -> list[Finding]:
     """Devuelve solo los candidatos confirmados más baratos que otra tienda,
-    anotando en el detalle los precios de la competencia."""
+    anotando en el detalle los precios de la competencia.
+
+    Si `google` (GoogleShopping) está disponible, se usa como árbitro extra solo
+    para los candidatos de mayor descuento propio (>= google_min_pct) y dentro
+    del presupuesto google_max_lookups (consultas de red por corrida)."""
+    # primero los de mayor descuento propio (para que el presupuesto de Google
+    # se gaste en los más prometedores)
+    candidates = sorted(candidates,
+                        key=lambda f: f.product.discount_pct or 0, reverse=True)
     confirmed: list[Finding] = []
     for f in candidates:
         p = f.product
@@ -72,14 +88,21 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
             for op in hits:
                 if op.price > 0 and models_match(query, op.model, op.name):
                     others.append(op)
+
+        # árbitro extra: Google Shopping (solo top candidatos + presupuesto)
+        if google is not None and (p.discount_pct or 0) >= google_min_pct:
+            budget_left = google_max_lookups - google.calls
+            for gp in google.lookup(query, budget_left):
+                if gp.price > 0 and models_match(query, None, gp.name):
+                    others.append(gp)
+
         if not others:
             continue                       # no se encontró en otra tienda -> no confirmable
         cheapest = min(others, key=lambda x: x.price)
         real = round((1 - p.price / cheapest.price) * 100, 1)
         if real < confirm_pct:
             continue                       # no es más barato que el mercado -> descuento falso
-        comp = ", ".join(f"{o.store} ${o.price:,.0f}"
-                         for o in sorted(others, key=lambda x: x.price)[:3])
+        comp = ", ".join(_label(o) for o in sorted(others, key=lambda x: x.price)[:3])
         f.kind = "cross_confirmed"
         f.discount_pct = real
         f.detail = (f"${p.price:,.0f} vs {comp} -> -{real:.0f}% bajo la "

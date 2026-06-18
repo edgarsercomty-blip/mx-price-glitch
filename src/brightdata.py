@@ -33,7 +33,8 @@ def _dry_run() -> bool:
 
 def fetch(url: str, *, country: str = "mx", timeout: int = 60,
           retries: int = 3, expect: str | None = None,
-          unblock_headers: dict[str, str] | None = None) -> str:
+          unblock_headers: dict[str, str] | None = None,
+          zone: str | None = None) -> str:
     """Descarga `url` a través de Bright Data y devuelve el cuerpo como texto.
 
     `country`         geolocalización del request (mx => precios/stock de México).
@@ -48,10 +49,10 @@ def fetch(url: str, *, country: str = "mx", timeout: int = 60,
         raise FetchError(f"DRY_RUN activo: no se descarga {url}")
 
     token = os.environ.get("BRIGHTDATA_API_TOKEN")
-    zone = os.environ.get("BRIGHTDATA_ZONE")
+    zone = zone or os.environ.get("BRIGHTDATA_ZONE")
     if not token or not zone:
         raise FetchError(
-            "Faltan BRIGHTDATA_API_TOKEN y/o BRIGHTDATA_ZONE en el entorno. "
+            "Faltan BRIGHTDATA_API_TOKEN y/o zona en el entorno. "
             "Configúralos como secrets del repositorio."
         )
 

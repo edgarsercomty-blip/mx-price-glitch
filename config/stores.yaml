@@ -18,6 +18,15 @@ verify_cross_store: true
 candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
 cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para confirmar
 
+# Árbitro extra: Google Shopping (agrega precios de muchos vendedores).
+# Requiere secret BRIGHTDATA_SERP_ZONE (zona tipo "SERP API" en Bright Data).
+# Costo acotado: solo top candidatos + tope por corrida + caché de 24h.
+google_shopping:
+  enabled: true
+  min_pct: 45              # solo consulta Google para candidatos con desc. propio >= esto
+  max_lookups: 15          # tope de consultas de RED por corrida (caché no cuenta)
+  cache_ttl_hours: 24      # vigencia del precio cacheado por modelo
+
 stores:
   homedepot:
     name: The Home Depot MX

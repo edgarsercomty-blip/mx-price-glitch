@@ -34,6 +34,7 @@ jobs:
         env:
           BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
           BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
+          BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
         run: python -m src.main
 
       - name: Guardar resultados/estado en el repo
