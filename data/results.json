@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-06-18 22:46 UTC",
-  "products_scanned": 644,
+  "generated_at": "2026-06-18 23:14 UTC",
+  "products_scanned": 1037,
   "threshold_pct": 25.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.3,
+      "detail": "$1,849 vs liverpool $3,699 -> -50% bajo la competencia (descuento propio 51%)",
+      "store": "walmart",
+      "name": "Licuadora Personal NutriBullet ProPlus 32 Oz de Acero Inoxidable con Cuchilla Extraíble 1200W Reacondicionada",
+      "url": "https://www.walmart.com.mx/ip/licuadora-personal-nutribullet-proplus-32-oz-de-acero-inoxidable-con-cuchilla-extraible-1200w-reacondicionada/00046039587980",
+      "price": 1849.0,
+      "list_price": 3799.0,
+      "ean": null,
+      "model": "1200W",
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00046039587980"
+      }
+    }
+  ]
 }
