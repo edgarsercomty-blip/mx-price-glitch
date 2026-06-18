@@ -16,7 +16,7 @@ max_discount_pct: 99       # % máximo: arriba de esto suele ser error de dato, 
 # y solo se reporta si está de verdad más barato que el mercado.
 verify_cross_store: true
 candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
-verify_max_candidates: 20  # tope de candidatos a verificar por corrida (los de mayor desc.)
+verify_max_candidates: 40  # tope de candidatos a verificar por corrida (los de mayor desc.)
 cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para confirmar
 
 # Árbitro extra: Google Shopping (agrega precios de muchos vendedores).

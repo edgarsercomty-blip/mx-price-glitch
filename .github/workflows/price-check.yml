@@ -2,7 +2,7 @@ name: Cazador de errores de precio MX
 
 on:
   schedule:
-    - cron: "*/30 * * * *"     # cada 30 minutos (GitHub puede retrasar los cron)
+    - cron: "0 */3 * * *"      # cada 3 horas (para no rebasar los minutos gratis de Actions en repo privado)
   workflow_dispatch: {}        # también se puede correr a mano (Run workflow)
 
 permissions:
