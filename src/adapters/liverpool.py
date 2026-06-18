@@ -42,6 +42,7 @@ class LiverpoolAdapter(StoreAdapter):
         self.pages = int(config.get("pages_per_term", 1))
         self._session = requests.Session()
         self._session.headers.update({"User-Agent": UA})
+        self._lookup_cache: dict[str, list[Product]] = {}
 
     def _get_html(self, url: str) -> str | None:
         try:
@@ -92,17 +93,33 @@ class LiverpoolAdapter(StoreAdapter):
         uri = raw.get("uri") or f"{self.base}/tienda/pdp/{raw.get('productId')}"
         if uri and not uri.startswith("http"):
             uri = f"{self.base}{uri}"
+        name = raw.get("title") or raw.get("name") or raw.get("productId")
         return Product(
             store=self.key,
-            name=raw.get("title") or raw.get("name") or raw.get("productId"),
+            name=name,
             url=uri,
             price=price,
             list_price=listp,
+            model=extract_model(name),
             brand=raw.get("brand"),
             available=str(raw.get("availability")).upper() == "IN_STOCK",
             extra={"productId": raw.get("productId"),
                    "marketplace": raw.get("isMarketPlace")},
         )
+
+    def lookup(self, query: str) -> list[Product]:
+        if query in self._lookup_cache:
+            return self._lookup_cache[query]
+        url = f"{self.base}/tienda/buscar?s={quote(query)}"
+        html = self._get_html(url)
+        out: list[Product] = []
+        if html:
+            for raw in self._products_in(html):
+                p = self._to_product(raw)
+                if p:
+                    out.append(p)
+        self._lookup_cache[query] = out[:12]
+        return self._lookup_cache[query]
 
 
 def _walk_products(node):
@@ -114,6 +131,21 @@ def _walk_products(node):
     elif isinstance(node, list):
         for v in node:
             yield from _walk_products(v)
+
+
+_MODEL = re.compile(r"\b(?=[A-Za-z0-9/+\-]*\d)(?=[A-Za-z0-9/+\-]*[A-Za-z])"
+                    r"[A-Za-z0-9][A-Za-z0-9/+\-]{4,}\b")
+
+
+def extract_model(name: str | None) -> str | None:
+    """Saca el token de modelo del fabricante de un título (alfanumérico con
+    letras y dígitos, p. ej. OLED55C5PSA, WA21B3554GV)."""
+    if not name:
+        return None
+    cands = [m.group(0) for m in _MODEL.finditer(name)]
+    if not cands:
+        return None
+    return max(cands, key=len)
 
 
 def _f(v) -> float | None:

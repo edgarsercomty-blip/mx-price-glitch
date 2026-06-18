@@ -49,6 +49,7 @@ class HomeDepotAdapter(StoreAdapter):
         self._session.headers.update({"User-Agent": UA,
                                       "Accept": "application/json"})
         self._build_id: str | None = None
+        self._lookup_cache: dict[str, list[Product]] = {}
 
     # ---- fetch: directo y, si falla, vía Bright Data ----
     def _get_text(self, url: str) -> str | None:
@@ -145,10 +146,50 @@ class HomeDepotAdapter(StoreAdapter):
                     url=f"{self.base}{href}",
                     price=offer,
                     list_price=display,
+                    model=entry.get("identifier.mpn.raw"),
                     brand=entry.get("manufacturer"),
                     available=str(entry.get("buyable")).lower() == "true",
                     extra={"partNumber": pn},
                 )
+
+    # ---- lookup: precio actual por texto/modelo (para verificación cruzada) ----
+    def _prices_by_part(self, part_numbers: list[str]) -> dict[str, float]:
+        if not part_numbers:
+            return {}
+        qs = "&".join(f"partNumber={quote(pn)}" for pn in part_numbers)
+        url = (f"{self.base}/wcs/resources/store/{self.store_id}"
+               f"/price?q=byPartNumbers&{qs}&currency=MXN")
+        data = self._get_json(url)
+        out: dict[str, float] = {}
+        if isinstance(data, dict):
+            for ep in data.get("EntitledPrice") or []:
+                pn = ep.get("partNumber")
+                up = (ep.get("UnitPrice") or [{}])[0].get("price", {})
+                val = _f(up.get("value"))
+                if pn and val:
+                    out[pn] = val
+        return out
+
+    def lookup(self, query: str) -> list[Product]:
+        if query in self._lookup_cache:
+            return self._lookup_cache[query]
+        entries = self._search(query)[:8]
+        by_pn = {e.get("partNumber"): e for e in entries if e.get("partNumber")}
+        prices = self._prices_by_part(list(by_pn))
+        out: list[Product] = []
+        for pn, e in by_pn.items():
+            price = prices.get(pn)
+            if not price:
+                continue
+            seo = e.get("seo") or {}
+            out.append(Product(
+                store=self.key, name=e.get("name") or pn,
+                url=f"{self.base}{seo.get('href', '')}", price=price,
+                model=e.get("identifier.mpn.raw"), brand=e.get("manufacturer"),
+                extra={"partNumber": pn},
+            ))
+        self._lookup_cache[query] = out
+        return out
 
 
 def _find_price_lists(node, _depth: int = 0):

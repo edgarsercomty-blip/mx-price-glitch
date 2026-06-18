@@ -24,3 +24,9 @@ class StoreAdapter:
 
     def scan(self) -> Iterable[Product]:
         raise NotImplementedError
+
+    def lookup(self, query: str) -> list["Product"]:
+        """Busca productos por texto libre (p. ej. un modelo) y devuelve sus
+        precios ACTUALES. Lo usa la verificación cruzada entre tiendas.
+        Por defecto vacío; cada tienda lo implementa si puede."""
+        return []

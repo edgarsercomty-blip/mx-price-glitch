@@ -13,6 +13,7 @@ class Product:
     price: float                    # precio actual (lo que pagas)
     list_price: Optional[float] = None   # precio de lista / antes
     ean: Optional[str] = None       # código de barras (para cruce entre tiendas)
+    model: Optional[str] = None     # modelo/MPN del fabricante (llave de cruce sin EAN)
     brand: Optional[str] = None
     available: bool = True
     currency: str = "MXN"

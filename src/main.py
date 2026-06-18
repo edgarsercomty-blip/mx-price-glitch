@@ -22,6 +22,7 @@ from .adapters import build_adapter
 from .detect import Finding
 from .models import Product
 from .report import write_new_report, write_outputs
+from .verify import verify
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "stores.yaml"
@@ -86,8 +87,12 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     threshold = threshold if threshold is not None else cfg.get(
         "threshold_pct", detect.DEFAULT_THRESHOLD)
     max_pct = float(cfg.get("max_discount_pct", detect.DEFAULT_MAX))
+    verify_cross = bool(cfg.get("verify_cross_store", True))
+    candidate_min = float(cfg.get("candidate_min_pct", 30))
+    confirm_pct = float(cfg.get("cross_confirm_pct", threshold))
 
     products: list[Product] = []
+    adapters: dict = {}
     if dry_run:
         os.environ["DRY_RUN"] = "1"
         print("DRY_RUN: usando fixtures locales")
@@ -99,6 +104,7 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             if not store_cfg.get("enabled", True):
                 continue
             adapter = build_adapter(key, store_cfg)
+            adapters[key] = adapter
             print(f"-> escaneando {adapter.name} ({adapter.quality})...")
             try:
                 got = list(adapter.scan())
@@ -109,8 +115,20 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             products.extend(got)
 
     print(f"Total productos: {len(products)}")
-    findings = detect.detect(products, threshold, max_pct)
-    print(f"Hallazgos {threshold:.0f}%-{max_pct:.0f}%: {len(findings)}")
+
+    if verify_cross and not dry_run:
+        # candidatos por descuento propio -> confirmar contra otras tiendas
+        candidates = detect.own_discount(products, candidate_min, max_pct)
+        print(f"Candidatos (desc. propio >= {candidate_min:.0f}%): "
+              f"{len(candidates)} -> verificando contra otras tiendas...")
+        findings = verify(candidates, adapters, confirm_pct)
+        findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
+        findings.sort(key=lambda f: f.discount_pct, reverse=True)
+        print(f"Confirmados más baratos que la competencia (>= "
+              f"{confirm_pct:.0f}%): {len(findings)}")
+    else:
+        findings = detect.detect(products, threshold, max_pct)
+        print(f"Hallazgos {threshold:.0f}%-{max_pct:.0f}%: {len(findings)}")
 
     # solo lo NUEVO respecto a corridas anteriores (estado en data/seen.json)
     new = [] if dry_run else split_new(findings)
@@ -118,8 +136,9 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
         new = findings
     print(f"Nuevos: {len(new)}")
 
+    shown_threshold = confirm_pct if (verify_cross and not dry_run) else threshold
     results_path, report_path = write_outputs(
-        findings, ROOT / "data", len(products), threshold)
+        findings, ROOT / "data", len(products), shown_threshold)
     write_new_report(new, ROOT / "data")
     print(f"Escrito: {results_path}")
     print(f"Escrito: {report_path}")

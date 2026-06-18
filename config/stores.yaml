@@ -11,6 +11,13 @@
 threshold_pct: 50          # % mínimo de diferencia para reportar (incluye 50%)
 max_discount_pct: 99       # % máximo: arriba de esto suele ser error de dato, se ignora
 
+# Verificación cruzada: en vez de confiar en el "precio antes" del mismo
+# vendedor (que suele estar inflado), se busca el MISMO modelo en otras tiendas
+# y solo se reporta si está de verdad más barato que el mercado.
+verify_cross_store: true
+candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
+cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para confirmar
+
 stores:
   homedepot:
     name: The Home Depot MX
