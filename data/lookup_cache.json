@@ -3368,5 +3368,214 @@
         "model": "RMA300FZMRX0"
       }
     ]
+  },
+  "homedepot|100ML": {
+    "ts": "2026-06-19T02:20:17.675812+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "PROTECTOR PARA VENTANA CONTEMPO 100 X 100 CM CHOCOLATE",
+        "url": "https://www.homedepot.com.mx/p/gen-steel-protector-para-ventana-contempo-100-x-100-cm-chocolate-contempo-145532",
+        "price": 1649.0,
+        "model": "145532"
+      }
+    ]
+  },
+  "liverpool|100ML": {
+    "ts": "2026-06-19T02:20:19.587250+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Kit eau de parfum Perry Ellis 360 Coral para mujer",
+        "url": "https://liverpool.com.mx/tienda/pdp/Kit-eau-de-parfum-Perry-Ellis-360-Coral-para-mujer/1171786416",
+        "price": 939.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Mustela crema contra rozaduras 100ml",
+        "url": "https://liverpool.com.mx/tienda/pdp/Mustela-crema-contra-rozaduras-100ml/1029679858",
+        "price": 167.2,
+        "model": "100ml"
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Benetton para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Benetton-para-hombre/1140618175",
+        "price": 412.42,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Versace Eros para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Versace-Eros-para-hombre/1127606433",
+        "price": 3800.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Abercrombie & Fitch Authentic para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Abercrombie-&-Fitch-Authentic-para-hombre/1082842663",
+        "price": 660.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de parfum bharara Mast Perfume para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-bharara-Mast-Perfume-para-hombre/1184885324",
+        "price": 796.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de parfum Carlo Corinto One Man para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Carlo-Corinto-One-Man-para-hombre/1175421901",
+        "price": 738.56,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Kit Eau de toilette Carolina Herrera para mujer",
+        "url": "https://liverpool.com.mx/tienda/pdp/Kit-Eau-de-toilette-Carolina-Herrera-para-mujer/1195121059",
+        "price": 3400.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de parfum Abercrombie & Fitch Authentic para mujer",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Abercrombie-&-Fitch-Authentic-para-mujer/1082842671",
+        "price": 1850.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Carlo Corinto Black para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Carlo-Corinto-Black-para-hombre/1014195650",
+        "price": 663.73,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Abercrombie & Fitch Intinct Together para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Abercrombie-&-Fitch-Intinct-Together-para-hombre/1173842500",
+        "price": 954.04,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Set Eau de toilette Moschino Toy 2 para mujer",
+        "url": "https://liverpool.com.mx/tienda/pdp/Set-Eau-de-toilette-Moschino-Toy-2-para-mujer/1172034191",
+        "price": 1726.61,
+        "model": null
+      }
+    ]
+  },
+  "amazon|100ML": {
+    "ts": "2026-06-19T02:20:22.032764+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Garnier Skin Naturals Face Agua Micelar Desmaquillante Bifasica con Aceite, 100 ml, Paquete de 1",
+        "url": "https://www.amazon.com.mx/dp/B07BYNMTBY",
+        "price": 28.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garnier Active Agua Micelar Desmaquillante para Todo Tipo de Piel - 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B078HYWLG7",
+        "price": 25.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NIVEA Body Crema Corporal humectante Soft Milk (100 ml), 48 horas de Humectación y Suavidad Profunda con manteca de Karité ideal para Piel Seca",
+        "url": "https://www.amazon.com.mx/dp/B007ZTRLZG",
+        "price": 30.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vaseline - Crema Corporal, Hidrata y Nutre La Piel Seca, 100 ml, Deep Restore",
+        "url": "https://www.amazon.com.mx/dp/B0068OTLFW",
+        "price": 32.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Elvive Tratamiento en Aceite L'Oréal Paris Óleo Extraordinario pelo más suave y con brillo intenso con 6 óleos de flores preciosas, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B09Y9KJ16N",
+        "price": 154.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Aqua Net Fijador Ceramida Spray, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B06XB1PLHR",
+        "price": 37.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pert - Crema para Peinar Keratina y Aguacate, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B0CN1QRSQ8",
+        "price": 21.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garnier Skin Active Kit Agua micelar desmaquillante Todo-en-1, 400ml + 100ml",
+        "url": "https://www.amazon.com.mx/dp/B09J632RB1",
+        "price": 100.0,
+        "model": "Todo-en-1"
+      },
+      {
+        "store": "amazon",
+        "name": "PERT, Crema para Peinar Olivo y Aguacate | Ayuda a reparar profundamente el cabello maltratado, sellando las puntas abiertas, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B0CN1S9B3B",
+        "price": 20.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Avène Cicalfate+ Crema Reparadora 100 ml | Calma, protege y ayuda a recuperar piel irritada, Con Agua Termal, Uso diario para toda la familia",
+        "url": "https://www.amazon.com.mx/dp/B00UO5OQ8S",
+        "price": 210.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Voyage Eau de Toilette para Hombre, Multicolor, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B000P22TIY",
+        "price": 244.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garnier Express Aclara Vitamina C Serum Limpiador Facial Espumoso Iluminador Antimanchas 100ml. Limpia a profundidad sin resecar la piel. Para todo tipo de piel.",
+        "url": "https://www.amazon.com.mx/dp/B0GFBFM1C5",
+        "price": 92.94,
+        "model": "100ml"
+      }
+    ]
+  },
+  "amazon|WD5S1645BT": {
+    "ts": "2026-06-19T02:20:34.152429+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "DC97-16931B Perilla de control compatible con lavadora o secadora Samsung, conjunto de perilla DC97-16068A DC97-16068B DC97-16068D DC97-16931A DC97-16931B DC97-17292A, garantía de un año",
+        "url": "https://www.amazon.com.mx/dp/B0C7NYWDD5",
+        "price": 353.77,
+        "model": "DC97-16931B"
+      },
+      {
+        "store": "amazon",
+        "name": "Motor Secado Turbina Lavasecadora Hisense 2182395 Original",
+        "url": "https://www.amazon.com.mx/dp/B0F9DXDL46",
+        "price": 880.0,
+        "model": null
+      }
+    ]
   }
 }
