@@ -75,6 +75,11 @@ stores:
       - reloj
       - bicicleta
       - juguete
+      - iphone
+      - ipad
+      - macbook
+      - airpods
+      - apple watch
 
   # --- deshabilitadas hasta tener extractor real ---
   coppel:
@@ -101,6 +106,12 @@ stores:
       - cartera
       - smartwatch
       - licuadora
+      - celular
+      - laptop
+      - iphone
+      - ipad
+      - airpods
+      - apple watch
   amazon:
     name: Amazon MX
     type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon
@@ -135,6 +146,11 @@ stores:
       - reloj
       - bicicleta
       - juguete
+      - iphone
+      - ipad
+      - macbook
+      - airpods
+      - apple watch
   sams:
     name: Sam's Club MX
     type: sams                 # mismo platform que Walmart (vía Bright Data)
@@ -151,6 +167,11 @@ stores:
       - cafetera
       - bicicleta
       - vino
+      - celular
+      - iphone
+      - ipad
+      - macbook
+      - airpods
   suburbia:
     name: Suburbia
     type: jsonld
