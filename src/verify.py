@@ -158,6 +158,10 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         for key, ad in adapters.items():
             if key == p.store:
                 continue
+            # moda/genéricos (sin modelo): el match difuso contra tiendas que van
+            # por Bright Data es lento y poco confiable -> solo tiendas directas.
+            if not p.model and getattr(ad, "costly", False):
+                continue
             for op in _cached_lookup(ad, key, query, cache, ttl):
                 if (op.price > 0 and not is_refurbished(op.name)
                         and same_product(p, op)):

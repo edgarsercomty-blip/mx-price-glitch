@@ -18,6 +18,7 @@ class StoreAdapter:
     key: str = ""
     name: str = ""
     quality: str = "best_effort"
+    costly: bool = False        # True si cada lookup gasta Bright Data (lento/caro)
 
     def __init__(self, config: dict):
         self.config = config

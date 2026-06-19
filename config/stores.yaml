@@ -25,7 +25,7 @@ cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para co
 google_shopping:
   enabled: true
   min_pct: 30              # árbitro amplio: consulta Google para casi todos los candidatos con modelo
-  max_lookups: 30          # tope de consultas de RED por corrida (caché no cuenta)
+  max_lookups: 20          # tope de consultas de RED por corrida (caché no cuenta)
   cache_ttl_hours: 24      # vigencia del precio cacheado por modelo
 
 stores:

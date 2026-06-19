@@ -27,6 +27,7 @@ CARD = "div[data-asin][data-component-type='s-search-result']"
 
 class AmazonAdapter(StoreAdapter):
     quality = "solid"
+    costly = True               # siempre vía Bright Data (bloquea directo)
 
     def __init__(self, config: dict):
         super().__init__(config)

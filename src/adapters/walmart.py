@@ -33,6 +33,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 class WalmartAdapter(StoreAdapter):
     quality = "solid"
+    costly = True               # siempre vía Bright Data (bloquea directo)
 
     def __init__(self, config: dict):
         super().__init__(config)
