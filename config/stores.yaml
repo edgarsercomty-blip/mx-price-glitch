@@ -74,9 +74,18 @@ stores:
     urls: []
   amazon:
     name: Amazon MX
-    type: jsonld
-    enabled: false
-    urls: []
+    type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon
+    enabled: true
+    max_products_per_term: 48
+    search_terms:
+      - taladro
+      - pantalla
+      - laptop
+      - audifonos
+      - licuadora
+      - aspiradora
+      - smartwatch
+      - cafetera
   walmart:
     name: Walmart MX
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)

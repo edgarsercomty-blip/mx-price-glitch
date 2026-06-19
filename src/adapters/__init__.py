@@ -1,6 +1,7 @@
 """Registro de adaptadores: construye el adaptador correcto desde la config."""
 from __future__ import annotations
 
+from .amazon import AmazonAdapter
 from .base import StoreAdapter
 from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
@@ -14,6 +15,7 @@ _TYPES = {
     "homedepot": HomeDepotAdapter,
     "liverpool": LiverpoolAdapter,
     "walmart": WalmartAdapter,
+    "amazon": AmazonAdapter,
 }
 
 

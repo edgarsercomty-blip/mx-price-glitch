@@ -30,3 +30,10 @@ class StoreAdapter:
         precios ACTUALES. Lo usa la verificación cruzada entre tiendas.
         Por defecto vacío; cada tienda lo implementa si puede."""
         return []
+
+    def confirm_report(self, product: "Product") -> bool:
+        """Último filtro antes de reportar un hallazgo de ESTA tienda.
+        Por defecto siempre OK; tiendas como Amazon lo usan para exigir que el
+        producto sea vendido/enviado por la propia tienda. Puede hacer red, así
+        que solo se llama para los pocos hallazgos ya confirmados."""
+        return True

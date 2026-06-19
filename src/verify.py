@@ -130,6 +130,10 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         real = round((1 - p.price / cheapest.price) * 100, 1)
         if real < confirm_pct:
             continue                       # no es más barato que el mercado -> descuento falso
+        # último filtro por tienda (p. ej. Amazon: solo vendido/enviado por Amazon)
+        own_ad = adapters.get(p.store)
+        if own_ad is not None and not own_ad.confirm_report(p):
+            continue
         comp = ", ".join(_label(o) for o in sorted(others, key=lambda x: x.price)[:3])
         f.kind = "cross_confirmed"
         f.discount_pct = real
