@@ -18,7 +18,7 @@ verify_cross_store: true
 candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
 verify_max_candidates: 250 # tope de candidatos a verificar por corrida (repo público: Actions gratis)
 lookup_cache_ttl_hours: 48 # caché de precios de competencia (menos consultas Bright Data)
-cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para confirmar
+cross_confirm_pct: 20      # % por debajo de la rival más barata para confirmar (deals reales de mercado)
 
 # Árbitro extra: Google Shopping (agrega precios de muchos vendedores).
 # Requiere secret BRIGHTDATA_SERP_ZONE (zona tipo "SERP API" en Bright Data).
