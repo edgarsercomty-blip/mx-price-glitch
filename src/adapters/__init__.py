@@ -7,6 +7,7 @@ from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
 from .liverpool import LiverpoolAdapter
 from .palacio import PalacioAdapter
+from .sams import SamsAdapter
 from .vtex import VtexAdapter
 from .walmart import WalmartAdapter
 
@@ -18,6 +19,7 @@ _TYPES = {
     "walmart": WalmartAdapter,
     "amazon": AmazonAdapter,
     "palacio": PalacioAdapter,
+    "sams": SamsAdapter,
 }
 
 

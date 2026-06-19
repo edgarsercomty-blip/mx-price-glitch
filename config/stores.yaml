@@ -135,9 +135,20 @@ stores:
       - juguete
   sams:
     name: Sam's Club MX
-    type: jsonld
-    enabled: false
-    urls: []
+    type: sams                 # mismo platform que Walmart (vía Bright Data)
+    enabled: true
+    max_products_per_term: 60
+    search_terms:
+      - ofertas
+      - pantalla
+      - laptop
+      - audifonos
+      - refrigerador
+      - lavadora
+      - licuadora
+      - cafetera
+      - bicicleta
+      - vino
   suburbia:
     name: Suburbia
     type: jsonld

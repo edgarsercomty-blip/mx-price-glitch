@@ -19,12 +19,16 @@ import re
 from typing import Iterable
 from urllib.parse import quote
 
+import requests
+
 from .. import brightdata
 from ..models import Product
 from .base import StoreAdapter
 from .liverpool import extract_model
 
 _NEXT = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 
 class WalmartAdapter(StoreAdapter):
@@ -38,9 +42,19 @@ class WalmartAdapter(StoreAdapter):
         self.terms: list[str] = config.get("search_terms", [])
         self.max_per_term = int(config.get("max_products_per_term", 60))
         self._lookup_cache: dict[str, list[Product]] = {}
+        self._session = requests.Session()
+        self._session.headers.update({"User-Agent": UA})
 
     def _fetch_search(self, term: str) -> str | None:
         url = f"{self.base}/search?q={quote(term)}"
+        # directo primero (Sam's no bloquea; Walmart manda a /blocked -> fallback)
+        try:
+            r = self._session.get(url, timeout=25)
+            if (r.status_code == 200 and "/blocked" not in r.url
+                    and "__NEXT_DATA__" in r.text):
+                return r.text
+        except requests.RequestException:
+            pass
         try:
             return brightdata.fetch(url, country="mx", timeout=45, retries=2)
         except brightdata.FetchError as e:
@@ -84,7 +98,7 @@ class WalmartAdapter(StoreAdapter):
             if not html:
                 continue
             for raw in self._products_in(html)[: self.max_per_term]:
-                uid = raw.get("usItemId")
+                uid = raw.get("usItemId") or raw.get("canonicalUrl")
                 if uid and uid in seen:
                     continue
                 if uid:
