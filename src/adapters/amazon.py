@@ -35,6 +35,12 @@ class AmazonAdapter(StoreAdapter):
         self.base = config.get("base", "https://www.amazon.com.mx").rstrip("/")
         self.terms: list[str] = config.get("search_terms", [])
         self.max_per_term = int(config.get("max_products_per_term", 48))
+        # modo "deals": recorre la búsqueda con filtro de Ofertas (todas las
+        # categorías) en vez de términos fijos. "search": términos fijos.
+        self.scan_mode = config.get("scan_mode", "deals")
+        self.deals_pages = int(config.get("deals_pages", 5))
+        # filtro p_n_deal_type de Amazon MX (nodo "Ofertas")
+        self.deal_filter = config.get("deal_filter", "p_n_deal_type:23655121011")
         self._lookup_cache: dict[str, list[Product]] = {}
         self._direct_cache: dict[str, bool] = {}
 
@@ -69,10 +75,17 @@ class AmazonAdapter(StoreAdapter):
             ))
         return out
 
+    def _urls_to_scan(self) -> list[str]:
+        if self.scan_mode == "deals":
+            rh = quote(self.deal_filter, safe=":")
+            return [f"{self.base}/s?k=ofertas&rh={rh}&page={n}"
+                    for n in range(1, self.deals_pages + 1)]
+        return [f"{self.base}/s?k={quote(t)}" for t in self.terms]
+
     def scan(self) -> Iterable[Product]:
         seen: set[str] = set()
-        for term in self.terms:
-            html = self._fetch(f"{self.base}/s?k={quote(term)}")
+        for url in self._urls_to_scan():
+            html = self._fetch(url)
             if not html:
                 continue
             for p in self._parse_search(html)[: self.max_per_term]:

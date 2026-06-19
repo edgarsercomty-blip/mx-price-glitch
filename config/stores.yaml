@@ -76,16 +76,14 @@ stores:
     name: Amazon MX
     type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon
     enabled: true
+    scan_mode: deals           # recorre Ofertas de TODAS las categorías (no términos fijos)
+    deals_pages: 5             # páginas del filtro de ofertas a recorrer (~48 c/u)
     max_products_per_term: 48
-    search_terms:
+    search_terms:              # solo se usan si scan_mode: search
       - taladro
       - pantalla
       - laptop
       - audifonos
-      - licuadora
-      - aspiradora
-      - smartwatch
-      - cafetera
   walmart:
     name: Walmart MX
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)
