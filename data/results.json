@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19 23:16 UTC",
-  "products_scanned": 5415,
+  "generated_at": "2026-06-19 23:31 UTC",
+  "products_scanned": 3624,
   "threshold_pct": 20.0,
-  "count": 3,
+  "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -21,44 +21,6 @@
       "extra": {
         "id": "44318698",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$10,164 vs sams $15,344 -> -34% bajo la competencia (descuento propio 58%)",
-      "store": "liverpool",
-      "name": "Refrigerador top mount Hisense 16 pies cúbicos inverter no frost RT16N6DDX",
-      "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-top-mount-Hisense-16-pies-c%C3%BAbicos-inverter-no-frost-RT16N6DDX/1097286741",
-      "price": 10163.58,
-      "list_price": 24199.0,
-      "ean": null,
-      "model": "RT16N6DDX",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1097286741",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$3,375 vs sams $4,288 -> -21% bajo la competencia (descuento propio 55%)",
-      "store": "liverpool",
-      "name": "Frigobar Hisense RR43D6AGX1 4 pies cúbicos",
-      "url": "https://liverpool.com.mx/tienda/pdp/Frigobar-Hisense-RR43D6AGX1-4-pies-c%C3%BAbicos/1126618243",
-      "price": 3374.55,
-      "list_price": 7499.0,
-      "ean": null,
-      "model": "RR43D6AGX1",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1126618243",
-        "marketplace": "false"
       }
     }
   ]
