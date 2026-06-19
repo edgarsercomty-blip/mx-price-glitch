@@ -5202,5 +5202,489 @@
         "model": null
       }
     ]
+  },
+  "sams|10MIN": {
+    "ts": "2026-06-19T05:00:59.787024+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Jugo del Valle Kids Surtido Tetrapack 40 pzas de 200 ml c/u",
+        "url": "https://www.sams.com.mx/ip/jugo-del-valle-kids-surtido-tetrapack-40-pzas-de-200-ml-c-u/000356520",
+        "price": 265.98,
+        "model": null
+      }
+    ]
+  },
+  "sams|KLSW01": {
+    "ts": "2026-06-19T05:01:02.601599+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Arenero Inteligente para Gatos Vanmedin  para Interiores MSP-01",
+        "url": "https://www.sams.com.mx/ip/arenero-inteligente-para-gatos-vanmedin-para-interiores-msp-01/981034487",
+        "price": 11251.97,
+        "model": "MSP-01"
+      },
+      {
+        "store": "sams",
+        "name": "Multiestilizador para Cabello Dyson  Airwrap Origin 111952-01",
+        "url": "https://www.sams.com.mx/ip/multiestilizador-para-cabello-dyson-airwrap-origin-111952-01/981050232",
+        "price": 8693.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Labial Líquido Clarins  Lip Comfort Oil 01 Honey 7 ml",
+        "url": "https://www.sams.com.mx/ip/labial-liquido-clarins-lip-comfort-oil-01-honey-7-ml/981033005",
+        "price": 510.47,
+        "model": null
+      }
+    ]
+  },
+  "sams|MKZPANTA100MBLA": {
+    "ts": "2026-06-19T05:01:06.164873+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Chocolates M&Ms  con Leche Confitado 8 Piezas",
+        "url": "https://www.sams.com.mx/ip/chocolates-m-ms-con-leche-confitado-8-piezas/981033502",
+        "price": 129.91,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chocolates M&Ms  con Leche y Cacahuate Confitados 8 Piezas ",
+        "url": "https://www.sams.com.mx/ip/chocolates-m-ms-con-leche-y-cacahuate-confitados-8-piezas/981033503",
+        "price": 129.91,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Surtido de Chocolates Snickers, M&Ms y Milky Way  Caja con 14 Piezas",
+        "url": "https://www.sams.com.mx/ip/surtido-de-chocolates-snickers-m-ms-y-milky-way-caja-con-14-piezas/981033504",
+        "price": 208.68,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertizo de Jardín Keter 1.3 m x 1.1 m",
+        "url": "https://www.sams.com.mx/ip/cobertizo-de-jardin-keter-1-3-m-x-1-1-m/981003574",
+        "price": 4601.66,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tapete Unimat  Rizo Gris 6 m x 1.20 m",
+        "url": "https://www.sams.com.mx/ip/tapete-unimat-rizo-gris-6-m-x-1-20-m/981001470",
+        "price": 6675.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla M",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-m/981046296",
+        "price": 948.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Ajuste de Soga Kuma  8.23 m",
+        "url": "https://www.sams.com.mx/ip/ajuste-de-soga-kuma-8-23-m/980012740",
+        "price": 224.03,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Papel Aluminio Alupractik  400 m",
+        "url": "https://www.sams.com.mx/ip/papel-aluminio-alupractik-400-m/980006631",
+        "price": 741.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa Plegable Lifetime Portafolio de 1.5 m",
+        "url": "https://www.sams.com.mx/ip/mesa-plegable-lifetime-portafolio-de-1-5-m/000902512",
+        "price": 1224.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Papel Aluminio Alu Practik  180 m",
+        "url": "https://www.sams.com.mx/ip/papel-aluminio-alu-practik-180-m/980006632",
+        "price": 715.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Higuera Artificial Fatj  con Maceta 1.22 m",
+        "url": "https://www.sams.com.mx/ip/higuera-artificial-fatj-con-maceta-1-22-m/981040540",
+        "price": 1498.69,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa de Picnic Lifetime  Plegable 1.8 m",
+        "url": "https://www.sams.com.mx/ip/mesa-de-picnic-lifetime-plegable-1-8-m/000375715",
+        "price": 3066.94,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|STKL01": {
+    "ts": "2026-06-19T05:01:32.506639+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "CAROLINE 3/4 ROD 36-66 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/caroline-3-4-rod-36-66-nkl-stl-1018127-411-h65-157170",
+        "price": 599.0,
+        "model": "157170"
+      },
+      {
+        "store": "homedepot",
+        "name": "EMBLEM 5/8 ROD 28-48 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/emblem-5-8-rod-28-48-nkl-stl-1005946-411-h65-157153",
+        "price": 395.0,
+        "model": "157153"
+      },
+      {
+        "store": "homedepot",
+        "name": "CAROLINE 3/4 ROD 66-120 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/caroline-3-4-rod-66-120-nkl-stl-1018128-411-h65-157171",
+        "price": 699.0,
+        "model": "157171"
+      }
+    ]
+  },
+  "palacio|STKL01": {
+    "ts": "2026-06-19T05:01:32.818153+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Bocina portátil inalámbrica SRS XB100, Negro",
+        "url": "https://www.elpalaciodehierro.com/sony-bocina-portatil-inalambrica-srs-xb100-negro-44589575.html",
+        "price": 1132.21,
+        "model": "XB100"
+      },
+      {
+        "store": "palacio",
+        "name": "Labial The Inks Blur, 5.5 ml",
+        "url": "https://www.elpalaciodehierro.com/yves-saint-laurent-labial-the-inks-blur-5.5-ml-44483134.html",
+        "price": 990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino tinto ensamble Ursprung Cuvée, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-tinto-ensamble-ursprung-cuvee-alemania-750-ml-44894563.html",
+        "price": 378.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Delineador Lines Liberated, 0.35 g",
+        "url": "https://www.elpalaciodehierro.com/yves-saint-laurent-delineador-lines-liberated-0.35-g-44038614.html",
+        "price": 815.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "LP SE SCALP ADISCF SHP 500 R VG61",
+        "url": "https://www.elpalaciodehierro.com/loreal-professionnel-lp-se-scalp-adiscf-shp-500-r-vg61-44240499.html",
+        "price": 780.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino Blanco riesling, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-blanco-riesling-alemania-750-ml-44894565.html",
+        "price": 414.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Prospex SRPG19",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-prospex-srpg19-42004384.html",
+        "price": 12919.15,
+        "model": "SRPG19"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Prospex SLA075",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-luxe-prospex-sla075-43565436.html",
+        "price": 61379.1,
+        "model": "SLA075"
+      },
+      {
+        "store": "palacio",
+        "name": "Post it Transparentes CMYK",
+        "url": "https://www.elpalaciodehierro.com/suck-uk-post-it-transparentes-cmyk-45049651.html",
+        "price": 250.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calcetín Cerveza Stout 2",
+        "url": "https://www.elpalaciodehierro.com/suck-uk-calcetin-cerveza-stout-2-45049645.html",
+        "price": 590.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Subwoofer Activo RS1 100 W",
+        "url": "https://www.elpalaciodehierro.com/ruark-subwoofer-activo-rs1-100-w-43860676.html",
+        "price": 8999.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino blanco Sauvignon Blanc Kaitui, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-blanco-sauvignon-blanc-kaitui-alemania-750-ml-44894560.html",
+        "price": 456.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|STKL01": {
+    "ts": "2026-06-19T05:01:35.098191+00:00",
+    "items": []
+  },
+  "walmart|STKL01": {
+    "ts": "2026-06-19T05:01:48.519894+00:00",
+    "items": []
+  },
+  "sams|STKL01": {
+    "ts": "2026-06-19T05:01:50.543342+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Arenero Inteligente para Gatos Vanmedin  para Interiores MSP-01",
+        "url": "https://www.sams.com.mx/ip/arenero-inteligente-para-gatos-vanmedin-para-interiores-msp-01/981034487",
+        "price": 11251.97,
+        "model": "MSP-01"
+      },
+      {
+        "store": "sams",
+        "name": "Multiestilizador para Cabello Dyson  Airwrap Origin 111952-01",
+        "url": "https://www.sams.com.mx/ip/multiestilizador-para-cabello-dyson-airwrap-origin-111952-01/981050232",
+        "price": 8693.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Labial Líquido Clarins  Lip Comfort Oil 01 Honey 7 ml",
+        "url": "https://www.sams.com.mx/ip/labial-liquido-clarins-lip-comfort-oil-01-honey-7-ml/981033005",
+        "price": 510.47,
+        "model": null
+      }
+    ]
+  },
+  "sams|7R505DDS": {
+    "ts": "2026-06-19T05:02:56.251778+00:00",
+    "items": []
+  },
+  "sams|RD81100MD": {
+    "ts": "2026-06-19T05:02:59.538824+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Allegra D  60 mg/ 25 mg 10 Tabletas",
+        "url": "https://www.sams.com.mx/ip/allegra-d-60-mg-25-mg-10-tabletas/000294538",
+        "price": 306.9,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jarabe para la Tos Tukol-D  Adulto 2 pzas con 125 ml",
+        "url": "https://www.sams.com.mx/ip/jarabe-para-la-tos-tukol-d-adulto-2-pzas-con-125-ml/000823204",
+        "price": 270.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Suplemento de Calcio / Colecalciferol 600+D  90 Tabletas+",
+        "url": "https://www.sams.com.mx/ip/suplemento-de-calcio-colecalciferol-600-d-90-tabletas/980037042",
+        "price": 407.15,
+        "model": "600+D"
+      },
+      {
+        "store": "sams",
+        "name": "Desenfriol  D Antigripal con 48 Tabletas",
+        "url": "https://www.sams.com.mx/ip/desenfriol-d-antigripal-con-48-tabletas/980024682",
+        "price": 86.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cojín para Sala D' Sol a Sol Sand",
+        "url": "https://www.sams.com.mx/ip/cojin-para-sala-d-sol-a-sol-sand/980040540",
+        "price": 1124.27,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cojín Decorativo D' Sol a Sol Ladrillo",
+        "url": "https://www.sams.com.mx/ip/cojin-decorativo-d-sol-a-sol-ladrillo/980040546",
+        "price": 285.39,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cojín para Silla D' Sol a Sol Gris",
+        "url": "https://www.sams.com.mx/ip/cojin-para-silla-d-sol-a-sol-gris/980040286",
+        "price": 357.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sombrilla D' Sol a Sol  Caribe Blanco",
+        "url": "https://www.sams.com.mx/ip/sombrilla-d-sol-a-sol-caribe-blanco/981022651",
+        "price": 2119.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sombrilla D' Sol a Sol  Marquiz Sand",
+        "url": "https://www.sams.com.mx/ip/sombrilla-d-sol-a-sol-marquiz-sand/981022060",
+        "price": 3557.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sombrilla D' Sol a Sol  Maui Gris",
+        "url": "https://www.sams.com.mx/ip/sombrilla-d-sol-a-sol-maui-gris/981022674",
+        "price": 2934.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cojín Decorativo D' Sol a Sol Rojo",
+        "url": "https://www.sams.com.mx/ip/cojin-decorativo-d-sol-a-sol-rojo/980040536",
+        "price": 285.39,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sombrilla D' Sol a Sol  Maui Dove",
+        "url": "https://www.sams.com.mx/ip/sombrilla-d-sol-a-sol-maui-dove/981022688",
+        "price": 3824.28,
+        "model": null
+      }
+    ]
+  },
+  "sams|BUDS3": {
+    "ts": "2026-06-19T05:03:05.316310+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Samsung  Buds3 Blanco",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-samsung-buds3-blanco/981026340",
+        "price": 1779.0,
+        "model": "Buds3"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbrico Samsung  Buds3 Pro Grafito",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambrico-samsung-buds3-pro-grafito/981026763",
+        "price": 2999.0,
+        "model": "Buds3"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Samsung Galaxy Buds3 FE Gray",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-samsung-galaxy-buds3-fe-gray/981042523",
+        "price": 1799.0,
+        "model": "Buds3"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Samsung Galaxy Buds3 FE Black",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-samsung-galaxy-buds3-fe-black/981042521",
+        "price": 1799.0,
+        "model": "Buds3"
+      }
+    ]
+  },
+  "sams|4KUHD": {
+    "ts": "2026-06-19T05:03:12.240670+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL 75\" UHD 4K Google TV 75S451G",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-uhd-4k-google-tv-75s451g/981035387",
+        "price": 10799.0,
+        "model": "75S451G"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  58\" UHD 4K Smart TV UN58U8200FFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374",
+        "price": 9662.24,
+        "model": "UN58U8200FFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  55\" UHD 4K Google TV 55S454",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-55-uhd-4k-google-tv-55s454/981008742",
+        "price": 9308.28,
+        "model": "55S454"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla LG  55\" UHD 4K Smart TV UA8055",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-55-uhd-4k-smart-tv-ua8055/981051349",
+        "price": 8694.48,
+        "model": "UA8055"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla LG  75\" UHD 4K Smart TV UA8055",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-75-uhd-4k-smart-tv-ua8055/981052374",
+        "price": 12274.98,
+        "model": "UA8055"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla LG  75\" UHD AI 4K Smart TV 75UA7500PSA",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-75-uhd-ai-4k-smart-tv-75ua7500psa/981038753",
+        "price": 19231.35,
+        "model": "75UA7500PSA"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla LG  98\" UHD 4K Smart TV ThinQ AI 98UT9050PSA",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-98-uhd-4k-smart-tv-thinq-ai-98ut9050psa/981033142",
+        "price": 33757.98,
+        "model": "98UT9050PSA"
+      }
+    ]
+  },
+  "sams|UN98DU9000FXZX": {
+    "ts": "2026-06-19T05:03:16.189401+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  98\" UHD Smart TV Crystal UN98DU9000FXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-98-uhd-smart-tv-crystal-un98du9000fxzx/981022752",
+        "price": 39894.95,
+        "model": "UN98DU9000FXZX"
+      }
+    ]
+  },
+  "sams|75QM8K": {
+    "ts": "2026-06-19T05:03:19.114317+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  75\" QLED Mini LED Google TV 75QM5K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-qled-mini-led-google-tv-75qm5k/981041777",
+        "price": 15343.98,
+        "model": "75QM5K"
+      }
+    ]
+  },
+  "sams|RD21551LE": {
+    "ts": "2026-06-19T05:03:24.382427+00:00",
+    "items": []
   }
 }
