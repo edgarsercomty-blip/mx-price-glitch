@@ -131,46 +131,76 @@ def _cached_lookup(ad: StoreAdapter, store_key: str, query: str,
     return hits
 
 
+class _Pool:
+    """Índice en memoria de los productos ya escaneados, para comparar candidatos
+    SIN consultas de red. Por código de modelo (exacto) y por marca+tokens."""
+
+    def __init__(self, products: list[Product]):
+        self.by_model: dict[str, list[Product]] = {}
+        self.by_brand: dict[str, list[Product]] = {}
+        self._tok: dict[int, set[str]] = {}
+        for p in products:
+            if p.price <= 0:
+                continue
+            mn = _norm(p.model)
+            if len(mn) >= 5:
+                self.by_model.setdefault(mn, []).append(p)
+            bn = _norm(p.brand)
+            if bn:
+                self.by_brand.setdefault(bn, []).append(p)
+                self._tok[id(p)] = _tokens(p.name)
+
+    def matches(self, cand: Product, min_overlap: float = 0.55) -> list[Product]:
+        out: list[Product] = []
+        seen: set[int] = set()
+        cmn = _norm(cand.model)
+        if len(cmn) >= 5:
+            for p in self.by_model.get(cmn, []):
+                if p.store != cand.store and id(p) not in seen:
+                    seen.add(id(p)); out.append(p)
+        cbn = _norm(cand.brand)
+        if cbn:
+            ctok = _tokens(cand.name)
+            if ctok:
+                for p in self.by_brand.get(cbn, []):
+                    if p.store == cand.store or id(p) in seen:
+                        continue
+                    pt = self._tok.get(id(p)) or _tokens(p.name)
+                    if pt and len(ctok & pt) / len(ctok | pt) >= min_overlap:
+                        seen.add(id(p)); out.append(p)
+        return out
+
+
 def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
-           confirm_pct: float, google=None, google_min_pct: float = 45,
+           confirm_pct: float, pool: list[Product] | None = None,
+           google=None, google_min_pct: float = 45,
            google_max_lookups: int = 15,
            lookup_cache: dict | None = None,
-           lookup_ttl_hours: float = 12) -> list[Finding]:
-    """Devuelve solo los candidatos confirmados más baratos que otra tienda,
-    anotando en el detalle los precios de la competencia.
-
-    Si `google` (GoogleShopping) está disponible, se usa como árbitro extra solo
-    para los candidatos de mayor descuento propio (>= google_min_pct) y dentro
-    del presupuesto google_max_lookups (consultas de red por corrida)."""
-    # primero los de mayor descuento propio (para que el presupuesto de Google
-    # se gaste en los más prometedores)
+           lookup_ttl_hours: float = 48,
+           net_fallback: int = 40) -> list[Finding]:
+    """Confirma candidatos más baratos que el mercado. Estrategia:
+    1) comparar contra el POOL ya escaneado (gratis, en memoria);
+    2) Google Shopping como árbitro (con modelo, presupuesto);
+    3) red como respaldo ACOTADO (`net_fallback` candidatos sin match en pool)."""
     candidates = sorted(candidates,
                         key=lambda f: f.product.discount_pct or 0, reverse=True)
+    idx = _Pool(pool or [])
     cache = lookup_cache if lookup_cache is not None else {}
     ttl = timedelta(hours=lookup_ttl_hours)
     confirmed: list[Finding] = []
-    n_matched = 0                          # diagnóstico: candidatos con ≥1 comparable
-    best_diffs: list[tuple[float, str]] = []  # (cross%, etiqueta) aunque no confirmen
+    n_matched = 0
+    net_used = 0
+    best_diffs: list[tuple[float, str]] = []
     for f in candidates:
         p = f.product
         query = _query_for(p)
         if not query:
-            continue                       # sin modelo no se puede cruzar
-        others: list[Product] = []
-        for key, ad in adapters.items():
-            if key == p.store:
-                continue
-            # moda/genéricos (sin modelo): el match difuso contra tiendas que van
-            # por Bright Data es lento y poco confiable -> solo tiendas directas.
-            if not p.model and getattr(ad, "costly", False):
-                continue
-            for op in _cached_lookup(ad, key, query, cache, ttl):
-                if (op.price > 0 and not is_refurbished(op.name)
-                        and same_product(p, op)):
-                    others.append(op)
+            continue
+        # 1) pool en memoria (gratis)
+        others: list[Product] = [op for op in idx.matches(p)
+                                 if not is_refurbished(op.name)]
 
-        # árbitro extra: Google Shopping. Solo con código de modelo (puede
-        # emparejar por título) y dentro del presupuesto de red por corrida.
+        # 2) Google Shopping (con modelo, presupuesto)
         if (google is not None and p.model
                 and (p.discount_pct or 0) >= google_min_pct):
             budget_left = google_max_lookups - google.calls
@@ -179,8 +209,19 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
                         and same_product(p, gp)):
                     others.append(gp)
 
+        # 3) respaldo de red acotado: solo si no hubo match y tiene modelo
+        if not others and p.model and net_used < net_fallback:
+            net_used += 1
+            for key, ad in adapters.items():
+                if key == p.store:
+                    continue
+                for op in _cached_lookup(ad, key, query, cache, ttl):
+                    if (op.price > 0 and not is_refurbished(op.name)
+                            and same_product(p, op)):
+                        others.append(op)
+
         if not others:
-            continue                       # no se encontró en otra tienda -> no confirmable
+            continue
         n_matched += 1
         cheapest = min(others, key=lambda x: x.price)
         real = round((1 - p.price / cheapest.price) * 100, 1)
@@ -201,7 +242,7 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
 
     # diagnóstico: ayuda a entender por qué hay (o no) confirmados
     print(f"   [verify] candidatos={len(candidates)} con_comparable={n_matched} "
-          f"confirmados={len(confirmed)}")
+          f"confirmados={len(confirmed)} (red usada={net_used})")
     for diff, label in sorted(best_diffs, reverse=True)[:8]:
         print(f"   [verify] mejor: {label}")
 

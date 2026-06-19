@@ -161,10 +161,11 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
         lookup_ttl = float(cfg.get("lookup_cache_ttl_hours", 12))
 
         findings = verify(
-            candidates, adapters, confirm_pct, google=google,
+            candidates, adapters, confirm_pct, pool=products, google=google,
             google_min_pct=float(gcfg.get("min_pct", 45)),
             google_max_lookups=int(gcfg.get("max_lookups", 15)),
-            lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl)
+            lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
+            net_fallback=int(cfg.get("net_fallback", 40)))
 
         # purga entradas vencidas y guarda el caché de lookups
         _prune_lookup_cache(lookup_cache, lookup_ttl)
