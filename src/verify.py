@@ -12,6 +12,7 @@ falsos del propio vendedor.
 from __future__ import annotations
 
 import re
+import unicodedata
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
@@ -19,9 +20,36 @@ from .adapters.base import StoreAdapter
 from .detect import Finding, is_refurbished
 from .models import Product
 
+# palabras vacías / atributos que no identifican el producto
+_STOP = set((
+    "para con sin de del la el los las un una y o en por al su mas plus pro "
+    "color negro blanco azul rojo gris verde rosa dorado plata plateado "
+    "talla chico mediano grande chica modelo nuevo edicion set kit pack pza "
+    "pzas piezas pieza cm mm pulgadas pulgada lts lt ml kg gr gramos litros "
+    "hombre mujer unisex nino nina paquete incluye"
+).split())
+
 
 def _norm(s: str | None) -> str:
     return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
+
+
+def _strip(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", s)
+                   if unicodedata.category(c) != "Mn")
+
+
+def _tokens(s: str | None) -> set[str]:
+    s = _strip(s or "").lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    return {t for t in s.split() if len(t) > 2 and t not in _STOP}
+
+
+def _overlap(a: str, b: str) -> float:
+    ta, tb = _tokens(a), _tokens(b)
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / len(ta | tb)
 
 
 def models_match(a: str | None, b_model: str | None, b_name: str | None) -> bool:
@@ -34,6 +62,21 @@ def models_match(a: str | None, b_model: str | None, b_name: str | None) -> bool
             continue
         if na == cand or (len(na) >= 6 and na in cand):
             return True
+    return False
+
+
+def same_product(cand: Product, other: Product, min_overlap: float = 0.55) -> bool:
+    """¿`cand` y `other` son el MISMO producto? Primero por código de modelo;
+    si no hay, por marca igual + alto solape de tokens del título (cubre moda y
+    genéricos donde no hay código de modelo)."""
+    if cand.model and models_match(cand.model, other.model, other.name):
+        return True
+    if other.model and models_match(other.model, cand.model, cand.name):
+        return True
+    if (cand.brand and other.brand
+            and _norm(cand.brand) == _norm(other.brand)
+            and _overlap(cand.name, other.name) >= min_overlap):
+        return True
     return False
 
 
@@ -53,10 +96,14 @@ def _label(o: Product) -> str:
 
 
 def _query_for(p: Product) -> str | None:
-    model = p.model
-    if model and len(_norm(model)) >= 5:
-        return model
-    return None
+    """Consulta para buscar el producto en otras tiendas: el modelo si existe;
+    si no, marca + tokens distintivos del título (para moda/genéricos)."""
+    if p.model and len(_norm(p.model)) >= 5:
+        return p.model
+    toks = sorted(_tokens(p.name), key=len, reverse=True)[:4]
+    parts = ([p.brand] if p.brand else []) + toks
+    q = " ".join(parts).strip()
+    return q or None
 
 
 def _cached_lookup(ad: StoreAdapter, store_key: str, query: str,
@@ -113,15 +160,17 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
                 continue
             for op in _cached_lookup(ad, key, query, cache, ttl):
                 if (op.price > 0 and not is_refurbished(op.name)
-                        and models_match(query, op.model, op.name)):
+                        and same_product(p, op)):
                     others.append(op)
 
-        # árbitro extra: Google Shopping (solo top candidatos + presupuesto)
-        if google is not None and (p.discount_pct or 0) >= google_min_pct:
+        # árbitro extra: Google Shopping. Solo con código de modelo (puede
+        # emparejar por título) y dentro del presupuesto de red por corrida.
+        if (google is not None and p.model
+                and (p.discount_pct or 0) >= google_min_pct):
             budget_left = google_max_lookups - google.calls
             for gp in google.lookup(query, budget_left):
                 if (gp.price > 0 and not is_refurbished(gp.name)
-                        and models_match(query, None, gp.name)):
+                        and same_product(p, gp)):
                     others.append(gp)
 
         if not others:

@@ -40,16 +40,17 @@ class PalacioAdapter(StoreAdapter):
         self.cnstrc_key = config.get("cnstrc_key", "key_5fTaaMhNEscECxIa")
         self.terms: list[str] = config.get("search_terms", [])
         self.num = int(config.get("num_results_per_page", 50))
+        self.pages = int(config.get("pages_per_term", 1))
         self._session = requests.Session()
         self._session.headers.update({"User-Agent": UA, "Accept": "application/json"})
         self._lookup_cache: dict[str, list[Product]] = {}
 
-    def _api_url(self, query: str) -> str:
+    def _api_url(self, query: str, page: int = 1) -> str:
         return (f"{API}/{quote(query)}?key={self.cnstrc_key}"
-                f"&num_results_per_page={self.num}&c=ciojs&i=mxprice&s=1")
+                f"&num_results_per_page={self.num}&page={page}&c=ciojs&i=mxprice&s=1")
 
-    def _get_json(self, query: str):
-        url = self._api_url(query)
+    def _get_json(self, query: str, page: int = 1):
+        url = self._api_url(query, page)
         try:
             r = self._session.get(url, timeout=25)
             if r.status_code == 200:
@@ -62,8 +63,8 @@ class PalacioAdapter(StoreAdapter):
         except (brightdata.FetchError, ValueError):
             return None
 
-    def _results(self, query: str) -> list[dict]:
-        data = self._get_json(query)
+    def _results(self, query: str, page: int = 1) -> list[dict]:
+        data = self._get_json(query, page)
         if not isinstance(data, dict):
             return []
         return (data.get("response") or {}).get("results") or []
@@ -91,15 +92,19 @@ class PalacioAdapter(StoreAdapter):
     def scan(self) -> Iterable[Product]:
         seen: set[str] = set()
         for term in self.terms:
-            for r in self._results(term):
-                p = self._to_product(r)
-                if not p:
-                    continue
-                pid = (p.extra or {}).get("id") or p.url
-                if pid in seen:
-                    continue
-                seen.add(pid)
-                yield p
+            for page in range(1, self.pages + 1):
+                results = self._results(term, page)
+                if not results:
+                    break
+                for r in results:
+                    p = self._to_product(r)
+                    if not p:
+                        continue
+                    pid = (p.extra or {}).get("id") or p.url
+                    if pid in seen:
+                        continue
+                    seen.add(pid)
+                    yield p
 
     def lookup(self, query: str) -> list[Product]:
         if query in self._lookup_cache:
