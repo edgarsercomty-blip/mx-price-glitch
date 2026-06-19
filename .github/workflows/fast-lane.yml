@@ -1,41 +1,44 @@
-name: Cazador de errores de precio MX
+name: Carril rápido (Liverpool + Palacio)
+
+# Solo tiendas DIRECTAS (sin Bright Data) -> corre en ~2-3 min y gratis, para
+# cazar glitches casi en tiempo real donde más han salido (Liverpool/Palacio).
+# El escaneo completo de las 6 tiendas vive en price-check.yml (cada 6h).
 
 on:
   schedule:
-    - cron: "0 */6 * * *"      # cada 6 horas (holgado dentro de los minutos gratis de Actions en repo privado)
-  workflow_dispatch: {}        # también se puede correr a mano (Run workflow)
+    - cron: "*/15 * * * *"     # cada 15 min (GitHub puede retrasar/agrupar)
+  workflow_dispatch: {}
 
 permissions:
-  contents: write              # para commitear data/
-  issues: write                # para abrir el Issue con hallazgos
+  contents: write
+  issues: write
 
+# mismo grupo que el completo: nunca corren a la vez (evita choques al commitear)
 concurrency:
   group: price-check
   cancel-in-progress: false
 
 env:
-  NOTIFY_USER: edgarsercomty-blip   # a quién se asigna/menciona (push en la app de GitHub)
+  NOTIFY_USER: edgarsercomty-blip
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Escanear tiendas y detectar
+      - name: Escanear (Liverpool + Palacio)
         id: scan
         env:
           BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
           BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
           BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
-        run: python -m src.main
+        run: python -m src.main --stores liverpool,palacio
 
       - name: Guardar resultados/estado en el repo
         run: |
@@ -46,20 +49,18 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sin cambios en data/"
           else
-            git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Carril rápido $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
 
-      # Solo notifica si hay hallazgos NUEVOS (no vistos en corridas previas).
-      # Se asigna y menciona al usuario -> la app de GitHub manda push al teléfono.
       - name: Notificar nuevos (Issue asignado)
         if: ${{ steps.scan.outputs.new != '0' && steps.scan.outputs.new != '' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          printf '@%s nuevos posibles errores de precio 👇\n\n' "$NOTIFY_USER" > body.md
+          printf '@%s ⚡ nuevos posibles errores (carril rápido) 👇\n\n' "$NOTIFY_USER" > body.md
           cat data/new.md >> body.md
           gh issue create \
-            --title "💸 ${{ steps.scan.outputs.new }} nuevos errores de precio — $(date -u +'%Y-%m-%d %H:%M UTC')" \
+            --title "⚡💸 ${{ steps.scan.outputs.new }} nuevos errores de precio — $(date -u +'%Y-%m-%d %H:%M UTC')" \
             --body-file body.md \
             --assignee "$NOTIFY_USER"
