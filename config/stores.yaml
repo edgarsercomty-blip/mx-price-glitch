@@ -16,7 +16,8 @@ max_discount_pct: 99       # % máximo: arriba de esto suele ser error de dato, 
 # y solo se reporta si está de verdad más barato que el mercado.
 verify_cross_store: true
 candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
-verify_max_candidates: 60  # tope de candidatos a verificar por corrida (los de mayor desc.)
+verify_max_candidates: 250 # tope de candidatos a verificar por corrida (repo público: Actions gratis)
+lookup_cache_ttl_hours: 48 # caché de precios de competencia (menos consultas Bright Data)
 cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para confirmar
 
 # Árbitro extra: Google Shopping (agrega precios de muchos vendedores).
@@ -25,8 +26,8 @@ cross_confirm_pct: 25      # % por debajo de la tienda rival más barata para co
 google_shopping:
   enabled: true
   min_pct: 30              # árbitro amplio: consulta Google para casi todos los candidatos con modelo
-  max_lookups: 20          # tope de consultas de RED por corrida (caché no cuenta)
-  cache_ttl_hours: 24      # vigencia del precio cacheado por modelo
+  max_lookups: 40          # tope de consultas de RED por corrida (caché no cuenta)
+  cache_ttl_hours: 48      # vigencia del precio cacheado por modelo
 
 stores:
   homedepot:
