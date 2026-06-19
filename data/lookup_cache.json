@@ -5686,5 +5686,382 @@
   "sams|RD21551LE": {
     "ts": "2026-06-19T05:03:24.382427+00:00",
     "items": []
+  },
+  "palacio|TL18KG": {
+    "ts": "2026-06-19T10:58:02.726143+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Batería de cocina en aluminio Supercook 22 Piezas, Negro",
+        "url": "https://www.elpalaciodehierro.com/t-fal-bateria-de-cocina-en-aluminio-supercook-22-piezas-negro-45485032.html",
+        "price": 3599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén en Aluminio Delight Mineralia 28 cm",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-mineralia-28-cm-42893721.html",
+        "price": 1439.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén en aluminio Delight 24 cm Beige",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-24-cm-beige-42893720.html",
+        "price": 1119.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lechero 14 Hard Titanium Plus",
+        "url": "https://www.elpalaciodehierro.com/t-fal-lechero-14-hard-titanium-plus-43049395.html",
+        "price": 599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vela Aromática Giambattista Valli Positano",
+        "url": "https://www.elpalaciodehierro.com/trudon-vela-aromatica-giambattista-valli-positano-44740928.html",
+        "price": 1860.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Suplemento alimenticio Toronjil, 60 cápsulas",
+        "url": "https://www.elpalaciodehierro.com/tiba-salud-suplemento-alimenticio-toronjil-60-capsulas-45021757.html",
+        "price": 370.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vela Aromática Salta, 270 gr",
+        "url": "https://www.elpalaciodehierro.com/trudon-vela-aromatica-salta-270-gr-44740956.html",
+        "price": 1860.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora Mabe Diamond 22 Kg",
+        "url": "https://www.elpalaciodehierro.com/mabe-secadora-mabe-diamond-22-kg-41637768.html",
+        "price": 14135.38,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén redondo en aluminio Excellence+ 20 cm negro",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-redondo-en-aluminio-excellence-20-cm-negro-45370401.html",
+        "price": 1199.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Perfume Assoluto Tyl, Extracto de Perfume 100 ml Unisex",
+        "url": "https://www.elpalaciodehierro.com/tiziana-terenzi-perfume-assoluto-tyl-extracto-de-perfume-100-ml-unisex-44677883.html",
+        "price": 18500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aceite de Wasabi, 170 g",
+        "url": "https://www.elpalaciodehierro.com/yamato-aceite-de-wasabi-170-g-43553971.html",
+        "price": 1050.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro rosa de 18 kilates Belle Époque Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-rosa-de-18-kilates-belle-epoque-mujer-45190479.html",
+        "price": 44500.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TL18KG": {
+    "ts": "2026-06-19T10:58:04.741312+00:00",
+    "items": []
+  },
+  "sams|TL18KG": {
+    "ts": "2026-06-19T10:58:07.933359+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Whisky Ballantine's  1 l",
+        "url": "https://www.sams.com.mx/ip/whisky-ballantine-s-1-l/000172894",
+        "price": 284.39,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Smirnoff  1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-smirnoff-1-l/000145772",
+        "price": 216.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Abrillantador Multiusos Member's Mark  5 l + Atomizador de 1 l",
+        "url": "https://www.sams.com.mx/ip/abrillantador-multiusos-member-s-mark-5-l-atomizador-de-1-l/000177626",
+        "price": 304.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rompope Coronado  Vainilla 1 l",
+        "url": "https://www.sams.com.mx/ip/rompope-coronado-vainilla-1-l/000000720",
+        "price": 213.81,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sangrita Viuda de Sánchez  1 l",
+        "url": "https://www.sams.com.mx/ip/sangrita-viuda-de-sanchez-1-l/000010653",
+        "price": 112.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licor de Naranja Controy  1 l",
+        "url": "https://www.sams.com.mx/ip/licor-de-naranja-controy-1-l/000023613",
+        "price": 176.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bactericida Member's Mark  1 L",
+        "url": "https://www.sams.com.mx/ip/bactericida-member-s-mark-1-l/000729800",
+        "price": 91.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vinagre Balsámico Bertolli  1 l",
+        "url": "https://www.sams.com.mx/ip/vinagre-balsamico-bertolli-1-l/000172789",
+        "price": 126.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Whisky William Lawson's  1 l",
+        "url": "https://www.sams.com.mx/ip/whisky-william-lawson-s-1-l/000071328",
+        "price": 253.7,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Absolut  Raspberri 1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-absolut-raspberri-1-l/981022982",
+        "price": 329.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka STOLI   The Original 1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-stoli-the-original-1-l/981041251",
+        "price": 411.24,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Absolut  Original 1 L",
+        "url": "https://www.sams.com.mx/ip/vodka-absolut-original-1-l/981012434",
+        "price": 391.78,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|QNED86": {
+    "ts": "2026-06-19T10:58:08.557665+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "PANTALLA 75\" AI 4K QNED",
+        "url": "https://www.homedepot.com.mx/p/lg-pantalla-75-ai-4k-qned-75qned73asc-237353",
+        "price": 17499.0,
+        "model": "237353"
+      },
+      {
+        "store": "homedepot",
+        "name": "PANTALLA 55\" UHD AI 4K UHD",
+        "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-uhd-ai-4k-uhd-55qned75sra-208468",
+        "price": 14299.0,
+        "model": "208468"
+      }
+    ]
+  },
+  "liverpool|QNED86": {
+    "ts": "2026-06-19T10:58:09.788382+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart TV Lg QNED de 100 pulgadas 4K 100QNED86AS con Evo AI",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/1178728705",
+        "price": 49999.05,
+        "model": "100QNED86AS"
+      }
+    ]
+  },
+  "amazon|QNED86": {
+    "ts": "2026-06-19T10:58:11.976735+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
+        "price": 19499.0,
+        "model": "86QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
+        "price": 24995.0,
+        "model": "OLE65C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 13205.38,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas QNED AI QNED80 4K Smart TV 2025 86QNED80ASA, Dynamic QNED Color, Sistema operativo webOS, Identificación de Voz AI, ALLM/VRR, Filmmaker Mode, AI Magic Remote, Channels",
+        "url": "https://www.amazon.com.mx/dp/B0F2PRXF11",
+        "price": 27997.0,
+        "model": "86QNED80ASA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas UHD AI UA8050 4K Smart TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0F7TR1PC1",
+        "price": 17629.59,
+        "model": "UA8050"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 240 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSBFXD9",
+        "price": 9295.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas NanoCell AI NANO80 4K Smart TV webOS 2025 86NANO80ASA |Sistema Operativo webOS | Nano Color | Identificación de Voz AI | HDR10 | Filmmaker Mode Channels",
+        "url": "https://www.amazon.com.mx/dp/B0FF6F8R42",
+        "price": 18469.93,
+        "model": "86NANO80ASA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75pulgadas QNED AI QNED83 4K Smart TV webOS 2025 75QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FMLCJ479",
+        "price": 14995.0,
+        "model": "75QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED EVO AI QNED85 4K Smart TV webOS 2025 55QNED85ASG |Sistema Operativo webOS | Identificación de Voz AI | 120Hz| Dynamic QNED Color | Dolby Atmos Channels | FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2PQL5GV",
+        "price": 13117.26,
+        "model": "55QNED85ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "PERFASCIN Nuevo AKB76046603 MR25GA Voz Mando a Distancia de Repuesto para fit for LG OLED QNED NanoCell UHD 4K Smart TV QNED81, QNED86 G5, C5, B5",
+        "url": "https://www.amazon.com.mx/dp/B0GJ6H36NX",
+        "price": 356.0,
+        "model": "AKB76046603"
+      }
+    ]
+  },
+  "walmart|QNED86": {
+    "ts": "2026-06-19T10:58:21.472010+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV 100 Pulgadas LG QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.walmart.com.mx/ip/tv-100-pulgadas-lg-qned-evo-ai-qned86-4k-smart-tv-2025/00880609642099?athbdg=L1300",
+        "price": 49990.0,
+        "model": "QNED86"
+      },
+      {
+        "store": "walmart",
+        "name": "TV LG 86 Pulgadas QNED AI QNED73 4K SMART TV webOS 2025",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-86-pulgadas-qned-ai-qned73-4k-smart-tv-webos-2025/00880609659754?athbdg=L6000",
+        "price": 21590.0,
+        "model": "QNED73"
+      }
+    ]
+  },
+  "sams|QNED86": {
+    "ts": "2026-06-19T10:58:25.219711+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  86\" QNED Smart TV 86QNED73",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-86-qned-smart-tv-86qned73/981047101",
+        "price": 20969.45,
+        "model": "86QNED73"
+      }
+    ]
+  },
+  "sams|100ML": {
+    "ts": "2026-06-19T10:58:37.489474+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Antonio Banderas  The Secret Absolu para Caballero 100ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-antonio-banderas-the-secret-absolu-para-caballero-100ml/981035493",
+        "price": 663.91,
+        "model": "100ml"
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Juicy Couture  Viva la Juicy Noir para Dama 100ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-juicy-couture-viva-la-juicy-noir-para-dama-100ml/981035389",
+        "price": 970.82,
+        "model": "100ml"
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Moschino  Moschino Toy 2 Pearl para Dama 100ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-moschino-moschino-toy-2-pearl-para-dama-100ml/981035443",
+        "price": 621.01,
+        "model": "100ml"
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Paco Rabanne  One Million Gold Intense para Caballero 100ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-paco-rabanne-one-million-gold-intense-para-caballero-100ml/981035492",
+        "price": 2044.96,
+        "model": "100ml"
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Jimmy Choo  Jimmy Choo Man Intense 100ml EDT spray para Caballero",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-jimmy-choo-jimmy-choo-man-intense-100ml-edt-spray-para-caballero/981032216",
+        "price": 1021.96,
+        "model": "100ml"
+      }
+    ]
+  },
+  "sams|RD211513LA": {
+    "ts": "2026-06-19T10:58:39.948815+00:00",
+    "items": []
   }
 }
