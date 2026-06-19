@@ -149,6 +149,8 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
     cache = lookup_cache if lookup_cache is not None else {}
     ttl = timedelta(hours=lookup_ttl_hours)
     confirmed: list[Finding] = []
+    n_matched = 0                          # diagnóstico: candidatos con ≥1 comparable
+    best_diffs: list[tuple[float, str]] = []  # (cross%, etiqueta) aunque no confirmen
     for f in candidates:
         p = f.product
         query = _query_for(p)
@@ -179,8 +181,10 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
 
         if not others:
             continue                       # no se encontró en otra tienda -> no confirmable
+        n_matched += 1
         cheapest = min(others, key=lambda x: x.price)
         real = round((1 - p.price / cheapest.price) * 100, 1)
+        best_diffs.append((real, f"{p.store} {p.name[:40]} vs {_label(cheapest)} = {real:+.0f}%"))
         if real < confirm_pct:
             continue                       # no es más barato que el mercado -> descuento falso
         # último filtro por tienda (p. ej. Amazon: solo vendido/enviado por Amazon)
@@ -194,5 +198,12 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
                     f"competencia (descuento propio "
                     f"{f.product.discount_pct or 0:.0f}%)")
         confirmed.append(f)
+
+    # diagnóstico: ayuda a entender por qué hay (o no) confirmados
+    print(f"   [verify] candidatos={len(candidates)} con_comparable={n_matched} "
+          f"confirmados={len(confirmed)}")
+    for diff, label in sorted(best_diffs, reverse=True)[:8]:
+        print(f"   [verify] mejor: {label}")
+
     confirmed.sort(key=lambda x: x.discount_pct, reverse=True)
     return confirmed
