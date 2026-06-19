@@ -83,9 +83,22 @@ stores:
     urls: []
   palacio:
     name: El Palacio de Hierro
-    type: jsonld
-    enabled: false
-    urls: []
+    type: palacio              # API Constructor.io (directo, sin Bright Data)
+    enabled: true
+    num_results_per_page: 50
+    search_terms:
+      - bolsa
+      - reloj
+      - tenis
+      - perfume
+      - pantalla
+      - audifonos
+      - maleta
+      - zapato
+      - vestido
+      - cartera
+      - smartwatch
+      - licuadora
   amazon:
     name: Amazon MX
     type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon

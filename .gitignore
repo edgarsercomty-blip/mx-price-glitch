@@ -4,3 +4,7 @@ __pycache__/
 venv/
 .env
 .DS_Store
+
+# scratch de reconocimiento
+/*.html
+/cn.json
