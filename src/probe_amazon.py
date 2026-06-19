@@ -88,8 +88,32 @@ def inspect_asin(asin: str):
             print(f"  [{sel}]:", el.get_text(' ', strip=True)[:80])
 
 
+def inspect_deals():
+    for path in ("/deals", "/gp/goldbox",
+                 "/s?k=ofertas&rh=p_n_deal_type%3A23655121011"):
+        url = f"https://www.amazon.com.mx{path}"
+        print(f"\n=== {url} ===")
+        try:
+            html = brightdata.fetch(url, country="mx", timeout=60, retries=2)
+        except brightdata.FetchError as e:
+            print(f"  ERROR: {e}"); continue
+        soup = BeautifulSoup(html, "html.parser")
+        cards = soup.select("div[data-asin][data-component-type='s-search-result']")
+        any_asin = soup.select("[data-asin]")
+        prices = soup.select(".a-price .a-offscreen")
+        print(f"  bytes={len(html)} s-cards={len(cards)} "
+              f"data-asin={len(any_asin)} precios={len(prices)}")
+        # ¿hay un blob JSON con deals?
+        for kw in ('"dealId"', '"dealPrice"', 'data-testid="deal-card"',
+                   '__NEXT_DATA__', '"asin"'):
+            print(f"    {kw}: {html.count(kw)}")
+
+
 def main() -> None:
     arg = sys.argv[1] if len(sys.argv) > 1 else "taladro"
+    if arg == "deals":
+        inspect_deals()
+        return
     if re.fullmatch(r"B0[A-Z0-9]{8}", arg):
         inspect_asin(arg)
         return
