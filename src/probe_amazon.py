@@ -56,8 +56,44 @@ def probe_pdp(asin: str):
             print(f"  patrón '{pat}': {m.group(1).strip()}")
 
 
+def inspect_asin(asin: str):
+    url = f"https://www.amazon.com.mx/dp/{asin}"
+    print(f"inspect {url}")
+    try:
+        html = brightdata.fetch(url, country="mx", timeout=60, retries=2)
+    except brightdata.FetchError as e:
+        print(f"  ERROR: {e}")
+        return
+    print(f"  html bytes: {len(html)}")
+    soup = BeautifulSoup(html, "html.parser")
+    t = soup.select_one("#productTitle")
+    print("  titulo:", t.get_text(strip=True)[:90] if t else None)
+    # precio actual
+    cur = soup.select_one("#corePrice_feature_div .a-offscreen") \
+        or soup.select_one(".a-price .a-offscreen")
+    print("  precio actual:", cur.get_text(strip=True) if cur else None)
+    # precio de lista / tachado
+    strike = soup.select_one(".a-price.a-text-price .a-offscreen") \
+        or soup.select_one("span[data-a-strike='true'] .a-offscreen")
+    print("  precio lista:", strike.get_text(strip=True) if strike else "NO HAY")
+    # cupón
+    body = soup.get_text(" ", strip=True)
+    cm = re.search(r"(cup[oó]n[^.]{0,60}|ahorra[^.]{0,40}al aplicar[^.]{0,30})",
+                   body, re.I)
+    print("  cupon:", cm.group(0)[:80] if cm else "no")
+    # vendedor/envío
+    for sel in ("#sellerProfileTriggerId", "#merchantInfoFeature_feature_div"):
+        el = soup.select_one(sel)
+        if el:
+            print(f"  [{sel}]:", el.get_text(' ', strip=True)[:80])
+
+
 def main() -> None:
-    query = sys.argv[1] if len(sys.argv) > 1 else "taladro"
+    arg = sys.argv[1] if len(sys.argv) > 1 else "taladro"
+    if re.fullmatch(r"B0[A-Z0-9]{8}", arg):
+        inspect_asin(arg)
+        return
+    query = arg
     url = f"https://www.amazon.com.mx/s?k={query}"
     print(f"fetch {url}")
     try:
