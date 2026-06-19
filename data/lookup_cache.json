@@ -2908,5 +2908,465 @@
         "model": "WF-C510"
       }
     ]
+  },
+  "homedepot|BUDS3": {
+    "ts": "2026-06-19T01:43:36.551374+00:00",
+    "items": []
+  },
+  "amazon|BUDS3": {
+    "ts": "2026-06-19T01:43:39.364371+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Buds 4 Black",
+        "url": "https://www.amazon.com.mx/dp/B0GFG584LM",
+        "price": 2059.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy Buds 3 AI Auriculares Bluetooth Inalámbricos Verdaderos, ajuste de tipo abierto, cancelación activa de ruido, audio 360, intérprete en tiempo real, control táctil, color blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DJMQZSB9",
+        "price": 1644.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds3Pro, Auriculares inalámbricos Bluetooth con Control de Ruido Adaptable, Resistencia al Sudor y al Agua, traductor de IA, Sonido Hi-Fi y Audio 360, Color Plateado (versión CAD y",
+        "url": "https://www.amazon.com.mx/dp/B0D6T9CRLT",
+        "price": 2965.79,
+        "model": "Buds3Pro"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Buds4 Pro Black",
+        "url": "https://www.amazon.com.mx/dp/B0GFGHM1HJ",
+        "price": 3998.98,
+        "model": "Buds4"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Enco Buds 3 Pro Negro, hasta 54 Horas de Reproduccion, Resistencia al Agua y Polvo IP55, Bluetooth 5.4, hasta 10 Metros de Rango, Carga Rápida 10m Dan 4 Horas, Case Puerto Tipo C, Enco Master EQ",
+        "url": "https://www.amazon.com.mx/dp/B0F7L8F43Y",
+        "price": 795.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung - Audífonos inalámbricos Galaxy Buds 3, plata",
+        "url": "https://www.amazon.com.mx/dp/B0D9C8DDKZ",
+        "price": 2448.67,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy Buds 3 Pro AI True Auriculares inalámbricos Bluetooth, con cancelación de ruido, optimización de sonido, intérprete en tiempo real, versión latinoamericana rediseñada (plateado)",
+        "url": "https://www.amazon.com.mx/dp/B0D9C8VNSN",
+        "price": 2772.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OnePlus Buds Pro 3 - Auriculares inalámbricos con doble driver, doble DAC, ecualizadores Dynaudio, cancelación de ruido adaptativa de hasta 50 dB, batería de hasta 43 horas (Opus medianoche)",
+        "url": "https://www.amazon.com.mx/dp/B0DBHX75C4",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy Buds 3 AI True Wireless Bluetooth - Auriculares inalámbricos con optimización de sonido, intérprete en tiempo real, cancelación de ruido, ajuste rediseñado, control táctil, versión para",
+        "url": "https://www.amazon.com.mx/dp/B0DDLHW46H",
+        "price": 1979.8,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Enco Buds 3 Negro, Clear Vocals, Bass Boost Original Sound, Certificación 1P55, Case Type C, 48 Horas con una Sola Carga, Bluetooth 5.4",
+        "url": "https://www.amazon.com.mx/dp/B0FDY85K8J",
+        "price": 748.62,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy Buds 3 Auriculares verdaderamente inalámbricos Bluetooth, ajuste de tipo abierto, cancelación activa de ruido, audio 360, control táctil, plata (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DK7QW61B",
+        "price": 1933.89,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JBL Live Buds 3 Audífonos Inalámbricos NC Bluetooth, Drivers de 10mm, Reproducción 40 Horas, Pantalla Táctil - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0D361ZPPC",
+        "price": 2529.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|BUDS3": {
+    "ts": "2026-06-19T01:43:47.054667+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bluetooth 65h de larga duración con carcasa de cargador inalámbrico ipx7 auriculares impermeables con micrófono",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-65h-de-larga-duracion-con-carcasa-de-cargador-inalambrico-ipx7-auriculares-impermeables-con-microfono/00977404783601",
+        "price": 479.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "AUDIFONOS SAMSUNG GALAXY BUDS 3 WHITE",
+        "url": "https://www.walmart.com.mx/ip/audifonos-samsung-galaxy-buds-3-white/00880609565564?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Buds 3 Lite M2110e1 (negros) con sonido mejorado",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-buds-3-lite-m2110e1-negros-con-sonido-mejorado/00943774090797?athbdg=L1300",
+        "price": 369.99,
+        "model": "M2110e1"
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos de Oído Abierto, Audífonos Bluetooth 5.4, Audífonos Inalámbricos Estéreo HD con Graves y Ganchos para la Oreja, 58Hrs de Reproducción, IP7 a Prueba de Agua para Fitness, Ciclismo, Deportes",
+        "url": "https://www.walmart.com.mx/ip/audifonos-de-oido-abierto-audifonos-bluetooth-5-4-audifonos-inalambricos-estereo-hd-con-graves-y-ganchos-para-la-oreja-58hrs-de-reproduccion-ip7-a-prueba-de-agua-para-fitness-ciclismo-deportes/00071769071580",
+        "price": 529.0,
+        "model": "58Hrs"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bluetooth OnePlus Buds Pro 3 con cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-oneplus-buds-pro-3-con-cancelacion-de-ruido/00692181562710?athbdg=L1300",
+        "price": 4609.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Blanco SM-R530NZWAMXO",
+        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-samsung-galaxy-buds-3-blanco-sm-r530nzwamxo/00880609565189",
+        "price": 2899.0,
+        "model": "SM-R530NZWAMXO"
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos, Audífonos Intrauditivos Bluetooth 5.4, Estéreo Hi-Fi 4 ENC con Micrófono con Cancelación de Ruido, 40H de Reproducción con Pantalla LED Dual Audífonos Impermeables IPX7,",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-audifonos-intrauditivos-bluetooth-5-4-estereo-hi-fi-4-enc-con-microfono-con-cancelacion-de-ruido-40h-de-reproduccion-con-pantalla-led-dual-audifonos-impermeables-ipx7-/00071769071493",
+        "price": 459.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bluetooth OnePlus Buds Pro 3 Midnight Opus",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-oneplus-buds-pro-3-midnight-opus/00692181562711?athbdg=L1300",
+        "price": 3489.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "AUDIFONOS SAMSUNG GALAXY BUDS 3 PLATA",
+        "url": "https://www.walmart.com.mx/ip/audifonos-samsung-galaxy-buds-3-plata/00880609565574?athbdg=L1300",
+        "price": 3191.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos OnePlus Nord Buds 3 Pro con ANC, negro",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-oneplus-nord-buds-3-pro-con-anc-negro/00692181562681?athbdg=L1300",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Plata SM-R530NZAAMXO",
+        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-samsung-galaxy-buds-3-plata-sm-r530nzaamxo/00880609565191",
+        "price": 2795.0,
+        "model": "SM-R530NZAAMXO"
+      },
+      {
+        "store": "walmart",
+        "name": "Reemplazo Auricular Caso De Carga Buds 3, USB C Cargador Inalámbrico Con Indicador LED, 590mAh Batería, Diseño Portátil",
+        "url": "https://www.walmart.com.mx/ip/reemplazo-auricular-caso-de-carga-buds-3-usb-c-cargador-inalambrico-con-indicador-led-590mah-bateria-diseno-portatil/00614635833393",
+        "price": 574.0,
+        "model": "590mAh"
+      }
+    ]
+  },
+  "amazon|MF200D125WBT": {
+    "ts": "2026-06-19T01:43:52.226999+00:00",
+    "items": []
+  },
+  "homedepot|RS22N6GCX": {
+    "ts": "2026-06-19T01:43:52.456763+00:00",
+    "items": []
+  },
+  "amazon|RS22N6GCX": {
+    "ts": "2026-06-19T01:43:54.673344+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense RS22N6GCX-Refrigerador Side by Side,23 pies cúbicos con Dispensador de Agua,Control digital táctil,Total No Frost,Tecnología Inversor,91x73x179cm(AnchoxLargoxAlto),Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F1NCFNC9",
+        "price": 16899.0,
+        "model": "RS22N6GCX-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 720PR)",
+        "url": "https://www.amazon.com.mx/dp/B0H4QLW3YP",
+        "price": 25184.11,
+        "model": "E6C3-AG5C-1024P/AG5B-256P"
+      },
+      {
+        "store": "amazon",
+        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 360P)",
+        "url": "https://www.amazon.com.mx/dp/B0H4QS222Z",
+        "price": 25782.1,
+        "model": "E6C3-AG5C-1024P/AG5B-256P"
+      },
+      {
+        "store": "amazon",
+        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 256P)",
+        "url": "https://www.amazon.com.mx/dp/B0H4QLJ2TC",
+        "price": 25725.15,
+        "model": "E6C3-AG5C-1024P/AG5B-256P"
+      },
+      {
+        "store": "amazon",
+        "name": "10 rebanadas RX65T720MS2A DFN5*6",
+        "url": "https://www.amazon.com.mx/dp/B0H3V9NS6C",
+        "price": 303.68,
+        "model": "RX65T720MS2A"
+      },
+      {
+        "store": "amazon",
+        "name": "Relés RXG22B7 RXG22E7 RXG22F7 RXG22M7 RXG22P7(RXG22E7 AC 48V)",
+        "url": "https://www.amazon.com.mx/dp/B0H3KJTVL8",
+        "price": 3250.89,
+        "model": "RXG22B7"
+      },
+      {
+        "store": "amazon",
+        "name": "Relés RXG22B7 RXG22E7 RXG22F7 RXG22M7 RXG22P7(RXG22F7 AC 120V)",
+        "url": "https://www.amazon.com.mx/dp/B0H4KYC2RK",
+        "price": 4267.75,
+        "model": "RXG22B7"
+      },
+      {
+        "store": "amazon",
+        "name": "1PCS New FX5U-64MR/DS FX5U64MRDS In Box Brand",
+        "url": "https://www.amazon.com.mx/dp/B0H3LH2MBD",
+        "price": 18794.91,
+        "model": "FX5U-64MR/DS"
+      }
+    ]
+  },
+  "walmart|RS22N6GCX": {
+    "ts": "2026-06-19T01:43:58.969714+00:00",
+    "items": []
+  },
+  "homedepot|MRD190CCDLSW": {
+    "ts": "2026-06-19T01:44:03.575605+00:00",
+    "items": []
+  },
+  "amazon|MRD190CCDLSW": {
+    "ts": "2026-06-19T01:44:05.534781+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Refrigerador Midea Single Door Low Frost Jazz Black 7 Pies Cúbicos; MRD190CCDLSW; Low Frost Cooling Box",
+        "url": "https://www.amazon.com.mx/dp/B0B625RMM5",
+        "price": 4499.0,
+        "model": "MRD190CCDLSW"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Midea 7p3 + Lavadora Midea 13kg (Bundle)",
+        "url": "https://www.amazon.com.mx/dp/B0FF863GP5",
+        "price": 7452.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Midea. Refrigerador Jazz Black 7ft³ MRD190CCDLSW + Microondas 1.4ft³ SmartECO Negro",
+        "url": "https://www.amazon.com.mx/dp/B0G7526WHL",
+        "price": 6808.0,
+        "model": "MRD190CCDLSW"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea. MLTS101M2SGDW Lavadora Semiautomatica Una Tina 101 kg Dual Force Blanca + MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
+        "url": "https://www.amazon.com.mx/dp/B0F6GW5SSY",
+        "price": 6552.0,
+        "model": "MLTS101M2SGDW"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense. WSA1603P Lavadora Semiautomatica 2 Tinas 16 kg Lavado 8 kg Centrifugado Color Blanco + Midea. MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
+        "url": "https://www.amazon.com.mx/dp/B0F6GRTWBH",
+        "price": 9398.51,
+        "model": "MRD190CCDLSW"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea MDRT580MTM28WD Refrigerador Top Mount Inverter Quattro, 15 Pies Cúbicos, Jazz Black",
+        "url": "https://www.amazon.com.mx/dp/B0FWHMD51P",
+        "price": 10449.05,
+        "model": "MDRT580MTM28WD"
+      },
+      {
+        "store": "amazon",
+        "name": "Frigidaire 242193201 nevera congelador puerta Junta",
+        "url": "https://www.amazon.com.mx/dp/B00DZZSEZU",
+        "price": 2104.6,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MRD190CCDLSW": {
+    "ts": "2026-06-19T01:44:24.914450+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Midea MRD190CCDLSW 7 pies Semiautomático Negro",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-midea-mrd190ccdlsw-7-pies-semiautomatico-negro/00695490381371?athbdg=L1300",
+        "price": 4499.0,
+        "model": "MRD190CCDLSW"
+      },
+      {
+        "store": "walmart",
+        "name": "COMBO ESTUFA WHIRLPOOL WFR3400B 30\" NGO + REFRIGERADOR MIDEA MRD190CCDLSW 7P3 NEGRO C/DESP",
+        "url": "https://www.walmart.com.mx/ip/combo-estufa-whirlpool-wfr3400b-30-ngo-refrigerador-midea-mrd190ccdlsw-7p3-negro-c-desp/00046527864385?athbdg=L6000",
+        "price": 16429.0,
+        "model": "MRD190CCDLSW"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Midea MRD190CCDLSW 7p3 Negro C/DESP.",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-midea-mrd190ccdlsw-7p3-negro-c-desp-/00060567128085?athbdg=L1300",
+        "price": 8438.0,
+        "model": "MRD190CCDLSW"
+      }
+    ]
+  },
+  "homedepot|WD1600S": {
+    "ts": "2026-06-19T01:44:27.364781+00:00",
+    "items": []
+  },
+  "amazon|WD1600S": {
+    "ts": "2026-06-19T01:44:29.005989+00:00",
+    "items": []
+  },
+  "walmart|WD1600S": {
+    "ts": "2026-06-19T01:44:35.618883+00:00",
+    "items": []
+  },
+  "amazon|WHCH720N": {
+    "ts": "2026-06-19T01:44:40.705229+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Negro (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSCT8GQ",
+        "price": 1959.51,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSDYNGT",
+        "price": 1899.0,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Rosa (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0DY8TS92J",
+        "price": 1959.51,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Blanco (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSFVP75",
+        "price": 1959.51,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Negro (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0BS1QCFHX",
+        "price": 1899.0,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Negro (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSKN2LW",
+        "price": 749.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Nacional) (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CQN3QDX1",
+        "price": 1511.18,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Extranjera)",
+        "url": "https://www.amazon.com.mx/dp/B0BSGR9C4P",
+        "price": 1899.0,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Blanco (Versión Extranjera)",
+        "url": "https://www.amazon.com.mx/dp/B0BS74M665",
+        "price": 1959.51,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Negro (Versión Extranjera)",
+        "url": "https://www.amazon.com.mx/dp/B0BS1PRC4L",
+        "price": 749.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony ULT Wear Auriculares Bluetooth supraaurales con cancelación de Ruido, 30 Horas de batería, Bajos potentes, Control por Voz Alexa, Negro ULT900N",
+        "url": "https://www.amazon.com.mx/dp/B0CWVX1GNX",
+        "price": 2699.0,
+        "model": "ULT900N"
+      },
+      {
+        "store": "amazon",
+        "name": "Soundcore by Anker Q20i Audifonos Inalambricos Diadema con Cancelación Activa de Ruido, hasta 60h Reproducción, Carga Rápida, Hi-Res, Bajos Potentes, Modo Transparencia, para Juegos, Gamer",
+        "url": "https://www.amazon.com.mx/dp/B0C3HCD34R",
+        "price": 685.0,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|RMA300FZMERX0": {
+    "ts": "2026-06-19T01:44:41.558115+00:00",
+    "items": []
+  },
+  "amazon|RMA300FZMERX0": {
+    "ts": "2026-06-19T01:44:43.095741+00:00",
+    "items": []
+  },
+  "walmart|RMA300FZMERX0": {
+    "ts": "2026-06-19T01:44:48.157625+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300",
+        "price": 10119.0,
+        "model": "RMA300FZMRX0"
+      }
+    ]
   }
 }
