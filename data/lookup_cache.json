@@ -3577,5 +3577,332 @@
         "model": null
       }
     ]
+  },
+  "homedepot|KLSW01": {
+    "ts": "2026-06-19T03:30:04.345836+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "TOALLERO ARGOLLA PARA BAÑO KLAR CROMO",
+        "url": "https://www.homedepot.com.mx/p/moen-toallero-argolla-para-bano-klar-cromo-dn9086ch-148158",
+        "price": 799.0,
+        "model": "148158"
+      },
+      {
+        "store": "homedepot",
+        "name": "TOALLERO DE BARRA 24 PULGADAS KLAR CROMO",
+        "url": "https://www.homedepot.com.mx/p/moen-toallero-de-barra-24-pulgadas-klar-cromo-dn9024ch-148157",
+        "price": 1079.0,
+        "model": "148157"
+      },
+      {
+        "store": "homedepot",
+        "name": "LLAVE MEZCLADORA MONOMANDO PARA LAVABO OVALIN 27.9 CM KLAR CROMO MOEN",
+        "url": "https://www.homedepot.com.mx/p/moen-llave-mezcladora-monomando-para-lavabo-ovalin-279-cm-klar-cromo-moen-85812-148154",
+        "price": 3199.0,
+        "model": "148154"
+      },
+      {
+        "store": "homedepot",
+        "name": "JABONERA DE METAL MOEN CROMO",
+        "url": "https://www.homedepot.com.mx/p/moen-jabonera-de-metal-moen-cromo-dn9066ch-148164",
+        "price": 799.0,
+        "model": "148164"
+      },
+      {
+        "store": "homedepot",
+        "name": "GANCHO DE METAL MOEN",
+        "url": "https://www.homedepot.com.mx/p/moen-gancho-de-metal-moen-dn9003ch-148166",
+        "price": 409.0,
+        "model": "148166"
+      },
+      {
+        "store": "homedepot",
+        "name": "CEPILLERA DE METAL MOEN",
+        "url": "https://www.homedepot.com.mx/p/moen-cepillera-de-metal-moen-dn9044ch-148169",
+        "price": 969.0,
+        "model": "148169"
+      },
+      {
+        "store": "homedepot",
+        "name": "MEZCLADORA DUOMANDO CON CABEZAL PARA REGADERA 20 X 23 X 15.5 CM DE METAL",
+        "url": "https://www.homedepot.com.mx/p/moen-mezcladora-duomando-con-cabezal-para-regadera-20-x-23-x-155-cm-de-metal-85814-148179",
+        "price": 3499.0,
+        "model": "148179"
+      }
+    ]
+  },
+  "amazon|KLSW01": {
+    "ts": "2026-06-19T03:30:06.324146+00:00",
+    "items": []
+  },
+  "walmart|KLSW01": {
+    "ts": "2026-06-19T03:30:13.031092+00:00",
+    "items": []
+  },
+  "homedepot|MKZPANTA100MBLA": {
+    "ts": "2026-06-19T03:30:17.939114+00:00",
+    "items": []
+  },
+  "amazon|MKZPANTA100MBLA": {
+    "ts": "2026-06-19T03:30:20.060974+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LemSa - Funda protectora de silicona de goma para llavero sin llave, 2 unidades, para Ford F-150 F-450 Fusion Explorer Lincoln Fusion MKZ Mustang MKC negro/rojo",
+        "url": "https://www.amazon.com.mx/dp/B089SLT7BH",
+        "price": 423.12,
+        "model": "F-150"
+      }
+    ]
+  },
+  "walmart|MKZPANTA100MBLA": {
+    "ts": "2026-06-19T03:30:26.084854+00:00",
+    "items": []
+  },
+  "homedepot|7R505DDS": {
+    "ts": "2026-06-19T03:30:54.553317+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "ROUTER BE9300 TRIBAND WIFI 7",
+        "url": "https://www.homedepot.com.mx/p/tp-link-router-be9300-triband-wifi-7-be550-234246",
+        "price": 5899.0,
+        "model": "234246"
+      },
+      {
+        "store": "homedepot",
+        "name": "SET DE 7 ORGANIZADORES 32 X 16 X 5.2 CM TRANSPARENTE",
+        "url": "https://www.homedepot.com.mx/p/home-home-set-de-7-organizadores-32-x-16-x-52-cm-transparente-orgt08-231015",
+        "price": 259.0,
+        "model": "231015"
+      },
+      {
+        "store": "homedepot",
+        "name": "CABLE UTP ETHERNET CAT6 7.6M",
+        "url": "https://www.homedepot.com.mx/p/steren-cable-utp-ethernet-cat6-76m-368525gr-236082",
+        "price": 165.0,
+        "model": "236082"
+      }
+    ]
+  },
+  "amazon|7R505DDS": {
+    "ts": "2026-06-19T03:30:56.319339+00:00",
+    "items": []
+  },
+  "walmart|7R505DDS": {
+    "ts": "2026-06-19T03:31:26.102805+00:00",
+    "items": []
+  },
+  "homedepot|RD81100MD": {
+    "ts": "2026-06-19T03:31:29.571704+00:00",
+    "items": []
+  },
+  "amazon|RD81100MD": {
+    "ts": "2026-06-19T03:31:31.814806+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Interruptor de flujo PFM711-C6-F PFM711-02-D PFM711S-C6-CM PFM711-C8-AM Original(PFM711-C8-A-M)",
+        "url": "https://www.amazon.com.mx/dp/B0H555YH2V",
+        "price": 4765.61,
+        "model": "PFM711S-C6-CM"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 1.6-2.5A dispositivo RDM108 RDM108-20 serie disyuntor de caja moldeada protector de motor de CA voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GDG9C6",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 8-12.5A dispositivo RDM108 RDM108-20 serie de interruptor de circuito de caja moldeada AC protector de motor voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9H5WSBY",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "AFP0RC32T FP0R-C32T Unidad de control compatible con la unidad de CPU Panasonic Módulo de salida driver lógico programable",
+        "url": "https://www.amazon.com.mx/dp/B0H3TP5ZVV",
+        "price": 5784.69,
+        "model": "AFP0RC32T"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 5-8A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GZMGMV",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 6.3-10A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GWRLKV",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 10-16A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GM1V2T",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "RD-35 RD-35A RD-35B RD-3513 Fuente de alimentación conmutada salida dual 35 W(Rd-35a)",
+        "url": "https://www.amazon.com.mx/dp/B0H4QTT9VG",
+        "price": 720.74,
+        "model": "RD-3513"
+      },
+      {
+        "store": "amazon",
+        "name": "RD45-122 RD45-121 PF-125H-M Ventilador de refrigeración PF-125H(PF-125H-2*M)",
+        "url": "https://www.amazon.com.mx/dp/B0H54GSD7G",
+        "price": 1621.83,
+        "model": "PF-125H-M"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación para servidor R510 R910 750W D750P-S0 F613N FN1VT 0F613N 0FN1VT DPS-750TB",
+        "url": "https://www.amazon.com.mx/dp/B09Y6RR4RJ",
+        "price": 1398.54,
+        "model": "DPS-750TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Cilindro de aire fino RDQB20-15 RDQB25-20 RDQB32-25 RDQB40-30 RDQB50-40 RDQB63-50 RDQB80-75 RDQB100-100(Rdqb32)",
+        "url": "https://www.amazon.com.mx/dp/B0H54JD1F6",
+        "price": 2191.55,
+        "model": "RDQB100-100"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación conmutada Salida Dual 65 W RD-65, RD-65A y RD-65B Serie(RD-65B)",
+        "url": "https://www.amazon.com.mx/dp/B0H4QDPKYJ",
+        "price": 1289.28,
+        "model": "RD-65A"
+      }
+    ]
+  },
+  "walmart|RD81100MD": {
+    "ts": "2026-06-19T03:31:44.455914+00:00",
+    "items": []
+  },
+  "homedepot|RD21551LE": {
+    "ts": "2026-06-19T03:31:48.488038+00:00",
+    "items": []
+  },
+  "amazon|RD21551LE": {
+    "ts": "2026-06-19T03:31:50.402043+00:00",
+    "items": []
+  },
+  "walmart|RD21551LE": {
+    "ts": "2026-06-19T03:31:56.943063+00:00",
+    "items": []
+  },
+  "homedepot|RD211513LA": {
+    "ts": "2026-06-19T03:32:04.745313+00:00",
+    "items": []
+  },
+  "amazon|RD211513LA": {
+    "ts": "2026-06-19T03:32:06.556089+00:00",
+    "items": []
+  },
+  "walmart|RD211513LA": {
+    "ts": "2026-06-19T03:32:12.539860+00:00",
+    "items": []
+  },
+  "homedepot|RD632829MA": {
+    "ts": "2026-06-19T03:32:20.292050+00:00",
+    "items": []
+  },
+  "amazon|RD632829MA": {
+    "ts": "2026-06-19T03:32:22.256761+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 6.3-10A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GWRLKV",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 3.2-5A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GN18PZ",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de acoplamiento flexible compatible con rodillos W-Acker N-euson RD880 RD11 RD12-90 RD16-100 Reemplazo#: 5000178336",
+        "url": "https://www.amazon.com.mx/dp/B0DL2RMGQP",
+        "price": 358.07,
+        "model": "RD16-100"
+      },
+      {
+        "store": "amazon",
+        "name": "1 unidad 3p 5-8A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
+        "url": "https://www.amazon.com.mx/dp/B0F9GZMGMV",
+        "price": 550.62,
+        "model": "RDM108-20"
+      },
+      {
+        "store": "amazon",
+        "name": "RECTIFICADOR REGULADOR DE VOLTAJE Grasshopper RS5101 RS5155 15531-64603 RP201-53710 UTV RTV500(R2013.0.2X)",
+        "url": "https://www.amazon.com.mx/dp/B0H557PNJD",
+        "price": 1730.9,
+        "model": "RP201-53710"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación conmutada salida dual 65 W RD-65, RD-65A y RD-65B Serie(RD-65A)",
+        "url": "https://www.amazon.com.mx/dp/B0H4V4CMBZ",
+        "price": 1047.45,
+        "model": "RD-65A"
+      },
+      {
+        "store": "amazon",
+        "name": "RD RD6030-Max - Juego completo de 60 V, 30 A, 1140 W, control digital, estabilizado, CA CC, voltaje ajustable, regulado, fuente de alimentación de banco de laboratorio",
+        "url": "https://www.amazon.com.mx/dp/B0FLP9D512",
+        "price": 7299.33,
+        "model": "RD6030-Max"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-3513)",
+        "url": "https://www.amazon.com.mx/dp/B0H4V5GF57",
+        "price": 1228.15,
+        "model": "RD-3513"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-65B)",
+        "url": "https://www.amazon.com.mx/dp/B0H4TXJXP5",
+        "price": 1483.33,
+        "model": "RD-3513"
+      },
+      {
+        "store": "amazon",
+        "name": "Placa reguladora de voltaje - Sustituye a Sincro FWD106-21 RD1",
+        "url": "https://www.amazon.com.mx/dp/B0H4LSFWT3",
+        "price": 10547.27,
+        "model": "FWD106-21"
+      },
+      {
+        "store": "amazon",
+        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-85A)",
+        "url": "https://www.amazon.com.mx/dp/B0H4VC8TDT",
+        "price": 1818.17,
+        "model": "RD-3513"
+      }
+    ]
+  },
+  "walmart|RD632829MA": {
+    "ts": "2026-06-19T03:32:27.252021+00:00",
+    "items": []
   }
 }
