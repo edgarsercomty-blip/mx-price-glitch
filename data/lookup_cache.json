@@ -1,33 +1,32 @@
 {
   "homedepot|10MIN": {
-    "ts": "2026-06-18T23:35:56.734291+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "10 GANCHOS ANTIDESLIZANTES",
-        "url": "https://www.homedepot.com.mx/p/home-essetials-10-ganchos-antideslizantes-hesg2251-225699",
-        "price": 99.0,
-        "model": "225699"
-      },
-      {
-        "store": "homedepot",
-        "name": "NOCHEBUENA BLANCA 10 PG. COLGANTE",
-        "url": "https://www.homedepot.com.mx/p/nochebuena-blanca-10-pg-colgante-161578",
-        "price": 359.0,
-        "model": "161578"
-      },
-      {
-        "store": "homedepot",
-        "name": "NOCHEBUENA RED GLITTER COLGANTE 10",
-        "url": "https://www.homedepot.com.mx/p/nochebuena-red-glitter-colgante-10-161580",
-        "price": 359.0,
-        "model": "161580"
-      }
-    ]
+    "ts": "2026-06-19T15:43:47.351879+00:00",
+    "items": []
   },
   "liverpool|10MIN": {
-    "ts": "2026-06-18T23:35:58.107888+00:00",
+    "ts": "2026-06-19T15:43:49.296979+00:00",
     "items": [
+      {
+        "store": "liverpool",
+        "name": "Dispensador de agua eléctrico Aoku",
+        "url": "https://liverpool.com.mx/tienda/pdp/Dispensador-de-agua-el%C3%A9ctrico-Aoku/1148923660",
+        "price": 3699.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Máquina de helados cuisinart classics manual",
+        "url": "https://liverpool.com.mx/tienda/pdp/M%C3%A1quina-de-helados-cuisinart-classics-manual/1199405281",
+        "price": 2099.3,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Timbre Smart Ring Video Doorbell",
+        "url": "https://liverpool.com.mx/tienda/pdp/Timbre-Smart-Ring-Video-Doorbell/1170820509",
+        "price": 999.0,
+        "model": null
+      },
       {
         "store": "liverpool",
         "name": "Aspiradora vertical Osoji d200 1 litro",
@@ -37,30 +36,9 @@
       },
       {
         "store": "liverpool",
-        "name": "Impermeabilizante reciclado de llanta Meridian color blanco 19 L",
-        "url": "https://liverpool.com.mx/tienda/pdp/Impermeabilizante-reciclado-de-llanta-Meridian-color-blanco-19-L/1098178666",
-        "price": 958.3,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Sérum reafirmante Lifting Inmediato Livier Skin Care todo tipo piel",
-        "url": "https://liverpool.com.mx/tienda/pdp/S%C3%A9rum-reafirmante-Lifting-Inmediato-Livier-Skin-Care-todo-tipo-piel/1162541206",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Sandwichera Signa EL56C5",
-        "url": "https://liverpool.com.mx/tienda/pdp/Sandwichera-Signa-EL56C5/99996255339",
-        "price": 599.0,
-        "model": "EL56C5"
-      },
-      {
-        "store": "liverpool",
-        "name": "Máquina de helados cuisinart classics manual",
-        "url": "https://liverpool.com.mx/tienda/pdp/M%C3%A1quina-de-helados-cuisinart-classics-manual/1199405281",
-        "price": 2399.2,
+        "name": "Recortadora de barba y bigote Daewoo DW-RECST",
+        "url": "https://liverpool.com.mx/tienda/pdp/Recortadora-de-barba-y-bigote-Daewoo-DW-RECST/1164166968",
+        "price": 699.0,
         "model": null
       },
       {
@@ -72,9 +50,23 @@
       },
       {
         "store": "liverpool",
+        "name": "Mameluco Mon Caramel de algodón para bebé",
+        "url": "https://liverpool.com.mx/tienda/pdp/Mameluco-Mon-Caramel-de-algod%C3%B3n-para-beb%C3%A9/1163284864",
+        "price": 289.5,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Juego de mesa tbd hasbro hasbro games",
+        "url": "https://liverpool.com.mx/tienda/pdp/Juego-de-mesa-tbd-hasbro-hasbro-games/1199405868",
+        "price": 251.3,
+        "model": null
+      },
+      {
+        "store": "liverpool",
         "name": "Purificador Clorox True HEPA Turbo+ 11071",
         "url": "https://liverpool.com.mx/tienda/pdp/Purificador-Clorox-True-HEPA-Turbo+-11071/1191477967",
-        "price": 2319.2,
+        "price": 2029.3,
         "model": null
       },
       {
@@ -86,189 +78,40 @@
       },
       {
         "store": "liverpool",
-        "name": "Microscopio para reparación y soldadura",
-        "url": "https://liverpool.com.mx/tienda/pdp/Microscopio-para-reparaci%C3%B3n-y-soldadura/1144927717",
-        "price": 837.87,
+        "name": "Receptor bluetooth intercomunicador",
+        "url": "https://liverpool.com.mx/tienda/pdp/Receptor-bluetooth-intercomunicador/1157155446",
+        "price": 1199.74,
         "model": null
       },
       {
         "store": "liverpool",
-        "name": "Smartband Huawei Band 11 unisex con GPS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Smartband-Huawei-Band-11-unisex-con-GPS/1194825801",
-        "price": 719.4,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "BrainBox Fútbol Asmodee",
-        "url": "https://liverpool.com.mx/tienda/pdp/BrainBox-F%C3%BAtbol-Asmodee/9991083232",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Ramen Buldak Samyang 130 g",
-        "url": "https://liverpool.com.mx/tienda/pdp/Ramen-Buldak-Samyang-130-g/1132238223",
-        "price": 49.0,
-        "model": null
+        "name": "Recortadora de barba Remington PG6125-F",
+        "url": "https://liverpool.com.mx/tienda/pdp/Recortadora-de-barba-Remington-PG6125-F/1107004978",
+        "price": 617.4,
+        "model": "PG6125-F"
       }
     ]
-  },
-  "homedepot|TL18KG": {
-    "ts": "2026-06-18T23:35:58.660436+00:00",
-    "items": []
-  },
-  "liverpool|TL18KG": {
-    "ts": "2026-06-18T23:35:59.529443+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Lavasecadora Hisense eléctrica 16 kg 10 kg WD5S1645BT",
-        "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Hisense-el%C3%A9ctrica-16-kg-10-kg-WD5S1645BT/1171027582",
-        "price": 12392.49,
-        "model": "WD5S1645BT"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Caos 18 k con acabado chapa de oro",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-18-k-con-acabado-chapa-de-oro/99989484779",
-        "price": 1049.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Maytag 20 kg automática carga superior 7mmvwc465jw",
-        "url": "https://liverpool.com.mx/tienda/pdp/Lavadora-Maytag-20-kg-autom%C3%A1tica-carga-superior-7mmvwc465jw/1087252236",
-        "price": 13859.45,
-        "model": "7mmvwc465jw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Luckman de acero inoxidable",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-de-acero-inoxidable/29995602",
-        "price": 479.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Luckman de acero",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-de-acero/1110636047",
-        "price": 519.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Luckman con acabado pulido",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-con-acabado-pulido/1110632092",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Broqueles de cuadrada velocity broquel de oro laminado 18 k con acabado baño de oro zirconia",
-        "url": "https://liverpool.com.mx/tienda/pdp/Broqueles-de-cuadrada-velocity-broquel-de-oro-laminado-18-k-con-acabado-ba%C3%B1o-de-oro-zirconia/9993825823",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Caos Baalam con acabado chapa de oro 18K",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-Baalam-con-acabado-chapa-de-oro-18K/99989485564",
-        "price": 1049.0,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|ROTO12A7": {
-    "ts": "2026-06-18T23:36:11.233856+00:00",
-    "items": []
-  },
-  "walmart|ROTO12A7": {
-    "ts": "2026-06-18T23:36:25.026059+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Rotomartillo Truper ROTO-1/2A7 1/2 Pulgada 550 Watts 15679",
-        "url": "https://www.walmart.com.mx/ip/rotomartillo-truper-roto-1-2a7-1-2-pulgada-550-watts-15679/00750624064184?athbdg=L6000",
-        "price": 858.0,
-        "model": "ROTO-1/2A7"
-      }
-    ]
-  },
-  "homedepot|WA21B3554GVAX": {
-    "ts": "2026-06-18T23:36:52.347548+00:00",
-    "items": []
-  },
-  "walmart|WA21B3554GVAX": {
-    "ts": "2026-06-18T23:36:54.900542+00:00",
-    "items": []
-  },
-  "homedepot|OLED55C5PSA": {
-    "ts": "2026-06-18T23:36:55.707918+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "PANTALLA 55\" OLED THINQ IA 4K UHD",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-oled-thinq-ia-4k-uhd-oled55c5psa-237357",
-        "price": 29299.0,
-        "model": "237357"
-      }
-    ]
-  },
-  "walmart|OLED55C5PSA": {
-    "ts": "2026-06-18T23:36:59.381476+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "TV LG 55 Pulgadas OLED AI B5 4K SMART TV OLED55B5",
-        "url": "https://www.walmart.com.mx/ip/tv-lg-55-pulgadas-oled-ai-b5-4k-smart-tv-oled55b5/00880609633107?athbdg=L1300",
-        "price": 14490.0,
-        "model": "OLED55B5"
-      },
-      {
-        "store": "walmart",
-        "name": "Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4K 2025",
-        "url": "https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302?athbdg=L1300",
-        "price": 17999.0,
-        "model": "OLED55C5"
-      },
-      {
-        "store": "walmart",
-        "name": "TV LG 55 Pulgadas OLED 4K Oled55b3psa",
-        "url": "https://www.walmart.com.mx/ip/tv-lg-55-pulgadas-oled-4k-oled55b3psa/00880609198289?athbdg=L6000",
-        "price": 21389.0,
-        "model": "Oled55b3psa"
-      }
-    ]
-  },
-  "liverpool|244958": {
-    "ts": "2026-06-18T23:37:27.495975+00:00",
-    "items": []
-  },
-  "walmart|244958": {
-    "ts": "2026-06-18T23:37:34.044491+00:00",
-    "items": []
   },
   "homedepot|4KUHD": {
-    "ts": "2026-06-18T23:38:01.347501+00:00",
+    "ts": "2026-06-19T15:46:16.318445+00:00",
     "items": []
   },
   "walmart|4KUHD": {
-    "ts": "2026-06-18T23:38:04.861755+00:00",
+    "ts": "2026-06-19T15:46:23.735231+00:00",
     "items": [
+      {
+        "store": "walmart",
+        "name": "JVC  Smart TV 65 pulgadas  4K UHD LED  Frameless  Roku TV  Dolby Audio  WiFi  4 HDMI 2 USB AV  Netflix YouTube Prime Video  Modelo SI65URF",
+        "url": "https://www.walmart.com.mx/ip/jvc-smart-tv-65-pulgadas-4k-uhd-led-frameless-roku-tv-dolby-audio-wifi-4-hdmi-2-usb-av-netflix-youtube-prime-video-modelo-si65urf/00750229717038",
+        "price": 8499.0,
+        "model": "SI65URF"
+      },
       {
         "store": "walmart",
         "name": "Samsung Smart TV 50\" 4K UHD Pantalla LED",
         "url": "https://www.walmart.com.mx/ip/samsung-smart-tv-50-4k-uhd-pantalla-led/00067122704107",
         "price": 10599.0,
         "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "TCL 55\" S Class 4K UHD HDR LED Smart TV con Fire TV – 55S551F",
-        "url": "https://www.walmart.com.mx/ip/tcl-55-s-class-4k-uhd-hdr-led-smart-tv-con-fire-tv-55s551f/00084604209092?athbdg=L6000",
-        "price": 9500.0,
-        "model": "55S551F"
       },
       {
         "store": "walmart",
@@ -286,13 +129,6 @@
       },
       {
         "store": "walmart",
-        "name": "Serie de TV Ahsoka Temporada 1 Sony Pictures 4K UHD",
-        "url": "https://www.walmart.com.mx/ip/serie-de-tv-ahsoka-temporada-1-sony-pictures-4k-uhd/00004339664058?athbdg=L1300",
-        "price": 1379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Hisense 65-Inch Class QD7 Mini-LED 4K UHD Smart Fire TV",
         "url": "https://www.walmart.com.mx/ip/hisense-65-inch-class-qd7-mini-led-4k-uhd-smart-fire-tv/00088814302282?athbdg=L1300",
         "price": 11125.0,
@@ -307,13 +143,6 @@
       },
       {
         "store": "walmart",
-        "name": "Television Samsung Crystal UHD 4K 75 pulgadas UN75U8000FFXZX",
-        "url": "https://www.walmart.com.mx/ip/television-samsung-crystal-uhd-4k-75-pulgadas-un75u8000ffxzx/00880609703831",
-        "price": 13859.0,
-        "model": "UN75U8000FFXZX"
-      },
-      {
-        "store": "walmart",
         "name": "TV 43 Pulgadas Smart TV UHD 4K 43QD6QV Hisense  Qled Vidaa",
         "url": "https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43qd6qv-hisense-qled-vidaa/00088814302203?athbdg=L1300",
         "price": 6699.0,
@@ -321,17 +150,17 @@
       },
       {
         "store": "walmart",
-        "name": "Steelbook Arcane: Primera temporada de League of Legends 4K UHD + Blu-ray",
-        "url": "https://www.walmart.com.mx/ip/steelbook-arcane-primera-temporada-de-league-of-legends-4k-uhd-blu-ray/00082666324783?athbdg=L1300",
-        "price": 949.0,
-        "model": null
+        "name": "TV LG UHD 98 Pulgadas UHD SMART TV 4K 98UT9050PSA AI 2024",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-uhd-98-pulgadas-uhd-smart-tv-4k-98ut9050psa-ai-2024/00880609616796?athbdg=L1300",
+        "price": 35529.0,
+        "model": "98UT9050PSA"
       },
       {
         "store": "walmart",
-        "name": "TV LG 75 Pulgadas UHD AI UA8055 4K SMART TV webOS 2025",
-        "url": "https://www.walmart.com.mx/ip/tv-lg-75-pulgadas-uhd-ai-ua8055-4k-smart-tv-webos-2025/00880609663610?athbdg=L1300",
-        "price": 11990.0,
-        "model": "UA8055"
+        "name": "Pantalla Smart TV Hisense QD6 Series 43 pulgadas 4K QLED UHD LCD HDMI Fire TV negro",
+        "url": "https://www.walmart.com.mx/ip/pantalla-smart-tv-hisense-qd6-series-43-pulgadas-4k-qled-uhd-lcd-hdmi-fire-tv-negro/00088814301910",
+        "price": 4380.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -339,1028 +168,66 @@
         "url": "https://www.walmart.com.mx/ip/hisense-75-inch-class-qd6-series-qled-4k-uhd-smart-fire-tv/00088814302287?athbdg=L1300",
         "price": 13599.0,
         "model": "75-Inch"
-      }
-    ]
-  },
-  "homedepot|50NU850BPSA": {
-    "ts": "2026-06-18T23:38:06.289484+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "CONECTOR CONDUIT R1 (PESADO) 50 MM ( 2) (258207)",
-        "url": "https://www.homedepot.com.mx/p/rymco-conector-conduit-r1-pesado-50-mm-2-258207-cnpvc2000-pes-207540",
-        "price": 24.0,
-        "model": "207540"
-      },
-      {
-        "store": "homedepot",
-        "name": "CURVA CONDUIT 90 R1 (PESADA) 50 MM ( 2)",
-        "url": "https://www.homedepot.com.mx/p/rymco-curva-conduit-90-r1-pesada-50-mm-2-curva90pvcpes-2000-207564",
-        "price": 77.0,
-        "model": "207564"
-      },
-      {
-        "store": "homedepot",
-        "name": "PACK 4 FLOR 50 ML BAMBU",
-        "url": "https://www.homedepot.com.mx/p/pack-4-flor-50-ml-bambu-difusor-flor-221947",
-        "price": 735.0,
-        "model": "221947"
-      },
-      {
-        "store": "homedepot",
-        "name": "TUBO CONDUIT PESADO R1 ABOC DE 50 MM( 2)",
-        "url": "https://www.homedepot.com.mx/p/rymco-tubo-conduit-pesado-r1-aboc-de-50-mm-2-tpvc-0500-lig-207573",
-        "price": 145.0,
-        "model": "207573"
-      },
-      {
-        "store": "homedepot",
-        "name": "SET DE 50 GANCHOS DE TERCIPELO",
-        "url": "https://www.homedepot.com.mx/p/set-de-50-ganchos-de-tercipelo-ag-ganteg-225491",
-        "price": 665.0,
-        "model": "225491"
-      },
-      {
-        "store": "homedepot",
-        "name": "SET DE 50 GANCHOS DE TERCIPELO",
-        "url": "https://www.homedepot.com.mx/p/set-de-50-ganchos-de-tercipelo-ag-ganten-225490",
-        "price": 699.0,
-        "model": "225490"
-      },
-      {
-        "store": "homedepot",
-        "name": "PACK 4 MIKADO 50 ML BAMBU",
-        "url": "https://www.homedepot.com.mx/p/pack-4-mikado-50-ml-bambu-difusor-mikado-221922",
-        "price": 665.0,
-        "model": "221922"
-      }
-    ]
-  },
-  "walmart|50NU850BPSA": {
-    "ts": "2026-06-18T23:38:36.973101+00:00",
-    "items": []
-  },
-  "homedepot|55QNED83ASG": {
-    "ts": "2026-06-18T23:38:38.250208+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.5 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-05-hp-55-l-min-115-v-ljp-07-223479",
-        "price": 3579.0,
-        "model": "223479"
-      },
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.75 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-075-hp-55-l-min-115-v-ljp-07-24l-223493",
-        "price": 5339.0,
-        "model": "223493"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BRONCE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-bronce-wisteria-235884",
-        "price": 1299.0,
-        "model": "235884"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA GRANITO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-granito-wisteria-235880",
-        "price": 1299.0,
-        "model": "235880"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BLANCO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-blanco-wisteria-235867",
-        "price": 1299.0,
-        "model": "235867"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA CON LUZ CABLE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-con-luz-cable-wisteria-235888",
-        "price": 1389.0,
-        "model": "235888"
-      },
-      {
-        "store": "homedepot",
-        "name": "Mueble para Tv 55\" Madik",
-        "url": "https://www.homedepot.com.mx/p/madik-mueble-para-tv-55-madik-39820002-245517",
-        "price": 5199.0,
-        "model": "245517"
-      }
-    ]
-  },
-  "walmart|55QNED83ASG": {
-    "ts": "2026-06-18T23:38:40.909673+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Pantalla 55 Pulgadas LG QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS |",
-        "url": "https://www.walmart.com.mx/ip/pantalla-55-pulgadas-lg-qned-ai-qned83-4k-smart-tv-webos-2025-55qned83asg-sistema-operativo-webos-/00880609650637?athbdg=L1300",
-        "price": 10669.0,
-        "model": "55QNED83ASG"
-      }
-    ]
-  },
-  "homedepot|55UA8000PSB": {
-    "ts": "2026-06-18T23:38:42.219946+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.5 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-05-hp-55-l-min-115-v-ljp-07-223479",
-        "price": 3579.0,
-        "model": "223479"
-      },
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.75 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-075-hp-55-l-min-115-v-ljp-07-24l-223493",
-        "price": 5339.0,
-        "model": "223493"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BRONCE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-bronce-wisteria-235884",
-        "price": 1299.0,
-        "model": "235884"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA GRANITO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-granito-wisteria-235880",
-        "price": 1299.0,
-        "model": "235880"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BLANCO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-blanco-wisteria-235867",
-        "price": 1299.0,
-        "model": "235867"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA CON LUZ CABLE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-con-luz-cable-wisteria-235888",
-        "price": 1389.0,
-        "model": "235888"
-      },
-      {
-        "store": "homedepot",
-        "name": "Mueble para Tv 55\" Madik",
-        "url": "https://www.homedepot.com.mx/p/madik-mueble-para-tv-55-madik-39820002-245517",
-        "price": 5199.0,
-        "model": "245517"
-      }
-    ]
-  },
-  "walmart|55UA8000PSB": {
-    "ts": "2026-06-18T23:38:53.583415+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "LG 55 UR8000 LED 4K UHD Smart webOs ThinQ AI LG 55UR8000AUA",
-        "url": "https://www.walmart.com.mx/ip/lg-55-ur8000-led-4k-uhd-smart-webos-thinq-ai-lg-55ur8000aua/00019517406033?athbdg=L1500",
-        "price": 10401.79,
-        "model": "55UR8000AUA"
-      }
-    ]
-  },
-  "homedepot|65UA8000PSB": {
-    "ts": "2026-06-18T23:38:58.048939+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ILLUX LÁMPARA LED EXTERIOR CON FOTOCELDA100W,",
-        "url": "https://www.homedepot.com.mx/p/illux-illux-lampara-led-exterior-con-fotocelda100w-vl-29100g57-241547",
-        "price": 1279.0,
-        "model": "241547"
-      },
-      {
-        "store": "homedepot",
-        "name": "ILLUX REFLECTOR LED EXTERIOR, FOTOCELDA 60W",
-        "url": "https://www.homedepot.com.mx/p/illux-illux-reflector-led-exterior-fotocelda-60w-vl-2960g57-241569",
-        "price": 859.0,
-        "model": "241569"
-      },
-      {
-        "store": "homedepot",
-        "name": "RACK 2 PUERTAS MP3308 TV 65 BLANCO",
-        "url": "https://www.homedepot.com.mx/p/madik-rack-2-puertas-mp3308-tv-65-blanco-mp33080001-230871",
-        "price": 4329.0,
-        "model": "230871"
-      },
-      {
-        "store": "homedepot",
-        "name": "RACK 2 PUERTAS MP3308 TV 65 RÚSTICO",
-        "url": "https://www.homedepot.com.mx/p/madik-rack-2-puertas-mp3308-tv-65-rustico-mp33080004-230870",
-        "price": 4329.0,
-        "model": "230870"
-      },
-      {
-        "store": "homedepot",
-        "name": "GOVEE ENVISUAL TV BACKLIGHT (5565 INCH) NEW",
-        "url": "https://www.homedepot.com.mx/p/govee-govee-envisual-tv-backlight-5565-inch-new-h60991d1-226371",
-        "price": 1989.0,
-        "model": "226371"
-      },
-      {
-        "store": "homedepot",
-        "name": "CAMASTRO DAYTONA CON COLCHON TEXTURA RATAN COLOR GRIS GRAFITO",
-        "url": "https://www.homedepot.com.mx/p/keter-camastro-daytona-con-colchon-textura-ratan-color-gris-grafito-17211632-234169",
-        "price": 6999.0,
-        "model": "234169"
-      }
-    ]
-  },
-  "walmart|65UA8000PSB": {
-    "ts": "2026-06-18T23:39:10.558899+00:00",
-    "items": []
-  },
-  "liverpool|244959": {
-    "ts": "2026-06-18T23:39:42.566598+00:00",
-    "items": []
-  },
-  "walmart|244959": {
-    "ts": "2026-06-18T23:39:57.880519+00:00",
-    "items": []
-  },
-  "homedepot|32LR650BPSA": {
-    "ts": "2026-06-18T23:39:58.220030+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ZAPATERA CON COMPARTIMIENTOS AJUSTABLES",
-        "url": "https://www.homedepot.com.mx/p/home-home-zapatera-con-compartimientos-ajustables-zap-07-231959",
-        "price": 347.0,
-        "model": "231959"
-      },
-      {
-        "store": "homedepot",
-        "name": "CONECTOR CONDUIT R1 (PESADO) 32 MM (1 1/4)",
-        "url": "https://www.homedepot.com.mx/p/rymco-conector-conduit-r1-pesado-32-mm-1-1-4-cnpvc1250-pes-207539",
-        "price": 12.5,
-        "model": "207539"
-      },
-      {
-        "store": "homedepot",
-        "name": "CONECTOR CONDUIT R0 (LIGERO) 32 MM (1 1/4)",
-        "url": "https://www.homedepot.com.mx/p/rymco-conector-conduit-r0-ligero-32-mm-1-1-4-cnpvc1250-lig-207805",
-        "price": 11.0,
-        "model": "207805"
-      },
-      {
-        "store": "homedepot",
-        "name": "CURVA CONDUIT 90 R0 (LIGERA) 32 MM(1 1/4)",
-        "url": "https://www.homedepot.com.mx/p/rymco-curva-conduit-90-r0-ligera-32-mm1-1-4-curva90pvclig-1250-207555",
-        "price": 25.0,
-        "model": "207555"
-      },
-      {
-        "store": "homedepot",
-        "name": "CURVA CONDUIT 90 R1 (PESADA) 32 MM (1 1/4)",
-        "url": "https://www.homedepot.com.mx/p/rymco-curva-conduit-90-r1-pesada-32-mm-1-1-4-curva90pvcpes-1250-207565",
-        "price": 31.0,
-        "model": "207565"
-      },
-      {
-        "store": "homedepot",
-        "name": "TUBO CONDUIT LIGERO RO ABOC 32MM (1 1/4)",
-        "url": "https://www.homedepot.com.mx/p/rymco-tubo-conduit-ligero-ro-aboc-32mm-1-1-4-tpvc-0500-lig-207568",
-        "price": 49.0,
-        "model": "207568"
-      }
-    ]
-  },
-  "walmart|32LR650BPSA": {
-    "ts": "2026-06-18T23:40:00.808119+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "TV Lg 32 Pulgadas HD Smart TV ThinQ AI 32LR650BPSA",
-        "url": "https://www.walmart.com.mx/ip/tv-lg-32-pulgadas-hd-smart-tv-thinq-ai-32lr650bpsa/00929397001562",
-        "price": 4099.45,
-        "model": "32LR650BPSA"
-      },
-      {
-        "store": "walmart",
-        "name": "TV LG 32 Pulgadas hd smart 32LR650BPSA",
-        "url": "https://www.walmart.com.mx/ip/tv-lg-32-pulgadas-hd-smart-32lr650bpsa/00880608421606",
-        "price": 7011.9,
-        "model": "32LR650BPSA"
-      },
-      {
-        "store": "walmart",
-        "name": "TV 32 Pulgadas LG HD Smart TV ThinQ AI 32LR650BPSA",
-        "url": "https://www.walmart.com.mx/ip/tv-32-pulgadas-lg-hd-smart-tv-thinq-ai-32lr650bpsa/00888143001036?athbdg=L6000",
-        "price": 4279.0,
-        "model": "32LR650BPSA"
-      }
-    ]
-  },
-  "homedepot|WD11T4046BXAX": {
-    "ts": "2026-06-18T23:40:28.097412+00:00",
-    "items": []
-  },
-  "walmart|WD11T4046BXAX": {
-    "ts": "2026-06-18T23:40:31.499103+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Router Inalámbrico TP-Link Archer AX73 de doble banda Wireless AX",
-        "url": "https://www.walmart.com.mx/ip/router-inalambrico-tp-link-archer-ax73-de-doble-banda-wireless-ax/00084003070232",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema WiFi 6 Mesh ASUS ZenWiFi AX Hybrid XP4 para 5500 pies²",
-        "url": "https://www.walmart.com.mx/ip/sistema-wifi-6-mesh-asus-zenwifi-ax-hybrid-xp4-para-5500-pies-/00019287675788?athbdg=L1300",
-        "price": 3449.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 20 kg Blanca WA20A3341GW/AX Carga Superior con Agitador",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-20-kg-blanca-wa20a3341gw-ax-carga-superior-con-agitador/00880609218769?athbdg=L1300",
-        "price": 9399.0,
-        "model": "WA20A3341GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Aire Acondicionado Samsung 1 Ton AR40F12D0AM/AX Advance R32 Frío 220V",
-        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-samsung-1-ton-ar40f12d0am-ax-advance-r32-frio-220v/00880609760473?athbdg=L1300",
-        "price": 6190.0,
-        "model": "AR40F12D0AM/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Router Mesh WiFi 6 Gryphon AX ultrarrápido de 4,3 Gbps, 3000 pies cuadrados",
-        "url": "https://www.walmart.com.mx/ip/router-mesh-wifi-6-gryphon-ax-ultrarrapido-de-4-3-gbps-3000-pies-cuadrados/00086873900049?athbdg=L1300",
-        "price": 7659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Interruptor de sensor de proximidad capacitivo LJC18A3-BZ/AX de 3 cables NPN NC",
-        "url": "https://www.walmart.com.mx/ip/interruptor-de-sensor-de-proximidad-capacitivo-ljc18a3-bz-ax-de-3-cables-npn-nc/00901388841981",
-        "price": 250.06,
-        "model": "LJC18A3-BZ/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "BRIGHTFUFU 7pcs Ax Ax Casas de reemplazo Mandas de hacha de las cuñas Axile de hierro Suministros Suministros",
-        "url": "https://www.walmart.com.mx/ip/brightfufu-7pcs-ax-ax-casas-de-reemplazo-mandas-de-hacha-de-las-cunas-axile-de-hierro-suministros-suministros/00313261092963?athbdg=L1300",
-        "price": 200.96,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "WORGEOUS Halloween Costume AX Prop Simulación de Halloween Axe Toy Kids que realizan Jueces",
-        "url": "https://www.walmart.com.mx/ip/worgeous-halloween-costume-ax-prop-simulacion-de-halloween-axe-toy-kids-que-realizan-jueces/00481161056568?athbdg=L1300",
-        "price": 257.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Interruptor de proximidad, LJC18A3-BZ/AX Sensor de proximidad capacitivo Interruptor de sensor de proximidad Interruptor de sensor de proximidad NC Diseñado a medida Jadeshay A",
-        "url": "https://www.walmart.com.mx/ip/interruptor-de-proximidad-ljc18a3-bz-ax-sensor-de-proximidad-capacitivo-interruptor-de-sensor-de-proximidad-interruptor-de-sensor-de-proximidad-nc-disenado-a-medida-jadeshay-a/00092478073684?athbdg=L1300",
-        "price": 289.39,
-        "model": "LJC18A3-BZ/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "2X -AOXIONG AX-HB02 Medidor de Tablero de Scooter EléCtrico 36V 48V Ajustable 6PIN para Scooter EléCtrico",
-        "url": "https://www.walmart.com.mx/ip/2x-aoxiong-ax-hb02-medidor-de-tablero-de-scooter-electrico-36v-48v-ajustable-6pin-para-scooter-electrico/00613209169088",
-        "price": 535.21,
-        "model": "AX-HB02"
-      },
-      {
-        "store": "walmart",
-        "name": "Interruptor de sensor de proximidad, LJC18A3-BZ/AX Sensor de proximidad capacitivo Interruptor de sensor de proximidad Meticulosamente diseñado Jadeshay A",
-        "url": "https://www.walmart.com.mx/ip/interruptor-de-sensor-de-proximidad-ljc18a3-bz-ax-sensor-de-proximidad-capacitivo-interruptor-de-sensor-de-proximidad-meticulosamente-disenado-jadeshay-a/00092572705172?athbdg=L1300",
-        "price": 289.39,
-        "model": "LJC18A3-BZ/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Cable de , DD0G35BT011 Reempzo DD0G35BT001, DD0G35BT021 Cable de línea de conector de para 15- 15-AX Macarena Cable de línea de conector",
-        "url": "https://www.walmart.com.mx/ip/cable-de-dd0g35bt011-reempzo-dd0g35bt001-dd0g35bt021-cable-de-linea-de-conector-de-para-15-15-ax-macarena-cable-de-linea-de-conector/00061408917195?athbdg=L1300",
-        "price": 219.0,
-        "model": "DD0G35BT011"
-      }
-    ]
-  },
-  "liverpool|238117": {
-    "ts": "2026-06-18T23:40:59.647311+00:00",
-    "items": []
-  },
-  "walmart|238117": {
-    "ts": "2026-06-18T23:41:18.981698+00:00",
-    "items": []
-  },
-  "homedepot|100QD6QFM": {
-    "ts": "2026-06-18T23:41:20.414001+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "THERMOFIT NEGRO 1/8 100M",
-        "url": "https://www.homedepot.com.mx/p/steren-thermofit-negro-1-8-100m-the1-8-236083",
-        "price": 525.0,
-        "model": "236083"
-      },
-      {
-        "store": "homedepot",
-        "name": "REPELENTE NATURAL DE INSECTOS 1 GALÓN",
-        "url": "https://www.homedepot.com.mx/p/fess-repelente-natural-de-insectos-1-galon-galon-243915",
-        "price": 227.0,
-        "model": "243915"
-      },
-      {
-        "store": "homedepot",
-        "name": "PACK 3 MIKADO 100 ML BAMBU",
-        "url": "https://www.homedepot.com.mx/p/pack-3-mikado-100-ml-bambu-difusor-mikado-221930",
-        "price": 895.0,
-        "model": "221930"
-      },
-      {
-        "store": "homedepot",
-        "name": "PACK 3 MIKADO 100 ML VAINILLA",
-        "url": "https://www.homedepot.com.mx/p/pack-3-mikado-100-ml-vainilla-difusor-mikado-221937",
-        "price": 895.0,
-        "model": "221937"
-      }
-    ]
-  },
-  "walmart|100QD6QFM": {
-    "ts": "2026-06-18T23:41:23.331565+00:00",
-    "items": []
-  },
-  "homedepot|WHCH720N": {
-    "ts": "2026-06-18T23:41:23.608988+00:00",
-    "items": []
-  },
-  "walmart|WHCH720N": {
-    "ts": "2026-06-18T23:41:53.734016+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Sony WH-CH720N/BZUC Negro",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch720n-bzuc-negro/00002724292539",
-        "price": 2099.0,
-        "model": "WH-CH720N/BZUC"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Sony WH-CH720N/WZUC Blanco",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch720n-wzuc-blanco/00002724292549?athbdg=L1300",
-        "price": 2679.0,
-        "model": "WH-CH720N/WZUC"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Sony WH-CH720N/LZUC",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch720n-lzuc/00002724292550",
-        "price": 3507.9,
-        "model": "WH-CH720N/LZUC"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífono diadema inalámbrico, Sony, Con cancelación de ruido, WH-CH720N, Azul",
-        "url": "https://www.walmart.com.mx/ip/audifono-diadema-inalambrico-sony-con-cancelacion-de-ruido-wh-ch720n-azul/00454873614301?athbdg=L1300",
-        "price": 4491.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM compatible con Sony WH-CH720N/WH-CH520 negro+gris",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch720n-wh-ch520-negro-gris/00045096489846?athbdg=L1300",
-        "price": 569.0,
-        "model": "WH-CH720N/WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Ear Pads for WH-CH720N Headphone Dark Blue",
-        "url": "https://www.walmart.com.mx/ip/ear-pads-for-wh-ch720n-headphone-dark-blue/00573251493576",
-        "price": 458.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos con cancelación de ruido Sony WH-CH720N/B negros",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-con-cancelacion-de-ruido-sony-wh-ch720n-b-negros/00019664108257?athbdg=L1300",
-        "price": 3129.0,
-        "model": "WH-CH720N/B"
-      },
-      {
-        "store": "walmart",
-        "name": "wonima11 Yinke Case for WH-CH720N / WH-CH710N /WH-CH700N Headphone, Travel Protective Cover Storage Bag (White)",
-        "url": "https://www.walmart.com.mx/ip/wonima11-yinke-case-for-wh-ch720n-wh-ch710n-wh-ch700n-headphone-travel-protective-cover-storage-bag-white-/00025695646363",
-        "price": 415.74,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda de auriculares stukcaze para Sony WH-CH720N Hard Blue",
-        "url": "https://www.walmart.com.mx/ip/funda-de-auriculares-stukcaze-para-sony-wh-ch720n-hard-blue/00045096487538?athbdg=L1300",
-        "price": 569.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Ear Pads for WH-CH720N Headphone Red",
-        "url": "https://www.walmart.com.mx/ip/ear-pads-for-wh-ch720n-headphone-red/00573251493569",
-        "price": 458.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Ear Pads for WH-CH720N Headphone Creamy&White",
-        "url": "https://www.walmart.com.mx/ip/ear-pads-for-wh-ch720n-headphone-creamy-white/00573251491867",
-        "price": 458.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos Sony WH-CH720N con cancelación de ruido rosa",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-sony-wh-ch720n-con-cancelacion-de-ruido-rosa/00002724293244?athbdg=L1300",
-        "price": 2699.0,
-        "model": "WH-CH720N"
-      }
-    ]
-  },
-  "homedepot|RS20N6WCX": {
-    "ts": "2026-06-18T23:41:54.337936+00:00",
-    "items": []
-  },
-  "walmart|RS20N6WCX": {
-    "ts": "2026-06-18T23:42:02.534499+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Refrigerador Hisense Side by Side 20 Pies Mod. RS20N6WCX Silver con Despachador",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-hisense-side-by-side-20-pies-mod-rs20n6wcx-silver-con-despachador/00692172708984?athbdg=L1300",
-        "price": 13990.0,
-        "model": "RS20N6WCX"
-      }
-    ]
-  },
-  "homedepot|7MMHW6621HC": {
-    "ts": "2026-06-18T23:42:04.221751+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ROUTER BE9300 TRIBAND WIFI 7",
-        "url": "https://www.homedepot.com.mx/p/tp-link-router-be9300-triband-wifi-7-be550-234246",
-        "price": 5899.0,
-        "model": "234246"
-      },
-      {
-        "store": "homedepot",
-        "name": "SET DE 7 ORGANIZADORES 32 X 16 X 5.2 CM TRANSPARENTE",
-        "url": "https://www.homedepot.com.mx/p/home-home-set-de-7-organizadores-32-x-16-x-52-cm-transparente-orgt08-231015",
-        "price": 259.0,
-        "model": "231015"
-      },
-      {
-        "store": "homedepot",
-        "name": "CABLE UTP ETHERNET CAT6 7.6M",
-        "url": "https://www.homedepot.com.mx/p/steren-cable-utp-ethernet-cat6-76m-368525gr-236082",
-        "price": 165.0,
-        "model": "236082"
-      }
-    ]
-  },
-  "walmart|7MMHW6621HC": {
-    "ts": "2026-06-18T23:42:40.975039+00:00",
-    "items": []
-  },
-  "homedepot|8MWTW1824WJM": {
-    "ts": "2026-06-18T23:42:41.313434+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "LAVADORA WHIRLPOOL 18 KG XPERT SYSTEM",
-        "url": "https://www.homedepot.com.mx/p/whirlpool-lavadora-whirlpool-18-kg-xpert-system-8mwtw1824wjm-143400",
-        "price": 16049.0,
-        "model": "143400"
-      }
-    ]
-  },
-  "walmart|8MWTW1824WJM": {
-    "ts": "2026-06-18T23:42:44.684066+00:00",
-    "items": []
-  },
-  "homedepot|WD5S1645BT": {
-    "ts": "2026-06-18T23:42:45.085159+00:00",
-    "items": []
-  },
-  "walmart|WD5S1645BT": {
-    "ts": "2026-06-18T23:43:01.737509+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavasecadora Hisense 16 Kg Inverter WD5S1645BT",
-        "url": "https://www.walmart.com.mx/ip/lavasecadora-hisense-16-kg-inverter-wd5s1645bt/00690110183187?athbdg=L6000",
-        "price": 21000.0,
-        "model": "WD5S1645BT"
-      }
-    ]
-  },
-  "homedepot|WT5I2223DB": {
-    "ts": "2026-06-18T23:43:01.866876+00:00",
-    "items": []
-  },
-  "walmart|WT5I2223DB": {
-    "ts": "2026-06-18T23:43:16.478195+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Hisense 22kg Negro Mod WT5i2223DB Automática Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/lavadora-hisense-22kg-negro-mod-wt5i2223db-automatica-carga-superior/00690110183312?athbdg=L1300",
-        "price": 8290.0,
-        "model": "WT5i2223DB"
-      }
-    ]
-  },
-  "homedepot|MF200D125WBT": {
-    "ts": "2026-06-18T23:43:43.782251+00:00",
-    "items": []
-  },
-  "walmart|MF200D125WBT": {
-    "ts": "2026-06-18T23:43:54.831121+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Paquete de 2 Llantas 275/60 R15 107T Cooper COBRA RAD G/T 107T (P)",
-        "url": "https://www.walmart.com.mx/ip/paquete-de-2-llantas-275-60-r15-107t-cooper-cobra-rad-g-t-107t-p-/00046771522118?athbdg=L1300",
-        "price": 5289.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bocina Bluetooth Portátil JYX con Micrófonos y Luces DJ T10-T",
-        "url": "https://www.walmart.com.mx/ip/bocina-bluetooth-portatil-jyx-con-microfonos-y-luces-dj-t10-t/00073075688672?athbdg=L1300",
-        "price": 1800.63,
-        "model": "T10-T"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora T-fal InfinyForce XL Vidrio LN8208MX 10V Negra",
-        "url": "https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-vidrio-ln8208mx-10v-negra/00770207308208?athbdg=L6000",
-        "price": 799.0,
-        "model": "LN8208MX"
-      },
-      {
-        "store": "walmart",
-        "name": "Pipetas antipulgas y garrapatas Fibrocare Antipulgas t garrapatas para perros medianos de hasta 10 kg 3 pzas",
-        "url": "https://www.walmart.com.mx/ip/pipetas-antipulgas-y-garrapatas-fibrocare-antipulgas-t-garrapatas-para-perros-medianos-de-hasta-10-kg-3-pzas/00750302409503",
-        "price": 175.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Guantes exfoliantes T-Taio Green para el cuerpo 1 par",
-        "url": "https://www.walmart.com.mx/ip/guantes-exfoliantes-t-taio-green-para-el-cuerpo-1-par/00750110331688?athbdg=L6000",
-        "price": 55.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Pistola Calor 1560 W/13 A T. Variable 400C-550 Makita Hg5030 MAKITA HG5030",
-        "url": "https://www.walmart.com.mx/ip/pistola-calor-1560-w-13-a-t-variable-400c-550-makita-hg5030-makita-hg5030/00008838186067?athbdg=L1600",
-        "price": 1149.0,
-        "model": "400C-550"
-      },
-      {
-        "store": "walmart",
-        "name": "Foco LED Great Value Alta potencia 40 W luz blanca tipo T",
-        "url": "https://www.walmart.com.mx/ip/foco-led-great-value-alta-potencia-40-w-luz-blanca-tipo-t/00750179160560?athbdg=L6000",
-        "price": 139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Dinosaurio de Juguete Mattel Jurassic World Rebirth T-Rex Mordida Destructora",
-        "url": "https://www.walmart.com.mx/ip/dinosaurio-de-juguete-mattel-jurassic-world-rebirth-t-rex-mordida-destructora/00019473527064?athbdg=L1300",
-        "price": 1135.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Jabón y esponja T.Taio Esponjabón efecto aclarante 2 en 1 con concha nácar 120 g",
-        "url": "https://www.walmart.com.mx/ip/jabon-y-esponja-t-taio-esponjabon-efecto-aclarante-2-en-1-con-concha-nacar-120-g/00750110330790?athbdg=L6000",
-        "price": 28.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Paquete de 2 llantas 245/75 R16 111T Zmax  Terra Xplorer C2 A/T",
-        "url": "https://www.walmart.com.mx/ip/paquete-de-2-llantas-245-75-r16-111t-zmax-terra-xplorer-c2-a-t/00046333919532?athbdg=L1300",
-        "price": 4478.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plateado, 1 Pieza",
-        "url": "https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300",
-        "price": 758.0,
-        "model": "92180PC"
-      },
-      {
-        "store": "walmart",
-        "name": "Llanta 235/70 R16 106H Zmax  Gallopro H/T",
-        "url": "https://www.walmart.com.mx/ip/llanta-235-70-r16-106h-zmax-gallopro-h-t/00693862829865?athbdg=L1300",
-        "price": 1839.0,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|7KHBV53MPA": {
-    "ts": "2026-06-18T23:43:56.081889+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ROUTER BE9300 TRIBAND WIFI 7",
-        "url": "https://www.homedepot.com.mx/p/tp-link-router-be9300-triband-wifi-7-be550-234246",
-        "price": 5899.0,
-        "model": "234246"
-      },
-      {
-        "store": "homedepot",
-        "name": "SET DE 7 ORGANIZADORES 32 X 16 X 5.2 CM TRANSPARENTE",
-        "url": "https://www.homedepot.com.mx/p/home-home-set-de-7-organizadores-32-x-16-x-52-cm-transparente-orgt08-231015",
-        "price": 259.0,
-        "model": "231015"
-      },
-      {
-        "store": "homedepot",
-        "name": "CABLE UTP ETHERNET CAT6 7.6M",
-        "url": "https://www.homedepot.com.mx/p/steren-cable-utp-ethernet-cat6-76m-368525gr-236082",
-        "price": 165.0,
-        "model": "236082"
-      }
-    ]
-  },
-  "liverpool|7KHBV53MPA": {
-    "ts": "2026-06-18T23:44:24.379503+00:00",
-    "items": []
-  },
-  "liverpool|232781": {
-    "ts": "2026-06-18T23:44:52.685250+00:00",
-    "items": []
-  },
-  "walmart|232781": {
-    "ts": "2026-06-18T23:44:55.282298+00:00",
-    "items": []
-  },
-  "homedepot|WA19CG6746BVAX": {
-    "ts": "2026-06-18T23:44:55.865289+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "LAVADORA SAMSUNG CARGA SUPERIOR 19 KG DIGITAL INVERTER NEGRA",
-        "url": "https://www.homedepot.com.mx/p/samsung-lavadora-samsung-carga-superior-19-kg-digital-inverter-negra-wa19cg6746bvax-230323",
-        "price": 15299.0,
-        "model": "230323"
-      }
-    ]
-  },
-  "walmart|WA19CG6746BVAX": {
-    "ts": "2026-06-18T23:45:07.060729+00:00",
-    "items": []
-  },
-  "homedepot|WA28B8375GVAX": {
-    "ts": "2026-06-18T23:45:10.794764+00:00",
-    "items": []
-  },
-  "walmart|WA28B8375GVAX": {
-    "ts": "2026-06-18T23:46:07.488476+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 22 kg Blanca Mod. WA22A3350GW/AX Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-22-kg-blanca-mod-wa22a3350gw-ax-carga-superior/00880609218777?athbdg=L1300",
-        "price": 9190.0,
-        "model": "WA22A3350GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 20 kg Blanca WA20A3341GW/AX Carga Superior con Agitador",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-20-kg-blanca-wa20a3341gw-ax-carga-superior-con-agitador/00880609218769?athbdg=L1300",
-        "price": 9399.0,
-        "model": "WA20A3341GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Madre Asus Aorus X670 Elite AX, Chipset AMD X670, Soporta: AMD Ryzen 7ma Generación, Socket AM5, DDR5. Gigabyte X670 AORUS ELITE AX",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-asus-aorus-x670-elite-ax-chipset-amd-x670-soporta-amd-ryzen-7ma-generacion-socket-am5-ddr5-gigabyte-x670-aorus-elite-ax/00088952303350?athbdg=L6000",
-        "price": 6974.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Madre GIGABYTE B650M D3HP AX AM5 4x DDR5 2x M.2 PCIe 4.0 USB-C WIFI 6E BT 5.3 Micro ATX negro",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-gigabyte-b650m-d3hp-ax-am5-4x-ddr5-2x-m-2-pcie-4-0-usb-c-wifi-6e-bt-5-3-micro-atx-negro/00088952304058",
-        "price": 3200.0,
-        "model": "B650M"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavasecadora 20 kg Samsung AI Simple UX WD20T6300GP/AX",
-        "url": "https://www.walmart.com.mx/ip/lavasecadora-20-kg-samsung-ai-simple-ux-wd20t6300gp-ax/00880609097070?athbdg=L1300",
-        "price": 18999.0,
-        "model": "WD20T6300GP/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Madre AORUS B550 Aorus Pro AX AMD AM4 DDR4 ATX AORUS B550 AORUS PRO AX",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-aorus-b550-aorus-pro-ax-amd-am4-ddr4-atx-aorus-b550-aorus-pro-ax/00088952302298?athbdg=L1300",
-        "price": 5869.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Madre Gigabyte B550 Aorus Elite Ax Ryzen AM4",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-gigabyte-b550-aorus-elite-ax-ryzen-am4/00088952304401?athbdg=L6000",
-        "price": 12213.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Minisplit Samsung Inverter Solo Frío 1 Tonelada (12000 BTUS) 220V AR12BVHQASI/AX",
-        "url": "https://www.walmart.com.mx/ip/minisplit-samsung-inverter-solo-frio-1-tonelada-12000-btus-220v-ar12bvhqasi-ax/00880609446616",
-        "price": 6898.0,
-        "model": "AR12BVHQASI/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre GIGABYTE B650 UD AX AM5 DDR5 Wifi 6 ATX",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b650-ud-ax-am5-ddr5-wifi-6-atx/00088952304427?athbdg=L1300",
-        "price": 4129.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre GIGABYTE B650M AORUS Elite AX 1.0 AMD AM5 ATX",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b650m-aorus-elite-ax-1-0-amd-am5-atx/00471933184939?athbdg=L1300",
-        "price": 4469.0,
-        "model": "B650M"
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre CPU AMD Ryzen 5 7600X + GIGABYTE B650 AORUS ELITE AX",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-cpu-amd-ryzen-5-7600x-gigabyte-b650-aorus-elite-ax/00046583970133?athbdg=L1300",
-        "price": 9549.0,
-        "model": "7600X"
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema WiFi 6 Mesh ASUS ZenWiFi AX Hybrid XP4 para 5500 pies²",
-        "url": "https://www.walmart.com.mx/ip/sistema-wifi-6-mesh-asus-zenwifi-ax-hybrid-xp4-para-5500-pies-/00019287675788?athbdg=L1300",
-        "price": 3449.0,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|7KSB2078MER": {
-    "ts": "2026-06-18T23:46:09.483504+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ROUTER BE9300 TRIBAND WIFI 7",
-        "url": "https://www.homedepot.com.mx/p/tp-link-router-be9300-triband-wifi-7-be550-234246",
-        "price": 5899.0,
-        "model": "234246"
-      },
-      {
-        "store": "homedepot",
-        "name": "SET DE 7 ORGANIZADORES 32 X 16 X 5.2 CM TRANSPARENTE",
-        "url": "https://www.homedepot.com.mx/p/home-home-set-de-7-organizadores-32-x-16-x-52-cm-transparente-orgt08-231015",
-        "price": 259.0,
-        "model": "231015"
-      },
-      {
-        "store": "homedepot",
-        "name": "CABLE UTP ETHERNET CAT6 7.6M",
-        "url": "https://www.homedepot.com.mx/p/steren-cable-utp-ethernet-cat6-76m-368525gr-236082",
-        "price": 165.0,
-        "model": "236082"
-      }
-    ]
-  },
-  "liverpool|7KSB2078MER": {
-    "ts": "2026-06-18T23:46:37.732356+00:00",
-    "items": []
-  },
-  "homedepot|WFC510": {
-    "ts": "2026-06-18T23:46:38.392408+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "AUDÍFONOS SONY WF-C500",
-        "url": "https://www.homedepot.com.mx/p/sony-audifonos-sony-wf-c500-wfc500-b-218620",
-        "price": 1329.0,
-        "model": "218620"
-      }
-    ]
-  },
-  "walmart|WFC510": {
-    "ts": "2026-06-18T23:46:41.804621+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Audífonos Sony True Wireless WF-C510/B",
-        "url": "https://www.walmart.com.mx/ip/audifonos-sony-true-wireless-wf-c510-b/00002724293033",
-        "price": 1099.0,
-        "model": "WF-C510/B"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Sony True Wireless WF-C510/W",
-        "url": "https://www.walmart.com.mx/ip/audifonos-sony-true-wireless-wf-c510-w/00002724293034",
-        "price": 1099.0,
-        "model": "WF-C510/W"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos reacondicionados Sony WF-C510 Black IPX4",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-reacondicionados-sony-wf-c510-black-ipx4/00070367071171?athbdg=L1300",
-        "price": 1129.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Sony True Wireless WF-C510/L",
-        "url": "https://www.walmart.com.mx/ip/audifonos-sony-true-wireless-wf-c510-l/00002724293039",
-        "price": 1099.0,
-        "model": "WF-C510/L"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos Sony WF-C510 amarillos de hasta 11 h de batería",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-sony-wf-c510-amarillos-de-hasta-11-h-de-bateria/00019627152010",
-        "price": 2189.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares verdaderamente inalámbricos Sony WF-C510 con hasta 11 horas de duración de la batería (b",
-        "url": "https://www.walmart.com.mx/ip/auriculares-verdaderamente-inalambricos-sony-wf-c510-con-hasta-11-horas-de-duracion-de-la-bateria-b/00019627113948?athbdg=L1300",
-        "price": 1909.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Sony True Wireless WF-C510/Y",
-        "url": "https://www.walmart.com.mx/ip/audifonos-sony-true-wireless-wf-c510-y/00002724293040",
-        "price": 1099.0,
-        "model": "WF-C510/Y"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares verdaderamente inalámbricos Sony WF-C510 con hasta 11 horas de duración de la batería (n",
-        "url": "https://www.walmart.com.mx/ip/auriculares-verdaderamente-inalambricos-sony-wf-c510-con-hasta-11-horas-de-duracion-de-la-bateria-n/00019627159123?athbdg=L1300",
-        "price": 1979.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares Truly Wireless Sony WF-C510 con puntas de silicona negros",
-        "url": "https://www.walmart.com.mx/ip/auriculares-truly-wireless-sony-wf-c510-con-puntas-de-silicona-negros/00019627185321?athbdg=L1300",
-        "price": 1969.0,
-        "model": "WF-C510"
       },
       {
         "store": "walmart",
-        "name": "Auriculares Inalámbricos Sony WF-C510 Bluetooth IPX4 Blancos Reacondicionados",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-sony-wf-c510-bluetooth-ipx4-blancos-reacondicionados/00070367083984?athbdg=L1300",
-        "price": 1259.0,
-        "model": "WF-C510"
+        "name": "TV LG 75 Pulgadas UHD AI UA8055 4K SMART TV webOS 2025",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-75-pulgadas-uhd-ai-ua8055-4k-smart-tv-webos-2025/00880609663610",
+        "price": 32241.91,
+        "model": "UA8055"
       },
       {
         "store": "walmart",
-        "name": "Sony WF-C510 Auriculares intrauditivos Bluetooth verdaderamente inalámbricos con batería de hasta 22 horas, conexión multipunto, micrófono y resistencia al agua IPX4, amarillo - Nuevo",
-        "url": "https://www.walmart.com.mx/ip/sony-wf-c510-auriculares-intrauditivos-bluetooth-verdaderamente-inalambricos-con-bateria-de-hasta-22-horas-conexion-multipunto-microfono-y-resistencia-al-agua-ipx4-amarillo-nuevo/00454873616180?athbdg=L1300",
-        "price": 2163.0,
-        "model": "WF-C510"
+        "name": "TV LG 55 Pulgadas UHD AI UA7510 4K SMART TV 2025 55UA7510",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-55-pulgadas-uhd-ai-ua7510-4k-smart-tv-2025-55ua7510/00880609632983?athbdg=L1600",
+        "price": 8429.0,
+        "model": "55UA7510"
       }
     ]
   },
   "amazon|10MIN": {
-    "ts": "2026-06-19T01:14:56.270334+00:00",
+    "ts": "2026-06-19T15:43:54.074838+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Uñas de gel postizas a presión rosas KISS imPRESS color FX - Good Mood, paquete de 30 uñas press on, SIN NECESIDAD DE PEGAMENTO ¡Simplemente despega, presiona y listo! Tu mani en solo 10 min",
         "url": "https://www.amazon.com.mx/dp/B0CVS9HW9P",
         "price": 153.83,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Semme Auriculares 5.3 con reducción de Ruido Activa, Sonido Hi-Fi de Alto Rendimiento, Carga rápida en 10 min para 3 Horas de Uso, compatibles con, y PC, Ideales para Gaming y Llamadas",
+        "url": "https://www.amazon.com.mx/dp/B0GRWVNTQX",
+        "price": 214.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 64GB, Color Negro: Totalmente Desbloqueado (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08PP5MSVB",
+        "price": 4221.79,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13 Pro, 128GB, Azul Sierra - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LPB9SQH",
+        "price": 7809.3,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "dalipp 10 CD-R de 700 MB/80 min en Blanco, Grado A, 52 Unidades, Disco CD multimúsica",
+        "url": "https://www.amazon.com.mx/dp/B0FHWG7TBM",
+        "price": 96.88,
+        "model": "MB/80"
+      },
+      {
+        "store": "amazon",
+        "name": "Ludilo - Grabolo | Juegos De Mesa Niños 6 Años O Más | Juegos Educativos 6 Años O Más | Juego De Cartas De 3 A 5 Jugadores | Juego De Mesa De Partidas De 10 Min",
+        "url": "https://www.amazon.com.mx/dp/B07X3LYC5H",
+        "price": 267.27,
         "model": null
       },
       {
@@ -1386,16 +253,9 @@
       },
       {
         "store": "amazon",
-        "name": "Ludilo - Grabolo | Juegos De Mesa Niños 6 Años O Más | Juegos Educativos 6 Años O Más | Juego De Cartas De 3 A 5 Jugadores | Juego De Mesa De Partidas De 10 Min",
-        "url": "https://www.amazon.com.mx/dp/B07X3LYC5H",
-        "price": 453.76,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Noris 606062774 Kugelblitz - Das Kartenspiel (Juego a Partir de 6 años), Divertido Rompecabezas para niños y Toda la Familia, 2-4 Jugadores, Aprox. 10 min de Tiempo de Juego por Ronda",
         "url": "https://www.amazon.com.mx/dp/B0DGLN291G",
-        "price": 574.0,
+        "price": 568.3,
         "model": null
       },
       {
@@ -1407,540 +267,42 @@
       },
       {
         "store": "amazon",
-        "name": "10 PACK Shampoo Tinte Instantáneo - Cubre Canas Naturalmente en tan solo 15 min. Jengibre shampoo con tinte paquete con 10 sobres de 30 grs c/u (café obscuro)",
-        "url": "https://www.amazon.com.mx/dp/B0BD9D52SH",
-        "price": 145.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "10 min bible study for kids",
-        "url": "https://www.amazon.com.mx/dp/B0FSRZ6L2N",
-        "price": 582.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "10 PACK Shampoo Tinte Instantáneo - Cubre Canas Naturalmente en tan solo 15 min. Jengibre shampoo con tinte paquete con 10 sobres de 30 grs c/u (negro)",
         "url": "https://www.amazon.com.mx/dp/B0BDBQTC8Q",
         "price": 145.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 piezas de temporizador de retardo de encendido, QD-068, de 0.03 a 10 min, retardo ajustable, 19-288 V CA O CC (2)",
-        "url": "https://www.amazon.com.mx/dp/B0D3CYJBXF",
-        "price": 290.99,
-        "model": "QD-068"
-      },
-      {
-        "store": "amazon",
-        "name": "Histoires pour endormir les enfants en 10 min",
-        "url": "https://www.amazon.com.mx/dp/B0CXK9Y6M9",
-        "price": 386.17,
-        "model": null
       }
     ]
-  },
-  "amazon|ROTO12A7": {
-    "ts": "2026-06-19T01:14:58.209031+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TRUPER ROTO-1/2A7, Rotomartillo/destornillador 1/2\", 650W",
-        "url": "https://www.amazon.com.mx/dp/B06VW91GQF",
-        "price": 665.0,
-        "model": "ROTO-1/2A7"
-      },
-      {
-        "store": "amazon",
-        "name": "Truper ROTO-1/2A9, Rotomartillo 1/2\" 850 W profesional",
-        "url": "https://www.amazon.com.mx/dp/B06WGR3TG1",
-        "price": 1050.0,
-        "model": "ROTO-1/2A9"
-      },
-      {
-        "store": "amazon",
-        "name": "Truper COMBO-100, Combo rotomartillo ROTO-1/2A7, CHA-19G y ORG-15 + JBMX-9 Juego de 9 brocas alta velocidad, concreto y madera",
-        "url": "https://www.amazon.com.mx/dp/B09MJLNLN4",
-        "price": 1066.0,
-        "model": "ROTO-1/2A7"
-      },
-      {
-        "store": "amazon",
-        "name": "TRUPER - Rotomartillo 1/2 profesional, 650 W, 4.7A + JBAC-11, Juego de brocas para metal y concreto, 11 piezas",
-        "url": "https://www.amazon.com.mx/dp/B09MJKHKJ1",
-        "price": 924.0,
-        "model": "JBAC-11"
-      },
-      {
-        "store": "amazon",
-        "name": "Carbones P/Rotomart.Carb-Roto-1/2A7 Truper Bolsa C/2 Piezas",
-        "url": "https://www.amazon.com.mx/dp/B084Z1Z3FV",
-        "price": 108.75,
-        "model": "Carb-Roto-1/2A7"
-      },
-      {
-        "store": "amazon",
-        "name": "Rotomartillo 1/2\", profesional, 650 W, 4.7A + JBMX-9 Juego de 9 brocas alta velocidad, concreto y madera",
-        "url": "https://www.amazon.com.mx/dp/B09MJJ9KW1",
-        "price": 836.0,
-        "model": "JBMX-9"
-      },
-      {
-        "store": "amazon",
-        "name": "Rotomartillo 1/2\", profesional, 650 W, 4.7A + JBCT-6, Juego de brocas para concreto, 6 piezas",
-        "url": "https://www.amazon.com.mx/dp/B09R8GXT7R",
-        "price": 800.0,
-        "model": "JBCT-6"
-      },
-      {
-        "store": "amazon",
-        "name": "Rotomartillo 1/2\", profesional, 650 W, 4.7A + Pretul SET-39, Set de herramientas para mecánica, 39 piezas",
-        "url": "https://www.amazon.com.mx/dp/B09VXYXVVC",
-        "price": 824.0,
-        "model": "SET-39"
-      }
-    ]
-  },
-  "amazon|RS20N6WCX": {
-    "ts": "2026-06-19T01:15:00.392132+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "10 rebanadas FQPF20N06 TO-220F",
-        "url": "https://www.amazon.com.mx/dp/B0H4CT3YBT",
-        "price": 285.09,
-        "model": "FQPF20N06"
-      },
-      {
-        "store": "amazon",
-        "name": "20 transistores de efecto de campo (MOSFET) 2 canales N 20 V 6A SOT-23-6L FS8205A",
-        "url": "https://www.amazon.com.mx/dp/B0FFZQRR2N",
-        "price": 118.26,
-        "model": "SOT-23-6L"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas S2025L TO220 S4025L S6025L",
-        "url": "https://www.amazon.com.mx/dp/B0H4GCVGV1",
-        "price": 311.78,
-        "model": "S2025L"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas R6006KNX R6006ANX TO-220F",
-        "url": "https://www.amazon.com.mx/dp/B0H49M5XG2",
-        "price": 295.77,
-        "model": "R6006KNX"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas JCS20N65FH TO-220F",
-        "url": "https://www.amazon.com.mx/dp/B0H4CW3YJT",
-        "price": 311.78,
-        "model": "JCS20N65FH"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas SPP20N60S5 20N60S5 TO-220",
-        "url": "https://www.amazon.com.mx/dp/B0H4GQFPY6",
-        "price": 311.78,
-        "model": "SPP20N60S5"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas RU6H7R TO-220",
-        "url": "https://www.amazon.com.mx/dp/B0H4GBRWWJ",
-        "price": 279.58,
-        "model": "RU6H7R"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas RX65T720MS2A DFN5*6",
-        "url": "https://www.amazon.com.mx/dp/B0H3V9NS6C",
-        "price": 303.68,
-        "model": "RX65T720MS2A"
-      },
-      {
-        "store": "amazon",
-        "name": "SCHNEIDER - Relé (4 W, 6 A, 230 V, CA, LED, RXM4AB2P7)",
-        "url": "https://www.amazon.com.mx/dp/B0085C9EC0",
-        "price": 1230.15,
-        "model": "RXM4AB2P7"
-      },
-      {
-        "store": "amazon",
-        "name": "Relé potencial de arranque del compresor de máquina de hielo, apto para controles de motor RVA7AA3D, MR-TX1A, apto para Manitowoc I0522P ID0522A SD0422AP Reemplazar 2002053 20-0205-3",
-        "url": "https://www.amazon.com.mx/dp/B0FP4FCYGM",
-        "price": 549.01,
-        "model": "RVA7AA3D"
-      },
-      {
-        "store": "amazon",
-        "name": "896h-1ch-c-r1 u24 Relé de 12 V CC de 5 Pines y 50",
-        "url": "https://www.amazon.com.mx/dp/B0H54QW6KY",
-        "price": 361.96,
-        "model": "896h-1ch-c-r1"
-      },
-      {
-        "store": "amazon",
-        "name": "Relé 892HN-1CH-C-5VDC 7A 5 Pines",
-        "url": "https://www.amazon.com.mx/dp/B0H54GWJHT",
-        "price": 361.96,
-        "model": "892HN-1CH-C-5VDC"
-      }
-    ]
-  },
-  "amazon|WT5I2223DB": {
-    "ts": "2026-06-19T01:15:02.820685+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense Lavadora de carga superior WT5i2223DB,Totalmente automático,22 Kg,Ahorro de agua,Lavado de marea,65x69x110cm(AnchoxLargoxAlto),Negro",
-        "url": "https://www.amazon.com.mx/dp/B08DMT9QCX",
-        "price": 19999.0,
-        "model": "65x69x110cm"
-      },
-      {
-        "store": "amazon",
-        "name": "Acros Estufa 4 Quemadores NAW-1001S + Hisense Lavadora WT5i2223DB 22kg",
-        "url": "https://www.amazon.com.mx/dp/B0G76Y11ST",
-        "price": 14198.5,
-        "model": "WT5i2223DB"
-      }
-    ]
-  },
-  "amazon|WA21B3554GVAX": {
-    "ts": "2026-06-19T01:15:05.725681+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Válvula De Agua Dc97-15459m Para Lavadora Samsung",
-        "url": "https://www.amazon.com.mx/dp/B0FWPND9W8",
-        "price": 980.0,
-        "model": "Dc97-15459m"
-      },
-      {
-        "store": "amazon",
-        "name": "WA50R5200AW/US WA50R5400AV/US Kits de varillas de suspensión para Samsung Washer WA45T3200AW/A4, reemplaza WA45M7050AW/A4 WA45T3400AV/A4 WA45N3050AW/A4 WA50T5300AC",
-        "url": "https://www.amazon.com.mx/dp/B0D7CBKR6Y",
-        "price": 795.81,
-        "model": "WA50R5200AW/US"
-      },
-      {
-        "store": "amazon",
-        "name": "Presostato DC96-01703M Para Lavadora Samsung",
-        "url": "https://www.amazon.com.mx/dp/B0FWVFFP7L",
-        "price": 400.0,
-        "model": "DC96-01703M"
-      }
-    ]
-  },
-  "amazon|OLED55C5PSA": {
-    "ts": "2026-06-19T01:15:07.531840+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED55C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2VSVPQM",
-        "price": 15579.59,
-        "model": "OLED55C5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas OLED EVO AI G5 4K Smart TV webOS 2025 OLED55G5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2PYLZ79",
-        "price": 21912.6,
-        "model": "OLED55G5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas UHD AI UA8050 4K Smart TV 2025",
-        "url": "https://www.amazon.com.mx/dp/B0F7TX4QKB",
-        "price": 7495.0,
-        "model": "UA8050"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas UHD AI UA7550 4K Smart TV 2025 55UA7550PSA | Sistema Operativo webOS | Identificación de Voz AI | HGIG Mode Channels | Sport Alert | HDR10 | Control Magic Remote AI",
-        "url": "https://www.amazon.com.mx/dp/B0FMW1WPH1",
-        "price": 7299.0,
-        "model": "55UA7550PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
-        "price": 19499.0,
-        "model": "86QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
-        "price": 9495.0,
-        "model": "55QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
-        "price": 11995.0,
-        "model": "65QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla OLED 55\" C5 4K Smart TV webOS 2025 120Hz Dolby OLED 65\" C5 4K Smart TV webOS 2025 120Hz Dolby",
-        "url": "https://www.amazon.com.mx/dp/B0G76HBPS7",
-        "price": 40574.59,
-        "model": "120Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "1pc Magic Voice Mando a distancia AKB76046608 MR25GA for 2025 AI Smart TV OLED65C5PSA, OLED55C5PSA, OLED65G5PSA, OLED77C5PSA",
-        "url": "https://www.amazon.com.mx/dp/B0GQQ1S91P",
-        "price": 517.09,
-        "model": "AKB76046608"
-      },
-      {
-        "store": "amazon",
-        "name": "SAMSUNG Smart TV de 65\" Pulgadas Clase Q72DD Series 4K (2160p) LED (2024) - QN65Q72DDFXZA (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0DXGMKNK1",
-        "price": 11399.0,
-        "model": "QN65Q72DDFXZA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 83 Pulgadas OLED EVO AI G5 4K Smart TV webOS 2025 OLED83G5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2PP2JMP",
-        "price": 79998.75,
-        "model": "OLED83G5PSA"
-      }
-    ]
-  },
-  "homedepot|WHCH520": {
-    "ts": "2026-06-19T01:15:08.235846+00:00",
-    "items": []
-  },
-  "liverpool|WHCH520": {
-    "ts": "2026-06-19T01:15:09.129955+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Audífonos On-Ear Sony Wh-Ch520 inalámbricos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Aud%C3%ADfonos-On-Ear-Sony-Wh-Ch520-inal%C3%A1mbricos/1136779358",
-        "price": 777.6,
-        "model": "Wh-Ch520"
-      },
-      {
-        "store": "liverpool",
-        "name": "Audífonos On-Ear Sony Wh-Ch520 inalámbricos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Aud%C3%ADfonos-On-Ear-Sony-Wh-Ch520-inal%C3%A1mbricos/1178743631",
-        "price": 777.6,
-        "model": "Wh-Ch520"
-      },
-      {
-        "store": "liverpool",
-        "name": "Audífonos On-Ear Sony Sony Wh-Ch520 inalámbricos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Aud%C3%ADfonos-On-Ear-Sony-Sony-Wh-Ch520-inal%C3%A1mbricos/1178696081",
-        "price": 777.6,
-        "model": "Wh-Ch520"
-      },
-      {
-        "store": "liverpool",
-        "name": "Audífonos On-Ear Billboard Soul Track inalámbricos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Aud%C3%ADfonos-On-Ear-Billboard-Soul-Track-inal%C3%A1mbricos/1125792728",
-        "price": 499.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|WHCH520": {
-    "ts": "2026-06-19T01:15:17.414562+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Sony WH-CH520/B Negro",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch520-b-negro/00002724292520?athbdg=L1300",
-        "price": 699.0,
-        "model": "WH-CH520/B"
-      },
-      {
-        "store": "walmart",
-        "name": "Sony WH-CH520 Auriculares inalámbricos Bluetooth On-Ear con micrófono, Negro Nuevo",
-        "url": "https://www.walmart.com.mx/ip/sony-wh-ch520-auriculares-inalambricos-bluetooth-on-ear-con-microfono-negro-nuevo/00454873614238?athbdg=L1300",
-        "price": 1844.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM compatible con Sony WH-CH720N/WH-CH520 negro+gris",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch720n-wh-ch520-negro-gris/00045096489846?athbdg=L1300",
-        "price": 569.0,
-        "model": "WH-CH720N/WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Sony WH-CH520/W Blanco",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch520-w-blanco/00002724292546?athbdg=L1300",
-        "price": 699.0,
-        "model": "WH-CH520/W"
-      },
-      {
-        "store": "walmart",
-        "name": "SONY Audífonos inalámbricos WH-CH520 Sony  Beige",
-        "url": "https://www.walmart.com.mx/ip/sony-audifonos-inalambricos-wh-ch520-sony-beige/00046183249175?athbdg=L1300",
-        "price": 899.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares supraaurales inalámbricos Bluetooth Sony WH-CH520 negros",
-        "url": "https://www.walmart.com.mx/ip/auriculares-supraaurales-inalambricos-bluetooth-sony-wh-ch520-negros/00019627149285?athbdg=L1300",
-        "price": 1939.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM compatible con Sony WH-CH520/WH-CH520B.CE7/WH-CH520B",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch520-wh-ch520b-ce7-wh-ch520b/00046417665536?athbdg=L1300",
-        "price": 539.0,
-        "model": "WH-CH520/WH-CH520B"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM para Audífonos Bluetooth Sony WH-CH520, Blanca",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-para-audifonos-bluetooth-sony-wh-ch520-blanca/00046297124876?athbdg=L1300",
-        "price": 559.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Sony Audífonos inalámbricos WH-CH520 color rosa",
-        "url": "https://www.walmart.com.mx/ip/sony-audifonos-inalambricos-wh-ch520-color-rosa/00002724293242?athbdg=L1300",
-        "price": 699.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM compatible con Sony WH-CH720N/WH-CH520 negra",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch720n-wh-ch520-negra/00046342746382?athbdg=L1300",
-        "price": 559.0,
-        "model": "WH-CH720N/WH-CH520"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Wh-ch520 Color Negro",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-wh-ch520-color-negro/00750304897902",
-        "price": 1749.0,
-        "model": "Wh-ch520"
-      },
-      {
-        "store": "walmart",
-        "name": "Funda LTGEM compatible con Sony WH-CH520/WH-CH520B.CE7, color beige",
-        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch520-wh-ch520b-ce7-color-beige/00046342745697?athbdg=L1300",
-        "price": 559.0,
-        "model": "WH-CH520/WH-CH520B"
-      }
-    ]
-  },
-  "amazon|244958": {
-    "ts": "2026-06-19T01:15:37.577915+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Bedford Precision 20-3983 Kit de reparación para Hydramax 300/350 - Repuesto para Graco 244958",
-        "url": "https://www.amazon.com.mx/dp/B0C3SDF8W6",
-        "price": 4509.54,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|UA8050": {
-    "ts": "2026-06-19T01:15:37.900229+00:00",
-    "items": []
-  },
-  "liverpool|UA8050": {
-    "ts": "2026-06-19T01:15:38.820043+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV Lg Crystal UHD de 55 pulgadas 4K 55UA8050PSA con AI webOS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-Crystal-UHD-de-55-pulgadas-4K-55UA8050PSA-con-AI-webOS/1178738751",
-        "price": 10739.0,
-        "model": "55UA8050PSA"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV Lg Crystal UHD de 65 pulgadas 4K 65UA8050PSA con AI webOS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-Crystal-UHD-de-65-pulgadas-4K-65UA8050PSA-con-AI-webOS/1178738735",
-        "price": 11999.0,
-        "model": "65UA8050PSA"
-      }
-    ]
-  },
-  "walmart|UA8050": {
-    "ts": "2026-06-19T01:15:49.399056+00:00",
-    "items": []
   },
   "amazon|4KUHD": {
-    "ts": "2026-06-19T01:15:54.809022+00:00",
+    "ts": "2026-06-19T15:46:19.219460+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Duplicador divisor HDMI 4K 1x4 de Orei de OREI - con escalador descendente 4 puertos con Full Ultra HD, HDCP 2.2, hasta 4K a 60Hz, 1080p y 3D Admite control EDID - UHDPRO-104, Número de modelo: UHD-PRO104",
-        "url": "https://www.amazon.com.mx/dp/B0891WY8SF",
-        "price": 1099.52,
-        "model": "UHDPRO-104"
-      },
-      {
-        "store": "amazon",
-        "name": "Cable HDMI 8K 2.1 de ultra alta velocidad certificado, 48 Gbps, compatible con PS5/XBox, reproductor de televisión UHD 4K y Blu-ray Dolby Vision, Dolby Atmos/DTS:X barra de sonido (1m/3.3 ft.)",
-        "url": "https://www.amazon.com.mx/dp/B0D9CDL565",
-        "price": 215.26,
-        "model": "PS5/XBox"
-      },
-      {
-        "store": "amazon",
-        "name": "FITCAMX 4K Coche Cámara, para Toyota RAV4 2022-2025 (Modelo B) con Ventilación LE Limited SE XLE, OEM Aspecto, 2160P UHD Vídeo, Bucle Grabación y G-Sensor, Conexión WiFi y App, Plug & Play, 64GB",
-        "url": "https://www.amazon.com.mx/dp/B0B1V4BZ3Z",
-        "price": 3099.0,
-        "model": "2160P"
-      },
-      {
-        "store": "amazon",
-        "name": "Cable HDMI 2.0, 4K a 60 Hz, 18 Gbps, rojo, 1 m/3,3 pies. Compatible con PS5, Xbox, Switch, PC, televisores 4K UHD, reproductores de Blu-ray y barras de sonido, ARC",
-        "url": "https://www.amazon.com.mx/dp/B0DRZWPHKC",
-        "price": 160.0,
+        "name": "The Super Mario Bros. Movie - Power Up Edition 4K Ultra HD + Blu-ray + Digital [4K UHD]",
+        "url": "https://www.amazon.com.mx/dp/B0BZ6ZYZK8",
+        "price": 415.42,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Avatar: Fire And Ash (3 Disc) - 4K UHD/BD Combo + Bonus Disc + Digital",
         "url": "https://www.amazon.com.mx/dp/B0GVB75HNC",
-        "price": 684.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "The Super Mario Bros. Movie - Power Up Edition 4K Ultra HD + Blu-ray + Digital [4K UHD]",
-        "url": "https://www.amazon.com.mx/dp/B0BZ6ZYZK8",
-        "price": 415.59,
+        "price": 691.35,
         "model": null
       },
       {
         "store": "amazon",
         "name": "The Fifth Element [Blu-ray] [4K UHD]",
         "url": "https://www.amazon.com.mx/dp/B072873SJ3",
-        "price": 506.22,
+        "price": 481.04,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Godzilla Minus One (4K Ultra HD + Blu-ray) [4K UHD]",
+        "url": "https://www.amazon.com.mx/dp/B0DCB6G6NY",
+        "price": 506.97,
         "model": null
       },
       {
@@ -1959,968 +321,74 @@
       },
       {
         "store": "amazon",
-        "name": "Godzilla Minus One (4K Ultra HD + Blu-ray) [4K UHD]",
-        "url": "https://www.amazon.com.mx/dp/B0DCB6G6NY",
-        "price": 482.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Live Die Repeat: Edge of Tomorrow (4K UHD + Blu-ray)",
         "url": "https://www.amazon.com.mx/dp/B09YL2CYCN",
-        "price": 504.5,
+        "price": 500.85,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "The Ten Commandments (4K UHD + Blu-ray + Digital)",
-        "url": "https://www.amazon.com.mx/dp/B08SXZBBZZ",
-        "price": 492.35,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|MDRF700FGM46": {
-    "ts": "2026-06-19T01:15:55.033401+00:00",
-    "items": []
-  },
-  "amazon|MDRF700FGM46": {
-    "ts": "2026-06-19T01:15:57.338161+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense RF22N6FCX-Refrigerador French door, 22 pies cúbicos, Control táctil electrónico, Total No Frost, Eco Inverter, 79x82x173cm(AnchoxLargoxAlto), Gris",
-        "url": "https://www.amazon.com.mx/dp/B0D6PQ2NQL",
-        "price": 18699.45,
-        "model": "RF22N6FCX-Refrigerador"
-      }
-    ]
-  },
-  "walmart|MDRF700FGM46": {
-    "ts": "2026-06-19T01:16:04.350744+00:00",
-    "items": []
-  },
-  "homedepot|MF210D150WBT": {
-    "ts": "2026-06-19T01:16:16.543118+00:00",
-    "items": []
-  },
-  "amazon|MF210D150WBT": {
-    "ts": "2026-06-19T01:16:18.222927+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Midea lavasecadora carga frontal 15kg/8kg MF210D150WB/T",
-        "url": "https://www.amazon.com.mx/dp/B0GNP1LWP7",
-        "price": 11147.05,
-        "model": "MF210D150WB/T"
-      }
-    ]
-  },
-  "walmart|MF210D150WBT": {
-    "ts": "2026-06-19T01:16:23.015967+00:00",
-    "items": []
-  },
-  "homedepot|WSA2001P": {
-    "ts": "2026-06-19T01:16:26.795924+00:00",
-    "items": []
-  },
-  "amazon|WSA2001P": {
-    "ts": "2026-06-19T01:16:28.307498+00:00",
-    "items": []
-  },
-  "walmart|WSA2001P": {
-    "ts": "2026-06-19T01:16:33.174336+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Hisense Dos Tinas 20 kg Blanca Hisense WSA2001P",
-        "url": "https://www.walmart.com.mx/ip/lavadora-hisense-dos-tinas-20-kg-blanca-hisense-wsa2001p/00929397000855?athbdg=L1300",
-        "price": 7959.0,
-        "model": "WSA2001P"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Semiautomática Hisense Doble Tina 20 Kilos WSA2001P Lavado y Centrifugado Independientes",
-        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-hisense-doble-tina-20-kilos-wsa2001p-lavado-y-centrifugado-independientes/00690110181133",
-        "price": 9156.0,
-        "model": "WSA2001P"
-      },
-      {
-        "store": "walmart",
-        "name": "LAVADORA SEMIAUTOMATICA DOBLE TINA 20 KILOS HISENSE WSA2001P",
-        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-doble-tina-20-kilos-hisense-wsa2001p/00060567128079?athbdg=L1300",
-        "price": 9497.0,
-        "model": "WSA2001P"
-      }
-    ]
-  },
-  "homedepot|NANO80": {
-    "ts": "2026-06-19T01:16:37.884013+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ADAPTADOR BLUETOOTH 5.0 NANO USB",
-        "url": "https://www.homedepot.com.mx/p/tp-link-adaptador-bluetooth-50-nano-usb-ub500-234422",
-        "price": 259.0,
-        "model": "234422"
-      },
-      {
-        "store": "homedepot",
-        "name": "ADAPTADOR USB NANO DOBLE BANDA INALÁMBRICO AC600",
-        "url": "https://www.homedepot.com.mx/p/tp-link-adaptador-usb-nano-doble-banda-inalambrico-ac600-archer-t2u-nano-234241",
-        "price": 339.0,
-        "model": "234241"
-      },
-      {
-        "store": "homedepot",
-        "name": "PC POWERBIT NANO BYTE RYZEN 5 RAM DE 16GB SSD DE 1TB RADEON GRAPHICS W11H VERSION DE PRUEBA",
-        "url": "https://www.homedepot.com.mx/p/powerbit-pc-powerbit-nano-byte-ryzen-5-ram-de-16gb-ssd-de-1tb-radeon-graphics-w11h-version-de-prueba-1-powerb-ge-ry54600-234481",
-        "price": 6999.0,
-        "model": "234481"
-      }
-    ]
-  },
-  "liverpool|NANO80": {
-    "ts": "2026-06-19T01:16:39.865633+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG NanoCell de 65 pulgadas 4K 65NANO80ASA con WebOS con AI webOS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-de-65-pulgadas-4K-65NANO80ASA-con-WebOS-con-AI-webOS/1178728713",
-        "price": 15165.5,
-        "model": "65NANO80ASA"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG NanoCell de 75 pulgadas 4K 75NANO80ASA con WebOs",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-NanoCell-de-75-pulgadas-4K-75NANO80ASA-con-WebOs/1175969094",
-        "price": 11998.7,
-        "model": "75NANO80ASA"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV Lg NanoCell de 55 pulgadas 4K 55NANO80ASA con AI webOS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Lg-NanoCell-de-55-pulgadas-4K-55NANO80ASA-con-AI-webOS/1178739227",
-        "price": 9289.0,
-        "model": "55NANO80ASA"
-      }
-    ]
-  },
-  "amazon|NANO80": {
-    "ts": "2026-06-19T01:16:42.385161+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Receptor 2.4G / 915MHz / 868MHz Receptor de largo alcance apto for FPV Drone de carreras de largo alcance(Nano 2.4G 80mm)",
-        "url": "https://www.amazon.com.mx/dp/B0H4W24RHV",
-        "price": 599.48,
-        "model": "915MHz"
-      },
-      {
-        "store": "amazon",
-        "name": "Nano Beads 80-54359 - Juego de 48 colores",
-        "url": "https://www.amazon.com.mx/dp/B07NGH1LZH",
-        "price": 797.57,
+        "name": "SHINING, The 4K UHD [Blu-ray]",
+        "url": "https://www.amazon.com.mx/dp/B07RP4T8KZ",
+        "price": 352.89,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Funda de aleación de aluminio OSMO Nano Dive de 263 pies/80 m subacuático impermeable carcasa protectora para DJI OSMO Nano cámara con accesorios de soporte",
-        "url": "https://www.amazon.com.mx/dp/B0H4GC7GTF",
-        "price": 1083.43,
-        "model": "pies/80"
-      },
-      {
-        "store": "amazon",
-        "name": "Tarjeta de cumpleaños para abuela con sobre y sello calcomanía, tulipanes de 5 x 7 pulgadas, tarjeta de cumpleaños de nieto, nieta, tarjeta de cumpleaños Nana para 60, 70, 80, Día de los",
-        "url": "https://www.amazon.com.mx/dp/B0H4H3657L",
-        "price": 299.93,
+        "name": "2001: A SPACE ODYSSEY (4K UHDBD) [Blu-ray]",
+        "url": "https://www.amazon.com.mx/dp/B07KH8W76F",
+        "price": 493.2,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nana's Best Ever - Manta de regalo de cumpleaños de 60 x 80 pies de nietos",
-        "url": "https://www.amazon.com.mx/dp/B0BH4RNZ93",
-        "price": 513.49,
+        "name": "The Exorcist III - Collector's Edition 4K Ultra HD + Blu-ray [4K UHD]",
+        "url": "https://www.amazon.com.mx/dp/B0BQF7S5M9",
+        "price": 451.85,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "400mAh 616-0223 616-0224 616-0283 Reemplazo de batería para iPod Nano 2GB, iPod Nano 4GB MA004LL/A MA005LL/A MA099LL/A MA107LL/A",
-        "url": "https://www.amazon.com.mx/dp/B0CJ87BMTL",
-        "price": 446.59,
-        "model": "MA004LL/A"
-      },
-      {
-        "store": "amazon",
-        "name": "Mica De Nano Cristal Para Pantalla Protector Nissan Xtrail Exclusive, Platinum y Platinum Plus 12 pulgadas 2023 al 2026 (Protector que evita rayaduras)",
-        "url": "https://www.amazon.com.mx/dp/B0H5L151XP",
-        "price": 550.0,
+        "name": "Flow (The Criterion Collection) [4K UHD] [Blu-ray]",
+        "url": "https://www.amazon.com.mx/dp/B0DYJKJQPF",
+        "price": 710.69,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Regalos de cumpleaños para abuela de nietos, regalos de cumpleaños de abuela para 50 60 70 80, divertido regalo de cumpleaños de abuela para Nana Mimi Gigi grabado de acero inoxidable para pala de",
-        "url": "https://www.amazon.com.mx/dp/B0GXS5P788",
-        "price": 373.39,
+        "name": "Dark Knight Trilogy Collection (4 K Ultra HD) [Blu-ray]",
+        "url": "https://www.amazon.com.mx/dp/B0774D6HBB",
+        "price": 1153.75,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Divertida tarjeta de cumpleaños de 80 años para mujer – Fabulous Dachshund – Divertida tarjeta de cumpleaños para mujer de 80 años de edad, 80 años de edad, Nan Grandma, Mamá, Tía, Hermana, Mamá",
-        "url": "https://www.amazon.com.mx/dp/B0D3VHN3DV",
-        "price": 317.56,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Base de montaje magnética para DJI Osmo Nano/Action 6, bola de liberación rápida de doble dirección con ventosa adaptador de montaje para DJI Osmo Nano/Action 6, cabeza de bola giratoria de 360°",
-        "url": "https://www.amazon.com.mx/dp/B0GSPCZSLD",
-        "price": 405.61,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TP-Link Archer TX1U Nano - Adaptador WiFi para PC, Wi-Fi 6 AX300 WLAN Stick, Plug & Play, tamaño nano, MU-MIMO, modo punto de acceso, compatible con Windows y Linux (kernel 3.10 y superior)",
-        "url": "https://www.amazon.com.mx/dp/B0F4KYFFXY",
-        "price": 402.46,
-        "model": "AX300"
-      },
-      {
-        "store": "amazon",
-        "name": "Fregadero de Cocina Golden de 80 × 45 cm con Cascada, Barra multifunción, encimera con Revestimiento Nano, estación de Trabajo con Grifo retráctil y Juego Completo de Accesorios.",
-        "url": "https://www.amazon.com.mx/dp/B0H5HSWHCD",
-        "price": 8144.99,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|55QNED81BSC": {
-    "ts": "2026-06-19T01:16:48.874633+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.5 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-05-hp-55-l-min-115-v-ljp-07-223479",
-        "price": 3579.0,
-        "model": "223479"
-      },
-      {
-        "store": "homedepot",
-        "name": "BOMBA DE AGUA JET 0.75 HP 55 L/MIN 115 V",
-        "url": "https://www.homedepot.com.mx/p/franklin-bomba-de-agua-jet-075-hp-55-l-min-115-v-ljp-07-24l-223493",
-        "price": 5339.0,
-        "model": "223493"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BRONCE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-bronce-wisteria-235884",
-        "price": 1299.0,
-        "model": "235884"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA GRANITO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-granito-wisteria-235880",
-        "price": 1299.0,
-        "model": "235880"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA BLANCO",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-blanco-wisteria-235867",
-        "price": 1299.0,
-        "model": "235867"
-      },
-      {
-        "store": "homedepot",
-        "name": "MACETA COPA WISTERIA CON LUZ CABLE",
-        "url": "https://www.homedepot.com.mx/p/new-garden-maceta-copa-wisteria-con-luz-cable-wisteria-235888",
-        "price": 1389.0,
-        "model": "235888"
-      },
-      {
-        "store": "homedepot",
-        "name": "Mueble para Tv 55\" Madik",
-        "url": "https://www.homedepot.com.mx/p/madik-mueble-para-tv-55-madik-39820002-245517",
-        "price": 5199.0,
-        "model": "245517"
-      }
-    ]
-  },
-  "amazon|55QNED81BSC": {
-    "ts": "2026-06-19T01:16:50.655487+00:00",
-    "items": []
-  },
-  "walmart|55QNED81BSC": {
-    "ts": "2026-06-19T01:16:59.539422+00:00",
-    "items": []
-  },
-  "homedepot|CMCK200C2": {
-    "ts": "2026-06-19T01:17:07.261496+00:00",
-    "items": []
-  },
-  "liverpool|CMCK200C2": {
-    "ts": "2026-06-19T01:17:36.304313+00:00",
-    "items": []
-  },
-  "walmart|CMCK200C2": {
-    "ts": "2026-06-19T01:17:44.320117+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Kit de Herramientas 20V Inalambricas con Taladro Atornillador y Atornilladro de Impacto con 2 Baterías Craftsman CRAFTSMAN CRAF-CMCK200C2",
-        "url": "https://www.walmart.com.mx/ip/kit-de-herramientas-20v-inalambricas-con-taladro-atornillador-y-atornilladro-de-impacto-con-2-baterias-craftsman-craftsman-craf-cmck200c2/00088591154882?athbdg=L6000",
-        "price": 5250.0,
-        "model": "CRAF-CMCK200C2"
-      }
-    ]
-  },
-  "amazon|50NU850BPSA": {
-    "ts": "2026-06-19T01:18:04.419046+00:00",
-    "items": []
-  },
-  "amazon|55QNED83ASG": {
-    "ts": "2026-06-19T01:18:06.584510+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
-        "price": 9495.0,
-        "model": "55QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas UHD AI UA8050 4K Smart TV 2025",
-        "url": "https://www.amazon.com.mx/dp/B0F7TX4QKB",
-        "price": 7495.0,
-        "model": "UA8050"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 55QM64L Smart TV Pantalla 4K QD-MINILED 55\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRK522ZF",
-        "price": 9494.0,
-        "model": "55QM64L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV 2025 Pantalla 55\" 55Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DPHCC3X7",
-        "price": 6788.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Serie QNED80 Mini LED QNED de 50 Pulgadas Smart TV 4K Pantalla Plana para Juegos con Control Remoto mágico Alimentado por IA con Alexa | Modelo 50QNED80URA, 2023",
-        "url": "https://www.amazon.com.mx/dp/B0BVXBB6Q6",
-        "price": 17850.0,
-        "model": "50QNED80URA"
-      }
-    ]
-  },
-  "amazon|55UA8000PSB": {
-    "ts": "2026-06-19T01:18:08.469843+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      }
-    ]
-  },
-  "amazon|65UA8000PSB": {
-    "ts": "2026-06-19T01:18:10.078412+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      }
-    ]
-  },
-  "homedepot|LA11101": {
-    "ts": "2026-06-19T01:18:10.445558+00:00",
-    "items": []
-  },
-  "amazon|LA11101": {
-    "ts": "2026-06-19T01:18:13.064551+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lavadora Semiautomatica Dace 11 kg, 1 tina, lavado Turbo Impulsor, tapa abatible transparente, filtro atrapapelusas, blanco, modelo LA11101",
-        "url": "https://www.amazon.com.mx/dp/B0B9QQKDZ4",
-        "price": 2083.0,
-        "model": "LA11101"
-      },
-      {
-        "store": "amazon",
-        "name": "81536-15120 LR4B Bombilla de Luz Trasera 12V RR Módulo de Fuente Luz Combinada 8153615120 Compatible con Corolla (1PC)",
-        "url": "https://www.amazon.com.mx/dp/B0H4YDQJQ3",
-        "price": 578.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Módulo Controlador de Unidad de Faros Delanteros para Tesla S 2012 2013 2014 10R034663 A71177E00DG Balasto de Faros Delanteros",
-        "url": "https://www.amazon.com.mx/dp/B0H57Q5QJH",
-        "price": 1120.75,
-        "model": "A71177E00DG"
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla LCD LED LM116LF3L de 11,6 pulgadas con conector EDP 30 pines",
-        "url": "https://www.amazon.com.mx/dp/B0H561BKLP",
-        "price": 3881.04,
-        "model": "LM116LF3L"
-      },
-      {
-        "store": "amazon",
-        "name": "LR028112 LR011915 Unidad electrónica de control de estacionamiento módulo de freno de mano driver de placa de circuito del motor L322 EPB para Range para Rover coche estacionar actuador de freno",
-        "url": "https://www.amazon.com.mx/dp/B0H555M1LK",
-        "price": 8191.97,
-        "model": "LR028112"
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorios Bombilla ET-LAA110 apta for proyector PANASONIC PT-AH100 PT-AH1000 PT-AH1000E PT-AR100 PT-AR100U PT-LZ370 PT-LZ370E(ET-LAA110 CBH)",
-        "url": "https://www.amazon.com.mx/dp/B0H53LRNLS",
-        "price": 1579.62,
-        "model": "PT-AH1000E"
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorios ET-LAV100 POA-LMP148 Accesorios de lámparas compatibles con Panasonic PT-VW330 PT-VX400 PT-VX400NT VX41 VX41U for PLC-WU3001 PLC-XU4000 XU4001(ET-LAV100-CB)",
-        "url": "https://www.amazon.com.mx/dp/B0H4YHWSMP",
-        "price": 719.89,
-        "model": "ET-LAV100-CB"
-      },
-      {
-        "store": "amazon",
-        "name": "Lámparas de proyector compatibles con IN112 IN114ST IN124 IN116 IN114",
-        "url": "https://www.amazon.com.mx/dp/B0H4Y12998",
-        "price": 647.96,
-        "model": "IN114ST"
-      },
-      {
-        "store": "amazon",
-        "name": "W11395618 Condensador de lavadora fácil instalación, 50µF 250V para W10625046 W11158831 W10390446 AP6973143 EAP12731163 condensador de arranque de lavadora",
-        "url": "https://www.amazon.com.mx/dp/B0H4TMBTKK",
-        "price": 429.28,
-        "model": "EAP12731163"
-      },
-      {
-        "store": "amazon",
-        "name": "Tablero de botón de encendido para portátiles 5570 F114P EBPBDE0011-0 para computadora portátil",
-        "url": "https://www.amazon.com.mx/dp/B0H4RQDNN3",
-        "price": 161.68,
-        "model": "EBPBDE0011-0"
-      },
-      {
-        "store": "amazon",
-        "name": "Beams - Bombilla de lámpara de 240 W, balastos de alimentación, lámpara de proyección de escenario, repuesto para HT1075 VH570 W1080ST W1070",
-        "url": "https://www.amazon.com.mx/dp/B0H4N4RDTT",
-        "price": 639.23,
-        "model": "W1080ST"
-      },
-      {
-        "store": "amazon",
-        "name": "NB.MML11.002 NBMML11002 for la Placa Base del Ordenador portátil ES1-511 N2830 CPU DDR3 Z5W1M LA-B511P",
-        "url": "https://www.amazon.com.mx/dp/B0H593RZ2F",
-        "price": 2611.14,
-        "model": "NBMML11002"
-      }
-    ]
-  },
-  "walmart|LA11101": {
-    "ts": "2026-06-19T01:18:23.830814+00:00",
-    "items": []
-  },
-  "amazon|244959": {
-    "ts": "2026-06-19T01:18:27.764067+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "\"Rawlings™ Baseball Collection\" Cascade Centerpiece, Party Decoration",
-        "url": "https://www.amazon.com.mx/dp/B01FOIS9EG",
-        "price": 600.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "3dRose 244959_7 - Taza, 325 ml, color verde y blanco",
-        "url": "https://www.amazon.com.mx/dp/B073X8BWLJ",
-        "price": 434.33,
-        "model": "3dRose"
-      }
-    ]
-  },
-  "amazon|32LR650BPSA": {
-    "ts": "2026-06-19T01:18:29.518865+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla Smart TV AI ThinQ HD 32\" 32LR650BPSA",
-        "url": "https://www.amazon.com.mx/dp/B0CQ3NHVD1",
-        "price": 3870.0,
-        "model": "32LR650BPSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG 32 Smart TV de 32\" Pulgadas Clase HD 720p Procesador de Inteligencia Artificial Alpha a5 Gen6 (2025) - 32LR600BZUC",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3SDWBB",
-        "price": 3299.0,
-        "model": "32LR600BZUC"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Smart TV 32\" HD",
-        "url": "https://www.amazon.com.mx/dp/B09RQ1XP6Q",
-        "price": 6599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "CHiQ Television 32L621FR ROKU Pantalla 32 Smart TV Pulgadas HD con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
-        "url": "https://www.amazon.com.mx/dp/B0G1CXCKLG",
-        "price": 2399.0,
-        "model": "32L621FR"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Television De 32 Pulgadas 32S357 Class Full HD 1080p LED Smart TV Funciona con Alexa y Asistente Google (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0C6YSBVQ8",
-        "price": 2399.0,
-        "model": "32S357"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      },
-      {
-        "store": "amazon",
-        "name": "SANSUI 32\" HD TV SMX32T1H 2024 (32\" Basic)",
-        "url": "https://www.amazon.com.mx/dp/B0B148FR2J",
-        "price": 1995.0,
-        "model": "SMX32T1H"
-      },
-      {
-        "store": "amazon",
-        "name": "Dahua Smart TV 43” Full HD Android TV | WiFi | Frameless | HDMI, USB, Bluetooth | Bajo Consumo Energético | Televisión Inteligente",
-        "url": "https://www.amazon.com.mx/dp/B0DYFD37F5",
-        "price": 3195.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "CONTROL EXPERT Control Universal para LG Compatible con Todos los Modelos Smart TV, Pantalla 4k, Directo",
-        "url": "https://www.amazon.com.mx/dp/B0CJ284YD9",
-        "price": 129.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Pantalla 32\" Pulgadas Smart TV VIDAA 32A4KV",
-        "url": "https://www.amazon.com.mx/dp/B0BSXW2HJD",
-        "price": 3666.0,
-        "model": "32A4KV"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Television de 32” HD LED Smart TV Compatible con Netflix, HBO MAX, Prime Video, Disney+, Apple TV, Youtube, Alexa y Google Assistant + Soporte de Pared Incluido - 32S331 (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0B57N1YHG",
-        "price": 3299.0,
-        "model": "32S331"
-      },
-      {
-        "store": "amazon",
-        "name": "Sendowtek Control Universal, Control Remoto Smart TV, Reemplazo Control Remoto 4K UHD TV-Sub BN59-01296A BN59-01358D BN59-01259E, 100% Compatible con Smart TV Series",
-        "url": "https://www.amazon.com.mx/dp/B083LTHKTC",
-        "price": 209.0,
-        "model": "BN59-01296A"
-      }
-    ]
-  },
-  "homedepot|BL1350G": {
-    "ts": "2026-06-19T01:18:29.753598+00:00",
-    "items": []
-  },
-  "liverpool|BL1350G": {
-    "ts": "2026-06-19T01:18:30.658140+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Set licuadora Black + Decker BL1350G 3 velocidades",
-        "url": "https://liverpool.com.mx/tienda/pdp/Set-licuadora-Black-+-Decker-BL1350G-3-velocidades/1165221512",
-        "price": 1499.25,
-        "model": "BL1350G"
-      },
-      {
-        "store": "liverpool",
-        "name": "Licuadora Ufesa 4 velocidades BS7020-ZF-5286 Zafiro",
-        "url": "https://liverpool.com.mx/tienda/pdp/Licuadora-Ufesa-4-velocidades-BS7020-ZF-5286-Zafiro/1124264819",
-        "price": 761.0,
-        "model": "BS7020-ZF-5286"
-      },
-      {
-        "store": "liverpool",
-        "name": "Aire acondicionado mini split Hisense Frío y calor 18000 BTU AH182CF 220 V",
-        "url": "https://liverpool.com.mx/tienda/pdp/Aire-acondicionado-mini-split-Hisense-Fr%C3%ADo-y-calor-18000-BTU-AH182CF-220-V/1133057711",
-        "price": 9859.32,
-        "model": "AH182CF"
-      }
-    ]
-  },
-  "walmart|BL1350G": {
-    "ts": "2026-06-19T01:18:38.678414+00:00",
-    "items": []
-  },
-  "homedepot|24PFS5675GF8": {
-    "ts": "2026-06-19T01:18:54.594494+00:00",
-    "items": []
-  },
-  "liverpool|24PFS5675GF8": {
-    "ts": "2026-06-19T01:19:22.501260+00:00",
-    "items": []
-  },
-  "amazon|24PFS5675GF8": {
-    "ts": "2026-06-19T01:19:24.239538+00:00",
-    "items": []
-  },
-  "homedepot|RS22N6IBX": {
-    "ts": "2026-06-19T01:19:26.040092+00:00",
-    "items": []
-  },
-  "amazon|RS22N6IBX": {
-    "ts": "2026-06-19T01:19:27.979907+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "R220 R210 N250E-S0 NPS-250NB A 6HTWP 06HTWP 250W Fuente de alimentación de servidor",
-        "url": "https://www.amazon.com.mx/dp/B0FGKLQ63T",
-        "price": 1304.63,
-        "model": "NPS-250NB"
-      },
-      {
-        "store": "amazon",
-        "name": "WR55X26671 - Tablero de luz para refrigerador compatible con GE PS11767930 AP6035586 4468532 EAP11767930 CZS22MP2NBS1 CZS22MP2NDS1 CZS22MP2NES1 CZ1 S2MSKSKSKEHSS CZS22MSKKHSS - Placa de luz",
-        "url": "https://www.amazon.com.mx/dp/B0BKPCW1B1",
-        "price": 272.09,
-        "model": "S2MSKSKSKEHSS"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas RX65T720MS2A DFN5*6",
-        "url": "https://www.amazon.com.mx/dp/B0H3V9NS6C",
-        "price": 303.68,
-        "model": "RX65T720MS2A"
-      },
-      {
-        "store": "amazon",
-        "name": "RER160-28/56S RER160-28/56S 230V 50/60Hz 0.26/0.27A 45/46W 137.7CFM 2800（r/min） Ventilador",
-        "url": "https://www.amazon.com.mx/dp/B0H4PY2YYG",
-        "price": 7984.31,
-        "model": "RER160-28/56S"
-      },
-      {
-        "store": "amazon",
-        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 720PR)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QLW3YP",
-        "price": 25184.11,
-        "model": "E6C3-AG5C-1024P/AG5B-256P"
-      },
-      {
-        "store": "amazon",
-        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 360P)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QS222Z",
-        "price": 25782.1,
-        "model": "E6C3-AG5C-1024P/AG5B-256P"
-      }
-    ]
-  },
-  "walmart|RS22N6IBX": {
-    "ts": "2026-06-19T01:19:39.630859+00:00",
-    "items": []
-  },
-  "amazon|WD11T4046BXAX": {
-    "ts": "2026-06-19T01:19:43.979362+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "SupHomie - Motor de bomba de drenaje para lavadora - Reemplazo para Samsung WF45K6200AZ/A2 WF45K6500AV/A2 WF45K6500AW/A2 WF45M5500AW/A5 WF45N5300AF/US WF45H6300AG/A2 (solo motor)",
-        "url": "https://www.amazon.com.mx/dp/B0D8PSFMCY",
-        "price": 841.34,
-        "model": "WF45K6200AZ/A2"
-      },
-      {
-        "store": "amazon",
-        "name": "5140128-68 Conjunto de manguera de repuesto para manguera de aspiradora DeWalt DCV580 DCV581H DCV580MAX",
-        "url": "https://www.amazon.com.mx/dp/B0CWV35Y8P",
-        "price": 446.42,
-        "model": "DCV580MAX"
-      }
-    ]
-  },
-  "amazon|238117": {
-    "ts": "2026-06-19T01:19:45.830531+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Sensor de presión de combustible 238-0118 5PP4-1 311-6342 para excavadora Carter CAT/E320D",
-        "url": "https://www.amazon.com.mx/dp/B07R4FDGKB",
-        "price": 1175.03,
-        "model": "CAT/E320D"
-      },
-      {
-        "store": "amazon",
-        "name": "Cilindro esclavo de embrague 23820-63J01 para Swift 1.3 1.5 1.6 2005-2011, directo para repuesto OE 23820-63J00 23820-77JA1",
-        "url": "https://www.amazon.com.mx/dp/B0H4W6X21T",
-        "price": 312.92,
-        "model": "23820-63J01"
-      },
-      {
-        "store": "amazon",
-        "name": "Polea de embrague de repuesto para Kia Optima L4 2.4L 06-13 37321-25201 F-240026.01 F-240026.02 F-240026.03 F-240026.04 F-240026.05 N11805 04 26 55545 588094",
-        "url": "https://www.amazon.com.mx/dp/B09GZGWTQL",
-        "price": 796.3,
-        "model": "F-240026"
-      },
-      {
-        "store": "amazon",
-        "name": "B186 B187 B188 B189 B190 V-cinturón transportador Industrial maquinaria pesada herramientas eléctricas Motor Tractor transmisión correa de goma(B190)",
-        "url": "https://www.amazon.com.mx/dp/B0H4XZGRZD",
-        "price": 1580.79,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "1 juego de falda de pistón 2382712 para excavadora Caterpillar CAT C12 Engine 365B 365B II 365B L en Estados Unidos",
-        "url": "https://www.amazon.com.mx/dp/B0CZCFMDSM",
-        "price": 3654.31,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "B186 B187 B188 B189 B190 V-cinturón transportador Industrial maquinaria pesada herramientas eléctricas Motor Tractor transmisión correa de goma(B186)",
-        "url": "https://www.amazon.com.mx/dp/B0H4XYNJ1H",
-        "price": 1580.79,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "B186 B187 B188 B189 B190 V-cinturón transportador Industrial maquinaria pesada herramientas eléctricas Motor Tractor transmisión correa de goma(B187)",
-        "url": "https://www.amazon.com.mx/dp/B0H4XWZ4VB",
-        "price": 1580.79,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "OEM Pulley 121-6624 Power Clear 721 Snow Blowers",
-        "url": "https://www.amazon.com.mx/dp/B0H4PDN9RV",
-        "price": 352.96,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "21171-7035 Bobina de encendido compatible con Kawasaki FH381V FH430V FH480V John Deere MIA11068 Cortacésped motor reemplaza 21171-7001 21171-7007 21171-7006 21171-777 de los 7 21171-7014 21171-7035",
-        "url": "https://www.amazon.com.mx/dp/B0C3CH7WZS",
-        "price": 472.69,
-        "model": "MIA11068"
-      },
-      {
-        "store": "amazon",
-        "name": "para VW para Transporter MULTIVAN MK V para Touareg 2002-2015 7E0422153 7H0422153F 7H0422153J 7E0 422 153 Bomba de dirección asistida Sistema de dirección Bomba hidráulica",
-        "url": "https://www.amazon.com.mx/dp/B0H52LT1LD",
-        "price": 3673.0,
-        "model": "7H0422153F"
-      },
-      {
-        "store": "amazon",
-        "name": "Bomba de dirección asistida para Volkswagen Touareg Transporter T5 25 7H0422153A 7L6422153B 7L6422153A 7H0422153H 7H0422153G",
-        "url": "https://www.amazon.com.mx/dp/B0H54Q43QM",
-        "price": 4172.99,
-        "model": "7H0422153A"
-      },
-      {
-        "store": "amazon",
-        "name": "Bomba de dirección asistida para VW T5 Transporter Multivan y Touareg 2.5 TDI Diesel 7H0422153A 7E0422153 7H0422153G 7H0422153H",
-        "url": "https://www.amazon.com.mx/dp/B0H4XYMQPW",
-        "price": 4891.0,
-        "model": "7H0422153A"
-      }
-    ]
-  },
-  "amazon|100QD6QFM": {
-    "ts": "2026-06-19T01:19:47.640607+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense Television QD6QFM(Modelo 2025) Pantalla 100 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Pro de 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0FQV77YBY",
-        "price": 29998.8,
-        "model": "QD6QFM"
-      }
-    ]
-  },
-  "homedepot|100QD6SFM": {
-    "ts": "2026-06-19T01:19:52.301887+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "PROTECTOR PARA VENTANA CONTEMPO 100 X 100 CM CHOCOLATE",
-        "url": "https://www.homedepot.com.mx/p/gen-steel-protector-para-ventana-contempo-100-x-100-cm-chocolate-contempo-145532",
-        "price": 1649.0,
-        "model": "145532"
-      }
-    ]
-  },
-  "amazon|100QD6SFM": {
-    "ts": "2026-06-19T01:19:54.138534+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD6S Pantalla 100“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler, 144Hz Nativos，Dolby Vision·Atmos，Modo de Protección Ocular，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRN575F",
-        "price": 29999.2,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas MBRF15100CT TO-220F 15100",
-        "url": "https://www.amazon.com.mx/dp/B0H4CXC2SV",
-        "price": 277.0,
-        "model": "MBRF15100CT"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Smart Fire TV de 100 Pulgadas Clase QD6 Series QLED 4K UHD (100QD6QF, Modelo 2025) - QLED, Native 144Hz, Dolby Vision IQ, Dolby Atmos, Motion Rate 240, HDR 10+, Game Mode Plus, Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0DYRLTZXL",
-        "price": 83790.0,
-        "model": "100QD6QF"
-      }
-    ]
-  },
-  "walmart|100QD6SFM": {
-    "ts": "2026-06-19T01:19:56.798614+00:00",
-    "items": []
-  },
-  "amazon|WFC510": {
-    "ts": "2026-06-19T01:20:04.822714+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Sony WF-C510 Auriculares Bluetooth intrauditivos, hasta 22 Horas de batería, conexión multipunto, micrófono y Resistencia al Agua, Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0D9R4GYTN",
-        "price": 852.26,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony WF-C510 Auriculares Bluetooth intrauditivos, hasta 22 Horas de batería, conexión multipunto, micrófono y Resistencia al Agua, Color Amarillo",
-        "url": "https://www.amazon.com.mx/dp/B0D9R2KDY9",
-        "price": 852.26,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA Funda para Sony WF-C510 Case Silicona Protectora de Cover Carcasa Antigolpes con Llavero Mosquetón Accesorios de Auriculares (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0DK5RDT5W",
-        "price": 149.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "[con Bloqueo de Seguridad] para Funda Sony WF-C510, Funda Protectora de TPU Suave Transparente para Auriculares con Mosquetón y Kit de Limpieza Juego de Accesorios (Transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0F2FS3GG2",
-        "price": 248.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony WF-C710N Auriculares inalámbricos con cancelación de Ruido, hasta 30 Horas de batería, Ligeros y compactos, Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DWHPBK42",
-        "price": 1599.0,
-        "model": "WF-C710N"
-      },
-      {
-        "store": "amazon",
-        "name": "[con bloqueo de seguridad] para Sony WF-C510 funda protectora de TPU suave transparente para auriculares con mosquetón y kit de limpiador juego de accesorios (rosa transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0F2G6SBVP",
-        "price": 280.0,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony WH-CH520 Negro + WF-C510 (Bundle)",
-        "url": "https://www.amazon.com.mx/dp/B0FGX9NTS8",
-        "price": 1601.26,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "amazon",
-        "name": "Soundcore by Anker P30i Audifonos Inalambricos, 45h de Reproducción, Carga Rápida, ANC Adaptativa 40dB, Llamadas Claras, Bluetooth 5.4, Diseño con Soporte para Teléfono, Regalos para mamá",
-        "url": "https://www.amazon.com.mx/dp/B0CRTYZG5C",
-        "price": 538.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda para Sony WF-C510, silicona líquida suave, a prueba de golpes, funda protectora para Sony WF-C510 (auriculares no incluidos)",
-        "url": "https://www.amazon.com.mx/dp/B0FJLYZGS5",
-        "price": 162.47,
-        "model": "WF-C510"
-      },
-      {
-        "store": "amazon",
-        "name": "Klowcok - almohadillas para orejas de silicona de repuesto para auriculares inalámbricos Sony WF-C700N / WF-C710N / WF-C510 / WF-C500, 12 pares (S/M/L) (negro)",
-        "url": "https://www.amazon.com.mx/dp/B0GGB6M7CR",
-        "price": 282.72,
-        "model": "WF-C700N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony WI-C100 - Audífonos inalámbricos intraauriculares con Banda para el Cuello y micrófono para Llamadas con Manos Libres, Negro, WIC100/B (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0CFSVQQ3B",
-        "price": 499.0,
-        "model": "WIC100/B"
-      },
-      {
-        "store": "amazon",
-        "name": "[con bloqueo de seguridad] para Sony WF-C510 funda protectora de TPU suave transparente para auriculares con mosquetón y kit de limpiador juego de accesorios (amarillo transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0F2G5DWMR",
-        "price": 294.85,
-        "model": "WF-C510"
       }
     ]
   },
   "homedepot|BUDS3": {
-    "ts": "2026-06-19T01:43:36.551374+00:00",
+    "ts": "2026-06-19T15:45:11.281535+00:00",
     "items": []
   },
   "amazon|BUDS3": {
-    "ts": "2026-06-19T01:43:39.364371+00:00",
+    "ts": "2026-06-19T15:45:13.952299+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Samsung Buds 4 Black",
         "url": "https://www.amazon.com.mx/dp/B0GFG584LM",
         "price": 2059.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds3 FE Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FN5YTCLF",
+        "price": 1799.0,
+        "model": "Buds3"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Enco Buds 3 Pro Negro, hasta 54 Horas de Reproduccion, Resistencia al Agua y Polvo IP55, Bluetooth 5.4, hasta 10 Metros de Rango, Carga Rápida 10m Dan 4 Horas, Case Puerto Tipo C, Enco Master EQ",
+        "url": "https://www.amazon.com.mx/dp/B0F7L8F43Y",
+        "price": 795.4,
         "model": null
       },
       {
@@ -2932,51 +400,9 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Buds3Pro, Auriculares inalámbricos Bluetooth con Control de Ruido Adaptable, Resistencia al Sudor y al Agua, traductor de IA, Sonido Hi-Fi y Audio 360, Color Plateado (versión CAD y",
-        "url": "https://www.amazon.com.mx/dp/B0D6T9CRLT",
-        "price": 2965.79,
-        "model": "Buds3Pro"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Buds4 Pro Black",
-        "url": "https://www.amazon.com.mx/dp/B0GFGHM1HJ",
-        "price": 3998.98,
-        "model": "Buds4"
-      },
-      {
-        "store": "amazon",
-        "name": "OPPO Enco Buds 3 Pro Negro, hasta 54 Horas de Reproduccion, Resistencia al Agua y Polvo IP55, Bluetooth 5.4, hasta 10 Metros de Rango, Carga Rápida 10m Dan 4 Horas, Case Puerto Tipo C, Enco Master EQ",
-        "url": "https://www.amazon.com.mx/dp/B0F7L8F43Y",
-        "price": 795.4,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung - Audífonos inalámbricos Galaxy Buds 3, plata",
-        "url": "https://www.amazon.com.mx/dp/B0D9C8DDKZ",
-        "price": 2448.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SAMSUNG Galaxy Buds 3 Pro AI True Auriculares inalámbricos Bluetooth, con cancelación de ruido, optimización de sonido, intérprete en tiempo real, versión latinoamericana rediseñada (plateado)",
-        "url": "https://www.amazon.com.mx/dp/B0D9C8VNSN",
-        "price": 2772.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "OnePlus Buds Pro 3 - Auriculares inalámbricos con doble driver, doble DAC, ecualizadores Dynaudio, cancelación de ruido adaptativa de hasta 50 dB, batería de hasta 43 horas (Opus medianoche)",
-        "url": "https://www.amazon.com.mx/dp/B0DBHX75C4",
-        "price": 2599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SAMSUNG Galaxy Buds 3 AI True Wireless Bluetooth - Auriculares inalámbricos con optimización de sonido, intérprete en tiempo real, cancelación de ruido, ajuste rediseñado, control táctil, versión para",
-        "url": "https://www.amazon.com.mx/dp/B0DDLHW46H",
-        "price": 1979.8,
+        "name": "SAMSUNG Galaxy Buds 3 Pro AI True Auriculares inalámbricos Bluetooth, con cancelación de ruido, optimización de sonido, intérprete en tiempo real, versión latinoamericana rediseñada (blanco)",
+        "url": "https://www.amazon.com.mx/dp/B0D9CC2H5X",
+        "price": 3198.0,
         "model": null
       },
       {
@@ -2988,28 +414,105 @@
       },
       {
         "store": "amazon",
-        "name": "SAMSUNG Galaxy Buds 3 Auriculares verdaderamente inalámbricos Bluetooth, ajuste de tipo abierto, cancelación activa de ruido, audio 360, control táctil, plata (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0DK7QW61B",
-        "price": 1933.89,
+        "name": "Samsung Buds4 Pro Black",
+        "url": "https://www.amazon.com.mx/dp/B0GFGHM1HJ",
+        "price": 3998.98,
+        "model": "Buds4"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds3Pro, Auriculares inalámbricos Bluetooth con Control de Ruido Adaptable, Resistencia al Sudor y al Agua, traductor de IA, Sonido Hi-Fi y Audio 360, Color Plateado (versión CAD y",
+        "url": "https://www.amazon.com.mx/dp/B0D6T9CRLT",
+        "price": 2987.82,
+        "model": "Buds3Pro"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Enco Buds 3 Blanco, Clear Vocals, Bass Boost Original Sound, Certificación 1P55, Case Type C, 48 Horas con una Sola Carga, Bluetooth 5.4",
+        "url": "https://www.amazon.com.mx/dp/B0FDYP7VYY",
+        "price": 799.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "JBL Live Buds 3 Audífonos Inalámbricos NC Bluetooth, Drivers de 10mm, Reproducción 40 Horas, Pantalla Táctil - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0D361ZPPC",
-        "price": 2529.0,
+        "name": "SAMSUNG Galaxy Buds 3 Pro AI True Auriculares inalámbricos Bluetooth, con cancelación de ruido, optimización de sonido, intérprete en tiempo real, versión latinoamericana rediseñada (plateado)",
+        "url": "https://www.amazon.com.mx/dp/B0D9C8VNSN",
+        "price": 2772.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung - Audífonos inalámbricos Galaxy Buds 3, plata",
+        "url": "https://www.amazon.com.mx/dp/B0D9C8DDKZ",
+        "price": 2424.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oneplus Buds 4 Auriculares inalámbricos, 45 Horas de batería, cancelación de Ruido Inteligente, Controladores ANC duales de 55 dB, DAC dedicados y LHDC 5.0, Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FF9HZ9T2",
+        "price": 1499.0,
         "model": null
       }
     ]
   },
   "walmart|BUDS3": {
-    "ts": "2026-06-19T01:43:47.054667+00:00",
+    "ts": "2026-06-19T15:46:09.068700+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Auriculares inalámbricos Bluetooth 65h de larga duración con carcasa de cargador inalámbrico ipx7 auriculares impermeables con micrófono",
         "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-65h-de-larga-duracion-con-carcasa-de-cargador-inalambrico-ipx7-auriculares-impermeables-con-microfono/00977404783601",
         "price": 479.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy Buds 3 R530 Plata",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-buds-3-r530-plata/00750231643578?athbdg=L1300",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "OnePlus Buds 3, Azul espléndido, Graves Profundos, ANC, Sonido inmersivo, hasta 44 Horas de reproducción con Funda de Carga, Bluetooth 5.3",
+        "url": "https://www.walmart.com.mx/ip/oneplus-buds-3-azul-esplendido-graves-profundos-anc-sonido-inmersivo-hasta-44-horas-de-reproduccion-con-funda-de-carga-bluetooth-5-3/00692181562630?athbdg=L1300",
+        "price": 1652.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos de Oído Abierto, Audífonos Bluetooth 5.4, Audífonos Inalámbricos Estéreo HD con Graves y Ganchos para la Oreja, 58Hrs de Reproducción, IP7 a Prueba de Agua para Fitness, Ciclismo, Deportes",
+        "url": "https://www.walmart.com.mx/ip/audifonos-de-oido-abierto-audifonos-bluetooth-5-4-audifonos-inalambricos-estereo-hd-con-graves-y-ganchos-para-la-oreja-58hrs-de-reproduccion-ip7-a-prueba-de-agua-para-fitness-ciclismo-deportes/00071769071580",
+        "price": 529.0,
+        "model": "58Hrs"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Buds 3 Lite M2110e1 (negros), auténtica libertad inalámbrica",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-buds-3-lite-m2110e1-negros-autentica-libertad-inalambrica/00943774090641?athbdg=L1300",
+        "price": 369.99,
+        "model": "M2110e1"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bluetooth OnePlus Buds Pro 3 con cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-oneplus-buds-pro-3-con-cancelacion-de-ruido/00692181562710?athbdg=L1300",
+        "price": 4609.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos, Audífonos Intrauditivos Bluetooth 5.4, Estéreo Hi-Fi 4 ENC con Micrófono con Cancelación de Ruido, 40H de Reproducción con Pantalla LED Dual Audífonos Impermeables IPX7,",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-audifonos-intrauditivos-bluetooth-5-4-estereo-hi-fi-4-enc-con-microfono-con-cancelacion-de-ruido-40h-de-reproduccion-con-pantalla-led-dual-audifonos-impermeables-ipx7-/00071769071493",
+        "price": 459.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "JBL Live Buds 3 - Audífonos inalámbricos tipo Bud con cancelación de ruido, reproducción total de 40 horas, carga inalámbrica, 6 micrófonos para llamadas perfectas, conexión multipunto, IP55 resistent",
+        "url": "https://www.walmart.com.mx/ip/jbl-live-buds-3-audifonos-inalambricos-tipo-bud-con-cancelacion-de-ruido-reproduccion-total-de-40-horas-carga-inalambrica-6-microfonos-para-llamadas-perfectas-conexion-multipunto-ip55-resistent/00005003640167",
+        "price": 1999.0,
         "model": null
       },
       {
@@ -3021,37 +524,9 @@
       },
       {
         "store": "walmart",
-        "name": "Auriculares inalámbricos Buds 3 Lite M2110e1 (negros) con sonido mejorado",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-buds-3-lite-m2110e1-negros-con-sonido-mejorado/00943774090797?athbdg=L1300",
-        "price": 369.99,
-        "model": "M2110e1"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos de Oído Abierto, Audífonos Bluetooth 5.4, Audífonos Inalámbricos Estéreo HD con Graves y Ganchos para la Oreja, 58Hrs de Reproducción, IP7 a Prueba de Agua para Fitness, Ciclismo, Deportes",
-        "url": "https://www.walmart.com.mx/ip/audifonos-de-oido-abierto-audifonos-bluetooth-5-4-audifonos-inalambricos-estereo-hd-con-graves-y-ganchos-para-la-oreja-58hrs-de-reproduccion-ip7-a-prueba-de-agua-para-fitness-ciclismo-deportes/00071769071580",
-        "price": 529.0,
-        "model": "58Hrs"
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos Bluetooth OnePlus Buds Pro 3 con cancelación de ruido",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-oneplus-buds-pro-3-con-cancelacion-de-ruido/00692181562710?athbdg=L1300",
-        "price": 4609.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Blanco SM-R530NZWAMXO",
-        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-samsung-galaxy-buds-3-blanco-sm-r530nzwamxo/00880609565189",
-        "price": 2899.0,
-        "model": "SM-R530NZWAMXO"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos, Audífonos Intrauditivos Bluetooth 5.4, Estéreo Hi-Fi 4 ENC con Micrófono con Cancelación de Ruido, 40H de Reproducción con Pantalla LED Dual Audífonos Impermeables IPX7,",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-audifonos-intrauditivos-bluetooth-5-4-estereo-hi-fi-4-enc-con-microfono-con-cancelacion-de-ruido-40h-de-reproduccion-con-pantalla-led-dual-audifonos-impermeables-ipx7-/00071769071493",
-        "price": 459.0,
+        "name": "Audífonos Inalámbricos Xiaomi Redmi Buds 3 Lite Black",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-xiaomi-redmi-buds-3-lite-black/00693417775703",
+        "price": 799.0,
         "model": null
       },
       {
@@ -3067,310 +542,11 @@
         "url": "https://www.walmart.com.mx/ip/audifonos-samsung-galaxy-buds-3-plata/00880609565574?athbdg=L1300",
         "price": 3191.0,
         "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Auriculares inalámbricos OnePlus Nord Buds 3 Pro con ANC, negro",
-        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-oneplus-nord-buds-3-pro-con-anc-negro/00692181562681?athbdg=L1300",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Plata SM-R530NZAAMXO",
-        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-samsung-galaxy-buds-3-plata-sm-r530nzaamxo/00880609565191",
-        "price": 2795.0,
-        "model": "SM-R530NZAAMXO"
-      },
-      {
-        "store": "walmart",
-        "name": "Reemplazo Auricular Caso De Carga Buds 3, USB C Cargador Inalámbrico Con Indicador LED, 590mAh Batería, Diseño Portátil",
-        "url": "https://www.walmart.com.mx/ip/reemplazo-auricular-caso-de-carga-buds-3-usb-c-cargador-inalambrico-con-indicador-led-590mah-bateria-diseno-portatil/00614635833393",
-        "price": 574.0,
-        "model": "590mAh"
-      }
-    ]
-  },
-  "amazon|MF200D125WBT": {
-    "ts": "2026-06-19T01:43:52.226999+00:00",
-    "items": []
-  },
-  "homedepot|RS22N6GCX": {
-    "ts": "2026-06-19T01:43:52.456763+00:00",
-    "items": []
-  },
-  "amazon|RS22N6GCX": {
-    "ts": "2026-06-19T01:43:54.673344+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense RS22N6GCX-Refrigerador Side by Side,23 pies cúbicos con Dispensador de Agua,Control digital táctil,Total No Frost,Tecnología Inversor,91x73x179cm(AnchoxLargoxAlto),Gris",
-        "url": "https://www.amazon.com.mx/dp/B0F1NCFNC9",
-        "price": 16899.0,
-        "model": "RS22N6GCX-Refrigerador"
-      },
-      {
-        "store": "amazon",
-        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 720PR)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QLW3YP",
-        "price": 25184.11,
-        "model": "E6C3-AG5C-1024P/AG5B-256P"
-      },
-      {
-        "store": "amazon",
-        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 360P)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QS222Z",
-        "price": 25782.1,
-        "model": "E6C3-AG5C-1024P/AG5B-256P"
-      },
-      {
-        "store": "amazon",
-        "name": "Codificador E6C3-AG5C-1024P/AG5B-256P(Original E6C3 AG5B 256P)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QLJ2TC",
-        "price": 25725.15,
-        "model": "E6C3-AG5C-1024P/AG5B-256P"
-      },
-      {
-        "store": "amazon",
-        "name": "10 rebanadas RX65T720MS2A DFN5*6",
-        "url": "https://www.amazon.com.mx/dp/B0H3V9NS6C",
-        "price": 303.68,
-        "model": "RX65T720MS2A"
-      },
-      {
-        "store": "amazon",
-        "name": "Relés RXG22B7 RXG22E7 RXG22F7 RXG22M7 RXG22P7(RXG22E7 AC 48V)",
-        "url": "https://www.amazon.com.mx/dp/B0H3KJTVL8",
-        "price": 3250.89,
-        "model": "RXG22B7"
-      },
-      {
-        "store": "amazon",
-        "name": "Relés RXG22B7 RXG22E7 RXG22F7 RXG22M7 RXG22P7(RXG22F7 AC 120V)",
-        "url": "https://www.amazon.com.mx/dp/B0H4KYC2RK",
-        "price": 4267.75,
-        "model": "RXG22B7"
-      },
-      {
-        "store": "amazon",
-        "name": "1PCS New FX5U-64MR/DS FX5U64MRDS In Box Brand",
-        "url": "https://www.amazon.com.mx/dp/B0H3LH2MBD",
-        "price": 18794.91,
-        "model": "FX5U-64MR/DS"
-      }
-    ]
-  },
-  "walmart|RS22N6GCX": {
-    "ts": "2026-06-19T01:43:58.969714+00:00",
-    "items": []
-  },
-  "homedepot|MRD190CCDLSW": {
-    "ts": "2026-06-19T01:44:03.575605+00:00",
-    "items": []
-  },
-  "amazon|MRD190CCDLSW": {
-    "ts": "2026-06-19T01:44:05.534781+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Refrigerador Midea Single Door Low Frost Jazz Black 7 Pies Cúbicos; MRD190CCDLSW; Low Frost Cooling Box",
-        "url": "https://www.amazon.com.mx/dp/B0B625RMM5",
-        "price": 4499.0,
-        "model": "MRD190CCDLSW"
-      },
-      {
-        "store": "amazon",
-        "name": "Refrigerador Midea 7p3 + Lavadora Midea 13kg (Bundle)",
-        "url": "https://www.amazon.com.mx/dp/B0FF863GP5",
-        "price": 7452.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Midea. Refrigerador Jazz Black 7ft³ MRD190CCDLSW + Microondas 1.4ft³ SmartECO Negro",
-        "url": "https://www.amazon.com.mx/dp/B0G7526WHL",
-        "price": 6808.0,
-        "model": "MRD190CCDLSW"
-      },
-      {
-        "store": "amazon",
-        "name": "Midea. MLTS101M2SGDW Lavadora Semiautomatica Una Tina 101 kg Dual Force Blanca + MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
-        "url": "https://www.amazon.com.mx/dp/B0F6GW5SSY",
-        "price": 6552.0,
-        "model": "MLTS101M2SGDW"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense. WSA1603P Lavadora Semiautomatica 2 Tinas 16 kg Lavado 8 kg Centrifugado Color Blanco + Midea. MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
-        "url": "https://www.amazon.com.mx/dp/B0F6GRTWBH",
-        "price": 9398.51,
-        "model": "MRD190CCDLSW"
-      },
-      {
-        "store": "amazon",
-        "name": "Midea MDRT580MTM28WD Refrigerador Top Mount Inverter Quattro, 15 Pies Cúbicos, Jazz Black",
-        "url": "https://www.amazon.com.mx/dp/B0FWHMD51P",
-        "price": 10449.05,
-        "model": "MDRT580MTM28WD"
-      },
-      {
-        "store": "amazon",
-        "name": "Frigidaire 242193201 nevera congelador puerta Junta",
-        "url": "https://www.amazon.com.mx/dp/B00DZZSEZU",
-        "price": 2104.6,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MRD190CCDLSW": {
-    "ts": "2026-06-19T01:44:24.914450+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Refrigerador Midea MRD190CCDLSW 7 pies Semiautomático Negro",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-midea-mrd190ccdlsw-7-pies-semiautomatico-negro/00695490381371?athbdg=L1300",
-        "price": 4499.0,
-        "model": "MRD190CCDLSW"
-      },
-      {
-        "store": "walmart",
-        "name": "COMBO ESTUFA WHIRLPOOL WFR3400B 30\" NGO + REFRIGERADOR MIDEA MRD190CCDLSW 7P3 NEGRO C/DESP",
-        "url": "https://www.walmart.com.mx/ip/combo-estufa-whirlpool-wfr3400b-30-ngo-refrigerador-midea-mrd190ccdlsw-7p3-negro-c-desp/00046527864385?athbdg=L6000",
-        "price": 16429.0,
-        "model": "MRD190CCDLSW"
-      },
-      {
-        "store": "walmart",
-        "name": "Refrigerador Midea MRD190CCDLSW 7p3 Negro C/DESP.",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-midea-mrd190ccdlsw-7p3-negro-c-desp-/00060567128085?athbdg=L1300",
-        "price": 8438.0,
-        "model": "MRD190CCDLSW"
-      }
-    ]
-  },
-  "homedepot|WD1600S": {
-    "ts": "2026-06-19T01:44:27.364781+00:00",
-    "items": []
-  },
-  "amazon|WD1600S": {
-    "ts": "2026-06-19T01:44:29.005989+00:00",
-    "items": []
-  },
-  "walmart|WD1600S": {
-    "ts": "2026-06-19T01:44:35.618883+00:00",
-    "items": []
-  },
-  "amazon|WHCH720N": {
-    "ts": "2026-06-19T01:44:40.705229+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Negro (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0CFSCT8GQ",
-        "price": 1959.51,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0CFSDYNGT",
-        "price": 1899.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Rosa (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0DY8TS92J",
-        "price": 1959.51,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Blanco (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0CFSFVP75",
-        "price": 1959.51,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling, Negro (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0BS1QCFHX",
-        "price": 1899.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Negro (Versión Nacional)",
-        "url": "https://www.amazon.com.mx/dp/B0CFSKN2LW",
-        "price": 749.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Nacional) (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CQN3QDX1",
-        "price": 1511.18,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Azul (Versión Extranjera)",
-        "url": "https://www.amazon.com.mx/dp/B0BSGR9C4P",
-        "price": 1899.0,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos WH-CH720N con Noise Canceling,Blanco (Versión Extranjera)",
-        "url": "https://www.amazon.com.mx/dp/B0BS74M665",
-        "price": 1959.51,
-        "model": "WH-CH720N"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Negro (Versión Extranjera)",
-        "url": "https://www.amazon.com.mx/dp/B0BS1PRC4L",
-        "price": 749.0,
-        "model": "WH-CH520"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony ULT Wear Auriculares Bluetooth supraaurales con cancelación de Ruido, 30 Horas de batería, Bajos potentes, Control por Voz Alexa, Negro ULT900N",
-        "url": "https://www.amazon.com.mx/dp/B0CWVX1GNX",
-        "price": 2699.0,
-        "model": "ULT900N"
-      },
-      {
-        "store": "amazon",
-        "name": "Soundcore by Anker Q20i Audifonos Inalambricos Diadema con Cancelación Activa de Ruido, hasta 60h Reproducción, Carga Rápida, Hi-Res, Bajos Potentes, Modo Transparencia, para Juegos, Gamer",
-        "url": "https://www.amazon.com.mx/dp/B0C3HCD34R",
-        "price": 685.0,
-        "model": null
-      }
-    ]
-  },
-  "homedepot|RMA300FZMERX0": {
-    "ts": "2026-06-19T01:44:41.558115+00:00",
-    "items": []
-  },
-  "amazon|RMA300FZMERX0": {
-    "ts": "2026-06-19T01:44:43.095741+00:00",
-    "items": []
-  },
-  "walmart|RMA300FZMERX0": {
-    "ts": "2026-06-19T01:44:48.157625+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300",
-        "price": 10119.0,
-        "model": "RMA300FZMRX0"
       }
     ]
   },
   "homedepot|100ML": {
-    "ts": "2026-06-19T02:20:17.675812+00:00",
+    "ts": "2026-06-19T15:44:53.583286+00:00",
     "items": [
       {
         "store": "homedepot",
@@ -3382,34 +558,13 @@
     ]
   },
   "liverpool|100ML": {
-    "ts": "2026-06-19T02:20:19.587250+00:00",
+    "ts": "2026-06-19T15:44:55.319206+00:00",
     "items": [
       {
         "store": "liverpool",
         "name": "Kit eau de parfum Perry Ellis 360 Coral para mujer",
         "url": "https://liverpool.com.mx/tienda/pdp/Kit-eau-de-parfum-Perry-Ellis-360-Coral-para-mujer/1171786416",
         "price": 939.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Mustela crema contra rozaduras 100ml",
-        "url": "https://liverpool.com.mx/tienda/pdp/Mustela-crema-contra-rozaduras-100ml/1029679858",
-        "price": 167.2,
-        "model": "100ml"
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau de toilette Benetton para hombre",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Benetton-para-hombre/1140618175",
-        "price": 412.42,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau de toilette Versace Eros para hombre",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Versace-Eros-para-hombre/1127606433",
-        "price": 3800.0,
         "model": null
       },
       {
@@ -3421,9 +576,23 @@
       },
       {
         "store": "liverpool",
-        "name": "Eau de parfum bharara Mast Perfume para hombre",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-bharara-Mast-Perfume-para-hombre/1184885324",
-        "price": 796.0,
+        "name": "Mustela crema contra rozaduras 100ml",
+        "url": "https://liverpool.com.mx/tienda/pdp/Mustela-crema-contra-rozaduras-100ml/1029679858",
+        "price": 494.35,
+        "model": "100ml"
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Ferrioni Uomo para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Ferrioni-Uomo-para-hombre/1161862777",
+        "price": 586.41,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Set Eau de toilette Tommy Hilfiger unisex",
+        "url": "https://liverpool.com.mx/tienda/pdp/Set-Eau-de-toilette-Tommy-Hilfiger-unisex/1161699043",
+        "price": 1899.0,
         "model": null
       },
       {
@@ -3435,16 +604,16 @@
       },
       {
         "store": "liverpool",
-        "name": "Kit Eau de toilette Carolina Herrera para mujer",
-        "url": "https://liverpool.com.mx/tienda/pdp/Kit-Eau-de-toilette-Carolina-Herrera-para-mujer/1195121059",
-        "price": 3400.0,
+        "name": "Set Eau de parfum Paris Hilton para mujer",
+        "url": "https://liverpool.com.mx/tienda/pdp/Set-Eau-de-parfum-Paris-Hilton-para-mujer/1175419451",
+        "price": 889.61,
         "model": null
       },
       {
         "store": "liverpool",
-        "name": "Eau de parfum Abercrombie & Fitch Authentic para mujer",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Abercrombie-&-Fitch-Authentic-para-mujer/1082842671",
-        "price": 1850.0,
+        "name": "Eau de parfum Versace Eros Flame para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Versace-Eros-Flame-para-hombre/1127606450",
+        "price": 4500.0,
         "model": null
       },
       {
@@ -3456,22 +625,29 @@
       },
       {
         "store": "liverpool",
-        "name": "Eau de toilette Abercrombie & Fitch Intinct Together para hombre",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Abercrombie-&-Fitch-Intinct-Together-para-hombre/1173842500",
-        "price": 954.04,
+        "name": "Eau de parfum Riiffs Goodness Oud para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Riiffs-Goodness-Oud-para-hombre/1116418432",
+        "price": 726.31,
         "model": null
       },
       {
         "store": "liverpool",
-        "name": "Set Eau de toilette Moschino Toy 2 para mujer",
-        "url": "https://liverpool.com.mx/tienda/pdp/Set-Eau-de-toilette-Moschino-Toy-2-para-mujer/1172034191",
-        "price": 1726.61,
+        "name": "Eau de parfum Armaf Club de Nuit Untold unisex",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Armaf-Club-de-Nuit-Untold-unisex/1170875636",
+        "price": 1508.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau de toilette Abercrombie & Fitch Intinct Together para hombre",
+        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-toilette-Abercrombie-&-Fitch-Intinct-Together-para-hombre/1173842500",
+        "price": 954.04,
         "model": null
       }
     ]
   },
   "amazon|100ML": {
-    "ts": "2026-06-19T02:20:22.032764+00:00",
+    "ts": "2026-06-19T15:44:59.148822+00:00",
     "items": [
       {
         "store": "amazon",
@@ -3489,23 +665,16 @@
       },
       {
         "store": "amazon",
-        "name": "NIVEA Body Crema Corporal humectante Soft Milk (100 ml), 48 horas de Humectación y Suavidad Profunda con manteca de Karité ideal para Piel Seca",
-        "url": "https://www.amazon.com.mx/dp/B007ZTRLZG",
-        "price": 30.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Vaseline - Crema Corporal, Hidrata y Nutre La Piel Seca, 100 ml, Deep Restore",
-        "url": "https://www.amazon.com.mx/dp/B0068OTLFW",
-        "price": 32.92,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Elvive Tratamiento en Aceite L'Oréal Paris Óleo Extraordinario pelo más suave y con brillo intenso con 6 óleos de flores preciosas, 100 ml",
         "url": "https://www.amazon.com.mx/dp/B09Y9KJ16N",
         "price": 154.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NIVEA Body Crema Corporal humectante Soft Milk (100 ml), 48 horas de Humectación y Suavidad Profunda con manteca de Karité ideal para Piel Seca",
+        "url": "https://www.amazon.com.mx/dp/B007ZTRLZG",
+        "price": 30.0,
         "model": null
       },
       {
@@ -3517,37 +686,16 @@
       },
       {
         "store": "amazon",
-        "name": "Pert - Crema para Peinar Keratina y Aguacate, 100 ml",
-        "url": "https://www.amazon.com.mx/dp/B0CN1QRSQ8",
-        "price": 21.3,
+        "name": "Vaseline - Crema Corporal, Hidrata y Nutre La Piel Seca, 100 ml, Deep Restore",
+        "url": "https://www.amazon.com.mx/dp/B0068OTLFW",
+        "price": 32.92,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Garnier Skin Active Kit Agua micelar desmaquillante Todo-en-1, 400ml + 100ml",
-        "url": "https://www.amazon.com.mx/dp/B09J632RB1",
-        "price": 100.0,
-        "model": "Todo-en-1"
-      },
-      {
-        "store": "amazon",
-        "name": "PERT, Crema para Peinar Olivo y Aguacate | Ayuda a reparar profundamente el cabello maltratado, sellando las puntas abiertas, 100 ml",
-        "url": "https://www.amazon.com.mx/dp/B0CN1S9B3B",
-        "price": 20.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Avène Cicalfate+ Crema Reparadora 100 ml | Calma, protege y ayuda a recuperar piel irritada, Con Agua Termal, Uso diario para toda la familia",
-        "url": "https://www.amazon.com.mx/dp/B00UO5OQ8S",
-        "price": 210.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nautica Voyage Eau de Toilette para Hombre, Multicolor, 100 ml",
-        "url": "https://www.amazon.com.mx/dp/B000P22TIY",
-        "price": 244.3,
+        "name": "NIVEA Tónico Exfoliante Glow Instantáneo 100 ml: Exfoliación Suave y Efectiva para una Piel Uniforme y Radiante",
+        "url": "https://www.amazon.com.mx/dp/B0FGLHXKTX",
+        "price": 58.0,
         "model": null
       },
       {
@@ -3556,30 +704,39 @@
         "url": "https://www.amazon.com.mx/dp/B0GFBFM1C5",
         "price": 92.94,
         "model": "100ml"
-      }
-    ]
-  },
-  "amazon|WD5S1645BT": {
-    "ts": "2026-06-19T02:20:34.152429+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "DC97-16931B Perilla de control compatible con lavadora o secadora Samsung, conjunto de perilla DC97-16068A DC97-16068B DC97-16068D DC97-16931A DC97-16931B DC97-17292A, garantía de un año",
-        "url": "https://www.amazon.com.mx/dp/B0C7NYWDD5",
-        "price": 353.77,
-        "model": "DC97-16931B"
       },
       {
         "store": "amazon",
-        "name": "Motor Secado Turbina Lavasecadora Hisense 2182395 Original",
-        "url": "https://www.amazon.com.mx/dp/B0F9DXDL46",
-        "price": 880.0,
+        "name": "Pert - Crema para Peinar Keratina y Aguacate, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B0CN1QRSQ8",
+        "price": 21.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Juego de 18 Botellas De Viaje De Silicona, botellas a prueba de fugas de 3.4 onzas/100 ml con etiqueta botellas de viaje portátil, sin BPA, kit de viaje recargable, travel essentials (Estilo B)",
+        "url": "https://www.amazon.com.mx/dp/B0CZLHMVGG",
+        "price": 199.0,
+        "model": "onzas/100"
+      },
+      {
+        "store": "amazon",
+        "name": "OSIS - Session Laca 100 ml, de Fijación Extra Fuerte, Peinados Duraderos, Protección Térmica, Protege Frente a Humedad y Viento, Acabado Brillante, sin Residuos,",
+        "url": "https://www.amazon.com.mx/dp/B0BZT8VDQQ",
+        "price": 261.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Janety 6 Piezas Botellas de Viaje Reutilizables 100 ml, Set Portátil Antifugas con Tapas Tipo Disco para Artículos de Tocador(Tapa tipo disco)",
+        "url": "https://www.amazon.com.mx/dp/B0G2KW61G3",
+        "price": 139.0,
         "model": null
       }
     ]
   },
   "homedepot|KLSW01": {
-    "ts": "2026-06-19T03:30:04.345836+00:00",
+    "ts": "2026-06-19T15:43:54.860136+00:00",
     "items": [
       {
         "store": "homedepot",
@@ -3633,19 +790,104 @@
     ]
   },
   "amazon|KLSW01": {
-    "ts": "2026-06-19T03:30:06.324146+00:00",
+    "ts": "2026-06-19T15:43:57.061596+00:00",
     "items": []
   },
   "walmart|KLSW01": {
-    "ts": "2026-06-19T03:30:13.031092+00:00",
-    "items": []
+    "ts": "2026-06-19T15:44:07.593151+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Special Edition Numbers 01",
+        "url": "https://www.walmart.com.mx/ip/special-edition-numbers-01/00085322700613",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "CALAVERA NISSAN PU D21 94-01 AMBAR/ROJO/BCO S/ARNES IZQUIERDA 017-2305-01 11-1483-01-6B PARA AÑO: 1998",
+        "url": "https://www.walmart.com.mx/ip/calavera-nissan-pu-d21-94-01-ambar-rojo-bco-s-arnes-izquierda-017-2305-01-11-1483-01-6b-para-ano-1998/00750305098989?athbdg=L1300",
+        "price": 849.0,
+        "model": "11-1483-01-6B"
+      },
+      {
+        "store": "walmart",
+        "name": "Les Normaux #01",
+        "url": "https://www.walmart.com.mx/ip/les-normaux-01/00978841161927",
+        "price": 513.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Out Of Africa 01",
+        "url": "https://www.walmart.com.mx/ip/out-of-africa-01/00085322700610",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Monitor Qian QMF-IPF27-01 IPS de 27 Full HD 1920×1080, 100Hz, Inclinacion (-5° a 15°), VESA 100x100, 4MS, HDR10 99% sRGB, 16.7M de colores, VGA y HDMI, G-Sync y FreeSync",
+        "url": "https://www.walmart.com.mx/ip/monitor-qian-qmf-ipf27-01-ips-de-27-full-hd-1920%C3%971080-100hz-inclinacion-5-a-15-vesa-100x100-4ms-hdr10-99-srgb-16-7m-de-colores-vga-y-hdmi-g-sync-y-freesync/00750061901370?athbdg=L1300",
+        "price": 2110.0,
+        "model": "QMF-IPF27-01"
+      },
+      {
+        "store": "walmart",
+        "name": "Estante Metalico Onof ESM-01 Anaquel Rack 5 Niveles Color Negro",
+        "url": "https://www.walmart.com.mx/ip/estante-metalico-onof-esm-01-anaquel-rack-5-niveles-color-negro/00750231507559?athbdg=L1300",
+        "price": 1199.0,
+        "model": "ESM-01"
+      },
+      {
+        "store": "walmart",
+        "name": "Mini Bocinas Getttech GUS-ESRWR-01 para PC 3w sonido estereo 360° luz led RGB personalizable conector USB 3.5mm",
+        "url": "https://www.walmart.com.mx/ip/mini-bocinas-getttech-gus-esrwr-01-para-pc-3w-sonido-estereo-360-luz-led-rgb-personalizable-conector-usb-3-5mm/00750061901258?athbdg=L1300",
+        "price": 235.0,
+        "model": "GUS-ESRWR-01"
+      },
+      {
+        "store": "walmart",
+        "name": "CALAVERA NISSAN PU D21 94-01 AMBAR/ROJO/BCO S/ARNES IZQUIERDA 017-2305-01 11-1483-01-6B PARA AÑO: 1994",
+        "url": "https://www.walmart.com.mx/ip/calavera-nissan-pu-d21-94-01-ambar-rojo-bco-s-arnes-izquierda-017-2305-01-11-1483-01-6b-para-ano-1994/00750305098985?athbdg=L1300",
+        "price": 849.0,
+        "model": "11-1483-01-6B"
+      },
+      {
+        "store": "walmart",
+        "name": "Gabinete de Disco Duro GETTTECH GCEM23101, 2.5 , USB, Color Plata. Getttech GCE-M231-01",
+        "url": "https://www.walmart.com.mx/ip/gabinete-de-disco-duro-getttech-gcem23101-2-5-usb-color-plata-getttech-gce-m231-01/00750303035827?athbdg=L1300",
+        "price": 299.0,
+        "model": "GCE-M231-01"
+      },
+      {
+        "store": "walmart",
+        "name": "EROS 01",
+        "url": "https://www.walmart.com.mx/ip/eros-01/00750663930001?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Fuente de alimentación Getttech 550W, GFS-55020-01",
+        "url": "https://www.walmart.com.mx/ip/fuente-de-alimentacion-getttech-550w-gfs-55020-01/00750061901088?athbdg=L1300",
+        "price": 410.0,
+        "model": "GFS-55020-01"
+      },
+      {
+        "store": "walmart",
+        "name": "Cocina Integral 293cm Marrón/Negro Emilly Madesa 01",
+        "url": "https://www.walmart.com.mx/ip/cocina-integral-293cm-marron-negro-emilly-madesa-01/00789176092400?athbdg=L1300",
+        "price": 8539.0,
+        "model": "293cm"
+      }
+    ]
   },
   "homedepot|MKZPANTA100MBLA": {
-    "ts": "2026-06-19T03:30:17.939114+00:00",
+    "ts": "2026-06-19T15:44:07.757195+00:00",
     "items": []
   },
   "amazon|MKZPANTA100MBLA": {
-    "ts": "2026-06-19T03:30:20.060974+00:00",
+    "ts": "2026-06-19T15:44:10.085781+00:00",
     "items": [
       {
         "store": "amazon",
@@ -3657,252 +899,138 @@
     ]
   },
   "walmart|MKZPANTA100MBLA": {
-    "ts": "2026-06-19T03:30:26.084854+00:00",
-    "items": []
+    "ts": "2026-06-19T15:44:19.736558+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Balero RODATECH 2 Piezas Ruedas Delanteros Mkz 2007 A 2012 Rwd",
+        "url": "https://www.walmart.com.mx/ip/balero-rodatech-2-piezas-ruedas-delanteros-mkz-2007-a-2012-rwd/00046730033171",
+        "price": 934.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SENSOR DE POSICIÓN DEL CIGÜEÑAL INTRAN-FLOTAMEX MKZ 2011 al 2012 2.5L L4",
+        "url": "https://www.walmart.com.mx/ip/sensor-de-posicion-del-ciguenal-intran-flotamex-mkz-2011-al-2012-2-5l-l4/00046893441188",
+        "price": 609.48,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Par de Amortiguadores Gas Mkz 2010 A 2012 Lincoln Del Oespectrum MONROE .",
+        "url": "https://www.walmart.com.mx/ip/par-de-amortiguadores-gas-mkz-2010-a-2012-lincoln-del-oespectrum-monroe-/00046693206657",
+        "price": 4149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Chicote Palanca Velocidades OEM Mkz de 2007 a 2009 Ford Original",
+        "url": "https://www.walmart.com.mx/ip/chicote-palanca-velocidades-oem-mkz-de-2007-a-2009-ford-original/00046641925019",
+        "price": 3754.1,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Piñon VVT WALKER Mkz 2007 A 2010 V6 3.5L Izq Admisión",
+        "url": "https://www.walmart.com.mx/ip/pinon-vvt-walker-mkz-2007-a-2010-v6-3-5l-izq-admision/00046127593741",
+        "price": 2987.49,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Jgo Amortiguadores Oespectrum Gas Mkz 2007 A 2009 Lincoln MONROE .",
+        "url": "https://www.walmart.com.mx/ip/jgo-amortiguadores-oespectrum-gas-mkz-2007-a-2009-lincoln-monroe-/00046658729080",
+        "price": 6786.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Jgo Amortiguadores Oespectrum Gas Mkz 2010 A 2012 Lincoln MONROE .",
+        "url": "https://www.walmart.com.mx/ip/jgo-amortiguadores-oespectrum-gas-mkz-2010-a-2012-lincoln-monroe-/00046719714959",
+        "price": 6786.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Manija De Puerta Exterior HUSHAN MKZ 2007 al 2012 Delantera Cromado",
+        "url": "https://www.walmart.com.mx/ip/manija-de-puerta-exterior-hushan-mkz-2007-al-2012-delantera-cromado/00046545189515",
+        "price": 845.08,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Para Cristal Delantero Derecho OEM Mkz DE 2010 A 2012 Motorcraft",
+        "url": "https://www.walmart.com.mx/ip/control-para-cristal-delantero-derecho-oem-mkz-de-2010-a-2012-motorcraft/00046758320323",
+        "price": 1182.31,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Horquilla TS MKZ 2013 al 2019 Lincoln Izquierda/Piloto 3010814164543493",
+        "url": "https://www.walmart.com.mx/ip/horquilla-ts-mkz-2013-al-2019-lincoln-izquierda-piloto-3010814164543493/00046844440540",
+        "price": 5299.17,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Terminal de DIRECCIÓN SYD MKZ 2010 al 2012",
+        "url": "https://www.walmart.com.mx/ip/terminal-de-direccion-syd-mkz-2010-al-2012/00046895559116",
+        "price": 614.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Par de Amortiguadores Gas Mkz 2006 A 2012 Lincoln Tra SYD .",
+        "url": "https://www.walmart.com.mx/ip/par-de-amortiguadores-gas-mkz-2006-a-2012-lincoln-tra-syd-/00046996283509",
+        "price": 2098.14,
+        "model": null
+      }
+    ]
   },
   "homedepot|7R505DDS": {
-    "ts": "2026-06-19T03:30:54.553317+00:00",
+    "ts": "2026-06-19T15:44:41.669760+00:00",
     "items": [
       {
         "store": "homedepot",
-        "name": "ROUTER BE9300 TRIBAND WIFI 7",
-        "url": "https://www.homedepot.com.mx/p/tp-link-router-be9300-triband-wifi-7-be550-234246",
-        "price": 5899.0,
-        "model": "234246"
+        "name": "CLIPS MULTIUSOS PARA COCINA SET 7 PIEZAS",
+        "url": "https://www.homedepot.com.mx/p/kitchenhome-clips-multiusos-para-cocina-set-7-piezas-khbc03-cv-152435",
+        "price": 155.0,
+        "model": "152435"
       },
       {
         "store": "homedepot",
-        "name": "SET DE 7 ORGANIZADORES 32 X 16 X 5.2 CM TRANSPARENTE",
-        "url": "https://www.homedepot.com.mx/p/home-home-set-de-7-organizadores-32-x-16-x-52-cm-transparente-orgt08-231015",
-        "price": 259.0,
-        "model": "231015"
+        "name": "CUCHARA PARA ALBAÑIL, TIPO FILADELFIA, 7 PRETUL",
+        "url": "https://www.homedepot.com.mx/p/pretul-cuchara-para-albanil-tipo-filadelfia-7-pretul-ct-7p-304462",
+        "price": 70.9,
+        "model": "304462"
       },
       {
         "store": "homedepot",
-        "name": "CABLE UTP ETHERNET CAT6 7.6M",
-        "url": "https://www.homedepot.com.mx/p/steren-cable-utp-ethernet-cat6-76m-368525gr-236082",
-        "price": 165.0,
-        "model": "236082"
+        "name": "BATERIA COCINA 7 PZS CHROMA ALUMINIO ANODIZADO",
+        "url": "https://www.homedepot.com.mx/p/bogner-bateria-cocina-7-pzs-chroma-aluminio-anodizado-218793",
+        "price": 2099.0,
+        "model": "218793"
       }
     ]
   },
   "amazon|7R505DDS": {
-    "ts": "2026-06-19T03:30:56.319339+00:00",
+    "ts": "2026-06-19T15:44:44.370713+00:00",
     "items": []
   },
   "walmart|7R505DDS": {
-    "ts": "2026-06-19T03:31:26.102805+00:00",
+    "ts": "2026-06-19T15:44:52.155999+00:00",
     "items": []
   },
   "homedepot|RD81100MD": {
-    "ts": "2026-06-19T03:31:29.571704+00:00",
+    "ts": "2026-06-19T15:44:59.323296+00:00",
     "items": []
   },
   "amazon|RD81100MD": {
-    "ts": "2026-06-19T03:31:31.814806+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Interruptor de flujo PFM711-C6-F PFM711-02-D PFM711S-C6-CM PFM711-C8-AM Original(PFM711-C8-A-M)",
-        "url": "https://www.amazon.com.mx/dp/B0H555YH2V",
-        "price": 4765.61,
-        "model": "PFM711S-C6-CM"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 1.6-2.5A dispositivo RDM108 RDM108-20 serie disyuntor de caja moldeada protector de motor de CA voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GDG9C6",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 8-12.5A dispositivo RDM108 RDM108-20 serie de interruptor de circuito de caja moldeada AC protector de motor voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9H5WSBY",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "AFP0RC32T FP0R-C32T Unidad de control compatible con la unidad de CPU Panasonic Módulo de salida driver lógico programable",
-        "url": "https://www.amazon.com.mx/dp/B0H3TP5ZVV",
-        "price": 5784.69,
-        "model": "AFP0RC32T"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 5-8A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GZMGMV",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 6.3-10A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GWRLKV",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 10-16A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GM1V2T",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "RD-35 RD-35A RD-35B RD-3513 Fuente de alimentación conmutada salida dual 35 W(Rd-35a)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QTT9VG",
-        "price": 720.74,
-        "model": "RD-3513"
-      },
-      {
-        "store": "amazon",
-        "name": "RD45-122 RD45-121 PF-125H-M Ventilador de refrigeración PF-125H(PF-125H-2*M)",
-        "url": "https://www.amazon.com.mx/dp/B0H54GSD7G",
-        "price": 1621.83,
-        "model": "PF-125H-M"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación para servidor R510 R910 750W D750P-S0 F613N FN1VT 0F613N 0FN1VT DPS-750TB",
-        "url": "https://www.amazon.com.mx/dp/B09Y6RR4RJ",
-        "price": 1398.54,
-        "model": "DPS-750TB"
-      },
-      {
-        "store": "amazon",
-        "name": "Cilindro de aire fino RDQB20-15 RDQB25-20 RDQB32-25 RDQB40-30 RDQB50-40 RDQB63-50 RDQB80-75 RDQB100-100(Rdqb32)",
-        "url": "https://www.amazon.com.mx/dp/B0H54JD1F6",
-        "price": 2191.55,
-        "model": "RDQB100-100"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación conmutada Salida Dual 65 W RD-65, RD-65A y RD-65B Serie(RD-65B)",
-        "url": "https://www.amazon.com.mx/dp/B0H4QDPKYJ",
-        "price": 1289.28,
-        "model": "RD-65A"
-      }
-    ]
+    "ts": "2026-06-19T15:45:00.987809+00:00",
+    "items": []
   },
   "walmart|RD81100MD": {
-    "ts": "2026-06-19T03:31:44.455914+00:00",
-    "items": []
-  },
-  "homedepot|RD21551LE": {
-    "ts": "2026-06-19T03:31:48.488038+00:00",
-    "items": []
-  },
-  "amazon|RD21551LE": {
-    "ts": "2026-06-19T03:31:50.402043+00:00",
-    "items": []
-  },
-  "walmart|RD21551LE": {
-    "ts": "2026-06-19T03:31:56.943063+00:00",
-    "items": []
-  },
-  "homedepot|RD211513LA": {
-    "ts": "2026-06-19T03:32:04.745313+00:00",
-    "items": []
-  },
-  "amazon|RD211513LA": {
-    "ts": "2026-06-19T03:32:06.556089+00:00",
-    "items": []
-  },
-  "walmart|RD211513LA": {
-    "ts": "2026-06-19T03:32:12.539860+00:00",
-    "items": []
-  },
-  "homedepot|RD632829MA": {
-    "ts": "2026-06-19T03:32:20.292050+00:00",
-    "items": []
-  },
-  "amazon|RD632829MA": {
-    "ts": "2026-06-19T03:32:22.256761+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 6.3-10A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GWRLKV",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 3.2-5A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GN18PZ",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "Funda de acoplamiento flexible compatible con rodillos W-Acker N-euson RD880 RD11 RD12-90 RD16-100 Reemplazo#: 5000178336",
-        "url": "https://www.amazon.com.mx/dp/B0DL2RMGQP",
-        "price": 358.07,
-        "model": "RD16-100"
-      },
-      {
-        "store": "amazon",
-        "name": "1 unidad 3p 5-8A Appliance RDM108 RDM108-20 Series Disyuntor de caja moldeada Protector de motor de CA Voltaje nominal 380 V",
-        "url": "https://www.amazon.com.mx/dp/B0F9GZMGMV",
-        "price": 550.62,
-        "model": "RDM108-20"
-      },
-      {
-        "store": "amazon",
-        "name": "RECTIFICADOR REGULADOR DE VOLTAJE Grasshopper RS5101 RS5155 15531-64603 RP201-53710 UTV RTV500(R2013.0.2X)",
-        "url": "https://www.amazon.com.mx/dp/B0H557PNJD",
-        "price": 1730.9,
-        "model": "RP201-53710"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación conmutada salida dual 65 W RD-65, RD-65A y RD-65B Serie(RD-65A)",
-        "url": "https://www.amazon.com.mx/dp/B0H4V4CMBZ",
-        "price": 1047.45,
-        "model": "RD-65A"
-      },
-      {
-        "store": "amazon",
-        "name": "RD RD6030-Max - Juego completo de 60 V, 30 A, 1140 W, control digital, estabilizado, CA CC, voltaje ajustable, regulado, fuente de alimentación de banco de laboratorio",
-        "url": "https://www.amazon.com.mx/dp/B0FLP9D512",
-        "price": 7299.33,
-        "model": "RD6030-Max"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-3513)",
-        "url": "https://www.amazon.com.mx/dp/B0H4V5GF57",
-        "price": 1228.15,
-        "model": "RD-3513"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-65B)",
-        "url": "https://www.amazon.com.mx/dp/B0H4TXJXP5",
-        "price": 1483.33,
-        "model": "RD-3513"
-      },
-      {
-        "store": "amazon",
-        "name": "Placa reguladora de voltaje - Sustituye a Sincro FWD106-21 RD1",
-        "url": "https://www.amazon.com.mx/dp/B0H4LSFWT3",
-        "price": 10547.27,
-        "model": "FWD106-21"
-      },
-      {
-        "store": "amazon",
-        "name": "Fuente de alimentación conmutada RD-35A RD-35B RD-3513 RD-50A RD-50B RD-65A RD-65B RD-85A RD-85B(RD-85A)",
-        "url": "https://www.amazon.com.mx/dp/B0H4VC8TDT",
-        "price": 1818.17,
-        "model": "RD-3513"
-      }
-    ]
-  },
-  "walmart|RD632829MA": {
-    "ts": "2026-06-19T03:32:27.252021+00:00",
+    "ts": "2026-06-19T15:45:10.905159+00:00",
     "items": []
   },
   "palacio|10MIN": {
@@ -6062,6 +3190,70 @@
   },
   "sams|RD211513LA": {
     "ts": "2026-06-19T10:58:39.948815+00:00",
+    "items": []
+  },
+  "homedepot|622NGB": {
+    "ts": "2026-06-19T15:44:20.191977+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "VENTILADOR DE TECHO ELLARD II MAPLE CLARO/NOGAL GRIS OSCURO 52\" CON 2 LUCES Y 5 ASPAS REVERSIBLES",
+        "url": "https://www.homedepot.com.mx/p/home-decorators-collection-ventilador-de-techo-ellard-ii-maple-claro-nogal-gris-oscuro-52-con-2-luces-y-5-aspas-reversibles-193302",
+        "price": 3799.0,
+        "model": "193302"
+      }
+    ]
+  },
+  "palacio|622NGB": {
+    "ts": "2026-06-19T15:44:20.543966+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Teatro en casa, Bravia Theatre System 6",
+        "url": "https://www.elpalaciodehierro.com/sony-teatro-en-casa-bravia-theatre-system-6-44964246.html",
+        "price": 10079.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Teatro en casa Bravia Theater Bar 6 Negro",
+        "url": "https://www.elpalaciodehierro.com/sony-teatro-en-casa-bravia-theater-bar-6-negro-44964245.html",
+        "price": 7055.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mesa consola Credenza en madera de abeto",
+        "url": "https://www.elpalaciodehierro.com/home-body-mesa-consola-credenza-en-madera-de-abeto-45298991.html",
+        "price": 18780.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en plata Color Bear cuarzo Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-anillo-en-plata-color-bear-cuarzo-mujer-44372885.html",
+        "price": 8000.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo Shine Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-anillo-shine-mujer-44376051.html",
+        "price": 23000.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|622NGB": {
+    "ts": "2026-06-19T15:44:22.996584+00:00",
+    "items": []
+  },
+  "walmart|622NGB": {
+    "ts": "2026-06-19T15:44:31.665725+00:00",
+    "items": []
+  },
+  "sams|622NGB": {
+    "ts": "2026-06-19T15:44:34.968052+00:00",
     "items": []
   }
 }
