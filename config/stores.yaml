@@ -36,7 +36,7 @@ stores:
     store_id: "10351"
     only_promo: true            # solo pide detalle de productos con icono de promo
     max_products_per_term: 50
-    search_terms:
+    search_terms:               # diversificado por categorías (HD no tiene página de ofertas)
       - taladro
       - refrigerador
       - lavadora
@@ -45,21 +45,35 @@ stores:
       - bicicleta
       - generador
       - climas
+      - cocina
+      - microondas
+      - calentador
+      - mueble
+      - iluminacion
+      - jardin
 
   liverpool:
     name: Liverpool
     type: liverpool             # productos embebidos en __NEXT_DATA__
     enabled: true
     pages_per_term: 1
-    search_terms:
-      - taladro
+    search_terms:               # "ofertas/liquidacion" actúan como feed de deals
+      - ofertas
+      - liquidacion
       - pantalla
       - laptop
+      - audifonos
+      - celular
+      - smartwatch
       - refrigerador
       - lavadora
-      - perfume
+      - licuadora
+      - cafetera
       - tenis
-      - audifonos
+      - perfume
+      - reloj
+      - bicicleta
+      - juguete
 
   # --- deshabilitadas hasta tener extractor real ---
   coppel:
@@ -89,15 +103,23 @@ stores:
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)
     enabled: true
     max_products_per_term: 60
-    search_terms:
-      - taladro
+    search_terms:               # "ofertas/liquidacion" actúan como feed de deals
+      - ofertas
+      - liquidacion
       - pantalla
       - laptop
+      - audifonos
+      - celular
+      - smartwatch
       - refrigerador
       - lavadora
-      - audifonos
       - licuadora
+      - cafetera
+      - tenis
+      - perfume
+      - reloj
       - bicicleta
+      - juguete
   sams:
     name: Sam's Club MX
     type: jsonld
