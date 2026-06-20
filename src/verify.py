@@ -131,6 +131,42 @@ def _cached_lookup(ad: StoreAdapter, store_key: str, query: str,
     return hits
 
 
+def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter],
+                 confirm_pct: float, cache: dict, ttl_hours: float = 48) -> list[Finding]:
+    """Última verificación de los confirmados contra tiendas 'costosas'
+    (Amazon/Walmart/Sam's): busca el MISMO producto ahí; si lo tienen igual o
+    más barato (la diferencia real cae por debajo de confirm_pct), se descarta.
+    Solo corre sobre los pocos confirmados, así que casi no gasta."""
+    if not guard_adapters or not findings:
+        return findings
+    ttl = timedelta(hours=ttl_hours)
+    kept: list[Finding] = []
+    for f in findings:
+        p = f.product
+        query = _query_for(p)
+        rivals: list[Product] = []
+        for key, ad in guard_adapters.items():
+            if key == p.store:
+                continue
+            for op in _cached_lookup(ad, key, query, cache, ttl):
+                if (op.price > 0 and not is_refurbished(op.name)
+                        and same_product(p, op)):
+                    rivals.append(op)
+        if rivals:
+            cheapest = min(rivals, key=lambda x: x.price)
+            real = round((1 - p.price / cheapest.price) * 100, 1)
+            effective = min(f.discount_pct, real)
+            if effective < confirm_pct:
+                print(f"   [guard] descartado por {cheapest.store} "
+                      f"(${cheapest.price:,.0f}): {p.name[:40]} -> {real:+.0f}%")
+                continue
+            # sigue siendo deal: refleja también a la tienda costosa
+            f.discount_pct = effective
+            f.detail += f" | {_label(cheapest)}"
+        kept.append(f)
+    return kept
+
+
 class _Pool:
     """Índice en memoria de los productos ya escaneados, para comparar candidatos
     SIN consultas de red. Por código de modelo (exacto) y por marca+tokens."""

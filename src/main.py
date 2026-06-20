@@ -21,7 +21,7 @@ from . import detect
 from .adapters import build_adapter
 from .detect import Finding
 from .models import Product
-from .report import write_new_report, write_outputs
+from .report import append_history, write_new_report, write_outputs
 from .verify import verify
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -166,6 +166,17 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             google_max_lookups=int(gcfg.get("max_lookups", 15)),
             lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
             net_fallback=int(cfg.get("net_fallback", 40)))
+        findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
+
+        # guardia final: confirmar contra Amazon/Walmart/Sam's aunque NO se hayan
+        # escaneado en esta corrida (evita falsos positivos del carril rápido).
+        from .verify import guard_costly
+        guard_adapters = {}
+        for gk, gsc in cfg.get("stores", {}).items():
+            if gsc.get("enabled", True) and gsc.get("type") in ("amazon", "walmart", "sams"):
+                guard_adapters[gk] = adapters.get(gk) or build_adapter(gk, gsc)
+        findings = guard_costly(findings, guard_adapters, confirm_pct,
+                                lookup_cache, lookup_ttl)
 
         # purga entradas vencidas y guarda el caché de lookups
         _prune_lookup_cache(lookup_cache, lookup_ttl)
@@ -174,7 +185,6 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
         if google is not None:
             google.save()
             print(f"   Consultas Google Shopping (red): {google.calls}")
-        findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
         findings.sort(key=lambda f: f.discount_pct, reverse=True)
         print(f"Confirmados más baratos que la competencia (>= "
               f"{confirm_pct:.0f}%): {len(findings)}")
@@ -192,6 +202,8 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
     results_path, report_path = write_outputs(
         findings, ROOT / "data", len(products), shown_threshold)
     write_new_report(new, ROOT / "data")
+    if not dry_run:
+        append_history(new, ROOT / "data")   # historial navegable: data/history.md
     print(f"Escrito: {results_path}")
     print(f"Escrito: {report_path}")
 

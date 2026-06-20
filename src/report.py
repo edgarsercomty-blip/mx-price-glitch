@@ -37,6 +37,47 @@ def write_outputs(findings: list[Finding], out_dir: Path, scanned: int,
     return results_path, report_path
 
 
+def append_history(new_findings: list[Finding], out_dir: Path) -> None:
+    """Agrega los hallazgos NUEVOS a data/history.jsonl (append-only) y regenera
+    data/history.md (tabla navegable en GitHub, lo más reciente arriba)."""
+    if not new_findings:
+        return
+    out_dir.mkdir(parents=True, exist_ok=True)
+    ts = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M")
+    path = out_dir / "history.jsonl"
+    with open(path, "a", encoding="utf-8") as fh:
+        for f in new_findings:
+            p = f.product
+            fh.write(json.dumps({
+                "ts": ts, "discount_pct": f.discount_pct, "store": p.store,
+                "name": p.name, "url": p.url, "price": p.price,
+                "kind": f.kind, "detail": f.detail,
+            }, ensure_ascii=False) + "\n")
+    render_history_md(out_dir)
+
+
+def render_history_md(out_dir: Path, limit: int = 400) -> None:
+    path = out_dir / "history.jsonl"
+    if not path.exists():
+        return
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines()
+            if l.strip()]
+    total = len(rows)
+    rows = rows[-limit:][::-1]            # más reciente primero
+    lines = [f"# Historial de ofertas encontradas ({total})", "",
+             "Lo más reciente arriba. Cada fila es un hallazgo confirmado.", "",
+             "| Fecha | Desc. | Tienda | Producto | Precio | Detalle |",
+             "|-------|------:|--------|----------|-------:|---------|"]
+    for r in rows:
+        name = (r["name"][:55] + "…") if len(r["name"]) > 55 else r["name"]
+        name = name.replace("|", "\\|")
+        lines.append(
+            f"| {r['ts']} | -{r['discount_pct']:.0f}% | {r['store']} | "
+            f"[{name}]({r['url']}) | ${r['price']:,.0f} | "
+            f"{str(r.get('detail','')).replace('|', '/')} |")
+    (out_dir / "history.md").write_text("\n".join(lines), encoding="utf-8")
+
+
 def write_new_report(new_findings: list[Finding], out_dir: Path,
                      ts: str | None = None) -> Path:
     """Escribe data/new.md con SOLO los hallazgos nuevos (para la notificación)."""
