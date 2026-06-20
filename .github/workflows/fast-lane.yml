@@ -1,8 +1,8 @@
-name: Carril rápido (Liverpool + Palacio)
+name: Carril rápido (Liverpool + Palacio + Home Depot)
 
-# Solo tiendas DIRECTAS (sin Bright Data) -> corre en ~2-3 min y gratis, para
-# cazar glitches casi en tiempo real donde más han salido (Liverpool/Palacio).
-# El escaneo completo de las 6 tiendas vive en price-check.yml (cada 6h).
+# Solo tiendas DIRECTAS (sin Bright Data) -> gratis, para cazar glitches casi en
+# tiempo real. El escaneo completo de las 6 tiendas vive en price-check.yml (6h).
+# La guardia igual valida cada confirmado contra Amazon/Walmart/Sam's.
 
 on:
   schedule:
@@ -32,13 +32,13 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Escanear (Liverpool + Palacio)
+      - name: Escanear (Liverpool + Palacio + Home Depot)
         id: scan
         env:
           BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
           BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
           BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
-        run: python -m src.main --stores liverpool,palacio
+        run: python -m src.main --stores liverpool,palacio,homedepot
 
       - name: Guardar resultados/estado en el repo
         run: |
