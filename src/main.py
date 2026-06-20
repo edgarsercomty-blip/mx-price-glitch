@@ -89,7 +89,8 @@ def load_fixture_products() -> list[Product]:
     return [Product(**row) for row in data]
 
 
-def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
+def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
+        net_fallback: int | None = None) -> int:
     cfg = load_config()
     threshold = threshold if threshold is not None else cfg.get(
         "threshold_pct", detect.DEFAULT_THRESHOLD)
@@ -165,7 +166,8 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool) -> int:
             google_min_pct=float(gcfg.get("min_pct", 45)),
             google_max_lookups=int(gcfg.get("max_lookups", 15)),
             lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
-            net_fallback=int(cfg.get("net_fallback", 40)))
+            net_fallback=(net_fallback if net_fallback is not None
+                          else int(cfg.get("net_fallback", 40))))
         findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
 
         # guardia final: confirmar contra Amazon/Walmart/Sam's aunque NO se hayan
@@ -224,10 +226,12 @@ def main() -> None:
                     help="lista separada por comas para limitar tiendas")
     ap.add_argument("--threshold", type=float, default=None,
                     help="umbral de descuento en %% (default: stores.yaml)")
+    ap.add_argument("--net-fallback", type=int, default=None,
+                    help="máx. candidatos con lookup de red (0 = solo pool+Google; carril rápido)")
     args = ap.parse_args()
 
     stores_filter = {s.strip() for s in args.stores.split(",") if s.strip()} or None
-    run(stores_filter, args.threshold, args.dry_run)
+    run(stores_filter, args.threshold, args.dry_run, net_fallback=args.net_fallback)
 
 
 if __name__ == "__main__":
