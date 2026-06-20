@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-20 19:47 UTC",
-  "products_scanned": 4935,
+  "generated_at": "2026-06-20 20:15 UTC",
+  "products_scanned": 3852,
   "threshold_pct": 20.0,
-  "count": 1,
-  "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$20,070 vs walmart $26,499 -> -24% bajo la competencia (descuento propio 55%) | también walmart $26,499",
-      "store": "liverpool",
-      "name": "Refrigerador French door Whirlpool 20 pies tecnología no frost MWRF220SEHM",
-      "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981",
-      "price": 20069.55,
-      "list_price": 44599.0,
-      "ean": null,
-      "model": "MWRF220SEHM",
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1077266981",
-        "marketplace": "false"
-      }
-    }
-  ]
+  "count": 0,
+  "findings": []
 }
