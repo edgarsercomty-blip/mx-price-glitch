@@ -35,10 +35,11 @@ def is_refurbished(name: str | None) -> bool:
 
 @dataclass
 class Finding:
-    kind: str               # "own_discount" | "cross_store"
+    kind: str               # "own_discount" | "cross_store" | "cross_confirmed"
     product: Product
     discount_pct: float
     detail: str
+    ref_price: float | None = None   # precio de referencia del mercado (comparable más barato)
 
     def to_dict(self) -> dict:
         d = {"kind": self.kind, "discount_pct": self.discount_pct,

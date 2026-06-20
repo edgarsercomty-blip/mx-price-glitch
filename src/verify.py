@@ -144,6 +144,7 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
     for f in findings:
         p = f.product
         query = _query_for(p)
+        ref = f.ref_price or p.price          # precio de mercado de referencia
         rivals: list[Product] = []
         for key, ad in guard_adapters.items():
             if key == p.store:
@@ -152,18 +153,33 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
                 if (op.price > 0 and not is_refurbished(op.name)
                         and same_product(p, op)):
                     rivals.append(op)
-        if rivals:
-            cheapest = min(rivals, key=lambda x: x.price)
-            real = round((1 - p.price / cheapest.price) * 100, 1)
-            effective = min(f.discount_pct, real)
-            if effective < confirm_pct:
-                print(f"   [guard] descartado por {cheapest.store} "
-                      f"(${cheapest.price:,.0f}): {p.name[:40]} -> {real:+.0f}%")
-                continue
-            # sigue siendo deal: refleja también a la tienda costosa
-            f.discount_pct = effective
-            f.detail += f" | {_label(cheapest)}"
-        kept.append(f)
+        if not rivals:
+            kept.append(f)
+            continue
+
+        cheapest = min(rivals, key=lambda x: x.price)
+        if cheapest.price >= p.price:
+            # la tienda costosa NO es más barata -> nuestro hallazgo sigue válido
+            f.detail += f" | también {_label(cheapest)}"
+            kept.append(f)
+            continue
+
+        # la tienda costosa es MÁS barata: el deal (si existe) es de ELLA
+        rival_cross = round((1 - cheapest.price / ref) * 100, 1)
+        rival_ad = guard_adapters.get(cheapest.store)
+        if rival_cross >= confirm_pct and (rival_ad is None
+                                           or rival_ad.confirm_report(cheapest)):
+            print(f"   [guard] volteado a {cheapest.store} "
+                  f"(${cheapest.price:,.0f}, -{rival_cross:.0f}%): {p.name[:40]}")
+            kept.append(Finding(
+                kind="cross_confirmed", product=cheapest, discount_pct=rival_cross,
+                ref_price=ref,
+                detail=(f"${cheapest.price:,.0f} en {cheapest.store} vs mercado "
+                        f"${ref:,.0f} (y {p.store} ${p.price:,.0f}) "
+                        f"-> -{rival_cross:.0f}% bajo el mercado")))
+        else:
+            print(f"   [guard] descartado: {p.name[:40]} -> "
+                  f"{cheapest.store} más barato pero no le gana al mercado")
     return kept
 
 
@@ -271,6 +287,7 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         comp = ", ".join(_label(o) for o in sorted(others, key=lambda x: x.price)[:3])
         f.kind = "cross_confirmed"
         f.discount_pct = real
+        f.ref_price = cheapest.price          # referencia de mercado para la guardia
         f.detail = (f"${p.price:,.0f} vs {comp} -> -{real:.0f}% bajo la "
                     f"competencia (descuento propio "
                     f"{f.product.discount_pct or 0:.0f}%)")
