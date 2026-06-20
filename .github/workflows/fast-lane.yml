@@ -6,7 +6,7 @@ name: Carril rápido (Liverpool + Palacio + Home Depot)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"     # cada 15 min (GitHub puede retrasar/agrupar)
+    - cron: "*/20 * * * *"     # cada 20 min (HD puede caer a Bright Data y tardar; evita encimar corridas)
   workflow_dispatch: {}
 
 permissions:
