@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-20 14:31 UTC",
-  "products_scanned": 4980,
+  "generated_at": "2026-06-20 15:15 UTC",
+  "products_scanned": 3637,
   "threshold_pct": 20.0,
   "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$20,070 vs walmart $26,499 -> -24% bajo la competencia (descuento propio 55%)",
+      "discount_pct": 53.8,
+      "detail": "$11,999 vs google/bodegaaurrera.com.mx $23,483 -> -49% bajo la competencia (descuento propio 54%)",
       "store": "liverpool",
-      "name": "Refrigerador French door Whirlpool 20 pies tecnología no frost MWRF220SEHM",
-      "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981",
-      "price": 20069.55,
-      "list_price": 44599.0,
+      "name": "Pantalla Smart TV LG QNED de 65 pulgadas 4K/UHD 65QNED83ASG con WebOS con AI webOS",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-65-pulgadas-4K/UHD-65QNED83ASG-con-WebOS-con-AI-webOS/1179495071",
+      "price": 11999.0,
+      "list_price": 25999.0,
       "ean": null,
-      "model": "MWRF220SEHM",
-      "brand": "WHIRLPOOL",
+      "model": "65QNED83ASG",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1077266981",
+        "productId": "1179495071",
         "marketplace": "false"
       }
     }
