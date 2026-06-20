@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-20 15:15 UTC",
-  "products_scanned": 3637,
+  "generated_at": "2026-06-20 15:24 UTC",
+  "products_scanned": 3581,
   "threshold_pct": 20.0,
-  "count": 1,
-  "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.8,
-      "detail": "$11,999 vs google/bodegaaurrera.com.mx $23,483 -> -49% bajo la competencia (descuento propio 54%)",
-      "store": "liverpool",
-      "name": "Pantalla Smart TV LG QNED de 65 pulgadas 4K/UHD 65QNED83ASG con WebOS con AI webOS",
-      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-65-pulgadas-4K/UHD-65QNED83ASG-con-WebOS-con-AI-webOS/1179495071",
-      "price": 11999.0,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "65QNED83ASG",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1179495071",
-        "marketplace": "false"
-      }
-    }
-  ]
+  "count": 0,
+  "findings": []
 }
