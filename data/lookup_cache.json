@@ -14055,5 +14055,324 @@
         "model": "SEL55210-BQ"
       }
     ]
+  },
+  "homedepot|STKL01": {
+    "ts": "2026-06-20T04:03:40.719611+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "CAROLINE 3/4 ROD 36-66 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/caroline-3-4-rod-36-66-nkl-stl-1018127-411-h65-157170",
+        "price": 599.0,
+        "model": "157170"
+      },
+      {
+        "store": "homedepot",
+        "name": "EMBLEM 5/8 ROD 28-48 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/emblem-5-8-rod-28-48-nkl-stl-1005946-411-h65-157153",
+        "price": 395.0,
+        "model": "157153"
+      },
+      {
+        "store": "homedepot",
+        "name": "CAROLINE 3/4 ROD 66-120 NKL/STL",
+        "url": "https://www.homedepot.com.mx/p/caroline-3-4-rod-66-120-nkl-stl-1018128-411-h65-157171",
+        "price": 699.0,
+        "model": "157171"
+      }
+    ]
+  },
+  "palacio|STKL01": {
+    "ts": "2026-06-20T04:03:41.072091+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Delineador Lines Liberated, 0.35 g",
+        "url": "https://www.elpalaciodehierro.com/yves-saint-laurent-delineador-lines-liberated-0.35-g-44038618.html",
+        "price": 815.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino blanco Sauvignon Blanc Kaitui, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-blanco-sauvignon-blanc-kaitui-alemania-750-ml-44894560.html",
+        "price": 456.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino tinto ensamble Ursprung Cuvée, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-tinto-ensamble-ursprung-cuvee-alemania-750-ml-44894563.html",
+        "price": 378.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina portátil inalámbrica SRS XB100, Negro",
+        "url": "https://www.elpalaciodehierro.com/sony-bocina-portatil-inalambrica-srs-xb100-negro-44589575.html",
+        "price": 1132.21,
+        "model": "XB100"
+      },
+      {
+        "store": "palacio",
+        "name": "Labial The Inks Blur, 5.5 ml",
+        "url": "https://www.elpalaciodehierro.com/yves-saint-laurent-labial-the-inks-blur-5.5-ml-44483134.html",
+        "price": 990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vino Blanco riesling, Alemania, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/weingut-markus-schneider-vino-blanco-riesling-alemania-750-ml-44894565.html",
+        "price": 414.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete de baño Taormina Silver",
+        "url": "https://www.elpalaciodehierro.com/sorema-tapete-de-bano-taormina-silver-44090769.html",
+        "price": 1691.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Prospex SRPG19",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-prospex-srpg19-42004384.html",
+        "price": 12919.15,
+        "model": "SRPG19"
+      },
+      {
+        "store": "palacio",
+        "name": "LP SE SCALP ADISCF SHP 500 R VG61",
+        "url": "https://www.elpalaciodehierro.com/loreal-professionnel-lp-se-scalp-adiscf-shp-500-r-vg61-44240499.html",
+        "price": 780.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Prospex SLA075",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-luxe-prospex-sla075-43565436.html",
+        "price": 61379.1,
+        "model": "SLA075"
+      },
+      {
+        "store": "palacio",
+        "name": "Post it Transparentes CMYK",
+        "url": "https://www.elpalaciodehierro.com/suck-uk-post-it-transparentes-cmyk-45049651.html",
+        "price": 250.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calcetín Cerveza Stout 2",
+        "url": "https://www.elpalaciodehierro.com/suck-uk-calcetin-cerveza-stout-2-45049645.html",
+        "price": 590.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|STKL01": {
+    "ts": "2026-06-20T04:03:43.793669+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "SS-01",
+        "url": "https://www.amazon.com.mx/dp/B002HOQDVC",
+        "price": 608.94,
+        "model": "SS-01"
+      },
+      {
+        "store": "amazon",
+        "name": "Hakko FX8801-01 - Soldador con punta de soldadura T18-B (26 V-65 W)",
+        "url": "https://www.amazon.com.mx/dp/B00N3M318A",
+        "price": 1091.86,
+        "model": "FX8801-01"
+      },
+      {
+        "store": "amazon",
+        "name": "XON T9AP1D52-22-01 Relés de uso general, 1 unidad",
+        "url": "https://www.amazon.com.mx/dp/B00J1ZI88Q",
+        "price": 556.23,
+        "model": "T9AP1D52-22-01"
+      },
+      {
+        "store": "amazon",
+        "name": "HPU5810ADA-133 ST 00017-00030-01 Placa base para máquina de control industrial",
+        "url": "https://www.amazon.com.mx/dp/B0H3C797H8",
+        "price": 15114.36,
+        "model": "HPU5810ADA-133"
+      },
+      {
+        "store": "amazon",
+        "name": "TOTO TCU706CR#01 Tapa de porcelana para St706 & St743S, algodón blanco",
+        "url": "https://www.amazon.com.mx/dp/B001U64AL8",
+        "price": 1726.17,
+        "model": "TCU706CR"
+      },
+      {
+        "store": "amazon",
+        "name": "Pneumatic Shuttle Valve ST-01 ST-02 ST-03 ST-04 Pneumatic Logic KV-06 KV-08 KV-10 KS-01 KS-02(ST-03)",
+        "url": "https://www.amazon.com.mx/dp/B0FWBWQRD7",
+        "price": 554.36,
+        "model": "ST-01"
+      },
+      {
+        "store": "amazon",
+        "name": "T6997 - Caja de mantenimiento para SureColor T3400 T5400 T3480N T5485 T3470 T3475 T5470 P6000 P6080 P7000 P7080 P7570 P8000 P8080808080 P900 P900 P9080 P9500 P9570 Reemplazo de impresora para depósito",
+        "url": "https://www.amazon.com.mx/dp/B0FCF72XHT",
+        "price": 1790.22,
+        "model": "P8080808080"
+      },
+      {
+        "store": "amazon",
+        "name": "10 piezas de repuesto para SS-02 Solder Sucker – Tubo de repuesto fiable para desoldar eficiente",
+        "url": "https://www.amazon.com.mx/dp/B0CJBN5J9G",
+        "price": 122.42,
+        "model": "SS-02"
+      },
+      {
+        "store": "amazon",
+        "name": "ST7796S - visualización táctil LCD resistente en serie SPI de 4 pulgadas, 480 x 320",
+        "url": "https://www.amazon.com.mx/dp/B0FJ1WC7JL",
+        "price": 499.0,
+        "model": "ST7796S"
+      },
+      {
+        "store": "amazon",
+        "name": "Siemens ST70-1200 - Módulo digital SM 1222 8 salidas 24V DC Transistor 0.5A",
+        "url": "https://www.amazon.com.mx/dp/B00GFRPP1G",
+        "price": 2690.81,
+        "model": "ST70-1200"
+      },
+      {
+        "store": "amazon",
+        "name": "Kit de mango de cautín 907 a T12 conversión para V2.1S para STM32 para estación digital OLED, construcción de plástico y metal, diseño ligero para soldadura, negro (negro)",
+        "url": "https://www.amazon.com.mx/dp/B0H1481KM3",
+        "price": 172.09,
+        "model": "STM32"
+      },
+      {
+        "store": "amazon",
+        "name": "Chip de Tanque de Tinta de Mantenimiento SC13MB S2100 Compatible con Epson SC-F500 SC-F530 SC-F531 SC-F560 SC-F570 SC-F571 T2100 SC-T3100 T3100N T5100 N(30PC)",
+        "url": "https://www.amazon.com.mx/dp/B0H4XXD2WM",
+        "price": 1524.68,
+        "model": "SC-T3100"
+      }
+    ]
+  },
+  "walmart|STKL01": {
+    "ts": "2026-06-20T04:03:57.996849+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Ins拼接腰链波普风个性仿松石身体链 01 白K腰链 1801",
+        "url": "https://www.walmart.com.mx/ip/ins-01-k-1801/00078475463469?athbdg=L1300",
+        "price": 269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Silla de Oficina Ejecutiva STAY ELIT SILLA-01",
+        "url": "https://www.walmart.com.mx/ip/silla-de-oficina-ejecutiva-stay-elit-silla-01/00750223986579?athbdg=L1600",
+        "price": 829.0,
+        "model": "SILLA-01"
+      },
+      {
+        "store": "walmart",
+        "name": "Special Edition Numbers 01",
+        "url": "https://www.walmart.com.mx/ip/special-edition-numbers-01/00085322700613",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Gabinete de Disco Duro GETTTECH GCEM23101, 2.5 , USB, Color Plata. Getttech GCE-M231-01",
+        "url": "https://www.walmart.com.mx/ip/gabinete-de-disco-duro-getttech-gcem23101-2-5-usb-color-plata-getttech-gce-m231-01/00750303035827?athbdg=L1300",
+        "price": 299.0,
+        "model": "GCE-M231-01"
+      },
+      {
+        "store": "walmart",
+        "name": "CINTURÓN BERLIN 01 (XL)",
+        "url": "https://www.walmart.com.mx/ip/cinturon-berlin-01-xl-/00750663930039?athbdg=L1300",
+        "price": 1149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "CINTURÓN LYON 01 (XL)",
+        "url": "https://www.walmart.com.mx/ip/cinturon-lyon-01-xl-/00750663930056?athbdg=L1300",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "2023秋冬欧美朋克时尚 民族复古流苏羽毛多层锁骨项链毛衣链 批发 01银色",
+        "url": "https://www.walmart.com.mx/ip/2023-01-/00078478909614?athbdg=L1300",
+        "price": 429.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "I3J For Parkside Lawn Mower Replacement Spool + Spool Cap, TLP-01 K3O TLP-01-1",
+        "url": "https://www.walmart.com.mx/ip/i3j-for-parkside-lawn-mower-replacement-spool-spool-cap-tlp-01-k3o-tlp-01-1/00834333040081",
+        "price": 507.0,
+        "model": "TLP-01-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Reemplace El Ajuste Del telemando Para ZH / LW-01 ZH-LW-01 Aire Conditoner Nuevo",
+        "url": "https://www.walmart.com.mx/ip/reemplace-el-ajuste-del-telemando-para-zh-lw-01-zh-lw-01-aire-conditoner-nuevo/00078414046737?athbdg=L1300",
+        "price": 249.0,
+        "model": "ZH-LW-01"
+      },
+      {
+        "store": "walmart",
+        "name": "Fuente de alimentación Getttech 550W, GFS-55020-01",
+        "url": "https://www.walmart.com.mx/ip/fuente-de-alimentacion-getttech-550w-gfs-55020-01/00750061901088?athbdg=L1300",
+        "price": 410.0,
+        "model": "GFS-55020-01"
+      },
+      {
+        "store": "walmart",
+        "name": "EROS 01",
+        "url": "https://www.walmart.com.mx/ip/eros-01/00750663930001?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Escalera De Extensión Aluminio Akron 20 Escalones 82-01 150kg Akron Extensión de aluminio",
+        "url": "https://www.walmart.com.mx/ip/escalera-de-extension-aluminio-akron-20-escalones-82-01-150kg-akron-extension-de-aluminio/00075016583894?athbdg=L6000",
+        "price": 5471.0,
+        "model": "150kg"
+      }
+    ]
+  },
+  "sams|STKL01": {
+    "ts": "2026-06-20T04:04:01.489647+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Arenero Inteligente para Gatos Vanmedin  para Interiores MSP-01",
+        "url": "https://www.sams.com.mx/ip/arenero-inteligente-para-gatos-vanmedin-para-interiores-msp-01/981034487",
+        "price": 11251.97,
+        "model": "MSP-01"
+      },
+      {
+        "store": "sams",
+        "name": "Multiestilizador para Cabello Dyson  Airwrap Origin 111952-01",
+        "url": "https://www.sams.com.mx/ip/multiestilizador-para-cabello-dyson-airwrap-origin-111952-01/981050232",
+        "price": 8693.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Labial Líquido Clarins  Lip Comfort Oil 01 Honey 7 ml",
+        "url": "https://www.sams.com.mx/ip/labial-liquido-clarins-lip-comfort-oil-01-honey-7-ml/981033005",
+        "price": 510.47,
+        "model": null
+      }
+    ]
   }
 }
