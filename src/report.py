@@ -11,6 +11,7 @@ KIND_LABEL = {
     "own_discount": "Descuento propio",
     "cross_store": "Más barato entre tiendas",
     "cross_confirmed": "Confirmado vs competencia",
+    "restock": "🔁 De nuevo disponible",
 }
 
 

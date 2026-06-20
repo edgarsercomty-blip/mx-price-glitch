@@ -194,10 +194,19 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         findings = detect.detect(products, threshold, max_pct)
         print(f"Hallazgos {threshold:.0f}%-{max_pct:.0f}%: {len(findings)}")
 
+    # alertas de RESTOCK: productos vigilados que volvieron a estar disponibles
+    restocks = []
+    if not dry_run:
+        from .watchlist import update_and_detect
+        restocks = update_and_detect(products, findings, ROOT / "data" / "watchlist.json")
+        if restocks:
+            print(f"Restock (de nuevo disponibles): {len(restocks)}")
+
     # solo lo NUEVO respecto a corridas anteriores (estado en data/seen.json)
     new = [] if dry_run else split_new(findings)
     if dry_run:
         new = findings
+    new = restocks + new          # los restock siempre se avisan (transición)
     print(f"Nuevos: {len(new)}")
 
     shown_threshold = confirm_pct if (verify_cross and not dry_run) else threshold
