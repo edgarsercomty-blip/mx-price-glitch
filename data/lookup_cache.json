@@ -14552,5 +14552,207 @@
         "model": null
       }
     ]
+  },
+  "homedepot|100QD6SFM": {
+    "ts": "2026-06-20T14:29:31.070760+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "PROTECTOR PARA VENTANA CONTEMPO 100 X 100 CM CHOCOLATE",
+        "url": "https://www.homedepot.com.mx/p/gen-steel-protector-para-ventana-contempo-100-x-100-cm-chocolate-contempo-145532",
+        "price": 1649.0,
+        "model": "145532"
+      },
+      {
+        "store": "homedepot",
+        "name": "PROTECTOR PARA VENTANA CONTEMPO 100 X 100 CM BLANCO",
+        "url": "https://www.homedepot.com.mx/p/gen-steel-protector-para-ventana-contempo-100-x-100-cm-blanco-contempo-145519",
+        "price": 1649.0,
+        "model": "145519"
+      }
+    ]
+  },
+  "amazon|100QD6SFM": {
+    "ts": "2026-06-20T14:29:32.733596+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 100“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler, 144Hz Nativos，Dolby Vision·Atmos，Modo de Protección Ocular，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRN575F",
+        "price": 26999.0,
+        "model": "144Hz"
+      }
+    ]
+  },
+  "walmart|100QD6SFM": {
+    "ts": "2026-06-20T14:29:48.952080+00:00",
+    "items": []
+  },
+  "sams|100QD6SFM": {
+    "ts": "2026-06-20T14:29:50.724544+00:00",
+    "items": []
+  },
+  "homedepot|RTF34700SSMX": {
+    "ts": "2026-06-20T14:29:50.966456+00:00",
+    "items": []
+  },
+  "amazon|RTF34700SSMX": {
+    "ts": "2026-06-20T14:29:53.050503+00:00",
+    "items": []
+  },
+  "walmart|RTF34700SSMX": {
+    "ts": "2026-06-20T14:30:16.086894+00:00",
+    "items": []
+  },
+  "sams|RTF34700SSMX": {
+    "ts": "2026-06-20T14:30:17.787266+00:00",
+    "items": []
+  },
+  "homedepot|RR43D6AGX1": {
+    "ts": "2026-06-20T14:30:17.975513+00:00",
+    "items": []
+  },
+  "amazon|RR43D6AGX1": {
+    "ts": "2026-06-20T14:30:19.762766+00:00",
+    "items": []
+  },
+  "walmart|RR43D6AGX1": {
+    "ts": "2026-06-20T14:30:21.700863+00:00",
+    "items": []
+  },
+  "sams|RR43D6AGX1": {
+    "ts": "2026-06-20T14:30:27.341729+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Frigobar HISENSE  3.3 Pies Plateado RR33D6AGX1",
+        "url": "https://www.sams.com.mx/ip/frigobar-hisense-3-3-pies-plateado-rr33d6agx1/981053586",
+        "price": 4595.31,
+        "model": "RR33D6AGX1"
+      }
+    ]
+  },
+  "homedepot|WA21B3554GVAX": {
+    "ts": "2026-06-20T14:30:54.492632+00:00",
+    "items": []
+  },
+  "amazon|WA21B3554GVAX": {
+    "ts": "2026-06-20T14:30:56.745819+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Presostato DC96-01703M Para Lavadora Samsung",
+        "url": "https://www.amazon.com.mx/dp/B0FWVFFP7L",
+        "price": 400.0,
+        "model": "DC96-01703M"
+      },
+      {
+        "store": "amazon",
+        "name": "Válvula De Agua Dc97-15459m Para Lavadora Samsung",
+        "url": "https://www.amazon.com.mx/dp/B0FWPND9W8",
+        "price": 980.0,
+        "model": "Dc97-15459m"
+      },
+      {
+        "store": "amazon",
+        "name": "WA50R5200AW/US WA50R5400AV/US Kits de varillas de suspensión para Samsung Washer WA45T3200AW/A4, reemplaza WA45M7050AW/A4 WA45T3400AV/A4 WA45N3050AW/A4 WA50T5300AC",
+        "url": "https://www.amazon.com.mx/dp/B0D7CBKR6Y",
+        "price": 795.81,
+        "model": "WA50R5200AW/US"
+      }
+    ]
+  },
+  "walmart|WA21B3554GVAX": {
+    "ts": "2026-06-20T14:31:13.610445+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora Samsung 22 kg Blanca Mod. WA22A3350GW/AX Carga Superior",
+        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-22-kg-blanca-mod-wa22a3350gw-ax-carga-superior/00880609218777?athbdg=L1300",
+        "price": 9190.0,
+        "model": "WA22A3350GW/AX"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Samsung 20 kg Blanca WA20A3341GW/AX Carga Superior con Agitador",
+        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-20-kg-blanca-wa20a3341gw-ax-carga-superior-con-agitador/00880609218769?athbdg=L1300",
+        "price": 9399.0,
+        "model": "WA20A3341GW/AX"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Secadora Carga Frontal 24 Kg DVG24A5370W/AX Samsung DVG24A5370W",
+        "url": "https://www.walmart.com.mx/ip/samsung-secadora-carga-frontal-24-kg-dvg24a5370w-ax-samsung-dvg24a5370w/00880609272182?athbdg=L1300",
+        "price": 13199.0,
+        "model": "DVG24A5370W/AX"
+      },
+      {
+        "store": "walmart",
+        "name": "Router ASUS ZenWiFi AX XT8 CHARCOAL Tri Banda 2 Pack Blanco",
+        "url": "https://www.walmart.com.mx/ip/router-asus-zenwifi-ax-xt8-charcoal-tri-banda-2-pack-blanco/00019287657901",
+        "price": 10604.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta Madre ASUS PRIME B650M-A AX, Chipset AMD B650M, Soporta: AMD de séptima gen, Socket AM5, DDR5. Asus PRIME B650M-A AX",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-asus-prime-b650m-a-ax-chipset-amd-b650m-soporta-amd-de-septima-gen-socket-am5-ddr5-asus-prime-b650m-a-ax/00019555392261?athbdg=L6000",
+        "price": 9955.8,
+        "model": "B650M-A"
+      },
+      {
+        "store": "walmart",
+        "name": "Sistema WiFi 6 Mesh ASUS ZenWiFi AX Hybrid XP4 para 5500 pies²",
+        "url": "https://www.walmart.com.mx/ip/sistema-wifi-6-mesh-asus-zenwifi-ax-hybrid-xp4-para-5500-pies-/00019287675788?athbdg=L1300",
+        "price": 3449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Aire Acondicionado Samsung 1 Ton AR40F12D0AM/AX Advance R32 Frío 220V",
+        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-samsung-1-ton-ar40f12d0am-ax-advance-r32-frio-220v/00880609760473?athbdg=L1300",
+        "price": 6190.0,
+        "model": "AR40F12D0AM/AX"
+      },
+      {
+        "store": "walmart",
+        "name": "Placa madre GIGABYTE B650 UD AX AM5 DDR5 Wifi 6 ATX",
+        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b650-ud-ax-am5-ddr5-wifi-6-atx/00088952304427?athbdg=L1300",
+        "price": 4149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Placa base GIGABYTE B550M AORUS Elite AX (AM4/ AMD/ B550)",
+        "url": "https://www.walmart.com.mx/ip/placa-base-gigabyte-b550m-aorus-elite-ax-am4-amd-b550-/00088952303729?athbdg=L1300",
+        "price": 4029.0,
+        "model": "B550M"
+      },
+      {
+        "store": "walmart",
+        "name": "Mando a distancia de repuesto para receptor AV, mando a distancia AXD7619, mando a distancia AX de repuesto, mando a distancia para receptor AV para Pioneer Rapid Response",
+        "url": "https://www.walmart.com.mx/ip/mando-a-distancia-de-repuesto-para-receptor-av-mando-a-distancia-axd7619-mando-a-distancia-ax-de-repuesto-mando-a-distancia-para-receptor-av-para-pioneer-rapid-response/00097480494876?athbdg=L1300",
+        "price": 250.0,
+        "model": "AXD7619"
+      },
+      {
+        "store": "walmart",
+        "name": "Router Mesh WiFi 6 Gryphon AX ultrarrápido de 4,3 Gbps, 3000 pies cuadrados",
+        "url": "https://www.walmart.com.mx/ip/router-mesh-wifi-6-gryphon-ax-ultrarrapido-de-4-3-gbps-3000-pies-cuadrados/00086873900049?athbdg=L1300",
+        "price": 7659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Minisplit Samsung Inverter Solo Frío 1 Tonelada (12000 BTUS) 220V AR12BVHQASI/AX",
+        "url": "https://www.walmart.com.mx/ip/minisplit-samsung-inverter-solo-frio-1-tonelada-12000-btus-220v-ar12bvhqasi-ax/00880609446616",
+        "price": 6898.0,
+        "model": "AR12BVHQASI/AX"
+      }
+    ]
+  },
+  "sams|WA21B3554GVAX": {
+    "ts": "2026-06-20T14:31:13.944626+00:00",
+    "items": []
   }
 }
