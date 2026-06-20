@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20 04:04 UTC",
-  "products_scanned": 5331,
+  "generated_at": "2026-06-20 06:03 UTC",
+  "products_scanned": 3618,
   "threshold_pct": 20.0,
-  "count": 2,
+  "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -21,25 +21,6 @@
       "extra": {
         "id": "44318698",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$3,375 vs sams $4,288 -> -21% bajo la competencia (descuento propio 55%)",
-      "store": "liverpool",
-      "name": "Frigobar Hisense RR43D6AGX1 4 pies cúbicos",
-      "url": "https://liverpool.com.mx/tienda/pdp/Frigobar-Hisense-RR43D6AGX1-4-pies-c%C3%BAbicos/1126618243",
-      "price": 3374.55,
-      "list_price": 7499.0,
-      "ean": null,
-      "model": "RR43D6AGX1",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1126618243",
-        "marketplace": "false"
       }
     }
   ]
