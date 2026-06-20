@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-20 06:03 UTC",
-  "products_scanned": 3618,
+  "generated_at": "2026-06-20 13:13 UTC",
+  "products_scanned": 3642,
   "threshold_pct": 20.0,
   "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$12,600 vs liverpool $41,999, liverpool $41,999 -> -70% bajo la competencia (descuento propio 70%)",
-      "store": "palacio",
-      "name": "iMac 24\" Chip M4, 16 GB RAM, 512 GB SSD plata",
-      "url": "https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html",
-      "price": 12599.7,
-      "list_price": 41999.0,
+      "discount_pct": 53.8,
+      "detail": "$11,999 vs google/bodegaaurrera.com.mx $23,483 -> -49% bajo la competencia (descuento propio 54%)",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV LG QNED de 65 pulgadas 4K/UHD 65QNED83ASG con WebOS con AI webOS",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-65-pulgadas-4K/UHD-65QNED83ASG-con-WebOS-con-AI-webOS/1179495071",
+      "price": 11999.0,
+      "list_price": 25999.0,
       "ean": null,
-      "model": null,
-      "brand": "Apple",
+      "model": "65QNED83ASG",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44318698",
-        "outlet": false
+        "productId": "1179495071",
+        "marketplace": "false"
       }
     }
   ]

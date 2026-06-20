@@ -1,9 +1,9 @@
-# Errores/chollos de precio — 2026-06-20 06:03 UTC
+# Errores/chollos de precio — 2026-06-20 13:13 UTC
 
-- Productos revisados: **3618**
+- Productos revisados: **3642**
 - Umbral de diferencia: **20%**
 - Hallazgos: **1**
 
 | Desc. | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|--------|----------|-------:|------|---------|
-| -70% | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | Confirmado vs competencia | $12,600 vs liverpool $41,999, liverpool $41,999 -> -70% bajo la competencia (descuento propio 70%) |
+| -49% | liverpool | [Pantalla Smart TV LG QNED de 65 pulgadas 4K/UHD 65QNED83ASG …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-65-pulgadas-4K/UHD-65QNED83ASG-con-WebOS-con-AI-webOS/1179495071) | $11,999 | Confirmado vs competencia | $11,999 vs google/bodegaaurrera.com.mx $23,483 -> -49% bajo la competencia (descuento propio 54%) |
