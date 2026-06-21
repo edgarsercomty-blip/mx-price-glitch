@@ -87,4 +87,20 @@ def update_and_detect(products: list[Product], confirmed: list[Finding],
 
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(wl, ensure_ascii=False, indent=2), encoding="utf-8")
+    _render_md(wl, path.parent / "watchlist.md")
     return restocks
+
+
+def _render_md(wl: dict, md_path: Path) -> None:
+    lines = [f"# Productos en vigilancia ({len(wl)})", "",
+             "Deals detectados que se monitorean. Si uno **agotado** vuelve a estar "
+             "disponible, llega alerta de restock.", "",
+             "| Estado | Tienda | Producto | Precio | Desc. |",
+             "|--------|--------|----------|-------:|------:|"]
+    for v in sorted(wl.values(), key=lambda x: x.get("available", True)):
+        estado = "🟢 disponible" if v.get("available") else "🔴 agotado"
+        name = (v["name"][:60] + "…") if len(v["name"]) > 60 else v["name"]
+        name = name.replace("|", "\\|")
+        lines.append(f"| {estado} | {v.get('store','')} | [{name}]({v['url']}) | "
+                     f"${v.get('price',0):,.0f} | -{v.get('discount',0):.0f}% |")
+    md_path.write_text("\n".join(lines), encoding="utf-8")
