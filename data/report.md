@@ -1,7 +1,9 @@
-# Errores/chollos de precio — 2026-06-21 14:17 UTC
+# Errores/chollos de precio — 2026-06-21 14:38 UTC
 
-- Productos revisados: **3880**
+- Productos revisados: **5404**
 - Umbral de diferencia: **20%**
-- Hallazgos: **0**
+- Hallazgos: **1**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|--------|----------|-------:|------|---------|
+| -37% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $2,999 | Confirmado vs competencia | $2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) / también walmart $4,779 |

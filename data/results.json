@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-21 14:17 UTC",
-  "products_scanned": 3880,
+  "generated_at": "2026-06-21 14:38 UTC",
+  "products_scanned": 5404,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.5,
+      "detail": "$2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) | también walmart $4,779",
+      "store": "liverpool",
+      "name": "Bicicleta urbana Veloci rodada 26 unisex",
+      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
+      "price": 2999.0,
+      "list_price": 7598.0,
+      "ean": null,
+      "model": null,
+      "brand": "VELOCI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1167998964",
+        "marketplace": "true"
+      }
+    }
+  ]
 }
