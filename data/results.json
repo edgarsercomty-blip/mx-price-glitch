@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-06-21 14:38 UTC",
-  "products_scanned": 5404,
+  "generated_at": "2026-06-21 15:41 UTC",
+  "products_scanned": 4614,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 6,
   "findings": [
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$434 en amazon vs homedepot $5,999 -> -93% bajo la competencia",
+      "store": "amazon",
+      "name": "3dRose 244959_7 - Taza, 325 ml, color verde y blanco",
+      "url": "https://www.amazon.com.mx/dp/B073X8BWLJ",
+      "price": 434.33,
+      "list_price": 44.08,
+      "ean": null,
+      "model": "3dRose",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B073X8BWLJ"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.5,
-      "detail": "$2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) | también walmart $4,779",
+      "detail": "$2,999 en liverpool vs walmart $4,779 -> -37% bajo la competencia",
       "store": "liverpool",
       "name": "Bicicleta urbana Veloci rodada 26 unisex",
       "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
@@ -20,6 +38,82 @@
       "currency": "MXN",
       "extra": {
         "productId": "1167998964",
+        "marketplace": "true"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$19,110 en liverpool vs amazon $29,999 -> -36% bajo la competencia",
+      "store": "liverpool",
+      "name": "Refrigerador dúplex Hisense 22 pies cúbicos inverter y no frost y fábrica de hielo RS22N6IBX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481",
+      "price": 19109.51,
+      "list_price": 38999.0,
+      "ean": null,
+      "model": "RS22N6IBX",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184494481",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.6,
+      "detail": "$4,999 en liverpool vs amazon $7,619, walmart $7,619 -> -34% bajo la competencia",
+      "store": "liverpool",
+      "name": "Frigobar Avera FB02D 3.2 pies cúbicos",
+      "url": "https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431",
+      "price": 4999.0,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "FB02D",
+      "brand": "AVERA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1151591431",
+        "marketplace": "true"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia",
+      "store": "liverpool",
+      "name": "Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos",
+      "url": "https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082",
+      "price": 3149.55,
+      "list_price": 6999.0,
+      "ean": null,
+      "model": "MCP10HB",
+      "brand": "MIRAGE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1161903082",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.7,
+      "detail": "$1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia",
+      "store": "liverpool",
+      "name": "Secadora de cabello Llano ll-pc001",
+      "url": "https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892",
+      "price": 1199.99,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "ll-pc001",
+      "brand": "LLANO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1174499892",
         "marketplace": "true"
       }
     }

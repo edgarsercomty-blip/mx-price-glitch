@@ -27,7 +27,7 @@
     "available": true,
     "discount": 20.0,
     "added": "2026-06-21T04:47:24.081903+00:00",
-    "last_seen": "2026-06-21T14:38:11.637501+00:00"
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/bicicleta-urbana-veloci-rodada-26-unisex/1167998964": {
     "store": "liverpool",
@@ -37,6 +37,56 @@
     "available": true,
     "discount": 37.2,
     "added": "2026-06-21T14:38:11.637501+00:00",
-    "last_seen": "2026-06-21T14:38:11.637501+00:00"
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
+  },
+  "https://www.amazon.com.mx/dp/b073x8bwlj": {
+    "store": "amazon",
+    "name": "3dRose 244959_7 - Taza, 325 ml, color verde y blanco",
+    "url": "https://www.amazon.com.mx/dp/B073X8BWLJ",
+    "price": 434.33,
+    "available": true,
+    "discount": 92.8,
+    "added": "2026-06-21T15:41:15.965909+00:00",
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/refrigerador-d%c3%baplex-hisense-22-pies-c%c3%babicos-inverter-y-no-frost-y-f%c3%a1brica-de-hielo-rs22n6ibx/1184494481": {
+    "store": "liverpool",
+    "name": "Refrigerador dúplex Hisense 22 pies cúbicos inverter y no frost y fábrica de hielo RS22N6IBX",
+    "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481",
+    "price": 19109.51,
+    "available": true,
+    "discount": 36.3,
+    "added": "2026-06-21T15:41:15.965909+00:00",
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/frigobar-avera-fb02d-3.2-pies-c%c3%babicos/1151591431": {
+    "store": "liverpool",
+    "name": "Frigobar Avera FB02D 3.2 pies cúbicos",
+    "url": "https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431",
+    "price": 4999.0,
+    "available": true,
+    "discount": 34.4,
+    "added": "2026-06-21T15:41:15.965909+00:00",
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/congelador-mirage-mcp10hb-horizontal-3.5-pies-c%c3%babicos/1161903082": {
+    "store": "liverpool",
+    "name": "Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos",
+    "url": "https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082",
+    "price": 3149.55,
+    "available": true,
+    "discount": 33.7,
+    "added": "2026-06-21T15:41:15.965909+00:00",
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/secadora-de-cabello-llano-ll-pc001/1174499892": {
+    "store": "liverpool",
+    "name": "Secadora de cabello Llano ll-pc001",
+    "url": "https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892",
+    "price": 1199.99,
+    "available": true,
+    "discount": 25.9,
+    "added": "2026-06-21T15:41:15.965909+00:00",
+    "last_seen": "2026-06-21T15:41:15.965909+00:00"
   }
 }

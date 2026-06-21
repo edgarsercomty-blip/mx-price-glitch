@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (5)
+# Historial de ofertas encontradas (10)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-21 15:41 | -26% | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | $1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia |
+| 2026-06-21 15:41 | -34% | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,150 | $3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia |
+| 2026-06-21 15:41 | -34% | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,999 | $4,999 en liverpool vs amazon $7,619, walmart $7,619 -> -34% bajo la competencia |
+| 2026-06-21 15:41 | -36% | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y …](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $19,110 | $19,110 en liverpool vs amazon $29,999 -> -36% bajo la competencia |
+| 2026-06-21 15:41 | -93% | amazon | [3dRose 244959_7 - Taza, 325 ml, color verde y blanco](https://www.amazon.com.mx/dp/B073X8BWLJ) | $434 | $434 en amazon vs homedepot $5,999 -> -93% bajo la competencia |
 | 2026-06-21 14:38 | -37% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $2,999 | $2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) / también walmart $4,779 |
 | 2026-06-19 17:16 | -70% | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | $12,600 vs liverpool $41,999 -> -70% bajo la competencia (ERROR de precio real, se agotó) |
 | 2026-06-19 15:54 | -21% | liverpool | [Frigobar Hisense RR43D6AGX1 4 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Hisense-RR43D6AGX1-4-pies-c%C3%BAbicos/1126618243) | $3,375 | $3,375 vs sams $4,288 -> -21% bajo la competencia |
