@@ -30,6 +30,13 @@ _STOP = set((
 ).split())
 
 
+# un precio < OUTLIER_FRAC × mediana de ofertas es casi seguro un mismatch
+# (accesorio/refacción emparejado con el producto). Se ignora.
+OUTLIER_FRAC = 0.15
+# un descuento cruzado por encima de esto es casi siempre error de dato/mismatch
+CROSS_MAX_PCT = 85.0
+
+
 def _norm(s: str | None) -> str:
     return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
 
@@ -167,12 +174,26 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
         if f.ref_price:
             offers.append((f.ref_price, None))   # piso de mercado de verify (sin Product)
         offers.sort(key=lambda o: o[0])
+
+        # rechazo de OUTLIERS: un precio absurdamente bajo (p.ej. un accesorio
+        # mal emparejado con un TV) no es comparable. Se descartan los que estén
+        # muy por debajo de la mediana de ofertas.
+        import statistics
+        med = statistics.median([o[0] for o in offers])
+        filtered = [o for o in offers if o[0] >= OUTLIER_FRAC * med]
+        if len(filtered) >= 2:
+            offers = filtered
+
+        if len(offers) < 2:
+            kept.append(f)                       # sin con qué comparar, deja el original
+            continue
         winner_price, winner = offers[0]
         floor_price = offers[1][0]               # segundo más barato = competencia real
         disc = round((1 - winner_price / floor_price) * 100, 1)
 
-        if winner is None or disc < confirm_pct:
-            print(f"   [guard] descartado: {p.name[:40]} -> real {disc:+.0f}% (< {confirm_pct:.0f}%)")
+        if winner is None or disc < confirm_pct or disc > CROSS_MAX_PCT:
+            why = "mismatch?" if disc > CROSS_MAX_PCT else f"< {confirm_pct:.0f}%"
+            print(f"   [guard] descartado: {p.name[:40]} -> real {disc:+.0f}% ({why})")
             continue
         # filtro por tienda del ganador (Amazon: vendido/enviado por Amazon)
         wad = guard_adapters.get(winner.store)
