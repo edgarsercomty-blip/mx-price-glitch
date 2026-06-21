@@ -44,7 +44,19 @@ def main() -> None:
     m = NEXT.search(html)
     if not m:
         print("sin __NEXT_DATA__. snippet:", html[:200]); return
-    data = json.loads(m.group(1))
+    # buscar hosts/endpoints de API y keys que use el frontend
+    blob = m.group(1)
+    hosts = set(re.findall(r'https?://[a-z0-9.\-]*(?:coppel|algolia|cnstrc|bloomreach|search|api)[a-z0-9.\-]*[/a-z0-9._\-]*', blob, re.I))
+    print("hosts/api en __NEXT_DATA__:")
+    for h in sorted(hosts)[:25]:
+        print("  ", h[:140])
+    for kk in ("apiKey", "api_key", "x-api-key", "appId", "applicationId", "graphql", "searchKey", "subscriptionKey", "Ocp-Apim"):
+        n = blob.count(kk)
+        if n:
+            mm = re.search(re.escape(kk) + r'"?\s*[:=]\s*"?([A-Za-z0-9_\-]{6,40})', blob)
+            print(f"  {kk}: x{n} ej={mm.group(1) if mm else '?'}")
+
+    data = json.loads(blob)
     prods = list(find_products(data))
     print(f"posibles productos: {len(prods)}")
     seen_shapes = 0
