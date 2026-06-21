@@ -56,6 +56,25 @@ def main() -> None:
             mm = re.search(re.escape(kk) + r'"?\s*[:=]\s*"?([A-Za-z0-9_\-]{6,40})', blob)
             print(f"  {kk}: x{n} ej={mm.group(1) if mm else '?'}")
 
+    # buscar el endpoint de búsqueda en los bundles JS
+    chunks = re.findall(r'/_next/static/[^"\']+\.js', html)
+    chunks = sorted(set(chunks))[:12]
+    print(f"\nrevisando {len(chunks)} chunks JS...")
+    endpoints: set[str] = set()
+    for c in chunks:
+        try:
+            js = brightdata.fetch(f"https://www.coppel.com{c}", country="mx",
+                                  timeout=30, retries=1)
+        except brightdata.FetchError:
+            continue
+        for pat in re.findall(r'["\'`](https?://[a-z0-9.\-]+/[^"\'`]*(?:search|product|catalog|graphql)[^"\'`]*)', js, re.I):
+            endpoints.add(pat[:160])
+        for pat in re.findall(r'["\'`](/[a-z0-9/_\-]*(?:search|products?|catalog|graphql)[a-z0-9/_\-]*)["\'`]', js, re.I):
+            endpoints.add(pat[:160])
+    print("posibles endpoints de búsqueda:")
+    for e in sorted(endpoints)[:30]:
+        print("  ", e)
+
     data = json.loads(blob)
     prods = list(find_products(data))
     print(f"posibles productos: {len(prods)}")
