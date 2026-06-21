@@ -35,6 +35,11 @@ CANDIDATES = {
         "https://www.homedepot.com.mx/search/resources/store/10351/productview/bySearchTerm/descuento",
         "https://www.homedepot.com.mx/search/resources/store/10351/productview/bySearchTerm/liquidacion",
     ],
+    "coppel": [
+        "https://www.coppel.com/api/catalog_system/pub/products/search?ft=taladro&_from=0&_to=9",
+        "https://www.coppel.com/api/catalog_system/pub/products/search/taladro",
+        "https://www.coppel.com/taladro",
+    ],
 }
 
 # señal de "producto con precio" por tienda en el cuerpo
@@ -42,6 +47,7 @@ SIGNAL = {
     "liverpool": '"maximumListPrice"',
     "walmart": '"linePrice"',
     "homedepot": '"catalogEntryView"',
+    "coppel": '"commertialOffer"',
 }
 
 
@@ -69,7 +75,10 @@ def main() -> None:
         if not body:
             print("   (sin cuerpo)")
             continue
-        print(f"   bytes={len(body)}  señal {sig}={body.count(sig)}")
+        print(f"   bytes={len(body)}  señal {sig}={body.count(sig)}  "
+              f"price={body.count(chr(34)+'Price'+chr(34))} ean={body.count('ean')}")
+        if body.count(sig) == 0:
+            print(f"   snippet: {body[:160]!r}")
 
 
 if __name__ == "__main__":
