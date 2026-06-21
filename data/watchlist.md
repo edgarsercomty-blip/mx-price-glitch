@@ -1,4 +1,4 @@
-# Productos en vigilancia (9)
+# Productos en vigilancia (10)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -13,3 +13,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,999 | -34% |
 | 🟢 disponible | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,150 | -34% |
 | 🟢 disponible | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | -26% |
+| 🟢 disponible | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost y fá…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,498 | -28% |
