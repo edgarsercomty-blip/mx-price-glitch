@@ -1,65 +1,9 @@
 {
-  "generated_at": "2026-06-21 19:58 UTC",
-  "products_scanned": 4586,
+  "generated_at": "2026-06-21 20:50 UTC",
+  "products_scanned": 3191,
   "threshold_pct": 20.0,
-  "count": 6,
+  "count": 3,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.1,
-      "detail": "$14,319 en sams vs walmart $30,529 -> -45% bajo la competencia",
-      "store": "sams",
-      "name": "Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-bg0000la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372",
-      "price": 14318.93,
-      "list_price": 29254.71,
-      "ean": null,
-      "model": "13-bg0000la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981023372"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.5,
-      "detail": "$2,999 en liverpool vs walmart $4,779 -> -37% bajo la competencia",
-      "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 2999.0,
-      "list_price": 7598.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167998964",
-        "marketplace": "true"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 54.6,
-      "detail": "$4,999 en liverpool vs amazon $7,619, walmart $7,619 -> -34% bajo la competencia",
-      "store": "liverpool",
-      "name": "Frigobar Avera FB02D 3.2 pies cúbicos",
-      "url": "https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431",
-      "price": 4999.0,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "FB02D",
-      "brand": "AVERA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1151591431",
-        "marketplace": "true"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 55.0,
