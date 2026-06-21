@@ -40,6 +40,7 @@ class Finding:
     discount_pct: float
     detail: str
     ref_price: float | None = None   # precio de referencia del mercado (comparable más barato)
+    n_comparables: int = 0           # cuántos comparables se hallaron (robustez)
 
     def to_dict(self) -> dict:
         d = {"kind": self.kind, "discount_pct": self.discount_pct,

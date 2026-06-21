@@ -37,44 +37,42 @@ stores:
     store_id: "10351"
     only_promo: true            # solo pide detalle de productos con icono de promo
     max_products_per_term: 50
-    search_terms:               # diversificado por categorías (HD no tiene página de ofertas)
+    search_terms:               # foco en línea blanca/herramienta (donde sí saltan deals)
       - taladro
       - refrigerador
       - lavadora
+      - lavasecadora
+      - estufa
+      - congelador
+      - minisplit
       - pantalla
-      - sala
-      - bicicleta
       - generador
       - climas
-      - cocina
-      - microondas
       - calentador
-      - mueble
-      - iluminacion
-      - jardin
+      - microondas
 
   liverpool:
     name: Liverpool
     type: liverpool             # productos embebidos en __NEXT_DATA__
     enabled: true
     pages_per_term: 2           # más profundidad por término
-    search_terms:               # "ofertas/liquidacion" actúan como feed de deals
+    search_terms:               # "ofertas/liquidacion" como feed + línea blanca/electrónica
       - ofertas
       - liquidacion
       - pantalla
       - laptop
-      - audifonos
       - celular
       - smartwatch
       - refrigerador
       - lavadora
+      - lavasecadora
+      - congelador
+      - estufa
+      - secadora
+      - minisplit
       - licuadora
       - cafetera
-      - tenis
-      - perfume
-      - reloj
       - bicicleta
-      - juguete
       - iphone
       - ipad
       - macbook
@@ -93,21 +91,15 @@ stores:
     enabled: true
     num_results_per_page: 50
     pages_per_term: 2
-    search_terms:
-      - bolsa
-      - reloj
-      - tenis
-      - perfume
+    search_terms:               # foco en electrónica/línea blanca (la moda no cruza bien)
       - pantalla
-      - audifonos
-      - maleta
-      - zapato
-      - vestido
-      - cartera
-      - smartwatch
-      - licuadora
-      - celular
       - laptop
+      - smartwatch
+      - celular
+      - refrigerador
+      - lavadora
+      - licuadora
+      - cafetera
       - iphone
       - ipad
       - airpods
@@ -129,23 +121,23 @@ stores:
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)
     enabled: true
     max_products_per_term: 60
-    search_terms:               # "ofertas/liquidacion" actúan como feed de deals
+    search_terms:               # "ofertas/liquidacion" como feed + línea blanca/electrónica
       - ofertas
       - liquidacion
       - pantalla
       - laptop
-      - audifonos
       - celular
       - smartwatch
       - refrigerador
       - lavadora
+      - lavasecadora
+      - congelador
+      - estufa
+      - secadora
+      - minisplit
       - licuadora
       - cafetera
-      - tenis
-      - perfume
-      - reloj
       - bicicleta
-      - juguete
       - iphone
       - ipad
       - macbook
@@ -160,13 +152,14 @@ stores:
       - ofertas
       - pantalla
       - laptop
-      - audifonos
       - refrigerador
       - lavadora
+      - lavasecadora
+      - congelador
+      - minisplit
       - licuadora
       - cafetera
       - bicicleta
-      - vino
       - celular
       - iphone
       - ipad
