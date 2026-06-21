@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-21 09:06 UTC",
-  "products_scanned": 3873,
+  "generated_at": "2026-06-21 10:13 UTC",
+  "products_scanned": 5377,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 59.0,
+      "detail": "$15,580 vs walmart $19,479 -> -20% bajo la competencia (descuento propio 59%) | también walmart $17,999",
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana OLED Evo AI C5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-c5-4k-smart-tv-2025-44636336.html",
+      "price": 15579.59,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44636336",
+        "outlet": false
+      }
+    }
+  ]
 }
