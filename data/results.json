@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-22 14:42 UTC",
-  "products_scanned": 3174,
+  "generated_at": "2026-06-22 18:47 UTC",
+  "products_scanned": 3163,
   "threshold_pct": 20.0,
   "count": 3,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 52.8,
-      "detail": "$7,554 en liverpool vs sams $15,344, sams $19,436 -> -34% bajo la competencia",
+      "detail": "$7,554 en liverpool vs sams $15,344, sams $18,873 -> -34% bajo la competencia",
       "store": "liverpool",
       "name": "Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 512 GB SSD",
       "url": "https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472",
