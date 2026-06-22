@@ -1,4 +1,4 @@
-# Productos en vigilancia (12)
+# Productos en vigilancia (13)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -16,3 +16,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost y fá…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $24,365 | -28% |
 | 🟢 disponible | sams | [Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-b…](https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372) | $14,319 | -45% |
 | 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430) | $18,303 | -20% |
+| 🟢 disponible | liverpool | [Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 51…](https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472) | $7,554 | -34% |

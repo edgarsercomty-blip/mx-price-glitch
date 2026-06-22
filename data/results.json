@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-22 12:52 UTC",
-  "products_scanned": 4648,
+  "generated_at": "2026-06-22 14:42 UTC",
+  "products_scanned": 3174,
   "threshold_pct": 20.0,
   "count": 3,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.5,
-      "detail": "$2,999 en liverpool vs walmart $4,779 -> -37% bajo la competencia",
+      "discount_pct": 52.8,
+      "detail": "$7,554 en liverpool vs sams $15,344, sams $19,436 -> -34% bajo la competencia",
       "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 2999.0,
-      "list_price": 7598.0,
+      "name": "Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 512 GB SSD",
+      "url": "https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472",
+      "price": 7554.0,
+      "list_price": 15999.0,
       "ean": null,
       "model": null,
-      "brand": "VELOCI",
+      "brand": "HP",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1167998964",
+        "productId": "1148353472",
         "marketplace": "true"
       }
     },
