@@ -1,4 +1,4 @@
-# Productos en vigilancia (13)
+# Productos en vigilancia (16)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -9,7 +9,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED Evo AI C5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-c5-4k-smart-tv-2025-44636336.html) | $15,960 | -20% |
 | 🟢 disponible | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $2,999 | -37% |
 | 🟢 disponible | amazon | [3dRose 244959_7 - Taza, 325 ml, color verde y blanco](https://www.amazon.com.mx/dp/B073X8BWLJ) | $434 | -93% |
-| 🟢 disponible | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y no fr…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $23,204 | -36% |
+| 🟢 disponible | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y no fr…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $23,009 | -36% |
 | 🟢 disponible | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,999 | -34% |
 | 🟢 disponible | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,867 | -34% |
 | 🟢 disponible | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | -26% |
@@ -17,3 +17,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-b…](https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372) | $14,319 | -45% |
 | 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430) | $18,303 | -20% |
 | 🟢 disponible | liverpool | [Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 51…](https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472) | $7,554 | -34% |
+| 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + Bocin…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300) | $18,499 | -33% |
+| 🟢 disponible | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desbloquead…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600) | $17,999 | -28% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $14,850 | -27% |

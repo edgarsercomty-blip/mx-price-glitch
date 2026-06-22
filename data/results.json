@@ -1,26 +1,62 @@
 {
-  "generated_at": "2026-06-22 18:47 UTC",
-  "products_scanned": 3163,
+  "generated_at": "2026-06-22 21:06 UTC",
+  "products_scanned": 4632,
   "threshold_pct": 20.0,
-  "count": 3,
+  "count": 5,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 52.8,
-      "detail": "$7,554 en liverpool vs sams $15,344, sams $18,873 -> -34% bajo la competencia",
-      "store": "liverpool",
-      "name": "Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 512 GB SSD",
-      "url": "https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472",
-      "price": 7554.0,
-      "list_price": 15999.0,
+      "discount_pct": 48.6,
+      "detail": "$18,499 en walmart vs mercado -> -33% bajo la competencia",
+      "store": "walmart",
+      "name": "Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + Bocina Desbloqueado",
+      "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300",
+      "price": 18499.0,
+      "list_price": 35999.0,
       "ean": null,
       "model": null,
-      "brand": "HP",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1148353472",
-        "marketplace": "true"
+        "usItemId": "00750665822492"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$17,999 en walmart vs sams $24,920, sams $24,920, sams $24,920 -> -28% bajo la competencia",
+      "store": "walmart",
+      "name": "Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desbloqueado",
+      "url": "https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600",
+      "price": 17999.0,
+      "list_price": 35999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750665821658"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$14,850 en palacio vs sams $20,459 -> -27% bajo la competencia",
+      "store": "palacio",
+      "name": "Lavasecadora Eléctrica de Carga Frontal 14 Kg",
+      "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html",
+      "price": 14849.55,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42419031",
+        "outlet": false
       }
     },
     {
