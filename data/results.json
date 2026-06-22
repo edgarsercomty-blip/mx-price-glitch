@@ -1,45 +1,26 @@
 {
-  "generated_at": "2026-06-22 08:52 UTC",
-  "products_scanned": 3197,
+  "generated_at": "2026-06-22 12:52 UTC",
+  "products_scanned": 4648,
   "threshold_pct": 20.0,
   "count": 3,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia",
+      "discount_pct": 60.5,
+      "detail": "$2,999 en liverpool vs walmart $4,779 -> -37% bajo la competencia",
       "store": "liverpool",
-      "name": "Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos",
-      "url": "https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082",
-      "price": 3149.55,
-      "list_price": 6999.0,
+      "name": "Bicicleta urbana Veloci rodada 26 unisex",
+      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
+      "price": 2999.0,
+      "list_price": 7598.0,
       "ean": null,
-      "model": "MCP10HB",
-      "brand": "MIRAGE",
+      "model": null,
+      "brand": "VELOCI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1161903082",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$21,609 en liverpool vs mercado -> -28% bajo la competencia",
-      "store": "liverpool",
-      "name": "Refrigerador dúplex Ge Profile 22 pies cúbicos no frost y fábrica de hielo PNM22MDTHDS",
-      "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521",
-      "price": 21608.51,
-      "list_price": 44099.0,
-      "ean": null,
-      "model": "PNM22MDTHDS",
-      "brand": "GE PROFILE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1127549521",
-        "marketplace": "false"
+        "productId": "1167998964",
+        "marketplace": "true"
       }
     },
     {
@@ -59,6 +40,25 @@
       "extra": {
         "productId": "1174499892",
         "marketplace": "true"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
+      "price": 18303.48,
+      "list_price": 35199.0,
+      "ean": null,
+      "model": "WD20T6300GP/AX",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1103888430",
+        "marketplace": "false"
       }
     }
   ]

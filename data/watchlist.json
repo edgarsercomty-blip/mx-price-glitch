@@ -27,7 +27,7 @@
     "available": true,
     "discount": 20.0,
     "added": "2026-06-21T04:47:24.081903+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/bicicleta-urbana-veloci-rodada-26-unisex/1167998964": {
     "store": "liverpool",
@@ -37,7 +37,7 @@
     "available": true,
     "discount": 37.2,
     "added": "2026-06-21T14:38:11.637501+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://www.amazon.com.mx/dp/b073x8bwlj": {
     "store": "amazon",
@@ -53,11 +53,11 @@
     "store": "liverpool",
     "name": "Refrigerador dúplex Hisense 22 pies cúbicos inverter y no frost y fábrica de hielo RS22N6IBX",
     "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481",
-    "price": 19109.51,
+    "price": 23204.41,
     "available": true,
     "discount": 36.3,
     "added": "2026-06-21T15:41:15.965909+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/frigobar-avera-fb02d-3.2-pies-c%c3%babicos/1151591431": {
     "store": "liverpool",
@@ -73,11 +73,11 @@
     "store": "liverpool",
     "name": "Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos",
     "url": "https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082",
-    "price": 3149.55,
+    "price": 3866.95,
     "available": true,
     "discount": 33.7,
     "added": "2026-06-21T15:41:15.965909+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/secadora-de-cabello-llano-ll-pc001/1174499892": {
     "store": "liverpool",
@@ -87,17 +87,17 @@
     "available": true,
     "discount": 25.9,
     "added": "2026-06-21T15:41:15.965909+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/refrigerador-d%c3%baplex-ge-profile-22-pies-c%c3%babicos-no-frost-y-f%c3%a1brica-de-hielo-pnm22mdthds/1127549521": {
     "store": "liverpool",
     "name": "Refrigerador dúplex Ge Profile 22 pies cúbicos no frost y fábrica de hielo PNM22MDTHDS",
     "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521",
-    "price": 21608.51,
+    "price": 24364.7,
     "available": true,
     "discount": 28.1,
     "added": "2026-06-21T15:57:37.944124+00:00",
-    "last_seen": "2026-06-22T08:52:28.331078+00:00"
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   },
   "https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372": {
     "store": "sams",
@@ -108,5 +108,15 @@
     "discount": 44.6,
     "added": "2026-06-21T19:58:58.935782+00:00",
     "last_seen": "2026-06-21T19:58:58.935782+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/lavasecadora-samsung-el%c3%a9ctrica-20-kg-12-kg-wd20t6300gp/ax/1103888430": {
+    "store": "liverpool",
+    "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
+    "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
+    "price": 18303.48,
+    "available": true,
+    "discount": 20.4,
+    "added": "2026-06-22T12:52:15.371578+00:00",
+    "last_seen": "2026-06-22T12:52:15.371578+00:00"
   }
 }

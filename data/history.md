@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (13)
+# Historial de ofertas encontradas (14)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-22 12:52 | -20% | liverpool | [Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430) | $18,303 | $18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia |
 | 2026-06-21 19:58 | -28% | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,609 | $21,609 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-06-21 19:58 | -45% | sams | [Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD…](https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372) | $14,319 | $14,319 en sams vs walmart $30,529 -> -45% bajo la competencia |
 | 2026-06-21 15:57 | -28% | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,498 | $21,498 en liverpool vs mercado -> -28% bajo la competencia |
