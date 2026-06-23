@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-06-23 01:27 UTC",
-  "products_scanned": 3151,
+  "generated_at": "2026-06-23 03:54 UTC",
+  "products_scanned": 4605,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 2,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.1,
+      "detail": "$14,319 en sams vs walmart $30,529 -> -45% bajo la competencia",
+      "store": "sams",
+      "name": "Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-bg0000la",
+      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372",
+      "price": 14318.93,
+      "list_price": 29254.71,
+      "ean": null,
+      "model": "13-bg0000la",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981023372"
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 65.7,

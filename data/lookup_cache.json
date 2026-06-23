@@ -13070,5 +13070,592 @@
         "model": "WM25WV2S6W"
       }
     ]
+  },
+  "homedepot|86QNED83ASG": {
+    "ts": "2026-06-23T03:53:13.946184+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "MANDIL PROFESIONAL DE 86 X 56 CM NEGRO I-COVER",
+        "url": "https://www.homedepot.com.mx/p/i-cover-mandil-profesional-de-86-x-56-cm-negro-i-cover-icp100-145504",
+        "price": 635.0,
+        "model": "145504"
+      },
+      {
+        "store": "homedepot",
+        "name": "SILLAS PARA COMEDOR LETTE GRIS 2 PIEZAS 86 X 43 X 55 CM",
+        "url": "https://www.homedepot.com.mx/p/homemake-sillas-para-comedor-lette-gris-2-piezas-86-x-43-x-55-cm-212251",
+        "price": 3255.0,
+        "model": "212251"
+      },
+      {
+        "store": "homedepot",
+        "name": "SILLAS PARA COMEDOR LETTE CAFÉ MARRÓN 2 PIEZAS 86 X 43 X 55 CM",
+        "url": "https://www.homedepot.com.mx/p/homemake-sillas-para-comedor-lette-cafe-marron-2-piezas-86-x-43-x-55-cm-212250",
+        "price": 3255.0,
+        "model": "212250"
+      }
+    ]
+  },
+  "palacio|86QNED83ASG": {
+    "ts": "2026-06-23T03:53:14.311608+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 32 p3 RF32CG5N10S9EM Silver",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-32-p3-rf32cg5n10s9em-silver-43388831.html",
+        "price": 21059.4,
+        "model": "RF32CG5N10S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Convection 1.1 Pies MC32DG7646CKAX Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-convection-1.1-pies-mc32dg7646ckax-negro-44047754.html",
+        "price": 4809.35,
+        "model": "MC32DG7646CKAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 21684.96,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 32 p3 GM90HIP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-32-p3-gm90hip-45001055.html",
+        "price": 19999.5,
+        "model": "GM90HIP"
+      },
+      {
+        "store": "palacio",
+        "name": "Panel para refrigerador One Door 11 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 31 p3 GM90LIP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-31-p3-gm90lip-45001056.html",
+        "price": 32859.47,
+        "model": "GM90LIP"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 47141.82,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Grill 1.1 Pies MG32DG4524CGAX Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-grill-1.1-pies-mg32dg4524cgax-negro-44047751.html",
+        "price": 3444.35,
+        "model": "MG32DG4524CGAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 12999.35,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
+        "price": 7133.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      }
+    ]
+  },
+  "amazon|86QNED83ASG": {
+    "ts": "2026-06-23T03:53:16.254412+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
+        "price": 19499.0,
+        "model": "86QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
+        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
+        "price": 680.0,
+        "model": "Akb76046605"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 21995.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
+        "price": 9495.0,
+        "model": "55QNED83ASG"
+      }
+    ]
+  },
+  "walmart|86QNED83ASG": {
+    "ts": "2026-06-23T03:53:24.635306+00:00",
+    "items": []
+  },
+  "sams|86QNED83ASG": {
+    "ts": "2026-06-23T03:53:27.630180+00:00",
+    "items": []
+  },
+  "homedepot|DK1L076M0145": {
+    "ts": "2026-06-23T03:53:27.874172+00:00",
+    "items": []
+  },
+  "palacio|DK1L076M0145": {
+    "ts": "2026-06-23T03:53:28.033697+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pants liso con bordado Mujer",
+        "url": "https://www.elpalaciodehierro.com/karl-lagerfeld-pants-liso-con-bordado-mujer-45214445.html",
+        "price": 1819.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Mujer",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-casual-mujer-44875807.html",
+        "price": 449.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-hombre-44695482.html",
+        "price": 1492.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-mujer-44606712.html",
+        "price": 2292.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-mujer-44606849.html",
+        "price": 2292.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Niña",
+        "url": "https://www.elpalaciodehierro.com/dkny-pantalon-nina-44591886.html",
+        "price": 1499.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de playa Resort Trousers Mujer",
+        "url": "https://www.elpalaciodehierro.com/kurt-geiger-pantalon-de-playa-resort-trousers-mujer-45142015.html",
+        "price": 2303.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Niña",
+        "url": "https://www.elpalaciodehierro.com/dkny-pantalon-nina-44591882.html",
+        "price": 1674.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Be Delicious Latte Matcha, Eau de Parfum 50 ml para Mujer",
+        "url": "https://www.elpalaciodehierro.com/dkny-be-delicious-latte-matcha-eau-de-parfum-50-ml-para-mujer-45348138.html",
+        "price": 1700.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Top Mujer",
+        "url": "https://www.elpalaciodehierro.com/dkny-top-mujer-43781626.html",
+        "price": 417.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cartera Travel Continental estampado monogram Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-cartera-travel-continental-estampado-monogram-mujer-42239215.html",
+        "price": 4530.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/lauren-pantalon-mujer-45276600.html",
+        "price": 3790.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|DK1L076M0145": {
+    "ts": "2026-06-23T03:53:29.914533+00:00",
+    "items": []
+  },
+  "walmart|DK1L076M0145": {
+    "ts": "2026-06-23T03:53:49.513383+00:00",
+    "items": []
+  },
+  "sams|DK1L076M0145": {
+    "ts": "2026-06-23T03:53:54.952123+00:00",
+    "items": []
+  },
+  "homedepot|DW00100844": {
+    "ts": "2026-06-23T03:53:56.937358+00:00",
+    "items": []
+  },
+  "palacio|DW00100844": {
+    "ts": "2026-06-23T03:53:57.164453+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/desigual-pantalon-hombre-45012129.html",
+        "price": 1476.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 26 kg, 15 kg Carga Frontal WD26DB8995BZAX",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-carga-frontal-wd26db8995bzax-44065380.html",
+        "price": 37907.48,
+        "model": "WD26DB8995BZAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
+        "price": 29605.31,
+        "model": "WD20WV26R"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 31958.47,
+        "model": "WD22BV2S6R"
+      },
+      {
+        "store": "palacio",
+        "name": "Bralette Florence",
+        "url": "https://www.elpalaciodehierro.com/diesel-bralette-florence-45211084.html",
+        "price": 1490.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans 2062 D-Strukt JoggJeans Slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-jeans-2062-d-strukt-joggjeans-slim-hombre-45090197.html",
+        "price": 7890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-pantalon-hombre-45089093.html",
+        "price": 7890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans 1985 Larkee regular Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-jeans-1985-larkee-regular-hombre-45089562.html",
+        "price": 4090.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brasier individual con encaje",
+        "url": "https://www.elpalaciodehierro.com/diesel-brasier-individual-con-encaje-45211525.html",
+        "price": 1890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans 2062 D-Strukt Slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-jeans-2062-d-strukt-slim-hombre-44760582.html",
+        "price": 7890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon Jogger Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-pantalon-jogger-hombre-44760543.html",
+        "price": 6190.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pants de diseño sólido Hombre",
+        "url": "https://www.elpalaciodehierro.com/diesel-pants-de-diseno-solido-hombre-45089091.html",
+        "price": 4690.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|DW00100844": {
+    "ts": "2026-06-23T03:53:59.521878+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Daniel Wellington",
+        "url": "https://www.amazon.com.mx/dp/B0FHWCP5BX",
+        "price": 2212.73,
+        "model": null
+      }
+    ]
+  },
+  "walmart|DW00100844": {
+    "ts": "2026-06-23T03:54:07.427831+00:00",
+    "items": []
+  },
+  "sams|DW00100844": {
+    "ts": "2026-06-23T03:54:10.375226+00:00",
+    "items": []
+  },
+  "homedepot|MF200D150WBW": {
+    "ts": "2026-06-23T03:54:33.305946+00:00",
+    "items": []
+  },
+  "palacio|MF200D150WBW": {
+    "ts": "2026-06-23T03:54:33.506322+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
+        "price": 14429.35,
+        "model": "WD13FG6B34BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrp0-negro-41539023.html",
+        "price": 17423.34,
+        "model": "RMB400IBMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html",
+        "price": 16631.37,
+        "model": "RMB400IBMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 Xpert Energy Saver",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-14-p3-xpert-energy-saver-45106913.html",
+        "price": 19499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
+        "price": 29605.31,
+        "model": "WD20WV26R"
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Hybrid 53",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488083.html",
+        "price": 24600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador Horizontal WCF2107Q, 7 p3 Dual Cooling, Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2107q-7-p3-dual-cooling-blanco-42037904.html",
+        "price": 8820.0,
+        "model": "WCF2107Q"
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador 15 p3 Blanco",
+        "url": "https://www.elpalaciodehierro.com/mabe-congelador-15-p3-blanco-44662603.html",
+        "price": 15049.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Dispensador de Miel",
+        "url": "https://www.elpalaciodehierro.com/wmf-dispensador-de-miel-18609337.html",
+        "price": 1800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Munt 250 L RMA250PVMRP0",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-munt-250-l-rma250pvmrp0-45372625.html",
+        "price": 12999.0,
+        "model": "RMA250PVMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Decantador de cristal",
+        "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
+        "price": 1799.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 20 p3 Gris Acero",
+        "url": "https://www.elpalaciodehierro.com/maytag-refrigerador-french-door-20-p3-gris-acero-37265898.html",
+        "price": 32284.8,
+        "model": null
+      }
+    ]
+  },
+  "amazon|MF200D150WBW": {
+    "ts": "2026-06-23T03:54:35.337536+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "PACKOVE Filtro de Entrada Fácil de Reemplazar Accesorios Completos 4 Piezas Malla de Hierro y Plástico para Filtración de Agua para Lavadora",
+        "url": "https://www.amazon.com.mx/dp/B0FD8R326J",
+        "price": 167.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MF200D150WBW": {
+    "ts": "2026-06-23T03:54:42.542145+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavasecadora Midea Carga Frontal Smart Dial Blanca 15 Kg / 8 Kg MF200D150WB/W",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-midea-carga-frontal-smart-dial-blanca-15-kg-8-kg-mf200d150wb-w/00694587833610?athbdg=L1300",
+        "price": 9799.0,
+        "model": "MF200D150WB/W"
+      }
+    ]
+  },
+  "sams|MF200D150WBW": {
+    "ts": "2026-06-23T03:54:49.473750+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora MIDEA  Semiautomática 22 kg MT100W220/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-22-kg-mt100w220-w-mx/981052253",
+        "price": 7999.0,
+        "model": "MT100W220/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Semiautomática 19 kg MT100W190/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-19-kg-mt100w190-w-mx/981052252",
+        "price": 5499.0,
+        "model": "MT100W190/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Waflera Doble Gutstark  Eléctrica 2000 W",
+        "url": "https://www.sams.com.mx/ip/waflera-doble-gutstark-electrica-2000-w/981023134",
+        "price": 4397.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Subwoofer Inalámbrico Denom  Home 10 W",
+        "url": "https://www.sams.com.mx/ip/subwoofer-inalambrico-denom-home-10-w/981031329",
+        "price": 24550.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sistema de Barra de Sonido Klipsch  Teatro en Casa Cinema 1200 W",
+        "url": "https://www.sams.com.mx/ip/sistema-de-barra-de-sonido-klipsch-teatro-en-casa-cinema-1200-w/981023076",
+        "price": 38872.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  Luz Fría 13.5 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-luz-fria-13-5-w-6-pzas/981019537",
+        "price": 152.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  5400 W 420 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-5400-w-420-cc/000158187",
+        "price": 14320.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  3400 W  208 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-3400-w-208-cc/000176891",
+        "price": 8950.22,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  de Alta Potencia Luz Fría 22 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-de-alta-potencia-luz-fria-22-w-6-pzas/981033368",
+        "price": 285.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Adaptador de corriente Duo Samsung  de 50 W con cable USB C Negro",
+        "url": "https://www.sams.com.mx/ip/adaptador-de-corriente-duo-samsung-de-50-w-con-cable-usb-c-negro/981036995",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Focos LED Member's Mark  8.5 W Luz Blanca  con 10 pzas",
+        "url": "https://www.sams.com.mx/ip/focos-led-member-s-mark-8-5-w-luz-blanca-con-10-pzas/980028087",
+        "price": 142.18,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Whisky Black & White  1.75 l",
+        "url": "https://www.sams.com.mx/ip/whisky-black-white-1-75-l/000081837",
+        "price": 416.36,
+        "model": null
+      }
+    ]
   }
 }
