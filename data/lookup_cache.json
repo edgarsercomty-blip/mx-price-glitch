@@ -587,313 +587,6 @@
       }
     ]
   },
-  "sams|100ML": {
-    "ts": "2026-06-21T14:37:39.560401+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Antonio Banderas  The Secret Absolu para Caballero 100ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-antonio-banderas-the-secret-absolu-para-caballero-100ml/981035493",
-        "price": 663.91,
-        "model": "100ml"
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Juicy Couture  Viva la Juicy Noir para Dama 100ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-juicy-couture-viva-la-juicy-noir-para-dama-100ml/981035389",
-        "price": 970.82,
-        "model": "100ml"
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Moschino  Moschino Toy 2 Pearl para Dama 100ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-moschino-moschino-toy-2-pearl-para-dama-100ml/981035443",
-        "price": 621.01,
-        "model": "100ml"
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Paco Rabanne  One Million Gold Intense para Caballero 100ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-paco-rabanne-one-million-gold-intense-para-caballero-100ml/981035492",
-        "price": 2044.96,
-        "model": "100ml"
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Jimmy Choo  Jimmy Choo Man Intense 100ml EDT spray para Caballero",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-jimmy-choo-jimmy-choo-man-intense-100ml-edt-spray-para-caballero/981032216",
-        "price": 1021.96,
-        "model": "100ml"
-      }
-    ]
-  },
-  "amazon|VELOCIBICICLETAURBANARODADAVELOCI": {
-    "ts": "2026-06-21T14:37:44.193085+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
-        "price": 5455.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
-        "price": 2849.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
-        "price": 3239.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodado 26 Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DXMQLBS3",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
-        "price": 5103.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
-        "price": 3431.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 26 Amarillo De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1VCJT7H",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 26 Oro De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G372ZWVH",
-        "price": 4663.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
-        "price": 4399.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|VELOCIBICICLETAURBANARODADAVELOCI": {
-    "ts": "2026-06-21T14:38:08.843602+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bicicleta De Montaña Rodada 29 21 Velocidades Kubor Alpine5",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-29-21-velocidades-kubor-alpine5/00750303766943",
-        "price": 7049.0,
-        "model": "Alpine5"
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
-        "price": 4779.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta De Montaña Aluminio Rodada 29 Frenos Disco Shimano Kubor  MTB",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-aluminio-rodada-29-frenos-disco-shimano-kubor-mtb/00750303766914",
-        "price": 8224.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Naukas Pro FD Rodado 26 Oro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-naukas-pro-fd-rodado-26-oro-de-montana/00750305357656?athbdg=L1300",
-        "price": 5103.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Naukas Pro FD Rodado 26 Plata De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-naukas-pro-fd-rodado-26-plata-de-montana/00750305357657?athbdg=L1300",
-        "price": 5103.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña KUBOR Mallory rodada 29 21 Velocidades Verde",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-kubor-mallory-rodada-29-21-velocidades-verde/00750303766930",
-        "price": 8929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 26 Oro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-oro-de-montana/00750305714007?athbdg=L1300",
-        "price": 4663.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña COSMO R26 de 21V Kubor color Gris",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-cosmo-r26-de-21v-kubor-color-gris/00750303766988",
-        "price": 6755.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus X1 Rodada 26 Rojo de Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-rojo-de-montana/00750305544736?athbdg=L1300",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta De Montaña Rodada 26 24 Velocidades Shimano Kubor",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-26-24-velocidades-shimano-kubor/00750303766968",
-        "price": 6999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|VELOCIBICICLETAURBANARODADAVELOCI": {
-    "ts": "2026-06-21T14:38:11.604342+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
-        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
-        "price": 5491.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
-        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
-        "price": 3577.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Draxter RX Sport Limited 125 2026 Plata",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-draxter-rx-sport-limited-125-2026-plata/981041541",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Snake GT Trail Edition 250 Gris 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250-gris-2026/981043301",
-        "price": 32999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Rubak EVO Ssport 220 Naranja 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-rubak-evo-ssport-220-naranja-2026/981043306",
-        "price": 22999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Dark Thunder Hyper Scrambler Negro 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-dark-thunder-hyper-scrambler-negro-2026/981043285",
-        "price": 39999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Black Hawk RT2 200cc Negro 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-black-hawk-rt2-200cc-negro-2026/981043297",
-        "price": 18499.0,
-        "model": "200cc"
-      },
-      {
-        "store": "sams",
-        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Gris",
-        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-gris/981054203",
-        "price": 49999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Dark Eagle 330R 2027 Negro",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-dark-eagle-330r-2027-negro/981054201",
-        "price": 45999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Rubak Evo Trail 220cc 2027 Verde",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-rubak-evo-trail-220cc-2027-verde/981054208",
-        "price": 24999.0,
-        "model": "220cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Razzer GTR 220cc 2027",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-gtr-220cc-2027/981054206",
-        "price": 30999.0,
-        "model": "220cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
-        "price": 41999.0,
-        "model": null
-      }
-    ]
-  },
   "homedepot|EBC115DC01": {
     "ts": "2026-06-21T15:22:22.970361+00:00",
     "items": []
@@ -13275,6 +12968,370 @@
   },
   "sams|UN98DU9000FXZX": {
     "ts": "2026-06-23T12:27:27.955742+00:00",
+    "items": []
+  },
+  "amazon|VELOCIBICICLETAURBANAVELOCIRODADA": {
+    "ts": "2026-06-23T15:13:41.997733+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
+        "price": 5455.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
+        "price": 2849.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodado 26 Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DXMQLBS3",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
+        "price": 3239.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ85J7X",
+        "price": 3049.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 26 Amarillo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VCJT7H",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
+        "price": 5103.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 26 Oro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G372ZWVH",
+        "price": 4663.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
+        "price": 3431.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETAURBANAVELOCIRODADA": {
+    "ts": "2026-06-23T15:13:55.096951+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Rodada 29 21 Velocidades Kubor Alpine5",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-29-21-velocidades-kubor-alpine5/00750303766943",
+        "price": 7049.0,
+        "model": "Alpine5"
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
+        "price": 4779.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Aluminio Rodada 29 Frenos Disco Shimano Kubor  MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-aluminio-rodada-29-frenos-disco-shimano-kubor-mtb/00750303766914",
+        "price": 8224.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Hiperion Rodada 20 Gris Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-hiperion-rodada-20-gris-infantil/00750306181633?athbdg=L6000",
+        "price": 3508.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña COSMO R26 de 21V Kubor color Gris",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-cosmo-r26-de-21v-kubor-color-gris/00750303766988",
+        "price": 6755.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 26 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-26-rojo-de-montana/00750305714002?athbdg=L1300",
+        "price": 4399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 26 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-azul-de-montana/00750305714005?athbdg=L1300",
+        "price": 4663.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña KUBOR Mallory rodada 29 21 Velocidades Verde",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-kubor-mallory-rodada-29-21-velocidades-verde/00750303766930",
+        "price": 8929.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-29-rojo-de-montana/00750305714012?athbdg=L1300",
+        "price": 4487.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Rodada 26 24 Velocidades Shimano Kubor",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-26-24-velocidades-shimano-kubor/00750303766968",
+        "price": 6999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETAURBANAVELOCIRODADA": {
+    "ts": "2026-06-23T15:13:57.189866+00:00",
+    "items": []
+  },
+  "amazon|1500W": {
+    "ts": "2026-06-23T15:14:00.296519+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i (2025) Fuente de Alimentación ATX Silenciosa Totalmente Modular con Cable 12V-2x6 – Compatible con ATX 3.1 y PCIe 5.1, Eficiencia Cybenetics Platinum – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F1NGKBK3",
+        "price": 5162.0,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i (2025) Fuente de alimentación ATX Totalmente Modular Ultra silencioso con Cable 12V-2x6 – ATX 3.1 y PCIe 5.1, eficiencia Cybenetics Platinum – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F3JHTL2R",
+        "price": 6746.11,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "VICA V2500 Regulador Electrónico de Voltaje 2500 VA / 1500 W con 8 Tomas reguladas, supresor de Picos y Puertos RJ11 y RJ45 | Empotrable y Certificado Nom",
+        "url": "https://www.amazon.com.mx/dp/B00C0BJFP8",
+        "price": 859.0,
+        "model": "V2500"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i Shift Fuente de Alimentación de Alto Rendimiento – iCUE Link System Hub Integrado, Doble Cable Nativo 12V-2x6, ATX 3.1 & PCIe 5.1, Conectores Laterales, Cybenetics Platinum – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FR5CFDYK",
+        "price": 6208.61,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "Kleinstad Regulador De Voltaje 2500VA/1500W (línea Blanca)",
+        "url": "https://www.amazon.com.mx/dp/B07W1ZTP66",
+        "price": 1950.0,
+        "model": "2500VA/1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "CyberPower Línea Blanca LB2500VR, Regulador de Voltaje Automático 2500VA/ 1500W, 120V, Protección contra Sobretensiones, Temporizador de Retardo.",
+        "url": "https://www.amazon.com.mx/dp/B0FGC3FQ4W",
+        "price": 1758.12,
+        "model": "LB2500VR"
+      },
+      {
+        "store": "amazon",
+        "name": "AEKA Batidora de Pedestal 3 en 1, 1500W Profesional Eléctrica Batidora de Planetaria, 5L, 10 Velocidades, Cabeza Inclinable con 3 Accesorios Para Uso Doméstico Batir Amasar Cocina Mezclar, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FZRFNRBD",
+        "price": 1504.79,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Inversor de potencia de 1500 W, 12 V CC a 110 V/120 V CA, inversor de coche de potencia máxima de 3000 W con visualización LCD, 2 salidas CA, puerto USB de 3.1 A para vehículos, camping, viajes, uso",
+        "url": "https://www.amazon.com.mx/dp/B0GL1ZP45S",
+        "price": 2154.88,
+        "model": "V/120"
+      },
+      {
+        "store": "amazon",
+        "name": "1500W Batidora de Pedestal, Batidora Eléctrica de Pedestal con 6 Velocidades Función De Avance Lento, Visualización LCD, Tazón de 6.2L de Accesorios Para Amasar Batir y Mezclar, Profesional (Gris)",
+        "url": "https://www.amazon.com.mx/dp/B0GBS1J2HF",
+        "price": 2089.99,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Yinleader 1500W Transformador convertidor de Voltaje (220V a 110V, 110V a 220V) 1500 W convertidor de Subida/Bajada 110/120 voltios - 220/240 voltios",
+        "url": "https://www.amazon.com.mx/dp/B07SZFF97X",
+        "price": 1090.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i Shift Fuente de alimentación ATX Totalmente Modular – Concentrador de Sistema iCUE Link Integrado, Cable Dual Nativo 12V-2x6, ATX 3.1 y PCIe 5.1, Conectores Laterales montados",
+        "url": "https://www.amazon.com.mx/dp/B0FVM69GYG",
+        "price": 7042.14,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "LONEASY Regulador Compensador De Voltaje 2000va/1500w Potencia 120v",
+        "url": "https://www.amazon.com.mx/dp/B0D7ZQ8SN4",
+        "price": 1133.19,
+        "model": "2000va/1500w"
+      }
+    ]
+  },
+  "walmart|1500W": {
+    "ts": "2026-06-23T15:14:09.369992+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Transformador De Voltaje De 1500W, Convertidor Elevador, Regulador De Voltaje De Potencia De CA Ajustable Para El Hogar Y La Industria",
+        "url": "https://www.walmart.com.mx/ip/transformador-de-voltaje-de-1500w-convertidor-elevador-regulador-de-voltaje-de-potencia-de-ca-ajustable-para-el-hogar-y-la-industria/00669497306110",
+        "price": 2650.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Inversor de corriente Cobra PRO 1500W portátil, 4 salidas AC, 2 USB",
+        "url": "https://www.walmart.com.mx/ip/inversor-de-corriente-cobra-pro-1500w-portatil-4-salidas-ac-2-usb/00002837731562",
+        "price": 4249.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "CNSWIPOWER 1500W (Potencia máxima 3000 W) inversor de Onda sinusoidal Pura y convertidor Solar CC24V a CA 120V 60 Hz con Arranque Suave para Coche y Camping (CC 24V (Rango 20V-30V) 1500W)",
+        "url": "https://www.walmart.com.mx/ip/cnswipower-1500w-potencia-maxima-3000-w-inversor-de-onda-sinusoidal-pura-y-convertidor-solar-cc24v-a-ca-120v-60-hz-con-arranque-suave-para-coche-y-camping-cc-24v-rango-20v-30v-1500w-/00933161540560",
+        "price": 2312.0,
+        "model": "20V-30V"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador De Voltaje De 1500W, Convertidor Elevador, Regulador De Voltaje De Potencia De CA Ajustable Para El Hogar Y La Industria",
+        "url": "https://www.walmart.com.mx/ip/transformador-de-voltaje-de-1500w-convertidor-elevador-regulador-de-voltaje-de-potencia-de-ca-ajustable-para-el-hogar-y-la-industria/00669497786417",
+        "price": 3479.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador Convertidor De Voltaje De 1500W, Paso De Servicio Pesado Hacia Arriba / Hacia Abajo, 110V A 220V / 220V A 110V Convertidor De Potencia, Puerto",
+        "url": "https://www.walmart.com.mx/ip/transformador-convertidor-de-voltaje-de-1500w-paso-de-servicio-pesado-hacia-arriba-hacia-abajo-110v-a-220v-220v-a-110v-convertidor-de-potencia-puerto/00694177144355",
+        "price": 4485.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Convertidor de Transformador de Potencia de 1500W de Voltaje de 1500 Vatios 1500W Rave Hacia Abajo Con Protectión de Sobrecalentamiento de Sobrecalentamiento 2 Sutales de Ee.",
+        "url": "https://www.walmart.com.mx/ip/convertidor-de-transformador-de-potencia-de-1500w-de-voltaje-de-1500-vatios-1500w-rave-hacia-abajo-con-protection-de-sobrecalentamiento-de-sobrecalentamiento-2-sutales-de-ee-/00617014394201?athbdg=L1500",
+        "price": 4620.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "CNSWIPOWER 1500W (Potencia máxima 3000 W) inversor de Onda sinusoidal Pura y convertidor Solar CC 48V a CA 120V 60 Hz con Arranque Suave para Coche y Camping (CC 48V (Rango 40V-60V) 1500W)",
+        "url": "https://www.walmart.com.mx/ip/cnswipower-1500w-potencia-maxima-3000-w-inversor-de-onda-sinusoidal-pura-y-convertidor-solar-cc-48v-a-ca-120v-60-hz-con-arranque-suave-para-coche-y-camping-cc-48v-rango-40v-60v-1500w-/00933161540563",
+        "price": 2312.0,
+        "model": "40V-60V"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador De Potencia De 1500W, El Convertidor De Voltaje Aumenta 110V A 20V 20V A 110V Con 2 Puntos De Venta De EE.UU. UU. 2 Tomas Universal 2 USB Para El",
+        "url": "https://www.walmart.com.mx/ip/transformador-de-potencia-de-1500w-el-convertidor-de-voltaje-aumenta-110v-a-20v-20v-a-110v-con-2-puntos-de-venta-de-ee-uu-uu-2-tomas-universal-2-usb-para-el/00628086001713",
+        "price": 4101.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformación De Voltaje ST 1500VA, Convertidor De Paso/baja Ajustable De 1500W Para Laboratorios Científicos, Industrias Y Diversos Equipos Eléctricos Domésticos",
+        "url": "https://www.walmart.com.mx/ip/transformacion-de-voltaje-st-1500va-convertidor-de-paso-baja-ajustable-de-1500w-para-laboratorios-cientificos-industrias-y-diversos-equipos-electricos-domesticos/00670788695448",
+        "price": 3180.0,
+        "model": "1500VA"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador Convertidor De Voltaje De 1500W, Paso De Servicio Pesado Hacia Arriba / Hacia Abajo, 110V A 220V / 220V A 110V Convertidor De Potencia, Puerto",
+        "url": "https://www.walmart.com.mx/ip/transformador-convertidor-de-voltaje-de-1500w-paso-de-servicio-pesado-hacia-arriba-hacia-abajo-110v-a-220v-220v-a-110v-convertidor-de-potencia-puerto/00670788223498",
+        "price": 3161.0,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador Boost  Transformador Elevador Transformador de Potencia de 1500W Convertidor de Potencia de Cobre de Protección Múltiple Servicio Pesado Transformadores ANGGREK  Otros",
+        "url": "https://www.walmart.com.mx/ip/transformador-boost-transformador-elevador-transformador-de-potencia-de-1500w-convertidor-de-potencia-de-cobre-de-proteccion-multiple-servicio-pesado-transformadores-anggrek-otros/00608385570806",
+        "price": 4409.07,
+        "model": "1500W"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformación De Voltaje ST 1500VA, Convertidor De Paso/baja Ajustable De 1500W Para Laboratorios Científicos, Industrias Y Diversos Equipos Eléctricos Domésticos",
+        "url": "https://www.walmart.com.mx/ip/transformacion-de-voltaje-st-1500va-convertidor-de-paso-baja-ajustable-de-1500w-para-laboratorios-cientificos-industrias-y-diversos-equipos-electricos-domesticos/00630175525369",
+        "price": 4528.0,
+        "model": "1500VA"
+      }
+    ]
+  },
+  "sams|1500W": {
+    "ts": "2026-06-23T15:14:12.662449+00:00",
     "items": []
   }
 }

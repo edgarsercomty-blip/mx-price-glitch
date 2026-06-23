@@ -1,45 +1,81 @@
 {
-  "generated_at": "2026-06-23 12:27 UTC",
-  "products_scanned": 2377,
+  "generated_at": "2026-06-23 15:14 UTC",
+  "products_scanned": 4510,
   "threshold_pct": 20.0,
-  "count": 2,
+  "count": 4,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia",
-      "store": "palacio",
-      "name": "Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN98DU9000FXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html",
-      "price": 32570.94,
-      "list_price": 85713.0,
+      "discount_pct": 51.1,
+      "detail": "$14,319 en sams vs walmart $30,529 -> -45% bajo la competencia",
+      "store": "sams",
+      "name": "Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-bg0000la",
+      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372",
+      "price": 14318.93,
+      "list_price": 29254.71,
       "ean": null,
-      "model": "UN98DU9000FXZX",
-      "brand": "Samsung",
+      "model": "13-bg0000la",
+      "brand": "HP",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44038784",
-        "outlet": false
+        "usItemId": "981023372"
       }
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
+      "discount_pct": 60.5,
+      "detail": "$2,999 en liverpool vs walmart $4,779 -> -37% bajo la competencia",
       "store": "liverpool",
-      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
-      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
-      "price": 18303.48,
-      "list_price": 35199.0,
+      "name": "Bicicleta urbana Veloci rodada 26 unisex",
+      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
+      "price": 2999.0,
+      "list_price": 7598.0,
       "ean": null,
-      "model": "WD20T6300GP/AX",
-      "brand": "SAMSUNG",
+      "model": null,
+      "brand": "VELOCI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1103888430",
-        "marketplace": "false"
+        "productId": "1167998964",
+        "marketplace": "true"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 16.2,
+      "detail": "$1,090 en amazon vs amazon $1,505, palacio $1,726, amazon $2,090 -> -28% bajo la competencia",
+      "store": "amazon",
+      "name": "Yinleader 1500W Transformador convertidor de Voltaje (220V a 110V, 110V a 220V) 1500 W convertidor de Subida/Bajada 110/120 voltios - 220/240 voltios",
+      "url": "https://www.amazon.com.mx/dp/B07SZFF97X",
+      "price": 1090.0,
+      "list_price": 1299.99,
+      "ean": null,
+      "model": "1500W",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B07SZFF97X"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.7,
+      "detail": "$1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia",
+      "store": "liverpool",
+      "name": "Secadora de cabello Llano ll-pc001",
+      "url": "https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892",
+      "price": 1199.99,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "ll-pc001",
+      "brand": "LLANO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1174499892",
+        "marketplace": "true"
       }
     }
   ]
