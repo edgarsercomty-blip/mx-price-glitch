@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-06-23 20:20 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-06-23 21:20 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|--------|----------|-------:|------|---------|
-| -20% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | Confirmado vs competencia | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |
+| -56% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | Confirmado vs competencia | $7,470 en palacio vs mercado -> -56% bajo la competencia |

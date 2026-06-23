@@ -7634,5 +7634,25 @@
   "sams|50NU850BPSA": {
     "ts": "2026-06-23T20:19:31.680309+00:00",
     "items": []
+  },
+  "amazon|LMH72205WBAB1": {
+    "ts": "2026-06-23T21:19:55.791675+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 22kg LMH72205WBAB1 Afelpada Impermeable con Cierre 111x69x66cm Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GQX9MP7X",
+        "price": 426.0,
+        "model": "LMH72205WBAB1"
+      }
+    ]
+  },
+  "walmart|LMH72205WBAB1": {
+    "ts": "2026-06-23T21:20:06.617291+00:00",
+    "items": []
+  },
+  "sams|LMH72205WBAB1": {
+    "ts": "2026-06-23T21:20:09.806481+00:00",
+    "items": []
   }
 }

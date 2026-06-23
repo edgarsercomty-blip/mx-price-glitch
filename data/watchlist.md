@@ -1,4 +1,4 @@
-# Productos en vigilancia (18)
+# Productos en vigilancia (19)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -22,3 +22,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $14,850 | -27% |
 | 🟢 disponible | palacio | [Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN…](https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html) | $32,571 | -21% |
 | 🟢 disponible | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (220V a…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | -28% |
+| 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | -56% |

@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (21)
+# Historial de ofertas encontradas (22)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-23 21:20 | -56% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | $7,470 en palacio vs mercado -> -56% bajo la competencia |
 | 2026-06-23 20:20 | -20% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |
 | 2026-06-23 15:14 | -28% | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (2…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | $1,090 en amazon vs amazon $1,505, palacio $1,726, amazon $2,090 -> -28% bajo la competencia |
 | 2026-06-23 12:27 | -21% | palacio | [Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart …](https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html) | $32,571 | $32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia |

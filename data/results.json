@@ -1,26 +1,45 @@
 {
-  "generated_at": "2026-06-23 20:20 UTC",
-  "products_scanned": 4190,
+  "generated_at": "2026-06-23 21:20 UTC",
+  "products_scanned": 3215,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 2,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia",
-      "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 3799.0,
-      "list_price": 7598.0,
+      "discount_pct": 70.0,
+      "detail": "$7,470 en palacio vs mercado -> -56% bajo la competencia",
+      "store": "palacio",
+      "name": "Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 blanca",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html",
+      "price": 7469.7,
+      "list_price": 24899.0,
       "ean": null,
-      "model": null,
-      "brand": "VELOCI",
+      "model": "LMH72205WBAB1",
+      "brand": "Mabe",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1167998964",
-        "marketplace": "true"
+        "id": "43133031",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
+      "price": 18303.48,
+      "list_price": 35199.0,
+      "ean": null,
+      "model": "WD20T6300GP/AX",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1103888430",
+        "marketplace": "false"
       }
     }
   ]
