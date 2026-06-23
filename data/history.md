@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (20)
+# Historial de ofertas encontradas (21)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-23 20:20 | -20% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |
 | 2026-06-23 15:14 | -28% | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (2…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | $1,090 en amazon vs amazon $1,505, palacio $1,726, amazon $2,090 -> -28% bajo la competencia |
 | 2026-06-23 12:27 | -21% | palacio | [Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart …](https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html) | $32,571 | $32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia |
 | 2026-06-22 21:06 | -27% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $14,850 | $14,850 en palacio vs sams $20,459 -> -27% bajo la competencia |
