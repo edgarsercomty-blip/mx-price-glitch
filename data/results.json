@@ -1,28 +1,9 @@
 {
-  "generated_at": "2026-06-23 15:34 UTC",
-  "products_scanned": 3214,
+  "generated_at": "2026-06-23 17:41 UTC",
+  "products_scanned": 3203,
   "threshold_pct": 20.0,
-  "count": 2,
+  "count": 1,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 65.7,
-      "detail": "$1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia",
-      "store": "liverpool",
-      "name": "Secadora de cabello Llano ll-pc001",
-      "url": "https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892",
-      "price": 1199.99,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": "ll-pc001",
-      "brand": "LLANO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1174499892",
-        "marketplace": "true"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 48.0,
