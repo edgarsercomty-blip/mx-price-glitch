@@ -1,26 +1,45 @@
 {
-  "generated_at": "2026-06-23 09:58 UTC",
-  "products_scanned": 4149,
+  "generated_at": "2026-06-23 12:27 UTC",
+  "products_scanned": 2377,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 2,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 65.7,
-      "detail": "$1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia",
-      "store": "liverpool",
-      "name": "Secadora de cabello Llano ll-pc001",
-      "url": "https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892",
-      "price": 1199.99,
-      "list_price": 3500.0,
+      "discount_pct": 62.0,
+      "detail": "$32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia",
+      "store": "palacio",
+      "name": "Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN98DU9000FXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html",
+      "price": 32570.94,
+      "list_price": 85713.0,
       "ean": null,
-      "model": "ll-pc001",
-      "brand": "LLANO",
+      "model": "UN98DU9000FXZX",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1174499892",
-        "marketplace": "true"
+        "id": "44038784",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
+      "price": 18303.48,
+      "list_price": 35199.0,
+      "ean": null,
+      "model": "WD20T6300GP/AX",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1103888430",
+        "marketplace": "false"
       }
     }
   ]
