@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23 22:48 UTC",
-  "products_scanned": 3173,
+  "generated_at": "2026-06-23 23:51 UTC",
+  "products_scanned": 3216,
   "threshold_pct": 20.0,
-  "count": 2,
+  "count": 3,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -20,6 +20,25 @@
       "currency": "MXN",
       "extra": {
         "id": "43133031",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia",
+      "store": "palacio",
+      "name": "Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN98DU9000FXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html",
+      "price": 32570.94,
+      "list_price": 85713.0,
+      "ean": null,
+      "model": "UN98DU9000FXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44038784",
         "outlet": false
       }
     },
