@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-24 03:53 UTC",
-  "products_scanned": 4147,
+  "generated_at": "2026-06-24 06:32 UTC",
+  "products_scanned": 3199,
   "threshold_pct": 20.0,
   "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia",
+      "discount_pct": 48.0,
+      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
       "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 3799.0,
-      "list_price": 7598.0,
+      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
+      "price": 18303.48,
+      "list_price": 35199.0,
       "ean": null,
-      "model": null,
-      "brand": "VELOCI",
+      "model": "WD20T6300GP/AX",
+      "brand": "SAMSUNG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1167998964",
-        "marketplace": "true"
+        "productId": "1103888430",
+        "marketplace": "false"
       }
     }
   ]
