@@ -160,10 +160,12 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
                         and same_product(p, op)):
                     rivals.append(op)
 
-        # #2: un solo comparable (sin corroborar por tiendas costosas) no es
-        # confiable -> un listado erróneo puede inflar el descuento (caso #8).
-        if f.n_comparables <= 1 and not rivals:
-            print(f"   [guard] descartado (1 solo comparable, sin corroborar): {p.name[:40]}")
+        # #2: si la ÚNICA evidencia es un solo comparable de GOOGLE (poco
+        # confiable) y ninguna tienda costosa corrobora -> descartar (caso #8,
+        # un listado raro infla el descuento). Un comparable de TIENDA real sí
+        # se confía aunque sea único (no mata deals legítimos como la bici).
+        if f.n_comparables <= 1 and f.store_comparables == 0 and not rivals:
+            print(f"   [guard] descartado (1 comparable Google sin corroborar): {p.name[:40]}")
             continue
 
         # #1: junta TODAS las ofertas conocidas y recalcula contra el competidor
@@ -318,6 +320,7 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         f.discount_pct = real
         f.ref_price = cheapest.price          # referencia de mercado para la guardia
         f.n_comparables = len(others)
+        f.store_comparables = sum(1 for o in others if o.store != "google")
         f.detail = (f"${p.price:,.0f} vs {comp} -> -{real:.0f}% bajo la "
                     f"competencia (descuento propio "
                     f"{f.product.discount_pct or 0:.0f}%)")
