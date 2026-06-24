@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-06-24 12:36 UTC",
-  "products_scanned": 3210,
+  "generated_at": "2026-06-24 15:10 UTC",
+  "products_scanned": 4626,
   "threshold_pct": 20.0,
-  "count": 1,
-  "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia",
-      "store": "liverpool",
-      "name": "Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX",
-      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430",
-      "price": 18303.48,
-      "list_price": 35199.0,
-      "ean": null,
-      "model": "WD20T6300GP/AX",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1103888430",
-        "marketplace": "false"
-      }
-    }
-  ]
+  "count": 0,
+  "findings": []
 }

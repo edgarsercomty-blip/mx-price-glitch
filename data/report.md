@@ -1,9 +1,7 @@
-# Errores/chollos de precio — 2026-06-24 12:36 UTC
+# Errores/chollos de precio — 2026-06-24 15:10 UTC
 
-- Productos revisados: **3210**
+- Productos revisados: **4626**
 - Umbral de diferencia: **20%**
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|--------|----------|-------:|------|---------|
-| -20% | liverpool | [Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430) | $18,303 | Confirmado vs competencia | $18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
