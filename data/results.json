@@ -1,47 +1,9 @@
 {
-  "generated_at": "2026-06-23 23:51 UTC",
-  "products_scanned": 3216,
+  "generated_at": "2026-06-24 02:29 UTC",
+  "products_scanned": 3205,
   "threshold_pct": 20.0,
-  "count": 3,
+  "count": 1,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$7,470 en palacio vs mercado -> -56% bajo la competencia",
-      "store": "palacio",
-      "name": "Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 blanca",
-      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html",
-      "price": 7469.7,
-      "list_price": 24899.0,
-      "ean": null,
-      "model": "LMH72205WBAB1",
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43133031",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia",
-      "store": "palacio",
-      "name": "Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN98DU9000FXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html",
-      "price": 32570.94,
-      "list_price": 85713.0,
-      "ean": null,
-      "model": "UN98DU9000FXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44038784",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 48.0,
