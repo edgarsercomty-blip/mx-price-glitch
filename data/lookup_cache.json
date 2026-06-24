@@ -8325,5 +8325,83 @@
         "model": "128GB"
       }
     ]
+  },
+  "amazon|75UA7500PSA": {
+    "ts": "2026-06-24T12:35:48.717119+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas UHD AI UA8050 4K Smart TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0F7TKJMCR",
+        "price": 11995.0,
+        "model": "UA8050"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas UHD AI UA7550 4K Smart TV 2025 65UA7550PSA | Sistema Operativo webOS | Identificación de Voz AI | HGIG Mode Channels | Sport Alert | HDR10 | Control Magic Remote AI",
+        "url": "https://www.amazon.com.mx/dp/B0FMWFS968",
+        "price": 8899.0,
+        "model": "65UA7550PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 13998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
+        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
+        "price": 680.0,
+        "model": "Akb76046605"
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Television 32L621FR ROKU Pantalla 32 Smart TV Pulgadas HD con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
+        "url": "https://www.amazon.com.mx/dp/B0G1CXCKLG",
+        "price": 1979.0,
+        "model": "32L621FR"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 83 Pulgadas OLED EVO AI G5 4K Smart TV webOS 2025 OLED83G5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2PP2JMP",
+        "price": 79998.75,
+        "model": "OLED83G5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense 65-Inch Class A7 Series 4K UHD Google Smart TV (65A7N, Modelo 2024) - Game Mode Plus, DTS Virtual: X, HDR 10+, Control Remoto por Voz, Chromecast Incorporado",
+        "url": "https://www.amazon.com.mx/dp/B0CY4SW14M",
+        "price": 19950.0,
+        "model": "65-Inch"
+      }
+    ]
+  },
+  "walmart|75UA7500PSA": {
+    "ts": "2026-06-24T12:36:19.590761+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV LG 75 Pulgadas UHD AI UA75 4K SMART TV 75UA7500",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-75-pulgadas-uhd-ai-ua75-4k-smart-tv-75ua7500/00880609645193?athbdg=L1510",
+        "price": 12368.0,
+        "model": "75UA7500"
+      }
+    ]
+  },
+  "sams|75UA7500PSA": {
+    "ts": "2026-06-24T12:36:59.273722+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  75\" UHD AI 4K Smart TV 75UA7500PSA",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-75-uhd-ai-4k-smart-tv-75ua7500psa/981038753",
+        "price": 16899.0,
+        "model": "75UA7500PSA"
+      }
+    ]
   }
 }
