@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (22)
+# Historial de ofertas encontradas (24)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-24 20:02 | -22% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $10,388 | $10,388 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-06-24 20:02 | -43% | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga sup…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $12,005 | $12,005 en palacio vs mercado -> -43% bajo la competencia |
 | 2026-06-24 09:51 | -30% | sams | [iPhone 16 Apple  256 GB 5G Blanco Telcel](https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997) | $10,229 | $10,229 en sams vs walmart $14,559, walmart $14,999 -> -30% bajo la competencia |
 | 2026-06-23 21:20 | -56% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | $7,470 en palacio vs mercado -> -56% bajo la competencia |
 | 2026-06-23 20:20 | -20% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |

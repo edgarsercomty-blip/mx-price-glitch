@@ -7416,5 +7416,272 @@
   "sams|190X150CM": {
     "ts": "2026-06-24T18:35:21.379754+00:00",
     "items": []
+  },
+  "amazon|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-24T20:01:09.870407+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
+        "price": 6199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
+        "price": 3239.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
+        "price": 2959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
+        "price": 4319.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodado 26 Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DXMQLBS3",
+        "price": 3799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Racing Rodada 16 Naranja",
+        "url": "https://www.amazon.com.mx/dp/B0DX8C2D4T",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
+        "price": 2949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
+        "price": 3899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta de Montaña para Adultos Rodada 26 Deportiva con 21 Velocidades Sistema Tipo Shimano, Frenos de Disco, Rin de Acero Suspension Delantera y pie de Apoyo",
+        "url": "https://www.amazon.com.mx/dp/B0F2RB9MBF",
+        "price": 3229.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-24T20:01:53.466046+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Rodada 29 21 Velocidades Kubor Alpine5",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-29-21-velocidades-kubor-alpine5/00750303766943",
+        "price": 7049.0,
+        "model": "Alpine5"
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
+        "price": 4779.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 26 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-azul-de-montana/00750305714005?athbdg=L1300",
+        "price": 4663.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Aluminio Rodada 29 Frenos Disco Shimano Kubor  MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-aluminio-rodada-29-frenos-disco-shimano-kubor-mtb/00750303766914",
+        "price": 8224.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña COSMO R26 de 21V Kubor color Gris",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-cosmo-r26-de-21v-kubor-color-gris/00750303766988",
+        "price": 6755.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Trx M/Rig Rodado 26 Negro",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-trx-m-rig-rodado-26-negro/00750305307177?athbdg=L1300",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 26 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-26-rojo-de-montana/00750305714002?athbdg=L1300",
+        "price": 4399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña KUBOR Mallory rodada 29 21 Velocidades Verde",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-kubor-mallory-rodada-29-21-velocidades-verde/00750303766930",
+        "price": 8929.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-29-rojo-de-montana/00750305714012?athbdg=L1300",
+        "price": 4487.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta De Montaña Rodada 26 24 Velocidades Shimano Kubor",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-rodada-26-24-velocidades-shimano-kubor/00750303766968",
+        "price": 6999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-24T20:02:30.648124+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
+        "price": 5491.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
+        "price": 3577.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
+        "price": 41999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Snake GT Trail Edition 250cc 2027 Gris",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250cc-2027-gris/981054209",
+        "price": 33999.0,
+        "model": "250cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Razzer GTR 220cc 2027",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-gtr-220cc-2027/981054206",
+        "price": 30999.0,
+        "model": "220cc"
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Gris",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-gris/981054203",
+        "price": 49999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Rubak EVO Ssport 220 Naranja 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-rubak-evo-ssport-220-naranja-2026/981043306",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Draxter RX Sport Limited 125 2026 Plata",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-draxter-rx-sport-limited-125-2026-plata/981041541",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Boxter RT3 220cc 2027 Negro",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-boxter-rt3-220cc-2027-negro/981054200",
+        "price": 20499.0,
+        "model": "220cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Xeverus 330cc 2027 Rojo",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-330cc-2027-rojo/981054212",
+        "price": 41999.0,
+        "model": "330cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Deus Evo Sport 150cc Gris 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-deus-evo-sport-150cc-gris-2026/981043565",
+        "price": 18999.0,
+        "model": "150cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Snake GT Trail Edition 250 Gris 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250-gris-2026/981043301",
+        "price": 32999.0,
+        "model": null
+      }
+    ]
   }
 }
