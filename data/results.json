@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-06-24 06:32 UTC",
-  "products_scanned": 3199,
+  "generated_at": "2026-06-24 09:51 UTC",
+  "products_scanned": 4624,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 2,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$10,229 en sams vs walmart $14,559, walmart $14,999 -> -30% bajo la competencia",
+      "store": "sams",
+      "name": "iPhone 16 Apple  256 GB 5G Blanco Telcel",
+      "url": "https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997",
+      "price": 10228.98,
+      "list_price": 20458.97,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981028997"
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 48.0,
