@@ -1,4 +1,4 @@
-# 🆕 Nuevos posibles errores de precio — 2026-06-25 22:10 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-06-25 23:59 UTC
 
 - Hallazgos: **0**
 
