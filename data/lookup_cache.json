@@ -2573,7 +2573,7 @@
     "items": []
   },
   "amazon|98QM7K": {
-    "ts": "2026-06-23T09:02:14.431111+00:00",
+    "ts": "2026-06-25T09:48:09.367993+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2584,17 +2584,24 @@
       },
       {
         "store": "amazon",
-        "name": "RC923A FMB1 Control remoto de voz de repuesto compatible con TCL 2025 4K OLED Smart TV modelos 50QM6K 55QM6K 55QM7K 65QM6K 65QM7K 75QM6K 75QM7K 85QM6K 85QM7K 98QM6K 98QM7K",
-        "url": "https://www.amazon.com.mx/dp/B0GSW1P4Q1",
-        "price": 432.17,
-        "model": "RC923A"
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 24628.0,
+        "model": "VisionHDR10"
       },
       {
         "store": "amazon",
-        "name": "Mando a distancia de repuesto para RC923A FMB1 TCL Smart LED TV Modelos 55QM6K 75QM6K 65QM6K 65QM7K 55QM7K 75QM7K 98QM6K 85QM6K 85QM7K 98QM7K (Sin función de voz)",
-        "url": "https://www.amazon.com.mx/dp/B0FRRZ8JLH",
-        "price": 310.1,
-        "model": "RC923A"
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 20398.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.55,
+        "model": "98QM8K"
       },
       {
         "store": "amazon",
@@ -2605,10 +2612,10 @@
       },
       {
         "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 24628.0,
-        "model": "VisionHDR10"
+        "name": "TCL 85QM7K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQDRS13F",
+        "price": 27998.0,
+        "model": "85QM7K"
       },
       {
         "store": "amazon",
@@ -2619,54 +2626,47 @@
       },
       {
         "store": "amazon",
-        "name": "LG Pantalla 42 Pulgadas OLED EVO AI C6 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GVG66ZFG",
-        "price": 17097.0,
-        "model": null
+        "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DZN8SX9J",
+        "price": 29998.0,
+        "model": "VisionHDR10"
       },
       {
         "store": "amazon",
-        "name": "Hisense televisión U7S Pantalla 65“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9K2G6B",
-        "price": 16297.0,
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 13998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
+        "price": 19998.0,
         "model": "165Hz"
       },
       {
         "store": "amazon",
-        "name": "RC813A FMB1 - Mando a distancia de repuesto para TCL QLED 4K UHD Smart TV 85QM6K 98QM6K 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K (sin voz)",
-        "url": "https://www.amazon.com.mx/dp/B0GKS2XSY8",
-        "price": 317.3,
-        "model": "RC813A"
+        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
+        "price": 14075.0,
+        "model": "144Hz"
       },
       {
         "store": "amazon",
-        "name": "Control remoto de voz de repuesto para TCL QM6K QM7K Series QD-MINI LED QLED 4K UHD Smart TV 55QM6K 65QM6K 75QM6K 85QM6K 98QM6K 50QM6K 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K K 15 qqqqM7K",
-        "url": "https://www.amazon.com.mx/dp/B0FB3WQQ4T",
-        "price": 511.74,
-        "model": "qqqqM7K"
-      },
-      {
-        "store": "amazon",
-        "name": "Control remoto de retroiluminación para TCL QM6K QM7K Series QD-Mini LED 4K UHD Google Smart TV 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K 115QM7K 50QM6K 55QM6K 65QM6K 75QM6K 856 K 9 8QM6K",
-        "url": "https://www.amazon.com.mx/dp/B0FYPNJKNV",
-        "price": 503.86,
-        "model": "115QM7K"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Smart TV 65\" OLED QN65S85HAEXZX",
-        "url": "https://www.amazon.com.mx/dp/B0GX2RR7PT",
-        "price": 23999.0,
-        "model": "QN65S85HAEXZX"
+        "name": "Hisense Television QD6QFM(Modelo 2025) Pantalla 100 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Pro de 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0FQV77YBY",
+        "price": 31107.0,
+        "model": "QD6QFM"
       }
     ]
   },
   "walmart|98QM7K": {
-    "ts": "2026-06-23T09:02:21.345953+00:00",
+    "ts": "2026-06-25T09:48:44.132849+00:00",
     "items": []
   },
   "sams|98QM7K": {
-    "ts": "2026-06-23T09:02:27.624697+00:00",
+    "ts": "2026-06-25T09:48:46.924909+00:00",
     "items": []
   },
   "amazon|UN98DU9000FXZX": {
@@ -6626,6 +6626,227 @@
         "name": "Motoneta Veloci  Draxter RX Sport 125 Rojo 2026",
         "url": "https://www.sams.com.mx/ip/motoneta-veloci-draxter-rx-sport-125-rojo-2026/981043302",
         "price": 17499.0,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|98QM7K": {
+    "ts": "2026-06-25T09:47:13.993068+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "BIELDO PARA JARDÍN DE 98 CM CON 4 DIENTES NARANJA TRUPER",
+        "url": "https://www.homedepot.com.mx/p/truper-bieldo-para-jardin-de-98-cm-con-4-dientes-naranja-truper-bj-4p-210409",
+        "price": 495.0,
+        "model": "210409"
+      },
+      {
+        "store": "homedepot",
+        "name": "12 PACK BOLSA AHORRA ESPACIO 98 X 68 CM",
+        "url": "https://www.homedepot.com.mx/p/home-styles-12-pack-bolsa-ahorra-espacio-98-x-68-cm-spb5815mlv-198393",
+        "price": 885.0,
+        "model": "198393"
+      }
+    ]
+  },
+  "liverpool|98QM7K": {
+    "ts": "2026-06-25T09:48:06.248773+00:00",
+    "items": []
+  },
+  "homedepot|Q8FAA": {
+    "ts": "2026-06-25T09:48:48.115838+00:00",
+    "items": []
+  },
+  "liverpool|Q8FAA": {
+    "ts": "2026-06-25T09:49:16.673302+00:00",
+    "items": []
+  },
+  "amazon|Q8FAA": {
+    "ts": "2026-06-25T09:49:19.220405+00:00",
+    "items": []
+  },
+  "walmart|Q8FAA": {
+    "ts": "2026-06-25T09:49:30.425009+00:00",
+    "items": []
+  },
+  "sams|Q8FAA": {
+    "ts": "2026-06-25T09:49:36.298296+00:00",
+    "items": []
+  },
+  "amazon|HAMILTONBEACHPROGRAMABLECAFETERAHAMILTONTAZAS": {
+    "ts": "2026-06-25T09:49:39.057851+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 46310 Cafetera Programable Fácil Acceso 12 tazas, Negro",
+        "url": "https://www.amazon.com.mx/dp/B07684BPLB",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Cafetera para 12 Tazas, Programable, 3 Opciones de Preparación, Jarra de Vidrio, Negra (46299)",
+        "url": "https://www.amazon.com.mx/dp/B06XP4DKGL",
+        "price": 632.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49615 Cafetera Programable,12 Tazas, Negra, Mod. 49615-NEGRO",
+        "url": "https://www.amazon.com.mx/dp/B00ECH6AS8",
+        "price": 549.0,
+        "model": "49615-NEGRO"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach FrontFill Deluxe 12-Cup Programmable Coffee Maker, Black (46321)",
+        "url": "https://www.amazon.com.mx/dp/B0844DSDBH",
+        "price": 367.0,
+        "model": "12-Cup"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable Hamilton Beach Capacidad de 12 Tazas Color Gris con Negro Modelo 47950",
+        "url": "https://www.amazon.com.mx/dp/B00AF7WUO2",
+        "price": 1826.91,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach FrontFill Compact Cafetera programable para 5 tazas | Diseño compacto | Reloj programable | jarra de cristal | pausa y vierte automáticamente | negro y acero inoxidable | 46111",
+        "url": "https://www.amazon.com.mx/dp/B082LS88WN",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable para 12 tazas Hamilton Beach 49632",
+        "url": "https://www.amazon.com.mx/dp/B0C3MMFHC9",
+        "price": 598.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable Hamilton Beach, Capacidad 12 tazas, Color Negro, Modelo 46895-NEGRO",
+        "url": "https://www.amazon.com.mx/dp/B01AT75AU8",
+        "price": 669.0,
+        "model": "46895-NEGRO"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach - Cafetera programable de 2 vías",
+        "url": "https://www.amazon.com.mx/dp/B0DPR511FX",
+        "price": 1795.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Hamilton Beach 45 Tazas 40515R/40515G/ 40515RZ Plata",
+        "url": "https://www.amazon.com.mx/dp/B00008IH9R",
+        "price": 767.46,
+        "model": "40515R/40515G"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
+        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
+        "price": 399.0,
+        "model": "49970-MX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Cafetera programable de 12 tazas Hamilton Beach, jarra de vidrio, negro y plateado, 49465R",
+        "url": "https://www.amazon.com.mx/dp/B001B0L11K",
+        "price": 799.0,
+        "model": "49465R"
+      }
+    ]
+  },
+  "sams|HAMILTONBEACHPROGRAMABLECAFETERAHAMILTONTAZAS": {
+    "ts": "2026-06-25T09:49:47.422059+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
+        "price": 503.32,
+        "model": "46299J-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  One Press Expendedora",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-one-press-expendedora/981045744",
+        "price": 1533.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  con Báscula Integrada Pantalla LCD",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-con-bascula-integrada-pantalla-lcd/981045738",
+        "price": 1016.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Procesador de Alimentos Hamilton Beach  para 8 Tazas con Raspador de Tazón",
+        "url": "https://www.sams.com.mx/ip/procesador-de-alimentos-hamilton-beach-para-8-tazas-con-raspador-de-tazon/981039055",
+        "price": 2044.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Urna para Café Eléctrica Hamilton Beach  40521 Capacidad de 45 Tazas",
+        "url": "https://www.sams.com.mx/ip/urna-para-cafe-electrica-hamilton-beach-40521-capacidad-de-45-tazas/980038962",
+        "price": 1004.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vaporizador de Ropa Hamilton Beach  Convertible a Plancha 3 en 1 Tanque 300 ml Mod. 11559 Azul",
+        "url": "https://www.sams.com.mx/ip/vaporizador-de-ropa-hamilton-beach-convertible-a-plancha-3-en-1-tanque-300-ml-mod-11559-azul/981053111",
+        "price": 735.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Horno Eléctrico Hamilton Beach   XL Sure-Crisp 6 en 1 con Freidora de Aire",
+        "url": "https://www.sams.com.mx/ip/horno-electrico-hamilton-beach-xl-sure-crisp-6-en-1-con-freidora-de-aire/981045742",
+        "price": 2351.87,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sacacorchos Eléctrico Hamilton Beach  Inalámbrico Negro",
+        "url": "https://www.sams.com.mx/ip/sacacorchos-electrico-hamilton-beach-inalambrico-negro/981020735",
+        "price": 510.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Extractor de Jugos Hamilton Beach  2 en 1 Big Mouth",
+        "url": "https://www.sams.com.mx/ip/extractor-de-jugos-hamilton-beach-2-en-1-big-mouth/981023608",
+        "price": 2351.87,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Plancha de Vapor Hamilton Beach  con Suela de Acero 14950",
+        "url": "https://www.sams.com.mx/ip/plancha-de-vapor-hamilton-beach-con-suela-de-acero-14950/981045736",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Parrilla Hamilton Beach  Panini",
+        "url": "https://www.sams.com.mx/ip/parrilla-hamilton-beach-panini/980004951",
+        "price": 917.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
+        "price": 1533.47,
         "model": null
       }
     ]

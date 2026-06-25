@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (24)
+# Historial de ofertas encontradas (25)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-25 09:49 | -27% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $367 | $367 en walmart vs sams $503 -> -27% bajo la competencia |
 | 2026-06-24 20:02 | -22% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $10,388 | $10,388 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-06-24 20:02 | -43% | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga sup…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $12,005 | $12,005 en palacio vs mercado -> -43% bajo la competencia |
 | 2026-06-24 09:51 | -30% | sams | [iPhone 16 Apple  256 GB 5G Blanco Telcel](https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997) | $10,229 | $10,229 en sams vs walmart $14,559, walmart $14,999 -> -30% bajo la competencia |
