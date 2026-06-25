@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-25 11:34 UTC",
-  "products_scanned": 3136,
+  "generated_at": "2026-06-25 13:52 UTC",
+  "products_scanned": 3215,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$12,005 en palacio vs mercado -> -23% bajo la competencia",
+      "store": "palacio",
+      "name": "Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior negra",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html",
+      "price": 12004.51,
+      "list_price": 24499.0,
+      "ean": null,
+      "model": "WA23C3554GV-AX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43689721",
+        "outlet": false
+      }
+    }
+  ]
 }
