@@ -539,204 +539,6 @@
     "ts": "2026-06-25T23:59:21.015654+00:00",
     "items": []
   },
-  "homedepot|190X150CM": {
-    "ts": "2026-06-24T18:34:44.810319+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "DEPOSITO EXTERIORES FACTOR 178X195X208 CM (DOBLE PUERTA) COLOR BEIGE / TOPO",
-        "url": "https://www.homedepot.com.mx/p/keter-deposito-exteriores-factor-178x195x208-cm-doble-puerta-color-beige-topo-17197898-172113",
-        "price": 23999.0,
-        "model": "172113"
-      }
-    ]
-  },
-  "liverpool|190X150CM": {
-    "ts": "2026-06-24T18:35:13.243591+00:00",
-    "items": []
-  },
-  "palacio|190X150CM": {
-    "ts": "2026-06-24T18:35:13.493597+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo Antique en Viscosa y Algodón 230x160cm",
-        "url": "https://www.elpalaciodehierro.com/casa-tua-tapete-decorativo-antique-en-viscosa-y-algodon-230x160cm-37761008.html",
-        "price": 4650.0,
-        "model": "230x160cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo Autentico en Algodon 180x230cm",
-        "url": "https://www.elpalaciodehierro.com/urban-republic-life-styles-tapete-decorativo-autentico-en-algodon-180x230cm-44274464.html",
-        "price": 2397.0,
-        "model": "180x230cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Concept negro en polipropileno 180x120cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-negro-en-polipropileno-180x120cm-43468850.html",
-        "price": 2103.2,
-        "model": "180x120cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo Concept en Polipropileno 230x160cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-en-polipropileno-230x160cm-43468856.html",
-        "price": 3783.2,
-        "model": "230x160cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Rusena en polipropileno 120 x 80 cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-rusena-en-polipropileno-120-x-80-cm-45468822.html",
-        "price": 1352.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Argos en polipropileno 230 x 160 cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-argos-en-polipropileno-230-x-160-cm-44932806.html",
-        "price": 8952.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Rusena en polipropileno 180 x 120 cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-rusena-en-polipropileno-180-x-120-cm-45468823.html",
-        "price": 2952.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Alfombra Microfibra Blanca 80X50Cm",
-        "url": "https://www.elpalaciodehierro.com/rayen-alfombra-microfibra-blanca-80x50cm-43060613.html",
-        "price": 839.3,
-        "model": "80X50Cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo Interior 230X150cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-interior-230x150cm-41108813.html",
-        "price": 5712.0,
-        "model": "230X150cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo Interior 240X160cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-interior-240x160cm-41131537.html",
-        "price": 7752.0,
-        "model": "240X160cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete Decorativo en vinilo Signal Sand 269x183cm",
-        "url": "https://www.elpalaciodehierro.com/chilewich-tapete-decorativo-en-vinilo-signal-sand-269x183cm-44309370.html",
-        "price": 17032.0,
-        "model": "269x183cm"
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Enova en viscosa 230 x 160 cm",
-        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-enova-en-viscosa-230-x-160-cm-44928925.html",
-        "price": 17592.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|190X150CM": {
-    "ts": "2026-06-24T18:35:16.900703+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Colchon Queen Size 25 CM Memory Foam Híbrido en Caja – Gel Refrigerante, Alivio de Dolor de Espalda, Firmeza Media, Soporte Ergonómico, Sueño Fresco y Confortable, Antiácaros, 190x150cm，Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H1WLTD4J",
-        "price": 4999.0,
-        "model": "190x150cm"
-      },
-      {
-        "store": "amazon",
-        "name": "Restonic Liquidación - Colchón Queen Size (190 x 150 cm) - 5 años de garantía best10",
-        "url": "https://www.amazon.com.mx/dp/B08ZHLC3GV",
-        "price": 3996.0,
-        "model": "best10"
-      },
-      {
-        "store": "amazon",
-        "name": "JINXIA - Parque infantil con alfombra de 190 x 150 cm, parque grande para bebés y niños, resistente a las subidas y a la caída, patio de juego de seguridad resistente para interiores y exteriores",
-        "url": "https://www.amazon.com.mx/dp/B0D2R3N2SK",
-        "price": 1313.23,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Mosquitera Cortina Magnetica 190 x 150 cm Mosquiteras para Puertas Pegado sin Taladrar Mantiene Insectos para Puertas Correderas【Blanco】",
-        "url": "https://www.amazon.com.mx/dp/B0C5QBYKTM",
-        "price": 652.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Mosquitera Magnética 190 x 150 cm Mosquiteras para Puertas Evita el Paso de Insectos Mantiene Insectos para Puertas Correderas【Negro】",
-        "url": "https://www.amazon.com.mx/dp/B0C5Q78SGB",
-        "price": 652.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Mosquitera Magnética 190 x 150 cm Mosquiteras a Medida Cortina Protección contra Insectos para Sala de Estar Balcón【Gris】",
-        "url": "https://www.amazon.com.mx/dp/B0C5Q9W4ND",
-        "price": 652.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Burrito Blanco | Sábanas Coral | Cama 150 cm Diseño 965 | Color Nude (150 x 190/200 cm)",
-        "url": "https://www.amazon.com.mx/dp/B0DWT88NPR",
-        "price": 360.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Red con Dosel para Cama de 4 Postes Esquineros para Tamaño Completo, Color, 90x190x150cm y Elegante Dosel para Cama (150x195x170cm)",
-        "url": "https://www.amazon.com.mx/dp/B0GY9284PZ",
-        "price": 169.0,
-        "model": "150x195x170cm"
-      },
-      {
-        "store": "amazon",
-        "name": "Favoto Cubierta de Coche Impermeable Funda de Coche Exterior Anti-UV Transpirable Resistente al Polvo Lluvia Rasguño Nieve al Aire Libre 490x190x150cm Plata",
-        "url": "https://www.amazon.com.mx/dp/B07QGW3LXM",
-        "price": 1203.93,
-        "model": "490x190x150cm"
-      },
-      {
-        "store": "amazon",
-        "name": "WALKINGDESK Escritorio de esquina eléctrico, 190 x 150 cm, mesa ajustable en altura en L, para ordenador con memoria de 4 alturas, escritorio de oficina y casa, roble",
-        "url": "https://www.amazon.com.mx/dp/B0FD9W455K",
-        "price": 7463.24,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MAMALAND Colchón Queen Premium 150 x 190 cm – Espuma Viscoelástica y Muelles | Transpirable y Resistente | Colchón en Caja | Alivio del Dolor de Espalda | Garantía de 10 años",
-        "url": "https://www.amazon.com.mx/dp/B0FB98RQCC",
-        "price": 3431.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BURRITO BLANCO Juego de Ropa de Cama de 150 cm (+ tamaños Disponibles) | Diseño 297 | Beige (150 x 190/200 cm)",
-        "url": "https://www.amazon.com.mx/dp/B0D2RS45Y2",
-        "price": 1424.81,
-        "model": null
-      }
-    ]
-  },
-  "sams|190X150CM": {
-    "ts": "2026-06-24T18:35:21.379754+00:00",
-    "items": []
-  },
   "amazon|VELOCIBICICLETARODADAURBANAVELOCI": {
     "ts": "2026-06-24T20:01:09.870407+00:00",
     "items": [
@@ -6058,6 +5860,18 @@
   },
   "sams|TW2W93200VT": {
     "ts": "2026-06-26T14:52:41.667214+00:00",
+    "items": []
+  },
+  "amazon|WK22BS6": {
+    "ts": "2026-06-26T18:38:34.937963+00:00",
+    "items": []
+  },
+  "walmart|WK22BS6": {
+    "ts": "2026-06-26T18:38:49.515352+00:00",
+    "items": []
+  },
+  "sams|WK22BS6": {
+    "ts": "2026-06-26T18:38:53.616339+00:00",
     "items": []
   }
 }
