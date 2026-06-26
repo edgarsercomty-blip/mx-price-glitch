@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26 04:17 UTC",
-  "products_scanned": 4613,
+  "generated_at": "2026-06-26 06:39 UTC",
+  "products_scanned": 3209,
   "threshold_pct": 20.0,
-  "count": 3,
+  "count": 1,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -21,44 +21,6 @@
       "extra": {
         "id": "43689721",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$10,388 en liverpool vs mercado -> -22% bajo la competencia",
-      "store": "liverpool",
-      "name": "Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX",
-      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659",
-      "price": 10387.51,
-      "list_price": 21199.0,
-      "ean": null,
-      "model": "WD11T4046BX/AX",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1110891659",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$3,799 en liverpool vs mercado -> -20% bajo la competencia",
-      "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 3799.0,
-      "list_price": 7598.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167998964",
-        "marketplace": "true"
       }
     }
   ]
