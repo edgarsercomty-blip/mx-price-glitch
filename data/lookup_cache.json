@@ -6495,5 +6495,40 @@
   "sams|WT19WT6HKA": {
     "ts": "2026-06-26T10:10:53.298350+00:00",
     "items": []
+  },
+  "amazon|50QNED82ASA": {
+    "ts": "2026-06-26T12:24:09.291085+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
+        "price": 9495.0,
+        "model": "55QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Serie QNED80 Mini LED QNED de 50 Pulgadas Smart TV 4K Pantalla Plana para Juegos con Control Remoto mágico Alimentado por IA con Alexa | Modelo 50QNED80URA, 2023",
+        "url": "https://www.amazon.com.mx/dp/B0BVXBB6Q6",
+        "price": 17850.0,
+        "model": "50QNED80URA"
+      }
+    ]
+  },
+  "walmart|50QNED82ASA": {
+    "ts": "2026-06-26T12:24:17.900614+00:00",
+    "items": []
+  },
+  "sams|50QNED82ASA": {
+    "ts": "2026-06-26T12:24:20.527587+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG 55\" QNED AI 4K Smart TV 55QNED82ASG",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-55-qned-ai-4k-smart-tv-55qned82asg/981036693",
+        "price": 8999.0,
+        "model": "55QNED82ASG"
+      }
+    ]
   }
 }
