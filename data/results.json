@@ -1,65 +1,7 @@
 {
-  "generated_at": "2026-06-26 20:13 UTC",
-  "products_scanned": 4599,
+  "generated_at": "2026-06-26 20:24 UTC",
+  "products_scanned": 3173,
   "threshold_pct": 20.0,
-  "count": 3,
-  "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.3,
-      "detail": "$19,999 en liverpool vs walmart $41,655 -> -52% bajo la competencia",
-      "store": "liverpool",
-      "name": "Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED92ASA con evo AI",
-      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101",
-      "price": 19999.1,
-      "list_price": 47999.0,
-      "ean": null,
-      "model": "75QNED92ASA",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1179495101",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 57.7,
-      "detail": "$8,957 en liverpool vs mercado -> -32% bajo la competencia",
-      "store": "liverpool",
-      "name": "Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX",
-      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659",
-      "price": 8956.58,
-      "list_price": 21199.0,
-      "ean": null,
-      "model": "WD11T4046BX/AX",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1110891659",
-        "marketplace": "false"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia",
-      "store": "liverpool",
-      "name": "Bicicleta urbana Veloci rodada 26 unisex",
-      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
-      "price": 3799.0,
-      "list_price": 7598.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167998964",
-        "marketplace": "true"
-      }
-    }
-  ]
+  "count": 0,
+  "findings": []
 }
