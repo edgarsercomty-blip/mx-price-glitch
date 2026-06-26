@@ -1,4 +1,4 @@
-# Productos en vigilancia (23)
+# Productos en vigilancia (24)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -24,6 +24,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | -56% |
 | 🟢 disponible | sams | [iPhone 16 Apple  256 GB 5G Blanco Telcel](https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997) | $20,459 | -30% |
 | 🟢 disponible | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $12,005 | -43% |
-| 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | -33% |
+| 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | -32% |
 | 🟢 disponible | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $367 | -27% |
 | 🟢 disponible | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA con …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | -62% |
+| 🟢 disponible | liverpool | [Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED92ASA …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101) | $19,999 | -52% |

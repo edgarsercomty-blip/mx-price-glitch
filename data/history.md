@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (27)
+# Historial de ofertas encontradas (29)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-26 20:13 | -32% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | $8,957 en liverpool vs mercado -> -32% bajo la competencia |
+| 2026-06-26 20:13 | -52% | liverpool | [Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED9…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101) | $19,999 | $19,999 en liverpool vs walmart $41,655 -> -52% bajo la competencia |
 | 2026-06-26 12:24 | -62% | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | $8,499 en liverpool vs mercado -> -62% bajo la competencia |
 | 2026-06-26 10:04 | -33% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,904 | $8,904 en liverpool vs mercado -> -33% bajo la competencia |
 | 2026-06-25 09:49 | -27% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $367 | $367 en walmart vs sams $503 -> -27% bajo la competencia |
