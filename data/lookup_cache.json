@@ -2359,60 +2359,81 @@
     "items": []
   },
   "liverpool|244958": {
-    "ts": "2026-06-24T09:49:08.134330+00:00",
+    "ts": "2026-06-26T09:54:27.634292+00:00",
     "items": []
   },
   "palacio|244958": {
-    "ts": "2026-06-24T09:49:08.359644+00:00",
+    "ts": "2026-06-26T09:54:27.850934+00:00",
     "items": []
   },
   "amazon|244958": {
-    "ts": "2026-06-24T09:49:10.381256+00:00",
+    "ts": "2026-06-26T09:54:29.810937+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Bedford Precision 20-3983 Kit de reparación para Hydramax 300/350 - Repuesto para Graco 244958",
         "url": "https://www.amazon.com.mx/dp/B0C3SDF8W6",
-        "price": 4541.0,
+        "price": 4470.28,
         "model": null
       }
     ]
   },
   "walmart|244958": {
-    "ts": "2026-06-24T09:49:17.967990+00:00",
+    "ts": "2026-06-26T09:54:44.853543+00:00",
     "items": []
   },
   "sams|244958": {
-    "ts": "2026-06-24T09:49:22.284967+00:00",
+    "ts": "2026-06-26T09:55:00.179920+00:00",
     "items": [
       {
         "store": "sams",
         "name": "Acondicionador Herbal Essences  Aceite de Ricino y Granada 958 ml",
         "url": "https://www.sams.com.mx/ip/acondicionador-herbal-essences-aceite-de-ricino-y-granada-958-ml/981003746",
-        "price": 112.37,
+        "price": 120.7,
         "model": null
       }
     ]
   },
   "homedepot|BC155SGY": {
-    "ts": "2026-06-24T09:49:22.656638+00:00",
+    "ts": "2026-06-26T09:55:07.304940+00:00",
     "items": []
   },
   "palacio|BC155SGY": {
-    "ts": "2026-06-24T09:49:22.856546+00:00",
+    "ts": "2026-06-26T09:55:07.509944+00:00",
     "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
-        "price": 12063.42,
-        "model": "RT42DG6734B1EM"
-      },
       {
         "store": "palacio",
         "name": "Cinturón en piel reversible 30 mm",
         "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-reversible-30-mm-44949769.html",
         "price": 7200.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturon casual metalico Mujer",
+        "url": "https://www.elpalaciodehierro.com/versace-cinturon-casual-metalico-mujer-44646237.html",
+        "price": 15920.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón reversible rectangular MST Hombre",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-reversible-rectangular-mst-hombre-45430824.html",
+        "price": 10400.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lentes oftálmicos cuadrados negros Hombre",
+        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-negros-hombre-44073654.html",
+        "price": 7339.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón en Piel Mujer",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-mujer-44221351.html",
+        "price": 8900.0,
         "model": null
       },
       {
@@ -2424,9 +2445,9 @@
       },
       {
         "store": "palacio",
-        "name": "Cinturón reversible rectangular MST Hombre",
-        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-reversible-rectangular-mst-hombre-45430824.html",
-        "price": 10400.0,
+        "name": "Cinturon",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-44221180.html",
+        "price": 9600.0,
         "model": null
       },
       {
@@ -2445,16 +2466,9 @@
       },
       {
         "store": "palacio",
-        "name": "Set de cubiertos para cerne 12 piezas Zwilling Specials en Acero Inoxidable",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-de-cubiertos-para-cerne-12-piezas-zwilling-specials-en-acero-inoxidable-44031929.html",
-        "price": 1987.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lentes oftálmicos cuadrados negros Hombre",
-        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-negros-hombre-44073654.html",
-        "price": 7339.0,
+        "name": "Aretes en oro blanco de 14 kilates con esmeralda y diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/eternity-aretes-en-oro-blanco-de-14-kilates-con-esmeralda-y-diamantes-mujer-44949557.html",
+        "price": 24288.0,
         "model": null
       },
       {
@@ -2466,126 +2480,27 @@
       },
       {
         "store": "palacio",
-        "name": "Cinturón en Piel Mujer",
-        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-mujer-44221351.html",
-        "price": 8900.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cinturon",
-        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-44221180.html",
-        "price": 9600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cinturon casual metalico Mujer",
-        "url": "https://www.elpalaciodehierro.com/versace-cinturon-casual-metalico-mujer-44646237.html",
-        "price": 15920.0,
+        "name": "Meisterstück Key Holder NIB INBL Unisex",
+        "url": "https://www.elpalaciodehierro.com/montblanc-meisterst%C3%BCck-key-holder-nib-inbl-unisex-45435578.html",
+        "price": 6100.0,
         "model": null
       }
     ]
   },
   "amazon|BC155SGY": {
-    "ts": "2026-06-24T09:49:26.370093+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Motor de arranque 19068 23300-1CA0A 410-48313 de repuesto para Nissan Titan Armada Pathfinder NV2500 NV3500 Infiniti QX56 QX80 Q70L FX50 M56 56 5 Motor 0 V8",
-        "url": "https://www.amazon.com.mx/dp/B0F2SWN8S7",
-        "price": 1134.16,
-        "model": "23300-1CA0A"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con interruptor de freno de estacionamiento 9813146377 98131463ZD para Citroen C5 C4 para botón electrónico de freno de mano Berlingo III",
-        "url": "https://www.amazon.com.mx/dp/B0H62BHYJV",
-        "price": 1020.44,
-        "model": "98131463ZD"
-      },
-      {
-        "store": "amazon",
-        "name": "SCITOO - Motor de arranque para arrancadores 18404 SND0132 apto para Bombardier para Sarasota 1000 2005, para John Deere para Gator 2003, para John Deere para Gator CS 2005-2006, para John Deere para",
-        "url": "https://www.amazon.com.mx/dp/B0CQQGGCTB",
-        "price": 1942.13,
-        "model": "SND0132"
-      },
-      {
-        "store": "amazon",
-        "name": "1JD145299A Tensor generador para LAV1JD 145 299 A Rueda tensora para EA111/1.4T Ranger/Bora 1.4T Ranger/New Bora",
-        "url": "https://www.amazon.com.mx/dp/B0GL7MT11Y",
-        "price": 834.3,
-        "model": "1JD145299A"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con sensor de alta presión de riel de combustible, pieza de repuesto original OE: 1850351C1 1855177C1 adecuada para motores de automóviles",
-        "url": "https://www.amazon.com.mx/dp/B0H61PJM6X",
-        "price": 1199.93,
-        "model": "1850351C1"
-      },
-      {
-        "store": "amazon",
-        "name": "Relé de arranque de motor compatible con Linhai 500 ATV Dune Buggy 4x4 300B 22004 5.3.01.1010 5.3.01.0040 LU019191 LU048720",
-        "url": "https://www.amazon.com.mx/dp/B0H664H6G8",
-        "price": 360.74,
-        "model": "LU019191"
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorios 18645 Arranque apto for 325 330 335 425 500 2x4 4x4 6x6",
-        "url": "https://www.amazon.com.mx/dp/B0H5V8H2V9",
-        "price": 1447.27,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con puntos y condensador 160-1183 Kit de módulos de encendido 312-0246 para motores Onan B Series B43 B48 B43E B48G 16hp 18hp Piezas",
-        "url": "https://www.amazon.com.mx/dp/B0H3QPXDVD",
-        "price": 1110.54,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motor de Arranque 3545-016 31100-38F00 Compatible con 375 400 Auto 2X4 4x4 Y LTF400 4WD 2WD LTA400",
-        "url": "https://www.amazon.com.mx/dp/B01NA8HS8J",
-        "price": 1958.4,
-        "model": "31100-38F00"
-      },
-      {
-        "store": "amazon",
-        "name": "Ensamble de reemplazo para 430 1E40-5 1E40F-5 1E44- BC52 BC520 CG430 CG520 TB43 43cc 52cc 2 tiempos motores de cortadora/recortadora",
-        "url": "https://www.amazon.com.mx/dp/B0H5W7T9F7",
-        "price": 814.84,
-        "model": "1E40F-5"
-      },
-      {
-        "store": "amazon",
-        "name": "Rectificador regulador de motocicleta 31600-KRE-K01 31600-KVS-J01 compatible con Biz 110 BC110 125 BC125 CG160 Cargo Start NXR160 Edd Bros",
-        "url": "https://www.amazon.com.mx/dp/B0H5TCY1P5",
-        "price": 735.08,
-        "model": "31600-KRE-K01"
-      },
-      {
-        "store": "amazon",
-        "name": "Motor de Arranque 21163-0033, Motor de Arranque de Repuesto para ATV KSF450 KFX450R 2008-2014 211630033",
-        "url": "https://www.amazon.com.mx/dp/B0H67NQB4X",
-        "price": 1239.03,
-        "model": "KFX450R"
-      }
-    ]
+    "ts": "2026-06-26T09:55:09.376122+00:00",
+    "items": []
   },
   "walmart|BC155SGY": {
-    "ts": "2026-06-24T09:49:34.036452+00:00",
+    "ts": "2026-06-26T09:55:19.277277+00:00",
     "items": []
   },
   "sams|BC155SGY": {
-    "ts": "2026-06-24T09:49:38.798248+00:00",
+    "ts": "2026-06-26T09:55:47.458395+00:00",
     "items": []
   },
   "homedepot|65QNED9MASA": {
-    "ts": "2026-06-24T09:49:39.784167+00:00",
+    "ts": "2026-06-26T09:57:32.044701+00:00",
     "items": [
       {
         "store": "homedepot",
@@ -2631,32 +2546,40 @@
       },
       {
         "store": "homedepot",
-        "name": "SOPORTE ONEARM 24 - 65",
-        "url": "https://www.homedepot.com.mx/p/commercial-electric-soporte-onearm-24-65-ceo50-241379",
-        "price": 447.0,
-        "model": "241379"
+        "name": "CARGADOR 65W 3 EN 1 CARGA RÁPIDA 2 TIPO C Y 1 USB CON CABLE TIPO C 2M GAR322 1HORA",
+        "url": "https://www.homedepot.com.mx/p/1hora-cargador-65w-3-en-1-carga-rapida-2-tipo-c-y-1-usb-con-cable-tipo-c-2m-gar322-1hora-gar322-232884",
+        "price": 415.0,
+        "model": "232884"
       }
     ]
   },
   "liverpool|65QNED9MASA": {
-    "ts": "2026-06-24T09:50:07.809476+00:00",
-    "items": []
+    "ts": "2026-06-26T09:57:33.208695+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart TV LG QNED de 65 pulgadas 4K 65QNED9MASA con evo AI True Wireless",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/1178739324",
+        "price": 17999.1,
+        "model": "65QNED9MASA"
+      }
+    ]
   },
   "amazon|65QNED9MASA": {
-    "ts": "2026-06-24T09:50:10.233252+00:00",
+    "ts": "2026-06-26T09:57:36.089315+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
-        "price": 11995.0,
-        "model": "65QNED83ASG"
+        "name": "LG Pantalla 65 Pulgadas QNED EVO AI QNED92 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G5QVMSRH",
+        "price": 10499.0,
+        "model": "QNED92"
       },
       {
         "store": "amazon",
         "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
         "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
-        "price": 22658.0,
+        "price": 23999.0,
         "model": "OLE65C5PSA"
       },
       {
@@ -2668,6 +2591,13 @@
       },
       {
         "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
+        "price": 11995.0,
+        "model": "65QNED83ASG"
+      },
+      {
+        "store": "amazon",
         "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
         "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
         "price": 680.0,
@@ -2676,112 +2606,15 @@
     ]
   },
   "walmart|65QNED9MASA": {
-    "ts": "2026-06-24T09:50:13.360903+00:00",
+    "ts": "2026-06-26T09:57:45.474414+00:00",
     "items": []
   },
   "sams|65QNED9MASA": {
-    "ts": "2026-06-24T09:50:16.757843+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Pantalla LG  65\" QNED Smart TV AI 4K 65QNED70ASA",
-        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-qned-smart-tv-ai-4k-65qned70asa/981039551",
-        "price": 11250.95,
-        "model": "65QNED70ASA"
-      }
-    ]
-  },
-  "palacio|50NU850BPSA": {
-    "ts": "2026-06-24T09:50:21.904861+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado Lavadora Eléctrica y Secadora Gas Natural Frontal 22 Kg Inox",
-        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-lavadora-electrica-y-secadora-gas-natural-frontal-22-kg-inox-43441683.html",
-        "price": 29204.45,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-        "price": 26125.0,
-        "model": "WM25VFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
-        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
-        "price": 38759.49,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Horno Freidora de Aire RJ50-SS-M18-MX 18 L Plateado",
-        "url": "https://www.elpalaciodehierro.com/chefman-horno-freidora-de-aire-rj50-ss-m18-mx-18-l-plateado-43863266.html",
-        "price": 2239.3,
-        "model": "RJ50-SS-M18-MX"
-      },
-      {
-        "store": "palacio",
-        "name": "Hervidor de temperatura variable 50's Style en acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-50s-style-en-acero-inoxidable-39326958.html",
-        "price": 4046.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
-        "price": 18998.7,
-        "model": "QN55QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
-        "price": 30744.35,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Horno de Microondas Empotrable en acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/smeg-horno-de-microondas-empotrable-en-acero-inoxidable-42559602.html",
-        "price": 28275.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Caja 60 bolsas para basura 45 - 50 L",
-        "url": "https://www.elpalaciodehierro.com/simplehuman-caja-60-bolsas-para-basura-45---50-l-44913830.html",
-        "price": 503.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Humidificador MK500 blanco",
-        "url": "https://www.elpalaciodehierro.com/beurer-humidificador-mk500-blanco-44941155.html",
-        "price": 10791.0,
-        "model": "MK500"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
-        "price": 19999.0,
-        "model": "QN90F"
-      },
-      {
-        "store": "palacio",
-        "name": "Aspiradora Sin Cable Stick Samsung 85, Negro",
-        "url": "https://www.elpalaciodehierro.com/samsung-aspiradora-sin-cable-stick-samsung-85-negro-43793372.html",
-        "price": 9779.4,
-        "model": null
-      }
-    ]
+    "ts": "2026-06-26T09:57:53.549540+00:00",
+    "items": []
   },
   "homedepot|UNIORANGEUNIORANGESECADORACABELLOOHD": {
-    "ts": "2026-06-24T09:50:23.868404+00:00",
+    "ts": "2026-06-26T09:57:58.470779+00:00",
     "items": [
       {
         "store": "homedepot",
@@ -2800,13 +2633,13 @@
     ]
   },
   "palacio|UNIORANGEUNIORANGESECADORACABELLOOHD": {
-    "ts": "2026-06-24T09:50:24.107743+00:00",
+    "ts": "2026-06-26T09:57:58.699032+00:00",
     "items": [
       {
         "store": "palacio",
-        "name": "Tratamiento, Full Thickening Cream, 109 ml",
-        "url": "https://www.elpalaciodehierro.com/living-proof-tratamiento-full-thickening-cream-109-ml-39373751.html",
-        "price": 700.0,
+        "name": "Tratamiento Capilar Deep Damage, 320 ml",
+        "url": "https://www.elpalaciodehierro.com/unove-tratamiento-capilar-deep-damage-320-ml-45484517.html",
+        "price": 510.0,
         "model": null
       },
       {
@@ -2814,6 +2647,27 @@
         "name": "Suero capilar 00.06, 30 ml",
         "url": "https://www.elpalaciodehierro.com/midnight-00.00-suero-capilar-00.06-30-ml-43178688.html",
         "price": 710.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tratamiento capilar In-shower styler, 148 ml",
+        "url": "https://www.elpalaciodehierro.com/living-proof-tratamiento-capilar-in-shower-styler-148-ml-39373807.html",
+        "price": 640.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tinte permanente para cabello Seacolor 3 Castano Oscuro, 200 ml",
+        "url": "https://www.elpalaciodehierro.com/phytoblue-tinte-permanente-para-cabello-seacolor-3-castano-oscuro-200-ml-43845802.html",
+        "price": 535.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tratamiento Esencia capilar para rizos Volume Up Cruling, 147 ml",
+        "url": "https://www.elpalaciodehierro.com/unove-tratamiento-esencia-capilar-para-rizos-volume-up-cruling-147-ml-45484521.html",
+        "price": 340.0,
         "model": null
       },
       {
@@ -2832,23 +2686,9 @@
       },
       {
         "store": "palacio",
-        "name": "Acondicionador N° 5 Bond Maintenance, 100 ml",
-        "url": "https://www.elpalaciodehierro.com/olaplex-acondicionador-n-5-bond-maintenance-100-ml-44099854.html",
-        "price": 358.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
         "name": "Defensa Perfect, 225 ml",
         "url": "https://www.elpalaciodehierro.com/moroccanoil-defensa-perfect-225-ml-44124015.html",
         "price": 775.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Acondicionador sin enjuague para el cabello All in One, 160 ml",
-        "url": "https://www.elpalaciodehierro.com/moroccanoil-acondicionador-sin-enjuague-para-el-cabello-all-in-one-160-ml-44124007.html",
-        "price": 780.0,
         "model": null
       },
       {
@@ -2860,6 +2700,13 @@
       },
       {
         "store": "palacio",
+        "name": "Acondicionador N° 5 Bond Maintenance, 100 ml",
+        "url": "https://www.elpalaciodehierro.com/olaplex-acondicionador-n-5-bond-maintenance-100-ml-44099854.html",
+        "price": 358.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
         "name": "Tratamiento Violeta, 50 ml",
         "url": "https://www.elpalaciodehierro.com/moroccanoil-tratamiento-violeta-50-ml-44650419.html",
         "price": 885.0,
@@ -2867,29 +2714,15 @@
       },
       {
         "store": "palacio",
-        "name": "Tratamiento Capilar Deep Damage, 320 ml",
-        "url": "https://www.elpalaciodehierro.com/unove-tratamiento-capilar-deep-damage-320-ml-45484517.html",
-        "price": 510.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tratamiento capilar In-shower styler, 148 ml",
-        "url": "https://www.elpalaciodehierro.com/living-proof-tratamiento-capilar-in-shower-styler-148-ml-39373807.html",
-        "price": 640.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tinte permanente para cabello Seacolor 3 Castano Oscuro, 200 ml",
-        "url": "https://www.elpalaciodehierro.com/phytoblue-tinte-permanente-para-cabello-seacolor-3-castano-oscuro-200-ml-43845802.html",
-        "price": 535.0,
+        "name": "Acondicionador sin enjuague para el cabello All in One, 160 ml",
+        "url": "https://www.elpalaciodehierro.com/moroccanoil-acondicionador-sin-enjuague-para-el-cabello-all-in-one-160-ml-44124007.html",
+        "price": 780.0,
         "model": null
       }
     ]
   },
   "amazon|UNIORANGEUNIORANGESECADORACABELLOOHD": {
-    "ts": "2026-06-24T09:50:26.609595+00:00",
+    "ts": "2026-06-26T09:58:01.128855+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2897,13 +2730,6 @@
         "url": "https://www.amazon.com.mx/dp/B0DH14HQQG",
         "price": 1199.0,
         "model": "OHD-6"
-      },
-      {
-        "store": "amazon",
-        "name": "Secador de pelo Uniorange Secador de pelo de alta velocidad para mujeres/hombres, 110.000 RPM 1400 W 1 mil millones de negativos iónicos de secado rápido con 3 modos de soplado, ligero y portátil para",
-        "url": "https://www.amazon.com.mx/dp/B0FWC59TSQ",
-        "price": 801.46,
-        "model": null
       },
       {
         "store": "amazon",
@@ -2922,15 +2748,22 @@
       {
         "store": "amazon",
         "name": "Secador de pelo Uniorange Secador de pelo de alta velocidad para mujeres/hombres, 110.000 RPM 1400 W 1 mil millones de negativos iónicos de secado rápido con 3 modos de soplado, ligero y portátil para",
+        "url": "https://www.amazon.com.mx/dp/B0FWC59TSQ",
+        "price": 801.46,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Secador de pelo Uniorange Secador de pelo de alta velocidad para mujeres/hombres, 110.000 RPM 1400 W 1 mil millones de negativos iónicos de secado rápido con 3 modos de soplado, ligero y portátil para",
         "url": "https://www.amazon.com.mx/dp/B0FWC7VXXM",
         "price": 750.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "PRITECH - Secador de pelo iónico de alta velocidad con difusor, iones negativos de 200 m con aceite infundido soplado profesional, motor sin escobillas de 1500 W 5 veces de secado rápido, bajo ruido",
-        "url": "https://www.amazon.com.mx/dp/B0FH9XNG4D",
-        "price": 1106.86,
+        "name": "UNIORANGE Difusor magnético diseñado exclusivamente para secadores de pelo Uniorange, no compatible con otros modelos. Herramienta de peinado magnética profesional para cabello rizado y ondulado, anti",
+        "url": "https://www.amazon.com.mx/dp/B0GF8DNDLG",
+        "price": 295.87,
         "model": null
       },
       {
@@ -2942,10 +2775,10 @@
       },
       {
         "store": "amazon",
-        "name": "Difusor Secadora de Cabello 5 en 1, con Accesorios y Boquillas de 1,5 a 3,22 Pulgadas, Ajuste de Temperatur y Velocidad, para Peinados y Rizos sin Frizz (MORADO)",
-        "url": "https://www.amazon.com.mx/dp/B0FTZTJ1N8",
-        "price": 999.0,
-        "model": null
+        "name": "TAIFF | Secadora de Cabello Profesional 2000W Fox Ion TC | Secador con Tecnología Iónica de Turmalina y Cerámica con Motor AC de Larga Duración",
+        "url": "https://www.amazon.com.mx/dp/B0FN91SL12",
+        "price": 1669.0,
+        "model": "2000W"
       },
       {
         "store": "amazon",
@@ -2958,14 +2791,7 @@
         "store": "amazon",
         "name": "Revlon Salon One-Step Secadora y Estilizadora",
         "url": "https://www.amazon.com.mx/dp/B013HJEA4C",
-        "price": 555.88,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "8 en 1 Cepillo Secadora de Cabello Kit de Peinado, Multiestilizador de Cabello Alta Velocidad Iones Negativos con 6 Funciones y 8 Accesorios, Boquilla Plegable, Secadora para Todo Tipo de Cabello - Oro champán",
-        "url": "https://www.amazon.com.mx/dp/B0FR9CZDL8",
-        "price": 1899.99,
+        "price": 530.48,
         "model": null
       },
       {
@@ -2974,11 +2800,18 @@
         "url": "https://www.amazon.com.mx/dp/B07PMNLV98",
         "price": 482.24,
         "model": "1800W"
+      },
+      {
+        "store": "amazon",
+        "name": "Secador de Pelo Tideway de Alta Velocidad 110000 RPM – Secado Rápido, Ligero, de Bajo Ruido con Tecnología de Plasma para Salud del Cuero Cabelludo, Control Inteligente de Temperatura, 4 Niveles de Calor, Portátil para Casa, Viaje y Salón con Difusor Magnético – H11",
+        "url": "https://www.amazon.com.mx/dp/B0DPQ9DF4V",
+        "price": 1484.79,
+        "model": null
       }
     ]
   },
   "walmart|UNIORANGEUNIORANGESECADORACABELLOOHD": {
-    "ts": "2026-06-24T09:50:36.828764+00:00",
+    "ts": "2026-06-26T09:58:03.781368+00:00",
     "items": [
       {
         "store": "walmart",
@@ -2989,85 +2822,15 @@
       },
       {
         "store": "walmart",
-        "name": "Secadora de Pelo Profesional Osoji H8 2 Temperaturas 4 Niveles de Intensidad",
-        "url": "https://www.walmart.com.mx/ip/secadora-de-pelo-profesional-osoji-h8-2-temperaturas-4-niveles-de-intensidad/00697403114334?athbdg=L1300",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora de pelo Conair iónica turbo Mod. 256BES",
-        "url": "https://www.walmart.com.mx/ip/secadora-de-pelo-conair-ionica-turbo-mod-256bes/00007410823479",
-        "price": 717.0,
-        "model": "256BES"
-      },
-      {
-        "store": "walmart",
-        "name": "L'ange Hair Cepillo Secador de Pelo de Titanio 2 en 1 Le Volume, Cepillo de Aire Caliente con Rubor y Barril Ovalado",
-        "url": "https://www.walmart.com.mx/ip/l-ange-hair-cepillo-secador-de-pelo-de-titanio-2-en-1-le-volume-cepillo-de-aire-caliente-con-rubor-y-barril-ovalado/00081010819046",
-        "price": 764.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora Daewoo 1 pza",
-        "url": "https://www.walmart.com.mx/ip/secadora-daewoo-1-pza/00750091600770?athbdg=L1300",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Secadora Ceramica/Ionica Conair 888OES",
         "url": "https://www.walmart.com.mx/ip/secadora-ceramica-ionica-conair-888oes/00750572990291?athbdg=L1300",
         "price": 1599.0,
         "model": "888OES"
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora de Cabello Morada Revlon 1875W: Tecnología Iónica",
-        "url": "https://www.walmart.com.mx/ip/secadora-de-cabello-morada-revlon-1875w-tecnologia-ionica/00060584858588?athbdg=L1300",
-        "price": 949.0,
-        "model": "1875W"
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora Ionica Para Cabello Profesional",
-        "url": "https://www.walmart.com.mx/ip/secadora-ionica-para-cabello-profesional/00750304512843?athbdg=L6000",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora de PELO IONICA Conair MODERNO fucsia 1875 watts",
-        "url": "https://www.walmart.com.mx/ip/secadora-de-pelo-ionica-conair-moderno-fucsia-1875-watts/00007410822804",
-        "price": 644.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora De Cabello Revlon Control De Frizz + Iones 1875w Color Morado",
-        "url": "https://www.walmart.com.mx/ip/secadora-de-cabello-revlon-control-de-frizz-iones-1875w-color-morado/00750304447370",
-        "price": 999.0,
-        "model": "1875w"
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora Ionica Para Cabello Profesional",
-        "url": "https://www.walmart.com.mx/ip/secadora-ionica-para-cabello-profesional/00750304512844?athbdg=L6000",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora InfinitiPRO de Conair MOD 680ES",
-        "url": "https://www.walmart.com.mx/ip/secadora-infinitipro-de-conair-mod-680es/00750572906803?athbdg=L1300",
-        "price": 1309.0,
-        "model": "680ES"
       }
     ]
   },
   "sams|UNIORANGEUNIORANGESECADORACABELLOOHD": {
-    "ts": "2026-06-24T09:50:40.279991+00:00",
+    "ts": "2026-06-26T09:58:08.378265+00:00",
     "items": [
       {
         "store": "sams",
@@ -3099,114 +2862,27 @@
       }
     ]
   },
-  "homedepot|OLED65C6PSA": {
-    "ts": "2026-06-24T09:50:41.319200+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "PANTALLA LG OLED EVO 65 4K SMART TV CON THINQ AI OLED65C3PSA",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-lg-oled-evo-65-4k-smart-tv-con-thinq-ai-oled65c3psa-oled65c3psa-208456",
-        "price": 39799.0,
-        "model": "208456"
-      }
-    ]
-  },
-  "liverpool|OLED65C6PSA": {
-    "ts": "2026-06-24T09:50:42.230037+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG OLED 65 pulgadas 4K/UHD OLED65C6PSA con evo AI",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-OLED-65-pulgadas-4K/UHD-OLED65C6PSA-con-evo-AI/1199018180",
-        "price": 29999.4,
-        "model": "OLED65C6PSA"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG OLED 77 pulgadas 4K/UHD OLED77C6PSA con evo AI",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-OLED-77-pulgadas-4K/UHD-OLED77C6PSA-con-evo-AI/1199085049",
-        "price": 34999.25,
-        "model": "OLED77C6PSA"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG UHD de 55 pulgadas 4K/UHD 55UA8000PSB con AI webOs",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-UHD-de-55-pulgadas-4K/UHD-55UA8000PSB-con-AI-webOs/1189234437",
-        "price": 8332.22,
-        "model": "55UA8000PSB"
-      },
-      {
-        "store": "liverpool",
-        "name": "Proyector EPSON FLEX EF71",
-        "url": "https://liverpool.com.mx/tienda/pdp/Proyector-EPSON-FLEX-EF71/1197424300",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Control Universal para Apple TV Generación 1 2 3",
-        "url": "https://liverpool.com.mx/tienda/pdp/Control-Universal-para-Apple-TV-Generaci%C3%B3n-1-2-3/1110117899",
-        "price": 489.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Soporte Link Bits para pantalla portátil 32 - 65 pulgadas",
-        "url": "https://liverpool.com.mx/tienda/pdp/Soporte-Link-Bits-para-pantalla-port%C3%A1til-32---65-pulgadas/1183089877",
-        "price": 1099.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OLED65C6PSA": {
-    "ts": "2026-06-24T09:50:44.903988+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C6 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GW9G849H",
-        "price": 26949.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
-        "price": 22658.0,
-        "model": "OLE65C5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas OLED EVO AI G5 4K Smart TV webOS 2025 OLED65G5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2PRS52D",
-        "price": 34998.0,
-        "model": "OLED65G5PSA"
-      }
-    ]
-  },
-  "walmart|OLED65C6PSA": {
-    "ts": "2026-06-24T09:50:47.320636+00:00",
-    "items": []
-  },
-  "sams|OLED65C6PSA": {
-    "ts": "2026-06-24T09:50:50.338179+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Pantalla LG  65\" OLED AI Smart TV OLED65B6PSA",
-        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-oled-ai-smart-tv-oled65b6psa/981052378",
-        "price": 23526.95,
-        "model": "OLED65B6PSA"
-      }
-    ]
-  },
   "homedepot|MF200D125WBT": {
-    "ts": "2026-06-24T09:51:07.535357+00:00",
+    "ts": "2026-06-26T09:56:43.505112+00:00",
     "items": []
   },
   "palacio|MF200D125WBT": {
-    "ts": "2026-06-24T09:51:07.698724+00:00",
+    "ts": "2026-06-26T09:56:43.692312+00:00",
     "items": [
+      {
+        "store": "palacio",
+        "name": "Plancha de Vapor Ultragliss Plus con Suela Durilium Airglide Autoclean, Turquesa",
+        "url": "https://www.elpalaciodehierro.com/t-fal-plancha-de-vapor-ultragliss-plus-con-suela-durilium-airglide-autoclean-turquesa-44730896.html",
+        "price": 1919.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Botella de Tinta Negra Fotografica T555",
+        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-negra-fotografica-t555-42564621.html",
+        "price": 479.0,
+        "model": null
+      },
       {
         "store": "palacio",
         "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
@@ -3223,27 +2899,6 @@
       },
       {
         "store": "palacio",
-        "name": "Plancha de Vapor Ultragliss Plus con Suela Durilium Airglide Autoclean, Turquesa",
-        "url": "https://www.elpalaciodehierro.com/t-fal-plancha-de-vapor-ultragliss-plus-con-suela-durilium-airglide-autoclean-turquesa-44730896.html",
-        "price": 1919.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Hybrid 53",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488083.html",
-        "price": 24600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botella de Tinta Negra Fotografica T555",
-        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-negra-fotografica-t555-42564621.html",
-        "price": 479.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
         "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
         "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
         "price": 13329.38,
@@ -3251,8 +2906,15 @@
       },
       {
         "store": "palacio",
+        "name": "Maleta de viaje Original Cabin Plus Plateado",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-original-cabin-plus-plateado-42304635.html",
+        "price": 35300.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
         "name": "Maleta de viaje Hybrid 53",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488087.html",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488083.html",
         "price": 24600.0,
         "model": null
       },
@@ -3265,23 +2927,16 @@
       },
       {
         "store": "palacio",
+        "name": "Maleta de viaje Hybrid 53",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488087.html",
+        "price": 24600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
         "name": "Maleta de viaje para cabina Original negra",
         "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-para-cabina-original-negra-41277652.html",
         "price": 32800.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Original Cabin Plus Plateado",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-original-cabin-plus-plateado-42304635.html",
-        "price": 35300.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Original Cabin Twist",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-original-cabin-twist-44640222.html",
-        "price": 38100.0,
         "model": null
       },
       {
@@ -3290,15 +2945,22 @@
         "url": "https://www.elpalaciodehierro.com/rimowa-essential-lite-checkin-l-verde-brillante-44342462.html",
         "price": 19700.0,
         "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Munt 250 L RMA250PVMRP0",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-munt-250-l-rma250pvmrp0-45372625.html",
+        "price": 12999.0,
+        "model": "RMA250PVMRP0"
       }
     ]
   },
   "amazon|MF200D125WBT": {
-    "ts": "2026-06-24T09:51:09.515108+00:00",
+    "ts": "2026-06-26T09:56:45.996535+00:00",
     "items": []
   },
   "walmart|MF200D125WBT": {
-    "ts": "2026-06-24T09:51:21.856955+00:00",
+    "ts": "2026-06-26T09:56:58.118983+00:00",
     "items": [
       {
         "store": "walmart",
@@ -3309,6 +2971,20 @@
       },
       {
         "store": "walmart",
+        "name": "Pantimedia Preven-t para Mujer, Mediana Compresión Natural Bronce Talla G",
+        "url": "https://www.walmart.com.mx/ip/pantimedia-preven-t-para-mujer-mediana-compresion-natural-bronce-talla-g/00750102080429?athbdg=L1600",
+        "price": 248.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sartén de Cocina T-fal Essential B5750282M5 20 cm Negro",
+        "url": "https://www.walmart.com.mx/ip/sarten-de-cocina-t-fal-essential-b5750282m5-20-cm-negro/00750110833767?athbdg=L1600",
+        "price": 309.0,
+        "model": "B5750282M5"
+      },
+      {
+        "store": "walmart",
         "name": "Cafetera T-Fal Grand Café Grand Café para 14 TazasCM771D55",
         "url": "https://www.walmart.com.mx/ip/cafetera-t-fal-grand-cafe-grand-cafe-para-14-tazascm771d55/00001094222751?athbdg=L6000",
         "price": 890.0,
@@ -3316,113 +2992,71 @@
       },
       {
         "store": "walmart",
-        "name": "Pipetas antipulgas y garrapatas Fibrocare Antipulgas t garrapatas para perros medianos de hasta 10 kg 3 pzas",
-        "url": "https://www.walmart.com.mx/ip/pipetas-antipulgas-y-garrapatas-fibrocare-antipulgas-t-garrapatas-para-perros-medianos-de-hasta-10-kg-3-pzas/00750302409503",
-        "price": 175.0,
+        "name": "Tobimedias Preven-t para Mujer, Natural Bronce Talla M",
+        "url": "https://www.walmart.com.mx/ip/tobimedias-preven-t-para-mujer-natural-bronce-talla-m/00750030404311?athbdg=L6000",
+        "price": 118.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Pistola Calor 1560 W/13 A T. Variable 400C-550 Makita Hg5030 MAKITA HG5030",
-        "url": "https://www.walmart.com.mx/ip/pistola-calor-1560-w-13-a-t-variable-400c-550-makita-hg5030-makita-hg5030/00008838186067?athbdg=L1600",
-        "price": 1149.0,
-        "model": "400C-550"
+        "name": "Paquete de 2 Llantas 295/50 R15 105S Cooper COBRA RAD G/T 105S (P)",
+        "url": "https://www.walmart.com.mx/ip/paquete-de-2-llantas-295-50-r15-105s-cooper-cobra-rad-g-t-105s-p-/00046771521159?athbdg=L1300",
+        "price": 5629.0,
+        "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora T-fal InfinyForce XL Vidrio LN8208MX 10V Negra",
-        "url": "https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-vidrio-ln8208mx-10v-negra/00770207308208?athbdg=L6000",
-        "price": 744.0,
-        "model": "LN8208MX"
+        "name": "Plancha de Vapor T-fal Ultragliss Plus Wine FV6811X0",
+        "url": "https://www.walmart.com.mx/ip/plancha-de-vapor-t-fal-ultragliss-plus-wine-fv6811x0/00002310880770?athbdg=L1300",
+        "price": 1359.0,
+        "model": "FV6811X0"
       },
       {
         "store": "walmart",
-        "name": "Dinosaurio de Juguete Mattel Jurassic World Rebirth T-Rex Mordida Destructora",
-        "url": "https://www.walmart.com.mx/ip/dinosaurio-de-juguete-mattel-jurassic-world-rebirth-t-rex-mordida-destructora/00019473527064?athbdg=L1300",
-        "price": 1135.0,
+        "name": "Batería de 15 Piezas T-fal Antiadherente Color Negro",
+        "url": "https://www.walmart.com.mx/ip/bateria-de-15-piezas-t-fal-antiadherente-color-negro/00770207358192",
+        "price": 2499.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Pantimedia Preven-t para Mujer, Mediana Compresión Natural Bronce Talla CH",
         "url": "https://www.walmart.com.mx/ip/pantimedia-preven-t-para-mujer-mediana-compresion-natural-bronce-talla-ch/00750102080427?athbdg=L6000",
-        "price": 231.0,
+        "price": 248.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Tobimedias Preven-t para Mujer, Natural Bronce Talla G",
-        "url": "https://www.walmart.com.mx/ip/tobimedias-preven-t-para-mujer-natural-bronce-talla-g/00750030404317?athbdg=L6000",
-        "price": 110.0,
+        "name": "Pipetas antipulgas y garrapatas Fibrocare Antipulgas t garrapatas para perros grandes de hasta 20 kg 3 pzas",
+        "url": "https://www.walmart.com.mx/ip/pipetas-antipulgas-y-garrapatas-fibrocare-antipulgas-t-garrapatas-para-perros-grandes-de-hasta-20-kg-3-pzas/00750302409504",
+        "price": 185.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Sartén con Tapa T-fal Simply 16 cm Antiadherente Rojo",
-        "url": "https://www.walmart.com.mx/ip/sarten-con-tapa-t-fal-simply-16-cm-antiadherente-rojo/00770207302350?athbdg=L1600",
-        "price": 223.0,
+        "name": "Dinosaurio de Juguete Mattel Jurassic World Rebirth T-Rex Mordida Destructora",
+        "url": "https://www.walmart.com.mx/ip/dinosaurio-de-juguete-mattel-jurassic-world-rebirth-t-rex-mordida-destructora/00019473527064?athbdg=L1300",
+        "price": 979.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Plancha de Vapor T-fal Ultragliss Plus Wine FV6811X0",
-        "url": "https://www.walmart.com.mx/ip/plancha-de-vapor-t-fal-ultragliss-plus-wine-fv6811x0/00002310880770?athbdg=L6000",
-        "price": 1294.0,
-        "model": "FV6811X0"
-      },
-      {
-        "store": "walmart",
-        "name": "Paquete de 2 llantas 245/75 R16 111T Zmax  Terra Xplorer C2 A/T",
-        "url": "https://www.walmart.com.mx/ip/paquete-de-2-llantas-245-75-r16-111t-zmax-terra-xplorer-c2-a-t/00046333919532?athbdg=L1300",
-        "price": 4478.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "PAQUETE DE 2 LLANTAS 295 50 R15 COOPER COBRA RAD G/T 105S (P)",
-        "url": "https://www.walmart.com.mx/ip/paquete-de-2-llantas-295-50-r15-cooper-cobra-rad-g-t-105s-p-/00046053388776?athbdg=L1300",
-        "price": 5869.0,
+        "name": "Cuchara T-fal Passion de Nylon Negro",
+        "url": "https://www.walmart.com.mx/ip/cuchara-t-fal-passion-de-nylon-negro/00316843032131?athbdg=L6000",
+        "price": 40.0,
         "model": null
       }
     ]
   },
   "sams|MF200D125WBT": {
-    "ts": "2026-06-24T09:51:25.683944+00:00",
+    "ts": "2026-06-26T09:57:04.336687+00:00",
     "items": [
-      {
-        "store": "sams",
-        "name": "T-Bone Choice de Res St. Helens  0.31 - 0.41 kg",
-        "url": "https://www.sams.com.mx/ip/t-bone-choice-de-res-st-helens-0-31-0-41-kg/981030506",
-        "price": 297.8,
-        "model": null
-      },
       {
         "store": "sams",
         "name": "Plancha T-Fal  Ultragliss Plus",
         "url": "https://www.sams.com.mx/ip/plancha-t-fal-ultragliss-plus/981032051",
         "price": 1327.85,
         "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 912.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Batería de Cocina T-fal  Gris 18 pzas",
-        "url": "https://www.sams.com.mx/ip/bateria-de-cocina-t-fal-gris-18-pzas/981041993",
-        "price": 2555.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Generador de Vapor T-fal  Express Easy SV6114X0",
-        "url": "https://www.sams.com.mx/ip/generador-de-vapor-t-fal-express-easy-sv6114x0/981050798",
-        "price": 2043.94,
-        "model": "SV6114X0"
       },
       {
         "store": "sams",
@@ -3440,371 +3074,66 @@
       },
       {
         "store": "sams",
-        "name": "Smartphone Oppo  A5 256 GB Blanco AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-oppo-a5-256-gb-blanco-at-t/981040392",
-        "price": 4602.45,
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 2964.65,
         "model": null
       },
       {
         "store": "sams",
-        "name": "Barra de Sonido Alienpro  Integrada 2.1 T-1000V2",
-        "url": "https://www.sams.com.mx/ip/barra-de-sonido-alienpro-integrada-2-1-t-1000v2/981041981",
-        "price": 2249.56,
-        "model": "T-1000V2"
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 256 GB Negro AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-256-gb-negro-at-t/981032915",
-        "price": 7159.97,
+        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
+        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
+        "price": 912.51,
         "model": null
       },
       {
         "store": "sams",
-        "name": "Smartphone ZTE  Blade V70 Max 256 GB Verde AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-zte-blade-v70-max-256-gb-verde-at-t/981039220",
+        "name": "Set de Sartenes T-fal  Antiadherentes 2 pzas ",
+        "url": "https://www.sams.com.mx/ip/set-de-sartenes-t-fal-antiadherentes-2-pzas/981049925",
+        "price": 1020.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador de Vapor T-fal  Express Easy SV6114X0",
+        "url": "https://www.sams.com.mx/ip/generador-de-vapor-t-fal-express-easy-sv6114x0/981050798",
+        "price": 2043.94,
+        "model": "SV6114X0"
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Oppo  A38 128 GB Dorado AT&T",
+        "url": "https://www.sams.com.mx/ip/smartphone-oppo-a38-128-gb-dorado-at-t/981013147",
+        "price": 3579.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Apple  128 GB Negro AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-at-t/981015021",
+        "price": 13603.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Honor  X6A 128 GB Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/smartphone-honor-x6a-128-gb-azul-at-t/981017649",
         "price": 3067.96,
         "model": null
       },
       {
         "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Azul AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-at-t/981040143",
-        "price": 9205.96,
+        "name": "Smartphone Oppo  A79 256 GB Negro AT&T",
+        "url": "https://www.sams.com.mx/ip/smartphone-oppo-a79-256-gb-negro-at-t/981020010",
+        "price": 7666.34,
         "model": null
-      }
-    ]
-  },
-  "homedepot|AR50F24D1BHAX": {
-    "ts": "2026-06-24T09:51:44.219720+00:00",
-    "items": []
-  },
-  "palacio|AR50F24D1BHAX": {
-    "ts": "2026-06-24T09:51:44.418813+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 21,000 BTU's, 2 Toneladas 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-21000-btus-2-toneladas-220v-frio-45305635.html",
-        "price": 12179.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
-        "price": 7133.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit BIG Inverter SW362H8 Enfriamiento 33,000 BTU-h, Calefacción 29,000 BTU-h 3 Toneladas 220V",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-big-inverter-sw362h8%C2%A0enfriamiento-33000-btu-h-calefaccion-29000-btu-h-3-toneladas-220v-40338133.html",
-        "price": 33799.35,
-        "model": "SW362H8"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 9999.5,
-        "model": "VM122C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
-        "price": 12999.35,
-        "model": "VM121C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
-        "price": 12749.5,
-        "model": "VM182C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter 18,000 BTU, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-18000-btu-220v-frio-44531360.html",
-        "price": 14963.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
-        "price": 11699.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
-        "price": 9279.2,
-        "model": "AP12CWN2"
-      },
-      {
-        "store": "palacio",
-        "name": "Pendientes de Aro Mujer",
-        "url": "https://www.elpalaciodehierro.com/aristocrazy-pendientes-de-aro-mujer-43949023.html",
-        "price": 2640.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter Boost, 18,000 BTU, 220V Frio-Calor",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-boost-18000-btu-220v-frio-calor-44531359.html",
-        "price": 16007.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242C9 22,000 BTU-h 2 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242c9-22000-btu-h-2-toneladas-220v-solo-frio-40785873.html",
-        "price": 19499.35,
-        "model": "VM242C9"
-      }
-    ]
-  },
-  "amazon|AR50F24D1BHAX": {
-    "ts": "2026-06-24T09:51:46.461431+00:00",
-    "items": []
-  },
-  "walmart|AR50F24D1BHAX": {
-    "ts": "2026-06-24T09:51:50.207725+00:00",
-    "items": []
-  },
-  "sams|AR50F24D1BHAX": {
-    "ts": "2026-06-24T09:51:52.817962+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Aspiradora Robot Samsung  PowerBot-E VR05R5050WK/AX",
-        "url": "https://www.sams.com.mx/ip/aspiradora-robot-samsung-powerbot-e-vr05r5050wk-ax/981022014",
-        "price": 4602.48,
-        "model": "VR05R5050WK/AX"
       },
       {
         "store": "sams",
-        "name": "Aspiradora Samsung Bespoke AI Jet Ultra VS90F40DBG/AX",
-        "url": "https://www.sams.com.mx/ip/aspiradora-samsung-bespoke-ai-jet-ultra-vs90f40dbg-ax/981042481",
-        "price": 17696.88,
-        "model": "VS90F40DBG/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Lavadora Samsung  21 kg Carga Superior Negro WA21A3344GV/AX",
-        "url": "https://www.sams.com.mx/ip/lavadora-samsung-21-kg-carga-superior-negro-wa21a3344gv-ax/981000639",
-        "price": 10433.58,
-        "model": "WA21A3344GV/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Estufa de Piso Samsung 30 pulgadas Silver con Capelo NX52T5411MS/AX",
-        "url": "https://www.sams.com.mx/ip/estufa-de-piso-samsung-30-pulgadas-silver-con-capelo-nx52t5411ms-ax/981012588",
-        "price": 11661.18,
-        "model": "NX52T5411MS/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
-        "price": 22199.1,
-        "model": "WD22T6300GP/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora Samsung Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GV/AX",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gv-ax/980040058",
-        "price": 25778.58,
-        "model": "WD22T6300GV/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg WF22C6400AP/AX",
-        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-wf22c6400ap-ax/981011469",
-        "price": 25061.45,
-        "model": "WF22C6400AP/AX"
-      }
-    ]
-  },
-  "amazon|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-06-24T09:51:55.219030+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 256GB - Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNCVCKW",
-        "price": 5929.36,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 256GB, Rojo - (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNCD8MT",
-        "price": 6129.36,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 17e (256 GB) - Negro",
-        "url": "https://www.amazon.com.mx/dp/B0GQVJL6RT",
-        "price": 14702.0,
+        "name": "Smartphone Honor  X8B 256 GB Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-256-gb-azul-at-t/981018004",
+        "price": 7159.97,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
-        "price": 7953.1,
-        "model": "128GBNegroDesbloqueado"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 256GB, Rosa (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNWB9LL",
-        "price": 6479.36,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "iPhone 17 256 GB:Pantalla de 6.3 Pulgadas con Promotion,Chip A19,cámara Frontal Center Stage para Selfies grupales más Inteligentes,Mayor Resistencia a los rayones,Solo eSIM;Salvia",
-        "url": "https://www.amazon.com.mx/dp/B0FQFBWMXB",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 256GB, Grafito (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09PWT7BZY",
-        "price": 6249.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 256GB, Azul Pacifico (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNHB9L7",
-        "price": 6199.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 256GB, Plata (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNN7397",
-        "price": 6379.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 256GB, Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNVVX47",
-        "price": 5313.4,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 (256 GB) - Negro",
-        "url": "https://www.amazon.com.mx/dp/B0CHXDLGFS",
-        "price": 16929.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - iPhone XS, 256GB, gris espacial - Totalmente desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B07TJBCC7H",
-        "price": 4063.36,
-        "model": "256GB"
-      }
-    ]
-  },
-  "walmart|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-06-24T09:51:59.466234+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone Air 256 GB Azul Cielo",
-        "url": "https://www.walmart.com.mx/ip/iphone-air-256-gb-azul-cielo/00019595062141?athbdg=L1300",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone APPLE IPHONE 16 256GB BLACK",
-        "url": "https://www.walmart.com.mx/ip/smartphone-apple-iphone-16-256gb-black/00019594982460",
-        "price": 19699.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L6000",
-        "price": 14999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 16E (256 GB) - Negro",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16e-256-gb-negro/00019595005127?athbdg=L1300",
-        "price": 14559.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone Air 256 GB Negro Espacial eSIM",
-        "url": "https://www.walmart.com.mx/ip/iphone-air-256-gb-negro-espacial-esim/00019595062129?athbdg=L1300",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17e 256GB Blanco eSIM",
-        "url": "https://www.walmart.com.mx/ip/iphone-17e-256gb-blanco-esim/00019595103023?athbdg=L6000",
-        "price": 19999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17e 256GB Rosa eSIM",
-        "url": "https://www.walmart.com.mx/ip/iphone-17e-256gb-rosa-esim/00019595103019?athbdg=L6000",
-        "price": 19999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256GB Blanco",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-blanco/00890319217993?athbdg=L1300",
-        "price": 18999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256GB Lavanda",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-lavanda/00890698869430?athbdg=L1300",
-        "price": 18999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 16 256 GB Verde Azulado 6.1 pulgadas 5000 mah 63 MP",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-256-gb-verde-azulado-6-1-pulgadas-5000-mah-63-mp/00019594982351?athbdg=L1300",
-        "price": 17599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 Pro Max eSIM 256 GB - Plata",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-pro-max-esim-256-gb-plata/00694630256852?athbdg=L1300",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
       }
     ]
   },
@@ -7853,6 +7182,1310 @@
         "name": "Pantufla para Dama Stahl  Color Rosa Talla 23",
         "url": "https://www.sams.com.mx/ip/pantufla-para-dama-stahl-color-rosa-talla-23/981045251",
         "price": 561.61,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|MD500D230W": {
+    "ts": "2026-06-26T09:57:13.377679+00:00",
+    "items": []
+  },
+  "palacio|MD500D230W": {
+    "ts": "2026-06-26T09:57:13.575388+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
+        "price": 12737.34,
+        "model": "RMA300FZMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Essential Lite Cabin Ivory",
+        "url": "https://www.elpalaciodehierro.com/rimowa-essential-lite-cabin-ivory-43695538.html",
+        "price": 15600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de Viaje Essential Cabin Rosa",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-essential-cabin-rosa-44640153.html",
+        "price": 20800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido largo estampado Mujer",
+        "url": "https://www.elpalaciodehierro.com/maje-vestido-largo-estampado-mujer-45496263.html",
+        "price": 11590.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Essential Cabin Plus",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-essential-cabin-plus-45056904.html",
+        "price": 22890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Original de cabina",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-original-de-cabina-44870194.html",
+        "price": 32800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sticker Miami para Maleta Rígida",
+        "url": "https://www.elpalaciodehierro.com/rimowa-sticker-miami-para-maleta-rigida-41277568.html",
+        "price": 300.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta Rígida para Cabina Original plata",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-rigida-para-cabina-original-plata-41277611.html",
+        "price": 32800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Original Cabin Plus Plateado",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-original-cabin-plus-plateado-42304635.html",
+        "price": 35300.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Hybrid 53",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488083.html",
+        "price": 24600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
+        "price": 10361.34,
+        "model": "RMA300FXMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Maleta de viaje Essential Sleeve Cabin Matte Black",
+        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-essential-sleeve-cabin-matte-black-43695542.html",
+        "price": 25300.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|MD500D230W": {
+    "ts": "2026-06-26T09:57:15.446668+00:00",
+    "items": []
+  },
+  "walmart|MD500D230W": {
+    "ts": "2026-06-26T09:57:21.249388+00:00",
+    "items": []
+  },
+  "sams|MD500D230W": {
+    "ts": "2026-06-26T09:57:25.782814+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Subwoofer Inalámbrico Denom  Home 10 W",
+        "url": "https://www.sams.com.mx/ip/subwoofer-inalambrico-denom-home-10-w/981031329",
+        "price": 24550.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Waflera Doble Gutstark  Eléctrica 2000 W",
+        "url": "https://www.sams.com.mx/ip/waflera-doble-gutstark-electrica-2000-w/981023134",
+        "price": 4397.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  3400 W  208 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-3400-w-208-cc/000176891",
+        "price": 8950.22,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  5400 W 420 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-5400-w-420-cc/000158187",
+        "price": 14320.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Semiautomática 19 kg MT100W190/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-19-kg-mt100w190-w-mx/981052252",
+        "price": 5499.0,
+        "model": "MT100W190/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora MIDEA  Semiautomática 22 kg MT100W220/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-22-kg-mt100w220-w-mx/981052253",
+        "price": 7999.0,
+        "model": "MT100W220/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  Luz Fría 13.5 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-luz-fria-13-5-w-6-pzas/981019537",
+        "price": 152.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Focos LED Member's Mark  8.5 W Luz Blanca  con 10 pzas",
+        "url": "https://www.sams.com.mx/ip/focos-led-member-s-mark-8-5-w-luz-blanca-con-10-pzas/980028087",
+        "price": 142.18,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sistema de Audio Lineal Alienpro  Vector de 15 Pulgadas 450 W RMS",
+        "url": "https://www.sams.com.mx/ip/sistema-de-audio-lineal-alienpro-vector-de-15-pulgadas-450-w-rms/980003896",
+        "price": 11251.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Adaptador de corriente Duo Samsung  de 50 W con cable USB C Negro",
+        "url": "https://www.sams.com.mx/ip/adaptador-de-corriente-duo-samsung-de-50-w-con-cable-usb-c-negro/981036995",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  de Alta Potencia Luz Fría 22 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-de-alta-potencia-luz-fria-22-w-6-pzas/981033368",
+        "price": 285.41,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|SS151": {
+    "ts": "2026-06-26T09:57:54.096335+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "EXTRACTOR DE NUTRIENTES NINJA FOODI SS101",
+        "url": "https://www.homedepot.com.mx/p/ninja-extractor-de-nutrientes-ninja-foodi-ss101-ss101-201232",
+        "price": 4899.0,
+        "model": "201232"
+      }
+    ]
+  },
+  "palacio|SS151": {
+    "ts": "2026-06-26T09:57:54.275354+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Prospex SLA053",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-luxe-prospex-sla053-43565434.html",
+        "price": 77999.0,
+        "model": "SLA053"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Prospex SRPE05",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-prospex-srpe05-43333961.html",
+        "price": 7249.5,
+        "model": "SRPE05"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Prospex SRPE37",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-prospex-srpe37-43333964.html",
+        "price": 13049.1,
+        "model": "SRPE37"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Coutura SRWZ24",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-coutura-srwz24-43334004.html",
+        "price": 12599.1,
+        "model": "SRWZ24"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Astron SSH127",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-luxe-astron-ssh127-43565411.html",
+        "price": 58499.0,
+        "model": "SSH127"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Astron SSH139",
+        "url": "https://www.elpalaciodehierro.com/seiko-luxe-reloj-seiko-luxe-astron-ssh139-44115743.html",
+        "price": 68199.0,
+        "model": "SSH139"
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido largo fantasía Mujer",
+        "url": "https://www.elpalaciodehierro.com/sess%C3%B9n-vestido-largo-fantasia-mujer-45398997.html",
+        "price": 8090.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Blusa tejido de cable verde esmeralda cuello redondo con abertura Mujer",
+        "url": "https://www.elpalaciodehierro.com/julio-blusa-tejido-de-cable-verde-esmeralda-cuello-redondo-con-abertura-mujer-45411670.html",
+        "price": 1199.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pendientes en forma de cisne con zirconia Swarovski Swan Mujer",
+        "url": "https://www.elpalaciodehierro.com/swarovski-pendientes-en-forma-de-cisne-con-zirconia-swarovski-swan-mujer-44713162.html",
+        "price": 4990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Presage SRPK46",
+        "url": "https://www.elpalaciodehierro.com/seiko-reloj-seiko-presage-srpk46-43662530.html",
+        "price": 12059.1,
+        "model": "SRPK46"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans Recto liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/sess%C3%B9n-jeans-recto-liso-mujer-45211908.html",
+        "price": 5112.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Seiko Luxe Prospex SNR025",
+        "url": "https://www.elpalaciodehierro.com/seiko-luxe-reloj-seiko-luxe-prospex-snr025-43565437.html",
+        "price": 133999.0,
+        "model": "SNR025"
+      }
+    ]
+  },
+  "homedepot|WD18T6000GPAX": {
+    "ts": "2026-06-26T09:59:37.170201+00:00",
+    "items": []
+  },
+  "palacio|WD18T6000GPAX": {
+    "ts": "2026-06-26T09:59:37.383931+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
+        "price": 32239.48,
+        "model": "WD26FB8690BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 26 kg, 15 kg Carga Frontal WD26DB8995BZAX",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-carga-frontal-wd26db8995bzax-44065380.html",
+        "price": 37907.48,
+        "model": "WD26DB8995BZAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Decantador de cristal",
+        "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
+        "price": 1799.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mouse Gaming Aerox 3 Onyx Negro",
+        "url": "https://www.elpalaciodehierro.com/steelseries-mouse-gaming-aerox-3-onyx-negro-44151846.html",
+        "price": 1399.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
+        "price": 9015.54,
+        "model": "8MWTW1824WJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 18 p3 WT1818A",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
+        "price": 12918.6,
+        "model": "WT1818A"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door Xpert Inverter 31p3",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html",
+        "price": 25345.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
+        "price": 14429.35,
+        "model": "WD13FG6B34BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
+        "price": 29605.31,
+        "model": "WD20WV26R"
+      },
+      {
+        "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
+      },
+      {
+        "store": "palacio",
+        "name": "Lav carga superior 18 Kg Xpert Dual Wash",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lav-carga-superior-18-kg-xpert-dual-wash-43127039.html",
+        "price": 13199.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 31958.47,
+        "model": "WD22BV2S6R"
+      }
+    ]
+  },
+  "amazon|WD18T6000GPAX": {
+    "ts": "2026-06-26T09:59:40.368426+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Contrapeso Superior DC67-01120A Para Lavadora Samsung",
+        "url": "https://www.amazon.com.mx/dp/B0FWT6K33T",
+        "price": 1700.0,
+        "model": "DC67-01120A"
+      },
+      {
+        "store": "amazon",
+        "name": "Contrapeso DC67-01094A Para Lavadora Samsung",
+        "url": "https://www.amazon.com.mx/dp/B0FWT6Q26M",
+        "price": 1500.0,
+        "model": "DC67-01094A"
+      },
+      {
+        "store": "amazon",
+        "name": "Tarjeta Inverter DC92-02515D para Lavadora Samsung",
+        "url": "https://www.amazon.com.mx/dp/B0FXYCZ4L9",
+        "price": 1459.0,
+        "model": "DC92-02515D"
+      }
+    ]
+  },
+  "walmart|WD18T6000GPAX": {
+    "ts": "2026-06-26T09:59:42.434067+00:00",
+    "items": []
+  },
+  "sams|WD18T6000GPAX": {
+    "ts": "2026-06-26T09:59:51.722135+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Aspiradora Robot Samsung  PowerBot-E VR05R5050WK/AX",
+        "url": "https://www.sams.com.mx/ip/aspiradora-robot-samsung-powerbot-e-vr05r5050wk-ax/981022014",
+        "price": 4602.48,
+        "model": "VR05R5050WK/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Aspiradora Samsung Bespoke AI Jet Ultra VS90F40DBG/AX",
+        "url": "https://www.sams.com.mx/ip/aspiradora-samsung-bespoke-ai-jet-ultra-vs90f40dbg-ax/981042481",
+        "price": 17696.88,
+        "model": "VS90F40DBG/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Estufa de Piso Samsung 30 pulgadas Silver con Capelo NX52T5411MS/AX",
+        "url": "https://www.sams.com.mx/ip/estufa-de-piso-samsung-30-pulgadas-silver-con-capelo-nx52t5411ms-ax/981012588",
+        "price": 11661.18,
+        "model": "NX52T5411MS/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Samsung  21 kg Carga Superior Negro WA21A3344GV/AX",
+        "url": "https://www.sams.com.mx/ip/lavadora-samsung-21-kg-carga-superior-negro-wa21a3344gv-ax/981000639",
+        "price": 10433.58,
+        "model": "WA21A3344GV/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Samsung Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GV/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gv-ax/980040058",
+        "price": 25778.58,
+        "model": "WD22T6300GV/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
+        "price": 22199.1,
+        "model": "WD22T6300GP/AX"
+      }
+    ]
+  },
+  "homedepot|SMG47N5MSBAB0": {
+    "ts": "2026-06-26T10:00:19.854004+00:00",
+    "items": []
+  },
+  "palacio|SMG47N5MSBAB0": {
+    "ts": "2026-06-26T10:00:20.024752+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana Crystal 4K UN43U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-crystal-4k-un43u8500hfxzx-45366537.html",
+        "price": 6320.67,
+        "model": "UN43U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
+        "price": 9427.44,
+        "model": "UN55U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Gamer 57 Pulgadas Curvo DUHD Odyssey G9 LS57CG950NLXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-57-pulgadas-curvo-duhd-odyssey-g9-ls57cg950nlxzx-43978872.html",
+        "price": 39999.2,
+        "model": "LS57CG950NLXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Molino de café CGF02SSUS plateado",
+        "url": "https://www.elpalaciodehierro.com/smeg-molino-de-cafe-cgf02ssus-plateado-45357686.html",
+        "price": 4823.0,
+        "model": "CGF02SSUS"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
+        "price": 18998.7,
+        "model": "QN55QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor 27 Pulgadas Oled QHD 27GX790A B AWM",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-27-pulgadas-oled-qhd-27gx790a-b-awm-45081045.html",
+        "price": 22499.1,
+        "model": "27GX790A"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Mono Puerta 9 p3 Crema",
+        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-mono-puerta-9-p3-crema-41025134.html",
+        "price": 35625.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cafetera semi automática Porsche para 6 tazas",
+        "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
+        "price": 39900.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cafetera Automatica para 6 Tazas blanca",
+        "url": "https://www.elpalaciodehierro.com/smeg-cafetera-automatica-para-6-tazas-blanca-43869638.html",
+        "price": 15393.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana QLED 4K QN65QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-qn65qn80hafxzx-45367268.html",
+        "price": 24999.1,
+        "model": "QN65QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 11 p3",
+        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-bottom-mount-11-p3-41962860.html",
+        "price": 59999.25,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SMG47N5MSBAB0": {
+    "ts": "2026-06-26T10:00:21.899559+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora Gas 6.2 Cuft, color Blanco - SMG26N5MNBAB0",
+        "url": "https://www.amazon.com.mx/dp/B01N2T9Y9S",
+        "price": 8094.0,
+        "model": "SMG26N5MNBAB0"
+      }
+    ]
+  },
+  "walmart|SMG47N5MSBAB0": {
+    "ts": "2026-06-26T10:00:28.412379+00:00",
+    "items": []
+  },
+  "sams|SMG47N5MSBAB0": {
+    "ts": "2026-06-26T10:00:35.032749+00:00",
+    "items": []
+  },
+  "homedepot|WK14WS6": {
+    "ts": "2026-06-26T10:01:03.983990+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "TORRE DE LAVADO LAVADORA14 KG Y SECADORA 10 KG",
+        "url": "https://www.homedepot.com.mx/p/lg-torre-de-lavado-lavadora14-kg-y-secadora-10-kg-wk14ws6-237721",
+        "price": 43999.0,
+        "model": "237721"
+      }
+    ]
+  },
+  "palacio|WK14WS6": {
+    "ts": "2026-06-26T10:01:04.146521+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica de Carga Frontal 14 Kg",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html",
+        "price": 14849.55,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 19p3 RT53DG6758S9EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html",
+        "price": 14429.35,
+        "model": "RT53DG6758S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
+        "price": 14429.35,
+        "model": "WD13FG6B34BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 Xpert Energy Saver",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-14-p3-xpert-energy-saver-45106913.html",
+        "price": 19499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 19 p3 RT53DG6798B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19-p3-rt53dg6798b1em-negro-43689720.html",
+        "price": 13919.42,
+        "model": "RT53DG6798B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40AWP Plateado",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40awp-plateado-41858782.html",
+        "price": 16047.32,
+        "model": "VT40AWP"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil Inverter LP1419IVSM 14,000 BTU’s, 1 Tonelada 115V Sólo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-inverter-lp1419ivsm-14000-btu%E2%80%99s-1-tonelada-115v-solo-frio-42341583.html",
+        "price": 13649.35,
+        "model": "LP1419IVSM"
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 12p3 Bespoke RB33A307012EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-bottom-mount-12p3-bespoke-rb33a307012em-45068401.html",
+        "price": 19359.45,
+        "model": "RB33A307012EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BBAX Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34bbax-negro-45208019.html",
+        "price": 14884.35,
+        "model": "WD13FG6B34BBAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11 p3 TMF RT31DG5724B1EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-11-p3-tmf-rt31dg5724b1em-45208022.html",
+        "price": 10724.35,
+        "model": "RT31DG5724B1EM"
+      }
+    ]
+  },
+  "amazon|WK14WS6": {
+    "ts": "2026-06-26T10:01:05.951018+00:00",
+    "items": []
+  },
+  "walmart|WK14WS6": {
+    "ts": "2026-06-26T10:01:17.192235+00:00",
+    "items": []
+  },
+  "sams|WK14WS6": {
+    "ts": "2026-06-26T10:01:36.980371+00:00",
+    "items": []
+  },
+  "homedepot|WK14BS6": {
+    "ts": "2026-06-26T10:02:04.763105+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "TORRE DE LAVADO LAVADORA 14 KG Y SECADORA 10 KG",
+        "url": "https://www.homedepot.com.mx/p/lg-torre-de-lavado-lavadora-14-kg-y-secadora-10-kg-wk14bs6-237723",
+        "price": 43999.0,
+        "model": "237723"
+      }
+    ]
+  },
+  "palacio|WK14BS6": {
+    "ts": "2026-06-26T10:02:04.958374+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
+        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
+        "price": 38759.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de microondas 1.1 pies MS32DG4504ATAX Plata",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-1.1-pies-ms32dg4504atax-plata-44047752.html",
+        "price": 2729.35,
+        "model": "MS32DG4504ATAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Convection 1.1 Pies MC32DG7646CKAX Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-convection-1.1-pies-mc32dg7646ckax-negro-44047754.html",
+        "price": 4809.35,
+        "model": "MC32DG7646CKAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Mochila para cómputo Kånken Unisex",
+        "url": "https://www.elpalaciodehierro.com/fjallraven-mochila-para-computo-kanken-unisex-45441731.html",
+        "price": 2146.52,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Router TL-WR802N",
+        "url": "https://www.elpalaciodehierro.com/tp-link-router-tl-wr802n-43071193.html",
+        "price": 629.0,
+        "model": "TL-WR802N"
+      },
+      {
+        "store": "palacio",
+        "name": "Mouse Gamer Rival 3 Negro",
+        "url": "https://www.elpalaciodehierro.com/steelseries-mouse-gamer-rival-3-negro-44151848.html",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mochila para cómputo Kånken Unisex",
+        "url": "https://www.elpalaciodehierro.com/fjallraven-mochila-para-computo-kanken-unisex-45333877.html",
+        "price": 3000.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mouse Gaming Aerox 3 Onyx Negro",
+        "url": "https://www.elpalaciodehierro.com/steelseries-mouse-gaming-aerox-3-onyx-negro-44151846.html",
+        "price": 1399.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Procesador de alimentos KFP0919LCU 2 velocidades plateado",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-procesador-de-alimentos-kfp0919lcu-2-velocidades-plateado-40489422.html",
+        "price": 2579.4,
+        "model": "KFP0919LCU"
+      },
+      {
+        "store": "palacio",
+        "name": "Mochila de computo Rog BP1501G Unisex",
+        "url": "https://www.elpalaciodehierro.com/asus-mochila-de-computo-rog-bp1501g-unisex-43471871.html",
+        "price": 799.2,
+        "model": "BP1501G"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Grill MG40DG5525AGAX 1.4 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-grill-mg40dg5525agax-1.4-p3-44047756.html",
+        "price": 3704.35,
+        "model": "MG40DG5525AGAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop Yoga Slim 7, 14\", Intel Core Ultra 5, RAM 32 GB, 512 GB SSD",
+        "url": "https://www.elpalaciodehierro.com/lenovo-laptop-yoga-slim-7-14-intel-core-ultra-5-ram-32-gb-512-gb-ssd-45353680.html",
+        "price": 24799.2,
+        "model": null
+      }
+    ]
+  },
+  "amazon|WK14BS6": {
+    "ts": "2026-06-26T10:02:06.978599+00:00",
+    "items": []
+  },
+  "walmart|WK14BS6": {
+    "ts": "2026-06-26T10:02:19.879780+00:00",
+    "items": []
+  },
+  "sams|WK14BS6": {
+    "ts": "2026-06-26T10:02:22.621487+00:00",
+    "items": []
+  },
+  "homedepot|SME47N8MSBBT0": {
+    "ts": "2026-06-26T10:02:26.941250+00:00",
+    "items": []
+  },
+  "palacio|SME47N8MSBBT0": {
+    "ts": "2026-06-26T10:02:27.118621+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana Crystal 4K UN43U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-crystal-4k-un43u8500hfxzx-45366537.html",
+        "price": 6320.67,
+        "model": "UN43U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 Pies Family Hub RS27T5561B1-EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-pies-family-hub-rs27t5561b1-em-44065378.html",
+        "price": 33233.42,
+        "model": "RS27T5561B1-EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de microondas empotrable plata",
+        "url": "https://www.elpalaciodehierro.com/smeg-horno-de-microondas-empotrable-plata-39954965.html",
+        "price": 12975.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Molino de café CGF02SSUS plateado",
+        "url": "https://www.elpalaciodehierro.com/smeg-molino-de-cafe-cgf02ssus-plateado-45357686.html",
+        "price": 4823.0,
+        "model": "CGF02SSUS"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Empotrable en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/smeg-horno-de-microondas-empotrable-en-acero-inoxidable-42559602.html",
+        "price": 28275.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
+        "price": 18998.7,
+        "model": "QN55QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Mono Puerta 9 p3 Crema",
+        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-mono-puerta-9-p3-crema-41025134.html",
+        "price": 35625.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cafetera semi automática Porsche para 6 tazas",
+        "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
+        "price": 39900.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11 p3 TMF RT31DG5724B1EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-11-p3-tmf-rt31dg5724b1em-45208022.html",
+        "price": 10724.35,
+        "model": "RT31DG5724B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas empotrable de 1.4 pies SO4301M1XK",
+        "url": "https://www.elpalaciodehierro.com/smeg-horno-de-microondas-empotrable-de-1.4-pies-so4301m1xk-43638280.html",
+        "price": 31800.0,
+        "model": "SO4301M1XK"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 11 p3",
+        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-bottom-mount-11-p3-41962860.html",
+        "price": 59999.25,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SME47N8MSBBT0": {
+    "ts": "2026-06-26T10:02:29.067474+00:00",
+    "items": []
+  },
+  "walmart|SME47N8MSBBT0": {
+    "ts": "2026-06-26T10:02:36.963748+00:00",
+    "items": []
+  },
+  "sams|SME47N8MSBBT0": {
+    "ts": "2026-06-26T10:02:38.955453+00:00",
+    "items": []
+  },
+  "homedepot|TW2W93200VT": {
+    "ts": "2026-06-26T10:03:10.825148+00:00",
+    "items": []
+  },
+  "palacio|TW2W93200VT": {
+    "ts": "2026-06-26T10:03:10.997224+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
+        "price": 26675.48,
+        "model": "RF32CG5411B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Eléctrico HLB 8400 FBK",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-electrico-hlb-8400-fbk-45498528.html",
+        "price": 21503.44,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Electrico en Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-electrico-en-acero-inoxidable-43181615.html",
+        "price": 31919.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 9 p3 Xpert Inverter",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-9-p3-xpert-inverter-45106915.html",
+        "price": 12599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 12p3 NF 346 SS acero",
+        "url": "https://www.elpalaciodehierro.com/teka-refrigerador-bottom-mount-12p3-nf-346-ss-acero-43383420.html",
+        "price": 17009.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
+        "price": 10361.34,
+        "model": "RMA300FXMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Eléctrico HLB84VG en Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-electrico-hlb84vg-en-acero-inoxidable-45498561.html",
+        "price": 21829.41,
+        "model": "HLB84VG"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 31958.47,
+        "model": "WD22BV2S6R"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para Hombre Casual, Negro",
+        "url": "https://www.elpalaciodehierro.com/tw-steel-reloj-para-hombre-casual-negro-44276011.html",
+        "price": 9990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para Hombre VS120 Volante Deportivo Negro, beige",
+        "url": "https://www.elpalaciodehierro.com/tw-steel-reloj-para-hombre-vs120-volante-deportivo-negro-beige-44274588.html",
+        "price": 10990.0,
+        "model": "VS120"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11 p3 TMF RT31DG5724B1EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-11-p3-tmf-rt31dg5724b1em-45208022.html",
+        "price": 10724.35,
+        "model": "RT31DG5724B1EM"
+      }
+    ]
+  },
+  "amazon|TW2W93200VT": {
+    "ts": "2026-06-26T10:03:13.039762+00:00",
+    "items": []
+  },
+  "walmart|TW2W93200VT": {
+    "ts": "2026-06-26T10:03:22.949716+00:00",
+    "items": []
+  },
+  "sams|TW2W93200VT": {
+    "ts": "2026-06-26T10:03:26.188861+00:00",
+    "items": []
+  },
+  "amazon|WT19WT6HKA": {
+    "ts": "2026-06-26T10:03:33.967224+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Switch Bloqueapuerta De Puerta Para Lavadora LG Ebf61674802 Original",
+        "url": "https://www.amazon.com.mx/dp/B0DCV29KGY",
+        "price": 533.0,
+        "model": "Ebf61674802"
+      },
+      {
+        "store": "amazon",
+        "name": "Bomba Drenado Completa Para Lavadora Lg Aha75673404 Original",
+        "url": "https://www.amazon.com.mx/dp/B0GBV3QS97",
+        "price": 790.0,
+        "model": "Aha75673404"
+      },
+      {
+        "store": "amazon",
+        "name": "Tarjeta Filtro Lavadora LG Original 6201ec2002v / 6201ec2002u",
+        "url": "https://www.amazon.com.mx/dp/B0D8XYYNPM",
+        "price": 602.99,
+        "model": "6201ec2002v"
+      }
+    ]
+  },
+  "walmart|WT19WT6HKA": {
+    "ts": "2026-06-26T10:03:54.965944+00:00",
+    "items": []
+  },
+  "sams|WT19WT6HKA": {
+    "ts": "2026-06-26T10:03:58.963212+00:00",
+    "items": []
+  },
+  "amazon|VELOCIBICICLETAVELOCIURBANARODADA": {
+    "ts": "2026-06-26T10:04:02.386305+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
+        "price": 4959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
+        "price": 2959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
+        "price": 4319.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodado 26 Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DXMQLBS3",
+        "price": 3039.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
+        "price": 4639.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
+        "price": 3695.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
+        "price": 2949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 26 Amarillo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VCJT7H",
+        "price": 3039.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETAVELOCIURBANARODADA": {
+    "ts": "2026-06-26T10:04:07.565958+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+        "price": 5699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
+        "price": 4779.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Hiperion Rodada 20 Gris Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-hiperion-rodada-20-gris-infantil/00750306181633?athbdg=L6000",
+        "price": 3508.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Madchen BMX Rodada 16 Rosa Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-madchen-bmx-rodada-16-rosa-infantil/00750305544782?athbdg=L1300",
+        "price": 2639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Lithium Rodada 12 Naranja Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-lithium-rodada-12-naranja-infantil/00750305357666?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-mujer-frenos-v-acero/00750230679184",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 26 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-rojo-de-montana/00750305714006?athbdg=L1300",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci TRX M/Rig Rodada 26 Amarillo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-trx-m-rig-rodada-26-amarillo-de-montana/00750305714010?athbdg=L1300",
+        "price": 2999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETAVELOCIURBANARODADA": {
+    "ts": "2026-06-26T10:04:14.111818+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
+        "price": 3577.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
+        "price": 5491.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Argent X3 125 2026 Plata",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-argent-x3-125-2026-plata/981041467",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Deus RT 125cc Rojo 2025",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-deus-rt-125cc-rojo-2025/981024246",
+        "price": 27619.97,
+        "model": "125cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Xeverus Evo Pro 330 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-evo-pro-330-rojo-2026/981043296",
+        "price": 40999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Argent x4 125 2026 Plata",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-argent-x4-125-2026-plata/981041507",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto Veloci  Hammer KX Force 200 2026 Gris",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-200-2026-gris/981041462",
+        "price": 48999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Rojo",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-rojo/981054204",
+        "price": 50499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Breakstorm Evo VO SP 330 Gris 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-breakstorm-evo-vo-sp-330-gris-2026/981043298",
+        "price": 42999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Novak Evo Sport 150cc Verde 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-novak-evo-sport-150cc-verde-2026/981042567",
+        "price": 20999.0,
+        "model": "150cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta Veloci  Draxter RX Sport 125 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-draxter-rx-sport-125-rojo-2026/981043302",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Xeverus Evo Pro 330 2026 Negro",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-evo-pro-330-2026-negro/981041595",
+        "price": 40999.0,
         "model": null
       }
     ]
