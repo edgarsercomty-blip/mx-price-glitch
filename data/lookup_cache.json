@@ -2358,188 +2358,6 @@
     "ts": "2026-06-25T23:59:21.015654+00:00",
     "items": []
   },
-  "amazon|VELOCIBICICLETAVELOCIURBANARODADA": {
-    "ts": "2026-06-24T03:53:34.448419+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
-        "price": 5455.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
-        "price": 3929.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
-        "price": 2849.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
-        "price": 3239.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodado 26 Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DXMQLBS3",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
-        "price": 2949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bluelander Bicicleta Urbana, Rodada 26, Marco de Acero con Canasta, Diseño Clásico Vintage para Adultos",
-        "url": "https://www.amazon.com.mx/dp/B0BX4VDXDH",
-        "price": 3330.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bicicleta de Montaña para Adultos Rodada 26 Deportiva con 21 Velocidades Sistema Tipo Shimano, Frenos de Disco, Rin de Acero Suspension Delantera y pie de Apoyo",
-        "url": "https://www.amazon.com.mx/dp/B0F2RB9MBF",
-        "price": 3229.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
-        "price": 3431.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
-        "price": 5103.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|VELOCIBICICLETAVELOCIURBANARODADA": {
-    "ts": "2026-06-24T03:53:50.721720+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña KUBOR Mallory rodada 29 21 Velocidades Verde",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-kubor-mallory-rodada-29-21-velocidades-verde/00750303766930",
-        "price": 8929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
-        "price": 4779.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña KUBOR Mallory rodada 29 21 Velocidades GRIS",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-kubor-mallory-rodada-29-21-velocidades-gris/00750303766931",
-        "price": 8929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Hiperion Rodada 20 Gris Infantil",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-hiperion-rodada-20-gris-infantil/00750306181633?athbdg=L6000",
-        "price": 3508.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
-        "price": 5699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus 2.0 Rodada 26 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-26-rojo-de-montana/00750305714002?athbdg=L1300",
-        "price": 4399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 26 Azul De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-azul-de-montana/00750305714005?athbdg=L1300",
-        "price": 4663.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus 2.0 Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-29-rojo-de-montana/00750305714012?athbdg=L1300",
-        "price": 4487.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
-        "price": 3299.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|VELOCIBICICLETAVELOCIURBANARODADA": {
-    "ts": "2026-06-24T03:53:51.148337+00:00",
-    "items": []
-  },
   "liverpool|244958": {
     "ts": "2026-06-24T09:49:08.134330+00:00",
     "items": []
@@ -7186,6 +7004,855 @@
         "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Rojo",
         "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-rojo/981054204",
         "price": 50499.0,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|MKZPANTA100MBLA": {
+    "ts": "2026-06-26T04:14:09.902967+00:00",
+    "items": []
+  },
+  "palacio|MKZPANTA100MBLA": {
+    "ts": "2026-06-26T04:14:10.234143+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-mujer-44889669.html",
+        "price": 2292.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Parker Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-parker-hombre-38787045.html",
+        "price": 2830.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de Vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/pal-zileri-pantalon-de-vestir-hombre-44559676.html",
+        "price": 10392.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/pal-zileri-pantalon-de-vestir-hombre-44697444.html",
+        "price": 7992.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-de-vestir-hombre-44905238.html",
+        "price": 1099.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-hombre-44695482.html",
+        "price": 1492.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-hombre-38694926.html",
+        "price": 1036.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-mujer-44606849.html",
+        "price": 2292.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-mujer-44606712.html",
+        "price": 2292.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295783.html",
+        "price": 1245.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-pantalon-de-vestir-hombre-44592981.html",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295744.html",
+        "price": 1245.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|MKZPANTA100MBLA": {
+    "ts": "2026-06-26T04:14:12.342832+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LemSa - Funda protectora de silicona de goma para llavero sin llave, 2 unidades, para Ford F-150 F-450 Fusion Explorer Lincoln Fusion MKZ Mustang MKC negro/rojo",
+        "url": "https://www.amazon.com.mx/dp/B089SLT7BH",
+        "price": 423.12,
+        "model": "F-150"
+      }
+    ]
+  },
+  "walmart|MKZPANTA100MBLA": {
+    "ts": "2026-06-26T04:14:18.642205+00:00",
+    "items": []
+  },
+  "sams|MKZPANTA100MBLA": {
+    "ts": "2026-06-26T04:14:23.153524+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Chocolates M&Ms  con Leche Confitado 8 Piezas",
+        "url": "https://www.sams.com.mx/ip/chocolates-m-ms-con-leche-confitado-8-piezas/981033502",
+        "price": 129.91,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chocolates M&Ms  con Leche y Cacahuate Confitados 8 Piezas ",
+        "url": "https://www.sams.com.mx/ip/chocolates-m-ms-con-leche-y-cacahuate-confitados-8-piezas/981033503",
+        "price": 129.91,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mezcla de Nueces y Chocolate con Leche M&M's Wellhouse Trail Mix 907 g",
+        "url": "https://www.sams.com.mx/ip/mezcla-de-nueces-y-chocolate-con-leche-m-m-s-wellhouse-trail-mix-907-g/981043175",
+        "price": 203.58,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Surtido de Chocolates Snickers, M&Ms y Milky Way  Caja con 14 Piezas",
+        "url": "https://www.sams.com.mx/ip/surtido-de-chocolates-snickers-m-ms-y-milky-way-caja-con-14-piezas/981033504",
+        "price": 228.12,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tapete Unimat  Rizo Gris 6 m x 1.20 m",
+        "url": "https://www.sams.com.mx/ip/tapete-unimat-rizo-gris-6-m-x-1-20-m/981001470",
+        "price": 6675.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla M",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-m/981046296",
+        "price": 948.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Higuera Artificial Fatj  con Maceta 1.22 m",
+        "url": "https://www.sams.com.mx/ip/higuera-artificial-fatj-con-maceta-1-22-m/981040540",
+        "price": 1498.69,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toldo Instantáneo Member's Mark  3x3 m",
+        "url": "https://www.sams.com.mx/ip/toldo-instantaneo-member-s-mark-3x3-m/981018119",
+        "price": 2043.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa Plegable Lifetime Portafolio de 1.5 m",
+        "url": "https://www.sams.com.mx/ip/mesa-plegable-lifetime-portafolio-de-1-5-m/000902512",
+        "price": 1141.66,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Papel Aluminio Alu Practik  180 m",
+        "url": "https://www.sams.com.mx/ip/papel-aluminio-alu-practik-180-m/980006632",
+        "price": 715.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Papel Aluminio Red Tag  con 400 m",
+        "url": "https://www.sams.com.mx/ip/papel-aluminio-red-tag-con-400-m/981025851",
+        "price": 713.03,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa Plegable Lifetime  Rectangular 1.82 m",
+        "url": "https://www.sams.com.mx/ip/mesa-plegable-lifetime-rectangular-1-82-m/981014399",
+        "price": 2024.62,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|75QM8K": {
+    "ts": "2026-06-26T04:14:24.325954+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "ESPEJO PARA BAÑO LANG REPISA CON BISEL DE LUJO 56 X 75 CM",
+        "url": "https://www.homedepot.com.mx/p/inter-espejo-para-bano-lang-repisa-con-bisel-de-lujo-56-x-75-cm-1230-232801",
+        "price": 1399.0,
+        "model": "232801"
+      },
+      {
+        "store": "homedepot",
+        "name": "REGADERA DE MANO DE ABS DE 3.75 PULGADAS Y 6 FUNCIONES",
+        "url": "https://www.homedepot.com.mx/p/glacier-bay-regadera-de-mano-de-abs-de-375-pulgadas-y-6-funciones-225964-225964",
+        "price": 499.0,
+        "model": "225964"
+      },
+      {
+        "store": "homedepot",
+        "name": "REGADERA DE MANO DE ABS DE 3.75 PULGADAS Y 6 FUNCIONES NEGRO",
+        "url": "https://www.homedepot.com.mx/p/glacier-bay-regadera-de-mano-de-abs-de-375-pulgadas-y-6-funciones-negro-225965-225965",
+        "price": 497.0,
+        "model": "225965"
+      },
+      {
+        "store": "homedepot",
+        "name": "ESPEJO OVAINE OVAL CON BISEL DE LUJO 56 X 75 CM",
+        "url": "https://www.homedepot.com.mx/p/inter-espejo-ovaine-oval-con-bisel-de-lujo-56-x-75-cm-1241-232881",
+        "price": 497.0,
+        "model": "232881"
+      }
+    ]
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-06-26T04:15:16.411487+00:00",
+    "items": []
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-06-26T04:15:19.008323+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
+        "price": 23999.0,
+        "model": "75QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 24628.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 10827.8,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A 32 2026 | Google TV | Diseño Elegante con Bisel Ultrafino | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control",
+        "url": "https://www.amazon.com.mx/dp/B0FSQ9NSTW",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 20398.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
+        "price": 10999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
+        "price": 19499.0,
+        "model": "86QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
+        "price": 13897.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 17379.0,
+        "model": "75QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 13199.0,
+        "model": "HDR10"
+      }
+    ]
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-06-26T04:15:21.726756+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-06-26T04:15:26.433169+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  75\" QLED Mini LED Google TV 75QM5K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-qled-mini-led-google-tv-75qm5k/981041777",
+        "price": 15343.98,
+        "model": "75QM5K"
+      }
+    ]
+  },
+  "homedepot|65NANO80": {
+    "ts": "2026-06-26T04:15:30.930182+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "ILLUX LÁMPARA LED EXTERIOR CON FOTOCELDA100W,",
+        "url": "https://www.homedepot.com.mx/p/illux-illux-lampara-led-exterior-con-fotocelda100w-vl-29100g57-241547",
+        "price": 1279.0,
+        "model": "241547"
+      },
+      {
+        "store": "homedepot",
+        "name": "ILLUX REFLECTOR LED EXTERIOR, FOTOCELDA 60W",
+        "url": "https://www.homedepot.com.mx/p/illux-illux-reflector-led-exterior-fotocelda-60w-vl-2960g57-241569",
+        "price": 859.0,
+        "model": "241569"
+      },
+      {
+        "store": "homedepot",
+        "name": "CAMASTRO DAYTONA CON COLCHON TEXTURA RATAN COLOR GRIS GRAFITO",
+        "url": "https://www.homedepot.com.mx/p/keter-camastro-daytona-con-colchon-textura-ratan-color-gris-grafito-17211632-234169",
+        "price": 6999.0,
+        "model": "234169"
+      },
+      {
+        "store": "homedepot",
+        "name": "MANGUERA FLEXIBLE 65 CM.",
+        "url": "https://www.homedepot.com.mx/p/evans-manguera-flexible-65-cm-20050101-235538",
+        "price": 345.0,
+        "model": "235538"
+      },
+      {
+        "store": "homedepot",
+        "name": "BOSCH COMBO SIERRA CIRCULAR GKS 2065 2000W + LIJADORA ROTO ORBITAL GEX 125 280W",
+        "url": "https://www.homedepot.com.mx/p/bosch-bosch-combo-sierra-circular-gks-2065-2000w-lijadora-roto-orbital-gex-125-280w-0615a002he-232751",
+        "price": 4449.0,
+        "model": "232751"
+      },
+      {
+        "store": "homedepot",
+        "name": "CAMASTRO PLEGABLE NEGRO 1.9 X 0.65M ALUMINIO",
+        "url": "https://www.homedepot.com.mx/p/unbranded-camastro-plegable-negro-19-x-065m-aluminio-hpc097-236968",
+        "price": 1399.0,
+        "model": "236968"
+      },
+      {
+        "store": "homedepot",
+        "name": "CARGADOR 65W 3 EN 1 CARGA RÁPIDA 2 TIPO C Y 1 USB CON CABLE TIPO C 2M GAR322 1HORA",
+        "url": "https://www.homedepot.com.mx/p/1hora-cargador-65w-3-en-1-carga-rapida-2-tipo-c-y-1-usb-con-cable-tipo-c-2m-gar322-1hora-gar322-232884",
+        "price": 415.0,
+        "model": "232884"
+      }
+    ]
+  },
+  "liverpool|65NANO80": {
+    "ts": "2026-06-26T04:15:31.982997+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Control Remoto Original LG Magic Mr20ga 2020 + Funda",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/1110877460",
+        "price": 1479.0,
+        "model": "Mr20ga"
+      }
+    ]
+  },
+  "palacio|65NANO80": {
+    "ts": "2026-06-26T04:15:32.136457+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K UN65M80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-mini-led-4k-un65m80hafxzx-45368302.html",
+        "price": 13499.01,
+        "model": "UN65M80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Crystal 4K UN65U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-4k-un65u8500hfxzx-45366548.html",
+        "price": 10798.83,
+        "model": "UN65U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K Google TV 65A400 Pro",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-mini-led-4k-google-tv-65a400-pro-45368770.html",
+        "price": 18899.3,
+        "model": "65A400"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65U7SG Google",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-miniled-4k-65u7sg-google-45315660.html",
+        "price": 16814.41,
+        "model": "65U7SG"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
+        "price": 55799.0,
+        "model": "K65XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
+        "price": 14454.41,
+        "model": "65Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K Fire TV 65QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-mini-led-4k-fire-tv-65qm64l-45368676.html",
+        "price": 16099.3,
+        "model": "65QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana OLED 4K Mini RGB evo 65MRGB86BSA",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-mini-rgb-evo-65mrgb86bsa-45505425.html",
+        "price": 42999.0,
+        "model": "65MRGB86BSA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana LED RGB 4K BRAVIA 7 II K55XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-led-rgb-4k-bravia-7-ii-k55xr70m2-45500055.html",
+        "price": 51999.0,
+        "model": "K55XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Forerunner 265S Music para correr",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html",
+        "price": 6649.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana LED 4K Google TV Bravia 2 II K-65S20M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-led-4k-google-tv-bravia-2-ii-k-65s20m2-44834366.html",
+        "price": 12999.48,
+        "model": "K-65S20M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas plana OLED 4K S95FA",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-oled-4k-s95fa-44629306.html",
+        "price": 37713.06,
+        "model": "S95FA"
+      }
+    ]
+  },
+  "amazon|65NANO80": {
+    "ts": "2026-06-26T04:15:34.166764+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mando a distancia para LG OLED65B16LA OLED77B13LA OLED77B16LA 60UP80006LA 65NANO806PA 65NANO809PA 65NANO813PA 65NANO816PA 4K HDTV sin voz",
+        "url": "https://www.amazon.com.mx/dp/B0CC1BQBZV",
+        "price": 294.79,
+        "model": "OLED65B16LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Control remoto por voz para LG OLED55C1AUB OLED55C1PUA OLED55C1PUB OLED55G1PUA 55NANO819PA 55NANO883PB 55UP80006LA 55UP81009LR 60UP80006LA 65NANO806PA 4K 4K Ultra HD HD TV",
+        "url": "https://www.amazon.com.mx/dp/B0DH23SH2Q",
+        "price": 381.37,
+        "model": "OLED55C1AUB"
+      }
+    ]
+  },
+  "sams|65NANO80": {
+    "ts": "2026-06-26T04:15:38.789763+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": " Oestrogel  80 g",
+        "url": "https://www.sams.com.mx/ip/oestrogel-80-g/000041361",
+        "price": 1077.21,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Diovan  80 mg 30 Comprimidos",
+        "url": "https://www.sams.com.mx/ip/diovan-80-mg-30-comprimidos/000140673",
+        "price": 1069.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Premastan  Gel con 80 g",
+        "url": "https://www.sams.com.mx/ip/premastan-gel-con-80-g/000374322",
+        "price": 1253.17,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Soporte para Pantallas Blackrock  Onix de 40\" a 80\"",
+        "url": "https://www.sams.com.mx/ip/soporte-para-pantallas-blackrock-onix-de-40-a-80/981039017",
+        "price": 1533.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Telarteq  80 mg 30 Tabletas",
+        "url": "https://www.sams.com.mx/ip/telarteq-80-mg-30-tabletas/000084677",
+        "price": 459.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nina Ricci  para Dama 80 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nina-ricci-para-dama-80-ml/981013337",
+        "price": 592.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Plato de Papel BIOFORM  15 cm 80 pzas",
+        "url": "https://www.sams.com.mx/ip/plato-de-papel-bioform-15-cm-80-pzas/981018377",
+        "price": 83.87,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Restirador Alfra  Forte 80 x 120 cm",
+        "url": "https://www.sams.com.mx/ip/restirador-alfra-forte-80-x-120-cm/981034378",
+        "price": 4316.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Plato Termo Green TERMOGREEN Penny 80 pzas",
+        "url": "https://www.sams.com.mx/ip/plato-termo-green-termogreen-penny-80-pzas/981050601",
+        "price": 108.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Telmisartán Amsa Laboratorios  80 mg con 28 Tabletas",
+        "url": "https://www.sams.com.mx/ip/telmisartan-amsa-laboratorios-80-mg-con-28-tabletas/981042885",
+        "price": 72.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Micardis CAT 38  80 mg 28 Tabletas",
+        "url": "https://www.sams.com.mx/ip/micardis-cat-38-80-mg-28-tabletas/000284642",
+        "price": 1599.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Tebonin Forte  80 mg  con 24  Tabletas",
+        "url": "https://www.sams.com.mx/ip/tebonin-forte-80-mg-con-24-tabletas/000061256",
+        "price": 571.85,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|EBC115DC01": {
+    "ts": "2026-06-26T04:15:39.019816+00:00",
+    "items": []
+  },
+  "palacio|EBC115DC01": {
+    "ts": "2026-06-26T04:15:39.205033+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Perfume Euphoria, Eau de Parfum 100 ml para Mujer",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-perfume-euphoria-eau-de-parfum-100-ml-para-mujer-14119659.html",
+        "price": 2850.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45262022.html",
+        "price": 2723.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45323258.html",
+        "price": 3032.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45136541.html",
+        "price": 2279.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45136547.html",
+        "price": 1799.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo estampado Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45136634.html",
+        "price": 2449.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45261910.html",
+        "price": 2639.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo estampado Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45181824.html",
+        "price": 2799.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo con bordados Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-con-bordados-mujer-45405992.html",
+        "price": 3790.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45290283.html",
+        "price": 2443.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo estampado Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45136512.html",
+        "price": 2449.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45353116.html",
+        "price": 2872.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|EBC115DC01": {
+    "ts": "2026-06-26T04:15:40.958652+00:00",
+    "items": []
+  },
+  "walmart|EBC115DC01": {
+    "ts": "2026-06-26T04:15:50.185324+00:00",
+    "items": []
+  },
+  "sams|EBC115DC01": {
+    "ts": "2026-06-26T04:15:52.760808+00:00",
+    "items": []
+  },
+  "liverpool|162329": {
+    "ts": "2026-06-26T04:16:20.468767+00:00",
+    "items": []
+  },
+  "palacio|162329": {
+    "ts": "2026-06-26T04:16:20.581095+00:00",
+    "items": []
+  },
+  "amazon|162329": {
+    "ts": "2026-06-26T04:16:23.204255+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Makita 162329-3 Tubo",
+        "url": "https://www.amazon.com.mx/dp/B010BX3YIU",
+        "price": 1390.41,
+        "model": null
+      }
+    ]
+  },
+  "walmart|162329": {
+    "ts": "2026-06-26T04:16:32.622244+00:00",
+    "items": []
+  },
+  "sams|162329": {
+    "ts": "2026-06-26T04:16:35.952179+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Suplemento Alimenticio Birdman  Myo-Inositol 162 Cápsulas",
+        "url": "https://www.sams.com.mx/ip/suplemento-alimenticio-birdman-myo-inositol-162-capsulas/981033206",
+        "price": 431.69,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|238602": {
+    "ts": "2026-06-26T04:17:09.043458+00:00",
+    "items": []
+  },
+  "palacio|238602": {
+    "ts": "2026-06-26T04:17:09.150329+00:00",
+    "items": []
+  },
+  "amazon|238602": {
+    "ts": "2026-06-26T04:17:11.835543+00:00",
+    "items": []
+  },
+  "walmart|238602": {
+    "ts": "2026-06-26T04:17:24.684897+00:00",
+    "items": []
+  },
+  "sams|238602": {
+    "ts": "2026-06-26T04:17:27.456321+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Barra Quaker Stila Chocolate 23 pzas de 23 g c/u",
+        "url": "https://www.sams.com.mx/ip/barra-quaker-stila-chocolate-23-pzas-de-23-g-c-u/981020464",
+        "price": 143.21,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  23 Kg Blanca Mod. WT23EWTX6 Carga Superior 23 Kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-23-kg-blanca-mod-wt23ewtx6-carga-superior-23-kg/981051355",
+        "price": 13296.95,
+        "model": "WT23EWTX6"
+      },
+      {
+        "store": "sams",
+        "name": "Sandalia para Dama Express  Negro Talla 23",
+        "url": "https://www.sams.com.mx/ip/sandalia-para-dama-express-negro-talla-23/981044770",
+        "price": 611.74,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sandalia para Dama Express  Verde Talla 23",
+        "url": "https://www.sams.com.mx/ip/sandalia-para-dama-express-verde-talla-23/981044772",
+        "price": 611.74,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sandalia para Dama Express  Beige Talla 23",
+        "url": "https://www.sams.com.mx/ip/sandalia-para-dama-express-beige-talla-23/981044771",
+        "price": 611.74,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sandalia para Dama Express  Rosa Talla 23",
+        "url": "https://www.sams.com.mx/ip/sandalia-para-dama-express-rosa-talla-23/981044773",
+        "price": 611.74,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego Xbox Series X FIFA 23",
+        "url": "https://www.sams.com.mx/ip/videojuego-xbox-series-x-fifa-23/981001554",
+        "price": 868.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego PlayStation 5 EA Sports FIFA 23",
+        "url": "https://www.sams.com.mx/ip/videojuego-playstation-5-ea-sports-fifa-23/981001560",
+        "price": 919.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tenis Deportivo para Dama Skechers  Talla 23 Lavanda",
+        "url": "https://www.sams.com.mx/ip/tenis-deportivo-para-dama-skechers-talla-23-lavanda/981036030",
+        "price": 868.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantufla para Dama Stahl  Color Gris Talla 23",
+        "url": "https://www.sams.com.mx/ip/pantufla-para-dama-stahl-color-gris-talla-23/981045255",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tenis Deportivo para Dama Skechers  Talla 23 Rosa",
+        "url": "https://www.sams.com.mx/ip/tenis-deportivo-para-dama-skechers-talla-23-rosa/981036020",
+        "price": 868.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantufla para Dama Stahl  Color Rosa Talla 23",
+        "url": "https://www.sams.com.mx/ip/pantufla-para-dama-stahl-color-rosa-talla-23/981045251",
+        "price": 561.61,
         "model": null
       }
     ]
