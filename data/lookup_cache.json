@@ -7716,5 +7716,505 @@
         "model": "UN75M80HAFXZX"
       }
     ]
+  },
+  "homedepot|TL18KG": {
+    "ts": "2026-06-27T19:36:24.799736+00:00",
+    "items": []
+  },
+  "liverpool|TL18KG": {
+    "ts": "2026-06-27T19:36:26.097993+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pulsera Caos de plata Baalam con acabado baño de oro",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-de-plata-Baalam-con-acabado-ba%C3%B1o-de-oro/9959264130",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Pulsera Caos 18 k con acabado chapa de oro",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-18-k-con-acabado-chapa-de-oro/99989484779",
+        "price": 1049.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Pulsera Caos Baalam con acabado chapa de oro 18K",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-Baalam-con-acabado-chapa-de-oro-18K/99989485564",
+        "price": 1049.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Pulsera Luckman de acero",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-de-acero/1110636047",
+        "price": 519.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Control Remoto para Aire Acondicionado Daewoo GZ-1002A-E3",
+        "url": "https://liverpool.com.mx/tienda/pdp/Control-Remoto-para-Aire-Acondicionado-Daewoo-GZ-1002A-E3/1131688829",
+        "price": 579.0,
+        "model": "GZ-1002A-E3"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pulsera Luckman con acabado pulido",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-con-acabado-pulido/1110632092",
+        "price": 499.0,
+        "model": null
+      }
+    ]
+  },
+  "palacio|TL18KG": {
+    "ts": "2026-06-27T19:36:26.493995+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Set 3 sartenes en aluminio Trendy Titanium",
+        "url": "https://www.elpalaciodehierro.com/t-fal-set-3-sartenes-en-aluminio-trendy-titanium-45370407.html",
+        "price": 1759.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén en aluminio Delight 24 cm Beige",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-24-cm-beige-42893720.html",
+        "price": 1119.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén en Aluminio Delight Mineralia 28 cm",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-mineralia-28-cm-42893721.html",
+        "price": 1439.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batería de cocina en aluminio Supercook 22 Piezas, Negro",
+        "url": "https://www.elpalaciodehierro.com/t-fal-bateria-de-cocina-en-aluminio-supercook-22-piezas-negro-45485032.html",
+        "price": 3599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Sartén redondo en aluminio Excellence+ 20 cm negro",
+        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-redondo-en-aluminio-excellence-20-cm-negro-45370401.html",
+        "price": 1199.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Licuadora Ultraforce, 8 Velocidades, Negra",
+        "url": "https://www.elpalaciodehierro.com/t-fal-licuadora-ultraforce-8-velocidades-negra-43169074.html",
+        "price": 1319.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aceite de Wasabi, 170 g",
+        "url": "https://www.elpalaciodehierro.com/yamato-aceite-de-wasabi-170-g-43553971.html",
+        "price": 1050.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190515.html",
+        "price": 33500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro rosa de 18 kilates Belle Époque Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-rosa-de-18-kilates-belle-epoque-mujer-45190489.html",
+        "price": 69600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190525.html",
+        "price": 54200.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro blanco de 18 kilates Belle Époque con diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-belle-epoque-con-diamantes-mujer-45190475.html",
+        "price": 105900.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190521.html",
+        "price": 92000.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TL18KG": {
+    "ts": "2026-06-27T19:36:28.480066+00:00",
+    "items": []
+  },
+  "sams|TL18KG": {
+    "ts": "2026-06-27T19:36:32.421501+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Whisky Ballantine's  1 l",
+        "url": "https://www.sams.com.mx/ip/whisky-ballantine-s-1-l/000172894",
+        "price": 298.72,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Ginebra Hendrick's  1 l",
+        "url": "https://www.sams.com.mx/ip/ginebra-hendrick-s-1-l/981036568",
+        "price": 995.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Smirnoff  1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-smirnoff-1-l/000145772",
+        "price": 231.2,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tequila 1800  1 l",
+        "url": "https://www.sams.com.mx/ip/tequila-1800-1-l/981026586",
+        "price": 736.54,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sangrita Viuda de Sánchez  1 l",
+        "url": "https://www.sams.com.mx/ip/sangrita-viuda-de-sanchez-1-l/000010653",
+        "price": 120.7,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licor de Naranja Controy  1 l",
+        "url": "https://www.sams.com.mx/ip/licor-de-naranja-controy-1-l/000023613",
+        "price": 231.17,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rompope Coronado  Vainilla 1 l",
+        "url": "https://www.sams.com.mx/ip/rompope-coronado-vainilla-1-l/000000720",
+        "price": 213.79,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bactericida Member's Mark  1 L",
+        "url": "https://www.sams.com.mx/ip/bactericida-member-s-mark-1-l/000729800",
+        "price": 91.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Absolut  Original 1 L",
+        "url": "https://www.sams.com.mx/ip/vodka-absolut-original-1-l/981012434",
+        "price": 416.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka Absolut  Raspberri 1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-absolut-raspberri-1-l/981022982",
+        "price": 416.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vodka STOLI   The Original 1 l",
+        "url": "https://www.sams.com.mx/ip/vodka-stoli-the-original-1-l/981041251",
+        "price": 411.2,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vinagre Balsámico Bertolli  1 l",
+        "url": "https://www.sams.com.mx/ip/vinagre-balsamico-bertolli-1-l/000172789",
+        "price": 126.85,
+        "model": null
+      }
+    ]
+  },
+  "amazon|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-27T19:36:38.886713+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
+        "price": 4959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
+        "price": 2959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
+        "price": 4319.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ7LP4X",
+        "price": 2704.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
+        "price": 4639.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
+        "price": 3695.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
+        "price": 2949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Naukas Pro FD Rodado 26 Plata De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0DXG8WBMR",
+        "price": 4639.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-27T19:36:53.468266+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+        "price": 5699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
+        "price": 4779.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
+        "price": 3343.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 26 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-26-azul-de-montana/00750305714003?athbdg=L1300",
+        "price": 3849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-naukas-pro-fd-rodada-26-verde-de-montana/00750305714004?athbdg=L1300",
+        "price": 5103.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 24 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-24-azul-de-montana/00750305544797?athbdg=L6000",
+        "price": 5368.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-mujer-frenos-v-acero/00750230679184",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus 2.0 Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-29-rojo-de-montana/00750305714012?athbdg=L1300",
+        "price": 4487.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 26 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-rojo-de-montana/00750305714006?athbdg=L1300",
+        "price": 3999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETARODADAURBANAVELOCI": {
+    "ts": "2026-06-27T19:36:56.942874+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
+        "price": 5491.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
+        "price": 3577.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto Veloci  Hammer KX Force 200 2026 Gris",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-200-2026-gris/981041462",
+        "price": 48999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Xeverus Evo Pro 330 2026 Negro",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-evo-pro-330-2026-negro/981041595",
+        "price": 40999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Breakstorm Evo VO SP 330 Gris 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-breakstorm-evo-vo-sp-330-gris-2026/981043298",
+        "price": 42999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Argent X3 125 2026 Plata",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-argent-x3-125-2026-plata/981041467",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Rojo",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-rojo/981054204",
+        "price": 50499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta VELOCI  Thyron Evo Sport 200cc 2027",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-thyron-evo-sport-200cc-2027/981054210",
+        "price": 26999.0,
+        "model": "200cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta Veloci  Draxter RX Sport 125 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-draxter-rx-sport-125-rojo-2026/981043302",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta Veloci  Argent X3 125 2026 Rojo",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-argent-x3-125-2026-rojo/981041468",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta VELOCI  Atrio Evo Sport 200cc 2027 Rojo",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-atrio-evo-sport-200cc-2027-rojo/981054199",
+        "price": 23999.0,
+        "model": "200cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
+        "price": 41999.0,
+        "model": null
+      }
+    ]
   }
 }
