@@ -7629,5 +7629,459 @@
         "model": null
       }
     ]
+  },
+  "homedepot|50NU850BPSA": {
+    "ts": "2026-06-27T03:48:19.594948+00:00",
+    "items": []
+  },
+  "palacio|50NU850BPSA": {
+    "ts": "2026-06-27T03:48:19.850233+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado Lavadora Eléctrica y Secadora Gas Natural Frontal 22 Kg Inox",
+        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-lavadora-electrica-y-secadora-gas-natural-frontal-22-kg-inox-43441683.html",
+        "price": 29204.45,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Minisplit Invert LG Frío Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-minisplit-invert-lg-frio-calor-44456599.html",
+        "price": 21449.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+        "price": 26125.0,
+        "model": "WM25VFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 21684.96,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Caja 60 bolsas para basura 45 - 50 L",
+        "url": "https://www.elpalaciodehierro.com/simplehuman-caja-60-bolsas-para-basura-45---50-l-44913830.html",
+        "price": 503.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de temperatura variable 50's Style en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-50s-style-en-acero-inoxidable-39326958.html",
+        "price": 4046.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Classic 9 p3 50's Style FAB28URWH3 blanco",
+        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-classic-9-p3-50s-style-fab28urwh3-blanco-42879639.html",
+        "price": 35025.0,
+        "model": "FAB28URWH3"
+      },
+      {
+        "store": "palacio",
+        "name": "Batidora de Mano Roja 50's Style",
+        "url": "https://www.elpalaciodehierro.com/smeg-batidora-de-mano-roja-50s-style-41985920.html",
+        "price": 3227.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina bafle Inalámbrica Sound tower ST50F 80 W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-bafle-inalambrica-sound-tower-st50f-80-w-45479305.html",
+        "price": 11998.7,
+        "model": "ST50F"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 541 L HSM541HMNSS0",
+        "url": "https://www.elpalaciodehierro.com/haier-refrigerador-french-door-541-l-hsm541hmnss0-43793807.html",
+        "price": 28049.34,
+        "model": "HSM541HMNSS0"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
+        "price": 9427.44,
+        "model": "UN55U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
+        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
+        "price": 38759.49,
+        "model": null
+      }
+    ]
+  },
+  "amazon|50NU850BPSA": {
+    "ts": "2026-06-27T03:48:22.335809+00:00",
+    "items": []
+  },
+  "walmart|50NU850BPSA": {
+    "ts": "2026-06-27T03:48:30.345672+00:00",
+    "items": []
+  },
+  "sams|50NU850BPSA": {
+    "ts": "2026-06-27T03:48:33.313308+00:00",
+    "items": []
+  },
+  "homedepot|MF200D150WBW": {
+    "ts": "2026-06-27T03:48:52.340989+00:00",
+    "items": []
+  },
+  "palacio|MF200D150WBW": {
+    "ts": "2026-06-27T03:48:52.549648+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 18 p3 WT1818A",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
+        "price": 12918.6,
+        "model": "WT1818A"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
+        "price": 29605.31,
+        "model": "WD20WV26R"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
+        "price": 12737.34,
+        "model": "RMA300FZMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Dispensador de Miel",
+        "url": "https://www.elpalaciodehierro.com/wmf-dispensador-de-miel-18609337.html",
+        "price": 1800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Decantador de cristal",
+        "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
+        "price": 1799.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador 15 p3 Blanco",
+        "url": "https://www.elpalaciodehierro.com/mabe-congelador-15-p3-blanco-44662603.html",
+        "price": 15049.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 Xpert Energy Saver",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-14-p3-xpert-energy-saver-45106913.html",
+        "price": 19499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html",
+        "price": 16631.37,
+        "model": "RMB400IBMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Calentador para exteriores",
+        "url": "https://www.elpalaciodehierro.com/family-merkatari-calentador-para-exteriores-44522104.html",
+        "price": 4492.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador Horizontal WCF2107Q, 7 p3 Dual Cooling, Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2107q-7-p3-dual-cooling-blanco-42037904.html",
+        "price": 8820.0,
+        "model": "WCF2107Q"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
+        "price": 10361.34,
+        "model": "RMA300FXMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
+        "price": 12319.3,
+        "model": "WCF2111Q"
+      }
+    ]
+  },
+  "amazon|MF200D150WBW": {
+    "ts": "2026-06-27T03:48:55.001405+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "PACKOVE Filtro de Entrada Fácil de Reemplazar Accesorios Completos 4 Piezas Malla de Hierro y Plástico para Filtración de Agua para Lavadora",
+        "url": "https://www.amazon.com.mx/dp/B0FD8R326J",
+        "price": 167.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MF200D150WBW": {
+    "ts": "2026-06-27T03:49:02.330300+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavasecadora Midea Carga Frontal Smart Dial Blanca 15 Kg / 8 Kg MF200D150WB/W",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-midea-carga-frontal-smart-dial-blanca-15-kg-8-kg-mf200d150wb-w/00694587833610?athbdg=L1300",
+        "price": 9799.0,
+        "model": "MF200D150WB/W"
+      }
+    ]
+  },
+  "sams|MF200D150WBW": {
+    "ts": "2026-06-27T03:49:05.655739+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Subwoofer Inalámbrico Denom  Home 10 W",
+        "url": "https://www.sams.com.mx/ip/subwoofer-inalambrico-denom-home-10-w/981031329",
+        "price": 24550.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Waflera Doble Gutstark  Eléctrica 2000 W",
+        "url": "https://www.sams.com.mx/ip/waflera-doble-gutstark-electrica-2000-w/981023134",
+        "price": 4397.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora MIDEA  Semiautomática 22 kg MT100W220/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-22-kg-mt100w220-w-mx/981052253",
+        "price": 7999.0,
+        "model": "MT100W220/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Semiautomática 19 kg MT100W190/W-MX",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-19-kg-mt100w190-w-mx/981052252",
+        "price": 5499.0,
+        "model": "MT100W190/W-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  5400 W 420 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-5400-w-420-cc/000158187",
+        "price": 14320.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Generador Portátil Powermate  3400 W  208 CC",
+        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-3400-w-208-cc/000176891",
+        "price": 8950.22,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Ninja Hot & Iced 10 Tzas 1550 W Gris",
+        "url": "https://www.sams.com.mx/ip/cafetera-ninja-hot-iced-10-tzas-1550-w-gris/981019931",
+        "price": 4295.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sistema de Barra de Sonido Klipsch  Teatro en Casa Cinema 1200 W",
+        "url": "https://www.sams.com.mx/ip/sistema-de-barra-de-sonido-klipsch-teatro-en-casa-cinema-1200-w/981023076",
+        "price": 38872.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  Luz Fría 13.5 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-luz-fria-13-5-w-6-pzas/981019537",
+        "price": 152.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Foco LED Ledvance  de Alta Potencia Luz Fría 22 W 6 pzas",
+        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-de-alta-potencia-luz-fria-22-w-6-pzas/981033368",
+        "price": 285.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Adaptador de corriente Duo Samsung  de 50 W con cable USB C Negro",
+        "url": "https://www.sams.com.mx/ip/adaptador-de-corriente-duo-samsung-de-50-w-con-cable-usb-c-negro/981036995",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Focos LED Member's Mark  8.5 W Luz Blanca  con 10 pzas",
+        "url": "https://www.sams.com.mx/ip/focos-led-member-s-mark-8-5-w-luz-blanca-con-10-pzas/980028087",
+        "price": 142.18,
+        "model": null
+      }
+    ]
+  },
+  "homedepot|GM90HIP": {
+    "ts": "2026-06-27T03:49:18.785473+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "REFRIGERADOR 32 PIES FRENCH DOOR 3 PUERTAS MULTI AIR FLOW PLATA",
+        "url": "https://www.homedepot.com.mx/p/lg-refrigerador-32-pies-french-door-3-puertas-multi-air-flow-plata-gm90hip-238908",
+        "price": 32999.0,
+        "model": "238908"
+      }
+    ]
+  },
+  "liverpool|GM90HIP": {
+    "ts": "2026-06-27T03:49:19.800281+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Refrigerador french door LG 32 pies cúbicos no frost  fábrica de hielos automática GM90FIP",
+        "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-french-door-LG-32-pies-c%C3%BAbicos-no-frost--f%C3%A1brica-de-hielos-autom%C3%A1tica-GM90FIP/1183643246",
+        "price": 26298.28,
+        "model": "GM90FIP"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador french door Lg 25 pies cúbicos inverter no frost gm65bpt",
+        "url": "https://liverpool.com.mx/tienda/pdp/Refrigerador-french-door-Lg-25-pies-c%C3%BAbicos-inverter-no-frost-gm65bpt/1160430628",
+        "price": 21355.61,
+        "model": "gm65bpt"
+      },
+      {
+        "store": "liverpool",
+        "name": "Organizador para refrigerador Xtellar",
+        "url": "https://liverpool.com.mx/tienda/pdp/Organizador-para-refrigerador-Xtellar/1178083437",
+        "price": 563.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|GM90HIP": {
+    "ts": "2026-06-27T03:49:22.449959+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Yes4All Almohadilla para Barra de Ejercicio - Comodidad y Seguridad en Hip Thrusts, Desplantes y Sentadillas - Diseñada para Barras Olímpicas Estándar",
+        "url": "https://www.amazon.com.mx/dp/B013JOAWGA",
+        "price": 199.38,
+        "model": "Yes4All"
+      },
+      {
+        "store": "amazon",
+        "name": "Cinturón Hip Thrust Acolchado Premium de 13mm para Glúteos y Mancuernas | Soporta hasta 180 kg, neopreno ergonómico de 13 mm, correas de 50 a 76 cm, ideal para sentadillas y desplantes",
+        "url": "https://www.amazon.com.mx/dp/B0DXVB57L2",
+        "price": 414.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Altera Cyclone - Maquina Hip Thrust Profesional para Glúteos y Pierna para Gimnasio en Casa, Entrenamiento de Glúteos, Soporta 180 kg, Estructura de Acero y Respaldo Ergonómico",
+        "url": "https://www.amazon.com.mx/dp/B0F4Z1RDCS",
+        "price": 15999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Banco Hip Thrust Profesional Kevin Bro - Estación de Levantamiento de Cadera y Glúteo - Estructura de Acero Reforzado 2.5mm, Carga Máxima 150kg - Máquina de Entrenamiento de Fuerza para Home Gym",
+        "url": "https://www.amazon.com.mx/dp/B0G86Z3ZZD",
+        "price": 10799.0,
+        "model": "150kg"
+      },
+      {
+        "store": "amazon",
+        "name": "Cotopaxi Allpa - Cadera de 1,5 L",
+        "url": "https://www.amazon.com.mx/dp/B0CYRMQY6J",
+        "price": 854.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "[Matador] Bolsa de cuerpo para MATFRHP001 FREERAIN WATERPROOF PACKABLE HIP PACK negro [importados paralelos]",
+        "url": "https://www.amazon.com.mx/dp/B0DDK8SCXN",
+        "price": 1291.64,
+        "model": "MATFRHP001"
+      },
+      {
+        "store": "amazon",
+        "name": "Sunny Health & Fitness Máquina Elíptica para el Hogar, Entrenador Cruzado de Cuerpo Completo con Resistencia Magnética Silenciosa, Cardio de Bajo Impacto, Bluetooth SunnyFit App Opcional",
+        "url": "https://www.amazon.com.mx/dp/B002R8CPRY",
+        "price": 2957.49,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "100% ARMEGA Goggle Tetsumi - Lente espejo negro HiPER",
+        "url": "https://www.amazon.com.mx/dp/B0GPDLCCDT",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Rollerface Hipskates Soul, Patines en Paralelo",
+        "url": "https://www.amazon.com.mx/dp/B09H9VTT3B",
+        "price": 2499.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Ergon Ba Hip Pack Riñonera | para MTB, Enduro, Gravel Negro, Negro, Einheitsgröße, Clásico",
+        "url": "https://www.amazon.com.mx/dp/B09GB52Y8G",
+        "price": 3044.34,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Deluxe Hip Kit by AliMed",
+        "url": "https://www.amazon.com.mx/dp/B000SOJMUW",
+        "price": 2222.56,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Genérico Hip Trainer - Booty Trainers, Hip Muscle Equipment, 6 Modes 18-Level Pelvis Toner Machine | Electronic Yoga Stimulator For Workout Exercise Home Gym Fitness Pilates Office Travel Outdoor",
+        "url": "https://www.amazon.com.mx/dp/B0FY64LG86",
+        "price": 307.99,
+        "model": "18-Level"
+      }
+    ]
+  },
+  "walmart|GM90HIP": {
+    "ts": "2026-06-27T03:49:32.183692+00:00",
+    "items": []
+  },
+  "sams|GM90HIP": {
+    "ts": "2026-06-27T03:49:35.505877+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  32 Pies Cúbicos French Door GM90KIP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-32-pies-cubicos-french-door-gm90kip/981040601",
+        "price": 25572.95,
+        "model": "GM90KIP"
+      }
+    ]
   }
 }
