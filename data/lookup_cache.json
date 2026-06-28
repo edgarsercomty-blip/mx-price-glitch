@@ -9092,5 +9092,381 @@
   "sams|Q8FAA": {
     "ts": "2026-06-28T09:15:36.081498+00:00",
     "items": []
+  },
+  "homedepot|QDOSTEMPLADOCRISTALQDOSMICA": {
+    "ts": "2026-06-28T14:03:38.483041+00:00",
+    "items": [
+      {
+        "store": "homedepot",
+        "name": "LÁMPARA COLGANTE CLÁSICO 30162-1 VIDRIO CRISTAL CROMO 3 LUCES INCANDESCENTE",
+        "url": "https://www.homedepot.com.mx/p/artistica-lampara-colgante-clasico-30162-1-vidrio-cristal-cromo-3-luces-incandescente-30162-1-190283",
+        "price": 3699.0,
+        "model": "190283"
+      }
+    ]
+  },
+  "palacio|QDOSTEMPLADOCRISTALQDOSMICA": {
+    "ts": "2026-06-28T14:03:38.837136+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Vaso Curvo Iris en vidrio, 370 ml",
+        "url": "https://www.elpalaciodehierro.com/rostan-vaso-curvo-iris-en-vidrio-370-ml-44520455.html",
+        "price": 84.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mini Vaso Medidor transparente",
+        "url": "https://www.elpalaciodehierro.com/k%C3%BCchenprofi-mini-vaso-medidor-transparente-41024731.html",
+        "price": 164.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Set 6 Tazas Medidoras Menta",
+        "url": "https://www.elpalaciodehierro.com/nordicware-set-6-tazas-medidoras-menta-41034452.html",
+        "price": 335.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mezcal Reposado 400 Conejos, 700 ml",
+        "url": "https://www.elpalaciodehierro.com/400-conejos-mezcal-reposado-400-conejos-700-ml-44056347.html",
+        "price": 728.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Plato para taza de café Cantini liso",
+        "url": "https://www.elpalaciodehierro.com/trinitate-plato-para-taza-de-cafe-cantini-liso-44982179.html",
+        "price": 119.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tarro Stoneware Blanco 350Ml",
+        "url": "https://www.elpalaciodehierro.com/mason-cash-tarro-stoneware-blanco-350ml-43621702.html",
+        "price": 209.3,
+        "model": "350Ml"
+      },
+      {
+        "store": "palacio",
+        "name": "Taza Medidora Azul claro",
+        "url": "https://www.elpalaciodehierro.com/oxo-taza-medidora-azul-claro-37465544.html",
+        "price": 449.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Set 2 Vasos Sorrento",
+        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-vasos-sorrento-39346067.html",
+        "price": 1297.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Set 2 Tazas para Café Sorrento Plus",
+        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-tazas-para-cafe-sorrento-plus-38719624.html",
+        "price": 1095.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mezcal Amaras Cupreata, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/amaras-mezcal-amaras-cupreata-750-ml-41621356.html",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mezcal Espadín, 750 ml",
+        "url": "https://www.elpalaciodehierro.com/rey-campero-mezcal-espadin-750-ml-45133102.html",
+        "price": 790.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mezcal San Luis, 700 ml",
+        "url": "https://www.elpalaciodehierro.com/derrumbes-mezcal-san-luis-700-ml-45568994.html",
+        "price": 730.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|QDOSTEMPLADOCRISTALQDOSMICA": {
+    "ts": "2026-06-28T14:03:41.418085+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "JETech Protector Pantalla para iPhone 17 6.3 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 9H Dureza, Amigable para Funda, 3 Unidades",
+        "url": "https://www.amazon.com.mx/dp/B0FJL9J43M",
+        "price": 249.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Protector Pantalla para iPhone 17 Pro Max 6.9 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 9H Dureza, Amigable para Funda, 3 Unidades",
+        "url": "https://www.amazon.com.mx/dp/B0FJL4YW73",
+        "price": 249.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2 Piezas Protector de Pantalla Privacidad para iPhone 17 con Protector Cámara, Antiespia Mica Cristal Vidrio Templado, 9H Dureza, con Marco de Instalación Fácil Anti-Burbujas",
+        "url": "https://www.amazon.com.mx/dp/B0FV31XCZK",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Protector de Pantalla para iPhone 16 6.1 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, Amigable para Funda, HD Transparente, 3 Unidades",
+        "url": "https://www.amazon.com.mx/dp/B0DBZR3TX7",
+        "price": 249.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Protector Pantalla de Privacidad para iPhone 17 Pro Max 6.9 Pulgadas, Antiespia Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 2 Unidades",
+        "url": "https://www.amazon.com.mx/dp/B0FJG9P2LB",
+        "price": 279.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ivoler 2 Piezas Protector de Pantalla para iPhone 17 Pro 6.3 Pulgadas, Mica Cristal Vidrio Templado Incluye Marco de Instalación Fácil, Anti-Arañazos, 9H Dureza, Ultra HD",
+        "url": "https://www.amazon.com.mx/dp/B0FGNCB55X",
+        "price": 99.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2x Mica Protector de Pantalla Para iPhone 17 Pro Max 6.9\" Cristal Vidrio Templado Screen Protector Fácil Instalación Sin Burbujas HD Cobertura Total Compatible con Estuches WCC",
+        "url": "https://www.amazon.com.mx/dp/B0F21VW31Y",
+        "price": 139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Protector de Pantalla para Samsung Galaxy A56 5G, Mica Cristal Vidrio Templado 9H, Anti-Arañazos, HD Clara, 3 Unidades",
+        "url": "https://www.amazon.com.mx/dp/B0DXPNR85H",
+        "price": 210.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YAPANIZCEL MICA PARA SAMSUNG GALAXY A07 2 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible con A07, Cristal Vidrio Templado (2 Micas privacidad)",
+        "url": "https://www.amazon.com.mx/dp/B0FCJ3G9QC",
+        "price": 126.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YAPANIZCEL MICA PARA SAMSUNG GALAXY A56 2 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible con A56 5G, Cristal Vidrio Templado (2 Micas)",
+        "url": "https://www.amazon.com.mx/dp/B0DNRLK16G",
+        "price": 116.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YAPANIZCEL MICA PARA XIAOMI REDMI 15C - POCO C85 3 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible Redmi 15c - Poco C85, Cristal Vidrio Templado 3 Micas)",
+        "url": "https://www.amazon.com.mx/dp/B0FPXVVM9Y",
+        "price": 129.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YAPANIZCEL MICA DE PRIVACIDAD PARA IPHONE 17e Y IPHONE 16e, 2 UNIDADES, MICA CRISTAL TEMPLADO Anti Espía Cristal Vidrio Templado (2 Micas privacidad)",
+        "url": "https://www.amazon.com.mx/dp/B0DXR297FY",
+        "price": 120.56,
+        "model": null
+      }
+    ]
+  },
+  "walmart|QDOSTEMPLADOCRISTALQDOSMICA": {
+    "ts": "2026-06-28T14:03:51.382362+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Mica de Cristal templado 9D Gadgets and Fun Protege toda la pantalla",
+        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-9d-gadgets-and-fun-protege-toda-la-pantalla/00067962807033?athbdg=L6000",
+        "price": 349.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cristal templado Gadgets and Fun 9d Protege toda la pantalla",
+        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-gadgets-and-fun-9d-protege-toda-la-pantalla/00061419883131?athbdg=L6000",
+        "price": 349.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica Pantalla Cristal Templado MR. GADGETS 9D Mayoreo 10 Pcs Para iPhone X/XS/11 Pro",
+        "url": "https://www.walmart.com.mx/ip/mica-pantalla-cristal-templado-mr-gadgets-9d-mayoreo-10-pcs-para-iphone-x-xs-11-pro/00750305300835",
+        "price": 279.0,
+        "model": "X/XS/11"
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Titanio, Alta Claridad y Ajuste Perfecto",
+        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-titanio-alta-claridad-y-ajuste-perfecto/00750305875807",
+        "price": 212.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Teknet Mica Cristal Templado para Lenovo Tab M11 TB330 de 11 pulgadas",
+        "url": "https://www.walmart.com.mx/ip/teknet-mica-cristal-templado-para-lenovo-tab-m11-tb330-de-11-pulgadas/00750305071877?athbdg=L6000",
+        "price": 269.48,
+        "model": "TB330"
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Plateado, Alta Claridad y Ajuste Perfecto",
+        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-plateado-alta-claridad-y-ajuste-perfecto/00750305875802",
+        "price": 212.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Negro, Alta Claridad y Ajuste Perfecto",
+        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-negro-alta-claridad-y-ajuste-perfecto/00750305875804",
+        "price": 212.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Oro, Alta Claridad y Ajuste Perfecto",
+        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-oro-alta-claridad-y-ajuste-perfecto/00750305875803",
+        "price": 212.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica Cristal Templado Gear S3 Classic Frontier Generico 33mm",
+        "url": "https://www.walmart.com.mx/ip/mica-cristal-templado-gear-s3-classic-frontier-generico-33mm/00931277132894?athbdg=L1300",
+        "price": 234.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica Teknet Cristal Templado para Huawei MatePad 11.5 Pulagadas TXZ-W09",
+        "url": "https://www.walmart.com.mx/ip/mica-teknet-cristal-templado-para-huawei-matepad-11-5-pulagadas-txz-w09/00750305602799?athbdg=L6000",
+        "price": 231.36,
+        "model": "TXZ-W09"
+      },
+      {
+        "store": "walmart",
+        "name": "Mica Pantalla Cristal Templado 9d Mayoreo 10 Pcs Para Iphone 13 pro max/ 14 plus",
+        "url": "https://www.walmart.com.mx/ip/mica-pantalla-cristal-templado-9d-mayoreo-10-pcs-para-iphone-13-pro-max-14-plus/00750305300824",
+        "price": 279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Azul Sierra, Alta Claridad y Ajuste Perfecto",
+        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-azul-sierra-alta-claridad-y-ajuste-perfecto/00750305875808",
+        "price": 212.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|QDOSTEMPLADOCRISTALQDOSMICA": {
+    "ts": "2026-06-28T14:03:51.961213+00:00",
+    "items": []
+  },
+  "amazon|HAMILTONBEACHVELOCIDADESLICUADORAHAMILTONBEACH": {
+    "ts": "2026-06-28T14:03:54.720885+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Licuadora Hamilton Beach, AntiRuido, 5 Velocidades, Con Tarro PersonaL, Acabado acero inoxidable, Color Negro, Modelo 53602",
+        "url": "https://www.amazon.com.mx/dp/B074XZ4K1F",
+        "price": 1303.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Miltifunción Hamilton Beach 54221/14 velocidades/ 700 watts de potencia/ 3 años de garantía/Vaso de Vidrio de 1.18 L",
+        "url": "https://www.amazon.com.mx/dp/B0081PTLGU",
+        "price": 665.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 59765 Batidora de mano de 2 velocidades con cuenco para cortar",
+        "url": "https://www.amazon.com.mx/dp/B003NQE8B0",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach - Licuadora multifunción Power Elite 58148 con tarro de vidrio (58148A), OSFA, negra",
+        "url": "https://www.amazon.com.mx/dp/B00EI7DPI0",
+        "price": 856.98,
+        "model": "58148A"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 50190FG - Licuadora de licuado para encimera de 650 W, 10 velocidades y pulsos, color negro",
+        "url": "https://www.amazon.com.mx/dp/B07D532YBQ",
+        "price": 727.0,
+        "model": "50190FG"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Hamilton Beach PowerMax, Vaso de Vidrio, Capacidad de 1.4 Litros, Color Negra, Modelo 58600J",
+        "url": "https://www.amazon.com.mx/dp/B0CYNDKM9J",
+        "price": 1584.76,
+        "model": "58600J"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Licuadora Power Elite, con 12 Funciones, Vaso de Vidrio, 1.2 Litros, Negra (58148-MXR)",
+        "url": "https://www.amazon.com.mx/dp/B01H3H55J8",
+        "price": 597.0,
+        "model": "58148-MXR"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 730C DrinkMaster Classic - Mezclador de bebidas de 28 onzas, vaso mezclador, cromado",
+        "url": "https://www.amazon.com.mx/dp/B00004X135",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Blender y procesador de alimentos Combo para batidos y batidos, con accesorio eléctrico de 3 tazas, tarro de vidrio de 40 onzas, taza de viaje de licuadora, potencia máxima de 700",
+        "url": "https://www.amazon.com.mx/dp/B071CH3TLT",
+        "price": 1329.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora de 1.2 L Hamilton Beach 56208",
+        "url": "https://www.amazon.com.mx/dp/B07PXPJ5M8",
+        "price": 849.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Personal Go Sport Hamilton Beach con Vaso Portable 600 ml para Batidos y Smoothies Nutri, 51143",
+        "url": "https://www.amazon.com.mx/dp/B094DWFQ2X",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Commercial. Licuadora comercial de alto desempeño 55000 Proctor Silex Commercial, Mediano, Gris",
+        "url": "https://www.amazon.com.mx/dp/B01N5XFX1W",
+        "price": 10254.78,
+        "model": null
+      }
+    ]
+  },
+  "sams|HAMILTONBEACHVELOCIDADESLICUADORAHAMILTONBEACH": {
+    "ts": "2026-06-28T14:03:55.310742+00:00",
+    "items": []
   }
 }
