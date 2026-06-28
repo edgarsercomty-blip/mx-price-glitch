@@ -189,63 +189,8 @@
       }
     ]
   },
-  "amazon|75QNED73ASC": {
-    "ts": "2026-06-26T10:10:22.835690+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
-        "url": "https://www.amazon.com.mx/dp/B0G87BVYGB",
-        "price": 12644.0,
-        "model": "QNED73"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 10827.8,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 75 Pulgadas UHD AI UA8050 4K Smart TV 2025",
-        "url": "https://www.amazon.com.mx/dp/B0F7TKJMCR",
-        "price": 11995.0,
-        "model": "UA8050"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
-        "price": 19499.0,
-        "model": "86QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Smart TV 4K Ultra HD de 65\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
-        "url": "https://www.amazon.com.mx/dp/B0FMBXT5X3",
-        "price": 7999.0,
-        "model": "UA7700"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
-        "price": 12899.0,
-        "model": "Q72dd"
-      }
-    ]
-  },
-  "walmart|75QNED73ASC": {
-    "ts": "2026-06-26T10:10:32.072380+00:00",
-    "items": []
-  },
-  "sams|75QNED73ASC": {
-    "ts": "2026-06-26T10:10:35.273040+00:00",
-    "items": []
-  },
   "amazon|WT19WT6HKA": {
-    "ts": "2026-06-26T10:10:37.225667+00:00",
+    "ts": "2026-06-28T11:46:53.704780+00:00",
     "items": [
       {
         "store": "amazon",
@@ -267,15 +212,50 @@
         "url": "https://www.amazon.com.mx/dp/B0D8XYYNPM",
         "price": 602.99,
         "model": "6201ec2002v"
+      },
+      {
+        "store": "amazon",
+        "name": "Cubierta para Lavadora Cubierta para Lavadora de Carga Frontal con Puerta con Cremallera Cubierta para Secadora Cubierta para Lavadora a Prueba de Polvo e Impermeable 98X69X82 CM (Plata)",
+        "url": "https://www.amazon.com.mx/dp/B09VGMN6ZQ",
+        "price": 263.99,
+        "model": "98X69X82"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Lavadora,Funda Lavadora Cubre Lavadora,Cubre Lavadora Exterior,Funda Lavadora， Para Carga Superior Funda Secadora de 18kg a 22kg, Impermeable Anti-UV y Resistencia al Polvo,Oxford 420D",
+        "url": "https://www.amazon.com.mx/dp/B0GS8S3YQG",
+        "price": 259.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Manguera de escape para aire acondicionado portátil, 15 cm de diámetro y longitud de hasta 3 m, (blanco-150mm-3mi)",
+        "url": "https://www.amazon.com.mx/dp/B0CB7PK6ML",
+        "price": 428.0,
+        "model": "blanco-150mm-3mi"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Lavadora, Cubierta para Lavadora y Secadora Exterior y Secadora Anti-UV, Impermeable y a Prueba de Polvo con Cremallera, 210D Oxford, Resistente al Sol y Viento, 75 x 73 x 110 cm, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DG5Q27TF",
+        "price": 193.59,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Lavadora, Cubiera de Lavadora Impermeable, Anti-UV y Resistencia al Polvo, Forro para Lavadora de Carga Superior Digital con Cierre Autoadherible, Cubre Lavadora Exterior (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0DLNSXQ8Y",
+        "price": 299.0,
+        "model": null
       }
     ]
   },
   "walmart|WT19WT6HKA": {
-    "ts": "2026-06-26T10:10:50.127066+00:00",
+    "ts": "2026-06-28T11:47:00.961114+00:00",
     "items": []
   },
   "sams|WT19WT6HKA": {
-    "ts": "2026-06-26T10:10:53.298350+00:00",
+    "ts": "2026-06-28T11:47:03.220764+00:00",
     "items": []
   },
   "amazon|50QNED82ASA": {
