@@ -7392,5 +7392,102 @@
         "model": null
       }
     ]
+  },
+  "amazon|98QM8K": {
+    "ts": "2026-06-28T02:48:54.821823+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 24628.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DZN8SX9J",
+        "price": 29998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 20398.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7L Pantalla 98\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSFZ28M",
+        "price": 48245.0,
+        "model": "98QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 37498.0,
+        "model": "98QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "Control remoto de voz de repuesto para TCL QM8K Series QD-Mini LED 4K UHD Google Smart TV, 75QM8K 65QM8K 85QM8K 98QM8K, modelo 2025",
+        "url": "https://www.amazon.com.mx/dp/B0FYG2SGCY",
+        "price": 720.62,
+        "model": "75QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 42 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED42C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2PNRDDS",
+        "price": 14499.0,
+        "model": "OLED42C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 83 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED83C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F6RSJVTY",
+        "price": 64995.0,
+        "model": "OLED83C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 13199.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM64L Smart TV Pantalla 4K QD-MINILED 98\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRKCZXMV",
+        "price": 32998.0,
+        "model": "98QM64L"
+      }
+    ]
+  },
+  "walmart|98QM8K": {
+    "ts": "2026-06-28T02:49:12.027369+00:00",
+    "items": []
+  },
+  "sams|98QM8K": {
+    "ts": "2026-06-28T02:49:15.183601+00:00",
+    "items": []
   }
 }
