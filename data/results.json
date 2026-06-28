@@ -1,7 +1,102 @@
 {
-  "generated_at": "2026-06-28 18:51 UTC",
-  "products_scanned": 3149,
+  "generated_at": "2026-06-28 19:36 UTC",
+  "products_scanned": 4137,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 5,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.3,
+      "detail": "$19,999 en liverpool vs walmart $41,655 -> -52% bajo la competencia",
+      "store": "liverpool",
+      "name": "Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED92ASA con evo AI",
+      "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101",
+      "price": 19999.1,
+      "list_price": 47999.0,
+      "ean": null,
+      "model": "75QNED92ASA",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1179495101",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$12,005 en palacio vs mercado -> -43% bajo la competencia",
+      "store": "palacio",
+      "name": "Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior negra",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html",
+      "price": 12004.51,
+      "list_price": 24499.0,
+      "ean": null,
+      "model": "WA23C3554GV-AX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43689721",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 57.7,
+      "detail": "$8,957 en liverpool vs mercado -> -32% bajo la competencia",
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659",
+      "price": 8956.58,
+      "list_price": 21199.0,
+      "ean": null,
+      "model": "WD11T4046BX/AX",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110891659",
+        "marketplace": "false"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.4,
+      "detail": "$1,399 en walmart vs mercado -> -22% bajo la competencia",
+      "store": "walmart",
+      "name": "Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 53602 Color Plata",
+      "url": "https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300",
+      "price": 1399.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hamilton Beach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00004009453602"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$3,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "store": "liverpool",
+      "name": "Bicicleta urbana Veloci rodada 26 unisex",
+      "url": "https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964",
+      "price": 3799.0,
+      "list_price": 7598.0,
+      "ean": null,
+      "model": null,
+      "brand": "VELOCI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1167998964",
+        "marketplace": "true"
+      }
+    }
+  ]
 }
