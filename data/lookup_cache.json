@@ -1,6 +1,6 @@
 {
   "amazon|SS151": {
-    "ts": "2026-06-25T23:59:23.851573+00:00",
+    "ts": "2026-06-27T23:59:45.950283+00:00",
     "items": [
       {
         "store": "amazon",
@@ -20,15 +20,8 @@
         "store": "amazon",
         "name": "Ninja - Licuadora TWISTi con 5 programas Auto-iQ + 2 vasos, Gris | SS151",
         "url": "https://www.amazon.com.mx/dp/B09SBRGSFH",
-        "price": 2323.63,
+        "price": 2298.0,
         "model": "SS151"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible Piezas de aspas licuadora ninja,7Aleta Cuchilla extractora de repuesto,compatible con Nutri Ninja Foodi Power Blender SS101 SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C CO101B",
-        "url": "https://www.amazon.com.mx/dp/B0FJLF3JR2",
-        "price": 351.12,
-        "model": "SS351TGT"
       },
       {
         "store": "amazon",
@@ -39,63 +32,70 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora Profesional, XTREME MIX, Motor de 1500 W, Tecnología Reversible, Vaso de Vidrio 2 L, para Jugos, Smoothie, Malteadas, Helado, Frappe, Salsas, Mantequilla, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
-        "price": 1648.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de 2 vasos de batidora de repuesto para Ninja, 24 onzas con tapas para llevar compatibles con Nutri Ninja Auto IQ BN401 BN751 BN801 Bl450 BL456 BL480 BL482 BL642 BL682 Foodi SS151 SS351 SS40 1",
-        "url": "https://www.amazon.com.mx/dp/B0FC2J5ZXQ",
-        "price": 461.17,
-        "model": "BN401"
-      },
-      {
-        "store": "amazon",
-        "name": "NINJA, Licuadora Portátil Blast, Capacidad de 18 Oz, Ideal para Smoothies y Bebidas Congeladas, Inalámbrica, USB C, Tapa con Boquilla a Prueba de Fugas, Color Negro, BC151BK",
-        "url": "https://www.amazon.com.mx/dp/B0C2FF4JD1",
-        "price": 699.0,
-        "model": "BC151BK"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Licuadora Detect TB300LAA (Reacondicionado) | Velocidad variableBlendSens, Cuchillas Total Crushing",
-        "url": "https://www.amazon.com.mx/dp/B0FCH33V11",
-        "price": 2299.0,
-        "model": "TB300LAA"
+        "name": "Compatible Piezas de aspas licuadora ninja,7Aleta Cuchilla extractora de repuesto,compatible con Nutri Ninja Foodi Power Blender SS101 SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C CO101B",
+        "url": "https://www.amazon.com.mx/dp/B0FJLF3JR2",
+        "price": 351.12,
+        "model": "SS351TGT"
       },
       {
         "store": "amazon",
         "name": "Vasos de 24 onzas BN401, SS101, BN400, BN800, BN801 para licuadora Ninja Nutri, SS351, SS151 TWISTi DUO Copas de repuesto, con tapas mejoradas para sorbos y sellos, convenientes para beber",
         "url": "https://www.amazon.com.mx/dp/B09Y1NHJKZ",
-        "price": 627.0,
+        "price": 520.07,
+        "model": "BN401"
+      },
+      {
+        "store": "amazon",
+        "name": "Paquete de 2 vasos de batidora de repuesto para Ninja, 24 onzas con tapas para llevar compatibles con Nutri Ninja Auto IQ BN401 BN751 BN801 Bl450 BL456 BL480 BL482 BL642 BL682 Foodi SS151 SS351 SS40 1",
+        "url": "https://www.amazon.com.mx/dp/B0FC2J5ZXQ",
+        "price": 461.8,
         "model": "BN401"
       },
       {
         "store": "amazon",
         "name": "Vasos de repuesto de 32 onzas compatibles con los modelos Ninja Nutri Blender BN401, SS101, BN400, BN800, BN801, SS351, SS151, TWISTi DUO con tapas mejoradas para sorbos y sellos, paquete de 2",
         "url": "https://www.amazon.com.mx/dp/B0GCW7JGFP",
-        "price": 454.9,
+        "price": 454.37,
         "model": "BN401"
+      },
+      {
+        "store": "amazon",
+        "name": "Hoja de repuesto SS101 para accesorios de licuadora Ninja, hoja de repuesto de 7 aletas para SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C CO101B, piezas de repuesto de hoja de licuadora",
+        "url": "https://www.amazon.com.mx/dp/B0D1G2YSVL",
+        "price": 189.0,
+        "model": "SS351TGT"
       },
       {
         "store": "amazon",
         "name": "[Nuevo modelo] Hoja de batidora de repuesto y accesorios de taza de 24 onzas, solo compatible con Nutri Ninja SS150, SS151, SS300, SS350, SS351, CO351B, SS100, SS101, CO101B, SS400, SS401",
         "url": "https://www.amazon.com.mx/dp/B0C8FXSYJQ",
-        "price": 867.2,
+        "price": 827.84,
         "model": "CO351B"
+      },
+      {
+        "store": "amazon",
+        "name": "2 vasos de repuesto para batidora Nutri Ninja BL450 BL456 BL480 BL482 BL640 BL642 BL682 BN400 BN750 BN800 NN100 Foodi SS101 SS151 SS351 SS401 SS40SS400 Ninja Auto IQ Series Blender",
+        "url": "https://www.amazon.com.mx/dp/B0FCCB8H5N",
+        "price": 617.24,
+        "model": "SS40SS400"
+      },
+      {
+        "store": "amazon",
+        "name": "7 cuchillas de repuesto para licuadora Ninja, accesorios compatibles con Nutri Ninja SS101, SS100, SS150, SS151, SS300, SS351, CO101B, CO150B, CO351B",
+        "url": "https://www.amazon.com.mx/dp/B0D8VG1574",
+        "price": 405.93,
+        "model": "CO101B"
       }
     ]
   },
   "walmart|SS151": {
-    "ts": "2026-06-25T23:59:34.171313+00:00",
+    "ts": "2026-06-27T23:59:59.132409+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Licuadora con Procesador Ninja Twisti 1600W SS151  Ninja SS151",
         "url": "https://www.walmart.com.mx/ip/licuadora-con-procesador-ninja-twisti-1600w-ss151-ninja-ss151/00062235658924?athbdg=L1300",
-        "price": 2999.0,
+        "price": 2298.0,
         "model": "1600W"
       },
       {
@@ -136,7 +136,7 @@
     ]
   },
   "sams|SS151": {
-    "ts": "2026-06-25T23:59:44.785597+00:00",
+    "ts": "2026-06-28T00:00:19.478549+00:00",
     "items": [
       {
         "store": "sams",
@@ -161,17 +161,17 @@
       },
       {
         "store": "sams",
-        "name": "Máquina de Espresso Chefman  RJ54-G-SS-MX 3L Color Plateado",
-        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-chefman-rj54-g-ss-mx-3l-color-plateado/981053258",
-        "price": 7466.87,
-        "model": "RJ54-G-SS-MX"
-      },
-      {
-        "store": "sams",
         "name": "Freidora de Inmersión Chefman  Jumbo 4.3 l RJ07-45-SS-MX-V2",
         "url": "https://www.sams.com.mx/ip/freidora-de-inmersion-chefman-jumbo-4-3-l-rj07-45-ss-mx-v2/981042806",
         "price": 1635.76,
         "model": "RJ07-45-SS-MX-V2"
+      },
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Chefman  RJ54-G-SS-MX 3L Color Plateado",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-chefman-rj54-g-ss-mx-3l-color-plateado/981053258",
+        "price": 7466.87,
+        "model": "RJ54-G-SS-MX"
       },
       {
         "store": "sams",
@@ -188,103 +188,6 @@
         "model": "RJ50-SS-M18-MX"
       }
     ]
-  },
-  "amazon|98QM8K": {
-    "ts": "2026-06-25T23:59:06.808897+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51499.55,
-        "model": "98QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 24628.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DZN8SX9J",
-        "price": 29998.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
-        "price": 20398.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
-        "price": 37498.0,
-        "model": "98QM7K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 98QM7L Pantalla 98\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GWSFZ28M",
-        "price": 48245.0,
-        "model": "98QM7L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 11678.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Control remoto de voz de repuesto para TCL QM8K Series QD-Mini LED 4K UHD Google Smart TV, 75QM8K 65QM8K 85QM8K 98QM8K, modelo 2025",
-        "url": "https://www.amazon.com.mx/dp/B0FYG2SGCY",
-        "price": 711.74,
-        "model": "75QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 42 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED42C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2PNRDDS",
-        "price": 14499.0,
-        "model": "OLED42C5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 83 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED83C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F6RSJVTY",
-        "price": 64999.0,
-        "model": "OLED83C5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
-        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
-        "price": 13199.0,
-        "model": "HDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "RC933A FMB1 Reemplazo de control remoto de voz compatible con TCL QM8K Series 65QM8K 75QM8K 85QM8K 98QM8K 65C8K 75C8K 85C8K 75C89K QD-MINI Mini LED QLED 4K HDR UHD Google Smart TV 2025 Modelo (con",
-        "url": "https://www.amazon.com.mx/dp/B0H3NZTM1B",
-        "price": 600.04,
-        "model": "RC933A"
-      }
-    ]
-  },
-  "walmart|98QM8K": {
-    "ts": "2026-06-25T23:59:15.893575+00:00",
-    "items": []
-  },
-  "sams|98QM8K": {
-    "ts": "2026-06-25T23:59:21.015654+00:00",
-    "items": []
   },
   "homedepot|MKZPANTA100MBLA": {
     "ts": "2026-06-26T04:14:09.902967+00:00",
