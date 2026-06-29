@@ -1,4 +1,4 @@
-# Productos en vigilancia (28)
+# Productos en vigilancia (29)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -32,3 +32,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 536…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | -22% |
 | 🟢 disponible | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puertos, Ch…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $554 | -46% |
 | 🟢 disponible | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | -59% |
+| 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrico 13 kg 8 kg WD13FG6B34BBAX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrico-13-kg-8-kg-WD13FG6B34BBAX/1192526376) | $11,543 | -22% |

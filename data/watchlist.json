@@ -37,7 +37,7 @@
     "available": true,
     "discount": 37.1,
     "added": "2026-06-21T14:38:11.637501+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/refrigerador-d%c3%baplex-hisense-22-pies-c%c3%babicos-inverter-y-no-frost-y-f%c3%a1brica-de-hielo-rs22n6ibx/1184494481": {
     "store": "liverpool",
@@ -47,7 +47,7 @@
     "available": true,
     "discount": 36.3,
     "added": "2026-06-21T15:41:15.965909+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/frigobar-avera-fb02d-3.2-pies-c%c3%babicos/1151591431": {
     "store": "liverpool",
@@ -57,7 +57,7 @@
     "available": true,
     "discount": 34.4,
     "added": "2026-06-21T15:41:15.965909+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/congelador-mirage-mcp10hb-horizontal-3.5-pies-c%c3%babicos/1161903082": {
     "store": "liverpool",
@@ -107,7 +107,7 @@
     "available": true,
     "discount": 20.4,
     "added": "2026-06-22T12:52:15.371578+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/laptop-hp-14-pulgadas-hd-amd-ryzen-3-amd-radeon-16-gb-ram-512-gb-ssd/1148353472": {
     "store": "liverpool",
@@ -147,7 +147,7 @@
     "available": true,
     "discount": 27.4,
     "added": "2026-06-22T21:06:04.863478+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html": {
     "store": "palacio",
@@ -157,7 +157,7 @@
     "available": true,
     "discount": 20.8,
     "added": "2026-06-23T12:27:28.008335+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://www.amazon.com.mx/dp/b07szff97x": {
     "store": "amazon",
@@ -197,7 +197,7 @@
     "available": true,
     "discount": 42.8,
     "added": "2026-06-24T20:02:30.695941+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/lavasecadora-samsung-el%c3%a9ctrica-11.5-kg-7-kg-wd11t4046bx/ax/1110891659": {
     "store": "liverpool",
@@ -207,7 +207,7 @@
     "available": true,
     "discount": 32.4,
     "added": "2026-06-24T20:02:30.695941+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   },
   "https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321": {
     "store": "walmart",
@@ -277,6 +277,16 @@
     "available": true,
     "discount": 58.6,
     "added": "2026-06-29T15:56:37.585117+00:00",
-    "last_seen": "2026-06-29T16:13:38.341688+00:00"
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
+  },
+  "https://liverpool.com.mx/tienda/pdp/lavasecadora-samsung-el%c3%a9ctrico-13-kg-8-kg-wd13fg6b34bbax/1192526376": {
+    "store": "liverpool",
+    "name": "Lavasecadora Samsung eléctrico 13 kg 8 kg WD13FG6B34BBAX",
+    "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrico-13-kg-8-kg-WD13FG6B34BBAX/1192526376",
+    "price": 11543.48,
+    "available": true,
+    "discount": 22.4,
+    "added": "2026-06-29T18:27:48.983696+00:00",
+    "last_seen": "2026-06-29T18:27:48.983696+00:00"
   }
 }
