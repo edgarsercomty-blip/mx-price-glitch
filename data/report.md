@@ -1,12 +1,7 @@
-# Errores/chollos de precio — 2026-06-29 11:29 UTC
+# Errores/chollos de precio — 2026-06-29 12:12 UTC
 
-- Productos revisados: **5186**
+- Productos revisados: **2883**
 - Umbral de diferencia: **20%**
-- Hallazgos: **4**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -32% | $4,292 | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | Confirmado vs competencia | $8,957 en liverpool vs mercado -> -32% bajo la competencia |
-| -20% | $980 | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | Confirmado vs competencia | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |
-| -46% | $470 | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puertos, Ch…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $554 | Confirmado vs competencia | $554 en amazon vs walmart $1,024 -> -46% bajo la competencia |
-| -22% | $390 | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 536…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | Confirmado vs competencia | $1,399 en walmart vs mercado -> -22% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
