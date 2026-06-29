@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-29 22:51 UTC",
-  "products_scanned": 2868,
+  "generated_at": "2026-06-29 23:57 UTC",
+  "products_scanned": 2914,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$11,543 en liverpool vs sams $14,997 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3340.87,
+      "store": "liverpool",
+      "name": "Lavasecadora Samsung eléctrico 13 kg 8 kg WD13FG6B34BBAX",
+      "url": "https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrico-13-kg-8-kg-WD13FG6B34BBAX/1192526376",
+      "price": 11543.48,
+      "list_price": 22199.0,
+      "ean": null,
+      "model": "WD13FG6B34BBAX",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192526376",
+        "marketplace": "false"
+      }
+    }
+  ]
 }
