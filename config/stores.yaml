@@ -20,6 +20,13 @@ verify_max_candidates: 250 # tope de candidatos a verificar por corrida (repo p�
 lookup_cache_ttl_hours: 48 # caché de precios de competencia (menos consultas Bright Data)
 cross_confirm_pct: 20      # % por debajo de la rival más barata para confirmar (deals reales de mercado)
 
+# Histórico de precios propio (nuestro "Keepa" gratis; data/price_history.json).
+history_window_days: 90    # ventana móvil de precios por producto
+history_min_points: 3      # mínimo de días distintos para confiar en el baseline
+history_mature_series: 3000  # al superar N series, se considera "maduro" y se baja el gasto de red
+net_fallback_mature: 15    # net_fallback cuando el histórico está maduro (ahorra Bright Data)
+scan_workers: 6            # tiendas escaneadas en paralelo (cada una es red independiente)
+
 # Árbitro extra: Google Shopping (agrega precios de muchos vendedores).
 # Requiere secret BRIGHTDATA_SERP_ZONE (zona tipo "SERP API" en Bright Data).
 # Costo acotado: solo top candidatos + tope por corrida + caché de 24h.
@@ -27,6 +34,7 @@ google_shopping:
   enabled: true
   min_pct: 30              # árbitro amplio: consulta Google para casi todos los candidatos con modelo
   max_lookups: 40          # tope de consultas de RED por corrida (caché no cuenta)
+  max_lookups_mature: 15   # tope cuando el histórico propio ya está maduro (menos gasto)
   cache_ttl_hours: 48      # vigencia del precio cacheado por modelo
 
 stores:
@@ -180,6 +188,25 @@ stores:
       - ipad
       - macbook
       - airpods
+  mercadolibre:
+    name: Mercado Libre MX
+    type: mercadolibre         # HTML de listado vía Bright Data (API pública requiere auth)
+    enabled: true
+    max_products_per_term: 50
+    search_terms:              # alto volumen + categorías con errores frecuentes
+      - refrigerador
+      - lavadora
+      - lavasecadora
+      - pantalla
+      - laptop
+      - celular
+      - iphone
+      - ipad
+      - audifonos
+      - consola
+      - licuadora
+      - bicicleta
+
   suburbia:
     name: Suburbia
     type: jsonld

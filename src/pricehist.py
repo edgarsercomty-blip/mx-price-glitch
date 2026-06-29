@@ -17,12 +17,17 @@ que el archivo no crezca sin control en el repo público.
 """
 from __future__ import annotations
 
+import gzip
 import json
 import statistics
 from datetime import datetime, timezone
 from pathlib import Path
 
 from .models import Product
+
+# Por encima de este tamaño, el JSON plano se guarda comprimido (.json.gz) para
+# no inflar el repo. La carga detecta ambos formatos automáticamente.
+GZIP_THRESHOLD_BYTES = 4_000_000
 
 
 def _pid(p: Product) -> str:
@@ -38,14 +43,22 @@ def _key(p: Product) -> str:
 class PriceHistory:
     def __init__(self, path: Path, window_days: int = 90, min_points: int = 3):
         self.path = path
+        self.gz_path = path.with_suffix(path.suffix + ".gz")
         self.window_days = window_days
         self.min_points = min_points       # mínimo de días distintos para confiar
-        self._data: dict[str, dict] = {}
-        if path.exists():
-            try:
-                self._data = json.loads(path.read_text(encoding="utf-8"))
-            except (json.JSONDecodeError, OSError):
-                self._data = {}
+        self._data: dict[str, dict] = self._read()
+
+    def _read(self) -> dict[str, dict]:
+        # prioriza el .gz si existe (formato comprimido cuando el histórico creció)
+        try:
+            if self.gz_path.exists():
+                with gzip.open(self.gz_path, "rt", encoding="utf-8") as fh:
+                    return json.load(fh)
+            if self.path.exists():
+                return json.loads(self.path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+        return {}
 
     def _today(self) -> str:
         return datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -102,9 +115,18 @@ class PriceHistory:
 
     def save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.path.write_text(
-            json.dumps(self._data, ensure_ascii=False, separators=(",", ":")),
-            encoding="utf-8")
+        blob = json.dumps(self._data, ensure_ascii=False, separators=(",", ":"))
+        if len(blob.encode("utf-8")) >= GZIP_THRESHOLD_BYTES:
+            # comprime y elimina el JSON plano para no duplicar en el repo
+            with gzip.open(self.gz_path, "wt", encoding="utf-8") as fh:
+                fh.write(blob)
+            if self.path.exists():
+                self.path.unlink()
+            print(f"   [pricehist] guardado comprimido ({self.gz_path.name}).")
+        else:
+            self.path.write_text(blob, encoding="utf-8")
+            if self.gz_path.exists():
+                self.gz_path.unlink()
 
     @property
     def n_series(self) -> int:

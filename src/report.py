@@ -12,6 +12,7 @@ KIND_LABEL = {
     "own_discount": "Descuento propio",
     "cross_store": "Más barato entre tiendas",
     "cross_confirmed": "Confirmado vs competencia",
+    "own_price_drop": "Caída vs histórico propio",
     "restock": "🔁 De nuevo disponible",
 }
 
@@ -108,15 +109,23 @@ def _markdown(findings: list[Finding], ts: str, scanned: int | None,
         lines.append("_Sin hallazgos por encima del umbral en esta corrida._")
         return "\n".join(lines)
 
-    lines += ["| Desc. | Tienda | Producto | Precio | Tipo | Detalle |",
-              "|------:|--------|----------|-------:|------|---------|"]
+    # los probables errores de captura primero; luego por ahorro absoluto ($)
+    findings = sorted(
+        findings,
+        key=lambda f: (getattr(f, "likely_typo", False), f.savings or 0),
+        reverse=True)
+
+    lines += ["| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |",
+              "|------:|-------:|--------|----------|-------:|------|---------|"]
     for f in findings:
         p = f.product
         name = (p.name[:60] + "…") if len(p.name) > 60 else p.name
         name = name.replace("|", "\\|")
+        flag = "🚨 " if getattr(f, "likely_typo", False) else ""
         link = f"[{name}]({p.url})"
+        saving = f"${f.savings:,.0f}" if f.savings else "—"
         lines.append(
-            f"| -{f.discount_pct:.0f}% | {p.store} | {link} | "
+            f"| {flag}-{f.discount_pct:.0f}% | {saving} | {p.store} | {link} | "
             f"${p.price:,.0f} | {KIND_LABEL.get(f.kind, f.kind)} | "
             f"{f.detail.replace('|', '/')} |"
         )

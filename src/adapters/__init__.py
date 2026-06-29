@@ -7,6 +7,7 @@ from .coppel import CoppelAdapter
 from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
 from .liverpool import LiverpoolAdapter
+from .mercadolibre import MercadoLibreAdapter
 from .palacio import PalacioAdapter
 from .sams import SamsAdapter
 from .vtex import VtexAdapter
@@ -22,6 +23,7 @@ _TYPES = {
     "palacio": PalacioAdapter,
     "sams": SamsAdapter,
     "coppel": CoppelAdapter,
+    "mercadolibre": MercadoLibreAdapter,
 }
 
 

@@ -57,6 +57,23 @@ def _entry_ts(v) -> "datetime | None":
     return None
 
 
+def _quality(f: Finding) -> tuple:
+    """Orden de confianza para quedarse con el mejor hallazgo de un mismo producto."""
+    rank = {"cross_confirmed": 3, "cross_store": 2, "own_price_drop": 1}.get(f.kind, 0)
+    return (rank, f.n_comparables, f.discount_pct or 0)
+
+
+def _dedup_findings(findings: list[Finding]) -> list[Finding]:
+    """Un producto puede salir por varias señales (confirmado + caída histórica).
+    Se queda con el de mayor confianza para no avisar dos veces lo mismo."""
+    best: dict[str, Finding] = {}
+    for f in findings:
+        k = _pid_key(f)
+        if k not in best or _quality(f) > _quality(best[k]):
+            best[k] = f
+    return list(best.values())
+
+
 def split_new(findings: list[Finding]) -> list[Finding]:
     """Devuelve solo los hallazgos no avisados antes; actualiza data/seen.json.
 
@@ -149,16 +166,29 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
                 continue
             if not store_cfg.get("enabled", True):
                 continue
-            adapter = build_adapter(key, store_cfg)
-            adapters[key] = adapter
-            print(f"-> escaneando {adapter.name} ({adapter.quality})...")
+            adapters[key] = build_adapter(key, store_cfg)
+
+        # escaneo en paralelo: cada tienda es independiente (red), así que correr
+        # los adaptadores a la vez recorta mucho la duración de la corrida.
+        def _scan_one(item):
+            key, adapter = item
             try:
                 got = list(adapter.scan())
             except Exception as e:  # un adaptador no debe tumbar la corrida
                 print(f"   [{key}] error: {e}")
                 got = []
-            print(f"   {len(got)} productos")
-            products.extend(got)
+            print(f"-> {adapter.name} ({adapter.quality}): {len(got)} productos")
+            return got
+
+        max_workers = min(len(adapters), int(cfg.get("scan_workers", 6))) or 1
+        if max_workers > 1 and len(adapters) > 1:
+            from concurrent.futures import ThreadPoolExecutor
+            with ThreadPoolExecutor(max_workers=max_workers) as ex:
+                for got in ex.map(_scan_one, list(adapters.items())):
+                    products.extend(got)
+        else:
+            for item in adapters.items():
+                products.extend(_scan_one(item))
 
     if not dry_run:
         before = len(products)
@@ -196,6 +226,19 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
             min_points=int(cfg.get("history_min_points", 3)))
         print(f"   Histórico propio: {pricehist.n_series} series cargadas.")
 
+        # Presupuesto por madurez: cuando el histórico ya cubre muchos productos,
+        # muchos candidatos se confirman GRATIS con el histórico -> bajamos el
+        # gasto de red (Bright Data fallback + Google Shopping).
+        mature = pricehist.n_series >= int(cfg.get("history_mature_series", 3000))
+        eff_net = (net_fallback if net_fallback is not None
+                   else int(cfg.get("net_fallback", 40)))
+        eff_google = int(gcfg.get("max_lookups", 15))
+        if mature:
+            eff_net = min(eff_net, int(cfg.get("net_fallback_mature", 15)))
+            eff_google = min(eff_google, int(gcfg.get("max_lookups_mature", 15)))
+            print(f"   Histórico maduro: presupuesto reducido "
+                  f"(red={eff_net}, google={eff_google}).")
+
         lookup_cache_path = ROOT / "data" / "lookup_cache.json"
         lookup_cache = {}
         if lookup_cache_path.exists():
@@ -208,12 +251,18 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         findings = verify(
             candidates, adapters, confirm_pct, pool=products, google=google,
             google_min_pct=float(gcfg.get("min_pct", 45)),
-            google_max_lookups=int(gcfg.get("max_lookups", 15)),
+            google_max_lookups=eff_google,
             lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
-            net_fallback=(net_fallback if net_fallback is not None
-                          else int(cfg.get("net_fallback", 40))),
-            pricehist=pricehist)
+            net_fallback=eff_net, pricehist=pricehist)
         findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
+
+        # señal independiente: caída fuerte vs el histórico propio del producto
+        # (captura glitches de productos únicos sin comparable en otras tiendas)
+        drops = detect.own_price_drop(products, pricehist.baseline, confirm_pct, max_pct)
+        if drops:
+            print(f"Caídas vs histórico propio: {len(drops)}")
+        findings += drops
+        findings = _dedup_findings(findings)
 
         # guardia final: confirmar contra Amazon/Walmart/Sam's aunque NO se hayan
         # escaneado en esta corrida (evita falsos positivos del carril rápido).
@@ -258,6 +307,11 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         new = findings
     new = restocks + new          # los restock siempre se avisan (transición)
     print(f"Nuevos: {len(new)}")
+
+    # notificación instantánea a Telegram (si hay secrets configurados)
+    if new and not dry_run:
+        from . import notify
+        notify.send(new)
 
     shown_threshold = confirm_pct if (verify_cross and not dry_run) else threshold
     results_path, report_path = write_outputs(

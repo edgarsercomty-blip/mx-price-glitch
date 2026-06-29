@@ -1,0 +1,63 @@
+name: Resumen semanal
+
+# Cada domingo: agrega los hallazgos de la semana por tienda/categoría, calcula
+# la precisión (reacciones 👍/👎 en los Issues) y publica un Issue de resumen.
+
+on:
+  schedule:
+    - cron: "0 15 * * 0"     # domingos 15:00 UTC (~9 AM CDMX)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  NOTIFY_USER: edgarsercomty-blip
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      - name: Generar resumen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m src.weekly_summary --repo "${{ github.repository }}"
+
+      - name: Publicar Issue de resumen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          printf '@%s resumen semanal 👇\n\n' "$NOTIFY_USER" > body.md
+          cat data/weekly.md >> body.md
+          gh issue create \
+            --title "📊 Resumen semanal — $(date -u +'%Y-%m-%d')" \
+            --body-file body.md \
+            --assignee "$NOTIFY_USER" \
+            --label "resumen" 2>/dev/null \
+          || gh issue create \
+            --title "📊 Resumen semanal — $(date -u +'%Y-%m-%d')" \
+            --body-file body.md \
+            --assignee "$NOTIFY_USER"
+
+      - name: Enviar resumen a Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          # si no hay secrets de Telegram, no hace nada
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Telegram no configurado; se omite."
+            exit 0
+          fi
+          curl -s -X POST \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=$(head -c 3800 data/weekly.md)" \
+            -d "parse_mode=Markdown" -d "disable_web_page_preview=true" || true

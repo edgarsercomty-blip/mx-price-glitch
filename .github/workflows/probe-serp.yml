@@ -8,7 +8,7 @@ on:
         required: true
         default: "serp"
         type: choice
-        options: [serp, walmart, amazon, deals, coppel]
+        options: [serp, walmart, amazon, deals, coppel, mercadolibre]
       query:
         description: "Texto a buscar"
         required: false

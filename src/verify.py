@@ -17,7 +17,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
 from .adapters.base import StoreAdapter
-from .detect import Finding, is_refurbished
+from .detect import Finding, is_price_typo, is_refurbished
 from .models import Product
 
 # palabras vacías / atributos que no identifican el producto
@@ -207,10 +207,15 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
         comp = ", ".join(_label(o[1]) for o in offers[1:4] if o[1] is not None)
         if winner.store != p.store:
             print(f"   [guard] volteado a {winner.store} (${winner_price:,.0f}, -{disc:.0f}%): {p.name[:40]}")
+        typo = is_price_typo(floor_price, winner_price)
         f2 = Finding(
             kind="cross_confirmed", product=winner, discount_pct=disc,
             ref_price=floor_price, n_comparables=len(offers) - 1,
-            detail=(f"${winner_price:,.0f} en {winner.store} vs {comp or 'mercado'} "
+            store_comparables=sum(1 for o in offers[1:] if o[1] is not None
+                                  and o[1].store != "google"),
+            likely_typo=typo,
+            detail=(f"{'🚨 PROBABLE ERROR DE CAPTURA: ' if typo else ''}"
+                    f"${winner_price:,.0f} en {winner.store} vs {comp or 'mercado'} "
                     f"-> -{disc:.0f}% bajo la competencia"))
         kept.append(f2)
     return kept
@@ -336,7 +341,9 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
         f.ref_price = cheapest.price          # referencia de mercado para la guardia
         f.n_comparables = len(others)
         f.store_comparables = sum(1 for o in others if o.store != "google")
-        f.detail = (f"${p.price:,.0f} vs {comp} -> -{real:.0f}% bajo la "
+        f.likely_typo = is_price_typo(cheapest.price, p.price)
+        f.detail = (f"{'🚨 PROBABLE ERROR DE CAPTURA: ' if f.likely_typo else ''}"
+                    f"${p.price:,.0f} vs {comp} -> -{real:.0f}% bajo la "
                     f"competencia (descuento propio "
                     f"{f.product.discount_pct or 0:.0f}%)")
         confirmed.append(f)
