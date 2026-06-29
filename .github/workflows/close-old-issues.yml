@@ -1,0 +1,52 @@
+name: Cerrar Issues Antiguos (deals expirados)
+
+# Cierra automáticamente issues de deals con más de 7 días: la mayoría de
+# precios de error duran horas o días, no semanas. Mantiene el backlog limpio.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # cada día a las 6 AM UTC
+  workflow_dispatch: {}    # también se puede lanzar a mano
+
+permissions:
+  issues: write
+
+jobs:
+  close-old:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cerrar deals de más de 7 días
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, subprocess
+          from datetime import datetime, timedelta, timezone
+
+          CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
+          repo = os.environ["GH_REPO"]
+
+          result = subprocess.run(
+              ["gh", "issue", "list", "--repo", repo,
+               "--state", "open", "--limit", "100",
+               "--json", "number,createdAt,title"],
+              capture_output=True, text=True, check=True,
+          )
+          issues = json.loads(result.stdout or "[]")
+          closed = 0
+          for issue in issues:
+              created = datetime.fromisoformat(
+                  issue["createdAt"].replace("Z", "+00:00"))
+              if created < CUTOFF:
+                  subprocess.run([
+                      "gh", "issue", "close", str(issue["number"]),
+                      "--repo", repo,
+                      "--comment",
+                      "⏰ Cerrado automáticamente: deal de hace más de 7 días "
+                      "(precio probablemente ya normalizado).",
+                  ], check=False)
+                  print(f"Cerrado #{issue['number']}: {issue['title'][:70]}")
+                  closed += 1
+          print(f"Total cerrados: {closed} de {len(issues)} issues abiertos.")
+          PYEOF

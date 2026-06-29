@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from .amazon import AmazonAdapter
 from .base import StoreAdapter
+from .coppel import CoppelAdapter
 from .homedepot import HomeDepotAdapter
 from .jsonld import JsonLdAdapter
 from .liverpool import LiverpoolAdapter
@@ -20,6 +21,7 @@ _TYPES = {
     "amazon": AmazonAdapter,
     "palacio": PalacioAdapter,
     "sams": SamsAdapter,
+    "coppel": CoppelAdapter,
 }
 
 

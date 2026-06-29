@@ -33,11 +33,11 @@ stores:
   homedepot:
     name: The Home Depot MX
     type: homedepot
-    enabled: true
+    enabled: false              # 0 hallazgos en 10+ días: SKUs propios no cruzan con Liverpool/Palacio
     store_id: "10351"
-    only_promo: true            # solo pide detalle de productos con icono de promo
+    only_promo: true
     max_products_per_term: 50
-    search_terms:               # foco en línea blanca/herramienta (donde sí saltan deals)
+    search_terms:
       - taladro
       - refrigerador
       - lavadora
@@ -79,12 +79,22 @@ stores:
       - airpods
       - apple watch
 
-  # --- deshabilitadas hasta tener extractor real ---
   coppel:
     name: Coppel
-    type: jsonld
-    enabled: false
-    urls: []
+    type: coppel               # Next.js vía Bright Data Web Unlocker (WAF)
+    enabled: true
+    max_products_per_term: 40
+    search_terms:              # foco en línea blanca y electrónica (categorías con más glitches)
+      - refrigerador
+      - lavadora
+      - lavasecadora
+      - pantalla
+      - laptop
+      - celular
+      - iphone
+      - congelador
+      - minisplit
+      - licuadora
   palacio:
     name: El Palacio de Hierro
     type: palacio              # API Constructor.io (directo, sin Bright Data)
@@ -108,14 +118,19 @@ stores:
     name: Amazon MX
     type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon
     enabled: true
-    scan_mode: deals           # recorre Ofertas de TODAS las categorías (no términos fijos)
-    deals_pages: 5             # páginas del filtro de ofertas a recorrer (~48 c/u)
-    max_products_per_term: 48
-    search_terms:              # solo se usan si scan_mode: search
-      - taladro
-      - pantalla
-      - laptop
-      - audifonos
+    scan_mode: both            # deals (barrido general) + términos de alto ticket
+    deals_pages: 8             # páginas del filtro de ofertas (~48 productos c/u)
+    max_products_per_term: 60
+    search_terms:              # se usan en scan_mode: both/search (alto ticket, verificable con Keepa)
+      - audifonos sony
+      - audifonos bose
+      - tablet
+      - ipad
+      - macbook
+      - consola nintendo
+      - playstation
+      - camara fotografica
+      - proyector
   walmart:
     name: Walmart MX
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)

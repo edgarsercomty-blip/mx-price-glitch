@@ -77,10 +77,15 @@ class AmazonAdapter(StoreAdapter):
         return out
 
     def _urls_to_scan(self) -> list[str]:
-        if self.scan_mode == "deals":
+        if self.scan_mode in ("deals", "both"):
             rh = quote(self.deal_filter, safe=":")
-            return [f"{self.base}/s?k=ofertas&rh={rh}&page={n}"
-                    for n in range(1, self.deals_pages + 1)]
+            deal_urls = [f"{self.base}/s?k=ofertas&rh={rh}&page={n}"
+                         for n in range(1, self.deals_pages + 1)]
+            if self.scan_mode == "deals":
+                return deal_urls
+            # both: barrido de deals + términos específicos de alto ticket
+            term_urls = [f"{self.base}/s?k={quote(t)}" for t in self.terms]
+            return deal_urls + term_urls
         return [f"{self.base}/s?k={quote(t)}" for t in self.terms]
 
     def scan(self) -> Iterable[Product]:

@@ -35,6 +35,7 @@ jobs:
           BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
           BRIGHTDATA_ZONE: ${{ secrets.BRIGHTDATA_ZONE }}
           BRIGHTDATA_SERP_ZONE: ${{ secrets.BRIGHTDATA_SERP_ZONE }}
+          KEEPA_API_KEY: ${{ secrets.KEEPA_API_KEY }}
         run: python -m src.main
 
       - name: Guardar resultados/estado en el repo
@@ -56,10 +57,21 @@ jobs:
         if: ${{ steps.scan.outputs.new != '0' && steps.scan.outputs.new != '' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LABELS: ${{ steps.scan.outputs.labels }}
         run: |
           printf '@%s nuevos posibles errores de precio 👇\n\n' "$NOTIFY_USER" > body.md
           cat data/new.md >> body.md
+          # crear labels por categoría (idempotente) y armar argumento --label
+          LABEL_ARG=""
+          if [ -n "$LABELS" ]; then
+            for lbl in $(echo "$LABELS" | tr ',' ' '); do
+              gh label create "$lbl" --color "0075ca" --description "Categoría de producto" \
+                --force 2>/dev/null || true
+            done
+            LABEL_ARG="--label $LABELS"
+          fi
           gh issue create \
             --title "💸 ${{ steps.scan.outputs.new }} nuevos errores de precio — $(date -u +'%Y-%m-%d %H:%M UTC')" \
             --body-file body.md \
-            --assignee "$NOTIFY_USER"
+            --assignee "$NOTIFY_USER" \
+            ${LABEL_ARG}

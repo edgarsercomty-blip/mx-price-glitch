@@ -5,6 +5,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from .category import detect_all
 from .detect import Finding
 
 KIND_LABEL = {
@@ -81,13 +82,16 @@ def render_history_md(out_dir: Path, limit: int = 400) -> None:
 
 def write_new_report(new_findings: list[Finding], out_dir: Path,
                      ts: str | None = None) -> Path:
-    """Escribe data/new.md con SOLO los hallazgos nuevos (para la notificación)."""
+    """Escribe data/new.md con SOLO los hallazgos nuevos (para la notificación).
+    También escribe data/labels.txt con los labels de GitHub detectados por categoría."""
     out_dir.mkdir(parents=True, exist_ok=True)
     ts = ts or datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
     path = out_dir / "new.md"
     path.write_text(_markdown(new_findings, ts, None, None,
                               heading="🆕 Nuevos posibles errores de precio"),
                     encoding="utf-8")
+    labels = detect_all([f.product.name for f in new_findings]) if new_findings else []
+    (out_dir / "labels.txt").write_text("\n".join(labels), encoding="utf-8")
     return path
 
 

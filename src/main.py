@@ -29,33 +29,70 @@ CONFIG = ROOT / "config" / "stores.yaml"
 FIXTURES = ROOT / "tests" / "fixtures"
 SEEN = ROOT / "data" / "seen.json"
 SEEN_TTL_DAYS = 30          # tras este tiempo, un hallazgo que reaparece se vuelve a avisar
+# Si el precio del mismo producto (misma URL/PID) varía menos de este % respecto
+# al último aviso, se suprime: es la misma oferta fluctuando, no un deal nuevo.
+PRICE_TOL = 0.05
 
 
 def _finding_key(f: Finding) -> str:
-    """Identidad estable de un hallazgo: tienda + producto + precio.
-    Incluye el precio para que una BAJADA distinta se considere novedad."""
+    """Identidad exacta: tienda + producto + precio redondeado."""
     p = f.product
     pid = (p.extra or {}).get("productId") or (p.extra or {}).get("partNumber") or p.url
     return f"{p.store}|{pid}|{int(round(p.price))}"
 
 
+def _pid_key(f: Finding) -> str:
+    """Identidad sin precio (para dedup suave de micro-variaciones)."""
+    p = f.product
+    pid = (p.extra or {}).get("productId") or (p.extra or {}).get("partNumber") or p.url
+    return f"~{p.store}|{pid}"
+
+
+def _entry_ts(v) -> "datetime | None":
+    """Extrae el timestamp de una entrada de seen.json (str ISO o dict {ts, price})."""
+    if isinstance(v, str):
+        return _parse(v)
+    if isinstance(v, dict):
+        return _parse(v.get("ts", ""))
+    return None
+
+
 def split_new(findings: list[Finding]) -> list[Finding]:
-    """Devuelve solo los hallazgos no avisados antes; actualiza data/seen.json."""
+    """Devuelve solo los hallazgos no avisados antes; actualiza data/seen.json.
+
+    Supresión de duplicados en dos capas:
+    1. Exacta: misma tienda + mismo PID + mismo precio → nunca re-avisar (30d TTL).
+    2. Suave: mismo producto, precio dentro de ±5% del último aviso → suprimir.
+       Evita notificar el mismo deal cuando el precio oscila unos cientos de pesos.
+    """
     now = datetime.now(timezone.utc)
-    seen: dict[str, str] = {}
+    seen: dict = {}
     if SEEN.exists():
         try:
             seen = json.loads(SEEN.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             seen = {}
-    # purga lo viejo (permite re-avisar si vuelve a aparecer más adelante)
     cutoff = now - timedelta(days=SEEN_TTL_DAYS)
     seen = {k: v for k, v in seen.items()
-            if _parse(v) and _parse(v) > cutoff}
+            if _entry_ts(v) and _entry_ts(v) > cutoff}
 
-    new = [f for f in findings if _finding_key(f) not in seen]
-    for f in findings:                       # marca todo lo visto ahora
+    new: list[Finding] = []
+    for f in findings:
+        if _finding_key(f) in seen:
+            continue
+        # dedup suave: mismo producto, precio casi igual → misma oferta
+        ent = seen.get(_pid_key(f))
+        if isinstance(ent, dict):
+            cached_price = ent.get("price", 0)
+            if cached_price > 0:
+                diff = abs(f.product.price - cached_price) / cached_price
+                if diff <= PRICE_TOL:
+                    continue
+        new.append(f)
+
+    for f in findings:
         seen[_finding_key(f)] = now.isoformat()
+        seen[_pid_key(f)] = {"ts": now.isoformat(), "price": f.product.price}
 
     SEEN.parent.mkdir(parents=True, exist_ok=True)
     SEEN.write_text(json.dumps(seen, ensure_ascii=False, indent=2),
@@ -152,6 +189,13 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
                 print("   Google Shopping habilitado pero falta BRIGHTDATA_SERP_ZONE; se omite.")
                 google = None
 
+        keepa = None
+        if os.environ.get("KEEPA_API_KEY"):
+            from .keepa import KeepaClient
+            keepa = KeepaClient(ROOT / "data" / "keepa_cache.json",
+                                ttl_hours=float(cfg.get("keepa_cache_ttl_hours", 24)))
+            print("   Keepa habilitado (historial Amazon.com.mx).")
+
         lookup_cache_path = ROOT / "data" / "lookup_cache.json"
         lookup_cache = {}
         if lookup_cache_path.exists():
@@ -167,7 +211,8 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
             google_max_lookups=int(gcfg.get("max_lookups", 15)),
             lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
             net_fallback=(net_fallback if net_fallback is not None
-                          else int(cfg.get("net_fallback", 40))))
+                          else int(cfg.get("net_fallback", 40))),
+            keepa=keepa)
         findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
 
         # guardia final: confirmar contra Amazon/Walmart/Sam's aunque NO se hayan
@@ -187,6 +232,9 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         if google is not None:
             google.save()
             print(f"   Consultas Google Shopping (red): {google.calls}")
+        if keepa is not None:
+            keepa.save()
+            print(f"   Consultas Keepa (red): {keepa.calls_made}")
         findings.sort(key=lambda f: f.discount_pct, reverse=True)
         print(f"Confirmados más baratos que la competencia (>= "
               f"{confirm_pct:.0f}%): {len(findings)}")
@@ -221,9 +269,12 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
     # exporta para GitHub Actions: solo notificamos si hay NUEVOS
     gha_out = os.environ.get("GITHUB_OUTPUT")
     if gha_out:
+        from .category import detect_all
+        labels = detect_all([f.product.name for f in new]) if new else []
         with open(gha_out, "a", encoding="utf-8") as fh:
             fh.write(f"findings={len(findings)}\n")
             fh.write(f"new={len(new)}\n")
+            fh.write(f"labels={','.join(labels)}\n")
     return len(new)
 
 

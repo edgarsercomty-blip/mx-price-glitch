@@ -99,6 +99,8 @@ def _label(o: Product) -> str:
     if o.store == "google":
         m = (o.extra or {}).get("merchant")
         return f"google/{m} ${o.price:,.0f}" if m else f"google ${o.price:,.0f}"
+    if o.store == "keepa_hist":
+        return f"keepa/hist90d ${o.price:,.0f}"
     return f"{o.store} ${o.price:,.0f}"
 
 
@@ -260,7 +262,8 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
            google_max_lookups: int = 15,
            lookup_cache: dict | None = None,
            lookup_ttl_hours: float = 48,
-           net_fallback: int = 40) -> list[Finding]:
+           net_fallback: int = 40,
+           keepa=None) -> list[Finding]:
     """Confirma candidatos más baratos que el mercado. Estrategia:
     1) comparar contra el POOL ya escaneado (gratis, en memoria);
     2) Google Shopping como árbitro (con modelo, presupuesto);
@@ -292,7 +295,18 @@ def verify(candidates: list[Finding], adapters: dict[str, StoreAdapter],
                         and same_product(p, gp)):
                     others.append(gp)
 
-        # 3) respaldo de red acotado: solo si no hubo match y tiene modelo
+        # 3) Keepa: historial de 90 días de Amazon.com.mx (solo para candidatos Amazon)
+        #    Permite confirmar deals aunque el producto no aparezca en otras tiendas MX.
+        if keepa is not None and keepa.available() and p.store == "amazon":
+            avg90 = keepa.lookup_url(p.url)
+            if avg90 and avg90 > 0:
+                from .models import Product as _P
+                others.append(_P(
+                    store="keepa_hist", name=p.name, url=p.url,
+                    price=avg90, model=p.model,
+                ))
+
+        # 4) respaldo de red acotado: solo si no hubo match y tiene modelo
         if not others and p.model and net_used < net_fallback:
             net_used += 1
             for key, ad in adapters.items():
