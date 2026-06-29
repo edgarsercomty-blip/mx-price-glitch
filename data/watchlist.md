@@ -1,4 +1,4 @@
-# Productos en vigilancia (27)
+# Productos en vigilancia (28)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -7,7 +7,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🔴 agotado | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | -70% |
 | 🟢 disponible | liverpool | [Refrigerador French door Whirlpool 20 pies tecnología no fro…](https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981) | $24,641 | -24% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED Evo AI C5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-c5-4k-smart-tv-2025-44636336.html) | $15,960 | -20% |
-| 🟢 disponible | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | -20% |
+| 🟢 disponible | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | -37% |
 | 🟢 disponible | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y no fr…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $23,204 | -36% |
 | 🟢 disponible | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,849 | -34% |
 | 🟢 disponible | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,867 | -34% |
@@ -31,3 +31,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4K 202…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $19,259 | -26% |
 | 🟢 disponible | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 536…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | -22% |
 | 🟢 disponible | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puertos, Ch…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $554 | -46% |
+| 🟢 disponible | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | -59% |

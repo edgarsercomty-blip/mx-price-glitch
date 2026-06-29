@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (32)
+# Historial de ofertas encontradas (33)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-29 15:56 | -59% | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | $6,009 en liverpool vs mercado -> -59% bajo la competencia |
 | 2026-06-29 11:29 | -46% | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puerto…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $554 | $554 en amazon vs walmart $1,024 -> -46% bajo la competencia |
 | 2026-06-28 04:16 | -22% | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | $1,399 en walmart vs mercado -> -22% bajo la competencia |
 | 2026-06-28 04:16 | -26% | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $19,259 | $19,259 en walmart vs amazon $38,999 -> -26% bajo la competencia |
