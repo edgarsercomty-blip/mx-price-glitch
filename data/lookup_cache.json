@@ -775,506 +775,6 @@
     "ts": "2026-06-29T11:27:38.859470+00:00",
     "items": []
   },
-  "homedepot|TL18KG": {
-    "ts": "2026-06-27T19:36:24.799736+00:00",
-    "items": []
-  },
-  "liverpool|TL18KG": {
-    "ts": "2026-06-27T19:36:26.097993+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pulsera Caos de plata Baalam con acabado baño de oro",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-de-plata-Baalam-con-acabado-ba%C3%B1o-de-oro/9959264130",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Caos 18 k con acabado chapa de oro",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-18-k-con-acabado-chapa-de-oro/99989484779",
-        "price": 1049.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Caos Baalam con acabado chapa de oro 18K",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Caos-Baalam-con-acabado-chapa-de-oro-18K/99989485564",
-        "price": 1049.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Luckman de acero",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-de-acero/1110636047",
-        "price": 519.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Control Remoto para Aire Acondicionado Daewoo GZ-1002A-E3",
-        "url": "https://liverpool.com.mx/tienda/pdp/Control-Remoto-para-Aire-Acondicionado-Daewoo-GZ-1002A-E3/1131688829",
-        "price": 579.0,
-        "model": "GZ-1002A-E3"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pulsera Luckman con acabado pulido",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pulsera-Luckman-con-acabado-pulido/1110632092",
-        "price": 499.0,
-        "model": null
-      }
-    ]
-  },
-  "palacio|TL18KG": {
-    "ts": "2026-06-27T19:36:26.493995+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Set 3 sartenes en aluminio Trendy Titanium",
-        "url": "https://www.elpalaciodehierro.com/t-fal-set-3-sartenes-en-aluminio-trendy-titanium-45370407.html",
-        "price": 1759.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén en aluminio Delight 24 cm Beige",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-24-cm-beige-42893720.html",
-        "price": 1119.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén en Aluminio Delight Mineralia 28 cm",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-mineralia-28-cm-42893721.html",
-        "price": 1439.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Batería de cocina en aluminio Supercook 22 Piezas, Negro",
-        "url": "https://www.elpalaciodehierro.com/t-fal-bateria-de-cocina-en-aluminio-supercook-22-piezas-negro-45485032.html",
-        "price": 3599.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén redondo en aluminio Excellence+ 20 cm negro",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-redondo-en-aluminio-excellence-20-cm-negro-45370401.html",
-        "price": 1199.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Licuadora Ultraforce, 8 Velocidades, Negra",
-        "url": "https://www.elpalaciodehierro.com/t-fal-licuadora-ultraforce-8-velocidades-negra-43169074.html",
-        "price": 1319.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aceite de Wasabi, 170 g",
-        "url": "https://www.elpalaciodehierro.com/yamato-aceite-de-wasabi-170-g-43553971.html",
-        "price": 1050.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190515.html",
-        "price": 33500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro rosa de 18 kilates Belle Époque Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-rosa-de-18-kilates-belle-epoque-mujer-45190489.html",
-        "price": 69600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190525.html",
-        "price": 54200.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro blanco de 18 kilates Belle Époque con diamantes Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-belle-epoque-con-diamantes-mujer-45190475.html",
-        "price": 105900.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro blanco de 18 kilates Margherita con diamantes Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-blanco-de-18-kilates-margherita-con-diamantes-mujer-45190521.html",
-        "price": 92000.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|TL18KG": {
-    "ts": "2026-06-27T19:36:28.480066+00:00",
-    "items": []
-  },
-  "sams|TL18KG": {
-    "ts": "2026-06-27T19:36:32.421501+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Whisky Ballantine's  1 l",
-        "url": "https://www.sams.com.mx/ip/whisky-ballantine-s-1-l/000172894",
-        "price": 298.72,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Ginebra Hendrick's  1 l",
-        "url": "https://www.sams.com.mx/ip/ginebra-hendrick-s-1-l/981036568",
-        "price": 995.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vodka Smirnoff  1 l",
-        "url": "https://www.sams.com.mx/ip/vodka-smirnoff-1-l/000145772",
-        "price": 231.2,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tequila 1800  1 l",
-        "url": "https://www.sams.com.mx/ip/tequila-1800-1-l/981026586",
-        "price": 736.54,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sangrita Viuda de Sánchez  1 l",
-        "url": "https://www.sams.com.mx/ip/sangrita-viuda-de-sanchez-1-l/000010653",
-        "price": 120.7,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licor de Naranja Controy  1 l",
-        "url": "https://www.sams.com.mx/ip/licor-de-naranja-controy-1-l/000023613",
-        "price": 231.17,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Rompope Coronado  Vainilla 1 l",
-        "url": "https://www.sams.com.mx/ip/rompope-coronado-vainilla-1-l/000000720",
-        "price": 213.79,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bactericida Member's Mark  1 L",
-        "url": "https://www.sams.com.mx/ip/bactericida-member-s-mark-1-l/000729800",
-        "price": 91.04,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vodka Absolut  Original 1 L",
-        "url": "https://www.sams.com.mx/ip/vodka-absolut-original-1-l/981012434",
-        "price": 416.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vodka Absolut  Raspberri 1 l",
-        "url": "https://www.sams.com.mx/ip/vodka-absolut-raspberri-1-l/981022982",
-        "price": 416.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vodka STOLI   The Original 1 l",
-        "url": "https://www.sams.com.mx/ip/vodka-stoli-the-original-1-l/981041251",
-        "price": 411.2,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vinagre Balsámico Bertolli  1 l",
-        "url": "https://www.sams.com.mx/ip/vinagre-balsamico-bertolli-1-l/000172789",
-        "price": 126.85,
-        "model": null
-      }
-    ]
-  },
-  "amazon|VELOCIBICICLETARODADAURBANAVELOCI": {
-    "ts": "2026-06-27T19:36:38.886713+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
-        "price": 4959.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
-        "price": 2959.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
-        "price": 4319.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
-        "price": 4079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DPJ7LP4X",
-        "price": 2704.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
-        "price": 4639.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
-        "price": 3695.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
-        "price": 2949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodado 26 Plata De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0DXG8WBMR",
-        "price": 4639.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|VELOCIBICICLETARODADAURBANAVELOCI": {
-    "ts": "2026-06-27T19:36:53.468266+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
-        "price": 5699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
-        "price": 4779.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus 2.0 Rodada 26 Azul De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-26-azul-de-montana/00750305714003?athbdg=L1300",
-        "price": 3849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Naukas Pro FD Rodada 26 Verde De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-naukas-pro-fd-rodada-26-verde-de-montana/00750305714004?athbdg=L1300",
-        "price": 5103.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus 2.0 Rodada 24 Azul De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-24-azul-de-montana/00750305544797?athbdg=L6000",
-        "price": 5368.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-mujer-frenos-v-acero/00750230679184",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus 2.0 Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-2-0-rodada-29-rojo-de-montana/00750305714012?athbdg=L1300",
-        "price": 4487.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 26 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-rojo-de-montana/00750305714006?athbdg=L1300",
-        "price": 3999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|VELOCIBICICLETARODADAURBANAVELOCI": {
-    "ts": "2026-06-27T19:36:56.942874+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
-        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
-        "price": 5491.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
-        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
-        "price": 3577.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cuatrimoto Veloci  Hammer KX Force 200 2026 Gris",
-        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-200-2026-gris/981041462",
-        "price": 48999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Xeverus Evo Pro 330 2026 Negro",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-evo-pro-330-2026-negro/981041595",
-        "price": 40999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Breakstorm Evo VO SP 330 Gris 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-breakstorm-evo-vo-sp-330-gris-2026/981043298",
-        "price": 42999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Argent X3 125 2026 Plata",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-argent-x3-125-2026-plata/981041467",
-        "price": 17999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Rojo",
-        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-rojo/981054204",
-        "price": 50499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motoneta VELOCI  Thyron Evo Sport 200cc 2027",
-        "url": "https://www.sams.com.mx/ip/motoneta-veloci-thyron-evo-sport-200cc-2027/981054210",
-        "price": 26999.0,
-        "model": "200cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motoneta Veloci  Draxter RX Sport 125 Rojo 2026",
-        "url": "https://www.sams.com.mx/ip/motoneta-veloci-draxter-rx-sport-125-rojo-2026/981043302",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motoneta Veloci  Argent X3 125 2026 Rojo",
-        "url": "https://www.sams.com.mx/ip/motoneta-veloci-argent-x3-125-2026-rojo/981041468",
-        "price": 17999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motoneta VELOCI  Atrio Evo Sport 200cc 2027 Rojo",
-        "url": "https://www.sams.com.mx/ip/motoneta-veloci-atrio-evo-sport-200cc-2027-rojo/981054199",
-        "price": 23999.0,
-        "model": "200cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
-        "price": 41999.0,
-        "model": null
-      }
-    ]
-  },
   "amazon|98QM8K": {
     "ts": "2026-06-28T02:48:54.821823+00:00",
     "items": [
@@ -10875,6 +10375,741 @@
         "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-13-kg-de-lavado-8-kg-de-secado-wd13fg6b34bbax/981045236",
         "price": 14997.18,
         "model": "WD13FG6B34BBAX"
+      }
+    ]
+  },
+  "liverpool|50QNED82": {
+    "ts": "2026-06-29T20:06:12.891313+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA con WebOS con AI webOS",
+        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957",
+        "price": 8499.0,
+        "model": "50QNED82ASA"
+      },
+      {
+        "store": "liverpool",
+        "name": "Funda Xiaomi para contro remoto",
+        "url": "https://liverpool.com.mx/tienda/pdp/Funda-Xiaomi-para-contro-remoto/1114615745",
+        "price": 419.0,
+        "model": null
+      }
+    ]
+  },
+  "coppel|50QNED82": {
+    "ts": "2026-06-29T20:06:16.524149+00:00",
+    "items": []
+  },
+  "palacio|50QNED82": {
+    "ts": "2026-06-29T20:06:16.737932+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Sound Tower MX-ST50B ZX Bluetooth 240W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-inalambrica-sound-tower-mx-st50b-zx-bluetooth-240w-43403107.html",
+        "price": 5942.04,
+        "model": "MX-ST50B"
+      },
+      {
+        "store": "palacio",
+        "name": "Apple TV Tercera Generacion 4K 64 GB Wi-Fi, Negro",
+        "url": "https://www.elpalaciodehierro.com/apple-apple-tv-tercera-generacion-4k-64-gb-wi-fi-negro-42903548.html",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lente de Cámara SELP16502, 16-50 mm, zoom estándar",
+        "url": "https://www.elpalaciodehierro.com/sony-lente-de-camara-selp16502-16-50-mm-zoom-estandar-44170357.html",
+        "price": 6078.87,
+        "model": "SELP16502"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
+        "price": 17639.51,
+        "model": "QNED85"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
+        "price": 19999.0,
+        "model": "QN90F"
+      },
+      {
+        "store": "palacio",
+        "name": "Pulsera Hombre",
+        "url": "https://www.elpalaciodehierro.com/uno-de-50-pulsera-hombre-40067967.html",
+        "price": 2089.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pulsera My Energy Hombre",
+        "url": "https://www.elpalaciodehierro.com/uno-de-50-pulsera-my-energy-hombre-40358348.html",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina bafle Inalámbrica Sound tower ST50F 80 W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-bafle-inalambrica-sound-tower-st50f-80-w-45479305.html",
+        "price": 11998.7,
+        "model": "ST50F"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html",
+        "price": 25998.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
+        "price": 18998.7,
+        "model": "QN55QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop Gaming 16WQXGA 16\" Nvidia RTX 5060 Intel Core Ultra 7-HX, RAM 32 GB (2 x 16 GB), 1TB SSD",
+        "url": "https://www.elpalaciodehierro.com/alienware-laptop-gaming-16wqxga-16-nvidia-rtx-5060-intel-core-ultra-7-hx-ram-32-gb-2-x-16-gb-1tb-ssd-44932250.html",
+        "price": 45474.15,
+        "model": "16WQXGA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pulsera con murano Hombre",
+        "url": "https://www.elpalaciodehierro.com/uno-de-50-pulsera-con-murano-hombre-44733065.html",
+        "price": 2349.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|50QNED82": {
+    "ts": "2026-06-29T20:06:21.674545+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense Television A65N (Modelo 2025) Pantalla 50 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, Modo de Juego Plus, ALLM",
+        "url": "https://www.amazon.com.mx/dp/B0FKY269FL",
+        "price": 4987.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A65N (Modelo 2025) Pantalla 55 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, DTS Virtual: X, mira TV en Vivo sin Cable",
+        "url": "https://www.amazon.com.mx/dp/B0F4FRFK6P",
+        "price": 5990.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 55\" Pulgadas Mini LED UN55M80HAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GX2MNZ6Z",
+        "price": 8749.0,
+        "model": "UN55M80HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV 50\" Mini LED UN50M70HAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GXGNR7QG",
+        "price": 6740.0,
+        "model": "UN50M70HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 40\" 40Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMWY6R7",
+        "price": 3288.0,
+        "model": "40Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "Sharp Smart TV Pantalla 50\" LED Roku TV 4K UHD | HDR | Roku OS | Wi-Fi | Dolby Audio | 4× HDMI | USB | Panel 60 Hz | Ultra Alta Definición",
+        "url": "https://www.amazon.com.mx/dp/B0GP9D9FYW",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 65\" Pulgadas Mini LED UN65M80HAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GX2GXLPV",
+        "price": 11999.0,
+        "model": "UN65M80HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Televisor Inteligente Serie Q3 de 43\" Pulgadas Full HD (1080p) QLED Quantum Dot (2025) Smart Google, HDR, y Bajo Retraso, Gaming TV - 43Q31K",
+        "url": "https://www.amazon.com.mx/dp/B0GV1C1DQD",
+        "price": 3695.0,
+        "model": "43Q31K"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD6QFM (Modelo 2025) Pantalla 50 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
+        "url": "https://www.amazon.com.mx/dp/B0F1YJ15F9",
+        "price": 5298.0,
+        "model": "QD6QFM"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas UHD AI UA7550 4K Smart TV 2025 55UA7550PSA | Sistema Operativo webOS | Identificación de Voz AI | HGIG Mode Channels | Sport Alert | HDR10 | Control Magic Remote AI",
+        "url": "https://www.amazon.com.mx/dp/B0FMW1WPH1",
+        "price": 6999.0,
+        "model": "55UA7550PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
+        "price": 14075.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Serie QD4 Hi-QLED FHD Smart Fire TV de 40 Pulgadas (40QD4QF, Modelo 2025) - Color de Punto cuántico, DTS Virtual: X, Alexa Integrado, diseño de Bisel Delgado",
+        "url": "https://www.amazon.com.mx/dp/B0FBYQHQH1",
+        "price": 5299.0,
+        "model": "40QD4QF"
+      }
+    ]
+  },
+  "sams|50QNED82": {
+    "ts": "2026-06-29T20:06:25.088890+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  50\" QNED Smart TV 50QNED70",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-50-qned-smart-tv-50qned70/981052382",
+        "price": 8181.95,
+        "model": "50QNED70"
+      }
+    ]
+  },
+  "mercadolibre|50QNED82": {
+    "ts": "2026-06-29T20:06:44.905342+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Lg Tv 4k Qned Tv De 75 Pulgadas Impecable",
+        "url": "https://www.mercadolibre.com.mx/lg-tv-4k-qned-tv-de-75-pulgadas-impecable/up/MLMU4131236993",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "LG 55 Nan0775ra",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2265148443-lg-55-nan0775ra-_JM",
+        "price": 950.0,
+        "model": "Nan0775ra"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lg 42lf5800 Tv Partes",
+        "url": "https://www.mercadolibre.com.mx/lg-42lf5800-tv-partes/up/MLMU933247166",
+        "price": 2200.0,
+        "model": "42lf5800"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla LG 65 Qned",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-1503927948-pantalla-lg-65-qned-_JM",
+        "price": 23500.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Pantalla 50 50q5k Tcl Google Qled 4k Voice Control",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-5283116858-smart-tv-pantalla-50-50q5k-tcl-google-qled-4k-voice-control-_JM",
+        "price": 6500.0,
+        "model": "50q5k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente QNED evo AI QNED92A Mini LED 4K 85\" LG",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-qned-evo-ai-qned92a-mini-led-4k-85-lg/p/MLM70042233",
+        "price": 45999.0,
+        "model": "QNED92A"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Qled Pulgadas Smart Hisense 100qd7n 100 Google",
+        "url": "https://www.mercadolibre.com.mx/pantalla-qled-pulgadas-smart-hisense-100qd7n-100-google/up/MLMU3769569881",
+        "price": 48395.0,
+        "model": "100qd7n"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Jvc 50 Fhd Para Piezas O Reparar",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2945777317-smart-tv-jvc-50-fhd-para-piezas-o-reparar-_JM",
+        "price": 2500.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|86UA8050": {
+    "ts": "2026-06-29T20:08:06.050829+00:00",
+    "items": []
+  },
+  "coppel|86UA8050": {
+    "ts": "2026-06-29T20:08:10.327514+00:00",
+    "items": []
+  },
+  "palacio|86UA8050": {
+    "ts": "2026-06-29T20:08:10.486907+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
+        "price": 15599.4,
+        "model": "VR122HD"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR182CW 18,000 BTU's, 1.5 Toneladas 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr182cw-18000-btus-1.5-toneladas-220v-solo-frio-38239324.html",
+        "price": 20149.35,
+        "model": "VR182CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Charm para Piercing Take Me to Church Unisex",
+        "url": "https://www.elpalaciodehierro.com/uno-de-50-charm-para-piercing-take-me-to-church-unisex-41849519.html",
+        "price": 461.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Piercing Hula Hoop Unisex",
+        "url": "https://www.elpalaciodehierro.com/uno-de-50-piercing-hula-hoop-unisex-41849433.html",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Bluetooth Soundlink Plus Sunpeach 80 W",
+        "url": "https://www.elpalaciodehierro.com/bose-bocina-inalambrica-bluetooth-soundlink-plus-sunpeach-80-w-45371049.html",
+        "price": 6599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Black Smart HQ 18,000 BTUaposs, 1.5 Toneladas 220 V Frio-Calor",
+        "url": "https://www.elpalaciodehierro.com/haier-aire-acondicionado-minisplit-black-smart-hq-18000-btuaposs-1.5-toneladas-220-v-frio-calor-43089529.html",
+        "price": 17819.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Piercing en oro blanco de 18 kilates con diamante Mujer",
+        "url": "https://www.elpalaciodehierro.com/aristocrazy-piercing-en-oro-blanco-de-18-kilates-con-diamante-mujer-43948311.html",
+        "price": 7500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Medalla San Judas Tadeo en oro amarillo de 14 Kilates Mujer",
+        "url": "https://www.elpalaciodehierro.com/oro-gold-medalla-san-judas-tadeo-en-oro-amarillo-de-14-kilates-mujer-43494345.html",
+        "price": 4229.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo con ámbar Mujer",
+        "url": "https://www.elpalaciodehierro.com/mackech-anillo-con-ambar-mujer-43418488.html",
+        "price": 5985.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pendientes Copernicus Kepler en oro amarillo de 18 Kilates Mujer",
+        "url": "https://www.elpalaciodehierro.com/hstern-pendientes-copernicus-kepler-en-oro-amarillo-de-18-kilates-mujer-41971003.html",
+        "price": 104500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Anillo en oro amarillo de 18 kilates Copernicus Kepler Mujer",
+        "url": "https://www.elpalaciodehierro.com/hstern-anillo-en-oro-amarillo-de-18-kilates-copernicus-kepler-mujer-41809655.html",
+        "price": 96300.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 12999.35,
+        "model": "VM121C9"
+      }
+    ]
+  },
+  "amazon|86UA8050": {
+    "ts": "2026-06-29T20:08:12.628169+00:00",
+    "items": []
+  },
+  "sams|86UA8050": {
+    "ts": "2026-06-29T20:08:17.204489+00:00",
+    "items": []
+  },
+  "mercadolibre|86UA8050": {
+    "ts": "2026-06-29T20:08:44.164778+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Lg 86up8770pua Lgp86nt-21u1 Eay65895552 Tyt",
+        "url": "https://www.mercadolibre.com.mx/fuente-lg-86up8770pua-lgp86nt21u1-eay65895552-tyt/up/MLMU3765882596",
+        "price": 1088.0,
+        "model": "Lgp86nt-21u1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Eax 65610206 1 0 Main Lg 47lb6100 Ug",
+        "url": "https://www.mercadolibre.com.mx/eax-65610206-1-0-main-lg-47lb6100-ug/up/MLMU990314202",
+        "price": 2000.0,
+        "model": "47lb6100"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tarjeta Main Lg 86up8770pua (eax69462005(1.0) *426",
+        "url": "https://www.mercadolibre.com.mx/tarjeta-main-lg-86up8770pua-eax6946200510-426/up/MLMU943274131",
+        "price": 1850.0,
+        "model": "86up8770pua"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "6870s 1993a Tiras Lg 55ug8700 Ua Serie T4l",
+        "url": "https://www.mercadolibre.com.mx/6870s-1993a-tiras-lg-55ug8700-ua-serie-t4l/up/MLMU696966573",
+        "price": 400.0,
+        "model": "55ug8700"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "6870s 1814a Tiras Lg 55ub8500 Ua Serie Arr",
+        "url": "https://www.mercadolibre.com.mx/6870s-1814a-tiras-lg-55ub8500-ua-serie-arr/up/MLMU693943449",
+        "price": 400.0,
+        "model": "55ub8500"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Para Tv LG 55ua7500zua Eax70337404",
+        "url": "https://www.mercadolibre.com.mx/placa-principal-50ua8550psa-eax7033740411/p/MLM2089657732",
+        "price": 1200.0,
+        "model": "55ua7500zua"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main + Tcon Philips Juc7.820.00293822  70pfl5656/f8",
+        "url": "https://www.mercadolibre.com.mx/main-tcon-atvio-juc782000293822-ark5017iled-ark-5017iled/p/MLM2081659209",
+        "price": 1280.0,
+        "model": "70pfl5656/f8"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tcon Tv Philips Jvc 55pul6653/f8 St5461d12-6-c-1 Si55ur",
+        "url": "https://www.mercadolibre.com.mx/tcon-tv-philips-jvc-55pul6653f8-st5461d12-6-c-1-si55ur/p/MLM2093109380",
+        "price": 549.0,
+        "model": "St5461d12-6-c-1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Philips 40-ms22e1-maa2hg 58pfl5656/f8 Lvu580padx",
+        "url": "https://www.mercadolibre.com.mx/mainboard-philips-40-ms22e1-maa2hg-50pfl6775f8/p/MLM2089259150",
+        "price": 1140.0,
+        "model": "40-ms22e1-maa2hg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tarjeta Tcon Para Tv Jvc Si75urf Td-000p  St7461d03-2",
+        "url": "https://www.mercadolibre.com.mx/tarjeta-tcon-para-tv-jvc-si75urf-td-000p-st7461d03-2/p/MLM2083505121",
+        "price": 559.0,
+        "model": "St7461d03-2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Para Philips 65pvl6653/f8. V8-mr17k01-lf1v",
+        "url": "https://www.mercadolibre.com.mx/main-para-philips-65pvl6653f8-v8mr17k01lf1v/up/MLMU4157905151",
+        "price": 950.0,
+        "model": "V8-mr17k01-lf1v"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main LG 86un8570puc Ebt66472101 86un8570puc.buswljr Tyt",
+        "url": "https://www.mercadolibre.com.mx/main-tcon-lg-ebt66472101-86un8570audbuswlkr-86un8570aud/p/MLM2082287935",
+        "price": 1599.0,
+        "model": "86un8570puc"
+      }
+    ]
+  },
+  "amazon|VELOCIBICICLETAVELOCIRODADAURBANA": {
+    "ts": "2026-06-29T20:08:50.858375+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
+        "price": 4959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
+        "price": 2959.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
+        "price": 4319.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ7LP4X",
+        "price": 2704.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
+        "price": 4639.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ85J7X",
+        "price": 3049.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
+        "price": 3695.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mercurio Bicicleta Urbana Comfort Regina R24 7 Velocidades Morada Ligera y Cómoda para la Ciudad",
+        "url": "https://www.amazon.com.mx/dp/B0FQG5DM75",
+        "price": 4150.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
+        "url": "https://www.amazon.com.mx/dp/B0DPJ6XRMF",
+        "price": 3199.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETAVELOCIRODADAURBANA": {
+    "ts": "2026-06-29T20:09:16.692854+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+        "price": 5699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
+        "price": 6044.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
+        "price": 3704.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
+        "price": 5264.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 26 Oro De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-oro-de-montana/00750305714007?athbdg=L1300",
+        "price": 5167.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Hiperion Rodada 20 Gris Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-hiperion-rodada-20-gris-infantil/00750306181633?athbdg=L6000",
+        "price": 3075.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci TRX M/Rig Rodada 26 Amarillo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-trx-m-rig-rodada-26-amarillo-de-montana/00750305714010?athbdg=L1300",
+        "price": 3039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-mujer-frenos-v-acero/00750230679184",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-20-rojo-infantil/00750305544795?athbdg=L6000",
+        "price": 5198.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Naukas Pro FD Rodada 26 Verde De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-naukas-pro-fd-rodada-26-verde-de-montana/00750305714004?athbdg=L1300",
+        "price": 5654.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETAVELOCIRODADAURBANA": {
+    "ts": "2026-06-29T20:09:24.178190+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 24 Morado",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-24-morado/981020930",
+        "price": 5491.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
+        "price": 3577.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Xeverus 330cc 2027 Gris",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-330cc-2027-gris/981054211",
+        "price": 41999.0,
+        "model": "330cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Razzer GTR 220cc 2027",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-gtr-220cc-2027/981054206",
+        "price": 30999.0,
+        "model": "220cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Dark Thunder Hyper Scrambler Negro 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-dark-thunder-hyper-scrambler-negro-2026/981043285",
+        "price": 39999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuatrimoto VELOCI  Hammer KX Force 2027 Gris",
+        "url": "https://www.sams.com.mx/ip/cuatrimoto-veloci-hammer-kx-force-2027-gris/981054203",
+        "price": 49999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Snake GT Trail Edition 250cc 2027 Gris",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250cc-2027-gris/981054209",
+        "price": 33999.0,
+        "model": "250cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
+        "price": 41999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Boxter RT3 220cc 2027 Negro",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-boxter-rt3-220cc-2027-negro/981054200",
+        "price": 20499.0,
+        "model": "220cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta VELOCI  Xeverus 330cc 2027 Rojo",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-330cc-2027-rojo/981054212",
+        "price": 41999.0,
+        "model": "330cc"
+      },
+      {
+        "store": "sams",
+        "name": "Motoneta Veloci  Argent X3 125 2026 Rojo",
+        "url": "https://www.sams.com.mx/ip/motoneta-veloci-argent-x3-125-2026-rojo/981041468",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Motocicleta Veloci  Argent X3 125 2026 Plata",
+        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-argent-x3-125-2026-plata/981041467",
+        "price": 17999.0,
+        "model": null
       }
     ]
   }
