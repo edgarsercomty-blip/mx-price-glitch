@@ -189,12 +189,12 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
                 print("   Google Shopping habilitado pero falta BRIGHTDATA_SERP_ZONE; se omite.")
                 google = None
 
-        keepa = None
-        if os.environ.get("KEEPA_API_KEY"):
-            from .keepa import KeepaClient
-            keepa = KeepaClient(ROOT / "data" / "keepa_cache.json",
-                                ttl_hours=float(cfg.get("keepa_cache_ttl_hours", 24)))
-            print("   Keepa habilitado (historial Amazon.com.mx).")
+        from .pricehist import PriceHistory
+        pricehist = PriceHistory(
+            ROOT / "data" / "price_history.json",
+            window_days=int(cfg.get("history_window_days", 90)),
+            min_points=int(cfg.get("history_min_points", 3)))
+        print(f"   Histórico propio: {pricehist.n_series} series cargadas.")
 
         lookup_cache_path = ROOT / "data" / "lookup_cache.json"
         lookup_cache = {}
@@ -212,7 +212,7 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
             lookup_cache=lookup_cache, lookup_ttl_hours=lookup_ttl,
             net_fallback=(net_fallback if net_fallback is not None
                           else int(cfg.get("net_fallback", 40))),
-            keepa=keepa)
+            pricehist=pricehist)
         findings += detect.cross_store(products, threshold, max_pct)  # por EAN si lo hay
 
         # guardia final: confirmar contra Amazon/Walmart/Sam's aunque NO se hayan
@@ -232,9 +232,11 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         if google is not None:
             google.save()
             print(f"   Consultas Google Shopping (red): {google.calls}")
-        if keepa is not None:
-            keepa.save()
-            print(f"   Consultas Keepa (red): {keepa.calls_made}")
+        # registra los precios de HOY (después de verificar) y poda la ventana
+        touched = pricehist.record(products)
+        pricehist.prune()
+        pricehist.save()
+        print(f"   Histórico propio: +{touched} puntos, {pricehist.n_series} series.")
         findings.sort(key=lambda f: f.discount_pct, reverse=True)
         print(f"Confirmados más baratos que la competencia (>= "
               f"{confirm_pct:.0f}%): {len(findings)}")
