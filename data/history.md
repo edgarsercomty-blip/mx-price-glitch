@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (43)
+# Historial de ofertas encontradas (46)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-30 14:40 | -28% | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | $26,950 en palacio vs mercado -> -28% bajo la competencia |
+| 2026-06-30 14:40 | -53% | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 20…](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | $8,499 en walmart vs mercado -> -53% bajo la competencia |
+| 2026-06-30 14:40 | -54% | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -54% bajo la competencia |
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |

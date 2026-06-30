@@ -722,382 +722,6 @@
     "ts": "2026-06-30T09:59:05.870826+00:00",
     "items": []
   },
-  "homedepot|QDOSTEMPLADOCRISTALQDOSMICA": {
-    "ts": "2026-06-28T14:03:38.483041+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "LÁMPARA COLGANTE CLÁSICO 30162-1 VIDRIO CRISTAL CROMO 3 LUCES INCANDESCENTE",
-        "url": "https://www.homedepot.com.mx/p/artistica-lampara-colgante-clasico-30162-1-vidrio-cristal-cromo-3-luces-incandescente-30162-1-190283",
-        "price": 3699.0,
-        "model": "190283"
-      }
-    ]
-  },
-  "palacio|QDOSTEMPLADOCRISTALQDOSMICA": {
-    "ts": "2026-06-28T14:03:38.837136+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Vaso Curvo Iris en vidrio, 370 ml",
-        "url": "https://www.elpalaciodehierro.com/rostan-vaso-curvo-iris-en-vidrio-370-ml-44520455.html",
-        "price": 84.15,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mini Vaso Medidor transparente",
-        "url": "https://www.elpalaciodehierro.com/k%C3%BCchenprofi-mini-vaso-medidor-transparente-41024731.html",
-        "price": 164.25,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 Tazas Medidoras Menta",
-        "url": "https://www.elpalaciodehierro.com/nordicware-set-6-tazas-medidoras-menta-41034452.html",
-        "price": 335.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal Reposado 400 Conejos, 700 ml",
-        "url": "https://www.elpalaciodehierro.com/400-conejos-mezcal-reposado-400-conejos-700-ml-44056347.html",
-        "price": 728.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Plato para taza de café Cantini liso",
-        "url": "https://www.elpalaciodehierro.com/trinitate-plato-para-taza-de-cafe-cantini-liso-44982179.html",
-        "price": 119.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tarro Stoneware Blanco 350Ml",
-        "url": "https://www.elpalaciodehierro.com/mason-cash-tarro-stoneware-blanco-350ml-43621702.html",
-        "price": 209.3,
-        "model": "350Ml"
-      },
-      {
-        "store": "palacio",
-        "name": "Taza Medidora Azul claro",
-        "url": "https://www.elpalaciodehierro.com/oxo-taza-medidora-azul-claro-37465544.html",
-        "price": 449.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 2 Vasos Sorrento",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-vasos-sorrento-39346067.html",
-        "price": 1297.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 2 Tazas para Café Sorrento Plus",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-tazas-para-cafe-sorrento-plus-38719624.html",
-        "price": 1095.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal Amaras Cupreata, 750 ml",
-        "url": "https://www.elpalaciodehierro.com/amaras-mezcal-amaras-cupreata-750-ml-41621356.html",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal Espadín, 750 ml",
-        "url": "https://www.elpalaciodehierro.com/rey-campero-mezcal-espadin-750-ml-45133102.html",
-        "price": 790.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal San Luis, 700 ml",
-        "url": "https://www.elpalaciodehierro.com/derrumbes-mezcal-san-luis-700-ml-45568994.html",
-        "price": 730.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|QDOSTEMPLADOCRISTALQDOSMICA": {
-    "ts": "2026-06-28T14:03:41.418085+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "JETech Protector Pantalla para iPhone 17 6.3 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 9H Dureza, Amigable para Funda, 3 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B0FJL9J43M",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector Pantalla para iPhone 17 Pro Max 6.9 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 9H Dureza, Amigable para Funda, 3 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B0FJL4YW73",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Protector de Pantalla Privacidad para iPhone 17 con Protector Cámara, Antiespia Mica Cristal Vidrio Templado, 9H Dureza, con Marco de Instalación Fácil Anti-Burbujas",
-        "url": "https://www.amazon.com.mx/dp/B0FV31XCZK",
-        "price": 149.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector de Pantalla para iPhone 16 6.1 Pulgadas, Mica Cristal Vidrio Templado con Marco de Instalación Fácil, Amigable para Funda, HD Transparente, 3 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B0DBZR3TX7",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector Pantalla de Privacidad para iPhone 17 Pro Max 6.9 Pulgadas, Antiespia Mica Cristal Vidrio Templado con Marco de Instalación Fácil, 2 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B0FJG9P2LB",
-        "price": 279.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ivoler 2 Piezas Protector de Pantalla para iPhone 17 Pro 6.3 Pulgadas, Mica Cristal Vidrio Templado Incluye Marco de Instalación Fácil, Anti-Arañazos, 9H Dureza, Ultra HD",
-        "url": "https://www.amazon.com.mx/dp/B0FGNCB55X",
-        "price": 99.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2x Mica Protector de Pantalla Para iPhone 17 Pro Max 6.9\" Cristal Vidrio Templado Screen Protector Fácil Instalación Sin Burbujas HD Cobertura Total Compatible con Estuches WCC",
-        "url": "https://www.amazon.com.mx/dp/B0F21VW31Y",
-        "price": 139.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector de Pantalla para Samsung Galaxy A56 5G, Mica Cristal Vidrio Templado 9H, Anti-Arañazos, HD Clara, 3 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B0DXPNR85H",
-        "price": 210.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YAPANIZCEL MICA PARA SAMSUNG GALAXY A07 2 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible con A07, Cristal Vidrio Templado (2 Micas privacidad)",
-        "url": "https://www.amazon.com.mx/dp/B0FCJ3G9QC",
-        "price": 126.9,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YAPANIZCEL MICA PARA SAMSUNG GALAXY A56 2 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible con A56 5G, Cristal Vidrio Templado (2 Micas)",
-        "url": "https://www.amazon.com.mx/dp/B0DNRLK16G",
-        "price": 116.28,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YAPANIZCEL MICA PARA XIAOMI REDMI 15C - POCO C85 3 UNIDADES, MICA CRISTAL TEMPLADO Protector de Pantalla Compatible Redmi 15c - Poco C85, Cristal Vidrio Templado 3 Micas)",
-        "url": "https://www.amazon.com.mx/dp/B0FPXVVM9Y",
-        "price": 129.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YAPANIZCEL MICA DE PRIVACIDAD PARA IPHONE 17e Y IPHONE 16e, 2 UNIDADES, MICA CRISTAL TEMPLADO Anti Espía Cristal Vidrio Templado (2 Micas privacidad)",
-        "url": "https://www.amazon.com.mx/dp/B0DXR297FY",
-        "price": 120.56,
-        "model": null
-      }
-    ]
-  },
-  "walmart|QDOSTEMPLADOCRISTALQDOSMICA": {
-    "ts": "2026-06-28T14:03:51.382362+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Mica de Cristal templado 9D Gadgets and Fun Protege toda la pantalla",
-        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-9d-gadgets-and-fun-protege-toda-la-pantalla/00067962807033?athbdg=L6000",
-        "price": 349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cristal templado Gadgets and Fun 9d Protege toda la pantalla",
-        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-gadgets-and-fun-9d-protege-toda-la-pantalla/00061419883131?athbdg=L6000",
-        "price": 349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Pantalla Cristal Templado MR. GADGETS 9D Mayoreo 10 Pcs Para iPhone X/XS/11 Pro",
-        "url": "https://www.walmart.com.mx/ip/mica-pantalla-cristal-templado-mr-gadgets-9d-mayoreo-10-pcs-para-iphone-x-xs-11-pro/00750305300835",
-        "price": 279.0,
-        "model": "X/XS/11"
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Titanio, Alta Claridad y Ajuste Perfecto",
-        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-titanio-alta-claridad-y-ajuste-perfecto/00750305875807",
-        "price": 212.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Teknet Mica Cristal Templado para Lenovo Tab M11 TB330 de 11 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/teknet-mica-cristal-templado-para-lenovo-tab-m11-tb330-de-11-pulgadas/00750305071877?athbdg=L6000",
-        "price": 269.48,
-        "model": "TB330"
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Plateado, Alta Claridad y Ajuste Perfecto",
-        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-plateado-alta-claridad-y-ajuste-perfecto/00750305875802",
-        "price": 212.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Negro, Alta Claridad y Ajuste Perfecto",
-        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-negro-alta-claridad-y-ajuste-perfecto/00750305875804",
-        "price": 212.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Oro, Alta Claridad y Ajuste Perfecto",
-        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-oro-alta-claridad-y-ajuste-perfecto/00750305875803",
-        "price": 212.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Cristal Templado Gear S3 Classic Frontier Generico 33mm",
-        "url": "https://www.walmart.com.mx/ip/mica-cristal-templado-gear-s3-classic-frontier-generico-33mm/00931277132894?athbdg=L1300",
-        "price": 234.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Teknet Cristal Templado para Huawei MatePad 11.5 Pulagadas TXZ-W09",
-        "url": "https://www.walmart.com.mx/ip/mica-teknet-cristal-templado-para-huawei-matepad-11-5-pulagadas-txz-w09/00750305602799?athbdg=L6000",
-        "price": 231.36,
-        "model": "TXZ-W09"
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Pantalla Cristal Templado 9d Mayoreo 10 Pcs Para Iphone 13 pro max/ 14 plus",
-        "url": "https://www.walmart.com.mx/ip/mica-pantalla-cristal-templado-9d-mayoreo-10-pcs-para-iphone-13-pro-max-14-plus/00750305300824",
-        "price": 279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cámara Cristal Deluxe 2mm para iPhone AIR – Protección Vidrio Templado Azul Sierra, Alta Claridad y Ajuste Perfecto",
-        "url": "https://www.walmart.com.mx/ip/mica-de-camara-cristal-deluxe-2mm-para-iphone-air-proteccion-vidrio-templado-azul-sierra-alta-claridad-y-ajuste-perfecto/00750305875808",
-        "price": 212.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|QDOSTEMPLADOCRISTALQDOSMICA": {
-    "ts": "2026-06-28T14:03:51.961213+00:00",
-    "items": []
-  },
-  "amazon|HAMILTONBEACHVELOCIDADESLICUADORAHAMILTONBEACH": {
-    "ts": "2026-06-28T14:03:54.720885+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Licuadora Hamilton Beach, AntiRuido, 5 Velocidades, Con Tarro PersonaL, Acabado acero inoxidable, Color Negro, Modelo 53602",
-        "url": "https://www.amazon.com.mx/dp/B074XZ4K1F",
-        "price": 1303.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Miltifunción Hamilton Beach 54221/14 velocidades/ 700 watts de potencia/ 3 años de garantía/Vaso de Vidrio de 1.18 L",
-        "url": "https://www.amazon.com.mx/dp/B0081PTLGU",
-        "price": 665.28,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach 59765 Batidora de mano de 2 velocidades con cuenco para cortar",
-        "url": "https://www.amazon.com.mx/dp/B003NQE8B0",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach - Licuadora multifunción Power Elite 58148 con tarro de vidrio (58148A), OSFA, negra",
-        "url": "https://www.amazon.com.mx/dp/B00EI7DPI0",
-        "price": 856.98,
-        "model": "58148A"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach 50190FG - Licuadora de licuado para encimera de 650 W, 10 velocidades y pulsos, color negro",
-        "url": "https://www.amazon.com.mx/dp/B07D532YBQ",
-        "price": 727.0,
-        "model": "50190FG"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Hamilton Beach PowerMax, Vaso de Vidrio, Capacidad de 1.4 Litros, Color Negra, Modelo 58600J",
-        "url": "https://www.amazon.com.mx/dp/B0CYNDKM9J",
-        "price": 1584.76,
-        "model": "58600J"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach Licuadora Power Elite, con 12 Funciones, Vaso de Vidrio, 1.2 Litros, Negra (58148-MXR)",
-        "url": "https://www.amazon.com.mx/dp/B01H3H55J8",
-        "price": 597.0,
-        "model": "58148-MXR"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach 730C DrinkMaster Classic - Mezclador de bebidas de 28 onzas, vaso mezclador, cromado",
-        "url": "https://www.amazon.com.mx/dp/B00004X135",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach Blender y procesador de alimentos Combo para batidos y batidos, con accesorio eléctrico de 3 tazas, tarro de vidrio de 40 onzas, taza de viaje de licuadora, potencia máxima de 700",
-        "url": "https://www.amazon.com.mx/dp/B071CH3TLT",
-        "price": 1329.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora de 1.2 L Hamilton Beach 56208",
-        "url": "https://www.amazon.com.mx/dp/B07PXPJ5M8",
-        "price": 849.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Personal Go Sport Hamilton Beach con Vaso Portable 600 ml para Batidos y Smoothies Nutri, 51143",
-        "url": "https://www.amazon.com.mx/dp/B094DWFQ2X",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach Commercial. Licuadora comercial de alto desempeño 55000 Proctor Silex Commercial, Mediano, Gris",
-        "url": "https://www.amazon.com.mx/dp/B01N5XFX1W",
-        "price": 10254.78,
-        "model": null
-      }
-    ]
-  },
-  "sams|HAMILTONBEACHVELOCIDADESLICUADORAHAMILTONBEACH": {
-    "ts": "2026-06-28T14:03:55.310742+00:00",
-    "items": []
-  },
   "homedepot|MKZPANTA100MBLA": {
     "ts": "2026-06-28T19:32:51.227457+00:00",
     "items": []
@@ -12037,6 +11661,565 @@
         "url": "https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-smart-tv-un58u8200hfxzx/981052403",
         "price": 9662.24,
         "model": "UN58U8200HFXZX"
+      }
+    ]
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-06-30T14:34:44.696707+00:00",
+    "items": []
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-06-30T14:34:48.606717+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
+        "price": 23999.0,
+        "model": "75QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 50\" 50Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHD2Y69",
+        "price": 5494.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
+        "price": 19998.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G87BVYGB",
+        "price": 12644.0,
+        "model": "QNED73"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
+        "price": 23999.0,
+        "model": "75QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 75“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRRNSVB",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A 32 2026 | Google TV | Diseño Elegante con Bisel Ultrafino | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control",
+        "url": "https://www.amazon.com.mx/dp/B0FSQ9NSTW",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 13734.63,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 12495.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
+        "price": 12998.7,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 17999.0,
+        "model": "75QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 75\" 75A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCBFQ3P",
+        "price": 18719.48,
+        "model": "75A400"
+      }
+    ]
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-06-30T14:35:00.659464+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-06-30T14:35:07.115085+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  75\" QLED Mini LED Google TV 75QM5K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-qled-mini-led-google-tv-75qm5k/981041777",
+        "price": 15343.98,
+        "model": "75QM5K"
+      }
+    ]
+  },
+  "liverpool|190X150CM": {
+    "ts": "2026-06-30T14:35:33.531536+00:00",
+    "items": []
+  },
+  "coppel|190X150CM": {
+    "ts": "2026-06-30T14:35:37.710099+00:00",
+    "items": []
+  },
+  "palacio|190X150CM": {
+    "ts": "2026-06-30T14:35:38.001008+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Autentico en Algodon 180x230cm",
+        "url": "https://www.elpalaciodehierro.com/urban-republic-life-styles-tapete-decorativo-autentico-en-algodon-180x230cm-44274464.html",
+        "price": 2397.0,
+        "model": "180x230cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Interior 230X150cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-interior-230x150cm-41108813.html",
+        "price": 5712.0,
+        "model": "230X150cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Concept en Polipropileno 230x160cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-en-polipropileno-230x160cm-43468856.html",
+        "price": 3783.2,
+        "model": "230x160cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Rusena en polipropileno 230 x 160 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-rusena-en-polipropileno-230-x-160-cm-45468824.html",
+        "price": 4952.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Rusena en polipropileno 180 x 120 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-rusena-en-polipropileno-180-x-120-cm-45468823.html",
+        "price": 2952.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Concept negro en polipropileno 180x120cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-negro-en-polipropileno-180x120cm-43468850.html",
+        "price": 2103.2,
+        "model": "180x120cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Enova en viscosa 230 x 160 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-enova-en-viscosa-230-x-160-cm-44928925.html",
+        "price": 17592.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Set 3 canastas decorativas en ratán",
+        "url": "https://www.elpalaciodehierro.com/creative-co-op-set-3-canastas-decorativas-en-ratan-44925126.html",
+        "price": 2267.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Enova en viscosa 180 x 120 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-enova-en-viscosa-180-x-120-cm-44928924.html",
+        "price": 9592.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Radian en poliéster 340 x 240 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-radian-en-poliester-340-x-240-cm-44932798.html",
+        "price": 25112.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Interior 300X200cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-interior-300x200cm-40379494.html",
+        "price": 10680.0,
+        "model": "300X200cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo K-Lim en tela 240 x 170 cm",
+        "url": "https://www.elpalaciodehierro.com/kartell-tapete-decorativo-k-lim-en-tela-240-x-170-cm-44847266.html",
+        "price": 36152.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|190X150CM": {
+    "ts": "2026-06-30T14:35:43.019168+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "FINYQBET Colchón Híbrido Viscoelástico con 400 Resortes Ensacados Individuales, Superficie Transpirable, Cómodo Soporte Ergonómico, Adaptable a Todo Tipo de Bases de Cama (NF03, 190 * 150 * 20cm)",
+        "url": "https://www.amazon.com.mx/dp/B0FSCFBTP5",
+        "price": 2899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Felpudo Entrada Casa Impermeable Antideslizante(Gray,190x150cm)",
+        "url": "https://www.amazon.com.mx/dp/B0H6XBZJSW",
+        "price": 845.35,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Yinhing Red para Cama Individual Pabel Red con Dosel para Cama con 4 Postes Esquineros para Tamaño Completo 90x190x150cm y Elegante Dosel para (150x195x170cm)",
+        "url": "https://www.amazon.com.mx/dp/B0GY1TX91X",
+        "price": 169.0,
+        "model": "150x195x170cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Colchón Híbrido Queen 150x200x30cm | Resortes de Bolsillo Individuales | Memory Foam + Espuma Alta Elasticidad | Firmeza Medio | Transpirable | Borde Reforzado| Sin Interferencia de Movimiento",
+        "url": "https://www.amazon.com.mx/dp/B0H28DZNW8",
+        "price": 4799.0,
+        "model": "150x200x30cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Colchon Queen Size 25 CM Memory Foam Híbrido en Caja – Gel Refrigerante, Alivio de Dolor de Espalda, Firmeza Media, Soporte Ergonómico, Sueño Fresco y Confortable, Antiácaros, 190x150cm，Negro",
+        "url": "https://www.amazon.com.mx/dp/B0H1WLTD4J",
+        "price": 4749.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "WALKINGDESK Escritorio de esquina eléctrico, 190 x 150 cm, mesa ajustable en altura en L, para ordenador con memoria de 4 alturas, escritorio de oficina y casa, roble",
+        "url": "https://www.amazon.com.mx/dp/B0FD9W455K",
+        "price": 7671.77,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Colchones de látex Natural, Colchones de látex Premium, colchón Natural, Tatami Personalizado con Funda Interior(190x150cm)",
+        "url": "https://www.amazon.com.mx/dp/B0G5Y915L5",
+        "price": 5649.13,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Canada Colchón Colchón Taos QS 190x150 Cm Ortopédico",
+        "url": "https://www.amazon.com.mx/dp/B0GL9H533J",
+        "price": 6699.0,
+        "model": "190x150"
+      },
+      {
+        "store": "amazon",
+        "name": "Colchones de látex Natural, Colchón de látex, colchones Natural, Transpirables, cómodos y, cojín for el Dormitorio del hogar(190x150cm(75x59inch))",
+        "url": "https://www.amazon.com.mx/dp/B0G5YMTMTG",
+        "price": 4258.49,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Mantel PVC Transparente 190x150cm Esmerilado,Protector Mesa Transparente Mantel Antimanchas,Impermeable Hule Mesa Rectangular,Grosor 1.5mm, Antiarañazos Película Transparentes",
+        "url": "https://www.amazon.com.mx/dp/B0FS22Y541",
+        "price": 3274.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Burrito Blanco | Sábanas Coral | Cama 150 cm Diseño 965 | Color Nude (150 x 190/200 cm)",
+        "url": "https://www.amazon.com.mx/dp/B0DWT88NPR",
+        "price": 360.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para sofá de 1 plaza, sin reposabrazos, antipolvo, protectora para sofá, color puro mate, beige, de poliéster, 190 x 150 cm",
+        "url": "https://www.amazon.com.mx/dp/B0CGYLKHLG",
+        "price": 717.41,
+        "model": null
+      }
+    ]
+  },
+  "sams|190X150CM": {
+    "ts": "2026-06-30T14:35:43.628052+00:00",
+    "items": []
+  },
+  "mercadolibre|190X150CM": {
+    "ts": "2026-06-30T14:36:07.721589+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Canvas Lienzo Trama Vegetal Grande",
+        "url": "https://www.mercadolibre.com.mx/cuadro-canvas-lienzo-trama-vegetal-grande/up/MLMU4046794131",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Fashion Moda Chic Vintage Canvas Grueso 140x90 Fcv37",
+        "url": "https://www.mercadolibre.com.mx/cuadro-fashion-moda-chic-vintage-canvas-grueso-140x90-fcv37/up/MLMU555039469",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Paisaje Arte Digital Canvas Grueso Cha8 140x90",
+        "url": "https://www.mercadolibre.com.mx/cuadro-paisaje-arte-digital-canvas-grueso-cha8-140x90/up/MLMU559692204",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Canvas | Arte Flores Rosa Habitacion |80x120",
+        "url": "https://www.mercadolibre.com.mx/canvas--arte-flores-rosa-habitacion-80x120/up/MLMU3848546079",
+        "price": 1299.0,
+        "model": "80x120"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Flores Canvas Grueso 140x90 Crb7",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=rJgPk6nmGNBFmUpNyFCXTqHDIumHPmoIy0p6KNMmPZEOfntUoeipmHqTqmpK%2FKG%2F49J5kGez3kETI68Ace%2BO56kiyyNG6fwhme%2ByspStQ%2FX3qb87znasgbhItkt9zUn6z9rjiuA4o0o9AhR6g0EjknR5ngnlYUuBktD9u1%2B%2FdQSD6C8IFjcNznDRlimet7o5y0j9fp3%2Bsr7URbW%2BNiO1F3aDejO%2FpS1FCe%2F1cxLw3LY6O8v62n4EoBYhiXhtcSqM4FCtGhCU3DFIxW6JjEMam4XXsZB50G4fwTsvsmDDQ0gvm7tvt957sco6pb1se37NwLbXzD03%2BwxmFffYpODvDFvAEC1e8eDIxI4cbLuxuzgDVHaehJdG7e%2BKLcrKBX5h%2BNHThqDwAnOO3kVYAjh7heM%2BQLkpYOopUFkCgUk3JX1cy0uPPFwLdcf0y5XUR%2Fhduw2uPhBQcXuwNLt2NOldup7WRHwd2sw9sHTbSQdY6goUeJKnurpt6hoqmqMmdVEQsAM744sskIhvcVSrZalKKg1vZVakJhcBJXNQx40Q%2FWHR%2FhxE9LCp9DgjYojZsQ%2FUvZpIHSaDK%2FxZP3vqPWArpAuTMVW8WiBbOtlcPK5p5nw19%2FOWSX7XCzj9NOctTUKqIALz%2BbVdFW3ouCIQjv%2F8zirVdfGk%2BcLND3C%2BQL9lpEJZ9q1g4%2BAQaXeaV7gjJrXxjdgl67CzacX6fYMhb2surclEW0iUGXGTyndxITNu8sY77TtAeHa7a6cWSVCqgbqJKuCGQo92bmWvuyXfiLSPXuPqHhYAnk0Jq3NHHHgQLppZDcE%2BCrTWla969YKox14AqfR6cdo3AsIcf5VHoSF0dbpaDP1wDhvZA9Pi92CNbQetlXaSGr4GmTSNjlYe2hoUsgk5sBxOzlVfFxRukqpvS5vr7lTx7ahhaXyT3T7rVdiDQX4xlbKe%2FG1f0Ha9hbSr3xY%3D&searchVariation=174687592696&pdp_filters=item_id%3AMLM1444205670",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Canvas con Árbol de Flores Grande para Sala, 130x90 cm",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=SaBBdmIpJDITneH3GTXkNJQ%2B6vC4nuxN6ZS5BYKXIqNbvnCkp9dhaRHju4qXVVWCF7Ts9GiJxWrRoC5ITIi8Qv%2BtgXqFRQMllC1s7WGrNxFIS%2FuklHzT5hFF8qpwz42ZxwyEmwoMJd6y4Qp%2Bog%2Bs88SJu93KSduGWSpEn8AcdgPghgMrTuftKUq%2FpD4vvOStT1fYOrG8bZNLhT%2F4EQhE3usaCOesUivNqzkLi9T%2Ftud%2FKauJGMba3vJaysd4ctCI3sstM6tqzXu5njplg6XkNwIBAgz%2F%2FaQEuZTyvNxZbw4o%2BN54233HqQB8JO5H%2F39l9YsvmFXPJ3mga1ivEJyh2bOzuIUGGNLo5XiYVf3M82e903%2Bx%2F0MNZGI0LtWNn4lfRGhE0DYHSxbJUI4qAoUl9d8yXM2bKAGOTv%2FFRNmtYfyhUvS8Z%2BN44q3GeizTCWTvg7tTy0sGEQaVBrQx0wa%2BOhD17c2HxK0A1wJK%2FhZBKlKOb%2BVaZyyfsUph4DSkqsE%2FxwDoNCWGGxy%2FzeXOUmkiyxgzm6MTGF4ETeftvgXZCL8Vi0ZY4FnXVjvWcKIg7Nng%2Fww%2FsOfxiQVe9XAYB578%2FK72%2FsUtBxUZoorsO2ljvLYdKeaoifsoujKbwhKKbRCFCDEoAGakTTRy9z%2BBNCtrgOlpxs1UnQNSeYveeRYqpZkVa19hSJZa0APBplFY8%2BYEedKQ2a9xGcuwFxcRJiEKLqz1GWKXuKhKcOS8iwU8GF2HaDHY5516Wtl57GZxMUOhiF%2Bjc9Kx%2BDDWCxXqaFfxGHtfU%2BQkoUDZBz5Oz7SGitL8cg%2FbplN8AiNFWKHMCyNwxdnox2UgdMddUAGmq0VVU1%2F%2Bz%2FPlQnFnkvJ%2BiKq87oKiTm0l2wqssPskbGxqbpEyvVY4I8oz7Ii8O53pY%2FEVphX2a5%2BNe2qkHphkxENRXE%2Fjz9muSM%2B18Wecgty5Zvs6z%2BPHi0vwhecJJhTF%2BQ4rrnbj3cNLnd%2BDPAXP2hamDQ%3D%3D&pdp_filters=item_id%3AMLM4219663926",
+        "price": 2499.0,
+        "model": "130x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Persiana Roller Decoking Sheer Elegance de Rayas para Ventana, 2.2 m de Ancho x 1.6 m de Alto",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=8yQkW%2Fiyy1pehrwRjrQYbPHSy88EJIz0X0K%2B7AORQ6R1WVs9f1Dny6qs4Zmz%2Fq7BCZV%2BwndvDCeFGaJmOb2NJP%2B7F6hLfMJ0x7VoYeNbTV%2FnQCMptadBwFXFdb7ykCuIYtUx7lj7CGg86kwJVNClHShmFx7HjbrGSZ%2FpeXPKfOMLQyGHe1nXnnuQCUfYu8L0V6hYwAr0Vq1WXmkozG7SF2uVRvxN3A6JWlamxRIC56bfnUQgOeJxLpNxYt0fdYnFW4FYLFcYw%2BC6BQTegGVRYpwACwGpmVDJ%2FbfrE5HDRRy2RU6z6rkioU7ASe6YQ%2FnsssiSkuNn4xVy7AgjYJvO2Ir1qzv2HOsOlDWfIyDJ7VWxnZE5yUzT%2B%2Fpt7%2BOJSpaio5%2FWvVx8NqvO%2Fy7S7Fu1AJh5ZAA25pbH1PrXlT%2BUY81WcyWTm3xrFuMajC4GZ3zkuUq7OwKx7POQ0dZ0tDWFFwN8wz83Qq0HMgqJM8QZlJGRqZxVTz8HgMzxsB1MQt8LJM81%2F7rGjtiWCwplg70i8SfmnBxy5SbzsRVDScuuEhiRYN4tL2OY4Ibd3kiwcq9%2B9sc1M9AiJW%2FvJXeJncURWWyufUWhNX%2FcSaBgpH73JGBqnVUeZnQkk1uK2XTra5bJf%2BJTiWcn62wvJT67kAcYTIGpy2zT6zdKjrvmOFUMVfBWMvqzTeTtdkBliY3XnTNJ1X5FcaK4RDyw9zA0wjE8cIn3LbiYNiEg4PV%2FAsdp83FiupaYl9Em%2BGr9PoCXw69%2F7P3NpaqSLo7c1LxT3v6zw9heT5bbt1LyG%2FXXZ2XG4MOLJ9nr%2BBwlNJEk%2FtBPEEQNCJd0zGBLtACTLgil5fdmjEjG16leFD4x4bpCjNRakiFEvJOsxk3RRl%2BiEilvv9nBG8p%2FYnuqOpVUXqrUDoS3Zw%2B%2FTBxpV%2BrUs9xyqgLziv7Li%2BYv0GR0Jrsa%2FJAmMTM9NWh8CbnC%2FBJbKhw9KITuaiyT1QWixrL2o3hqRIYRFjwSBLfqPLFQBsn7fh9oz8yJ34GoBQu4%2FwHukbk%3D&pdp_filters=item_id%3AMLM2826947289",
+        "price": 2870.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro De Arte Verme I 80x120, Corner Home & Garden",
+        "url": "https://www.mercadolibre.com.mx/cuadro-de-arte-verme-i-80x120-corner-home--garden/up/MLMU3856567739",
+        "price": 3300.0,
+        "model": "80x120"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Persiana Roller Decoking Sheer Elegance de Rayas para Ventana, 2.2 m de Ancho x 1.6 m de Alto",
+        "url": "https://www.mercadolibre.com.mx/persiana-roller-decoking-sheer-elegance-de-rayas-para-ventana-22-m-de-ancho-x-16-m-de-alto/p/MLM66791419",
+        "price": 2870.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hamaca Algodón Para Jardín Camping Portátil Mueble 190x150cm",
+        "url": "https://www.mercadolibre.com.mx/hamaca-algodon-para-jardin-camping-portatil-mueble-190x150cm/up/MLMU4047279739",
+        "price": 298.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Matrimonial Restonic Tree Comfort Care Verde Musgo",
+        "url": "https://www.mercadolibre.com.mx/colchon-matrimonial-restonic-tree-comfort-care-verde-musgo/p/MLM58107469",
+        "price": 19299.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Queen Restonic Tree 35 Cm Con Pillow Top (190x150cm) Blanco",
+        "url": "https://www.mercadolibre.com.mx/colchon-queen-restonic-tree-35-cm-con-pillow-top-190x150cm-blanco/p/MLM70376193",
+        "price": 10999.0,
+        "model": "190x150cm"
+      }
+    ]
+  },
+  "liverpool|OLED65C6PSA": {
+    "ts": "2026-06-30T14:36:33.450900+00:00",
+    "items": []
+  },
+  "coppel|OLED65C6PSA": {
+    "ts": "2026-06-30T14:36:35.533774+00:00",
+    "items": []
+  },
+  "amazon|OLED65C6PSA": {
+    "ts": "2026-06-30T14:36:37.580452+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C6 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0GW9G849H",
+        "price": 26949.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
+        "price": 24995.0,
+        "model": "OLE65C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI G5 4K Smart TV webOS 2025 OLED65G5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2PRS52D",
+        "price": 35995.0,
+        "model": "OLED65G5PSA"
+      }
+    ]
+  },
+  "walmart|OLED65C6PSA": {
+    "ts": "2026-06-30T14:36:47.641387+00:00",
+    "items": []
+  },
+  "sams|OLED65C6PSA": {
+    "ts": "2026-06-30T14:37:47.078185+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  65\" OLED AI Smart TV OLED65B6PSA",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-oled-ai-smart-tv-oled65b6psa/981052378",
+        "price": 23526.95,
+        "model": "OLED65B6PSA"
+      }
+    ]
+  },
+  "mercadolibre|OLED65C6PSA": {
+    "ts": "2026-06-30T14:38:06.186555+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "LG OLED65C6PSA Pantalla 65 Pulgadas Oled 4k WebOS 26 127V",
+        "url": "https://www.mercadolibre.com.mx/lg-oled65c6psa-pantalla-65-pulgadas-oled-4k-webos-26-127v/p/MLM68214239",
+        "price": 37319.0,
+        "model": "OLED65C6PSA"
+      }
+    ]
+  },
+  "amazon|92180PC": {
+    "ts": "2026-06-30T14:39:40.114968+00:00",
+    "items": []
+  },
+  "sams|92180PC": {
+    "ts": "2026-06-30T14:39:46.071658+00:00",
+    "items": []
+  },
+  "amazon|50UA7510": {
+    "ts": "2026-06-30T14:39:56.825689+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla UHD AI ThinQ 50 Pulgadas 4K Smart TV 50UR7800PSB",
+        "url": "https://www.amazon.com.mx/dp/B0CL6L8G3Q",
+        "price": 11369.0,
+        "model": "50UR7800PSB"
+      }
+    ]
+  },
+  "sams|50UA7510": {
+    "ts": "2026-06-30T14:40:01.612089+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL 50\" QLED Google TV 50Q63K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-50-qled-google-tv-50q63k/981036712",
+        "price": 5981.48,
+        "model": "50Q63K"
+      },
+      {
+        "store": "sams",
+        "name": "Tequila Maestro Dobel 50  Cristalino 700 ml",
+        "url": "https://www.sams.com.mx/ip/tequila-maestro-dobel-50-cristalino-700-ml/981027287",
+        "price": 2827.54,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eutirox  50 mcg 50 Tabletas",
+        "url": "https://www.sams.com.mx/ip/eutirox-50-mcg-50-tabletas/000227316",
+        "price": 370.32,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Karet 50 µg 50 Comprimidos",
+        "url": "https://www.sams.com.mx/ip/karet-50-g-50-comprimidos/000093363",
+        "price": 203.57,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Fotoprotector ISDIN Fusion Water con FPS 50 2 pzas de 50 ml c/u",
+        "url": "https://www.sams.com.mx/ip/fotoprotector-isdin-fusion-water-con-fps-50-2-pzas-de-50-ml-c-u/980017340",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Nori Yukai  50 Hojas",
+        "url": "https://www.sams.com.mx/ip/nori-yukai-50-hojas/000070323",
+        "price": 305.87,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Espavén  Enzimático 50 Tabletas",
+        "url": "https://www.sams.com.mx/ip/espaven-enzimatico-50-tabletas/000320127",
+        "price": 428.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Fotoprotector ISDIN Fusion Water Color con FPS 50 2 pzas de 50 ml c/u",
+        "url": "https://www.sams.com.mx/ip/fotoprotector-isdin-fusion-water-color-con-fps-50-2-pzas-de-50-ml-c-u/980027441",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cremino Nutresa  Bicolore 50 pzas",
+        "url": "https://www.sams.com.mx/ip/cremino-nutresa-bicolore-50-pzas/000343171",
+        "price": 131.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Topamax 50 mg con 20 Tabletas",
+        "url": "https://www.sams.com.mx/ip/topamax-50-mg-con-20-tabletas/000102471",
+        "price": 857.27,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cozaar  50 mg 30 Comprimidos",
+        "url": "https://www.sams.com.mx/ip/cozaar-50-mg-30-comprimidos/000802008",
+        "price": 1480.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Galvus  50 mg 56 Comprimidos",
+        "url": "https://www.sams.com.mx/ip/galvus-50-mg-56-comprimidos/000178949",
+        "price": 1240.89,
+        "model": null
       }
     ]
   }
