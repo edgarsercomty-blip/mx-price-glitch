@@ -1,12 +1,7 @@
-# Errores/chollos de precio — 2026-06-30 03:56 UTC
+# Errores/chollos de precio — 2026-06-30 06:57 UTC
 
-- Productos revisados: **5083**
+- Productos revisados: **910**
 - Umbral de diferencia: **20%**
-- Hallazgos: **4**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -59% | $8,491 | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | Confirmado vs competencia | $6,009 en liverpool vs mercado -> -59% bajo la competencia |
-| -32% | $4,292 | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | Confirmado vs competencia | $8,957 en liverpool vs mercado -> -32% bajo la competencia |
-| -37% | $2,245 | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | Confirmado vs competencia | $3,799 en liverpool vs mercado -> -37% bajo la competencia |
-| -22% | $390 | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 536…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | Confirmado vs competencia | $1,399 en walmart vs mercado -> -22% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
