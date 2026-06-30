@@ -1,9 +1,18 @@
-# Historial de ofertas encontradas (34)
+# Historial de ofertas encontradas (43)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
+| 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
+| 2026-06-30 10:17 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |
+| 2026-06-30 10:17 | -25% | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-06-30 10:17 | -28% | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desblo…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300) | $17,999 | $17,999 en walmart vs sams $24,920, sams $24,920, sams $31,712 -> -28% bajo la competencia |
+| 2026-06-30 10:17 | -36% | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | $8,999 en walmart vs sams $14,014, sams $20,459 -> -36% bajo la competencia |
+| 2026-06-30 10:17 | -45% | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio +…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $18,499 | $18,499 en walmart vs sams $33,758 -> -45% bajo la competencia |
+| 2026-06-30 10:17 | -49% | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | $10,752 en palacio vs mercado -> -49% bajo la competencia |
+| 2026-06-30 10:17 | -59% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | $7,860 en palacio vs walmart $19,204 -> -59% bajo la competencia |
 | 2026-06-29 18:27 | -22% | liverpool | [Lavasecadora Samsung eléctrico 13 kg 8 kg WD13FG6B34BBA…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrico-13-kg-8-kg-WD13FG6B34BBAX/1192526376) | $11,543 | $11,543 en liverpool vs sams $14,997 -> -22% bajo la competencia |
 | 2026-06-29 15:56 | -59% | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | $6,009 en liverpool vs mercado -> -59% bajo la competencia |
 | 2026-06-29 11:29 | -46% | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puerto…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $554 | $554 en amazon vs walmart $1,024 -> -46% bajo la competencia |

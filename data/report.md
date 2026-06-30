@@ -1,7 +1,18 @@
-# Errores/chollos de precio — 2026-06-30 06:57 UTC
+# Errores/chollos de precio — 2026-06-30 10:17 UTC
 
-- Productos revisados: **910**
+- Productos revisados: **3205**
 - Umbral de diferencia: **20%**
-- Hallazgos: **0**
+- Hallazgos: **10**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -45% | $15,259 | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Boci…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $18,499 | Confirmado vs competencia | $18,499 en walmart vs sams $33,758 -> -45% bajo la competencia |
+| -45% | $15,259 | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + Bocin…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300) | $18,499 | Confirmado vs competencia | $18,499 en walmart vs mercado -> -45% bajo la competencia |
+| -59% | $11,344 | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBAB0 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | Confirmado vs competencia | $7,860 en palacio vs walmart $19,204 -> -59% bajo la competencia |
+| -49% | $10,248 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | Confirmado vs competencia | $10,752 en palacio vs mercado -> -49% bajo la competencia |
+| -28% | $6,921 | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desbloquead…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300) | $17,999 | Confirmado vs competencia | $17,999 en walmart vs sams $24,920, sams $24,920, sams $31,712 -> -28% bajo la competencia |
+| -36% | $5,015 | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | Confirmado vs competencia | $8,999 en walmart vs sams $14,014, sams $20,459 -> -36% bajo la competencia |
+| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| -24% | $3,920 | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | Confirmado vs competencia | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |
+| -23% | $2,290 | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | Confirmado vs competencia | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
+| -23% | $2,290 | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | Confirmado vs competencia | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |

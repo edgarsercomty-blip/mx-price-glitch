@@ -19,7 +19,7 @@
   "liverpool|1127549521|21609": "2026-06-22T08:52:28.333124+00:00",
   "liverpool|1103888430|18303": "2026-06-24T12:36:59.333580+00:00",
   "liverpool|1148353472|7554": "2026-06-22T18:47:30.632355+00:00",
-  "walmart|https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300|18499": "2026-06-22T21:06:04.866751+00:00",
+  "walmart|https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300|18499": "2026-06-30T10:17:32.206628+00:00",
   "walmart|https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600|17999": "2026-06-22T21:06:04.866751+00:00",
   "palacio|https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html|14850": "2026-06-25T20:17:03.556073+00:00",
   "palacio|https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html|32571": "2026-06-23T23:51:40.208573+00:00",
@@ -62,5 +62,54 @@
   "~liverpool|1192526376": {
     "ts": "2026-06-29T23:57:08.136579+00:00",
     "price": 11543.48
+  },
+  "palacio|https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html|7860": "2026-06-30T10:17:32.206628+00:00",
+  "~palacio|https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 7859.7
+  },
+  "palacio|https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html|10752": "2026-06-30T10:17:32.206628+00:00",
+  "~palacio|https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 10751.58
+  },
+  "walmart|https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300|18499": "2026-06-30T10:17:32.206628+00:00",
+  "~walmart|https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 18499.0
+  },
+  "~walmart|https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 18499.0
+  },
+  "walmart|https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300|8999": "2026-06-30T10:17:32.206628+00:00",
+  "~walmart|https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 8999.0
+  },
+  "walmart|https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300|17999": "2026-06-30T10:17:32.206628+00:00",
+  "~walmart|https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 17999.0
+  },
+  "palacio|https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html|13439": "2026-06-30T10:17:32.206628+00:00",
+  "~palacio|https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 13439.44
+  },
+  "palacio|https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html|12759": "2026-06-30T10:17:32.206628+00:00",
+  "~palacio|https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 12759.45
+  },
+  "sams|https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358|7700": "2026-06-30T10:17:32.206628+00:00",
+  "~sams|https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 7700.0
+  },
+  "sams|https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284|7700": "2026-06-30T10:17:32.206628+00:00",
+  "~sams|https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284": {
+    "ts": "2026-06-30T10:17:32.206628+00:00",
+    "price": 7700.0
   }
 }

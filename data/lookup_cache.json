@@ -775,917 +775,20 @@
     "ts": "2026-06-29T11:27:38.859470+00:00",
     "items": []
   },
-  "homedepot|75QM8K": {
-    "ts": "2026-06-28T09:12:16.161359+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ESPEJO PARA BAÑO LANG REPISA CON BISEL DE LUJO 56 X 75 CM",
-        "url": "https://www.homedepot.com.mx/p/inter-espejo-para-bano-lang-repisa-con-bisel-de-lujo-56-x-75-cm-1230-232801",
-        "price": 1399.0,
-        "model": "232801"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO NOGAL TERRACOTA DE 0.80 X 0.40 X 0.75",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-nogal-terracota-de-080-x-040-x-075-g91esc101nnn-169287",
-        "price": 1505.0,
-        "model": "169287"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO BLANCO DE 1.00 X 0.50 X 0.75 MTS",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-blanco-de-100-x-050-x-075-mts-g91esc100bb-169111",
-        "price": 2015.0,
-        "model": "169111"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO NOGAL TERRACOTA CON CAJON DE 0.80 X 0.40 X 0.77",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-nogal-terracota-con-cajon-de-080-x-040-x-077-g91esc200nnn-169290",
-        "price": 2599.0,
-        "model": "169290"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO BLANCO CON CAJON DE 0.80 X 0.40 X 0.77",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-blanco-con-cajon-de-080-x-040-x-077-g91esc200bb-169285",
-        "price": 2599.0,
-        "model": "169285"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO HOME OFFICE CON LIBRERO STORM",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-home-office-con-librero-storm-g91esclib10860stst-169302",
-        "price": 2735.0,
-        "model": "169302"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO HOME OFFICE CON LIBRERO BLANCO",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-home-office-con-librero-blanco-g91esclib10860bb-169295",
-        "price": 2735.0,
-        "model": "169295"
-      }
-    ]
-  },
-  "liverpool|75QM8K": {
-    "ts": "2026-06-28T09:12:17.083699+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV Tcl QD- mini LED de 75 pulgadas 4K/UHD 75QM8K con Google TV",
-        "url": "https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-Tcl-QD--mini-LED-de-75-pulgadas-4K/UHD-75QM8K-con-Google-TV/1187120353",
-        "price": 26999.1,
-        "model": "4K/UHD"
-      },
-      {
-        "store": "liverpool",
-        "name": "Chaise lounge Wision de madera acacia",
-        "url": "https://liverpool.com.mx/tienda/pdp/Chaise-lounge-Wision-de-madera-acacia/1154446199",
-        "price": 7479.6,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Estufa de piso a gas natural/lp Whirlpool 76 cm WFR5200D de 6 quemadores",
-        "url": "https://liverpool.com.mx/tienda/pdp/Estufa-de-piso-a-gas-natural/lp-Whirlpool-76-cm-WFR5200D-de-6-quemadores/1162450383",
-        "price": 11125.78,
-        "model": "WFR5200D"
-      },
-      {
-        "store": "liverpool",
-        "name": "Reclinable Bayona Haus",
-        "url": "https://liverpool.com.mx/tienda/pdp/Reclinable-Bayona-Haus/1115194310",
-        "price": 18899.3,
-        "model": null
-      }
-    ]
-  },
-  "amazon|75QM8K": {
-    "ts": "2026-06-28T09:12:22.828341+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
-        "price": 23999.0,
-        "model": "75QM7L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 24628.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 10827.8,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI TV A 32 2026 | Google TV | Diseño Elegante con Bisel Ultrafino | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control",
-        "url": "https://www.amazon.com.mx/dp/B0FSQ9NSTW",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 11678.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
-        "price": 20398.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
-        "price": 12329.2,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
-        "price": 10999.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
-        "price": 19499.0,
-        "model": "86QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51499.55,
-        "model": "98QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
-        "price": 17379.0,
-        "model": "75QM64L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 75QM52L Pantalla 75\" Mini-LED 4K QLED | Google TV | 60 Hz VRR | Dolby Vision HDR 10+ | 450 NITS | Wi-Fi Bluetooth | Compatible with Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRLPPF67",
-        "price": 14721.0,
-        "model": "75QM52L"
-      }
-    ]
-  },
-  "walmart|75QM8K": {
-    "ts": "2026-06-28T09:12:25.513471+00:00",
-    "items": []
-  },
-  "sams|75QM8K": {
-    "ts": "2026-06-28T09:12:26.169142+00:00",
-    "items": []
-  },
-  "homedepot|9QUOT": {
-    "ts": "2026-06-28T09:12:51.003744+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ADAPTADOR DE IMPOSTA BLANCO 9 X 3.5 X 2.5 CM",
-        "url": "https://www.homedepot.com.mx/p/adaptador-de-imposta-blanco-9-x-35-x-25-cm-t0506-142156",
-        "price": 33.5,
-        "model": "142156"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESLABÓN DE UNIÓN CON ROSCA METAL PLATA 9 CM",
-        "url": "https://www.homedepot.com.mx/p/veker-eslabon-de-union-con-rosca-metal-plata-9-cm-58011-820234",
-        "price": 105.0,
-        "model": "820234"
-      },
-      {
-        "store": "homedepot",
-        "name": "BATERÍA DE COCINA EKCO 9PZ DE ACERO EMALTADO AZUL",
-        "url": "https://www.homedepot.com.mx/p/ekco-bateria-de-cocina-ekco-9pz-de-acero-emaltado-azul-28817-200827",
-        "price": 3175.0,
-        "model": "200827"
-      }
-    ]
-  },
-  "liverpool|9QUOT": {
-    "ts": "2026-06-28T09:12:52.741974+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Congelador Mirage MCP25HB horizontal 9 pies cúbicos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP25HB-horizontal-9-pies-c%C3%BAbicos/1160027564",
-        "price": 6183.11,
-        "model": "MCP25HB"
-      },
-      {
-        "store": "liverpool",
-        "name": "Ventilador de pedestal Heuman Brand con control remoto 9 velocidades",
-        "url": "https://liverpool.com.mx/tienda/pdp/Ventilador-de-pedestal-Heuman-Brand-con-control-remoto-9-velocidades/1160565515",
-        "price": 1559.4,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau de parfum Afnan 9 pm unisex",
-        "url": "https://liverpool.com.mx/tienda/pdp/Eau-de-parfum-Afnan-9-pm-unisex/1111408170",
-        "price": 656.67,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Tenis Gel-Contend 9 para correr Asics de hombre",
-        "url": "https://liverpool.com.mx/tienda/pdp/Tenis-Gel-Contend-9-para-correr-Asics-de-hombre/1157825480",
-        "price": 1439.2,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Revista Tanques de combate N.9",
-        "url": "https://liverpool.com.mx/tienda/pdp/Revista-Tanques-de-combate-N.9/1180736421",
-        "price": 339.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Smartband Xiaomi Band 9 Active unisex",
-        "url": "https://liverpool.com.mx/tienda/pdp/Smartband-Xiaomi-Band-9-Active-unisex/99980459216",
-        "price": 659.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Tenis Contend 9 Gs para correr Asics de niño",
-        "url": "https://liverpool.com.mx/tienda/pdp/Tenis-Contend-9-Gs-para-correr-Asics-de-ni%C3%B1o/1181085354",
-        "price": 779.4,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Zapatera armable mueble Eke Life Home para 9 pares de zapatos",
-        "url": "https://liverpool.com.mx/tienda/pdp/Zapatera-armable-mueble-Eke-Life-Home-para-9-pares-de-zapatos/1190539837",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Smartwatch Xiaomi Smart Band 9 Pro unisex con GPS",
-        "url": "https://liverpool.com.mx/tienda/pdp/Smartwatch-Xiaomi-Smart-Band-9-Pro-unisex-con-GPS/1173565780",
-        "price": 1679.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Batería de cocina Vasconia Ceramic de aluminio fundido antiadherente cerámica 9 piezas",
-        "url": "https://liverpool.com.mx/tienda/pdp/Bater%C3%ADa-de-cocina-Vasconia-Ceramic-de-aluminio-fundido-antiadherente-cer%C3%A1mica-9-piezas/1185130807",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Google Pixel 9a POLED 6.3 pulgadas",
-        "url": "https://liverpool.com.mx/tienda/pdp/Google-Pixel-9a-POLED-6.3-pulgadas/1181714041",
-        "price": 8999.25,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Tablet Multilaser Multi M9 9 pulgadas de 4 GB RAM",
-        "url": "https://liverpool.com.mx/tienda/pdp/Tablet-Multilaser-Multi-M9-9-pulgadas-de-4-GB-RAM/9999404060",
-        "price": 1599.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|9QUOT": {
-    "ts": "2026-06-28T09:12:54.673834+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Detector de Peces Submarino de Cable de 50 m 9quot; Monitor LCD IP68 Cámara de Pesca en mar 1000TVL con 12 Luces IR Soporte de Control Remoto Gran Angular",
-        "url": "https://www.amazon.com.mx/dp/B0FS7YVRT7",
-        "price": 6472.86,
-        "model": "1000TVL"
-      },
-      {
-        "store": "amazon",
-        "name": "Detector de Peces Submarino de Cable de 50 m 9quot; Monitor LCD IP68 Cámara de Pesca en mar 1000TVL con 12 Luces IR Soporte de Control Remoto Gran Angular",
-        "url": "https://www.amazon.com.mx/dp/B0FS7ZPGGF",
-        "price": 7546.55,
-        "model": "1000TVL"
-      }
-    ]
-  },
-  "walmart|9QUOT": {
-    "ts": "2026-06-28T09:12:56.713154+00:00",
-    "items": []
-  },
-  "sams|9QUOT": {
-    "ts": "2026-06-28T09:12:57.297737+00:00",
-    "items": []
-  },
-  "homedepot|EBC115DC01": {
-    "ts": "2026-06-28T09:12:57.682823+00:00",
-    "items": []
-  },
-  "palacio|EBC115DC01": {
-    "ts": "2026-06-28T09:12:57.981924+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Perfume Euphoria, Eau de Parfum 100 ml para Mujer",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-perfume-euphoria-eau-de-parfum-100-ml-para-mujer-14119659.html",
-        "price": 2850.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Niña Elfo Scout Adoptable",
-        "url": "https://www.elpalaciodehierro.com/elf-on-the-shelf-nina-elfo-scout-adoptable-41111277.html",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo liso Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45492232.html",
-        "price": 3490.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo liso con detalle decorativo Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-con-detalle-decorativo-mujer-45492146.html",
-        "price": 4290.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo estampado Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45181828.html",
-        "price": 2799.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Game Card Case Eevee Cottage Core",
-        "url": "https://www.elpalaciodehierro.com/nintendo-game-card-case-eevee-cottage-core-45305658.html",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo estampado Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45136638.html",
-        "price": 2449.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo con bordados Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-con-bordados-mujer-45405996.html",
-        "price": 3790.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Perfume, Ébène Fumé Eau de Parfum, 50 ml Unisex",
-        "url": "https://www.elpalaciodehierro.com/tom-ford-perfume-ebene-fume-eau-de-parfum-50-ml-unisex-41936538.html",
-        "price": 6700.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo liso Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-liso-mujer-45492117.html",
-        "price": 4290.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Escritorio Alva en aluminio",
-        "url": "https://www.elpalaciodehierro.com/four-hands-escritorio-alva-en-aluminio-44449721.html",
-        "price": 65961.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vestido de fiesta largo estampado Mujer",
-        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-de-fiesta-largo-estampado-mujer-45261977.html",
-        "price": 2513.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|EBC115DC01": {
-    "ts": "2026-06-28T09:12:59.865917+00:00",
-    "items": []
-  },
-  "walmart|EBC115DC01": {
-    "ts": "2026-06-28T09:13:08.457494+00:00",
-    "items": []
-  },
-  "sams|EBC115DC01": {
-    "ts": "2026-06-28T09:13:09.460328+00:00",
-    "items": []
-  },
-  "liverpool|162329": {
-    "ts": "2026-06-28T09:13:42.232349+00:00",
-    "items": []
-  },
-  "palacio|162329": {
-    "ts": "2026-06-28T09:13:42.311682+00:00",
-    "items": []
-  },
-  "amazon|162329": {
-    "ts": "2026-06-28T09:13:44.413857+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Makita 162329-3 Tubo",
-        "url": "https://www.amazon.com.mx/dp/B010BX3YIU",
-        "price": 1390.41,
-        "model": null
-      }
-    ]
-  },
-  "walmart|162329": {
-    "ts": "2026-06-28T09:13:51.348924+00:00",
-    "items": []
-  },
-  "sams|162329": {
-    "ts": "2026-06-28T09:13:52.078215+00:00",
-    "items": []
-  },
-  "homedepot|QDOSTEMPLADOCRISTAL2018MICA": {
-    "ts": "2026-06-28T09:13:59.517592+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "LÁMPARA COLGANTE CLÁSICO 30162-1 VIDRIO CRISTAL CROMO 3 LUCES INCANDESCENTE",
-        "url": "https://www.homedepot.com.mx/p/artistica-lampara-colgante-clasico-30162-1-vidrio-cristal-cromo-3-luces-incandescente-30162-1-190283",
-        "price": 3699.0,
-        "model": "190283"
-      }
-    ]
-  },
-  "palacio|QDOSTEMPLADOCRISTAL2018MICA": {
-    "ts": "2026-06-28T09:13:59.724100+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Taza verde militar en cerámica",
-        "url": "https://www.elpalaciodehierro.com/rostan-taza-verde-militar-en-ceramica-44632230.html",
-        "price": 107.6,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Toma Caliente Aster",
-        "url": "https://www.elpalaciodehierro.com/mukitchen-toma-caliente-aster-44834419.html",
-        "price": 137.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 12 vasos de cristal Twist",
-        "url": "https://www.elpalaciodehierro.com/leonardo-set-12-vasos-de-cristal-twist-43877710.html",
-        "price": 1189.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "MANTEL RED ANDRE GRIS",
-        "url": "https://www.elpalaciodehierro.com/casa-tua-mantel-red-andre-gris-42665669.html",
-        "price": 178.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 Tazas Medidoras Menta",
-        "url": "https://www.elpalaciodehierro.com/nordicware-set-6-tazas-medidoras-menta-41034452.html",
-        "price": 335.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tarro Stoneware Blanco 350Ml",
-        "url": "https://www.elpalaciodehierro.com/mason-cash-tarro-stoneware-blanco-350ml-43621702.html",
-        "price": 209.3,
-        "model": "350Ml"
-      },
-      {
-        "store": "palacio",
-        "name": "Set 2 Vasos Sorrento",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-vasos-sorrento-39346067.html",
-        "price": 1297.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 2 Tazas para Café Sorrento Plus",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-set-2-tazas-para-cafe-sorrento-plus-38719624.html",
-        "price": 1095.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pinzas para Asador, plata",
-        "url": "https://www.elpalaciodehierro.com/oxo-pinzas-para-asador-plata-41026973.html",
-        "price": 419.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "CM6 MilkPerfection color Obsidian Black con display DirectSensor, iluminación, calientazas y depósito de leche",
-        "url": "https://www.elpalaciodehierro.com/miele-cm6-milkperfection-color-obsidian-black-con-display-directsensor-iluminacion-calientazas-y-deposito-de-leche-45231303.html",
-        "price": 42500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 vasos tequileros",
-        "url": "https://www.elpalaciodehierro.com/krosno-set-6-vasos-tequileros-45033764.html",
-        "price": 2117.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Máquina de café automática portátil CM6160 Milk Perfection",
-        "url": "https://www.elpalaciodehierro.com/miele-maquina-de-cafe-automatica-portatil-cm6160-milk-perfection-44396865.html",
-        "price": 38250.0,
-        "model": "CM6160"
-      }
-    ]
-  },
-  "amazon|QDOSTEMPLADOCRISTAL2018MICA": {
-    "ts": "2026-06-28T09:14:03.500802+00:00",
-    "items": []
-  },
-  "walmart|QDOSTEMPLADOCRISTAL2018MICA": {
-    "ts": "2026-06-28T09:14:14.157242+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de Chevrolet Aveo LST y LTZ 2018",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-chevrolet-aveo-lst-y-ltz-2018/00750230752509?athbdg=L1300",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Pantalla Cristal Templado 9d Mayoreo 10 Pcs Para Iphone 13 pro max/ 14 plus",
-        "url": "https://www.walmart.com.mx/ip/mica-pantalla-cristal-templado-9d-mayoreo-10-pcs-para-iphone-13-pro-max-14-plus/00750305300824",
-        "price": 279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de Mazda 3 2014 al 2018",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-mazda-3-2014-al-2018/00750230752537?athbdg=L1300",
-        "price": 405.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de Harley Davidson Road Glide Special 2014-2018",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-harley-davidson-road-glide-special-2014-2018/00750230752511?athbdg=L1300",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de Honda HRV 2016 al 2018",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-honda-hrv-2016-al-2018/00750230752395?athbdg=L1300",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de VolksWagen Golf 2018 al 2019",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-volkswagen-golf-2018-al-2019/00750230752544?athbdg=L1300",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de Kia Sportage 2016 al 2018",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-kia-sportage-2016-al-2018/00750230752425?athbdg=L1300",
-        "price": 405.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica Vidrio ESR para iPad Air 4 iPad Pro 11 2020 iPad Pro 11 2018 - Transparente ESR Transparente",
-        "url": "https://www.walmart.com.mx/ip/mica-vidrio-esr-para-ipad-air-4-ipad-pro-11-2020-ipad-pro-11-2018-transparente-esr-transparente/00489424006943",
-        "price": 295.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Nano Cristal Flexible para Pantalla de VolksWagen Tiguan 2018 al 2023",
-        "url": "https://www.walmart.com.mx/ip/mica-de-nano-cristal-flexible-para-pantalla-de-volkswagen-tiguan-2018-al-2023/00750230752223?athbdg=L1300",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cristal templado 9D Gadgets and Fun Protege toda la pantalla",
-        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-9d-gadgets-and-fun-protege-toda-la-pantalla/00067962807033?athbdg=L6000",
-        "price": 349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mica de Cristal templado Gadgets and Fun 9d Protege toda la pantalla",
-        "url": "https://www.walmart.com.mx/ip/mica-de-cristal-templado-gadgets-and-fun-9d-protege-toda-la-pantalla/00061419883131?athbdg=L6000",
-        "price": 349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Teknet Mica Cristal Templado para Honor Pad 9 de 12.1 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/teknet-mica-cristal-templado-para-honor-pad-9-de-12-1-pulgadas/00750305071818?athbdg=L6000",
-        "price": 299.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|QDOSTEMPLADOCRISTAL2018MICA": {
-    "ts": "2026-06-28T09:14:14.820085+00:00",
-    "items": []
-  },
-  "homedepot|OLED55B5PSA": {
-    "ts": "2026-06-28T09:14:15.381243+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "PANTALLA 55\" OLED THINQ IA 4K UHD",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-oled-thinq-ia-4k-uhd-oled55c5psa-237357",
-        "price": 29299.0,
-        "model": "237357"
-      }
-    ]
-  },
-  "palacio|OLED55B5PSA": {
-    "ts": "2026-06-28T09:14:15.515525+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Monitor Gamer 55 Pulgadas Curva Odyssey Ark 4K 165 Hz 1 ms LS55CG970NLXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-55-pulgadas-curva-odyssey-ark-4k-165-hz-1-ms-ls55cg970nlxzx-43491868.html",
-        "price": 41999.3,
-        "model": "LS55CG970NLXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Celular Galaxy A56 5G, 256 GB, RAM 8 GB, Gris, Desbloqueado",
-        "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a56-5g-256-gb-ram-8-gb-gris-desbloqueado-44556110.html",
-        "price": 6599.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Silent Hill F, PS5",
-        "url": "https://www.elpalaciodehierro.com/playstation-silent-hill-f-ps5-44943884.html",
-        "price": 769.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana OLED 4K webOS evo AI G6 OLED65G6PSA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-evo-ai-g6-oled65g6psa-45505424.html",
-        "price": 40879.44,
-        "model": "OLED65G6PSA"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
-        "price": 19999.0,
-        "model": "QN90F"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN90FAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn90fafxzx-44630352.html",
-        "price": 20227.56,
-        "model": "QN55QN90FAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana QLED 4K Frame QN55LS03H55W",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-qled-4k-frame-qn55ls03h55w-45467986.html",
-        "price": 19999.0,
-        "model": "QN55LS03H55W"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html",
-        "price": 25998.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
-        "price": 18998.7,
-        "model": "QN55QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Micro RGB 4K MRN55R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-micro-rgb-4k-mrn55r85hafxzx-45361288.html",
-        "price": 26999.28,
-        "model": "MRN55R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Teatro en casa Bravia Theater Bar 6 Negro",
-        "url": "https://www.elpalaciodehierro.com/sony-teatro-en-casa-bravia-theater-bar-6-negro-44964245.html",
-        "price": 7055.37,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana OLED 4K WebOS OLED55C6PSA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-4k-webos-oled55c6psa-45395462.html",
-        "price": 22049.37,
-        "model": "OLED55C6PSA"
-      }
-    ]
-  },
-  "homedepot|WH22DBH570GVAX": {
-    "ts": "2026-06-28T09:14:24.037897+00:00",
-    "items": []
-  },
-  "palacio|WH22DBH570GVAX": {
-    "ts": "2026-06-28T09:14:24.197105+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado WH22DBH570EWAX Electrico, Frontal, 22 Kg",
-        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-wh22dbh570ewax-electrico-frontal-22-kg-44586077.html",
-        "price": 38609.35,
-        "model": "WH22DBH570EWAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Horno de microondas 1.1 pies MS32DG4504ATAX Plata",
-        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-1.1-pies-ms32dg4504atax-plata-44047752.html",
-        "price": 2729.35,
-        "model": "MS32DG4504ATAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
-        "price": 30744.35,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 29605.31,
-        "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Walkman WM1AM2, Negro",
-        "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
-        "price": 25899.3,
-        "model": "WM1AM2"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter 21,000 BTU's, 2 Toneladas 220 V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-21000-btus-2-toneladas-220%E2%80%AFv-frio-44531396.html",
-        "price": 14519.45,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
-        "price": 12759.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
-        "price": 22948.47,
-        "model": "WM22VV2S6GR"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
-        "price": 13687.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 31958.47,
-        "model": "WD22BV2S6R"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 21,000 BTU's, 2 Toneladas 220V Frío/Caliente",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-21000-btus-2-toneladas-220v-frio%2Fcaliente-45305634.html",
-        "price": 13281.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado minisplit inverter wind 12,000 BTU’s, 1 tonelada 220 V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-wind-12000-btu%E2%80%99s-1-tonelada-220-v-frio-44531405.html",
-        "price": 7539.42,
-        "model": null
-      }
-    ]
-  },
-  "amazon|WH22DBH570GVAX": {
-    "ts": "2026-06-28T09:14:26.363523+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Base para Lavadora Ajustables(41-66cm),Base para Lavadora con Bloqueable Ruedas,Base para Lavadora Antivibración,1 Funda para Lavadora,5 Filtro de Pelo,5 Bolas de Lavandería,para Lavadora,Refrigerador",
-        "url": "https://www.amazon.com.mx/dp/B0FP2TB7FJ",
-        "price": 498.6,
-        "model": "41-66cm"
-      },
-      {
-        "store": "amazon",
-        "name": "Contrapeso DC67-00999A Para Lavadora Samsung",
-        "url": "https://www.amazon.com.mx/dp/B0FWSWTC3V",
-        "price": 1700.0,
-        "model": "DC67-00999A"
-      },
-      {
-        "store": "amazon",
-        "name": "Dispositivo Disuasorio de Ladridos para Perros, Versión Actualizada, Recargable, con Pantalla HD y Linterna LED de Doble Cabeza de Alta Potencia, Corrector de Comportamiento para Perros (1 PCS)",
-        "url": "https://www.amazon.com.mx/dp/B0DL3FP75Q",
-        "price": 299.99,
-        "model": null
-      }
-    ]
-  },
-  "walmart|WH22DBH570GVAX": {
-    "ts": "2026-06-28T09:14:50.719142+00:00",
-    "items": []
-  },
-  "sams|WH22DBH570GVAX": {
-    "ts": "2026-06-28T09:14:58.044384+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Centro de Lavado Samsung  22 kg Lavado/ 24 kg Secado WH22DBH570GVAX",
-        "url": "https://www.sams.com.mx/ip/centro-de-lavado-samsung-22-kg-lavado-24-kg-secado-wh22dbh570gvax/981018670",
-        "price": 40797.24,
-        "model": "WH22DBH570GVAX"
-      }
-    ]
-  },
-  "homedepot|Q8FAA": {
-    "ts": "2026-06-28T09:15:01.591449+00:00",
-    "items": []
-  },
   "liverpool|Q8FAA": {
-    "ts": "2026-06-28T09:15:29.645332+00:00",
+    "ts": "2026-06-30T09:58:33.409227+00:00",
     "items": []
   },
   "amazon|Q8FAA": {
-    "ts": "2026-06-28T09:15:31.903427+00:00",
+    "ts": "2026-06-30T09:58:40.720366+00:00",
     "items": []
   },
   "walmart|Q8FAA": {
-    "ts": "2026-06-28T09:15:35.456410+00:00",
+    "ts": "2026-06-30T09:58:59.465263+00:00",
     "items": []
   },
   "sams|Q8FAA": {
-    "ts": "2026-06-28T09:15:36.081498+00:00",
+    "ts": "2026-06-30T09:59:05.870826+00:00",
     "items": []
   },
   "homedepot|QDOSTEMPLADOCRISTALQDOSMICA": {
@@ -9857,6 +8960,3152 @@
         "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
         "price": 210.73,
         "model": null
+      }
+    ]
+  },
+  "liverpool|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:53:37.520052+00:00",
+    "items": []
+  },
+  "coppel|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:53:43.507558+00:00",
+    "items": []
+  },
+  "amazon|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:53:45.789584+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática 21 kg, Blanco - LMA71214VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B07581FH9K",
+        "price": 8535.0,
+        "model": "LMA71214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Sharp R-22GTF Microondas comerciales, Plata",
+        "url": "https://www.amazon.com.mx/dp/B0015WJTFO",
+        "price": 28080.47,
+        "model": "R-22GTF"
+      }
+    ]
+  },
+  "walmart|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:53:54.703270+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora Automática Aqua Saver Green High Efficiency 22 kg Blanca con Sanitizado Mabe - LMH72211WBAB0",
+        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-aqua-saver-green-high-efficiency-22-kg-blanca-con-sanitizado-mabe-lmh72211wbab0/00075763838355?athbdg=L6000",
+        "price": 19204.0,
+        "model": "LMH72211WBAB0"
+      }
+    ]
+  },
+  "sams|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:54:22.678224+00:00",
+    "items": []
+  },
+  "mercadolibre|LMH72211WBAB0": {
+    "ts": "2026-06-30T09:54:51.131873+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Lm337d2tg Smd Regulador Lineal Ldo Adj Neg 1.25v-37v 1.5a",
+        "url": "https://www.mercadolibre.com.mx/lm337d2tg-smd-regulador-lineal-ldo-adj-neg-125v37v-15a/up/MLMU3920955336",
+        "price": 98.0,
+        "model": "Lm337d2tg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lm358p 2 Amp. Oper. De Baja Potencia",
+        "url": "https://www.mercadolibre.com.mx/lm358p-2-amp-oper-de-baja-potencia/up/MLMU3909415121",
+        "price": 68.0,
+        "model": "Lm358p"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tl051cp Jfet Precision Operational Amplifier",
+        "url": "https://www.mercadolibre.com.mx/tl051cp-jfet-precision-operational-amplifier/up/MLMU3920955394",
+        "price": 115.0,
+        "model": "Tl051cp"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Convertidor Dc/dc Con Display De 7 Segmentos Oky3502-1",
+        "url": "https://www.mercadolibre.com.mx/convertidor-dcdc-con-display-de-7-segmentos-oky3502-1/p/MLM2070872759",
+        "price": 94.0,
+        "model": "Oky3502-1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Circuito Integrado Regulador Voltaje To-263 Lm2576s-adj",
+        "url": "https://www.mercadolibre.com.mx/circuito-integrado-regulador-voltaje-to263-lm2576sadj/up/MLMU933725886",
+        "price": 168.0,
+        "model": "Lm2576s-adj"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Circuito Integrado Lm358p Genuino Texas Instruments",
+        "url": "https://www.mercadolibre.com.mx/circuito-integrado-lm358p-genuino-texas-instruments/p/MLM2081361583",
+        "price": 49.0,
+        "model": "Lm358p"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Stencil Qualcomm Pm Power Pmic Bga Reballing Wl-67",
+        "url": "https://www.mercadolibre.com.mx/stencil-qualcomm-pm-power-pmic-bga-reballing-wl67/up/MLMU747969178",
+        "price": 249.0,
+        "model": "Wl-67"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lm4562na Dip-8 Lm4562 Dip8 Ic 4562na",
+        "url": "https://www.mercadolibre.com.mx/lm4562na-dip8-lm4562-dip8-ic-4562na/up/MLMU3278903782",
+        "price": 108.0,
+        "model": "Lm4562na"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Poder Ajustable Lm2596 Con Voltímetro Dc-dc",
+        "url": "https://www.mercadolibre.com.mx/fuente-poder-ajustable-lm2596-con-voltimetro-dcdc/up/MLMU811685453",
+        "price": 180.0,
+        "model": "Lm2596"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tl072 Dual Jfet Opam Low N Nte858m",
+        "url": "https://www.mercadolibre.com.mx/tl072-dual-jfet-opam-low-n-nte858m/up/MLMU3920956274",
+        "price": 63.0,
+        "model": "Nte858m"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Paquete Tlv2772qpwr",
+        "url": "https://www.mercadolibre.com.mx/paquete-tlv2772qpwr/up/MLMU556670064",
+        "price": 372.0,
+        "model": "Tlv2772qpwr"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Referencia De Precision Prog To-92 Tl 431acz",
+        "url": "https://www.mercadolibre.com.mx/referencia-de-precision-prog-to92-tl-431acz/up/MLMU558238927",
+        "price": 45.0,
+        "model": "431acz"
+      }
+    ]
+  },
+  "liverpool|75Q6K": {
+    "ts": "2026-06-30T09:55:10.297524+00:00",
+    "items": []
+  },
+  "coppel|75Q6K": {
+    "ts": "2026-06-30T09:55:15.884067+00:00",
+    "items": []
+  },
+  "amazon|75Q6K": {
+    "ts": "2026-06-30T09:55:18.402306+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 75“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRRNSVB",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 12999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
+        "price": 11990.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A65N (Modelo 2025) Pantalla 75 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, DTS Virtual: X, mira TV en Vivo sin Cable",
+        "url": "https://www.amazon.com.mx/dp/B0F4FS7YHN",
+        "price": 9879.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 12495.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
+        "price": 17599.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 13734.63,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 21995.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (65\")",
+        "url": "https://www.amazon.com.mx/dp/B0DTQC9XTX",
+        "price": 9749.0,
+        "model": "Q60DD"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Televisión Pantalla 75 Pulgadas Google TV 4K UHD 75Q651G",
+        "url": "https://www.amazon.com.mx/dp/B0F4LK7J3Y",
+        "price": 14133.0,
+        "model": "75Q651G"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Televisión Pantalla 75 Pulgadas, Sistema operativo Tizen, QLED, 4K UHD, Color Negro, Modelo QN75Q6FAAF",
+        "url": "https://www.amazon.com.mx/dp/B0GNDCGHXR",
+        "price": 20789.0,
+        "model": "QN75Q6FAAF"
+      }
+    ]
+  },
+  "walmart|75Q6K": {
+    "ts": "2026-06-30T09:55:26.364199+00:00",
+    "items": []
+  },
+  "sams|75Q6K": {
+    "ts": "2026-06-30T09:55:33.955603+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL 75\" QLED Google TV 75Q63K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-qled-google-tv-75q63k/981036709",
+        "price": 13347.08,
+        "model": "75Q63K"
+      }
+    ]
+  },
+  "mercadolibre|75Q6K": {
+    "ts": "2026-06-30T09:56:52.661184+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Tv 75 Pulgadas Qled Smart Tv Uhd 4k Tcl 75q6k Google Tv",
+        "url": "https://www.mercadolibre.com.mx/tv-75-pulgadas-qled-smart-tv-uhd-4k-tcl-75q6k-google-tv/p/MLM56671391",
+        "price": 21000.0,
+        "model": "75q6k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Tcl / 75q6k / 40-r75ptc-maa2hg / G0102-000503",
+        "url": "https://www.mercadolibre.com.mx/main-tcl--75q6k--40r75ptcmaa2hg--g0102000503/up/MLMU4154207640",
+        "price": 1259.0,
+        "model": "40-r75ptc-maa2hg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Tcl / 75q6k / 40-l20da4-pwb1zg / G0101-000219",
+        "url": "https://www.mercadolibre.com.mx/fuente-tcl--75q6k--40l20da4pwb1zg--g0101000219/up/MLMU4137530087",
+        "price": 629.0,
+        "model": "40-l20da4-pwb1zg"
+      }
+    ]
+  },
+  "liverpool|65UA8000": {
+    "ts": "2026-06-30T09:57:19.367714+00:00",
+    "items": []
+  },
+  "coppel|65UA8000": {
+    "ts": "2026-06-30T09:57:20.789064+00:00",
+    "items": []
+  },
+  "palacio|65UA8000": {
+    "ts": "2026-06-30T09:57:21.027294+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "PC Gamer ROG G700TF, GeForce RTX 5070 PRIME, Intel Core Ultra 7, RAM 16 GB, 1TB",
+        "url": "https://www.elpalaciodehierro.com/asus-pc-gamer-rog-g700tf-geforce-rtx-5070-prime-intel-core-ultra-7-ram-16-gb-1tb-45369034.html",
+        "price": 49931.24,
+        "model": "G700TF"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K UN65M80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-mini-led-4k-un65m80hafxzx-45368302.html",
+        "price": 13499.01,
+        "model": "UN65M80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Crystal 4K UN65U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-4k-un65u8500hfxzx-45366548.html",
+        "price": 10798.83,
+        "model": "UN65U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Barra de Sonido Teatro en Casa S70TR",
+        "url": "https://www.elpalaciodehierro.com/lg-barra-de-sonido-teatro-en-casa-s70tr-44304824.html",
+        "price": 6719.44,
+        "model": "S70TR"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Music Studio LS70H 10 W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-inalambrica-music-studio-ls70h-10-w-45479303.html",
+        "price": 9998.8,
+        "model": "LS70H"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
+        "price": 17639.51,
+        "model": "QNED85"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
+        "price": 19999.0,
+        "model": "QN90F"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana Mini-LED 4K Google TV 65QM7L SQD",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-mini-led-4k-google-tv-65qm7l-sqd-45360022.html",
+        "price": 18289.41,
+        "model": "65QM7L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 39998.7,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K Fire TV 65QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-mini-led-4k-fire-tv-65qm64l-45368676.html",
+        "price": 16099.3,
+        "model": "65QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html",
+        "price": 20999.58,
+        "model": "QNED92"
+      },
+      {
+        "store": "palacio",
+        "name": "Teclado alámbrico Alloy Origins 65 Negro",
+        "url": "https://www.elpalaciodehierro.com/hyperx-teclado-alambrico-alloy-origins-65-negro-42936301.html",
+        "price": 2399.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|65UA8000": {
+    "ts": "2026-06-30T09:57:23.849321+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ALLIMITY BN59-01363M Control remoto reemplazado por voz para Samsung Smart TV con aplicación corta: Netflix Prime-Video Samsung-TV-Plus UN43AU8000FXZA 55AU8000 55UA8000 65AU8000 65UA8000 43Q6000A 43QA600000",
+        "url": "https://www.amazon.com.mx/dp/B0C811TZ13",
+        "price": 436.38,
+        "model": "UN43AU8000FXZA"
+      }
+    ]
+  },
+  "sams|65UA8000": {
+    "ts": "2026-06-30T09:57:27.124704+00:00",
+    "items": []
+  },
+  "mercadolibre|65UA8000": {
+    "ts": "2026-06-30T09:58:06.508956+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Main Lg 65ur7800psb Ebt63007802 65ur7800psb.bwmylkr",
+        "url": "https://www.mercadolibre.com.mx/main-lg-65ur7800psb-ebt63007802-65ur7800psbbwmylkr/up/MLMU3177830553",
+        "price": 1299.0,
+        "model": "65ur7800psb"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "LG Pantalla 65 Pulgadas Led 4k Uhd Ai Smart Tv Modelo 2024",
+        "url": "https://www.mercadolibre.com.mx/lg-pantalla-65-pulgadas-led-4k-uhd-ai-smart-tv-modelo-2024/p/MLM41212092",
+        "price": 11000.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Lg 43ua7500psa Ebt30135762 43ua7500psa.bwmflkr Mg",
+        "url": "https://www.mercadolibre.com.mx/main-lg-43ua7500psa-ebt30135762-43ua7500psabwmflkr-mg/up/MLMU3730419753",
+        "price": 1088.0,
+        "model": "43ua7500psa"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv 65UA7500PSA Uhd Ai 4k 2025 65 Pulgadas LG 127V",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-65ua7500psa-uhd-ai-4k-2025-65-pulgadas-lg-127v/p/MLM48996224",
+        "price": 9860.0,
+        "model": "65UA7500PSA"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "86uk6570pua Main. 8c1l00lj-0004. Eax67895403(1.0). Nuevo",
+        "url": "https://www.mercadolibre.com.mx/86uk6570pua-main-8c1l00lj0004-eax6789540310-nuevo/up/MLMU3267021666",
+        "price": 1999.0,
+        "model": "8c1l00lj-0004"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Leds 65uh5500. 65uh5500-ua 24 Tiras 5 Leds Aluminio Para Lg",
+        "url": "https://www.mercadolibre.com.mx/leds-65uh5500-65uh5500ua-24-tiras-5-leds-aluminio-para-lg/up/MLMU459118662",
+        "price": 950.0,
+        "model": "65uh5500-ua"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Lg Ebt66792406 55uq8000psb.bwmfljm 55uq8000psb",
+        "url": "https://www.mercadolibre.com.mx/main-lg-ebt66792406-55uq8000psbbwmfljm-55uq8000psb/up/MLMU2666507525",
+        "price": 999.0,
+        "model": "Ebt66792406"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla LG 65 Pulgadas Class Uhd Ai Series 4k Smart Tv 65UA7700AUA",
+        "url": "https://www.mercadolibre.com.mx/pantalla-lg-65-pulgadas-class-uhd-ai-series-4k-smart-tv-65ua7700aua/p/MLM53984787",
+        "price": 13000.0,
+        "model": "65UA7700AUA"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "6870s 2046b Tiras Lg 65uf8500 Ub Serie Ma5",
+        "url": "https://www.mercadolibre.com.mx/6870s-2046b-tiras-lg-65uf8500-ub-serie-ma5/up/MLMU696964389",
+        "price": 300.0,
+        "model": "65uf8500"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main 65uq8000psb  Ebt67179528",
+        "url": "https://www.mercadolibre.com.mx/main-lg-ebt67179528-65uq8000psb-65uq8000psbbwmulkr/p/MLM2082430149",
+        "price": 1299.0,
+        "model": "65uq8000psb"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv 65ua7500psa Uhd Ai 4k 2025 65 Pulgadas LG 127v",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-65ua7500psa-uhd-ai-4k-2025-65-pulgadas-lg-127v/up/MLMU3361274958",
+        "price": 18299.0,
+        "model": "65ua7500psa"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Leds Para Lg 65un7000-pua (8t7l)  Nvo Alum",
+        "url": "https://www.mercadolibre.com.mx/kit-leds-para-lg-65un7000pua-8t7l--nvo-alum/up/MLMU1925202123",
+        "price": 500.0,
+        "model": "65un7000-pua"
+      }
+    ]
+  },
+  "coppel|Q8FAA": {
+    "ts": "2026-06-30T09:58:38.125657+00:00",
+    "items": []
+  },
+  "mercadolibre|Q8FAA": {
+    "ts": "2026-06-30T09:59:32.492654+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Marcha Para John Deere 4045tfm 4.5l  4-cyl",
+        "url": "https://www.mercadolibre.com.mx/marcha-para-john-deere-4045tfm-45l--4cyl/up/MLMU708221695",
+        "price": 5072.0,
+        "model": "4045tfm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Junta Cabeza Tf Audi Q5 2.0l 2011",
+        "url": "https://www.mercadolibre.com.mx/junta-cabeza-tf-audi-q5-20l-2011/up/MLMU2741473009",
+        "price": 1036.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Q7 17-19 / Q8 19-20 Marco Radiador, , To 8-5-19",
+        "url": "https://www.mercadolibre.com.mx/q7-1719--q8-1920-marco-radiador--to-8519/up/MLMU906013567",
+        "price": 12836.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Banda 8v-1800 Jason",
+        "url": "https://www.mercadolibre.com.mx/banda-8v1800-jason/up/MLMU469890887",
+        "price": 2200.0,
+        "model": "8v-1800"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "6es7 132-6bf00-0ba0  Dq 8x24vdc/0.5a Et-200sp",
+        "url": "https://www.mercadolibre.com.mx/6es7-1326bf000ba0--dq-8x24vdc05a-et200sp/up/MLMU3155930110",
+        "price": 2900.0,
+        "model": "132-6bf00-0ba0"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Caja 8 Cuadernos Profesionales By Sazz Guey Tapa Dura 200 H",
+        "url": "https://www.mercadolibre.com.mx/caja-8-cuadernos-profesionales-by-sazz-guey-tapa-dura-200-h/up/MLMU4162448957",
+        "price": 1272.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Junta Cabeza Faw Gf-8 1.0 4 Cil 2011-2019",
+        "url": "https://www.mercadolibre.com.mx/junta-cabeza-faw-gf8-10-4-cil-20112019/up/MLMU696338744",
+        "price": 947.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Marcha 10d Audi A5 Quattro A6 A7 Q5 Q7 S4 S5 Sq5 3.0",
+        "url": "https://www.mercadolibre.com.mx/marcha-10d-audi-a5-quattro-a6-a7-q5-q7-s4-s5-sq5-30/up/MLMU716239558",
+        "price": 2563.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pcm Papel Stock Forma Continua 9.5 X 5.5 1 Tanto 6000 Hojas",
+        "url": "https://www.mercadolibre.com.mx/pcm-papel-stock-forma-continua-95-x-55-1-tanto-6000-hojas/up/MLMU3549019035",
+        "price": 1199.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Un Juego De 8 Marcos De Fotos Decorativos (8 Pulgadas 6 * 8)",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2999623323-un-juego-de-8-marcos-de-fotos-decorativos-8-pulgadas-6-8-_JM?searchVariation=196271225562",
+        "price": 320.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Empaque Junta Completo Motor 6076 T/a/h Re35647",
+        "url": "https://www.mercadolibre.com.mx/empaque-junta-completo-motor-6076-tah-re35647/up/MLMU711523331",
+        "price": 8048.0,
+        "model": "Re35647"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Film Pfa (nfep) Para Sonic Mega 8k Phrozen",
+        "url": "https://www.mercadolibre.com.mx/pelicula-nfep-a3-para-impresora-3d-phrozen-sonic-mega-4k8k/p/MLM2064386607",
+        "price": 1487.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|32Q3K": {
+    "ts": "2026-06-30T09:59:52.292434+00:00",
+    "items": []
+  },
+  "coppel|32Q3K": {
+    "ts": "2026-06-30T09:59:59.310541+00:00",
+    "items": []
+  },
+  "amazon|32Q3K": {
+    "ts": "2026-06-30T10:00:01.981982+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Serie Q3K de 32 pulgadas (1080p) FHD QLED Smart Google TV (2024) (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FG4HHVZL",
+        "price": 4378.0,
+        "model": "1080p"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 32Q31K 32\" Clase Q3K Series (1080P) Full HD QLED Quantum Smart Google TV Panel HVA Bluetooth (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0G6NM17FZ",
+        "price": 3299.0,
+        "model": "32Q31K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 32\" 32Q2K Android TV HD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital+",
+        "url": "https://www.amazon.com.mx/dp/B0DZM8JF7J",
+        "price": 2497.0,
+        "model": "32Q2K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 43\" 43Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMQ5DCY",
+        "price": 3924.05,
+        "model": "43Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 40\" 40Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMWY6R7",
+        "price": 3288.0,
+        "model": "40Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A4N (Modelo 2025) Pantalla 32 Pulgadas, Smart Vidaa TV HD,Modo de Juego,Dolby Audio,Comparte en tu TV,Noise Reduction",
+        "url": "https://www.amazon.com.mx/dp/B0DZ6M25CP",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD6QFM (Modelo 2025) Pantalla 43 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
+        "url": "https://www.amazon.com.mx/dp/B0F1YM6MN5",
+        "price": 4397.0,
+        "model": "QD6QFM"
+      },
+      {
+        "store": "amazon",
+        "name": "Televisor Inteligente de 32\" Pulgadas Clase Q3K Series (1080P) Full HD QLED Quantum 32Q31K",
+        "url": "https://www.amazon.com.mx/dp/B0G6NK7TCR",
+        "price": 3299.0,
+        "model": "32Q31K"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 32 Pulgadas Smart TV webOS AI 2025 32LR600BPSC | HDR10 / HLG | Game Optimizer | Modo HGIG Channels | AI Sound | Escalador de resolución | Bluetooth | Sport Alert",
+        "url": "https://www.amazon.com.mx/dp/B0FSPRJC1X",
+        "price": 2990.0,
+        "model": "32LR600BPSC"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 50\" 50Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHD2Y69",
+        "price": 5494.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "SANSUI SMX32VAHW TV 32\" HD Smart TV, WiFi Sistema Operativo WebOS Series 2024 (32\" HD)",
+        "url": "https://www.amazon.com.mx/dp/B0D1J56XKW",
+        "price": 3136.0,
+        "model": "SMX32VAHW"
+      },
+      {
+        "store": "amazon",
+        "name": "CUORY Smart TV 32\" Full HD DLED Android 12 Television 1366x768 HDMI USB Bluetooth Dolby Atmos Gaming Mode Marco Delgado Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CVXRFP1H",
+        "price": 2149.0,
+        "model": "1366x768"
+      }
+    ]
+  },
+  "walmart|32Q3K": {
+    "ts": "2026-06-30T10:00:19.565496+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Pantalla QLED TCL 32Q3K 32\" FHD HDR 10 Smart TV (Reacondicionado)",
+        "url": "https://www.walmart.com.mx/ip/pantalla-qled-tcl-32q3k-32-fhd-hdr-10-smart-tv-reacondicionado-/00084046404617?athbdg=L1500",
+        "price": 3259.0,
+        "model": "32Q3K"
+      }
+    ]
+  },
+  "sams|32Q3K": {
+    "ts": "2026-06-30T10:00:23.796472+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  40\" FHD Android TV Q3K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-40-fhd-android-tv-q3k/981051056",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantalón para Caballero Member's Mark  Talla 32 x 32 Negro",
+        "url": "https://www.sams.com.mx/ip/pantalon-para-caballero-member-s-mark-talla-32-x-32-negro/981026939",
+        "price": 407.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantalón para Caballero Member's Mark  Talla 32 x 32 Mostaza",
+        "url": "https://www.sams.com.mx/ip/pantalon-para-caballero-member-s-mark-talla-32-x-32-mostaza/981026941",
+        "price": 407.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantalón para Caballero Member's Mark  Talla 32 x 32 Gris",
+        "url": "https://www.sams.com.mx/ip/pantalon-para-caballero-member-s-mark-talla-32-x-32-gris/981026943",
+        "price": 407.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rastrillo Gillette Prestobarba Ultragrip 32 pzas",
+        "url": "https://www.sams.com.mx/ip/rastrillo-gillette-prestobarba-ultragrip-32-pzas/981002308",
+        "price": 404.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Gaming RCA  Curvo 32\" MCQ32",
+        "url": "https://www.sams.com.mx/ip/monitor-gaming-rca-curvo-32-mcq32/981022337",
+        "price": 3988.68,
+        "model": "MCQ32"
+      },
+      {
+        "store": "sams",
+        "name": "Soporte Inclinable Macformet  para Pantallas de 32 a 90 Pulgadas",
+        "url": "https://www.sams.com.mx/ip/soporte-inclinable-macformet-para-pantallas-de-32-a-90-pulgadas/000213305",
+        "price": 520.7,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  32\" HDR Smart TV UN32H5000FFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-32-hdr-smart-tv-un32h5000ffxzx/981033908",
+        "price": 4084.84,
+        "model": "UN32H5000FFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla JVC  32\" QLED Smart TV SI32QRF",
+        "url": "https://www.sams.com.mx/ip/pantalla-jvc-32-qled-smart-tv-si32qrf/981033000",
+        "price": 2652.64,
+        "model": "SI32QRF"
+      },
+      {
+        "store": "sams",
+        "name": "Freidora Chefman  de Aceite RJ07-32-SS-MX",
+        "url": "https://www.sams.com.mx/ip/freidora-chefman-de-aceite-rj07-32-ss-mx/981050241",
+        "price": 1185.49,
+        "model": "RJ07-32-SS-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  32 Pies Cúbicos French Door GM90KIP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-32-pies-cubicos-french-door-gm90kip/981040601",
+        "price": 25572.95,
+        "model": "GM90KIP"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Pionner  32\" HD Roku TV PLE-32R25H1",
+        "url": "https://www.sams.com.mx/ip/pantalla-pionner-32-hd-roku-tv-ple-32r25h1/981039099",
+        "price": 2863.37,
+        "model": "PLE-32R25H1"
+      }
+    ]
+  },
+  "mercadolibre|32Q3K": {
+    "ts": "2026-06-30T10:01:03.352901+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tcl 32 Pulgadas Qled Smart Tv Google Q3k",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tcl-32-pulgadas-qled-smart-tv-google-q3k/up/MLMU3934952415",
+        "price": 3279.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|98QM7K": {
+    "ts": "2026-06-30T10:01:30.766187+00:00",
+    "items": []
+  },
+  "amazon|98QM7K": {
+    "ts": "2026-06-30T10:01:44.288624+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 44999.0,
+        "model": "98QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "RC923A FMB1 Control remoto de voz de repuesto compatible con TCL 2025 4K OLED Smart TV modelos 50QM6K 55QM6K 55QM7K 65QM6K 65QM7K 75QM6K 75QM7K 85QM6K 85QM7K 98QM6K 98QM7K",
+        "url": "https://www.amazon.com.mx/dp/B0GSW1P4Q1",
+        "price": 436.25,
+        "model": "RC923A"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51749.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "Mando a distancia de repuesto para RC923A FMB1 TCL Smart LED TV Modelos 55QM6K 75QM6K 65QM6K 65QM7K 55QM7K 75QM7K 98QM6K 85QM6K 85QM7K 98QM7K (Sin función de voz)",
+        "url": "https://www.amazon.com.mx/dp/B0FRRZ8JLH",
+        "price": 310.1,
+        "model": "RC923A"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 12495.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM64L Smart TV Pantalla 4K QD-MINILED 98\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRKCZXMV",
+        "price": 35999.0,
+        "model": "98QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "RC813A FMB1 - Mando a distancia de repuesto para TCL QLED 4K UHD Smart TV 85QM6K 98QM6K 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K (sin voz)",
+        "url": "https://www.amazon.com.mx/dp/B0GKS2XSY8",
+        "price": 318.87,
+        "model": "RC813A"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 13734.63,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 21995.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 85QM7K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQDRS13F",
+        "price": 29995.0,
+        "model": "85QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "Control remoto de retroiluminación para TCL QM6K QM7K Series QD-Mini LED 4K UHD Google Smart TV 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K 115QM7K 50QM6K 55QM6K 65QM6K 75QM6K 856 K 9 8QM6K",
+        "url": "https://www.amazon.com.mx/dp/B0FYPNJKNV",
+        "price": 510.14,
+        "model": "115QM7K"
+      }
+    ]
+  },
+  "walmart|98QM7K": {
+    "ts": "2026-06-30T10:01:48.179657+00:00",
+    "items": []
+  },
+  "sams|98QM7K": {
+    "ts": "2026-06-30T10:02:45.004549+00:00",
+    "items": []
+  },
+  "coppel|WA23C3554GVAX": {
+    "ts": "2026-06-30T10:03:03.451203+00:00",
+    "items": []
+  },
+  "mercadolibre|WA23C3554GVAX": {
+    "ts": "2026-06-30T10:03:30.693392+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Mitsubishi Hr513 Bn634a928g51 Rev B Control Circuit  Ccx",
+        "url": "https://www.mercadolibre.com.mx/mitsubishi-hr513-bn634a928g51-rev-b-control-circuit--ccx/up/MLMU3212620846",
+        "price": 39301.0,
+        "model": "Bn634a928g51"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Aiwa Aw49-s / Shg5504c-101h / Dlbb419",
+        "url": "https://www.mercadolibre.com.mx/main-aiwa-aw49s--shg5504c101h--dlbb419/up/MLMU4038629959",
+        "price": 589.0,
+        "model": "Shg5504c-101h"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tcom Kodak 43e100c 436871l",
+        "url": "https://www.mercadolibre.com.mx/tcom-kodak-43e100c-436871l/up/MLMU3693308527",
+        "price": 300.0,
+        "model": "43e100c"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "60.eb1jm.10b Main Para Sk-32h640g Tw-60501-c032g , 60.eb1jm",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2524499612-60eb1jm10b-main-para-sk-32h640g-tw-60501-c032g-60eb1jm-_JM",
+        "price": 1631.0,
+        "model": "Tw-60501-c032g"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Botonera Para Tv Kvision Kv3210",
+        "url": "https://www.mercadolibre.com.mx/botonera-para-tv-kvision-kv3210/up/MLMU3490455577",
+        "price": 300.0,
+        "model": "Kv3210"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Philips Cv817-nh V8-mr17k01-lf1v2720 70pfl5656/f8",
+        "url": "https://www.mercadolibre.com.mx/main-para-philips-70pfl5656f8-pcb-cv817-nh/p/MLM2089022796",
+        "price": 799.0,
+        "model": "V8-mr17k01-lf1v2720"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Westinghouse Ch_xc9c_a Wr42fx2002 Philips 42pfl4765/f8 (Reacondicionado)",
+        "url": "https://www.mercadolibre.com.mx/main-westinghouse-chxc9ca-wr42fx2002-philips-42pfl4765f8/up/MLMU3142524472",
+        "price": 690.0,
+        "model": "42pfl4765/f8"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Para Sharp 4t-c55el8ur K-p168-s04",
+        "url": "https://www.mercadolibre.com.mx/fuente-para-sharp-4tc55el8ur-kp168s04/up/MLMU3540424407",
+        "price": 599.0,
+        "model": "4t-c55el8ur"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Paquete Waraudio 4 Cabo 68 O 64 + 2 Fhtw + Panel465y2tw",
+        "url": "https://www.mercadolibre.com.mx/paquete-waraudio-4-cabo-68-o-64--2-fhtw--panel465y2tw/up/MLMU3888397595",
+        "price": 3938.0,
+        "model": "Panel465y2tw"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Westinghouse Main + Tcon Wr43fx2212 Cv816-k42 Tyt",
+        "url": "https://www.mercadolibre.com.mx/westinghouse-main--tcon-wr43fx2212-cv816k42-tyt/up/MLMU3905130596",
+        "price": 599.0,
+        "model": "Wr43fx2212"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Philips Ch_xc9c_a 42pfl4765/f8",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2929363753-main-philips-chxc9ca-42pfl4765f8-_JM",
+        "price": 680.0,
+        "model": "42pfl4765/f8"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Coury Cuohdtv32-s.t.cs2352p683",
+        "url": "https://www.mercadolibre.com.mx/main-coury-cuohdtv32stcs2352p683/up/MLMU3788034286",
+        "price": 1099.0,
+        "model": "Cuohdtv32-s"
+      }
+    ]
+  },
+  "liverpool|75U65QFM": {
+    "ts": "2026-06-30T10:03:53.789843+00:00",
+    "items": []
+  },
+  "coppel|75U65QFM": {
+    "ts": "2026-06-30T10:03:56.817876+00:00",
+    "items": []
+  },
+  "amazon|75U65QFM": {
+    "ts": "2026-06-30T10:04:09.162089+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
+        "price": 14075.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 12999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
+        "price": 24995.0,
+        "model": "OLE65C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas UHD AI UA8050 4K Smart TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0F7TKJMCR",
+        "price": 11995.0,
+        "model": "UA8050"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A65N (Modelo 2025) Pantalla 75 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, DTS Virtual: X, mira TV en Vivo sin Cable",
+        "url": "https://www.amazon.com.mx/dp/B0F4FS7YHN",
+        "price": 9879.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD6QFM(Modelo 2025) Pantalla 100 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Pro de 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0FQV77YBY",
+        "price": 29999.2,
+        "model": "QD6QFM"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD7QFM (Modelo 2025) Pantalla 75 Pulgadas,Mini-LED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Hi-View AI Engine,Modo de Juego Pro de 144 Hz,Dolby Vision·Atmos",
+        "url": "https://www.amazon.com.mx/dp/B0F1YNPR8R",
+        "price": 27729.0,
+        "model": "QD7QFM"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 65QM64L Smart TV Pantalla 4K QD-MINILED 65\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRJY86BR",
+        "price": 12499.0,
+        "model": "65QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75pulgadas QNED AI QNED83 4K Smart TV webOS 2025 75QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FMLCJ479",
+        "price": 14995.0,
+        "model": "75QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD65QV(Modelo 2025) Pantalla 75 Pulgadas,QLED Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
+        "url": "https://www.amazon.com.mx/dp/B0GHYQ7114",
+        "price": 11990.0,
+        "model": "QD65QV"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 17999.0,
+        "model": "75QM64L"
+      }
+    ]
+  },
+  "walmart|75U65QFM": {
+    "ts": "2026-06-30T10:04:20.737836+00:00",
+    "items": []
+  },
+  "sams|75U65QFM": {
+    "ts": "2026-06-30T10:04:24.552759+00:00",
+    "items": []
+  },
+  "mercadolibre|75U65QFM": {
+    "ts": "2026-06-30T10:04:55.196418+00:00",
+    "items": []
+  },
+  "liverpool|GM90HIP": {
+    "ts": "2026-06-30T10:05:06.386395+00:00",
+    "items": []
+  },
+  "coppel|GM90HIP": {
+    "ts": "2026-06-30T10:05:12.671587+00:00",
+    "items": []
+  },
+  "amazon|GM90HIP": {
+    "ts": "2026-06-30T10:05:20.015240+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Altera Cyclone - Maquina Hip Thrust Profesional para Glúteos y Pierna para Gimnasio en Casa, Entrenamiento de Glúteos, Soporta 180 kg, Estructura de Acero y Respaldo Ergonómico",
+        "url": "https://www.amazon.com.mx/dp/B0F4Z1RDCS",
+        "price": 13749.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Yes4All Almohadilla para Barra de Ejercicio - Comodidad y Seguridad en Hip Thrusts, Desplantes y Sentadillas - Diseñada para Barras Olímpicas Estándar",
+        "url": "https://www.amazon.com.mx/dp/B013JOAWGA",
+        "price": 275.82,
+        "model": "Yes4All"
+      },
+      {
+        "store": "amazon",
+        "name": "Cinturón Hip Thrust Acolchado Premium de 13mm para Glúteos y Mancuernas | Soporta hasta 180 kg, neopreno ergonómico de 13 mm, correas de 50 a 76 cm, ideal para sentadillas y desplantes",
+        "url": "https://www.amazon.com.mx/dp/B0DXVB57L2",
+        "price": 414.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sportisimo Banco de Pesas Ajustable y Banca Plegable para Gym | Adjustable Weight Bench | 10 Posiciones Inclinado/Declinado · 320 kg · Acero Reforzado | Press Pecho, Hip Thrust, Abdominales | Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DMFVXBD9",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "[Matador] Bolsa de cuerpo para MATFRHP001 FREERAIN WATERPROOF PACKABLE HIP PACK negro [importados paralelos]",
+        "url": "https://www.amazon.com.mx/dp/B0DDK8SCXN",
+        "price": 1291.64,
+        "model": "MATFRHP001"
+      },
+      {
+        "store": "amazon",
+        "name": "100% ARMEGA Goggle Tetsumi - Lente espejo negro HiPER",
+        "url": "https://www.amazon.com.mx/dp/B0GPDLCCDT",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Banco Hip Thrust Profesional Kevin Bro - Estación de Levantamiento de Cadera y Glúteo - Estructura de Acero Reforzado 2.5mm, Carga Máxima 150kg - Máquina de Entrenamiento de Fuerza para Home Gym",
+        "url": "https://www.amazon.com.mx/dp/B0G86Z3ZZD",
+        "price": 10799.0,
+        "model": "150kg"
+      },
+      {
+        "store": "amazon",
+        "name": "Marhynchus Hip Wader, Pantalones Hip Wader con Bota para Trabajos Acuáticos, Pesca, Captura de Peces, Camping, Senderismo, Adopta PVC de Primera Calidad, Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0CVWXSV8L",
+        "price": 790.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sunny Health & Fitness Máquina Elíptica para el Hogar, Entrenador Cruzado de Cuerpo Completo con Resistencia Magnética Silenciosa, Cardio de Bajo Impacto, Bluetooth SunnyFit App Opcional",
+        "url": "https://www.amazon.com.mx/dp/B002R8CPRY",
+        "price": 3993.59,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TideWe - Botas de Cadera Ligeras para Hombres y Mujeres, 2 Capas de PVC/Nailon para Pesca de Cadera (Verde y café)",
+        "url": "https://www.amazon.com.mx/dp/B077TBZ4T9",
+        "price": 1144.35,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ALOHA Collection - Paquete de cadera para uso diario, ligero, elegante y a prueba de salpicaduras, Mini Hip Pack Negro, Cadera",
+        "url": "https://www.amazon.com.mx/dp/B08575J6W4",
+        "price": 1054.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Banco de pesas ajustable con rizo predicador y extensión híper espalda, silla romana para entrenamiento de gimnasio en casa de cuerpo completo",
+        "url": "https://www.amazon.com.mx/dp/B0FQJ1XB7D",
+        "price": 4813.18,
+        "model": null
+      }
+    ]
+  },
+  "walmart|GM90HIP": {
+    "ts": "2026-06-30T10:05:29.019178+00:00",
+    "items": []
+  },
+  "sams|GM90HIP": {
+    "ts": "2026-06-30T10:05:33.917642+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  32 Pies Cúbicos French Door GM90KIP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-32-pies-cubicos-french-door-gm90kip/981040601",
+        "price": 25572.95,
+        "model": "GM90KIP"
+      }
+    ]
+  },
+  "mercadolibre|GM90HIP": {
+    "ts": "2026-06-30T10:05:57.957632+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "4k Proyector 2026 Mini y Portátil con Aplicaciones Integradas, Altavoz Hifi y 1080p Fhd Bajo Ruido Wifi 6 Bt 5.4 Corrección Automática de Distorsión Giratorio 270° Android 14 Proyector",
+        "url": "https://www.mercadolibre.com.mx/4k-proyector-2026-mini-y-portatil-con-aplicaciones-integradas-altavoz-hifi-y-1080p-fhd-bajo-ruido-wifi-6-bt-54-correccion-automatica-de-distorsion-giratorio-270-android-14-proyector/p/MLM46036365",
+        "price": 2666.0,
+        "model": "1080p"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Mr90y - Original Dell Battery  11.1 V 5700 Mah 65 Wh",
+        "url": "https://www.mercadolibre.com.mx/mr90y--original-dell-battery--111-v-5700-mah-65-wh/up/MLMU1018563351",
+        "price": 2400.0,
+        "model": "Mr90y"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Hkpro 50'  Mod Tv Hkp50ruhd3 Svs6mt8270 Fuente/wifi (4)",
+        "url": "https://www.mercadolibre.com.mx/main-hkpro-50--mod-tv-hkp50ruhd3-svs6mt8270-fuentewifi-4/up/MLMU3660115543",
+        "price": 600.0,
+        "model": "Hkp50ruhd3"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Flex De Video Hp 15 Ac 15 Af 15 Ay 250 255 G4 250 G5 30 Pin",
+        "url": "https://www.mercadolibre.com.mx/flex-de-video-hp-15-ac-15-af-15-ay-250-255-g4-250-g5-30-pin/up/MLMU872145062",
+        "price": 175.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Flex De Video Hp Touchsmart 310 1105la",
+        "url": "https://www.mercadolibre.com.mx/flex-de-video-hp-touchsmart-310-1105la/up/MLMU552424386",
+        "price": 290.0,
+        "model": "1105la"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 65w Para Gm456 Gn201 H856h Ha65nm130 Hf991",
+        "url": "https://www.mercadolibre.com.mx/cargador-65w-para-gm456-gn201-h856h-ha65nm130-hf991/up/MLMU3572460376",
+        "price": 288.0,
+        "model": "Ha65nm130"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 90w Para Ff313 G4x7t Gm456 Gn201 H856h Ha65nm130",
+        "url": "https://www.mercadolibre.com.mx/cargador-90w-para-ff313-g4x7t-gm456-gn201-h856h-ha65nm130/up/MLMU3565038783",
+        "price": 338.0,
+        "model": "Ha65nm130"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 90w Para Hf991 Hk65nm130 Hn662 Hp-af065b83 Hr763",
+        "url": "https://www.mercadolibre.com.mx/cargador-90w-para-hf991-hk65nm130-hn662-hpaf065b83-hr763/up/MLMU3565038791",
+        "price": 338.0,
+        "model": "Hp-af065b83"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Para Hkpro  Hkp65ruhd2",
+        "url": "https://www.mercadolibre.com.mx/main-para-hkpro--hkp65ruhd2/up/MLMU3926670660",
+        "price": 1199.0,
+        "model": "Hkp65ruhd2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Conferencia Hp Poly Trio Tecnosinergia 849b6aa#abm C60",
+        "url": "https://www.mercadolibre.com.mx/conferencia-hp-poly-trio-tecnosinergia-849b6aaabm-c60/p/MLM2091559880",
+        "price": 25263.0,
+        "model": "849b6aa"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Ems Escort Memory Systems Hs860bh-1 Placa Controladora",
+        "url": "https://www.mercadolibre.com.mx/ems-escort-memory-systems-hs860bh1-placa-controladora/up/MLMU3893350610",
+        "price": 32000.0,
+        "model": "Hs860bh-1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Hkpro 50' Mod Tv Hkp50ruhd3, Svs026mt82 Fte Integr (51",
+        "url": "https://www.mercadolibre.com.mx/main-hkpro-50-mod-tv-hkp50ruhd3-svs026mt82-fte-integr-51/up/MLMU4132500548",
+        "price": 700.0,
+        "model": "Hkp50ruhd3"
+      }
+    ]
+  },
+  "liverpool|11QUOT": {
+    "ts": "2026-06-30T10:06:14.384885+00:00",
+    "items": []
+  },
+  "coppel|11QUOT": {
+    "ts": "2026-06-30T10:06:54.856368+00:00",
+    "items": []
+  },
+  "amazon|11QUOT": {
+    "ts": "2026-06-30T10:07:19.315466+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Epson Glossy Photo Paper - Letter - 8.5amp;quot; x 11amp;quot; - 196g/m - Glossy - 20 x Sheet - White (Catalog Category: PAPER- PHOTO QUALITY)",
+        "url": "https://www.amazon.com.mx/dp/B00628L95E",
+        "price": 561.87,
+        "model": "196g/m"
+      },
+      {
+        "store": "amazon",
+        "name": "Getting Things Done Planner | Christian Jeremiah 29 11 Quote Hope Bible Verse Pink",
+        "url": "https://www.amazon.com.mx/dp/B098683HQ2",
+        "price": 456.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Say What?: Cryptograms with a 90s Nostalgia Twist, 100 Coded Quotes and Pop Culture Catchphrases, Answers in Back (Pixel Wizard Press)",
+        "url": "https://www.amazon.com.mx/dp/B0H6PFGFN6",
+        "price": 411.55,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2028-2029 Monthly Calendar: 2 Years From January 2028 to December 2029 with Holidays & Inspirational Quotes, Flowers Design, Large Size 8.5x11",
+        "url": "https://www.amazon.com.mx/dp/B0H6Q9HFL6",
+        "price": 416.52,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Monthly Planner 2028-2029: 2 Years From January 2028 To December 2029 With Motivational Quotes & Holidays, Large Size 8.5 x 11, Dogs Design",
+        "url": "https://www.amazon.com.mx/dp/B0H6KFDSQB",
+        "price": 354.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Monthly Planner 2028-2029: Two Years From January 2028 to December 2029 with Holiday & Inspirational Quotes, Sunflower Design, Large Size 8.5x11",
+        "url": "https://www.amazon.com.mx/dp/B0H6N488G8",
+        "price": 354.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cicero Cryptograms. Enjoy a Collection of Cryptograms Featuring Quotes from Cicero. Large 8.5’’ by 11’’ Format",
+        "url": "https://www.amazon.com.mx/dp/B0DJFXKH9S",
+        "price": 408.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Jeremiah 29 11 Eleven - Christian Bible Verse Quote Saying Art Pretty: Ruled Notebook with 6x9 inches, 110 Pages",
+        "url": "https://www.amazon.com.mx/dp/B0BF2LSW8T",
+        "price": 348.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "1980s Word Search Puzzle Book: Word Search with Easy to Read Print about The 1980s Era From Music, Films, Fashion, Slang and More | 8.5x11 inches, 128 ... Nostalgia Puzzle Book Gift for Men and Women",
+        "url": "https://www.amazon.com.mx/dp/B0H6S6J7F9",
+        "price": 354.28,
+        "model": "1980s"
+      },
+      {
+        "store": "amazon",
+        "name": "Color Your Confidence: A Motivational Coloring Book for Teen Girls — 45 Positive Affirmation Designs with Color Mood Guide",
+        "url": "https://www.amazon.com.mx/dp/B0H6NBH5QD",
+        "price": 412.62,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2027-2028 Coordinator Of The Entire Sh!tshow Sweary Planner: Funny Monthly Organizer and Calendar with Swear Word, Inspirational Cuss Words, Meal Planning Edition for Tired Ass Women",
+        "url": "https://www.amazon.com.mx/dp/B0H6WHPRJV",
+        "price": 425.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2027-2029 Monthly Planner: 3-Year Calendar with Holidays and Inspirational Quotes. Large 8.5” X 11” Perfect for School, Office, and Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H17Z84Q3",
+        "price": 421.13,
+        "model": "3-Year"
+      }
+    ]
+  },
+  "walmart|11QUOT": {
+    "ts": "2026-06-30T10:07:47.864816+00:00",
+    "items": []
+  },
+  "sams|11QUOT": {
+    "ts": "2026-06-30T10:07:54.703288+00:00",
+    "items": []
+  },
+  "mercadolibre|11QUOT": {
+    "ts": "2026-06-30T10:08:31.021282+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "14 Metros Moldura De Unicel Para Led Modelo 11",
+        "url": "https://www.mercadolibre.com.mx/14-metros-moldura-de-unicel-para-led-modelo-11/up/MLMU458937309",
+        "price": 42.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cortinas Opacas, 118  X 57  - Cortina De Ventana Portátil 10",
+        "url": "https://www.mercadolibre.com.mx/cortinas-opacas-118--x-57---cortina-de-ventana-portatil-10/up/MLMU3417762160",
+        "price": 2183.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Funda C/teclado Ratón For Galaxy Tab S9 11&amp;amp;quot&amp;",
+        "url": "https://www.mercadolibre.com.mx/funda-cteclado-raton-for-galaxy-tab-s9-11ampampquotamp/up/MLMU4073289042",
+        "price": 933.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pbk Funda C/teclado Iluminado + Lápiz Para Galaxy Tab A9 C",
+        "url": "https://www.mercadolibre.com.mx/para-samsung-galaxy-tab-a9-a9-plus-funda-con-teclado-c/p/MLM2063724936",
+        "price": 878.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pbk Para Galaxy Tab A9plus 11' Verde Funda",
+        "url": "https://www.mercadolibre.com.mx/bn-capa-mouseteclado-ccaneta-pgalaxy-tab-a9-verde-escuro/p/MLM2027409457",
+        "price": 851.0,
+        "model": "A9plus"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Aspen Creative 21067-11, Kit Convertidor De Iluminación Empo",
+        "url": "https://www.mercadolibre.com.mx/aspen-creative-21067-11-kit-convertidor-de-iluminacion-empo/p/MLM2081769019",
+        "price": 1329.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "La Funda De Teclado Con Ratón Y Lápiz Para Huawei Matepad.",
+        "url": "https://www.mercadolibre.com.mx/funda-teclado-mouselapiz-para-huawei-matepad-se-11-2024-n/p/MLM2026355786",
+        "price": 472.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Funda C/teclado Ratón For Galaxy Tab S9 11&amp;amp;quot&amp;",
+        "url": "https://www.mercadolibre.com.mx/funda-cteclado-raton-for-galaxy-tab-s9-11ampampquotamp/up/MLMU4002530697",
+        "price": 828.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Funda Teclado Para Galaxy Tab A9+(sm-x210/x216/x218)",
+        "url": "https://www.mercadolibre.com.mx/funda-teclado-para-galaxy-tab-a9sm-x210x216x218/p/MLM2058221577",
+        "price": 171.0,
+        "model": "sm-x210/x216/x218"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Elotouch 1093l E321195 Led 10.1",
+        "url": "https://www.mercadolibre.com.mx/elotouch-1093l-e321195-led-101/up/MLMU3243027546",
+        "price": 4500.0,
+        "model": "E321195"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cable Flex 12.7x1.1 De 11 Pines",
+        "url": "https://www.mercadolibre.com.mx/cable-flex-127x11-de-11-pines/up/MLMU1005565028",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cedazo 22 3/16 Molino Torrey",
+        "url": "https://www.mercadolibre.com.mx/cedazo-22-316-molino-torrey/up/MLMU3719935218",
+        "price": 950.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|100U8QG": {
+    "ts": "2026-06-30T10:08:59.303240+00:00",
+    "items": []
+  },
+  "coppel|100U8QG": {
+    "ts": "2026-06-30T10:09:03.937011+00:00",
+    "items": []
+  },
+  "amazon|100U8QG": {
+    "ts": "2026-06-30T10:09:09.042215+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense Television U8QG(Modelo 2025) Pantalla 100 Pulgadas,Mini-LED Pro Smart Google TV UHD 4K,Control Remoto por Voz con Alexa,Modo de Juego Ultra de 165 Hz,Hi-View AI Engine Pro",
+        "url": "https://www.amazon.com.mx/dp/B0G3B8ZNGG",
+        "price": 49398.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DZN8SX9J",
+        "price": 29998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 75“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRRNSVB",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 55QM7L Pantalla 55\" SQD-MiniLED 4K Smart TV | 2800 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSC2XMQ",
+        "price": 13294.4,
+        "model": "55QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "ERF6A80 - Control remoto de voz de repuesto para Hisense U6 U7 U8 U9 S7N Smart TV ERF6G80H ERF6F80H 55U7SG 65U7SG 75U7SG 85U7SG 100U7SG 116U7SG 50S7SG 5S7S7S7SG SG 65 SSS7SG 75S7SG 85S7SG 100U8QG",
+        "url": "https://www.amazon.com.mx/dp/B0GY7MQ9HY",
+        "price": 483.15,
+        "model": "5S7S7S7SG"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión UR8S Pantalla 55“ Pulgadas，RGB Mini-LED 4K AI Smart TV，180Hz Nativos，Procesador RGB Hi-View AI，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9DG1F1",
+        "price": 17998.0,
+        "model": "180Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 75\" Pulgadas Mini LED UN85M80HAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GWZLSX5L",
+        "price": 23398.83,
+        "model": "UN85M80HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
+        "price": 12998.7,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM64L Smart TV Pantalla 4K QD-MINILED 98\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRKCZXMV",
+        "price": 35999.0,
+        "model": "98QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 85QM52L Pantalla 85\" Mini-LED 4K QLED | Google TV | 60 Hz VRR | Dolby Vision HDR 10+ | 450 NITS | Wi-Fi Bluetooth | Compatible with Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRL758QC",
+        "price": 19999.0,
+        "model": "85QM52L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
+        "price": 11990.0,
+        "model": "VisionHDR10"
+      }
+    ]
+  },
+  "walmart|100U8QG": {
+    "ts": "2026-06-30T10:09:16.516553+00:00",
+    "items": []
+  },
+  "sams|100U8QG": {
+    "ts": "2026-06-30T10:09:20.472388+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Hisense  100\" ULED Mini LED 4K Google TV 100U7QG",
+        "url": "https://www.sams.com.mx/ip/pantalla-hisense-100-uled-mini-led-4k-google-tv-100u7qg/981040715",
+        "price": 43987.98,
+        "model": "100U7QG"
+      }
+    ]
+  },
+  "mercadolibre|100U8QG": {
+    "ts": "2026-06-30T10:10:38.633718+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Hisense television QD7N pantalla 100 pulgadas,QLED Smart Google TV UHD 4K,control remoto por voz con Alexa,Dolby Vision Atmos, Modo de juego PRO de 144 Hz, AMD Freesync Premium PRO,Total HDR Solution",
+        "url": "https://www.mercadolibre.com.mx/hisense-television-qd7n-pantalla-100-pulgadasqled-smart-google-tv-uhd-4kcontrol-remoto-por-voz-con-alexadolby-vision-atmos-modo-de-juego-pro-de-144-hz-amd-freesync-premium-prototal-hdr-solution/p/MLM40744287",
+        "price": 51049.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Monitor Dahua 32  Fhd 24/7 Hdmi Vga Usb Bocinas",
+        "url": "https://www.mercadolibre.com.mx/monitor-dahua-32--fhd-247-hdmi-vga-usb-bocinas/up/MLMU3880496988",
+        "price": 4414.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Smart Tv 50  4k Uhd Pantalla Led",
+        "url": "https://www.mercadolibre.com.mx/samsung-smart-tv-50--4k-uhd-pantalla-led/up/MLMU3884589437",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smarttv Samsung Electronics Be65f 65 Uhd 4k Hdmi Bocinas",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-65-4k-crystal-business-samsung-befx-h-hdmi-wi-fi/p/MLM2073413894",
+        "price": 17326.0,
+        "model": "Be65f"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung 85 Pulgadas Du7200 Crystal Uhd 4k Smart Tv",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-85-pulgadas-du7200-crystal-uhd-4k-smart-tv/p/MLM45815025",
+        "price": 27299.0,
+        "model": "Du7200"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Hisense 55  Uhd 4k A6 Dañada Para Refacciones",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3058064021-pantalla-hisense-55-uhd-4k-a6-danada-para-refacciones-_JM",
+        "price": 2500.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|40Q3K": {
+    "ts": "2026-06-30T10:11:16.238944+00:00",
+    "items": []
+  },
+  "coppel|40Q3K": {
+    "ts": "2026-06-30T10:11:22.181849+00:00",
+    "items": []
+  },
+  "amazon|40Q3K": {
+    "ts": "2026-06-30T10:11:24.887266+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 40\" 40Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMWY6R7",
+        "price": 3288.0,
+        "model": "40Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Televisión 40F621FR ROKU Pantalla 40 Pulgadas Smart TV Full HD 1080P con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
+        "url": "https://www.amazon.com.mx/dp/B0G1D19W6Y",
+        "price": 2799.0,
+        "model": "40F621FR"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Serie QD4 Hi-QLED FHD Smart Fire TV de 40 Pulgadas (40QD4QF, Modelo 2025) - Color de Punto cuántico, DTS Virtual: X, Alexa Integrado, diseño de Bisel Delgado",
+        "url": "https://www.amazon.com.mx/dp/B0FBYQHQH1",
+        "price": 5299.0,
+        "model": "40QD4QF"
+      },
+      {
+        "store": "amazon",
+        "name": "Sharp Smart TV Pantalla 40\" LED Roku TV FHD | Resolución Full HD | Roku OS Integrado | Wi-Fi | Dolby Audio | Panel 60 Hz | 16:9 | HDMI/USB",
+        "url": "https://www.amazon.com.mx/dp/B0GPBDHRPQ",
+        "price": 3590.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD4QFM(Modelo 2025) Pantalla 40 Pulgadas, Smart Fire TV FHD,Color QLED,Modo de Juego,Dolby Audio,Comparte en tu TV,Reducción de Ruido",
+        "url": "https://www.amazon.com.mx/dp/B0FKY9S822",
+        "price": 3880.0,
+        "model": "QD4QFM"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 32\" 32Q2K Android TV HD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital+",
+        "url": "https://www.amazon.com.mx/dp/B0DZM8JF7J",
+        "price": 2497.0,
+        "model": "32Q2K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 50\" 50Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHD2Y69",
+        "price": 5494.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 40Q3K 40\" Clase Q3K Series 1080P FHD QLED Smart Google TV",
+        "url": "https://www.amazon.com.mx/dp/B0C9F5KMLZ",
+        "price": 6108.47,
+        "model": "40Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 55\" 55Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCC3X7",
+        "price": 5998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 43\" 43Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMQ5DCY",
+        "price": 3924.05,
+        "model": "43Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "Q-touch Smart TV LED 40” Full HD con Roku Integrado | AOC 40S5045 | WiFi, HDMI y USB | Control por App y Streaming Directo",
+        "url": "https://www.amazon.com.mx/dp/B0FJ496ZTK",
+        "price": 2999.0,
+        "model": "40S5045"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 43 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSQCY6WQ",
+        "price": 5603.0,
+        "model": "HDR10"
+      }
+    ]
+  },
+  "walmart|40Q3K": {
+    "ts": "2026-06-30T10:11:38.454658+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TELEVISOR TCL 40 PULGADAS MOD. 40Q3K QLED ANDRIOD",
+        "url": "https://www.walmart.com.mx/ip/televisor-tcl-40-pulgadas-mod-40q3k-qled-andriod/00084604207337?athbdg=L1300",
+        "price": 4349.0,
+        "model": "40Q3K"
+      }
+    ]
+  },
+  "sams|40Q3K": {
+    "ts": "2026-06-30T10:11:41.521324+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  40\" FHD Android TV Q3K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-40-fhd-android-tv-q3k/981051056",
+        "price": 2999.0,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|40Q3K": {
+    "ts": "2026-06-30T10:12:11.820190+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Televisor Q3k Qled 40\" Negro Tcl",
+        "url": "https://www.mercadolibre.com.mx/televisor-q3k-qled-40-negro-tcl/p/MLM51180248",
+        "price": 3564.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tcl 40q3k 40  Full Hd Led Smart Negro Google Tv",
+        "url": "https://www.mercadolibre.com.mx/tcl-40q3k-40--full-hd-led-smart-negro-google-tv/up/MLMU3326554638",
+        "price": 4599.0,
+        "model": "40q3k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Television Tcl Smart Tv 40  Qled Android Tv Fhd",
+        "url": "https://www.mercadolibre.com.mx/television-tcl-smart-tv-40--qled-android-tv-fhd/up/MLMU3479426945",
+        "price": 4869.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|65Q6K": {
+    "ts": "2026-06-30T10:12:34.969133+00:00",
+    "items": []
+  },
+  "coppel|65Q6K": {
+    "ts": "2026-06-30T10:12:36.795299+00:00",
+    "items": []
+  },
+  "amazon|65Q6K": {
+    "ts": "2026-06-30T10:12:47.806900+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 12495.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
+        "price": 8500.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 12999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 55\" 55Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCC3X7",
+        "price": 5998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 65QM64L Smart TV Pantalla 4K QD-MINILED 65\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRJY86BR",
+        "price": 12499.0,
+        "model": "65QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 27999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 13734.63,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas UHD AI UA7550 4K Smart TV 2025 65UA7550PSA | Sistema Operativo webOS | Identificación de Voz AI | HGIG Mode Channels | Sport Alert | HDR10 | Control Magic Remote AI",
+        "url": "https://www.amazon.com.mx/dp/B0FMWFS968",
+        "price": 9860.96,
+        "model": "65UA7550PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 65 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPY4TDG",
+        "price": 10689.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 55 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSP414WH",
+        "price": 8149.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 65“ Pulgadas,Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRH3MHR",
+        "price": 8299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas NanoCell AI NANO80 4K Smart TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0F2PVJV5S",
+        "price": 9499.0,
+        "model": "NANO80"
+      }
+    ]
+  },
+  "walmart|65Q6K": {
+    "ts": "2026-06-30T10:12:50.399891+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Tv 65 Pulgadas Smart Tv Uhd 4k 65q6k Google Tv Qled",
+        "url": "https://www.walmart.com.mx/ip/tv-65-pulgadas-smart-tv-uhd-4k-65q6k-google-tv-qled/00084046404518?athbdg=L6000",
+        "price": 10999.0,
+        "model": "65q6k"
+      }
+    ]
+  },
+  "sams|65Q6K": {
+    "ts": "2026-06-30T10:12:53.054105+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  65\" QLED Google TV 65Q63K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-65-qled-google-tv-65q63k/981036710",
+        "price": 8999.0,
+        "model": "65Q63K"
+      }
+    ]
+  },
+  "mercadolibre|65Q6K": {
+    "ts": "2026-06-30T10:13:13.312167+00:00",
+    "items": []
+  },
+  "liverpool|K75S20M2": {
+    "ts": "2026-06-30T10:13:21.822930+00:00",
+    "items": []
+  },
+  "coppel|K75S20M2": {
+    "ts": "2026-06-30T10:13:23.711764+00:00",
+    "items": []
+  },
+  "amazon|K75S20M2": {
+    "ts": "2026-06-30T10:13:26.608010+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 75” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYK7Z9PZ",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
+        "price": 460.3,
+        "model": "RMF-TX920U"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 75” LED 4K HDR Google TV 2025 Barra de Sonido de 2.1 Canales con Potente Subwoofer Inalámbrico I HT-S400",
+        "url": "https://www.amazon.com.mx/dp/B0FCLT2HJH",
+        "price": 21498.0,
+        "model": "HT-S400"
+      }
+    ]
+  },
+  "walmart|K75S20M2": {
+    "ts": "2026-06-30T10:13:43.198900+00:00",
+    "items": []
+  },
+  "sams|K75S20M2": {
+    "ts": "2026-06-30T10:13:47.630333+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bolonia Rosarito  1 K",
+        "url": "https://www.sams.com.mx/ip/bolonia-rosarito-1-k/000019786",
+        "price": 112.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lonchera Ruz  Infantil K-Pop",
+        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
+        "price": 360.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Primaria Ruz  K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
+        "price": 522.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lapicera Ruz  Infantil K-pop",
+        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
+        "price": 284.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
+        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
+        "price": 6135.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Barra de Cereal Special K Kellogg's Chocolate Semiamargo y Fresa 25 pzas de 21 g c/u",
+        "url": "https://www.sams.com.mx/ip/barra-de-cereal-special-k-kellogg-s-chocolate-semiamargo-y-fresa-25-pzas-de-21-g-c-u/980038716",
+        "price": 156.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cereal Kellogg's Special K Original 980 g",
+        "url": "https://www.sams.com.mx/ip/cereal-kellogg-s-special-k-original-980-g/981021985",
+        "price": 110.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
+        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
+        "price": 213.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Infantil Ruz  Rígida K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
+        "price": 1142.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
+        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
+        "price": 210.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Secret",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-secret/981045230",
+        "price": 449.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Tour",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-tour/981045229",
+        "price": 449.08,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|K75S20M2": {
+    "ts": "2026-06-30T10:14:17.954597+00:00",
+    "items": []
+  },
+  "amazon|WATCH8": {
+    "ts": "2026-06-30T10:14:34.445698+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (BT) Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FCP4BLXH",
+        "price": 3199.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 Classic Black 46mm",
+        "url": "https://www.amazon.com.mx/dp/B0FCNPJPGH",
+        "price": 4784.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (BT) Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0FCNPYS3X",
+        "price": 4499.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (LTE)",
+        "url": "https://www.amazon.com.mx/dp/B0FCNL52ZP",
+        "price": 4999.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 40mm (LTE)",
+        "url": "https://www.amazon.com.mx/dp/B0FCNTVS4W",
+        "price": 4999.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch GT 6 Pro Smartwatch 46mm Reloj Inteligente Hombre, 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0FPG8KLS8",
+        "price": 3836.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI WATCH GT 6 Smartwatch 41mm Reloj Inteligente Mujer, 1.32''AMOLED Pantalla, 14 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android, Correa de fluoroelastómero Morado",
+        "url": "https://www.amazon.com.mx/dp/B0FPGBFQLQ",
+        "price": 2981.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI WATCH GT 6 Smartwatch 41mm Reloj Inteligente Mujer, 1.32''AMOLED Pantalla, 14 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android, Correa de Cuero Compuesto Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FPG9KY8B",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, Pantalla de 1.82\", 100+ Modos Deportivos, Rastreador de Fitness con SPO₂, Asistente de Bienestar Emocional, hasta 10 días de Batería, iOS & Android, Morado",
+        "url": "https://www.amazon.com.mx/dp/B0F32TCXN4",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 4 Pro Smartwatch con GPS, 1.82\" Pantalla de Zafiro, Bisel de Aleación de Titanio, Análisis de ECG, Batería hasta 10 días, para Outdoor Entusiastas, iOS & Android, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F32QWXHV",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Watch Series 8 GPS 41mm Caja de Aluminio Plateado con Correa Deportiva Blanca - S/M (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BTV851CJ",
+        "price": 3699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, para Hombres y Mujeres, iOS y Android, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
+        "price": 2399.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|WATCH8": {
+    "ts": "2026-06-30T10:14:40.451819+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Silver",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-silver/981039181",
+        "price": 8305.57,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Dark Gray",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-dark-gray/981039176",
+        "price": 6648.46,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Negro 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-negro-46-mm/981039183",
+        "price": 9717.47,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Blanco 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-blanco-46-mm/981039184",
+        "price": 5899.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Silver",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-silver/981039177",
+        "price": 7712.38,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Dark Gray",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-dark-gray/981039179",
+        "price": 8305.57,
+        "model": "Watch8"
+      }
+    ]
+  },
+  "amazon|SAMSUNGDESBLOQUEADOSMARTPHONETITANIOGALAXY": {
+    "ts": "2026-06-30T10:14:44.339894+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S26 Ultra Negro 512GB (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0G4B54DR1",
+        "price": 20790.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 FE Navy 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLKYKKNC",
+        "price": 9512.88,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Flip7 FE Black 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FBSX1VCM",
+        "price": 12499.0,
+        "model": "Flip7"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 5G, 512GB, negro titanio, desbloqueado (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D2RXKLD8",
+        "price": 14419.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy-A07 Light Violet 64GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLM3PRWJ",
+        "price": 1876.0,
+        "model": "Galaxy-A07"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Azul Marino 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKL2R28",
+        "price": 7399.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy A36 5g 256Gb 8Ram Black",
+        "url": "https://www.amazon.com.mx/dp/B0F1GHDC44",
+        "price": 5344.0,
+        "model": "256Gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 256GB Titanio Amarillo Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4S2R961",
+        "price": 13369.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Celular Galaxy S25 Edge Azul 256GB Ultradelgado",
+        "url": "https://www.amazon.com.mx/dp/B0F254N8YR",
+        "price": 13296.95,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy S24 Ultra 5G Desbloqueado de fábrica, 512 GB, Violeta Titanio (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0D1233GL2",
+        "price": 13699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 1TB Titanio Violeta Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CY3H42DW",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 Ultra Negro 256GB con S-Pen",
+        "url": "https://www.amazon.com.mx/dp/B0DNTWQ4DS",
+        "price": 16899.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOSMARTPHONETITANIOGALAXY": {
+    "ts": "2026-06-30T10:14:48.828962+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy  S25 Ultra 512 GB Gris Titanio",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-512-gb-gris-titanio/981031960",
+        "price": 32734.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy  S25 Ultra 256 GB Gris Titanio",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-gris-titanio/981031959",
+        "price": 31711.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 Ultra 256 GB Negro Titanio",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-negro-titanio/981031947",
+        "price": 33755.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy  S25 Ultra 256 GB Azul Titanio",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945",
+        "price": 33757.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A56 256 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-negro-desbloqueado/981033457",
+        "price": 11251.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A17 128 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-black-desbloqueado/981041127",
+        "price": 4088.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A56 256 GB Rosa Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-rosa-desbloqueado/981033464",
+        "price": 11251.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
+        "price": 2554.41,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
+        "price": 16613.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
+        "price": 10229.09,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SAMSUNGDESBLOQUEADOSMARTPHONESAMSUNGTITANIO": {
+    "ts": "2026-06-30T10:14:52.098115+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 256GB Titanio Amarillo Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4S2R961",
+        "price": 13369.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 5G, 512GB, negro titanio, desbloqueado (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D2RXKLD8",
+        "price": 14419.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy S24 Ultra 5G Desbloqueado de fábrica, 512 GB, Violeta Titanio (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0D1233GL2",
+        "price": 13699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 256GB Titanio Gris Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D36516GW",
+        "price": 13109.05,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Celular Galaxy S25 Edge Azul 256GB Ultradelgado",
+        "url": "https://www.amazon.com.mx/dp/B0F254N8YR",
+        "price": 13296.95,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S26 Ultra Negro 512GB (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0G4B54DR1",
+        "price": 20790.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 Edge 5G 128GB Titanio Plata Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GHPC5M8F",
+        "price": 12489.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy S24 Ultra 5G, versión estadounidense, 256GB, gris titanio, desbloqueado (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4RCLGVJ",
+        "price": 13299.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy S24 Ultra 5G - Teléfono versión de EE. UU., 256 GB, negro titanio, desbloqueado (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D362HGNP",
+        "price": 12949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 1TB Titanio Violeta Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CY3H42DW",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 1TB Titanio Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DFQ7Z85L",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 Ultra 12GB Ram 1TB Titanio Oro rosado Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GHPHDQRC",
+        "price": 18599.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOSMARTPHONESAMSUNGTITANIO": {
+    "ts": "2026-06-30T10:14:57.298109+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  85\" UHD Mini LED Smart TV UN85M75HAFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-85-uhd-mini-led-smart-tv-un85m75hafxzx/981052397",
+        "price": 22733.11,
+        "model": "UN85M75HAFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  55\" UHD Mini LED Smart TV UN55M75HAFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-55-uhd-mini-led-smart-tv-un55m75hafxzx/981052373",
+        "price": 7770.71,
+        "model": "UN55M75HAFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  65\" UHD Mini LED Smart TV UN65M75HAFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-65-uhd-mini-led-smart-tv-un65m75hafxzx/981052399",
+        "price": 11248.91,
+        "model": "UN65M75HAFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  75\" UHD Mini LED Smart TV UN75M75HAFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-75-uhd-mini-led-smart-tv-un75m75hafxzx/981052398",
+        "price": 16364.93,
+        "model": "UN75M75HAFXZX"
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy  S25 Ultra 256 GB Azul Titanio",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945",
+        "price": 33757.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
+        "price": 16613.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A17 128 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-black-desbloqueado/981041127",
+        "price": 4088.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26 256 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-256-gb-black-desbloqueado/981050355",
+        "price": 23016.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
+        "price": 10229.09,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
+        "price": 3067.96,
+        "model": null
+      }
+    ]
+  },
+  "amazon|75A400": {
+    "ts": "2026-06-30T10:14:59.567516+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 75\" 75A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCBFQ3P",
+        "price": 18719.48,
+        "model": "75A400"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 65\" 65A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCC54TL",
+        "price": 13938.0,
+        "model": "65A400"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con 75A 600V IGBT Módulo FM600TU 07A FM600TU-07A Componentes de piezas de electrónica de transistor de potencia",
+        "url": "https://www.amazon.com.mx/dp/B0H61YXTBZ",
+        "price": 16064.67,
+        "model": "FM600TU-07A"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible rápido RS94C 500V100A225A250A300A320A350A 600V/110A(300a)",
+        "url": "https://www.amazon.com.mx/dp/B0H68YFCGK",
+        "price": 1039.98,
+        "model": "500V100A225A250A300A320A350A"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con resistencia de derivación 75 mV 0.5 clase FL-2C 75A, 100A, 150A, 200A, 300A, 400A, 500A voltaje digital DC analógico amperímetro de corriente con medida base (400A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6NYWM85",
+        "price": 756.43,
+        "model": "FL-2C"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con resistencia de derivación 75 mV 0.5 clase FL-2C 75A, 100A, 150A, 200A, 300A, 400A, 500A voltaje digital DC analógico amperímetro de corriente con medida base (400A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6PDT683",
+        "price": 763.08,
+        "model": "FL-2C"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible de soplado rápido RS85Z-T 1000V 350A 400A 500A(350A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6LXZ67Z",
+        "price": 1858.23,
+        "model": "RS85Z-T"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible atornillable RS96G 250A300A350A400A450A de acción rápida, 500 V(450A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6M7QYQY",
+        "price": 1551.34,
+        "model": "250A300A350A400A450A"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible cerámico de Fusible rápido RS0-400 RS3-400 250A 300A 350A 400A 500V(250A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6B5SZWV",
+        "price": 481.42,
+        "model": "RS0-400"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible RS308-HB-2H 750 VCC 200A160A125A100A(80A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6FNQL2L",
+        "price": 1040.8,
+        "model": "200A160A125A100A"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible RS94A 500V RS94A-500V/250A 200A 160A 150A 125A 120A 100A 80A(125A)",
+        "url": "https://www.amazon.com.mx/dp/B0H6FK2Q2M",
+        "price": 1082.77,
+        "model": "RS94A-500V/250A"
+      },
+      {
+        "store": "amazon",
+        "name": "Fusible RS94A 500V RS94A-500V/250A 200A 160A 150A 125A 120A 100A 80A(80A)",
+        "url": "https://www.amazon.com.mx/dp/B0H65V8F69",
+        "price": 1049.39,
+        "model": "RS94A-500V/250A"
+      }
+    ]
+  },
+  "walmart|75A400": {
+    "ts": "2026-06-30T10:15:18.050716+00:00",
+    "items": []
+  },
+  "sams|75A400": {
+    "ts": "2026-06-30T10:15:21.005998+00:00",
+    "items": []
+  },
+  "amazon|WHIRLPOOLWHIRLPOOLLAVADORASUPERIORNEGRA": {
+    "ts": "2026-06-30T10:15:27.083781+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool de 20kg Carga Superior Xpert System Blanca Agitador modelo 8MWTW-2024WJM",
+        "url": "https://www.amazon.com.mx/dp/B09BBF6WSP",
+        "price": 8699.0,
+        "model": "8MWTW-2024WJM"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool de 26 Kg Carga Superior Xpert Dual Agitator 2 en 1 Blanca modelo 8MWTW2654WRM",
+        "url": "https://www.amazon.com.mx/dp/B0F97ZRD6C",
+        "price": 14044.28,
+        "model": "8MWTW2654WRM"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool de 22kg Carga Superior Xpert System Blanca Agitador modelo 8MWTW-2231WJB",
+        "url": "https://www.amazon.com.mx/dp/B0CV8Q9RLZ",
+        "price": 9553.0,
+        "model": "8MWTW-2231WJB"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora 20kg carga superior Xpert Eco con ciclo ropa de mascotas",
+        "url": "https://www.amazon.com.mx/dp/B0GZSZ3SSC",
+        "price": 8999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Lavadora Whirlpool 21kg Panel Digital WW2LBTAHME Impermeable y Afelpada Calibre 6",
+        "url": "https://www.amazon.com.mx/dp/B0GTRSL1GF",
+        "price": 429.0,
+        "model": "WW2LBTAHME"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora carga superior 22Kgs Xpert System",
+        "url": "https://www.amazon.com.mx/dp/B0GZJ2CV8L",
+        "price": 10599.0,
+        "model": "22Kgs"
+      },
+      {
+        "store": "amazon",
+        "name": "LAVADORA WHIRLPOOL MOD. 8MWTW-2241WJB 22KG CARGA SUPERIOR",
+        "url": "https://www.amazon.com.mx/dp/B00CPZUKOO",
+        "price": 10999.0,
+        "model": "8MWTW-2241WJB"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora 16kg Whirlpool 8MWTW1612MJQ Carga Superior Xpert System Blanca Agitador",
+        "url": "https://www.amazon.com.mx/dp/B07VZW6RZX",
+        "price": 10176.1,
+        "model": "8MWTW1612MJQ"
+      },
+      {
+        "store": "amazon",
+        "name": "Whirlpool W11481722 OEM 120 V, 60 Hz Arandela de carga superior, parte de actuador reemplaza W10597177, W11237117, W11398781 y WPW10597177",
+        "url": "https://www.amazon.com.mx/dp/B0D362F9VG",
+        "price": 1339.58,
+        "model": "WPW10597177"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora 18kg Carga Superior Xpert System Gris Impeller",
+        "url": "https://www.amazon.com.mx/dp/B0GXTBWBNC",
+        "price": 8299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool de 18kg Carga Superior Blanca Agitador modelo 8MWTW-1813MJM",
+        "url": "https://www.amazon.com.mx/dp/B09887KKYX",
+        "price": 8699.0,
+        "model": "8MWTW-1813MJM"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Samsung, Capacidad de 21 kg, Carga Superior, Color Negro, Modelo WA21A3344GV/AX",
+        "url": "https://www.amazon.com.mx/dp/B0GDVZVZ1T",
+        "price": 9599.0,
+        "model": "WA21A3344GV/AX"
+      }
+    ]
+  },
+  "sams|WHIRLPOOLWHIRLPOOLLAVADORASUPERIORNEGRA": {
+    "ts": "2026-06-30T10:15:31.694356+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Smart Fuzzy Carga Superior 20 kg Negra WT5i2023DB",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-smart-fuzzy-carga-superior-20-kg-negra-wt5i2023db/981037020",
+        "price": 11526.14,
+        "model": "WT5i2023DB"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Semiautomática Doble Tina Carga Superior 20 kg WSA2001P",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-semiautomatica-doble-tina-carga-superior-20-kg-wsa2001p/981036560",
+        "price": 7451.53,
+        "model": "WSA2001P"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool 28 kg Carga Superior 7MWTW8127LC",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-28-kg-carga-superior-7mwtw8127lc/980042530",
+        "price": 20458.98,
+        "model": "7MWTW8127LC"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Carga Superior Xpert System 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-xpert-system-22-kg/980017566",
+        "price": 14014.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Carga Superior 24 kg Shadow Grey 8MWTWLA41WJG",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-24-kg-shadow-grey-8mwtwla41wjg/980023060",
+        "price": 13290.82,
+        "model": "8MWTWLA41WJG"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Xpert Eco Carga Superior 21 kg Gris Oscuro WW21BTAHME",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-xpert-eco-carga-superior-21-kg-gris-oscuro-ww21btahme/981034965",
+        "price": 10228.96,
+        "model": "WW21BTAHME"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Xpert Dual Wash Doble Tina Carga Superior 18 kg WWH18ATALN",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-xpert-dual-wash-doble-tina-carga-superior-18-kg-wwh18ataln/981033920",
+        "price": 13297.98,
+        "model": "WWH18ATALN"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Xpert Dual Agitator 2 en 1 Carga Superior Blanca 20 kg 8MWTW2054WRM ",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-xpert-dual-agitator-2-en-1-carga-superior-blanca-20-kg-8mwtw2054wrm/981033921",
+        "price": 10740.48,
+        "model": "8MWTW2054WRM"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Whirlpool 18 Pies Cúbicos Empotrable Sidekick",
+        "url": "https://www.sams.com.mx/ip/refrigerador-whirlpool-18-pies-cubicos-empotrable-sidekick/980020585",
+        "price": 102298.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Estufa Empotrable Whirlpool 6 Quemadores WER3000D",
+        "url": "https://www.sams.com.mx/ip/estufa-empotrable-whirlpool-6-quemadores-wer3000d/980042523",
+        "price": 10433.58,
+        "model": "WER3000D"
+      },
+      {
+        "store": "sams",
+        "name": "Lavavajillas Whirlpool  Empotrable con 12 Servicios Gris Acero",
+        "url": "https://www.sams.com.mx/ip/lavavajillas-whirlpool-empotrable-con-12-servicios-gris-acero/981018529",
+        "price": 11968.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Whirlpool  18 Pies Cúbicos Top Mount Xpert Energy Saver",
+        "url": "https://www.sams.com.mx/ip/refrigerador-whirlpool-18-pies-cubicos-top-mount-xpert-energy-saver/981018452",
+        "price": 15139.38,
+        "model": null
+      }
+    ]
+  },
+  "amazon|65U6SV": {
+    "ts": "2026-06-30T10:15:39.740025+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U6S Pantalla 65“ Pulgadas,Mini-LED 4K AI Smart TV,144Hz Nativos，Procesador Hi-View AI，IMAX Enhanced,Subwoofer Integrado,Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9HPFKH",
+        "price": 11749.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U6S Pantalla 55“ Pulgadas,Mini-LED 4K AI Smart TV,144Hz Nativos，Procesador Hi-View AI，IMAX Enhanced,Subwoofer Integrado,Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS94P63X",
+        "price": 11654.37,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 55“ Pulgadas,Mini-LED 4K Smart TV，Dolby Vision·Atmos，AI 4K Upscaler，Modo de Protección Ocular，Game Mode Plus，Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSR7MTWC",
+        "price": 7999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|65U6SV": {
+    "ts": "2026-06-30T10:16:06.124644+00:00",
+    "items": []
+  },
+  "sams|65U6SV": {
+    "ts": "2026-06-30T10:16:20.281276+00:00",
+    "items": []
+  },
+  "amazon|WA25DG5505AVAX": {
+    "ts": "2026-06-30T10:16:25.642910+00:00",
+    "items": []
+  },
+  "walmart|WA25DG5505AVAX": {
+    "ts": "2026-06-30T10:16:28.809355+00:00",
+    "items": []
+  },
+  "sams|WA25DG5505AVAX": {
+    "ts": "2026-06-30T10:16:32.565092+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Samsung  Carga Superior 25 kg Negro WA25DG5505AVAX",
+        "url": "https://www.sams.com.mx/ip/lavadora-samsung-carga-superior-25-kg-negro-wa25dg5505avax/981036216",
+        "price": 16678.99,
+        "model": "WA25DG5505AVAX"
+      }
+    ]
+  },
+  "amazon|APPLEMIDNIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-06-30T10:16:35.374612+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5618.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
+        "price": 5599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Verde - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0B5FDB92L",
+        "price": 5579.12,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 512GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNZDS6Y",
+        "price": 7301.36,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|APPLEMIDNIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-06-30T10:16:45.290309+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 9990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L6000",
+        "price": 14999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Apple 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256gb-negro-telcel/00750622736186?athbdg=L6000",
+        "price": 19999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLESTARLIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-06-30T10:16:57.341390+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5618.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Verde - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0B5FDB92L",
+        "price": 5579.12,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone SE de 3.ª generación, 64 GB, Starlight Blanco Reacondicionado",
+        "url": "https://www.amazon.com.mx/dp/B0BY77JM8T",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
+        "price": 5599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Watch Series 9 [GPS, 45mm] - Funda de Aluminio Starlight con Correa Deportiva Starlight, M/L (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CTDBV8TP",
+        "price": 4343.96,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple- Reloj SE (2nd Gen) (GPS, 40mm) - Caja de Aluminio Starlight con Banda Deportiva Starlight, S/M (Reneated Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0D3T9RV4C",
+        "price": 3637.14,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple- Reloj SE (2nd Gen) (GPS + Celular, 40mm) - Caja de Aluminio Starlight con Banda Deportiva Starlight, S/M (Reneated Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0D3TC6874",
+        "price": 3642.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 512GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNZDS6Y",
+        "price": 7301.36,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Watch SE (3nd Gen) (GPS, 40 mm), Caja de Aluminio Starlight con Correa Deportiva Starlight, S/M (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0G3SYRNW9",
+        "price": 4402.86,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLESTARLIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-06-30T10:17:08.720113+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 9990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple IPhone 14 128Gb - Starlight",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-14-128gb-starlight/00019425348823?athbdg=L1300",
+        "price": 11899.0,
+        "model": "128Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-blanco-telcel/00750622734348?athbdg=L1510",
+        "price": 7999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 Mini RENOVADO, 256 GB, Starlight - AT&T",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-mini-renovado-256-gb-starlight-at-t/00075357596428?athbdg=L1300",
+        "price": 6569.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone SE Reacondicionado (3.ª Generación) - Totalmente Desbloqueado - 256 GB Starlight",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-se-reacondicionado-3-generacion-totalmente-desbloqueado-256-gb-starlight/00065747745535?athbdg=L1500",
+        "price": 5240.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|UN85U8200FFXZX": {
+    "ts": "2026-06-30T10:17:14.068706+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Control Remoto Universal para Pantallas Sharp/Smart TV/Led/Netflix/Youtube",
+        "url": "https://www.amazon.com.mx/dp/B08RSLLRCP",
+        "price": 139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51749.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "Hama Soporte de Pared para TV alemán de 90 Pulgadas, 60 kg, Espacio de 2,5 cm",
+        "url": "https://www.amazon.com.mx/dp/B0CP854TWG",
+        "price": 1584.15,
+        "model": null
+      }
+    ]
+  },
+  "walmart|UN85U8200FFXZX": {
+    "ts": "2026-06-30T10:17:29.079347+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Television Samsung Crystal UHD 4K 85 pulgadas UN85U8000FFXZX",
+        "url": "https://www.walmart.com.mx/ip/television-samsung-crystal-uhd-4k-85-pulgadas-un85u8000ffxzx/00880609703852?athbdg=L1300",
+        "price": 16999.0,
+        "model": "UN85U8000FFXZX"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Samsung 85 pulgadas 4K Ultra HD Smart  LED UN85DU7000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-85-pulgadas-4k-ultra-hd-smart-led-un85du7000fxzx/00880609547362",
+        "price": 53968.9,
+        "model": "UN85DU7000FXZX"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Samsung 98 pulgadas 4K Ultra HD Smart TV LED UN98DU9000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-98-pulgadas-4k-ultra-hd-smart-tv-led-un98du9000fxzx/00880609554481?athbdg=L1300",
+        "price": 36209.0,
+        "model": "UN98DU9000FXZX"
+      }
+    ]
+  },
+  "sams|UN85U8200FFXZX": {
+    "ts": "2026-06-30T10:17:32.107776+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  58\" UHD Smart TV UN58U8200HFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-smart-tv-un58u8200hfxzx/981052403",
+        "price": 9662.24,
+        "model": "UN58U8200HFXZX"
       }
     ]
   }

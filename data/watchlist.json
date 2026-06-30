@@ -27,7 +27,7 @@
     "available": true,
     "discount": 20.0,
     "added": "2026-06-21T04:47:24.081903+00:00",
-    "last_seen": "2026-06-27T07:32:36.919750+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/bicicleta-urbana-veloci-rodada-26-unisex/1167998964": {
     "store": "liverpool",
@@ -125,19 +125,19 @@
     "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300",
     "price": 18499.0,
     "available": true,
-    "discount": 33.0,
+    "discount": 45.2,
     "added": "2026-06-22T21:06:04.863478+00:00",
-    "last_seen": "2026-06-30T03:56:50.122935+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658": {
     "store": "walmart",
     "name": "Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desbloqueado",
-    "url": "https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600",
+    "url": "https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300",
     "price": 17999.0,
     "available": true,
     "discount": 27.8,
     "added": "2026-06-22T21:06:04.863478+00:00",
-    "last_seen": "2026-06-30T03:56:50.122935+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html": {
     "store": "palacio",
@@ -147,7 +147,7 @@
     "available": true,
     "discount": 27.4,
     "added": "2026-06-22T21:06:04.863478+00:00",
-    "last_seen": "2026-06-30T06:57:17.665753+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html": {
     "store": "palacio",
@@ -157,7 +157,7 @@
     "available": true,
     "discount": 20.8,
     "added": "2026-06-23T12:27:28.008335+00:00",
-    "last_seen": "2026-06-30T06:57:17.665753+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://www.amazon.com.mx/dp/b07szff97x": {
     "store": "amazon",
@@ -197,7 +197,7 @@
     "available": true,
     "discount": 42.8,
     "added": "2026-06-24T20:02:30.695941+00:00",
-    "last_seen": "2026-06-30T06:57:17.665753+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://liverpool.com.mx/tienda/pdp/lavasecadora-samsung-el%c3%a9ctrica-11.5-kg-7-kg-wd11t4046bx/ax/1110891659": {
     "store": "liverpool",
@@ -253,11 +253,11 @@
     "store": "walmart",
     "name": "Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 53602 Color Plata",
     "url": "https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300",
-    "price": 1399.0,
+    "price": 4137.0,
     "available": true,
     "discount": 21.8,
     "added": "2026-06-28T04:16:19.350003+00:00",
-    "last_seen": "2026-06-30T03:56:50.122935+00:00"
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   },
   "https://www.amazon.com.mx/dp/b091z6jnx4": {
     "store": "amazon",
@@ -288,5 +288,85 @@
     "discount": 22.4,
     "added": "2026-06-29T18:27:48.983696+00:00",
     "last_seen": "2026-06-30T03:56:50.122935+00:00"
+  },
+  "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html": {
+    "store": "palacio",
+    "name": "Lavadora Automática 22 Kg de carga superior LMH72211WBAB0 blanca",
+    "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html",
+    "price": 7859.7,
+    "available": true,
+    "discount": 59.1,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html": {
+    "store": "palacio",
+    "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+    "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+    "price": 10751.58,
+    "available": true,
+    "discount": 48.8,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495": {
+    "store": "walmart",
+    "name": "Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Bocina Desbloqueado",
+    "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300",
+    "price": 18499.0,
+    "available": true,
+    "discount": 45.2,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142": {
+    "store": "walmart",
+    "name": "Lavadora Whirlpool Carga Superior 21 Kg Negra",
+    "url": "https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300",
+    "price": 8999.0,
+    "available": true,
+    "discount": 35.8,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html": {
+    "store": "palacio",
+    "name": "Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV",
+    "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html",
+    "price": 13439.44,
+    "available": true,
+    "discount": 25.3,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html": {
+    "store": "palacio",
+    "name": "Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra",
+    "url": "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html",
+    "price": 12759.45,
+    "available": true,
+    "discount": 23.5,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358": {
+    "store": "sams",
+    "name": "iPhone 13 Apple  128 GB Midnight Telcel",
+    "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
+    "price": 7700.0,
+    "available": true,
+    "discount": 22.9,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
+  },
+  "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284": {
+    "store": "sams",
+    "name": "iPhone 13 Apple  128 GB Starlight Telcel",
+    "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
+    "price": 7700.0,
+    "available": true,
+    "discount": 22.9,
+    "added": "2026-06-30T10:17:32.203952+00:00",
+    "last_seen": "2026-06-30T10:17:32.203952+00:00"
   }
 }
