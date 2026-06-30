@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (46)
+# Historial de ofertas encontradas (47)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-06-30 20:15 | -31% | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $17,999 | $17,999 en walmart vs amazon $38,999 -> -31% bajo la competencia |
 | 2026-06-30 14:40 | -28% | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | $26,950 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-06-30 14:40 | -53% | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 20…](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | $8,499 en walmart vs mercado -> -53% bajo la competencia |
 | 2026-06-30 14:40 | -54% | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -54% bajo la competencia |

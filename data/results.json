@@ -1,7 +1,252 @@
 {
-  "generated_at": "2026-06-30 19:26 UTC",
-  "products_scanned": 916,
+  "generated_at": "2026-06-30 20:15 UTC",
+  "products_scanned": 3253,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 12,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$758 en walmart vs mercado -> -54% bajo la competencia",
+      "likely_typo": false,
+      "savings": 873.15,
+      "store": "walmart",
+      "name": "Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plateado, 1 Pieza",
+      "url": "https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300",
+      "price": 758.0,
+      "list_price": 1379.0,
+      "ean": null,
+      "model": "92180PC",
+      "brand": "T-fal",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750110832157"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 57.5,
+      "detail": "$8,499 en walmart vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9501.5,
+      "store": "walmart",
+      "name": "Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 2025",
+      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280",
+      "price": 8499.0,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": "50QNED82",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00880609633280"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$10,752 en palacio vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10248.42,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+      "price": 10751.58,
+      "list_price": 25599.0,
+      "ean": null,
+      "model": "75Q6K",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44576283",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.8,
+      "detail": "$554 en amazon vs walmart $1,024 -> -46% bajo la competencia",
+      "likely_typo": false,
+      "savings": 470.16,
+      "store": "amazon",
+      "name": "UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puertos, Charger PD3.1 Admite PPS Compatible con iPhone 17 Pro Max/17 Pro/iPhone Air/17/16/15, Galaxy S26 S25 Ultra, Xiaomi Mi12, MacBook, iPad, Negro",
+      "url": "https://www.amazon.com.mx/dp/B091Z6JNX4",
+      "price": 553.84,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": "Air/17/16/15",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B091Z6JNX4"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.8,
+      "detail": "$8,999 en walmart vs mercado -> -36% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5015.08,
+      "store": "walmart",
+      "name": "Lavadora Whirlpool Carga Superior 21 Kg Negra",
+      "url": "https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300",
+      "price": 8999.0,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Whirlpool",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00770822805142"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$10,229 en sams vs walmart $14,999, walmart $17,899 -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4770.02,
+      "store": "sams",
+      "name": "iPhone 16 Apple  256 GB 5G Blanco Telcel",
+      "url": "https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997",
+      "price": 10228.98,
+      "list_price": 20458.97,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981028997"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$17,999 en walmart vs amazon $38,999 -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7999.0,
+      "store": "walmart",
+      "name": "Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4K 2025",
+      "url": "https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302",
+      "price": 17999.0,
+      "list_price": 44999.0,
+      "ean": null,
+      "model": "OLED55C5",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00880609645302"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$26,950 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10369.49,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html",
+      "price": 26949.51,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "OLED65C6PSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45395463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$13,439 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4559.56,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html",
+      "price": 13439.44,
+      "list_price": 23999.0,
+      "ean": null,
+      "model": "65U6SV",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45452464",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$12,759 en palacio vs sams $16,679 -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3919.54,
+      "store": "palacio",
+      "name": "Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html",
+      "price": 12759.45,
+      "list_price": 23199.0,
+      "ean": null,
+      "model": "WA25DG5505AVAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44548089",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.1,
+      "detail": "$7,700 en sams vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2290.0,
+      "store": "sams",
+      "name": "iPhone 13 Apple  128 GB Midnight Telcel",
+      "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
+      "price": 7700.0,
+      "list_price": 14832.46,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981026358"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.1,
+      "detail": "$7,700 en sams vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2290.0,
+      "store": "sams",
+      "name": "iPhone 13 Apple  128 GB Starlight Telcel",
+      "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
+      "price": 7700.0,
+      "list_price": 14832.46,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981027284"
+      }
+    }
+  ]
 }
