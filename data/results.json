@@ -1,7 +1,50 @@
 {
-  "generated_at": "2026-06-30 21:21 UTC",
+  "generated_at": "2026-06-30 22:54 UTC",
   "products_scanned": 917,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 2,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$37,799 en palacio vs amazon $63,599 -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 25799.63,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2",
+      "url": "https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html",
+      "price": 37799.37,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": "K-55XR80M2",
+      "brand": "Sony",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729908",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$16,631 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7118.11,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html",
+      "price": 16631.37,
+      "list_price": 26399.0,
+      "ean": null,
+      "model": "RMB400IBMRX0",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41471043",
+        "outlet": false
+      }
+    }
+  ]
 }

@@ -11326,5 +11326,136 @@
         "model": null
       }
     ]
+  },
+  "amazon|K55XR80M2": {
+    "ts": "2026-06-30T22:53:48.663692+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Soporte de pared para TV ultra delgado para Sony BRAVIA 8 II QD-OLED 4K HDR Google (2025) K-55XR80M2 de 55 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
+        "url": "https://www.amazon.com.mx/dp/B0FQRSSHS2",
+        "price": 2274.19,
+        "model": "K-55XR80M2"
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
+        "price": 460.3,
+        "model": "RMF-TX920U"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony K55XR80M2 BRAVIA 8 II 55 pulgadas QD-OLED 4K HDR TV (2025) paquete con protección exclusiva de CPS de 26 meses, montaje en pared, 2 cables HDMI, adaptador de sobretensión y guía completa para",
+        "url": "https://www.amazon.com.mx/dp/B0F8PDF8WW",
+        "price": 63599.0,
+        "model": "K55XR80M2"
+      }
+    ]
+  },
+  "walmart|K55XR80M2": {
+    "ts": "2026-06-30T22:54:14.142087+00:00",
+    "items": []
+  },
+  "sams|K55XR80M2": {
+    "ts": "2026-06-30T22:54:20.213033+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Hielo Frost  15 K",
+        "url": "https://www.sams.com.mx/ip/hielo-frost-15-k/981040667",
+        "price": 61.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bolonia Rosarito  1 K",
+        "url": "https://www.sams.com.mx/ip/bolonia-rosarito-1-k/000019786",
+        "price": 112.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lapicera Ruz  Infantil K-pop",
+        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
+        "price": 305.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Primaria Ruz  K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lonchera Ruz  Infantil K-Pop",
+        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
+        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
+        "price": 6135.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
+        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
+        "price": 213.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Infantil Ruz  Rígida K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
+        "price": 1227.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Queso Farmers Menoniten Tipo Chester 2.2 k",
+        "url": "https://www.sams.com.mx/ip/queso-farmers-menoniten-tipo-chester-2-2-k/000142896",
+        "price": 326.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
+        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
+        "price": 210.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Secret",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-secret/981045230",
+        "price": 449.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Compacta Keuring  K‑Express Single Serve",
+        "url": "https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307",
+        "price": 2454.17,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RMB400IBMRX0": {
+    "ts": "2026-06-30T22:54:23.821330+00:00",
+    "items": []
+  },
+  "walmart|RMB400IBMRX0": {
+    "ts": "2026-06-30T22:54:27.107398+00:00",
+    "items": []
+  },
+  "sams|RMB400IBMRX0": {
+    "ts": "2026-06-30T22:54:33.761489+00:00",
+    "items": []
   }
 }
