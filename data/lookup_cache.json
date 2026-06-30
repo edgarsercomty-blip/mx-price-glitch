@@ -1,20 +1,20 @@
 {
   "amazon|SS151": {
-    "ts": "2026-06-27T23:59:45.950283+00:00",
+    "ts": "2026-06-30T02:33:11.316502+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Compatible Piezas de aspas licuadora ninja, compatibles con Nutri Ninja Foodi Power Blender SS101 SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C, Con juntas de Goma de Repuesto",
-        "url": "https://www.amazon.com.mx/dp/B0FGX8FJFD",
-        "price": 228.65,
-        "model": "SS351TGT"
-      },
       {
         "store": "amazon",
         "name": "Ninja SS151 TWISTi Blender DUO, con 5 programas Auto-iQ procesador 1600 W y velocidad ajustable. Jarra de 34 onzas y 2 tazas, Gris (reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B09YNLV95Q",
         "price": 1799.0,
         "model": "SS151"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible Piezas de aspas licuadora ninja, compatibles con Nutri Ninja Foodi Power Blender SS101 SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C, Con juntas de Goma de Repuesto",
+        "url": "https://www.amazon.com.mx/dp/B0FGX8FJFD",
+        "price": 228.65,
+        "model": "SS351TGT"
       },
       {
         "store": "amazon",
@@ -32,6 +32,13 @@
       },
       {
         "store": "amazon",
+        "name": "Vasos de 24 onzas BN401, SS101, BN400, BN800, BN801 para licuadora Ninja Nutri, SS351, SS151 TWISTi DUO Copas de repuesto, con tapas mejoradas para sorbos y sellos, convenientes para beber",
+        "url": "https://www.amazon.com.mx/dp/B09Y1NHJKZ",
+        "price": 627.0,
+        "model": "BN401"
+      },
+      {
+        "store": "amazon",
         "name": "Compatible Piezas de aspas licuadora ninja,7Aleta Cuchilla extractora de repuesto,compatible con Nutri Ninja Foodi Power Blender SS101 SS351 SS401 SS151 SS300 SS350 SS351TGT CO351B SS100 SS101C CO101B",
         "url": "https://www.amazon.com.mx/dp/B0FJLF3JR2",
         "price": 351.12,
@@ -39,23 +46,9 @@
       },
       {
         "store": "amazon",
-        "name": "Vasos de 24 onzas BN401, SS101, BN400, BN800, BN801 para licuadora Ninja Nutri, SS351, SS151 TWISTi DUO Copas de repuesto, con tapas mejoradas para sorbos y sellos, convenientes para beber",
-        "url": "https://www.amazon.com.mx/dp/B09Y1NHJKZ",
-        "price": 520.07,
-        "model": "BN401"
-      },
-      {
-        "store": "amazon",
         "name": "Paquete de 2 vasos de batidora de repuesto para Ninja, 24 onzas con tapas para llevar compatibles con Nutri Ninja Auto IQ BN401 BN751 BN801 Bl450 BL456 BL480 BL482 BL642 BL682 Foodi SS151 SS351 SS40 1",
         "url": "https://www.amazon.com.mx/dp/B0FC2J5ZXQ",
-        "price": 461.8,
-        "model": "BN401"
-      },
-      {
-        "store": "amazon",
-        "name": "Vasos de repuesto de 32 onzas compatibles con los modelos Ninja Nutri Blender BN401, SS101, BN400, BN800, BN801, SS351, SS151, TWISTi DUO con tapas mejoradas para sorbos y sellos, paquete de 2",
-        "url": "https://www.amazon.com.mx/dp/B0GCW7JGFP",
-        "price": 454.37,
+        "price": 461.17,
         "model": "BN401"
       },
       {
@@ -67,10 +60,24 @@
       },
       {
         "store": "amazon",
+        "name": "Vasos de repuesto de 32 onzas compatibles con los modelos Ninja Nutri Blender BN401, SS101, BN400, BN800, BN801, SS351, SS151, TWISTi DUO con tapas mejoradas para sorbos y sellos, paquete de 2",
+        "url": "https://www.amazon.com.mx/dp/B0GCW7JGFP",
+        "price": 488.51,
+        "model": "BN401"
+      },
+      {
+        "store": "amazon",
         "name": "[Nuevo modelo] Hoja de batidora de repuesto y accesorios de taza de 24 onzas, solo compatible con Nutri Ninja SS150, SS151, SS300, SS350, SS351, CO351B, SS100, SS101, CO101B, SS400, SS401",
         "url": "https://www.amazon.com.mx/dp/B0C8FXSYJQ",
-        "price": 827.84,
+        "price": 820.01,
         "model": "CO351B"
+      },
+      {
+        "store": "amazon",
+        "name": "Tazas de repuesto de 680 ml para licuadora Ninja BN401 SS401 BN751 BN801 BL450 BL456 BL480 Foodi SS401 SS101 TWISTi SS151 SS351, tazas de licuadora de 680 ml con tapa de sellado para reemplazo de",
+        "url": "https://www.amazon.com.mx/dp/B0D142M2CX",
+        "price": 514.93,
+        "model": "BN401"
       },
       {
         "store": "amazon",
@@ -78,18 +85,11 @@
         "url": "https://www.amazon.com.mx/dp/B0FCCB8H5N",
         "price": 617.24,
         "model": "SS40SS400"
-      },
-      {
-        "store": "amazon",
-        "name": "7 cuchillas de repuesto para licuadora Ninja, accesorios compatibles con Nutri Ninja SS101, SS100, SS150, SS151, SS300, SS351, CO101B, CO150B, CO351B",
-        "url": "https://www.amazon.com.mx/dp/B0D8VG1574",
-        "price": 405.93,
-        "model": "CO101B"
       }
     ]
   },
   "walmart|SS151": {
-    "ts": "2026-06-27T23:59:59.132409+00:00",
+    "ts": "2026-06-30T02:33:18.012708+00:00",
     "items": [
       {
         "store": "walmart",
@@ -102,7 +102,7 @@
         "store": "walmart",
         "name": "Cuchillas de repuesto para licuadora Ninja SS150, SS151, SS300, SS350",
         "url": "https://www.walmart.com.mx/ip/cuchillas-de-repuesto-para-licuadora-ninja-ss150-ss151-ss300-ss350/00046016541618?athbdg=L1300",
-        "price": 529.0,
+        "price": 559.0,
         "model": "SS150"
       },
       {
@@ -130,13 +130,13 @@
         "store": "walmart",
         "name": "Vaso de licuadora de repuesto con tapa (paquete de 2) vasos de 24 onzas para Ninja Auto iQ BL480 BL482 BL642 BL682 BL450 BN401 BN751 BN801 Foodi SS351 SS151 SS401 Ninja Blender Auto iQ Blade",
         "url": "https://www.walmart.com.mx/ip/vaso-de-licuadora-de-repuesto-con-tapa-paquete-de-2-vasos-de-24-onzas-para-ninja-auto-iq-bl480-bl482-bl642-bl682-bl450-bn401-bn751-bn801-foodi-ss351-ss151-ss401-ninja-blender-auto-iq-blade/00082491829045?athbdg=L1300",
-        "price": 799.0,
+        "price": 809.0,
         "model": "BL480"
       }
     ]
   },
   "sams|SS151": {
-    "ts": "2026-06-28T00:00:19.478549+00:00",
+    "ts": "2026-06-30T02:33:27.788314+00:00",
     "items": [
       {
         "store": "sams",
