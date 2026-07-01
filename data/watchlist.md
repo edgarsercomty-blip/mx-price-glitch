@@ -5,6 +5,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | Estado | Tienda | Producto | Precio | Desc. |
 |--------|--------|----------|-------:|------:|
 | 🔴 agotado | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | -70% |
+| 🔴 agotado | palacio | [Refrigerador French Door Smart Inverter 29 p3, GM29BIP, Plat…](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-smart-inverter-29-p3-gm29bip-plata-42668113.html) | $12,000 | -37% |
 | 🟢 disponible | liverpool | [Refrigerador French door Whirlpool 20 pies tecnología no fro…](https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981) | $24,641 | -24% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED Evo AI C5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-c5-4k-smart-tv-2025-44636336.html) | $15,960 | -20% |
 | 🟢 disponible | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | -37% |
@@ -46,7 +47,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | -28% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $37,799 | -41% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $16,631 | -30% |
-| 🟢 disponible | palacio | [Refrigerador French Door Smart Inverter 29 p3, GM29BIP, Plat…](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-smart-inverter-29-p3-gm29bip-plata-42668113.html) | $12,000 | -37% |
 | 🟢 disponible | walmart | [Congelador Horizontal 18 pies Aurus AFC18W](https://www.walmart.com.mx/ip/congelador-horizontal-18-pies-aurus-afc18w/00750283205325?athbdg=L1300) | $12,899 | -26% |
 | 🟢 disponible | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $8,590 | -26% |
 | 🟢 disponible | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| Capaci…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,899 | -22% |
