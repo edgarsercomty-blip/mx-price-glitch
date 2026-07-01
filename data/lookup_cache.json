@@ -189,212 +189,6 @@
       }
     ]
   },
-  "homedepot|MF200D150WBW": {
-    "ts": "2026-06-29T04:19:38.322371+00:00",
-    "items": []
-  },
-  "palacio|MF200D150WBW": {
-    "ts": "2026-06-29T04:19:38.497176+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 44879.49,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 29605.31,
-        "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html",
-        "price": 16631.37,
-        "model": "RMB400IBMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
-        "price": 12737.34,
-        "model": "RMA300FZMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Decantador de cristal",
-        "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
-        "price": 1799.25,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Dispensador de Miel",
-        "url": "https://www.elpalaciodehierro.com/wmf-dispensador-de-miel-18609337.html",
-        "price": 1800.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador 15 p3 Blanco",
-        "url": "https://www.elpalaciodehierro.com/mabe-congelador-15-p3-blanco-44662603.html",
-        "price": 15049.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
-        "price": 12319.3,
-        "model": "WCF2111Q"
-      },
-      {
-        "store": "palacio",
-        "name": "Bote de basura Slim en acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/simplehuman-bote-de-basura-slim-en-acero-inoxidable-44582258.html",
-        "price": 2399.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Munt 250 L RMA250PVMRP0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-munt-250-l-rma250pvmrp0-45372625.html",
-        "price": 12999.0,
-        "model": "RMA250PVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2107Q, 7 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2107q-7-p3-dual-cooling-blanco-42037904.html",
-        "price": 8820.0,
-        "model": "WCF2107Q"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
-        "price": 10361.34,
-        "model": "RMA300FXMRP0"
-      }
-    ]
-  },
-  "amazon|MF200D150WBW": {
-    "ts": "2026-06-29T04:19:40.616741+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "PACKOVE Filtro de Entrada Fácil de Reemplazar Accesorios Completos 4 Piezas Malla de Hierro y Plástico para Filtración de Agua para Lavadora",
-        "url": "https://www.amazon.com.mx/dp/B0FD8R326J",
-        "price": 167.99,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MF200D150WBW": {
-    "ts": "2026-06-29T04:19:49.772077+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavasecadora Midea Carga Frontal Smart Dial Blanca 15 Kg / 8 Kg MF200D150WB/W",
-        "url": "https://www.walmart.com.mx/ip/lavasecadora-midea-carga-frontal-smart-dial-blanca-15-kg-8-kg-mf200d150wb-w/00694587833610?athbdg=L1300",
-        "price": 9799.0,
-        "model": "MF200D150WB/W"
-      }
-    ]
-  },
-  "sams|MF200D150WBW": {
-    "ts": "2026-06-29T04:19:55.460019+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Lavadora Midea  Semiautomática 19 kg MT100W190/W-MX",
-        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-19-kg-mt100w190-w-mx/981052252",
-        "price": 5499.0,
-        "model": "MT100W190/W-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Lavadora MIDEA  Semiautomática 22 kg MT100W220/W-MX",
-        "url": "https://www.sams.com.mx/ip/lavadora-midea-semiautomatica-22-kg-mt100w220-w-mx/981052253",
-        "price": 7999.0,
-        "model": "MT100W220/W-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Waflera Doble Gutstark  Eléctrica 2000 W",
-        "url": "https://www.sams.com.mx/ip/waflera-doble-gutstark-electrica-2000-w/981023134",
-        "price": 4397.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Subwoofer Inalámbrico Denom  Home 10 W",
-        "url": "https://www.sams.com.mx/ip/subwoofer-inalambrico-denom-home-10-w/981031329",
-        "price": 24550.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Foco LED Ledvance  Luz Fría 13.5 W 6 pzas",
-        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-luz-fria-13-5-w-6-pzas/981019537",
-        "price": 152.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Generador Portátil Powermate  5400 W 420 CC",
-        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-5400-w-420-cc/000158187",
-        "price": 14320.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Generador Portátil Powermate  3400 W  208 CC",
-        "url": "https://www.sams.com.mx/ip/generador-portatil-powermate-3400-w-208-cc/000176891",
-        "price": 8950.22,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Foco LED Ledvance  de Alta Potencia Luz Fría 22 W 6 pzas",
-        "url": "https://www.sams.com.mx/ip/foco-led-ledvance-de-alta-potencia-luz-fria-22-w-6-pzas/981033368",
-        "price": 285.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Adaptador de corriente Duo Samsung  de 50 W con cable USB C Negro",
-        "url": "https://www.sams.com.mx/ip/adaptador-de-corriente-duo-samsung-de-50-w-con-cable-usb-c-negro/981036995",
-        "price": 749.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sistema de Audio Lineal Alienpro  Vector de 15 Pulgadas 450 W RMS",
-        "url": "https://www.sams.com.mx/ip/sistema-de-audio-lineal-alienpro-vector-de-15-pulgadas-450-w-rms/980003896",
-        "price": 11251.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Focos LED Member's Mark  8.5 W Luz Blanca  con 10 pzas",
-        "url": "https://www.sams.com.mx/ip/focos-led-member-s-mark-8-5-w-luz-blanca-con-10-pzas/980028087",
-        "price": 142.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Whisky Black & White  1.75 l",
-        "url": "https://www.sams.com.mx/ip/whisky-black-white-1-75-l/000081837",
-        "price": 416.36,
-        "model": null
-      }
-    ]
-  },
   "palacio|CAF06": {
     "ts": "2026-06-29T11:15:41.716053+00:00",
     "items": [
@@ -781,1021 +575,18 @@
       }
     ]
   },
-  "homedepot|75QNED92ASA": {
-    "ts": "2026-06-29T04:17:28.901843+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ESPEJO PARA BAÑO LANG REPISA CON BISEL DE LUJO 56 X 75 CM",
-        "url": "https://www.homedepot.com.mx/p/inter-espejo-para-bano-lang-repisa-con-bisel-de-lujo-56-x-75-cm-1230-232801",
-        "price": 1399.0,
-        "model": "232801"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO NOGAL TERRACOTA DE 0.80 X 0.40 X 0.75",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-nogal-terracota-de-080-x-040-x-075-g91esc101nnn-169287",
-        "price": 1505.0,
-        "model": "169287"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO BLANCO DE 1.00 X 0.50 X 0.75 MTS",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-blanco-de-100-x-050-x-075-mts-g91esc100bb-169111",
-        "price": 2015.0,
-        "model": "169111"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO BLANCO CON CAJON DE 0.80 X 0.40 X 0.77",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-blanco-con-cajon-de-080-x-040-x-077-g91esc200bb-169285",
-        "price": 2599.0,
-        "model": "169285"
-      },
-      {
-        "store": "homedepot",
-        "name": "ESCRITORIO NOGAL TERRACOTA CON CAJON DE 0.80 X 0.40 X 0.77",
-        "url": "https://www.homedepot.com.mx/p/vivant-escritorio-nogal-terracota-con-cajon-de-080-x-040-x-077-g91esc200nnn-169290",
-        "price": 2599.0,
-        "model": "169290"
-      }
-    ]
-  },
-  "palacio|75QNED92ASA": {
-    "ts": "2026-06-29T04:17:29.208324+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
-        "price": 10751.58,
-        "model": "75Q6K"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana QNED 4K webOS evo AI, 65QNED9MASA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-webos-evo-ai-65qned9masa-44705208.html",
-        "price": 20249.55,
-        "model": "65QNED9MASA"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
-        "price": 17639.51,
-        "model": "QNED85"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
-        "price": 49599.69,
-        "model": "QNED86"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
-        "price": 47141.82,
-        "model": "QN85LS03FWFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
-        "price": 31999.1,
-        "model": "QN75QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
-        "price": 18998.7,
-        "model": "QN55QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
-        "price": 39998.7,
-        "model": "MRN65R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 47141.82,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Audífonos gaming Quantum 100X Console Negro",
-        "url": "https://www.elpalaciodehierro.com/jbl-audifonos-gaming-quantum-100x-console-negro-44072828.html",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 83 Pulgadas plana OLED 4K S90FA",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-83-pulgadas-plana-oled-4k-s90fa-44629194.html",
-        "price": 67498.83,
-        "model": "S90FA"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas QLED 4K 75QD6SFM",
-        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-75-pulgadas-qled-4k-75qd6sfm-45467928.html",
-        "price": 11959.48,
-        "model": "75QD6SFM"
-      }
-    ]
-  },
-  "amazon|75QNED92ASA": {
-    "ts": "2026-06-29T04:17:34.841333+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
-        "url": "https://www.amazon.com.mx/dp/B0G87BVYGB",
-        "price": 12599.4,
-        "model": "QNED73"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      }
-    ]
-  },
-  "walmart|75QNED92ASA": {
-    "ts": "2026-06-29T04:17:57.115763+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "LG Pantalla 75 Pulgadas QNED EVO AI QNED92 4K Smart TV webOS 2025 75QNED92ASA|Sistema Operativo webO",
-        "url": "https://www.walmart.com.mx/ip/lg-pantalla-75-pulgadas-qned-evo-ai-qned92-4k-smart-tv-webos-2025-75qned92asa-sistema-operativo-webo/00880609641669",
-        "price": 41654.9,
-        "model": "75QNED92ASA"
-      }
-    ]
-  },
-  "sams|75QNED92ASA": {
-    "ts": "2026-06-29T04:17:57.795965+00:00",
-    "items": []
-  },
-  "homedepot|QDOSTEMPLADOCRISTAL2018QDOS": {
-    "ts": "2026-06-29T04:18:00.858586+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "LÁMPARA COLGANTE CLÁSICO 30162-1 VIDRIO CRISTAL CROMO 3 LUCES INCANDESCENTE",
-        "url": "https://www.homedepot.com.mx/p/artistica-lampara-colgante-clasico-30162-1-vidrio-cristal-cromo-3-luces-incandescente-30162-1-190283",
-        "price": 3699.0,
-        "model": "190283"
-      }
-    ]
-  },
-  "palacio|QDOSTEMPLADOCRISTAL2018QDOS": {
-    "ts": "2026-06-29T04:18:01.072048+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana QLED 4K 55Q6K",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-55q6k-44579096.html",
-        "price": 7331.48,
-        "model": "55Q6K"
-      },
-      {
-        "store": "palacio",
-        "name": "TETERA ACERO INOX ROJA 2,5L",
-        "url": "https://www.elpalaciodehierro.com/cilio-tetera-acero-inox-roja-25l-40330843.html",
-        "price": 1672.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tetera Conte, 2.7 L",
-        "url": "https://www.elpalaciodehierro.com/cilio-tetera-conte-2.7-l-42024485.html",
-        "price": 2216.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set de 2 Alaciadoras",
-        "url": "https://www.elpalaciodehierro.com/babyliss-set-de-2-alaciadoras-40219073.html",
-        "price": 3799.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Taza Medidora Azul claro",
-        "url": "https://www.elpalaciodehierro.com/oxo-taza-medidora-azul-claro-37465544.html",
-        "price": 449.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tequila Cristalino Reposado Tierra Noble Cuarto, 750 ml",
-        "url": "https://www.elpalaciodehierro.com/tierra-noble-tequila-cristalino-reposado-tierra-noble-cuarto-750-ml-43582345.html",
-        "price": 1329.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal Creyente Cristalino Azul, 750 ml",
-        "url": "https://www.elpalaciodehierro.com/creyente-mezcal-creyente-cristalino-azul-750-ml-43533814.html",
-        "price": 3791.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Paquete Tekaway Acero Inoxidable",
-        "url": "https://www.elpalaciodehierro.com/teka-paquete-tekaway-acero-inoxidable-40946470.html",
-        "price": 6489.41,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 Tequileros Celebra",
-        "url": "https://www.elpalaciodehierro.com/krosno-set-6-tequileros-celebra-45033763.html",
-        "price": 1613.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 Tequileros Celebra",
-        "url": "https://www.elpalaciodehierro.com/krosno-set-6-tequileros-celebra-45033761.html",
-        "price": 1613.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set 6 vasos tequileros",
-        "url": "https://www.elpalaciodehierro.com/krosno-set-6-vasos-tequileros-45033764.html",
-        "price": 2117.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Juego De Cubiertos Greenwich 30 Pzs",
-        "url": "https://www.elpalaciodehierro.com/zwilling-j.-a.-henckels-juego-de-cubiertos-greenwich-30-pzs-43615368.html",
-        "price": 4200.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|QDOSTEMPLADOCRISTAL2018QDOS": {
-    "ts": "2026-06-29T04:18:03.271272+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "QDOS OptiGuard Glass Curve Teléfono móvil/Smartphone Samsung 1 Pieza(s) - Protector de Pantalla (Teléfono móvil/Smartphone, Samsung, Galaxy S9+, Resistente a rayones, 1 Pieza(s))",
-        "url": "https://www.amazon.com.mx/dp/B07BVP6JNJ",
-        "price": 790.69,
-        "model": null
-      }
-    ]
-  },
-  "walmart|QDOSTEMPLADOCRISTAL2018QDOS": {
-    "ts": "2026-06-29T04:18:13.849900+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "M Buder Protector de Pantalla Táctil para Coche Civic Si Type R Hatchback 2016-2018 Cristal Templado 9H 7 Pulgadas (17.78 cm)",
-        "url": "https://www.walmart.com.mx/ip/m-buder-protector-de-pantalla-tactil-para-coche-civic-si-type-r-hatchback-2016-2018-cristal-templado-9h-7-pulgadas-17-78-cm-/00066345500627",
-        "price": 204.81,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Protector de pantalla de cristal templado Supershieldz para Samsung A14 5G",
-        "url": "https://www.walmart.com.mx/ip/protector-de-pantalla-de-cristal-templado-supershieldz-para-samsung-a14-5g/00046697074975?athbdg=L1300",
-        "price": 359.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Protector de pantalla Intaleo de cristal templado para iPhone 15 Pro",
-        "url": "https://www.walmart.com.mx/ip/protector-de-pantalla-intaleo-de-cristal-templado-para-iphone-15-pro/00482026674273?athbdg=L1300",
-        "price": 439.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "1x de cristal Templado",
-        "url": "https://www.walmart.com.mx/ip/1x-de-cristal-templado/00078648402878",
-        "price": 139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lima de cristal para pies, lima de cristal para pies, lima de cristal para pies, lima de cristal para pies, lima de cristal templado para pies",
-        "url": "https://www.walmart.com.mx/ip/lima-de-cristal-para-pies-lima-de-cristal-para-pies-lima-de-cristal-para-pies-lima-de-cristal-para-pies-lima-de-cristal-templado-para-pies/00761304766584",
-        "price": 160.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Protector de pantalla UniqueMe para iPhone 15/16 de cristal templado",
-        "url": "https://www.walmart.com.mx/ip/protector-de-pantalla-uniqueme-para-iphone-15-16-de-cristal-templado/00060760912674?athbdg=L1300",
-        "price": 369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "VERDANVERSE 6Ud Película De Cristal Templado Para Resistente Y Transparente",
-        "url": "https://www.walmart.com.mx/ip/verdanverse-6ud-pelicula-de-cristal-templado-para-resistente-y-transparente/00033213970111?athbdg=L6000",
-        "price": 113.58,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda con protector de pantalla de cristal templado para Apple Watch",
-        "url": "https://www.walmart.com.mx/ip/funda-con-protector-de-pantalla-de-cristal-templado-para-apple-watch/00046192236416?athbdg=L1300",
-        "price": 379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda con protector de pantalla de cristal templado para Apple Watch",
-        "url": "https://www.walmart.com.mx/ip/funda-con-protector-de-pantalla-de-cristal-templado-para-apple-watch/00046296302139?athbdg=L1300",
-        "price": 349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda con protector de pantalla de cristal templado para Apple Watch",
-        "url": "https://www.walmart.com.mx/ip/funda-con-protector-de-pantalla-de-cristal-templado-para-apple-watch/00046216110616?athbdg=L1300",
-        "price": 559.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda con protector de pantalla de cristal templado para Apple Watch",
-        "url": "https://www.walmart.com.mx/ip/funda-con-protector-de-pantalla-de-cristal-templado-para-apple-watch/00046542727859?athbdg=L1300",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda con protector de pantalla de cristal templado para Apple Watch",
-        "url": "https://www.walmart.com.mx/ip/funda-con-protector-de-pantalla-de-cristal-templado-para-apple-watch/00075091841719?athbdg=L1300",
-        "price": 379.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|QDOSTEMPLADOCRISTAL2018QDOS": {
-    "ts": "2026-06-29T04:18:14.950286+00:00",
-    "items": []
-  },
-  "homedepot|OLED97G6PSA": {
-    "ts": "2026-06-29T04:18:15.165491+00:00",
-    "items": []
-  },
-  "palacio|OLED97G6PSA": {
-    "ts": "2026-06-29T04:18:15.326231+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana OLED 4K webOS evo AI G6 OLED65G6PSA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-evo-ai-g6-oled65g6psa-45505424.html",
-        "price": 40879.44,
-        "model": "OLED65G6PSA"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 pulgadas plana OLED 4K S95FA",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-oled-4k-s95fa-44629306.html",
-        "price": 37713.06,
-        "model": "S95FA"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
-        "price": 31999.1,
-        "model": "QN75QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 32 p3 GM90FIP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-32-p3-gm90fip-45001054.html",
-        "price": 24179.38,
-        "model": "GM90FIP"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 47141.82,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 77 Pulgadas plana OLED 4K S95FA",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-77-pulgadas-plana-oled-4k-s95fa-44629249.html",
-        "price": 77998.9,
-        "model": "S95FA"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Gamer 32 Pulgadas, Plana, OLED G8 Odyssey",
-        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-32-pulgadas-plana-oled-g8-odyssey-44694783.html",
-        "price": 21935.52,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Gamer 27 Pulgadas Plana OLED G6 LS27FG602SLXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-27-pulgadas-plana-oled-g6-ls27fg602slxzx-45191528.html",
-        "price": 17009.19,
-        "model": "LS27FG602SLXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html",
-        "price": 16999.0,
-        "model": "GT32WDC"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Gamer 57 Pulgadas Curvo DUHD Odyssey G9 LS57CG950NLXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-57-pulgadas-curvo-duhd-odyssey-g9-ls57cg950nlxzx-43978872.html",
-        "price": 39999.2,
-        "model": "LS57CG950NLXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Mono Puerta 9 p3 Crema",
-        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-mono-puerta-9-p3-crema-41025134.html",
-        "price": 35625.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 31 p3 GM90LIP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-31-p3-gm90lip-45001056.html",
-        "price": 32859.47,
-        "model": "GM90LIP"
-      }
-    ]
-  },
-  "amazon|OLED97G6PSA": {
-    "ts": "2026-06-29T04:18:17.740940+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
-        "price": 12899.0,
-        "model": "Q72dd"
-      },
-      {
-        "store": "amazon",
-        "name": "CHiQ Televisión 50U721XR ROKU Pantalla 50 Pulgadas Smart TV 4K HDR con WiFi, Aplicación Móvil, Audio Dolby, Diseño Ultra Delgado Sin Marco Metálico",
-        "url": "https://www.amazon.com.mx/dp/B0G1CXRGV8",
-        "price": 4999.0,
-        "model": "50U721XR"
-      },
-      {
-        "store": "amazon",
-        "name": "Aiwa Smart TV de 43 Pulgadas Roku TV, Pantalla LED Full HD 1080p de Alta Definición, Dolby Audio, Bisel Delgado, 3 Entradas HDMI, Puerto USB, Wi-Fi y Streaming de Miles de Canales Gratis AW43B4SMRK",
-        "url": "https://www.amazon.com.mx/dp/B0DTBT2JP3",
-        "price": 3690.0,
-        "model": "AW43B4SMRK"
-      },
-      {
-        "store": "amazon",
-        "name": "LG 32 Smart TV de 32\" Pulgadas Clase HD 720p Procesador de Inteligencia Artificial Alpha a5 Gen6 (2025) - 32LR600BZUC",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3SDWBB",
-        "price": 3039.05,
-        "model": "32LR600BZUC"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 97 Pulgadas OLED EVO AI G6 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GW96R1LQ",
-        "price": 314998.75,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TV portátil 16 Pulgadas Full HD 1080p con batería Recargable 4000 mAh, ATSC/NTSC (Digital y analógico), HDMI/USB/AV/SD, 12V/24V/110V para Auto, camión, RV y Camping, Incluye Antena",
-        "url": "https://www.amazon.com.mx/dp/B0DCF2GNS8",
-        "price": 3093.99,
-        "model": "12V/24V/110V"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Television de 32\" Class HD 720p LED Smart TV con Procesador de Cuatro Núcleos HDMI Ethernet Sistema webOS Frecuencia de actualización 60 Hz (Sin Bases) 32LM577BZUA (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BSG37GJ2",
-        "price": 3299.0,
-        "model": "32LM577BZUA"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Serie Q3 de 43\" Pulgadas (1080p) Full HD QLED (Modelo 2025) - Smart Google TV, HDR, y Bajo Retraso, Gaming (Reacondicionada)",
-        "url": "https://www.amazon.com.mx/dp/B0G765XRFK",
-        "price": 3799.05,
-        "model": "1080p"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Smart TV de 43\" Pulgadas Serie UA7100 LED 4K Ultra HD (2025), HDR10 Pro, WebOS, Alpha 7 AI Gen8, Precision HDR Master Pro, HDR10 Pro, Filmmaker Mode (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GRWVPHF2",
-        "price": 3989.0,
-        "model": "UA7100"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Television de 32 Pulgadas Serie 4 Class 720p LED Smart TV Frecuencia de Actualización 60Hz Compatible con Alexa y Google Assistant (Sin Bases) + Soporte de Pared (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BYTJ1HJ2",
-        "price": 2599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "LG Smart TV 4K Ultra HD de 65\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
-        "url": "https://www.amazon.com.mx/dp/B0FMBXT5X3",
-        "price": 7999.0,
-        "model": "UA7700"
-      },
-      {
-        "store": "amazon",
-        "name": "Sceptre Televisión de 43 Pulgadas Serie X43 1080P Full HD LED TV Diseño Sin Bordes con HDMI,VGA, MEMC 120 USB X437BV-FSRD (Sin Bases) + Soporte de Pared (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CLT7C6PV",
-        "price": 4199.0,
-        "model": "X437BV-FSRD"
-      }
-    ]
-  },
-  "walmart|OLED97G6PSA": {
-    "ts": "2026-06-29T04:18:20.684281+00:00",
-    "items": []
-  },
-  "sams|OLED97G6PSA": {
-    "ts": "2026-06-29T04:18:21.215024+00:00",
-    "items": []
-  },
-  "homedepot|65QNED9MASA": {
-    "ts": "2026-06-29T04:18:39.100244+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "Set de accesorios X line de 65 pz BOSCH",
-        "url": "https://www.homedepot.com.mx/p/bosch-set-de-accesorios-x-line-de-65-pz-bosch-set-65-pz-139784",
-        "price": 647.0,
-        "model": "139784"
-      },
-      {
-        "store": "homedepot",
-        "name": "PANTALLA LG OLED EVO 65 4K SMART TV CON THINQ AI OLED65C3PSA",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-lg-oled-evo-65-4k-smart-tv-con-thinq-ai-oled65c3psa-oled65c3psa-208456",
-        "price": 39799.0,
-        "model": "208456"
-      },
-      {
-        "store": "homedepot",
-        "name": "Lámpara solar con sensor de movimiento Luz Fría MS-3104.N",
-        "url": "https://www.homedepot.com.mx/p/illux-lampara-solar-con-sensor-de-movimiento-luz-fria-ms-3104n-ms-3104n-175014",
-        "price": 699.0,
-        "model": "175014"
-      }
-    ]
-  },
-  "liverpool|65QNED9MASA": {
-    "ts": "2026-06-29T04:18:40.500636+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart TV LG QNED de 65 pulgadas 4K 65QNED9MASA con evo AI True Wireless",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/1178739324",
-        "price": 17999.1,
-        "model": "65QNED9MASA"
-      }
-    ]
-  },
-  "amazon|65QNED9MASA": {
-    "ts": "2026-06-29T04:18:42.662008+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
-        "price": 11995.0,
-        "model": "65QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
-        "price": 9495.0,
-        "model": "55QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
-        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
-        "price": 23999.0,
-        "model": "OLE65C5PSA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 680.0,
-        "model": "Akb76046605"
-      }
-    ]
-  },
-  "walmart|65QNED9MASA": {
-    "ts": "2026-06-29T04:18:52.164181+00:00",
-    "items": []
-  },
-  "sams|65QNED9MASA": {
-    "ts": "2026-06-29T04:18:53.027210+00:00",
-    "items": []
-  },
-  "homedepot|55QNED81BSC": {
-    "ts": "2026-06-29T04:18:54.308822+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "PANTALLA 55\" UHD AI 4K UHD",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-uhd-ai-4k-uhd-55qned75sra-208468",
-        "price": 14299.0,
-        "model": "208468"
-      },
-      {
-        "store": "homedepot",
-        "name": "PANTALLA 55\" OLED THINQ IA 4K UHD",
-        "url": "https://www.homedepot.com.mx/p/lg-pantalla-55-oled-thinq-ia-4k-uhd-oled55c3-208458",
-        "price": 30649.0,
-        "model": "208458"
-      },
-      {
-        "store": "homedepot",
-        "name": "TENDEDERO EXPANDIBLE 115 X 205 X 55 CM BLANCO",
-        "url": "https://www.homedepot.com.mx/p/home-home-tendedero-expandible-115-x-205-x-55-cm-blanco-ps-02002-266989",
-        "price": 649.0,
-        "model": "266989"
-      }
-    ]
-  },
-  "palacio|55QNED81BSC": {
-    "ts": "2026-06-29T04:18:54.470835+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
-        "price": 17639.51,
-        "model": "QNED85"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor 27 pulgadas Plana UltraFine UHD 4K 60 Hz 27US500-W",
-        "url": "https://www.elpalaciodehierro.com/lg-monitor-27-pulgadas-plana-ultrafine-uhd-4k-60-hz-27us500-w-44318701.html",
-        "price": 8099.1,
-        "model": "27US500-W"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana QD-Mini LED 4K HDR, 55QM7K",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qd-mini-led-4k-hdr-55qm7k-44576903.html",
-        "price": 14057.34,
-        "model": "55QM7K"
-      },
-      {
-        "store": "palacio",
-        "name": "Apple TV Tercera Generacion 4K 64 GB Wi-Fi, Negro",
-        "url": "https://www.elpalaciodehierro.com/apple-apple-tv-tercera-generacion-4k-64-gb-wi-fi-negro-42903548.html",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
-        "price": 49599.69,
-        "model": "QNED86"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
-        "price": 19999.0,
-        "model": "QN90F"
-      },
-      {
-        "store": "palacio",
-        "name": "Lente de Cámara SEL55210-BQ AE, 55-210 mm, F4.5-6.3, Zoom - Negro",
-        "url": "https://www.elpalaciodehierro.com/sony-lente-de-camara-sel55210-bq-ae-55-210-mm-f4.5-6.3-zoom---negro-43094225.html",
-        "price": 4991.48,
-        "model": "SEL55210-BQ"
-      },
-      {
-        "store": "palacio",
-        "name": "Teatro en Casa TCL Q75H 5.1.2Canales",
-        "url": "https://www.elpalaciodehierro.com/tcl-teatro-en-casa-tcl-q75h-5.1.2canales-44545384.html",
-        "price": 7839.51,
-        "model": "2Canales"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-        "price": 13299.3,
-        "model": "55QM64L"
-      },
-      {
-        "store": "palacio",
-        "name": "Celular V70FE 5G 512 GB 8 GB Lila Telcel",
-        "url": "https://www.elpalaciodehierro.com/vivo-celular-v70fe-5g-512-gb-8-gb-lila-telcel-45397418.html",
-        "price": 12999.0,
-        "model": "V70FE"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html",
-        "price": 25998.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
-        "price": 18998.7,
-        "model": "QN55QN80HAFXZX"
-      }
-    ]
-  },
-  "amazon|55QNED81BSC": {
-    "ts": "2026-06-29T04:18:56.420290+00:00",
-    "items": []
-  },
-  "walmart|55QNED81BSC": {
-    "ts": "2026-06-29T04:19:06.452159+00:00",
-    "items": []
-  },
-  "sams|55QNED81BSC": {
-    "ts": "2026-06-29T04:19:07.425791+00:00",
-    "items": []
-  },
-  "homedepot|KGWD18T6000GWAX": {
-    "ts": "2026-06-29T04:20:09.926988+00:00",
-    "items": []
-  },
-  "palacio|KGWD18T6000GWAX": {
-    "ts": "2026-06-29T04:20:10.111606+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 22 p3 RF22A4110S9",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-22-p3-rf22a4110s9-41998761.html",
-        "price": 16819.42,
-        "model": "RF22A4110S9"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 755 L PNM26PGTFPS Negro",
-        "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-french-door-755-l-pnm26pgtfps-negro-42917668.html",
-        "price": 23449.5,
-        "model": "PNM26PGTFPS"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
-        "price": 47141.82,
-        "model": "QN85LS03FWFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 18 p3 WT1818A",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
-        "price": 12918.6,
-        "model": "WT1818A"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 29605.31,
-        "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 25.8 p",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-french-door-25.8-p-37265890.html",
-        "price": 135959.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door Bottom Dark 708 L PFF25LERCDS",
-        "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-french-door-bottom-dark-708-l-pff25lercds-42917670.html",
-        "price": 33791.34,
-        "model": "PFF25LERCDS"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
-        "price": 12319.3,
-        "model": "WCF2111Q"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado minisplit MMT18CDBWCAM3 18,000 BTU's 1.5 toneladas 220 V frío",
-        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt18cdbwcam3-18000-btus-1.5-toneladas-220-v-frio-44964271.html",
-        "price": 13019.3,
-        "model": "MMT18CDBWCAM3"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 541 L HSM541HMNSS0",
-        "url": "https://www.elpalaciodehierro.com/haier-refrigerador-french-door-541-l-hsm541hmnss0-43793807.html",
-        "price": 28049.34,
-        "model": "HSM541HMNSS0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 29 p3 Auto View RF80H30CDTEM",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-29-p3-auto-view-rf80h30cdtem-45461900.html",
-        "price": 38279.42,
-        "model": "RF80H30CDTEM"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2107Q, 7 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2107q-7-p3-dual-cooling-blanco-42037904.html",
-        "price": 8820.0,
-        "model": "WCF2107Q"
-      }
-    ]
-  },
-  "amazon|KGWD18T6000GWAX": {
-    "ts": "2026-06-29T04:20:11.757419+00:00",
-    "items": []
-  },
-  "walmart|KGWD18T6000GWAX": {
-    "ts": "2026-06-29T04:20:21.560660+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavasecadora Samsung WD18T6000GW/AX Front Load 18/10 KG",
-        "url": "https://www.walmart.com.mx/ip/lavasecadora-samsung-wd18t6000gw-ax-front-load-18-10-kg/00880609498108?athbdg=L1300",
-        "price": 18029.0,
-        "model": "WD18T6000GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 20 kg Blanca WA20A3341GW/AX Carga Superior con Agitador",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-20-kg-blanca-wa20a3341gw-ax-carga-superior-con-agitador/00880609218769?athbdg=L1300",
-        "price": 9399.0,
-        "model": "WA20A3341GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 22 kg Blanca Mod. WA22A3350GW/AX Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-22-kg-blanca-mod-wa22a3350gw-ax-carga-superior/00880609218777?athbdg=L1300",
-        "price": 9190.0,
-        "model": "WA22A3350GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Router ASUS ZenWiFi AX XT8 CHARCOAL Tri Banda 2 Pack Blanco",
-        "url": "https://www.walmart.com.mx/ip/router-asus-zenwifi-ax-xt8-charcoal-tri-banda-2-pack-blanco/00019287657901?athbdg=L1300",
-        "price": 9013.4,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre GIGABYTE B760 AORUS Elite AX LGA 1700 DDR5 ATX",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b760-aorus-elite-ax-lga-1700-ddr5-atx/00088952303592?athbdg=L6000",
-        "price": 14814.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "AIRE ACOND 21000 BTUS 18.04 SEER INVERTER EXCELLENCE WIFI R410 Samsung AR24TVFYCWK/AX",
-        "url": "https://www.walmart.com.mx/ip/aire-acond-21000-btus-18-04-seer-inverter-excellence-wifi-r410-samsung-ar24tvfycwk-ax/00061452455490?athbdg=L1300",
-        "price": 18347.0,
-        "model": "AR24TVFYCWK/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Madre GIGABYTE B650M D3HP AX AM5 4x DDR5 2x M.2 PCIe 4.0 USB-C WIFI 6E BT 5.3 Micro ATX negro",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-madre-gigabyte-b650m-d3hp-ax-am5-4x-ddr5-2x-m-2-pcie-4-0-usb-c-wifi-6e-bt-5-3-micro-atx-negro/00088952304058",
-        "price": 3200.0,
-        "model": "B650M"
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre GIGABYTE B650 UD AX AM5 DDR5 Wifi 6 ATX",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b650-ud-ax-am5-ddr5-wifi-6-atx/00088952304427?athbdg=L1300",
-        "price": 4609.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema WiFi 6 Mesh ASUS ZenWiFi AX Hybrid XP4 para 5500 pies²",
-        "url": "https://www.walmart.com.mx/ip/sistema-wifi-6-mesh-asus-zenwifi-ax-hybrid-xp4-para-5500-pies-/00019287675788?athbdg=L1300",
-        "price": 3559.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Placa madre GIGABYTE B760M DS3H AX (LGA 1700/ Intel/ DDR5)",
-        "url": "https://www.walmart.com.mx/ip/placa-madre-gigabyte-b760m-ds3h-ax-lga-1700-intel-ddr5-/00088952303572?athbdg=L1300",
-        "price": 4249.0,
-        "model": "B760M"
-      },
-      {
-        "store": "walmart",
-        "name": "Aspiradora Samsung Rosa Oro con Filtro para polvo fino VS15A6031R7/AX",
-        "url": "https://www.walmart.com.mx/ip/aspiradora-samsung-rosa-oro-con-filtro-para-polvo-fino-vs15a6031r7-ax/00880609464884?athbdg=L1300",
-        "price": 6499.0,
-        "model": "VS15A6031R7/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Aire Acondicionado Minisplit Inverter Wifi Solo Frío 220v 1.5Ton Samsung AR18AVFCAWK/AX Samsung DE PARED",
-        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-minisplit-inverter-wifi-solo-frio-220v-1-5ton-samsung-ar18avfcawk-ax-samsung-de-pared/00880609212263?athbdg=L1300",
-        "price": 22699.0,
-        "model": "AR18AVFCAWK/AX"
-      }
-    ]
-  },
-  "sams|KGWD18T6000GWAX": {
-    "ts": "2026-06-29T04:20:22.147772+00:00",
-    "items": []
-  },
-  "homedepot|85QM8K": {
-    "ts": "2026-06-29T04:20:23.382981+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "ORGANIZADOR MÓVIL CON RUEDAS 160X85X41 CM",
-        "url": "https://www.homedepot.com.mx/p/closetmaid-organizador-movil-con-ruedas-160x85x41-cm-266221",
-        "price": 539.0,
-        "model": "266221"
-      },
-      {
-        "store": "homedepot",
-        "name": "PUERTA TAMBOR 6 PANELES BLANCO 85 X 213 CM CON MARCO ROSI",
-        "url": "https://www.homedepot.com.mx/p/puerta-tambor-6-paneles-blanco-85-x-213-cm-con-marco-rosi-222765",
-        "price": 1825.0,
-        "model": "222765"
-      }
-    ]
-  },
   "liverpool|85QM8K": {
-    "ts": "2026-06-29T04:20:51.418168+00:00",
+    "ts": "2026-07-01T04:26:09.498843+00:00",
     "items": []
   },
   "amazon|85QM8K": {
-    "ts": "2026-06-29T04:20:54.687844+00:00",
+    "ts": "2026-07-01T04:26:12.944195+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 85QM7K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GQDRS13F",
-        "price": 27998.0,
-        "model": "85QM7K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51749.55,
-        "model": "98QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Curved Gaming Monitor G34WQi | 34\" Panel VA WQHD (3440 * 1440) HDR 10 180Hz | Amplia Gama de Colores | Luz Led RGB Trasera | AMD Freesync Premium | 1ms MPRT | Altura Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CWS2YKNK",
-        "price": 4998.0,
-        "model": "G34WQi"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Monitor A27i 2026 | 27\" Panel IPS | Resolución FHD (1920 * 1080) | 144Hz | Amplia Gama de Colores 100% sRGB | 300 nits | Ultra Slim | Certificación Low Blue Light",
-        "url": "https://www.amazon.com.mx/dp/B0GCB452XW",
-        "price": 1998.0,
-        "model": "144Hz"
-      },
       {
         "store": "amazon",
         "name": "TCL 85QM8K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
         "url": "https://www.amazon.com.mx/dp/B0GZJDH7N1",
-        "price": 34703.0,
+        "price": 34999.0,
         "model": "85QM8K"
       },
       {
@@ -1816,21 +607,21 @@
         "store": "amazon",
         "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
         "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 24628.0,
+        "price": 20999.0,
         "model": "VisionHDR10"
       },
       {
         "store": "amazon",
         "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
         "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51749.55,
+        "price": 51499.0,
         "model": "98QM8K"
       },
       {
         "store": "amazon",
         "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
         "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
-        "price": 19499.0,
+        "price": 20999.0,
         "model": "86QNED83ASG"
       },
       {
@@ -1842,822 +633,47 @@
       },
       {
         "store": "amazon",
-        "name": "Control remoto de voz de repuesto para TCL QM8K Series QD-Mini LED 4K UHD Google Smart TV, 75QM8K 65QM8K 85QM8K 98QM8K, modelo 2025",
-        "url": "https://www.amazon.com.mx/dp/B0FYG2SGCY",
-        "price": 720.62,
-        "model": "75QM8K"
+        "name": "NTQinParts - driver de control remoto de voz de repuesto para TCL 65QM8K 65 pulgadas, 75QM8K 75 pulgadas, 85QM8K 85 pulgadas, 98QM8K 98 pulgadas QM8K Series QD-Mini LED 4K UHD Smart TV",
+        "url": "https://www.amazon.com.mx/dp/B0FMDXBNNN",
+        "price": 772.16,
+        "model": "65QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "Soporte de pared ultra delgado para TV TCL QM8K Series 4K UHD HDR QD-Mini LED Google (2025) 85QM8K 85 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
+        "url": "https://www.amazon.com.mx/dp/B0FQRY4LZT",
+        "price": 2708.21,
+        "model": "85QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "RC933A FMB1 Reemplazo de control remoto de voz compatible con TCL QM8K Series 65QM8K 75QM8K 85QM8K 98QM8K 65C8K 75C8K 85C8K 75C89K QD-MINI Mini LED QLED 4K HDR UHD Google Smart TV 2025 Modelo (con",
+        "url": "https://www.amazon.com.mx/dp/B0H3NZTM1B",
+        "price": 600.04,
+        "model": "RC933A"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 86 Pulgadas QNED AI QNED80 4K Smart TV 2025 86QNED80ASA, Dynamic QNED Color, Sistema operativo webOS, Identificación de Voz AI, ALLM/VRR, Filmmaker Mode, AI Magic Remote, Channels",
+        "url": "https://www.amazon.com.mx/dp/B0F2PRXF11",
+        "price": 27997.0,
+        "model": "86QNED80ASA"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
       }
     ]
   },
   "walmart|85QM8K": {
-    "ts": "2026-06-29T04:21:00.630423+00:00",
+    "ts": "2026-07-01T04:26:46.307022+00:00",
     "items": []
   },
   "sams|85QM8K": {
-    "ts": "2026-06-29T04:21:01.512217+00:00",
-    "items": []
-  },
-  "homedepot|NU855": {
-    "ts": "2026-06-29T04:21:01.743696+00:00",
-    "items": []
-  },
-  "palacio|NU855": {
-    "ts": "2026-06-29T04:21:01.940159+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 530 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-530-unisex-45163415.html",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 204L Mujer",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-204l-mujer-45372494.html",
-        "price": 2899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 1906 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-1906-unisex-45450038.html",
-        "price": 3899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 574 Nimbus Cloud Mujer",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-574-nimbus-cloud-mujer-42702112.html",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 740 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-740-unisex-45450044.html",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 530 Hombre",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-530-hombre-44421014.html",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 9060 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-unisex-45450049.html",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 9060 en piel vacuna Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-en-piel-vacuna-unisex-45450056.html",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Drift 239 × 310 cm",
-        "url": "https://www.elpalaciodehierro.com/nourison-tapete-decorativo-drift-239-%C3%97-310-cm-45347545.html",
-        "price": 17840.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tapete decorativo Drift 239 × 310 cm",
-        "url": "https://www.elpalaciodehierro.com/nourison-tapete-decorativo-drift-239-%C3%97-310-cm-45347550.html",
-        "price": 17840.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Grain 247 bag Kh Unisex",
-        "url": "https://www.elpalaciodehierro.com/montblanc-grain-247-bag-kh-unisex-44937845.html",
-        "price": 58500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales en piel con textura 471 Mujer",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-en-piel-con-textura-471-mujer-44913102.html",
-        "price": 1349.5,
-        "model": null
-      }
-    ]
-  },
-  "amazon|NU855": {
-    "ts": "2026-06-29T04:21:05.700658+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GXGTX3XN",
-        "price": 8498.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 50 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2031",
-        "url": "https://www.amazon.com.mx/dp/B0GYZYRKPW",
-        "price": 7999.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GXGXSR1D",
-        "price": 10999.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 75 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GXH3TN24",
-        "price": 16999.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 85 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GXGZZ7Q1",
-        "price": 21499.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 98 Pulgadas Nano 4K UHD AI NU855 Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GZ1P3JT3",
-        "price": 48799.0,
-        "model": "NU855"
-      },
-      {
-        "store": "amazon",
-        "name": "BN59-01298E - Control remoto reemplazado por voz - ALIMITY - Compatible con Samsung QLED 4K 8K Smart TV Control remoto BN59-01298E BN59-01300G NU7400 NU8000 NU8500 BN59-01298D UA65NU7400W UE5W NU855 2",
-        "url": "https://www.amazon.com.mx/dp/B0D5YHD1J2",
-        "price": 380.22,
-        "model": "BN59-01298E"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con PN-5452695 5452695 - Actuador electrónico turbo de 12 V para Cummins X15 2017-2019 (12 voltios con orificios de agua de refrigeración)",
-        "url": "https://www.amazon.com.mx/dp/B0H6L5CNPH",
-        "price": 16335.09,
-        "model": "PN-5452695"
-      },
-      {
-        "store": "amazon",
-        "name": "El Tubo de Audio HiFi 845 A845 reemplaza el Kit Amplificador WE845 E-845 845-TII 845-T 845-DG a Juego DIY(2pcs Matched Pair)",
-        "url": "https://www.amazon.com.mx/dp/B0H6K4JM64",
-        "price": 31317.58,
-        "model": "845-TII"
-      },
-      {
-        "store": "amazon",
-        "name": "NUC BOX-155H Mini PC, procesador Intel Core Ultra 7, gráficos de arco, Intel AI Boost, DDR5 5600 hasta 96 GB, triple almacenamiento, 4K Quad-Display, 2.5G Dual LAN, Wi-Fi 6E, 5 USB, Thunderbolt 4",
-        "url": "https://www.amazon.com.mx/dp/B0D1SXY78F",
-        "price": 13993.85,
-        "model": "BOX-155H"
-      },
-      {
-        "store": "amazon",
-        "name": "Unidad de Tambor Compatible con IR Advance C5535 5535I C5540I 5550I 5560I NPG71 GPR55 C-EXV-51 Paquete de 4",
-        "url": "https://www.amazon.com.mx/dp/B0H6KGP7FY",
-        "price": 16965.83,
-        "model": "C-EXV-51"
-      },
-      {
-        "store": "amazon",
-        "name": "Intel NUC 13 Pro, NUC13ANHi5 versátil Mini PC 8GB RAM y 512GB SSD con procesador Core i5-1340 (12 núcleos y hasta 4,6 GHz Turbo, Intel Iris Xe Graphics) compatible con 4K/WiFi6E/BT5.3/Win10",
-        "url": "https://www.amazon.com.mx/dp/B0DR8DR1GJ",
-        "price": 14087.21,
-        "model": "4K/WiFi6E/BT5"
-      }
-    ]
-  },
-  "walmart|NU855": {
-    "ts": "2026-06-29T04:21:08.252118+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Pantalla 55 pulgadas LG NANO 4K UHD AI NU855 SMART TV webOS 2026",
-        "url": "https://www.walmart.com.mx/ip/pantalla-55-pulgadas-lg-nano-4k-uhd-ai-nu855-smart-tv-webos-2026/00880609671756?athbdg=L1300",
-        "price": 9093.92,
-        "model": "NU855"
-      }
-    ]
-  },
-  "sams|NU855": {
-    "ts": "2026-06-29T04:21:09.258822+00:00",
-    "items": []
-  },
-  "homedepot|MINI6": {
-    "ts": "2026-06-29T04:21:14.316878+00:00",
-    "items": [
-      {
-        "store": "homedepot",
-        "name": "MINI HUERTO ALBAHACA",
-        "url": "https://www.homedepot.com.mx/p/mini-huerto-albahaca-mini-huerto-albahaca-158465",
-        "price": 89.0,
-        "model": "158465"
-      },
-      {
-        "store": "homedepot",
-        "name": "RECOGEDOR NEGRO MINI DE PLÁSTICO PARA DESECHOS",
-        "url": "https://www.homedepot.com.mx/p/recogedor-negro-mini-de-plastico-para-desechos-fl8482-227722",
-        "price": 169.0,
-        "model": "227722"
-      },
-      {
-        "store": "homedepot",
-        "name": "MINI BOTE POLIFLEX",
-        "url": "https://www.homedepot.com.mx/p/poliflex-mini-bote-poliflex-707044-707044",
-        "price": 49.0,
-        "model": "707044"
-      },
-      {
-        "store": "homedepot",
-        "name": "MINI RODILLO DE ESPONJA 10 CM FOAM PRO",
-        "url": "https://www.homedepot.com.mx/p/foam-pro-mini-rodillo-de-esponja-10-cm-foam-pro-mini-533067",
-        "price": 135.0,
-        "model": "533067"
-      },
-      {
-        "store": "homedepot",
-        "name": "MINI ARCO ECONÓMICO DE 10 PULGADAS",
-        "url": "https://www.homedepot.com.mx/p/stanley-mini-arco-economico-de-10-pulgadas-20-807-858124",
-        "price": 92.0,
-        "model": "858124"
-      }
-    ]
-  },
-  "palacio|MINI6": {
-    "ts": "2026-06-29T04:21:14.469469+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Juguete Sorpresa Mini Brands Fill the Fridge Mini Minis Serie 1",
-        "url": "https://www.elpalaciodehierro.com/licencias-juguete-sorpresa-mini-brands-fill-the-fridge-mini-minis-serie-1-44898523.html",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mega Gross Minis serie 2",
-        "url": "https://www.elpalaciodehierro.com/zuru-mega-gross-minis-serie-2-44081396.html",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Miniverse make it Mini Animals",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-miniverse-make-it-mini-animals-45267056.html",
-        "price": 189.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set Bigtime Brow Minis Mujer",
-        "url": "https://www.elpalaciodehierro.com/benefit-set-bigtime-brow-minis-mujer-44051440.html",
-        "price": 520.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Miniverse Make It Mini Haribo Multipack",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-miniverse-make-it-mini-haribo-multipack-45200805.html",
-        "price": 760.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mini Charm en Plata Corazon Unisex",
-        "url": "https://www.elpalaciodehierro.com/pandora-mini-charm-en-plata-corazon-unisex-44920871.html",
-        "price": 789.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Miniverse Make It Mini Dinosaurs Jurassic World",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-miniverse-make-it-mini-dinosaurs-jurassic-world-45143452.html",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Miniverse Make It Mini Holiday Theme",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-miniverse-make-it-mini-holiday-theme-45036108.html",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Charm mini en plata .925 Mini Huella Unisex",
-        "url": "https://www.elpalaciodehierro.com/pandora-charm-mini-en-plata-.925-mini-huella-unisex-44920908.html",
-        "price": 679.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "L.O.L. Surprise Illumination's Minions",
-        "url": "https://www.elpalaciodehierro.com/l.o.l.-surprise-l.o.l.-surprise-illuminations-minions-45143443.html",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Make It Mini Sneakers",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-make-it-mini-sneakers-44742427.html",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Figura coleccionable Make it Mini Lifestyle",
-        "url": "https://www.elpalaciodehierro.com/mgas-miniverse-figura-coleccionable-make-it-mini-lifestyle-44554243.html",
-        "price": 299.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|MINI6": {
-    "ts": "2026-06-29T04:21:17.669642+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPad Mini 6 2021 (8.3 pulgadas, Wi-Fi + Cellular, 64 GB) - Gris espacial (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09MJDRH88",
-        "price": 7159.48,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPad Mini 6 2021 (8.3 pulgadas, Wi-Fi, 64 GB) - Gris espacial (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09J6K6Y21",
-        "price": 7115.83,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA Paper Feel for iPad Mini 7(A17 Pro) 2024 / Mini 6 8.3 Pulgadas Paper feel película de textura de PET mate antideslumbrante Película similar al Resistente al rayado",
-        "url": "https://www.amazon.com.mx/dp/B0BFH2K1K3",
-        "price": 183.04,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Frigidaire 9 latas/6l mini refrigerador personal nevera con acabado de cocodrilo: 18 cm x 11.8 pulgadas x 10.04 (negro)",
-        "url": "https://www.amazon.com.mx/dp/B0DDCSZ8WX",
-        "price": 655.9,
-        "model": "latas/6l"
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector de Pantalla para iPad mini (A17 Pro, Modelo 2024, 7.ª Generación) / mini 6 (Modelo 2021, 6.ª Generación), Mica de Cristal Vidrio Templado, 2 Unidades",
-        "url": "https://www.amazon.com.mx/dp/B09G6X6XF9",
-        "price": 329.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Funda para iPad Mini (A17 Pro, Modelo 2024, 7.ª Generación) / Mini 6 (Modelo 2021, 6.ª Generación) con Portalápiz, Clara Carcasa Trasera Delgada Soporte Antigolpes Cover Tableta (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0BB2JNKJL",
-        "price": 263.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MORNWELL 2Pzas Protector de Pantalla para iPad mini 7/iPad mini 6(8.3 Pulgadas,A17 Pro,2024/2021 Modelo,7.ª/6.ª Generación),Mica de Cristal Vidrio Templado,9H Alta Dureza",
-        "url": "https://www.amazon.com.mx/dp/B0D99R3SNB",
-        "price": 139.99,
-        "model": "7/iPad"
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Funda para iPad Mini (A17 Pro, Modelo 2024, 7.ª Generación) / Mini 6 (Modelo 2021, 6.ª Generación) con Portalápiz, Clara Carcasa Trasera Delgada Soporte Cover Tableta (Púrpura Claro)",
-        "url": "https://www.amazon.com.mx/dp/B0BB2J2XBJ",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Protector Pantalla Mate Papel para iPad mini (A17 Pro, Modelo 2024, 7.ª Generación) / mini 6 (Modelo 2021, 6.ª Generación), Película de Papel PET Mate Antideslumbrante para Dibujar",
-        "url": "https://www.amazon.com.mx/dp/B09LRXTSWJ",
-        "price": 359.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Funda para iPad Mini (A17 Pro, 2024 Modelo, 7.ª) / Mini 6 (2021 Modelo, 6.ª) con Soporte para Pencil, Carcasa Slim Folio Soporte Protectora, Visualización Multiángulo (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0F2HQZ9VL",
-        "price": 339.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA Mica para iPad Mini 7 (A17 Pro) 2024 y Mini 6 2021 8.3 Pulgadas Screen Protector 2-Pack Transparente Vidrio Cristal Templado de Pantalla",
-        "url": "https://www.amazon.com.mx/dp/B09GXCCSVB",
-        "price": 141.54,
-        "model": "2-Pack"
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Funda para iPad Mini (A17 Pro, Modelo 2024, 7.ª Generación) / Mini 6 (Modelo 2021, 6.ª Generación), Carcasa Suave TPU Transparente Slim Antigolpes Tableta (Transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0CL4RC7NR",
-        "price": 259.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MINI6": {
-    "ts": "2026-06-29T04:21:31.905717+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Chefman - Mini Refrigerador Portátil 6 Latas Color Rosa",
-        "url": "https://www.walmart.com.mx/ip/chefman-mini-refrigerador-portatil-6-latas-color-rosa/00081008784851?athbdg=L1300",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Chefman - Mini Refrigerador Portátil 6 Latas Logrado Color Negro",
-        "url": "https://www.walmart.com.mx/ip/chefman-mini-refrigerador-portatil-6-latas-logrado-color-negro/00081008784794?athbdg=L1300",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mini Refrigerador con Espejo, Capacidad 4 Litros, Color Blanco, Modelo RJ48-6-ML",
-        "url": "https://www.walmart.com.mx/ip/mini-refrigerador-con-espejo-capacidad-4-litros-color-blanco-modelo-rj48-6-ml/00081645802431?athbdg=L1300",
-        "price": 769.0,
-        "model": "RJ48-6-ML"
-      },
-      {
-        "store": "walmart",
-        "name": "Refrigerador Para Automóvil De 6 Litros, Mini Refrigerador Portátil Con Control De Temperatura De Modo Dual, Material ABS Para Bebidas, Cervezas, Refrigerios, Comidas,",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-para-automovil-de-6-litros-mini-refrigerador-portatil-con-control-de-temperatura-de-modo-dual-material-abs-para-bebidas-cervezas-refrigerios-comidas-/00653626089210",
-        "price": 2265.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nevera Compacta Portátil ANGGREK Mini Nevera 6 Litros",
-        "url": "https://www.walmart.com.mx/ip/nevera-compacta-portatil-anggrek-mini-nevera-6-litros/00652624842193?athbdg=L6000",
-        "price": 3307.82,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Minirefrigerador, 4l/6 Latas, Mini Refrigerador Para Dormito Xtellar negro",
-        "url": "https://www.walmart.com.mx/ip/minirefrigerador-4l-6-latas-mini-refrigerador-para-dormito-xtellar-negro/00750232875858?athbdg=L6000",
-        "price": 1919.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Antarctic Star Refrigerador compacto, mini refrigerador portátil, cuidado de la piel, capacidad de 4 litros/6 latas",
-        "url": "https://www.walmart.com.mx/ip/antarctic-star-refrigerador-compacto-mini-refrigerador-portatil-cuidado-de-la-piel-capacidad-de-4-litros-6-latas/00073873743051",
-        "price": 2500.0,
-        "model": "litros/6"
-      },
-      {
-        "store": "walmart",
-        "name": "Minirefrigerador, 4l/6 Latas, Mini Refrigerador Para Dormito Xtellar rosa",
-        "url": "https://www.walmart.com.mx/ip/minirefrigerador-4l-6-latas-mini-refrigerador-para-dormito-xtellar-rosa/00750232875857?athbdg=L6000",
-        "price": 1919.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cooluli Skincare Mini refrigerador para dormitorio - Coche, escritorio de oficina y dormitorio - Enfriador y calentador eléctrico portátil de 4 l/6 latas para alimentos, bebidas, belleza y maquillaje,",
-        "url": "https://www.walmart.com.mx/ip/cooluli-skincare-mini-refrigerador-para-dormitorio-coche-escritorio-de-oficina-y-dormitorio-enfriador-y-calentador-electrico-portatil-de-4-l-6-latas-para-alimentos-bebidas-belleza-y-maquillaje-/00810101030048?athbdg=L1300",
-        "price": 2377.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Refrigerador Portátil Para Coche, 12V, 6L, Mini Comida Funcional Múltiple",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-portatil-para-coche-12v-6l-mini-comida-funcional-multiple/00618248531554",
-        "price": 3146.05,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Refrigerador Para Automóvil de 6 Litros, Mini Refrigerador Portátil Con Control de Temperatura de Modo Dual, material ABS para Bebidas, Cervezas, Refrigerios, Comidas,",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-para-automovil-de-6-litros-mini-refrigerador-portatil-con-control-de-temperatura-de-modo-dual-material-abs-para-bebidas-cervezas-refrigerios-comidas-/00686243549461?athbdg=L1500",
-        "price": 2294.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mini Refrigerador Frigobar 4l 6 Latas Casa Auto Oficina Xtellar Rojo",
-        "url": "https://www.walmart.com.mx/ip/mini-refrigerador-frigobar-4l-6-latas-casa-auto-oficina-xtellar-rojo/00750232875862?athbdg=L6000",
-        "price": 2419.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|MINI6": {
-    "ts": "2026-06-29T04:21:32.350644+00:00",
-    "items": []
-  },
-  "amazon|WD11T4046BXAX": {
-    "ts": "2026-06-29T04:21:34.086568+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "SupHomie - Motor de bomba de drenaje para lavadora - Reemplazo para Samsung WF45K6200AZ/A2 WF45K6500AV/A2 WF45K6500AW/A2 WF45M5500AW/A5 WF45N5300AF/US WF45H6300AG/A2 (solo motor)",
-        "url": "https://www.amazon.com.mx/dp/B0D8PSFMCY",
-        "price": 854.14,
-        "model": "WF45K6200AZ/A2"
-      },
-      {
-        "store": "amazon",
-        "name": "5140128-68 Conjunto de manguera de repuesto para manguera de aspiradora DeWalt DCV580 DCV581H DCV580MAX",
-        "url": "https://www.amazon.com.mx/dp/B0CWV35Y8P",
-        "price": 450.39,
-        "model": "DCV580MAX"
-      }
-    ]
-  },
-  "walmart|WD11T4046BXAX": {
-    "ts": "2026-06-29T04:21:45.690374+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Samsung 20 kg Blanca WA20A3341GW/AX Carga Superior con Agitador",
-        "url": "https://www.walmart.com.mx/ip/lavadora-samsung-20-kg-blanca-wa20a3341gw-ax-carga-superior-con-agitador/00880609218769?athbdg=L1300",
-        "price": 9399.0,
-        "model": "WA20A3341GW/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Aire Acondicionado Samsung 1 Ton AR40F12D0AM/AX Advance R32 Frío 220V",
-        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-samsung-1-ton-ar40f12d0am-ax-advance-r32-frio-220v/00880609760473?athbdg=L1300",
-        "price": 6190.0,
-        "model": "AR40F12D0AM/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema WiFi 6 Mesh ASUS ZenWiFi AX Hybrid XP4 para 5500 pies²",
-        "url": "https://www.walmart.com.mx/ip/sistema-wifi-6-mesh-asus-zenwifi-ax-hybrid-xp4-para-5500-pies-/00019287675788?athbdg=L1300",
-        "price": 3559.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Aspiradora Samsung Rosa Oro con Filtro para polvo fino VS15A6031R7/AX",
-        "url": "https://www.walmart.com.mx/ip/aspiradora-samsung-rosa-oro-con-filtro-para-polvo-fino-vs15a6031r7-ax/00880609464884?athbdg=L1300",
-        "price": 6499.0,
-        "model": "VS15A6031R7/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Router Mesh WiFi 6 Gryphon AX ultrarrápido de 4,3 Gbps, 3000 pies cuadrados",
-        "url": "https://www.walmart.com.mx/ip/router-mesh-wifi-6-gryphon-ax-ultrarrapido-de-4-3-gbps-3000-pies-cuadrados/00086873900049?athbdg=L1300",
-        "price": 7879.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Interruptor de sensor de proximidad capacitivo LJC18A3-BZ/AX de 3 cables NPN NC",
-        "url": "https://www.walmart.com.mx/ip/interruptor-de-sensor-de-proximidad-capacitivo-ljc18a3-bz-ax-de-3-cables-npn-nc/00901388841981",
-        "price": 250.06,
-        "model": "LJC18A3-BZ/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Router ASUS ZenWiFi AX XT8 CHARCOAL Tri Banda 2 Pack Blanco",
-        "url": "https://www.walmart.com.mx/ip/router-asus-zenwifi-ax-xt8-charcoal-tri-banda-2-pack-blanco/00019287657901?athbdg=L1300",
-        "price": 9013.4,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "WORGEOUS Halloween Costume AX Prop Simulación de Halloween Axe Toy Kids que realizan Jueces",
-        "url": "https://www.walmart.com.mx/ip/worgeous-halloween-costume-ax-prop-simulacion-de-halloween-axe-toy-kids-que-realizan-jueces/00481161056568?athbdg=L1300",
-        "price": 257.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "2X -AOXIONG AX-HB02 Medidor de Tablero de Scooter EléCtrico 36V 48V Ajustable 6PIN para Scooter EléCtrico",
-        "url": "https://www.walmart.com.mx/ip/2x-aoxiong-ax-hb02-medidor-de-tablero-de-scooter-electrico-36v-48v-ajustable-6pin-para-scooter-electrico/00613209169088",
-        "price": 530.34,
-        "model": "AX-HB02"
-      },
-      {
-        "store": "walmart",
-        "name": "Interruptor de proximidad, LJC18A3-BZ/AX Sensor de proximidad capacitivo Interruptor de sensor de proximidad Interruptor de sensor de proximidad NC Diseñado a medida Jadeshay A",
-        "url": "https://www.walmart.com.mx/ip/interruptor-de-proximidad-ljc18a3-bz-ax-sensor-de-proximidad-capacitivo-interruptor-de-sensor-de-proximidad-interruptor-de-sensor-de-proximidad-nc-disenado-a-medida-jadeshay-a/00092478073684?athbdg=L1300",
-        "price": 289.39,
-        "model": "LJC18A3-BZ/AX"
-      },
-      {
-        "store": "walmart",
-        "name": "Axxess AX-TOY28SWC Arnés complementario para controlador de volante co",
-        "url": "https://www.walmart.com.mx/ip/axxess-ax-toy28swc-arnes-complementario-para-controlador-de-volante-co/00008642926623?athbdg=L1300",
-        "price": 759.0,
-        "model": "AX-TOY28SWC"
-      },
-      {
-        "store": "walmart",
-        "name": "Soldadora Inversor Ax Tech Multifuncion 3 En 1 (Electrodo, Tig Y Plasma), 200A, 220V",
-        "url": "https://www.walmart.com.mx/ip/soldadora-inversor-ax-tech-multifuncion-3-en-1-electrodo-tig-y-plasma-200a-220v/00750228425189",
-        "price": 14665.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|WD11T4046BXAX": {
-    "ts": "2026-06-29T04:21:46.254833+00:00",
-    "items": []
-  },
-  "amazon|VELOCIBICICLETARODADAVELOCIURBANA": {
-    "ts": "2026-06-29T04:21:48.603352+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.amazon.com.mx/dp/B0G1W49N9H",
-        "price": 4959.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Negro De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1TPWGW4",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Ghost Mark Rodada 20 Verde De Montaña Infantil",
-        "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
-        "price": 3695.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DPJ7LP4X",
-        "price": 2704.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0FY7PCRDN",
-        "price": 4319.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta TRX M/Rig Rodada 24 Naranja De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G1VZ35VR",
-        "price": 2959.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 29 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G36Y93LH",
-        "price": 4079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DTJFDN4R",
-        "price": 2949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "MOVE NEON | Bicicleta Urbana Rodada 26 VINTA – con Canasta Frenos De Pinza – Marco De Acero – Diseño Clásico Vintage",
-        "url": "https://www.amazon.com.mx/dp/B0DPJ85J7X",
-        "price": 3049.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Deus 2.0 Rodada 26 Azul De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0H3XJ4SLF",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodada 26 Verde De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0G276F8W7",
-        "price": 4639.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VELOCI Bicicleta Naukas Pro FD Rodado 26 Plata De Montaña",
-        "url": "https://www.amazon.com.mx/dp/B0DXG8WBMR",
-        "price": 4639.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|VELOCIBICICLETARODADAVELOCIURBANA": {
-    "ts": "2026-06-29T04:22:07.558053+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
-        "price": 5699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Amsterdam City Rodada 26 Verde Urbana",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amsterdam-city-rodada-26-verde-urbana/00750305714001?athbdg=L1300",
-        "price": 4779.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Deus X1 Rodada 26 Negro De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-deus-x1-rodada-26-negro-de-montana/00750306181645?athbdg=L1300",
-        "price": 3343.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 29 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-29-rojo-de-montana/00750305714013?athbdg=L1300",
-        "price": 4159.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Hiperion Rodada 20 Gris Infantil",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-hiperion-rodada-20-gris-infantil/00750306181633?athbdg=L6000",
-        "price": 3075.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Raider Generator Rodada 20 Verde Infantil",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-raider-generator-rodada-20-verde-infantil/00750306181631?athbdg=L6000",
-        "price": 3691.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci TRX M/Rig Rodada 26 Amarillo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-trx-m-rig-rodada-26-amarillo-de-montana/00750305714010?athbdg=L1300",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-mujer-frenos-v-acero/00750230679184",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci Riot Rodada 26 Rojo De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-26-rojo-de-montana/00750305714006?athbdg=L1300",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bicicleta Veloci TRX M/Rig Rodada 24 Naranja De Montaña",
-        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-trx-m-rig-rodada-24-naranja-de-montana/00750305544799?athbdg=L1300",
-        "price": 3255.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|VELOCIBICICLETARODADAVELOCIURBANA": {
-    "ts": "2026-06-29T04:22:08.075289+00:00",
+    "ts": "2026-07-01T04:26:52.295135+00:00",
     "items": []
   },
   "coppel|MKZPANTA100MBLA": {
@@ -11457,5 +9473,838 @@
   "sams|RMB400IBMRX0": {
     "ts": "2026-06-30T22:54:33.761489+00:00",
     "items": []
+  },
+  "liverpool|AC600": {
+    "ts": "2026-07-01T04:27:23.430169+00:00",
+    "items": []
+  },
+  "coppel|AC600": {
+    "ts": "2026-07-01T04:27:34.513712+00:00",
+    "items": []
+  },
+  "palacio|AC600": {
+    "ts": "2026-07-01T04:27:34.858683+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Tenis casuales 9060 en piel vacuna Unisex",
+        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-en-piel-vacuna-unisex-45450058.html",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Inalambrica Portatil Bluetooth XV500 Negra",
+        "url": "https://www.elpalaciodehierro.com/sony-bocina-inalambrica-portatil-bluetooth-xv500-negra-44003960.html",
+        "price": 5896.24,
+        "model": "XV500"
+      },
+      {
+        "store": "palacio",
+        "name": "Barra de sonido HW-S60D-ZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-barra-de-sonido-hw-s60d-zx-43788577.html",
+        "price": 5039.37,
+        "model": "HW-S60D-ZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis casuales 1906 Unisex",
+        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-1906-unisex-45450038.html",
+        "price": 3899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis casuales 530 Hombre",
+        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-530-hombre-44421015.html",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
+        "price": 7133.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Music Studio LS70H 10 W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-inalambrica-music-studio-ls70h-10-w-45479303.html",
+        "price": 9998.8,
+        "model": "LS70H"
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis casuales 9060 Unisex",
+        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-unisex-45450051.html",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14399.4,
+        "model": "VR122CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
+        "price": 24699.35,
+        "model": "VR242CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter ART121KAW, 12000 BTU's, 1 Tonelada, 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-minisplit-inverter-art121kaw-12000-btus-1-tonelada-110-v-frio-45484553.html",
+        "price": 10079.2,
+        "model": "ART121KAW"
+      }
+    ]
+  },
+  "walmart|AC600": {
+    "ts": "2026-07-01T04:27:38.018691+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Punto de acceso WiFi exterior WAVLINK AC600 de doble banda de alta potencia",
+        "url": "https://www.walmart.com.mx/ip/punto-de-acceso-wifi-exterior-wavlink-ac600-de-doble-banda-de-alta-potencia/00695536203368?athbdg=L1300",
+        "price": 1389.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Extensor WiFi para exteriores WAVLINK AC600 de doble banda con PoE IP67",
+        "url": "https://www.walmart.com.mx/ip/extensor-wifi-para-exteriores-wavlink-ac600-de-doble-banda-con-poe-ip67/00695536205732",
+        "price": 1899.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador USB WiFi inalámbrico StarTech.com AC600 de doble banda",
+        "url": "https://www.walmart.com.mx/ip/adaptador-usb-wifi-inalambrico-startech-com-ac600-de-doble-banda/00006503086377?athbdg=L1300",
+        "price": 699.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador Wi-Fi inalámbrico USB ALFA Network AWUS036ACS AC600",
+        "url": "https://www.walmart.com.mx/ip/adaptador-wi-fi-inalambrico-usb-alfa-network-awus036acs-ac600/00471805030542",
+        "price": 1029.0,
+        "model": "AWUS036ACS"
+      },
+      {
+        "store": "walmart",
+        "name": "Miniadaptador Wi-Fi USB 2.0 NETGEAR AC600 para PC de escritorio",
+        "url": "https://www.walmart.com.mx/ip/miniadaptador-wi-fi-usb-2-0-netgear-ac600-para-pc-de-escritorio/00060644909906?athbdg=L1300",
+        "price": 1339.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador WiFi Nipeal AC600 de doble banda USB con antena",
+        "url": "https://www.walmart.com.mx/ip/adaptador-wifi-nipeal-ac600-de-doble-banda-usb-con-antena/00019589334139?athbdg=L1300",
+        "price": 449.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Extensor WiFi WAVLINK AC600 Exterior Doble Banda PoE IP67",
+        "url": "https://www.walmart.com.mx/ip/extensor-wifi-wavlink-ac600-exterior-doble-banda-poe-ip67/00695536205824",
+        "price": 1899.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "TP-Link Archer T2UB Nano Adaptador USB Wi-Fi AC600 y Bluetooth para PC",
+        "url": "https://www.walmart.com.mx/ip/tp-link-archer-t2ub-nano-adaptador-usb-wi-fi-ac600-y-bluetooth-para-pc/00084003070260",
+        "price": 350.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Nano Adaptador Inalámbrico USB TP-Link Archer T2U AC600 TP-Link Wifi Archer T2U Nano",
+        "url": "https://www.walmart.com.mx/ip/nano-adaptador-inalambrico-usb-tp-link-archer-t2u-ac600-tp-link-wifi-archer-t2u-nano/00084003070001",
+        "price": 323.0,
+        "model": "AC600"
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador Nano USB TP-Link Archer T2U Plus AC600, hasta 600Mbps. TP-Link ARCHER T2U PLUS",
+        "url": "https://www.walmart.com.mx/ip/adaptador-nano-usb-tp-link-archer-t2u-plus-ac600-hasta-600mbps-tp-link-archer-t2u-plus/00084003070003",
+        "price": 384.0,
+        "model": "600Mbps"
+      },
+      {
+        "store": "walmart",
+        "name": "Dongle Wifi USB, Modo Compacto de AP Suave Apaje Wifi Adaptador Wifi 600Mbps Nano AC600 PC PAR LINUX",
+        "url": "https://www.walmart.com.mx/ip/dongle-wifi-usb-modo-compacto-de-ap-suave-apaje-wifi-adaptador-wifi-600mbps-nano-ac600-pc-par-linux/00635622663311?athbdg=L1500",
+        "price": 310.0,
+        "model": "600Mbps"
+      },
+      {
+        "store": "walmart",
+        "name": "Transmisor USB inalámbrico IOGEAR Mini AC600 de doble banda",
+        "url": "https://www.walmart.com.mx/ip/transmisor-usb-inalambrico-iogear-mini-ac600-de-doble-banda/00078238648228",
+        "price": 869.0,
+        "model": "AC600"
+      }
+    ]
+  },
+  "sams|AC600": {
+    "ts": "2026-07-01T04:27:51.863053+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Solo frío 24,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-solo-frio-24-000-btu/981049856",
+        "price": 9942.54,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado LG  Inverter Frío y Calor VC242H10",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-lg-inverter-frio-y-calor-vc242h10/981049853",
+        "price": 12991.07,
+        "model": "VC242H10"
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Minisplit LG  Solo Frío 12,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-minisplit-lg-solo-frio-12-000-btu/981049845",
+        "price": 6341.58,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado LG BIG Inverter Enfriamiento 33,000 BTU's Calefacción 29,000 BTU's 220V 3 Ton",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-lg-big-inverter-enfriamiento-33-000-btu-s-calefaccion-29-000-btu-s-220v-3-ton/980036002",
+        "price": 33911.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mabe  MMI12HDBWCA32ME Inverter Frío/Calor 12,000 BTU 220V 1Ton",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mabe-mmi12hdbwca32me-inverter-frio-calor-12-000-btu-220v-1ton/981021665",
+        "price": 10638.17,
+        "model": "MMI12HDBWCA32ME"
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Dualcool Inverter 12,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-dualcool-inverter-12-000-btu/981049494",
+        "price": 11968.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Dualcool Inverter 12,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-dualcool-inverter-12-000-btu/981049858",
+        "price": 11968.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Inverter Frío 12000 VC122C10",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-inverter-frio-12000-vc122c10/981049846",
+        "price": 7159.97,
+        "model": "VC122C10"
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Frío y Calor 24,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-frio-y-calor-24-000-btu/981049857",
+        "price": 12070.37,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Solo Frío 11,900 BTU MT121C0",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-solo-frio-11-900-btu-mt121c0/981049842",
+        "price": 6341.58,
+        "model": "MT121C0"
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  VO122C1 Dual Cool Inverter Frío 12,000 BTU's 230 V 1 Ton",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-vo122c1-dual-cool-inverter-frio-12-000-btu-s-230-v-1-ton/981031688",
+        "price": 7998.83,
+        "model": "VO122C1"
+      },
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mini Split LG  Inverter Frío y Calor 12,000 BTU",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-inverter-frio-y-calor-12-000-btu/981049848",
+        "price": 7671.47,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|AC600": {
+    "ts": "2026-07-01T04:28:12.778361+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador De Red Ac600 T2u Plus Usb Banda Dual Inalámbrico De Alta Ganancia Tp Link",
+        "url": "https://www.mercadolibre.com.mx/adaptador-de-red-ac600-t2u-plus-usb-banda-dual-inalambrico-de-alta-ganancia-tp-link/p/MLM24747648",
+        "price": 299.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Inalambrico Usb Tp-link Archer T2u Nano Dual Ac600 Color Negro",
+        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-usb-tp-link-archer-t2u-nano-dual-ac600-color-negro/p/MLM21460701",
+        "price": 271.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Red Inalambrica Usb Tp-link Archer T2u Banda Dual",
+        "url": "https://www.mercadolibre.com.mx/adaptador-red-inalambrica-usb-tp-link-archer-t2u-banda-dual/p/MLM29724339",
+        "price": 500.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Usb Red Tplink Archer T2ub Ac600 Dual Band Wi Fi + Bluetooth",
+        "url": "https://www.mercadolibre.com.mx/usb-red-tplink-archer-t2ub-ac600-dual-band-wi-fi-bluetooth/p/MLM22558841",
+        "price": 299.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Wavlink WL-WN570HA1 Access Point Color Blanco",
+        "url": "https://www.mercadolibre.com.mx/wavlink-wl-wn570ha1-access-point-color-blanco/p/MLM15384102",
+        "price": 1799.0,
+        "model": "WL-WN570HA1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Usb Wifi Tp-link Archer T2u Plus Ac600",
+        "url": "https://www.mercadolibre.com.mx/adaptador-usb-wifi-tp-link-archer-t2u-plus-ac600/p/MLM29168259",
+        "price": 380.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Inalámbrico Nano Usb, Ac600 (archer T2u Nano)",
+        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-nano-usb-ac600-archer-t2u-nano/p/MLM43074340",
+        "price": 315.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Inalámbrico Antena Wifi Usb Bluetooth Doble Banda",
+        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-antena-wifi-usb-bluetooth-doble-banda/up/MLMU3026155035",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Punto De Acceso, Repetidor Wifi, Router Outdoor Wavlink 100v",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=yDYa4CTl28F35XoBz4DqWik1t7gu2CKpNmTJFq%2FPO%2FZfC82CShfd%2FxVeabaCtckh%2FdzQ4W8e%2BBY3yOb0BK8mznm9N%2BZH45Y8pgJIflJgpRKV4E0lVEQVSpvZ%2BQ4c%2FoGutj%2BVhRdgX9K5t%2BsQsSLIXtL0X1ljpXJL3sDwAQEy7JY1mNb7AQpBsY5Q%2FuPSbGwC90u7iJDorKowgtMfN4kEroCG3g7RZZxLU2Ye%2BzJeBYhKWMLx6BJeAeoFnV%2B2ZWYzlYeiOcdYAvHXg%2FNiA8GPRN5Bje0y97807NzlVqsuajviz%2FufCjMdgDBzfAEA0Rbr2VZI%2Bc7ODEyS8xEDa0e5S4KAav4V0UgmbK8izWrfgpwIHdiMdBfvZ%2FCceHoFrbxAoUlc4cmRF8J86%2Bb%2Bkh4uo85SXw13fIJWOPSQBjsgUIOfgnQlzVAFKqjCHCGrjQlunsT8cZqPiYrUz%2BHU1z0lH5zDrYWXbxazweFQBCDQFSs4hSFSKyzT%2Bjt%2BkJqhyv8HnhYg87ONgmoAxfWMZGPmXXkpIRKzboyTltyIXAiM2dC1RnzXNE%2BEiXg1wBxoEESKBfaOb0VnKc%2Fl1FTxNAzHQ6ZcMpch2SX5SCgFgg4uXAGGFIhmtU5rPO9atbIWhLsNL8ZBUzTKBQzzoN7mRO7N2E9ZZxze5V1Vqss2EpT2VOmEXM7Fg6yhib8c9dFzqEnwxkDL9EYY2BwH3CK8vRSfjDmrJdelB8GktYKFElgacKahujtjd%2BlF1wpduvZiUe3F2OEYN8NgZK2ln3NXGK2k5iHkhd8mxWBnBwmE8kS17sJUBOxjZEZYaGq%2Ba7%2Bw75dhW9ltWNT0bcMJn1Q%2BTnz3fxUlCTfphM4YvzpB6NSUG1uD0sk1dSUIMjApRoByjahLzhBpJiolbbrkO7M856ya6lUpJIDpTa9dLVzqfrjzcRLTlqZOGyAZRu%2BmKK%2BgCE1Ff6Ht3l65%2BWry7u9cJnCQIZs%3D&searchVariation=174771172639&pdp_filters=item_id%3AMLM1454179561",
+        "price": 1515.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Usb Inalámbrico Wifi Nano Ac600 De 2,4 Y 5 Ghz T2u",
+        "url": "https://www.mercadolibre.com.mx/adaptador-usb-inalambrico-wifi-nano-ac600-de-24-y-5-ghz-t2u/p/MLM47070096",
+        "price": 295.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Extensor Wifi Al Aire Libre Wavlink Ac600, Repetidor Mini",
+        "url": "https://www.mercadolibre.com.mx/wavlink-ac600-outdoor-wifi-repeater-dual-band/p/MLM2030711003",
+        "price": 2050.0,
+        "model": "Ac600"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Adaptador Usb Wifi 5g Y Bluetooth Tp-link Archer T2ub Nano",
+        "url": "https://www.mercadolibre.com.mx/adaptador-usb-wifi-5g-y-bluetooth-tplink-archer-t2ub-nano/up/MLMU3777506645",
+        "price": 419.0,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|K65S20M2": {
+    "ts": "2026-07-01T04:28:22.822703+00:00",
+    "items": []
+  },
+  "coppel|K65S20M2": {
+    "ts": "2026-07-01T04:28:25.549410+00:00",
+    "items": []
+  },
+  "mercadolibre|K65S20M2": {
+    "ts": "2026-07-01T04:28:44.085626+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tv Sony Bravia 2 Dolby Atmos 4k Hdr K-65s20m2",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tv-sony-bravia-2-dolby-atmos-4k-hdr-k-65s20m2/p/MLM53612066",
+        "price": 25499.0,
+        "model": "K-65s20m2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit 3 Engrane Para Rodillo De Calor Km 1620 1650 2020 2050",
+        "url": "https://www.mercadolibre.com.mx/kit-3-engrane-para-rodillo-de-calor-km-1620-1650-2020-2050/up/MLMU711929231",
+        "price": 207.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tv 65 Sony Bravia  2 Dolby Atmos Uhd 4k Google Led",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tv-65-sony-bravia--2-dolby-atmos-uhd-4k-google-led/up/MLMU3827356276",
+        "price": 42999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Bcg08-i1bm0399 Encoder Marca Sick Pn 1061029",
+        "url": "https://www.mercadolibre.com.mx/bcg08i1bm0399-encoder-marca-sick-pn-1061029/up/MLMU919239145",
+        "price": 22999.0,
+        "model": "Bcg08-i1bm0399"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tv Sony Bravia 2 Dolby Atmos 4k Hdr K-65s20m2",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tv-sony-bravia-2-dolby-atmos-4k-hdr-k65s20m2/up/MLMU3802264510",
+        "price": 20899.0,
+        "model": "K-65s20m2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Super Kit Kysor C/flecha K26 Entrada Trasera",
+        "url": "https://www.mercadolibre.com.mx/super-kit-kysor-cflecha-k26-entrada-trasera/up/MLMU3867459719",
+        "price": 8800.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Sony K-65s30c / 40706gd",
+        "url": "https://www.mercadolibre.com.mx/main-sony-k65s30c--40706gd/up/MLMU3882156411",
+        "price": 3000.0,
+        "model": "K-65s30c"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Botonera 40-m33d12-ked2hg, Philips 65pfl5765/f8",
+        "url": "https://www.mercadolibre.com.mx/botonera-40m33d12ked2hg-philips-65pfl5765f8/up/MLMU3827886554",
+        "price": 249.0,
+        "model": "40-m33d12-ked2hg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit De Arrastre Sprock Dm150 Roja 2018-2020 Cadena Reforzada",
+        "url": "https://www.mercadolibre.com.mx/kit-de-arrastre-sprock-dm150-roja-20182020-cadena-reforzada/up/MLMU835258356",
+        "price": 515.0,
+        "model": "Dm150"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Sprockets + Cadena Bmw650 F650 Gs650 G650 47/16d",
+        "url": "https://www.mercadolibre.com.mx/kit-sprockets--cadena-bmw650-f650-gs650-g650-4716d/up/MLMU933960649",
+        "price": 2411.0,
+        "model": "Bmw650"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cigueñal Motor K21 Con Metales Std  Montacargas Mitsubishi",
+        "url": "https://www.mercadolibre.com.mx/ciguenal-motor-k21-con-metales-std--montacargas-mitsubishi/up/MLMU483083761",
+        "price": 5900.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Metales De Bancada K21 K25 En 20 (.5)  Montacargas",
+        "url": "https://www.mercadolibre.com.mx/metales-de-bancada-k21-k25-en-20-5--montacargas/up/MLMU441321453",
+        "price": 920.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLETELCELIPHONEAPPLE256": {
+    "ts": "2026-07-01T04:29:17.072618+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 256GB - Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNCVCKW",
+        "price": 6285.47,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
+        "price": 8085.87,
+        "model": "128GBNegroDesbloqueado"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 256GB, Azul - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNFRHGN",
+        "price": 6501.36,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 17e (256 GB) - Rosa pálido",
+        "url": "https://www.amazon.com.mx/dp/B0GQVJ4TBZ",
+        "price": 14998.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 256GB Blue Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLNC6RR5",
+        "price": 10499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 17e (256 GB) - Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GQVJL6RT",
+        "price": 14998.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12 Pro, 256GB, Azul Pacifico (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNHB9L7",
+        "price": 6199.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 17 256 GB:Pantalla de 6.3 Pulgadas con Promotion,Chip A19,cámara Frontal Center Stage para Selfies grupales más Inteligentes,Mayor Resistencia a los rayones,Solo eSIM;Salvia",
+        "url": "https://www.amazon.com.mx/dp/B0FQFBWMXB",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 (256 GB) - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0CHX4V3YZ",
+        "price": 16999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLETELCELIPHONEAPPLE256": {
+    "ts": "2026-07-01T04:29:40.900625+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Apple 256 GB Salvia Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256-gb-salvia-telcel/00750622736183?athbdg=L6000",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 256GB Blanco",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-blanco/00890319217993?athbdg=L1300",
+        "price": 19099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone Air 256 GB Azul Cielo",
+        "url": "https://www.walmart.com.mx/ip/iphone-air-256-gb-azul-cielo/00019595062141?athbdg=L1300",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 256GB Negro- Dual Sim",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-negro-dual-sim/00890328325198?athbdg=L1600",
+        "price": 19099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 256 GB eSIM Lavanda Reacondicionado A+",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256-gb-esim-lavanda-reacondicionado-a-/00064574848540?athbdg=L1500",
+        "price": 17899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 5G 256GB - Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-5g-256gb-blanco-reacondicionado/00067405374647?athbdg=L1500",
+        "price": 15365.23,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 Pro eSIM 256 GB - Azul Profundo",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-pro-esim-256-gb-azul-profundo/00694170027774?athbdg=L6000",
+        "price": 26899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 Air 256GB Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-air-256gb-blanco-reacondicionado/00046306356554?athbdg=L1500",
+        "price": 22099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 Air 256GB Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-air-256gb-negro-reacondicionado/00046748212925?athbdg=L1500",
+        "price": 22099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 256GB Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-256gb-negro-reacondicionado/00085369895443?athbdg=L1500",
+        "price": 9799.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 17 256GB Lavanda",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-lavanda/00890698869430?athbdg=L1300",
+        "price": 19099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 12 256 Gb Negro Reacondicionado Tipo A Apple",
+        "url": "https://www.walmart.com.mx/ip/iphone-12-256-gb-negro-reacondicionado-tipo-a-apple/00079168988012?athbdg=L1500",
+        "price": 7455.26,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEMIDNIGHTIPHONETELCELAPPLE": {
+    "ts": "2026-07-01T04:29:58.805723+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5619.43,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Pro 128GB - EsimMorado Oscuro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BNLV66P9",
+        "price": 7836.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16, 128GB, Negro - Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DHJH2GZL",
+        "price": 11519.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8018.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Plus 128GB Negro Desbloqueado -Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLN8GRGR",
+        "price": 8899.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Morado Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLT3B8C",
+        "price": 6999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e 128GB Blanco Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0F4XRSWTJ",
+        "price": 8060.91,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 64GB, Color Negro: Totalmente Desbloqueado (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08PP5MSVB",
+        "price": 4466.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e, 128GB, Blanco (Reacondicionado Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0H2B6HXXR",
+        "price": 8979.21,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
+        "price": 6389.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6671.41,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 17e (256 GB) - Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0GQVQWZ4X",
+        "price": 14999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMIDNIGHTIPHONETELCELAPPLE": {
+    "ts": "2026-07-01T04:30:11.974993+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 9990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
+        "price": 11916.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 11916.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
+        "price": 31189.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
+        "price": 31189.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLESTARLIGHTIPHONETELCELAPPLE": {
+    "ts": "2026-07-01T04:30:26.961579+00:00",
+    "items": []
+  },
+  "walmart|APPLESTARLIGHTIPHONETELCELAPPLE": {
+    "ts": "2026-07-01T04:30:41.350193+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 9990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1510",
+        "price": 7999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple IPhone 14 128Gb - Starlight",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-14-128gb-starlight/00019425348823?athbdg=L6000",
+        "price": 12499.0,
+        "model": "128Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L6000",
+        "price": 14999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Azul Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-azul-telcel/00750622735241?athbdg=L6000",
+        "price": 14999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Apple 256 GB Salvia Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256-gb-salvia-telcel/00750622736183?athbdg=L6000",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
+        "price": 33498.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 Mini RENOVADO, 256 GB, Starlight - AT&T",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-mini-renovado-256-gb-starlight-at-t/00075357596428?athbdg=L1300",
+        "price": 7629.0,
+        "model": null
+      }
+    ]
   }
 }
