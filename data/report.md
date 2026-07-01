@@ -1,9 +1,23 @@
-# Errores/chollos de precio — 2026-07-01 14:10 UTC
+# Errores/chollos de precio — 2026-07-01 15:03 UTC
 
-- Productos revisados: **916**
+- Productos revisados: **3281**
 - Umbral de diferencia: **20%**
-- Hallazgos: **1**
+- Hallazgos: **15**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -28% | $10,369 | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | Confirmado vs competencia | $26,950 en palacio vs mercado -> -28% bajo la competencia |
+| -49% | $10,248 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | Confirmado vs competencia | $10,752 en palacio vs mercado -> -49% bajo la competencia |
+| -53% | $9,502 | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 2025](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | Confirmado vs competencia | $8,499 en walmart vs mercado -> -53% bajo la competencia |
+| -37% | $8,500 | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | Confirmado vs competencia | $14,499 en walmart vs mercado -> -37% bajo la competencia |
+| -31% | $7,999 | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4K 202…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $17,999 | Confirmado vs competencia | $17,999 en walmart vs amazon $38,999 -> -31% bajo la competencia |
+| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| -35% | $4,409 | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,090 | Confirmado vs competencia | $8,090 en walmart vs mercado -> -35% bajo la competencia |
+| -41% | $3,830 | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7622BA…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | Confirmado vs competencia | $5,599 en walmart vs mercado -> -41% bajo la competencia |
+| -27% | $3,407 | walmart | [Estufa Empotrable MABE MAOC80400CI 80 cm 6q Grafito y acero](https://www.walmart.com.mx/ip/estufa-empotrable-mabe-maoc80400ci-80-cm-6q-grafito-y-acero/00075763840581?athbdg=L1300) | $9,099 | Confirmado vs competencia | $9,099 en walmart vs mercado -> -27% bajo la competencia |
+| -35% | $2,690 | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $4,899 | Confirmado vs competencia | $4,899 en walmart vs mercado -> -35% bajo la competencia |
 | -25% | $1,700 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | Confirmado vs competencia | $4,999 en palacio vs mercado -> -25% bajo la competencia |
+| -22% | $1,101 | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| Capaci…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,889 | Confirmado vs competencia | $3,889 en mercadolibre vs mercado -> -22% bajo la competencia |
+| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
+| -50% | $501 | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | Confirmado vs competencia | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
+| -22% | $150 | walmart | [Audífonos Apple EarPods con Entrada 35mm](https://www.walmart.com.mx/ip/audifonos-apple-earpods-con-entrada-35mm/00019019810702?athbdg=L6000) | $549 | Confirmado vs competencia | $549 en walmart vs mercado -> -22% bajo la competencia |

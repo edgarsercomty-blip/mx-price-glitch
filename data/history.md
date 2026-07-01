@@ -1,9 +1,16 @@
-# Historial de ofertas encontradas (54)
+# Historial de ofertas encontradas (61)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-01 15:03 | -22% | walmart | [Audífonos Apple EarPods con Entrada 35mm](https://www.walmart.com.mx/ip/audifonos-apple-earpods-con-entrada-35mm/00019019810702?athbdg=L6000) | $549 | $549 en walmart vs mercado -> -22% bajo la competencia |
+| 2026-07-01 15:03 | -27% | walmart | [Estufa Empotrable MABE MAOC80400CI 80 cm 6q Grafito y a…](https://www.walmart.com.mx/ip/estufa-empotrable-mabe-maoc80400ci-80-cm-6q-grafito-y-acero/00075763840581?athbdg=L1300) | $9,099 | $9,099 en walmart vs mercado -> -27% bajo la competencia |
+| 2026-07-01 15:03 | -35% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,090 | $8,090 en walmart vs mercado -> -35% bajo la competencia |
+| 2026-07-01 15:03 | -35% | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $4,899 | $4,899 en walmart vs mercado -> -35% bajo la competencia |
+| 2026-07-01 15:03 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | $14,499 en walmart vs mercado -> -37% bajo la competencia |
+| 2026-07-01 15:03 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | $5,599 en walmart vs mercado -> -41% bajo la competencia |
+| 2026-07-01 15:03 | -50% | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vas…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
 | 2026-07-01 14:10 | -25% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | $4,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-01 10:11 | -22% | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| C…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,899 | $3,899 en mercadolibre vs mercado -> -22% bajo la competencia |
 | 2026-07-01 10:11 | -26% | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $8,590 | $8,590 en walmart vs mercado -> -26% bajo la competencia |
