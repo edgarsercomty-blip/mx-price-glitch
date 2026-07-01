@@ -1,9 +1,251 @@
 {
-  "generated_at": "2026-07-01 18:31 UTC",
-  "products_scanned": 917,
+  "generated_at": "2026-07-01 20:18 UTC",
+  "products_scanned": 3238,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 19,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.4,
+      "detail": "$1,022 en sams vs mercado -> -58% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1432.19,
+      "store": "sams",
+      "name": "Cafetera Compacta Keuring  K‑Express Single Serve",
+      "url": "https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307",
+      "price": 1021.98,
+      "list_price": 2454.17,
+      "ean": null,
+      "model": null,
+      "brand": "Keuring",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981045307"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$758 en walmart vs mercado -> -54% bajo la competencia",
+      "likely_typo": false,
+      "savings": 873.15,
+      "store": "walmart",
+      "name": "Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plateado, 1 Pieza",
+      "url": "https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300",
+      "price": 758.0,
+      "list_price": 1379.0,
+      "ean": null,
+      "model": "92180PC",
+      "brand": "T-fal",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750110832157"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$4,699 en mercadolibre vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5300.0,
+      "store": "mercadolibre",
+      "name": "Refrigerador Mini Frigobar 2 Puertas 2.83 Pies Cubicos 80l Negro",
+      "url": "https://www.mercadolibre.com.mx/refrigerador-mini-frigobar-2-puertas-283-pies-cubicos-80l-negro/p/MLM67628990",
+      "price": 4699.0,
+      "list_price": 4699.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM67628990"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$498 en mercadolibre vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 501.0,
+      "store": "mercadolibre",
+      "name": "Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt Color Negro",
+      "url": "https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580",
+      "price": 498.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM41816580"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$10,752 en palacio vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10248.42,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+      "price": 10751.58,
+      "list_price": 25599.0,
+      "ean": null,
+      "model": "75Q6K",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44576283",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.9,
+      "detail": "$312 en amazon vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 187.0,
+      "store": "amazon",
+      "name": "UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería hasta 32 Horas, Driver de 10mm Hi-Fi Calida de Sonido, Reducción de Ruido AI para Llamadas, Admite App y Encuentra Audifonos y 8 EQ Efectos",
+      "url": "https://www.amazon.com.mx/dp/B0F94D2JB6",
+      "price": 312.0,
+      "list_price": 599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0F94D2JB6"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,090 en walmart vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4409.0,
+      "store": "walmart",
+      "name": "Secadora Mabe 20  kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300",
+      "price": 8090.0,
+      "list_price": 10790.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763897119"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.5,
+      "detail": "$3,799 en walmart vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2000.0,
+      "store": "walmart",
+      "name": "Audifonos Apple airpods Pro 3 Blancos",
+      "url": "https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300",
+      "price": 3799.0,
+      "list_price": 5799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019595054362"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.8,
+      "detail": "$8,999 en walmart vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4298.98,
+      "store": "walmart",
+      "name": "Lavadora Whirlpool Carga Superior 21 Kg Negra",
+      "url": "https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300",
+      "price": 8999.0,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Whirlpool",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00770822805142"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$6,599 en walmart vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3000.0,
+      "store": "walmart",
+      "name": "BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BENOTTO Benotto 570 Ruta",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300",
+      "price": 6599.0,
+      "list_price": 9599.0,
+      "ean": null,
+      "model": "R-700",
+      "brand": "Benotto",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750153732737"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$26,950 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10369.49,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html",
+      "price": 26949.51,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "OLED65C6PSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45395463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,199 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1500.0,
+      "store": "walmart",
+      "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+      "price": 4199.0,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Monk",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750227122227"
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
@@ -23,6 +265,127 @@
       "extra": {
         "id": "42107714",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$13,439 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4559.56,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html",
+      "price": 13439.44,
+      "list_price": 23999.0,
+      "ean": null,
+      "model": "65U6SV",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45452464",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.6,
+      "detail": "$245 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 74.0,
+      "store": "amazon",
+      "name": "MOSISO Funda Compatible con MacBook Air 13.6 Pulgadas Case 2026-2022 M5 A3449 M4 A3240 M3 A3113 M2 A2681,Carcasa Rígida de Plástico&Cubierta de Teclado&Protector de Pantalla&Tipo C,Claro Cristal",
+      "url": "https://www.amazon.com.mx/dp/B0B7H3V2V7",
+      "price": 245.0,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "A3449",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0B7H3V2V7"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,089 en sams vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1184.1,
+      "store": "sams",
+      "name": "Bicicleta de Montaña Huffy  Rock Creek Rodada 26 Negro",
+      "url": "https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-rock-creek-rodada-26-negro/981021395",
+      "price": 4088.92,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": "Huffy",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981021395"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.7,
+      "detail": "$6,799 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1840.0,
+      "store": "walmart",
+      "name": "Lavadora Mabe 16 Kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944",
+      "price": 6799.0,
+      "list_price": 11099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763896944"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,079 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 289.62,
+      "store": "amazon",
+      "name": "Skechers Go Run Consistent 2.0 Advantage - Tenis para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CCTBB4HD",
+      "price": 1078.8,
+      "list_price": 359.6,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CCTBB4HD"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$10,637 en sams vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2660.8,
+      "store": "sams",
+      "name": "Pantalla Samsung  65\" QLED Smart TV QN65Q8FAAFXZX",
+      "url": "https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902",
+      "price": 10637.15,
+      "list_price": 13297.95,
+      "ean": null,
+      "model": "QN65Q8FAAFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981053902"
       }
     }
   ]

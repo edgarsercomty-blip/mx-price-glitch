@@ -1,9 +1,27 @@
-# Errores/chollos de precio — 2026-07-01 18:31 UTC
+# Errores/chollos de precio — 2026-07-01 20:18 UTC
 
-- Productos revisados: **917**
+- Productos revisados: **3238**
 - Umbral de diferencia: **20%**
-- Hallazgos: **1**
+- Hallazgos: **19**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -28% | $10,369 | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | Confirmado vs competencia | $26,950 en palacio vs mercado -> -28% bajo la competencia |
+| -49% | $10,248 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | Confirmado vs competencia | $10,752 en palacio vs mercado -> -49% bajo la competencia |
+| -53% | $5,300 | mercadolibre | [Refrigerador Mini Frigobar 2 Puertas 2.83 Pies Cubicos 80l N…](https://www.mercadolibre.com.mx/refrigerador-mini-frigobar-2-puertas-283-pies-cubicos-80l-negro/p/MLM67628990) | $4,699 | Confirmado vs competencia | $4,699 en mercadolibre vs mercado -> -53% bajo la competencia |
+| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| -35% | $4,409 | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,090 | Confirmado vs competencia | $8,090 en walmart vs mercado -> -35% bajo la competencia |
+| -32% | $4,299 | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | Confirmado vs competencia | $8,999 en walmart vs mercado -> -32% bajo la competencia |
+| -31% | $3,000 | walmart | [BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BE…](https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300) | $6,599 | Confirmado vs competencia | $6,599 en walmart vs mercado -> -31% bajo la competencia |
+| -20% | $2,661 | sams | [Pantalla Samsung  65" QLED Smart TV QN65Q8FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902) | $10,637 | Confirmado vs competencia | $10,637 en sams vs mercado -> -20% bajo la competencia |
+| -34% | $2,000 | walmart | [Audifonos Apple airpods Pro 3 Blancos](https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300) | $3,799 | Confirmado vs competencia | $3,799 en walmart vs mercado -> -34% bajo la competencia |
+| -21% | $1,840 | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944) | $6,799 | Confirmado vs competencia | $6,799 en walmart vs mercado -> -21% bajo la competencia |
 | -25% | $1,700 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | Confirmado vs competencia | $4,999 en palacio vs mercado -> -25% bajo la competencia |
+| -26% | $1,500 | walmart | [Bicicleta de Montaña Monk Messer Rodada 26](https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227) | $4,199 | Confirmado vs competencia | $4,199 en walmart vs mercado -> -26% bajo la competencia |
+| -58% | $1,432 | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | Confirmado vs competencia | $1,022 en sams vs mercado -> -58% bajo la competencia |
+| -22% | $1,184 | sams | [Bicicleta de Montaña Huffy  Rock Creek Rodada 26 Negro](https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-rock-creek-rodada-26-negro/981021395) | $4,089 | Confirmado vs competencia | $4,089 en sams vs mercado -> -22% bajo la competencia |
+| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
+| -50% | $501 | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | Confirmado vs competencia | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
+| -21% | $290 | amazon | [Skechers Go Run Consistent 2.0 Advantage - Tenis para Mujer](https://www.amazon.com.mx/dp/B0CCTBB4HD) | $1,079 | Confirmado vs competencia | $1,079 en amazon vs mercado -> -21% bajo la competencia |
+| -38% | $187 | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería …](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | Confirmado vs competencia | $312 en amazon vs mercado -> -38% bajo la competencia |
+| -23% | $74 | amazon | [MOSISO Funda Compatible con MacBook Air 13.6 Pulgadas Case 2…](https://www.amazon.com.mx/dp/B0B7H3V2V7) | $245 | Confirmado vs competencia | $245 en amazon vs mercado -> -23% bajo la competencia |
