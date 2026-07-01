@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-01 11:47 UTC",
-  "products_scanned": 857,
+  "generated_at": "2026-07-01 14:10 UTC",
+  "products_scanned": 916,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1700.0,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 4999.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
+        "outlet": false
+      }
+    }
+  ]
 }

@@ -8021,5 +8021,314 @@
   "sams|WSA1104P": {
     "ts": "2026-07-01T10:11:34.656296+00:00",
     "items": []
+  },
+  "amazon|75QM6K": {
+    "ts": "2026-07-01T14:09:40.295397+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
+        "price": 15498.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
+        "price": 8499.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
+        "price": 19998.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
+        "price": 14075.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
+        "price": 15498.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 10827.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U6S Pantalla 75“ Pulgadas,Mini-LED 4K AI Smart TV,144Hz Nativos，Procesador Hi-View AI，IMAX Enhanced,Subwoofer Integrado,Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9JGDFT",
+        "price": 14999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
+        "price": 14075.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
+        "price": 19998.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 65QM64L Smart TV Pantalla 4K QD-MINILED 65\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRJY86BR",
+        "price": 11872.0,
+        "model": "65QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75A300W Smart TV Pantalla NXTVision TV 75” 4K QLED Pro Google TV | HDR10 | Dolby Audio | WiFi y Bluetooth | Compatible con Alexa, Chromecast Integrado",
+        "url": "https://www.amazon.com.mx/dp/B0GQ2KWCRQ",
+        "price": 13499.0,
+        "model": "75A300W"
+      }
+    ]
+  },
+  "walmart|75QM6K": {
+    "ts": "2026-07-01T14:09:52.628484+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV TCL 75 pulgadas 4K QLED Smart 75QM6K",
+        "url": "https://www.walmart.com.mx/ip/tv-tcl-75-pulgadas-4k-qled-smart-75qm6k/00084046404542?athbdg=L6000",
+        "price": 24999.0,
+        "model": "75QM6K"
+      }
+    ]
+  },
+  "sams|75QM6K": {
+    "ts": "2026-07-01T14:09:59.850867+00:00",
+    "items": []
+  },
+  "amazon|OSTERVELOCIDADESLICUADORASERIESXPERT": {
+    "ts": "2026-07-01T14:10:02.584973+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Xpert Series con Control de Textura y Accesorios, 2 Litros, 3 Programas de Velocidad, BLST3B-CAG-013",
+        "url": "https://www.amazon.com.mx/dp/B09RBJJ8G4",
+        "price": 3999.0,
+        "model": "BLST3B-CAG-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 3 Velocidades, Vaso de Vidrio, Roja, BLST4126R",
+        "url": "https://www.amazon.com.mx/dp/B08V5KWPQG",
+        "price": 1090.0,
+        "model": "BLST4126R"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora clásica Oster reversible cromada vaso de vidrio BLSTBESTE013",
+        "url": "https://www.amazon.com.mx/dp/B08V5RN8D9",
+        "price": 1549.0,
+        "model": "BLSTBESTE013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Xpert Series con Control de Textura y Accesorios, 2 Litros, 3 Programas de Velocidad, BLST3B-CAG-013",
+        "url": "https://www.amazon.com.mx/dp/B09RBJJ8G4",
+        "price": 3999.0,
+        "model": "BLST3B-CAG-013"
+      },
+      {
+        "store": "amazon",
+        "name": "H+R Aspa compatible Oster Xpert Series",
+        "url": "https://www.amazon.com.mx/dp/B094NWP5PX",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "6 Piezas Repuesto de Licuadora para Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
+        "url": "https://www.amazon.com.mx/dp/B0H155GJ2W",
+        "price": 468.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "6 Piezas Repuesto de Licuadora Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
+        "url": "https://www.amazon.com.mx/dp/B0GSPCZHWW",
+        "price": 498.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional, XTREME MIX, Motor de 1500 W, Tecnología Reversible, Vaso de Vidrio 2 L, para Smoothie, Malteadas, Helado, Frappe, Mantequilla, Vaso Portátil Blend-N-Go, Gris, BLSTXPG-BGW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1449.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Vaso Blend and GO",
+        "url": "https://www.amazon.com.mx/dp/B01MY99ZL5",
+        "price": 289.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERVELOCIDADESLICUADORASERIESXPERT": {
+    "ts": "2026-07-01T14:10:18.203241+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
+        "price": 599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871?athbdg=L1300",
+        "price": 1990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora OSTER Xpert Series 1 Litros con Vasos de Viaje BLSTXPN7003",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-1-litros-con-vasos-de-viaje-blstxpn7003/00003426449250",
+        "price": 4949.9,
+        "model": "BLSTXPN7003"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Flavorstone Quartz 2 L cuchillas Titanium motor cobre",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavorstone-quartz-2-l-cuchillas-titanium-motor-cobre/00750227477552",
+        "price": 1139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Xpert Series 9 Programas y 4 Velocidades 8 Tazas 1500 W Color Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-9-programas-y-4-velocidades-8-tazas-1500-w-color-gris/00005389114546?athbdg=L6000",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Control de Textura Xpert Series y Vaso de Vidrio, Niquelada",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-control-de-textura-xpert-series-y-vaso-de-vidrio-niquelada/00005389114303",
+        "price": 6419.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
+        "price": 669.0,
+        "model": "EW-H801"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
+        "price": 2290.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3098.99,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora 2 velocidades Oster  Licuadora 2 Velocidades Oster V/Vidrio Blanco BLSTKAG-WRD-013",
+        "url": "https://www.walmart.com.mx/ip/licuadora-2-velocidades-oster-licuadora-2-velocidades-oster-v-vidrio-blanco-blstkag-wrd-013/00005389113837",
+        "price": 682.0,
+        "model": "BLSTKAG-WRD-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
+        "price": 1849.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERVELOCIDADESLICUADORASERIESXPERT": {
+    "ts": "2026-07-01T14:10:27.204264+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
+        "price": 2249.56,
+        "model": "1200W"
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Clásica 1.25L Gris",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
+        "price": 1276.7,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
+        "price": 2863.37,
+        "model": null
+      }
+    ]
   }
 }

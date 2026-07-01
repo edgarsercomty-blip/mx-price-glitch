@@ -1,5 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-01 11:47 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-01 14:10 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **1**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -25% | $1,700 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | Confirmado vs competencia | $4,999 en palacio vs mercado -> -25% bajo la competencia |
