@@ -10306,5 +10306,118 @@
         "model": null
       }
     ]
+  },
+  "amazon|GM29BIP": {
+    "ts": "2026-07-01T08:29:19.423839+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 2 Unidad",
+        "url": "https://www.amazon.com.mx/dp/B0H26PKBRC",
+        "price": 3800.0,
+        "model": "AES-256"
+      },
+      {
+        "store": "amazon",
+        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 4 Unidad",
+        "url": "https://www.amazon.com.mx/dp/B0H26GPJGY",
+        "price": 7600.0,
+        "model": "AES-256"
+      },
+      {
+        "store": "amazon",
+        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 10 Unidad",
+        "url": "https://www.amazon.com.mx/dp/B0H26JBV1G",
+        "price": 19000.0,
+        "model": "AES-256"
+      },
+      {
+        "store": "amazon",
+        "name": "BAOFENG UV-9G Radio GMRS, Radio bidireccional impermeable IP67 para adultos, Escáner y receptor NOAA de largo alcance, Radio recargable portátil compatible con repetidores, con cable de programación",
+        "url": "https://www.amazon.com.mx/dp/B098JGLWZ1",
+        "price": 577.39,
+        "model": "UV-9G"
+      },
+      {
+        "store": "amazon",
+        "name": "GravaStar Mercury M2 - mouse inalámbrico para juegos con 26.000 DPI, sensor PAW3395DM, diseño ligero ahuecado, 5 botones programables, 5 RGB dinámicos, color blanco",
+        "url": "https://www.amazon.com.mx/dp/B0GJ5KNC27",
+        "price": 1399.0,
+        "model": "PAW3395DM"
+      },
+      {
+        "store": "amazon",
+        "name": "M9 Global Walkie Talkie Rango ilimitado, 4G LTE Radio bidireccional de largo alcance con SIM preinstalada, sin por vida, cifrado AES256, IP65 impermeable para uso comercial, al aire última",
+        "url": "https://www.amazon.com.mx/dp/B0GFM8VJGW",
+        "price": 13465.09,
+        "model": "AES256"
+      },
+      {
+        "store": "amazon",
+        "name": "Ugoos X5m Pro TV Box Android 14.0 Amlogic S905x5m 4 GB RAM 32 GB ROM 2.4G/5G Wi-Fi Dual Ethernet 1000M USB 2.0 BT5.4 Soporte AV1 VP9 H.265 4K HDR",
+        "url": "https://www.amazon.com.mx/dp/B0FHPSTQLJ",
+        "price": 3092.81,
+        "model": "S905x5m"
+      },
+      {
+        "store": "amazon",
+        "name": "Inseego Mifi X Pro M3100 UW - Punto de acceso móvil desbloqueado, negro",
+        "url": "https://www.amazon.com.mx/dp/B0DP5Q7RBP",
+        "price": 3342.21,
+        "model": "M3100"
+      },
+      {
+        "store": "amazon",
+        "name": "Gintai TPM 2.0 Módulo LPC 12pines SLB9665 Placa de Seguridad con cifrado Remoto para Tarjetas Accesorio para Gigabyte GCTPM2.0_S B360 Gaming 3/HD3, B360M /D2V, Z390 /Gaming/UD/M B550 B550M B550I",
+        "url": "https://www.amazon.com.mx/dp/B0G1SJTZ4K",
+        "price": 659.99,
+        "model": "12pines"
+      },
+      {
+        "store": "amazon",
+        "name": "Caja de TV 8K, 4GB DDR3 64bit Quad Core S905X3 Procesador G31 MP2 GPU con 2.4G/5G Dual WiFi Gigabit Ethernet Bluetooth para Transmisión Multimedia en el Hogar (4+128G Enchufe de la UE)",
+        "url": "https://www.amazon.com.mx/dp/B0H6QC9XKH",
+        "price": 1791.0,
+        "model": "S905X3"
+      },
+      {
+        "store": "amazon",
+        "name": "Cisco MGBSX1 Gigabit SX Mini-GBIC SFP Transceiver",
+        "url": "https://www.amazon.com.mx/dp/B0001Q5SV4",
+        "price": 1880.0,
+        "model": "MGBSX1"
+      },
+      {
+        "store": "amazon",
+        "name": "Chip de Caja de Mantenimiento Compatible con G1230 G1330 G1430 G1530 G1730 G1737 G2270 G2470 G2570 G2730 G2770 G3270 G3470 G3471",
+        "url": "https://www.amazon.com.mx/dp/B0H6GX3GT4",
+        "price": 490.07,
+        "model": "G1230"
+      }
+    ]
+  },
+  "walmart|GM29BIP": {
+    "ts": "2026-07-01T08:29:35.081129+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador GM29BIP LG Refrigerador GM29BIP SMART INVERTER",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-gm29bip-lg-refrigerador-gm29bip-smart-inverter/00880609125435?athbdg=L1300",
+        "price": 18999.0,
+        "model": "GM29BIP"
+      }
+    ]
+  },
+  "sams|GM29BIP": {
+    "ts": "2026-07-01T08:29:42.296219+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  29 Pies Cúbicos French Door GM29BIP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-29-pies-cubicos-french-door-gm29bip/981000505",
+        "price": 24549.95,
+        "model": "GM29BIP"
+      }
+    ]
   }
 }
