@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02 20:27 UTC",
+  "generated_at": "2026-07-02 21:48 UTC",
   "products_scanned": 917,
   "threshold_pct": 20.0,
-  "count": 20,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -421,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43011643",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$5,583 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1395.8,
+      "store": "palacio",
+      "name": "Reloj para Hombre Lexington de Vestir, Dorado",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html",
+      "price": 5583.2,
+      "list_price": 6979.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "19687375",
         "outlet": false
       }
     }
