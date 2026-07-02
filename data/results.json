@@ -1,7 +1,574 @@
 {
-  "generated_at": "2026-07-02 05:50 UTC",
-  "products_scanned": 892,
+  "generated_at": "2026-07-02 09:03 UTC",
+  "products_scanned": 880,
   "threshold_pct": 20.0,
-  "count": 0,
-  "findings": []
+  "count": 27,
+  "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$8,820 en palacio vs amazon $18,333 -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6089.71,
+      "store": "palacio",
+      "name": "Lavadora Automática, 21 Kg, Carga Superior LMA71214VBAB0",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-21-kg-carga-superior-lma71214vbab0-44621890.html",
+      "price": 8819.58,
+      "list_price": 20999.0,
+      "ean": null,
+      "model": "LMA71214VBAB0",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44621890",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 46.0,
+      "detail": "$16,739 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10257.22,
+      "store": "palacio",
+      "name": "Combo Lavadora 21 kg y Secadora 22 kg",
+      "url": "https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html",
+      "price": 16739.46,
+      "list_price": 30999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964251",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$7,830 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4784.72,
+      "store": "palacio",
+      "name": "Lavadora automática 19 kg carga superior",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-19-kg-carga-superior-44964252.html",
+      "price": 7829.55,
+      "list_price": 17399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964252",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$9,585 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5857.22,
+      "store": "palacio",
+      "name": "Lavadora automática 22 kg carga superior",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964253.html",
+      "price": 9584.55,
+      "list_price": 21299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$22,714 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10990.24,
+      "store": "palacio",
+      "name": "Refrigerador Dúplex 22 p3",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html",
+      "price": 22714.41,
+      "list_price": 38499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964263",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$26,014 en palacio vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 12534.23,
+      "store": "palacio",
+      "name": "Centro de lavado a Gas de carga superior 24 Kg Gris",
+      "url": "https://www.elpalaciodehierro.com/mabe-centro-de-lavado-a-gas-de-carga-superior-24-kg-gris-44064323.html",
+      "price": 26014.45,
+      "list_price": 47299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44064323",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 16.1,
+      "detail": "$9,539 en walmart vs palacio $13,874, walmart $14,909, walmart $18,145 -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4335.25,
+      "store": "walmart",
+      "name": "Máquina de café espresso KitchenAid KES6403 semiautomática 1.4L",
+      "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300",
+      "price": 9539.0,
+      "list_price": 11365.0,
+      "ean": null,
+      "model": "KES6403",
+      "brand": "Kitchenaid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00088304952662"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$3,574 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1462.28,
+      "store": "palacio",
+      "name": "Frigobar 4 p3 RMF0411PYMX0R",
+      "url": "https://www.elpalaciodehierro.com/mabe-frigobar-4-p3-rmf0411pymx0r-45253852.html",
+      "price": 3574.45,
+      "list_price": 6499.0,
+      "ean": null,
+      "model": "RMF0411PYMX0R",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45253852",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 39.0,
+      "detail": "$11,406 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4113.78,
+      "store": "palacio",
+      "name": "Secadora a Gas 22 Kg Energy Saver Green Carga Frontal Blanca",
+      "url": "https://www.elpalaciodehierro.com/mabe-secadora-a-gas-22-kg-energy-saver-green-carga-frontal-blanca-40283500.html",
+      "price": 11406.39,
+      "list_price": 18699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "40283500",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 39.0,
+      "detail": "$21,654 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7277.29,
+      "store": "palacio",
+      "name": "Refrigerador bottom mount 22 p3 PWN22JYWCFS",
+      "url": "https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html",
+      "price": 21654.39,
+      "list_price": 35499.0,
+      "ean": null,
+      "model": "PWN22JYWCFS",
+      "brand": "Ge",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964262",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,962 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 987.25,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html",
+      "price": 2961.75,
+      "list_price": 3949.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729905",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,962 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 987.25,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
+      "price": 2961.75,
+      "list_price": 3949.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729903",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 999.75,
+      "store": "palacio",
+      "name": "Combo Licuadora Porcelain con 2 Vasos",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html",
+      "price": 2999.25,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505385",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,897 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 632.25,
+      "store": "palacio",
+      "name": "Licuadora de Inmersion Vel Var Negro",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-de-inmersion-vel-var-negro-41646264.html",
+      "price": 1896.75,
+      "list_price": 2529.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41646264",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10612.25,
+      "store": "palacio",
+      "name": "Maquina de Cafe Espresso para 27 tazas en Acero",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-para-27-tazas-en-acero-44729901.html",
+      "price": 31836.75,
+      "list_price": 42449.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729901",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,902 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 967.25,
+      "store": "palacio",
+      "name": "Hervidor de agua 1.7 L Negro Mate",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-negro-mate-44519513.html",
+      "price": 2901.75,
+      "list_price": 3869.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519513",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,902 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 967.25,
+      "store": "palacio",
+      "name": "Hervidor de agua 1.7 L Blanco",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-blanco-44519515.html",
+      "price": 2901.75,
+      "list_price": 3869.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519515",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$27,059 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8883.83,
+      "store": "palacio",
+      "name": "Lavadora Carga Superior 24 Kg Diamond Gray + Secadora",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-carga-superior-24-kg-diamond-gray-secadora-41222632.html",
+      "price": 27059.34,
+      "list_price": 40999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41222632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$22,679 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7199.8,
+      "store": "palacio",
+      "name": "Refrigerador bottom mount 22 p3 PWN22JEWCDS",
+      "url": "https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jewcds-44964256.html",
+      "price": 22679.37,
+      "list_price": 35999.0,
+      "ean": null,
+      "model": "PWN22JEWCDS",
+      "brand": "Ge",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964256",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,999 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3835.34,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount 300 L, Negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-300-l-negro-42854729.html",
+      "price": 12999.35,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42854729",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$8,945 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2626.82,
+      "store": "palacio",
+      "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
+      "price": 8945.37,
+      "list_price": 14199.0,
+      "ean": null,
+      "model": "RMA250FYMRX0",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44621889",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.0,
+      "detail": "$14,499 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3979.92,
+      "store": "palacio",
+      "name": "Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html",
+      "price": 14499.42,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "RMS510ICMRX0",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "39961562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$19,535 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5031.83,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount 520 L",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-520-l-42886432.html",
+      "price": 19535.34,
+      "list_price": 29599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42886432",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$14,321 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3688.83,
+      "store": "palacio",
+      "name": "Lavadora automática 22 kg carga superior",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964254.html",
+      "price": 14321.34,
+      "list_price": 21699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964254",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$29,039 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7479.83,
+      "store": "palacio",
+      "name": "Centro de Lavado Electrico de Carga Superior 24 Kg Blanco",
+      "url": "https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html",
+      "price": 29039.34,
+      "list_price": 43999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44064322",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$35,573 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9162.83,
+      "store": "palacio",
+      "name": "Centro de lavado Premium Electrico de Carga Superior 24 Kg Negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html",
+      "price": 35573.34,
+      "list_price": 53899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44064325",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$5,631 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1407.8,
+      "store": "palacio",
+      "name": "Reloj para Mujer Harlowe Casual Oro rosa",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html",
+      "price": 5631.2,
+      "list_price": 7039.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43011643",
+        "outlet": false
+      }
+    }
+  ]
 }

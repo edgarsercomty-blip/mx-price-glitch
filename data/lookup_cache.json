@@ -176,21 +176,14 @@
     "items": []
   },
   "amazon|98QM8K": {
-    "ts": "2026-06-30T06:55:56.981278+00:00",
+    "ts": "2026-07-02T08:46:30.190606+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
         "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51749.55,
+        "price": 51499.0,
         "model": "98QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 27999.0,
-        "model": "VisionHDR10"
       },
       {
         "store": "amazon",
@@ -201,30 +194,23 @@
       },
       {
         "store": "amazon",
-        "name": "TCL 98QM7L Pantalla 98\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GWSFZ28M",
-        "price": 48495.0,
-        "model": "98QM7L"
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 37498.0,
+        "model": "98QM7K"
       },
       {
         "store": "amazon",
-        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
-        "price": 44999.0,
-        "model": "98QM7K"
+        "name": "TCL 98QM7L Pantalla 98\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSFZ28M",
+        "price": 48494.6,
+        "model": "98QM7L"
       },
       {
         "store": "amazon",
         "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
         "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
-        "price": 21995.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 13734.63,
+        "price": 20398.0,
         "model": "VisionHDR10"
       },
       {
@@ -236,9 +222,23 @@
       },
       {
         "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM64L Smart TV Pantalla 4K QD-MINILED 98\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRKCZXMV",
+        "price": 32997.0,
+        "model": "98QM64L"
+      },
+      {
+        "store": "amazon",
         "name": "LG Pantalla 42 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED42C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
         "url": "https://www.amazon.com.mx/dp/B0F2PNRDDS",
-        "price": 14499.0,
+        "price": 13995.0,
         "model": "OLED42C5PSA"
       },
       {
@@ -257,167 +257,20 @@
       },
       {
         "store": "amazon",
-        "name": "TCL 98QM64L Smart TV Pantalla 4K QD-MINILED 98\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRKCZXMV",
-        "price": 35999.0,
-        "model": "98QM64L"
+        "name": "RC933A FMB1 Reemplazo de control remoto de voz compatible con TCL QM8K Series 65QM8K 75QM8K 85QM8K 98QM8K 65C8K 75C8K 85C8K 75C89K QD-MINI Mini LED QLED 4K HDR UHD Google Smart TV 2025 Modelo (con",
+        "url": "https://www.amazon.com.mx/dp/B0H3NZTM1B",
+        "price": 600.04,
+        "model": "RC933A"
       }
     ]
   },
   "walmart|98QM8K": {
-    "ts": "2026-06-30T06:56:05.010917+00:00",
+    "ts": "2026-07-02T08:46:52.170114+00:00",
     "items": []
   },
   "sams|98QM8K": {
-    "ts": "2026-06-30T06:56:10.535157+00:00",
+    "ts": "2026-07-02T08:47:00.197469+00:00",
     "items": []
-  },
-  "amazon|K65S20M2": {
-    "ts": "2026-06-30T06:56:14.324364+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Sony BRAVIA 2 II Pantalla 65” LED 4K HDR Google TV 2025",
-        "url": "https://www.amazon.com.mx/dp/B0DYKBXMJX",
-        "price": 12999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sony BRAVIA 2 II Pantalla 65” LED 4K HDR Google TV 2025 Sistema de Teatro casa de 5.1 Canales con Barra de Sonido 400 W | HT-S20R",
-        "url": "https://www.amazon.com.mx/dp/B0H6NH6TFF",
-        "price": 16798.0,
-        "model": "HT-S20R"
-      },
-      {
-        "store": "amazon",
-        "name": "RMF-TX920U Voice Reemplazado Remoto fit for 2024 and 2025 Sony TVs for Backlit K50XR50 K-50XR50 K55HXR80 K55XBR80M2 K55XR50 K-55XR50 K55XR80CB K-55XR80CB K65S20M2 K-65S20M2 K65XBR80M2 K-65XBR80M2",
-        "url": "https://www.amazon.com.mx/dp/B0GY8V75Q9",
-        "price": 330.6,
-        "model": "K-65XBR80M2"
-      },
-      {
-        "store": "amazon",
-        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
-        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
-        "price": 460.3,
-        "model": "RMF-TX920U"
-      },
-      {
-        "store": "amazon",
-        "name": "Soporte de pared para TV ultradelgado para Sony BRAVIA 2 II 4K HDR LED Google (2025) K-65S20M2 de 65 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
-        "url": "https://www.amazon.com.mx/dp/B0FQRPDQSZ",
-        "price": 3502.76,
-        "model": "K-65S20M2"
-      },
-      {
-        "store": "amazon",
-        "name": "Soporte de pared articulado de brazo doble resistente para BRAVIA 2 II 4K HDR LED Google TV (2025) K-65S20M2 de 65 pulgadas, inclinable y giratorio/extraíble de 2.8 a 16.5 pulgadas, soporta 165 libras",
-        "url": "https://www.amazon.com.mx/dp/B0FPYKJWXQ",
-        "price": 3637.88,
-        "model": "K-65S20M2"
-      },
-      {
-        "store": "amazon",
-        "name": "Sony BRAVIA 2 II 65\" + 55\" 4K TV Bundle",
-        "url": "https://www.amazon.com.mx/dp/B0FP7MZ5WP",
-        "price": 22998.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|K65S20M2": {
-    "ts": "2026-06-30T06:56:27.067932+00:00",
-    "items": []
-  },
-  "sams|K65S20M2": {
-    "ts": "2026-06-30T06:57:17.581999+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Hielo Frost  15 K",
-        "url": "https://www.sams.com.mx/ip/hielo-frost-15-k/981040667",
-        "price": 61.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bolonia Rosarito  1 K",
-        "url": "https://www.sams.com.mx/ip/bolonia-rosarito-1-k/000019786",
-        "price": 112.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Lapicera Ruz  Infantil K-pop",
-        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
-        "price": 305.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Lonchera Ruz  Infantil K-Pop",
-        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
-        "price": 387.71,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Backpack Primaria Ruz  K-Pop",
-        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
-        "price": 561.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
-        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
-        "price": 6135.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Backpack Infantil Ruz  Rígida K-Pop",
-        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
-        "price": 1227.59,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
-        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
-        "price": 213.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Compacta Keuring  K‑Express Single Serve",
-        "url": "https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307",
-        "price": 2454.17,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Secret",
-        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-secret/981045230",
-        "price": 449.08,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Queso Farmers Menoniten Tipo Chester 2.2 k",
-        "url": "https://www.sams.com.mx/ip/queso-farmers-menoniten-tipo-chester-2-2-k/000142896",
-        "price": 326.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
-        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
-        "price": 210.73,
-        "model": null
-      }
-    ]
   },
   "liverpool|LMH72211WBAB0": {
     "ts": "2026-06-30T09:53:37.520052+00:00",
@@ -11728,5 +11581,4045 @@
   "sams|40S5045": {
     "ts": "2026-07-02T04:02:39.632297+00:00",
     "items": []
+  },
+  "amazon|MABESECADORALAVADORACOMBO": {
+    "ts": "2026-07-02T08:45:44.820018+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe Secadora Gas LP 6.2cu.ft + Lavadora Automática 20kg Aqua Saver Green",
+        "url": "https://www.amazon.com.mx/dp/B0G4NL6P8K",
+        "price": 17063.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática 21 kg, Blanco - LMA71214VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B07581FH9K",
+        "price": 8535.0,
+        "model": "LMA71214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavasecadora Inverter Hisense 15 Kilos Carga Frontal Gris WD3S1543BT",
+        "url": "https://www.amazon.com.mx/dp/B08DLLDQCZ",
+        "price": 11199.0,
+        "model": "WD3S1543BT"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe. Secadora Gas SMG47N8MSBAB0 7.2ft³ + Lavadora LMA71214VBAB0 21kg, Electrodomésticos Grandes Blancos",
+        "url": "https://www.amazon.com.mx/dp/B0F6H3J2FT",
+        "price": 18333.33,
+        "model": "SMG47N8MSBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Aqua Saver Green Automática 20 kg Blanca - LMA70214CBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CGBZX76B",
+        "price": 8478.11,
+        "model": "LMA70214CBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática 19 kg, pack of/paquete de 1, color, Blanco - LMA79113VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B077C65SMZ",
+        "price": 8963.37,
+        "model": "LMA79113VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Semi-Automática 11 kg Blanca Mabe - LMDX1123HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CW8187HP",
+        "price": 3460.74,
+        "model": "LMDX1123HBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora 2 Tinas Blanco LMDX3123HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CV91NR54",
+        "price": 4023.46,
+        "model": "LMDX3123HBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora Gas 6.2 Cuft, color Blanco - SMG26N5MNBAB0",
+        "url": "https://www.amazon.com.mx/dp/B01N2T9Y9S",
+        "price": 8094.0,
+        "model": "SMG26N5MNBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática Aqua Saver Green 20 kg Blanca con Sanitizado - LMA70214VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B07N6PCPNX",
+        "price": 8969.0,
+        "model": "LMA70214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Perilla Compatible Con Secadora Lavadora Mabe Easy Kraken Original",
+        "url": "https://www.amazon.com.mx/dp/B0F1H2CN9H",
+        "price": 269.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora Gas 7.2 Cuft, color Blanco - SMG47N8MSBAB0",
+        "url": "https://www.amazon.com.mx/dp/B01MRWS489",
+        "price": 9798.33,
+        "model": "SMG47N8MSBAB0"
+      }
+    ]
+  },
+  "walmart|MABESECADORALAVADORACOMBO": {
+    "ts": "2026-07-02T08:45:59.616543+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Combo Lavadora Secadora Whirlpool C8MWTW1934-1930 19 kg",
+        "url": "https://www.walmart.com.mx/ip/combo-lavadora-secadora-whirlpool-c8mwtw1934-1930-19-kg/00750154551192?athbdg=L1300",
+        "price": 18690.0,
+        "model": "C8MWTW1934-1930"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora y secadora LG Combo 20kg",
+        "url": "https://www.walmart.com.mx/ip/lavadora-y-secadora-lg-combo-20kg/00880608490688?athbdg=L1600",
+        "price": 23390.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "COMBO LAVADORA WHIRLPOOL 8MWTW2654WRM 26KG BCO TAP CRIST+ FREIDORA DE AIRE NINJA DZ071LAA",
+        "url": "https://www.walmart.com.mx/ip/combo-lavadora-whirlpool-8mwtw2654wrm-26kg-bco-tap-crist-freidora-de-aire-ninja-dz071laa/00046439475610?athbdg=L6000",
+        "price": 30999.0,
+        "model": "8MWTW2654WRM"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora MABE LRM16A 16kg redonda con tina de acero y sistema por agitador",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lrm16a-16kg-redonda-con-tina-de-acero-y-sistema-por-agitador/00075763843100?athbdg=L1300",
+        "price": 5399.0,
+        "model": "LRM16A"
+      },
+      {
+        "store": "walmart",
+        "name": "COMBO LAVADORA WHIRLPOOL 8MWTW-1713MJQ 17KG + LICUADORA NINJA PERSONAL NUTRIBLENDER BN301",
+        "url": "https://www.walmart.com.mx/ip/combo-lavadora-whirlpool-8mwtw-1713mjq-17kg-licuadora-ninja-personal-nutriblender-bn301/00046535981645?athbdg=L6000",
+        "price": 20999.0,
+        "model": "8MWTW-1713MJQ"
+      },
+      {
+        "store": "walmart",
+        "name": "COMBO LAVADORA WHIRLPOOL 8MWTW-1813MJM + LICUADORA BLENDER PREMIUM TB201LAA.",
+        "url": "https://www.walmart.com.mx/ip/combo-lavadora-whirlpool-8mwtw-1813mjm-licuadora-blender-premium-tb201laa-/00046535981624?athbdg=L6000",
+        "price": 14009.0,
+        "model": "8MWTW-1813MJM"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora, Mini Lavadora Portátil Plegable Ultra Limpieza Lavado Y Centrifugado Combo Para Viajes A Casa",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mini-lavadora-portatil-plegable-ultra-limpieza-lavado-y-centrifugado-combo-para-viajes-a-casa/00659683482698",
+        "price": 987.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe 22 kg Blanca LMH72205CBAB0 Carga Superior",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-22-kg-blanca-lmh72205cbab0-carga-superior/00075763838154?athbdg=L1300",
+        "price": 9690.0,
+        "model": "LMH72205CBAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Mabe con 8 Programas Automáticos de 24 Kg Gris",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-mabe-con-8-programas-automaticos-de-24-kg-gris/00075763838192?athbdg=L1300",
+        "price": 25990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semi-automática 11 Kg Blanca Mabe Lmdx1123hbabO",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semi-automatica-11-kg-blanca-mabe-lmdx1123hbabo/00062535780000?athbdg=L6000",
+        "price": 6600.0,
+        "model": "Lmdx1123hbabO"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Easy LIQ1320B0 Compacta Manual 13 kg Blanca ORT EASY LAVADORA",
+        "url": "https://www.walmart.com.mx/ip/lavadora-easy-liq1320b0-compacta-manual-13-kg-blanca-ort-easy-lavadora/00505271508997?athbdg=L6000",
+        "price": 5692.0,
+        "model": "LIQ1320B0"
+      },
+      {
+        "store": "walmart",
+        "name": "Combo Mabe Lavadora 20 Kg  + Secadora 22 Kg LMA70213G47N5MSB Blanco",
+        "url": "https://www.walmart.com.mx/ip/combo-mabe-lavadora-20-kg-secadora-22-kg-lma70213g47n5msb-blanco/00075763838361?athbdg=L6000",
+        "price": 22490.0,
+        "model": "LMA70213G47N5MSB"
+      }
+    ]
+  },
+  "sams|MABESECADORALAVADORACOMBO": {
+    "ts": "2026-07-02T08:46:26.254869+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
+        "price": 36110.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung Bespoke Carga Frontal Lavado 26 kg / Secado 24 kg F-WD90F26AUDSP",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-bespoke-carga-frontal-lavado-26-kg-secado-24-kg-f-wd90f26audsp/981052265",
+        "price": 50124.95,
+        "model": "F-WD90F26AUDSP"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg WF22C6400AP/AX",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-wf22c6400ap-ax/981011469",
+        "price": 26595.95,
+        "model": "WF22C6400AP/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
+        "price": 36110.94,
+        "model": "F-WF22DV246V"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
+        "price": 25572.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG  Carga Superior 25 kg WT25MT6HK.DT25MTGK",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-carga-superior-25-kg-wt25mt6hk-dt25mtgk/981020173",
+        "price": 23992.0,
+        "model": "WT25MT6HK"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  + Secadora Carga Frontal con Pedestales 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-secadora-carga-frontal-con-pedestales-22-kg/980038899",
+        "price": 37030.55,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Estufa de Piso Mabe  a Gas + Campana 76 cm WEM7661CMPUV76",
+        "url": "https://www.sams.com.mx/ip/combo-estufa-de-piso-mabe-a-gas-campana-76-cm-wem7661cmpuv76/981014395",
+        "price": 9717.48,
+        "model": "WEM7661CMPUV76"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Carga Superior 24 kg MA516W25/C",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-carga-superior-24-kg-ma516w25-c/981052259",
+        "price": 14525.57,
+        "model": "MA516W25/C"
+      }
+    ]
+  },
+  "amazon|MABEAUTOMATICALAVADORASUPERIORCARGA": {
+    "ts": "2026-07-02T08:47:05.997547+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora 22 kg automática carga superior, Color Blanco - LMA72215WBAB1",
+        "url": "https://www.amazon.com.mx/dp/B0CGC33L6X",
+        "price": 10378.54,
+        "model": "LMA72215WBAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "MABE - Lavadora Automática Aqua Saver Green High Efficiency 24 kg Diamond Gray con Sanitizado - LMA74215WDAB1",
+        "url": "https://www.amazon.com.mx/dp/B0CNY82PX5",
+        "price": 12333.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora 20kg carga superior Xpert Eco con ciclo ropa de mascotas",
+        "url": "https://www.amazon.com.mx/dp/B0GZSZ3SSC",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática 21 kg, Blanco - LMA71214VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B07581FH9K",
+        "price": 8535.0,
+        "model": "LMA71214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea MA512W16/T Lavadora Automática Carga Superior, 16 kg, Titanium",
+        "url": "https://www.amazon.com.mx/dp/B0CWD7GC2L",
+        "price": 8199.11,
+        "model": "MA512W16/T"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Semi-Automática 11 kg Blanca Mabe - LMDX1123HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CW8187HP",
+        "price": 3460.74,
+        "model": "LMDX1123HBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool de 20kg Carga Superior Xpert System Blanca Agitador modelo 8MWTW-2024WJM",
+        "url": "https://www.amazon.com.mx/dp/B09BBF6WSP",
+        "price": 10099.0,
+        "model": "8MWTW-2024WJM"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática Aqua Saver Green 20 kg Blanca con Sanitizado - LMA70214VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B07N6PCPNX",
+        "price": 8969.0,
+        "model": "LMA70214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática 19 kg, pack of/paquete de 1, color, Blanco - LMA79113VBAB0",
+        "url": "https://www.amazon.com.mx/dp/B077C65SMZ",
+        "price": 8963.37,
+        "model": "LMA79113VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Aqua Saver Green Automática 20 kg Blanca - LMA70214CBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CGBZX76B",
+        "price": 8478.11,
+        "model": "LMA70214CBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora 18kg Carga Superior Xpert System Gris Impeller",
+        "url": "https://www.amazon.com.mx/dp/B0GXTBWBNC",
+        "price": 8299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Whirlpool 17kg Carga Superior Xpert System Blanca Agitador modelo 8MWTW-1713MJQ",
+        "url": "https://www.amazon.com.mx/dp/B088DB2PH5",
+        "price": 7244.0,
+        "model": "8MWTW-1713MJQ"
+      }
+    ]
+  },
+  "walmart|MABEAUTOMATICALAVADORASUPERIORCARGA": {
+    "ts": "2026-07-02T08:47:21.365239+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora LG 19kg Carga Superior Negra WT19MV6",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-19kg-carga-superior-negra-wt19mv6/00880899290997",
+        "price": 8390.0,
+        "model": "WT19MV6"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe Automática 20 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-automatica-20-kg-blanca/00075763838171?athbdg=L1300",
+        "price": 8790.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe Automática 18 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-automatica-18-kg-blanca/00075763837265?athbdg=L1300",
+        "price": 7390.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora LG Carga Superior 19 Kg Gris WT19DVTB",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-carga-superior-19-kg-gris-wt19dvtb/00880608427412",
+        "price": 8990.0,
+        "model": "WT19DVTB"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe LMA72215WBAB1 22 kg Automática Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lma72215wbab1-22-kg-automatica-blanca/00075763838976?athbdg=L1300",
+        "price": 11219.0,
+        "model": "LMA72215WBAB1"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Automática Mabe 19 Kg con Ciclo de Sanitizado LMA79114CBAK0 Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-mabe-19-kg-con-ciclo-de-sanitizado-lma79114cbak0-blanca/00075763838155?athbdg=L6000",
+        "price": 10290.0,
+        "model": "LMA79114CBAK0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Carga Superior LG 20 Kg WT20WT6HK Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-carga-superior-lg-20-kg-wt20wt6hk-blanca/00880609606829",
+        "price": 8390.0,
+        "model": "WT20WT6HK"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe 22 kg Blanca LMH72205CBAB0 Carga Superior",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-22-kg-blanca-lmh72205cbab0-carga-superior/00075763838154?athbdg=L1300",
+        "price": 9690.0,
+        "model": "LMH72205CBAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora automática Mabe LMA72215WDAB0 22 kg Diamond Gray",
+        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-mabe-lma72215wdab0-22-kg-diamond-gray/00075763838170?athbdg=L1300",
+        "price": 10990.0,
+        "model": "LMA72215WDAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora LG Carga Superior 19 Kg Gris WT19DV6",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-carga-superior-19-kg-gris-wt19dv6/00880899293643",
+        "price": 10990.0,
+        "model": "WT19DV6"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe Automática 16 Kg LMA76112CBAB0 Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-automatica-16-kg-lma76112cbab0-blanca/00075763897303?athbdg=L6000",
+        "price": 9790.0,
+        "model": "LMA76112CBAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora LG 22Kg Carga Frontal Silver",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-22kg-carga-frontal-silver/00880609613369",
+        "price": 19990.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MABEAUTOMATICALAVADORASUPERIORCARGA": {
+    "ts": "2026-07-02T08:48:20.179629+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Smart Fuzzy Carga Superior 20 kg Negra WT5i2023DB",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-smart-fuzzy-carga-superior-20-kg-negra-wt5i2023db/981037020",
+        "price": 11526.14,
+        "model": "WT5i2023DB"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Semiautomática Doble Tina Carga Superior 20 kg WSA2001P",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-semiautomatica-doble-tina-carga-superior-20-kg-wsa2001p/981036560",
+        "price": 7451.53,
+        "model": "WSA2001P"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  21 kg Carga Superior WT21VV6",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-21-kg-carga-superior-wt21vv6/981007380",
+        "price": 12171.65,
+        "model": "WT21VV6"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  Carga Superior 21 kg WT21MT6HKA",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-carga-superior-21-kg-wt21mt6hka/981040586",
+        "price": 12633.03,
+        "model": "WT21MT6HKA"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG 19 kg Carga Superior WT19DV6",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-19-kg-carga-superior-wt19dv6/981007379",
+        "price": 8585.02,
+        "model": "WT19DV6"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  Carga Superior 18 kg WP18GAR",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-carga-superior-18-kg-wp18gar/981041405",
+        "price": 8181.95,
+        "model": "WP18GAR"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Samsung  Carga Superior 25 kg Negro WA25DG5505AVAX",
+        "url": "https://www.sams.com.mx/ip/lavadora-samsung-carga-superior-25-kg-negro-wa25dg5505avax/981036216",
+        "price": 16678.99,
+        "model": "WA25DG5505AVAX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  25 Kg Carga Superior Middle BlackWT25MT6HK",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-25-kg-carga-superior-middle-blackwt25mt6hk/981017222",
+        "price": 13188.52,
+        "model": "BlackWT25MT6HK"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Carga Superior 24 kg MA516W25/C",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-carga-superior-24-kg-ma516w25-c/981052259",
+        "price": 14525.57,
+        "model": "MA516W25/C"
+      }
+    ]
+  },
+  "amazon|UN50U8500HFXZX": {
+    "ts": "2026-07-02T08:48:31.009405+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 50\" Pulgadas Crystal UHD UN50U8500HFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GX2VY759",
+        "price": 6999.0,
+        "model": "UN50U8500HFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Televisión Pantalla 43\" Smart TV 4K UHD Mod. UN-43U8000 + Crystal 50\" UN50U8500HFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y97KY1",
+        "price": 11928.0,
+        "model": "UN50U8500HFXZX"
+      }
+    ]
+  },
+  "walmart|UN50U8500HFXZX": {
+    "ts": "2026-07-02T08:48:43.082300+00:00",
+    "items": []
+  },
+  "sams|UN50U8500HFXZX": {
+    "ts": "2026-07-02T08:48:51.907955+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  58\" UHD Smart TV UN58U8200HFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-smart-tv-un58u8200hfxzx/981052403",
+        "price": 9662.24,
+        "model": "UN58U8200HFXZX"
+      }
+    ]
+  },
+  "amazon|MABEREFRIGERADORDUPLEX": {
+    "ts": "2026-07-02T08:48:55.137544+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe Refrigerador 26\" Duplex Black Steel, 26 pies",
+        "url": "https://www.amazon.com.mx/dp/B09GL8Y8X7",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador 400 l (15 pies), Matte Inox - RMS400IVMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0CH1FF7DR",
+        "price": 10044.0,
+        "model": "RMS400IVMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador 300 L (11 pies), Matte Inox - RMA300FJMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0CH1GLW42",
+        "price": 9199.0,
+        "model": "RMA300FJMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe -Refrigerador Manual 210 L Inox Mate - RMA210PYMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0D6PTNTZN",
+        "price": 5459.56,
+        "model": "RMA210PYMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador Automático 360 L Black Stainless Steel - RME360FDMRP0",
+        "url": "https://www.amazon.com.mx/dp/B08WS21HCQ",
+        "price": 11999.0,
+        "model": "RME360FDMRP0"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Dúplex Samsung 27 pies tecnología inverter y tecnología no frost RS27T5200B1/EM",
+        "url": "https://www.amazon.com.mx/dp/B0CHGJ4F11",
+        "price": 33000.0,
+        "model": "RS27T5200B1/EM"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Automático Midea Side By Side Inverter Quattro Bru Steel 17 Pies Cúbicos con Wifi",
+        "url": "https://www.amazon.com.mx/dp/B0DWCLSTZD",
+        "price": 16676.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KOZHOM [Actualizado] W11130202 Estante de vidrio gelador, estante de vidrio refrigerador (superior) refrigeradores de hidromasaje, 11.7 x 11.4', reemplaza W10773886, W10527848, WPW10527848",
+        "url": "https://www.amazon.com.mx/dp/B0CMHL983J",
+        "price": 596.32,
+        "model": "WPW10527848"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Bottom Freezer 520 L Black Stainless Steel Mabe - RMB520IBMRP1",
+        "url": "https://www.amazon.com.mx/dp/B0CW84D9B1",
+        "price": 26999.0,
+        "model": "RMB520IBMRP1"
+      },
+      {
+        "store": "amazon",
+        "name": "Lurrose Estante para Refrigerador de Vidrio Templado Fácil Instalación y Limpieza, Separador para Congelador y Contenedores de Alimentos en Cocina y Hogar",
+        "url": "https://www.amazon.com.mx/dp/B0H56M1GVL",
+        "price": 512.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MABEREFRIGERADORDUPLEX": {
+    "ts": "2026-07-02T08:49:29.174702+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe 10 Pies RMA250PVMRM0 Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-10-pies-rma250pvmrm0-inox/00075763837091",
+        "price": 7599.0,
+        "model": "RMA250PVMRM0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe 19 Pies Inox Mate con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-19-pies-inox-mate-con-despachador/00075763837104?athbdg=L1300",
+        "price": 13399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 14 Pies Mabe con Despachador Black Mate",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-14-pies-mabe-con-despachador-black-mate/00075763837444?athbdg=L1600",
+        "price": 9490.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático 10 pies Mabe Top Mount con Despachador de Agua Mabe RMA250FYMRX0 Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-10-pies-mabe-top-mount-con-despachador-de-agua-mabe-rma250fymrx0-inox/00075763835315",
+        "price": 7899.0,
+        "model": "RMA250FYMRX0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe 10 Pies RMA250PVMRM0 Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-10-pies-rma250pvmrm0-inox/00075763837091?athbdg=L1300",
+        "price": 7599.0,
+        "model": "RMA250PVMRM0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726?athbdg=L1300",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Duplex 16 Pies Inox MSM480LKLSS0",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-duplex-16-pies-inox-msm480lklss0/00075763843253?athbdg=L1300",
+        "price": 13490.0,
+        "model": "MSM480LKLSS0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe 10 Pies Black con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-10-pies-black-con-despachador/00075763837694?athbdg=L1300",
+        "price": 8190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 11 pies (300 L)",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-11-pies-300-l-/00075763837096",
+        "price": 8099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 14 Pies Mabe con Despachador Silver",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-14-pies-mabe-con-despachador-silver/00075763837435?athbdg=L6000",
+        "price": 12990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático 14 pies  360 L Inox Mate Mabe - RME360FGMRM0",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-14-pies-360-l-inox-mate-mabe-rme360fgmrm0/00075763837414",
+        "price": 10299.0,
+        "model": "RME360FGMRM0"
+      }
+    ]
+  },
+  "sams|MABEREFRIGERADORDUPLEX": {
+    "ts": "2026-07-02T08:49:47.266659+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador Hisense  20 Pies Cúbicos Duplex Inox RS20N6WCX",
+        "url": "https://www.sams.com.mx/ip/refrigerador-hisense-20-pies-cubicos-duplex-inox-rs20n6wcx/981036561",
+        "price": 16550.09,
+        "model": "RS20N6WCX"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  27 Pies Cúbicos Dúplex Digital Inverter",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-27-pies-cubicos-duplex-digital-inverter/980017937",
+        "price": 21481.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  31.5 Pies Cúbicos French Door Negro RF32CG5N10B1EM",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-31-5-pies-cubicos-french-door-negro-rf32cg5n10b1em/981012034",
+        "price": 21378.65,
+        "model": "RF32CG5N10B1EM"
+      },
+      {
+        "store": "sams",
+        "name": "Enfriador de Bebidas Igloo  IMBC41FNSS",
+        "url": "https://www.sams.com.mx/ip/enfriador-de-bebidas-igloo-imbc41fnss/981040418",
+        "price": 6340.55,
+        "model": "IMBC41FNSS"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  32 Pies Cúbicos French Door GM90KIP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-32-pies-cubicos-french-door-gm90kip/981040601",
+        "price": 25572.95,
+        "model": "GM90KIP"
+      },
+      {
+        "store": "sams",
+        "name": "Frigobar Igloo  4.7 Pies Cúbicos Acabado Espejo IGLRF47DDMRGRY",
+        "url": "https://www.sams.com.mx/ip/frigobar-igloo-4-7-pies-cubicos-acabado-espejo-iglrf47ddmrgry/980040062",
+        "price": 6948.22,
+        "model": "IGLRF47DDMRGRY"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  25 Pies Cúbicos French Door GM25BPT",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-25-pies-cubicos-french-door-gm25bpt/981026384",
+        "price": 21480.95,
+        "model": "GM25BPT"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung 25 Pies Cúbicos French Door RF25C5151S9/EM",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-25-pies-cubicos-french-door-rf25c5151s9-em/981006771",
+        "price": 20518.31,
+        "model": "RF25C5151S9/EM"
+      },
+      {
+        "store": "sams",
+        "name": "Congelador Horizontal Hisense  Inverter 9 Pies Cúbicos/240 L Blanco",
+        "url": "https://www.sams.com.mx/ip/congelador-horizontal-hisense-inverter-9-pies-cubicos-240-l-blanco/980037493",
+        "price": 8773.25,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Congelador Horizontal Hisense  15 Pies Cúbicos",
+        "url": "https://www.sams.com.mx/ip/congelador-horizontal-hisense-15-pies-cubicos/980013812",
+        "price": 11354.28,
+        "model": null
+      }
+    ]
+  },
+  "amazon|MABESUPERIORCENTROLAVADOCARGA": {
+    "ts": "2026-07-02T08:49:49.191639+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "MABE Válvula De Llenado para Centro de Lavado | Original de fábrica | 189D5366P001 | Compatible con GE, Easy | Válvula De Llenado Centro De Lavado Mabe Ge Easy Original | 189D5366P003",
+        "url": "https://www.amazon.com.mx/dp/B0DTMFPNW9",
+        "price": 313.0,
+        "model": "189D5366P001"
+      },
+      {
+        "store": "amazon",
+        "name": "Transmisión Sola Centro De Lavado Para Easy Mabe",
+        "url": "https://www.amazon.com.mx/dp/B0C8WVZ7GL",
+        "price": 1576.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática Aqua Saver Green High Efficiency 20 kg Blanca con Sanitizado - LMH70211WBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CN1SJ14W",
+        "price": 15004.64,
+        "model": "LMH70211WBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Poste Flecha Ensamble Para Centro De Lavado 189d5234g003",
+        "url": "https://www.amazon.com.mx/dp/B0C7J5TRHN",
+        "price": 385.0,
+        "model": "189d5234g003"
+      }
+    ]
+  },
+  "walmart|MABESUPERIORCENTROLAVADOCARGA": {
+    "ts": "2026-07-02T08:50:00.821860+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Aire Acondicionado Mini Split On Off 12000 BTU's 220 V MMT12CDBWCA32BM1 Solo Frío",
+        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-mini-split-on-off-12000-btu-s-220-v-mmt12cdbwca32bm1-solo-frio/00075763842848",
+        "price": 5190.0,
+        "model": "MMT12CDBWCA32BM1"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Mabe 8 Programas Automáticos de 24 Kg Blanco",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-mabe-8-programas-automaticos-de-24-kg-blanco/00075763838189?athbdg=L1300",
+        "price": 23599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Whirlpool 20 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-whirlpool-20-kg-blanca/00088304944901?athbdg=L1300",
+        "price": 25699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Aire Acondicionado Mini Split Mabe On Off 12,000 BTU's 110 V MMT12HABWCA32BM1 Frío Calor",
+        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-mini-split-mabe-on-off-12-000-btu-s-110-v-mmt12habwca32bm1-frio-calor/00075763842847",
+        "price": 6190.0,
+        "model": "MMT12HABWCA32BM1"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Whirlpool 20 kg Blanco Eléctrico",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-whirlpool-20-kg-blanco-electrico/00088304944900?athbdg=L6000",
+        "price": 32290.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MABESUPERIORCENTROLAVADOCARGA": {
+    "ts": "2026-07-02T08:50:18.637274+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Carga Frontal 16 kg Lavado/8 kg Secado WD16MG2S6P",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-16-kg-lavado-8-kg-secado-wd16mg2s6p/981002952",
+        "price": 15950.62,
+        "model": "WD16MG2S6P"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  20 kg Lavado/11 kg Secado Carga Frontal WD20VV2S6R",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-20-kg-lavado-11-kg-secado-carga-frontal-wd20vv2s6r/981000504",
+        "price": 18411.95,
+        "model": "WD20VV2S6R"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Carga Frontal 14 kg Lavado/7 kg Secado WD14VV3S6C",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-14-kg-lavado-7-kg-secado-wd14vv3s6c/981028259",
+        "price": 13808.45,
+        "model": "WD14VV3S6C"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Hisense  Carga Frontal 16 kg Lavado/10 kg Secado WD5S1645BT",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-hisense-carga-frontal-16-kg-lavado-10-kg-secado-wd5s1645bt/981028433",
+        "price": 13273.43,
+        "model": "WD5S1645BT"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
+        "price": 22199.1,
+        "model": "WD22T6300GP/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  25 Kg Carga Superior Middle BlackWT25MT6HK",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-25-kg-carga-superior-middle-blackwt25mt6hk/981017222",
+        "price": 13188.52,
+        "model": "BlackWT25MT6HK"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
+        "price": 36110.94,
+        "model": "F-WF22DV246V"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Samsung  21 kg Carga Superior Negro WA21A3344GV/AX",
+        "url": "https://www.sams.com.mx/ip/lavadora-samsung-21-kg-carga-superior-negro-wa21a3344gv-ax/981000639",
+        "price": 10433.58,
+        "model": "WA21A3344GV/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG  Carga Superior 25 kg WT25MT6HK.DT25MTGK",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-carga-superior-25-kg-wt25mt6hk-dt25mtgk/981020173",
+        "price": 23992.0,
+        "model": "WT25MT6HK"
+      }
+    ]
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-02T08:50:21.718768+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A16 4GB 128GB Gris",
+        "url": "https://www.amazon.com.mx/dp/B0DRYZR33L",
+        "price": 2599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy A36 5g 256Gb 8Ram Black",
+        "url": "https://www.amazon.com.mx/dp/B0F1GHDC44",
+        "price": 5344.0,
+        "model": "256Gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy-A17 Black 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLL9MGZG",
+        "price": 3249.0,
+        "model": "Galaxy-A17"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy-A07 Light Violet 64GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLM3PRWJ",
+        "price": 1875.0,
+        "model": "Galaxy-A07"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A07 4+128GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FT79FM8D",
+        "price": 2103.0,
+        "model": "4+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Celular Galaxy A36 5G Negro 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0DXRBZPY3",
+        "price": 4499.4,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S22+ 5G 128GB 8GB RAM desbloqueado de fábrica (solo (GSM | Sin CDMA - no compatible con Verizon/Sprint) versión global - Phantom Black (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0B5HPSJQC",
+        "price": 4237.41,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Teléfono Inteligente Galaxy S22, teléfono Celular Android Desbloqueado de fábrica, 256 GB, cámara y Video 8K, procesador rápido de 4 NM, Phantom Black (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09VX9S6F9",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Lila 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKCMVDM",
+        "price": 7299.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Azul Marino 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKL2R28",
+        "price": 7399.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A16 4GB 128GB Verde Claro",
+        "url": "https://www.amazon.com.mx/dp/B0DRZ2J5FL",
+        "price": 2599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A37 5G Lavanda 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKY5LG8",
+        "price": 6289.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-02T08:50:33.716043+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A57 5G Gris 256GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a57-5g-gris-256gb-desbloqueado/00880609905041",
+        "price": 7499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Samsung Galaxy A56 256Gb+8Gb RAM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/celular-samsung-galaxy-a56-256gb-8gb-ram-negro-desbloqueado/00880609705562",
+        "price": 7999.0,
+        "model": "256Gb+8Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-128gb-negro-desbloqueado/00880609749088?athbdg=L1300",
+        "price": 4949.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A57 5G Violeta 256GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a57-5g-violeta-256gb-desbloqueado/00880609905033",
+        "price": 7499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A07 4GB 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a07-4gb-128gb-negro-desbloqueado/00880609765220?athbdg=L1300",
+        "price": 2349.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Black 128GB , 6GB RAM Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-black-128gb-6gb-ram-dual-sim-desbloqueado/00880609766722?athbdg=L1300",
+        "price": 3669.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A57 5G Azul Oscuro 256GB Desbloquado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a57-5g-azul-oscuro-256gb-desbloquado/00880609905058",
+        "price": 7499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A16 4GB RAM 128GB ROM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4gb-ram-128gb-rom-negro-desbloqueado/00880609582072?athbdg=L6000",
+        "price": 2899.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A37 5G Gris 256GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a37-5g-gris-256gb-desbloqueado/00880609905374?athbdg=L1300",
+        "price": 6599.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-negro-desbloqueado/00880609708866?athbdg=L1300",
+        "price": 5759.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A57 5G Gris 256GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a57-5g-gris-256gb-desbloqueado/00880609905041?athbdg=L1300",
+        "price": 7499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043?athbdg=L1300",
+        "price": 4299.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-02T08:50:39.696618+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A17 128 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-black-desbloqueado/981041127",
+        "price": 3681.78,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
+        "price": 2300.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26 256 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-256-gb-black-desbloqueado/981050355",
+        "price": 20714.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26+ 512 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-512-gb-black-desbloqueado/981050360",
+        "price": 29154.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26 Ultra 512 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-512-gb-black-desbloqueado/981050320",
+        "price": 30382.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26 Ultra 1 TB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-1-tb-black-desbloqueado/981050605",
+        "price": 38872.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy Z Fold7 512 GB Jet Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-z-fold7-512-gb-jet-black-desbloqueado/981039457",
+        "price": 42351.18,
+        "model": "Fold7"
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 FE 128 GB Jet Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-fe-128-gb-jet-black-desbloqueado/981042055",
+        "price": 10097.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Jet Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-jet-black-desbloqueado/981037721",
+        "price": 18412.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
+        "price": 17385.89,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
+        "price": 16060.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
+        "price": 17385.89,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RMF0411PYMX0R": {
+    "ts": "2026-07-02T08:50:43.664949+00:00",
+    "items": []
+  },
+  "walmart|RMF0411PYMX0R": {
+    "ts": "2026-07-02T08:51:06.984574+00:00",
+    "items": []
+  },
+  "sams|RMF0411PYMX0R": {
+    "ts": "2026-07-02T08:51:23.266456+00:00",
+    "items": []
+  },
+  "amazon|MABESECADORAFRONTALBLANCAENERGY": {
+    "ts": "2026-07-02T08:51:26.364879+00:00",
+    "items": []
+  },
+  "walmart|MABESECADORAFRONTALBLANCAENERGY": {
+    "ts": "2026-07-02T08:51:54.476398+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe Gas 24 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-gas-24-kg-blanca/00075763897066",
+        "price": 12699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 20  kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600",
+        "price": 10449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 22 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-22-kg-blanca/00075763835945?athbdg=L6000",
+        "price": 14990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora de gas Midea Sensor Dry 23Kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-de-gas-midea-sensor-dry-23kg-blanca/00694587834985",
+        "price": 12499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MABESECADORAFRONTALBLANCAENERGY": {
+    "ts": "2026-07-02T08:52:06.049113+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora LG  + Secadora Carga Frontal con Pedestales 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-secadora-carga-frontal-con-pedestales-22-kg/980038899",
+        "price": 37030.55,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Secadora a Gas Whirlpool 28 kg Carga Frontal Gris",
+        "url": "https://www.sams.com.mx/ip/secadora-a-gas-whirlpool-28-kg-carga-frontal-gris/980031010",
+        "price": 18412.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
+        "price": 36110.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung Bespoke Carga Frontal Lavado 26 kg / Secado 24 kg F-WD90F26AUDSP",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-bespoke-carga-frontal-lavado-26-kg-secado-24-kg-f-wd90f26audsp/981052265",
+        "price": 50124.95,
+        "model": "F-WD90F26AUDSP"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg WF22C6400AP/AX",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-wf22c6400ap-ax/981011469",
+        "price": 26595.95,
+        "model": "WF22C6400AP/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
+        "price": 36110.94,
+        "model": "F-WF22DV246V"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
+        "price": 25572.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Midea  Carga Superior 24 kg MA516W25/C",
+        "url": "https://www.sams.com.mx/ip/lavadora-midea-carga-superior-24-kg-ma516w25-c/981052259",
+        "price": 14525.57,
+        "model": "MA516W25/C"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Carga Superior Xpert System 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-xpert-system-22-kg/980017566",
+        "price": 13297.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Inverter Carga Frontal 12 kg Lavado/7 kg Secado WD12VVC4S6S",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-inverter-carga-frontal-12-kg-lavado-7-kg-secado-wd12vvc4s6s/980018037",
+        "price": 12267.82,
+        "model": "WD12VVC4S6S"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  21 kg Carga Superior WT21VV6",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-21-kg-carga-superior-wt21vv6/981007380",
+        "price": 12171.65,
+        "model": "WT21VV6"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
+        "price": 25062.48,
+        "model": "MCL2340PSDG0"
+      }
+    ]
+  },
+  "amazon|MABESUPERIORSECADORALAVADORADIAMOND": {
+    "ts": "2026-07-02T08:52:14.518360+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 24kg LMH74201WDAB1 Diamond Afelpada Impermeable con Cierre 111x69x66cm Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GQXSYHMC",
+        "price": 426.0,
+        "model": "LMH74201WDAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora a Gas LP 7.2 cu.ft. (22 kg) Diamond Gray - SMG47N8MSDAB0",
+        "url": "https://www.amazon.com.mx/dp/B09X6MVXWZ",
+        "price": 11544.0,
+        "model": "SMG47N8MSDAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 20kg LMA70200WDAB1 Diamond Grey Afelpada Impermeable con Cierre 111x69x66cm",
+        "url": "https://www.amazon.com.mx/dp/B0GQXPRFGK",
+        "price": 426.0,
+        "model": "LMA70200WDAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "Supplying Demand WH2X1199 279137 - Lavadora de ropa, montaje de bañera plana de repuesto",
+        "url": "https://www.amazon.com.mx/dp/B0B2FY5V2W",
+        "price": 371.93,
+        "model": "WH2X1199"
+      }
+    ]
+  },
+  "walmart|MABESUPERIORSECADORALAVADORADIAMOND": {
+    "ts": "2026-07-02T08:52:20.952080+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Torre de Lavado LG Lavadora y Secadora 22 Kg Blanca WK22WS6P Carga Frontal",
+        "url": "https://www.walmart.com.mx/ip/torre-de-lavado-lg-lavadora-y-secadora-22-kg-blanca-wk22ws6p-carga-frontal/00880609166242",
+        "price": 36990.0,
+        "model": "WK22WS6P"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe Gas 22 Kg Diamond Gray",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-gas-22-kg-diamond-gray/00075763837189?athbdg=L6000",
+        "price": 15190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora a Gas LP Diamond Gray Mabe SMG17R8MSDAB0 Mabe SMG17R8MSDAB0",
+        "url": "https://www.walmart.com.mx/ip/secadora-a-gas-lp-diamond-gray-mabe-smg17r8msdab0-mabe-smg17r8msdab0/00075763897077?athbdg=L1300",
+        "price": 13899.0,
+        "model": "SMG17R8MSDAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 22/13kg Carga Frontal Silver",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-22-13kg-carga-frontal-silver/00880609146553",
+        "price": 24490.0,
+        "model": "22/13kg"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora automática Mabe LMA72215WDAB0 22 kg Diamond Gray",
+        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-mabe-lma72215wdab0-22-kg-diamond-gray/00075763838170?athbdg=L1300",
+        "price": 10990.0,
+        "model": "LMA72215WDAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Automática Aqua Saver Green High Efficiency 22 kg Diamond Gray con Sanitizado Mabe - LMH72211WDAB0",
+        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-aqua-saver-green-high-efficiency-22-kg-diamond-gray-con-sanitizado-mabe-lmh72211wdab0/00075763838365?athbdg=L1300",
+        "price": 12999.0,
+        "model": "LMH72211WDAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe Gas 24 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-gas-24-kg-blanca/00075763897066",
+        "price": 12699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe 22 kg Blanca LMH72205CBAB0 Carga Superior",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-22-kg-blanca-lmh72205cbab0-carga-superior/00075763838154?athbdg=L1300",
+        "price": 9690.0,
+        "model": "LMH72205CBAB0"
+      }
+    ]
+  },
+  "sams|MABESUPERIORSECADORALAVADORADIAMOND": {
+    "ts": "2026-07-02T08:52:42.289416+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Smart Fuzzy Carga Superior 20 kg Negra WT5i2023DB",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-smart-fuzzy-carga-superior-20-kg-negra-wt5i2023db/981037020",
+        "price": 11526.14,
+        "model": "WT5i2023DB"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Hisense  Semiautomática Doble Tina Carga Superior 20 kg WSA2001P",
+        "url": "https://www.sams.com.mx/ip/lavadora-hisense-semiautomatica-doble-tina-carga-superior-20-kg-wsa2001p/981036560",
+        "price": 7451.53,
+        "model": "WSA2001P"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG  Carga Superior 25 kg WT25MT6HK.DT25MTGK",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-carga-superior-25-kg-wt25mt6hk-dt25mtgk/981020173",
+        "price": 23992.0,
+        "model": "WT25MT6HK"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung Bespoke Carga Frontal Lavado 26 kg / Secado 24 kg F-WD90F26AUDSP",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-bespoke-carga-frontal-lavado-26-kg-secado-24-kg-f-wd90f26audsp/981052265",
+        "price": 50124.95,
+        "model": "F-WD90F26AUDSP"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
+        "price": 36110.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
+        "price": 36110.94,
+        "model": "F-WF22DV246V"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
+        "price": 25572.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
+        "price": 25062.48,
+        "model": "MCL2340PSDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  21 kg Carga Superior WT21VV6",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-21-kg-carga-superior-wt21vv6/981007380",
+        "price": 12171.65,
+        "model": "WT21VV6"
+      }
+    ]
+  },
+  "amazon|PWN22JEWCDS": {
+    "ts": "2026-07-02T08:52:45.248445+00:00",
+    "items": []
+  },
+  "walmart|PWN22JEWCDS": {
+    "ts": "2026-07-02T08:52:54.754262+00:00",
+    "items": []
+  },
+  "sams|PWN22JEWCDS": {
+    "ts": "2026-07-02T08:53:03.856591+00:00",
+    "items": []
+  },
+  "amazon|MABESECADORADIAMONDMABE": {
+    "ts": "2026-07-02T08:53:08.864816+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora a Gas LP 7.2 cu.ft. (22 kg) Diamond Gray - SMG47N8MSDAB0",
+        "url": "https://www.amazon.com.mx/dp/B09X6MVXWZ",
+        "price": 11544.0,
+        "model": "SMG47N8MSDAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora Gas 6.2 Cuft, color Blanco - SMG26N5MNBAB0",
+        "url": "https://www.amazon.com.mx/dp/B01N2T9Y9S",
+        "price": 8094.0,
+        "model": "SMG26N5MNBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora Gas 7.2 Cuft, color Blanco - SMG47N8MSBAB0",
+        "url": "https://www.amazon.com.mx/dp/B01MRWS489",
+        "price": 9798.33,
+        "model": "SMG47N8MSBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 24kg LMH74201WDAB1 Diamond Afelpada Impermeable con Cierre 111x69x66cm Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GQXSYHMC",
+        "price": 426.0,
+        "model": "LMH74201WDAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Secadora a Gas 7.2 cu. ft. (25 kg) con Tecnología UV Protection, Diamond Gray - DMG17R8MSDAB2",
+        "url": "https://www.amazon.com.mx/dp/B0CGVLNKZF",
+        "price": 15355.76,
+        "model": "DMG17R8MSDAB2"
+      },
+      {
+        "store": "amazon",
+        "name": "Jaladera o manija para secadora y centro de lavado Mabe GE blanca 22 cm original",
+        "url": "https://www.amazon.com.mx/dp/B0C3QCJVRX",
+        "price": 245.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe Secadora Gas LP 6.2cu.ft + Lavadora Automática 20kg Aqua Saver Green",
+        "url": "https://www.amazon.com.mx/dp/B0G4NL6P8K",
+        "price": 17063.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Koblenz SCK-55 Secadora Centrifuga",
+        "url": "https://www.amazon.com.mx/dp/B00K0ASD6S",
+        "price": 2315.0,
+        "model": "SCK-55"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 20kg LMA70200WDAB1 Diamond Grey Afelpada Impermeable con Cierre 111x69x66cm",
+        "url": "https://www.amazon.com.mx/dp/B0GQXPRFGK",
+        "price": 426.0,
+        "model": "LMA70200WDAB1"
+      },
+      {
+        "store": "amazon",
+        "name": "Revlon Secadora con Tecnología Iónica y Turmalina, Plata",
+        "url": "https://www.amazon.com.mx/dp/B08HHW5PVS",
+        "price": 555.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe. Secadora Gas SMG47N8MSBAB0 7.2ft³ + Lavadora LMA71214VBAB0 21kg, Electrodomésticos Grandes Blancos",
+        "url": "https://www.amazon.com.mx/dp/B0F6H3J2FT",
+        "price": 18333.33,
+        "model": "SMG47N8MSBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Revlon Secadora de Cabello Salon con Tecnología Titanio 1875W con Difusor y Concentrador",
+        "url": "https://www.amazon.com.mx/dp/B07WC1F6QZ",
+        "price": 716.0,
+        "model": "1875W"
+      }
+    ]
+  },
+  "walmart|MABESECADORADIAMONDMABE": {
+    "ts": "2026-07-02T08:53:18.526494+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 20  kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600",
+        "price": 10790.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 20 kg Blanca SME26N5MNBBT0 Eléctrica Carga Superior",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca-sme26n5mnbbt0-electrica-carga-superior/00075763842752?athbdg=L1300",
+        "price": 8390.0,
+        "model": "SME26N5MNBBT0"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe Gas 22 Kg Diamond Gray",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-gas-22-kg-diamond-gray/00075763837189?athbdg=L6000",
+        "price": 15190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora a Gas LP Diamond Gray Mabe SMG17R8MSDAB0 Mabe SMG17R8MSDAB0",
+        "url": "https://www.walmart.com.mx/ip/secadora-a-gas-lp-diamond-gray-mabe-smg17r8msdab0-mabe-smg17r8msdab0/00075763897077?athbdg=L1300",
+        "price": 13899.0,
+        "model": "SMG17R8MSDAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora a Gas Mabe 7.2 cu.ft Blanca SMG47N8MSBAB0",
+        "url": "https://www.walmart.com.mx/ip/secadora-a-gas-mabe-7-2-cu-ft-blanca-smg47n8msbab0/00075763897052?athbdg=L1300",
+        "price": 11699.0,
+        "model": "SMG47N8MSBAB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 22 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-22-kg-blanca/00075763835945?athbdg=L6000",
+        "price": 14990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe Gas 24 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-gas-24-kg-blanca/00075763897066?athbdg=L1300",
+        "price": 12699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora a Gas Natural 7.2 cu.ft. Blanca GE Appliances Mabe  SGN47N5XSSAB0 Gas Natural",
+        "url": "https://www.walmart.com.mx/ip/secadora-a-gas-natural-7-2-cu-ft-blanca-ge-appliances-mabe-sgn47n5xssab0-gas-natural/00075763897160?athbdg=L1300",
+        "price": 11099.0,
+        "model": "SGN47N5XSSAB0"
+      }
+    ]
+  },
+  "sams|MABESECADORADIAMONDMABE": {
+    "ts": "2026-07-02T08:53:25.670068+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
+        "price": 25062.48,
+        "model": "MCL2340PSDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  Eléctrico Premium 24 kg Diamond Gray MCL2440EPDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-electrico-premium-24-kg-diamond-gray-mcl2440epdg0/981024865",
+        "price": 31200.48,
+        "model": "MCL2440EPDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Estufa MABE mabe Piso 30 Pulgadas WEMA7657CSISN0 Negra",
+        "url": "https://www.sams.com.mx/ip/estufa-mabe-mabe-piso-30-pulgadas-wema7657csisn0-negra/981054389",
+        "price": 12274.98,
+        "model": "WEMA7657CSISN0"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Estufa de Piso Mabe  a Gas + Campana 76 cm WEM7661CMPUV76",
+        "url": "https://www.sams.com.mx/ip/combo-estufa-de-piso-mabe-a-gas-campana-76-cm-wem7661cmpuv76/981014395",
+        "price": 9717.48,
+        "model": "WEM7661CMPUV76"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Horno de Microondas Mabe  1.1 Pies Cúbicos Rose Gold HMM11RPO",
+        "url": "https://www.sams.com.mx/ip/horno-de-microondas-mabe-1-1-pies-cubicos-rose-gold-hmm11rpo/981039758",
+        "price": 2454.18,
+        "model": "HMM11RPO"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Duplex Mabe  24 Pies Cúbicos HFM410LPLSS0",
+        "url": "https://www.sams.com.mx/ip/refrigerador-duplex-mabe-24-pies-cubicos-hfm410lplss0/981046809",
+        "price": 23425.68,
+        "model": "HFM410LPLSS0"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Mabe  19 Pies Cúbicos Bottom Mount Inox RMB520IBMRX1",
+        "url": "https://www.sams.com.mx/ip/refrigerador-mabe-19-pies-cubicos-bottom-mount-inox-rmb520ibmrx1/981040324",
+        "price": 17083.08,
+        "model": "RMB520IBMRX1"
+      },
+      {
+        "store": "sams",
+        "name": "Horno de Microondas Mabe  Silver Acabado Espejo 1.5 Pies Cúbicos",
+        "url": "https://www.sams.com.mx/ip/horno-de-microondas-mabe-silver-acabado-espejo-1-5-pies-cubicos/981034096",
+        "price": 3067.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Estufa de Piso Mabe  76 cm Black Slate 6 Quemadores EMH7613DBS0",
+        "url": "https://www.sams.com.mx/ip/estufa-de-piso-mabe-76-cm-black-slate-6-quemadores-emh7613dbs0/981034097",
+        "price": 18412.98,
+        "model": "EMH7613DBS0"
+      },
+      {
+        "store": "sams",
+        "name": "Frigobar Mabe  4 Pies Cúbicos 1 Puerta Dark Silver RMF0411YMXS1",
+        "url": "https://www.sams.com.mx/ip/frigobar-mabe-4-pies-cubicos-1-puerta-dark-silver-rmf0411ymxs1/981024863",
+        "price": 5625.47,
+        "model": "RMF0411YMXS1"
+      }
+    ]
+  },
+  "amazon|MABEREFRIGERADORBOTTOMMOUNT300": {
+    "ts": "2026-07-02T08:53:28.029047+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense RT11N6WCX-Refrigerador Top mount, 11 pies cúbicos con Dispensador de Agua, No Frost, Control Electrónico, hacer hielo, 60x65x170cm(AnchoxLargoxAlto), Gris",
+        "url": "https://www.amazon.com.mx/dp/B0DHZBRVGH",
+        "price": 8999.0,
+        "model": "RT11N6WCX-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RB15N6FBX1-Refrigerador Bottom mount, 15 pies cúbicos, Control digital táctil, Eco Inverter, No Frost, Fábrica de hielos , 79x68x176cm(AnchoxLargoxAlto), Negro",
+        "url": "https://www.amazon.com.mx/dp/B0D6SWZCQ2",
+        "price": 14499.0,
+        "model": "RB15N6FBX1-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador Bottom Freezer, Negro Ecopet, 300 L - RMB300IZMRP0",
+        "url": "https://www.amazon.com.mx/dp/B0BYMGNYRL",
+        "price": 11553.0,
+        "model": "RMB300IZMRP0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador Automático 300 L Black Stainless Steel - RMA300FXMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0FZW4W428",
+        "price": 8729.0,
+        "model": "RMA300FXMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador Automático 250 L Inox Mate Plata - RMA250FYMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0F7K92T1M",
+        "price": 8024.01,
+        "model": "RMA250FYMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RB15N6FBX1-Refrigerador Bottom mount, 15 pies cúbicos, Control digital táctil, Eco Inverter, No Frost, Fábrica de hielos , 79x68x176cm(AnchoxLargoxAlto), Negro",
+        "url": "https://www.amazon.com.mx/dp/B0D6SWZCQ2",
+        "price": 14499.0,
+        "model": "RB15N6FBX1-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe RMA250FYMRQ0 Refrigerador Automático, Plata, 250 L",
+        "url": "https://www.amazon.com.mx/dp/B0CMR29L33",
+        "price": 7810.04,
+        "model": "RMA250FYMRQ0"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea MDRB424FGM46W Refrigerador Bottom Mount Cool Flow Bru Steel 11 Píes Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DDCGWTZ9",
+        "price": 11630.9,
+        "model": "MDRB424FGM46W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RB18N6CDX1-Refrigerador Bottom mount,18 pies cúbicos,Total No Frost,Control Electrónico,Super freeze,79x68x176cm(AnchoxLargoxAlto),Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F1N8D58M",
+        "price": 19199.0,
+        "model": "RB18N6CDX1-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Whirlpool de 18 pies cúbicos Top Mount 2 puertas Gris modelo WT-1865A",
+        "url": "https://www.amazon.com.mx/dp/B01N7WQA0T",
+        "price": 17964.58,
+        "model": "WT-1865A"
+      },
+      {
+        "store": "amazon",
+        "name": "DAEWOO DFR-25210GMDX Refrigerador, color Plata",
+        "url": "https://www.amazon.com.mx/dp/B079DCY94R",
+        "price": 6449.0,
+        "model": "DFR-25210GMDX"
+      }
+    ]
+  },
+  "walmart|MABEREFRIGERADORBOTTOMMOUNT300": {
+    "ts": "2026-07-02T08:53:37.685118+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 11 Pies Mabe Bottom Mount Con Despachador de Agua RMB300IZMRP0 Negro",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-11-pies-mabe-bottom-mount-con-despachador-de-agua-rmb300izmrp0-negro/00075763837811?athbdg=L6000",
+        "price": 18999.0,
+        "model": "RMB300IZMRP0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Bottom Freezer 400l Inox Mate Mabe Rmb400ibmrm0 Mate",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-bottom-freezer-400l-inox-mate-mabe-rmb400ibmrm0-mate/00075763840128?athbdg=L1300",
+        "price": 14199.0,
+        "model": "Rmb400ibmrm0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 11 pies (300 L)",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-11-pies-300-l-/00075763837096",
+        "price": 8099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726?athbdg=L1300",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 11 pies (300 L)",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-11-pies-300-l-/00075763837096?athbdg=L1300",
+        "price": 8099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático 10 pies Mabe Top Mount con Despachador de Agua Mabe RMA250FYMRX0 Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-10-pies-mabe-top-mount-con-despachador-de-agua-mabe-rma250fymrx0-inox/00075763835315",
+        "price": 7899.0,
+        "model": "RMA250FYMRX0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 19 Pies Mabe Bottom Mount Con Smart Station RMB520IWMRP1 Black Stainless",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-19-pies-mabe-bottom-mount-con-smart-station-rmb520iwmrp1-black-stainless/00075763837804?athbdg=L1300",
+        "price": 18990.0,
+        "model": "RMB520IWMRP1"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 11 Pies Silver RMA300FXMRQ0",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-11-pies-silver-rma300fxmrq0/00075763837071",
+        "price": 11105.0,
+        "model": "RMA300FXMRQ0"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 11 Pies Mabe Top Mount Con Despachador de Agua RMA300FJMRQ0 Silver Dark",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-11-pies-mabe-top-mount-con-despachador-de-agua-rma300fjmrq0-silver-dark/00075763837072",
+        "price": 8999.0,
+        "model": "RMA300FJMRQ0"
+      }
+    ]
+  },
+  "sams|MABEREFRIGERADORBOTTOMMOUNT300": {
+    "ts": "2026-07-02T08:53:46.375023+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador Hisense 16 Pies Cúbicos Top Mount Gris",
+        "url": "https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-gris/980022245",
+        "price": 13290.82,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Mabe  19 Pies Cúbicos Bottom Mount Inox RMB520IBMRX1",
+        "url": "https://www.sams.com.mx/ip/refrigerador-mabe-19-pies-cubicos-bottom-mount-inox-rmb520ibmrx1/981040324",
+        "price": 17083.08,
+        "model": "RMB520IBMRX1"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigeradores Gemelos IO Mabe  48 Pies Cúbicos Bottom Mount GEMIDF25EYRCFS",
+        "url": "https://www.sams.com.mx/ip/refrigeradores-gemelos-io-mabe-48-pies-cubicos-bottom-mount-gemidf25eyrcfs/981036209",
+        "price": 57286.98,
+        "model": "GEMIDF25EYRCFS"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG 17 Pies Cúbicos Bottom Mount",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-17-pies-cubicos-bottom-mount/980036348",
+        "price": 17388.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Mabe  14 Pies Cúbicos Top Mount RME360FDMRM0",
+        "url": "https://www.sams.com.mx/ip/refrigerador-mabe-14-pies-cubicos-top-mount-rme360fdmrm0/981034095",
+        "price": 11149.68,
+        "model": "RME360FDMRM0"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Teka  12 Pies Cúbicos Bottom Mount Freezer NFL 346 SS",
+        "url": "https://www.sams.com.mx/ip/refrigerador-teka-12-pies-cubicos-bottom-mount-freezer-nfl-346-ss/981034860",
+        "price": 18412.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Whirlpool  Bottom Mount 16 Pies Cúbicos Xpert Inverter WRE56CKTWW",
+        "url": "https://www.sams.com.mx/ip/refrigerador-whirlpool-bottom-mount-16-pies-cubicos-xpert-inverter-wre56cktww/981033919",
+        "price": 19947.48,
+        "model": "WRE56CKTWW"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Duplex Mabe  24 Pies Cúbicos HFM410LPLSS0",
+        "url": "https://www.sams.com.mx/ip/refrigerador-duplex-mabe-24-pies-cubicos-hfm410lplss0/981046809",
+        "price": 23425.68,
+        "model": "HFM410LPLSS0"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  19 Pies Cúbicos Top Mount RT53DG6128S9EM",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-19-pies-cubicos-top-mount-rt53dg6128s9em/981042979",
+        "price": 13809.46,
+        "model": "RT53DG6128S9EM"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  14 Pies Cúbicos Top Mount",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-14-pies-cubicos-top-mount/980031008",
+        "price": 14313.82,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  14 Pies Cúbicos Top Mount",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-14-pies-cubicos-top-mount/981018672",
+        "price": 13296.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro RT16N6BDX",
+        "url": "https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023",
+        "price": 14301.54,
+        "model": "RT16N6BDX"
+      }
+    ]
+  },
+  "amazon|RMS510ICMRX0": {
+    "ts": "2026-07-02T08:53:48.378662+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Base Jaladera Manija Para Puerta Inferior De Refrigerador Mabe Sirius De 56 Cm 225d6219p005 Original (Gris Oscuro)",
+        "url": "https://www.amazon.com.mx/dp/B0CF3LDDSH",
+        "price": 299.0,
+        "model": "225d6219p005"
+      }
+    ]
+  },
+  "walmart|RMS510ICMRX0": {
+    "ts": "2026-07-02T08:54:14.155074+00:00",
+    "items": []
+  },
+  "sams|RMS510ICMRX0": {
+    "ts": "2026-07-02T08:54:20.416905+00:00",
+    "items": []
+  },
+  "amazon|MABEREFRIGERADORBOTTOMMOUNT520": {
+    "ts": "2026-07-02T08:54:23.687745+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Midea MDRB424FGM46W Refrigerador Bottom Mount Cool Flow Bru Steel 11 Píes Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DDCGWTZ9",
+        "price": 11630.9,
+        "model": "MDRB424FGM46W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RB15N6FBX1-Refrigerador Bottom mount, 15 pies cúbicos, Control digital táctil, Eco Inverter, No Frost, Fábrica de hielos , 79x68x176cm(AnchoxLargoxAlto), Negro",
+        "url": "https://www.amazon.com.mx/dp/B0D6SWZCQ2",
+        "price": 14499.0,
+        "model": "RB15N6FBX1-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador Automático 510 L Inox Mate - RMS510IBMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0CW4SYMTX",
+        "price": 13274.46,
+        "model": "RMS510IBMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RB18N6CDX1-Refrigerador Bottom mount,18 pies cúbicos,Total No Frost,Control Electrónico,Super freeze,79x68x176cm(AnchoxLargoxAlto),Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F1N8D58M",
+        "price": 19199.0,
+        "model": "RB18N6CDX1-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Whirlpool de 18 pies cúbicos Top Mount 2 puertas Gris modelo WT-1865A",
+        "url": "https://www.amazon.com.mx/dp/B01N7WQA0T",
+        "price": 17964.58,
+        "model": "WT-1865A"
+      },
+      {
+        "store": "amazon",
+        "name": "DAEWOO DFR-25210GMDX Refrigerador, color Plata",
+        "url": "https://www.amazon.com.mx/dp/B079DCY94R",
+        "price": 6449.0,
+        "model": "DFR-25210GMDX"
+      }
+    ]
+  },
+  "walmart|MABEREFRIGERADORBOTTOMMOUNT520": {
+    "ts": "2026-07-02T08:54:35.163727+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 19 Pies Mabe Bottom Mount Con Smart Station RMB520IWMRP1 Black Stainless",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-19-pies-mabe-bottom-mount-con-smart-station-rmb520iwmrp1-black-stainless/00075763837804?athbdg=L1300",
+        "price": 18990.0,
+        "model": "RMB520IWMRP1"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático Mabe 15 Pies Bottom Mount con Despachador",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-mabe-15-pies-bottom-mount-con-despachador/00075763837726?athbdg=L1300",
+        "price": 13799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 11 pies (300 L)",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-11-pies-300-l-/00075763837096",
+        "price": 8099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 11 Pies Mabe Bottom Mount Con Despachador de Agua RMB300IZMRP0 Negro",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-11-pies-mabe-bottom-mount-con-despachador-de-agua-rmb300izmrp0-negro/00075763837811?athbdg=L6000",
+        "price": 18999.0,
+        "model": "RMB300IZMRP0"
+      }
+    ]
+  },
+  "sams|MABEREFRIGERADORBOTTOMMOUNT520": {
+    "ts": "2026-07-02T08:54:46.599296+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador Hisense 16 Pies Cúbicos Top Mount Gris",
+        "url": "https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-gris/980022245",
+        "price": 13290.82,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Mabe  19 Pies Cúbicos Bottom Mount Inox RMB520IBMRX1",
+        "url": "https://www.sams.com.mx/ip/refrigerador-mabe-19-pies-cubicos-bottom-mount-inox-rmb520ibmrx1/981040324",
+        "price": 17083.08,
+        "model": "RMB520IBMRX1"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigeradores Gemelos IO Mabe  48 Pies Cúbicos Bottom Mount GEMIDF25EYRCFS",
+        "url": "https://www.sams.com.mx/ip/refrigeradores-gemelos-io-mabe-48-pies-cubicos-bottom-mount-gemidf25eyrcfs/981036209",
+        "price": 57286.98,
+        "model": "GEMIDF25EYRCFS"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Mabe  14 Pies Cúbicos Top Mount RME360FDMRM0",
+        "url": "https://www.sams.com.mx/ip/refrigerador-mabe-14-pies-cubicos-top-mount-rme360fdmrm0/981034095",
+        "price": 11149.68,
+        "model": "RME360FDMRM0"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Teka  12 Pies Cúbicos Bottom Mount Freezer NFL 346 SS",
+        "url": "https://www.sams.com.mx/ip/refrigerador-teka-12-pies-cubicos-bottom-mount-freezer-nfl-346-ss/981034860",
+        "price": 18412.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Whirlpool  Bottom Mount 16 Pies Cúbicos Xpert Inverter WRE56CKTWW",
+        "url": "https://www.sams.com.mx/ip/refrigerador-whirlpool-bottom-mount-16-pies-cubicos-xpert-inverter-wre56cktww/981033919",
+        "price": 19947.48,
+        "model": "WRE56CKTWW"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Duplex Mabe  24 Pies Cúbicos HFM410LPLSS0",
+        "url": "https://www.sams.com.mx/ip/refrigerador-duplex-mabe-24-pies-cubicos-hfm410lplss0/981046809",
+        "price": 23425.68,
+        "model": "HFM410LPLSS0"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  14 Pies Cúbicos Top Mount",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-14-pies-cubicos-top-mount/980031008",
+        "price": 14313.82,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  14 Pies Cúbicos Top Mount",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-14-pies-cubicos-top-mount/981018672",
+        "price": 13296.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador Samsung  11 Pies Cúbicos Inverter Top Mount RT31DG5724B1EM",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-11-pies-cubicos-inverter-top-mount-rt31dg5724b1em/981040497",
+        "price": 12276.0,
+        "model": "RT31DG5724B1EM"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador SAMSUNG  Top Mount 17.4 Pies RT70F18TRB1EM con Despachador Negro",
+        "url": "https://www.sams.com.mx/ip/refrigerador-samsung-top-mount-17-4-pies-rt70f18trb1em-con-despachador-negro/981054005",
+        "price": 13604.87,
+        "model": "RT70F18TRB1EM"
+      },
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  14 Pies Cúbicos Top Mount VT40SWP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-14-pies-cubicos-top-mount-vt40swp/980038922",
+        "price": 14313.82,
+        "model": "VT40SWP"
+      }
+    ]
+  },
+  "amazon|PFF25LERCDS": {
+    "ts": "2026-07-02T08:54:48.850680+00:00",
+    "items": []
+  },
+  "walmart|PFF25LERCDS": {
+    "ts": "2026-07-02T08:55:00.216960+00:00",
+    "items": []
+  },
+  "sams|PFF25LERCDS": {
+    "ts": "2026-07-02T08:55:11.289700+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador General Electric  French Door 25 Pies Cúbicos PFF25LERCDS Black Slate",
+        "url": "https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731",
+        "price": 35191.19,
+        "model": "PFF25LERCDS"
+      }
+    ]
+  },
+  "amazon|CHAC2186NXGG0": {
+    "ts": "2026-07-02T08:55:17.171495+00:00",
+    "items": []
+  },
+  "walmart|CHAC2186NXGG0": {
+    "ts": "2026-07-02T08:55:19.565347+00:00",
+    "items": []
+  },
+  "sams|CHAC2186NXGG0": {
+    "ts": "2026-07-02T08:55:32.382109+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Secado CHAC2186NXGG0",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322",
+        "price": 15139.38,
+        "model": "CHAC2186NXGG0"
+      }
+    ]
+  },
+  "amazon|MABEELECTRICOSUPERIORCENTROLAVADO": {
+    "ts": "2026-07-02T08:55:37.888465+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Centro de Lavado Mabe 24 Kilos, Gas LP, Color Blanco, Modelo MCL2440PSBB0",
+        "url": "https://www.amazon.com.mx/dp/B0FZLYWGJC",
+        "price": 23699.0,
+        "model": "MCL2440PSBB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Lavadora Carga Superior, 20 kg, Blanca, Inverter, 8 Ciclos de Lavado, WA20A3341GW/AX",
+        "url": "https://www.amazon.com.mx/dp/B0BR3FX7TP",
+        "price": 8344.0,
+        "model": "WA20A3341GW/AX"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática Aqua Saver Green High Efficiency 20 kg Blanca con Sanitizado - LMH70211WBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CN1SJ14W",
+        "price": 15004.64,
+        "model": "LMH70211WBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Jaladera o manija para secadora y centro de lavado Mabe GE blanca 22 cm original",
+        "url": "https://www.amazon.com.mx/dp/B0C3QCJVRX",
+        "price": 245.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Transmisión Sola Centro De Lavado Para Easy Mabe",
+        "url": "https://www.amazon.com.mx/dp/B0C8WVZ7GL",
+        "price": 1576.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro Atrapapelusa Compatible Con Centro De Lavado Mabe Gris",
+        "url": "https://www.amazon.com.mx/dp/B0G5QYGQX7",
+        "price": 445.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "funda centro de lavado cubierta de lavadora funda para centro de lavado cubierta impermeable para lavadora y secadora",
+        "url": "https://www.amazon.com.mx/dp/B08TVZVFTK",
+        "price": 1445.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MABE Válvula De Llenado para Centro de Lavado | Original de fábrica | 189D5366P001 | Compatible con GE, Easy | Válvula De Llenado Centro De Lavado Mabe Ge Easy Original | 189D5366P003",
+        "url": "https://www.amazon.com.mx/dp/B0DTMFPNW9",
+        "price": 313.0,
+        "model": "189D5366P001"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Centro de Lavado Protective Force Flex Lona Calibre 6 Impermeable Plata UV (Lavadora Y Secadora Mabe Eléctrico)",
+        "url": "https://www.amazon.com.mx/dp/B0H6YB5JM7",
+        "price": 796.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Centro de Lavado Protective Force Flex Lona Calibre 6 Impermeable Plata UV (Lavadora Secadora mabe Eléctrico)",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y8QKR4",
+        "price": 796.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mini lavadora, recargable por USB, mini lavadora para ropa interior, 2 modos, lavadoras portátiles pequeñas para apartamentos, dormitorios, viajes",
+        "url": "https://www.amazon.com.mx/dp/B0GF8F4RH7",
+        "price": 269.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "de Ropa Interior, Taza De Lavado Portatil, Balde Electrico Inalambrico Con Centrifugador Para Ropa De Bebe Calcetines Sosten, Guarderia Dormitorio Bano Hotel",
+        "url": "https://www.amazon.com.mx/dp/B0FWY41QMS",
+        "price": 325.03,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MABEELECTRICOSUPERIORCENTROLAVADO": {
+    "ts": "2026-07-02T08:55:47.598067+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe 16 Kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944",
+        "price": 6799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Ultra Capacity Eléctrico 220 V 24 kg Aqua Saver Green Blanco Mabe - MCL2440ESBB0",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-ultra-capacity-electrico-220-v-24-kg-aqua-saver-green-blanco-mabe-mcl2440esbb0/00075763838188?athbdg=L1300",
+        "price": 23599.0,
+        "model": "MCL2440ESBB0"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Mabe con 8 Programas Automáticos de 24 Kg Gris",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-mabe-con-8-programas-automaticos-de-24-kg-gris/00075763838192?athbdg=L1300",
+        "price": 25990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe LMA74215WBAB1 Automática High Efficiency 24 kg Blanca LMA74215WBAB1",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lma74215wbab1-automatica-high-efficiency-24-kg-blanca-lma74215wbab1/00075763838978",
+        "price": 14299.0,
+        "model": "LMA74215WBAB1"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Ultra Capacity Eléctrico 220V 24kg Aqua Saver Green Diamond Gray Mabe- MCL2440ESDG0",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-ultra-capacity-electrico-220v-24kg-aqua-saver-green-diamond-gray-mabe-mcl2440esdg0/00075763838195?athbdg=L1300",
+        "price": 25599.0,
+        "model": "MCL2440ESDG0"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Premium Ultra Capacity Eléctrico 220 V 24 kg Diamond Gray Mabe - MCL2440EPDG0",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-premium-ultra-capacity-electrico-220-v-24-kg-diamond-gray-mabe-mcl2440epdg0/00075763838199?athbdg=L1300",
+        "price": 29499.0,
+        "model": "MCL2440EPDG0"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Midea Dos tinas 19 kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-midea-dos-tinas-19-kg-blanca/00694587833915",
+        "price": 5699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Mabe 8 Programas Automáticos de 24 Kg Blanco",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-mabe-8-programas-automaticos-de-24-kg-blanco/00075763838189?athbdg=L1300",
+        "price": 23599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Whirlpool 20 kg Blanco Eléctrico",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-whirlpool-20-kg-blanco-electrico/00088304944900?athbdg=L6000",
+        "price": 32290.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MABEELECTRICOSUPERIORCENTROLAVADO": {
+    "ts": "2026-07-02T08:55:56.377498+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Samsung  22 kg Lavado/ 24 kg Secado WH22DBH570GVAX",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-samsung-22-kg-lavado-24-kg-secado-wh22dbh570gvax/981018670",
+        "price": 40797.24,
+        "model": "WH22DBH570GVAX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
+        "price": 22199.1,
+        "model": "WD22T6300GP/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Estufa de Piso Koblenz  con Capelo Plata EK-5131 LC-ICCLF",
+        "url": "https://www.sams.com.mx/ip/estufa-de-piso-koblenz-con-capelo-plata-ek-5131-lc-icclf/981022634",
+        "price": 12274.98,
+        "model": "EK-5131"
+      }
+    ]
+  },
+  "amazon|MABEELECTRICOSUPERIORPREMIUMCENTRO": {
+    "ts": "2026-07-02T08:55:59.183696+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "1 Parrilla Superior Para Estufa Compatible Con Mabe",
+        "url": "https://www.amazon.com.mx/dp/B0H34NJK1N",
+        "price": 349.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MABEELECTRICOSUPERIORPREMIUMCENTRO": {
+    "ts": "2026-07-02T08:56:10.747003+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Aire Acondicionado Mini Split On Off 12000 BTU's 220 V MMT12CDBWCA32BM1 Solo Frío",
+        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-mini-split-on-off-12000-btu-s-220-v-mmt12cdbwca32bm1-solo-frio/00075763842848",
+        "price": 5190.0,
+        "model": "MMT12CDBWCA32BM1"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Premium Ultra Capacity Eléctrico 220 V 24 kg Diamond Gray Mabe - MCL2440EPDG0",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-premium-ultra-capacity-electrico-220-v-24-kg-diamond-gray-mabe-mcl2440epdg0/00075763838199?athbdg=L1300",
+        "price": 29499.0,
+        "model": "MCL2440EPDG0"
+      }
+    ]
+  },
+  "sams|MABEELECTRICOSUPERIORPREMIUMCENTRO": {
+    "ts": "2026-07-02T08:56:19.494534+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  Eléctrico Premium 24 kg Diamond Gray MCL2440EPDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-electrico-premium-24-kg-diamond-gray-mcl2440epdg0/981024865",
+        "price": 31200.48,
+        "model": "MCL2440EPDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
+        "price": 25062.48,
+        "model": "MCL2340PSDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 13904.61,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Estufa de Piso Koblenz  con Capelo Plata EK-5131 LC-ICCLF",
+        "url": "https://www.sams.com.mx/ip/estufa-de-piso-koblenz-con-capelo-plata-ek-5131-lc-icclf/981022634",
+        "price": 12274.98,
+        "model": "EK-5131"
+      },
+      {
+        "store": "sams",
+        "name": "Estufa de Piso Samsung 30 pulgadas Silver con Capelo NX52T5411MS/AX",
+        "url": "https://www.sams.com.mx/ip/estufa-de-piso-samsung-30-pulgadas-silver-con-capelo-nx52t5411ms-ax/981012588",
+        "price": 11661.18,
+        "model": "NX52T5411MS/AX"
+      }
+    ]
+  },
+  "amazon|MICHAELKORSHARLOWECASUALRELOJORO": {
+    "ts": "2026-07-02T08:56:33.934806+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0BS4BFLZW",
+        "price": 4446.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B006IWDWGS",
+        "price": 4446.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B007VPSYFA",
+        "price": 2024.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B01BESQPQO",
+        "price": 3129.88,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0CJND8976",
+        "price": 2724.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FK1P61DT",
+        "price": 4032.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FKBWRGYW",
+        "price": 5757.85,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B07QSK7DHR",
+        "price": 2068.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FTL4BG69",
+        "price": 5638.36,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FQ84NNDL",
+        "price": 4128.35,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0C7WK332N",
+        "price": 3891.87,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FTKN1DMQ",
+        "price": 4049.25,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MICHAELKORSHARLOWECASUALRELOJORO": {
+    "ts": "2026-07-02T08:56:45.824091+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1049 11536G 59MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1049-11536g-59mm/00074420333660",
+        "price": 3199.0,
+        "model": "MK1049"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK2034 32034X",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk2034-32034x/00074420333685",
+        "price": 3199.0,
+        "model": "MK2034"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK2076 33324V",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk2076-33324v/00074420333684",
+        "price": 3199.0,
+        "model": "MK2076"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 303413",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-303413/00074420333681",
+        "price": 3199.0,
+        "model": "MK2050"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS LAI MK1024 11944X",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-lai-mk1024-11944x/00074420333686",
+        "price": 3199.0,
+        "model": "MK1024"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 325114",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-325114/00074420333663",
+        "price": 3199.0,
+        "model": "MK2050"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ADRIANNA 1 MK1010 1103R1",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-adrianna-1-mk1010-1103r1/00074420333690",
+        "price": 3199.0,
+        "model": "MK1010"
+      },
+      {
+        "store": "walmart",
+        "name": "Lentes de Sol Michael Kors ANAHEIM MK2137U 317513",
+        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-michael-kors-anaheim-mk2137u-317513/00074420333666",
+        "price": 3049.0,
+        "model": "MK2137U"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1019 116371 59MM CAREY",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-116371-59mm-carey/00074420333689",
+        "price": 3199.0,
+        "model": "MK1019"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
+        "price": 3199.0,
+        "model": "MK2102"
+      },
+      {
+        "store": "walmart",
+        "name": "Michael Kors Bolso Bandolera Pequeño de Viaje Jet Set para Mujer (Oxblood) 35F4GTVC1L-oxbl",
+        "url": "https://www.walmart.com.mx/ip/michael-kors-bolso-bandolera-pequeno-de-viaje-jet-set-para-mujer-oxblood-35f4gtvc1l-oxbl/00019785307780?athbdg=L1300",
+        "price": 2820.5,
+        "model": "35F4GTVC1L-oxbl"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MAE MK2048 325036",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mae-mk2048-325036/00074420333670",
+        "price": 3199.0,
+        "model": "MK2048"
+      }
+    ]
+  },
+  "sams|MICHAELKORSHARLOWECASUALRELOJORO": {
+    "ts": "2026-07-02T08:56:58.745471+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Parfum  MICHAEL KORS  Pur Homme para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pur-homme-para-caballero-100-ml/981040613",
+        "price": 1431.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau De Parfum Spray Vaporisateur Michael Kors  Gorgeous para Dama 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-spray-vaporisateur-michael-kors-gorgeous-para-dama-100-ml/981031791",
+        "price": 1226.57,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RMA250FYMRX0": {
+    "ts": "2026-07-02T08:57:04.756423+00:00",
+    "items": []
+  },
+  "walmart|RMA250FYMRX0": {
+    "ts": "2026-07-02T08:57:12.092065+00:00",
+    "items": []
+  },
+  "sams|RMA250FYMRX0": {
+    "ts": "2026-07-02T08:57:25.724765+00:00",
+    "items": []
+  },
+  "amazon|PWN22JYWCFS": {
+    "ts": "2026-07-02T08:57:27.783987+00:00",
+    "items": []
+  },
+  "walmart|PWN22JYWCFS": {
+    "ts": "2026-07-02T08:57:40.774254+00:00",
+    "items": []
+  },
+  "sams|PWN22JYWCFS": {
+    "ts": "2026-07-02T08:57:49.214090+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador GE Profile  21 Pies cúbicos French Door PYN21JYWCFS",
+        "url": "https://www.sams.com.mx/ip/refrigerador-ge-profile-21-pies-cubicos-french-door-pyn21jywcfs/981042672",
+        "price": 28131.48,
+        "model": "PYN21JYWCFS"
+      }
+    ]
+  },
+  "amazon|LMA71214VBAB0": {
+    "ts": "2026-07-02T08:58:00.233785+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda Lavadora Mabe 21kg LMA71214VBAB0 Aqua Saver Green Afelpada Impermeable con Cierre 111x69x66cm",
+        "url": "https://www.amazon.com.mx/dp/B0GQXPY46Z",
+        "price": 426.0,
+        "model": "LMA71214VBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1803P Lavadora Semiautomätica Doble Tina 18 Kg, Blanco/Gris",
+        "url": "https://www.amazon.com.mx/dp/B0CJFF8YPF",
+        "price": 5699.0,
+        "model": "WSA1803P"
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe. Secadora Gas SMG47N8MSBAB0 7.2ft³ + Lavadora LMA71214VBAB0 21kg, Electrodomésticos Grandes Blancos",
+        "url": "https://www.amazon.com.mx/dp/B0F6H3J2FT",
+        "price": 18333.33,
+        "model": "SMG47N8MSBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "WH03X30517 Actuador de cambio de lavadora compatible con lavadora GE reemplaza AP7014559, WH05X25036, WH05X24435",
+        "url": "https://www.amazon.com.mx/dp/B0DHVJ7SV3",
+        "price": 472.37,
+        "model": "WH03X30517"
+      },
+      {
+        "store": "amazon",
+        "name": "WH16X26912 WH16X26913 - 4 muelles de suspensión de arandela compatibles con GE GTW750CSL1WS GTW750CPL1DG GTW750CPL0DG, WH16X26734 WH16X26714 - Barra de suspensión reemplaza AP6328295 3188899 2 4588122",
+        "url": "https://www.amazon.com.mx/dp/B0FP27V2HT",
+        "price": 784.63,
+        "model": "GTW750CSL1WS"
+      }
+    ]
+  },
+  "walmart|LMA71214VBAB0": {
+    "ts": "2026-07-02T08:58:21.437516+00:00",
+    "items": []
+  },
+  "sams|LMA71214VBAB0": {
+    "ts": "2026-07-02T08:58:38.053283+00:00",
+    "items": []
+  },
+  "amazon|MCL2440PSBB0": {
+    "ts": "2026-07-02T08:58:40.198040+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Centro de Lavado Mabe 24 Kilos, Gas LP, Color Blanco, Modelo MCL2440PSBB0",
+        "url": "https://www.amazon.com.mx/dp/B0FZLYWGJC",
+        "price": 23699.0,
+        "model": "MCL2440PSBB0"
+      }
+    ]
+  },
+  "walmart|MCL2440PSBB0": {
+    "ts": "2026-07-02T08:58:44.630132+00:00",
+    "items": []
+  },
+  "sams|MCL2440PSBB0": {
+    "ts": "2026-07-02T08:59:24.854043+00:00",
+    "items": []
+  },
+  "amazon|LMA74215WBAB1": {
+    "ts": "2026-07-02T08:59:27.262701+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lavadora Automática Aqua Saver Green High Efficiency 24 kg Blanca con Sanitizado Mabe - LMA74215WBAB1",
+        "url": "https://www.amazon.com.mx/dp/B0CW8FF9ZN",
+        "price": 11199.0,
+        "model": "LMA74215WBAB1"
+      }
+    ]
+  },
+  "walmart|LMA74215WBAB1": {
+    "ts": "2026-07-02T08:59:35.127718+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora Mabe LMA74215WBAB1 Automática High Efficiency 24 kg Blanca LMA74215WBAB1",
+        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lma74215wbab1-automatica-high-efficiency-24-kg-blanca-lma74215wbab1/00075763838978?athbdg=L1300",
+        "price": 14299.0,
+        "model": "LMA74215WBAB1"
+      }
+    ]
+  },
+  "sams|LMA74215WBAB1": {
+    "ts": "2026-07-02T08:59:40.412213+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      }
+    ]
+  },
+  "amazon|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
+    "ts": "2026-07-02T08:59:43.186651+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1804.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 2621.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 1660.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Porcelain White",
+        "url": "https://www.amazon.com.mx/dp/B09R4N69C6",
+        "price": 1899.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2279.05,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
+        "price": 2366.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Cardamom 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXGX2L2",
+        "price": 2488.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Black Mate 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3NPQZ",
+        "price": 2294.08,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2616.56,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
+        "price": 2668.6,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
+        "price": 2260.33,
+        "model": "7KSB4027MPA"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
+    "ts": "2026-07-02T08:59:56.661584+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552?athbdg=L1300",
+        "price": 1999.0,
+        "model": "7ksb2072mbm"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos, negra",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos-negra/00088304993141",
+        "price": 5379.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Vaso personal 473ml (16 oz) Para Licuadoras Pure Power",
+        "url": "https://www.walmart.com.mx/ip/vaso-personal-473ml-16-oz-para-licuadoras-pure-power/00088304993570?athbdg=L1300",
+        "price": 699.0,
+        "model": "473ml"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Empire Red 7KSB2078MER",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-empire-red-7ksb2078mer/00088304993176?athbdg=L1300",
+        "price": 2399.0,
+        "model": "7KSB2078MER"
+      },
+      {
+        "store": "walmart",
+        "name": "KitchenAid Licuadora Pure Power, Color Porcelana",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-licuadora-pure-power-color-porcelana/00088304992553?athbdg=L1300",
+        "price": 4074.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Jarra de Vidrio 1.8L para Licuadora Pure Power",
+        "url": "https://www.walmart.com.mx/ip/jarra-de-vidrio-1-8l-para-licuadora-pure-power/00088304991778?athbdg=L1300",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
+        "price": 2499.0,
+        "model": "7KSB2078MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid KSB4027PT Verde",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb4027pt-verde/00088304957247?athbdg=L1300",
+        "price": 5189.0,
+        "model": "KSB4027PT"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora K150 1.4L - White KitchenAid Licuadora",
+        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4l-white-kitchenaid-licuadora/00088304953214?athbdg=L1300",
+        "price": 9187.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K400 de velocidad variable KSB4028 negra mate",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k400-de-velocidad-variable-ksb4028-negra-mate/00046231410965?athbdg=L1300",
+        "price": 9469.0,
+        "model": "KSB4028"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K150 3 Velocidades Triturado de Hielo 1.4L",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-3-velocidades-triturado-de-hielo-1-4l/00088304952451",
+        "price": 5549.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
+    "ts": "2026-07-02T09:00:08.727315+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Batidora KitchenAid  Ultra Power Plata",
+        "url": "https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-plata/980011775",
+        "price": 7158.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Batidora KitchenAid Ultra Power Roja",
+        "url": "https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-roja/980011776",
+        "price": 7158.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1378.98,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDLICUADORAPORCELAINVASOSCOMBO": {
+    "ts": "2026-07-02T09:00:16.002820+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora Sistema de Cocina 1400W | Jarra 72 oz + Procesador 8 Tazas + 2 Vasos 24 oz | 5 Programas Auto-iQ | Masa, Picar, Smoothies y Frozen | Apto Lavavajillas | BN801",
+        "url": "https://www.amazon.com.mx/dp/B08559K7CN",
+        "price": 3499.0,
+        "model": "1400W"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Foodi Licuadora Extractor Nutrientes y Smoothie Bowl Maker 1200W | SmartTorque Sin Atascarse | Jarra 72 oz + Bowl 18 oz + Vaso 24 oz | 6 Programas Auto-iQ | Apta para Lavavajillas | SS101",
+        "url": "https://www.amazon.com.mx/dp/B08C1DJNR2",
+        "price": 1700.0,
+        "model": "1200W"
+      },
+      {
+        "store": "amazon",
+        "name": "NINJA Licuadora Profesional Plus DUO, 1400 vatios de pico, 3 programas Auto-IQ para bebidas congeladas y BATIDOS, 72 oz Jarra trituradora total y 2 vasos individuales, BN751",
+        "url": "https://www.amazon.com.mx/dp/B0BMGSZMW9",
+        "price": 2390.0,
+        "model": "BN751"
+      },
+      {
+        "store": "amazon",
+        "name": "NINJA, Licuadora Chef Profesional, Capacidad de 72 Oz, 10 Programas, Control Manual de Velocidad, 1500 Watts, Auto IQ, Color Negro, CT800",
+        "url": "https://www.amazon.com.mx/dp/B07DD2VPS3",
+        "price": 3146.32,
+        "model": "CT800"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 2621.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Porcelain White",
+        "url": "https://www.amazon.com.mx/dp/B09R4N69C6",
+        "price": 1899.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
+        "price": 2366.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1804.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2279.05,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Kitchen Aid Diamond Jar Original modelo KSB560. Capacidad: 56 onzas Número de parte WPW10555711 Reemplaza los números de parte 9708904, W10390812 y W10555711",
+        "url": "https://www.amazon.com.mx/dp/B074X6DHGR",
+        "price": 1399.0,
+        "model": "WPW10555711"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 1660.6,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORAPORCELAINVASOSCOMBO": {
+    "ts": "2026-07-02T09:00:19.521112+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1098.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nutribullet Licuadora Personal Ultra Silenciosa con 2 Modos Digitales 1200W Renewed",
+        "url": "https://www.walmart.com.mx/ip/nutribullet-licuadora-personal-ultra-silenciosa-con-2-modos-digitales-1200w-renewed/00046802951422",
+        "price": 2599.0,
+        "model": "1200W"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORAPORCELAINVASOSCOMBO": {
+    "ts": "2026-07-02T09:00:47.803131+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 3047.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 2964.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
+        "price": 1533.47,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDLICUADORAINMERSIONVELVAR": {
+    "ts": "2026-07-02T09:00:54.423890+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "7KHBV53MDG KitchenAid Licuadora de Mano Charcoal, Gris",
+        "url": "https://www.amazon.com.mx/dp/B09BW3JFYZ",
+        "price": 1499.0,
+        "model": "7KHBV53MDG"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KHBV83ER, batidora de mano con cable de velocidad variable con jarra de mezcla, accesorios de batidor y picador, rojo imperio",
+        "url": "https://www.amazon.com.mx/dp/B0DB4YRNWT",
+        "price": 3005.58,
+        "model": "KHBV83ER"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Go - Batidora de mano inalámbrica - Batería incluida, KHBRV71, negro mate",
+        "url": "https://www.amazon.com.mx/dp/B0CTR49RS1",
+        "price": 2562.71,
+        "model": "KHBRV71"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KHB1231IB Batidora de inmersión de 2 velocidades",
+        "url": "https://www.amazon.com.mx/dp/B07SSHGJN4",
+        "price": 1415.67,
+        "model": "KHB1231IB"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Batidora de inmersión blanca, con función turbo y eje de acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B072R1JHRR",
+        "price": 549.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid khb1231fg batidora de mano de 2 velocidades, gris mate",
+        "url": "https://www.amazon.com.mx/dp/B076BJJZN4",
+        "price": 1651.48,
+        "model": "khb1231fg"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora de Inmersión Empire Red + Kit de Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0H2BTFPM6",
+        "price": 1981.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid licuadora de inmersión arquitecto - 5-velocidad - arquitecto - Plata",
+        "url": "https://www.amazon.com.mx/dp/B00AECABLC",
+        "price": 4532.84,
+        "model": "5-velocidad"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart CSB-179 Batidora de inmersión Smart Stick con accesorios,",
+        "url": "https://www.amazon.com.mx/dp/B079NJTL29",
+        "price": 1299.0,
+        "model": "CSB-179"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KHBV53 - Batidora de mano con cable de velocidad variable",
+        "url": "https://www.amazon.com.mx/dp/B08FM25FHP",
+        "price": 1531.09,
+        "model": "KHBV53"
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Lite Licuadora de inmersión Gris oscuro",
+        "url": "https://www.amazon.com.mx/dp/B0FRQJLP3P",
+        "price": 1148.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS ROBOT 750 INOX | Batidora de Inmersión 750 W | Caña de Acero Inoxidable Desmontable | Turbo Rotation System | Control de Pulso | Ideal para Papillas, Salsas y Batidos Familiares",
+        "url": "https://www.amazon.com.mx/dp/B08HPVMC5G",
+        "price": 329.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORAINMERSIONVELVAR": {
+    "ts": "2026-07-02T09:01:25.571928+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Batidora de mano KitchenAid inalámbrica de velocidad variable con accesorio para picar y batir - KHBBV83, gris carbón mate",
+        "url": "https://www.walmart.com.mx/ip/batidora-de-mano-kitchenaid-inalambrica-de-velocidad-variable-con-accesorio-para-picar-y-batir-khbbv83-gris-carbon-mate/00088304958726?athbdg=L1300",
+        "price": 5369.0,
+        "model": "KHBBV83"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541?athbdg=L1300",
+        "price": 2249.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 2249.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K150 3 Velocidades Triturado de Hielo 1.4L",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-3-velocidades-triturado-de-hielo-1-4l/00088304952451",
+        "price": 5549.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos, negra",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos-negra/00088304993141",
+        "price": 5379.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552",
+        "price": 1999.0,
+        "model": "7ksb2072mbm"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora de inmersión VEVOR Commercial 350W con eje de 19.7 pulgadas",
+        "url": "https://www.walmart.com.mx/ip/licuadora-de-inmersion-vevor-commercial-350w-con-eje-de-19-7-pulgadas/00061419860446?athbdg=L1300",
+        "price": 3519.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-gris/00088304992555?athbdg=L1300",
+        "price": 1748.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "LICUADORA VASO VIDRIO 700W /TITANIO 2 VEL, CROMO-CROMO MARCA MAN Man LMV-202",
+        "url": "https://www.walmart.com.mx/ip/licuadora-vaso-vidrio-700w-titanio-2-vel-cromo-cromo-marca-man-man-lmv-202/00750137210202",
+        "price": 1235.0,
+        "model": "LMV-202"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora de inmersión Consciot 1100 W de acero inoxidable 4 en 1",
+        "url": "https://www.walmart.com.mx/ip/licuadora-de-inmersion-consciot-1100-w-de-acero-inoxidable-4-en-1/00081017571120?athbdg=L1300",
+        "price": 849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora MAN LMV2025",
+        "url": "https://www.walmart.com.mx/ip/licuadora-man-lmv2025/00750137212025",
+        "price": 1727.1,
+        "model": "LMV2025"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORAINMERSIONVELVAR": {
+    "ts": "2026-07-02T09:01:41.922244+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Licuadora KitchenAid  Pure Power + Jarra 7KSB2076MBM",
+        "url": "https://www.sams.com.mx/ip/licuadora-kitchenaid-pure-power-jarra-7ksb2076mbm/981042976",
+        "price": 3067.96,
+        "model": "7KSB2076MBM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 3047.15,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
+    "ts": "2026-07-02T09:01:46.920363+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6551 Máquina de Café Espresso Semiautomática con Molino de Café",
+        "url": "https://www.amazon.com.mx/dp/B0CTCYQJX7",
+        "price": 8499.0,
+        "model": "KES6551"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6404 - Máquina de café espresso semiautomática y accesorio automático para espumador de leche",
+        "url": "https://www.amazon.com.mx/dp/B0B6228MWB",
+        "price": 6173.91,
+        "model": "KES6404"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6551SX - Máquina de café espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.amazon.com.mx/dp/B0CTCXV1WK",
+        "price": 11119.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6503 - Máquina de café espresso semiautomática de metal",
+        "url": "https://www.amazon.com.mx/dp/B09B1B58B6",
+        "price": 7205.81,
+        "model": "KES6503"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6403 - Máquina espresso semiautomática",
+        "url": "https://www.amazon.com.mx/dp/B097P1Z25S",
+        "price": 7203.33,
+        "model": "KES6403"
+      },
+      {
+        "store": "amazon",
+        "name": "KRUPS Espresseria automática Quattro Force es como un barista en casa con resultados profesionales en cada taza, con molino integrado. Capacidad 1.8L, EA815050",
+        "url": "https://www.amazon.com.mx/dp/B01DC6N1OA",
+        "price": 7999.0,
+        "model": "EA815050"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6403MH - Máquina de café espresso semiautomática",
+        "url": "https://www.amazon.com.mx/dp/B0DN8KBHF5",
+        "price": 9817.39,
+        "model": "KES6403MH"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6503 - Máquina espresso semiautomática de metal",
+        "url": "https://www.amazon.com.mx/dp/B09B18V4B9",
+        "price": 9099.36,
+        "model": "KES6503"
+      },
+      {
+        "store": "amazon",
+        "name": "HIBREW H10A - Máquina de Espresso de 58mm, Cuerpo de Acero Inoxidable con Espumador de Leche, Configuraciones Personalizables, Pantalla Inteligente + Medidor de Presión de 20 Bares.",
+        "url": "https://www.amazon.com.mx/dp/B0DT13RVWB",
+        "price": 5257.48,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
+        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
+        "price": 5949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Máquina de café espresso semiautomática de 20 barras, cafetera profesional con espumador de leche y tanque de agua extraíble de 40 onzas, sistema Home Barista para capuchino, café con leche",
+        "url": "https://www.amazon.com.mx/dp/B0F4X45TD7",
+        "price": 2653.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIXUBX - Máquina de café espresso de 20 barras, máquina de café profesional con espumador de leche, máquina de café compacto con café café con café y capuchino para el hogar, cafetera con control de",
+        "url": "https://www.amazon.com.mx/dp/B0GFW5GHM8",
+        "price": 2590.98,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
+    "ts": "2026-07-02T09:02:20.009324+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "KitchenAid Cafetera espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-cafetera-espresso-semiautomatica-con-molinillo-de-rebabas-2-5-l-acero-inoxidable-cepillado-kes6551sx/00088304963553?athbdg=L1300",
+        "price": 11959.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551BK semiautomática 2.5L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551bk-semiautomatica-2-5l/00088304964122",
+        "price": 18144.9,
+        "model": "KES6551BK"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551JP semiautomática de 2,5 litros",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551jp-semiautomatica-de-2-5-litros/00088304968346?athbdg=L1300",
+        "price": 14909.0,
+        "model": "KES6551JP"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6403 semiautomática 1.4L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300",
+        "price": 9539.0,
+        "model": "KES6403"
+      }
+    ]
+  },
+  "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
+    "ts": "2026-07-02T09:02:31.544022+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Chefman  RJ54-G-SS-MX 3L Color Plateado",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-chefman-rj54-g-ss-mx-3l-color-plateado/981053258",
+        "price": 7466.87,
+        "model": "RJ54-G-SS-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Hukën  con Molino Integrado MK-ECM-GSS",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-huken-con-molino-integrado-mk-ecm-gss/981045753",
+        "price": 2556.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
+        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
+        "price": 1635.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Espresso Chefman  CraftBrew RJ54-SS-15-D-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-espresso-chefman-craftbrew-rj54-ss-15-d-mx/981042228",
+        "price": 2351.87,
+        "model": "RJ54-SS-15-D-MX"
+      }
+    ]
+  },
+  "amazon|KITCHENAIDESPRESSOMAQUINATAZASACERO": {
+    "ts": "2026-07-02T09:02:35.032906+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid KF6, KES8556 Máquina de café espresso totalmente automática, 2 tazas, acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0CTCXNVRL",
+        "price": 25806.77,
+        "model": "KES8556"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6551SX - Máquina de café espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.amazon.com.mx/dp/B0CTCXV1WK",
+        "price": 11119.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "amazon",
+        "name": "XIXUBX - Máquina de café espresso de 20 barras, máquina de café profesional con espumador de leche, máquina de café compacto con café café con café y capuchino para el hogar, cafetera con control de",
+        "url": "https://www.amazon.com.mx/dp/B0GFW5GHM8",
+        "price": 2590.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2 Piezas Taza Espresso, 304Tazas para Espresso,Taza Medidora Espresso,100 ml/3.4 Oz,Tazas Para Espresso, Accesorios para Café, Lavaplatos, Congelador y Microondas",
+        "url": "https://www.amazon.com.mx/dp/B0F21278VW",
+        "price": 109.9,
+        "model": "304Tazas"
+      },
+      {
+        "store": "amazon",
+        "name": "4 tazas de café espresso de acero inoxidable, taza medidora de café espresso de metal con doble boquilla y asa, taza de café con doble escala y boca en forma de V, 3.4 oz/100 ml (plateada)",
+        "url": "https://www.amazon.com.mx/dp/B0FVF4KJV3",
+        "price": 199.99,
+        "model": "oz/100"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6403 - Máquina espresso semiautomática",
+        "url": "https://www.amazon.com.mx/dp/B097P1Z25S",
+        "price": 7203.33,
+        "model": "KES6403"
+      },
+      {
+        "store": "amazon",
+        "name": "2 Piezas Tazas Para Espresso, Taza Medidora Espresso, Taza Medidora Para de Acero Inoxidable 304, 100 ml/3.4 Oz, Accesorios para Café, Lavaplatos, Congelador y Microondas (2 piezas de plata)",
+        "url": "https://www.amazon.com.mx/dp/B0DZNVSSM6",
+        "price": 169.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6404 - Máquina de café espresso semiautomática y accesorio automático para espumador de leche",
+        "url": "https://www.amazon.com.mx/dp/B0B6228MWB",
+        "price": 6173.91,
+        "model": "KES6404"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de Espumar Leche de acero inoxidable,Taza de jarra de vapor exprés,Medidas en ambos interiores,Perfecto para máquinas de café espresso, taza de jarra de leche con Latte Art Pen/Barista Pen (Plata 12oz/ 350ml)",
+        "url": "https://www.amazon.com.mx/dp/B07XJTKFTN",
+        "price": 199.0,
+        "model": "350ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Anpro Jarras para Espumar Leche 350 ml/12oz Taza de jarra de vapor exprés, Medidas en ambos interiores, Barista Pen, Jarra de Leche de Acero Inoxidable Perfecto para Máquinas de café Espresso",
+        "url": "https://www.amazon.com.mx/dp/B07NY6K477",
+        "price": 199.0,
+        "model": "ml/12oz"
+      },
+      {
+        "store": "amazon",
+        "name": "Lumbor37 Tazas Para Espresso, 2 Piezas Taza Medidora de Acero Inoxidable, Tazas Medidoras para Café de lavaplatos, Congelador, Microondas",
+        "url": "https://www.amazon.com.mx/dp/B0GSLP37W9",
+        "price": 169.99,
+        "model": "Lumbor37"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KF8, KES8558 Máquina de café espresso totalmente automática, 2 tazas, hierro fundido negro",
+        "url": "https://www.amazon.com.mx/dp/B0CTCZS9GY",
+        "price": 37664.17,
+        "model": "KES8558"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDESPRESSOMAQUINATAZASACERO": {
+    "ts": "2026-07-02T09:02:45.935926+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1098.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551BK semiautomática 2.5L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551bk-semiautomatica-2-5l/00088304964122",
+        "price": 18144.9,
+        "model": "KES6551BK"
+      },
+      {
+        "store": "walmart",
+        "name": "KitchenAid Cafetera espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-cafetera-espresso-semiautomatica-con-molinillo-de-rebabas-2-5-l-acero-inoxidable-cepillado-kes6551sx/00088304963553?athbdg=L1300",
+        "price": 11959.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Koblenz Kitchen Magic 4 Tazas Acero Inox",
+        "url": "https://www.walmart.com.mx/ip/cafetera-koblenz-kitchen-magic-4-tazas-acero-inox/00009905300603?athbdg=L1300",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551JP semiautomática de 2,5 litros",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551jp-semiautomatica-de-2-5-litros/00088304968346?athbdg=L1300",
+        "price": 14909.0,
+        "model": "KES6551JP"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Percolador SIGNA 6lt 40 Tazas Acero Inoxidable 110v",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percolador-signa-6lt-40-tazas-acero-inoxidable-110v/00750305167561",
+        "price": 629.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6503 Metal 1.4 L negra",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6503-metal-1-4-l-negra/00088304954164?athbdg=L1300",
+        "price": 9609.0,
+        "model": "KES6503"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6503, 1,4 L, acero inoxidable cepillado",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6503-1-4-l-acero-inoxidable-cepillado/00088304954165?athbdg=L1300",
+        "price": 9579.0,
+        "model": "KES6503"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 2249.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6403 semiautomática 1.4L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300",
+        "price": 9539.0,
+        "model": "KES6403"
+      },
+      {
+        "store": "walmart",
+        "name": "Ideal para hostelería y oficinas - Cafetera urna comercial eléctrica de acero inoxidable con doble pared",
+        "url": "https://www.walmart.com.mx/ip/ideal-para-hosteleria-y-oficinas-cafetera-urna-comercial-electrica-de-acero-inoxidable-con-doble-pared/00088162832724",
+        "price": 2386.16,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDESPRESSOMAQUINATAZASACERO": {
+    "ts": "2026-07-02T09:02:58.676161+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Juego de Tazas y Platos Member´s Mark  Multicolor 12 pzas",
+        "url": "https://www.sams.com.mx/ip/juego-de-tazas-y-platos-member-s-mark-multicolor-12-pzas/981041473",
+        "price": 445.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDHERVIDORAGUAMATE": {
+    "ts": "2026-07-02T09:03:02.110030+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Hervidor eléctrico de 1,7 litros con control de temperatura negro mate KEK1701BM",
+        "url": "https://www.amazon.com.mx/dp/B0D3R9PBLX",
+        "price": 2589.0,
+        "model": "KEK1701BM"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor Eléctrico de 1.7 Litros con Control de Temperatura KEK1701PL, Porcelana Blanca",
+        "url": "https://www.amazon.com.mx/dp/B0DKPFRRW5",
+        "price": 2299.0,
+        "model": "KEK1701PL"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor eléctrico de 1,7 litros, KEK1701",
+        "url": "https://www.amazon.com.mx/dp/B0D3R7F963",
+        "price": 2459.0,
+        "model": "KEK1701"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1701PT Hervidor eléctrico de 1,7 litros, Pistache",
+        "url": "https://www.amazon.com.mx/dp/B0D3R8Z8J9",
+        "price": 2229.0,
+        "model": "KEK1701PT"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1222 - Hervidor eléctrico de 1,25 L",
+        "url": "https://www.amazon.com.mx/dp/B076B8Q4HY",
+        "price": 2943.13,
+        "model": "KEK1222"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Vidrio Eléctrica De 1,7, Tetera Pequeño Electrodoméstico Cocina, Negro (Black), 1.7 Litros",
+        "url": "https://www.amazon.com.mx/dp/B00CXMO01I",
+        "price": 450.22,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart Tetera cuello de cisne 1L",
+        "url": "https://www.amazon.com.mx/dp/B08KCT8T6C",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KTEN20CBEU hervidor de agua con asa completa y banda recortada, 2 cuartos de galón, Azul (Cameo Blue), 1.89 l, 1",
+        "url": "https://www.amazon.com.mx/dp/B07RWPGW4D",
+        "price": 2236.94,
+        "model": "KTEN20CBEU"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS CARONTE | Hervidor Eléctrico 2L de Acero Inoxidable | Ebullición Rápida en Minutos | Seguro, Durable y con Apagado Automático | Ideal para Té, Café y Cocina Diaria",
+        "url": "https://www.amazon.com.mx/dp/B07RGB4MVS",
+        "price": 219.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tetera Eléctrica - Hervidor de Agua Eléctrico Retro Vintage 1.7L 1500W | Calentador de Agua Eléctrico con Medidor de Temperatura y Apagado Automático | Jarra Eléctrica de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0DJQ7KQPM",
+        "price": 849.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Tetera Eléctrica de 1 Litro/Hervidor de Agua Eléctrico, Fácil Vertido, Acero Inoxidable (40998)",
+        "url": "https://www.amazon.com.mx/dp/B00ZPN3O2I",
+        "price": 409.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Tetera Eléctrica Heat-Select 1.7 L | 6 Niveles de Temperatura | Luces LED por Color | Infusor Removible | Mantiene Caliente | Apagado Automático | Vidrio Borosilicato | Base 360°",
+        "url": "https://www.amazon.com.mx/dp/B09PPRGH83",
+        "price": 589.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDHERVIDORAGUAMATE": {
+    "ts": "2026-07-02T09:03:13.053384+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Hervidor Eléctrico de Agua Bodum Bistro 1L Acero Inoxidable Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-bodum-bistro-1l-acero-inoxidable-negro-mate/00069996562311?athbdg=L1300",
+        "price": 1469.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDHERVIDORAGUAMATE": {
+    "ts": "2026-07-02T09:03:38.878296+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039561",
+        "price": 592.3,
+        "model": "JE8723D"
+      },
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039552",
+        "price": 592.3,
+        "model": "JE8723D"
+      }
+    ]
+  },
+  "amazon|KITCHENAIDHERVIDORAGUA": {
+    "ts": "2026-07-02T09:03:41.424797+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Hervidor eléctrico de 1,7 litros con control de temperatura negro mate KEK1701BM",
+        "url": "https://www.amazon.com.mx/dp/B0D3R9PBLX",
+        "price": 2589.0,
+        "model": "KEK1701BM"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor Eléctrico de 1.7 Litros con Control de Temperatura KEK1701PL, Porcelana Blanca",
+        "url": "https://www.amazon.com.mx/dp/B0DKPFRRW5",
+        "price": 2299.0,
+        "model": "KEK1701PL"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor eléctrico de 1,7 litros, KEK1701",
+        "url": "https://www.amazon.com.mx/dp/B0D3R7F963",
+        "price": 2459.0,
+        "model": "KEK1701"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1701PT Hervidor eléctrico de 1,7 litros, Pistache",
+        "url": "https://www.amazon.com.mx/dp/B0D3R8Z8J9",
+        "price": 2229.0,
+        "model": "KEK1701PT"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1222 - Hervidor eléctrico de 1,25 L",
+        "url": "https://www.amazon.com.mx/dp/B076B8Q4HY",
+        "price": 2943.13,
+        "model": "KEK1222"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart CPK-17 Tetera Eléctrica Programable sin Cable",
+        "url": "https://www.amazon.com.mx/dp/B003KYSLNQ",
+        "price": 1699.0,
+        "model": "CPK-17"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja - Hervidor de agua electrico, acero inoxidable, 7 tazas | KT200",
+        "url": "https://www.amazon.com.mx/dp/B098TQJJJ1",
+        "price": 2277.1,
+        "model": "KT200"
+      },
+      {
+        "store": "amazon",
+        "name": "Tetera Eléctrica - Hervidor de Agua Eléctrico Retro Vintage 1.7L 1500W | Calentador de Agua Eléctrico con Medidor de Temperatura y Apagado Automático | Jarra Eléctrica de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0DJQ8XNQ6",
+        "price": 776.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Hervidor Eléctrico de 1.5 L | Seguro al Tacto | Potencia de 1350 W | Base 360° | Apagado Automático | Color Negro | KO1408U0",
+        "url": "https://www.amazon.com.mx/dp/B0DSJMF84K",
+        "price": 699.0,
+        "model": "KO1408U0"
+      },
+      {
+        "store": "amazon",
+        "name": "Tetera Eléctrica - Hervidor de Agua Eléctrico Retro Vintage 1.7L 1500W | Calentador de Agua Eléctrico con Medidor de Temperatura y Apagado Automático | Jarra Eléctrica de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0DJQ7KQPM",
+        "price": 849.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KTEN20CBEU hervidor de agua con asa completa y banda recortada, 2 cuartos de galón, Azul (Cameo Blue), 1.89 l, 1",
+        "url": "https://www.amazon.com.mx/dp/B07RWPGW4D",
+        "price": 2236.94,
+        "model": "KTEN20CBEU"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Tetera Eléctrica de 1 Litro/Hervidor de Agua Eléctrico, Fácil Vertido, Acero Inoxidable (40998)",
+        "url": "https://www.amazon.com.mx/dp/B00ZPN3O2I",
+        "price": 409.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDHERVIDORAGUA": {
+    "ts": "2026-07-02T09:03:44.445065+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de 1,7 litros KitchenAid®",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-1-7-litros-kitchenaid-/00088304967095?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Eléctrico KitchenAid KEK1701PL",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-kitchenaid-kek1701pl/00088304968712?athbdg=L1300",
+        "price": 2699.0,
+        "model": "KEK1701PL"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico KitchenAid KEK1701 1.7 L con temperatura variable",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-kitchenaid-kek1701-1-7-l-con-temperatura-variable/00088304967096?athbdg=L1300",
+        "price": 2589.0,
+        "model": "KEK1701"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico KitchenAid KEK1701 1.7 L con temperatura variable",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-kitchenaid-kek1701-1-7-l-con-temperatura-variable/00088304967098?athbdg=L1300",
+        "price": 2229.0,
+        "model": "KEK1701"
+      }
+    ]
+  },
+  "sams|KITCHENAIDHERVIDORAGUA": {
+    "ts": "2026-07-02T09:03:47.730697+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039552",
+        "price": 592.3,
+        "model": "JE8723D"
+      },
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039561",
+        "price": 592.3,
+        "model": "JE8723D"
+      }
+    ]
   }
 }
