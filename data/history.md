@@ -1,9 +1,22 @@
-# Historial de ofertas encontradas (106)
+# Historial de ofertas encontradas (119)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-02 09:42 | -21% | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | $1,735 en amazon vs mercado -> -21% bajo la competencia |
+| 2026-07-02 09:42 | -25% | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | $869 en amazon vs mercado -> -25% bajo la competencia |
+| 2026-07-02 09:42 | -25% | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de…](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $13,874 | $13,874 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-02 09:42 | -27% | amazon | [Neutrogena Gel Limpiador Facial Deep Clean Intensive To…](https://www.amazon.com.mx/dp/B0B8PXK3WR) | $54 | $54 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-07-02 09:42 | -28% | amazon | [NYX Professional Makeup The Brow Glue Instant Brow Styl…](https://www.amazon.com.mx/dp/B0BDP7PB83) | $103 | $103 en amazon vs mercado -> -28% bajo la competencia |
+| 2026-07-02 09:42 | -31% | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1300) | $260 | $260 en walmart vs sams $377, sams $388 -> -31% bajo la competencia |
+| 2026-07-02 09:42 | -34% | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | $18,719 en palacio vs mercado -> -34% bajo la competencia |
+| 2026-07-02 09:42 | -35% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | $4,499 en walmart vs mercado -> -35% bajo la competencia |
+| 2026-07-02 09:42 | -35% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | $6,699 en walmart vs mercado -> -35% bajo la competencia |
+| 2026-07-02 09:42 | -45% | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | $11,520 en palacio vs mercado -> -45% bajo la competencia |
+| 2026-07-02 09:42 | -52% | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
+| 2026-07-02 09:42 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
+| 2026-07-02 09:42 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-02 09:03 | -20% | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | $5,631 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:03 | -20% | palacio | [Centro de lavado Premium Electrico de Carga Superior 24…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | $35,573 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:03 | -20% | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blan…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $29,039 | $29,039 en palacio vs mercado -> -20% bajo la competencia |

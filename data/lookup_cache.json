@@ -15621,5 +15621,2394 @@
         "model": "JE8723D"
       }
     ]
+  },
+  "liverpool|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:28:42.192935+00:00",
+    "items": []
+  },
+  "coppel|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:28:45.055884+00:00",
+    "items": []
+  },
+  "palacio|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:28:45.426940+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable en Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-en-acero-inoxidable-39326963.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cepillo De Vapor Xcel Pocket",
+        "url": "https://www.elpalaciodehierro.com/rowenta-cepillo-de-vapor-xcel-pocket-43278445.html",
+        "price": 1119.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Plancha de vapor FabricIQ con Suela de Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/hamilton-beach-plancha-de-vapor-fabriciq-con-suela-de-acero-inoxidable-44650462.html",
+        "price": 1329.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable Negro",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-negro-39326964.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Plancha de Vapor Ultragliss Plus con Suela Durilium Airglide Autoclean, Turquesa",
+        "url": "https://www.elpalaciodehierro.com/t-fal-plancha-de-vapor-ultragliss-plus-con-suela-durilium-airglide-autoclean-turquesa-44730896.html",
+        "price": 1919.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Paquete Tekaway Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/teka-paquete-tekaway-acero-inoxidable-40946470.html",
+        "price": 6489.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Ranger de acero inoxidable, 355 ml",
+        "url": "https://www.elpalaciodehierro.com/manna-termo-ranger-de-acero-inoxidable-355-ml-44605921.html",
+        "price": 376.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Toalla de Baño Perla gris",
+        "url": "https://www.elpalaciodehierro.com/il%C3%B2-toalla-de-bano-perla-gris-31529076.html",
+        "price": 1034.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Mini refrigerador personal tipo frigobar 4 L, RJ48-V2-8-WHITE-MX blanco",
+        "url": "https://www.elpalaciodehierro.com/chefman-mini-refrigerador-personal-tipo-frigobar-4-l-rj48-v2-8-white-mx-blanco-45382010.html",
+        "price": 1434.3,
+        "model": "RJ48-V2-8-WHITE-MX"
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable Blanco",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-blanco-39326959.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Stanley Mist Twist, 1.1 L",
+        "url": "https://www.elpalaciodehierro.com/stanley-termo-stanley-mist-twist-1.1-l-44404124.html",
+        "price": 959.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Classic Mate System, 1.6 L",
+        "url": "https://www.elpalaciodehierro.com/stanley-termo-classic-mate-system-1.6-l-44862368.html",
+        "price": 2179.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:28:47.805344+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Urna de café de 80 tazas, dispensador de café con aislamiento de doble pared de 12 litros/3.2 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de temperatura",
+        "url": "https://www.amazon.com.mx/dp/B0G5YJTSBC",
+        "price": 3827.4,
+        "model": "litros/3"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 100 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 14 l/3.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRPSTN",
+        "price": 3251.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PTJSGM",
+        "price": 3407.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de café con aislamiento de doble pared de 18 litros/4.8 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de",
+        "url": "https://www.amazon.com.mx/dp/B0G5YS92ZF",
+        "price": 4972.42,
+        "model": "litros/4"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRNWPB",
+        "price": 3674.71,
+        "model": null
+      }
+    ]
+  },
+  "sams|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:29:19.795806+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bebedero Automático Smart-Tek  para Mascotas PW30",
+        "url": "https://www.sams.com.mx/ip/bebedero-automatico-smart-tek-para-mascotas-pw30/981043795",
+        "price": 817.37,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Regulador Automático de Voltaje Smartbitt  C3000 con Regulación y Supresión de Picos",
+        "url": "https://www.sams.com.mx/ip/regulador-automatico-de-voltaje-smartbitt-c3000-con-regulacion-y-supresion-de-picos/981001961",
+        "price": 2239.33,
+        "model": "C3000"
+      },
+      {
+        "store": "sams",
+        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
+        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
+        "price": 3373.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
+        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
+        "price": 748.99,
+        "model": "MX86037"
+      },
+      {
+        "store": "sams",
+        "name": "Programador de Riego Karcher  Automático WT 5",
+        "url": "https://www.sams.com.mx/ip/programador-de-riego-karcher-automatico-wt-5/981024169",
+        "price": 1625.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Fluido para Transmisión Automática Roshfrans  Super ATF DEX-lll-MERC 4 pzas de 950 ml c/u",
+        "url": "https://www.sams.com.mx/ip/fluido-para-transmision-automatica-roshfrans-super-atf-dex-lll-merc-4-pzas-de-950-ml-c-u/981024482",
+        "price": 384.62,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Molino de Café Daewoo Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
+        "price": 530.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tetera MEMBERS MARK  de Acero Inoxidable Negra",
+        "url": "https://www.sams.com.mx/ip/tetera-members-mark-de-acero-inoxidable-negra/981043026",
+        "price": 510.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Wafflera Eléctrica Cuisinart  Acero Inoxidable WMR-CA",
+        "url": "https://www.sams.com.mx/ip/wafflera-electrica-cuisinart-acero-inoxidable-wmr-ca/980011654",
+        "price": 612.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Escurridor Member's Mark  de Acero Inoxidable con 2 Niveles",
+        "url": "https://www.sams.com.mx/ip/escurridor-member-s-mark-de-acero-inoxidable-con-2-niveles/981013628",
+        "price": 611.74,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuchillos Chef Everwealth  Profesionales Acero Inoxidable 2 pzas",
+        "url": "https://www.sams.com.mx/ip/cuchillos-chef-everwealth-profesionales-acero-inoxidable-2-pzas/980034386",
+        "price": 396.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuchillos Santoku Everwealth  Profesionales Acero Inoxidable 2 pzas",
+        "url": "https://www.sams.com.mx/ip/cuchillos-santoku-everwealth-profesionales-acero-inoxidable-2-pzas/980034384",
+        "price": 326.33,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-07-02T09:29:38.712322+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Monomando Giratorio Teka Inx 983 Acero Inoxidable",
+        "url": "https://www.mercadolibre.com.mx/monomando-giratorio-teka-inx-983-acero-inoxidable/up/MLMU723380722",
+        "price": 10078.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Toallero De Mano De Acero Inoxidable Con Anillo De Toalla Do",
+        "url": "https://www.mercadolibre.com.mx/toallero-de-mano-de-acero-inoxidable-con-anillo-de-toalla-do/up/MLMU3845881389",
+        "price": 1164.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Toallero De Mano De Acero Inoxidable Con Anillo De Toalla Do",
+        "url": "https://www.mercadolibre.com.mx/toallero-de-mano-de-acero-inoxidable-con-anillo-de-toalla-do/up/MLMU3827103140",
+        "price": 1205.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Toallero De Pie - Toallero De Baño Independiente Con Base De",
+        "url": "https://www.mercadolibre.com.mx/toallero-de-pie--toallero-de-bano-independiente-con-base-de/up/MLMU3779469037",
+        "price": 1586.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cafetera Espresso Superautomática Krups EA815050, Molino Integrado, Espumador de Leche, Pantalla LCD, Limpieza Automática, Café de Grano Entero, Espresso y Cappuccino en Casa",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=GtnT7Po7jc7DId2uVPuSS6cZ6ZStftLcCRyityjFJTYxO2CMHp0DZA0frUIDCRwJApfsT42stEzhVqYtjoDWI6s%2BmtCBg2r28ZOek6io4W8XsttEC0XdtZJ44hvk2GJF9Q1hCx6GUTiD7%2B0BWCkab9e4IjFIhpActacwhj4hJp8657gDY59yyjHwl6lj5V%2FGfatX%2BlD4NM4k2BFoEbdQ39owp1mxzERaMnMZpADKRoxiMYWaSlyswQUQdvoa3P6jFm2a2Nfa29Qdr%2BA2E4AiKdTuCtzfJuFI0tjkK6JkyUnhKdoyLHdwEijGvfGN8gFTfqqv78x7prwpCGiI5f3%2Bl4Oh4JbAlhkP8h%2FAexCal7BB2OIaFcmJwrAM7YE8AwowvloFJMwD8iHOpyCuIHWBs%2FbliwNPDYqPMRQwv%2BpQZEDpIjWy9DQmzPNbVmg2YasY7IThGckHSGto8X2uoAQejnSeKKJ5Kwav5t%2B3WpkFhAWq2LjIpmfSPAku%2FRNEn4de3QaEZtMaxwa2PPlIqLyftHwTr0YHQOLpnUxYhUqcq3J57KdF1FixKIyV6wwY3KA0aOwYqVihsV2%2FU%2BabvhcWONrJ4uRiCaf7bLUomQzG9iWpQ%2BVQm8DnG26pRfEPXdZ%2FdoBiAs803myPgq9Bxi1qQxG%2BXSEGrqZ43ntHHNlhJYsXovAeVX6rCxb8fF3jXl5ot%2FJ0z3y%2FNxgMzVRTbEk6DTJgvC3JQxd4obO%2FsBMEe5fMA2pkN5s3JlMS9krdnH%2F1uqBfMxg7BAx9K0ZJDZBCaxO90FV%2BhCwrSrjNyTk8Ft4XPbB7jaKhRczn2RfU3u1DTFDPWqSkWcJ42TeXFbsl7i1uX87FIAt1cSTf13XAmiwQDnONI4ifsWeKYv3J5qme1FVmjm2CrVhqAzhl%2FsE5E5g%2BT6TxCErenOW0HLpOi6NLuBkU5j%2FfofR6C4ac7p8cjKvAYx1V9gJACkSaBiRtxOu6jKYlG%2BuSFz44XMpDarrK%2BybPILldqzpI%2FKSZ2Q1dnxVkpmxxMfbdCpWAIKM9rviS8nI5NaTals110Uaap%2FomCJ0KXRpW%2B%2BO539PCJEUO5TsJzm8PLPmRN5NsWus6ujzrXtslVF9q2yukozrWnRHNZzPj4cX0m9km&pdp_filters=item_id%3AMLM2227711053",
+        "price": 14999.0,
+        "model": "EA815050"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cafetera Expreso PATBRELA CM005 Semi Automática de 20 Bar, Para Café Molido y Cápsulas Nespresso con Espumador de Leche y Molinillo",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=74dhpez1ACclrm5x5ogo%2FfVuo82zTjFgSTBxD4IIk273zxDcYJjPpoipG1p16zeqWPht7Hpzz2kdRYK6gKcIsYsEUlWj1Z0X05EKIX7%2B8mAo4%2FS9LQm4wcNfZlG%2BNhNODMPSpuYd6781Hl7v7ser7UxQDOrWgfXt6FPKhDtI8U6NtDzUyhMul9gZzOtYmC%2FtBljyqkm28gxzByfcQUAoQx4vblxzmbdOVhAmSCkcYGeZzwFtA5ThwM7B5IH9tfWRyquCNX3RaLTglP%2FYgnsedG6WDW6stzH4qXaiza860cPmKj4C1mqg9N4LrNcetWNz3wlZFP%2FI8hxqSENqu4pfdByw7ioMWFOsIkwNMvTKeq6oK0H83bxf%2BUD6RlSsM5EbLvxTC5j540K4qs3eYXQVzvwlAY6UJTn%2FFkVlyc9hzV31td8GQNHJXDJMuo2d4KCt3LHQ0FlMOFKhbztQlr4ZGmpcBKyYp2MFhj%2BKubuPI59Suo0Q4Ueco5Nl3LPDZSEkpZ22YTEJshOkXyn1u2xWjr5N92rgfcV4IhWsTs6NfGUVKZcAyqdF3I%2FycIRjFcS%2Fv1RD96pio%2FU%2BKcSi5Jync71WyA5bYSGOSN0j6uiH6mx5mWDQMyVz1njLm7gAFsfbkuYP7IYkyCTAjE4Zr%2FKwN6Vl3hoRShFv2G%2FBpIDKDxEFThjsgfsRCfIXnk1ZJ9aARor5LY2%2BiLDSt3Zzj2e2sL5JpfO6BbClTORg9yOFHe2%2B4chZJlA6BNmCisiFJpP%2BCSXQ%2BJnqgdoelu8QkEn%2F5%2Fdtbj8EjDVaULfVqZA7kDULkky4O%2FgVQM74EqrcrcpDuKVdjW2Ii1TdWtj%2B3Up0z1yOvNwpTQA%2FEdh746WBcqFwmqpNNo2B8sQk5hQv9wK9vIpdC3q2yb4F2uHE%2BGkKjPtuEe6ydVJZMQjjTZID44gNvcnarYX8r7OYFVYwtr9Vj7GLDvR3etzHEMvygFBmpGXZerZEsHybwRryq6zYiWWaJqcsRPpewn5dJ4WFINjRcAkLz8nhAwBgD%2FhNaT26LPjGaiGOEvnEA6ImnhmL3G2i5ZzMqkWvrV9kNCJeCaAczX2Jivzy&pdp_filters=item_id%3AMLM2829116753",
+        "price": 3166.0,
+        "model": "CM005"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Robot De Planchado De Ropa Rowenta Care For You, Yr2040x0 Azul",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=XvUw7uw3VKksbPcFS99qUuyVnckE5D%2B2IaB%2FtGzGRRRmBbbF%2FOLWPmxKkE0VqAtENbLMbtQEWckhBNhB3KFXhpD7iR5iEUk8jzAO5hIgF7nPB%2BeAyGdwf%2B7K521AlgB9vxgD6vyLcxjZGjN6lB8Oy1bvCqFlQ30F%2BKMm6RrY4hoq4AAgUaPXeJXgsTYebgw21k7oyUPreZwPK%2BE7qk0EBDAWAiDh3KujeoJrb2R0M%2BPcnzvOMXlSiBZsC7z6wElV1Mzgyb9umHP8DANs37ks%2FwOq1deydeQVZsG8AJD2%2BOEoIYFIOQoQHTd1uuduIa1gPJegm31Tgy%2FRDXC4bjmvgoxwjaZszytEFa1gQL5kXQlaCumCcxpjRGzPink9CBnZrKyyUM%2BcVopfx2vtxPAPL9x58HGz7vhsYvvwXEAwFh3qKu8tb1OK3U8nIUtwHcqmclufjyjcd6K2OrolUmIiHIBM%2FW3nU4SRVtu0C2Xb%2B74vbSXJO8%2BdKe4gFvH02ymlTNPVIINyTuEhgEBnA1H4Bfm33XH5SlHT6JnKm8EdhBW7BlUz38e5QRQcWV0ILGrRMOaYnMFOm0SATyQbKZvFQBrIPi5NqxUt3riUrdPnd8ySVraHs7r3%2FuyVo1QBpW7FMAo6bzeNOzmWwJfFmRvumYhKeUcYPf0Cj3JYgLVLQgK3omgtbEXLnQsWksxPVmC2LrUizP73mGd26ChXVJavd0ge04S9B3iSgpsAYighVNEt3gLw3OAY7TUsNwcojHKa43QfHCkU01i3lxMWw9%2FkjkALrLArE17V5JPK3YgCV2BktAu2Riz8XDqVxhL2K2KdWN1nZJjpLtQVsFzprXmYT5njIRYz0fgzvsxGe1fcbRj5LqrqcEMnT1rCeByxwaFBdoF6yZGTbttdEhxHmTsfersywl2xxme7d9KS7OmC0x8h33ePOvEIqOkAzyCAN%2BnFJBpYsRncJqkoqkolvoTRK%2FSTY2xKveb0JBv66P3Vsg%3D%3D&pdp_filters=item_id%3AMLM4341366916",
+        "price": 14999.0,
+        "model": "Yr2040x0"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Plancha De Vapor Rowenta Freemove Force, De6735u0 Azul",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=llL%2B1eUTidO8OxeVGZS%2FdAo5snJFMTYBVwctxXRW5H%2BC8iJWYBmI5Dz9FoO03ccM2STPO1ovtpAQcSqL%2FTGu%2B014%2F7kGXGixdUusU2sqjI0e4aGF4s5aTN9Et%2BRc5WrbwJFVxQEL%2F7WzaVs8K%2B6sJvXWFsyAmDsadHa0b8NnVHgIQA5MiavIVxpkGjJVZ9%2Bc3zWagq1TVm%2BGYKTVFjUKJ6WhdNBnzSOJ8DD9yx3JBSsSuFsbiGFxDQndneEkx%2BdYl8IoYzbFVaDqt33CR78fXh3T9Xoe7ObfG%2Brulqk8qTewmqGHBD19UODdwBfxPO6YOrwE%2FauMMCbZbBokHS1%2BQr5S%2Bzd%2Fa8l%2B9A9DpwUrz0xAm827vaehIkroslp8dUiIVNgBm2IWWE1RWHYeW7c0WT1lavygg9pwFekdGDJ0BL2uGpJAsRWfIXVid6BEOY%2F7g4zuNMSE7c3rdFCHepXZk4FHd0CtHNKp178sYuDtIysmtgCJKJpGZPKqKRG1TEiAxFx9hC9YDiDfFJ51B8GGPizNVwYnV6oRX3BHqOL%2FMK%2FpCp%2F2ifwOXSHyaNoS%2FfvGv0WY6BOXS7nzYHayhQUwkX63r%2BhI%2BseOihv8cTU3K7fz0BFwPel8TRy6wwhxJIPOMFO3qTHg7LO%2FwV8Re70kqtPeeJ%2BSMUpQROIGFq%2Fpa78XjmUwocAKKLtFpuhmlA%2Bfzz%2Bz8LxE4EOGNbxYRVh1SJ%2Ba1dyefGWuwTK7MsEfGgCufIO01atIr%2BhmJiTJQcP2l7FhvVkCL6QrjOlbrE7pZAHiO7ai3qpMqJcDNcMVkBOXR5KZwlDlp%2FmsSlJqCezwBddKlvZMj9tYah1xP8ym9SDz1XuvXABavxCicvOlJqDMdMjAo6MpmNBEBXJm0xWNQyjdktYUfNCJ3yUQTHAVOX7I6D7Msly1MIzhpRtVsGCH4VFLn%2BMFb7C1tBL1Uwq%2Bfi7zeKlUMNIMXPk8lXeJkm%2FxsNqVfr63&pdp_filters=item_id%3AMLM4341417806",
+        "price": 2299.0,
+        "model": "De6735u0"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Toallero  Serie Avant, Barra De Toalla De Acero Inoxidable",
+        "url": "https://www.mercadolibre.com.mx/toallero--serie-avant-barra-de-toalla-de-acero-inoxidable/up/MLMU3914234074",
+        "price": 1773.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cafetera 5 En 1 Hamilton Beach Caliente Frio Capsula Flexbr Color Negro",
+        "url": "https://www.mercadolibre.com.mx/cafetera-5-en-1-hamilton-beach-caliente-frio-capsula-flexbr-color-negro/p/MLM46659614",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cafetera Programable Deluxe 12 Tazas Hamilton Beach 46321 Plateado",
+        "url": "https://www.mercadolibre.com.mx/cafetera-programable-deluxe-12-tazas-hamilton-beach-46321-plateado/p/MLM23776706",
+        "price": 1049.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Plancha Y Vaporizador Rowenta Duo Force Jr4030u1 Negro Eucalipto",
+        "url": "https://www.mercadolibre.com.mx/plancha-y-vaporizador-rowenta-duo-force-jr4030u1-negro-eucalipto/p/MLM44134082",
+        "price": 1999.0,
+        "model": "Jr4030u1"
+      }
+    ]
+  },
+  "coppel|9QUOT": {
+    "ts": "2026-07-02T09:29:41.962189+00:00",
+    "items": []
+  },
+  "mercadolibre|9QUOT": {
+    "ts": "2026-07-02T09:29:55.492313+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Touch Screen 9 Pulgadas 30 Pines Flex Xc Pg0900 123 A1",
+        "url": "https://www.mercadolibre.com.mx/touch-screen-9-pulgadas-30-pines-flex-xc-pg0900-123-a1/up/MLMU495650242",
+        "price": 385.0,
+        "model": "Pg0900"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lona Gris Lig 10x30 ( 3.00x9.00)  Geesna",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2923115393-lona-gris-lig-10x30-300x900-geesna-_JM",
+        "price": 690.0,
+        "model": "10x30"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Paquete De 9 Macetas De Orquídea De 18 Cm",
+        "url": "https://www.mercadolibre.com.mx/paquete-de-9-macetas-de-orquidea-de-18-cm/up/MLMU3216117997",
+        "price": 1672.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Césped Artificial 9x14m Color Amarillo 1.78 Altura Alta Dens",
+        "url": "https://www.mercadolibre.com.mx/cesped-artificial-9x14m-color-amarillo-178-altura-alta-dens/up/MLMU4185430624",
+        "price": 53999.0,
+        "model": "9x14m"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cover Dt Uv Uv Mabe 19kg Beige Grabada",
+        "url": "https://www.mercadolibre.com.mx/cover-dt-uv-uv-mabe-19kg-beige-grabada/up/MLMU3877048929",
+        "price": 375.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cutter Reforzado 9 Pulgadas / 22 Centímetros Cortar Materia",
+        "url": "https://www.mercadolibre.com.mx/cutter-reforzado-9-pulgadas-22-centimetros-cortar-materia/p/MLM55564084",
+        "price": 70.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Touch Screen 9 Pulgadas Flex Cq9001 A0 30 Pin",
+        "url": "https://www.mercadolibre.com.mx/touch-screen-9-pulgadas-flex-cq9001-a0-30-pin/up/MLMU3216594800",
+        "price": 420.0,
+        "model": "Cq9001"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lcd + Touch 12.1 Pulgadas Compatible Honor Pad 9 Hey2 W09",
+        "url": "https://www.mercadolibre.com.mx/lcd--touch-121-pulgadas-compatible-honor-pad-9-hey2-w09/up/MLMU4018328236",
+        "price": 1499.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Touch Screen 9 Pulgadas 30 Pines Flex Cq9001 A0",
+        "url": "https://www.mercadolibre.com.mx/touch-screen-9-pulgadas-30-pines-flex-cq9001-a0/up/MLMU464831481",
+        "price": 399.0,
+        "model": "Cq9001"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lona Verd Lig 10x30 ( 3.00x9.00)  Geesna",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2877957009-lona-verd-lig-10x30-300x900-geesna-_JM?searchVariation=193414401294",
+        "price": 691.0,
+        "model": "10x30"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Touch Screen 9 Pulgadas 30 Pines Flex Xc Pg0900 123 A1",
+        "url": "https://www.mercadolibre.com.mx/touch-screen-9-pulgadas-30-pines-flex-xc-pg0900-123-a1/up/MLMU817783814",
+        "price": 298.0,
+        "model": "Pg0900"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lona Azul Lig 10x30  ( 3.00x9.00)  Geesna",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2874391435-lona-azul-lig-10x30-300x900-geesna-_JM?searchVariation=193322475838",
+        "price": 690.0,
+        "model": "10x30"
+      }
+    ]
+  },
+  "liverpool|RC20N6HBX1": {
+    "ts": "2026-07-02T09:30:22.847731+00:00",
+    "items": []
+  },
+  "coppel|RC20N6HBX1": {
+    "ts": "2026-07-02T09:30:26.959256+00:00",
+    "items": []
+  },
+  "amazon|RC20N6HBX1": {
+    "ts": "2026-07-02T09:30:28.907864+00:00",
+    "items": []
+  },
+  "walmart|RC20N6HBX1": {
+    "ts": "2026-07-02T09:30:32.453829+00:00",
+    "items": []
+  },
+  "sams|RC20N6HBX1": {
+    "ts": "2026-07-02T09:30:39.352711+00:00",
+    "items": []
+  },
+  "mercadolibre|RC20N6HBX1": {
+    "ts": "2026-07-02T09:31:07.403031+00:00",
+    "items": []
+  },
+  "liverpool|50NU850BPSA": {
+    "ts": "2026-07-02T09:31:34.799691+00:00",
+    "items": []
+  },
+  "coppel|50NU850BPSA": {
+    "ts": "2026-07-02T09:31:44.160528+00:00",
+    "items": []
+  },
+  "amazon|50NU850BPSA": {
+    "ts": "2026-07-02T09:33:00.495805+00:00",
+    "items": []
+  },
+  "walmart|50NU850BPSA": {
+    "ts": "2026-07-02T09:33:16.930691+00:00",
+    "items": []
+  },
+  "sams|50NU850BPSA": {
+    "ts": "2026-07-02T09:33:26.077130+00:00",
+    "items": []
+  },
+  "mercadolibre|50NU850BPSA": {
+    "ts": "2026-07-02T09:33:55.390744+00:00",
+    "items": []
+  },
+  "liverpool|55QNED81BSG": {
+    "ts": "2026-07-02T09:34:22.681236+00:00",
+    "items": []
+  },
+  "coppel|55QNED81BSG": {
+    "ts": "2026-07-02T09:34:31.143341+00:00",
+    "items": []
+  },
+  "amazon|55QNED81BSG": {
+    "ts": "2026-07-02T09:34:33.933846+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0GYZRN8KW",
+        "price": 21427.0,
+        "model": "QNED81"
+      }
+    ]
+  },
+  "walmart|55QNED81BSG": {
+    "ts": "2026-07-02T09:34:45.639111+00:00",
+    "items": []
+  },
+  "sams|55QNED81BSG": {
+    "ts": "2026-07-02T09:34:58.804171+00:00",
+    "items": []
+  },
+  "mercadolibre|55QNED81BSG": {
+    "ts": "2026-07-02T09:35:35.887298+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Profesional Samsung Electronics Qb65c 4k Uhd Led",
+        "url": "https://www.mercadolibre.com.mx/pantalla-profesional-samsung-electronics-qb65c-pantalla/p/MLM2073211779",
+        "price": 30406.0,
+        "model": "Qb65c"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla 65 Vidaa, Hisense, 65qd6qv, Smart Tv Qled",
+        "url": "https://www.mercadolibre.com.mx/pantalla-65-vidaa-hisense-65qd6qv-smart-tv-qled/up/MLMU3409102897",
+        "price": 11539.0,
+        "model": "65qd6qv"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla 75 Vidaa, Hisense, 75qd6qv, Smart Tv Qled",
+        "url": "https://www.mercadolibre.com.mx/pantalla-75-vidaa-hisense-75qd6qv-smart-tv-qled/up/MLMU3430994520",
+        "price": 15099.0,
+        "model": "75qd6qv"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Lg Tv 4k Qned Tv De 75 Pulgadas Impecable",
+        "url": "https://www.mercadolibre.com.mx/lg-tv-4k-qned-tv-de-75-pulgadas-impecable/up/MLMU4131236993",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Television Samsung 55 Pulg.",
+        "url": "https://www.mercadolibre.com.mx/television-samsung-55-pulg/up/MLMU3846659290",
+        "price": 8000.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente LG Qned Evo Ai 4k Qned85 65 2025 65qned85asg",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-lg-qned-evo-ai-4k-qned85-65-2025-65qned85asg/p/MLM53398247",
+        "price": 19999.0,
+        "model": "65qned85asg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor Led Smart 4k Uhd 55 HYLED5531QR",
+        "url": "https://www.mercadolibre.com.mx/televisor-led-smart-4k-uhd-55-hyled5531qr/p/MLM53607188",
+        "price": 7897.0,
+        "model": "HYLED5531QR"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente QNED evo AI QNED92A Mini LED 4K 85\" LG",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-qned-evo-ai-qned92a-mini-led-4k-85-lg/p/MLM70042233",
+        "price": 45999.0,
+        "model": "QNED92A"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "55 Neo Qled Qn80h 4k Vision Ai Smart Tv (2026)",
+        "url": "https://www.mercadolibre.com.mx/55-neo-qled-qn80h-4k-vision-ai-smart-tv-2026/p/MLM70063325",
+        "price": 14799.0,
+        "model": "Qn80h"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla QN75Q8FAAFXZX 75 pulgadas negro Samsung 127V",
+        "url": "https://www.mercadolibre.com.mx/pantalla-qn75q8faafxzx-75-pulgadas-negro-samsung-127v/p/MLM65373086",
+        "price": 23999.0,
+        "model": "QN75Q8FAAFXZX"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart TV de 75\" LG QNED 75QNED80SRA 4K (Nuevo con caja abierta)",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-de-75-lg-qned-75qned80sra-4k-nuevo-con-caja-abierta/p/MLM2023095502",
+        "price": 17999.0,
+        "model": "75QNED80SRA"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla 65 Inch LG Qnedevo Ai Qned92 4k Smarttv Webos 2025",
+        "url": "https://www.mercadolibre.com.mx/pantalla-65-inch-lg-qnedevo-ai-qned92-4k-smarttv-webos-2025/p/MLM69726398",
+        "price": 25999.0,
+        "model": "Qned92"
+      }
+    ]
+  },
+  "amazon|K65S20M2": {
+    "ts": "2026-07-02T09:35:44.601650+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 65” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYKBXMJX",
+        "price": 12999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II 65\" + 55\" 4K TV Bundle",
+        "url": "https://www.amazon.com.mx/dp/B0FP7MZ5WP",
+        "price": 22998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Soporte de pared articulado de brazo doble resistente para BRAVIA 2 II 4K HDR LED Google TV (2025) K-65S20M2 de 65 pulgadas, inclinable y giratorio/extraíble de 2.8 a 16.5 pulgadas, soporta 165 libras",
+        "url": "https://www.amazon.com.mx/dp/B0FPYKJWXQ",
+        "price": 3619.45,
+        "model": "K-65S20M2"
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
+        "price": 460.3,
+        "model": "RMF-TX920U"
+      },
+      {
+        "store": "amazon",
+        "name": "Soporte de pared para TV ultradelgado para Sony BRAVIA 2 II 4K HDR LED Google (2025) K-65S20M2 de 65 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
+        "url": "https://www.amazon.com.mx/dp/B0FQRPDQSZ",
+        "price": 3502.76,
+        "model": "K-65S20M2"
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Reemplazado Remoto fit for 2024 and 2025 Sony TVs for Backlit K50XR50 K-50XR50 K55HXR80 K55XBR80M2 K55XR50 K-55XR50 K55XR80CB K-55XR80CB K65S20M2 K-65S20M2 K65XBR80M2 K-65XBR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GY8V75Q9",
+        "price": 330.6,
+        "model": "K-65XBR80M2"
+      }
+    ]
+  },
+  "walmart|K65S20M2": {
+    "ts": "2026-07-02T09:35:58.322756+00:00",
+    "items": []
+  },
+  "sams|K65S20M2": {
+    "ts": "2026-07-02T09:36:19.386758+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lapicera Ruz  Infantil K-pop",
+        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
+        "price": 305.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lonchera Ruz  Infantil K-Pop",
+        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Primaria Ruz  K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
+        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
+        "price": 6135.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
+        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
+        "price": 213.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Infantil Ruz  Rígida K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
+        "price": 1227.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Barra de Cereal Special K Kellogg's Chocolate Semiamargo y Fresa 25 pzas de 21 g c/u",
+        "url": "https://www.sams.com.mx/ip/barra-de-cereal-special-k-kellogg-s-chocolate-semiamargo-y-fresa-25-pzas-de-21-g-c-u/980038716",
+        "price": 156.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cereal Kellogg's Special K Original 980 g",
+        "url": "https://www.sams.com.mx/ip/cereal-kellogg-s-special-k-original-980-g/981021985",
+        "price": 110.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Secret",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-secret/981045230",
+        "price": 449.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
+        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
+        "price": 210.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Tour",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-tour/981045229",
+        "price": 449.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Almohada Providencia Guerreras K-Pop Heroínas 1 pza",
+        "url": "https://www.sams.com.mx/ip/almohada-providencia-guerreras-k-pop-heroinas-1-pza/981049392",
+        "price": 244.47,
+        "model": null
+      }
+    ]
+  },
+  "liverpool|K55S20M2": {
+    "ts": "2026-07-02T09:36:46.738606+00:00",
+    "items": []
+  },
+  "coppel|K55S20M2": {
+    "ts": "2026-07-02T09:36:51.582391+00:00",
+    "items": []
+  },
+  "amazon|K55S20M2": {
+    "ts": "2026-07-02T09:36:58.378018+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 55” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYKCTM3Y",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 3 Pantalla 55” 4K HDR Google TV ​Serie S30 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4WNNHTC",
+        "price": 7299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
+        "price": 11995.0,
+        "model": "65QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 55” LED 4K HDR Google TV 2025 Sistema de Teatro casa de 5.1 Canales con Barra de Sonido 400 W | HT-S20R",
+        "url": "https://www.amazon.com.mx/dp/B0H6NL8JD4",
+        "price": 13798.0,
+        "model": "HT-S20R"
+      },
+      {
+        "store": "amazon",
+        "name": "SING F LTD - 10 tornillos de repuesto para soporte de TV M4 x 16 mm con arandelas compatibles con Sony K-55S20M2, color negro",
+        "url": "https://www.amazon.com.mx/dp/B0GTWY66F4",
+        "price": 228.51,
+        "model": "K-55S20M2"
+      },
+      {
+        "store": "amazon",
+        "name": "10 tornillos de repuesto M4 x 16 mm con arandelas compatibles con Sony K-55S20M2 negro",
+        "url": "https://www.amazon.com.mx/dp/B0GTWXMMJN",
+        "price": 480.8,
+        "model": "K-55S20M2"
+      },
+      {
+        "store": "amazon",
+        "name": "10 tornillos de repuesto M4 x 16 mm para el soporte de TV con arandelas, compatibles con Sony K-55S20M2, color negro",
+        "url": "https://www.amazon.com.mx/dp/B0GTWVCW86",
+        "price": 423.53,
+        "model": "K-55S20M2"
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
+        "price": 460.3,
+        "model": "RMF-TX920U"
+      },
+      {
+        "store": "amazon",
+        "name": "Soporte de pared ultra delgado para televisor Sony BRAVIA 2 II 4K HDR LED Google (2025) K-55S20M2 de 55 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
+        "url": "https://www.amazon.com.mx/dp/B0FQRJSLCF",
+        "price": 2320.56,
+        "model": "K-55S20M2"
+      }
+    ]
+  },
+  "walmart|K55S20M2": {
+    "ts": "2026-07-02T09:37:06.496502+00:00",
+    "items": []
+  },
+  "sams|K55S20M2": {
+    "ts": "2026-07-02T09:37:15.812126+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Hielo Frost  15 K",
+        "url": "https://www.sams.com.mx/ip/hielo-frost-15-k/981040667",
+        "price": 61.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bolonia Rosarito  1 K",
+        "url": "https://www.sams.com.mx/ip/bolonia-rosarito-1-k/000019786",
+        "price": 112.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lapicera Ruz  Infantil K-pop",
+        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
+        "price": 305.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lonchera Ruz  Infantil K-Pop",
+        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Primaria Ruz  K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
+        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
+        "price": 6135.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
+        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
+        "price": 213.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Infantil Ruz  Rígida K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
+        "price": 1227.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Barra de Cereal Special K Kellogg's Chocolate Semiamargo y Fresa 25 pzas de 21 g c/u",
+        "url": "https://www.sams.com.mx/ip/barra-de-cereal-special-k-kellogg-s-chocolate-semiamargo-y-fresa-25-pzas-de-21-g-c-u/980038716",
+        "price": 156.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cereal Kellogg's Special K Original 980 g",
+        "url": "https://www.sams.com.mx/ip/cereal-kellogg-s-special-k-original-980-g/981021985",
+        "price": 110.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Queso Farmers Menoniten Tipo Chester 2.2 k",
+        "url": "https://www.sams.com.mx/ip/queso-farmers-menoniten-tipo-chester-2-2-k/000142896",
+        "price": 326.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
+        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
+        "price": 210.73,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|K55S20M2": {
+    "ts": "2026-07-02T09:37:38.237127+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Kit Leds Para LG 55lb5830/ 55lb6000/ 55lb6100 (10t,a+b) Nvo",
+        "url": "https://www.mercadolibre.com.mx/kit-leds-para-lg-55lb5830-55lb6000-55lb6100-10tab-nvo/p/MLM2091170184",
+        "price": 578.0,
+        "model": "55lb5830"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tv Sony Bravia 2 Dolby Atmos 4k Hdr K-55s20m2",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tv-sony-bravia-2-dolby-atmos-4k-hdr-k-55s20m2/p/MLM51433884",
+        "price": 15000.0,
+        "model": "K-55s20m2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Leds Para 55r6000 / 55r6000gm (4t) - Aluminio, Promo*",
+        "url": "https://www.mercadolibre.com.mx/kit-leds-para-55r6000--55r6000gm-4t--aluminio-promo/up/MLMU716392039",
+        "price": 749.0,
+        "model": "55r6000gm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Tiras Led Para Sony Kd-55x75k Oem",
+        "url": "https://www.mercadolibre.com.mx/kit-tiras-led-para-sony-kd55x75k-oem/up/MLMU3803564182",
+        "price": 872.0,
+        "model": "Kd-55x75k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor Sony 55 Pulgadas Bravia Uhd 4k Smart Google Tv",
+        "url": "https://www.mercadolibre.com.mx/televisor-sony-55-pulgadas-bravia-uhd-4k-smart-google-tv/p/MLM74738999",
+        "price": 20999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Tv Hkpro 55' Hkp55rq10, Svsmtr1702 Fte, Wifi, Enc (18)",
+        "url": "https://www.mercadolibre.com.mx/main-tv-hkpro-55-hkp55ruhd1-svsmtr1702-fte-wifi-enc-19/p/MLM2091693798",
+        "price": 700.0,
+        "model": "Svsmtr1702"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sony Smart Tv Pantalla 55  Bravia Ii Uhd 4k Google Tv",
+        "url": "https://www.mercadolibre.com.mx/sony-smart-tv-pantalla-55--bravia-ii-uhd-4k-google-tv/up/MLMU3828942664",
+        "price": 30999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Mango Derecho 897414m91 Direccion Massey 35x 35 835 T20",
+        "url": "https://www.mercadolibre.com.mx/mango-derecho-897414m91-direccion-massey-35x-35-835-t20/up/MLMU600327336",
+        "price": 1198.0,
+        "model": "897414m91"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Led 50s423 50s421 50s425 50s421-mx 50s423-mx 50p65us",
+        "url": "https://www.mercadolibre.com.mx/kit-led-50s423-50s421-50s425-50s421-mx-50s423-mx-50p65us/p/MLM2088916940",
+        "price": 410.0,
+        "model": "50s421-mx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "55a547 2 Tiras 15 Leds 55s434 55s431 55s433 55s21",
+        "url": "https://www.mercadolibre.com.mx/55a547-2-tiras-15-leds-55s434-55s431-55s433-55s21/up/MLMU462330586",
+        "price": 404.0,
+        "model": "55a547"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Led Compatible Con 55lj5400 55lj5400-ua 55uj6200",
+        "url": "https://www.mercadolibre.com.mx/kit-led-compatible-con-55lj5400-55lj5400ua-55uj6200/up/MLMU817350389",
+        "price": 540.0,
+        "model": "55lj5400-ua"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Led Para Kdl-55w800a Kdl-55w805a 2t, 64leds",
+        "url": "https://www.mercadolibre.com.mx/kit-led-para-kdl55w800a-kdl55w805a-2t-64leds/up/MLMU3393821698",
+        "price": 849.0,
+        "model": "Kdl-55w800a"
+      }
+    ]
+  },
+  "walmart|INALAMBRICOSREDUCCIONAUDIFONOSENCUENTRA": {
+    "ts": "2026-07-02T09:38:32.317669+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Azul Oscuro",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-azul-oscuro/00915707080189?athbdg=L1300",
+        "price": 924.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Azul",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-azul/00945599485968?athbdg=L1300",
+        "price": 294.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Verde",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-verde/00945599485218?athbdg=L1300",
+        "price": 294.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Inalámbricos Bluetooth Xihbxyly con Reducción Inteligente Estéreo Hifi",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-xihbxyly-con-reduccion-inteligente-estereo-hifi/00671156195001?athbdg=L6000",
+        "price": 159.85,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Blanco",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-blanco/00945599486955?athbdg=L1300",
+        "price": 294.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-rosa/00945599485680?athbdg=L1300",
+        "price": 294.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-rosa/00945599484813?athbdg=L1300",
+        "price": 724.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares deportivos inalámbricos intraaurales con emparejamiento automático y recargables con reducción de ruido. Blanco",
+        "url": "https://www.walmart.com.mx/ip/auriculares-deportivos-inalambricos-intraaurales-con-emparejamiento-automatico-y-recargables-con-reduccion-de-ruido-blanco/00078669578191?athbdg=L1300",
+        "price": 219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Azul Oscuro",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-azul-oscuro/00915707080190?athbdg=L1300",
+        "price": 924.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalámbricos Pantalla Digital Reducción Ruido Ipx4 Color Azul",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-pantalla-digital-reduccion-ruido-ipx4-color-azul/00945599485970?athbdg=L1300",
+        "price": 294.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Bluetooth, Auriculares inalámbricos, Auriculares Bluetooth Auriculares Bluetooth inalámbricos Tipo de cuello Estéreo Reducción de ruido Tarjeta enchufable universal Auriculares deportivos",
+        "url": "https://www.walmart.com.mx/ip/auriculares-bluetooth-auriculares-inalambricos-auriculares-bluetooth-auriculares-bluetooth-inalambricos-tipo-de-cuello-estereo-reduccion-de-ruido-tarjeta-enchufable-universal-auriculares-deportivos/00201183687541?athbdg=L1300",
+        "price": 167.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Inalámbricos CUTICAT Reducción de Ruido Conducción de Aire Azul",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-cuticat-reduccion-de-ruido-conduccion-de-aire-azul/00075559370406?athbdg=L1300",
+        "price": 269.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|INALAMBRICOSREDUCCIONAUDIFONOSENCUENTRA": {
+    "ts": "2026-07-02T09:39:00.099185+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Billboard  Negro",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-billboard-negro/981053792",
+        "price": 561.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Samsung  Buds3 Blanco",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-samsung-buds3-blanco/981026340",
+        "price": 2658.77,
+        "model": "Buds3"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Bowers & Wilkins  PX8",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-bowers-wilkins-px8/981031330",
+        "price": 13297.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  TWS Naranja",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-tws-naranja/981053796",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  Max Azul",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-max-azul/981053795",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Logitech  G435 Azul",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-logitech-g435-azul/981046208",
+        "price": 2249.56,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  On Ear Naranja",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-naranja/981053793",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Billboard  TWS Gris",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-billboard-tws-gris/981053791",
+        "price": 561.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Skullcandy  S2IAW-S028",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-skullcandy-s2iaw-s028/981049459",
+        "price": 715.08,
+        "model": "S2IAW-S028"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  On Ear Negro",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-negro/981053799",
+        "price": 735.54,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  On Ear Negro",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-negro/981053797",
+        "price": 490.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos STF  On Ear Lila",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-lila/981053798",
+        "price": 490.02,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NEUTROGENASALICILICOLIMPIADORINTENSIVE": {
+    "ts": "2026-07-02T09:39:28.445636+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Gel limpiador facial Neutrogena Deep Clean ácido salicílico 200 ml",
+        "url": "https://www.walmart.com.mx/ip/gel-limpiador-facial-neutrogena-deep-clean-acido-salicilico-200-ml/00007050106090?athbdg=L1510",
+        "price": 103.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Gel limpiador facial Neutrogena oil free toronja ácido salicílico 177 ml",
+        "url": "https://www.walmart.com.mx/ip/gel-limpiador-facial-neutrogena-oil-free-toronja-acido-salicilico-177-ml/00007050105365?athbdg=L1510",
+        "price": 104.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Gel limpiador facial Neutrogena oil free ácido salicílico 177 ml",
+        "url": "https://www.walmart.com.mx/ip/gel-limpiador-facial-neutrogena-oil-free-acido-salicilico-177-ml/00007050101710?athbdg=L1510",
+        "price": 104.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Gel de limpieza facial Neutrogena Deep Clean Intensive piel mixta a grasa 60 g",
+        "url": "https://www.walmart.com.mx/ip/gel-de-limpieza-facial-neutrogena-deep-clean-intensive-piel-mixta-a-grasa-60-g/00789101025486?athbdg=L1510",
+        "price": 54.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Limpiador facial Neutrogena Stubborn Texture con ácido salicílico 180 ml",
+        "url": "https://www.walmart.com.mx/ip/limpiador-facial-neutrogena-stubborn-texture-con-acido-salicilico-180-ml/00007050119307?athbdg=L1300",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Limpiador Facial Neutrogena para el Acné con Ácido Salicílico y Pomelo Rosado Sin Aceite 9.1 Fl Oz Neutrogena N-845322",
+        "url": "https://www.walmart.com.mx/ip/limpiador-facial-neutrogena-para-el-acne-con-acido-salicilico-y-pomelo-rosado-sin-aceite-9-1-fl-oz-neutrogena-n-845322/00007050115369?athbdg=L1300",
+        "price": 679.0,
+        "model": "N-845322"
+      },
+      {
+        "store": "walmart",
+        "name": "Limpiador facial Neutrogena Unively Clear para el acné, 270 ml, con un 2% de ácido salicílico y un 2",
+        "url": "https://www.walmart.com.mx/ip/limpiador-facial-neutrogena-unively-clear-para-el-acne-270-ml-con-un-2-de-acido-salicilico-y-un-2/00007050107893?athbdg=L1300",
+        "price": 619.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NEUTROGENASALICILICOLIMPIADORINTENSIVE": {
+    "ts": "2026-07-02T09:39:43.446255+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Set Protector Solar Neutrogena Beach Defense 2 pzas en Spray FPS 50 de 180 g c/u",
+        "url": "https://www.sams.com.mx/ip/set-protector-solar-neutrogena-beach-defense-2-pzas-en-spray-fps-50-de-180-g-c-u/981049470",
+        "price": 407.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Líquido Member's Mark  Baños y Azulejos 5 l + Atomizador de 1 l",
+        "url": "https://www.sams.com.mx/ip/limpiador-liquido-member-s-mark-banos-y-azulejos-5-l-atomizador-de-1-l/000231992",
+        "price": 218.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Pinol El Original 8 pzas de 1 l c/u",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-pinol-el-original-8-pzas-de-1-l-c-u/000384724",
+        "price": 225.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Pinol El Original 9 l",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-pinol-el-original-9-l/000442053",
+        "price": 209.72,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador de Maderas Pledge Aerosol 2 pack 430 ml c/u",
+        "url": "https://www.sams.com.mx/ip/limpiador-de-maderas-pledge-aerosol-2-pack-430-ml-c-u/981008754",
+        "price": 147.3,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Member's Mark  con Aceite de Pino 20 L",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-member-s-mark-con-aceite-de-pino-20-l/981036160",
+        "price": 392.81,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Member's Mark  Lavanda 10 L",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-member-s-mark-lavanda-10-l/981033337",
+        "price": 150.37,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Fabuloso Frescura Activa Lavanda Antibacterial 10 L",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-fabuloso-frescura-activa-lavanda-antibacterial-10-l/000075232",
+        "price": 199.49,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pastilla Limpiadora Pato para WC con 6 pzas de 52 g c/u",
+        "url": "https://www.sams.com.mx/ip/pastilla-limpiadora-pato-para-wc-con-6-pzas-de-52-g-c-u/000153260",
+        "price": 114.57,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Multiusos Member's Mark  Brisa de Mar 10 L",
+        "url": "https://www.sams.com.mx/ip/limpiador-multiusos-member-s-mark-brisa-de-mar-10-l/000189614",
+        "price": 179.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Líquido Member's Mark  Vidrios y Superficies 5 l + Envase de 1 l",
+        "url": "https://www.sams.com.mx/ip/limpiador-liquido-member-s-mark-vidrios-y-superficies-5-l-envase-de-1-l/000161491",
+        "price": 130.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Limpiador Desinfectante Cloralex Mascotas 10 l",
+        "url": "https://www.sams.com.mx/ip/limpiador-desinfectante-cloralex-mascotas-10-l/000233107",
+        "price": 238.35,
+        "model": null
+      }
+    ]
+  },
+  "walmart|TRANSFERENCIASPROFESSIONALFIJACIONRESIDUOS": {
+    "ts": "2026-07-02T09:39:51.913930+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Mousse Extra 17 | Mousse De Fijación Firme | Fórmula Ligera Que No Rese Ni Deja Residuos | Controla El Frizz Y Acondiciona | Protección T&amp;amp",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-mousse-extra-17-mousse-de-fijacion-firme-formula-ligera-que-no-rese-ni-deja-residuos-controla-el-frizz-y-acondiciona-proteccion-t-amp-amp/00046514052946?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Spray 25 80% | Spray fijador de súper fijación | Secado rápido y sin residuos | Resistencia al viento y la humedad | Todo tipo de cabello | 5",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-spray-25-80-spray-fijador-de-super-fijacion-secado-rapido-y-sin-residuos-resistencia-al-viento-y-la-humedad-todo-tipo-de-cabello-5/00001492616116?athbdg=L1300",
+        "price": 1638.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Mousse 12 | Mousse De Fijación Media | Fórmula Ligera Que No Rese Ni Deje Residuos | Controla El Frizz Y Acondiciona| Todo tipo de cabello | 236 ml",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-mousse-12-mousse-de-fijacion-media-formula-ligera-que-no-rese-ni-deje-residuos-controla-el-frizz-y-acondiciona-todo-tipo-de-cabello-236-ml/00046350144723?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Styling Gel 17 | Gel de fijación alta | Aporta cuerpo y brillo | Controla cabellos gruesos y rebeldes | Sin alcohol, no reseca ni deja residuos | Cabello medio a grueso |",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-styling-gel-17-gel-de-fijacion-alta-aporta-cuerpo-y-brillo-controla-cabellos-gruesos-y-rebeldes-sin-alcohol-no-reseca-ni-deja-residuos-cabello-medio-a-grueso-/00046419942909?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|TRANSFERENCIASPROFESSIONALFIJACIONRESIDUOS": {
+    "ts": "2026-07-02T09:40:01.528922+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cinta de Transferencia CriCut 5.5 x 48 Pulgadas",
+        "url": "https://www.sams.com.mx/ip/cinta-de-transferencia-cricut-5-5-x-48-pulgadas/981005581",
+        "price": 111.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sazonador Granulado Knorr Professional Condimix Sabor Pollo 3.6 kg",
+        "url": "https://www.sams.com.mx/ip/sazonador-granulado-knorr-professional-condimix-sabor-pollo-3-6-kg/000069446",
+        "price": 295.64,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Caldo de Pollo Knorr Professional  13 kg",
+        "url": "https://www.sams.com.mx/ip/caldo-de-pollo-knorr-professional-13-kg/000184945",
+        "price": 1288.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Detergente líquido Persil Professional Universal 9Lt",
+        "url": "https://www.sams.com.mx/ip/detergente-liquido-persil-professional-universal-9lt/000684943",
+        "price": 292.58,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Caldo de Camarón Knorr  Professional 1.6 kg",
+        "url": "https://www.sams.com.mx/ip/caldo-de-camaron-knorr-professional-1-6-kg/000205953",
+        "price": 574.92,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Caldo de Pollo Knorr  Professional 3.5 kg",
+        "url": "https://www.sams.com.mx/ip/caldo-de-pollo-knorr-professional-3-5-kg/000184420",
+        "price": 317.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cepillo Secador GA.MA Italy Professional Modelador Glamour ",
+        "url": "https://www.sams.com.mx/ip/cepillo-secador-ga-ma-italy-professional-modelador-glamour/980041113",
+        "price": 766.21,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Kit Recortador GA.MA Italy Professional Clipper + Trimmer",
+        "url": "https://www.sams.com.mx/ip/kit-recortador-ga-ma-italy-professional-clipper-trimmer/980041106",
+        "price": 919.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Empanizador Knorr  Professional Mezcla en Polvo 1 kg",
+        "url": "https://www.sams.com.mx/ip/empanizador-knorr-professional-mezcla-en-polvo-1-kg/000098652",
+        "price": 121.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Alaciadora de Cabello GA.MA Italy Professional Elegance Led Chía",
+        "url": "https://www.sams.com.mx/ip/alaciadora-de-cabello-ga-ma-italy-professional-elegance-led-chia/980041105",
+        "price": 766.21,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Secadora de Cabello GA.MA Italy Professional Salón Pro Diva 4D Violeta",
+        "url": "https://www.sams.com.mx/ip/secadora-de-cabello-ga-ma-italy-professional-salon-pro-diva-4d-violeta/980041108",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Salsa Roja Deshidratada Knorr  Professional Base para Guisados 500 g",
+        "url": "https://www.sams.com.mx/ip/salsa-roja-deshidratada-knorr-professional-base-para-guisados-500-g/981042984",
+        "price": 197.43,
+        "model": null
+      }
+    ]
+  },
+  "walmart|ZAPATILLASCORRERDURAMOADIDAS": {
+    "ts": "2026-07-02T09:40:11.794179+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TENIS DEPORTIVO ADIDAS DURAMO SL2 J KI3426 25 CM",
+        "url": "https://www.walmart.com.mx/ip/tenis-deportivo-adidas-duramo-sl2-j-ki3426-25-cm/00406881200111",
+        "price": 1299.0,
+        "model": "KI3426"
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS ADIDAS DURAMO SL EL K RUNNING ROSA",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl-el-k-running-rosa/00019646595585?athbdg=L1300",
+        "price": 1529.1,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS DEPORTIVO ADIDAS DURAMO SL 2 EL C 18 CM IH3601",
+        "url": "https://www.walmart.com.mx/ip/tenis-deportivo-adidas-duramo-sl-2-el-c-18-cm-ih3601/00406790458785",
+        "price": 1199.0,
+        "model": "IH3601"
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Adidas Duramo SL2M",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl2m/00406789243362",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Adidas Duramo SL2M",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl2m/00406789243361",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Adidas Duramo SL2M",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl2m/00406789242990",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS DEPORTIVO ADIDAS DURAMO SL2 J KI3426 24.5 CM",
+        "url": "https://www.walmart.com.mx/ip/tenis-deportivo-adidas-duramo-sl2-j-ki3426-24-5-cm/00406881200113",
+        "price": 1299.0,
+        "model": "KI3426"
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS DEPORTIVO ADIDAS DURAMO SL2 J KI3426 23.5 CM",
+        "url": "https://www.walmart.com.mx/ip/tenis-deportivo-adidas-duramo-sl2-j-ki3426-23-5-cm/00406881200108",
+        "price": 1299.0,
+        "model": "KI3426"
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS ADIDAS DURAMO SL EL K RUNNING ROSA",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl-el-k-running-rosa/00750666384686?athbdg=L1300",
+        "price": 1478.13,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS ADIDAS DURAMO SL EL K RUNNING ROSA",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl-el-k-running-rosa/00019646595590?athbdg=L1300",
+        "price": 1529.1,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS ADIDAS DURAMO SL EL K RUNNING ROSA",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl-el-k-running-rosa/00750666384624?athbdg=L1300",
+        "price": 1478.13,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS ADIDAS DURAMO SL EL K RUNNING ROSA",
+        "url": "https://www.walmart.com.mx/ip/tenis-adidas-duramo-sl-el-k-running-rosa/00019646595555?athbdg=L1300",
+        "price": 1529.1,
+        "model": null
+      }
+    ]
+  },
+  "sams|ZAPATILLASCORRERDURAMOADIDAS": {
+    "ts": "2026-07-02T09:40:21.593964+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Margarina Primavera Chantilly sin sal",
+        "url": "https://www.sams.com.mx/ip/margarina-primavera-chantilly-sin-sal/000658864",
+        "price": 102.3,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NINTENDOEDITIONSWITCHJUEGO": {
+    "ts": "2026-07-02T09:40:37.415077+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Nintendo Switch Nintendo HAD-S-KAAAH Gris 32GB Version 1.1 - Standard Edition Version Internacional",
+        "url": "https://www.walmart.com.mx/ip/nintendo-switch-nintendo-had-s-kaaah-gris-32gb-version-1-1-standard-edition-version-internacional/00490237055119",
+        "price": 6324.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nintendo Switch 2 Juego Requiem Standard Edition Europeo",
+        "url": "https://www.walmart.com.mx/ip/nintendo-switch-2-juego-requiem-standard-edition-europeo/00066901421424?athbdg=L1300",
+        "price": 1626.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Juego Absolute Drift: Zen Edition Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/juego-absolute-drift-zen-edition-nintendo-switch/00086000640514",
+        "price": 1309.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Deadly Premonition Origins Standard Edition Nintendo Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/deadly-premonition-origins-standard-edition-nintendo-nintendo-switch/00085373600682",
+        "price": 849.59,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Grand Mountain Adventure: Wonderlands Day 1 Edition Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/grand-mountain-adventure-wonderlands-day-1-edition-nintendo-switch/00085002447945",
+        "price": 1159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Colección Train Valley Deluxe Edition Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/coleccion-train-valley-deluxe-edition-nintendo-switch/00085004716325",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "South Park: The Fractured But Whole Standard Edition - Nintendo Switch Nintendo Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/south-park-the-fractured-but-whole-standard-edition-nintendo-switch-nintendo-nintendo-switch/00088392965368?athbdg=L1300",
+        "price": 979.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "NBA 2K21 Mamba Forever Edition - Nintendo Switch Nintendo Switch Game",
+        "url": "https://www.walmart.com.mx/ip/nba-2k21-mamba-forever-edition-nintendo-switch-nintendo-switch-game/00071042555695",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Ys IX Monstrom NOX Pact Edition - Nintendo Switch Nintendo Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/ys-ix-monstrom-nox-pact-edition-nintendo-switch-nintendo-nintendo-switch/00081002303632",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Power Rangers: Battle for the Grid Collector's Edition Nintendo Switch Game",
+        "url": "https://www.walmart.com.mx/ip/power-rangers-battle-for-the-grid-collector-s-edition-nintendo-switch-game/00081429001582",
+        "price": 1159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Train Valley Collection Standard Edition - Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/train-valley-collection-standard-edition-nintendo-switch/00085004716323",
+        "price": 1219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Ys X Nordics Deluxe Edition - Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/ys-x-nordics-deluxe-edition-nintendo-switch/00081010086389",
+        "price": 2229.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NINTENDOEDITIONSWITCHJUEGO": {
+    "ts": "2026-07-02T09:40:52.149115+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Consola Nintendo Switch 2 256 GB + 1 Juego Descargable",
+        "url": "https://www.sams.com.mx/ip/consola-nintendo-switch-2-256-gb-1-juego-descargable/981054442",
+        "price": 11390.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego Nintendo Switch Mario Party SuperStars Neón 1.1",
+        "url": "https://www.sams.com.mx/ip/videojuego-nintendo-switch-mario-party-superstars-neon-1-1/980031548",
+        "price": 1359.55,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Consola Nintendo Switch 2 256 GB",
+        "url": "https://www.sams.com.mx/ip/consola-nintendo-switch-2-256-gb/981036396",
+        "price": 10390.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego Nintendo Switch Mario Kart 8 Deluxe",
+        "url": "https://www.sams.com.mx/ip/videojuego-nintendo-switch-mario-kart-8-deluxe/000199894",
+        "price": 1380.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego Nintendo Switch Super Mario Party",
+        "url": "https://www.sams.com.mx/ip/videojuego-nintendo-switch-super-mario-party/980009575",
+        "price": 1359.55,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Joy-Con Neon Nintendo Switch (L)/(R)",
+        "url": "https://www.sams.com.mx/ip/joy-con-neon-nintendo-switch-l-r/980006988",
+        "price": 1942.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Videojuego Nintendo Switch Super Smash Bros. Ultimate",
+        "url": "https://www.sams.com.mx/ip/videojuego-nintendo-switch-super-smash-bros-ultimate/980010121",
+        "price": 1359.55,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Joy Con Neon Nintendo Switch (L)/(R) Rosa y Verde",
+        "url": "https://www.sams.com.mx/ip/joy-con-neon-nintendo-switch-l-r-rosa-y-verde/980021099",
+        "price": 2044.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Consola Nintendo Switch 1.1 Neon + Super Mario Bros Wonder + 3 Meses Nintendo Switch Online",
+        "url": "https://www.sams.com.mx/ip/combo-consola-nintendo-switch-1-1-neon-super-mario-bros-wonder-3-meses-nintendo-switch-online/981040872",
+        "price": 6799.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Consola Nintendo Switch Oled White + Super Mario Bros Wonder + 3 Meses Nintendo Switch Online",
+        "url": "https://www.sams.com.mx/ip/combo-consola-nintendo-switch-oled-white-super-mario-bros-wonder-3-meses-nintendo-switch-online/981040871",
+        "price": 7899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Volante y Pedales Hori  Nintendo Switch NSW-228U",
+        "url": "https://www.sams.com.mx/ip/volante-y-pedales-hori-nintendo-switch-nsw-228u/981038756",
+        "price": 3272.56,
+        "model": "NSW-228U"
+      },
+      {
+        "store": "sams",
+        "name": "Joy Con 2 Nintendo Switch 2 (L)/(R) Azul y Rojo",
+        "url": "https://www.sams.com.mx/ip/joy-con-2-nintendo-switch-2-l-r-azul-y-rojo/981049365",
+        "price": 2249.58,
+        "model": null
+      }
+    ]
+  },
+  "amazon|NAUTICATOILETTENAUTICAPERFUMEVOYAGE": {
+    "ts": "2026-07-02T09:41:02.600836+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "CYZONE - All Black 90 ml, Perfume para Hombre, Fresco y Larga Duración, Familia Olfativa Oriental Especiada, Perfume Masculino, Atractivo e Impactante, de Alta Concentración",
+        "url": "https://www.amazon.com.mx/dp/B0D957NGWZ",
+        "price": 215.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ésika - Pack Perfume, Kromo 90 ml + Kromo Fire 90 ml, para Hombres, Frescos y de Larga Duración, Aroma Oriental Especiado y Herbal, Perfumes Masculinos Sofisticados",
+        "url": "https://www.amazon.com.mx/dp/B0CD8B4N7J",
+        "price": 475.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ésika - It's You Perfume 50 ml, para Hombre y mujer, Fresco y de Larga Duración, Familia Olfativa Frutal, Perfume Unisex, Sofisticado y Energizante, de Muy Alta Concentración",
+        "url": "https://www.amazon.com.mx/dp/B07ZK1JXHJ",
+        "price": 175.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lancôme La Vie Est Belle – Perfume de Mujer, Eau de Parfum – Fragancia con Notas de Bergamota, Jazmín, Pachulí, Iris y Vainilla Cálida, Aroma Luminoso, Floral y Atemporal",
+        "url": "https://www.amazon.com.mx/dp/B00I7PK3GQ",
+        "price": 3820.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Voyage Eau de Toilette para Hombre, Multicolor, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B000P22TIY",
+        "price": 291.01,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette, Aroma Amaderado Acuático con Manzana Verde, 200 ML",
+        "url": "https://www.amazon.com.mx/dp/B08F3W312Q",
+        "price": 332.76,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Voyage Eau de Toilette Spray de 3.4 oz para Hombre, 100% Auténtico",
+        "url": "https://www.amazon.com.mx/dp/B01I54ITP0",
+        "price": 249.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coty Nautica Voyage Sport Eau de Toilette para Hombre, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B01HT60GU6",
+        "price": 292.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NÁUTICA, Fragancia para Hombre, Voyage Heritage Eau de Toilette, Aroma Amaderado con Menta y Romero, 100 ML",
+        "url": "https://www.amazon.com.mx/dp/B07JDQPKYW",
+        "price": 259.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Eau de Toilette Voyage N-83 para Hombre, color Azul, 3.4 Oz/ 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B00GF9ZBJA",
+        "price": 280.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Blue Eau de Toilette para Hombre, 100 ml + Nautica Voyage Sport Eau de Toilette para Hombre, 100 ml",
+        "url": "https://www.amazon.com.mx/dp/B0F8LLCKYP",
+        "price": 521.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nautica Voyage Sport Eau de Toilette para Hombre, 100 ml + Nautica Voyage Heritage by Nautica Spray 3.4 oz / 100 ml Men",
+        "url": "https://www.amazon.com.mx/dp/B0F8LRWY51",
+        "price": 551.17,
+        "model": null
+      }
+    ]
+  },
+  "sams|NAUTICATOILETTENAUTICAPERFUMEVOYAGE": {
+    "ts": "2026-07-02T09:41:08.741495+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica Voyage para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-voyage-para-caballero-100-ml/981012206",
+        "price": 393.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  Voyage para Caballero 200 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-voyage-para-caballero-200-ml/981042463",
+        "price": 592.3,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  Voyage Heritage para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-voyage-heritage-para-caballero-100-ml/981049801",
+        "price": 459.31,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  Voyage para Caballero 100 ml 2 pzas",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-voyage-para-caballero-100-ml-2-pzas/980043036",
+        "price": 612.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica Voyage N-83 para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-voyage-n-83-para-caballero-100-ml/981024654",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-para-caballero-100-ml/981011231",
+        "price": 377.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica Classic para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-classic-para-caballero-100-ml/981011229",
+        "price": 305.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau De Toilette Nautica Blue para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-blue-para-caballero-100-ml/981011230",
+        "price": 336.56,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  Blue Sail para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-blue-sail-para-caballero-100-ml/981011232",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Nautica  Blue + Classic para caballero 100 ml c/u",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-nautica-blue-classic-para-caballero-100-ml-c-u/980043047",
+        "price": 510.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Maleta de Cabina Nautica  Negra de 21\" ",
+        "url": "https://www.sams.com.mx/ip/maleta-de-cabina-nautica-negra-de-21/981041692",
+        "price": 1276.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Sombrillas de Golf Nautica  Azul Marino/Blanco/Lima 2 pzas",
+        "url": "https://www.sams.com.mx/ip/set-de-sombrillas-de-golf-nautica-azul-marino-blanco-lima-2-pzas/981040270",
+        "price": 509.45,
+        "model": null
+      }
+    ]
+  },
+  "amazon|EM5031BAPN1": {
+    "ts": "2026-07-02T09:41:11.902066+00:00",
+    "items": []
+  },
+  "sams|EM5031BAPN1": {
+    "ts": "2026-07-02T09:41:17.207333+00:00",
+    "items": []
+  },
+  "amazon|EM5035CSIS1": {
+    "ts": "2026-07-02T09:41:21.295393+00:00",
+    "items": []
+  },
+  "sams|EM5035CSIS1": {
+    "ts": "2026-07-02T09:41:26.527467+00:00",
+    "items": []
+  },
+  "amazon|BENOTTOBICICLETABENOTTO14VELALUM": {
+    "ts": "2026-07-02T09:41:29.561603+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Bicicleta BENOTTO BMX Star Girl R20 | Niña 1 Velocidad | Frenos V/Contrapedal | Acero Blanco | Talla UN",
+        "url": "https://www.amazon.com.mx/dp/B0GFGPPVS9",
+        "price": 2612.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta BENOTTO BMX Star Girl R16 1V. Niña Frenos “V”/Contrapedal Acero Morado/Blanco Talla:UN",
+        "url": "https://www.amazon.com.mx/dp/B0GFGG2Q1K",
+        "price": 2501.76,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta BENOTTO Cross Giselle R16 1V Niña | Frenos Contrapedal y Ruedas Laterales | Acero Rosa/Blanco",
+        "url": "https://www.amazon.com.mx/dp/B09F8TWBGV",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "‍ Bicicleta BENOTTO Cross Giselle R16 para Niña | 1 Velocidad | Frenos Contrapedal | Ruedas Laterales | Cuadro de Acero Blanco/Amarillo | Unitalla",
+        "url": "https://www.amazon.com.mx/dp/B09F8CRLC6",
+        "price": 3178.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Distroller Bicicleta Cross CHAMOY R16 1V. Niña Frenos contra Pedal Ruedas Laterales-Salpicaderas-Timbre Acero Fiucsa/Amarillo",
+        "url": "https://www.amazon.com.mx/dp/B0BHTVCHDD",
+        "price": 3563.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Ruta 590 R700 14v Aluminio Palancas Duales",
+        "url": "https://www.amazon.com.mx/dp/B08XWXKJNR",
+        "price": 7500.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Entrenadora Piccolina R12 Niña Rosa/Blanco",
+        "url": "https://www.amazon.com.mx/dp/B087XC1M19",
+        "price": 1723.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta City Rider R20 1V. Niño Frenos Contrapedal Acero Negro/Rojo",
+        "url": "https://www.amazon.com.mx/dp/B0BHTSRDJ2",
+        "price": 4215.23,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Ruta 590 R700 14v Aluminio Palancas Duales",
+        "url": "https://www.amazon.com.mx/dp/B07ZTWMR84",
+        "price": 7973.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta Infantil Benotto City Build My Bike R16 Blanca 1V con Frenos V y Contrapedal",
+        "url": "https://www.amazon.com.mx/dp/B09B9M1TVN",
+        "price": 3149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Distroller Cross para Niña, Magenta/Azul Oscuro, Mediana",
+        "url": "https://www.amazon.com.mx/dp/B09HMXPHF5",
+        "price": 5098.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JOYSTAR Little Daisy - Bicicleta infantil para niñas de 2 a 7 años con ruedas de entrenamiento y freno de mano delantero, 12, 14, 16 pulgadas, bicicleta de princesa, con cesta, serpentinas, para niños pequeños, color azul, rosa y blanco",
+        "url": "https://www.amazon.com.mx/dp/B08Q82S26N",
+        "price": 2463.37,
+        "model": null
+      }
+    ]
+  },
+  "sams|BENOTTOBICICLETABENOTTO14VELALUM": {
+    "ts": "2026-07-02T09:41:38.503561+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bicicleta de Montaña Huffy  Brawn Rodada 27.5 Verde",
+        "url": "https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-brawn-rodada-27-5-verde/980036652",
+        "price": 5112.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Urbana Huffy  Seville Rodada 26 Azul",
+        "url": "https://www.sams.com.mx/ip/bicicleta-urbana-huffy-seville-rodada-26-azul/981020929",
+        "price": 3577.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bicicleta Spinning Proform  Negra",
+        "url": "https://www.sams.com.mx/ip/bicicleta-spinning-proform-negra/981031681",
+        "price": 6545.15,
+        "model": null
+      }
+    ]
+  },
+  "amazon|VELOCIDADESPROFESIONALLICUADORAMOLEDOR": {
+    "ts": "2026-07-02T09:41:42.828207+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sistema de Cocina Set Licuadora Moledor Y Procesador De Alimentos 7 En 1 Profesional 3 Velocidades 600w Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CV9G6PFH",
+        "price": 840.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional, XTREME MIX, Motor de 1500 W, Tecnología Reversible, Vaso de Vidrio 2 L, para Smoothie, Malteadas, Helado, Frappe, Mantequilla, Vaso Portátil Blend-N-Go, Gris, BLSTXPG-BGW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
+        "price": 1999.0,
+        "model": "2000W"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Profesiona 9500W, Licuadora profesional Cocina 10 en 1, Extractor de Jugo con 3 Contenedores (3L, 1.5L, 0.8L), Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
+        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
+        "price": 1699.0,
+        "model": "9500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips Multiprocesadora PowerChop, motor de 1000W, 6 accesorios, cuchillas PowerChop, 2 velocidades más pulso, negro (HR7304/91)",
+        "url": "https://www.amazon.com.mx/dp/B0DF2FTD23",
+        "price": 1096.0,
+        "model": "HR7304/91"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Profesional 1500W, 2 Litros Vaso Resistente al Calor y Frío, 6 Programas Preestablecidos, Función Autolimpiante, 10 Velocidades Ajustables, Incluye 2 Vasos Portátiles",
+        "url": "https://www.amazon.com.mx/dp/B0DT4CGRJZ",
+        "price": 1689.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora 1500W,Procesador de Alimentos Batidora,Licuadora Profesional,Autolimpiable y sin BPA, Vacío Cubierta Silenciosa,para Batidos,Frutas Congeladas,Smoothies,Exprimidor",
+        "url": "https://www.amazon.com.mx/dp/B0DT4GT9CB",
+        "price": 2899.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Vitamix Batidora de inmersión de 5 velocidades, motor de 625 vatios, operación con una sola mano, cable de 5 pies, acero inoxidable/negro",
+        "url": "https://www.amazon.com.mx/dp/B08DDJMBZM",
+        "price": 3481.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora PDH Profesional 2 Litros, potente motor de 1800 watts nominales y 2500 pico, variador de velocidad, botón de pulso, tapa y vaso de policarbonato, cuchillas de acero inoxidable.",
+        "url": "https://www.amazon.com.mx/dp/B0FLGKMQSP",
+        "price": 1600.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VEVOR Batidora de inmersión comercial, mezclador de mano resistente de 500 W, 20 pulgadas, mezclador de velocidad variable con hoja de acero inoxidable 304, mezclador portátil multiusos para sopa,",
+        "url": "https://www.amazon.com.mx/dp/B0CKX2JYGX",
+        "price": 4094.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VEVOR Licuadora profesional con escudo, encimera comercial, combinación de tarros de 68 onzas, acero inoxidable 9 velocidades y 5 funciones, para batidos, batidos, peree y hielo aplastado, negro",
+        "url": "https://www.amazon.com.mx/dp/B0CCNVVV16",
+        "price": 3799.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora y batidor de inmersión ninja con barra de mano, 4 velocidades, con SplatterShield y PanProtect, recipiente de mezcla de 4 tazas, apto para lavaplatos, cable de 5 pies, ergonómico, azul",
+        "url": "https://www.amazon.com.mx/dp/B0F6NRPXZ7",
+        "price": 1726.7,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIDADESPROFESIONALLICUADORAMOLEDOR": {
+    "ts": "2026-07-02T09:41:54.230333+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148410",
+        "price": 449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Moledor 2 En 1 2 Velocidades Vaso 1.5 Litros Signa Color Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-2-velocidades-vaso-1-5-litros-signa-color-rojo/00750305570816?athbdg=L1300",
+        "price": 369.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148409?athbdg=L1300",
+        "price": 449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora 2 Velocidades Bajo/Alto 1 HP Profesional Omega BL330 OMEGA Licuadora Profesional",
+        "url": "https://www.walmart.com.mx/ip/licuadora-2-velocidades-bajo-alto-1-hp-profesional-omega-bl330-omega-licuadora-profesional/00073741603331?athbdg=L6000",
+        "price": 4478.0,
+        "model": "BL330"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Smoothie 2.1 L 4  Velocidades 1000 W",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-smoothie-2-1-l-4-velocidades-1000-w/00750230152566?athbdg=L6000",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "LICUADORA VASO VIDRIO 700W /TITANIO 2 VEL, CROMO-CROMO MARCA MAN Man LMV-202",
+        "url": "https://www.walmart.com.mx/ip/licuadora-vaso-vidrio-700w-titanio-2-vel-cromo-cromo-marca-man-man-lmv-202/00750137210202",
+        "price": 1235.0,
+        "model": "LMV-202"
+      },
+      {
+        "store": "walmart",
+        "name": "Reemix Licuadora de contador para batidos, licuadoras profesionales de alta velocidad de 1450 W para",
+        "url": "https://www.walmart.com.mx/ip/reemix-licuadora-de-contador-para-batidos-licuadoras-profesionales-de-alta-velocidad-de-1450-w-para/00076795097428",
+        "price": 2196.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Ultrachef U2000 Potencia 2000w Vaso de Tritán BPA FREE Velocidad Ajustable y Pulso",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-ultrachef-u2000-potencia-2000w-vaso-de-tritan-bpa-free-velocidad-ajustable-y-pulso/00750304007196?athbdg=L1300",
+        "price": 2089.05,
+        "model": "U2000"
+      },
+      {
+        "store": "walmart",
+        "name": "LICUADORA MAN LPU-507",
+        "url": "https://www.walmart.com.mx/ip/licuadora-man-lpu-507/00750137210507",
+        "price": 1215.0,
+        "model": "LPU-507"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Ninja Profesional 4 velocidades 1200W Sistema IQ",
+        "url": "https://www.walmart.com.mx/ip/licuadora-ninja-profesional-4-velocidades-1200w-sistema-iq/00062235665110?athbdg=L1300",
+        "price": 2999.0,
+        "model": "1200W"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Ninja Profesional Plus Dúo con AutoIQ 4 Velocidades 2.1 L 1100 W Color Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-ninja-profesional-plus-duo-con-autoiq-4-velocidades-2-1-l-1100-w-color-negro/00062235655076?athbdg=L1300",
+        "price": 2290.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIDADESPROFESIONALLICUADORAMOLEDOR": {
+    "ts": "2026-07-02T09:42:10.046293+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
+        "price": 2863.37,
+        "model": null
+      }
+    ]
+  },
+  "amazon|1000W": {
+    "ts": "2026-07-02T09:42:19.848324+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Corsair RM1000e (2025) Fuente de alimentación ATX Totalmente Modular de bajo Ruido con Cable de 12V-2x6 - Compatible con ATX 3.1 y PCIe 5.1, eficiencia Cybenetics Gold, condensadores a 105°C - Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DPR5RZ1T",
+        "price": 2708.16,
+        "model": "RM1000e"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming 1000 W Gold (1000 vatios, fuente de alimentación totalmente modular compatible con ATX 3.0, certificado por oro 80+, componentes de grado militar, rodamiento de bolas doble, ventilador",
+        "url": "https://www.amazon.com.mx/dp/B0BZWZYTWJ",
+        "price": 2849.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair RM1000x Shift Fuente de alimentación Totalmente Modular - Compatible con ATX 3.1 y PCIe 5.1 - Modo Ventilador Cero RPM - Condensadores a 105°C - Eficiencia 80 Plus Gold - Negro",
+        "url": "https://www.amazon.com.mx/dp/B0BP8B6M7Y",
+        "price": 2987.97,
+        "model": "RM1000x"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming 1000 W Gold White Edition (1000 W, Fuente de alimentación Totalmente Modular, 80+ Gold Certificed, componentes de Grado Militar, Doble rodamiento de Bolas, Ventilador de tecnología",
+        "url": "https://www.amazon.com.mx/dp/B0DHYRB6C3",
+        "price": 3099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair RM1000x Fuente de Alimentación ATX Totalmente Modular de Bajo Ruido – Compatible con ATX 3.1 – Compatible con PCIe 5.1 – Eficiencia Cybenetics Gold – Conector 12V–2x6 Nativo – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DJ1M9C62",
+        "price": 2941.74,
+        "model": "RM1000x"
+      },
+      {
+        "store": "amazon",
+        "name": "MSI Pro A1000PL PCIE5, Fuente de alimentación Totalmente Modular para Juegos de 1000 W, 80+ Platino, Cables duales de 12 V-2 x 6, Condensador de Grado de Servidor, Listo para ATX 3.1 y PCIe 5.1, bajo",
+        "url": "https://www.amazon.com.mx/dp/B0GY1RBQRH",
+        "price": 2499.0,
+        "model": "A1000PL"
+      },
+      {
+        "store": "amazon",
+        "name": "MSI MAG A1000PLS PCIE5, fuente de alimentación totalmente modular para juegos de 1000 W, 80+ platino, cables duales de 12 V-2 x 6, condensador de grado de servidor, listo para ATX 3.1 y PCIe 5.1, bajo",
+        "url": "https://www.amazon.com.mx/dp/B0GY1ZXHW3",
+        "price": 2799.0,
+        "model": "A1000PLS"
+      },
+      {
+        "store": "amazon",
+        "name": "ROG-STRIX-1000P-GAMING - Configuración temprana",
+        "url": "https://www.amazon.com.mx/dp/B0DJ1T9VXB",
+        "price": 4662.03,
+        "model": "ROG-STRIX-1000P-GAMING"
+      },
+      {
+        "store": "amazon",
+        "name": "NZXT C1000 Gold Core - Fuente de alimentación ATX 3.1 de 1000 W - 80 Plus Gold - Cybenetics Platinum - Totalmente modular - PCIe 5.1 600W 12V-2x6 - Ventilador Zero RPM - Condensadores de 105°C - Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FQ6MH33Q",
+        "price": 2637.39,
+        "model": "12V-2x6"
+      },
+      {
+        "store": "amazon",
+        "name": "CyberPower CL2000VR 2000VA/1000W Regulador de Voltaje, Negro",
+        "url": "https://www.amazon.com.mx/dp/B09C7XQ763",
+        "price": 885.0,
+        "model": "2000VA/1000W"
+      },
+      {
+        "store": "amazon",
+        "name": "NZXT Fuente de Poder C1000 1000W 80 Plus Gold Negro ATX 3.1 – Fuente Modular de Alta Eficiencia para PC",
+        "url": "https://www.amazon.com.mx/dp/B0D1VC8C4S",
+        "price": 3138.08,
+        "model": "C1000"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair RM1000e Fuente de alimentación ATX completamente modular de bajo ruido (Conectores EPS12V duales, bajo ruido, condensadores con clasificación de 105°C, eficiencia certificada 80 PLUS Gold",
+        "url": "https://www.amazon.com.mx/dp/B0DBWQ6J11",
+        "price": 1852.11,
+        "model": "RM1000e"
+      }
+    ]
+  },
+  "walmart|1000W": {
+    "ts": "2026-07-02T09:42:33.258712+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "FUENTE CORSAIR 1000W",
+        "url": "https://www.walmart.com.mx/ip/fuente-corsair-1000w/00084000669984?athbdg=L6000",
+        "price": 3086.0,
+        "model": "1000W"
+      },
+      {
+        "store": "walmart",
+        "name": "FUENTE CORSAIR RM1000X 1000W 80PLUS GOLD MODULAR",
+        "url": "https://www.walmart.com.mx/ip/fuente-corsair-rm1000x-1000w-80plus-gold-modular/00084000665394?athbdg=L1300",
+        "price": 5359.0,
+        "model": "RM1000X"
+      },
+      {
+        "store": "walmart",
+        "name": "Inversor de corriente ALEOPIX 1000W 12V a 110V/120V para vehículo",
+        "url": "https://www.walmart.com.mx/ip/inversor-de-corriente-aleopix-1000w-12v-a-110v-120v-para-vehiculo/00046712999887?athbdg=L1300",
+        "price": 2109.0,
+        "model": "110V/120V"
+      },
+      {
+        "store": "walmart",
+        "name": "FUENTE DEEPCOOL 1000W PQ1000G 80PLUS GOLD ATX MODULAR",
+        "url": "https://www.walmart.com.mx/ip/fuente-deepcool-1000w-pq1000g-80plus-gold-atx-modular/00693341274469?athbdg=L6000",
+        "price": 3121.0,
+        "model": "PQ1000G"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora YOU 2 en 1 1000W 1.5L Plata con Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-you-2-en-1-1000w-1-5l-plata-con-negro/00750230986485",
+        "price": 532.0,
+        "model": "1000W"
+      },
+      {
+        "store": "walmart",
+        "name": "Soplador De Polvo Eléctrico ANGGREK 1000W Mano",
+        "url": "https://www.walmart.com.mx/ip/soplador-de-polvo-electrico-anggrek-1000w-mano/00604428022509?athbdg=L6000",
+        "price": 644.0,
+        "model": "1000W"
+      },
+      {
+        "store": "walmart",
+        "name": "Regulador de voltaje de 1000W Steren WMS-1420",
+        "url": "https://www.walmart.com.mx/ip/regulador-de-voltaje-de-1000w-steren-wms-1420/00750625097359?athbdg=L6000",
+        "price": 659.0,
+        "model": "WMS-1420"
+      },
+      {
+        "store": "walmart",
+        "name": "Reflector De Energía  Lab.G Led 1000w Inalámbrico Pared Exterior",
+        "url": "https://www.walmart.com.mx/ip/reflector-de-energia-lab-g-led-1000w-inalambrico-pared-exterior/00750232751277",
+        "price": 969.0,
+        "model": "1000w"
+      },
+      {
+        "store": "walmart",
+        "name": "Subwoofer Profesional De 15 Pulgadas 1000w Audiobahn Resonance15",
+        "url": "https://www.walmart.com.mx/ip/subwoofer-profesional-de-15-pulgadas-1000w-audiobahn-resonance15/00750305344423?athbdg=L1300",
+        "price": 7489.0,
+        "model": "Resonance15"
+      },
+      {
+        "store": "walmart",
+        "name": "Transformador reductor ZHENGXI 1000W 220V a 110V",
+        "url": "https://www.walmart.com.mx/ip/transformador-reductor-zhengxi-1000w-220v-a-110v/00046671446273?athbdg=L1300",
+        "price": 3029.0,
+        "model": "1000W"
+      },
+      {
+        "store": "walmart",
+        "name": "Regulador Complet 2000VA/1000W, 8 Contactos + Protección para",
+        "url": "https://www.walmart.com.mx/ip/regulador-complet-2000va-1000w-8-contactos-proteccion-para/00750169340138",
+        "price": 626.48,
+        "model": "2000VA/1000W"
+      },
+      {
+        "store": "walmart",
+        "name": "Fuente de alimentación Corsair RM1000e 1000W totalmente modular ATX 3.1",
+        "url": "https://www.walmart.com.mx/ip/fuente-de-alimentacion-corsair-rm1000e-1000w-totalmente-modular-atx-3-1/00084044041551?athbdg=L1300",
+        "price": 4719.0,
+        "model": "RM1000e"
+      }
+    ]
+  },
+  "sams|1000W": {
+    "ts": "2026-07-02T09:42:42.169440+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Regulador de Voltaje Koblenz 1400VA/ 1000W RI -1402",
+        "url": "https://www.sams.com.mx/ip/regulador-de-voltaje-koblenz-1400va-1000w-ri-1402/981008736",
+        "price": 1380.02,
+        "model": "1400VA"
+      },
+      {
+        "store": "sams",
+        "name": "Bocina Bluetooth Portátil LG  XBOOM XL9T 1000W",
+        "url": "https://www.sams.com.mx/ip/bocina-bluetooth-portatil-lg-xboom-xl9t-1000w/981018070",
+        "price": 11250.95,
+        "model": "1000W"
+      }
+    ]
   }
 }
