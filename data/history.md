@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (73)
+# Historial de ofertas encontradas (79)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-02 04:02 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-02 04:02 | -21% | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | $3,375 en sams vs mercado -> -21% bajo la competencia |
+| 2026-07-02 04:02 | -21% | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300) | $6,799 | $6,799 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-02 04:02 | -22% | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045?athbdg=L1300) | $6,990 | $6,990 en walmart vs amazon $8,999 -> -22% bajo la competencia |
+| 2026-07-02 04:02 | -23% | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT neg…](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
+| 2026-07-02 04:02 | -35% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600) | $8,090 | $8,090 en walmart vs mercado -> -35% bajo la competencia |
 | 2026-07-01 20:18 | -20% | sams | [Pantalla Samsung  65" QLED Smart TV QN65Q8FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902) | $10,637 | $10,637 en sams vs mercado -> -20% bajo la competencia |
 | 2026-07-01 20:18 | -21% | amazon | [Skechers Go Run Consistent 2.0 Advantage - Tenis para M…](https://www.amazon.com.mx/dp/B0CCTBB4HD) | $1,079 | $1,079 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-07-01 20:18 | -21% | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944) | $6,799 | $6,799 en walmart vs mercado -> -21% bajo la competencia |

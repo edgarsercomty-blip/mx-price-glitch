@@ -1,28 +1,349 @@
 {
-  "generated_at": "2026-07-02 01:40 UTC",
-  "products_scanned": 917,
+  "generated_at": "2026-07-02 04:02 UTC",
+  "products_scanned": 3176,
   "threshold_pct": 20.0,
-  "count": 1,
+  "count": 17,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,999 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 58.4,
+      "detail": "$1,022 en sams vs mercado -> -58% bajo la competencia",
       "likely_typo": false,
-      "savings": 1700.0,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 4999.0,
-      "list_price": null,
+      "savings": 1432.19,
+      "store": "sams",
+      "name": "Cafetera Compacta Keuring  K‑Express Single Serve",
+      "url": "https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307",
+      "price": 1021.98,
+      "list_price": 2454.17,
       "ean": null,
       "model": null,
-      "brand": "Oster",
+      "brand": "Keuring",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42107714",
+        "usItemId": "981045307"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$758 en walmart vs mercado -> -54% bajo la competencia",
+      "likely_typo": false,
+      "savings": 873.15,
+      "store": "walmart",
+      "name": "Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plateado, 1 Pieza",
+      "url": "https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300",
+      "price": 758.0,
+      "list_price": 1379.0,
+      "ean": null,
+      "model": "92180PC",
+      "brand": "T-fal",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750110832157"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$10,752 en palacio vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10248.42,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+      "price": 10751.58,
+      "list_price": 25599.0,
+      "ean": null,
+      "model": "75Q6K",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44576283",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,090 en walmart vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4409.0,
+      "store": "walmart",
+      "name": "Secadora Mabe 20  kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600",
+      "price": 8090.0,
+      "list_price": 10790.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763897119"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.5,
+      "detail": "$3,799 en walmart vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2000.0,
+      "store": "walmart",
+      "name": "Audifonos Apple airpods Pro 3 Blancos",
+      "url": "https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300",
+      "price": 3799.0,
+      "list_price": 5799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019595054362"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.8,
+      "detail": "$8,999 en walmart vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4298.98,
+      "store": "walmart",
+      "name": "Lavadora Whirlpool Carga Superior 21 Kg Negra",
+      "url": "https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300",
+      "price": 8999.0,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Whirlpool",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00770822805142"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$10,229 en sams vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4770.02,
+      "store": "sams",
+      "name": "iPhone 16 Apple  256 GB 5G Blanco Telcel",
+      "url": "https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997",
+      "price": 10228.98,
+      "list_price": 20458.97,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981028997"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$6,599 en walmart vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3000.0,
+      "store": "walmart",
+      "name": "BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BENOTTO Benotto 570 Ruta",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300",
+      "price": 6599.0,
+      "list_price": 9599.0,
+      "ean": null,
+      "model": "R-700",
+      "brand": "Benotto",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750153732737"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$26,950 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10369.49,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html",
+      "price": 26949.51,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "OLED65C6PSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45395463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,199 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1500.0,
+      "store": "walmart",
+      "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+      "price": 4199.0,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Monk",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750227122227"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.6,
+      "detail": "$245 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 74.0,
+      "store": "amazon",
+      "name": "MOSISO Funda Compatible con MacBook Air 13.6 Pulgadas Case 2026-2022 M5 A3449 M4 A3240 M3 A3113 M2 A2681,Carcasa Rígida de Plástico&Cubierta de Teclado&Protector de Pantalla&Tipo C,Claro Cristal",
+      "url": "https://www.amazon.com.mx/dp/B0B7H3V2V7",
+      "price": 245.0,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "A3449",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0B7H3V2V7"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 569.0,
+      "store": "walmart",
+      "name": "LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra",
+      "url": "https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814",
+      "price": 1930.0,
+      "list_price": null,
+      "ean": null,
+      "model": "BN700",
+      "brand": "Ninja",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00820095550814"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 22.2,
+      "detail": "$6,990 en walmart vs amazon $8,999 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2009.0,
+      "store": "walmart",
+      "name": "Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz Black MDRT346MTM28D",
+      "url": "https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045?athbdg=L1300",
+      "price": 6990.0,
+      "list_price": 8990.0,
+      "ean": null,
+      "model": "MDRT346MTM28D",
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00695490382045"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.7,
+      "detail": "$6,799 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1840.0,
+      "store": "walmart",
+      "name": "Lavadora Mabe 16 Kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300",
+      "price": 6799.0,
+      "list_price": 11099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763896944"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,079 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 289.62,
+      "store": "amazon",
+      "name": "Skechers Go Run Consistent 2.0 Advantage - Tenis para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CCTBB4HD",
+      "price": 1078.8,
+      "list_price": 359.6,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CCTBB4HD"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$3,375 en sams vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 895.97,
+      "store": "sams",
+      "name": "Airpods Apple  con Estuche de Carga Blanco",
+      "url": "https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208",
+      "price": 3374.88,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "980020208"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.1,
+      "detail": "$5,699 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1491.0,
+      "store": "walmart",
+      "name": "Congelador Midea 7 Pies Negro",
+      "url": "https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300",
+      "price": 5699.0,
+      "list_price": 8399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694046193699"
       }
     }
   ]
