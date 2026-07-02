@@ -20305,5 +20305,187 @@
   "sams|KITCHENAIDADITAMENTOALIMENTOSMOLINILLOMETAL": {
     "ts": "2026-07-02T17:30:45.321708+00:00",
     "items": []
+  },
+  "amazon|KITCHENAIDLICUADORASERIEVEL400": {
+    "ts": "2026-07-02T19:04:35.508868+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid KSB4027PA K400 Countertop Blender, 56 Oz, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B07WHFBL5X",
+        "price": 5209.0,
+        "model": "KSB4027PA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
+        "price": 2260.33,
+        "model": "7KSB4027MPA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KHBC412OB 400 Series Licuadora de inmersión comercial con brazo de mezcla de 12 pulgadas, ónix negro",
+        "url": "https://www.amazon.com.mx/dp/B094YK3ZYJ",
+        "price": 16072.71,
+        "model": "KHBC412OB"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Rosa seca",
+        "url": "https://www.amazon.com.mx/dp/B09TDGQV52",
+        "price": 5449.0,
+        "model": "KSB4028"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Terciopelo azul",
+        "url": "https://www.amazon.com.mx/dp/B09TD44VY2",
+        "price": 7947.48,
+        "model": "KSB4028"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora Sistema de Cocina 1400W | Jarra 72 oz + Procesador 8 Tazas + 2 Vasos 24 oz | 5 Programas Auto-iQ | Masa, Picar, Smoothies y Frozen | Apto Lavavajillas | BN801",
+        "url": "https://www.amazon.com.mx/dp/B08559K7CN",
+        "price": 3499.0,
+        "model": "1400W"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster M450-20 Licuadora con 2 Velocidades y Vaso Vidrio, 400 Watts",
+        "url": "https://www.amazon.com.mx/dp/B00UAKJLT6",
+        "price": 1136.0,
+        "model": "M450-20"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1245.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Contorno plateado",
+        "url": "https://www.amazon.com.mx/dp/B09TD77SG2",
+        "price": 7627.37,
+        "model": "KSB4028"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1449.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuenco mezclador de 1,6 l para licuadora K400",
+        "url": "https://www.amazon.com.mx/dp/B085ZV5L2G",
+        "price": 2842.94,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadroa KitchenAid KSB4027CU Contour Silver",
+        "url": "https://www.amazon.com.mx/dp/B07WD5YLK2",
+        "price": 5259.0,
+        "model": "KSB4027CU"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORASERIEVEL400": {
+    "ts": "2026-07-02T19:04:55.241165+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1098.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K400 de velocidad variable KSB4028 negra mate",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k400-de-velocidad-variable-ksb4028-negra-mate/00046231410965?athbdg=L1300",
+        "price": 9499.0,
+        "model": "KSB4028"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K150 3 Velocidades Triturado de Hielo 1.4L",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-3-velocidades-triturado-de-hielo-1-4l/00088304952451",
+        "price": 5549.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora 2 Vel Vaso Plastico 1.5 L Blanco Decakila KUJB014W",
+        "url": "https://www.walmart.com.mx/ip/licuadora-2-vel-vaso-plastico-1-5-l-blanco-decakila-kujb014w/00694155629833",
+        "price": 648.0,
+        "model": "KUJB014W"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 2249.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos, negra",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos-negra/00088304993141",
+        "price": 5379.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552",
+        "price": 1999.0,
+        "model": "7ksb2072mbm"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Proctor Silex 50135 10 Vel Jarra Vidrio Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-proctor-silex-50135-10-vel-jarra-vidrio-rojo/00002233392992",
+        "price": 674.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "LICUADORA VASO VIDRIO 700W /TITANIO 2 VEL, CROMO-CROMO MARCA MAN Man LMV-202",
+        "url": "https://www.walmart.com.mx/ip/licuadora-vaso-vidrio-700w-titanio-2-vel-cromo-cromo-marca-man-man-lmv-202/00750137210202",
+        "price": 1235.0,
+        "model": "LMV-202"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORASERIEVEL400": {
+    "ts": "2026-07-02T19:04:57.012438+00:00",
+    "items": []
   }
 }
