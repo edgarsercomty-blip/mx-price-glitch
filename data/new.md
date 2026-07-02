@@ -1,19 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-02 09:42 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-02 11:28 UTC
 
-- Hallazgos: **13**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -52% | $11,142 | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | Confirmado vs competencia | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
-| -34% | $9,594 | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | Confirmado vs competencia | $18,719 en palacio vs mercado -> -34% bajo la competencia |
-| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
-| -25% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $13,874 | Confirmado vs competencia | $13,874 en palacio vs mercado -> -25% bajo la competencia |
-| -35% | $3,600 | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | Confirmado vs competencia | $6,699 en walmart vs mercado -> -35% bajo la competencia |
-| -35% | $2,400 | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | Confirmado vs competencia | $4,499 en walmart vs mercado -> -35% bajo la competencia |
-| -21% | $464 | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | Confirmado vs competencia | $1,735 en amazon vs mercado -> -21% bajo la competencia |
-| -25% | $285 | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | Confirmado vs competencia | $869 en amazon vs mercado -> -25% bajo la competencia |
-| -31% | $117 | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1300) | $260 | Confirmado vs competencia | $260 en walmart vs sams $377, sams $388 -> -31% bajo la competencia |
-| -28% | $39 | amazon | [NYX Professional Makeup The Brow Glue Instant Brow Styler, g…](https://www.amazon.com.mx/dp/B0BDP7PB83) | $103 | Confirmado vs competencia | $103 en amazon vs mercado -> -28% bajo la competencia |
-| -27% | $20 | amazon | [Neutrogena Gel Limpiador Facial Deep Clean Intensive Toronja…](https://www.amazon.com.mx/dp/B0B8PXK3WR) | $54 | Confirmado vs competencia | $54 en amazon vs mercado -> -27% bajo la competencia |
-| -41% | — | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7622BA…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | 🔁 De nuevo disponible | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
-| -37% | — | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 De nuevo disponible | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
+_Sin hallazgos por encima del umbral en esta corrida._
