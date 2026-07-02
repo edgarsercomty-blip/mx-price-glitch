@@ -1,9 +1,91 @@
 {
-  "generated_at": "2026-07-02 19:04 UTC",
-  "products_scanned": 916,
+  "generated_at": "2026-07-02 19:46 UTC",
+  "products_scanned": 2798,
   "threshold_pct": 20.0,
-  "count": 20,
+  "count": 39,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$758 en walmart vs mercado -> -54% bajo la competencia",
+      "likely_typo": false,
+      "savings": 873.15,
+      "store": "walmart",
+      "name": "Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plateado, 1 Pieza",
+      "url": "https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300",
+      "price": 758.0,
+      "list_price": 1379.0,
+      "ean": null,
+      "model": "92180PC",
+      "brand": "T-fal",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750110832157"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11142.04,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html",
+      "price": 10284.96,
+      "list_price": 21427.0,
+      "ean": null,
+      "model": "55QNED81BSG",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505429",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$11,520 en palacio vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9480.45,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+      "price": 11519.55,
+      "list_price": 25599.0,
+      "ean": null,
+      "model": "75Q6K",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44576283",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 61.5,
+      "detail": "$500 en amazon vs mercado -> -44% bajo la competencia",
+      "likely_typo": false,
+      "savings": 400.0,
+      "store": "amazon",
+      "name": "Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Zoom 18X, Detección de Rostros, Estabilización, Lapso de Tiempo, Cámara Lenta, Recargable, Transmisión en Vivo para",
+      "url": "https://www.amazon.com.mx/dp/B0D5R1YT8P",
+      "price": 499.99,
+      "list_price": 1299.99,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0D5R1YT8P"
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -48,6 +130,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.8,
+      "detail": "$4,499 en walmart vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2400.0,
+      "store": "walmart",
+      "name": "Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE",
+      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434",
+      "price": 4499.0,
+      "list_price": 6899.0,
+      "ean": null,
+      "model": "EM5031BAPN1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763840434"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.5,
+      "detail": "$3,799 en walmart vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2000.0,
+      "store": "walmart",
+      "name": "Audifonos Apple airpods Pro 3 Blancos",
+      "url": "https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300",
+      "price": 3799.0,
+      "list_price": 5799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019595054362"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$18,719 en palacio vs mercado -> -34% bajo la competencia",
       "likely_typo": false,
@@ -65,6 +187,46 @@
       "extra": {
         "id": "44172333",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$260 en walmart vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 131.36,
+      "store": "walmart",
+      "name": "Perfume Nautica Voyage Eau de Toilette 100 ml",
+      "url": "https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1300",
+      "price": 260.0,
+      "list_price": 400.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nautica",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00003165553190"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$6,599 en walmart vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3000.0,
+      "store": "walmart",
+      "name": "BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BENOTTO Benotto 570 Ruta",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300",
+      "price": 6599.0,
+      "list_price": 9599.0,
+      "ean": null,
+      "model": "R-700",
+      "brand": "Benotto",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750153732737"
       }
     },
     {
@@ -90,6 +252,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$9,899 en mercadolibre vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4030.0,
+      "store": "mercadolibre",
+      "name": "Pantalla Samsung 65 Pulgadas Series Uhd 4k Smart Tizen Tv",
+      "url": "https://www.mercadolibre.com.mx/pantalla-samsung-65-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM66344857",
+      "price": 9899.0,
+      "list_price": 9899.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM66344857"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.8,
+      "detail": "$5,690 en walmart vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2300.0,
+      "store": "walmart",
+      "name": "Congelador Hisense 7 Pies Gris FC70D6BGX",
+      "url": "https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300",
+      "price": 5690.0,
+      "list_price": 7990.0,
+      "ean": null,
+      "model": "FC70D6BGX",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00692172706284"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 46.0,
       "detail": "$16,739 en palacio vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -107,6 +309,46 @@
       "extra": {
         "id": "44964251",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$145 en amazon vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 54.0,
+      "store": "amazon",
+      "name": "Suavitel Suavizante de Ropa Cuidado Superior Fresca Primavera 4.8 L. Disfruta de 100% más Fragancia y Duración. Extra Aroma Hasta Por 90 Días y Prendas Deliciosamente Suaves",
+      "url": "https://www.amazon.com.mx/dp/B0BPB5MG17",
+      "price": 145.0,
+      "list_price": 0.03,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BPB5MG17"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,199 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1500.0,
+      "store": "walmart",
+      "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+      "price": 4199.0,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Monk",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750227122227"
       }
     },
     {
@@ -259,27 +501,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 824.75,
-      "store": "palacio",
-      "name": "Aditamento Molinillo de Alimentos en Metal",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html",
-      "price": 2474.25,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41758703",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 10612.25,
@@ -295,6 +516,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44729901",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 824.75,
+      "store": "palacio",
+      "name": "Aditamento Molinillo de Alimentos en Metal",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html",
+      "price": 2474.25,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41758703",
         "outlet": false
       }
     },
@@ -321,23 +563,142 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 42.0,
-      "detail": "$14,499 en palacio vs mercado -> -22% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$8,090 en walmart vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 3979.92,
-      "store": "palacio",
-      "name": "Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado",
-      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html",
-      "price": 14499.42,
-      "list_price": 24999.0,
+      "savings": 2654.5,
+      "store": "walmart",
+      "name": "Secadora Mabe 20  kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300",
+      "price": 8090.0,
+      "list_price": 10790.0,
       "ean": null,
-      "model": "RMS510ICMRX0",
+      "model": null,
       "brand": "Mabe",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "39961562",
-        "outlet": false
+        "usItemId": "00075763897119"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.8,
+      "detail": "$1,219 en walmart vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 380.0,
+      "store": "walmart",
+      "name": "Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable",
+      "url": "https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300",
+      "price": 1219.0,
+      "list_price": 1599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hamilton Beach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00004009493540"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.9,
+      "detail": "$312 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 93.5,
+      "store": "amazon",
+      "name": "UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería hasta 32 Horas, Driver de 10mm Hi-Fi Calida de Sonido, Reducción de Ruido AI para Llamadas, Admite App y Encuentra Audifonos y 8 EQ Efectos",
+      "url": "https://www.amazon.com.mx/dp/B0F94D2JB6",
+      "price": 312.0,
+      "list_price": 599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0F94D2JB6"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 569.0,
+      "store": "walmart",
+      "name": "LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra",
+      "url": "https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814",
+      "price": 1930.0,
+      "list_price": null,
+      "ean": null,
+      "model": "BN700",
+      "brand": "Ninja",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00820095550814"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$6,699 en walmart vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1950.0,
+      "store": "walmart",
+      "name": "Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con Capelo de cristal templado",
+      "url": "https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300",
+      "price": 6699.0,
+      "list_price": 10299.0,
+      "ean": null,
+      "model": "EM5035CSIS1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763840437"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,649 en amazon vs amazon $2,111, walmart $3,359, walmart $3,399 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 462.0,
+      "store": "amazon",
+      "name": "ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB MicroSDXC/SDCH UHS-I U3 Class 10 (V30S) A2",
+      "url": "https://www.amazon.com.mx/dp/B07RLHSKJ7",
+      "price": 1649.0,
+      "list_price": 183.22,
+      "ean": null,
+      "model": "512GB",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B07RLHSKJ7"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$869 en amazon vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 240.03,
+      "store": "amazon",
+      "name": "Calvin Klein Carlla Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0BTTQVSM6",
+      "price": 869.21,
+      "list_price": 1553.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BTTQVSM6"
       }
     },
     {
@@ -359,6 +720,26 @@
       "extra": {
         "id": "44964263",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.7,
+      "detail": "$6,799 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1840.0,
+      "store": "walmart",
+      "name": "Lavadora Mabe 16 Kg Blanca",
+      "url": "https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944",
+      "price": 6799.0,
+      "list_price": 11099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763896944"
       }
     },
     {

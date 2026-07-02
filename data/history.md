@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (139)
+# Historial de ofertas encontradas (145)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-02 19:46 | -22% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $869 | $869 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-07-02 19:46 | -22% | amazon | [ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB M…](https://www.amazon.com.mx/dp/B07RLHSKJ7) | $1,649 | $1,649 en amazon vs amazon $2,111, walmart $3,359, walmart $3,399 -> -22% bajo la competencia |
+| 2026-07-02 19:46 | -24% | walmart | [Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300) | $1,219 | $1,219 en walmart vs mercado -> -24% bajo la competencia |
+| 2026-07-02 19:46 | -27% | amazon | [Suavitel Suavizante de Ropa Cuidado Superior Fresca Pri…](https://www.amazon.com.mx/dp/B0BPB5MG17) | $145 | $145 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-07-02 19:46 | -29% | walmart | [Congelador Hisense 7 Pies Gris FC70D6BGX](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300) | $5,690 | $5,690 en walmart vs mercado -> -29% bajo la competencia |
+| 2026-07-02 19:46 | -29% | mercadolibre | [Pantalla Samsung 65 Pulgadas Series Uhd 4k Smart Tizen …](https://www.mercadolibre.com.mx/pantalla-samsung-65-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM66344857) | $9,899 | $9,899 en mercadolibre vs mercado -> -29% bajo la competencia |
 | 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespok…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | $13,622 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | $11,880 en palacio vs sams $20,459 -> -20% bajo la competencia |
 | 2026-07-02 14:37 | -20% | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | $10,361 en palacio vs mercado -> -20% bajo la competencia |
