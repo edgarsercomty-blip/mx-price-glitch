@@ -20193,5 +20193,117 @@
         "model": null
       }
     ]
+  },
+  "amazon|KITCHENAIDADITAMENTOALIMENTOSMOLINILLOMETAL": {
+    "ts": "2026-07-02T17:30:20.370322+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Accesorio metálico para molinillo de alimentos KitchenAid KSMMGA",
+        "url": "https://www.amazon.com.mx/dp/B07GK7XKJK",
+        "price": 1804.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Accesorio para pasta de metal 3 en 1, KSM3MPA",
+        "url": "https://www.amazon.com.mx/dp/B09SGC7D4S",
+        "price": 2849.05,
+        "model": "KSM3MPA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Rallador de caja gourmet, Caja, Negro, 1",
+        "url": "https://www.amazon.com.mx/dp/B005CN5JEM",
+        "price": 500.96,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart - Molino de alimentos de acero inoxidable, 2.3 cuartos de galón, Negro y plata",
+        "url": "https://www.amazon.com.mx/dp/B09417C6RC",
+        "price": 753.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KSMFGA Food Grinder Attachment, One Size, White",
+        "url": "https://www.amazon.com.mx/dp/B07XTRQ193",
+        "price": 745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 5KSMMGA - Accesorio para picadora de carne (metal), color plateado",
+        "url": "https://www.amazon.com.mx/dp/B07FTBGW9B",
+        "price": 2762.38,
+        "model": "5KSMMGA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid BCG111ER Molino de Cuchillas para Café, color Rojo",
+        "url": "https://www.amazon.com.mx/dp/B006H41LX8",
+        "price": 1559.0,
+        "model": "BCG111ER"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Molinillo de Frijoles",
+        "url": "https://www.amazon.com.mx/dp/B004UQYR5O",
+        "price": 3372.84,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Picador manual de alimentos, gris carbón, 3.8 tazas",
+        "url": "https://www.amazon.com.mx/dp/B0DHLRX71R",
+        "price": 575.22,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid UK 5KSMFVSFGA - Molinillo de alimentos y colador de verduras, acero",
+        "url": "https://www.amazon.com.mx/dp/B081ZFSWTJ",
+        "price": 3039.49,
+        "model": "5KSMFVSFGA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Picador manual de alimentos, 3.8 tazas, negro",
+        "url": "https://www.amazon.com.mx/dp/B0DFZ3CT2D",
+        "price": 575.22,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Go - Molinillo de especias para molinillo de café inalámbrico KitchenAid Go",
+        "url": "https://www.amazon.com.mx/dp/B0DN6WB7B9",
+        "price": 912.71,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDADITAMENTOALIMENTOSMOLINILLOMETAL": {
+    "ts": "2026-07-02T17:30:44.171598+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Accesorio para molinillo de granos KitchenAid KGM, totalmente metálico, para batidora de pie",
+        "url": "https://www.walmart.com.mx/ip/accesorio-para-molinillo-de-granos-kitchenaid-kgm-totalmente-metalico-para-batidora-de-pie/00005094600019?athbdg=L1300",
+        "price": 3639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molinillo de sal KitchenAid, relleno de acero inoxidable, 20 cm",
+        "url": "https://www.walmart.com.mx/ip/molinillo-de-sal-kitchenaid-relleno-de-acero-inoxidable-20-cm/00003753107865?athbdg=L1300",
+        "price": 619.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDADITAMENTOALIMENTOSMOLINILLOMETAL": {
+    "ts": "2026-07-02T17:30:45.321708+00:00",
+    "items": []
   }
 }
