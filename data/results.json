@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02 11:28 UTC",
+  "generated_at": "2026-07-02 13:23 UTC",
   "products_scanned": 879,
   "threshold_pct": 20.0,
-  "count": 12,
+  "count": 14,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,26 @@
       "extra": {
         "id": "44172333",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 16.1,
+      "detail": "$9,539 en walmart vs palacio $13,874, walmart $14,909, walmart $18,145 -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4335.25,
+      "store": "walmart",
+      "name": "Máquina de café espresso KitchenAid KES6403 semiautomática 1.4L",
+      "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300",
+      "price": 9539.0,
+      "list_price": 11365.0,
+      "ean": null,
+      "model": "KES6403",
+      "brand": "Kitchenaid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00088304952662"
       }
     },
     {
@@ -133,27 +153,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$13,874 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4624.75,
-      "store": "palacio",
-      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
-      "price": 13874.25,
-      "list_price": 18499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44064062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 10612.25,
@@ -216,6 +215,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.0,
+      "detail": "$14,499 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3979.92,
+      "store": "palacio",
+      "name": "Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html",
+      "price": 14499.42,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "RMS510ICMRX0",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "39961562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$22,714 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -253,6 +273,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43011643",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$5,583 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1395.8,
+      "store": "palacio",
+      "name": "Reloj para Hombre Lexington de Vestir, Dorado",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html",
+      "price": 5583.2,
+      "list_price": 6979.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "19687375",
         "outlet": false
       }
     }

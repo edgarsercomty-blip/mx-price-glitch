@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (119)
+# Historial de ofertas encontradas (120)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-02 13:23 | -20% | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | $5,583 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:42 | -21% | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | $1,735 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-07-02 09:42 | -25% | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | $869 en amazon vs mercado -> -25% bajo la competencia |
 | 2026-07-02 09:42 | -25% | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de…](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $13,874 | $13,874 en palacio vs mercado -> -25% bajo la competencia |

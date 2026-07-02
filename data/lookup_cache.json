@@ -15516,5 +15516,653 @@
         "model": "RJ54-SS-15-D-MX"
       }
     ]
+  },
+  "amazon|MICHAELKORSLEXINGTONVESTIRRELOJ": {
+    "ts": "2026-07-02T13:21:16.884107+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0CFVMW2WY",
+        "price": 3974.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B07QSK7DHR",
+        "price": 2068.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0CFVJZYBZ",
+        "price": 3974.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0CRSNKR38",
+        "price": 4271.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B07GPDWT9Q",
+        "price": 1103.36,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0GF7FCN9Z",
+        "price": 3193.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0GF7JW7FP",
+        "price": 4158.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0CRT23BD5",
+        "price": 4127.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0GF6WS4JP",
+        "price": 2369.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0GF7FG3KJ",
+        "price": 3429.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FK1P61DT",
+        "price": 4032.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors",
+        "url": "https://www.amazon.com.mx/dp/B0FQ7ZRGTK",
+        "price": 3089.58,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MICHAELKORSLEXINGTONVESTIRRELOJ": {
+    "ts": "2026-07-02T13:21:41.257694+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK2076 33324V",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk2076-33324v/00074420333684",
+        "price": 3199.0,
+        "model": "MK2076"
+      },
+      {
+        "store": "walmart",
+        "name": "Jet Set Item Large Crossbody 35F8GTTC3B Michael Kors 35F8GTTC3B",
+        "url": "https://www.walmart.com.mx/ip/jet-set-item-large-crossbody-35f8gttc3b-michael-kors-35f8gttc3b/00019231789288",
+        "price": 1519.83,
+        "model": "35F8GTTC3B"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 303413",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-303413/00074420333681",
+        "price": 3199.0,
+        "model": "MK2050"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTES DE SOL MICHAEL KORS ALPINE MK1119 11536G",
+        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-michael-kors-alpine-mk1119-11536g/00074420333692",
+        "price": 3199.0,
+        "model": "MK1119"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1049 11536G 59MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1049-11536g-59mm/00074420333660",
+        "price": 3199.0,
+        "model": "MK1049"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1019 116371 59MM CAREY",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-116371-59mm-carey/00074420333689",
+        "price": 3199.0,
+        "model": "MK1019"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 325114",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-325114/00074420333663",
+        "price": 3199.0,
+        "model": "MK2050"
+      },
+      {
+        "store": "walmart",
+        "name": "Suéter con mangas con volantes Michael Kors Mujer Azul PS",
+        "url": "https://www.walmart.com.mx/ip/sueter-con-mangas-con-volantes-michael-kors-mujer-azul-ps/00019287761669",
+        "price": 1870.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ARMAZÓN MICHAEL KORS MK4073U 3332",
+        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-mk4073u-3332/00074420333683",
+        "price": 3049.0,
+        "model": "MK4073U"
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa Michael Kors 35T0GCFT7L",
+        "url": "https://www.walmart.com.mx/ip/bolsa-michael-kors-35t0gcft7l/00019359971740?athbdg=L1300",
+        "price": 3037.53,
+        "model": "35T0GCFT7L"
+      },
+      {
+        "store": "walmart",
+        "name": "Lentes de Sol Michael Kors ANAHEIM MK2137U 317513",
+        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-michael-kors-anaheim-mk2137u-317513/00074420333666",
+        "price": 3049.0,
+        "model": "MK2137U"
+      },
+      {
+        "store": "walmart",
+        "name": "Mochila Michael Kors Original + Bolsa Extraible Cuero Maisie",
+        "url": "https://www.walmart.com.mx/ip/mochila-michael-kors-original-bolsa-extraible-cuero-maisie/00019616398967?athbdg=L6000",
+        "price": 4150.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MICHAELKORSLEXINGTONVESTIRRELOJ": {
+    "ts": "2026-07-02T13:21:57.698057+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Parfum  MICHAEL KORS  Pur Homme para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pur-homme-para-caballero-100-ml/981040613",
+        "price": 1431.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau De Parfum Spray Vaporisateur Michael Kors  Gorgeous para Dama 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-spray-vaporisateur-michael-kors-gorgeous-para-dama-100-ml/981031791",
+        "price": 1226.57,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDLICUADORAPORCELAINCOMBOVASOS": {
+    "ts": "2026-07-02T13:22:00.244908+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 2621.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Porcelain White",
+        "url": "https://www.amazon.com.mx/dp/B09R4N69C6",
+        "price": 1899.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1804.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2279.05,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Kitchen Aid Diamond Jar Original modelo KSB560. Capacidad: 56 onzas Número de parte WPW10555711 Reemplaza los números de parte 9708904, W10390812 y W10555711",
+        "url": "https://www.amazon.com.mx/dp/B074X6DHGR",
+        "price": 1399.0,
+        "model": "WPW10555711"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
+        "price": 3047.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 1660.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
+        "price": 2668.6,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Combo Aniversario Oster Licuadora + Cafetera + Parrilla + Vaso Blend N Go, Mod. COMBO-2214832",
+        "url": "https://www.amazon.com.mx/dp/B0FGQNDH5N",
+        "price": 3389.0,
+        "model": "COMBO-2214832"
+      },
+      {
+        "store": "amazon",
+        "name": "nutribullet Blender Jarra de 64 onzas",
+        "url": "https://www.amazon.com.mx/dp/B0846L8WZ7",
+        "price": 1269.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2616.56,
+        "model": "500ml"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORAPORCELAINCOMBOVASOS": {
+    "ts": "2026-07-02T13:22:10.709449+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1098.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nutribullet Licuadora Personal Ultra Silenciosa con 2 Modos Digitales 1200W Renewed",
+        "url": "https://www.walmart.com.mx/ip/nutribullet-licuadora-personal-ultra-silenciosa-con-2-modos-digitales-1200w-renewed/00046802951422",
+        "price": 2599.0,
+        "model": "1200W"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORAPORCELAINCOMBOVASOS": {
+    "ts": "2026-07-02T13:22:25.169470+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 3047.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora KitchenAid  Pure Power + Jarra 7KSB2076MBM",
+        "url": "https://www.sams.com.mx/ip/licuadora-kitchenaid-pure-power-jarra-7ksb2076mbm/981042976",
+        "price": 3067.96,
+        "model": "7KSB2076MBM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 2964.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
+        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
+        "price": 2300.72,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1378.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
+        "price": 1533.47,
+        "model": null
+      }
+    ]
+  },
+  "amazon|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-02T13:22:29.088755+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6551 Máquina de Café Espresso Semiautomática con Molino de Café",
+        "url": "https://www.amazon.com.mx/dp/B0CTCYQJX7",
+        "price": 8499.0,
+        "model": "KES6551"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6551SX - Máquina de café espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.amazon.com.mx/dp/B0CTCXV1WK",
+        "price": 11119.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6503 - Máquina espresso semiautomática de metal",
+        "url": "https://www.amazon.com.mx/dp/B09B19NBGR",
+        "price": 7203.33,
+        "model": "KES6503"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6404 - Máquina de café espresso semiautomática y accesorio automático para espumador de leche",
+        "url": "https://www.amazon.com.mx/dp/B0B6228MWB",
+        "price": 6173.91,
+        "model": "KES6404"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6503 - Máquina de café espresso semiautomática de metal",
+        "url": "https://www.amazon.com.mx/dp/B09B1B58B6",
+        "price": 7205.81,
+        "model": "KES6503"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6403 - Máquina espresso semiautomática",
+        "url": "https://www.amazon.com.mx/dp/B097P1Z25S",
+        "price": 7203.33,
+        "model": "KES6403"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Accesorio para pasta de metal 3 en 1, KSM3MPA",
+        "url": "https://www.amazon.com.mx/dp/B09SGC7D4S",
+        "price": 2849.05,
+        "model": "KSM3MPA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6403MH - Máquina de café espresso semiautomática",
+        "url": "https://www.amazon.com.mx/dp/B0DN8KBHF5",
+        "price": 9817.39,
+        "model": "KES6403MH"
+      },
+      {
+        "store": "amazon",
+        "name": "El molinillo de café Breville Smart Grinder Pro Silver, SCG820",
+        "url": "https://www.amazon.com.mx/dp/B00OXGXW8O",
+        "price": 4196.0,
+        "model": "SCG820"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KES6503 - Máquina espresso semiautomática de metal",
+        "url": "https://www.amazon.com.mx/dp/B09B18V4B9",
+        "price": 9099.36,
+        "model": "KES6503"
+      },
+      {
+        "store": "amazon",
+        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
+        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
+        "price": 5949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid, KES6551 Máquina espresso semiautomática con molinillo de rebabas, 2 tazas, enebro",
+        "url": "https://www.amazon.com.mx/dp/B0CTCZ2G1Z",
+        "price": 16315.86,
+        "model": "KES6551"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-02T13:22:47.513994+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Batidora KitchenAid KSM97CU Plata",
+        "url": "https://www.walmart.com.mx/ip/batidora-kitchenaid-ksm97cu-plata/00088304967794",
+        "price": 5999.0,
+        "model": "KSM97CU"
+      },
+      {
+        "store": "walmart",
+        "name": "KitchenAid Cafetera espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-cafetera-espresso-semiautomatica-con-molinillo-de-rebabas-2-5-l-acero-inoxidable-cepillado-kes6551sx/00088304963553?athbdg=L1300",
+        "price": 11959.0,
+        "model": "KES6551SX"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551BK semiautomática 2.5L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551bk-semiautomatica-2-5l/00088304964122",
+        "price": 18144.9,
+        "model": "KES6551BK"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6551JP semiautomática de 2,5 litros",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551jp-semiautomatica-de-2-5-litros/00088304968346?athbdg=L1300",
+        "price": 14909.0,
+        "model": "KES6551JP"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café espresso KitchenAid KES6403 semiautomática 1.4L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300",
+        "price": 9539.0,
+        "model": "KES6403"
+      }
+    ]
+  },
+  "sams|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-02T13:23:08.047060+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Hukën  con Molino Integrado MK-ECM-GSS",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-huken-con-molino-integrado-mk-ecm-gss/981045753",
+        "price": 2556.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Chefman  RJ54-G-SS-MX 3L Color Plateado",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-chefman-rj54-g-ss-mx-3l-color-plateado/981053258",
+        "price": 7466.87,
+        "model": "RJ54-G-SS-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
+        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
+        "price": 1635.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Espresso Chefman  CraftBrew RJ54-SS-15-D-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-espresso-chefman-craftbrew-rj54-ss-15-d-mx/981042228",
+        "price": 2351.87,
+        "model": "RJ54-SS-15-D-MX"
+      }
+    ]
+  },
+  "amazon|KITCHENAIDHERVIDORMATEAGUA": {
+    "ts": "2026-07-02T13:23:11.179652+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Hervidor eléctrico de 1,7 litros con control de temperatura negro mate KEK1701BM",
+        "url": "https://www.amazon.com.mx/dp/B0D3R9PBLX",
+        "price": 2589.0,
+        "model": "KEK1701BM"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor Eléctrico de 1.7 Litros con Control de Temperatura KEK1701PL, Porcelana Blanca",
+        "url": "https://www.amazon.com.mx/dp/B0DKPFRRW5",
+        "price": 2299.0,
+        "model": "KEK1701PL"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - Hervidor eléctrico de 1,7 litros, KEK1701",
+        "url": "https://www.amazon.com.mx/dp/B0D3R7F963",
+        "price": 2459.0,
+        "model": "KEK1701"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1701PT Hervidor eléctrico de 1,7 litros, Pistache",
+        "url": "https://www.amazon.com.mx/dp/B0D3R8Z8J9",
+        "price": 2229.0,
+        "model": "KEK1701PT"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KEK1222 - Hervidor eléctrico de 1,25 L",
+        "url": "https://www.amazon.com.mx/dp/B076B8Q4HY",
+        "price": 2943.13,
+        "model": "KEK1222"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Vidrio Eléctrica De 1,7, Tetera Pequeño Electrodoméstico Cocina, Negro (Black), 1.7 Litros",
+        "url": "https://www.amazon.com.mx/dp/B00CXMO01I",
+        "price": 450.22,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS CARONTE | Hervidor Eléctrico 2L de Acero Inoxidable | Ebullición Rápida en Minutos | Seguro, Durable y con Apagado Automático | Ideal para Té, Café y Cocina Diaria",
+        "url": "https://www.amazon.com.mx/dp/B07RGB4MVS",
+        "price": 219.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tetera Eléctrica - Hervidor de Agua Eléctrico Retro Vintage 1.7L 1500W | Calentador de Agua Eléctrico con Medidor de Temperatura y Apagado Automático | Jarra Eléctrica de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0DJQ7KQPM",
+        "price": 849.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid KTEN20CBEU hervidor de agua con asa completa y banda recortada, 2 cuartos de galón, Azul (Cameo Blue), 1.89 l, 1",
+        "url": "https://www.amazon.com.mx/dp/B07RWPGW4D",
+        "price": 2260.83,
+        "model": "KTEN20CBEU"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Tetera Eléctrica Heat-Select 1.7 L | 6 Niveles de Temperatura | Luces LED por Color | Infusor Removible | Mantiene Caliente | Apagado Automático | Vidrio Borosilicato | Base 360°",
+        "url": "https://www.amazon.com.mx/dp/B09PPRGH83",
+        "price": 589.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Tetera Eléctrica de 1 Litro/Hervidor de Agua Eléctrico, Fácil Vertido, Acero Inoxidable (40998)",
+        "url": "https://www.amazon.com.mx/dp/B00ZPN3O2I",
+        "price": 409.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tetera Eléctrica - Hervidor de Agua Eléctrico Retro Vintage 1.7L 1500W | Calentador de Agua Eléctrico con Medidor de Temperatura y Apagado Automático | Jarra Eléctrica de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0DJQ8XNQ6",
+        "price": 776.0,
+        "model": "1500W"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDHERVIDORMATEAGUA": {
+    "ts": "2026-07-02T13:23:24.590392+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Hervidor Eléctrico de Agua Bodum Bistro 1L Acero Inoxidable Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-bodum-bistro-1l-acero-inoxidable-negro-mate/00069996562311?athbdg=L1300",
+        "price": 1469.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDHERVIDORMATEAGUA": {
+    "ts": "2026-07-02T13:23:28.912476+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039552",
+        "price": 592.3,
+        "model": "JE8723D"
+      },
+      {
+        "store": "sams",
+        "name": "Jarra Eléctrica Timco Cuisine  Digital JE8723D",
+        "url": "https://www.sams.com.mx/ip/jarra-electrica-timco-cuisine-digital-je8723d/981039561",
+        "price": 592.3,
+        "model": "JE8723D"
+      }
+    ]
   }
 }
