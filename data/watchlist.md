@@ -1,4 +1,4 @@
-# Productos en vigilancia (107)
+# Productos en vigilancia (123)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -19,12 +19,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB RAM 51…](https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472) | $7,554 | -34% |
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + Bocin…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300) | $35,999 | -45% |
 | 🟢 disponible | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desbloquead…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300) | $35,999 | -28% |
-| 🟢 disponible | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $32,999 | -27% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | -20% |
 | 🟢 disponible | palacio | [Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN…](https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html) | $32,571 | -21% |
 | 🟢 disponible | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (220V a…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | -28% |
 | 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | -56% |
 | 🟢 disponible | sams | [iPhone 16 Apple  256 GB 5G Blanco Telcel](https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997) | $10,229 | -32% |
-| 🟢 disponible | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $24,499 | -43% |
+| 🟢 disponible | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $11,025 | -43% |
 | 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | -32% |
 | 🟢 disponible | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $999 | -27% |
 | 🟢 disponible | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA con …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | -62% |
@@ -46,32 +46,32 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 2025](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | -53% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,400 | -28% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $37,799 | -41% |
-| 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $26,399 | -30% |
+| 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,311 | -29% |
 | 🟢 disponible | palacio | [Refrigerador French Door Smart Inverter 29 p3, GM29BIP, Plat…](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-smart-inverter-29-p3-gm29bip-plata-42668113.html) | $12,000 | -37% |
 | 🟢 disponible | walmart | [Congelador Horizontal 18 pies Aurus AFC18W](https://www.walmart.com.mx/ip/congelador-horizontal-18-pies-aurus-afc18w/00750283205325?athbdg=L1300) | $12,899 | -26% |
-| 🟢 disponible | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $10,999 | -26% |
+| 🟢 disponible | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $11,590 | -26% |
 | 🟢 disponible | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| Capaci…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $4,990 | -22% |
 | 🟢 disponible | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | -25% |
-| 🟢 disponible | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | -50% |
+| 🟢 disponible | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $999 | -50% |
 | 🟢 disponible | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7622BA…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | -41% |
 | 🟢 disponible | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | -37% |
 | 🟢 disponible | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $3,990 | -35% |
-| 🟢 disponible | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600) | $10,449 | -35% |
+| 🟢 disponible | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,990 | -22% |
 | 🟢 disponible | walmart | [Estufa Empotrable MABE MAOC80400CI 80 cm 6q Grafito y acero](https://www.walmart.com.mx/ip/estufa-empotrable-mabe-maoc80400ci-80-cm-6q-grafito-y-acero/00075763840581?athbdg=L1300) | $12,506 | -27% |
 | 🟢 disponible | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | -58% |
 | 🟢 disponible | mercadolibre | [Refrigerador Mini Frigobar 2 Puertas 2.83 Pies Cubicos 80l N…](https://www.mercadolibre.com.mx/refrigerador-mini-frigobar-2-puertas-283-pies-cubicos-80l-negro/p/MLM67628990) | $9,999 | -53% |
-| 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería …](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | -38% |
+| 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería …](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | -23% |
 | 🟢 disponible | walmart | [Audifonos Apple airpods Pro 3 Blancos](https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300) | $3,799 | -34% |
 | 🟢 disponible | walmart | [BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BE…](https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300) | $6,599 | -31% |
 | 🟢 disponible | walmart | [Bicicleta de Montaña Monk Messer Rodada 26](https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227) | $4,199 | -26% |
 | 🟢 disponible | amazon | [MOSISO Funda Compatible con MacBook Air 13.6 Pulgadas Case 2…](https://www.amazon.com.mx/dp/B0B7H3V2V7) | $245 | -23% |
 | 🟢 disponible | sams | [Bicicleta de Montaña Huffy  Rock Creek Rodada 26 Negro](https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-rock-creek-rodada-26-negro/981021395) | $5,273 | -22% |
-| 🟢 disponible | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300) | $6,799 | -21% |
+| 🟢 disponible | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300) | $8,639 | -21% |
 | 🟢 disponible | amazon | [Skechers Go Run Consistent 2.0 Advantage - Tenis para Mujer](https://www.amazon.com.mx/dp/B0CCTBB4HD) | $1,079 | -21% |
 | 🟢 disponible | sams | [Pantalla Samsung  65" QLED Smart TV QN65Q8FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902) | $10,637 | -20% |
 | 🟢 disponible | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | -23% |
 | 🟢 disponible | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz Blac…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045?athbdg=L1300) | $9,058 | -22% |
-| 🟢 disponible | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | -21% |
+| 🟢 disponible | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $4,271 | -21% |
 | 🟢 disponible | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | -21% |
 | 🟢 disponible | palacio | [Lavadora Automática, 21 Kg, Carga Superior LMA71214VBAB0](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-21-kg-carga-superior-lma71214vbab0-44621890.html) | $8,820 | -41% |
 | 🟢 disponible | palacio | [Combo Lavadora 21 kg y Secadora 22 kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html) | $16,739 | -27% |
@@ -101,13 +101,29 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | -20% |
 | 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | -52% |
-| 🟢 disponible | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | -35% |
+| 🟢 disponible | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | -22% |
 | 🟢 disponible | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | -35% |
 | 🟢 disponible | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | -34% |
 | 🟢 disponible | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1300) | $260 | -31% |
 | 🟢 disponible | amazon | [NYX Professional Makeup The Brow Glue Instant Brow Styler, g…](https://www.amazon.com.mx/dp/B0BDP7PB83) | $103 | -28% |
-| 🟢 disponible | amazon | [Neutrogena Gel Limpiador Facial Deep Clean Intensive Toronja…](https://www.amazon.com.mx/dp/B0B8PXK3WR) | $54 | -27% |
+| 🟢 disponible | amazon | [Neutrogena Gel Limpiador Facial Deep Clean Intensive Toronja…](https://www.amazon.com.mx/dp/B0B8PXK3WR) | $79 | -27% |
 | 🟢 disponible | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $13,874 | -25% |
 | 🟢 disponible | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | -25% |
-| 🟢 disponible | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | -21% |
+| 🟢 disponible | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,690 | -21% |
 | 🟢 disponible | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | -20% |
+| 🟢 disponible | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | -44% |
+| 🟢 disponible | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | -40% |
+| 🟢 disponible | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | -40% |
+| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | -33% |
+| 🟢 disponible | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | -30% |
+| 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $269 | -26% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
+| 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,962 | -25% |
+| 🟢 disponible | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,474 | -25% |
+| 🟢 disponible | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | -24% |
+| 🟢 disponible | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | -24% |
+| 🟢 disponible | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,109 | -23% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | -22% |
+| 🟢 disponible | walmart | [Smartwatch Samsung Galaxy Fit3 Rosa](https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447?athbdg=L1600) | $649 | -21% |
+| 🟢 disponible | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | -20% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespoke](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | -20% |

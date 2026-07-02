@@ -1,9 +1,28 @@
-# Historial de ofertas encontradas (120)
+# Historial de ofertas encontradas (139)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespok…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | $13,622 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | $11,880 en palacio vs sams $20,459 -> -20% bajo la competencia |
+| 2026-07-02 14:37 | -20% | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | $10,361 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-02 14:37 | -21% | walmart | [Smartwatch Samsung Galaxy Fit3 Rosa](https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447?athbdg=L1600) | $649 | $649 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-02 14:37 | -22% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,990 | $8,990 en walmart vs mercado -> -22% bajo la competencia |
+| 2026-07-02 14:37 | -22% | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | $17,000 en palacio vs mercado -> -22% bajo la competencia |
+| 2026-07-02 14:37 | -23% | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,109 | $1,109 en amazon vs mercado -> -23% bajo la competencia |
+| 2026-07-02 14:37 | -24% | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | $9,599 en walmart vs palacio $12,544 -> -24% bajo la competencia |
+| 2026-07-02 14:37 | -24% | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | $12,284 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-07-02 14:37 | -25% | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,474 | $2,474 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-02 14:37 | -25% | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,962 | $2,962 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-02 14:37 | -25% | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Car…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | $10,747 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-02 14:37 | -26% | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $269 | $269 en mercadolibre vs mercado -> -26% bajo la competencia |
+| 2026-07-02 14:37 | -29% | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,311 | $15,311 en palacio vs mercado -> -29% bajo la competencia |
+| 2026-07-02 14:37 | -30% | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32W…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-07-02 14:37 | -33% | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | $21,174 en palacio vs mercado -> -33% bajo la competencia |
+| 2026-07-02 14:37 | -40% | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 …](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | $21,500 en palacio vs mercado -> -40% bajo la competencia |
+| 2026-07-02 14:37 | -40% | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | $5,099 en palacio vs mercado -> -40% bajo la competencia |
+| 2026-07-02 14:37 | -44% | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo …](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | $500 en amazon vs mercado -> -44% bajo la competencia |
 | 2026-07-02 13:23 | -20% | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | $5,583 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:42 | -21% | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | $1,735 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-07-02 09:42 | -25% | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | $869 en amazon vs mercado -> -25% bajo la competencia |

@@ -1,7 +1,25 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-02 13:23 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-02 14:37 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **19**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -20% | $1,396 | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | Confirmado vs competencia | $5,583 en palacio vs mercado -> -20% bajo la competencia |
+| -40% | $14,074 | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | Confirmado vs competencia | $21,500 en palacio vs mercado -> -40% bajo la competencia |
+| -33% | $10,465 | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | Confirmado vs competencia | $21,174 en palacio vs mercado -> -33% bajo la competencia |
+| -29% | $6,204 | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,311 | Confirmado vs competencia | $15,311 en palacio vs mercado -> -29% bajo la competencia |
+| -30% | $5,100 | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | Confirmado vs competencia | $11,899 en palacio vs mercado -> -30% bajo la competencia |
+| -22% | $4,840 | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | Confirmado vs competencia | $17,000 en palacio vs mercado -> -22% bajo la competencia |
+| -24% | $3,900 | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | Confirmado vs competencia | $12,284 en palacio vs mercado -> -24% bajo la competencia |
+| -25% | $3,582 | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | Confirmado vs competencia | $10,747 en palacio vs mercado -> -25% bajo la competencia |
+| -40% | $3,400 | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | Confirmado vs competencia | $5,099 en palacio vs mercado -> -40% bajo la competencia |
+| -20% | $3,397 | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespoke](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | Confirmado vs competencia | $13,622 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $2,970 | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | Confirmado vs competencia | $11,880 en palacio vs sams $20,459 -> -20% bajo la competencia |
+| -24% | $2,945 | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | Confirmado vs competencia | $9,599 en walmart vs palacio $12,544 -> -24% bajo la competencia |
+| -20% | $2,669 | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | Confirmado vs competencia | $10,361 en palacio vs mercado -> -20% bajo la competencia |
+| -22% | $2,484 | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,990 | Confirmado vs competencia | $8,990 en walmart vs mercado -> -22% bajo la competencia |
+| -25% | $987 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,962 | Confirmado vs competencia | $2,962 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $825 | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |
+| -44% | $400 | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | Confirmado vs competencia | $500 en amazon vs mercado -> -44% bajo la competencia |
+| -23% | $337 | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,109 | Confirmado vs competencia | $1,109 en amazon vs mercado -> -23% bajo la competencia |
+| -21% | $175 | walmart | [Smartwatch Samsung Galaxy Fit3 Rosa](https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447?athbdg=L1600) | $649 | Confirmado vs competencia | $649 en walmart vs mercado -> -21% bajo la competencia |
+| -26% | $97 | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $269 | Confirmado vs competencia | $269 en mercadolibre vs mercado -> -26% bajo la competencia |
