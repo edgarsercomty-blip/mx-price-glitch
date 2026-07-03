@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (145)
+# Historial de ofertas encontradas (149)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-03 03:45 | -26% | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para m…](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | $1,245 en amazon vs mercado -> -26% bajo la competencia |
+| 2026-07-03 03:45 | -27% | mercadolibre | [Pantalla Ips Portátil Para Juegos Retro  R36s Pro 64 G](https://www.mercadolibre.com.mx/pantalla-ips-portatil-para-juegos-retro-r36s-pro-64-g/p/MLM2082326449) | $848 | $848 en mercadolibre vs mercado -> -27% bajo la competencia |
+| 2026-07-03 03:45 | -51% | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | $509 en amazon vs mercado -> -51% bajo la competencia |
+| 2026-07-03 03:45 | -60% | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | $499 en amazon vs mercado -> -60% bajo la competencia |
 | 2026-07-02 19:46 | -22% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $869 | $869 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-07-02 19:46 | -22% | amazon | [ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB M…](https://www.amazon.com.mx/dp/B07RLHSKJ7) | $1,649 | $1,649 en amazon vs amazon $2,111, walmart $3,359, walmart $3,399 -> -22% bajo la competencia |
 | 2026-07-02 19:46 | -24% | walmart | [Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300) | $1,219 | $1,219 en walmart vs mercado -> -24% bajo la competencia |
