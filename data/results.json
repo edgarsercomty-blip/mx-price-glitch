@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03 00:08 UTC",
-  "products_scanned": 917,
+  "generated_at": "2026-07-03 02:20 UTC",
+  "products_scanned": 916,
   "threshold_pct": 20.0,
-  "count": 20,
+  "count": 19,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44964251",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$10,747 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3582.25,
-      "store": "palacio",
-      "name": "Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Frontal Blanca",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html",
-      "price": 10746.75,
-      "list_price": 14329.0,
-      "ean": null,
-      "model": "WD12TP04DBE/AX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42108046",
         "outlet": false
       }
     },

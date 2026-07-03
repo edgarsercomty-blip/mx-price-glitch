@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-03 00:08 UTC
+# Errores/chollos de precio — 2026-07-03 02:20 UTC
 
-- Productos revisados: **917**
+- Productos revisados: **916**
 - Umbral de diferencia: **20%**
-- Hallazgos: **20**
+- Hallazgos: **19**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -15,7 +15,6 @@
 | -25% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $13,874 | Confirmado vs competencia | $13,874 en palacio vs mercado -> -25% bajo la competencia |
 | -21% | $4,580 | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | Confirmado vs competencia | $17,000 en palacio vs mercado -> -21% bajo la competencia |
 | -22% | $3,980 | palacio | [Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html) | $14,499 | Confirmado vs competencia | $14,499 en palacio vs mercado -> -22% bajo la competencia |
-| -25% | $3,582 | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | Confirmado vs competencia | $10,747 en palacio vs mercado -> -25% bajo la competencia |
 | -40% | $3,400 | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | Confirmado vs competencia | $5,099 en palacio vs mercado -> -40% bajo la competencia |
 | -20% | $2,970 | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | Confirmado vs competencia | $11,880 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,408 | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | Confirmado vs competencia | $5,631 en palacio vs mercado -> -20% bajo la competencia |
