@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (153)
+# Historial de ofertas encontradas (154)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-03 14:28 | -22% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,699 (estaba agotado) |
 | 2026-07-03 09:38 | -23% | amazon | [Resident Evil 4 PS5](https://www.amazon.com.mx/dp/B0BJTKYLCB) | $383 | $383 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-07-03 09:38 | -27% | mercadolibre | [Apple iPhone 16 (128 GB) - Negro](https://www.mercadolibre.com.mx/apple-iphone-16-128-gb-negro/p/MLM40287808) | $14,652 | $14,652 en mercadolibre vs mercado -> -27% bajo la competencia |
 | 2026-07-03 09:38 | -35% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |

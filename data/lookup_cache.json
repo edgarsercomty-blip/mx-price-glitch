@@ -96,315 +96,6 @@
     "ts": "2026-07-02T08:47:00.197469+00:00",
     "items": []
   },
-  "amazon|75QM6K": {
-    "ts": "2026-07-01T14:09:40.295397+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
-        "price": 15498.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
-        "price": 8499.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
-        "price": 19998.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
-        "price": 14075.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
-        "price": 15498.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 10827.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U6S Pantalla 75“ Pulgadas,Mini-LED 4K AI Smart TV,144Hz Nativos，Procesador Hi-View AI，IMAX Enhanced,Subwoofer Integrado,Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9JGDFT",
-        "price": 14999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
-        "price": 14075.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U7S Pantalla 75“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
-        "price": 19998.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 65QM64L Smart TV Pantalla 4K QD-MINILED 65\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRJY86BR",
-        "price": 11872.0,
-        "model": "65QM64L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 11678.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 75A300W Smart TV Pantalla NXTVision TV 75” 4K QLED Pro Google TV | HDR10 | Dolby Audio | WiFi y Bluetooth | Compatible con Alexa, Chromecast Integrado",
-        "url": "https://www.amazon.com.mx/dp/B0GQ2KWCRQ",
-        "price": 13499.0,
-        "model": "75A300W"
-      }
-    ]
-  },
-  "walmart|75QM6K": {
-    "ts": "2026-07-01T14:09:52.628484+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "TV TCL 75 pulgadas 4K QLED Smart 75QM6K",
-        "url": "https://www.walmart.com.mx/ip/tv-tcl-75-pulgadas-4k-qled-smart-75qm6k/00084046404542?athbdg=L6000",
-        "price": 24999.0,
-        "model": "75QM6K"
-      }
-    ]
-  },
-  "sams|75QM6K": {
-    "ts": "2026-07-01T14:09:59.850867+00:00",
-    "items": []
-  },
-  "amazon|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-07-01T14:10:02.584973+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Xpert Series con Control de Textura y Accesorios, 2 Litros, 3 Programas de Velocidad, BLST3B-CAG-013",
-        "url": "https://www.amazon.com.mx/dp/B09RBJJ8G4",
-        "price": 3999.0,
-        "model": "BLST3B-CAG-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 3 Velocidades, Vaso de Vidrio, Roja, BLST4126R",
-        "url": "https://www.amazon.com.mx/dp/B08V5KWPQG",
-        "price": 1090.0,
-        "model": "BLST4126R"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora clásica Oster reversible cromada vaso de vidrio BLSTBESTE013",
-        "url": "https://www.amazon.com.mx/dp/B08V5RN8D9",
-        "price": 1549.0,
-        "model": "BLSTBESTE013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Xpert Series con Control de Textura y Accesorios, 2 Litros, 3 Programas de Velocidad, BLST3B-CAG-013",
-        "url": "https://www.amazon.com.mx/dp/B09RBJJ8G4",
-        "price": 3999.0,
-        "model": "BLST3B-CAG-013"
-      },
-      {
-        "store": "amazon",
-        "name": "H+R Aspa compatible Oster Xpert Series",
-        "url": "https://www.amazon.com.mx/dp/B094NWP5PX",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "6 Piezas Repuesto de Licuadora para Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
-        "url": "https://www.amazon.com.mx/dp/B0H155GJ2W",
-        "price": 468.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "6 Piezas Repuesto de Licuadora Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
-        "url": "https://www.amazon.com.mx/dp/B0GSPCZHWW",
-        "price": 498.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional, XTREME MIX, Motor de 1500 W, Tecnología Reversible, Vaso de Vidrio 2 L, para Smoothie, Malteadas, Helado, Frappe, Mantequilla, Vaso Portátil Blend-N-Go, Gris, BLSTXPG-BGW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1449.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Vaso Blend and GO",
-        "url": "https://www.amazon.com.mx/dp/B01MY99ZL5",
-        "price": 289.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-07-01T14:10:18.203241+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871?athbdg=L1300",
-        "price": 1990.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora OSTER Xpert Series 1 Litros con Vasos de Viaje BLSTXPN7003",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-1-litros-con-vasos-de-viaje-blstxpn7003/00003426449250",
-        "price": 4949.9,
-        "model": "BLSTXPN7003"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Flavorstone Quartz 2 L cuchillas Titanium motor cobre",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavorstone-quartz-2-l-cuchillas-titanium-motor-cobre/00750227477552",
-        "price": 1139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Xpert Series 9 Programas y 4 Velocidades 8 Tazas 1500 W Color Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-9-programas-y-4-velocidades-8-tazas-1500-w-color-gris/00005389114546?athbdg=L6000",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Control de Textura Xpert Series y Vaso de Vidrio, Niquelada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-control-de-textura-xpert-series-y-vaso-de-vidrio-niquelada/00005389114303",
-        "price": 6419.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
-        "price": 669.0,
-        "model": "EW-H801"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
-        "price": 2290.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3098.99,
-        "model": "10-En-1"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora 2 velocidades Oster  Licuadora 2 Velocidades Oster V/Vidrio Blanco BLSTKAG-WRD-013",
-        "url": "https://www.walmart.com.mx/ip/licuadora-2-velocidades-oster-licuadora-2-velocidades-oster-v-vidrio-blanco-blstkag-wrd-013/00005389113837",
-        "price": 682.0,
-        "model": "BLSTKAG-WRD-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
-        "price": 1849.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-07-01T14:10:27.204264+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 2249.56,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1276.7,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2863.37,
-        "model": null
-      }
-    ]
-  },
   "coppel|75QM8K": {
     "ts": "2026-07-01T14:54:18.227952+00:00",
     "items": []
@@ -20200,5 +19891,1276 @@
         "model": null
       }
     ]
+  },
+  "liverpool|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:19:44.793210+00:00",
+    "items": []
+  },
+  "coppel|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:19:48.585004+00:00",
+    "items": []
+  },
+  "amazon|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:19:51.026926+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "BN59-01482K Reemplazado Remoto fit for 2025 TV QN75QN900FFXZC, QN70F, QN42S90DAEXZX, UN43DU7000FXZX, QN55Q60DAFXZX QN55Q70DAFXZX, QN83S90DAEXZX, UN85DU8000FXZX, QN85QN800DFXZX, QN85QN90DAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GY93RH31",
+        "price": 736.6,
+        "model": "QN75QN900FFXZC"
+      }
+    ]
+  },
+  "walmart|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:19:54.538251+00:00",
+    "items": []
+  },
+  "sams|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:19:55.674071+00:00",
+    "items": []
+  },
+  "mercadolibre|QN85QN800DFXZX": {
+    "ts": "2026-07-03T14:20:07.240991+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Profesional Samsung Electronics Qb65c 4k Uhd Led",
+        "url": "https://www.mercadolibre.com.mx/pantalla-profesional-samsung-electronics-qb65c-pantalla/p/MLM2073211779",
+        "price": 30406.0,
+        "model": "Qb65c"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sony Pantalla 85  4k Uhd Smart Tv Msi",
+        "url": "https://www.mercadolibre.com.mx/sony-pantalla-85-4k-uhd-smart-tv-msi/p/MLM2083582762",
+        "price": 41999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Television Samsung 65'' 8k Oled Qn65qn800cfxzx",
+        "url": "https://www.mercadolibre.com.mx/television-samsung-65-8k-oled-qn65qn800cfxzx/up/MLMU3555356599",
+        "price": 18000.0,
+        "model": "Qn65qn800cfxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "65 Neo Qled 4k Qn1ef Vision Ai Smart Tv 2025",
+        "url": "https://www.mercadolibre.com.mx/65-neo-qled-4k-qn1ef-vision-ai-smart-tv-2025/up/MLMU3502970120",
+        "price": 20000.0,
+        "model": "Qn1ef"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla CHiQ 55 pulgadas 4K HDR55U721XR Roku TV",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=TQvaxy3mjvR65DKfQgFQhNRySL93is7Rj42l37eNOitZ%2BItdIKTlr02xWBch%2BX31iwYDTYkhsfJ4LApoDePNNfAc9FG4RmsoQ9xQFgTTb8CUzpr3nr6HKGDojBFwGgWfIA8By0XE39c2N8oZnSHT%2FQW5aaYW3L9FyL8%2FNFMSjBCSYN82rs%2FFvXZFWlTUHwtYS0JUFjPtSmazSWJ9LeUEb%2B%2FBzro2A00a7huZwbTlEiLaVROGvMwi57Z%2BBGVK7LbL414zvgUNbgPu4eoZ2klduqlhh0DlHm0b679mUDmFBCy2Q1oiHHOVMDK7IWJHx5Cnzc7ry6fvjeqeSW2H6zopNN5%2BRgy6EfEzidMbRzlcivCcVL5lShPqFOnHdGyPLb64STHr%2BULZBU15ot57LQsGqLH%2B39Lc1UKBM%2BWUMRETZtzhizCIalGuKXj7nVTqK22rKAu6Y55buP4Zqmovria8TjD57%2F69uGLRen78OlIPDT4xWlSdzGnMn4BoG5YgSZkBPMFyuATXjcPXbWu4YeJXrgRE9Uctrf7q4vN3T3MNXvBPuHnrC4oZpJqf02RNABgjECIIOpwNJ0WBPX1759jYL7JvAwBRd3hKWsp%2BgnJV4D47oLRi4ysl4JiDcwoy5%2BbWwZQcrhGRMQZWqDMzw8KObWwU5LKkpShnU1s9w%2FObJ7b9Q0lUbN3fzoox20%2BKGr6ggcvf%2Fc1H%2BedbXzPLfBop%2FsC8nZURIxVOrF28J77T%2FMxWXv7oMGTsgT2C73wazzuZ%2FwsJ%2FazN3L%2F7TVRD8wutSPgb8%2BizE5aOYAqTXpCPuIsJ%2FQBTVzmhkka8Y8o5D1AXdA4IAPpeSkbGC%2F4Nv6du8gSFZrzDH%2BpdlwaGWAPBwL0v1aTNh%2BgrYn4zIu%2ByIr6hDif4CB1lXNs4rWEjdHZ5I962UN7aIDlwsBojvCz6TPw%2BFNjZEew8yohlSHSFhYkzyHySli3JTlCPtNuVVBcHbtZ3PvCB4pnghlENy4jrnx2bqnJQRg5bT%2Fimwc%2BXzEjIoWXU3nxoTx0i1TqnytUi0iKczPou19E%3D&pdp_filters=item_id%3AMLM5398442516",
+        "price": 6999.0,
+        "model": "HDR55U721XR"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Smart Tv Aiwa Roku 50 Pulgadas Qled 4k Ultra Hd",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=Ouhf9Oz%2FOzgVeAJmIxjybT5ByBu9rzHVUIOLw4GqwolHz1x92%2F26xw7YwHvGMCd4ehMZjAGNHaLfo9CR3ZsTIYFVikswwn%2Fh7XsRmZuoDWqLtTAUG80iqwfUB%2Fpi6IqAZi%2FMZNTrc4Ykr%2Fxea3qPjjmo4Ve5CscypsrWKQnRXNNsS09TaL1yN8r0x5deooQC4oyoi349BCget2PGhMyppRcxNQH23IBbske6hfW%2BWDzmc9g4MZ%2FHOtT5xz%2FQ%2F%2BSjPx9SdQ%2BoH%2BtsmMlNWxmldFVuNIuMGznojQn1Lo5aBIkwLgBkI5vYQ6LOHJRfsFMWVhuMqb0%2BmaVO9FG1gwQnBBl%2BqSC8bmO96ETg3dbUGd0ipAkzHjM09ne8r3wiSAa6GFnTcTh405YvDcG0CLODI%2BKEsn0YLTAACxXwd6uYBbuIoyZ4HWo9cw1h7ZegPeOy9LPVAoNxZTivCxnD9gkTX87BqO%2BRQ9g2UR8rV0HkfjwSeaRi0TG2AR%2BirB4qVeiPKEktD8Xke1IPzgYpzElUEmZaj1sVR6siKy3A16c%2FtKMJhMR623qPU6D6GUF5Fra9E%2BBbWD9xg1qOG4rlaHv7O1OlVk02T3PCxPpK4kqmmDuRZf5gV8FCxu6r%2BCVPed%2BzuoQJQb3YONrYN6K9kjuK3gKWjdHDPpI%2B%2Busgdq%2By02yBQFB5Q0gH7cg1kUhAD8rEKOPwnFje7ZxVsk9cCcvIysBgkou%2BCgUh%2Bq%2F4GlZzY0%2B4HpIBuor52oGHqwqNxAG0%2FSCyXMyyFH7MFOjur6%2FGiikRUwkX5v1RolkhFxto3D6wvzR9Jf%2B%2F2vfemqaxAQheLUaYLKD6LaY7ij7UY8bhiph8K2cYWav79KG6QDPu2NYGYvWeqpM7sJkOAqnG8WAinsJN1PbrpAjbT1fJ0KW5LcdlS9DjlHHrJdFeV%2Ft5NwIP1IT2zLS06GBnrcYi0e0k1g%2BEWDrqcftie7ADbEiwXy%2ByB2aGYX07CAnb1gJhJBrAfgqnY30h8WqIDeHUsYBpofYm7fvRKWMgQuNYWcJ77IyqDaqSA%2Bs4T%2FTnp6Ge%2BA%3D%3D&pdp_filters=item_id%3AMLM4568402546",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Smart TV TFL 50 Pulgadas Google Tv 4k Ultra Hd Qled Frameless Bluetooth Dolby Audio",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=x08w%2B0BGb1bvvw0lWaqUyQYhWJVxFrhDj93iCjARq8QIiI3Mmnk%2FI1OuxwDc3bnnFPLq%2F6D2pkCMpflesTfq6s8c4mFhQRIldS1XNDW5qIDJGgEq%2FY11xYw%2BMnQ21kLAykEEpyovvDimkXXDlA2i6Ur%2BgT7v00rrMSUWBFWIQmv70pA0PoeFJUlsBL0tncD4n9Ku3M5BkydUNEZ6xwjTa3QjpYqdxq7NsFvuJflAxMiBY5HikvVcZLH0EdGtQvDs6ZcB5WNw67XDovbIWx2ck35BzLLKtccGNlb7fTsfiSNr2rmVmPXIoz5jBIzcDSeP0Wjq2JvPGtI1mbu3M7a5Xy4zxFqUKVjddmqj7PI7p%2B02L%2BkWk194TVedhwl2JZJ9q%2FplqH9QwyqeOBGqP5I0%2FOGVH0PsXHZ9A2adza1%2FAeJ%2BjIbjwW7SKmPY6OajGQCeKhYnLCQTzqrcX0GT5p%2F%2Bv3RHNrnLTrxiU%2F%2F2m8XnTaAM0Cgp3oX0mGaaSmJaAV8alrtTURSJWEcrHWtMD43fxUGWjEfNJn8TZftSvHYyqqSD6rvFUZsPQSQn68Jvv%2FgLO6%2ByXABsb78ZMevvEtDfGlN10vpVelp0AfgAV6Ipb%2FRr63IHEUflXfjE2%2BiS984F2H7YMewpzdyeYeIoWgLHpkfDfKc77bpGrVilUacNgxEvbGzsk9kzGhV8JH7qni56MvMd6v3zC7kZO6LiqCypjrTCvOSBqiMTR0uaSEdUBhcvaZkwT%2BLiGYxjN8BBJkQKAHfVk8XJGrDyyGCc5DkifZ61uOjyf1dP7WZHLjauhR1vwxK0mqzRw%2B9wOIhBWvMeV0ERwN3EI1qf0W4yi9NqlQTn3rArYxB1OIT0sUY9PbwbyubLifY47cGNYFGTgOtzclMhniDh2OOvMvWKgDc4%2BraU9%2BbzomaUWE0kCT1AV0uNjEAquh%2BSpcEOaaXbcdaQWUnTOGVXqC19vVbpZsFQQkvGq0qOGXS7vviPHZSZQIvNEuZrrOrh0Oosr%2FE3njNfRFy1lEj%2Fh7ZDiZ2ZRcwJe5fb9TS5Lb5pCkuZH0uJlAjKF5XYP4tpn1xRJvcz%2B%2FNrnwy3uMMrgJY0j1HPvbF53UR%2FhTI%3D&pdp_filters=item_id%3AMLM4693826748",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Pantalla 65 Pulgadas Motorola Google Tv Qled 4k Televisor Bluetooth WiFi HDMI USB AV",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=uzmc%2BBCxpVyxLotrNDQRbZAnLmj3G8dgbAv%2BdYoCryK0SAhMLouNioS0haxLWPA5SJBp0XOI6mJw%2FtLrLLrkjur6HGQyvZljW%2F%2B0WGtRsP4iThbrDbtxS%2BUpUcDLG2UgK3KfmOOegd62nn%2F7R%2FBCsg4Ok67t3PUmpwR9xMPU50Ed0cY8o4qmSzM2M%2BrBV6MAdoT8zGDlcS4HwRAksB6%2BEHwloQDu07l8kwGMiV5brx1pZSlZ3TK0SDWP6IDWyUVxun3oJ1Neme%2Bv9WwvcydvRCT9Ga8%2BRKp0d68bMO2zYZAxTId91NLTQ6o0d7EcaGy7rgddiF51HY8lYV33vd0spYZE7jZHgj2wbJtllm2%2B3v%2FnV4UptQs8kur6bPoB76o4KMkJTwrZydHKCPdL40SL9HBfnBxHWgoWInIwDIJazCbW%2BJk0kvCrh9cHROoFvhBXUwwwD0p44ff%2FWLikEVjAAy274XY1lm2CWgJL%2B%2FG9igy3DURh16depqOlwPtUvw0A75BDpZqqaPyoeRtMzxMzoYsZayZSqSP9JGi%2FMYvAW4uzf1jlXkLE1Rlzg29JL8MmR71icnCbrm8uN4bz1Lf9N%2F7Pnf2SQVfP2x1ZhN%2B7I1GiHSEsuf%2BJanSzCemJZPTFqZEC0C00REk1QWeUHg5Wu2NFFQCJKUCKZU9agy2P5VvgUNJpEgSyLiBfOIRKsa2eabTKtQgJb6F4qe03zlu3z3%2FwErQe4w8BSOgAL4MJ2JFyyy2xkU1oP%2BPfQvOfK4e02lWtvH7LPsePGw3l6%2BsPFzRng3mZhVYGUbCQZgMoNTSO0WypHKLZVj3zIGFF9mc9wMcTrfNxBEuEWGrihHjgRbp3a49YrWdMlqLWoJBmrhQgfddgTlUbWAP8ybjbkOrsYT6RMQuwUHvzuJdvnJL0pA%2F%2BsCb%2F%2F80NEiyh80LjWNSH%2BcUaR6E2aBknaIJFSHwfN1uAf50t6cLodrOATOdsHz08IlwZyW%2FGQWKw1QIyIqRYM3okN5EQtC5XOXIu%2BphIhRuj%2F8mNgretPnihPN6p1YMyIEGkiZfev8mZq0YVxhcHhvaF7urM6efw%2FktcCH4k6ZOSNYtv14QQGbGpzEml7dVSD%2FJ4Dg%3D%3D&pdp_filters=item_id%3AMLM2730502535",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tv Para Refacciones Sony Modelo Kdl-55hx857",
+        "url": "https://www.mercadolibre.com.mx/tv-para-refacciones-sony-modelo-kdl55hx857/up/MLMU499753155",
+        "price": 2400.0,
+        "model": "Kdl-55hx857"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente QNED evo AI QNED92A Mini LED 4K 85\" LG",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-qned-evo-ai-qned92a-mini-led-4k-85-lg/p/MLM70042233",
+        "price": 45999.0,
+        "model": "QNED92A"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung Smart TV 55 Qled S85 4k Qn55s85haexzx (Modelo 2026)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-smart-tv-55-qled-s85-4k-qn55s85haexzx-modelo-2026/p/MLM67829734",
+        "price": 19329.0,
+        "model": "Qn55s85haexzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "55 Neo Qled Qn80h 4k Vision Ai Smart Tv (2026)",
+        "url": "https://www.mercadolibre.com.mx/55-neo-qled-qn80h-4k-vision-ai-smart-tv-2026/p/MLM70063325",
+        "price": 14799.0,
+        "model": "Qn80h"
+      }
+    ]
+  },
+  "liverpool|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:19.065510+00:00",
+    "items": []
+  },
+  "coppel|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:20.607341+00:00",
+    "items": []
+  },
+  "palacio|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:20.913297+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable en Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-en-acero-inoxidable-39326963.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Plancha de Vapor Ultragliss Plus con Suela de Durilium Airglide",
+        "url": "https://www.elpalaciodehierro.com/t-fal-plancha-de-vapor-ultragliss-plus-con-suela-de-durilium-airglide-44045994.html",
+        "price": 1519.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Stanley Transit Cream, 591 ml",
+        "url": "https://www.elpalaciodehierro.com/stanley-termo-stanley-transit-cream-591-ml-44862373.html",
+        "price": 927.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable Negro",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-negro-39326964.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Paquete Tekaway Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/teka-paquete-tekaway-acero-inoxidable-40946470.html",
+        "price": 6489.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Plancha de Vapor Ultragliss Plus con Suela Durilium Airglide Autoclean, Turquesa",
+        "url": "https://www.elpalaciodehierro.com/t-fal-plancha-de-vapor-ultragliss-plus-con-suela-durilium-airglide-autoclean-turquesa-44730896.html",
+        "price": 1919.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de temperatura variable 50's Style en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-50s-style-en-acero-inoxidable-39326958.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termómetro para Carne Scala plata",
+        "url": "https://www.elpalaciodehierro.com/wmf-termometro-para-carne-scala-plata-30234918.html",
+        "price": 799.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de Temperatura Variable Blanco",
+        "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-temperatura-variable-blanco-39326959.html",
+        "price": 4165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Timer",
+        "url": "https://www.elpalaciodehierro.com/k%C3%BCchenprofi-timer-39342079.html",
+        "price": 554.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavavajillas Electrolux 14 Servicios con 70 piezas con higienizador Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/electrolux-lavavajillas-electrolux-14-servicios-con-70-piezas-con-higienizador-acero-inoxidable-42087926.html",
+        "price": 17249.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termómetro para Alimentos y Bebidas",
+        "url": "https://www.elpalaciodehierro.com/wmf-termometro-para-alimentos-y-bebidas-30234923.html",
+        "price": 639.2,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:23.707802+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Urna de café de 80 tazas, dispensador de café con aislamiento de doble pared de 12 litros/3.2 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de temperatura",
+        "url": "https://www.amazon.com.mx/dp/B0G5YJTSBC",
+        "price": 3882.36,
+        "model": "litros/3"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PTJSGM",
+        "price": 3407.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 100 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 14 l/3.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRPSTN",
+        "price": 3251.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de café con aislamiento de doble pared de 18 litros/4.8 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de",
+        "url": "https://www.amazon.com.mx/dp/B0G5YS92ZF",
+        "price": 4972.42,
+        "model": "litros/4"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRNWPB",
+        "price": 3674.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Horno TermostáTico Digital Secado Por Chorro Acero Inoxidable, Horno Calentamiento Y Secado Laboratorio 16l, Secado Inteligente Con Pantalla Digital 16L101-0B",
+        "url": "https://www.amazon.com.mx/dp/B0GVDZYGGY",
+        "price": 8684.94,
+        "model": "16L101-0B"
+      },
+      {
+        "store": "amazon",
+        "name": "Mr Steam WX29TSSB WX29 - Calentador de toallas eléctrico de pared con temporizador digital (acero inoxidable cepillado)",
+        "url": "https://www.amazon.com.mx/dp/B072FV1H43",
+        "price": 31730.1,
+        "model": "WX29TSSB"
+      }
+    ]
+  },
+  "sams|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:25.543528+00:00",
+    "items": []
+  },
+  "mercadolibre|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECOMERCIAL": {
+    "ts": "2026-07-03T14:20:52.873716+00:00",
+    "items": []
+  },
+  "liverpool|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:08.231488+00:00",
+    "items": []
+  },
+  "coppel|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:12.997298+00:00",
+    "items": []
+  },
+  "amazon|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:15.909711+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense Television U7QG (Modelo 2025) Pantalla 100 Pulgadas,Mini-LED Smart Google TV UHD 4K,Modo de Juego Pro de 144 Hz,Hi-View AI Engine,Subwoofer Incorporado",
+        "url": "https://www.amazon.com.mx/dp/B0GKPFCTSQ",
+        "price": 29999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Quantum TV de 85\" Pulgadas Clase Q80D Series QLED 4K Smart Tizen TV - QN85Q80DDFXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FFF8FCGZ",
+        "price": 26699.99,
+        "model": "QN85Q80DDFXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Televisión 32F621FR ROKU Pantalla 32 Pulgadas Smart TV Full HD 1080P con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
+        "url": "https://www.amazon.com.mx/dp/B0G1CV33ZT",
+        "price": 2499.0,
+        "model": "32F621FR"
+      }
+    ]
+  },
+  "walmart|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:22.292173+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV Samsung 98 pulgadas 4K Ultra HD Smart TV LED UN98DU9000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-98-pulgadas-4k-ultra-hd-smart-tv-led-un98du9000fxzx/00880609554481?athbdg=L1300",
+        "price": 45990.0,
+        "model": "UN98DU9000FXZX"
+      },
+      {
+        "store": "walmart",
+        "name": "TV LG UHD 98 Pulgadas UHD SMART TV 4K 98UT9050PSA AI 2024",
+        "url": "https://www.walmart.com.mx/ip/tv-lg-uhd-98-pulgadas-uhd-smart-tv-4k-98ut9050psa-ai-2024/00880609616796?athbdg=L1300",
+        "price": 33099.0,
+        "model": "98UT9050PSA"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Samsung 98 pulgadas 4K Ultra HD Smart TV LED UN98DU9000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-98-pulgadas-4k-ultra-hd-smart-tv-led-un98du9000fxzx/00750940183545?athbdg=L6000",
+        "price": 74999.0,
+        "model": "UN98DU9000FXZX"
+      }
+    ]
+  },
+  "sams|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:22.938837+00:00",
+    "items": []
+  },
+  "mercadolibre|UN98DU9000FXZX": {
+    "ts": "2026-07-03T14:21:34.608912+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal Tv 98\" Uhd Un98Du9000Fxzx Negro (Nuevo con caja abierta)",
+        "url": "https://www.mercadolibre.com.mx/samsung-crystal-tv-98-uhd-un98du9000fxzx-negro-nuevo-con-caja-abierta/p/MLM2022513271",
+        "price": 41999.0,
+        "model": "Un98Du9000Fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Samsung Bn44-01283a / L98s6n_ddy | Un98du9000f",
+        "url": "https://www.mercadolibre.com.mx/fuente-samsung-bn4401283a--l98s6nddy--un98du9000f/up/MLMU3346576390",
+        "price": 1299.0,
+        "model": "Bn44-01283a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Samsung Bn41-03168a / Bn94-18398p | Un98du9000fxzx",
+        "url": "https://www.mercadolibre.com.mx/main-samsung-bn4103168a--bn9418398p--un98du9000fxzx/up/MLMU3346553832",
+        "price": 1699.0,
+        "model": "Un98du9000fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal Tv 98\" Uhd Un98Du9000Fxzx Negro",
+        "url": "https://www.mercadolibre.com.mx/samsung-crystal-tv-98-uhd-un98du9000fxzx-negro/p/MLM45456257",
+        "price": 85498.0,
+        "model": "Un98Du9000Fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Bn44 01283a Fuente Samsung Un98du9000fxzx Serie M04",
+        "url": "https://www.mercadolibre.com.mx/bn44-01283a-fuente-samsung-un98du9000fxzx-serie-m04/up/MLMU3806085554",
+        "price": 2100.0,
+        "model": "Un98du9000fxzx"
+      }
+    ]
+  },
+  "liverpool|65QNED9MASA": {
+    "ts": "2026-07-03T14:22:52.677021+00:00",
+    "items": []
+  },
+  "coppel|65QNED9MASA": {
+    "ts": "2026-07-03T14:22:54.275470+00:00",
+    "items": []
+  },
+  "amazon|65QNED9MASA": {
+    "ts": "2026-07-03T14:22:56.297935+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED EVO AI QNED92 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G5QVMSRH",
+        "price": 18079.0,
+        "model": "QNED92"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLE65C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2VT29GR",
+        "price": 24995.0,
+        "model": "OLE65C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 65QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0F6WRTRPP",
+        "price": 11995.0,
+        "model": "65QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 55QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
+        "url": "https://www.amazon.com.mx/dp/B0FM5VCPQC",
+        "price": 9495.0,
+        "model": "55QNED83ASG"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
+        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
+        "price": 610.0,
+        "model": "Akb76046605"
+      }
+    ]
+  },
+  "walmart|65QNED9MASA": {
+    "ts": "2026-07-03T14:23:01.733259+00:00",
+    "items": []
+  },
+  "sams|65QNED9MASA": {
+    "ts": "2026-07-03T14:23:02.649978+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED9MASA": {
+    "ts": "2026-07-03T14:23:29.973250+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Televisor Inteligente Qned Evo Ai Qned92a Mini Led 4k 85  LG",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-qned-evo-ai-qned92a-mini-led-4k-85--lg/up/MLMU3983966458",
+        "price": 45999.0,
+        "model": "Qned92a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hisense Smart Tv Pantalla 65 Pulgadas Qled 65qd65qv Vidaa",
+        "url": "https://www.mercadolibre.com.mx/hisense-smart-tv-pantalla-65-pulgadas-qled-65qd65qv-vidaa/up/MLMU3772545374",
+        "price": 13755.0,
+        "model": "65qd65qv"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Profesional Led De 65 , Uhd 4k (3840x2160p)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-profesional-led-de-65--uhd-4k-3840x2160p/up/MLMU3234616492",
+        "price": 28215.0,
+        "model": "3840x2160p"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla 65'' Samsung Oled 4k S95d Nq4 Ai Gen2 Smartthings",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-5562018082-pantalla-65-samsung-oled-4k-s95d-nq4-ai-gen2-smartthings-_JM",
+        "price": 32000.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tv Samsung 65  Qled 4k Smart Qn65q60cagxpe (2023)",
+        "url": "https://www.mercadolibre.com.mx/tv-samsung-65--qled-4k-smart-qn65q60cagxpe-2023/up/MLMU1827289176",
+        "price": 15500.0,
+        "model": "Qn65q60cagxpe"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hisense Smart TV Pantalla 65 Pulgadas QLED 65QD6QV Vidaa",
+        "url": "https://www.mercadolibre.com.mx/hisense-smart-tv-pantalla-65-pulgadas-qled-65qd6qv-vidaa/p/MLM54142566",
+        "price": 14749.0,
+        "model": "65QD6QV"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente LG Qned Evo Ai 4k Qned85 65 2025 65qned85asg",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-lg-qned-evo-ai-4k-qned85-65-2025-65qned85asg/p/MLM53398247",
+        "price": 19999.0,
+        "model": "65qned85asg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hisense Smart TV Pantalla 65 Pulgadas QLED 65QD65QV Vidaa",
+        "url": "https://www.mercadolibre.com.mx/hisense-smart-tv-pantalla-65-pulgadas-qled-65qd65qv-vidaa/p/MLM62254575",
+        "price": 14099.0,
+        "model": "65QD65QV"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla LG 65 Pulgadas 65qned75ara Qned Smart Tv Webos 4k - Excelente (Reacondicionado)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-lg-65-pulgadas-65qned75ara-qned-smart-tv-webos-4k-excelente-reacondicionado/p/MLM2013246756",
+        "price": 10900.0,
+        "model": "65qned75ara"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hisense - 65  Class Qd7 Series Miniled Qled",
+        "url": "https://www.mercadolibre.com.mx/hisense--65--class-qd7-series-miniled-qled/up/MLMU3798143907",
+        "price": 13599.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart TV de 65\" Samsung QN65Q90TAF con pantalla QLED 4K",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-de-65-samsung-qn65q90taf-con-pantalla-qled-4k/p/MLM22446217",
+        "price": 60585.0,
+        "model": "QN65Q90TAF"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Qled Hisense 65  4k 120hz Google Tv",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-qled-hisense-65--4k-120hz-google-tv/up/MLMU4215980708",
+        "price": 16465.0,
+        "model": "120hz"
+      }
+    ]
+  },
+  "liverpool|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:23.075213+00:00",
+    "items": []
+  },
+  "coppel|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:25.959663+00:00",
+    "items": []
+  },
+  "amazon|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:32.662109+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV 85\" Crystal UN85U8200FFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0G4CZ2DKF",
+        "price": 16995.0,
+        "model": "UN85U8200FFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Control Remoto Universal para Pantallas Sharp/Smart TV/Led/Netflix/Youtube",
+        "url": "https://www.amazon.com.mx/dp/B08RSLLRCP",
+        "price": 139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.0,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "Hama Soporte de Pared para TV alemán de 90 Pulgadas, 60 kg, Espacio de 2,5 cm",
+        "url": "https://www.amazon.com.mx/dp/B0CP854TWG",
+        "price": 1533.96,
+        "model": null
+      }
+    ]
+  },
+  "walmart|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:42.107591+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Television Samsung Crystal UHD 4K 85 pulgadas UN85U8000FFXZX",
+        "url": "https://www.walmart.com.mx/ip/television-samsung-crystal-uhd-4k-85-pulgadas-un85u8000ffxzx/00880609703852?athbdg=L1300",
+        "price": 15999.0,
+        "model": "UN85U8000FFXZX"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Samsung 85 pulgadas 4K Ultra HD Smart  LED UN85DU7000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-85-pulgadas-4k-ultra-hd-smart-led-un85du7000fxzx/00880609547362",
+        "price": 53968.9,
+        "model": "UN85DU7000FXZX"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Samsung 98 pulgadas 4K Ultra HD Smart TV LED UN98DU9000FXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-98-pulgadas-4k-ultra-hd-smart-tv-led-un98du9000fxzx/00880609554481?athbdg=L1300",
+        "price": 45990.0,
+        "model": "UN98DU9000FXZX"
+      }
+    ]
+  },
+  "sams|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:42.976060+00:00",
+    "items": []
+  },
+  "mercadolibre|UN85U8200FFXZX": {
+    "ts": "2026-07-03T14:24:52.136541+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal 85  4k Uhd Un85u8200ffxzx",
+        "url": "https://www.mercadolibre.com.mx/samsung-crystal-85--4k-uhd-un85u8200ffxzx/up/MLMU4011436128",
+        "price": 34999.0,
+        "model": "Un85u8200ffxzx"
+      }
+    ]
+  },
+  "amazon|55QM64L": {
+    "ts": "2026-07-03T14:25:23.158812+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 55QM64L Smart TV Pantalla 4K QD-MINILED 55\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK522ZF",
+        "price": 7219.62,
+        "model": "55QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 10827.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas OLED AI B5 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0GW96VBJY",
+        "price": 13425.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 55\" 55Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCC3X7",
+        "price": 5998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 55QM7L Pantalla 55\" SQD-MiniLED 4K Smart TV | 2800 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSC2XMQ",
+        "price": 12999.0,
+        "model": "55QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
+        "price": 8499.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 55\" Pulgadas Mini LED UN55M80HAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GX2MNZ6Z",
+        "price": 8999.0,
+        "model": "UN55M80HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 55“ Pulgadas,Mini-LED 4K Smart TV，Dolby Vision·Atmos，AI 4K Upscaler，Modo de Protección Ocular，Game Mode Plus，Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSR7MTWC",
+        "price": 7999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 55A300W Smart TV Pantalla NXTVision TV 55” 4K QLED Pro Google TV | HDR10 | Dolby Audio | WiFi y Bluetooth | Compatible con Alexa, Chromecast Integrado",
+        "url": "https://www.amazon.com.mx/dp/B0GQ2PMLSM",
+        "price": 9499.0,
+        "model": "55A300W"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 65QM64L Smart TV 4K QD-MINILED 65\" Fire TV 144Hz VRR 1000 NITS Dolby Vision IQ HDR10+ Game Master Alexa + 55QM64L 55\"",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y8S82D",
+        "price": 19091.62,
+        "model": "65QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 55“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRBBMXF",
+        "price": 8999.0,
+        "model": "144Hz"
+      }
+    ]
+  },
+  "walmart|55QM64L": {
+    "ts": "2026-07-03T14:25:37.888042+00:00",
+    "items": []
+  },
+  "sams|55QM64L": {
+    "ts": "2026-07-03T14:25:38.403899+00:00",
+    "items": []
+  },
+  "amazon|98QM7K": {
+    "ts": "2026-07-03T14:25:42.143090+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 37498.0,
+        "model": "98QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G87BVYGB",
+        "price": 13990.0,
+        "model": "QNED73"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED EVO AI QNED92 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G5QVMSRH",
+        "price": 18079.0,
+        "model": "QNED92"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
+        "price": 12799.0,
+        "model": "Q72dd"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 37498.0,
+        "model": "98QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "RC923A FMB1 Control remoto de voz de repuesto compatible con TCL 2025 4K OLED Smart TV modelos 50QM6K 55QM6K 55QM7K 65QM6K 65QM7K 75QM6K 75QM7K 85QM6K 85QM7K 98QM6K 98QM7K",
+        "url": "https://www.amazon.com.mx/dp/B0GSW1P4Q1",
+        "price": 434.92,
+        "model": "RC923A"
+      },
+      {
+        "store": "amazon",
+        "name": "Mando a distancia de repuesto para RC923A FMB1 TCL Smart LED TV Modelos 55QM6K 75QM6K 65QM6K 65QM7K 55QM7K 75QM7K 98QM6K 85QM6K 85QM7K 98QM7K (Sin función de voz)",
+        "url": "https://www.amazon.com.mx/dp/B0FRRZ8JLH",
+        "price": 310.1,
+        "model": "RC923A"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 10827.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "RC813A FMB1 - Mando a distancia de repuesto para TCL QLED 4K UHD Smart TV 85QM6K 98QM6K 55QM7K 65QM7K 75QM7K 85QM7K 98QM7K (sin voz)",
+        "url": "https://www.amazon.com.mx/dp/B0GKS2XSY8",
+        "price": 318.56,
+        "model": "RC813A"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
+        "price": 23999.0,
+        "model": "75QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.0,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      }
+    ]
+  },
+  "walmart|98QM7K": {
+    "ts": "2026-07-03T14:26:10.672979+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV TCL 98Q651G 98 Pulgadas TCL QLED 4K HDR Google TV Mod 98Q651G",
+        "url": "https://www.walmart.com.mx/ip/tv-tcl-98q651g-98-pulgadas-tcl-qled-4k-hdr-google-tv-mod-98q651g/00084046404474",
+        "price": 41799.0,
+        "model": "98Q651G"
+      }
+    ]
+  },
+  "sams|98QM7K": {
+    "ts": "2026-07-03T14:26:13.243497+00:00",
+    "items": []
+  },
+  "walmart|RESIDENTEVILPS5": {
+    "ts": "2026-07-03T14:26:36.056239+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Consola PS5 SLIM PlayStation 5 DVD 1TB Bundle Marvel’s Spider-Man 2 Internacional",
+        "url": "https://www.walmart.com.mx/ip/consola-ps5-slim-playstation-5-dvd-1tb-bundle-marvel-s-spider-man-2-internacional/00070452114259",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PS5 Juego Resident Evil Village",
+        "url": "https://www.walmart.com.mx/ip/ps5-juego-resident-evil-village/00066901421422?athbdg=L1300",
+        "price": 513.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "RESIDENT EVIL REQUIEM PARA PS5 - Edición estándar",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-requiem-para-ps5-edicion-estandar/00890417133474",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Requiem - PlayStation 5",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-requiem-playstation-5/00001338858015",
+        "price": 2219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Village Y 7 Gold Edition - Ps5 Físico",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-village-y-7-gold-edition-ps5-fisico/00066901421400?athbdg=L6000",
+        "price": 1075.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil 3  para PS5",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-3-para-ps5/00079173976187?athbdg=L1300",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Metal Gear Solid + Resident Evil Village Ps5 Físico",
+        "url": "https://www.walmart.com.mx/ip/metal-gear-solid-resident-evil-village-ps5-fisico/00066901421474?athbdg=L6000",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil BIOHAZARD RE:2 Z Version  para ps5",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-biohazard-re-2-z-version-para-ps5/00497621913181",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PS5 Combo Resident Evil 2 + Resident Evil 3",
+        "url": "https://www.walmart.com.mx/ip/ps5-combo-resident-evil-2-resident-evil-3/00066901421399?athbdg=L6000",
+        "price": 1049.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PlayStation 4 Juego de Resident Evil 5",
+        "url": "https://www.walmart.com.mx/ip/playstation-4-juego-de-resident-evil-5/00066901421444?athbdg=L1300",
+        "price": 448.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Requiem Lenticular PlayStation 5 Físico",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-requiem-lenticular-playstation-5-fisico/00066901421493?athbdg=L1300",
+        "price": 1902.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Juego Capcom Resident Evil 7 Biohazard Edición Oro PS5 UK PAL",
+        "url": "https://www.walmart.com.mx/ip/juego-capcom-resident-evil-7-biohazard-edicion-oro-ps5-uk-pal/00079173976186?athbdg=L1300",
+        "price": 749.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|RESIDENTEVILPS5": {
+    "ts": "2026-07-03T14:26:37.489961+00:00",
+    "items": []
+  },
+  "walmart|FLEXIBLESSANDALIASSKECHERSLIBRES": {
+    "ts": "2026-07-03T14:27:09.412487+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752417?athbdg=L1300",
+        "price": 1989.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787891?athbdg=L1300",
+        "price": 2169.0,
+        "model": "0-Sun"
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752439?athbdg=L1300",
+        "price": 2049.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787877?athbdg=L1300",
+        "price": 2099.0,
+        "model": "0-Sun"
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers GO Walk Flex Sublime Sport Navy para mujer 8",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-navy-para-mujer-8/00019664297902?athbdg=L1300",
+        "price": 1909.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers GO Walk Flex Sublime Sport para mujer, color negro 8",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-para-mujer-color-negro-8/00019664299387?athbdg=L1300",
+        "price": 1379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia deportiva Skechers Reggae Slim Simply Stretch para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-deportiva-skechers-reggae-slim-simply-stretch-para-mujer/00019442819028?athbdg=L1300",
+        "price": 1529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia deportiva Skechers Reggae Slim Simply Stretch para mujer, color blanco",
+        "url": "https://www.walmart.com.mx/ip/sandalia-deportiva-skechers-reggae-slim-simply-stretch-para-mujer-color-blanco/00019442873255?athbdg=L1300",
+        "price": 1569.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752420?athbdg=L1300",
+        "price": 2029.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers GO Walk Flex Sublime Sport para mujer, color topo 7",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-para-mujer-color-topo-7/00019664297925?athbdg=L1300",
+        "price": 2619.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752441?athbdg=L1300",
+        "price": 2019.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787883?athbdg=L1300",
+        "price": 1609.0,
+        "model": "0-Sun"
+      }
+    ]
+  },
+  "sams|FLEXIBLESSANDALIASSKECHERSLIBRES": {
+    "ts": "2026-07-03T14:27:10.230428+00:00",
+    "items": []
+  },
+  "walmart|8000MAH": {
+    "ts": "2026-07-03T14:27:33.628840+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Carcasa de Batería NEWDERY 8000mAh USB-C para iPhone 16 Pro Max",
+        "url": "https://www.walmart.com.mx/ip/carcasa-de-bateria-newdery-8000mah-usb-c-para-iphone-16-pro-max/00046160711641?athbdg=L1300",
+        "price": 859.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "21.6v 8000mah Vacuum Cleaner Replacement Rechargeable Battery For V8 Li-ion Vacuum Cleaner Battery",
+        "url": "https://www.walmart.com.mx/ip/21-6v-8000mah-vacuum-cleaner-replacement-rechargeable-battery-for-v8-li-ion-vacuum-cleaner-battery/00775317691337",
+        "price": 1909.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "21.6v 8000mah Vacuum Cleaner Replacement Rechargeable Battery For V8 Li-ion Vacuum Cleaner Battery",
+        "url": "https://www.walmart.com.mx/ip/21-6v-8000mah-vacuum-cleaner-replacement-rechargeable-battery-for-v8-li-ion-vacuum-cleaner-battery/00775317691270",
+        "price": 1684.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "Powerstation Wireless Stand Mophie 8000mAh 18W USB-C",
+        "url": "https://www.walmart.com.mx/ip/powerstation-wireless-stand-mophie-8000mah-18w-usb-c/00084005612422?athbdg=L1300",
+        "price": 2779.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Reemplazo de Batería de 18V 8000mAh para Batería Ryobi 18V P102 P103 P104 P105 P107 P108 P109 P190 P191 P122",
+        "url": "https://www.walmart.com.mx/ip/reemplazo-de-bateria-de-18v-8000mah-para-bateria-ryobi-18v-p102-p103-p104-p105-p107-p108-p109-p190-p191-p122/00076152213519?athbdg=L1300",
+        "price": 757.6,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Calentador de Manos Recargable 8000mAh Pack de 2 con Chip IA 22 Horas Carga Rápida 3 Niveles y Ultraligero – Ideal como Regalo",
+        "url": "https://www.walmart.com.mx/ip/calentador-de-manos-recargable-8000mah-pack-de-2-con-chip-ia-22-horas-carga-rapida-3-niveles-y-ultraligero-ideal-como-regalo/00734786216875?athbdg=L1300",
+        "price": 584.99,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "8000mAh 21.6V battery compatible with V8 vacuum",
+        "url": "https://www.walmart.com.mx/ip/8000mah-21-6v-battery-compatible-with-v8-vacuum/00775317690004",
+        "price": 502.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "wonima11 Jobsite Radio Bluetooth Speaker, 8000mAH Battery, IPX 66 Waterproof, Cell Phone Charging, Portable Jobsite Speaker with LED Lights, Portable Worksite Speakers for Outdoor/Work/Garage (Green)",
+        "url": "https://www.walmart.com.mx/ip/wonima11-jobsite-radio-bluetooth-speaker-8000mah-battery-ipx-66-waterproof-cell-phone-charging-portable-jobsite-speaker-with-led-lights-portable-worksite-speakers-for-outdoor-work-garage-green-/00059249873263",
+        "price": 1419.78,
+        "model": "wonima11"
+      },
+      {
+        "store": "walmart",
+        "name": "Linterna de mano recargable Cola LED Reflector 8000mAh antorcha para exteriores",
+        "url": "https://www.walmart.com.mx/ip/linterna-de-mano-recargable-cola-led-reflector-8000mah-antorcha-para-exteriores/00075573540119?athbdg=L1300",
+        "price": 1199.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Outdoor Camping Lantern 8000mah Rechargeable Colorful Lights",
+        "url": "https://www.walmart.com.mx/ip/outdoor-camping-lantern-8000mah-rechargeable-colorful-lights/00700127051827",
+        "price": 506.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "8000mAh Wireless Electric Air Pump LED Lighting Air Compressor Sup Inflatable Pump for Car Surfing Paddle Board Boat",
+        "url": "https://www.walmart.com.mx/ip/8000mah-wireless-electric-air-pump-led-lighting-air-compressor-sup-inflatable-pump-for-car-surfing-paddle-board-boat/00621321811786",
+        "price": 1594.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Outdoor Camping Lantern 8000mah Rechargeable Colorful Lights with Magnet Portable Emergency Tent Light Work Lighting",
+        "url": "https://www.walmart.com.mx/ip/outdoor-camping-lantern-8000mah-rechargeable-colorful-lights-with-magnet-portable-emergency-tent-light-work-lighting/00618261232547",
+        "price": 679.0,
+        "model": "8000mah"
+      }
+    ]
+  },
+  "sams|8000MAH": {
+    "ts": "2026-07-03T14:27:34.409378+00:00",
+    "items": []
+  },
+  "amazon|WHCH520": {
+    "ts": "2026-07-03T14:27:44.734007+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Negro (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSKN2LW",
+        "price": 697.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Beige (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFS29Y49",
+        "price": 697.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony Audífonos inalámbricos on-Ear WH-CH520 hasta 50 Horas de duración de batería, Azul (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0CFSWYMQT",
+        "price": 697.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "USTIYA Funda Audífonos on-Ear para WH-CH720N/CH520 y para Tune 510BT/520BT Case Protectora de Cover con Bolsillo Interior de Malla,Carcasa rígida de EVA Resistente al Agua (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0DKLRF1Z7",
+        "price": 249.0,
+        "model": "WH-CH720N/CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "Ginsco - Funda Compatible con Tune 510BT/520BT/500BT con Sony WH-CH520/510, Carcasa rígida Ultrafina para Auriculares en la Oreja (Beige)",
+        "url": "https://www.amazon.com.mx/dp/B0FLXF6P1J",
+        "price": 371.13,
+        "model": "510BT/520BT/500BT"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Auriculares, Estuche para Audifonos Diadema, Estuche Rigido para JBL Tune 510BT/520BT/720BT y Sony WH-CH520/WH-CH720N/WH-1000XM4, Funda Protectora para Guardar, Cargador (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0H1VVGJSX",
+        "price": 398.0,
+        "model": "WH-CH520/WH-CH720N/WH-1000XM4"
+      },
+      {
+        "store": "amazon",
+        "name": "casmilee Estuche Protector Compatible con Sony WH-CH520/WH-1000XM4 y JBL Tune 720BT/510BT - Funda de Transporte para Auriculares Over-Ear Inalámbricos, Color Beige (Solo Caja)",
+        "url": "https://www.amazon.com.mx/dp/B0D73GRN11",
+        "price": 479.91,
+        "model": "WH-CH520/WH-1000XM4"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda compatible con Tune 520BT 510BT 720BT 770NC 670NC, Sony WH-CH720N WH-CH520 Auriculares inalámbricos con cancelación de ruido, funda portátil para auriculares de viaje (rosa)",
+        "url": "https://www.amazon.com.mx/dp/B0FG1DMRN5",
+        "price": 321.66,
+        "model": "WH-CH720N"
+      },
+      {
+        "store": "amazon",
+        "name": "Estuche para Auriculares WH-CH720N/CH520, Funda Protectora Resistente con Bolsillo Interior de Malla, Carcasa Rígida de EVA Resistente al Agua para Estuches de Auriculares, para Música y",
+        "url": "https://www.amazon.com.mx/dp/B0CL2P6HF6",
+        "price": 110.0,
+        "model": "WH-CH720N/CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "2 Piezas De Almohadillas Para Diadema Y Auriculares WH-CH520 Fundas Para Orejeras De Espuma En Color Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FCCQBYX7",
+        "price": 158.99,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "2 piezas de almohadillas para diadema para auriculares WH-CH520, orejeras, almohadillas para auriculares, almohadillas para la cabeza, accesorios para auriculares",
+        "url": "https://www.amazon.com.mx/dp/B0FCCMRP7T",
+        "price": 159.99,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "amazon",
+        "name": "V-MOTA WHCH520 Almohadillas Compatibles con Sony WH-Ch520.CE7 WH-CH510 Auriculares Inalámbricos, Fundas de Reemplazo para Almohadillas (1 Par) (Albaricoque)",
+        "url": "https://www.amazon.com.mx/dp/B0CK4ZVV9X",
+        "price": 156.0,
+        "model": "WH-Ch520"
+      }
+    ]
+  },
+  "walmart|WHCH520": {
+    "ts": "2026-07-03T14:27:58.085268+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos Sony WH-CH520/B Negro",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch520-b-negro/00002724292520?athbdg=L1300",
+        "price": 769.0,
+        "model": "WH-CH520/B"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares supraaurales inalámbricos Bluetooth Sony WH-CH520 negros",
+        "url": "https://www.walmart.com.mx/ip/auriculares-supraaurales-inalambricos-bluetooth-sony-wh-ch520-negros/00019627149285?athbdg=L1300",
+        "price": 1699.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "walmart",
+        "name": "Sony Audífonos inalámbricos WH-CH520 color rosa",
+        "url": "https://www.walmart.com.mx/ip/sony-audifonos-inalambricos-wh-ch520-color-rosa/00002724293242",
+        "price": 1102.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda LTGEM compatible con Sony WH-CH520/WH-CH520B.CE7/WH-CH520B",
+        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch520-wh-ch520b-ce7-wh-ch520b/00046417665536?athbdg=L1300",
+        "price": 559.0,
+        "model": "WH-CH520/WH-CH520B"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda LTGEM compatible con Sony WH-CH520/WH-CH520B.CE7, color beige",
+        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch520-wh-ch520b-ce7-color-beige/00046342745697?athbdg=L1300",
+        "price": 569.0,
+        "model": "WH-CH520/WH-CH520B"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda LTGEM compatible con Sony WH-CH520/WH-CH520B.CE7 azul",
+        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch520-wh-ch520b-ce7-azul/00046194386687?athbdg=L1300",
+        "price": 559.0,
+        "model": "WH-CH520/WH-CH520B"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares supraaurales inalámbricos Sony WH-CH520 con micrófono, color blanco",
+        "url": "https://www.walmart.com.mx/ip/auriculares-supraaurales-inalambricos-sony-wh-ch520-con-microfono-color-blanco/00750145072022?athbdg=L1300",
+        "price": 1579.0,
+        "model": "WH-CH520"
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos Sony WH-CH520/W Blanco",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-sony-wh-ch520-w-blanco/00002724292546?athbdg=L1300",
+        "price": 769.0,
+        "model": "WH-CH520/W"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda LTGEM compatible con Sony WH-CH720N/WH-CH520 negra",
+        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch720n-wh-ch520-negra/00046298684197",
+        "price": 649.0,
+        "model": "WH-CH720N/WH-CH520"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda LTGEM compatible con Sony WH-CH720N/WH-CH520 blanca",
+        "url": "https://www.walmart.com.mx/ip/funda-ltgem-compatible-con-sony-wh-ch720n-wh-ch520-blanca/00046194384633?athbdg=L1300",
+        "price": 579.0,
+        "model": "WH-CH720N/WH-CH520"
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos Wh-ch520 Color Negro",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-wh-ch520-color-negro/00750304897902",
+        "price": 1749.0,
+        "model": "Wh-ch520"
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares supraaurales inalámbricos Bluetooth Sony WH-CH520 Blue",
+        "url": "https://www.walmart.com.mx/ip/auriculares-supraaurales-inalambricos-bluetooth-sony-wh-ch520-blue/00750145072023?athbdg=L1300",
+        "price": 1579.0,
+        "model": "WH-CH520"
+      }
+    ]
+  },
+  "sams|WHCH520": {
+    "ts": "2026-07-03T14:28:00.289437+00:00",
+    "items": []
   }
 }

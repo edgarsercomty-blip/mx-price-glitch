@@ -1,9 +1,90 @@
 {
-  "generated_at": "2026-07-03 13:55 UTC",
-  "products_scanned": 917,
+  "generated_at": "2026-07-03 14:28 UTC",
+  "products_scanned": 2771,
   "threshold_pct": 20.0,
-  "count": 19,
+  "count": 32,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$499 en amazon vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 754.21,
+      "store": "amazon",
+      "name": "Reebok Tenis LITE5 para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0DMT1NB22",
+      "price": 498.53,
+      "list_price": null,
+      "ean": null,
+      "model": "LITE5",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DMT1NB22"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$498 en mercadolibre vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 501.0,
+      "store": "mercadolibre",
+      "name": "Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt Color Negro",
+      "url": "https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580",
+      "price": 498.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM41816580"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$11,520 en palacio vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9480.45,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+      "price": 11519.55,
+      "list_price": 25599.0,
+      "ean": null,
+      "model": "75Q6K",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44576283",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 61.5,
+      "detail": "$500 en amazon vs mercado -> -44% bajo la competencia",
+      "likely_typo": false,
+      "savings": 400.0,
+      "store": "amazon",
+      "name": "Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Zoom 18X, Detección de Rostros, Estabilización, Lapso de Tiempo, Cámara Lenta, Recargable, Transmisión en Vivo para",
+      "url": "https://www.amazon.com.mx/dp/B0D5R1YT8P",
+      "price": 499.99,
+      "list_price": 1299.99,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0D5R1YT8P"
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -48,6 +129,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.5,
+      "detail": "$3,799 en walmart vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2000.0,
+      "store": "walmart",
+      "name": "Audifonos Apple airpods Pro 3 Blancos",
+      "url": "https://www.walmart.com.mx/ip/audifonos-apple-airpods-pro-3-blancos/00019595054362?athbdg=L1300",
+      "price": 3799.0,
+      "list_price": 5799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019595054362"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$18,719 en palacio vs mercado -> -34% bajo la competencia",
       "likely_typo": false,
@@ -65,6 +166,26 @@
       "extra": {
         "id": "44172333",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$6,599 en walmart vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3000.0,
+      "store": "walmart",
+      "name": "BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BENOTTO Benotto 570 Ruta",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300",
+      "price": 6599.0,
+      "list_price": 9599.0,
+      "ean": null,
+      "model": "R-700",
+      "brand": "Benotto",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750153732737"
       }
     },
     {
@@ -107,6 +228,26 @@
       "extra": {
         "id": "44964251",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,199 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1500.0,
+      "store": "walmart",
+      "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+      "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+      "price": 4199.0,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Monk",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750227122227"
       }
     },
     {
@@ -238,27 +379,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10612.25,
-      "store": "palacio",
-      "name": "Maquina de Cafe Espresso para 27 tazas en Acero",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-para-27-tazas-en-acero-44729901.html",
-      "price": 31836.75,
-      "list_price": 42449.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729901",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 824.75,
@@ -296,6 +416,107 @@
       "extra": {
         "id": "44519513",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10612.25,
+      "store": "palacio",
+      "name": "Maquina de Cafe Espresso para 27 tazas en Acero",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-para-27-tazas-en-acero-44729901.html",
+      "price": 31836.75,
+      "list_price": 42449.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729901",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,245 en amazon vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 409.74,
+      "store": "amazon",
+      "name": "Skechers On-The-Go Go Walk - Sandalias flexibles para mujer - Ariel Manos Libres",
+      "url": "https://www.amazon.com.mx/dp/B0DFXH25MN",
+      "price": 1244.77,
+      "list_price": 414.92,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DFXH25MN"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.8,
+      "detail": "$1,219 en walmart vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 380.0,
+      "store": "walmart",
+      "name": "Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable",
+      "url": "https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300",
+      "price": 1219.0,
+      "list_price": 1599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hamilton Beach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00004009493540"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.1,
+      "detail": "$383 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 117.17,
+      "store": "amazon",
+      "name": "Resident Evil 4 PS5",
+      "url": "https://www.amazon.com.mx/dp/B0BJTKYLCB",
+      "price": 382.83,
+      "list_price": 799.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BJTKYLCB"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 569.0,
+      "store": "walmart",
+      "name": "LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra",
+      "url": "https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814",
+      "price": 1930.0,
+      "list_price": null,
+      "ean": null,
+      "model": "BN700",
+      "brand": "Ninja",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00820095550814"
       }
     },
     {
@@ -359,6 +580,46 @@
       "extra": {
         "id": "43441688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.8,
+      "detail": "$4,499 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1200.0,
+      "store": "walmart",
+      "name": "Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE",
+      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434",
+      "price": 4499.0,
+      "list_price": 6899.0,
+      "ean": null,
+      "model": "EM5031BAPN1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075763840434"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$260 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 65.68,
+      "store": "walmart",
+      "name": "Perfume Nautica Voyage Eau de Toilette 100 ml",
+      "url": "https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1300",
+      "price": 260.0,
+      "list_price": 400.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nautica",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00003165553190"
       }
     },
     {
