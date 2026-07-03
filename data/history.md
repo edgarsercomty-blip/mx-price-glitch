@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (154)
+# Historial de ofertas encontradas (160)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-03 19:43 | -20% | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1600) | $260 | $260 en walmart vs mercado -> -20% bajo la competencia |
+| 2026-07-03 19:43 | -22% | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bu…](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $11,599 | $11,599 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-07-03 19:43 | -24% | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Mult…](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | $189 en walmart vs mercado -> -24% bajo la competencia |
+| 2026-07-03 19:43 | -28% | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O…](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | $2,658 en sams vs mercado -> -28% bajo la competencia |
+| 2026-07-03 19:43 | -30% | amazon | [Black+Decker Cafetera con Tecnología Vortex y Filtro Pe…](https://www.amazon.com.mx/dp/B0CYQL7WXT) | $345 | $345 en amazon vs amazon $491, amazon $495, amazon $527 -> -30% bajo la competencia |
+| 2026-07-03 19:43 | -44% | mercadolibre | [Licuadora Hamilton Beach 52400 650w Color Negro](https://www.mercadolibre.com.mx/licuadora-hamilton-beach-52400-650w-color-negro/p/MLM23039041) | $999 | $999 en mercadolibre vs mercado -> -44% bajo la competencia |
 | 2026-07-03 14:28 | -22% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,699 (estaba agotado) |
 | 2026-07-03 09:38 | -23% | amazon | [Resident Evil 4 PS5](https://www.amazon.com.mx/dp/B0BJTKYLCB) | $383 | $383 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-07-03 09:38 | -27% | mercadolibre | [Apple iPhone 16 (128 GB) - Negro](https://www.mercadolibre.com.mx/apple-iphone-16-128-gb-negro/p/MLM40287808) | $14,652 | $14,652 en mercadolibre vs mercado -> -27% bajo la competencia |
