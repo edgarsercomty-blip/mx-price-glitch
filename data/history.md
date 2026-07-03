@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (160)
+# Historial de ofertas encontradas (161)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-03 21:44 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo,…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | $46,199 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-03 19:43 | -20% | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1600) | $260 | $260 en walmart vs mercado -> -20% bajo la competencia |
 | 2026-07-03 19:43 | -22% | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bu…](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $11,599 | $11,599 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-07-03 19:43 | -24% | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Mult…](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | $189 en walmart vs mercado -> -24% bajo la competencia |
