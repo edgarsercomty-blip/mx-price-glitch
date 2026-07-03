@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03 09:38 UTC",
-  "products_scanned": 2705,
+  "generated_at": "2026-07-03 09:53 UTC",
+  "products_scanned": 917,
   "threshold_pct": 20.0,
   "count": 35,
   "findings": [
@@ -417,27 +417,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 999.75,
-      "store": "palacio",
-      "name": "Combo Licuadora Porcelain con 2 Vasos",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html",
-      "price": 2999.25,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505385",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$1,897 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 632.25,
@@ -453,6 +432,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41646264",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 999.75,
+      "store": "palacio",
+      "name": "Combo Licuadora Porcelain con 2 Vasos",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html",
+      "price": 2999.25,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505385",
         "outlet": false
       }
     },
