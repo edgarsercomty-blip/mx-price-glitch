@@ -1,105 +1,4 @@
 {
-  "liverpool|85QM8K": {
-    "ts": "2026-07-01T04:26:09.498843+00:00",
-    "items": []
-  },
-  "amazon|85QM8K": {
-    "ts": "2026-07-01T04:26:12.944195+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 85QM8K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GZJDH7N1",
-        "price": 34999.0,
-        "model": "85QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 85QM7K Pantalla 85\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GQDRS13F",
-        "price": 27998.0,
-        "model": "85QM7K"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
-        "price": 20398.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
-        "price": 20999.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
-        "price": 51499.0,
-        "model": "98QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 86 Pulgadas QNED AI QNED83 4K Smart TV webOS 2025 86QNED83ASG |Sistema Operativo webOS | Identificación de Voz AI | Dynamic QNED Color | Dolby Atmos Channels | Filmmaker Mode",
-        "url": "https://www.amazon.com.mx/dp/B0FMLMZY6H",
-        "price": 20999.0,
-        "model": "86QNED83ASG"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 11678.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "NTQinParts - driver de control remoto de voz de repuesto para TCL 65QM8K 65 pulgadas, 75QM8K 75 pulgadas, 85QM8K 85 pulgadas, 98QM8K 98 pulgadas QM8K Series QD-Mini LED 4K UHD Smart TV",
-        "url": "https://www.amazon.com.mx/dp/B0FMDXBNNN",
-        "price": 772.16,
-        "model": "65QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "Soporte de pared ultra delgado para TV TCL QM8K Series 4K UHD HDR QD-Mini LED Google (2025) 85QM8K 85 pulgadas - 1.2 pulgadas de perfil bajo, grado industrial 165 libras, fácil instalación",
-        "url": "https://www.amazon.com.mx/dp/B0FQRY4LZT",
-        "price": 2708.21,
-        "model": "85QM8K"
-      },
-      {
-        "store": "amazon",
-        "name": "RC933A FMB1 Reemplazo de control remoto de voz compatible con TCL QM8K Series 65QM8K 75QM8K 85QM8K 98QM8K 65C8K 75C8K 85C8K 75C89K QD-MINI Mini LED QLED 4K HDR UHD Google Smart TV 2025 Modelo (con",
-        "url": "https://www.amazon.com.mx/dp/B0H3NZTM1B",
-        "price": 600.04,
-        "model": "RC933A"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 86 Pulgadas QNED AI QNED80 4K Smart TV 2025 86QNED80ASA, Dynamic QNED Color, Sistema operativo webOS, Identificación de Voz AI, ALLM/VRR, Filmmaker Mode, AI Magic Remote, Channels",
-        "url": "https://www.amazon.com.mx/dp/B0F2PRXF11",
-        "price": 27997.0,
-        "model": "86QNED80ASA"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
-        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
-        "price": 14259.0,
-        "model": "HDR10"
-      }
-    ]
-  },
-  "walmart|85QM8K": {
-    "ts": "2026-07-01T04:26:46.307022+00:00",
-    "items": []
-  },
-  "sams|85QM8K": {
-    "ts": "2026-07-01T04:26:52.295135+00:00",
-    "items": []
-  },
   "amazon|98QM8K": {
     "ts": "2026-07-02T08:46:30.190606+00:00",
     "items": [
@@ -196,839 +95,6 @@
   "sams|98QM8K": {
     "ts": "2026-07-02T08:47:00.197469+00:00",
     "items": []
-  },
-  "liverpool|AC600": {
-    "ts": "2026-07-01T04:27:23.430169+00:00",
-    "items": []
-  },
-  "coppel|AC600": {
-    "ts": "2026-07-01T04:27:34.513712+00:00",
-    "items": []
-  },
-  "palacio|AC600": {
-    "ts": "2026-07-01T04:27:34.858683+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 9060 en piel vacuna Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-en-piel-vacuna-unisex-45450058.html",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Bocina Inalambrica Portatil Bluetooth XV500 Negra",
-        "url": "https://www.elpalaciodehierro.com/sony-bocina-inalambrica-portatil-bluetooth-xv500-negra-44003960.html",
-        "price": 5896.24,
-        "model": "XV500"
-      },
-      {
-        "store": "palacio",
-        "name": "Barra de sonido HW-S60D-ZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-barra-de-sonido-hw-s60d-zx-43788577.html",
-        "price": 5039.37,
-        "model": "HW-S60D-ZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 1906 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-1906-unisex-45450038.html",
-        "price": 3899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 530 Hombre",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-530-hombre-44421015.html",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
-        "price": 7133.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
-        "price": 13199.4,
-        "model": "VM122H9"
-      },
-      {
-        "store": "palacio",
-        "name": "Bocina Inalámbrica Music Studio LS70H 10 W",
-        "url": "https://www.elpalaciodehierro.com/samsung-bocina-inalambrica-music-studio-ls70h-10-w-45479303.html",
-        "price": 9998.8,
-        "model": "LS70H"
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales 9060 Unisex",
-        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-casuales-9060-unisex-45450051.html",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
-        "price": 14399.4,
-        "model": "VR122CW"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
-        "price": 24699.35,
-        "model": "VR242CW"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter ART121KAW, 12000 BTU's, 1 Tonelada, 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-minisplit-inverter-art121kaw-12000-btus-1-tonelada-110-v-frio-45484553.html",
-        "price": 10079.2,
-        "model": "ART121KAW"
-      }
-    ]
-  },
-  "walmart|AC600": {
-    "ts": "2026-07-01T04:27:38.018691+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Punto de acceso WiFi exterior WAVLINK AC600 de doble banda de alta potencia",
-        "url": "https://www.walmart.com.mx/ip/punto-de-acceso-wifi-exterior-wavlink-ac600-de-doble-banda-de-alta-potencia/00695536203368?athbdg=L1300",
-        "price": 1389.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Extensor WiFi para exteriores WAVLINK AC600 de doble banda con PoE IP67",
-        "url": "https://www.walmart.com.mx/ip/extensor-wifi-para-exteriores-wavlink-ac600-de-doble-banda-con-poe-ip67/00695536205732",
-        "price": 1899.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Adaptador USB WiFi inalámbrico StarTech.com AC600 de doble banda",
-        "url": "https://www.walmart.com.mx/ip/adaptador-usb-wifi-inalambrico-startech-com-ac600-de-doble-banda/00006503086377?athbdg=L1300",
-        "price": 699.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Adaptador Wi-Fi inalámbrico USB ALFA Network AWUS036ACS AC600",
-        "url": "https://www.walmart.com.mx/ip/adaptador-wi-fi-inalambrico-usb-alfa-network-awus036acs-ac600/00471805030542",
-        "price": 1029.0,
-        "model": "AWUS036ACS"
-      },
-      {
-        "store": "walmart",
-        "name": "Miniadaptador Wi-Fi USB 2.0 NETGEAR AC600 para PC de escritorio",
-        "url": "https://www.walmart.com.mx/ip/miniadaptador-wi-fi-usb-2-0-netgear-ac600-para-pc-de-escritorio/00060644909906?athbdg=L1300",
-        "price": 1339.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Adaptador WiFi Nipeal AC600 de doble banda USB con antena",
-        "url": "https://www.walmart.com.mx/ip/adaptador-wifi-nipeal-ac600-de-doble-banda-usb-con-antena/00019589334139?athbdg=L1300",
-        "price": 449.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Extensor WiFi WAVLINK AC600 Exterior Doble Banda PoE IP67",
-        "url": "https://www.walmart.com.mx/ip/extensor-wifi-wavlink-ac600-exterior-doble-banda-poe-ip67/00695536205824",
-        "price": 1899.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "TP-Link Archer T2UB Nano Adaptador USB Wi-Fi AC600 y Bluetooth para PC",
-        "url": "https://www.walmart.com.mx/ip/tp-link-archer-t2ub-nano-adaptador-usb-wi-fi-ac600-y-bluetooth-para-pc/00084003070260",
-        "price": 350.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Nano Adaptador Inalámbrico USB TP-Link Archer T2U AC600 TP-Link Wifi Archer T2U Nano",
-        "url": "https://www.walmart.com.mx/ip/nano-adaptador-inalambrico-usb-tp-link-archer-t2u-ac600-tp-link-wifi-archer-t2u-nano/00084003070001",
-        "price": 323.0,
-        "model": "AC600"
-      },
-      {
-        "store": "walmart",
-        "name": "Adaptador Nano USB TP-Link Archer T2U Plus AC600, hasta 600Mbps. TP-Link ARCHER T2U PLUS",
-        "url": "https://www.walmart.com.mx/ip/adaptador-nano-usb-tp-link-archer-t2u-plus-ac600-hasta-600mbps-tp-link-archer-t2u-plus/00084003070003",
-        "price": 384.0,
-        "model": "600Mbps"
-      },
-      {
-        "store": "walmart",
-        "name": "Dongle Wifi USB, Modo Compacto de AP Suave Apaje Wifi Adaptador Wifi 600Mbps Nano AC600 PC PAR LINUX",
-        "url": "https://www.walmart.com.mx/ip/dongle-wifi-usb-modo-compacto-de-ap-suave-apaje-wifi-adaptador-wifi-600mbps-nano-ac600-pc-par-linux/00635622663311?athbdg=L1500",
-        "price": 310.0,
-        "model": "600Mbps"
-      },
-      {
-        "store": "walmart",
-        "name": "Transmisor USB inalámbrico IOGEAR Mini AC600 de doble banda",
-        "url": "https://www.walmart.com.mx/ip/transmisor-usb-inalambrico-iogear-mini-ac600-de-doble-banda/00078238648228",
-        "price": 869.0,
-        "model": "AC600"
-      }
-    ]
-  },
-  "sams|AC600": {
-    "ts": "2026-07-01T04:27:51.863053+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Solo frío 24,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-solo-frio-24-000-btu/981049856",
-        "price": 9942.54,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado LG  Inverter Frío y Calor VC242H10",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-lg-inverter-frio-y-calor-vc242h10/981049853",
-        "price": 12991.07,
-        "model": "VC242H10"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Minisplit LG  Solo Frío 12,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-minisplit-lg-solo-frio-12-000-btu/981049845",
-        "price": 6341.58,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado LG BIG Inverter Enfriamiento 33,000 BTU's Calefacción 29,000 BTU's 220V 3 Ton",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-lg-big-inverter-enfriamiento-33-000-btu-s-calefaccion-29-000-btu-s-220v-3-ton/980036002",
-        "price": 33911.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mabe  MMI12HDBWCA32ME Inverter Frío/Calor 12,000 BTU 220V 1Ton",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mabe-mmi12hdbwca32me-inverter-frio-calor-12-000-btu-220v-1ton/981021665",
-        "price": 10638.17,
-        "model": "MMI12HDBWCA32ME"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Dualcool Inverter 12,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-dualcool-inverter-12-000-btu/981049494",
-        "price": 11968.06,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Dualcool Inverter 12,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-dualcool-inverter-12-000-btu/981049858",
-        "price": 11968.06,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Inverter Frío 12000 VC122C10",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-inverter-frio-12000-vc122c10/981049846",
-        "price": 7159.97,
-        "model": "VC122C10"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Frío y Calor 24,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-frio-y-calor-24-000-btu/981049857",
-        "price": 12070.37,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Solo Frío 11,900 BTU MT121C0",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-solo-frio-11-900-btu-mt121c0/981049842",
-        "price": 6341.58,
-        "model": "MT121C0"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  VO122C1 Dual Cool Inverter Frío 12,000 BTU's 230 V 1 Ton",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-vo122c1-dual-cool-inverter-frio-12-000-btu-s-230-v-1-ton/981031688",
-        "price": 7998.83,
-        "model": "VO122C1"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Inverter Frío y Calor 12,000 BTU",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-inverter-frio-y-calor-12-000-btu/981049848",
-        "price": 7671.47,
-        "model": null
-      }
-    ]
-  },
-  "mercadolibre|AC600": {
-    "ts": "2026-07-01T04:28:12.778361+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador De Red Ac600 T2u Plus Usb Banda Dual Inalámbrico De Alta Ganancia Tp Link",
-        "url": "https://www.mercadolibre.com.mx/adaptador-de-red-ac600-t2u-plus-usb-banda-dual-inalambrico-de-alta-ganancia-tp-link/p/MLM24747648",
-        "price": 299.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Inalambrico Usb Tp-link Archer T2u Nano Dual Ac600 Color Negro",
-        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-usb-tp-link-archer-t2u-nano-dual-ac600-color-negro/p/MLM21460701",
-        "price": 271.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Red Inalambrica Usb Tp-link Archer T2u Banda Dual",
-        "url": "https://www.mercadolibre.com.mx/adaptador-red-inalambrica-usb-tp-link-archer-t2u-banda-dual/p/MLM29724339",
-        "price": 500.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Usb Red Tplink Archer T2ub Ac600 Dual Band Wi Fi + Bluetooth",
-        "url": "https://www.mercadolibre.com.mx/usb-red-tplink-archer-t2ub-ac600-dual-band-wi-fi-bluetooth/p/MLM22558841",
-        "price": 299.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Wavlink WL-WN570HA1 Access Point Color Blanco",
-        "url": "https://www.mercadolibre.com.mx/wavlink-wl-wn570ha1-access-point-color-blanco/p/MLM15384102",
-        "price": 1799.0,
-        "model": "WL-WN570HA1"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Usb Wifi Tp-link Archer T2u Plus Ac600",
-        "url": "https://www.mercadolibre.com.mx/adaptador-usb-wifi-tp-link-archer-t2u-plus-ac600/p/MLM29168259",
-        "price": 380.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Inalámbrico Nano Usb, Ac600 (archer T2u Nano)",
-        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-nano-usb-ac600-archer-t2u-nano/p/MLM43074340",
-        "price": 315.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Inalámbrico Antena Wifi Usb Bluetooth Doble Banda",
-        "url": "https://www.mercadolibre.com.mx/adaptador-inalambrico-antena-wifi-usb-bluetooth-doble-banda/up/MLMU3026155035",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Punto De Acceso, Repetidor Wifi, Router Outdoor Wavlink 100v",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=yDYa4CTl28F35XoBz4DqWik1t7gu2CKpNmTJFq%2FPO%2FZfC82CShfd%2FxVeabaCtckh%2FdzQ4W8e%2BBY3yOb0BK8mznm9N%2BZH45Y8pgJIflJgpRKV4E0lVEQVSpvZ%2BQ4c%2FoGutj%2BVhRdgX9K5t%2BsQsSLIXtL0X1ljpXJL3sDwAQEy7JY1mNb7AQpBsY5Q%2FuPSbGwC90u7iJDorKowgtMfN4kEroCG3g7RZZxLU2Ye%2BzJeBYhKWMLx6BJeAeoFnV%2B2ZWYzlYeiOcdYAvHXg%2FNiA8GPRN5Bje0y97807NzlVqsuajviz%2FufCjMdgDBzfAEA0Rbr2VZI%2Bc7ODEyS8xEDa0e5S4KAav4V0UgmbK8izWrfgpwIHdiMdBfvZ%2FCceHoFrbxAoUlc4cmRF8J86%2Bb%2Bkh4uo85SXw13fIJWOPSQBjsgUIOfgnQlzVAFKqjCHCGrjQlunsT8cZqPiYrUz%2BHU1z0lH5zDrYWXbxazweFQBCDQFSs4hSFSKyzT%2Bjt%2BkJqhyv8HnhYg87ONgmoAxfWMZGPmXXkpIRKzboyTltyIXAiM2dC1RnzXNE%2BEiXg1wBxoEESKBfaOb0VnKc%2Fl1FTxNAzHQ6ZcMpch2SX5SCgFgg4uXAGGFIhmtU5rPO9atbIWhLsNL8ZBUzTKBQzzoN7mRO7N2E9ZZxze5V1Vqss2EpT2VOmEXM7Fg6yhib8c9dFzqEnwxkDL9EYY2BwH3CK8vRSfjDmrJdelB8GktYKFElgacKahujtjd%2BlF1wpduvZiUe3F2OEYN8NgZK2ln3NXGK2k5iHkhd8mxWBnBwmE8kS17sJUBOxjZEZYaGq%2Ba7%2Bw75dhW9ltWNT0bcMJn1Q%2BTnz3fxUlCTfphM4YvzpB6NSUG1uD0sk1dSUIMjApRoByjahLzhBpJiolbbrkO7M856ya6lUpJIDpTa9dLVzqfrjzcRLTlqZOGyAZRu%2BmKK%2BgCE1Ff6Ht3l65%2BWry7u9cJnCQIZs%3D&searchVariation=174771172639&pdp_filters=item_id%3AMLM1454179561",
-        "price": 1515.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Usb Inalámbrico Wifi Nano Ac600 De 2,4 Y 5 Ghz T2u",
-        "url": "https://www.mercadolibre.com.mx/adaptador-usb-inalambrico-wifi-nano-ac600-de-24-y-5-ghz-t2u/p/MLM47070096",
-        "price": 295.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Extensor Wifi Al Aire Libre Wavlink Ac600, Repetidor Mini",
-        "url": "https://www.mercadolibre.com.mx/wavlink-ac600-outdoor-wifi-repeater-dual-band/p/MLM2030711003",
-        "price": 2050.0,
-        "model": "Ac600"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Adaptador Usb Wifi 5g Y Bluetooth Tp-link Archer T2ub Nano",
-        "url": "https://www.mercadolibre.com.mx/adaptador-usb-wifi-5g-y-bluetooth-tplink-archer-t2ub-nano/up/MLMU3777506645",
-        "price": 419.0,
-        "model": null
-      }
-    ]
-  },
-  "liverpool|K65S20M2": {
-    "ts": "2026-07-01T04:28:22.822703+00:00",
-    "items": []
-  },
-  "coppel|K65S20M2": {
-    "ts": "2026-07-01T04:28:25.549410+00:00",
-    "items": []
-  },
-  "mercadolibre|K65S20M2": {
-    "ts": "2026-07-01T04:28:44.085626+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Pantalla Tv Sony Bravia 2 Dolby Atmos 4k Hdr K-65s20m2",
-        "url": "https://www.mercadolibre.com.mx/pantalla-tv-sony-bravia-2-dolby-atmos-4k-hdr-k-65s20m2/p/MLM53612066",
-        "price": 25499.0,
-        "model": "K-65s20m2"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Kit 3 Engrane Para Rodillo De Calor Km 1620 1650 2020 2050",
-        "url": "https://www.mercadolibre.com.mx/kit-3-engrane-para-rodillo-de-calor-km-1620-1650-2020-2050/up/MLMU711929231",
-        "price": 207.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Pantalla Tv 65 Sony Bravia  2 Dolby Atmos Uhd 4k Google Led",
-        "url": "https://www.mercadolibre.com.mx/pantalla-tv-65-sony-bravia--2-dolby-atmos-uhd-4k-google-led/up/MLMU3827356276",
-        "price": 42999.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bcg08-i1bm0399 Encoder Marca Sick Pn 1061029",
-        "url": "https://www.mercadolibre.com.mx/bcg08i1bm0399-encoder-marca-sick-pn-1061029/up/MLMU919239145",
-        "price": 22999.0,
-        "model": "Bcg08-i1bm0399"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Pantalla Tv Sony Bravia 2 Dolby Atmos 4k Hdr K-65s20m2",
-        "url": "https://www.mercadolibre.com.mx/pantalla-tv-sony-bravia-2-dolby-atmos-4k-hdr-k65s20m2/up/MLMU3802264510",
-        "price": 20899.0,
-        "model": "K-65s20m2"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Super Kit Kysor C/flecha K26 Entrada Trasera",
-        "url": "https://www.mercadolibre.com.mx/super-kit-kysor-cflecha-k26-entrada-trasera/up/MLMU3867459719",
-        "price": 8800.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Main Sony K-65s30c / 40706gd",
-        "url": "https://www.mercadolibre.com.mx/main-sony-k65s30c--40706gd/up/MLMU3882156411",
-        "price": 3000.0,
-        "model": "K-65s30c"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Botonera 40-m33d12-ked2hg, Philips 65pfl5765/f8",
-        "url": "https://www.mercadolibre.com.mx/botonera-40m33d12ked2hg-philips-65pfl5765f8/up/MLMU3827886554",
-        "price": 249.0,
-        "model": "40-m33d12-ked2hg"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Kit De Arrastre Sprock Dm150 Roja 2018-2020 Cadena Reforzada",
-        "url": "https://www.mercadolibre.com.mx/kit-de-arrastre-sprock-dm150-roja-20182020-cadena-reforzada/up/MLMU835258356",
-        "price": 515.0,
-        "model": "Dm150"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Kit Sprockets + Cadena Bmw650 F650 Gs650 G650 47/16d",
-        "url": "https://www.mercadolibre.com.mx/kit-sprockets--cadena-bmw650-f650-gs650-g650-4716d/up/MLMU933960649",
-        "price": 2411.0,
-        "model": "Bmw650"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Cigueñal Motor K21 Con Metales Std  Montacargas Mitsubishi",
-        "url": "https://www.mercadolibre.com.mx/ciguenal-motor-k21-con-metales-std--montacargas-mitsubishi/up/MLMU483083761",
-        "price": 5900.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Metales De Bancada K21 K25 En 20 (.5)  Montacargas",
-        "url": "https://www.mercadolibre.com.mx/metales-de-bancada-k21-k25-en-20-5--montacargas/up/MLMU441321453",
-        "price": 920.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-07-01T04:29:17.072618+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 256GB - Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNCVCKW",
-        "price": 6285.47,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
-        "price": 8085.87,
-        "model": "128GBNegroDesbloqueado"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 256GB, Azul - (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNFRHGN",
-        "price": 6501.36,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 17e (256 GB) - Rosa pálido",
-        "url": "https://www.amazon.com.mx/dp/B0GQVJ4TBZ",
-        "price": 14998.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 256GB Blue Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLNC6RR5",
-        "price": 10499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 17e (256 GB) - Negro",
-        "url": "https://www.amazon.com.mx/dp/B0GQVJL6RT",
-        "price": 14998.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 256GB, Azul Pacifico (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNHB9L7",
-        "price": 6199.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "iPhone 17 256 GB:Pantalla de 6.3 Pulgadas con Promotion,Chip A19,cámara Frontal Center Stage para Selfies grupales más Inteligentes,Mayor Resistencia a los rayones,Solo eSIM;Salvia",
-        "url": "https://www.amazon.com.mx/dp/B0FQFBWMXB",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 (256 GB) - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0CHX4V3YZ",
-        "price": 16999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-07-01T04:29:40.900625+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Apple 256 GB Salvia Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256-gb-salvia-telcel/00750622736183?athbdg=L6000",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256GB Blanco",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-blanco/00890319217993?athbdg=L1300",
-        "price": 19099.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone Air 256 GB Azul Cielo",
-        "url": "https://www.walmart.com.mx/ip/iphone-air-256-gb-azul-cielo/00019595062141?athbdg=L1300",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256GB Negro- Dual Sim",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-negro-dual-sim/00890328325198?athbdg=L1600",
-        "price": 19099.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256 GB eSIM Lavanda Reacondicionado A+",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256-gb-esim-lavanda-reacondicionado-a-/00064574848540?athbdg=L1500",
-        "price": 17899.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 5G 256GB - Blanco Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-5g-256gb-blanco-reacondicionado/00067405374647?athbdg=L1500",
-        "price": 15365.23,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 Pro eSIM 256 GB - Azul Profundo",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-pro-esim-256-gb-azul-profundo/00694170027774?athbdg=L6000",
-        "price": 26899.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 Air 256GB Blanco Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-air-256gb-blanco-reacondicionado/00046306356554?athbdg=L1500",
-        "price": 22099.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 Air 256GB Negro Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-air-256gb-negro-reacondicionado/00046748212925?athbdg=L1500",
-        "price": 22099.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 256GB Negro Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-256gb-negro-reacondicionado/00085369895443?athbdg=L1500",
-        "price": 9799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 17 256GB Lavanda",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-17-256gb-lavanda/00890698869430?athbdg=L1300",
-        "price": 19099.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 12 256 Gb Negro Reacondicionado Tipo A Apple",
-        "url": "https://www.walmart.com.mx/ip/iphone-12-256-gb-negro-reacondicionado-tipo-a-apple/00079168988012?athbdg=L1500",
-        "price": 7455.26,
-        "model": null
-      }
-    ]
-  },
-  "amazon|APPLEMIDNIGHTIPHONETELCELAPPLE": {
-    "ts": "2026-07-01T04:29:58.805723+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5619.43,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 Pro 128GB - EsimMorado Oscuro Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BNLV66P9",
-        "price": 7836.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16, 128GB, Negro - Esim (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0DHJH2GZL",
-        "price": 11519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
-        "price": 8018.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 Plus 128GB Negro Desbloqueado -Esim (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CLN8GRGR",
-        "price": 8899.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Morado Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLT3B8C",
-        "price": 6999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GB Blanco Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4XRSWTJ",
-        "price": 8060.91,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 64GB, Color Negro: Totalmente Desbloqueado (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B08PP5MSVB",
-        "price": 4466.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e, 128GB, Blanco (Reacondicionado Premium)",
-        "url": "https://www.amazon.com.mx/dp/B0H2B6HXXR",
-        "price": 8979.21,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
-        "price": 6389.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
-        "price": 6671.41,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 17e (256 GB) - Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0GQVQWZ4X",
-        "price": 14999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEMIDNIGHTIPHONETELCELAPPLE": {
-    "ts": "2026-07-01T04:30:11.974993+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
-        "price": 9990.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
-        "price": 11916.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 11916.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
-        "price": 31189.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
-        "price": 31189.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|APPLESTARLIGHTIPHONETELCELAPPLE": {
-    "ts": "2026-07-01T04:30:26.961579+00:00",
-    "items": []
-  },
-  "walmart|APPLESTARLIGHTIPHONETELCELAPPLE": {
-    "ts": "2026-07-01T04:30:41.350193+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
-        "price": 9990.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1510",
-        "price": 7999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Pro Apple 512 GB Plata Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-plata-telcel/00750622736207?athbdg=L6000",
-        "price": 33498.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple IPhone 14 128Gb - Starlight",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-14-128gb-starlight/00019425348823?athbdg=L6000",
-        "price": 12499.0,
-        "model": "128Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L6000",
-        "price": 14999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Azul Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-azul-telcel/00750622735241?athbdg=L6000",
-        "price": 14999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Apple 256 GB Salvia Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256-gb-salvia-telcel/00750622736183?athbdg=L6000",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 17 Pro Apple 512 GB Naranja Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-17-pro-apple-512-gb-naranja-telcel/00750622736208?athbdg=L6000",
-        "price": 33498.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-negro-telcel/00750622735938?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 13 Mini RENOVADO, 256 GB, Starlight - AT&T",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-mini-renovado-256-gb-starlight-at-t/00075357596428?athbdg=L1300",
-        "price": 7629.0,
-        "model": null
-      }
-    ]
   },
   "amazon|GM29BIP": {
     "ts": "2026-07-01T08:29:19.423839+00:00",
@@ -22089,6 +21155,188 @@
   },
   "sams|PANTALLAPORTATILJUEGOSRETRO": {
     "ts": "2026-07-03T03:45:13.018644+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDPORCELAINLICUADORAVASOSCOMBO": {
+    "ts": "2026-07-03T06:18:55.674796+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 2621.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Porcelain White",
+        "url": "https://www.amazon.com.mx/dp/B09R4N69C6",
+        "price": 1997.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2399.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Kitchen Aid Diamond Jar Original modelo KSB560. Capacidad: 56 onzas Número de parte WPW10555711 Reemplaza los números de parte 9708904, W10390812 y W10555711",
+        "url": "https://www.amazon.com.mx/dp/B074X6DHGR",
+        "price": 1399.0,
+        "model": "WPW10555711"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2616.56,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
+        "price": 2668.6,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 1690.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
+        "price": 3047.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Combo Aniversario Oster Licuadora + Cafetera + Parrilla + Vaso Blend N Go, Mod. COMBO-2214832",
+        "url": "https://www.amazon.com.mx/dp/B0FGQNDH5N",
+        "price": 3389.0,
+        "model": "COMBO-2214832"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
+        "price": 3099.0,
+        "model": "7KSB4027MPA"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDPORCELAINLICUADORAVASOSCOMBO": {
+    "ts": "2026-07-03T06:19:10.795819+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3098.99,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1098.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541?athbdg=L1300",
+        "price": 2249.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "KitchenAid Licuadora Pure Power, Color Porcelana",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-licuadora-pure-power-color-porcelana/00088304992553?athbdg=L1300",
+        "price": 4074.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Sapphire FLAVORSTONE Negra Vaso de Vidrio 120v 4 velocidades hasta 2 L máximo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-sapphire-flavorstone-negra-vaso-de-vidrio-120v-4-velocidades-hasta-2-l-maximo/00750227477551",
+        "price": 459.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora K150 1.4L - White KitchenAid Licuadora",
+        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4l-white-kitchenaid-licuadora/00088304953214?athbdg=L1300",
+        "price": 9187.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Paquete de Expansión de Frascos de 180 ml para Licuadoras KitchenAid K150 y K400",
+        "url": "https://www.walmart.com.mx/ip/paquete-de-expansion-de-frascos-de-180-ml-para-licuadoras-kitchenaid-k150-y-k400/00088304953423?athbdg=L1300",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nutribullet Licuadora Personal Ultra Silenciosa con 2 Modos Digitales 1200W Renewed",
+        "url": "https://www.walmart.com.mx/ip/nutribullet-licuadora-personal-ultra-silenciosa-con-2-modos-digitales-1200w-renewed/00046802951422",
+        "price": 2599.0,
+        "model": "1200W"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141",
+        "price": 5839.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148410",
+        "price": 449.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|KITCHENAIDPORCELAINLICUADORAVASOSCOMBO": {
+    "ts": "2026-07-03T06:19:12.273148+00:00",
     "items": []
   }
 }
