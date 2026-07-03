@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 22:56 UTC",
+  "generated_at": "2026-07-03 00:08 UTC",
   "products_scanned": 917,
   "threshold_pct": 20.0,
   "count": 20,
@@ -196,27 +196,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$1,897 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 632.25,
-      "store": "palacio",
-      "name": "Licuadora de Inmersion Vel Var Negro",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-de-inmersion-vel-var-negro-41646264.html",
-      "price": 1896.75,
-      "list_price": 2529.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41646264",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 999.75,
@@ -232,6 +211,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45505385",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,897 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 632.25,
+      "store": "palacio",
+      "name": "Licuadora de Inmersion Vel Var Negro",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-de-inmersion-vel-var-negro-41646264.html",
+      "price": 1896.75,
+      "list_price": 2529.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41646264",
         "outlet": false
       }
     },
