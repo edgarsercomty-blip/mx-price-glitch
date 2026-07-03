@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03 12:01 UTC",
+  "generated_at": "2026-07-03 13:55 UTC",
   "products_scanned": 917,
   "threshold_pct": 20.0,
   "count": 19,
@@ -238,27 +238,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 824.75,
-      "store": "palacio",
-      "name": "Aditamento Molinillo de Alimentos en Metal",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html",
-      "price": 2474.25,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41758703",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$31,837 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 10612.25,
@@ -274,6 +253,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44729901",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 824.75,
+      "store": "palacio",
+      "name": "Aditamento Molinillo de Alimentos en Metal",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html",
+      "price": 2474.25,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41758703",
         "outlet": false
       }
     },
