@@ -96,119 +96,6 @@
     "ts": "2026-07-02T08:47:00.197469+00:00",
     "items": []
   },
-  "amazon|GM29BIP": {
-    "ts": "2026-07-01T08:29:19.423839+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 2 Unidad",
-        "url": "https://www.amazon.com.mx/dp/B0H26PKBRC",
-        "price": 3800.0,
-        "model": "AES-256"
-      },
-      {
-        "store": "amazon",
-        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 4 Unidad",
-        "url": "https://www.amazon.com.mx/dp/B0H26GPJGY",
-        "price": 7600.0,
-        "model": "AES-256"
-      },
-      {
-        "store": "amazon",
-        "name": "M9 Radio Comunicador PoC 4G con Tarjeta SIM, Walkie Talkie de Largo Alcance Ilimitado, AES-256, Batería 6800mAh, USB-C para Seguridad, Hotel y Empresas 10 Unidad",
-        "url": "https://www.amazon.com.mx/dp/B0H26JBV1G",
-        "price": 19000.0,
-        "model": "AES-256"
-      },
-      {
-        "store": "amazon",
-        "name": "BAOFENG UV-9G Radio GMRS, Radio bidireccional impermeable IP67 para adultos, Escáner y receptor NOAA de largo alcance, Radio recargable portátil compatible con repetidores, con cable de programación",
-        "url": "https://www.amazon.com.mx/dp/B098JGLWZ1",
-        "price": 577.39,
-        "model": "UV-9G"
-      },
-      {
-        "store": "amazon",
-        "name": "GravaStar Mercury M2 - mouse inalámbrico para juegos con 26.000 DPI, sensor PAW3395DM, diseño ligero ahuecado, 5 botones programables, 5 RGB dinámicos, color blanco",
-        "url": "https://www.amazon.com.mx/dp/B0GJ5KNC27",
-        "price": 1399.0,
-        "model": "PAW3395DM"
-      },
-      {
-        "store": "amazon",
-        "name": "M9 Global Walkie Talkie Rango ilimitado, 4G LTE Radio bidireccional de largo alcance con SIM preinstalada, sin por vida, cifrado AES256, IP65 impermeable para uso comercial, al aire última",
-        "url": "https://www.amazon.com.mx/dp/B0GFM8VJGW",
-        "price": 13465.09,
-        "model": "AES256"
-      },
-      {
-        "store": "amazon",
-        "name": "Ugoos X5m Pro TV Box Android 14.0 Amlogic S905x5m 4 GB RAM 32 GB ROM 2.4G/5G Wi-Fi Dual Ethernet 1000M USB 2.0 BT5.4 Soporte AV1 VP9 H.265 4K HDR",
-        "url": "https://www.amazon.com.mx/dp/B0FHPSTQLJ",
-        "price": 3092.81,
-        "model": "S905x5m"
-      },
-      {
-        "store": "amazon",
-        "name": "Inseego Mifi X Pro M3100 UW - Punto de acceso móvil desbloqueado, negro",
-        "url": "https://www.amazon.com.mx/dp/B0DP5Q7RBP",
-        "price": 3342.21,
-        "model": "M3100"
-      },
-      {
-        "store": "amazon",
-        "name": "Gintai TPM 2.0 Módulo LPC 12pines SLB9665 Placa de Seguridad con cifrado Remoto para Tarjetas Accesorio para Gigabyte GCTPM2.0_S B360 Gaming 3/HD3, B360M /D2V, Z390 /Gaming/UD/M B550 B550M B550I",
-        "url": "https://www.amazon.com.mx/dp/B0G1SJTZ4K",
-        "price": 659.99,
-        "model": "12pines"
-      },
-      {
-        "store": "amazon",
-        "name": "Caja de TV 8K, 4GB DDR3 64bit Quad Core S905X3 Procesador G31 MP2 GPU con 2.4G/5G Dual WiFi Gigabit Ethernet Bluetooth para Transmisión Multimedia en el Hogar (4+128G Enchufe de la UE)",
-        "url": "https://www.amazon.com.mx/dp/B0H6QC9XKH",
-        "price": 1791.0,
-        "model": "S905X3"
-      },
-      {
-        "store": "amazon",
-        "name": "Cisco MGBSX1 Gigabit SX Mini-GBIC SFP Transceiver",
-        "url": "https://www.amazon.com.mx/dp/B0001Q5SV4",
-        "price": 1880.0,
-        "model": "MGBSX1"
-      },
-      {
-        "store": "amazon",
-        "name": "Chip de Caja de Mantenimiento Compatible con G1230 G1330 G1430 G1530 G1730 G1737 G2270 G2470 G2570 G2730 G2770 G3270 G3470 G3471",
-        "url": "https://www.amazon.com.mx/dp/B0H6GX3GT4",
-        "price": 490.07,
-        "model": "G1230"
-      }
-    ]
-  },
-  "walmart|GM29BIP": {
-    "ts": "2026-07-01T08:29:35.081129+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Refrigerador GM29BIP LG Refrigerador GM29BIP SMART INVERTER",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-gm29bip-lg-refrigerador-gm29bip-smart-inverter/00880609125435?athbdg=L1300",
-        "price": 18999.0,
-        "model": "GM29BIP"
-      }
-    ]
-  },
-  "sams|GM29BIP": {
-    "ts": "2026-07-01T08:29:42.296219+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Refrigerador LG  29 Pies Cúbicos French Door GM29BIP",
-        "url": "https://www.sams.com.mx/ip/refrigerador-lg-29-pies-cubicos-french-door-gm29bip/981000505",
-        "price": 24549.95,
-        "model": "GM29BIP"
-      }
-    ]
-  },
   "liverpool|9QUOT": {
     "ts": "2026-07-01T10:03:46.552397+00:00",
     "items": []
@@ -21337,6 +21224,805 @@
   },
   "sams|KITCHENAIDPORCELAINLICUADORAVASOSCOMBO": {
     "ts": "2026-07-03T06:19:12.273148+00:00",
+    "items": []
+  },
+  "liverpool|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:05.814512+00:00",
+    "items": []
+  },
+  "coppel|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:08.119789+00:00",
+    "items": []
+  },
+  "amazon|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:10.630370+00:00",
+    "items": []
+  },
+  "walmart|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:20.821893+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV Samsung 55 pulgadas 4K Ultra HD Smart TV OLED QN55S90DAFXZX",
+        "url": "https://www.walmart.com.mx/ip/tv-samsung-55-pulgadas-4k-ultra-hd-smart-tv-oled-qn55s90dafxzx/00750940183573?athbdg=L6000",
+        "price": 23999.0,
+        "model": "QN55S90DAFXZX"
+      }
+    ]
+  },
+  "sams|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:28.178394+00:00",
+    "items": []
+  },
+  "mercadolibre|QN55S95DAFXZX": {
+    "ts": "2026-07-03T09:33:53.379522+00:00",
+    "items": []
+  },
+  "liverpool|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:34:12.392310+00:00",
+    "items": []
+  },
+  "coppel|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:34:14.862057+00:00",
+    "items": []
+  },
+  "amazon|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:34:16.992870+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "BN59-01482K Reemplazado Remoto fit for 2025 TV QN75QN900FFXZC, QN70F, QN42S90DAEXZX, UN43DU7000FXZX, QN55Q60DAFXZX QN55Q70DAFXZX, QN83S90DAEXZX, UN85DU8000FXZX, QN85QN800DFXZX, QN85QN90DAFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GY93RH31",
+        "price": 736.6,
+        "model": "QN75QN900FFXZC"
+      }
+    ]
+  },
+  "walmart|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:34:29.617889+00:00",
+    "items": []
+  },
+  "sams|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:34:30.584362+00:00",
+    "items": []
+  },
+  "mercadolibre|QN85QN800DFXZX": {
+    "ts": "2026-07-03T09:35:07.363875+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Profesional Samsung Electronics Qb65c 4k Uhd Led",
+        "url": "https://www.mercadolibre.com.mx/pantalla-profesional-samsung-electronics-qb65c-pantalla/p/MLM2073211779",
+        "price": 30406.0,
+        "model": "Qb65c"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sony Pantalla 85  4k Uhd Smart Tv Msi",
+        "url": "https://www.mercadolibre.com.mx/sony-pantalla-85-4k-uhd-smart-tv-msi/p/MLM2083582762",
+        "price": 41999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Qled Pulgadas Smart Hisense 100qd7n 100 Google",
+        "url": "https://www.mercadolibre.com.mx/pantalla-qled-pulgadas-smart-hisense-100qd7n-100-google/up/MLMU3769569881",
+        "price": 44827.0,
+        "model": "100qd7n"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung 85 Crystal 4k 120hz Du8000 Diseño Air Slim",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-85-crystal-4k-120hz-du8000-diseno-air-slim/up/MLMU4141095526",
+        "price": 17999.0,
+        "model": "Du8000"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Television Samsung 65'' 8k Oled Qn65qn800cfxzx",
+        "url": "https://www.mercadolibre.com.mx/television-samsung-65-8k-oled-qn65qn800cfxzx/up/MLMU3555356599",
+        "price": 18000.0,
+        "model": "Qn65qn800cfxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor inteligente QNED evo AI QNED92A Mini LED 4K 85\" LG",
+        "url": "https://www.mercadolibre.com.mx/televisor-inteligente-qned-evo-ai-qned92a-mini-led-4k-85-lg/p/MLM70042233",
+        "price": 45999.0,
+        "model": "QNED92A"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung Smart TV 55 Qled S85 4k Qn55s85haexzx (Modelo 2026)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-smart-tv-55-qled-s85-4k-qn55s85haexzx-modelo-2026/p/MLM67829734",
+        "price": 19329.0,
+        "model": "Qn55s85haexzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "55 Neo Qled Qn80h 4k Vision Ai Smart Tv (2026)",
+        "url": "https://www.mercadolibre.com.mx/55-neo-qled-qn80h-4k-vision-ai-smart-tv-2026/p/MLM70063325",
+        "price": 14799.0,
+        "model": "Qn80h"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Smart Tv 55 Qled S85 Pantalla 4k Qn55s85haexzx",
+        "url": "https://www.mercadolibre.com.mx/samsung-smart-tv-55-qled-s85-pantalla-4k-qn55s85haexzx/up/MLMU3906785183",
+        "price": 21999.0,
+        "model": "Qn55s85haexzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung 85  Smart Tv Q7 Series Qn85q7faafxzx",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-85--smart-tv-q7-series-qn85q7faafxzx/up/MLMU4038710105",
+        "price": 38999.0,
+        "model": "Qn85q7faafxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung 98 Qn90a Neo Qled 8k Smart TV Negro (Nuevo con caja abierta)",
+        "url": "https://www.mercadolibre.com.mx/samsung-98-qn90a-neo-qled-8k-smart-tv-negro-nuevo-con-caja-abierta/p/MLM2022509221",
+        "price": 300000.0,
+        "model": "Qn90a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Profesional Samsung Electronics Qb55c 55 Pulgadas",
+        "url": "https://www.mercadolibre.com.mx/pantalla-profesional-samsung-electronics-qb55c-pantalla/p/MLM2070613763",
+        "price": 21410.0,
+        "model": "Qb55c"
+      }
+    ]
+  },
+  "liverpool|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:35:20.941500+00:00",
+    "items": []
+  },
+  "coppel|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:35:23.675468+00:00",
+    "items": []
+  },
+  "palacio|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:35:24.004746+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Wafflera 2 en 1 Vertical Belga 4 porciones",
+        "url": "https://www.elpalaciodehierro.com/cuisinart-wafflera-2-en-1-vertical-belga-4-porciones-43889594.html",
+        "price": 1359.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bata de baño Vera Unisex",
+        "url": "https://www.elpalaciodehierro.com/calatea-bata-de-bano-vera-unisex-45387635.html",
+        "price": 1364.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calentador Digital Casero de Biberones",
+        "url": "https://www.elpalaciodehierro.com/chicco-calentador-digital-casero-de-biberones-43093596.html",
+        "price": 749.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calentador de Agua Modulante a Gas LP 16 L",
+        "url": "https://www.elpalaciodehierro.com/mabe-calentador-de-agua-modulante-a-gas-lp-16-l-43089522.html",
+        "price": 7209.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Paquete Tekaway Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/teka-paquete-tekaway-acero-inoxidable-40946470.html",
+        "price": 6489.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Ranger de acero inoxidable, 355 ml",
+        "url": "https://www.elpalaciodehierro.com/manna-termo-ranger-de-acero-inoxidable-355-ml-44605921.html",
+        "price": 376.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cava de Vinos para 12 Botellas",
+        "url": "https://www.elpalaciodehierro.com/koblenz-cava-de-vinos-para-12-botellas-39598049.html",
+        "price": 4689.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de agua The Smart Kettle Luxe",
+        "url": "https://www.elpalaciodehierro.com/breville-hervidor-de-agua-the-smart-kettle-luxe-45007813.html",
+        "price": 4124.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tetera Conte, 2.7 L",
+        "url": "https://www.elpalaciodehierro.com/cilio-tetera-conte-2.7-l-42024485.html",
+        "price": 2216.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hielera para Leche Materna",
+        "url": "https://www.elpalaciodehierro.com/medela-hielera-para-leche-materna-39398317.html",
+        "price": 799.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Classic Mate System, 1.6 L",
+        "url": "https://www.elpalaciodehierro.com/stanley-termo-classic-mate-system-1.6-l-44862368.html",
+        "price": 2179.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo 2 en 1 Critters rosa",
+        "url": "https://www.elpalaciodehierro.com/sansabell-termo-2-en-1-critters-rosa-45395512.html",
+        "price": 889.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:35:26.083708+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Urna de café de 80 tazas, dispensador de café con aislamiento de doble pared de 12 litros/3.2 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de temperatura",
+        "url": "https://www.amazon.com.mx/dp/B0G5YJTSBC",
+        "price": 3882.36,
+        "model": "litros/3"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de café con aislamiento de doble pared de 18 litros/4.8 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de",
+        "url": "https://www.amazon.com.mx/dp/B0G5YS92ZF",
+        "price": 4972.42,
+        "model": "litros/4"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 100 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 14 l/3.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRPSTN",
+        "price": 3251.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PTJSGM",
+        "price": 3407.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRNWPB",
+        "price": 3674.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mr Steam WX29TSSB WX29 - Calentador de toallas eléctrico de pared con temporizador digital (acero inoxidable cepillado)",
+        "url": "https://www.amazon.com.mx/dp/B072FV1H43",
+        "price": 31730.1,
+        "model": "WX29TSSB"
+      }
+    ]
+  },
+  "sams|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:35:27.251871+00:00",
+    "items": []
+  },
+  "mercadolibre|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOCALIENTES": {
+    "ts": "2026-07-03T09:36:13.755692+00:00",
+    "items": []
+  },
+  "walmart|INOXIDABLECOMPATIBLEINTEGRADOSABATIBLE": {
+    "ts": "2026-07-03T09:37:39.855288+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "unbranded Abatible Empotrada Para De Basura De Acero Inoxidable Dorado Compatible Con Múltiples Tamaños",
+        "url": "https://www.walmart.com.mx/ip/unbranded-abatible-empotrada-para-de-basura-de-acero-inoxidable-dorado-compatible-con-multiples-tamanos/00502419352148?athbdg=L6000",
+        "price": 415.41,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "1 juego de cubo de basura con tapa abatible: cubo de basura de encimera, cubo de basura de cocina integrado, conducto de basura de acero inoxidable con tapa para el hogar, hotel y restaurante.",
+        "url": "https://www.walmart.com.mx/ip/1-juego-de-cubo-de-basura-con-tapa-abatible-cubo-de-basura-de-encimera-cubo-de-basura-de-cocina-integrado-conducto-de-basura-de-acero-inoxidable-con-tapa-para-el-hogar-hotel-y-restaurante-/00492312210175?athbdg=L1300",
+        "price": 1470.74,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Yeshouse Hielera comercial de acero inoxidable con tapa abatible, depósito de hielo integrado para cocinas, bares y barbacoas al aire libre",
+        "url": "https://www.walmart.com.mx/ip/yeshouse-hielera-comercial-de-acero-inoxidable-con-tapa-abatible-deposito-de-hielo-integrado-para-cocinas-bares-y-barbacoas-al-aire-libre/00696787462816?athbdg=L1300",
+        "price": 3586.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 18-19 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-18-19-cm/00628698700055",
+        "price": 625.02,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tetera de Acero Inoxidable con Tapa de Vertido Abatible Diseño Moderno Antideslizante Compatible con Diferentes Cocinas Adecuada para Camping",
+        "url": "https://www.walmart.com.mx/ip/tetera-de-acero-inoxidable-con-tapa-de-vertido-abatible-diseno-moderno-antideslizante-compatible-con-diferentes-cocinas-adecuada-para-camping/00078842269920?athbdg=L1300",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "unbranded 1Jgo De Basura Integrado Para Cocina De Acero Inoxidable Con Abatible Para Encimera",
+        "url": "https://www.walmart.com.mx/ip/unbranded-1jgo-de-basura-integrado-para-cocina-de-acero-inoxidable-con-abatible-para-encimera/00789147839151?athbdg=L6000",
+        "price": 1447.53,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 22-25 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-22-25-cm/00628698700057",
+        "price": 840.96,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "BESTYASH Cubierta De Basura Embutida De Acero Inoxidable Para Cocina Con Abatible Y Integrado",
+        "url": "https://www.walmart.com.mx/ip/bestyash-cubierta-de-basura-embutida-de-acero-inoxidable-para-cocina-con-abatible-y-integrado/00771136341925?athbdg=L6000",
+        "price": 1070.69,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 19.5-22 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-19-5-22-cm/00628698700056",
+        "price": 902.38,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tapa de cubo de basura empotrada de acero inoxidable, ojal de basura integrado en la encimera con cubierta de solapa abatible para debajo del fregadero y uso en la cocina, negro",
+        "url": "https://www.walmart.com.mx/ip/tapa-de-cubo-de-basura-empotrada-de-acero-inoxidable-ojal-de-basura-integrado-en-la-encimera-con-cubierta-de-solapa-abatible-para-debajo-del-fregadero-y-uso-en-la-cocina-negro/00492208149186",
+        "price": 691.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "EXHUMKY Grommet De Acero Inoxidable Para Basura Compatible Con Cubos Integrados En Encimeras De Cocina",
+        "url": "https://www.walmart.com.mx/ip/exhumky-grommet-de-acero-inoxidable-para-basura-compatible-con-cubos-integrados-en-encimeras-de-cocina/00436320998493?athbdg=L6000",
+        "price": 492.62,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Vaso térmico de acero inoxidable de 113 ml con asa y pajita | Aislamiento al vacío para bebidas frías y calientes | Tapa abatible antigoteo | Compatible con portavasos de coche | Para viajes,",
+        "url": "https://www.walmart.com.mx/ip/vaso-termico-de-acero-inoxidable-de-113-ml-con-asa-y-pajita-aislamiento-al-vacio-para-bebidas-frias-y-calientes-tapa-abatible-antigoteo-compatible-con-portavasos-de-coche-para-viajes-/00260112408141?athbdg=L1300",
+        "price": 259.84,
+        "model": null
+      }
+    ]
+  },
+  "sams|INOXIDABLECOMPATIBLEINTEGRADOSABATIBLE": {
+    "ts": "2026-07-03T09:37:41.832862+00:00",
+    "items": []
+  },
+  "walmart|RESIDENTEVILPS5": {
+    "ts": "2026-07-03T09:37:56.251891+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Consola Play Station 5 Slim con Juego NBA 2K26:El Rey de la Duela",
+        "url": "https://www.walmart.com.mx/ip/consola-play-station-5-slim-con-juego-nba-2k26-el-rey-de-la-duela/00071171902052",
+        "price": 11449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PS5 Juego Resident Evil Village",
+        "url": "https://www.walmart.com.mx/ip/ps5-juego-resident-evil-village/00066901421422?athbdg=L1300",
+        "price": 513.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Requiem - PlayStation 5",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-requiem-playstation-5/00001338858015",
+        "price": 2219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Consola PS5 SLIM PlayStation 5 DVD 1TB Bundle Marvel’s Spider-Man 2 Internacional",
+        "url": "https://www.walmart.com.mx/ip/consola-ps5-slim-playstation-5-dvd-1tb-bundle-marvel-s-spider-man-2-internacional/00070452114259",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Village Y 7 Gold Edition - Ps5 Físico",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-village-y-7-gold-edition-ps5-fisico/00066901421400?athbdg=L6000",
+        "price": 1075.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil 3  para PS5",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-3-para-ps5/00079173976187?athbdg=L1300",
+        "price": 779.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Metal Gear Solid + Resident Evil Village Ps5 Físico",
+        "url": "https://www.walmart.com.mx/ip/metal-gear-solid-resident-evil-village-ps5-fisico/00066901421474?athbdg=L6000",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PS5 Combo Resident Evil 2 + Resident Evil 3",
+        "url": "https://www.walmart.com.mx/ip/ps5-combo-resident-evil-2-resident-evil-3/00066901421399?athbdg=L6000",
+        "price": 1049.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "PlayStation 4 Juego de Resident Evil 5",
+        "url": "https://www.walmart.com.mx/ip/playstation-4-juego-de-resident-evil-5/00066901421444?athbdg=L1300",
+        "price": 448.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil Requiem Lenticular PlayStation 5 Físico",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-requiem-lenticular-playstation-5-fisico/00066901421493?athbdg=L1300",
+        "price": 1902.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Juego Capcom Resident Evil 7 Biohazard Edición Oro PS5 UK PAL",
+        "url": "https://www.walmart.com.mx/ip/juego-capcom-resident-evil-7-biohazard-edicion-oro-ps5-uk-pal/00079173976186?athbdg=L1300",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Resident Evil VILLAGE PlayStation 5 Edición Standard",
+        "url": "https://www.walmart.com.mx/ip/resident-evil-village-playstation-5-edicion-standard/00001338893400",
+        "price": 879.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|RESIDENTEVILPS5": {
+    "ts": "2026-07-03T09:37:56.830696+00:00",
+    "items": []
+  },
+  "walmart|TRANSFERENCIASPROFESSIONALRESIDUOSFIJACION": {
+    "ts": "2026-07-03T09:38:10.762215+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Mousse Extra 17 | Mousse De Fijación Firme | Fórmula Ligera Que No Rese Ni Deja Residuos | Controla El Frizz Y Acondiciona | Protección T&amp;amp",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-mousse-extra-17-mousse-de-fijacion-firme-formula-ligera-que-no-rese-ni-deja-residuos-controla-el-frizz-y-acondiciona-proteccion-t-amp-amp/00046514052946?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Mousse 12 | Mousse De Fijación Media | Fórmula Ligera Que No Rese Ni Deje Residuos | Controla El Frizz Y Acondiciona| Todo tipo de cabello | 236 ml",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-mousse-12-mousse-de-fijacion-media-formula-ligera-que-no-rese-ni-deje-residuos-controla-el-frizz-y-acondiciona-todo-tipo-de-cabello-236-ml/00046350144723?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Styling Gel 17 | Gel de fijación alta | Aporta cuerpo y brillo | Controla cabellos gruesos y rebeldes | Sin alcohol, no reseca ni deja residuos | Cabello medio a grueso |",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-styling-gel-17-gel-de-fijacion-alta-aporta-cuerpo-y-brillo-controla-cabellos-gruesos-y-rebeldes-sin-alcohol-no-reseca-ni-deja-residuos-cabello-medio-a-grueso-/00046419942909?athbdg=L1300",
+        "price": 2048.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kenra Professional Volume Spray 25 80% | Spray fijador de súper fijación | Secado rápido y sin residuos | Resistencia al viento y la humedad | Todo tipo de cabello | 5",
+        "url": "https://www.walmart.com.mx/ip/kenra-professional-volume-spray-25-80-spray-fijador-de-super-fijacion-secado-rapido-y-sin-residuos-resistencia-al-viento-y-la-humedad-todo-tipo-de-cabello-5/00001492616116?athbdg=L1300",
+        "price": 1638.4,
+        "model": null
+      }
+    ]
+  },
+  "sams|TRANSFERENCIASPROFESSIONALRESIDUOSFIJACION": {
+    "ts": "2026-07-03T09:38:11.551717+00:00",
+    "items": []
+  },
+  "walmart|8000MAH": {
+    "ts": "2026-07-03T09:38:32.901452+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Carcasa de Batería NEWDERY 8000mAh USB-C para iPhone 16 Pro Max",
+        "url": "https://www.walmart.com.mx/ip/carcasa-de-bateria-newdery-8000mah-usb-c-para-iphone-16-pro-max/00046160711641?athbdg=L1300",
+        "price": 859.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "21.6v 8000mah Vacuum Cleaner Replacement Rechargeable Battery For V8 Li-ion Vacuum Cleaner Battery",
+        "url": "https://www.walmart.com.mx/ip/21-6v-8000mah-vacuum-cleaner-replacement-rechargeable-battery-for-v8-li-ion-vacuum-cleaner-battery/00775317691337",
+        "price": 1909.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "21.6v 8000mah Vacuum Cleaner Replacement Rechargeable Battery For V8 Li-ion Vacuum Cleaner Battery",
+        "url": "https://www.walmart.com.mx/ip/21-6v-8000mah-vacuum-cleaner-replacement-rechargeable-battery-for-v8-li-ion-vacuum-cleaner-battery/00775317691270",
+        "price": 1684.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "Powerstation Wireless Stand Mophie 8000mAh 18W USB-C",
+        "url": "https://www.walmart.com.mx/ip/powerstation-wireless-stand-mophie-8000mah-18w-usb-c/00084005612422?athbdg=L1300",
+        "price": 2779.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Reemplazo de Batería de 18V 8000mAh para Batería Ryobi 18V P102 P103 P104 P105 P107 P108 P109 P190 P191 P122",
+        "url": "https://www.walmart.com.mx/ip/reemplazo-de-bateria-de-18v-8000mah-para-bateria-ryobi-18v-p102-p103-p104-p105-p107-p108-p109-p190-p191-p122/00076152213519?athbdg=L1300",
+        "price": 757.6,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Calentador de Manos Recargable 8000mAh Pack de 2 con Chip IA 22 Horas Carga Rápida 3 Niveles y Ultraligero – Ideal como Regalo",
+        "url": "https://www.walmart.com.mx/ip/calentador-de-manos-recargable-8000mah-pack-de-2-con-chip-ia-22-horas-carga-rapida-3-niveles-y-ultraligero-ideal-como-regalo/00734786216875?athbdg=L1300",
+        "price": 584.99,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "8000mAh 21.6V battery compatible with V8 vacuum",
+        "url": "https://www.walmart.com.mx/ip/8000mah-21-6v-battery-compatible-with-v8-vacuum/00775317690004",
+        "price": 502.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "wonima11 Jobsite Radio Bluetooth Speaker, 8000mAH Battery, IPX 66 Waterproof, Cell Phone Charging, Portable Jobsite Speaker with LED Lights, Portable Worksite Speakers for Outdoor/Work/Garage (Green)",
+        "url": "https://www.walmart.com.mx/ip/wonima11-jobsite-radio-bluetooth-speaker-8000mah-battery-ipx-66-waterproof-cell-phone-charging-portable-jobsite-speaker-with-led-lights-portable-worksite-speakers-for-outdoor-work-garage-green-/00059249873263",
+        "price": 1419.78,
+        "model": "wonima11"
+      },
+      {
+        "store": "walmart",
+        "name": "Linterna de mano recargable Cola LED Reflector 8000mAh antorcha para exteriores",
+        "url": "https://www.walmart.com.mx/ip/linterna-de-mano-recargable-cola-led-reflector-8000mah-antorcha-para-exteriores/00075573540119?athbdg=L1300",
+        "price": 1199.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Outdoor Camping Lantern 8000mah Rechargeable Colorful Lights",
+        "url": "https://www.walmart.com.mx/ip/outdoor-camping-lantern-8000mah-rechargeable-colorful-lights/00700127051827",
+        "price": 506.0,
+        "model": "8000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "8000mAh Wireless Electric Air Pump LED Lighting Air Compressor Sup Inflatable Pump for Car Surfing Paddle Board Boat",
+        "url": "https://www.walmart.com.mx/ip/8000mah-wireless-electric-air-pump-led-lighting-air-compressor-sup-inflatable-pump-for-car-surfing-paddle-board-boat/00621321811786",
+        "price": 1594.0,
+        "model": "8000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Outdoor Camping Lantern 8000mah Rechargeable Colorful Lights with Magnet Portable Emergency Tent Light Work Lighting",
+        "url": "https://www.walmart.com.mx/ip/outdoor-camping-lantern-8000mah-rechargeable-colorful-lights-with-magnet-portable-emergency-tent-light-work-lighting/00618261232547",
+        "price": 679.0,
+        "model": "8000mah"
+      }
+    ]
+  },
+  "sams|8000MAH": {
+    "ts": "2026-07-03T09:38:44.790299+00:00",
+    "items": []
+  },
+  "amazon|IPHONEAPPLE128": {
+    "ts": "2026-07-03T09:38:47.154447+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 7399.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8035.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Azul - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNX6KQS",
+        "price": 5635.71,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16, 128GB, Negro - Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DHJH2GZL",
+        "price": 11519.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 5199.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
+        "price": 6679.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLN4B613",
+        "price": 8433.27,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Pro 128GB - EsimMorado Oscuro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BNLV66P9",
+        "price": 8499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
+        "price": 6466.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16 Pro 128GB Titanio Blanco Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0DHJ5V1YR",
+        "price": 14868.17,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e 128GB Blanco Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0F4XRSWTJ",
+        "price": 8286.24,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e, 128GB, Blanco (Reacondicionado Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0H2B6HXXR",
+        "price": 8932.15,
+        "model": "128GB"
+      }
+    ]
+  },
+  "walmart|IPHONEAPPLE128": {
+    "ts": "2026-07-03T09:38:56.630119+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 15 128 GB Negro Smartphone Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-15-128-gb-negro-smartphone-reacondicionado/00046726568803?athbdg=L1500",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 16 128 GB, Color Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128-gb-color-blanco-reacondicionado/00750305728787?athbdg=L1500",
+        "price": 12999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128GB eSIM Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128gb-esim-blanco-reacondicionado/00085369892748?athbdg=L1500",
+        "price": 5999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-negro-reacondicionado/00085369895437?athbdg=L1500",
+        "price": 5449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Pro Apple 128 GB eSIM Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-pro-apple-128-gb-esim-negro-reacondicionado/00085369892777?athbdg=L1500",
+        "price": 13034.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Azul Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-azul-reacondicionado/00085369895440?athbdg=L1500",
+        "price": 5199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 10707.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Plus Apple 128 GB eSIM Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-plus-apple-128-gb-esim-negro-reacondicionado/00085369892766?athbdg=L1500",
+        "price": 6249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Plus 128 Gb Amarillo Reacondicionado Tipo A eSIM Apple",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-plus-128-gb-amarillo-reacondicionado-tipo-a-esim-apple/00072548882541?athbdg=L1500",
+        "price": 6249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 15 Pro 128 GB Azul Smartphone Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-15-pro-128-gb-azul-smartphone-reacondicionado/00046544688142?athbdg=L1500",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 128 Gb Azul Reacondicionado Tipo A",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-128-gb-azul-reacondicionado-tipo-a/00072014053385?athbdg=L1500",
+        "price": 5198.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 16 Reacondicionado, Desbloqueado , 128 GB, Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-reacondicionado-desbloqueado-128-gb-color-rosa/00078495673646?athbdg=L1300",
+        "price": 12999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|IPHONEAPPLE128": {
+    "ts": "2026-07-03T09:38:58.897541+00:00",
     "items": []
   }
 }
