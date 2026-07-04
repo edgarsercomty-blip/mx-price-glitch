@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (161)
+# Historial de ofertas encontradas (166)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-04 03:37 | -21% | walmart | [Aire Minisplit 220v Mirage LIFE 12 + Solo Frío 1 tonela…](https://www.walmart.com.mx/ip/aire-minisplit-220v-mirage-life-12-solo-frio-1-tonelada-12000-btu/00046551816049?athbdg=L1300) | $5,299 | $5,299 en walmart vs amazon $6,699 -> -21% bajo la competencia |
+| 2026-07-04 03:37 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | $4,499 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-04 03:37 | -26% | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | $784 en amazon vs mercado -> -26% bajo la competencia |
+| 2026-07-04 03:37 | -29% | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | $503 en amazon vs mercado -> -29% bajo la competencia |
+| 2026-07-04 03:37 | -35% | amazon | [Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulg…](https://www.amazon.com.mx/dp/B0GHYFZHYM) | $7,827 | $7,827 en amazon vs walmart $11,990, sams $17,032 -> -35% bajo la competencia |
 | 2026-07-03 21:44 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo,…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | $46,199 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-03 19:43 | -20% | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1600) | $260 | $260 en walmart vs mercado -> -20% bajo la competencia |
 | 2026-07-03 19:43 | -22% | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bu…](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $11,599 | $11,599 en amazon vs mercado -> -22% bajo la competencia |
