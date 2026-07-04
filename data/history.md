@@ -1,9 +1,18 @@
-# Historial de ofertas encontradas (176)
+# Historial de ofertas encontradas (185)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-04 19:38 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-04 19:38 | -21% | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | $2,199 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-04 19:38 | -30% | amazon | [XuanPad 【Compatible with Netflix】 Plateado Mini Proyect…](https://www.amazon.com.mx/dp/B0G3WGXKRK) | $2,500 | $2,500 en amazon vs mercado -> -30% bajo la competencia |
+| 2026-07-04 19:38 | -40% | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 128 Gb 6 Gb C…](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-128-gb-6-gb-color-negro/p/MLM54097181) | $2,429 | $2,429 en mercadolibre vs mercado -> -40% bajo la competencia |
+| 2026-07-04 19:38 | -45% | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- …](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,729 | $2,729 en walmart vs mercado -> -45% bajo la competencia |
+| 2026-07-04 19:38 | -68% | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2…](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $1,079 | $1,079 en walmart vs sams $3,375 -> -68% bajo la competencia |
+| 2026-07-04 19:38 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
+| 2026-07-04 19:38 | -35% | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $3,990 | 🔁 DE NUEVO DISPONIBLE en walmart: $3,990 (estaba agotado) |
+| 2026-07-04 19:38 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356?athbdg=L1300) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-04 13:59 | -20% | amazon | [Nautica - Tenis deportivos de moda para mujer, con cord…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | $840 en amazon vs mercado -> -20% bajo la competencia |
 | 2026-07-04 13:59 | -21% | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | $7,157 en sams vs walmart $23,583 -> -21% bajo la competencia |
 | 2026-07-04 13:59 | -22% | amazon | [TCL Smart TV Pantalla 98" 98QM6K Google TV QLED - MiniL…](https://www.amazon.com.mx/dp/B0DZN8SX9J) | $29,998 | $29,998 en amazon vs palacio $38,465 -> -22% bajo la competencia |

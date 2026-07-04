@@ -1097,56 +1097,49 @@
     ]
   },
   "amazon|KITCHENAIDLICUADORASERIEVEL400": {
-    "ts": "2026-07-02T19:04:35.508868+00:00",
+    "ts": "2026-07-04T19:34:25.328582+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "KitchenAid KSB4027PA K400 Countertop Blender, 56 Oz, Passion Red",
-        "url": "https://www.amazon.com.mx/dp/B07WHFBL5X",
-        "price": 5209.0,
-        "model": "KSB4027PA"
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
       },
       {
         "store": "amazon",
-        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
-        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
-        "price": 2260.33,
-        "model": "7KSB4027MPA"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KHBC412OB 400 Series Licuadora de inmersión comercial con brazo de mezcla de 12 pulgadas, ónix negro",
-        "url": "https://www.amazon.com.mx/dp/B094YK3ZYJ",
-        "price": 16072.71,
-        "model": "KHBC412OB"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Rosa seca",
-        "url": "https://www.amazon.com.mx/dp/B09TDGQV52",
-        "price": 5449.0,
-        "model": "KSB4028"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Terciopelo azul",
-        "url": "https://www.amazon.com.mx/dp/B09TD44VY2",
-        "price": 7947.48,
-        "model": "KSB4028"
+        "name": "Licuadora Pure Power KitchenAid Cardamom 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXGX2L2",
+        "price": 2488.0,
+        "model": null
       },
       {
         "store": "amazon",
         "name": "Ninja Licuadora Sistema de Cocina 1400W | Jarra 72 oz + Procesador 8 Tazas + 2 Vasos 24 oz | 5 Programas Auto-iQ | Masa, Picar, Smoothies y Frozen | Apto Lavavajillas | BN801",
         "url": "https://www.amazon.com.mx/dp/B08559K7CN",
-        "price": 3499.0,
+        "price": 3797.52,
         "model": "1400W"
       },
       {
         "store": "amazon",
-        "name": "Oster M450-20 Licuadora con 2 Velocidades y Vaso Vidrio, 400 Watts",
-        "url": "https://www.amazon.com.mx/dp/B00UAKJLT6",
-        "price": 1136.0,
-        "model": "M450-20"
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
+        "price": 3047.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
+        "price": 2366.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Black Mate 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3NPQZ",
+        "price": 2243.38,
+        "model": null
       },
       {
         "store": "amazon",
@@ -1157,13 +1150,6 @@
       },
       {
         "store": "amazon",
-        "name": "KitchenAid K400 Batidora de velocidad variable con manipulación - KSB4028 - Contorno plateado",
-        "url": "https://www.amazon.com.mx/dp/B09TD77SG2",
-        "price": 7627.37,
-        "model": "KSB4028"
-      },
-      {
-        "store": "amazon",
         "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
         "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
         "price": 1449.0,
@@ -1171,36 +1157,43 @@
       },
       {
         "store": "amazon",
-        "name": "Cuenco mezclador de 1,6 l para licuadora K400",
-        "url": "https://www.amazon.com.mx/dp/B085ZV5L2G",
-        "price": 2842.94,
+        "name": "Oster M450-20 Licuadora con 2 Velocidades y Vaso Vidrio, 400 Watts",
+        "url": "https://www.amazon.com.mx/dp/B00UAKJLT6",
+        "price": 1136.0,
+        "model": "M450-20"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Licuadora Power Elite, con 12 Funciones, Vaso de Vidrio, 1.2 Litros, Negra (58148-MXR)",
+        "url": "https://www.amazon.com.mx/dp/B01H3H55J8",
+        "price": 749.0,
+        "model": "58148-MXR"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid - licuadora Kitchen Aid K150(con jarra personal,3 velocidades,funcion para triturar hielo,facil de usar)",
+        "url": "https://www.amazon.com.mx/dp/B08TQSZQQQ",
+        "price": 2613.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Licuadroa KitchenAid KSB4027CU Contour Silver",
-        "url": "https://www.amazon.com.mx/dp/B07WD5YLK2",
-        "price": 5259.0,
-        "model": "KSB4027CU"
+        "name": "Oster BPCT02-BA0-000 - Batidora de colmena de 2 velocidades, acero inoxidable cepillado",
+        "url": "https://www.amazon.com.mx/dp/B003ZDNIJY",
+        "price": 2586.25,
+        "model": "BPCT02-BA0-000"
       }
     ]
   },
   "walmart|KITCHENAIDLICUADORASERIEVEL400": {
-    "ts": "2026-07-02T19:04:55.241165+00:00",
+    "ts": "2026-07-04T19:34:36.151820+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
-        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "name": "Licuadora Portátil HoninJoy Personal De 650W Con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00071885287927",
         "price": 1098.99,
         "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid K400 de velocidad variable KSB4028 negra mate",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k400-de-velocidad-variable-ksb4028-negra-mate/00046231410965?athbdg=L1300",
-        "price": 9499.0,
-        "model": "KSB4028"
       },
       {
         "store": "walmart",
@@ -1211,6 +1204,13 @@
       },
       {
         "store": "walmart",
+        "name": "Licuadora KitchenAid K150 1.4L con vaso individual 7KSB1330MDG",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-1-4l-con-vaso-individual-7ksb1330mdg/00088304953239?athbdg=L1300",
+        "price": 2689.0,
+        "model": "7KSB1330MDG"
+      },
+      {
+        "store": "walmart",
         "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
         "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
         "price": 1849.0,
@@ -1218,17 +1218,17 @@
       },
       {
         "store": "walmart",
-        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
-        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
-        "price": 4999.0,
-        "model": null
+        "name": "Licuadora KitchenAid KSB4027PT Verde",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb4027pt-verde/00088304957247?athbdg=L1300",
+        "price": 5189.0,
+        "model": "KSB4027PT"
       },
       {
         "store": "walmart",
-        "name": "Licuadora 2 Vel Vaso Plastico 1.5 L Blanco Decakila KUJB014W",
-        "url": "https://www.walmart.com.mx/ip/licuadora-2-vel-vaso-plastico-1-5-l-blanco-decakila-kujb014w/00694155629833",
-        "price": 648.0,
-        "model": "KUJB014W"
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-gris/00088304992555?athbdg=L1300",
+        "price": 1990.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -1239,13 +1239,6 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos, negra",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos-negra/00088304993141",
-        "price": 5379.0,
-        "model": "KSB2078"
-      },
-      {
-        "store": "walmart",
         "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
         "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
         "price": 2499.0,
@@ -1253,17 +1246,10 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
-        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552",
-        "price": 1999.0,
-        "model": "7ksb2072mbm"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Proctor Silex 50135 10 Vel Jarra Vidrio Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-proctor-silex-50135-10-vel-jarra-vidrio-rojo/00002233392992",
-        "price": 674.0,
-        "model": null
+        "name": "Licuadora 10 Vel Proctor Silex 50135RMX Vidrio Roja",
+        "url": "https://www.walmart.com.mx/ip/licuadora-10-vel-proctor-silex-50135rmx-vidrio-roja/00060567128827?athbdg=L1300",
+        "price": 1138.0,
+        "model": "50135RMX"
       },
       {
         "store": "walmart",
@@ -1271,11 +1257,25 @@
         "url": "https://www.walmart.com.mx/ip/licuadora-vaso-vidrio-700w-titanio-2-vel-cromo-cromo-marca-man-man-lmv-202/00750137210202",
         "price": 1235.0,
         "model": "LMV-202"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora de Mano KitchenAid KHBRV75 Inalámbrica 18 cm Porcelana",
+        "url": "https://www.walmart.com.mx/ip/licuadora-de-mano-kitchenaid-khbrv75-inalambrica-18-cm-porcelana/00088304993246?athbdg=L1300",
+        "price": 3589.0,
+        "model": "KHBRV75"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552",
+        "price": 1999.0,
+        "model": "7ksb2072mbm"
       }
     ]
   },
   "sams|KITCHENAIDLICUADORASERIEVEL400": {
-    "ts": "2026-07-02T19:04:57.012438+00:00",
+    "ts": "2026-07-04T19:34:38.496228+00:00",
     "items": []
   },
   "liverpool|75QM8K": {
@@ -13485,5 +13485,1888 @@
         "model": null
       }
     ]
+  },
+  "liverpool|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:28:17.827049+00:00",
+    "items": []
+  },
+  "coppel|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:28:26.323073+00:00",
+    "items": []
+  },
+  "palacio|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:28:26.671167+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Calentador Digital Casero de Biberones",
+        "url": "https://www.elpalaciodehierro.com/chicco-calentador-digital-casero-de-biberones-43093596.html",
+        "price": 749.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo Ranger de acero inoxidable, 355 ml",
+        "url": "https://www.elpalaciodehierro.com/manna-termo-ranger-de-acero-inoxidable-355-ml-44605921.html",
+        "price": 376.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Wafflera 2 en 1 Vertical Belga 4 porciones",
+        "url": "https://www.elpalaciodehierro.com/cuisinart-wafflera-2-en-1-vertical-belga-4-porciones-43889594.html",
+        "price": 1359.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calentador de Agua Modulante a Gas Natural 11 L",
+        "url": "https://www.elpalaciodehierro.com/mabe-calentador-de-agua-modulante-a-gas-natural-11-l-43089521.html",
+        "price": 5879.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hielera para Leche Materna",
+        "url": "https://www.elpalaciodehierro.com/medela-hielera-para-leche-materna-39398317.html",
+        "price": 799.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termómetro para Alimentos y Bebidas",
+        "url": "https://www.elpalaciodehierro.com/wmf-termometro-para-alimentos-y-bebidas-30234923.html",
+        "price": 639.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cava de Vinos para 12 Botellas",
+        "url": "https://www.elpalaciodehierro.com/koblenz-cava-de-vinos-para-12-botellas-39598049.html",
+        "price": 4689.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Calentador de Agua Modulante a Gas LP 16 L",
+        "url": "https://www.elpalaciodehierro.com/mabe-calentador-de-agua-modulante-a-gas-lp-16-l-43089522.html",
+        "price": 7209.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tetera Conte, 2.7 L",
+        "url": "https://www.elpalaciodehierro.com/cilio-tetera-conte-2.7-l-42024485.html",
+        "price": 2216.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vela Aromática en lata Coco Niña",
+        "url": "https://www.elpalaciodehierro.com/the-fruit-company-vela-aromatica-en-lata-coco-nina-42932239.html",
+        "price": 217.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Termo 2 en 1 Critters rosa",
+        "url": "https://www.elpalaciodehierro.com/sansabell-termo-2-en-1-critters-rosa-45395512.html",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bata De Bano Hers Blanca",
+        "url": "https://www.elpalaciodehierro.com/calatea-bata-de-bano-hers-blanca-43016069.html",
+        "price": 1749.3,
+        "model": null
+      }
+    ]
+  },
+  "amazon|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:28:29.153475+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Urna de café de 80 tazas, dispensador de café con aislamiento de doble pared de 12 litros/3.2 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de temperatura",
+        "url": "https://www.amazon.com.mx/dp/B0G5YJTSBC",
+        "price": 3889.04,
+        "model": "litros/3"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de café con aislamiento de doble pared de 18 litros/4.8 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de",
+        "url": "https://www.amazon.com.mx/dp/B0G5YS92ZF",
+        "price": 4972.42,
+        "model": "litros/4"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 100 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 14 l/3.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRPSTN",
+        "price": 3251.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PTJSGM",
+        "price": 3386.89,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRNWPB",
+        "price": 3674.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mr Steam WX29TSSB WX29 - Calentador de toallas eléctrico de pared con temporizador digital (acero inoxidable cepillado)",
+        "url": "https://www.amazon.com.mx/dp/B072FV1H43",
+        "price": 31730.1,
+        "model": "WX29TSSB"
+      },
+      {
+        "store": "amazon",
+        "name": "Mr Steam W236TPC W236 - Calentador de toallas eléctricas con temporizador digital (cromado pulido, 15 bar)",
+        "url": "https://www.amazon.com.mx/dp/B072JFMWVR",
+        "price": 48370.64,
+        "model": "W236TPC"
+      }
+    ]
+  },
+  "sams|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:29:00.416240+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bebedero Automático Smart-Tek  para Mascotas PW30",
+        "url": "https://www.sams.com.mx/ip/bebedero-automatico-smart-tek-para-mascotas-pw30/981043795",
+        "price": 817.37,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sartén de Acero Inoxidable Member's Mark  3 Capas 10\"",
+        "url": "https://www.sams.com.mx/ip/sarten-de-acero-inoxidable-member-s-mark-3-capas-10/981039085",
+        "price": 556.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Regulador Automático de Voltaje Smartbitt  C3000 con Regulación y Supresión de Picos",
+        "url": "https://www.sams.com.mx/ip/regulador-automatico-de-voltaje-smartbitt-c3000-con-regulacion-y-supresion-de-picos/981001961",
+        "price": 2239.33,
+        "model": "C3000"
+      },
+      {
+        "store": "sams",
+        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
+        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
+        "price": 748.99,
+        "model": "MX86037"
+      },
+      {
+        "store": "sams",
+        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
+        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
+        "price": 3373.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Programador de Riego Karcher  Automático WT 5",
+        "url": "https://www.sams.com.mx/ip/programador-de-riego-karcher-automatico-wt-5/981024169",
+        "price": 1625.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Vitrina Exhibidora Gutstark  para Alimentos Calientes",
+        "url": "https://www.sams.com.mx/ip/vitrina-exhibidora-gutstark-para-alimentos-calientes/981022657",
+        "price": 9819.77,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Fluido para Transmisión Automática Roshfrans  Super ATF DEX-lll-MERC 4 pzas de 950 ml c/u",
+        "url": "https://www.sams.com.mx/ip/fluido-para-transmision-automatica-roshfrans-super-atf-dex-lll-merc-4-pzas-de-950-ml-c-u/981024482",
+        "price": 384.62,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cargador de Baterías Stanley  Impermeable 12 V  1.5 Amperios Automático",
+        "url": "https://www.sams.com.mx/ip/cargador-de-baterias-stanley-impermeable-12-v-1-5-amperios-automatico/980000842",
+        "price": 559.57,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bufetera Jocca  de Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
+        "price": 3129.34,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Molino de Café Daewoo Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
+        "price": 530.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Tetera MEMBERS MARK  de Acero Inoxidable Negra",
+        "url": "https://www.sams.com.mx/ip/tetera-members-mark-de-acero-inoxidable-negra/981043026",
+        "price": 510.47,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|TOWALLMARKTEMPERATURAAUTOMATICOINOXIDABLECALIENTES": {
+    "ts": "2026-07-04T19:29:25.748364+00:00",
+    "items": []
+  },
+  "liverpool|75Q6K": {
+    "ts": "2026-07-04T19:30:00.915944+00:00",
+    "items": []
+  },
+  "coppel|75Q6K": {
+    "ts": "2026-07-04T19:30:03.708705+00:00",
+    "items": []
+  },
+  "amazon|75Q6K": {
+    "ts": "2026-07-04T19:30:06.186994+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
+        "price": 10999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
+        "price": 10827.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 75“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRRNSVB",
+        "price": 10189.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 85\" 85Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCRD66",
+        "price": 12999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 75\" 75QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSB22B7",
+        "price": 15498.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 11678.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A65N (Modelo 2025) Pantalla 75 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, DTS Virtual: X, mira TV en Vivo sin Cable",
+        "url": "https://www.amazon.com.mx/dp/B0F4FS7YHN",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 20398.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
+        "price": 12799.0,
+        "model": "Q72dd"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 16999.0,
+        "model": "75QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Televisión Pantalla 75 Pulgadas, Sistema operativo Tizen, QLED, 4K UHD, Color Negro, Modelo QN75Q6FAAF",
+        "url": "https://www.amazon.com.mx/dp/B0GNDCGHXR",
+        "price": 20299.0,
+        "model": "QN75Q6FAAF"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM52L Pantalla 75\" Mini-LED 4K QLED | Google TV | 60 Hz VRR | Dolby Vision HDR 10+ | 450 NITS | Wi-Fi Bluetooth | Compatible with Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRLPPF67",
+        "price": 14999.0,
+        "model": "75QM52L"
+      }
+    ]
+  },
+  "walmart|75Q6K": {
+    "ts": "2026-07-04T19:30:17.786351+00:00",
+    "items": []
+  },
+  "sams|75Q6K": {
+    "ts": "2026-07-04T19:30:23.449020+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL 75\" QLED Google TV 75Q63K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-75-qled-google-tv-75q63k/981036709",
+        "price": 12682.13,
+        "model": "75Q63K"
+      }
+    ]
+  },
+  "mercadolibre|75Q6K": {
+    "ts": "2026-07-04T19:30:35.904468+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Tv 75 Pulgadas Qled Smart Tv Uhd 4k Tcl 75q6k Google Tv",
+        "url": "https://www.mercadolibre.com.mx/tv-75-pulgadas-qled-smart-tv-uhd-4k-tcl-75q6k-google-tv/p/MLM56671391",
+        "price": 21000.0,
+        "model": "75q6k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Tcl / 75q6k / 40-r75ptc-maa2hg / G0102-000503",
+        "url": "https://www.mercadolibre.com.mx/main-tcl--75q6k--40r75ptcmaa2hg--g0102000503/up/MLMU4154207640",
+        "price": 1259.0,
+        "model": "40-r75ptc-maa2hg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Tcl / 75q6k / 40-l20da4-pwb1zg / G0101-000219",
+        "url": "https://www.mercadolibre.com.mx/fuente-tcl--75q6k--40l20da4pwb1zg--g0101000219/up/MLMU4137530087",
+        "price": 629.0,
+        "model": "40-l20da4-pwb1zg"
+      }
+    ]
+  },
+  "liverpool|75NU850BPSA": {
+    "ts": "2026-07-04T19:31:03.372203+00:00",
+    "items": []
+  },
+  "coppel|75NU850BPSA": {
+    "ts": "2026-07-04T19:31:20.570136+00:00",
+    "items": []
+  },
+  "amazon|75NU850BPSA": {
+    "ts": "2026-07-04T19:31:30.249838+00:00",
+    "items": []
+  },
+  "walmart|75NU850BPSA": {
+    "ts": "2026-07-04T19:32:08.694290+00:00",
+    "items": []
+  },
+  "sams|75NU850BPSA": {
+    "ts": "2026-07-04T19:32:11.949823+00:00",
+    "items": []
+  },
+  "mercadolibre|75NU850BPSA": {
+    "ts": "2026-07-04T19:32:28.426982+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Sony Pantalla 75pul. 4k Uhd Smart Tv Msi",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-pantalla-sony-bravia-75-4k-led-google-tv-75x77cl/p/MLM2080296742",
+        "price": 34877.0,
+        "model": "75pul"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sony Pantalla 75  4k Uhd Smart Tv Msi",
+        "url": "https://www.mercadolibre.com.mx/sony-pantalla-75--4k-uhd-smart-tv-msi/up/MLMU962988305",
+        "price": 28679.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sony Pantalla 75pul. 4k Uhd Smart Tv",
+        "url": "https://www.mercadolibre.com.mx/sony-pantalla-75pul-4k-uhd-smart-tv/up/MLMU933516235",
+        "price": 31877.0,
+        "model": "75pul"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pioneer Tv Ple-5006fhd Para Piezas, Excepto Display.",
+        "url": "https://www.mercadolibre.com.mx/pioneer-tv-ple5006fhd-para-piezas-excepto-display/up/MLMU712761746",
+        "price": 1500.0,
+        "model": "Ple-5006fhd"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Televisor Sharp 4tc75dl7ur Led 75  4k Negro",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2983237109-televisor-sharp-4tc75dl7ur-led-75-4k-negro-_JM",
+        "price": 8000.0,
+        "model": "4tc75dl7ur"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sansui Smx75kaug Televisor 75  4k Uhd",
+        "url": "https://www.mercadolibre.com.mx/sansui-smx75kaug-televisor-75--4k-uhd/up/MLMU3939109715",
+        "price": 10649.0,
+        "model": "Smx75kaug"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv LG Uhd Ai Ua80 4k De 75 2025 75ua8050psa",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-lg-uhd-ai-ua80-4k-de-75-2025-75ua8050psa/p/MLM53614456",
+        "price": 19999.0,
+        "model": "75ua8050psa"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "LG Smart Tv 75 75ua8000psb 4k Uhd Webos Magic Remote",
+        "url": "https://www.mercadolibre.com.mx/lg-smart-tv-75-75ua8000psb-4k-uhd-webos-magic-remote/p/MLM67846100",
+        "price": 19999.0,
+        "model": "75ua8000psb"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Lg 75ua7700aua 75  Uhd Ai 4k Smart Tv Webos Led (Reacondicionado)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-lg-75ua7700aua-75--uhd-ai-4k-smart-tv-webos-led/up/MLMU3784061512",
+        "price": 24999.0,
+        "model": "75ua7700aua"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Lg 75  4k Uhd Ips Webos Señalización",
+        "url": "https://www.mercadolibre.com.mx/pantalla-lg-75--4k-uhd-ips-webos-senalizacion/up/MLMU4215981286",
+        "price": 21563.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sharp Aquos 75  4k Display / Monitor Comercial 4p-b75ej2u",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3067252427-sharp-aquos-75-4k-display-monitor-comercial-4p-b75ej2u-_JM",
+        "price": 29749.0,
+        "model": "4p-b75ej2u"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Sansui Televisor Smx50kauw 50  4k Uhd Led",
+        "url": "https://www.mercadolibre.com.mx/sansui-televisor-smx50kauw-50--4k-uhd-led/up/MLMU3938725051",
+        "price": 5449.0,
+        "model": "Smx50kauw"
+      }
+    ]
+  },
+  "liverpool|GM90HIP": {
+    "ts": "2026-07-04T19:32:41.554094+00:00",
+    "items": []
+  },
+  "coppel|GM90HIP": {
+    "ts": "2026-07-04T19:32:43.320468+00:00",
+    "items": []
+  },
+  "amazon|GM90HIP": {
+    "ts": "2026-07-04T19:32:45.953972+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Altera Cyclone - Maquina Hip Thrust Profesional para Glúteos y Pierna para Gimnasio en Casa, Entrenamiento de Glúteos, Soporta 180 kg, Estructura de Acero y Respaldo Ergonómico",
+        "url": "https://www.amazon.com.mx/dp/B0F4Z1RDCS",
+        "price": 13749.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sportisimo Banco de Pesas Ajustable y Banca Plegable para Gym | Adjustable Weight Bench | 10 Posiciones Inclinado/Declinado · 320 kg · Acero Reforzado | Press Pecho, Hip Thrust, Abdominales | Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DMFVXBD9",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cinturón Hip Thrust Acolchado Premium de 13mm para Glúteos y Mancuernas | Soporta hasta 180 kg, neopreno ergonómico de 13 mm, correas de 50 a 76 cm, ideal para sentadillas y desplantes",
+        "url": "https://www.amazon.com.mx/dp/B0DXVB57L2",
+        "price": 414.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Yes4All Almohadilla para Barra de Ejercicio - Comodidad y Seguridad en Hip Thrusts, Desplantes y Sentadillas - Diseñada para Barras Olímpicas Estándar",
+        "url": "https://www.amazon.com.mx/dp/B013JOAWGA",
+        "price": 275.82,
+        "model": "Yes4All"
+      },
+      {
+        "store": "amazon",
+        "name": "[Matador] Bolsa de cuerpo para MATFRHP001 FREERAIN WATERPROOF PACKABLE HIP PACK negro [importados paralelos]",
+        "url": "https://www.amazon.com.mx/dp/B0DDK8SCXN",
+        "price": 1291.21,
+        "model": "MATFRHP001"
+      },
+      {
+        "store": "amazon",
+        "name": "100% ARMEGA Goggle Tetsumi - Lente espejo negro HiPER",
+        "url": "https://www.amazon.com.mx/dp/B0GPDLCCDT",
+        "price": 2903.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Banco Hip Thrust Profesional Kevin Bro - Estación de Levantamiento de Cadera y Glúteo - Estructura de Acero Reforzado 2.5mm, Carga Máxima 150kg - Máquina de Entrenamiento de Fuerza para Home Gym",
+        "url": "https://www.amazon.com.mx/dp/B0G86Z3ZZD",
+        "price": 10799.0,
+        "model": "150kg"
+      },
+      {
+        "store": "amazon",
+        "name": "Marhynchus Hip Wader, Pantalones Hip Wader con Bota para Trabajos Acuáticos, Pesca, Captura de Peces, Camping, Senderismo, Adopta PVC de Primera Calidad, Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0CVWXSV8L",
+        "price": 790.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TideWe - Botas de Cadera Ligeras para Hombres y Mujeres, 2 Capas de PVC/Nailon para Pesca de Cadera (Verde y café)",
+        "url": "https://www.amazon.com.mx/dp/B077TBZ4T9",
+        "price": 1133.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sunny Health & Fitness Máquina Elíptica para el Hogar, Entrenador Cruzado de Cuerpo Completo con Resistencia Magnética Silenciosa, Cardio de Bajo Impacto, Bluetooth SunnyFit App Opcional",
+        "url": "https://www.amazon.com.mx/dp/B002R8CPRY",
+        "price": 4067.82,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Patagonia Terravia Mini Hip Pack, Patchwork: Barnacle Blue, Terravia Mini Hip Pack",
+        "url": "https://www.amazon.com.mx/dp/B0FQ9TK6WR",
+        "price": 1438.54,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Rollerface Hipskates Soul, Patines en Paralelo",
+        "url": "https://www.amazon.com.mx/dp/B09H9VTT3B",
+        "price": 2646.14,
+        "model": null
+      }
+    ]
+  },
+  "walmart|GM90HIP": {
+    "ts": "2026-07-04T19:32:56.833235+00:00",
+    "items": []
+  },
+  "sams|GM90HIP": {
+    "ts": "2026-07-04T19:32:58.433383+00:00",
+    "items": []
+  },
+  "mercadolibre|GM90HIP": {
+    "ts": "2026-07-04T19:33:25.098635+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Hnc Hv100-004g3",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2990134611-hnc-hv100-004g3-_JM",
+        "price": 8000.0,
+        "model": "Hv100-004g3"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Ipaq Pocket Hp Pc H4300",
+        "url": "https://www.mercadolibre.com.mx/ipaq-pocket-hp-pc-h4300/up/MLMU3066700675",
+        "price": 5500.0,
+        "model": "H4300"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Flex De Video Hp 15 Da Series 15 Db Series 250 G7 255 G7",
+        "url": "https://www.mercadolibre.com.mx/flex-de-video-hp-15-da-series-15-db-series-250-g7-255-g7/up/MLMU965291235",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cable Flex De Video Hp 8460p 6017b0290601 6017b0290701 F220",
+        "url": "https://www.mercadolibre.com.mx/cable-flex-de-video-hp-8460p-6017b0290601-6017b0290701-f220/up/MLMU3205061985",
+        "price": 299.0,
+        "model": "6017b0290601"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Hkp55uhd9",
+        "url": "https://www.mercadolibre.com.mx/main-hkp55uhd9/up/MLMU441508497",
+        "price": 1300.0,
+        "model": "Hkp55uhd9"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Mr90y - Original Dell Battery  11.1 V 5700 Mah 65 Wh",
+        "url": "https://www.mercadolibre.com.mx/mr90y--original-dell-battery--111-v-5700-mah-65-wh/up/MLMU1018563351",
+        "price": 2400.0,
+        "model": "Mr90y"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 65w Para Gm456 Gn201 H856h Ha65nm130 Hf991",
+        "url": "https://www.mercadolibre.com.mx/cargador-65w-para-gm456-gn201-h856h-ha65nm130-hf991/up/MLMU3572460376",
+        "price": 288.0,
+        "model": "Ha65nm130"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 90w Para Ff313 G4x7t Gm456 Gn201 H856h Ha65nm130",
+        "url": "https://www.mercadolibre.com.mx/cargador-90w-para-ff313-g4x7t-gm456-gn201-h856h-ha65nm130/up/MLMU3565038783",
+        "price": 338.0,
+        "model": "Ha65nm130"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cargador 90w Para Hf991 Hk65nm130 Hn662 Hp-af065b83 Hr763",
+        "url": "https://www.mercadolibre.com.mx/cargador-90w-para-hf991-hk65nm130-hn662-hpaf065b83-hr763/up/MLMU3565038791",
+        "price": 338.0,
+        "model": "Hp-af065b83"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Jl809a Hpe Switch Aruba Instant On 1960 48g Poe+",
+        "url": "https://www.mercadolibre.com.mx/jl809a-hpe-switch-aruba-instant-on-1960-48g-poe/up/MLMU4158983778",
+        "price": 36046.0,
+        "model": "Jl809a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Para Hkpro  Hkp65ruhd2",
+        "url": "https://www.mercadolibre.com.mx/main-para-hkpro--hkp65ruhd2/up/MLMU3926670660",
+        "price": 1199.0,
+        "model": "Hkp65ruhd2"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Computadora De Motor E93 12725133 Gm Genuine Parts",
+        "url": "https://www.mercadolibre.com.mx/computadora-de-motor-e93-12725133-gm-genuine-parts/up/MLMU3214557678",
+        "price": 15989.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|INOXIDABLEINTEGRADOSCOMPATIBLEABATIBLE": {
+    "ts": "2026-07-04T19:33:54.087835+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "1 juego de cubo de basura con tapa abatible: cubo de basura de encimera, cubo de basura de cocina integrado, conducto de basura de acero inoxidable con tapa para el hogar, hotel y restaurante.",
+        "url": "https://www.walmart.com.mx/ip/1-juego-de-cubo-de-basura-con-tapa-abatible-cubo-de-basura-de-encimera-cubo-de-basura-de-cocina-integrado-conducto-de-basura-de-acero-inoxidable-con-tapa-para-el-hogar-hotel-y-restaurante-/00492312210175?athbdg=L1300",
+        "price": 1470.74,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Yeshouse Hielera comercial de acero inoxidable con tapa abatible, depósito de hielo integrado para cocinas, bares y barbacoas al aire libre",
+        "url": "https://www.walmart.com.mx/ip/yeshouse-hielera-comercial-de-acero-inoxidable-con-tapa-abatible-deposito-de-hielo-integrado-para-cocinas-bares-y-barbacoas-al-aire-libre/00696787462816?athbdg=L1300",
+        "price": 3586.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "unbranded 1Jgo De Basura Integrado Para Cocina De Acero Inoxidable Con Abatible Para Encimera",
+        "url": "https://www.walmart.com.mx/ip/unbranded-1jgo-de-basura-integrado-para-cocina-de-acero-inoxidable-con-abatible-para-encimera/00789147839151?athbdg=L6000",
+        "price": 1447.53,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "unbranded Abatible Empotrada Para De Basura De Acero Inoxidable Dorado Compatible Con Múltiples Tamaños",
+        "url": "https://www.walmart.com.mx/ip/unbranded-abatible-empotrada-para-de-basura-de-acero-inoxidable-dorado-compatible-con-multiples-tamanos/00502419352148?athbdg=L6000",
+        "price": 415.41,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 18-19 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-18-19-cm/00628698700055",
+        "price": 625.02,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 22-25 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-22-25-cm/00628698700057",
+        "price": 840.96,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "BESTYASH Cubierta De Basura Embutida De Acero Inoxidable Para Cocina Con Abatible Y Integrado",
+        "url": "https://www.walmart.com.mx/ip/bestyash-cubierta-de-basura-embutida-de-acero-inoxidable-para-cocina-con-abatible-y-integrado/00771136341925?athbdg=L6000",
+        "price": 1070.69,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Advancent Tapa de cubo de basura de acero inoxidable con ojal integrado para encimera, abatible Suministros de limpieza para el hogar 19.5-22 cm",
+        "url": "https://www.walmart.com.mx/ip/advancent-tapa-de-cubo-de-basura-de-acero-inoxidable-con-ojal-integrado-para-encimera-abatible-suministros-de-limpieza-para-el-hogar-19-5-22-cm/00628698700056",
+        "price": 902.38,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tetera de Acero Inoxidable con Tapa de Vertido Abatible Diseño Moderno Antideslizante Compatible con Diferentes Cocinas Adecuada para Camping",
+        "url": "https://www.walmart.com.mx/ip/tetera-de-acero-inoxidable-con-tapa-de-vertido-abatible-diseno-moderno-antideslizante-compatible-con-diferentes-cocinas-adecuada-para-camping/00078842269920?athbdg=L1300",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "EXHUMKY Grommet De Acero Inoxidable Para Basura Compatible Con Cubos Integrados En Encimeras De Cocina",
+        "url": "https://www.walmart.com.mx/ip/exhumky-grommet-de-acero-inoxidable-para-basura-compatible-con-cubos-integrados-en-encimeras-de-cocina/00436320998493?athbdg=L6000",
+        "price": 492.62,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tapa de cubo de basura empotrada de acero inoxidable, ojal de basura integrado en la encimera con cubierta de solapa abatible para debajo del fregadero y uso en la cocina, negro",
+        "url": "https://www.walmart.com.mx/ip/tapa-de-cubo-de-basura-empotrada-de-acero-inoxidable-ojal-de-basura-integrado-en-la-encimera-con-cubierta-de-solapa-abatible-para-debajo-del-fregadero-y-uso-en-la-cocina-negro/00492208149186",
+        "price": 691.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bisagra de Extensión de Bajante de Canal de Acero Inoxidable, Diseño de Bisagra Abatible Hacia Arriba, Compatible con Bajante Rectangular y Cuadrado,C",
+        "url": "https://www.walmart.com.mx/ip/bisagra-de-extension-de-bajante-de-canal-de-acero-inoxidable-diseno-de-bisagra-abatible-hacia-arriba-compatible-con-bajante-rectangular-y-cuadrado-c/00613395513987",
+        "price": 191.01,
+        "model": null
+      }
+    ]
+  },
+  "sams|INOXIDABLEINTEGRADOSCOMPATIBLEABATIBLE": {
+    "ts": "2026-07-04T19:34:03.323112+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Control Inalámbrico Xbox Series Azul Compatible con Xbox One",
+        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-azul-compatible-con-xbox-one/980024079",
+        "price": 1778.83,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Control Inalámbrico Xbox Series Blanco Compatible con Xbox One",
+        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-blanco-compatible-con-xbox-one/980024077",
+        "price": 1738.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Control Inalámbrico Xbox Series Negro Compatible con Xbox One",
+        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-negro-compatible-con-xbox-one/980024078",
+        "price": 1738.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
+        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
+        "price": 3373.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
+        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
+        "price": 748.99,
+        "model": "MX86037"
+      },
+      {
+        "store": "sams",
+        "name": "Barra de Sonido Alienpro  Integrada 2.1 T-1000V2",
+        "url": "https://www.sams.com.mx/ip/barra-de-sonido-alienpro-integrada-2-1-t-1000v2/981041981",
+        "price": 1632.71,
+        "model": "T-1000V2"
+      },
+      {
+        "store": "sams",
+        "name": "Máquina de Espresso Hukën  con Molino Integrado MK-ECM-GSS",
+        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-huken-con-molino-integrado-mk-ecm-gss/981045753",
+        "price": 2556.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bufetera Jocca  de Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
+        "price": 3129.34,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Molino de Café Daewoo Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
+        "price": 530.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cable Moshi  Integra USB-C a USB-A 1.5 m Gris Titanio",
+        "url": "https://www.sams.com.mx/ip/cable-moshi-integra-usb-c-a-usb-a-1-5-m-gris-titanio/981031670",
+        "price": 459.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jarra Térmica Technoware  Acero Inoxidable 2 Pzas",
+        "url": "https://www.sams.com.mx/ip/jarra-termica-technoware-acero-inoxidable-2-pzas/000234556",
+        "price": 643.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cucharas para Té Tramontina  Acero Inoxidable 36 pzas",
+        "url": "https://www.sams.com.mx/ip/cucharas-para-te-tramontina-acero-inoxidable-36-pzas/000599748",
+        "price": 346.79,
+        "model": null
+      }
+    ]
+  },
+  "walmart|ESTABILIZACIONTRANSMISIONRECARGABLEDETECCION": {
+    "ts": "2026-07-04T19:34:16.623207+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Reloj portátil Transmisión Pantalla de espejo Pantalla de alimentación Recargable",
+        "url": "https://www.walmart.com.mx/ip/reloj-portatil-transmision-pantalla-de-espejo-pantalla-de-alimentacion-recargable/00078649512581?athbdg=L1300",
+        "price": 319.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sistema de detección de aparcamiento de respaldo inverso con transmisión de voz en inglés para coche con 4 sensores de radar rojos Jadeshay  A",
+        "url": "https://www.walmart.com.mx/ip/sistema-de-deteccion-de-aparcamiento-de-respaldo-inverso-con-transmision-de-voz-en-ingles-para-coche-con-4-sensores-de-radar-rojos-jadeshay-a/00096192695199?athbdg=L1300",
+        "price": 435.26,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sistema de detección de aparcamiento de marcha atrás con transmisión de voz en inglés para coche con 4 sensores de radar blanco Jadeshay  A",
+        "url": "https://www.walmart.com.mx/ip/sistema-de-deteccion-de-aparcamiento-de-marcha-atras-con-transmision-de-voz-en-ingles-para-coche-con-4-sensores-de-radar-blanco-jadeshay-a/00096192675490?athbdg=L1300",
+        "price": 427.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sistema de detección de aparcamiento de respaldo inverso con transmisión de voz en inglés para coche con 4 sensores de radar rojos",
+        "url": "https://www.walmart.com.mx/ip/sistema-de-deteccion-de-aparcamiento-de-respaldo-inverso-con-transmision-de-voz-en-ingles-para-coche-con-4-sensores-de-radar-rojos/00908844869009?athbdg=L1300",
+        "price": 302.88,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "de Monitorización Intraauditiva Inalámbrica con Transmisor y Receptor Recargable. de Transmisión de Monitorización Intraauricular Inalámbrica.",
+        "url": "https://www.walmart.com.mx/ip/de-monitorizacion-intraauditiva-inalambrica-con-transmisor-y-receptor-recargable-de-transmision-de-monitorizacion-intraauricular-inalambrica-/00471381636174",
+        "price": 387.42,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Modulador De Voz, Cambiador De Voz Recargable USB Versátil Para Transmisión En",
+        "url": "https://www.walmart.com.mx/ip/modulador-de-voz-cambiador-de-voz-recargable-usb-versatil-para-transmision-en/00621640621754",
+        "price": 295.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Linterna 365 Detección de billetes Antifalsificación Identificación de clavos Lámpara de Wood Linterna recargable",
+        "url": "https://www.walmart.com.mx/ip/linterna-365-deteccion-de-billetes-antifalsificacion-identificacion-de-clavos-lampara-de-wood-linterna-recargable/00920248406707?athbdg=L1300",
+        "price": 100.75,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Raqueta Matainsectos Hyper Tough Recargable con Luz",
+        "url": "https://www.walmart.com.mx/ip/raqueta-matainsectos-hyper-tough-recargable-con-luz/00692207310879?athbdg=L6000",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "de guitarra inalámbrico 2,4G uso versátil transmisión de 40M suministros recargables",
+        "url": "https://www.walmart.com.mx/ip/de-guitarra-inalambrico-2-4g-uso-versatil-transmision-de-40m-suministros-recargables/00078233896787?athbdg=L1300",
+        "price": 619.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares con Micrófono Hugo 2 en 1 recargables para transmisión",
+        "url": "https://www.walmart.com.mx/ip/auriculares-con-microfono-hugo-2-en-1-recargables-para-transmision/00078239833157?athbdg=L1300",
+        "price": 429.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Monitor de fugas de tuberías de agua ANGGREK kit de detección recargable",
+        "url": "https://www.walmart.com.mx/ip/monitor-de-fugas-de-tuberias-de-agua-anggrek-kit-de-deteccion-recargable/00617191857742",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lámpara Con Detección De Movimiento, Apagado Automático, Luz Con Sensor De Movimiento, Recargable, Ahorro De Energía Para El Hogar",
+        "url": "https://www.walmart.com.mx/ip/lampara-con-deteccion-de-movimiento-apagado-automatico-luz-con-sensor-de-movimiento-recargable-ahorro-de-energia-para-el-hogar/00669497523920",
+        "price": 273.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|ESTABILIZACIONTRANSMISIONRECARGABLEDETECCION": {
+    "ts": "2026-07-04T19:34:20.999529+00:00",
+    "items": []
+  },
+  "walmart|COMPATIBILIDADINALAMBRICOSINTEGRADOBLUETOOTH": {
+    "ts": "2026-07-04T19:35:04.871422+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Transmisor y receptor Bluetooth 5.3, adaptador USB inalámbrico con entrada auxiliar de 3,5 mm, baja latencia y micrófono integrado",
+        "url": "https://www.walmart.com.mx/ip/transmisor-y-receptor-bluetooth-5-3-adaptador-usb-inalambrico-con-entrada-auxiliar-de-3-5-mm-baja-latencia-y-microfono-integrado/00763228577554",
+        "price": 190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Receptor de Audio Bluetooth 5.4 de 30 Pines, Música HIFI Sin Pérdida, Alta Compatibilidad, A2DP Inalámbrico para Base de 30 Pines, Altavoz Analógico",
+        "url": "https://www.walmart.com.mx/ip/receptor-de-audio-bluetooth-5-4-de-30-pines-musica-hifi-sin-perdida-alta-compatibilidad-a2dp-inalambrico-para-base-de-30-pines-altavoz-analogico/00471378295547",
+        "price": 169.54,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador de Audio Inalámbrico ANGGREK Transmisor Bluetooth Negro Amplia Compatibilidad Para TV Sin Bluetooth Sistemas Estéreo Domésticos",
+        "url": "https://www.walmart.com.mx/ip/adaptador-de-audio-inalambrico-anggrek-transmisor-bluetooth-negro-amplia-compatibilidad-para-tv-sin-bluetooth-sistemas-estereo-domesticos/00689873519460",
+        "price": 342.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Transmisor FM Inalámbrico para Coche, Llamada de Audio Inalámbrica, 2 en 1, Micrófono Integrado, Reproductor de Audio, Adaptador de Radio, Bluetooth 5.3.",
+        "url": "https://www.walmart.com.mx/ip/transmisor-fm-inalambrico-para-coche-llamada-de-audio-inalambrica-2-en-1-microfono-integrado-reproductor-de-audio-adaptador-de-radio-bluetooth-5-3-/00613360938703",
+        "price": 170.86,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auricular Bluetooth Inalámbrico BLOSOOM Negro con Estuche de Carga Inalámbrica 650 mAh",
+        "url": "https://www.walmart.com.mx/ip/auricular-bluetooth-inalambrico-blosoom-negro-con-estuche-de-carga-inalambrica-650-mah/00750305062934",
+        "price": 579.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Receptor Bluetooth USB Receptor de música Manos libres de coche Micrófono integrado Receptor estéreo Inalámbrico para sistema de sonido CUTICAT adaptador receptor",
+        "url": "https://www.walmart.com.mx/ip/receptor-bluetooth-usb-receptor-de-musica-manos-libres-de-coche-microfono-integrado-receptor-estereo-inalambrico-para-sistema-de-sonido-cuticat-adaptador-receptor/00076460192433?athbdg=L1300",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Receptor de Audio Bluetooth 5.4 de 30 Pines, Alta Compatibilidad, Adaptador Inalámbrico de Música HIFI Sin Pérdida, Base de 30 Pines, Altavoz Analógico.",
+        "url": "https://www.walmart.com.mx/ip/receptor-de-audio-bluetooth-5-4-de-30-pines-alta-compatibilidad-adaptador-inalambrico-de-musica-hifi-sin-perdida-base-de-30-pines-altavoz-analogico-/00613164683512",
+        "price": 179.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Altavoces Bluetooth Inalámbricos Bluetooth 5.3 Abierto No en el Oído Transmisión de Sonido Direccional Botón Inteligente Auriculares Inalámbricos Remotos Auriculares Inalámbricos Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/altavoces-bluetooth-inalambricos-bluetooth-5-3-abierto-no-en-el-oido-transmision-de-sonido-direccional-boton-inteligente-auriculares-inalambricos-remotos-auriculares-inalambricos-bluetooth/00846040484128?athbdg=L1300",
+        "price": 330.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Kit De Adaptador Inalámbrico, Compatible Con Varios Idiomas Adaptador Bluetooth Plug And Play Profesional Para Conectar Auriculares Bluetooth Para PC Portátil",
+        "url": "https://www.walmart.com.mx/ip/kit-de-adaptador-inalambrico-compatible-con-varios-idiomas-adaptador-bluetooth-plug-and-play-profesional-para-conectar-auriculares-bluetooth-para-pc-portatil/00609454203328",
+        "price": 133.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Altavoces Bluetooth Inalámbrico Bluetooth 5.3 Audio Inalámbrico 5W de Alta Potencia Estéreo Interconectable Multi Modo de Reproducción Vida de la Batería Efecto de Luz Fría Fuerte Bluetooth Audio",
+        "url": "https://www.walmart.com.mx/ip/altavoces-bluetooth-inalambrico-bluetooth-5-3-audio-inalambrico-5w-de-alta-potencia-estereo-interconectable-multi-modo-de-reproduccion-vida-de-la-bateria-efecto-de-luz-fria-fuerte-bluetooth-audio/00846040484679?athbdg=L1300",
+        "price": 520.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Altavoces Bluetooth Inalámbrico Bluetooth 5.1 Subwoofer Inalámbrico Llevó Efecto de Luz Fría Al Aire Libre Portátil Bluetooth Sistema de Audio Inalámbrico Luces Led Al Aire Libre",
+        "url": "https://www.walmart.com.mx/ip/altavoces-bluetooth-inalambrico-bluetooth-5-1-subwoofer-inalambrico-llevo-efecto-de-luz-fria-al-aire-libre-portatil-bluetooth-sistema-de-audio-inalambrico-luces-led-al-aire-libre/00846040484386?athbdg=L1300",
+        "price": 706.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Transmisor FM Inalámbrico para Coche, Llamada de Audio Inalámbrica, 2 en 1, Micrófono Integrado, Reproductor de Audio, Adaptador de Radio, Bluetooth 5.3.",
+        "url": "https://www.walmart.com.mx/ip/transmisor-fm-inalambrico-para-coche-llamada-de-audio-inalambrica-2-en-1-microfono-integrado-reproductor-de-audio-adaptador-de-radio-bluetooth-5-3-/00471254031249",
+        "price": 166.24,
+        "model": null
+      }
+    ]
+  },
+  "sams|COMPATIBILIDADINALAMBRICOSINTEGRADOBLUETOOTH": {
+    "ts": "2026-07-04T19:35:05.596160+00:00",
+    "items": []
+  },
+  "walmart|600ANSI": {
+    "ts": "2026-07-04T19:35:27.727627+00:00",
+    "items": []
+  },
+  "sams|600ANSI": {
+    "ts": "2026-07-04T19:35:28.432472+00:00",
+    "items": []
+  },
+  "amazon|6128GB": {
+    "ts": "2026-07-04T19:35:42.857210+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "FENTERXY Tablet 6GB+128GB 10.1 pulgadas 1960*1080 Hi-Clear Android13 Llamadas 4G 10-re MT6797 Procor 128GB Memoria expandible Red 5G, WiFi 6000mAh Batería Tiempo de espera prolongado con estuche para",
+        "url": "https://www.amazon.com.mx/dp/B0D9612DJY",
+        "price": 1817.77,
+        "model": "6GB+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "6+128GB Android 15 Radio de coche para Subaru Forester 2004-2008 Carplay Android Auto, 9 pulgadas 1280 x 720P visualización táctil estéreo de coche con WiFi Bluetooth GPS FM/RDS EQ cámara de",
+        "url": "https://www.amazon.com.mx/dp/B0FXF3PYX9",
+        "price": 5000.03,
+        "model": "6+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "lifcasual Tablet 6GB+128GB 10.1 pulgadas 1960*1080 Hi-Clear Android13 Llamadas 4G 10-re MT6797 Procor 128GB Memoria expandible Red 5G, WiFi 6000mAh Batería Tiempo de espera prolongado con estuche para",
+        "url": "https://www.amazon.com.mx/dp/B0D6B36FR2",
+        "price": 1751.9,
+        "model": "6GB+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "FENTERXY Tableta 6GB+128GB 10.1 pulgadas 1960*1080 Hi-Clear Android13 Llamadas 4G 8-re MT6797 Procor 128GB Memoria expandible BT4.2 6000mAh Batería Tiempo de espera prolongado con estuche para tablet",
+        "url": "https://www.amazon.com.mx/dp/B0D964H3LJ",
+        "price": 1781.77,
+        "model": "6GB+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 6+128GB Azul Claro",
+        "url": "https://www.amazon.com.mx/dp/B0FSF35HP1",
+        "price": 3379.0,
+        "model": "6+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI REDMI Note 14 6GB 128GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0DWNLNZPD",
+        "price": 3569.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy A72 128gb Violeta 6gb RAM (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GSHDGC85",
+        "price": 2539.0,
+        "model": "128gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 6+128GB Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FSF9PC9N",
+        "price": 3236.0,
+        "model": "6+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular Poco C85 4G LTE (Compatible con T-Mobile Tello Mint y Global) (128 GB + 6 GB) Desbloqueado, Doble SIM, 6.9\", 50 MP, Modelo 25078PC3EG (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FHQF9LL5",
+        "price": 2549.0,
+        "model": "25078PC3EG"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular M7 Dual Sim 128GB ROM 6GB RAM Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FKLXK7ZQ",
+        "price": 2990.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, Batería 5000mAh, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FRNCLG2X",
+        "price": 2769.0,
+        "model": "5000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "ADATA 128 GB Tarjeta de Memoria Micro SDXC con Adaptador Color Negro con Azul A1 (Clase 10)",
+        "url": "https://www.amazon.com.mx/dp/B077QJ1HVT",
+        "price": 389.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|6128GB": {
+    "ts": "2026-07-04T19:35:44.229706+00:00",
+    "items": []
+  },
+  "amazon|128GB": {
+    "ts": "2026-07-04T19:35:55.912788+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ADATA 128 GB Tarjeta de Memoria Micro SDXC con Adaptador Color Negro con Azul A1 (Clase 10)",
+        "url": "https://www.amazon.com.mx/dp/B077QJ1HVT",
+        "price": 389.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kingston USB Data Traveler Exodia M, Capacidad: 128GB, USB 3.2 Gen 1 (DTXM/128GB)",
+        "url": "https://www.amazon.com.mx/dp/B0B1JL6SML",
+        "price": 211.4,
+        "model": "DTXM/128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Bliksem Paquete de 2 Tarjeta de Memoria de 128 GB con Adaptador SD, Tarjeta SD de Alta Velocidad, Tarjeta TF, UHS-I C10 A1, para Tablet, Teléfono Celular, Cámara, Audio de Coche (TF162 128 GB)",
+        "url": "https://www.amazon.com.mx/dp/B0D6KKG2RK",
+        "price": 399.99,
+        "model": "TF162"
+      },
+      {
+        "store": "amazon",
+        "name": "SanDisk Tarjeta de Memoria Extreme Pro SDXC UHS-I de 128 GB, C10, U3, V30, 4K UHD, Tarjeta SD - SDSDXXD-128G-GN4IN",
+        "url": "https://www.amazon.com.mx/dp/B09X7FXHVJ",
+        "price": 861.5,
+        "model": "SDSDXXD-128G-GN4IN"
+      },
+      {
+        "store": "amazon",
+        "name": "SanDisk SDSQUNR-128G-GN3MA microSDXC 128 CL10 c/a",
+        "url": "https://www.amazon.com.mx/dp/B08KSJ5N48",
+        "price": 499.0,
+        "model": "SDSQUNR-128G-GN3MA"
+      },
+      {
+        "store": "amazon",
+        "name": "SanDisk 128GB High Endurance Video MicroSDXC Card with Adapter for Dash CAM and Home Monitoring Systems - C10, U3, V30, 4K UHD, Micro SD Card - SDSQQNR-128G-GN6IA",
+        "url": "https://www.amazon.com.mx/dp/B07NY23WBG",
+        "price": 707.32,
+        "model": "SDSQQNR-128G-GN6IA"
+      },
+      {
+        "store": "amazon",
+        "name": "Kingston USB DTExodia 128GB USB 3.2 Gen 1 (DTX/128GB)",
+        "url": "https://www.amazon.com.mx/dp/B08JD4TBM3",
+        "price": 221.0,
+        "model": "DTX/128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "SanDisk Tarjeta de Memoria SDXC UHS-I Extreme de 128 GB - C10, U3, V30, 4K, UHD, Tarjeta SD - SDSDXVA-128G-GNCIN",
+        "url": "https://www.amazon.com.mx/dp/B09X7DZ9LG",
+        "price": 704.58,
+        "model": "SDSDXVA-128G-GNCIN"
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Basics Tarjeta de memoria microSDXC con adaptador de tamaño completo, A2, U3, velocidad de lectura de hasta 100 MB/s, 128 GB, negra",
+        "url": "https://www.amazon.com.mx/dp/B08TJRVWV1",
+        "price": 868.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GOWENIC Tarjeta de Memoria, Mini Micro Tarjeta de Memoria Alta Velocidad Clase 10 Impermeable Resistente a Golpes para Cámaras Digitales y Teléfonos Móviles (128GB)",
+        "url": "https://www.amazon.com.mx/dp/B0C9DZQR3N",
+        "price": 326.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Kingston Tarjeta De Memoria SD, Canvas Go Plus Gen4, Capacidad: 128GB, 4K, Clase 10, UHS-I, U3, V30, Lectura: 200MB/s, SKU: SDG4/128GB",
+        "url": "https://www.amazon.com.mx/dp/B0F29YB396",
+        "price": 765.0,
+        "model": "SDG4/128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Kingston USB DataTraveler Exodia M, Capacidad: 128GB, USB-A 3.2 Gen 1, Color: Rosa Neon, SKU: KC-U2L128-7LN",
+        "url": "https://www.amazon.com.mx/dp/B00A8M2HGA",
+        "price": 226.0,
+        "model": "KC-U2L128-7LN"
+      }
+    ]
+  },
+  "sams|128GB": {
+    "ts": "2026-07-04T19:35:56.599786+00:00",
+    "items": []
+  },
+  "amazon|MIDEACONGELADORMIDEAPIES": {
+    "ts": "2026-07-04T19:36:10.376113+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Midea MDRC205FZM01 Congelador Triple Cooling System 5 Pies Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DG5RXR52",
+        "price": 4049.55,
+        "model": "MDRC205FZM01"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea Congelador 9 Pies Cúbicos / 249 L Blanco Two Cooling System",
+        "url": "https://www.amazon.com.mx/dp/B07XF62XZ4",
+        "price": 6199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Congelador Midea Inverter Quattro Blanco 11 Pies Cúbicos;MDRC411FZM01D, con canasta organizadora",
+        "url": "https://www.amazon.com.mx/dp/B0GCQ8QLD6",
+        "price": 7124.06,
+        "model": "MDRC411FZM01D"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea MDRC280FZM01 Congelador Triple Cooling System Blanco 7 Pies Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DG5SXXMK",
+        "price": 5509.06,
+        "model": "MDRC280FZM01"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea Congelador Vertical, 9 pies cúbicos, Bru Steel, MDRU333FEM46D",
+        "url": "https://www.amazon.com.mx/dp/B0GW9GHT1W",
+        "price": 9099.0,
+        "model": "MDRU333FEM46D"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea MDRC280FZM30 Congelador Triple Cooling System Negro 7 Pies Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DMCD7Q5X",
+        "price": 5690.0,
+        "model": "MDRC280FZM30"
+      },
+      {
+        "store": "amazon",
+        "name": "Congelador Midea Inverter Quattro Blanco 15 Pies Cúbicos;MDRC564FZM01, con 4 canastas y doble puerta",
+        "url": "https://www.amazon.com.mx/dp/B0GCPBX6LH",
+        "price": 10924.06,
+        "model": "MDRC564FZM01"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense FC50D6AWX Congelador, 5 pies cúbicos, Temperatura ajustable, Fast Freeze, Cerradura de seguridad, 62x56x85cm(AnchoxLargoxAlto), Blanco",
+        "url": "https://www.amazon.com.mx/dp/B08D8JX2MT",
+        "price": 4492.0,
+        "model": "62x56x85cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea Congelador Triple Cooling System 5 Pies + 7 Pies",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y5GYFT",
+        "price": 9558.61,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense FC70D6BBX Congelador, 7 pies cúbicos, Temperatura ajustable, Fast Freeze, Cerradura de seguridad, 89x56x85cm(AnchoxLargoxAlto), Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CLQYQW8Y",
+        "price": 5999.0,
+        "model": "89x56x85cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Congelador Hisense, Capacidad de 18 Pies, Color Blanco, Modelo FC18D6AWX",
+        "url": "https://www.amazon.com.mx/dp/B0GC8BJM4T",
+        "price": 14503.56,
+        "model": "FC18D6AWX"
+      },
+      {
+        "store": "amazon",
+        "name": "VEVOR Congelador horizontal, 12,8 pies cúbicos / 345 litros, congelador grande y profundo con 4 cestas extraíbles, congeladores horizontales comerciales independientes con puerta superior abatible",
+        "url": "https://www.amazon.com.mx/dp/B0D3F391VJ",
+        "price": 36465.98,
+        "model": null
+      }
+    ]
+  },
+  "sams|MIDEACONGELADORMIDEAPIES": {
+    "ts": "2026-07-04T19:36:12.613200+00:00",
+    "items": []
+  },
+  "amazon|KP340BMX": {
+    "ts": "2026-07-04T19:36:22.324870+00:00",
+    "items": []
+  },
+  "sams|KP340BMX": {
+    "ts": "2026-07-04T19:36:30.975331+00:00",
+    "items": []
+  },
+  "amazon|HUFFYBICICLETAMONTANARODADACREEK": {
+    "ts": "2026-07-04T19:36:39.843134+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Huffy - Bicicleta Infantil",
+        "url": "https://www.amazon.com.mx/dp/B07WPG4QBG",
+        "price": 6686.93,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy - Bicicleta de montaña inclinada de 26 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0CFWPH6ZH",
+        "price": 4200.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Bicicleta Unisex Color Negro Modelo Extent 64342",
+        "url": "https://www.amazon.com.mx/dp/B0CFWXRFSJ",
+        "price": 5599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Stone Mountain - Bicicleta de montaña de 20 Pulgadas, Marco Brillante de orquídea, Cambio Shimano de Giro de 6 velocidades, suspensión Delantera, sillín cómodo | Tamaños de 20 pulgadas/24",
+        "url": "https://www.amazon.com.mx/dp/B0D244D8RG",
+        "price": 4601.01,
+        "model": "pulgadas/24"
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta de montaña de 21 velocidades Huffy Exxo con desviador Shimano y Marco de Aluminio",
+        "url": "https://www.amazon.com.mx/dp/B07DSM3D8V",
+        "price": 6490.56,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Pro Thunder - Bicicleta para niños - 12 Pulgadas, 16 Pulgadas, 20 Pulgadas, 20 Pulgadas, con estabilizadores, Varios Colores (Azul, Verde, Gris, Amarillo, Gris), de 3 a 11 años, Marco de Acero",
+        "url": "https://www.amazon.com.mx/dp/B0DXLDJ3ZG",
+        "price": 4941.84,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta Benotto DS-800 Aluminio R27.5 24V Shimano Altus Frenos DDM",
+        "url": "https://www.amazon.com.mx/dp/B01MUH9RNJ",
+        "price": 11998.0,
+        "model": "DS-800"
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Stone Mountain - Bicicleta de montaña para Hombre de 26 Pulgadas, Marco Gris Nublado Brillante, Cambio Shimano Twist de 21 velocidades, Doble suspensión, sillín cómodo, tamaños de 20 Pulgadas,",
+        "url": "https://www.amazon.com.mx/dp/B0CCSNQ25P",
+        "price": 11595.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Bicicleta MTB Warhawk 29, Negro",
+        "url": "https://www.amazon.com.mx/dp/B001JILR4A",
+        "price": 11814.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy So Sweet Kids Bike Collection – Bicicletas para niñas de 12 pulgadas, 16 pulgadas, 20 pulgadas con estabilizadores, frenos de doble pinza y asiento ajustable, rosa, blanco, azul o morado, de 3 a",
+        "url": "https://www.amazon.com.mx/dp/B0DYDY1G9K",
+        "price": 4907.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy Stone - Bicicleta de montaña para hombres y mujeres, 20\"/24\"/26\", 6 velocidades (20\") o 21 velocidades, suspensión delantera o doble (varia), varios colores, sillín ajustable, equipado con",
+        "url": "https://www.amazon.com.mx/dp/B07DR6591V",
+        "price": 13514.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Schwinn High Timber AL - Bicicleta de montaña para niños y niñas, Ruedas de 20 Pulgadas, 7 velocidades, suspensión Delantera, Marco de Aluminio y Frenos lineales de aleación, Color Verde Azulado",
+        "url": "https://www.amazon.com.mx/dp/B0B9F4YSQ6",
+        "price": 12208.65,
+        "model": null
+      }
+    ]
+  },
+  "walmart|HUFFYBICICLETAMONTANARODADACREEK": {
+    "ts": "2026-07-04T19:37:15.549184+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750046330842?athbdg=L1300",
+        "price": 4099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Benotto Hook de Montaña Rodada 27.5 18 Velocidades Color Negro",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-hook-de-montana-rodada-27-5-18-velocidades-color-negro/00750153734221?athbdg=L1300",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Bluelander Rodada 29 Negro/Rojo",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-bluelander-rodada-29-negro-rojo/00750230815882?athbdg=L1300",
+        "price": 4399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Ghost Scrow Rodada 29 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-ghost-scrow-rodada-29-azul-de-montana/00750305714045?athbdg=L1300",
+        "price": 5859.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Ciudad Huffy Parkside Rodada 27.5 Color Negro",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-ciudad-huffy-parkside-rodada-27-5-color-negro/00002891426761",
+        "price": 6439.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Benotto Cypher de Montaña Rodada 29 21 velocidades Color Roja",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-cypher-de-montana-rodada-29-21-velocidades-color-roja/00750153732497?athbdg=L1600",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Ghost Crow Rodada 29 Rojo De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-ghost-crow-rodada-29-rojo-de-montana/00750305714040?athbdg=L1300",
+        "price": 5619.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227?athbdg=L1300",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Infantil Huffy MOD X  Rodada 16 Para Niños",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-infantil-huffy-mod-x-rodada-16-para-ninos/00750032685802?athbdg=L1300",
+        "price": 3599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Ghost Scrow Rodada 27.5 Azul De Montaña",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-ghost-scrow-rodada-27-5-azul-de-montana/00750305714034?athbdg=L1300",
+        "price": 6687.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Urbana Huffy Parkside R27.5",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-urbana-huffy-parkside-r27-5/00002891426771?athbdg=L1300",
+        "price": 3159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Bluelander Rodada 26 Negro/Rojo",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-bluelander-rodada-26-negro-rojo/00750230815578?athbdg=L1300",
+        "price": 3899.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEESTUCHEAIRPODSCARGAAPPLE": {
+    "ts": "2026-07-04T19:37:19.129396+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0DQKGDLSG",
+        "price": 127.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Vino Tinto)",
+        "url": "https://www.amazon.com.mx/dp/B0F4XD7DQD",
+        "price": 127.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple AirPods 2 - Reemplazo Estuche de Carga (A1602) - Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GP87589J",
+        "price": 564.05,
+        "model": "A1602"
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Azul Medianoche)",
+        "url": "https://www.amazon.com.mx/dp/B0DQKHB2MQ",
+        "price": 127.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple AirPods 4 2024, Funda Protectora de Silicona Elástica con Mosquetón, Estuche Compatible con Carga Inalámbrica para AirPods 4 Apple (Audífonos No Incluidos) (Beige, AirPods 4th)",
+        "url": "https://www.amazon.com.mx/dp/B0GTYQTSFY",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Estuche de Carga Inalámbrico de Repuesto Compatible con AirPods Pro 1ª Gen (2019) y 2ª Gen (2022), Funda con Botón de Emparejamiento Bluetooth y Puerto de Carga Tipo Lightning (Sin Auriculares)",
+        "url": "https://www.amazon.com.mx/dp/B0FGH9VRHR",
+        "price": 551.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple AirPods 4 2024, Funda Protectora de Silicona Elástica con Mosquetón, Estuche Compatible con Carga Inalámbrica para AirPods 4 Apple (Audífonos No Incluidos) (Morado, AirPods 4th)",
+        "url": "https://www.amazon.com.mx/dp/B0GTYQB49T",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de carga inalámbrica compatible con AirPods de 4ª generación, puerto USB-C Airpods 4 reemplazo de funda de carga, sin auriculares",
+        "url": "https://www.amazon.com.mx/dp/B0DS27YXNF",
+        "price": 310.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple AirPods Pro 2nd Gen (Lightning) - Reemplazo Estuche de Carga (A2700) - Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GP7B2632",
+        "price": 1234.36,
+        "model": "A2700"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple AirPods 4 2024, Funda Protectora de Silicona Elástica con Mosquetón, Estuche Compatible con Carga Inalámbrica para AirPods 4 Apple (Audífonos No Incluidos) (Verde Oscuro, AirPods 4th)",
+        "url": "https://www.amazon.com.mx/dp/B0GTYTTZH2",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple AirPods 4 2024, Funda Protectora de Silicona Elástica con Mosquetón, Estuche Compatible con Carga Inalámbrica para AirPods 4 Apple (Audífonos No Incluidos) (Negro, AirPods 4th)",
+        "url": "https://www.amazon.com.mx/dp/B0GTYTYFLR",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Azul grisáceo)",
+        "url": "https://www.amazon.com.mx/dp/B0F4WZM4T4",
+        "price": 127.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEESTUCHEAIRPODSCARGAAPPLE": {
+    "ts": "2026-07-04T19:37:30.572647+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A",
+        "url": "https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300",
+        "price": 1079.0,
+        "model": "MR8U2AM/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Estuche protector para Apple AirPods Max 2 / AirPods Max",
+        "url": "https://www.walmart.com.mx/ip/estuche-protector-para-apple-airpods-max-2-airpods-max/00072574864959",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "AirPods Pro Apple 2da Generación con Estuche de Carga MagSafe y Conexión USB‑C",
+        "url": "https://www.walmart.com.mx/ip/airpods-pro-apple-2da-generacion-con-estuche-de-carga-magsafe-y-conexion-usb-c/00019594905249?athbdg=L1600",
+        "price": 5345.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Catalyst para Apple AirPods 4 Impermeable con Mosqueton y Carga Inalambrica",
+        "url": "https://www.walmart.com.mx/ip/funda-catalyst-para-apple-airpods-4-impermeable-con-mosqueton-y-carga-inalambrica/00084062511458?athbdg=L1300",
+        "price": 1504.5,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Estuche RISETECH EC04 para Auriculares Apple AirPods Beats Sony Bose Rígida EVA con Gancho",
+        "url": "https://www.walmart.com.mx/ip/funda-estuche-risetech-ec04-para-auriculares-apple-airpods-beats-sony-bose-rigida-eva-con-gancho/00073473091412?athbdg=L1300",
+        "price": 892.5,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Estuche rígido BOVKE para Apple AirPods Max verde",
+        "url": "https://www.walmart.com.mx/ip/estuche-rigido-bovke-para-apple-airpods-max-verde/00046598993472?athbdg=L1300",
+        "price": 659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Estuche de cuero para auriculares Estuche pequeño para transporte de audífonos Cierre automático Cubierta de tapones para los oídos para Apple Airpods (Negro)",
+        "url": "https://www.walmart.com.mx/ip/estuche-de-cuero-para-auriculares-estuche-pequeno-para-transporte-de-audifonos-cierre-automatico-cubierta-de-tapones-para-los-oidos-para-apple-airpods-negro-/00508403699192?athbdg=L1300",
+        "price": 137.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Protectora Sonix para Apple AirPods Max Rigida Mate Esmerilado",
+        "url": "https://www.walmart.com.mx/ip/funda-protectora-sonix-para-apple-airpods-max-rigida-mate-esmerilado/00081013127560?athbdg=L1300",
+        "price": 1111.8,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Inteligente para AirPods Max con Encendido/apagado Automático, Bolsa Protectora de Almacenamiento de Viaje, Estuche Rígido Portátil para Llevar Audífonos Apple",
+        "url": "https://www.walmart.com.mx/ip/funda-inteligente-para-airpods-max-con-encendido-apagado-automatico-bolsa-protectora-de-almacenamiento-de-viaje-estuche-rigido-portatil-para-llevar-audifonos-apple/00055721883781",
+        "price": 599.39,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Yanonmyfd for Apple AirPods Pro 2019 Case Protección de Silicona Elástica Apple AirPods Pro Funda con Mosquetón, Soporte de Carga Inalámbrica Cover (Morado),Azul",
+        "url": "https://www.walmart.com.mx/ip/yanonmyfd-for-apple-airpods-pro-2019-case-proteccion-de-silicona-elastica-apple-airpods-pro-funda-con-mosqueton-soporte-de-carga-inalambrica-cover-morado-azul/00054903816507",
+        "price": 873.75,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "BRIGHTFUFU Estuche de cuero para auriculares Estuche pequeño para transporte de audífonos Cierre automático Cubierta de tapones para los oídos para Apple Airpods (Negro)",
+        "url": "https://www.walmart.com.mx/ip/brightfufu-estuche-de-cuero-para-auriculares-estuche-pequeno-para-transporte-de-audifonos-cierre-automatico-cubierta-de-tapones-para-los-oidos-para-apple-airpods-negro-/00543232619035?athbdg=L1300",
+        "price": 179.33,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Inteligente para AirPods Max con Encendido/apagado Automático, Bolsa Protectora de Almacenamiento de Viaje, Estuche Rígido Portátil para Llevar Audífonos Apple",
+        "url": "https://www.walmart.com.mx/ip/funda-inteligente-para-airpods-max-con-encendido-apagado-automatico-bolsa-protectora-de-almacenamiento-de-viaje-estuche-rigido-portatil-para-llevar-audifonos-apple/00055721883780",
+        "price": 599.39,
+        "model": null
+      }
+    ]
+  },
+  "amazon|POCOPHONEXIAOMIPOCODUAL": {
+    "ts": "2026-07-04T19:37:45.709127+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "XIAOMI Poco F6 5G Teléfono Celular,12GB 512GB Negro",
+        "url": "https://www.amazon.com.mx/dp/B0D383ZXKK",
+        "price": 5659.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Poco C71 4G LTE (para Tmobile Mint Tello y Global) (128GB + 4GB) 32MP Cámara Dual 6.88\" 120Hz Octa Core Modelo Desbloqueado 25028PC03G (Oro)",
+        "url": "https://www.amazon.com.mx/dp/B0F79V9X7S",
+        "price": 2099.0,
+        "model": "25028PC03G"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI POCO M8 5G,Pantalla Flow AMOLED 6.77\", Snapdragon® 6 Gen 3, Batería 5520 mAh, Cámara Dual AI 50 MP, Desbloqueado (Negro, 512, GB, GB, 12)",
+        "url": "https://www.amazon.com.mx/dp/B0GTVHH2XX",
+        "price": 5090.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular Poco C71 4gb Ram 128gb ROM Black Dual Sim Smartphone",
+        "url": "https://www.amazon.com.mx/dp/B0F54VMHX4",
+        "price": 1999.0,
+        "model": "128gb"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Poco C85 4G LTE (compatible con Tmobile Tello Mint & Global) (256GB + 8GB) Dual SIM desbloqueado de 6.9 pulgadas, 50MP Modelo 25078PC3EG (verde)",
+        "url": "https://www.amazon.com.mx/dp/B0FHQCYCNW",
+        "price": 3090.0,
+        "model": "25078PC3EG"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular M7 Dual Sim 128GB ROM 6GB RAM Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FKLXK7ZQ",
+        "price": 2990.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular Poco M8s 5G Versión Global, Snapdragon 6S Gen 3, Batería 7000mAh(typ), Pantalla 6.9'' FHD, Cámara 50MP, Carga Rápida 33W (Negro, 256, GB, GB, 8)",
+        "url": "https://www.amazon.com.mx/dp/B0GYD98554",
+        "price": 4450.0,
+        "model": "7000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "Celular POCO M7 Dual Sim 256 GB 8GB RAM (Plateado)",
+        "url": "https://www.amazon.com.mx/dp/B0FKGZQFDN",
+        "price": 3790.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Celular POCO M7 Dual Sim 256 GB 8GB RAM (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FKGYDNG2",
+        "price": 3790.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Teléfono Celular Poco X7 Pro 5G NFC Pantalla AMOLED CrystalRes 1.5K 120Hz Buque Insignia Dimensity 8400-Ultra 90W HyperCharge (Negro, 8GB+256GB)",
+        "url": "https://www.amazon.com.mx/dp/B0DR7Z1NNB",
+        "price": 5790.0,
+        "model": "8400-Ultra"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular Poco M8s 5G Versión Global, Snapdragon 6S Gen 3, Batería 7000mAh(typ), Pantalla 6.9'' FHD, Cámara 50MP, Carga Rápida 33W (Blanco, 256, GB, GB, 8)",
+        "url": "https://www.amazon.com.mx/dp/B0GYD2NJKV",
+        "price": 4450.0,
+        "model": "7000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Celular Poco C85 4G LTE (Compatible con T-Mobile Tello Mint y Global) (128 GB + 6 GB) Desbloqueado, Doble SIM, 6.9\", 50 MP, Modelo 25078PC3EG (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FHQF9LL5",
+        "price": 2549.0,
+        "model": "25078PC3EG"
+      }
+    ]
+  },
+  "walmart|POCOPHONEXIAOMIPOCODUAL": {
+    "ts": "2026-07-04T19:38:27.251856+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 128 Gb 6 Gb Color Verde",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-128-gb-6-gb-color-verde/00693255445722",
+        "price": 2899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Xiaomi Poco Phone C85 Dual Sim 8gb Ram 256gb Rom Morado",
+        "url": "https://www.walmart.com.mx/ip/celular-xiaomi-poco-phone-c85-dual-sim-8gb-ram-256gb-rom-morado/00693255445732?athbdg=L1300",
+        "price": 2899.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Poco C85 Dual 256GB 8RAM Negro",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-c85-dual-256gb-8ram-negro/00693255445708",
+        "price": 3299.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Poco C71 Dual Sim 128GB 4GB RAM Dorado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-c71-dual-sim-128gb-4gb-ram-dorado/00693255443011?athbdg=L1300",
+        "price": 2059.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Poco C85 Dual 256GB 8RAM Negro +Audífonos",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-c85-dual-256gb-8ram-negro-audifonos/00693255445717",
+        "price": 4099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Xiaomi Poco M8 5G 8GB Ram 512GB Rom Dual Sim Negro -Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/celular-xiaomi-poco-m8-5g-8gb-ram-512gb-rom-dual-sim-negro-nuevo-liberado/00693255445941?athbdg=L1300",
+        "price": 4699.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Xiaomi Poco M7 8gb Ram 256gb Rom Dual Sim Black- 6.9 Fhd+ 144hz, Snapdragon 685, 50mp Cámara, Batería 7000mah, Carga Rápida 33w, Carga Inversa 18w",
+        "url": "https://www.walmart.com.mx/ip/celular-xiaomi-poco-m7-8gb-ram-256gb-rom-dual-sim-black-6-9-fhd-144hz-snapdragon-685-50mp-camara-bateria-7000mah-carga-rapida-33w-carga-inversa-18w/00693255445207?athbdg=L1300",
+        "price": 3659.0,
+        "model": "7000mah"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Celular Xiaomi Poco X8 Pro 5G Dual SIM Dual Standby 512GB 12GB Ram Negro Teléfono móvil desbloqueado Nuevo lanzamiento",
+        "url": "https://www.walmart.com.mx/ip/smartphone-celular-xiaomi-poco-x8-pro-5g-dual-sim-dual-standby-512gb-12gb-ram-negro-telefono-movil-desbloqueado-nuevo-lanzamiento/00693255448824?athbdg=L6000",
+        "price": 7899.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Smartphone Xiaomi POCO X8 Pro Dual Sim 5g 512 Gb 8 Gb 6500mAh 100W Blanco Teléfono móvil desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/celular-smartphone-xiaomi-poco-x8-pro-dual-sim-5g-512-gb-8-gb-6500mah-100w-blanco-telefono-movil-desbloqueado/00693255441230?athbdg=L1300",
+        "price": 6399.0,
+        "model": "6500mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Smartphone Xiaomi POCO X8 Pro Dual Sim 5G 512 GB 12 GB 6500mAh 100W Amarillo Teléfono móvil desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/celular-smartphone-xiaomi-poco-x8-pro-dual-sim-5g-512-gb-12-gb-6500mah-100w-amarillo-telefono-movil-desbloqueado/00693909301640?athbdg=L1300",
+        "price": 7299.0,
+        "model": "6500mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "SmartPhone Xiaomi Poco F7 Dual Sim 256 GB Plateado 12 GB Ram",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-f7-dual-sim-256-gb-plateado-12-gb-ram/00693255443790",
+        "price": 17367.41,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Pocophone Poco C71 Yes Golden 64 Gb 3 Gb",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-pocophone-poco-c71-yes-golden-64-gb-3-gb/00693255443004",
+        "price": 1999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|POCOPHONEXIAOMIPOCODUAL": {
+    "ts": "2026-07-04T19:38:28.157624+00:00",
+    "items": []
   }
 }

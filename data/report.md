@@ -1,11 +1,35 @@
-# Errores/chollos de precio — 2026-07-04 18:46 UTC
+# Errores/chollos de precio — 2026-07-04 19:38 UTC
 
-- Productos revisados: **916**
+- Productos revisados: **3216**
 - Umbral de diferencia: **20%**
-- Hallazgos: **3**
+- Hallazgos: **27**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -52% | $11,142 | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | Confirmado vs competencia | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
+| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
 | -25% | $7,037 | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | Confirmado vs competencia | $21,500 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $4,797 | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | Confirmado vs competencia | $18,719 en palacio vs mercado -> -20% bajo la competencia |
+| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| -32% | $4,299 | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | Confirmado vs competencia | $8,999 en walmart vs mercado -> -32% bajo la competencia |
+| -28% | $4,080 | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro RT16N6…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | Confirmado vs competencia | $10,222 en sams vs amazon $15,936 -> -28% bajo la competencia |
+| -68% | $2,296 | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $1,079 | Confirmado vs competencia | $1,079 en walmart vs sams $3,375 -> -68% bajo la competencia |
+| -45% | $2,270 | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- NEGRO](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,729 | Confirmado vs competencia | $2,729 en walmart vs mercado -> -45% bajo la competencia |
 | -25% | $1,700 | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | Confirmado vs competencia | $5,099 en palacio vs mercado -> -25% bajo la competencia |
+| -40% | $1,590 | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 128 Gb 6 Gb Color …](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-128-gb-6-gb-color-negro/p/MLM54097181) | $2,429 | Confirmado vs competencia | $2,429 en mercadolibre vs mercado -> -40% bajo la competencia |
+| -21% | $1,491 | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699) | $5,699 | Confirmado vs competencia | $5,699 en walmart vs mercado -> -21% bajo la competencia |
+| -22% | $1,184 | sams | [Bicicleta de Montaña Huffy  Rock Creek Rodada 26 Negro](https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-rock-creek-rodada-26-negro/981021395) | $4,089 | Confirmado vs competencia | $4,089 en sams vs mercado -> -22% bajo la competencia |
+| -30% | $1,070 | amazon | [XuanPad 【Compatible with Netflix】 Plateado Mini Proyector Po…](https://www.amazon.com.mx/dp/B0G3WGXKRK) | $2,500 | Confirmado vs competencia | $2,500 en amazon vs mercado -> -30% bajo la competencia |
+| -28% | $1,023 | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | Confirmado vs competencia | $2,658 en sams vs mercado -> -28% bajo la competencia |
+| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
+| -60% | $754 | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | Confirmado vs competencia | $499 en amazon vs mercado -> -60% bajo la competencia |
+| -41% | $716 | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | Confirmado vs competencia | $1,022 en sams vs mercado -> -41% bajo la competencia |
+| -21% | $590 | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | Confirmado vs competencia | $2,199 en walmart vs mercado -> -21% bajo la competencia |
+| -23% | $569 | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | Confirmado vs competencia | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
+| -25% | $407 | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para mujer …](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | Confirmado vs competencia | $1,245 en amazon vs mercado -> -25% bajo la competencia |
+| -29% | $400 | amazon | [Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 Horas …](https://www.amazon.com.mx/dp/B0D3JCYKG4) | $999 | Confirmado vs competencia | $999 en amazon vs mercado -> -29% bajo la competencia |
+| -26% | $281 | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | Confirmado vs competencia | $784 en amazon vs mercado -> -26% bajo la competencia |
+| -35% | $279 | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con tapa…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | Confirmado vs competencia | $509 en amazon vs mercado -> -35% bajo la competencia |
+| -20% | $217 | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | Confirmado vs competencia | $840 en amazon vs mercado -> -20% bajo la competencia |
+| -29% | $200 | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | Confirmado vs competencia | $500 en amazon vs mercado -> -29% bajo la competencia |
+| -24% | $60 | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Multiusos](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | Confirmado vs competencia | $189 en walmart vs mercado -> -24% bajo la competencia |
