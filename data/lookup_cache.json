@@ -13378,5 +13378,224 @@
         "model": null
       }
     ]
+  },
+  "amazon|KITCHENAIDLICUADORASERIE400VEL": {
+    "ts": "2026-07-04T16:47:09.805404+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid KSB4027PA K400 Countertop Blender, 56 Oz, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B07WHFBL5X",
+        "price": 5209.0,
+        "model": "KSB4027PA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuenco mezclador de 1,6 l para licuadora K400",
+        "url": "https://www.amazon.com.mx/dp/B085ZV5L2G",
+        "price": 2842.94,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORASERIE400VEL": {
+    "ts": "2026-07-04T16:47:27.118222+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K150 3 Velocidades Triturado de Hielo 1.4L",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-3-velocidades-triturado-de-hielo-1-4l/00088304952451",
+        "price": 5549.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid K400 de velocidad variable KSB4028 negra mate",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k400-de-velocidad-variable-ksb4028-negra-mate/00046231410965?athbdg=L1300",
+        "price": 9499.0,
+        "model": "KSB4028"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORASERIE400VEL": {
+    "ts": "2026-07-04T16:47:32.141030+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 3047.15,
+        "model": null
+      }
+    ]
+  },
+  "amazon|MABESUPERIORPREMIUMLAVADOCENTRO": {
+    "ts": "2026-07-04T16:47:34.826032+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "GILA Funda Para Centro de Lavado (Protector para Lavadora y Secadora Impermeable Afelpado con Cierre color Gris GILA Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0CLHFF256",
+        "price": 1798.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GILA Funda Para Centro de Lavado (Protector para Lavadora y Secadora Impermeable con Cierre color Negro GILA Essentials)",
+        "url": "https://www.amazon.com.mx/dp/B0CLHGW7DV",
+        "price": 1298.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GILA Funda Para Centro de Lavado (Protector para Lavadora y Secadora Impermeable Afelpado con Cierre color Negro GILA Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0CLHG85PW",
+        "price": 1798.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Transmisión Sola Centro De Lavado Para Easy Mabe",
+        "url": "https://www.amazon.com.mx/dp/B0C8WVZ7GL",
+        "price": 1576.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "funda centro de lavado cubierta de lavadora funda para centro de lavado cubierta impermeable para lavadora y secadora",
+        "url": "https://www.amazon.com.mx/dp/B08TVZVFTK",
+        "price": 1445.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro Atrapapelusa Compatible Con Centro De Lavado Mabe Gris",
+        "url": "https://www.amazon.com.mx/dp/B0G5QYGQX7",
+        "price": 445.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bloquea Puerta Blocapuerta Switch Mabe Centro Lavado 4t Orig",
+        "url": "https://www.amazon.com.mx/dp/B0CJL2LM7C",
+        "price": 446.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mabe - Lavadora Automática Aqua Saver Green High Efficiency 20 kg Blanca con Sanitizado - LMH70211WBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CN1SJ14W",
+        "price": 15004.64,
+        "model": "LMH70211WBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "ULTECHNOVO Lavadora Perezosa Portátil De Viaje Bragas De Lavado De Resina Abs Blancas",
+        "url": "https://www.amazon.com.mx/dp/B0CRHP7RXF",
+        "price": 463.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Artibetter Mini Lavadora Portátil Turbo Para Dormitorio 5 Unidades Para Ropa Interior Y Calcetines",
+        "url": "https://www.amazon.com.mx/dp/B0D8PGT4Q6",
+        "price": 866.29,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MABESUPERIORPREMIUMLAVADOCENTRO": {
+    "ts": "2026-07-04T16:47:44.485653+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Aire Acondicionado Mini Split On Off 12000 BTU's 220 V MMT12CDBWCA32BM1 Solo Frío",
+        "url": "https://www.walmart.com.mx/ip/aire-acondicionado-mini-split-on-off-12000-btu-s-220-v-mmt12cdbwca32bm1-solo-frio/00075763842848",
+        "price": 4990.0,
+        "model": "MMT12CDBWCA32BM1"
+      },
+      {
+        "store": "walmart",
+        "name": "Centro de Lavado Premium Ultra Capacity a Gas 24 kg Diamond Gray Mabe - MCL2440PPDG0",
+        "url": "https://www.walmart.com.mx/ip/centro-de-lavado-premium-ultra-capacity-a-gas-24-kg-diamond-gray-mabe-mcl2440ppdg0/00075763838198?athbdg=L1300",
+        "price": 29499.0,
+        "model": "MCL2440PPDG0"
+      }
+    ]
+  },
+  "sams|MABESUPERIORPREMIUMLAVADOCENTRO": {
+    "ts": "2026-07-04T16:47:52.072802+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  Eléctrico Premium 24 kg Diamond Gray MCL2440EPDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-electrico-premium-24-kg-diamond-gray-mcl2440epdg0/981024865",
+        "price": 31200.48,
+        "model": "MCL2440EPDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
+        "price": 25062.48,
+        "model": "MCL2340PSDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Samsung  22 kg Lavado/ 24 kg Secado WH22DBH570GVAX",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-samsung-22-kg-lavado-24-kg-secado-wh22dbh570gvax/981018670",
+        "price": 40815.65,
+        "model": "WH22DBH570GVAX"
+      },
+      {
+        "store": "sams",
+        "name": "Centro de Lavado Samsung Bespoke Laundry Hub WH26DBH700GVAX",
+        "url": "https://www.sams.com.mx/ip/centro-de-lavado-samsung-bespoke-laundry-hub-wh26dbh700gvax/981045237",
+        "price": 46237.55,
+        "model": "WH26DBH700GVAX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
+        "price": 12779.32,
+        "model": "LMX70214WDAB0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
+        "price": 26595.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Inverter Carga Frontal 12 kg Lavado/7 kg Secado WD12VVC4S6S",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-inverter-carga-frontal-12-kg-lavado-7-kg-secado-wd12vvc4s6s/980018037",
+        "price": 12990.05,
+        "model": "WD12VVC4S6S"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora Whirlpool  Carga Superior Xpert System 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-xpert-system-22-kg/980017566",
+        "price": 13297.98,
+        "model": null
+      }
+    ]
   }
 }
