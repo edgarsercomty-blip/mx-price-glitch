@@ -1,13 +1,12 @@
-# Errores/chollos de precio — 2026-07-03 23:52 UTC
+# Errores/chollos de precio — 2026-07-04 01:24 UTC
 
-- Productos revisados: **918**
+- Productos revisados: **919**
 - Umbral de diferencia: **20%**
-- Hallazgos: **19**
+- Hallazgos: **18**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -40% | $14,074 | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | Confirmado vs competencia | $21,500 en palacio vs mercado -> -40% bajo la competencia |
-| -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $10,612 | palacio | [Maquina de Cafe Espresso para 27 tazas en Acero](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-para-27-tazas-en-acero-44729901.html) | $31,837 | Confirmado vs competencia | $31,837 en palacio vs mercado -> -25% bajo la competencia |
 | -34% | $9,594 | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | Confirmado vs competencia | $18,719 en palacio vs mercado -> -34% bajo la competencia |
 | -27% | $6,255 | palacio | [Combo Lavadora 21 kg y Secadora 22 kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html) | $16,739 | Confirmado vs competencia | $16,739 en palacio vs mercado -> -27% bajo la competencia |
