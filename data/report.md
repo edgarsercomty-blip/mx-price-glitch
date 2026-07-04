@@ -1,12 +1,32 @@
-# Errores/chollos de precio — 2026-07-04 12:47 UTC
+# Errores/chollos de precio — 2026-07-04 13:59 UTC
 
-- Productos revisados: **868**
+- Productos revisados: **3282**
 - Umbral de diferencia: **20%**
-- Hallazgos: **4**
+- Hallazgos: **24**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
+| -52% | $11,142 | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | Confirmado vs competencia | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
+| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
+| -22% | $8,467 | amazon | [TCL Smart TV Pantalla 98" 98QM6K Google TV QLED - MiniLED 4K…](https://www.amazon.com.mx/dp/B0DZN8SX9J) | $29,998 | Confirmado vs competencia | $29,998 en amazon vs palacio $38,465 -> -22% bajo la competencia |
 | -25% | $7,037 | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | Confirmado vs competencia | $21,500 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $4,797 | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | Confirmado vs competencia | $18,719 en palacio vs mercado -> -20% bajo la competencia |
-| -25% | $967 | palacio | [Hervidor de agua 1.7 L Blanco](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-blanco-44519515.html) | $2,902 | Confirmado vs competencia | $2,902 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
+| -32% | $4,299 | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | Confirmado vs competencia | $8,999 en walmart vs sams $13,298, sams $19,947 -> -32% bajo la competencia |
+| -28% | $4,080 | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro RT16N6…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | Confirmado vs competencia | $10,222 en sams vs amazon $15,936 -> -28% bajo la competencia |
+| -22% | $2,009 | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz Blac…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045?athbdg=L1300) | $6,990 | Confirmado vs competencia | $6,990 en walmart vs amazon $8,999 -> -22% bajo la competencia |
+| -21% | $1,936 | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | Confirmado vs competencia | $7,157 en sams vs walmart $23,583 -> -21% bajo la competencia |
+| -25% | $1,700 | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | Confirmado vs competencia | $5,099 en palacio vs mercado -> -25% bajo la competencia |
+| -28% | $1,023 | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | Confirmado vs competencia | $2,658 en sams vs mercado -> -28% bajo la competencia |
+| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
+| -41% | $716 | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | Confirmado vs competencia | $1,022 en sams vs mercado -> -41% bajo la competencia |
+| -23% | $569 | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | Confirmado vs competencia | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
+| -25% | $407 | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para mujer …](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | Confirmado vs competencia | $1,245 en amazon vs mercado -> -25% bajo la competencia |
+| -29% | $400 | amazon | [Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 Horas …](https://www.amazon.com.mx/dp/B0D3JCYKG4) | $999 | Confirmado vs competencia | $999 en amazon vs mercado -> -29% bajo la competencia |
+| -26% | $281 | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | Confirmado vs competencia | $784 en amazon vs mercado -> -26% bajo la competencia |
+| -35% | $279 | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con tapa…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | Confirmado vs competencia | $509 en amazon vs mercado -> -35% bajo la competencia |
+| -43% | $263 | walmart | [Auriculares Bluetooth Lenovo TA410 Bluetooth 5.4 con micrófo…](https://www.walmart.com.mx/ip/auriculares-bluetooth-lenovo-ta410-bluetooth-5-4-con-microfono/00046876091952?athbdg=L1300) | $349 | Confirmado vs competencia | $349 en walmart vs mercadolibre $612 -> -43% bajo la competencia |
+| -34% | $250 | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | Confirmado vs competencia | $498 en mercadolibre vs mercado -> -34% bajo la competencia |
+| -20% | $217 | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | Confirmado vs competencia | $840 en amazon vs mercado -> -20% bajo la competencia |
+| -29% | $200 | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | Confirmado vs competencia | $500 en amazon vs mercado -> -29% bajo la competencia |
+| -30% | $114 | amazon | [UGREEN USB C Hub, 5 en 1 Adaptador USB C Multipuerto Alumini…](https://www.amazon.com.mx/dp/B0BR3M8XHK) | $265 | Confirmado vs competencia | $265 en amazon vs mercado -> -30% bajo la competencia |

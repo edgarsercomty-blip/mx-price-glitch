@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (171)
+# Historial de ofertas encontradas (176)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-04 13:59 | -20% | amazon | [Nautica - Tenis deportivos de moda para mujer, con cord…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | $840 en amazon vs mercado -> -20% bajo la competencia |
+| 2026-07-04 13:59 | -21% | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | $7,157 en sams vs walmart $23,583 -> -21% bajo la competencia |
+| 2026-07-04 13:59 | -22% | amazon | [TCL Smart TV Pantalla 98" 98QM6K Google TV QLED - MiniL…](https://www.amazon.com.mx/dp/B0DZN8SX9J) | $29,998 | $29,998 en amazon vs palacio $38,465 -> -22% bajo la competencia |
+| 2026-07-04 13:59 | -30% | amazon | [UGREEN USB C Hub, 5 en 1 Adaptador USB C Multipuerto Al…](https://www.amazon.com.mx/dp/B0BR3M8XHK) | $265 | $265 en amazon vs mercado -> -30% bajo la competencia |
+| 2026-07-04 13:59 | -43% | walmart | [Auriculares Bluetooth Lenovo TA410 Bluetooth 5.4 con mi…](https://www.walmart.com.mx/ip/auriculares-bluetooth-lenovo-ta410-bluetooth-5-4-con-microfono/00046876091952?athbdg=L1300) | $349 | $349 en walmart vs mercadolibre $612 -> -43% bajo la competencia |
 | 2026-07-04 09:00 | -21% | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $6,990 | $6,990 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-04 09:00 | -28% | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro R…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | $10,222 en sams vs amazon $15,936 -> -28% bajo la competencia |
 | 2026-07-04 09:00 | -29% | amazon | [Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 H…](https://www.amazon.com.mx/dp/B0D3JCYKG4) | $999 | $999 en amazon vs mercado -> -29% bajo la competencia |
