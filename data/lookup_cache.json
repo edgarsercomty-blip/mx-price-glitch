@@ -647,28 +647,28 @@
     ]
   },
   "amazon|MABELAVADORASECADORACOMBO": {
-    "ts": "2026-07-02T11:27:13.003657+00:00",
+    "ts": "2026-07-04T11:31:46.997828+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Mabe Secadora Gas LP 6.2cu.ft + Lavadora Automática 20kg Aqua Saver Green",
         "url": "https://www.amazon.com.mx/dp/B0G4NL6P8K",
-        "price": 17638.0,
+        "price": 16988.0,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Mabe - Lavadora Automática 21 kg, Blanco - LMA71214VBAB0",
         "url": "https://www.amazon.com.mx/dp/B07581FH9K",
-        "price": 8769.0,
+        "price": 8535.0,
         "model": "LMA71214VBAB0"
       },
       {
         "store": "amazon",
-        "name": "Lavasecadora Inverter Hisense 15 Kilos Carga Frontal Gris WD3S1543BT",
-        "url": "https://www.amazon.com.mx/dp/B08DLLDQCZ",
-        "price": 11199.0,
-        "model": "WD3S1543BT"
+        "name": "Hisense WSA1803P Lavadora Semiautomätica Doble Tina 18 Kg, Blanco/Gris",
+        "url": "https://www.amazon.com.mx/dp/B0CJFF8YPF",
+        "price": 5699.0,
+        "model": "WSA1803P"
       },
       {
         "store": "amazon",
@@ -679,10 +679,10 @@
       },
       {
         "store": "amazon",
-        "name": "Hisense WSA1803P Lavadora Semiautomätica Doble Tina 18 Kg, Blanco/Gris",
-        "url": "https://www.amazon.com.mx/dp/B0CJFF8YPF",
-        "price": 5699.0,
-        "model": "WSA1803P"
+        "name": "Lavadora Semi-Automática 11 kg Blanca Mabe - LMDX1123HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CW8187HP",
+        "price": 3460.74,
+        "model": "LMDX1123HBAB0"
       },
       {
         "store": "amazon",
@@ -695,21 +695,21 @@
         "store": "amazon",
         "name": "Midea - Lavadora Una Tina 10.1 kg Blanca Dual Force",
         "url": "https://www.amazon.com.mx/dp/B096KKQM7L",
-        "price": 1994.05,
+        "price": 1999.33,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Paquete de 2 fundas para lavadora y secadora, funda para lavadora con diseño de cierre, a prueba de polvo, impermeable, para la mayoría de lavadoras y secadora de carga superior y frontal, 29 pulgadas",
         "url": "https://www.amazon.com.mx/dp/B0FXRGX6FT",
-        "price": 568.3,
+        "price": 572.91,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Mabe - Lavadora Automática Aqua Saver Green 20 kg Blanca con Sanitizado - LMA70214VBAB0",
         "url": "https://www.amazon.com.mx/dp/B07N6PCPNX",
-        "price": 9544.0,
+        "price": 8844.0,
         "model": "LMA70214VBAB0"
       },
       {
@@ -721,29 +721,36 @@
       },
       {
         "store": "amazon",
-        "name": "Hisense Lavadora doble tina WSA1604P, Semiautomática, 16 Kg, Temporizador de Lavado y Centrifugado, 88x52x99cm(AnchoxLargoxAlto), Blanco/Azul",
-        "url": "https://www.amazon.com.mx/dp/B0BWKXFV7H",
-        "price": 4999.0,
-        "model": "88x52x99cm"
+        "name": "Mabe - Lavadora Semi-Automática 16 kg Blanca - LMDX6124HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CN3XH5M7",
+        "price": 6229.0,
+        "model": "LMDX6124HBAB0"
       },
       {
         "store": "amazon",
-        "name": "TEHAUX 2 Juegos Tapón de Drenaje con Varilla de Resorte para Lavadora Semiautomática, Junta de Goma para Doble Cubeta, Repuestos para Lavadora Portátil y Secadora",
-        "url": "https://www.amazon.com.mx/dp/B0H46M35W8",
-        "price": 123.29,
+        "name": "Fundas para lavadora y secadora, paquete de 2 fundas para lavadora, impermeable a prueba de polvo con cierre, funda de lavado para máquinas de carga superior y frontal (negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FWBR5VFS",
+        "price": 635.86,
         "model": null
       }
     ]
   },
   "walmart|MABELAVADORASECADORACOMBO": {
-    "ts": "2026-07-02T11:27:37.445638+00:00",
+    "ts": "2026-07-04T11:32:01.268237+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Combo Lavadora Secadora Whirlpool C8MWTW1934-1930 19 kg",
         "url": "https://www.walmart.com.mx/ip/combo-lavadora-secadora-whirlpool-c8mwtw1934-1930-19-kg/00750154551192?athbdg=L1300",
-        "price": 18690.0,
+        "price": 18490.0,
         "model": "C8MWTW1934-1930"
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora Mabe 20  kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600",
+        "price": 10449.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -784,7 +791,7 @@
         "store": "walmart",
         "name": "Centro de Lavado Mabe con 8 Programas Automáticos de 24 Kg Gris",
         "url": "https://www.walmart.com.mx/ip/centro-de-lavado-mabe-con-8-programas-automaticos-de-24-kg-gris/00075763838192?athbdg=L1300",
-        "price": 25990.0,
+        "price": 24990.0,
         "model": null
       },
       {
@@ -810,507 +817,99 @@
       },
       {
         "store": "walmart",
-        "name": "Paquete Mabe Lavadora 22 Kg + Secadora 24 Kg  LMH72201SMG17R8 Blanca",
-        "url": "https://www.walmart.com.mx/ip/paquete-mabe-lavadora-22-kg-secadora-24-kg-lmh72201smg17r8-blanca/00075763838165?athbdg=L6000",
-        "price": 26490.0,
-        "model": "LMH72201SMG17R8"
+        "name": "Combo Mabe Lavadora 20 Kg  + Secadora 22 Kg LMA70213G47N5MSB Blanco",
+        "url": "https://www.walmart.com.mx/ip/combo-mabe-lavadora-20-kg-secadora-22-kg-lma70213g47n5msb-blanco/00075763838361?athbdg=L6000",
+        "price": 22490.0,
+        "model": "LMA70213G47N5MSB"
       }
     ]
   },
   "sams|MABELAVADORASECADORACOMBO": {
-    "ts": "2026-07-02T11:27:58.718278+00:00",
+    "ts": "2026-07-04T11:32:08.245344+00:00",
     "items": [
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
+        "price": 36110.88,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Lavadora y Secadora Samsung Bespoke Carga Frontal Lavado 26 kg / Secado 24 kg F-WD90F26AUDSP",
+        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-bespoke-carga-frontal-lavado-26-kg-secado-24-kg-f-wd90f26audsp/981052265",
+        "price": 50124.95,
+        "model": "F-WD90F26AUDSP"
+      },
       {
         "store": "sams",
         "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
         "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
-        "price": 36110.94,
+        "price": 34268.45,
         "model": "F-WF22DV246V"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
+        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
+        "price": 26595.95,
+        "model": null
       },
       {
         "store": "sams",
         "name": "Combo de Lavadora y Secadora de Gas LG  Carga Superior 25 kg WT25MT6HK.DT25MTGK",
         "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-carga-superior-25-kg-wt25mt6hk-dt25mtgk/981020173",
-        "price": 23992.0,
+        "price": 28635.82,
         "model": "WT25MT6HK"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  + Secadora Carga Frontal con Pedestales 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-secadora-carga-frontal-con-pedestales-22-kg/980038899",
+        "price": 37331.32,
+        "model": null
       },
       {
         "store": "sams",
         "name": "Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0",
         "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433",
-        "price": 13904.61,
+        "price": 12779.32,
         "model": "LMX70214WDAB0"
       },
       {
         "store": "sams",
-        "name": "Lavadora Samsung  21 kg Carga Superior Negro WA21A3344GV/AX",
-        "url": "https://www.sams.com.mx/ip/lavadora-samsung-21-kg-carga-superior-negro-wa21a3344gv-ax/981000639",
-        "price": 10433.58,
-        "model": "WA21A3344GV/AX"
+        "name": "Lavadora Mabe  Carga Superior 19 kg LMA79114VBAK0",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-19-kg-lma79114vbak0/981040323",
+        "price": 8181.95,
+        "model": "LMA79114VBAK0"
       },
       {
         "store": "sams",
-        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
-        "price": 22199.1,
-        "model": "WD22T6300GP/AX"
+        "name": "Lavadora Mabe  24 kg Carga Superior Alta Eficiencia Gris LMA74215WDAB1",
+        "url": "https://www.sams.com.mx/ip/lavadora-mabe-24-kg-carga-superior-alta-eficiencia-gris-lma74215wdab1/981013983",
+        "price": 12274.98,
+        "model": "LMA74215WDAB1"
       },
       {
         "store": "sams",
-        "name": "Lavasecadora LG  Carga Frontal 16 kg Lavado/8 kg Secado WD16MG2S6P",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-16-kg-lavado-8-kg-secado-wd16mg2s6p/981002952",
-        "price": 15950.62,
-        "model": "WD16MG2S6P"
+        "name": "Combo Estufa de Piso Mabe  a Gas + Campana 76 cm WEM7661CMPUV76",
+        "url": "https://www.sams.com.mx/ip/combo-estufa-de-piso-mabe-a-gas-campana-76-cm-wem7661cmpuv76/981014395",
+        "price": 9717.48,
+        "model": "WEM7661CMPUV76"
       },
       {
         "store": "sams",
-        "name": "Lavadora LG  Carga Frontal 25 kg WM25WV2S6W",
-        "url": "https://www.sams.com.mx/ip/lavadora-lg-carga-frontal-25-kg-wm25wv2s6w/981040725",
-        "price": 19025.75,
-        "model": "WM25WV2S6W"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora LG   Carga Frontal 16 kg/8 kg Negra",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-16-kg-8-kg-negra/981050698",
-        "price": 20458.97,
+        "name": "Lavadora Whirlpool  Carga Superior Xpert System 22 kg",
+        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-xpert-system-22-kg/980017566",
+        "price": 13297.98,
         "model": null
       },
       {
         "store": "sams",
-        "name": "Lavasecadora LG  20 kg Lavado/11 kg Secado Carga Frontal WD20VV2S6R",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-20-kg-lavado-11-kg-secado-carga-frontal-wd20vv2s6r/981000504",
-        "price": 18411.95,
-        "model": "WD20VV2S6R"
-      },
-      {
-        "store": "sams",
-        "name": "Lavadora LG  25 Kg Carga Superior Middle BlackWT25MT6HK",
-        "url": "https://www.sams.com.mx/ip/lavadora-lg-25-kg-carga-superior-middle-blackwt25mt6hk/981017222",
-        "price": 13188.52,
-        "model": "BlackWT25MT6HK"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora LG  Carga Frontal 14 kg Lavado/7 kg Secado WD14VV3S6C",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-14-kg-lavado-7-kg-secado-wd14vv3s6c/981028259",
-        "price": 13808.45,
-        "model": "WD14VV3S6C"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora Hisense  Carga Frontal 16 kg Lavado/10 kg Secado WD5S1645BT",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-hisense-carga-frontal-16-kg-lavado-10-kg-secado-wd5s1645bt/981028433",
-        "price": 13273.43,
-        "model": "WD5S1645BT"
-      }
-    ]
-  },
-  "amazon|KITCHENAIDINMERSIONLICUADORAVELVAR": {
-    "ts": "2026-07-02T11:28:05.644247+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "7KHBV53MDG KitchenAid Licuadora de Mano Charcoal, Gris",
-        "url": "https://www.amazon.com.mx/dp/B09BW3JFYZ",
-        "price": 1499.0,
-        "model": "7KHBV53MDG"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KHB1231IB Batidora de inmersión de 2 velocidades",
-        "url": "https://www.amazon.com.mx/dp/B07SSHGJN4",
-        "price": 1415.67,
-        "model": "KHB1231IB"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KHBV83ER, batidora de mano con cable de velocidad variable con jarra de mezcla, accesorios de batidor y picador, rojo imperio",
-        "url": "https://www.amazon.com.mx/dp/B0DB4YRNWT",
-        "price": 3005.58,
-        "model": "KHBV83ER"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Go - Batidora de mano inalámbrica - Batería incluida, KHBRV71, negro mate",
-        "url": "https://www.amazon.com.mx/dp/B0CTR49RS1",
-        "price": 2559.79,
-        "model": "KHBRV71"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid licuadora de inmersión arquitecto - 5-velocidad - arquitecto - Plata",
-        "url": "https://www.amazon.com.mx/dp/B00AECABLC",
-        "price": 4532.84,
-        "model": "5-velocidad"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora de Inmersión Empire Red + Kit de Accesorios",
-        "url": "https://www.amazon.com.mx/dp/B0H2BTFPM6",
-        "price": 1981.21,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart CSB-179 Batidora de inmersión Smart Stick con accesorios,",
-        "url": "https://www.amazon.com.mx/dp/B079NJTL29",
-        "price": 1299.0,
-        "model": "CSB-179"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KHBV53 - Batidora de mano con cable de velocidad variable",
-        "url": "https://www.amazon.com.mx/dp/B08FM25FHP",
-        "price": 1531.09,
-        "model": "KHBV53"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid khb1231fg batidora de mano de 2 velocidades, gris mate",
-        "url": "https://www.amazon.com.mx/dp/B076BJJZN4",
-        "price": 1646.48,
-        "model": "khb1231fg"
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman | Batidora de Mano | Hand Blender | Licuadora de Mano | 3 Cuchillas | 6 en 1 | Negro",
-        "url": "https://www.amazon.com.mx/dp/B076BRPNJ1",
-        "price": 1124.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet Lite Licuadora de inmersión Gris oscuro",
-        "url": "https://www.amazon.com.mx/dp/B0FRQJLP3P",
-        "price": 1148.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Batidora de Mano 5 en 1, Licuadora de Mano de Acero Inoxidable, Batidora de Mano de Inmersión de 800W con 2 Velocidades Variables, Picadora 500ml, Batidora de Huevo, Licuadora, Vaso Medidor de 700ml",
-        "url": "https://www.amazon.com.mx/dp/B0FK53QHGX",
-        "price": 519.0,
-        "model": "500ml"
-      }
-    ]
-  },
-  "walmart|KITCHENAIDINMERSIONLICUADORAVELVAR": {
-    "ts": "2026-07-02T11:28:11.531112+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
-        "price": 1849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora de inmersión VEVOR Commercial 350W con eje de 19.7 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/licuadora-de-inmersion-vevor-commercial-350w-con-eje-de-19-7-pulgadas/00061419860446?athbdg=L1300",
-        "price": 3519.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid K150 3 Velocidades Triturado de Hielo 1.4L",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-k150-3-velocidades-triturado-de-hielo-1-4l/00088304952451",
-        "price": 5549.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
-        "price": 2249.0,
-        "model": "7KHBV83MPA"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora de inmersión Consciot 1100 W de acero inoxidable 4 en 1",
-        "url": "https://www.walmart.com.mx/ip/licuadora-de-inmersion-consciot-1100-w-de-acero-inoxidable-4-en-1/00081017571120?athbdg=L1300",
-        "price": 849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora de inmersión Abuler 5 en 1 de 1000 W portátil con accesorios",
-        "url": "https://www.walmart.com.mx/ip/licuadora-de-inmersion-abuler-5-en-1-de-1000-w-portatil-con-accesorios/00045036355110?athbdg=L1300",
-        "price": 949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Pure Power Kitchenaid 7ksb2072mbm 2l Negro Matte",
-        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-kitchenaid-7ksb2072mbm-2l-negro-matte/00088304992552",
-        "price": 1999.0,
-        "model": "7ksb2072mbm"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos, negra",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos-negra/00088304993141",
-        "price": 5379.0,
-        "model": "KSB2078"
-      },
-      {
-        "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541?athbdg=L1300",
-        "price": 2249.0,
-        "model": "7KHBV83MPA"
-      },
-      {
-        "store": "walmart",
-        "name": "LICUADORA VASO VIDRIO 700W /TITANIO 2 VEL, CROMO-CROMO MARCA MAN Man LMV-202",
-        "url": "https://www.walmart.com.mx/ip/licuadora-vaso-vidrio-700w-titanio-2-vel-cromo-cromo-marca-man-man-lmv-202/00750137210202",
-        "price": 1235.0,
-        "model": "LMV-202"
-      },
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora MAN LMV2025",
-        "url": "https://www.walmart.com.mx/ip/licuadora-man-lmv2025/00750137212025",
-        "price": 1727.1,
-        "model": "LMV2025"
-      }
-    ]
-  },
-  "sams|KITCHENAIDINMERSIONLICUADORAVELVAR": {
-    "ts": "2026-07-02T11:28:14.526547+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora KitchenAid  Pure Power + Jarra 7KSB2076MBM",
-        "url": "https://www.sams.com.mx/ip/licuadora-kitchenaid-pure-power-jarra-7ksb2076mbm/981042976",
-        "price": 3067.96,
-        "model": "7KSB2076MBM"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
-        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
-        "price": 3047.15,
-        "model": null
-      }
-    ]
-  },
-  "amazon|KITCHENAIDESPRESSOMAQUINAACEROTAZAS": {
-    "ts": "2026-07-02T11:28:17.964858+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "KitchenAid KES6551SX - Máquina de café espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
-        "url": "https://www.amazon.com.mx/dp/B0CTCXV1WK",
-        "price": 11119.0,
-        "model": "KES6551SX"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KF6, KES8556 Máquina de café espresso totalmente automática, 2 tazas, acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0CTCXNVRL",
-        "price": 25806.77,
-        "model": "KES8556"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KES6551 Máquina de Café Espresso Semiautomática con Molino de Café",
-        "url": "https://www.amazon.com.mx/dp/B0CTCYQJX7",
-        "price": 8499.0,
-        "model": "KES6551"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KF8, KES8558 Máquina de café espresso totalmente automática, 2 tazas, hierro fundido negro",
-        "url": "https://www.amazon.com.mx/dp/B0CTCZS9GY",
-        "price": 37664.17,
-        "model": "KES8558"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid, KES6551 Máquina espresso semiautomática con molinillo de rebabas, 2 tazas, enebro",
-        "url": "https://www.amazon.com.mx/dp/B0CTCZ2G1Z",
-        "price": 16315.86,
-        "model": "KES6551"
-      },
-      {
-        "store": "amazon",
-        "name": "XIXUBX - Máquina de café espresso de 20 barras, máquina de café profesional con espumador de leche, máquina de café compacto con café café con café y capuchino para el hogar, cafetera con control de",
-        "url": "https://www.amazon.com.mx/dp/B0GFW5GHM8",
-        "price": 2589.49,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KF7, KES8557 Máquina de café espresso totalmente automática, 2 tazas, hierro fundido negro",
-        "url": "https://www.amazon.com.mx/dp/B0CTCZ23LV",
-        "price": 37341.74,
-        "model": "KES8557"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid - Máquina espresso totalmente automática KF2, KES8452, color negro mate",
-        "url": "https://www.amazon.com.mx/dp/B0GVG3W8RH",
-        "price": 19590.72,
-        "model": "KES8452"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KES6503 - Máquina espresso semiautomática de metal",
-        "url": "https://www.amazon.com.mx/dp/B09B19NBGR",
-        "price": 7203.33,
-        "model": "KES6503"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KES6404 - Máquina de café espresso semiautomática y accesorio automático para espumador de leche",
-        "url": "https://www.amazon.com.mx/dp/B0B6228MWB",
-        "price": 6173.91,
-        "model": "KES6404"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KF7, KES8557 Máquina de café espresso totalmente automática, 2 tazas, enebro",
-        "url": "https://www.amazon.com.mx/dp/B0CTCZMVFZ",
-        "price": 35395.98,
-        "model": "KES8557"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid KES6403MH - Máquina de café espresso semiautomática",
-        "url": "https://www.amazon.com.mx/dp/B0DN8KBHF5",
-        "price": 9817.39,
-        "model": "KES6403MH"
-      }
-    ]
-  },
-  "walmart|KITCHENAIDESPRESSOMAQUINAACEROTAZAS": {
-    "ts": "2026-07-02T11:28:27.172256+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
-        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
-        "price": 1098.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "KitchenAid Cafetera espresso semiautomática con molinillo de rebabas, 2,5 L, acero inoxidable cepillado, KES6551SX",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-cafetera-espresso-semiautomatica-con-molinillo-de-rebabas-2-5-l-acero-inoxidable-cepillado-kes6551sx/00088304963553?athbdg=L1300",
-        "price": 11959.0,
-        "model": "KES6551SX"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café espresso KitchenAid KES6551BK semiautomática 2.5L",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551bk-semiautomatica-2-5l/00088304964122",
-        "price": 18144.9,
-        "model": "KES6551BK"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
-        "price": 2599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Koblenz Kitchen Magic 4 Tazas Acero Inox",
-        "url": "https://www.walmart.com.mx/ip/cafetera-koblenz-kitchen-magic-4-tazas-acero-inox/00009905300603?athbdg=L1300",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso 6 Tazas KitchenAid KES6403BM Negro Mate",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-6-tazas-kitchenaid-kes6403bm-negro-mate/00088304952660?athbdg=L1300",
-        "price": 9729.0,
-        "model": "KES6403BM"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Percolador SIGNA 6lt 40 Tazas Acero Inoxidable 110v",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percolador-signa-6lt-40-tazas-acero-inoxidable-110v/00750305167561",
-        "price": 629.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café espresso KitchenAid KES6551JP semiautomática de 2,5 litros",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6551jp-semiautomatica-de-2-5-litros/00088304968346?athbdg=L1300",
-        "price": 14909.0,
-        "model": "KES6551JP"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café espresso KitchenAid KES6503, 1,4 L, acero inoxidable cepillado",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6503-1-4-l-acero-inoxidable-cepillado/00088304954165?athbdg=L1300",
-        "price": 9579.0,
-        "model": "KES6503"
-      },
-      {
-        "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
-        "price": 2249.0,
-        "model": "7KHBV83MPA"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café espresso KitchenAid KES6503 Metal 1.4 L negra",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6503-metal-1-4-l-negra/00088304954164?athbdg=L1300",
-        "price": 9609.0,
-        "model": "KES6503"
-      },
-      {
-        "store": "walmart",
-        "name": "Ideal para hostelería y oficinas - Cafetera urna comercial eléctrica de acero inoxidable con doble pared",
-        "url": "https://www.walmart.com.mx/ip/ideal-para-hosteleria-y-oficinas-cafetera-urna-comercial-electrica-de-acero-inoxidable-con-doble-pared/00088162832724",
-        "price": 2386.16,
-        "model": null
-      }
-    ]
-  },
-  "sams|KITCHENAIDESPRESSOMAQUINAACEROTAZAS": {
-    "ts": "2026-07-02T11:28:31.559006+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Espresso Hukën  con Molino Integrado MK-ECM-GSS",
-        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-huken-con-molino-integrado-mk-ecm-gss/981045753",
-        "price": 2556.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Máquina de Espresso Chefman  RJ54-G-SS-MX 3L Color Plateado",
-        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-chefman-rj54-g-ss-mx-3l-color-plateado/981053258",
-        "price": 7466.87,
-        "model": "RJ54-G-SS-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
-        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
-        "price": 1635.76,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Espresso Chefman  CraftBrew RJ54-SS-15-D-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-espresso-chefman-craftbrew-rj54-ss-15-d-mx/981042228",
-        "price": 2351.87,
-        "model": "RJ54-SS-15-D-MX"
+        "name": "Lavasecadora LG  Inverter Carga Frontal 12 kg Lavado/7 kg Secado WD12VVC4S6S",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-inverter-carga-frontal-12-kg-lavado-7-kg-secado-wd12vvc4s6s/980018037",
+        "price": 12990.05,
+        "model": "WD12VVC4S6S"
       }
     ]
   },
@@ -16117,6 +15716,103 @@
   },
   "walmart|RT16N6BDX": {
     "ts": "2026-07-04T09:00:34.784225+00:00",
+    "items": []
+  },
+  "amazon|98QM8K": {
+    "ts": "2026-07-04T11:31:34.297390+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51499.0,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DZN8SX9J",
+        "price": 29998.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
+        "price": 8499.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 20398.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 85QM64L Smart TV Pantalla 4K QD-MINILED 85\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRKGLDL8",
+        "price": 20997.0,
+        "model": "85QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 144Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 3000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GQF1MXNC",
+        "price": 37498.0,
+        "model": "98QM7K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM7L Pantalla 98\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSFZ28M",
+        "price": 48494.6,
+        "model": "98QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 42 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED42C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F2PNRDDS",
+        "price": 13995.0,
+        "model": "OLED42C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 83 Pulgadas OLED EVO AI C5 4K Smart TV webOS 2025 OLED83C5PSA|Sistema Operativo webOS | Identificación de Voz AI | 120Hz | Dolby Atmos & Dolby Vision Channels | G-Sync & FreeSync",
+        "url": "https://www.amazon.com.mx/dp/B0F6RSJVTY",
+        "price": 64995.0,
+        "model": "OLED83C5PSA"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "NTQinParts - driver de control remoto de voz de repuesto para TCL 65QM8K 65 pulgadas, 75QM8K 75 pulgadas, 85QM8K 85 pulgadas, 98QM8K 98 pulgadas QM8K Series QD-Mini LED 4K UHD Smart TV",
+        "url": "https://www.amazon.com.mx/dp/B0FMDXBNNN",
+        "price": 774.9,
+        "model": "65QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "RC933A FMB1 Reemplazo de control remoto de voz compatible con TCL QM8K Series 65QM8K 75QM8K 85QM8K 98QM8K 65C8K 75C8K 85C8K 75C89K QD-MINI Mini LED QLED 4K HDR UHD Google Smart TV 2025 Modelo (con",
+        "url": "https://www.amazon.com.mx/dp/B0H3NZTM1B",
+        "price": 600.04,
+        "model": "RC933A"
+      }
+    ]
+  },
+  "walmart|98QM8K": {
+    "ts": "2026-07-04T11:31:37.145048+00:00",
+    "items": []
+  },
+  "sams|98QM8K": {
+    "ts": "2026-07-04T11:31:44.238542+00:00",
     "items": []
   }
 }
