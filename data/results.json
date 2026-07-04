@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04 11:32 UTC",
-  "products_scanned": 869,
+  "generated_at": "2026-07-04 12:47 UTC",
+  "products_scanned": 868,
   "threshold_pct": 20.0,
-  "count": 3,
+  "count": 4,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600329",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$18,719 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4796.93,
+      "store": "palacio",
+      "name": "Combo Lavadora y Secadora 24 Kg",
+      "url": "https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html",
+      "price": 18719.48,
+      "list_price": 35999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44172333",
         "outlet": false
       }
     }
