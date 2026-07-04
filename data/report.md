@@ -1,33 +1,12 @@
-# Errores/chollos de precio — 2026-07-04 03:37 UTC
+# Errores/chollos de precio — 2026-07-04 05:04 UTC
 
-- Productos revisados: **3228**
+- Productos revisados: **919**
 - Umbral de diferencia: **20%**
-- Hallazgos: **25**
+- Hallazgos: **4**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
-| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
 | -25% | $7,037 | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | Confirmado vs competencia | $21,500 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $4,797 | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | Confirmado vs competencia | $18,719 en palacio vs mercado -> -20% bajo la competencia |
-| -32% | $4,299 | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | Confirmado vs competencia | $8,999 en walmart vs mercado -> -32% bajo la competencia |
-| -35% | $4,163 | amazon | [Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,…](https://www.amazon.com.mx/dp/B0GHYFZHYM) | $7,827 | Confirmado vs competencia | $7,827 en amazon vs walmart $11,990, sams $17,032 -> -35% bajo la competencia |
-| -29% | $2,300 | walmart | [Congelador Hisense 7 Pies Gris FC70D6BGX](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300) | $5,690 | Confirmado vs competencia | $5,690 en walmart vs mercado -> -29% bajo la competencia |
 | -25% | $1,700 | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | Confirmado vs competencia | $5,099 en palacio vs mercado -> -25% bajo la competencia |
-| -58% | $1,432 | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | Confirmado vs competencia | $1,022 en sams vs mercado -> -58% bajo la competencia |
-| -21% | $1,400 | walmart | [Aire Minisplit 220v Mirage LIFE 12 + Solo Frío 1 tonelada 12…](https://www.walmart.com.mx/ip/aire-minisplit-220v-mirage-life-12-solo-frio-1-tonelada-12000-btu/00046551816049?athbdg=L1300) | $5,299 | Confirmado vs competencia | $5,299 en walmart vs amazon $6,699 -> -21% bajo la competencia |
-| -21% | $1,200 | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | Confirmado vs competencia | $4,499 en walmart vs mercado -> -21% bajo la competencia |
-| -28% | $1,023 | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | Confirmado vs competencia | $2,658 en sams vs mercado -> -28% bajo la competencia |
-| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
-| -60% | $754 | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | Confirmado vs competencia | $499 en amazon vs mercado -> -60% bajo la competencia |
-| -23% | $569 | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | Confirmado vs competencia | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
-| -51% | $527 | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con tapa…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | Confirmado vs competencia | $509 en amazon vs mercado -> -51% bajo la competencia |
-| -50% | $501 | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | Confirmado vs competencia | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
-| -25% | $410 | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para mujer …](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | Confirmado vs competencia | $1,245 en amazon vs mercado -> -25% bajo la competencia |
-| -44% | $400 | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | Confirmado vs competencia | $500 en amazon vs mercado -> -44% bajo la competencia |
-| -24% | $380 | walmart | [Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300) | $1,219 | Confirmado vs competencia | $1,219 en walmart vs mercado -> -24% bajo la competencia |
-| -25% | $366 | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,080 | Confirmado vs competencia | $1,080 en amazon vs mercado -> -25% bajo la competencia |
-| -26% | $281 | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | Confirmado vs competencia | $784 en amazon vs mercado -> -26% bajo la competencia |
-| -29% | $206 | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | Confirmado vs competencia | $503 en amazon vs mercado -> -29% bajo la competencia |
-| -20% | $66 | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1600) | $260 | Confirmado vs competencia | $260 en walmart vs mercado -> -20% bajo la competencia |
-| -24% | $60 | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Multiusos](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | Confirmado vs competencia | $189 en walmart vs mercado -> -24% bajo la competencia |
