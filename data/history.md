@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (166)
+# Historial de ofertas encontradas (171)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-04 09:00 | -21% | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $6,990 | $6,990 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-04 09:00 | -28% | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro R…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | $10,222 en sams vs amazon $15,936 -> -28% bajo la competencia |
+| 2026-07-04 09:00 | -29% | amazon | [Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 H…](https://www.amazon.com.mx/dp/B0D3JCYKG4) | $999 | $999 en amazon vs mercado -> -29% bajo la competencia |
+| 2026-07-04 09:00 | -32% | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142) | $8,999 | $8,999 en walmart vs sams $13,298, sams $19,947 -> -32% bajo la competencia |
+| 2026-07-04 09:00 | -40% | walmart | [Secadora  de Cabello Revlon Essentials Control de Frizz](https://www.walmart.com.mx/ip/secadora-de-cabello-revlon-essentials-control-de-frizz/00076131812773?athbdg=L1510) | $332 | $332 en walmart vs mercado -> -40% bajo la competencia |
 | 2026-07-04 03:37 | -21% | walmart | [Aire Minisplit 220v Mirage LIFE 12 + Solo Frío 1 tonela…](https://www.walmart.com.mx/ip/aire-minisplit-220v-mirage-life-12-solo-frio-1-tonelada-12000-btu/00046551816049?athbdg=L1300) | $5,299 | $5,299 en walmart vs amazon $6,699 -> -21% bajo la competencia |
 | 2026-07-04 03:37 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | $4,499 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-04 03:37 | -26% | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | $784 en amazon vs mercado -> -26% bajo la competencia |
