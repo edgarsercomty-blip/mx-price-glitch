@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (185)
+# Historial de ofertas encontradas (188)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-05 03:55 | -23% | mercadolibre | [Controles Del Reproductor De Consola Qconsole #x8 \| Wir…](https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168) | $987 | $987 en mercadolibre vs mercado -> -23% bajo la competencia |
+| 2026-07-05 03:55 | -25% | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,083 | $2,083 en amazon vs mercado -> -25% bajo la competencia |
+| 2026-07-05 03:55 | -36% | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema …](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |
 | 2026-07-04 19:38 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-04 19:38 | -21% | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | $2,199 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-04 19:38 | -30% | amazon | [XuanPad 【Compatible with Netflix】 Plateado Mini Proyect…](https://www.amazon.com.mx/dp/B0G3WGXKRK) | $2,500 | $2,500 en amazon vs mercado -> -30% bajo la competencia |
