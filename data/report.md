@@ -1,28 +1,7 @@
-# Errores/chollos de precio — 2026-07-05 03:55 UTC
+# Errores/chollos de precio — 2026-07-05 06:25 UTC
 
-- Productos revisados: **2760**
+- Productos revisados: **916**
 - Umbral de diferencia: **20%**
-- Hallazgos: **20**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -52% | $11,142 | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | Confirmado vs competencia | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
-| -29% | $10,919 | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,400 | Confirmado vs competencia | $26,400 en palacio vs mercado -> -29% bajo la competencia |
-| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
-| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
-| -36% | $2,350 | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema VIDAA](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | Confirmado vs competencia | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |
-| -45% | $2,270 | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- NEGRO](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,729 | Confirmado vs competencia | $2,729 en walmart vs mercado -> -45% bajo la competencia |
-| -21% | $1,900 | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $6,990 | Confirmado vs competencia | $6,990 en walmart vs mercado -> -21% bajo la competencia |
-| -21% | $1,491 | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | Confirmado vs competencia | $5,699 en walmart vs mercado -> -21% bajo la competencia |
-| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
-| -60% | $754 | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | Confirmado vs competencia | $499 en amazon vs mercado -> -60% bajo la competencia |
-| -25% | $699 | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,083 | Confirmado vs competencia | $2,083 en amazon vs mercado -> -25% bajo la competencia |
-| -21% | $590 | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | Confirmado vs competencia | $2,199 en walmart vs mercado -> -21% bajo la competencia |
-| -23% | $569 | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT negra](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | Confirmado vs competencia | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
-| -25% | $407 | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para mujer …](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | Confirmado vs competencia | $1,245 en amazon vs mercado -> -25% bajo la competencia |
-| -23% | $290 | mercadolibre | [Controles Del Reproductor De Consola Qconsole #x8 \| Wireless…](https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168) | $987 | Confirmado vs competencia | $987 en mercadolibre vs mercado -> -23% bajo la competencia |
-| -26% | $281 | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $784 | Confirmado vs competencia | $784 en amazon vs mercado -> -26% bajo la competencia |
-| -35% | $279 | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con tapa…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | Confirmado vs competencia | $509 en amazon vs mercado -> -35% bajo la competencia |
-| -43% | $263 | walmart | [Auriculares Bluetooth Lenovo TA410 Bluetooth 5.4 con micrófo…](https://www.walmart.com.mx/ip/auriculares-bluetooth-lenovo-ta410-bluetooth-5-4-con-microfono/00046876091952?athbdg=L1300) | $349 | Confirmado vs competencia | $349 en walmart vs mercadolibre $612 -> -43% bajo la competencia |
-| -20% | $217 | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | Confirmado vs competencia | $840 en amazon vs mercado -> -20% bajo la competencia |
-| -29% | $200 | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | Confirmado vs competencia | $500 en amazon vs mercado -> -29% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
