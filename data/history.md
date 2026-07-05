@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (193)
+# Historial de ofertas encontradas (196)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-05 13:55 | -21% | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación …](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,538 | $3,538 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-07-05 13:55 | -65% | walmart | [Kingston USB Flash Drive DataTraveler Exodia, 128GB, da…](https://www.walmart.com.mx/ip/kingston-usb-flash-drive-datatraveler-exodia-128gb-data-storage-/00535121648420) | $689 | $689 en walmart vs walmart $1,979, walmart $2,309, walmart $2,349 -> -65% bajo la competencia |
+| 2026-07-05 13:55 | -22% | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045) | $9,058 | 🔁 DE NUEVO DISPONIBLE en walmart: $9,058 (estaba agotado) |
 | 2026-07-05 09:13 | -24% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -24% bajo la competencia |
 | 2026-07-05 09:13 | -34% | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | $61,379 en palacio vs mercado -> -34% bajo la competencia |
 | 2026-07-05 09:13 | -38% | mercadolibre | [Licuadora Oster Pro 1200 Jarra Vidrio+ Vaso Batidos Col…](https://www.mercadolibre.com.mx/licuadora-oster-pro-1200-jarra-vidrio-vaso-batidos-color-plateado/p/MLM28082169) | $2,171 | $2,171 en mercadolibre vs mercado -> -38% bajo la competencia |
