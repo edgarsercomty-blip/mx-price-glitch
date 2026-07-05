@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (196)
+# Historial de ofertas encontradas (198)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-05 19:45 | -47% | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZ…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | $18,571 en palacio vs mercado -> -47% bajo la competencia |
+| 2026-07-05 19:45 | -22% | walmart | [Audífonos Apple EarPods con Entrada 35mm](https://www.walmart.com.mx/ip/audifonos-apple-earpods-con-entrada-35mm/00019019810702?athbdg=L6000) | $549 | 🔁 DE NUEVO DISPONIBLE en walmart: $549 (estaba agotado) |
 | 2026-07-05 13:55 | -21% | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación …](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,538 | $3,538 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-05 13:55 | -65% | walmart | [Kingston USB Flash Drive DataTraveler Exodia, 128GB, da…](https://www.walmart.com.mx/ip/kingston-usb-flash-drive-datatraveler-exodia-128gb-data-storage-/00535121648420) | $689 | $689 en walmart vs walmart $1,979, walmart $2,309, walmart $2,349 -> -65% bajo la competencia |
 | 2026-07-05 13:55 | -22% | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045) | $9,058 | 🔁 DE NUEVO DISPONIBLE en walmart: $9,058 (estaba agotado) |
