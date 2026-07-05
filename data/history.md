@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (188)
+# Historial de ofertas encontradas (193)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-05 09:13 | -24% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -24% bajo la competencia |
+| 2026-07-05 09:13 | -34% | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | $61,379 en palacio vs mercado -> -34% bajo la competencia |
+| 2026-07-05 09:13 | -38% | mercadolibre | [Licuadora Oster Pro 1200 Jarra Vidrio+ Vaso Batidos Col…](https://www.mercadolibre.com.mx/licuadora-oster-pro-1200-jarra-vidrio-vaso-batidos-color-plateado/p/MLM28082169) | $2,171 | $2,171 en mercadolibre vs mercado -> -38% bajo la competencia |
+| 2026-07-05 09:13 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
+| 2026-07-05 09:13 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356?athbdg=L1300) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-05 03:55 | -23% | mercadolibre | [Controles Del Reproductor De Consola Qconsole #x8 \| Wir…](https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168) | $987 | $987 en mercadolibre vs mercado -> -23% bajo la competencia |
 | 2026-07-05 03:55 | -25% | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,083 | $2,083 en amazon vs mercado -> -25% bajo la competencia |
 | 2026-07-05 03:55 | -36% | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema …](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |

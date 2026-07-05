@@ -14283,5 +14283,954 @@
   "sams|REPRODUCTORWIRELESSQCONTROLESQCONSOLE": {
     "ts": "2026-07-05T03:55:05.535554+00:00",
     "items": []
+  },
+  "liverpool|190X150CM": {
+    "ts": "2026-07-05T09:07:50.784151+00:00",
+    "items": []
+  },
+  "coppel|190X150CM": {
+    "ts": "2026-07-05T09:07:56.048427+00:00",
+    "items": []
+  },
+  "palacio|190X150CM": {
+    "ts": "2026-07-05T09:07:56.304649+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Niko 120X80cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-niko-120x80cm-44273501.html",
+        "price": 1192.0,
+        "model": "120X80cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Rusena en polipropileno 120 x 80 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-rusena-en-polipropileno-120-x-80-cm-45468822.html",
+        "price": 1352.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Concept negro en polipropileno 180x120cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-negro-en-polipropileno-180x120cm-43468850.html",
+        "price": 2103.2,
+        "model": "180x120cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Concept en Polipropileno 230x160cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-concept-en-polipropileno-230x160cm-43468856.html",
+        "price": 3783.2,
+        "model": "230x160cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Jackson en Polipropileno 180 x 120 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-jackson-en-polipropileno-180-x-120-cm-45315966.html",
+        "price": 3192.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Altima en polipropileno 180 x 120 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-altima-en-polipropileno-180-x-120-cm-44776729.html",
+        "price": 2232.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Enova en viscosa 180 x 120 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-enova-en-viscosa-180-x-120-cm-44928924.html",
+        "price": 9592.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Altima en polipropileno 340 x 240 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-altima-en-polipropileno-340-x-240-cm-44776737.html",
+        "price": 10072.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Jackson en Polipropileno 340 x 240 cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-jackson-en-polipropileno-340-x-240-cm-45315977.html",
+        "price": 17592.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete Decorativo Interior 300X200cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-interior-300x200cm-40379494.html",
+        "price": 10680.0,
+        "model": "300X200cm"
+      },
+      {
+        "store": "palacio",
+        "name": "Tapete decorativo Altima 230X160cm",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-decorativo-altima-230x160cm-44776725.html",
+        "price": 3992.0,
+        "model": "230X160cm"
+      },
+      {
+        "store": "palacio",
+        "name": "TAPETE NEVADA BEIGE 180X120",
+        "url": "https://www.elpalaciodehierro.com/tufan-tapete-nevada-beige-180x120-40379492.html",
+        "price": 3592.0,
+        "model": "180X120"
+      }
+    ]
+  },
+  "amazon|190X150CM": {
+    "ts": "2026-07-05T09:07:59.948385+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Colchon Queen Size 25 CM Memory Foam Híbrido en Caja – Gel Refrigerante, Alivio de Dolor de Espalda, Firmeza Media, Soporte Ergonómico, Sueño Fresco y Confortable, Antiácaros, 190x150cm，Negro",
+        "url": "https://www.amazon.com.mx/dp/B0H1WLTD4J",
+        "price": 4999.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Restonic Liquidación - Colchón Queen Size (190 x 150 cm) - 5 años de garantía best10",
+        "url": "https://www.amazon.com.mx/dp/B08ZHLC3GV",
+        "price": 3996.0,
+        "model": "best10"
+      },
+      {
+        "store": "amazon",
+        "name": "WALKINGDESK Escritorio de esquina eléctrico, 190 x 150 cm, mesa ajustable en altura en L, para ordenador con memoria de 4 alturas, escritorio de oficina y casa, roble",
+        "url": "https://www.amazon.com.mx/dp/B0FD9W455K",
+        "price": 7319.83,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mosquitera Cortina Magnetica 190 x 150 cm Mosquiteras para Puertas Pegado sin Taladrar Mantiene Insectos para Puertas Correderas【Blanco】",
+        "url": "https://www.amazon.com.mx/dp/B0C5QBYKTM",
+        "price": 652.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mosquitera Magnética 190 x 150 cm Mosquiteras para Puertas Evita el Paso de Insectos Mantiene Insectos para Puertas Correderas【Negro】",
+        "url": "https://www.amazon.com.mx/dp/B0C5Q78SGB",
+        "price": 652.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mosquitera Magnética 190 x 150 cm Mosquiteras a Medida Cortina Protección contra Insectos para Sala de Estar Balcón【Gris】",
+        "url": "https://www.amazon.com.mx/dp/B0C5Q9W4ND",
+        "price": 652.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Burrito Blanco | Sábanas Coral | Cama 150 cm Diseño 965 | Color Nude (150 x 190/200 cm)",
+        "url": "https://www.amazon.com.mx/dp/B0DWT88NPR",
+        "price": 360.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BURRITO BLANCO Juego de Ropa de Cama de 150 cm (+ tamaños Disponibles) | Diseño 297 | Beige (150 x 190/200 cm)",
+        "url": "https://www.amazon.com.mx/dp/B0D2RS45Y2",
+        "price": 1426.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fafeicy Mosquitera con Dosel, Elegante Mosquitera de Poliéster para Cama Doble, 90x190x150cm, Perfecta para el Hogar y el Camping (95x195x150cm)",
+        "url": "https://www.amazon.com.mx/dp/B0H2JWTNFF",
+        "price": 156.0,
+        "model": "90x190x150cm"
+      },
+      {
+        "store": "amazon",
+        "name": "MAMALAND Colchón Queen Premium 150 x 190 cm – Espuma Viscoelástica y Muelles | Transpirable y Resistente | Colchón en Caja | Alivio del Dolor de Espalda | Garantía de 10 años",
+        "url": "https://www.amazon.com.mx/dp/B0FB98RQCC",
+        "price": 3899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda universal para sofá futón para salón o casa, color puro mate, caqui claro, de poliéster, 190 x 150 cm",
+        "url": "https://www.amazon.com.mx/dp/B0CGYL1XZN",
+        "price": 717.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para sofá de 1 plaza, sin reposabrazos, antipolvo, protectora para sofá, color puro mate, beige, de poliéster, 190 x 150 cm",
+        "url": "https://www.amazon.com.mx/dp/B0CGYLKHLG",
+        "price": 717.41,
+        "model": null
+      }
+    ]
+  },
+  "sams|190X150CM": {
+    "ts": "2026-07-05T09:08:00.735882+00:00",
+    "items": []
+  },
+  "mercadolibre|190X150CM": {
+    "ts": "2026-07-05T09:08:28.438865+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Canvas Lienzo Flor Efimera Grande",
+        "url": "https://www.mercadolibre.com.mx/cuadro-canvas-lienzo-flor-efimera-grande/up/MLMU4046832005",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Canvas Lienzo Torre Eterea Grande",
+        "url": "https://www.mercadolibre.com.mx/cuadro-canvas-lienzo-torre-eterea-grande/up/MLMU4063151428",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Paisaje Arte Digital Canvas Grueso Cha25 140x90",
+        "url": "https://www.mercadolibre.com.mx/cuadro-paisaje-arte-digital-canvas-grueso-cha25-140x90/up/MLMU556895455",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Paisaje Arte Digital Canvas Grueso Cha47 140x90",
+        "url": "https://www.mercadolibre.com.mx/cuadro-paisaje-arte-digital-canvas-grueso-cha47-140x90/up/MLMU564287492",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuadro Paisaje Arte Digital Canvas Grueso Cha12 140x90",
+        "url": "https://www.mercadolibre.com.mx/cuadro-paisaje-arte-digital-canvas-grueso-cha12-140x90/up/MLMU556893885",
+        "price": 1999.0,
+        "model": "140x90"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Persiana Roller Decoking Sheer Elegance de Rayas para Ventana, 2.2 m de Ancho x 1.6 m de Alto",
+        "url": "https://www.mercadolibre.com.mx/persiana-roller-decoking-sheer-elegance-de-rayas-para-ventana-22-m-de-ancho-x-16-m-de-alto/p/MLM66791419",
+        "price": 2870.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Sealy Beam Antimosquito Queen 190x150cm Firm Eurotop Gris",
+        "url": "https://www.mercadolibre.com.mx/colchon-sealy-beam-antimosquito-queen-190x150cm-firm-eurotop-gris/p/MLM57788884",
+        "price": 10890.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hamaca Algodón Para Jardín Camping Portátil Mueble 190x150cm",
+        "url": "https://www.mercadolibre.com.mx/hamaca-algodon-para-jardin-camping-portatil-mueble-190x150cm/up/MLMU4047279739",
+        "price": 298.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Queen Restonic Tree 35 Cm Con Pillow Top (190x150cm) Blanco",
+        "url": "https://www.mercadolibre.com.mx/colchon-queen-restonic-tree-35-cm-con-pillow-top-190x150cm-blanco/p/MLM70376193",
+        "price": 10999.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Matrimonial Restonic Tree Comfort Care Verde Musgo",
+        "url": "https://www.mercadolibre.com.mx/colchon-matrimonial-restonic-tree-comfort-care-verde-musgo/p/MLM58107469",
+        "price": 19299.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Persiana Sheer Elegance Gris Premium 190x150cm Decoking",
+        "url": "https://www.mercadolibre.com.mx/persiana-sheer-elegance-gris-premium-190x150cm-decoking/up/MLMU497754605",
+        "price": 2380.0,
+        "model": "190x150cm"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Vinil Wrap Auto Cofre Chevrolet Camaro Dragones - 190x150cm",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-4117525928-vinil-wrap-auto-cofre-chevrolet-camaro-dragones-190x150cm-_JM?searchVariation=185776402150",
+        "price": 1295.0,
+        "model": "190x150cm"
+      }
+    ]
+  },
+  "liverpool|32Q3K": {
+    "ts": "2026-07-05T09:08:55.739805+00:00",
+    "items": []
+  },
+  "coppel|32Q3K": {
+    "ts": "2026-07-05T09:09:09.156017+00:00",
+    "items": []
+  },
+  "amazon|32Q3K": {
+    "ts": "2026-07-05T09:09:12.089361+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL 32Q31K 32\" Clase Q3K Series (1080P) Full HD QLED Quantum Smart Google TV Panel HVA Bluetooth (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0G6NM17FZ",
+        "price": 3099.0,
+        "model": "32Q31K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 40\" 40Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMWY6R7",
+        "price": 3288.0,
+        "model": "40Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 32\" 32Q2K Android TV HD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital+",
+        "url": "https://www.amazon.com.mx/dp/B0DZM8JF7J",
+        "price": 2497.0,
+        "model": "32Q2K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Serie Q3K de 32 pulgadas (1080p) FHD QLED Smart Google TV (2024) (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FG4HHVZL",
+        "price": 3776.41,
+        "model": "1080p"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A4N (Modelo 2025) Pantalla 32 Pulgadas, Smart Vidaa TV HD,Modo de Juego,Dolby Audio,Comparte en tu TV,Noise Reduction",
+        "url": "https://www.amazon.com.mx/dp/B0DZ6M25CP",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 43\" 43Q3K Android TV FHD QLED Google Cast | Alexa | 2K HDR10| NITS 300 | Panel 60 Hz | Dolby Digital +",
+        "url": "https://www.amazon.com.mx/dp/B0DZMQ5DCY",
+        "price": 4084.0,
+        "model": "43Q3K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Television De 32 Pulgadas 32S357 Class Full HD 1080p LED Smart TV Funciona con Alexa y Asistente Google (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C6YSBVQ8",
+        "price": 2399.0,
+        "model": "32S357"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A4N(Modelo 2025) Pantalla 32 Pulgadas, Smart Fire TV HD,Modo de Juego,Dolby Audio,Comparte en tu TV,Noise Reduction",
+        "url": "https://www.amazon.com.mx/dp/B0FRSNWPW9",
+        "price": 2495.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Television 32L621FR ROKU Pantalla 32 Smart TV Pulgadas HD con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
+        "url": "https://www.amazon.com.mx/dp/B0G1CXCKLG",
+        "price": 1979.0,
+        "model": "32L621FR"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 32 Pulgadas Smart TV webOS AI 2025 32LR600BPSC | HDR10 / HLG | Game Optimizer | Modo HGIG Channels | AI Sound | Escalador de resolución | Bluetooth | Sport Alert",
+        "url": "https://www.amazon.com.mx/dp/B0FSPRJC1X",
+        "price": 2990.0,
+        "model": "32LR600BPSC"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Serie QD4SR Hi-QLED HD Smart Roku TV de 32 pulgadas (32QD4HSR, modelo 2026) – Color Hi-QLED, Dolby Audio, compatible con Alexa, Full Array LED, diseño de bisel delgado",
+        "url": "https://www.amazon.com.mx/dp/B0GWDKPQB5",
+        "price": 2716.72,
+        "model": "32QD4HSR"
+      },
+      {
+        "store": "amazon",
+        "name": "CUORY Smart TV 32\" Full HD DLED Android 12 Television 1366x768 HDMI USB Bluetooth Dolby Atmos Gaming Mode Marco Delgado Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CVXRFP1H",
+        "price": 2083.0,
+        "model": "1366x768"
+      }
+    ]
+  },
+  "walmart|32Q3K": {
+    "ts": "2026-07-05T09:09:47.949353+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Pantalla QLED TCL 32Q3K 32\" FHD HDR 10 Smart TV (Reacondicionado)",
+        "url": "https://www.walmart.com.mx/ip/pantalla-qled-tcl-32q3k-32-fhd-hdr-10-smart-tv-reacondicionado-/00084046404617?athbdg=L1500",
+        "price": 3259.0,
+        "model": "32Q3K"
+      }
+    ]
+  },
+  "sams|32Q3K": {
+    "ts": "2026-07-05T09:09:49.478834+00:00",
+    "items": []
+  },
+  "mercadolibre|32Q3K": {
+    "ts": "2026-07-05T09:10:07.904992+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tcl 32 Pulgadas Qled Smart Tv Google Q3k",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tcl-32-pulgadas-qled-smart-tv-google-q3k/up/MLMU3934952415",
+        "price": 3279.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|75A400": {
+    "ts": "2026-07-05T09:11:27.592470+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 75\" 75A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCBFQ3P",
+        "price": 18699.0,
+        "model": "75A400"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 65\" 65A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCC54TL",
+        "price": 13938.0,
+        "model": "65A400"
+      }
+    ]
+  },
+  "walmart|75A400": {
+    "ts": "2026-07-05T09:11:42.541441+00:00",
+    "items": []
+  },
+  "sams|75A400": {
+    "ts": "2026-07-05T09:11:51.163198+00:00",
+    "items": []
+  },
+  "amazon|65A400": {
+    "ts": "2026-07-05T09:11:53.296778+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 65\" 65A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCC54TL",
+        "price": 13938.0,
+        "model": "65A400"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 55\" 55A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCDVFXD",
+        "price": 11999.0,
+        "model": "55A400"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 75\" 75A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCBFQ3P",
+        "price": 18699.0,
+        "model": "75A400"
+      }
+    ]
+  },
+  "walmart|65A400": {
+    "ts": "2026-07-05T09:12:03.817986+00:00",
+    "items": []
+  },
+  "sams|65A400": {
+    "ts": "2026-07-05T09:12:17.280256+00:00",
+    "items": []
+  },
+  "amazon|55A400": {
+    "ts": "2026-07-05T09:12:22.441942+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 55\" 55A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCDVFXD",
+        "price": 11999.0,
+        "model": "55A400"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 65\" 65A400 Pro MINILED 4K UHD Art TV - Google TV | VRR 144 Hz HDR10+ | Dolby Atmos Onkyo | Bluetooth 5.4, Wi-Fi | Compatible con Alexa | Cine en Casa",
+        "url": "https://www.amazon.com.mx/dp/B0GTCC54TL",
+        "price": 13938.0,
+        "model": "65A400"
+      }
+    ]
+  },
+  "walmart|55A400": {
+    "ts": "2026-07-05T09:12:32.480091+00:00",
+    "items": []
+  },
+  "sams|55A400": {
+    "ts": "2026-07-05T09:12:33.558849+00:00",
+    "items": []
+  },
+  "amazon|SONYPANTALLABRAVIAPLANALED": {
+    "ts": "2026-07-05T09:12:36.512064+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 3 II Pantalla 55” | 4K Smart TV (Google TV) | XR Processor con IA |120 Hz con Dolby Vision/Atmos (2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GM2JT4B6",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 55” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYKCTM3Y",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 65” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYKBXMJX",
+        "price": 12999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 3 II Pantalla 65” | 4K Smart TV (Google TV) | XR Processor con IA |120 Hz con Dolby Vision/Atmos (2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GM348H9M",
+        "price": 18999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 50” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYK9WD5Q",
+        "price": 9699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BRAVIA 9 II Pantalla 65” | LED RGB Smart TV 4K HDR XR Processor",
+        "url": "https://www.amazon.com.mx/dp/B0H43Z96PJ",
+        "price": 46999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 75” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYK7Z9PZ",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 3 II Pantalla 75” | 4K Smart TV (Google TV) | XR Processor con IA |120 Hz con Dolby Vision/Atmos (2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GM348H9N",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 43” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYKBNW89",
+        "price": 8999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BRAVIA 7 II Pantalla 55“ | LED RGB Smart TV 4K HDR",
+        "url": "https://www.amazon.com.mx/dp/B0H3DZGCNN",
+        "price": 29999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 3 II Pantalla 43” | 4K Smart TV (Google TV) | XR Processor con IA |120 Hz con Dolby Vision/Atmos (2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GM2DPGNT",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ANKIMI RMF-TX500U Compatible con Sony Array LCD LED TV y Bravia XR 4K 8K HDR TV, aplicable para XBR-49X950H XBR-75X900H XBR-75X850G XBR-75X950G",
+        "url": "https://www.amazon.com.mx/dp/B0B87YTSDZ",
+        "price": 268.0,
+        "model": "XBR-49X950H"
+      }
+    ]
+  },
+  "walmart|SONYPANTALLABRAVIAPLANALED": {
+    "ts": "2026-07-05T09:12:48.251576+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV Sony Bravia 3 75 Pulgadas LED 4K Google Smart Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/tv-sony-bravia-3-75-pulgadas-led-4k-google-smart-reacondicionado/00039590581587?athbdg=L1500",
+        "price": 18590.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TV Sony Bravia 3 65 Pulgadas LED 4K Google Smart Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/tv-sony-bravia-3-65-pulgadas-led-4k-google-smart-reacondicionado/00039590581586?athbdg=L1500",
+        "price": 10190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Televisor inteligente Sony BRAVIA 3 55K55S30 4K Ultra HD con Google TV",
+        "url": "https://www.walmart.com.mx/ip/televisor-inteligente-sony-bravia-3-55k55s30-4k-ultra-hd-con-google-tv/00002724293011",
+        "price": 29968.9,
+        "model": "55K55S30"
+      },
+      {
+        "store": "walmart",
+        "name": "Televisor inteligente Sony BRAVIA 3 43\" 4K Ultra HD con Google TV 2024",
+        "url": "https://www.walmart.com.mx/ip/televisor-inteligente-sony-bravia-3-43-4k-ultra-hd-con-google-tv-2024/00002724293013",
+        "price": 27052.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Pantalla OLED Sony 77 Pulgadas BRAVIA XR 4K UHD Smart Google TV con Panel 120HZ Nativo Modelo 2022",
+        "url": "https://www.walmart.com.mx/ip/pantalla-oled-sony-77-pulgadas-bravia-xr-4k-uhd-smart-google-tv-con-panel-120hz-nativo-modelo-2022/00454873614008",
+        "price": 107242.9,
+        "model": "120HZ"
+      },
+      {
+        "store": "walmart",
+        "name": "Sony BRAVIA XR 65' 4K UHD HDR Sony XR65A80JSONY",
+        "url": "https://www.walmart.com.mx/ip/sony-bravia-xr-65-4k-uhd-hdr-sony-xr65a80jsony/00002724292198?athbdg=L1500",
+        "price": 22000.0,
+        "model": "XR65A80JSONY"
+      },
+      {
+        "store": "walmart",
+        "name": "Control para cualquier pantalla Sony Bravia Smart Tv Sony Control para cualquier pantalla Sony Bravia Smart Tv",
+        "url": "https://www.walmart.com.mx/ip/control-para-cualquier-pantalla-sony-bravia-smart-tv-sony-control-para-cualquier-pantalla-sony-bravia-smart-tv/00060663830085?athbdg=L6000",
+        "price": 346.21,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sony Pantalla 65 Pulgadas KD-65X77L BRAVIA LED 4K UHD Smart Google TV",
+        "url": "https://www.walmart.com.mx/ip/sony-pantalla-65-pulgadas-kd-65x77l-bravia-led-4k-uhd-smart-google-tv/00454873615245",
+        "price": 50879.9,
+        "model": "KD-65X77L"
+      },
+      {
+        "store": "walmart",
+        "name": "Control remoto para pantallas Sony Bravia Series Kdl",
+        "url": "https://www.walmart.com.mx/ip/control-remoto-para-pantallas-sony-bravia-series-kdl/00060663830082?athbdg=L6000",
+        "price": 346.21,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TV Sony Bravia 3 55 Pulgadas LED 4K Google Smart Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/tv-sony-bravia-3-55-pulgadas-led-4k-google-smart-reacondicionado/00039590581585?athbdg=L1500",
+        "price": 9998.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sony BRAVIA XR 55' 4K UHD HDR Sony XR55A80JSONY",
+        "url": "https://www.walmart.com.mx/ip/sony-bravia-xr-55-4k-uhd-hdr-sony-xr55a80jsony/00002724292199",
+        "price": 58048.9,
+        "model": "XR55A80JSONY"
+      },
+      {
+        "store": "walmart",
+        "name": "Televisor OLED Smart 4K Ultra Alta Definición Sony Bravia 77 Pulgadas con Cobertura Adicional Epic P",
+        "url": "https://www.walmart.com.mx/ip/televisor-oled-smart-4k-ultra-alta-definicion-sony-bravia-77-pulgadas-con-cobertura-adicional-epic-p/00081004381636",
+        "price": 216403.9,
+        "model": null
+      }
+    ]
+  },
+  "sams|SONYPANTALLABRAVIAPLANALED": {
+    "ts": "2026-07-05T09:12:49.832508+00:00",
+    "items": []
+  },
+  "amazon|HAMILTONBEACHPROGRAMABLEHAMILTONCAFETERATAZAS": {
+    "ts": "2026-07-05T09:13:12.055190+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 46310 Cafetera Programable Fácil Acceso 12 tazas, Negro",
+        "url": "https://www.amazon.com.mx/dp/B07684BPLB",
+        "price": 763.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49615 Cafetera Programable,12 Tazas, Negra, Mod. 49615-NEGRO",
+        "url": "https://www.amazon.com.mx/dp/B00ECH6AS8",
+        "price": 449.0,
+        "model": "49615-NEGRO"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable Hamilton Beach Capacidad de 12 Tazas Color Gris con Negro Modelo 47950",
+        "url": "https://www.amazon.com.mx/dp/B00AF7WUO2",
+        "price": 1728.57,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Cafetera para 12 Tazas, Programable, 3 Opciones de Preparación, Jarra de Vidrio, Negra (46299)",
+        "url": "https://www.amazon.com.mx/dp/B06XP4DKGL",
+        "price": 632.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach FrontFill Compact Cafetera programable para 5 tazas | Diseño compacto | Reloj programable | jarra de cristal | pausa y vierte automáticamente | negro y acero inoxidable | 46111",
+        "url": "https://www.amazon.com.mx/dp/B082LS88WN",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49933 - Cafetera programable de goteo de 2 vías y máquina de una sola porción, jarra de vidrio, pausa y vierte automáticamente, color blanco",
+        "url": "https://www.amazon.com.mx/dp/B0896NP59N",
+        "price": 1696.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador – Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 559.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable para 12 tazas Hamilton Beach 49632",
+        "url": "https://www.amazon.com.mx/dp/B0C3MMFHC9",
+        "price": 598.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 46294 cafetera programable de goteo de 12 tazas con 3 opciones de preparación, jarra de vidrio, pausa y vierte automáticamente, color blanco",
+        "url": "https://www.amazon.com.mx/dp/B09NCBQ8JG",
+        "price": 822.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
+        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
+        "price": 479.0,
+        "model": "49970-MX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach FlexBrew Advanced 5 en 1 programable 12 tazas de goteo y una sola porción cafetera caliente y helada con depósito de agua móvil de 67 onzas, uso paquetes y molidos, preparación rápida,",
+        "url": "https://www.amazon.com.mx/dp/B0D7W5N2CN",
+        "price": 1997.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach - Cafetera programable de 2 vías",
+        "url": "https://www.amazon.com.mx/dp/B0DPR511FX",
+        "price": 1988.93,
+        "model": null
+      }
+    ]
+  },
+  "sams|HAMILTONBEACHPROGRAMABLEHAMILTONCAFETERATAZAS": {
+    "ts": "2026-07-05T09:13:12.504110+00:00",
+    "items": []
+  },
+  "amazon|LICUADORABATIDOSVIDRIOOSTER": {
+    "ts": "2026-07-05T09:13:15.143306+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional, XTREME MIX, Motor de 1500 W, Tecnología Reversible, Vaso de Vidrio 2 L, para Smoothie, Malteadas, Helado, Frappe, Mantequilla, Vaso Portátil Blend-N-Go, Gris, BLSTXPG-BGW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX26PZF",
+        "price": 647.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1245.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1449.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster - Licuadora Pro 1200 con tarro de vidrio, taza de batido de 710 ml, níquel cepillado",
+        "url": "https://www.amazon.com.mx/dp/B00XHXN54K",
+        "price": 2290.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora clásica Oster reversible cromada vaso de vidrio BLSTBESTE013",
+        "url": "https://www.amazon.com.mx/dp/B08V5RN8D9",
+        "price": 1549.0,
+        "model": "BLSTBESTE013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
+        "price": 665.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 3 Velocidades, Vaso de Vidrio, Roja, BLST4126R",
+        "url": "https://www.amazon.com.mx/dp/B08V5KWPQG",
+        "price": 1088.0,
+        "model": "BLST4126R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, 3 Velocidades, Vaso de Vidrio, Negro, BLSTBPST",
+        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
+        "price": 1487.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kit De 3 Mini Vasos Cristal Con Cuchilla Compatible Con OSTER",
+        "url": "https://www.amazon.com.mx/dp/B09BLND2WM",
+        "price": 302.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagbpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPX1PPZ",
+        "price": 666.03,
+        "model": null
+      }
+    ]
+  },
+  "walmart|LICUADORABATIDOSVIDRIOOSTER": {
+    "ts": "2026-07-05T09:13:29.744795+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3098.99,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
+        "price": 1040.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089?athbdg=L1600",
+        "price": 859.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora MAN LPV-807 750W 1.5 L 7 Velocidades Vaso de Vidrio Silver Licuadora Potente para Hogar Jugos Batidos",
+        "url": "https://www.walmart.com.mx/ip/licuadora-man-lpv-807-750w-1-5-l-7-velocidades-vaso-de-vidrio-silver-licuadora-potente-para-hogar-jugos-batidos/00750137260094",
+        "price": 1099.0,
+        "model": "LPV-807"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster 2 Velocidades con Vaso de Vidrio",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-2-velocidades-con-vaso-de-vidrio/00005389116844",
+        "price": 1055.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con 700 Watts de Potencia con Interruptor de Palanca",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-700-watts-de-potencia-con-interruptor-de-palanca/00005389114062?athbdg=L6000",
+        "price": 1700.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora MAN LPV-807 750W 1.5 L 7 Velocidades Vaso de Vidrio Silver Licuadora Potente para Hogar Jugos Batidos",
+        "url": "https://www.walmart.com.mx/ip/licuadora-man-lpv-807-750w-1-5-l-7-velocidades-vaso-de-vidrio-silver-licuadora-potente-para-hogar-jugos-batidos/00750137260092",
+        "price": 1220.0,
+        "model": "LPV-807"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Clásica Vaso Vidrio",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-vidrio/00750109525020?athbdg=L1300",
+        "price": 1190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Vaso de Vidrio de 6 Velocidades más Pulso Blanco",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-vaso-de-vidrio-de-6-velocidades-mas-pulso-blanco/00005389116976?athbdg=L6000",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora MAN LMV2025",
+        "url": "https://www.walmart.com.mx/ip/licuadora-man-lmv2025/00750137212025",
+        "price": 1727.1,
+        "model": "LMV2025"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster con vaso de vidrio BLSTKAG-BPB-013 BLSTKAG-BPB-013 BLSTKAG-BPB-013 Licuadora Oster 2 velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-blstkag-bpb-013-blstkag-bpb-013-blstkag-bpb-013-licuadora-oster-2-velocidades/00005389113830",
+        "price": 899.0,
+        "model": "BLSTKAG-BPB-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L6000",
+        "price": 2990.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|LICUADORABATIDOSVIDRIOOSTER": {
+    "ts": "2026-07-05T09:13:30.426924+00:00",
+    "items": []
   }
 }
