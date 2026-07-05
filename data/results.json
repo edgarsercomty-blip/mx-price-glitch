@@ -1,71 +1,7 @@
 {
-  "generated_at": "2026-07-05 00:03 UTC",
-  "products_scanned": 919,
+  "generated_at": "2026-07-05 02:22 UTC",
+  "products_scanned": 917,
   "threshold_pct": 20.0,
-  "count": 3,
-  "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$5,099 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1699.8,
-      "store": "palacio",
-      "name": "LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html",
-      "price": 5099.41,
-      "list_price": 8499.01,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42345796",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$21,500 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7036.92,
-      "store": "palacio",
-      "name": "Centro de lavado Premium a Gas LP de carga superior 24 Kg",
-      "url": "https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html",
-      "price": 21499.5,
-      "list_price": 42999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44064324",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$18,719 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4796.93,
-      "store": "palacio",
-      "name": "Combo Lavadora y Secadora 24 Kg",
-      "url": "https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html",
-      "price": 18719.48,
-      "list_price": 35999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44172333",
-        "outlet": false
-      }
-    }
-  ]
+  "count": 0,
+  "findings": []
 }
