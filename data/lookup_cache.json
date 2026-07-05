@@ -14434,5 +14434,32 @@
   "sams|256GB": {
     "ts": "2026-07-05T13:55:50.392199+00:00",
     "items": []
+  },
+  "amazon|UN50U8500HFXZX": {
+    "ts": "2026-07-05T18:09:31.713707+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV Pantalla 50\" Pulgadas Crystal UHD UN50U8500HFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0GX2VY759",
+        "price": 6999.0,
+        "model": "UN50U8500HFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Televisión Pantalla 43\" Smart TV 4K UHD Mod. UN-43U8000 + Crystal 50\" UN50U8500HFXZX",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y97KY1",
+        "price": 11928.0,
+        "model": "UN50U8500HFXZX"
+      }
+    ]
+  },
+  "walmart|UN50U8500HFXZX": {
+    "ts": "2026-07-05T18:09:48.584432+00:00",
+    "items": []
+  },
+  "sams|UN50U8500HFXZX": {
+    "ts": "2026-07-05T18:09:50.129235+00:00",
+    "items": []
   }
 }
