@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06 23:43 UTC",
-  "products_scanned": 913,
+  "generated_at": "2026-07-06 23:51 UTC",
+  "products_scanned": 1721,
   "threshold_pct": 20.0,
-  "count": 18,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -128,6 +128,27 @@
       "extra": {
         "id": "44951479",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.0,
+      "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 900.2,
+      "store": "liverpool",
+      "name": "Set Licuadora Personal Ninja Ss151 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254",
+      "price": 2299.0,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": "Ss151",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180553254",
+        "marketplace": null
       }
     },
     {
@@ -317,6 +338,48 @@
       "extra": {
         "id": "45273250",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7997.35,
+      "store": "palacio",
+      "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
+      "price": 30379.51,
+      "list_price": 61999.0,
+      "ean": null,
+      "model": "WD26FB8690BEAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44585698",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3103.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
+      "price": 11880.0,
+      "list_price": 19800.0,
+      "ean": null,
+      "model": null,
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181402284",
+        "marketplace": null
       }
     },
     {
