@@ -16,7 +16,7 @@ max_discount_pct: 99       # % máximo: arriba de esto suele ser error de dato, 
 # y solo se reporta si está de verdad más barato que el mercado.
 verify_cross_store: true
 candidate_min_pct: 30      # descuento propio mínimo para molestarse en cruzar
-verify_max_candidates: 250 # tope de candidatos a verificar por corrida (repo público: Actions gratis)
+verify_max_candidates: 450 # tope de candidatos a verificar por corrida (verificación en pool/histórico es gratis; se saturaba en 250 en cada corrida)
 lookup_cache_ttl_hours: 48 # caché de precios de competencia (menos consultas Bright Data)
 cross_confirm_pct: 20      # % por debajo de la rival más barata para confirmar (deals reales de mercado)
 
@@ -90,7 +90,7 @@ stores:
   coppel:
     name: Coppel
     type: coppel               # Next.js vía Bright Data Web Unlocker (WAF)
-    enabled: true
+    enabled: false              # 0 productos en TODAS las corridas: Bright Data trae ~274KB idénticos por término (probable challenge/WAF), no resultados reales. Deshabilitado hasta diagnosticar (ver probe-serp target=coppel).
     max_products_per_term: 40
     search_terms:              # foco en línea blanca y electrónica (categorías con más glitches)
       - refrigerador
