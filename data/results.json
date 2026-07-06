@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06 11:06 UTC",
-  "products_scanned": 858,
+  "generated_at": "2026-07-06 14:38 UTC",
+  "products_scanned": 914,
   "threshold_pct": 20.0,
-  "count": 15,
+  "count": 17,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -111,6 +111,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345631",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,249 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2749.75,
+      "store": "palacio",
+      "name": "Celular Galaxy A56 5G, 256 GB, RAM 8 GB, Verde, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a56-5g-256-gb-ram-8-gb-verde-desbloqueado-44556105.html",
+      "price": 8249.25,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44556105",
         "outlet": false
       }
     },
@@ -221,6 +263,27 @@
       "likely_typo": false,
       "savings": 8739.77,
       "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273252",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html",
       "price": 29259.23,
@@ -232,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45273254",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273250",
         "outlet": false
       }
     },

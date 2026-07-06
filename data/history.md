@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (216)
+# Historial de ofertas encontradas (219)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-06 14:38 | -23% | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbl…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-07-06 14:38 | -25% | palacio | [Celular Galaxy A56 5G, 256 GB, RAM 8 GB, Verde, Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a56-5g-256-gb-ram-8-gb-verde-desbloqueado-44556105.html) | $8,249 | $8,249 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-06 14:38 | -30% | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbl…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html) | $10,849 | $10,849 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
