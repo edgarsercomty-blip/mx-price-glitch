@@ -34,7 +34,9 @@ def find_products(node, depth=0):
 
 def main() -> None:
     q = sys.argv[1] if len(sys.argv) > 1 else "taladro"
-    url = f"https://www.coppel.com/{q}"
+    # URL real que usa el adaptador (CoppelAdapter._search_url), no un slug de producto
+    from urllib.parse import quote
+    url = f"https://www.coppel.com/busqueda?texto={quote(q)}"
     print(f"fetch {url}")
     try:
         html = brightdata.fetch(url, country="mx", timeout=60, retries=2)
