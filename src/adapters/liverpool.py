@@ -1,7 +1,18 @@
-"""Adaptador Liverpool (Next.js; productos embebidos en __NEXT_DATA__).
+"""Adaptador Liverpool.
 
-La página de resultados de búsqueda renderiza en servidor e incluye en
-<script id="__NEXT_DATA__"> la lista de productos con precios:
+Hasta 2026-06-30 la página de resultados renderizaba en servidor con
+Next.js pages-router e incluía <script id="__NEXT_DATA__"> con la lista de
+productos. Liverpool migró su frontend (Next.js App Router / RSC): esa ruta
+de búsqueda (/tienda/buscar) ahora da 404 y __NEXT_DATA__ ya no existe.
+
+Formato actual (validado 2026-07-06):
+  - URL de búsqueda: /tienda?s={término}  (antes: /tienda/buscar?s=)
+  - Los precios/marca vienen en JSON dentro de los chunks de streaming RSC
+    (self.__next_f.push(...)), como texto JSON-escapado. El nombre/URL del
+    producto NO está en ese JSON — se arma desde el <a data-testid=
+    "{productId}-card-card-link" href="/tienda/pdp/{slug}/{productId}...">
+    que sí se renderiza como HTML plano. Se unen ambas fuentes por
+    productId (ver _PRICE_BLOCK / _PDP_HREF).
   maximumListPrice  -> precio regular / de lista
   maximumPromoPrice -> precio actual (promoción)
 Comparando ambos sale el descuento propio. No expone EAN, así que Liverpool
@@ -27,7 +38,28 @@ from .base import StoreAdapter
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+# Formato viejo (pages-router), se deja como fallback por si Liverpool revierte.
 _NEXT = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
+
+# Formato actual (App Router / RSC): bloque de precio+marca+productId, tal
+# como aparece (JSON-escapado) dentro de un chunk de self.__next_f.push(...).
+# El orden de llaves es el que genera el template de Liverpool; si lo cambian
+# esta regex deja de matchear y hay que re-probar con probe_liverpool.py.
+_PRICE_BLOCK = re.compile(
+    r'\\"brand\\":\\"(?P<brand>[^\\"]*)\\"[\s\S]{0,900}?'
+    r'\\"maximumListPrice\\":(?P<list>[\d.]+)'
+    r',\\"minimumPromoPrice\\":(?P<minpromo>[\d.]+)'
+    r',\\"maximumPromoPrice\\":(?P<promo>[\d.]+)'
+    r',\\"numRecords\\":\d+'
+    r',\\"productId\\":\\"(?P<pid>\d+)\\"'
+)
+
+# Enlace de la tarjeta del producto, renderizado como HTML normal (no JSON).
+# El "?skuid=..." es opcional (algunas categorías no lo traen).
+_PDP_HREF = re.compile(
+    r'href="(/tienda/pdp/(?P<slug>[a-z0-9][a-z0-9-]*)/(?P<pid>\d{6,}))(?:\?[^"]*)?"'
+)
 
 
 class LiverpoolAdapter(StoreAdapter):
@@ -56,21 +88,53 @@ class LiverpoolAdapter(StoreAdapter):
         except brightdata.FetchError:
             return None
 
-    def _products_in(self, html: str) -> Iterable[dict]:
+    def _products_in(self, html: str) -> list[dict]:
+        # formato viejo (pages-router), por si Liverpool revierte el cambio
         m = _NEXT.search(html)
-        if not m:
+        if m:
+            try:
+                data = json.loads(m.group(1))
+                prods = list(_walk_products(data))
+                if prods:
+                    return prods
+            except json.JSONDecodeError:
+                pass
+
+        # formato actual: precio/marca (RSC) + nombre/URL (HTML), unidos por productId
+        prices: dict[str, dict] = {}
+        for mm in _PRICE_BLOCK.finditer(html):
+            prices[mm.group("pid")] = {
+                "brand": mm.group("brand") or None,
+                "maximumListPrice": mm.group("list"),
+                "minimumPromoPrice": mm.group("minpromo"),
+                "maximumPromoPrice": mm.group("promo"),
+            }
+        if not prices:
             return []
-        try:
-            data = json.loads(m.group(1))
-        except json.JSONDecodeError:
-            return []
-        return list(_walk_products(data))
+
+        out: list[dict] = []
+        seen: set[str] = set()
+        for mm in _PDP_HREF.finditer(html):
+            pid = mm.group("pid")
+            if pid in seen:
+                continue
+            price = prices.get(pid)
+            if not price:
+                continue
+            seen.add(pid)
+            raw = dict(price)
+            raw["productId"] = pid
+            raw["uri"] = mm.group(1)
+            raw["title"] = mm.group("slug").replace("-", " ").strip().title()
+            raw["availability"] = "IN_STOCK"  # no se observó otro valor en búsquedas
+            out.append(raw)
+        return out
 
     def scan(self) -> Iterable[Product]:
         seen: set[str] = set()
         for term in self.terms:
             for page in range(1, self.pages + 1):
-                url = f"{self.base}/tienda/buscar?s={quote(term)}"
+                url = f"{self.base}/tienda?s={quote(term)}"
                 if page > 1:
                     url += f"&page={page}"
                 html = self._get_html(url)
@@ -110,7 +174,7 @@ class LiverpoolAdapter(StoreAdapter):
     def lookup(self, query: str) -> list[Product]:
         if query in self._lookup_cache:
             return self._lookup_cache[query]
-        url = f"{self.base}/tienda/buscar?s={quote(query)}"
+        url = f"{self.base}/tienda?s={quote(query)}"
         html = self._get_html(url)
         out: list[Product] = []
         if html:
