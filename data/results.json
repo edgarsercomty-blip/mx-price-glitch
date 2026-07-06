@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-06 15:39 UTC",
-  "products_scanned": 913,
+  "generated_at": "2026-07-06 17:24 UTC",
+  "products_scanned": 914,
   "threshold_pct": 20.0,
-  "count": 19,
+  "count": 17,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$11,520 en palacio vs mercado -> -45% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9480.45,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
-      "price": 11519.55,
-      "list_price": 25599.0,
-      "ean": null,
-      "model": "75Q6K",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44576283",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 34.0,
@@ -148,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$26,400 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10919.48,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html",
-      "price": 26399.52,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "OLED65C6PSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45395463",
         "outlet": false
       }
     },
