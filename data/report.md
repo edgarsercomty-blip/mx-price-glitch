@@ -1,14 +1,15 @@
-# Errores/chollos de precio — 2026-07-06 19:22 UTC
+# Errores/chollos de precio — 2026-07-06 20:01 UTC
 
 - Productos revisados: **914**
 - Umbral de diferencia: **20%**
-- Hallazgos: **18**
+- Hallazgos: **19**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -34% | $31,620 | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | Confirmado vs competencia | $61,379 en palacio vs mercado -> -34% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
+| -29% | $10,919 | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,400 | Confirmado vs competencia | $26,400 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $9,900 | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver B…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html) | $23,099 | Confirmado vs competencia | $23,099 en palacio vs mercado -> -30% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |

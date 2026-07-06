@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06 19:22 UTC",
+  "generated_at": "2026-07-06 20:01 UTC",
   "products_scanned": 914,
   "threshold_pct": 20.0,
-  "count": 18,
+  "count": 19,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$26,400 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10919.48,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html",
+      "price": 26399.52,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "OLED65C6PSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45395463",
         "outlet": false
       }
     },
