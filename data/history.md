@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (198)
+# Historial de ofertas encontradas (200)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-06 04:02 | -33% | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot …](https://www.amazon.com.mx/dp/B08D47L4VB) | $170 | $170 en amazon vs mercado -> -33% bajo la competencia |
+| 2026-07-06 04:02 | -40% | amazon | [Scotch-Brite Fibra Esponja Multiuso, La Original Verde-…](https://www.amazon.com.mx/dp/B00A7494TM) | $10 | $10 en amazon vs mercado -> -40% bajo la competencia |
 | 2026-07-05 19:45 | -47% | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZ…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | $18,571 en palacio vs mercado -> -47% bajo la competencia |
 | 2026-07-05 19:45 | -22% | walmart | [Audífonos Apple EarPods con Entrada 35mm](https://www.walmart.com.mx/ip/audifonos-apple-earpods-con-entrada-35mm/00019019810702?athbdg=L6000) | $549 | 🔁 DE NUEVO DISPONIBLE en walmart: $549 (estaba agotado) |
 | 2026-07-05 13:55 | -21% | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación …](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,538 | $3,538 en walmart vs mercado -> -21% bajo la competencia |

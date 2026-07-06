@@ -1687,1091 +1687,6 @@
     "ts": "2026-07-05T19:44:04.605425+00:00",
     "items": []
   },
-  "liverpool|86QNED82ASG": {
-    "ts": "2026-07-04T03:32:24.011219+00:00",
-    "items": []
-  },
-  "coppel|86QNED82ASG": {
-    "ts": "2026-07-04T03:32:35.986914+00:00",
-    "items": []
-  },
-  "amazon|86QNED82ASG": {
-    "ts": "2026-07-04T03:32:39.841111+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 610.0,
-        "model": "Akb76046605"
-      }
-    ]
-  },
-  "walmart|86QNED82ASG": {
-    "ts": "2026-07-04T03:33:08.286459+00:00",
-    "items": []
-  },
-  "sams|86QNED82ASG": {
-    "ts": "2026-07-04T03:33:12.333224+00:00",
-    "items": []
-  },
-  "mercadolibre|86QNED82ASG": {
-    "ts": "2026-07-04T03:33:25.674070+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Bn44 00807f Fuente Samsung Un55mu6100f Serie 07",
-        "url": "https://www.mercadolibre.com.mx/bn44-00807f-fuente-samsung-un55mu6100f-serie-07/up/MLMU1014594551",
-        "price": 1100.0,
-        "model": "Un55mu6100f"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Ba94n0f0102 2 A Funai Lc190em1 Serie 089",
-        "url": "https://www.mercadolibre.com.mx/ba94n0f0102-2-a-funai-lc190em1-serie-089/up/MLMU721750455",
-        "price": 350.0,
-        "model": "Ba94n0f0102"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bn41 02585b Main Samsung Un40j5290af Serie 856",
-        "url": "https://www.mercadolibre.com.mx/bn41-02585b-main-samsung-un40j5290af-serie-856/up/MLMU693636539",
-        "price": 900.0,
-        "model": "Un40j5290af"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bn41 02585 Main Samsung Un49j5290af Serie 167",
-        "url": "https://www.mercadolibre.com.mx/bn41-02585-main-samsung-un49j5290af-serie-167/up/MLMU1010978587",
-        "price": 1200.0,
-        "model": "Un49j5290af"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bn41 02585 Main Samsung Un32j4290af Serie 838",
-        "url": "https://www.mercadolibre.com.mx/bn41-02585-main-samsung-un32j4290af-serie-838/up/MLMU1014244786",
-        "price": 900.0,
-        "model": "Un32j4290af"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Fuente 86nano77sra Lgp86nt-21u1   Eay65895562",
-        "url": "https://www.mercadolibre.com.mx/fuente-lg-lgp86nt-21u1-eay65895562-86nano75sqa/p/MLM2064081351",
-        "price": 849.0,
-        "model": "Lgp86nt-21u1"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Fuente Led Driver Ql65f601m Pw.a96c.781 Nueva",
-        "url": "https://www.mercadolibre.com.mx/fuente-led-driver-ql65f601m-pwa96c781-nueva/p/MLM2084950063",
-        "price": 899.0,
-        "model": "Ql65f601m"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "86uq7070zud 11 Tiras 9 Leds 86uq7070",
-        "url": "https://www.mercadolibre.com.mx/86uq7070zud-11-tiras-9-leds-86uq7070/up/MLMU3767181992",
-        "price": 1499.0,
-        "model": "86uq7070zud"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Fuente Philips Mp150m-1 | 65pul6653/f8",
-        "url": "https://www.mercadolibre.com.mx/fuente-para-philips-65pul6653f8-mp150m-1/p/MLM2069422666",
-        "price": 475.0,
-        "model": "65pul6653/f8"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Main Samsung Bn9651848e Mc92a280275a Un55au7000f Ver. Fm04",
-        "url": "https://www.mercadolibre.com.mx/bn96-51848e-assy-board-conjunto-main-vss-ppantalla-samsun/p/MLM2091043972",
-        "price": 1950.0,
-        "model": "Mc92a280275a"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Fuente Para Samsung Qn55q60caf N/p: Bn44-01100j",
-        "url": "https://www.mercadolibre.com.mx/fuente-para-samsung-qn55q60caf-np-bn4401100j/up/MLMU492233451",
-        "price": 999.0,
-        "model": "Bn44-01100j"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Main Samsung Qn82q70rafx / Bn94-13999g / Bn97-15514j",
-        "url": "https://www.mercadolibre.com.mx/main-samsung-qn82q70rafx--bn9413999g--bn9715514j/up/MLMU2953836172",
-        "price": 2799.0,
-        "model": "Qn82q70rafx"
-      }
-    ]
-  },
-  "liverpool|GM89SXD": {
-    "ts": "2026-07-04T03:33:55.169707+00:00",
-    "items": []
-  },
-  "coppel|GM89SXD": {
-    "ts": "2026-07-04T03:33:59.820864+00:00",
-    "items": []
-  },
-  "amazon|GM89SXD": {
-    "ts": "2026-07-04T03:34:02.853564+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "10GBase-SR SFP + Transceptor, 10G 850nm MMF, hasta 300 metros, compatible con Cisco SFP-10G-SR, Meraki MA-SFP-10GB-SR, Ubiquiti UF-MM-10G, Mikrotik, Netgear, D-Link, Supermicro, TP-Link y más, paquete de 10",
-        "url": "https://www.amazon.com.mx/dp/B00ZCDDOPS",
-        "price": 3117.82,
-        "model": "MA-SFP-10GB-SR"
-      },
-      {
-        "store": "amazon",
-        "name": "Módulo de Seguridad TPM 2.0 SPI 12 Pines SLB9670 para Gigabyte Z890 AI TOPZ/AORUS Master AI Top/UD WiFi 6E/Eagle WIFI7/GAMING X WIFI7 - Módulo de Seguridad para Placa Base GC-TPM 2.0",
-        "url": "https://www.amazon.com.mx/dp/B0FNN2Y757",
-        "price": 666.08,
-        "model": "WIFI7/GAMING"
-      },
-      {
-        "store": "amazon",
-        "name": "Logitech G309 Lightspeed - mouse inalámbrico para juegos, ligero, interruptores híbridos LIGHTFORCE, sensor Hero 25K, batería de más de 300 horas con batería AA, 6 botones programables, PC y Mac",
-        "url": "https://www.amazon.com.mx/dp/B0H1Y2172S",
-        "price": 1031.04,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Adaptador Serial Adaptador de Interfaz de Radio para Control de Puerto de 9600 BPS de la Serie FT8X7 para Dispositivos de Escritorio portátiles con diseño Compacto de Carcasa de PC",
-        "url": "https://www.amazon.com.mx/dp/B0H6L325F7",
-        "price": 409.0,
-        "model": "FT8X7"
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de 4 filtros de aceite 69J-13440-04-00 69J-13440-03-00 de repuesto para Yamaha F150 F175 F200 F225 F250 motor fuera de borda, FX HO Cruiser SVHO, AR SX FSH Series Boat & WaveRunner",
-        "url": "https://www.amazon.com.mx/dp/B0H1XB17YB",
-        "price": 623.09,
-        "model": "69J-13440-04-00"
-      },
-      {
-        "store": "amazon",
-        "name": "UNIT ELECTRONICS Antena para GPRS gsm SIM800L",
-        "url": "https://www.amazon.com.mx/dp/B0D5P5Q34B",
-        "price": 60.0,
-        "model": "SIM800L"
-      },
-      {
-        "store": "amazon",
-        "name": "Tangxi Cartucho de Inicio de Plasma 9-8213 |Reemplazo de Antorcha de Corte para Thermal Dynamics SL60 SL100 SL60QL",
-        "url": "https://www.amazon.com.mx/dp/B0H7111V79",
-        "price": 249.0,
-        "model": "SL60QL"
-      },
-      {
-        "store": "amazon",
-        "name": "10GBase-SR SFP + Transceptor, 10G 850nm MMF, hasta 300 metros, compatible con D-Link DEM-431XT-DD, Ubiquiti UF-MM-10G, Mikrotik, Netgear, Supermicro, TP-Link and More.",
-        "url": "https://www.amazon.com.mx/dp/B01MYGOS1R",
-        "price": 270.22,
-        "model": "DEM-431XT-DD"
-      },
-      {
-        "store": "amazon",
-        "name": "Ciss sin Chip Compatible con 973 974 975 972X 973X 974X 975X 352dw 377dw 452dn 452dw 477dn 477dw 552dw",
-        "url": "https://www.amazon.com.mx/dp/B0H3JZZ663",
-        "price": 1518.1,
-        "model": "352dw"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con Blue Sky N850 N950KP N950 N850KP N957KP N857HP Eje Giratorio De Pantalla",
-        "url": "https://www.amazon.com.mx/dp/B0H6ZNRKWW",
-        "price": 861.56,
-        "model": "N950KP"
-      },
-      {
-        "store": "amazon",
-        "name": "KFL08 - Juego de 10 unidades, diámetro KFL08 (8 mm, 10 unidades) CNC autoalineable bloque de cojinete de brida de aleación de zinc",
-        "url": "https://www.amazon.com.mx/dp/B09N343SCB",
-        "price": 471.84,
-        "model": "KFL08"
-      },
-      {
-        "store": "amazon",
-        "name": "Árbol de levas del motor CF800 compatible con CF800cc X8 ATV Cilindro 1 delantero 2V91R 42T 0800-024001",
-        "url": "https://www.amazon.com.mx/dp/B0H6ZLPR1L",
-        "price": 942.82,
-        "model": "CF800cc"
-      }
-    ]
-  },
-  "walmart|GM89SXD": {
-    "ts": "2026-07-04T03:34:25.167071+00:00",
-    "items": []
-  },
-  "sams|GM89SXD": {
-    "ts": "2026-07-04T03:34:47.436992+00:00",
-    "items": []
-  },
-  "mercadolibre|GM89SXD": {
-    "ts": "2026-07-04T03:35:08.529069+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Soporte Motor Izquierdo Gm Tracker L4 1.6 1999 2000 Dai",
-        "url": "https://www.mercadolibre.com.mx/soporte-motor-izquierdo-gm-tracker-l4-16-1999-2000-dai/up/MLMU563781845",
-        "price": 825.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Soporte Motor Gm C-20 L6 4.1 1988 1989 1990 1991 Dai",
-        "url": "https://www.mercadolibre.com.mx/soporte-motor-gm-c20-l6-41-1988-1989-1990-1991-dai/up/MLMU584644409",
-        "price": 459.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Computadora De Motor E78 19433026 Gm Genuine Parts",
-        "url": "https://www.mercadolibre.com.mx/computadora-de-motor-e78-19433026-gm-genuine-parts/up/MLMU3169307517",
-        "price": 9396.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Metal Cigüeñal Gm Tracker 89-95 1.6l Sohc 030",
-        "url": "https://www.mercadolibre.com.mx/metal-ciguenal-gm-tracker-8995-16l-sohc-030/up/MLMU547900225",
-        "price": 605.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Cigüeñal Massey Ferguson 1076958m91 3637399m91",
-        "url": "https://www.mercadolibre.com.mx/ciguenal-massey-ferguson-1076958m91-3637399m91/up/MLMU3894857840",
-        "price": 9462.0,
-        "model": "1076958m91"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Cilindro Embrague Principal Gm S10 4.3 1997",
-        "url": "https://www.mercadolibre.com.mx/cilindro-embrague-principal-gm-s10-43-1997/up/MLMU486660789",
-        "price": 879.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Mango Direccion Chevrolet Aveo5 2007-2011 1.6l Gm Parts",
-        "url": "https://www.mercadolibre.com.mx/mango-direccion-chevrolet-aveo5-20072011-16l-gm-parts/up/MLMU762044238",
-        "price": 6435.0,
-        "model": "Aveo5"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Soporte Motor Gm S-15 V6 4.3 1996 1997 1998 1999 2000 Dai",
-        "url": "https://www.mercadolibre.com.mx/soporte-motor-gm-s15-v6-43-1996-1997-1998-1999-2000-dai/up/MLMU571545554",
-        "price": 652.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Mango Direccion Pontiac G3 2009 1.6l Gm Parts",
-        "url": "https://www.mercadolibre.com.mx/mango-direccion-pontiac-g3-2009-16l-gm-parts/up/MLMU888478895",
-        "price": 6988.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Soporte Motor Gm C-20 V6 4.3 1985 1986 Dai",
-        "url": "https://www.mercadolibre.com.mx/soporte-motor-gm-c20-v6-43-1985-1986-dai/up/MLMU1005855869",
-        "price": 355.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Cople Direccion Gm Chevy 1967 Syd",
-        "url": "https://www.mercadolibre.com.mx/cople-direccion-gm-chevy-1967-syd/up/MLMU3187851500",
-        "price": 327.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Cople Direccion Gm K30 1989 Syd",
-        "url": "https://www.mercadolibre.com.mx/cople-direccion-gm-k30-1989-syd/up/MLMU3240515516",
-        "price": 472.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|KEURINGCOMPACTACAFETERAKEURINGEXPRESS": {
-    "ts": "2026-07-04T03:35:20.552073+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Cafetera Keurig K-Express Essentials de una porción con acabado mate en gris para cápsulas K-Cup",
-        "url": "https://www.amazon.com.mx/dp/B0GD7ZNPXG",
-        "price": 1763.01,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express - Cafetera K-Express para cápsulas de una sola porción, 3 tamaños de preparación, función de botón fuerte, depósito extraíble de 40 onzas, color negro",
-        "url": "https://www.amazon.com.mx/dp/B09715G57M",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Compact - Cafetera de cápsulas K-Compact de un solo servicio, con 3 tamaños de preparación, función de inicio inteligente, depósito extraíble de 30 onzas, color negro",
-        "url": "https://www.amazon.com.mx/dp/B0BV9HKMNT",
-        "price": 1586.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express - Cafetera K-Cup de una sola porción, 3 tamaños de preparación, función de botón fuerte, depósito extraíble de 40 onzas, baya de la isla",
-        "url": "https://www.amazon.com.mx/dp/B0D3MR4M4C",
-        "price": 1452.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express Cafetera, cafetera K-Express, cafetera de una sola porción, piedra cálida",
-        "url": "https://www.amazon.com.mx/dp/B0CT43D46H",
-        "price": 1452.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express - Cafetera K-Express para cápsulas de una sola porción, 3 tamaños de preparación, función de botón fuerte, depósito extraíble de 40 onzas, menta",
-        "url": "https://www.amazon.com.mx/dp/B0CCK2VYTX",
-        "price": 1452.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Keurig K-Express Essentials de una porción con cápsulas K-Cup (Blanco Nub)",
-        "url": "https://www.amazon.com.mx/dp/B0G169XRZL",
-        "price": 1514.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express Essentials - Cafetera para cápsulas K-Cup de una sola porción, color rojo, regular",
-        "url": "https://www.amazon.com.mx/dp/B0BLXN6B9S",
-        "price": 1499.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Express - Cafetera K-Express para cápsulas de una sola porción, 3 tamaños de preparación, función de botón fuerte, depósito extraíble de 40 onzas, lavanda",
-        "url": "https://www.amazon.com.mx/dp/B0DWBJ6CM1",
-        "price": 1960.24,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Duo Gen 2 extensión de la garantía",
-        "url": "https://www.amazon.com.mx/dp/B0D8LXRHQ8",
-        "price": 3164.95,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Elite - Cafetera K-Elite para cápsulas K-Cup de una sola porción, con control de fuerza y temperatura, capacidad de café helado, tamaño de cerveza de 8 a 12 onzas, programable, pizarrón",
-        "url": "https://www.amazon.com.mx/dp/B078NN17K3",
-        "price": 2827.46,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Keurig K-Mini Cafetera K-Mini para cápsulas K-Cup de una sola porción, de 6 a 12 onzas, con almacenamiento de cables, perfecta para espacios pequeños, de hoja perenne",
-        "url": "https://www.amazon.com.mx/dp/B09RQ568FD",
-        "price": 1426.9,
-        "model": null
-      }
-    ]
-  },
-  "walmart|KEURINGCOMPACTACAFETERAKEURINGEXPRESS": {
-    "ts": "2026-07-04T03:35:25.291171+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Express de Cápsulas K-Cup | Individual, Depósito Removible, Botón de Intensidad, Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-express-de-capsulas-k-cup-individual-deposito-removible-boton-de-intensidad-color-negro/00061124739223?athbdg=L1300",
-        "price": 1399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "CAFETERA AUTOMATICA ESPRESSO / CAPUCCINO 600 ML KOBLENZ CKM-650 EIN Koblenz CKM//-650EIN",
-        "url": "https://www.walmart.com.mx/ip/cafetera-automatica-espresso-capuccino-600-ml-koblenz-ckm-650-ein-koblenz-ckm-650ein/00060567127956?athbdg=L1300",
-        "price": 1212.0,
-        "model": "CKM//-650EIN"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espressería KRUPS Acero Inoxidable Thermoblock Compacta",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresseria-krups-acero-inoxidable-thermoblock-compacta/00001094222827?athbdg=L1300",
-        "price": 8150.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera KOBLENZ CKM650 Espresso y Capuchino Negro/Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-koblenz-ckm650-espresso-y-capuchino-negro-acero-inoxidable/00046434083215?athbdg=L1300",
-        "price": 1453.0,
-        "model": "CKM650"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Crema con depósito de 2,1 L y espresso",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-crema-con-deposito-de-2-1-l-y-espresso/00061124740356?athbdg=L1300",
-        "price": 6169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Supreme de una sola porción con kit de mantenimiento",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-supreme-de-una-sola-porcion-con-kit-de-mantenimiento/00019627188106",
-        "price": 5579.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Supreme de una sola porción con kit de mantenimiento",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-supreme-de-una-sola-porcion-con-kit-de-mantenimiento/00019627199083",
-        "price": 5619.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Express Gris Mate de 1 Taza",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-express-gris-mate-de-1-taza/00006215151670?athbdg=L1300",
-        "price": 2189.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Keurig K-Express Cafetera De Cápsulas K-Cup De Una Sola Porción 3 Tamaños De Preparación Función De Botón Fuerte Depósito Extraíble De 42 Oz Evergreen",
-        "url": "https://www.walmart.com.mx/ip/keurig-k-express-cafetera-de-capsulas-k-cup-de-una-sola-porcion-3-tamanos-de-preparacion-funcion-de-boton-fuerte-deposito-extraible-de-42-oz-evergreen/00061124740654?athbdg=L1300",
-        "price": 2199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Keurig K155 Office Pro Cafetera Comercial, Cafetera de Capsu Keurig Keurig",
-        "url": "https://www.walmart.com.mx/ip/keurig-k155-office-pro-cafetera-comercial-cafetera-de-capsu-keurig-keurig/00064964520155",
-        "price": 12329.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera KeurigK K-Express Essentials de 30 ml, 3 tamaños de taza",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurigk-k-express-essentials-de-30-ml-3-tamanos-de-taza/00045060784471?athbdg=L1300",
-        "price": 3259.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Keurig K-Supreme de una sola porción negra",
-        "url": "https://www.walmart.com.mx/ip/cafetera-keurig-k-supreme-de-una-sola-porcion-negra/00046222793024?athbdg=L1300",
-        "price": 3849.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|COMPATIBLEINOXIDABLEINTEGRADOSQUENCHER": {
-    "ts": "2026-07-04T03:35:47.307858+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Vaso con pajita abatible STANLEY Quencher ProTour con tapa a prueba de fugas 30 oz | Pajita y asa integradas | Portavasos Compatible para Viajes | Taza aislada de acero inoxidable | Sin BPA | Brillo d",
-        "url": "https://www.walmart.com.mx/ip/vaso-con-pajita-abatible-stanley-quencher-protour-con-tapa-a-prueba-de-fugas-30-oz-pajita-y-asa-integradas-portavasos-compatible-para-viajes-taza-aislada-de-acero-inoxidable-sin-bpa-brillo-d/00004160446374?athbdg=L1300",
-        "price": 1929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "EXHUMKY Grommet De Acero Inoxidable Para Basura Compatible Con Cubos Integrados En Encimeras De Cocina",
-        "url": "https://www.walmart.com.mx/ip/exhumky-grommet-de-acero-inoxidable-para-basura-compatible-con-cubos-integrados-en-encimeras-de-cocina/00436320998493?athbdg=L6000",
-        "price": 492.62,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Vaso con pajita abatible STANLEY Quencher ProTour con tapa a prueba de fugas 40 oz | Pajita y asa integradas | Portavasos Compatible para Viajes | Taza aislada de acero inoxidable | Sin BPA | Brillo P",
-        "url": "https://www.walmart.com.mx/ip/vaso-con-pajita-abatible-stanley-quencher-protour-con-tapa-a-prueba-de-fugas-40-oz-pajita-y-asa-integradas-portavasos-compatible-para-viajes-taza-aislada-de-acero-inoxidable-sin-bpa-brillo-p/00004160446372?athbdg=L1300",
-        "price": 2119.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Hielo en Cubo 230 kg/día, Depósito Integrado 200 kg, Diseño Modular Compatible con Dispensador, Acero Inoxidable 304, Refrigerante R290, FAHIEL-230",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-hielo-en-cubo-230-kg-dia-deposito-integrado-200-kg-diseno-modular-compatible-con-dispensador-acero-inoxidable-304-refrigerante-r290-fahiel-230/00750305395799?athbdg=L1300",
-        "price": 66990.0,
-        "model": "FAHIEL-230"
-      }
-    ]
-  },
-  "sams|COMPATIBLEINOXIDABLEINTEGRADOSQUENCHER": {
-    "ts": "2026-07-04T03:35:56.355814+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Control Inalámbrico Xbox Series Blanco Compatible con Xbox One",
-        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-blanco-compatible-con-xbox-one/980024077",
-        "price": 1738.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Control Inalámbrico Xbox Series Negro Compatible con Xbox One",
-        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-negro-compatible-con-xbox-one/980024078",
-        "price": 1738.07,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sartén de Acero Inoxidable Member's Mark  3 Capas 10\"",
-        "url": "https://www.sams.com.mx/ip/sarten-de-acero-inoxidable-member-s-mark-3-capas-10/981039085",
-        "price": 556.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Control Inalámbrico Xbox Series Azul Compatible con Xbox One",
-        "url": "https://www.sams.com.mx/ip/control-inalambrico-xbox-series-azul-compatible-con-xbox-one/980024079",
-        "price": 1778.83,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Olla de Acero Inoxidable Member's Mark  con Tapa 17 L",
-        "url": "https://www.sams.com.mx/ip/olla-de-acero-inoxidable-member-s-mark-con-tapa-17-l/981035093",
-        "price": 1237.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
-        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
-        "price": 3373.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
-        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
-        "price": 748.99,
-        "model": "MX86037"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  con Báscula Integrada Pantalla LCD",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-con-bascula-integrada-pantalla-lcd/981045738",
-        "price": 1732.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Barra de Sonido Alienpro  Integrada 2.1 T-1000V2",
-        "url": "https://www.sams.com.mx/ip/barra-de-sonido-alienpro-integrada-2-1-t-1000v2/981041981",
-        "price": 1632.71,
-        "model": "T-1000V2"
-      },
-      {
-        "store": "sams",
-        "name": "Máquina de Espresso Hukën  con Molino Integrado MK-ECM-GSS",
-        "url": "https://www.sams.com.mx/ip/maquina-de-espresso-huken-con-molino-integrado-mk-ecm-gss/981045753",
-        "price": 2556.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bufetera Jocca  de Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
-        "price": 3129.34,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Molino de Café Daewoo Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
-        "price": 530.93,
-        "model": null
-      }
-    ]
-  },
-  "walmart|CALVINCHARIEKLEINTENIS": {
-    "ts": "2026-07-04T03:36:00.222058+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Eternity Air Calvin Klein 100 Ml Edp Spray",
-        "url": "https://www.walmart.com.mx/ip/eternity-air-calvin-klein-100-ml-edp-spray/00361422482194?athbdg=L1300",
-        "price": 632.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "CALVIN KLEIN FREE EDT 100 ML Calvin Klein Model",
-        "url": "https://www.walmart.com.mx/ip/calvin-klein-free-edt-100-ml-calvin-klein-model/00361630201558",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Ck One Shock 200 Ml Edt Spray Calvin Klein Calvin Klein Model",
-        "url": "https://www.walmart.com.mx/ip/ck-one-shock-200-ml-edt-spray-calvin-klein-calvin-klein-model/00070101970174",
-        "price": 776.99,
-        "model": null
-      }
-    ]
-  },
-  "sams|CALVINCHARIEKLEINTENIS": {
-    "ts": "2026-07-04T03:36:15.977901+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  CK in 2U para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-ck-in-2u-para-dama-100-ml/981026649",
-        "price": 520.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  One Shock para Dama 200 ml ",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-one-shock-para-dama-200-ml/981043862",
-        "price": 694.77,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Calvin Klein  Euphoria para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-calvin-klein-euphoria-para-dama-100-ml/981014106",
-        "price": 781.73,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  CK Everyone para Caballero 200 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-ck-everyone-para-caballero-200-ml/981026650",
-        "price": 868.68,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Calvin Klein  CK Everyone para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-calvin-klein-ck-everyone-para-dama-100-ml/981013232",
-        "price": 694.77,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  Defy para Caballeros 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-defy-para-caballeros-100-ml/981043865",
-        "price": 694.77,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  One Shock para Caballero 200 ml ",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-one-shock-para-caballero-200-ml/981043864",
-        "price": 633.9,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein   One Shock para Dama 100 ml ",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-one-shock-para-dama-100-ml/981043863",
-        "price": 477.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  para Caballero 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-para-caballero-100-ml/981043861",
-        "price": 597.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Calvin Klein  Be 200 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-calvin-klein-be-200-ml/981013343",
-        "price": 607.82,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Toilette Obsession  Calvin Klein para Caballero 125 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-toilette-obsession-calvin-klein-para-caballero-125-ml/981013345",
-        "price": 500.24,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Calvin Klein ESCAPE para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-calvin-klein-escape-para-dama-100-ml/981013152",
-        "price": 607.82,
-        "model": null
-      }
-    ]
-  },
-  "walmart|LEADCATSANDALSLIDEPUMA": {
-    "ts": "2026-07-04T03:36:53.522583+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Sandalia Puma Leadcat 2.0 Flex para Hombre 404845-03 blanco 26",
-        "url": "https://www.walmart.com.mx/ip/sandalia-puma-leadcat-2-0-flex-para-hombre-404845-03-blanco-26/00406916185949",
-        "price": 849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SANDALIAS PUMA POPCAT 20 REGENCY ROMANCE NEGRO SLIDE negro 270",
-        "url": "https://www.walmart.com.mx/ip/sandalias-puma-popcat-20-regency-romance-negro-slide-negro-270/00406545491163?athbdg=L1300",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia tipo slide PUMA Cool Cat 2.0 negra y rosa para mujer, talla 10",
-        "url": "https://www.walmart.com.mx/ip/sandalia-tipo-slide-puma-cool-cat-2-0-negra-y-rosa-para-mujer-talla-10/00019555280707?athbdg=L6000",
-        "price": 1145.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Puma Cool Cat 2.0 Para Mujer Original Chancla Comoda",
-        "url": "https://www.walmart.com.mx/ip/sandalia-puma-cool-cat-2-0-para-mujer-original-chancla-comoda/00019555280698?athbdg=L6000",
-        "price": 1145.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Mujer Puma Leadcat Ligeras Flexibles Cómodas blanco 27",
-        "url": "https://www.walmart.com.mx/ip/sandalias-mujer-puma-leadcat-ligeras-flexibles-comodas-blanco-27/00046206932464",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Puma BMW Motorsport Leadcat 2.0 para Hombre Playa Baño negro 26",
-        "url": "https://www.walmart.com.mx/ip/sandalias-puma-bmw-motorsport-leadcat-2-0-para-hombre-playa-bano-negro-26/00406453626267",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Puma Red Bull Racing Leadcat 2.0 Hombre azul 25 Puma 307016 01",
-        "url": "https://www.walmart.com.mx/ip/sandalias-puma-red-bull-racing-leadcat-2-0-hombre-azul-25-puma-307016-01/00406453640372?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Puma PURECAT para Hombre 360262-01 negro 27",
-        "url": "https://www.walmart.com.mx/ip/sandalia-puma-purecat-para-hombre-360262-01-negro-27/00405620492269",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Puma Leadcat 2.0 Flex para Hombre 404845-03 blanco 25",
-        "url": "https://www.walmart.com.mx/ip/sandalia-puma-leadcat-2-0-flex-para-hombre-404845-03-blanco-25/00406916185948",
-        "price": 849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SANDALIAS PUMA POPCAT 20 REGENCY ROMANCE NEGRO SLIDE negro 280",
-        "url": "https://www.walmart.com.mx/ip/sandalias-puma-popcat-20-regency-romance-negro-slide-negro-280/00406545491164?athbdg=L1300",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Slide PUMA COOL CAT 2.0 para mujer Puma Black 8",
-        "url": "https://www.walmart.com.mx/ip/sandalias-slide-puma-cool-cat-2-0-para-mujer-puma-black-8/00019555280701?athbdg=L6000",
-        "price": 1145.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SANDALIAS PUMA POPCAT 20 REGENCY ROMANCE NEGRO SLIDE negro 260",
-        "url": "https://www.walmart.com.mx/ip/sandalias-puma-popcat-20-regency-romance-negro-slide-negro-260/00406545491162?athbdg=L1300",
-        "price": 499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|LEADCATSANDALSLIDEPUMA": {
-    "ts": "2026-07-04T03:36:59.791717+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Tines para Dama Puma  Blanco/Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-dama-puma-blanco-multicolor-4-pares/981016888",
-        "price": 171.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines Unisex Puma  Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-unisex-puma-multicolor-4-pares/981020558",
-        "price": 130.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Caballero Puma  Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-caballero-puma-multicolor-4-pares/981015929",
-        "price": 171.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Dama Puma  Rosa/Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-dama-puma-rosa-multicolor-4-pares/981016863",
-        "price": 171.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Caballero Puma  Negros 4 Pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-caballero-puma-negros-4-pares/981015177",
-        "price": 171.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Niña Puma  Rosa/Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-nina-puma-rosa-multicolor-4-pares/981020560",
-        "price": 130.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Niño Puma  Azul/Multicolor 4 pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-nino-puma-azul-multicolor-4-pares/981020559",
-        "price": 130.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bolsas Herméticas Ziploc Slider 4 Cajas con 30 pzas",
-        "url": "https://www.sams.com.mx/ip/bolsas-hermeticas-ziploc-slider-4-cajas-con-30-pzas/000189390",
-        "price": 438.85,
-        "model": null
-      }
-    ]
-  },
-  "amazon|75QD65QV": {
-    "ts": "2026-07-04T03:37:14.203272+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD6S Pantalla 75“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRRNSVB",
-        "price": 10189.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television QD7QFM (Modelo 2025) Pantalla 75 Pulgadas,Mini-LED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Hi-View AI Engine,Modo de Juego Pro de 144 Hz,Dolby Vision·Atmos",
-        "url": "https://www.amazon.com.mx/dp/B0F1YNPR8R",
-        "price": 27729.0,
-        "model": "QD7QFM"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 10827.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,QLED Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
-        "url": "https://www.amazon.com.mx/dp/B0GHYFZHYM",
-        "price": 7827.0,
-        "model": "QD65QV"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television A65N (Modelo 2025) Pantalla 75 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, DTS Virtual: X, mira TV en Vivo sin Cable",
-        "url": "https://www.amazon.com.mx/dp/B0F4FS7YHN",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television A65N (Modelo 2025) Pantalla 85 Pulgadas, Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, Modo de Juego Plus, ALLM",
-        "url": "https://www.amazon.com.mx/dp/B0FKY2K8KK",
-        "price": 13999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
-        "price": 10999.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung 75\" Crystal UHD U8000F 4K, Procesador Crystal, Diseño Metálico, Knox Security, Escalado 4k, Smart TV (2025)",
-        "url": "https://www.amazon.com.mx/dp/B0F4HBKSMR",
-        "price": 11999.0,
-        "model": "U8000F"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television QD6QFM (Modelo 2025) Pantalla 43 Pulgadas,QLED Smart Fire TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
-        "url": "https://www.amazon.com.mx/dp/B0F1YM6MN5",
-        "price": 4397.0,
-        "model": "QD6QFM"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television QD4QFM(Modelo 2025) Pantalla 40 Pulgadas, Smart Fire TV FHD,Color QLED,Modo de Juego,Dolby Audio,Comparte en tu TV,Reducción de Ruido",
-        "url": "https://www.amazon.com.mx/dp/B0FKY9S822",
-        "price": 3880.0,
-        "model": "QD4QFM"
-      }
-    ]
-  },
-  "sams|75QD65QV": {
-    "ts": "2026-07-04T03:37:17.871804+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Pantalla Hisense  75\" QLED 4K Vidaa 75QD65QV",
-        "url": "https://www.sams.com.mx/ip/pantalla-hisense-75-qled-4k-vidaa-75qd65qv/981040844",
-        "price": 17031.91,
-        "model": "75QD65QV"
-      }
-    ]
-  },
-  "amazon|MIRAGEMINISPLITTONELADAMIRAGE12000": {
-    "ts": "2026-07-04T03:37:25.145262+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Aire Minisplit 110v Mirage Estandar X5 1 Tonelada 12000 Btu R410a",
-        "url": "https://www.amazon.com.mx/dp/B0GYG57DFG",
-        "price": 5799.0,
-        "model": "R410a"
-      },
-      {
-        "store": "amazon",
-        "name": "Mirage Minisplit Aire Acondicionado Life+ Frio y Calor 110v 1ton, R410a, 12,000 btus",
-        "url": "https://www.amazon.com.mx/dp/B07D3DJK3G",
-        "price": 6738.0,
-        "model": "R410a"
-      },
-      {
-        "store": "amazon",
-        "name": "Minisplit Inverter V32 Mirage SETCVC121E 1Tr Frío/Calor 220/1/60 R32 17.4Seer",
-        "url": "https://www.amazon.com.mx/dp/B0DY21693W",
-        "price": 6566.0,
-        "model": "SETCVC121E"
-      },
-      {
-        "store": "amazon",
-        "name": "Minisplit Mirage X5 Estandar Convencional 1 Tonelada 220V Solo Frio",
-        "url": "https://www.amazon.com.mx/dp/B0H1LLLDLS",
-        "price": 6290.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Aire Acondicionado Minisplit Mirage, Solo Frío 12000 BTU 115V, blanco, modelo SETCVC120E",
-        "url": "https://www.amazon.com.mx/dp/B0D9J677YT",
-        "price": 6884.0,
-        "model": "SETCVC120E"
-      },
-      {
-        "store": "amazon",
-        "name": "Aire Acondicionado Portátil Mirage, 12000 BTU, 115V, blanco, modelo MAPS1211C",
-        "url": "https://www.amazon.com.mx/dp/B07ZJY6G38",
-        "price": 7098.0,
-        "model": "MAPS1211C"
-      },
-      {
-        "store": "amazon",
-        "name": "Minisplit Mirage X5 Estandar Convencional 1 Tonelada 110V Solo Frio",
-        "url": "https://www.amazon.com.mx/dp/B0H1KZBLG5",
-        "price": 6290.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Aire Acondicionado Minisplit Inverter AT121CK, 12000BTU/h, 115V, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0DHYJ8DMQ",
-        "price": 6344.0,
-        "model": "12000BTU/h"
-      },
-      {
-        "store": "amazon",
-        "name": "Aire Acondicionado Mirage Inverter X. Frio/calor 1 Ton, 220V, 12,000BTU. SEER16 AHORRADOR",
-        "url": "https://www.amazon.com.mx/dp/B07SGHM81M",
-        "price": 6699.0,
-        "model": "000BTU"
-      },
-      {
-        "store": "amazon",
-        "name": "Mirage SETCLC261J Aire Acondicionado Mini Split Xlife On/Off con Calefacción 2Ton 230V, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0BZD2GZTY",
-        "price": 12145.83,
-        "model": "SETCLC261J"
-      },
-      {
-        "store": "amazon",
-        "name": "Minisplit Mirage Inverter X 2 Toneladas 220V Frío y Calor, 23,000 BTU, Gas R32, Tecnología IA, 18.8 SEER, Compresor SVS Inverter, EMC261X",
-        "url": "https://www.amazon.com.mx/dp/B0H385GW5X",
-        "price": 16487.6,
-        "model": "EMC261X"
-      },
-      {
-        "store": "amazon",
-        "name": "Mini Split Mirage Life 12+ frío calor 1 tonelada 110v",
-        "url": "https://www.amazon.com.mx/dp/B0B2ZYPYCV",
-        "price": 6669.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|MIRAGEMINISPLITTONELADAMIRAGE12000": {
-    "ts": "2026-07-04T03:37:45.974312+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Mini Split LG  Inverter Frío 12000 VC122C10",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mini-split-lg-inverter-frio-12000-vc122c10/981049846",
-        "price": 7159.97,
-        "model": "VC122C10"
-      },
-      {
-        "store": "sams",
-        "name": "Aire Acondicionado Portátil LG  LP1014WC Sólo Frío 10,000 BTU 110V",
-        "url": "https://www.sams.com.mx/ip/aire-acondicionado-portatil-lg-lp1014wc-solo-frio-10-000-btu-110v/981017492",
-        "price": 10228.96,
-        "model": "LP1014WC"
-      },
-      {
-        "store": "sams",
-        "name": "Mini Split LG  VM182H9 DualCool Inverter WiFi Frío y Calor 18,000 BTU 230V 1.5 Ton",
-        "url": "https://www.sams.com.mx/ip/mini-split-lg-vm182h9-dualcool-inverter-wifi-frio-y-calor-18-000-btu-230v-1-5-ton/980025448",
-        "price": 16776.18,
-        "model": "VM182H9"
-      },
-      {
-        "store": "sams",
-        "name": "Mini Split LG  VM242H9 Dual Cool Inverter WiFi Frío y Calor 22,000 BTU 230V 2 Ton",
-        "url": "https://www.sams.com.mx/ip/mini-split-lg-vm242h9-dual-cool-inverter-wifi-frio-y-calor-22-000-btu-230v-2-ton/980017873",
-        "price": 19231.38,
-        "model": "VM242H9"
-      }
-    ]
-  },
   "liverpool|VEAT00L": {
     "ts": "2026-07-04T08:51:15.477826+00:00",
     "items": []
@@ -13535,5 +12450,1642 @@
         "model": "GPU/16GB/512GB"
       }
     ]
+  },
+  "liverpool|55QM64L": {
+    "ts": "2026-07-06T03:55:41.454995+00:00",
+    "items": []
+  },
+  "coppel|55QM64L": {
+    "ts": "2026-07-06T03:55:42.927281+00:00",
+    "items": []
+  },
+  "mercadolibre|55QM64L": {
+    "ts": "2026-07-06T03:56:08.374138+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Para Samsung Qn65qn85caf Bn44-01165a",
+        "url": "https://www.mercadolibre.com.mx/fuente-para-samsung-qn65qn85caf-bn4401165a/up/MLMU3245655052",
+        "price": 2399.0,
+        "model": "Qn65qn85caf"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "H26m31003gmr Fbga-153 H26m31003 Fbga153 26m31003gmr",
+        "url": "https://www.mercadolibre.com.mx/h26m31003gmr-fbga153-h26m31003-fbga153-26m31003gmr/up/MLMU459672285",
+        "price": 600.0,
+        "model": "H26m31003gmr"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main + Tcon Quaroni Q43ntfx 9216m3c1",
+        "url": "https://www.mercadolibre.com.mx/main--tcon-quaroni-q43ntfx-9216m3c1/up/MLMU3286211400",
+        "price": 849.0,
+        "model": "9216m3c1"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Bn44 00054a Bn41 00195a Main Y Fuente Samsung Gh17lsas",
+        "url": "https://www.mercadolibre.com.mx/bn44-00054a-bn41-00195a-main-y-fuente-samsung-gh17lsas/up/MLMU721741945",
+        "price": 850.0,
+        "model": "Gh17lsas"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Smart Tv Aiwa Roku 50 Pulgadas Qled 4k Ultra Hd",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=pqsUjmxB7V1LXta57c23CNi4SCMmcmiB9zMWBwbAn1bnJT4MDL37EqL1L5yHSwOIBB9oqwYIawOXjupi5l4DdkjXn1VTfyeR2IUXxdtjRpN5MOzn%2FS6duVRdRylM9fqQPWTYiP27Z8ikhihlyuJdCZG5p%2F4R2iUgICJOVvS2tFToSAbeIkgK2ySW02MGzfmLHNE8qlcCdjs%2BghPb5DqBvH%2BbhVgnjY99EvLzTkjU7W6U2JG1A3pBxAuq%2Bc6S%2FtGLAGzisAj18s2D2o1ZiZJDmo3C%2FAmcDarYrpIUMds%2B%2FHGRCv6MLwIM2jv6YB9HhLEsmoQrB%2BMWeFHoMmG4VkCIsDixzTCmTXaq0L8NnTii9BabP4uplgsfrcbZdma1njh1pOZuI%2BWinIwwMitpBqjkhLfWxmgByp7mFjqhPapThuwsCvxLfqVHttpZcWbKH4WrilI4PpTJ0FAd6GNPKfZDJrR2XzrFEg%2FOAzuRRxNJbYNbVWf35z1aCw9dAES%2F7yQhCkqIFT6YHSCghCjSz40ShmeAcLvz%2BOkJiDqx12otPfubYAqBAIrn6HdWeKLuzMsc33xsxKC6Hya4X0qUh%2BOQVE6ej%2BwhEVDi23QZzAe08ZkllpaiSOmvgsLf00KIjXtQejBNzV%2F1FaebLna35zc6XZuNhH%2BFYt2A9Irpv8HeP68RUJo2jRkeIKk6vEzbqFAwep3A%2Fl4pq230Sb3FDnAtkN7WNE8M0ueK2lXpVLvECiUeYygyUREJ3rXLIqA6lfyf1GW5HTYuKCEsz3yBd%2BRRksObd6zRVeOd4C6e4dJ5x9Ux1y5LqsfCDhk7XvpqBb3m4u0N077n4gDCHzDdco2XBjDIOI%2B0QpazFtRrXcmDU8kxIi7D3yRM3JjL8hDD2caHdqpC3CMNX%2Bq7eFWKvHgCTN8%2BOY0HCvdd2jnp7Vzyh9ZzVrWZQktby3moLaGHq1hruVA2fnFcLrLxkGLoobB1inNL7bDgMidXYAQSIapSUPvHvsBGNEpmKHbW30avOP6Z9lF9RwLFR2FZ7LL8&pdp_filters=item_id%3AMLM4568402546",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Smart Tv Aiwa 65 Pulgadas Qled 4k Roku Tv Aw65rkq",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=ffWHwVSvjA0b1gXAGQZFPm9YwiORR7tUq1nyxIhumRFlXvqGhBijOyEb4R8Ut%2B64ep6xFM6NaPS8DegLaAuSEJhRepiwUlveWvmic%2FCHpp3PfaU6MmE5oeo1LdWg9%2B53FV7Qcr8idvgjf2COZqYTwdaMKo5PMd4d90xtJzhHzi8tj4RhmVUzqGk9r7pW5Or1wJuHjozC3l7jltz3z2RIfvvAKrI67rduQrq1WjjpL7hL2vlnDkNE%2Fw%2FrwusG4UBmOrSW44Phi0SjCOWFIDg3%2BwfAL67pp%2Bd8wQ1nAowdgbNDv0jjRaLqbsfnU1V8nKvjWIYhpprTI0YEXOYepzih3gDrVqaZQl%2B7AJZtEP3%2BL1gJVZoe%2BTOMf4Tz9YOuwpSInEhAUf6%2Bclo3Z0dw1Y6y5PUoxvOhL9b5C8OSvO8Lylv1sSzDUE58P86fvg9%2FTuXXuJ0RCUo5cUhYCypBPHXeXOMieMRf1Wk0jMAuT%2B7sByirxGvwt2mt3xtkMFifExNyyPeAq2Zb7LMz5HCUWapyH73NfNzObIT2haGqW5pG8BbqYg2kox1hzPkE86LQaQa%2F7PJANbBEbjw9xeUwkYYfa%2BFQ2YHXOh6IQu0qxOat0p6t4FkY473aEeciGBY2pYJAu2DkH55w2oTLX5cZeJvnJSoIj4YmxkneSsr9k67SUMpIkvot%2B7IygpORIcfrIxIAg2eD9rrxYs1OoAx4opdRwbObFtXruWMqApSpGOxKJiAmOJdqTvOmFrPJoJibRkov82ehTTCChHaJpjqZ1Emi67wz509ih0baCdKNLTpMmpCV3nUl8iE%2BrBLGeT9Diwjk%2FX914A5ErCJrEec%2FYuJ5koOX5lZYAN5RoPtdcdq8vhCvai9zHluScOa%2B6bUPJm65U8Pmfq6vnzF%2FBd2g0yU%2BJ%2F670jg2ymyJaUe5bzL5jdSu1BDxeciBYC6z2HUMduJDQHEZIB8S2SWNCJMa6mlQD4QSyYgCzYGiRsbgdvKMtRT2%2Fl6%2FFcRmnGMOM1X%2BoxKNiIYLUq2QEbbstfh8OfI%3D&pdp_filters=item_id%3AMLM5458409720",
+        "price": 9999.0,
+        "model": "Aw65rkq"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Aiwa 43 Pulgadas Qled Full Hd Smart Tv Con Wifi",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=pvUrnkUa5PFDrc7jHkD%2FIdTnfSw4Q1O2VIroaL%2Bc0C02%2BJY0djFJKjO7uVxAVXGfhNsl4UwUp2RWmt%2FYyt6F5GXFz2ysqZGRG0z4kWHg1pOuEk7MyK%2FqYSpkIyEkMLBt9yvSOZF3ql4SihQm%2FzL05v1E2k7v%2BWNYiJBZ5B07R44siEpykBRQ2yqhzcl9Mr8AmPyyO3Gu%2BHq2GEYCItXKp7PCqQR6iGo%2FGTckABIK84nFg4ParZ4%2FvrI9cVzLk2rOx6d0cntiqaCAruveaIWSZEM9XVVjGaG4gvI%2BV2kgVs2hSBaPEg5k1g1y5R0OHhIklB%2F4crw8FWKknmRL9JIwymuu9vqc0xBmKWlEhDoLo8rudvwRI5qsE4ZZnknzDkYg0ScBC3mj7cdAexhB6Hr7cIoY%2BYzDFQn6nMLPlE%2B69wD9mXa4wbv2w5Ojqpy8AsY%2BSwPqwluYg9toMv5fa8ynm1ddC77gGyulUSW%2FwdA4%2FXwFErgOde8vq3YNynjCmdSAkbatAf3x0GxeilMuyePyx2cNUIufnxbqq%2FYbNtAB%2BjD%2FwJX5Kn5mpeAKRVPa1MstwzGtQd8YRALRH5eS28hJJ9IpMx7g4AD9%2F6P9doGCDBRw8pUWlMYROYmZ%2BkiPcX1WjT5uKPYs5jhdRRM21xt1SHIll7wjwFxBisJkl%2F3YPeYj5aykJPXoKL%2F0GpddzLbOTiidLE%2Ff8qKyI3oYtPbd3DpCEw4M5gjEAfOoWMHyExCperQyylnUKoXSThA1dl4SUpNBWANWoOLA9sbSw7es0Z68Giwa8oQ%2F%2BXaVibav7CbggJmVWlC6l5lbeu456sFJndsAAGq7JJmItWswK8gm49cGcD9sjkAkUCJihjz2BqoL5perhNrGDPVN6gKeumnv6gvH6ko9TdcRlRpi6fjNsY2Xn%2FFkEaLMdnbRBYL06t7aU4mOdklUJ6AmB59n198vr7PqjHa9%2Be%2BLncX6GOfJDi1M%2F62io77ktt4UrUHk50LOMzgIf67oV6Z1ROmogffF5S16P%2Fud2DRB0PuF&pdp_filters=item_id%3AMLM5512176272",
+        "price": 4937.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart TV 32 pulgadas Toshiba Pantalla LED, Resolución HD, HDMI, USB, Sistema Operativo Fire TV,",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=sqd2iUvbG7O5r77xctvoSNRbGzovWDjfWEQzthWYBWq9vQ0Be0bRJvrUxZ0e5iBa1TQ%2FNxvrX%2BRsyCzOpk6RQTGbg9XKBALNJfcDPvCzHQ9JWI022yZmJ9lAmhWKTAWRZUxw567ozGXYdmOag7WxCDBL731OkREPxSv7%2FkOHhA52yI93z9ExFGLCDotxJUM7xmF1yClnckg9Pn9WW2lLkj8aLiapSuxnIUwbllotu%2FrWQJeKKh1UwH8Tl5kL21eyJTeYvoL9M%2FEr2TbMgnjGnAE%2FL5dWLb8VyydXH%2BtWKLkX8bg5%2BEoxy76P4urcW8JQtqZbggsZLCV8Jd8HZMQptbKicEwvJQmrVdUYpromG3Soh%2BUkxwmXtmHuTTkFxp7V95HeZ7Pj%2Ff7Ah0titz4GWzmYxwWeOQfn%2Fcu49QJJwWxRx%2BOMZYZbnKFgldpxexlZfD%2BIxqbZ151VyhTsudj9JUU%2FSMMxpjW0d3pk50EtL3IriJCkIXOUaUTugm%2B8WiDY0BwsKac%2BveQdgUn8IvP6GZ9Z%2Bw%2B6LaM5Mk%2BgvJjctmR5XhrXaXQC%2Be%2F3kw4NdpLNeLR0Hd%2Fiv9FQkRFblg8q4uk5RbQU9BF%2BBM9Wjn7wZNJKviG%2BF%2B0u2ndCBWPDRFJktIByi2eCpAGmdCWuNZoFYcPvvQumeh1l5ZmWTbO2BrF94qVl0x8l96A%2BB9x1y9UeD9HEDK5LjRAI4u%2B%2B6w%2BNV1eLhT%2BO6ixC%2FEK2yOY9J%2BdAMNiJzw02lqMH63d0mmWLxZNwQJWl9gZ2BhFEkkf8rLQjQ6NCgX3WYvzjuJ94Q1zs35L1k8Sff%2FMbMU4XX68ZtuS3tgVdmlwpOM7mbhGkiO%2FV92UBcyTgf2XNRDdvWcAh%2FvsERLkhNZp6A8qWxyZlgu%2FX9jXUk1dv6tDoFX100FZxANOaWVdYVKkefyEax0jfgkIYewFK3U1CNfiiV25arymTANyFh5V25KLw5kezJOObNQ%2FqfxP8GnpohThVMwUceng1mTOHE99MBg5MWsozv8mVbMZH4T3EJd47dSLD36KNWc9XHmmAv90xHOHbKaFkMCbUMfAwK1Wb3ans&pdp_filters=item_id%3AMLM2782194795",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Display Lcd Quanta Qd14xl07 14.1 Xga",
+        "url": "https://www.mercadolibre.com.mx/display-lcd-quanta-qd14xl07-141-xga/up/MLMU1011519006",
+        "price": 300.0,
+        "model": "Qd14xl07"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tarjeta Main Jvc Si65urf 9010t10e",
+        "url": "https://www.mercadolibre.com.mx/main-para-onn-onr65gfu-mx-trabaja-con-panel-lg/p/MLM2081431523",
+        "price": 840.0,
+        "model": "9010t10e"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Para Tv Tcl 75qm6k 40-m653gi-mab2hg",
+        "url": "https://www.mercadolibre.com.mx/tcl-main-75qm6k-g0102-000564-40-m653gi-mab2hg-v8-t653t01-lf/p/MLM2082277391",
+        "price": 1499.0,
+        "model": "40-m653gi-mab2hg"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Qn55q60raf Leds. 100% Nuevo 1a. Calidad. (2t-52l ) Luz Azul",
+        "url": "https://www.mercadolibre.com.mx/qn55q60raf-leds-100-nuevo-1a-calidad-2t52l--luz-azul/up/MLMU2959859428",
+        "price": 890.0,
+        "model": "Qn55q60raf"
+      }
+    ]
+  },
+  "liverpool|K75S20M2": {
+    "ts": "2026-07-06T03:56:42.649679+00:00",
+    "items": []
+  },
+  "coppel|K75S20M2": {
+    "ts": "2026-07-06T03:56:44.318831+00:00",
+    "items": []
+  },
+  "amazon|K75S20M2": {
+    "ts": "2026-07-06T03:56:48.236865+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Quantum TV de 85\" Pulgadas Clase Q80D Series QLED 4K Smart Tizen TV - QN85Q80DDFXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FFF8FCGZ",
+        "price": 26699.99,
+        "model": "QN85Q80DDFXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "ONN Televisión de 43 Pulgadas Serie 1 Class 4K 2160p Pantalla LED Smart TV HDR Compatible con Alexa y Google Assistant (Sin Bases) + Soporte de Pared (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C47PZ6HR",
+        "price": 4499.0,
+        "model": "2160p"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart Google TV Serie Q3 de 43\" Pulgadas (1080p) Full HD QLED (2025) HDR, y Bajo Retraso, Gaming - 43Q31K (Reacondicionada) + Soporte de Pared",
+        "url": "https://www.amazon.com.mx/dp/B0GYZSVCTV",
+        "price": 4449.0,
+        "model": "43Q31K"
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 75” LED 4K HDR Google TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DYK7Z9PZ",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sony BRAVIA 2 II Pantalla 75” LED 4K HDR Google TV 2025 Barra de Sonido de 2.1 Canales con Potente Subwoofer Inalámbrico I HT-S400",
+        "url": "https://www.amazon.com.mx/dp/B0FCLT2HJH",
+        "price": 21478.44,
+        "model": "HT-S400"
+      },
+      {
+        "store": "amazon",
+        "name": "RMF-TX920U Voice Remote Control Replacement for 2023-2025 BRAVIA Smart TV K-55S20M2 K-65S20M2 K-75S20M2 K-55XR50 K-65XR50 K-75XR50 K-85XR50 K-55XR80 K-65XR80 K-77XR80 K-55XR80M2 K-65XR80M2",
+        "url": "https://www.amazon.com.mx/dp/B0GXS3LBZJ",
+        "price": 460.3,
+        "model": "RMF-TX920U"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Television De 32 Pulgadas 32S357 Class Full HD 1080p LED Smart TV Funciona con Alexa y Asistente Google (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C6YSBVQ8",
+        "price": 2399.0,
+        "model": "32S357"
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Televisión 50U721XR ROKU Pantalla 50 Pulgadas Smart TV 4K HDR con WiFi, Aplicación Móvil, Audio Dolby, Diseño Ultra Delgado Sin Marco Metálico",
+        "url": "https://www.amazon.com.mx/dp/B0G1CXRGV8",
+        "price": 4999.0,
+        "model": "50U721XR"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Television De 32 Pulgadas Class Full HD 1080p LED Smart TV Funciona con Alexa y Asistente Google + Soporte de Pared (Sin Bases) 32S357 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C6YRYH9L",
+        "price": 2699.0,
+        "model": "32S357"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television U7N Pantalla 75 Pulgadas,Mini-LED Pro Smart Google TV UHD 4K,Control Remoto por Voz con Alexa,Modo de Juego Pro de 144 Hz,Hi-View Engine Pro, Low Reflection Screen",
+        "url": "https://www.amazon.com.mx/dp/B0D2LH1VWR",
+        "price": 25499.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|K75S20M2": {
+    "ts": "2026-07-06T03:57:31.214040+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Mezcladora ABS para Lavabo, Cuello Curvo, Manerales de Palanca, IUSA",
+        "url": "https://www.walmart.com.mx/ip/mezcladora-abs-para-lavabo-cuello-curvo-manerales-de-palanca-iusa/00079127917478",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador Andoer T2-PK Monte de Metal Anillo Adaptador de Montaje T/T2 Reemplazo de Adaptador de Lente T2 Para K-70/K-50/K-30/K-500/K-1/K-3/K-3 II/K-5 IIS/K-5 II/K-5/K-7",
+        "url": "https://www.walmart.com.mx/ip/adaptador-andoer-t2-pk-monte-de-metal-anillo-adaptador-de-montaje-t-t2-reemplazo-de-adaptador-de-lente-t2-para-k-70-k-50-k-30-k-500-k-1-k-3-k-3-ii-k-5-iis-k-5-ii-k-5-k-7/00764529138292?athbdg=L1500",
+        "price": 134.0,
+        "model": "K-70/K-50/K-30/K-500/K-1/K-3/K-3"
+      },
+      {
+        "store": "walmart",
+        "name": "K Cup reutilizable negro K Cup reutilizable compatible con Keurig K-Classic K Cup reutilizable para cafeteras Keurig",
+        "url": "https://www.walmart.com.mx/ip/k-cup-reutilizable-negro-k-cup-reutilizable-compatible-con-keurig-k-classic-k-cup-reutilizable-para-cafeteras-keurig/00734786219847?athbdg=L1300",
+        "price": 668.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mezcladora ABS para Lavabo, Manerales de Palanca, Primo Basi-k, IUSA",
+        "url": "https://www.walmart.com.mx/ip/mezcladora-abs-para-lavabo-manerales-de-palanca-primo-basi-k-iusa/00079127917476?athbdg=L1300",
+        "price": 209.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Termopar tipo K, termopar tipo K Termopar duradero Suministros para la industria automatizada Solución innovadora",
+        "url": "https://www.walmart.com.mx/ip/termopar-tipo-k-termopar-tipo-k-termopar-duradero-suministros-para-la-industria-automatizada-solucion-innovadora/00629510378433?athbdg=L1300",
+        "price": 339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Termopar Tipo K, Sensor De Temperatura Tipo K De Termopar Para La Industria Química Para La Medicina ANGGREK Otros",
+        "url": "https://www.walmart.com.mx/ip/termopar-tipo-k-sensor-de-temperatura-tipo-k-de-termopar-para-la-industria-quimica-para-la-medicina-anggrek-otros/00065299776957",
+        "price": 336.94,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Orbital Sander Replacement Pad,for XOB01Z BO5041/K BO5030/K BO5031",
+        "url": "https://www.walmart.com.mx/ip/orbital-sander-replacement-pad-for-xob01z-bo5041-k-bo5030-k-bo5031/00323300839045",
+        "price": 641.0,
+        "model": "BO5041/K"
+      },
+      {
+        "store": "walmart",
+        "name": "2pcs New For K-30 K-50 K30 K50 K500 K-s1 Ks2 K-3 Aperture Solenoid Plunger Coupler Digital Camera R",
+        "url": "https://www.walmart.com.mx/ip/2pcs-new-for-k-30-k-50-k30-k50-k500-k-s1-ks2-k-3-aperture-solenoid-plunger-coupler-digital-camera-r/00484180893320",
+        "price": 1492.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "INGENIER?A K&S K & S ENGINEERING  KS8141",
+        "url": "https://www.walmart.com.mx/ip/ingenier-a-k-s-k-s-engineering-ks8141/00061412118141",
+        "price": 586.32,
+        "model": "KS8141"
+      },
+      {
+        "store": "walmart",
+        "name": "INGENIER?A K&S K & S ENGINEERING  KS8234",
+        "url": "https://www.walmart.com.mx/ip/ingenier-a-k-s-k-s-engineering-ks8234/00061412118234",
+        "price": 565.66,
+        "model": "KS8234"
+      },
+      {
+        "store": "walmart",
+        "name": "Termómetro Digital de Temperatura con Termopar -1310, Termómetro Digital Portátil Tipo K, Termómetro Digital Tipo K",
+        "url": "https://www.walmart.com.mx/ip/termometro-digital-de-temperatura-con-termopar-1310-termometro-digital-portatil-tipo-k-termometro-digital-tipo-k/00471256683520",
+        "price": 256.21,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Termopar tipo K, BERM Termopar tipo K Sonda de sensor de temperatura de termopar tipo K Multifuncional Jadeshay A",
+        "url": "https://www.walmart.com.mx/ip/termopar-tipo-k-berm-termopar-tipo-k-sonda-de-sensor-de-temperatura-de-termopar-tipo-k-multifuncional-jadeshay-a/00097019684011?athbdg=L1300",
+        "price": 250.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|K75S20M2": {
+    "ts": "2026-07-06T03:57:35.958492+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Hielo Frost  15 K",
+        "url": "https://www.sams.com.mx/ip/hielo-frost-15-k/981040667",
+        "price": 61.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Bolonia Rosarito  1 K",
+        "url": "https://www.sams.com.mx/ip/bolonia-rosarito-1-k/000019786",
+        "price": 112.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lapicera Ruz  Infantil K-pop",
+        "url": "https://www.sams.com.mx/ip/lapicera-ruz-infantil-k-pop/981052647",
+        "price": 305.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lonchera Ruz  Infantil K-Pop",
+        "url": "https://www.sams.com.mx/ip/lonchera-ruz-infantil-k-pop/981052631",
+        "price": 387.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Primaria Ruz  K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-primaria-ruz-k-pop/981052622",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Hidrolavadora de Alta Presión Karcher  K 3.98",
+        "url": "https://www.sams.com.mx/ip/hidrolavadora-de-alta-presion-karcher-k-3-98/981036720",
+        "price": 5112.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toalla Providencia  Guerreras K-Pop Hunters",
+        "url": "https://www.sams.com.mx/ip/toalla-providencia-guerreras-k-pop-hunters/981045231",
+        "price": 213.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Backpack Infantil Ruz  Rígida K-Pop",
+        "url": "https://www.sams.com.mx/ip/backpack-infantil-ruz-rigida-k-pop/981050299",
+        "price": 1227.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cerezas con Tallos Member's Mark  Maraschino 2.1 k",
+        "url": "https://www.sams.com.mx/ip/cerezas-con-tallos-member-s-mark-maraschino-2-1-k/981013427",
+        "price": 210.73,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Compacta Keuring  K‑Express Single Serve",
+        "url": "https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307",
+        "price": 1021.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cobertor Matrimonial Providencia Guerreras K-Pop Secret",
+        "url": "https://www.sams.com.mx/ip/cobertor-matrimonial-providencia-guerreras-k-pop-secret/981045230",
+        "price": 449.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Queso Farmers Menoniten Tipo Chester 2.2 k",
+        "url": "https://www.sams.com.mx/ip/queso-farmers-menoniten-tipo-chester-2-2-k/000142896",
+        "price": 326.33,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|K75S20M2": {
+    "ts": "2026-07-06T03:57:46.954562+00:00",
+    "items": []
+  },
+  "walmart|DURABILIDADORIGINALAMARILLALIMPIEZA": {
+    "ts": "2026-07-06T03:58:38.954690+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Sistema de limpieza, accesorios y durabilidad del juego de cepillos y soportes para inodoro desechables. Recargas amarillas",
+        "url": "https://www.walmart.com.mx/ip/sistema-de-limpieza-accesorios-y-durabilidad-del-juego-de-cepillos-y-soportes-para-inodoro-desechables-recargas-amarillas/00078652531179?athbdg=L1300",
+        "price": 429.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "KALLORY 50Ud Cuñas Niveladoras Plásticas Amarillas Para Uso En Y Paredes Con Fácil Transporte Y Durabilidad",
+        "url": "https://www.walmart.com.mx/ip/kallory-50ud-cunas-niveladoras-plasticas-amarillas-para-uso-en-y-paredes-con-facil-transporte-y-durabilidad/00343172358928?athbdg=L6000",
+        "price": 221.98,
+        "model": null
+      }
+    ]
+  },
+  "sams|DURABILIDADORIGINALAMARILLALIMPIEZA": {
+    "ts": "2026-07-06T03:58:43.639342+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Carro de Limpieza Rubbermaid  FG617388BLA",
+        "url": "https://www.sams.com.mx/ip/carro-de-limpieza-rubbermaid-fg617388bla/981026385",
+        "price": 4797.86,
+        "model": "FG617388BLA"
+      },
+      {
+        "store": "sams",
+        "name": "Juego de Limpieza Lordon  con Cubeta y Trapeador",
+        "url": "https://www.sams.com.mx/ip/juego-de-limpieza-lordon-con-cubeta-y-trapeador/981028988",
+        "price": 560.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Limpieza Lordon  CH-L0016 7 pzas",
+        "url": "https://www.sams.com.mx/ip/set-de-limpieza-lordon-ch-l0016-7-pzas/981050107",
+        "price": 815.33,
+        "model": "CH-L0016"
+      },
+      {
+        "store": "sams",
+        "name": "Atún Aleta Amarilla Vigilante  en Aceite de Oliva 3 pzas de 115 g",
+        "url": "https://www.sams.com.mx/ip/atun-aleta-amarilla-vigilante-en-aceite-de-oliva-3-pzas-de-115-g/000132025",
+        "price": 187.2,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Atún Aleta Amarilla Member's Mark  en Aceite de 1.02 kg",
+        "url": "https://www.sams.com.mx/ip/atun-aleta-amarilla-member-s-mark-en-aceite-de-1-02-kg/980019088",
+        "price": 174.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Atún Aleta Amarilla Member's Mark  en Agua Trozos con 8 Sobres de 74 g c/u",
+        "url": "https://www.sams.com.mx/ip/atun-aleta-amarilla-member-s-mark-en-agua-trozos-con-8-sobres-de-74-g-c-u/981035350",
+        "price": 105.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Atún Aleta Amarilla Dolores  en Aceite 1.8 kg",
+        "url": "https://www.sams.com.mx/ip/atun-aleta-amarilla-dolores-en-aceite-1-8-kg/981039360",
+        "price": 296.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Atún Aleta Amarilla Dolores  en Agua 1.8 kg",
+        "url": "https://www.sams.com.mx/ip/atun-aleta-amarilla-dolores-en-agua-1-8-kg/981039361",
+        "price": 269.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Eucerin   ",
+        "url": "https://www.sams.com.mx/ip/eucerin/981041884",
+        "price": 715.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Detergente Líquido Ariel  Limpieza Profunda 8 L",
+        "url": "https://www.sams.com.mx/ip/detergente-liquido-ariel-limpieza-profunda-8-l/980027611",
+        "price": 347.81,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Detergente en Polvo Ariel  Limpieza Profunda 8 kg",
+        "url": "https://www.sams.com.mx/ip/detergente-en-polvo-ariel-limpieza-profunda-8-kg/980017350",
+        "price": 304.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Shampoo Head & Shoulders Base Limpieza Protectora 1.19L",
+        "url": "https://www.sams.com.mx/ip/shampoo-head-shoulders-base-limpieza-protectora-1-19l/981049185",
+        "price": 162.66,
+        "model": null
+      }
+    ]
+  },
+  "amazon|24PFS5675OF8": {
+    "ts": "2026-07-06T03:58:45.602232+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "PHILIPS 241V8AW - Monitor FHD de 24 Pulgadas con Altavoces incorporados (1920 x 1080, 75 Hz, VGA, HDMI) Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0CRHXT8HF",
+        "price": 2777.55,
+        "model": "241V8AW"
+      }
+    ]
+  },
+  "walmart|24PFS5675OF8": {
+    "ts": "2026-07-06T03:59:05.391205+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV Philips Portátil 24 Pulgadas Google FHD LED 24PFS5675G/F8",
+        "url": "https://www.walmart.com.mx/ip/tv-philips-portatil-24-pulgadas-google-fhd-led-24pfs5675g-f8/00085007256805?athbdg=L1300",
+        "price": 2690.0,
+        "model": "24PFS5675G/F8"
+      },
+      {
+        "store": "walmart",
+        "name": "Pantalla Philips 24PFL6675/F8 24\" HD Roku LED WiFi  1280x720",
+        "url": "https://www.walmart.com.mx/ip/pantalla-philips-24pfl6675-f8-24-hd-roku-led-wifi-1280x720/00085007256818?athbdg=L6000",
+        "price": 3599.0,
+        "model": "24PFL6675/F8"
+      },
+      {
+        "store": "walmart",
+        "name": "Filtro HEPA de 10 Piezas Lavable para X20 / X30 / X30 / S2 / F8 Storm Pro Aspiradora Inalámbrica",
+        "url": "https://www.walmart.com.mx/ip/filtro-hepa-de-10-piezas-lavable-para-x20-x30-x30-s2-f8-storm-pro-aspiradora-inalambrica/00471305551712",
+        "price": 426.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "8 PCS HEPA Filter Washable for X20 / X30 / X30 / S2 / F8 Storm Pro Wireless Vacuum Cleaner",
+        "url": "https://www.walmart.com.mx/ip/8-pcs-hepa-filter-washable-for-x20-x30-x30-s2-f8-storm-pro-wireless-vacuum-cleaner/00412402697225",
+        "price": 530.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TV Philips 50 Pulgadas Google UHD LED 50PUL7552/F8",
+        "url": "https://www.walmart.com.mx/ip/tv-philips-50-pulgadas-google-uhd-led-50pul7552-f8/00085007256861?athbdg=L1300",
+        "price": 5790.0,
+        "model": "50PUL7552/F8"
+      },
+      {
+        "store": "walmart",
+        "name": "Kit de Filtros de Agua iPettie IP-WF-S04-F8 para Fuente para Gatos",
+        "url": "https://www.walmart.com.mx/ip/kit-de-filtros-de-agua-ipettie-ip-wf-s04-f8-para-fuente-para-gatos/00081661802413?athbdg=L1300",
+        "price": 679.0,
+        "model": "IP-WF-S04-F8"
+      },
+      {
+        "store": "walmart",
+        "name": "8 Pcs Hepa Filter Washable For X20 / X30 / X30 / S2 / F8 Storm Pro Wireless Vacuum Cleaner",
+        "url": "https://www.walmart.com.mx/ip/8-pcs-hepa-filter-washable-for-x20-x30-x30-s2-f8-storm-pro-wireless-vacuum-cleaner/00888123078680",
+        "price": 781.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Filtro De Aspiradora Para Xiaomi Roidmi Wireless F8 Pro",
+        "url": "https://www.walmart.com.mx/ip/filtro-de-aspiradora-para-xiaomi-roidmi-wireless-f8-pro/00692307067467?athbdg=L6000",
+        "price": 1026.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Filtro HEPA de 10 Piezas Lavable para X20 / X30 / X30 / S2 / F8 Storm Pro Aspiradora Inalámbrica",
+        "url": "https://www.walmart.com.mx/ip/filtro-hepa-de-10-piezas-lavable-para-x20-x30-x30-s2-f8-storm-pro-aspiradora-inalambrica/00613226886688",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Compatible Para Philips Tv 32pfl4509/f8 Mas Funda Philips Control Compatible Para Philips Tv 32pfl4509/f8 Mas Funda",
+        "url": "https://www.walmart.com.mx/ip/control-compatible-para-philips-tv-32pfl4509-f8-mas-funda-philips-control-compatible-para-philips-tv-32pfl4509-f8-mas-funda/00072014020634",
+        "price": 454.02,
+        "model": "32pfl4509/f8"
+      },
+      {
+        "store": "walmart",
+        "name": "TV Philips 65 Pulgadas Google UHD LED 65PUL7552/F8",
+        "url": "https://www.walmart.com.mx/ip/tv-philips-65-pulgadas-google-uhd-led-65pul7552-f8/00085007256863?athbdg=L1300",
+        "price": 8990.0,
+        "model": "65PUL7552/F8"
+      },
+      {
+        "store": "walmart",
+        "name": "Filtro de Aspiradora BuyWeek Para Roidmi F8",
+        "url": "https://www.walmart.com.mx/ip/filtro-de-aspiradora-buyweek-para-roidmi-f8/00642157984690?athbdg=L1300",
+        "price": 250.04,
+        "model": null
+      }
+    ]
+  },
+  "amazon|LGLAVASECADORAELECTRICAFRONTALCARGA": {
+    "ts": "2026-07-06T03:59:08.025314+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lavasecadora LG 14/8 Kilos Carga Frontal WD14VV3S6C",
+        "url": "https://www.amazon.com.mx/dp/B0CFSK1BXS",
+        "price": 14381.61,
+        "model": "WD14VV3S6C"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda/Forro Para Lavadora/Secadora/Lavasecadora Carga Frontal Con Pedestal Samsung Lg Whirlpool Maytag",
+        "url": "https://www.amazon.com.mx/dp/B0F8PKDDZB",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavasecadora Inverter Hisense 15 Kilos Carga Frontal Gris WD3S1543BT",
+        "url": "https://www.amazon.com.mx/dp/B08DLLDQCZ",
+        "price": 10899.0,
+        "model": "WD3S1543BT"
+      },
+      {
+        "store": "amazon",
+        "name": "LG WD22VVS6 Lavasecadora Carga Frontal para 22 kg, color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0778RDWS4",
+        "price": 35999.0,
+        "model": "WD22VVS6"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea lavasecadora carga frontal 15kg/8kg MF210D150WB/T",
+        "url": "https://www.amazon.com.mx/dp/B0GNP1LWP7",
+        "price": 10998.0,
+        "model": "MF210D150WB/T"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Lavadora doble tina WSA1102PCN, Semiautomática, 11 Kg, Temporizador de Lavado y Centrifugado, 111x63x84cm(AnchoxLargoxAlto), Blanco/Gris",
+        "url": "https://www.amazon.com.mx/dp/B09ZKGRGQ6",
+        "price": 3290.0,
+        "model": "111x63x84cm"
+      },
+      {
+        "store": "amazon",
+        "name": "LG - SECADORA FRONTAL LG DF20WV2W 20KG",
+        "url": "https://www.amazon.com.mx/dp/B08Y1XHMJL",
+        "price": 14699.0,
+        "model": "DF20WV2W"
+      },
+      {
+        "store": "amazon",
+        "name": "Cubierta para lavadora/secadora, fundas para lavadora y secadora, cubierta para lavadora para máquina de carga frontal impermeable y a prueba de polvo W27 D33 H39 pulgadas (plata)",
+        "url": "https://www.amazon.com.mx/dp/B07QYSVND8",
+        "price": 499.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavasecadora Samsung, Capacidad de 13 Kilos, Digital Inverter, Carga Frontal, Color Blanco, Modelo WD13FG6B34BEA",
+        "url": "https://www.amazon.com.mx/dp/B0GWFPGKLX",
+        "price": 14219.0,
+        "model": "WD13FG6B34BEA"
+      },
+      {
+        "store": "amazon",
+        "name": "HISENSE Lavadasecadora PureJet Eco Inverter 15 kilos Carga Frontal MOD.WDQY1514",
+        "url": "https://www.amazon.com.mx/dp/B0CTPF5JRG",
+        "price": 12599.0,
+        "model": "WDQY1514"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Lavasecadora de 20 kg WD20T6300GP/AX carga Frontal",
+        "url": "https://www.amazon.com.mx/dp/B0B1S1PNHJ",
+        "price": 19569.0,
+        "model": "WD20T6300GP/AX"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavasecadora 22 Kilos Samsung, Carga Frontal, Color Gris, Modelo WD22T6300GP",
+        "url": "https://www.amazon.com.mx/dp/B0CJL42684",
+        "price": 17553.0,
+        "model": "WD22T6300GP"
+      }
+    ]
+  },
+  "walmart|LGLAVASECADORAELECTRICAFRONTALCARGA": {
+    "ts": "2026-07-06T03:59:32.856755+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Secadora LG 25kg Carga Frontal de Gas Sensor Dry y Autodiagnóstico Smart Diagnosis",
+        "url": "https://www.walmart.com.mx/ip/secadora-lg-25kg-carga-frontal-de-gas-sensor-dry-y-autodiagnostico-smart-diagnosis/00880608420788",
+        "price": 15499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora Carga Frontal Inteligente 6 Motion DD con Motor Inverter AI Direct Drive 14Kg/8Kg LG WD14VV3S6C",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-carga-frontal-inteligente-6-motion-dd-con-motor-inverter-ai-direct-drive-14kg-8kg-lg-wd14vv3s6c/00880609137266?athbdg=L1300",
+        "price": 13879.0,
+        "model": "WD14VV3S6C"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 16/8 Kg Grafito WD16EGNTS6P Carga Frontal",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-16-8-kg-grafito-wd16egnts6p-carga-frontal/00880608459984?athbdg=L1300",
+        "price": 15490.0,
+        "model": "WD16EGNTS6P"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 22/13kg Carga Frontal Silver",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-22-13kg-carga-frontal-silver/00880609146553?athbdg=L1300",
+        "price": 20590.0,
+        "model": "22/13kg"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 14/8 Kilos Carga Frontal WD14VV3S6C",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-14-8-kilos-carga-frontal-wd14vv3s6c/00750304548849?athbdg=L1300",
+        "price": 17579.0,
+        "model": "WD14VV3S6C"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 12 Kg Silver",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-12-kg-silver/00880609847672?athbdg=L1300",
+        "price": 11490.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora LG 22Kg Carga Frontal Silver",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-22kg-carga-frontal-silver/00880609613369?athbdg=L1300",
+        "price": 18990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora LG 20 kg Carga Frontal AI DD 6 Motion DD Conectividad ThinQ Inverter",
+        "url": "https://www.walmart.com.mx/ip/lavadora-lg-20-kg-carga-frontal-ai-dd-6-motion-dd-conectividad-thinq-inverter/00880609147294?athbdg=L1300",
+        "price": 14439.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora LG 12 Kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-lg-12-kg-blanca/00880609847673?athbdg=L6000",
+        "price": 23300.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavasecadora Samsung 20/12 Kg Carga Frontal  Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavasecadora-samsung-20-12-kg-carga-frontal-blanca/00750940182356?athbdg=L1300",
+        "price": 18990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Secadora de carga frontal LG 20 kg COLOR BLANCO DF20WV2WW",
+        "url": "https://www.walmart.com.mx/ip/secadora-de-carga-frontal-lg-20-kg-color-blanco-df20wv2ww/00074171815745?athbdg=L1300",
+        "price": 15998.0,
+        "model": "DF20WV2WW"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Carga Frontal Inteligente LG Inverter AI DD™ 22kg Blanco",
+        "url": "https://www.walmart.com.mx/ip/lavadora-carga-frontal-inteligente-lg-inverter-ai-dd-22kg-blanco/00880609146580?athbdg=L1300",
+        "price": 14499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|LGLAVASECADORAELECTRICAFRONTALCARGA": {
+    "ts": "2026-07-06T03:59:36.950408+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG   Carga Frontal 16 kg/8 kg Negra",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-16-kg-8-kg-negra/981050698",
+        "price": 18411.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
+        "price": 22197.05,
+        "model": "WD22T6300GP/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Carga Frontal 14 kg Lavado/7 kg Secado WD14VV3S6C",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-carga-frontal-14-kg-lavado-7-kg-secado-wd14vv3s6c/981028259",
+        "price": 15598.7,
+        "model": "WD14VV3S6C"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora LG  Inverter Carga Frontal 12 kg Lavado/7 kg Secado WD12VVC4S6S",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-inverter-carga-frontal-12-kg-lavado-7-kg-secado-wd12vvc4s6s/980018037",
+        "price": 12990.05,
+        "model": "WD12VVC4S6S"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Samsung  Carga Frontal 18 kg Lavado/10 kg SecadoWD18T6000GP",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-18-kg-lavado-10-kg-secadowd18t6000gp/981032508",
+        "price": 19434.95,
+        "model": "SecadoWD18T6000GP"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Secado CHAC2186NXGG0",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322",
+        "price": 15139.38,
+        "model": "CHAC2186NXGG0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Hisense  Carga Frontal 16 kg Lavado/10 kg Secado WD5S1645BT",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-hisense-carga-frontal-16-kg-lavado-10-kg-secado-wd5s1645bt/981028433",
+        "price": 13273.43,
+        "model": "WD5S1645BT"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Samsung  Carga Frontal 13 kg de Lavado / 8 kg de Secado WD13FG6B34BBAX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-13-kg-de-lavado-8-kg-de-secado-wd13fg6b34bbax/981045236",
+        "price": 14933.75,
+        "model": "WD13FG6B34BBAX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Samsung Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GV/AX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gv-ax/980040058",
+        "price": 25163.75,
+        "model": "WD22T6300GV/AX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora Samsung Bespoke 14 kg Lavado/9 kg Secado Carga Frontal WD14BB904DGBAX",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-14-kg-lavado-9-kg-secado-carga-frontal-wd14bb904dgbax/981022018",
+        "price": 15957.78,
+        "model": "WD14BB904DGBAX"
+      },
+      {
+        "store": "sams",
+        "name": "Lavasecadora UltraFast GE Profile  Carga Frontal 24 kg Lavado / 12 kg Secado CPA2412NXDG0",
+        "url": "https://www.sams.com.mx/ip/lavasecadora-ultrafast-ge-profile-carga-frontal-24-kg-lavado-12-kg-secado-cpa2412nxdg0/981046539",
+        "price": 36315.48,
+        "model": "CPA2412NXDG0"
+      },
+      {
+        "store": "sams",
+        "name": "Lavadora LG  Carga Frontal 25 kg WM25WV2S6W",
+        "url": "https://www.sams.com.mx/ip/lavadora-lg-carga-frontal-25-kg-wm25wv2s6w/981040725",
+        "price": 19435.98,
+        "model": "WM25WV2S6W"
+      }
+    ]
+  },
+  "walmart|CNLINKCOJACQUARDBOHEMIAALGODON": {
+    "ts": "2026-07-06T03:59:44.441412+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (azul marino, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-azul-marino-50-8-x-50-8-cm-/00092609435203",
+        "price": 506.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (negro, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-negro-50-8-x-50-8-cm-/00045211665153",
+        "price": 506.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (blanco, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-blanco-50-8-x-50-8-cm-/00092609435204",
+        "price": 506.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 30 x 50 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (caqui, 30 x 50 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-30-x-50-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-caqui-30-x-50-cm-/00012059988020",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 30 x 50 cm, de algodón y lino, con estampado de rombos jacquard para sofá cama (azul marino, 30 x 50 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-30-x-50-cm-de-algodon-y-lino-con-estampado-de-rombos-jacquard-para-sofa-cama-azul-marino-30-x-50-cm-/00012059988022",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 45 x 45 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (amarillo, 45 x 45 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-45-x-45-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-amarillo-45-x-45-cm-/00045211665145",
+        "price": 440.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 30 x 50 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (amarillo, 30 x 50 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-30-x-50-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-amarillo-30-x-50-cm-/00012059988017",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 30 x 50 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (blanco, 30 x 50 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-30-x-50-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-blanco-30-x-50-cm-/00045211665144",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 30 x 50 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (gris claro, 30 x 50 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-30-x-50-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-gris-claro-30-x-50-cm-/00012059988021",
+        "price": 423.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (gris oscuro, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-gris-oscuro-50-8-x-50-8-cm-/00092609435200",
+        "price": 506.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (gris claro, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-gris-claro-50-8-x-50-8-cm-/00092609435202",
+        "price": 506.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiao Hua Juego de 2 fundas de cojín decorativas bohemias de 50,8 x 50,8 cm, de algodón y lino con estampado jacquard de rombos para sofá cama (caqui, 50,8 x 50,8 cm)",
+        "url": "https://www.walmart.com.mx/ip/xiao-hua-juego-de-2-fundas-de-cojin-decorativas-bohemias-de-50-8-x-50-8-cm-de-algodon-y-lino-con-estampado-jacquard-de-rombos-para-sofa-cama-caqui-50-8-x-50-8-cm-/00092609435201",
+        "price": 506.99,
+        "model": null
+      }
+    ]
+  },
+  "sams|CNLINKCOJACQUARDBOHEMIAALGODON": {
+    "ts": "2026-07-06T03:59:49.593275+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Algodón Absorbente Protec Degasa Plisado 300 g",
+        "url": "https://www.sams.com.mx/ip/algodon-absorbente-protec-degasa-plisado-300-g/000051701",
+        "price": 64.44,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Toallas Multi-Usos Art'N Chef   100% Algodón 60 x 37 cm con 8 pzas",
+        "url": "https://www.sams.com.mx/ip/toallas-multi-usos-art-n-chef-100-algodon-60-x-37-cm-con-8-pzas/980038900",
+        "price": 332.39,
+        "model": null
+      }
+    ]
+  },
+  "walmart|FLEXIBLESSANDALIASSKECHERSLIBRES": {
+    "ts": "2026-07-06T03:59:57.716085+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752441?athbdg=L1300",
+        "price": 2039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752417?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787891?athbdg=L1300",
+        "price": 2099.0,
+        "model": "0-Sun"
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787883?athbdg=L1300",
+        "price": 1709.0,
+        "model": "0-Sun"
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787899?athbdg=L1300",
+        "price": 2139.0,
+        "model": "0-Sun"
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers GO Walk Flex Sublime Sport Navy para mujer 8",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-navy-para-mujer-8/00019664297902?athbdg=L1300",
+        "price": 1909.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers GO Walk Flex Sublime Sport para mujer, color negro 8",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-para-mujer-color-negro-8/00019664299387?athbdg=L1300",
+        "price": 1379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia deportiva Skechers Reggae Slim Simply Stretch para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-deportiva-skechers-reggae-slim-simply-stretch-para-mujer/00019442819028?athbdg=L1300",
+        "price": 1329.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752439?athbdg=L1300",
+        "price": 2049.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752420?athbdg=L1300",
+        "price": 2029.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Stretch Reggae Slim para Mujer Skechers Natural Talla 8",
+        "url": "https://www.walmart.com.mx/ip/sandalia-stretch-reggae-slim-para-mujer-skechers-natural-talla-8/00019442839713",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
+        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787873?athbdg=L1300",
+        "price": 2619.0,
+        "model": "0-Sun"
+      }
+    ]
+  },
+  "sams|FLEXIBLESSANDALIASSKECHERSLIBRES": {
+    "ts": "2026-07-06T04:00:02.711917+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pizza de Quesos Member's Mark  con Masa de Coliflor 2 pzas de 425 g c/u",
+        "url": "https://www.sams.com.mx/ip/pizza-de-quesos-member-s-mark-con-masa-de-coliflor-2-pzas-de-425-g-c-u/981022683",
+        "price": 167.77,
+        "model": null
+      }
+    ]
+  },
+  "walmart|CORRECTORMANCHASEUCERINPIGMENT": {
+    "ts": "2026-07-06T04:00:28.387994+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lápiz Corrector Eucerin Anti Pigment Spot Corrector 5ml",
+        "url": "https://www.walmart.com.mx/ip/lapiz-corrector-eucerin-anti-pigment-spot-corrector-5ml/00400590055952",
+        "price": 712.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Crema facial Eucerin Anti-Pigment de día anti manchas FPS30 50 ml",
+        "url": "https://www.walmart.com.mx/ip/crema-facial-eucerin-anti-pigment-de-dia-anti-manchas-fps30-50-ml/00400590055950?athbdg=L1300",
+        "price": 530.0,
+        "model": "FPS30"
+      },
+      {
+        "store": "walmart",
+        "name": "Protector solar facial Eucerin Pigment control anti manchas fps 50 50 ml",
+        "url": "https://www.walmart.com.mx/ip/protector-solar-facial-eucerin-pigment-control-anti-manchas-fps-50-50-ml/00400580024190",
+        "price": 778.49,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Crema de noche Eucerin Radiant Tone corrector de manchas oscuras 50 ml",
+        "url": "https://www.walmart.com.mx/ip/crema-de-noche-eucerin-radiant-tone-corrector-de-manchas-oscuras-50-ml/00007214003999?athbdg=L1300",
+        "price": 909.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sérum corrector de manchas oscuras Eucerin Radiant Tone 30 ml",
+        "url": "https://www.walmart.com.mx/ip/serum-corrector-de-manchas-oscuras-eucerin-radiant-tone-30-ml/00007214004000?athbdg=L1300",
+        "price": 1109.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Suero Facial REJURAN Advanced Pigment Corrector C-Pdrn para Manchas Oscuras y Pigmentación",
+        "url": "https://www.walmart.com.mx/ip/suero-facial-rejuran-advanced-pigment-corrector-c-pdrn-para-manchas-oscuras-y-pigmentacion/00081572301247?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Eucerin Anti pigmento day fps30 dia 20ml",
+        "url": "https://www.walmart.com.mx/ip/eucerin-anti-pigmento-day-fps30-dia-20ml/00500020415960?athbdg=L6000",
+        "price": 398.0,
+        "model": "fps30"
+      }
+    ]
+  },
+  "sams|CORRECTORMANCHASEUCERINPIGMENT": {
+    "ts": "2026-07-06T04:00:33.170463+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Quita Manchas Member's Mark  10 L Rinde 100 Cargas",
+        "url": "https://www.sams.com.mx/ip/quita-manchas-member-s-mark-10-l-rinde-100-cargas/000162226",
+        "price": 280.29,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Quita Manchas Dr. Beckmann QUITA MANCHAS 3 Botellas de 500 ml c/u",
+        "url": "https://www.sams.com.mx/ip/quita-manchas-dr-beckmann-quita-manchas-3-botellas-de-500-ml-c-u/981054456",
+        "price": 296.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rutina Anti Manchas Garnier  Express Aclara Crema Día 50 ml + Serum Facial 30 ml",
+        "url": "https://www.sams.com.mx/ip/rutina-anti-manchas-garnier-express-aclara-crema-dia-50-ml-serum-facial-30-ml/980036178",
+        "price": 280.29,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rutina Anti-Manchas L'Oréal  Glycolic Bright Gel 150 ml + Serum 30 ml + Crema 50 ml",
+        "url": "https://www.sams.com.mx/ip/rutina-anti-manchas-l-oreal-glycolic-bright-gel-150-ml-serum-30-ml-crema-50-ml/981025935",
+        "price": 724.27,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Gel de Ducha Eucerin  pH5 Cuerpo y Rostro 1000 ml",
+        "url": "https://www.sams.com.mx/ip/gel-de-ducha-eucerin-ph5-cuerpo-y-rostro-1000-ml/981042298",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Crema Corporal Eucerin  Advanced Repair Hidratación 48 horas 2 pzas",
+        "url": "https://www.sams.com.mx/ip/crema-corporal-eucerin-advanced-repair-hidratacion-48-horas-2-pzas/981003579",
+        "price": 731.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": " Eucerin   ",
+        "url": "https://www.sams.com.mx/ip/eucerin/981041884",
+        "price": 715.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set Anti-Manchas Nivea Luminous630 1 Serum con 30 ml + 1 Fluido con 40 ml",
+        "url": "https://www.sams.com.mx/ip/set-anti-manchas-nivea-luminous630-1-serum-con-30-ml-1-fluido-con-40-ml/981010884",
+        "price": 458.29,
+        "model": "Luminous630"
+      },
+      {
+        "store": "sams",
+        "name": "Rutina Anti-Manchas Garnier  Express Aclara Serum Vit C 40 ml + Crema FPS30 50 ml + Protector Solar FPS50 40 ml",
+        "url": "https://www.sams.com.mx/ip/rutina-anti-manchas-garnier-express-aclara-serum-vit-c-40-ml-crema-fps30-50-ml-protector-solar-fps50-40-ml/981029697",
+        "price": 500.24,
+        "model": "FPS30"
+      },
+      {
+        "store": "sams",
+        "name": "Set de Serum Facial Loreal Paris GLYCOLIC-BRIGHT Anti-manchas + Ojeras",
+        "url": "https://www.sams.com.mx/ip/set-de-serum-facial-loreal-paris-glycolic-bright-anti-manchas-ojeras/981039075",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Corrector en Cinta Zebra Tombow con 6 pzas",
+        "url": "https://www.sams.com.mx/ip/corrector-en-cinta-zebra-tombow-con-6-pzas/980024632",
+        "price": 243.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Corrector Rollerball Zebra  Tipo Pluma 1.0 mm 20 pzas",
+        "url": "https://www.sams.com.mx/ip/corrector-rollerball-zebra-tipo-pluma-1-0-mm-20-pzas/981040561",
+        "price": 1124.27,
+        "model": null
+      }
+    ]
+  },
+  "amazon|HUFFYBICICLETAMONTANARODADAHUFFY": {
+    "ts": "2026-07-06T04:00:52.192501+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "NEON Move Bicicleta De Montaña R26 XTRAIL - 21 Velocidades - Frenos De Disco - para Hombre Mujer",
+        "url": "https://www.amazon.com.mx/dp/B0FH2WBGFV",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NEON Move Bicicleta De Montaña R26 XTRAIL - 21 Velocidades - Frenos De Disco - para Hombre Mujer",
+        "url": "https://www.amazon.com.mx/dp/B0FH2X298V",
+        "price": 3499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mercurio Bicicleta de Montaña Doble Suspensión Kaizer - Todo Terreno",
+        "url": "https://www.amazon.com.mx/dp/B0FQFM3Q1D",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy - Bicicleta Infantil",
+        "url": "https://www.amazon.com.mx/dp/B07WPG4QBG",
+        "price": 6686.93,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NEON Move Bicicleta De Montaña R26 XTRAIL - 21 Velocidades - Frenos De Disco - para Hombre Mujer",
+        "url": "https://www.amazon.com.mx/dp/B0DLMG5P69",
+        "price": 3248.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta de Montaña para Adultos Rodada 26 Deportiva con 21 Velocidades Sistema Tipo Shimano, Frenos de Disco, Rin de Acero Suspension Delantera y pie de Apoyo",
+        "url": "https://www.amazon.com.mx/dp/B0F2RB8KPB",
+        "price": 3499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mercurio Bicicleta de Montaña Doble Suspensión ZTX R24 7 Velocidades Azul Todo Terreno",
+        "url": "https://www.amazon.com.mx/dp/B0DJHLXNWQ",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huffy - Bicicleta de montaña inclinada de 26 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0CFWPH6ZH",
+        "price": 4200.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta de Montaña para Adultos Rodada 24 Deportiva con 21 Velocidades Sistema Tipo Shimano, Frenos de Disco, Rin de Acero Suspension Delantera y pie de Apoyo",
+        "url": "https://www.amazon.com.mx/dp/B0F2QKKXFP",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mercurio Bicicleta Ranger Pro R29 2020, Negra con Toque Naranjas y Grises, 29 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B08TQMFX6M",
+        "price": 6499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NEON Move Bicicleta de Montaña Rodada 29 XTRAIL - 21 Velocidades - para Hombre Mujer",
+        "url": "https://www.amazon.com.mx/dp/B0DJ4HKBBW",
+        "price": 4349.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ONE O ONE Bicicleta BENOTTO Montaña PMO R26 1V. Mujer Frenos V Acero",
+        "url": "https://www.amazon.com.mx/dp/B0GM24Y2KC",
+        "price": 3699.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|HUFFYBICICLETAMONTANARODADAHUFFY": {
+    "ts": "2026-07-06T04:01:12.932963+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Benotto Cypher de Montaña Rodada 29 21 velocidades Color Roja",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-cypher-de-montana-rodada-29-21-velocidades-color-roja/00750153732497?athbdg=L1600",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Benotto Spitfire Tipo Montaña Rodada 29 18 Velocidades Color Negro",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-spitfire-tipo-montana-rodada-29-18-velocidades-color-negro/00750153739791?athbdg=L1600",
+        "price": 3501.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
+        "price": 3199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Niños Huffy Pro Thunder Rodada 16",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-ninos-huffy-pro-thunder-rodada-16/00002891401524?athbdg=L6000",
+        "price": 3749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Infantil Huffy MOD X  Rodada 16 Para Niños",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-infantil-huffy-mod-x-rodada-16-para-ninos/00750032685802?athbdg=L1300",
+        "price": 3599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Urbana Huffy Parkside R27.5",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-urbana-huffy-parkside-r27-5/00002891426771?athbdg=L1300",
+        "price": 3159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Infantil Huffy Minecraft  Rodada 16 Para Niños",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-infantil-huffy-minecraft-rodada-16-para-ninos/00002891421644?athbdg=L1300",
+        "price": 3399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227?athbdg=L1300",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Infantil Huffy  Rodada 16 Para Niñas",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-infantil-huffy-rodada-16-para-ninas/00002891421974?athbdg=L1300",
+        "price": 3799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Bluelander Rodada 29 Negro/Rojo",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-bluelander-rodada-29-negro-rojo/00750230815882?athbdg=L1300",
+        "price": 4399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Benotto Cypher Tipo Montaña Rodada 26, 21 Velocidades Negro / Rojo DS DFD 21V con Cuerpo de Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-cypher-tipo-montana-rodada-26-21-velocidades-negro-rojo-ds-dfd-21v-con-cuerpo-de-acero/00750153732496?athbdg=L6000",
+        "price": 4999.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEAIRPODSESTUCHECARGAAPPLE": {
+    "ts": "2026-07-06T04:01:18.780516+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Estuche de Carga Inalámbrico de Repuesto Compatible con AirPods Pro 1ª Gen (2019) y 2ª Gen (2022), Funda con Botón de Emparejamiento Bluetooth y Puerto de Carga Tipo Lightning (Sin Auriculares)",
+        "url": "https://www.amazon.com.mx/dp/B0FGH9VRHR",
+        "price": 551.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Estuche de Carga inalámbrica para AirPods (último Modelo) - Blanco (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07RVD9R7Q",
+        "price": 493.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple AirPods 2 - Reemplazo Estuche de Carga (A1602) - Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GP87589J",
+        "price": 564.05,
+        "model": "A1602"
+      },
+      {
+        "store": "amazon",
+        "name": "Estuche Inalámbrico Compatible con AirPods 4ª Gen Estuche de Carga de Repuesto para AirPods de 4.ª generación, Estuches de Carga inalámbrica con emparejamiento Bluetooth (sin Auriculares)",
+        "url": "https://www.amazon.com.mx/dp/B0FGGT1P3S",
+        "price": 664.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple AirPods Pro 2nd Gen (Lightning) - Reemplazo Estuche de Carga (A2700) - Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GP7B2632",
+        "price": 1234.36,
+        "model": "A2700"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de carga inalámbrica compatible con AirPods de 4ª generación, puerto USB-C Airpods 4 reemplazo de funda de carga, sin auriculares",
+        "url": "https://www.amazon.com.mx/dp/B0DS27YXNF",
+        "price": 310.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de Repuesto Compatible con Airpods Pro3rd（2025）, Funda de Cargador Inalámbrico con Botón de Sincronización de Emparejamiento Bluetooth (No para Pro 2.ª Generación) (Sin Auriculares)",
+        "url": "https://www.amazon.com.mx/dp/B0FXFDT5BK",
+        "price": 599.0,
+        "model": "Pro3rd"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de Carga Inalámbrica de Repuesto Compatible con AirPods 3ª Generación Estuche de Carga de Repuesto Compatible con AirPods 3 con Botón de Emparejamiento Bluetooth(Sin Audífonos)",
+        "url": "https://www.amazon.com.mx/dp/B0GYDCQ1BV",
+        "price": 664.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0DQKGDLSG",
+        "price": 127.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de Carga de Repuesto para AirPods Pro 1 y 2 Auriculares, Compatible Solo con AirPods Pro 1 y 2 con Puerto USB-C, con botón de sincronización de emparejamiento Bluetooth",
+        "url": "https://www.amazon.com.mx/dp/B0GD3691RH",
+        "price": 549.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Azul Medianoche)",
+        "url": "https://www.amazon.com.mx/dp/B0DQKHB2MQ",
+        "price": 127.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mugust Funda para Apple AirPods 4 2024 Funda Protectora de Silicona elástica para Apple AirPods 4 Funda con mosquetón, Compatible con Carga inalámbrica (Vino Tinto)",
+        "url": "https://www.amazon.com.mx/dp/B0F4XD7DQD",
+        "price": 127.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEAIRPODSESTUCHECARGAAPPLE": {
+    "ts": "2026-07-06T04:01:56.666581+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "VEAT00L M14 Auriculares Inalámbricos Auriculares Intrauditivos Ligeros, 50H de Uso, IPX7 Impermeable",
+        "url": "https://www.walmart.com.mx/ip/veat00l-m14-auriculares-inalambricos-auriculares-intrauditivos-ligeros-50h-de-uso-ipx7-impermeable/00931344866029",
+        "price": 579.0,
+        "model": "VEAT00L"
+      },
+      {
+        "store": "walmart",
+        "name": "AirPods Pro Apple 2da Generación con Estuche de Carga MagSafe y Conexión USB‑C",
+        "url": "https://www.walmart.com.mx/ip/airpods-pro-apple-2da-generacion-con-estuche-de-carga-magsafe-y-conexion-usb-c/00019594905249?athbdg=L1600",
+        "price": 5345.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Para Airpods 3 - Visoom Airpods 3Rd Generation Cases Cover Mujer 2021 Silicona Para Ipod 3 Auriculares Estuche De Carga Inalámbrica Con Accesorios Girl Bling Keychain Para Apple Airpod Gen 3 (Az",
+        "url": "https://www.walmart.com.mx/ip/funda-para-airpods-3-visoom-airpods-3rd-generation-cases-cover-mujer-2021-silicona-para-ipod-3-auriculares-estuche-de-carga-inalambrica-con-accesorios-girl-bling-keychain-para-apple-airpod-gen-3-az/00067386915098?athbdg=L1300",
+        "price": 870.63,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Tipo Pinza VEATOOL, Bluetooth 5.4, Conducción ósea Abierta, Pantalla Digital, Cancelación de Ruido, Resistencia al Agua IPX7, Ligeros y Cómodos",
+        "url": "https://www.walmart.com.mx/ip/auriculares-tipo-pinza-veatool-bluetooth-5-4-conduccion-osea-abierta-pantalla-digital-cancelacion-de-ruido-resistencia-al-agua-ipx7-ligeros-y-comodos/00931344871305",
+        "price": 559.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Dock de Carga Inalámbrica USB-C SATECHI Plata Compatible con Apple AirPods Pro y AirPods 3/2/1",
+        "url": "https://www.walmart.com.mx/ip/dock-de-carga-inalambrica-usb-c-satechi-plata-compatible-con-apple-airpods-pro-y-airpods-3-2-1/00087996100899",
+        "price": 773.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple AirPods Max Auriculares inalámbricos supraaurales, cancelación activa de ruido de nivel profesional, modo de transparencia, audio espacial personalizado, carga USB-C, auriculares Bluetooth para",
+        "url": "https://www.walmart.com.mx/ip/apple-airpods-max-auriculares-inalambricos-supraaurales-cancelacion-activa-de-ruido-de-nivel-profesional-modo-de-transparencia-audio-espacial-personalizado-carga-usb-c-auriculares-bluetooth-para/00019594954445?athbdg=L6000",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Inalámbricos VEATOOL Sonido HiFi 3D, Cuatro Mic ENC, 34H Autonomía, Carga USB-C, Intrauditivos Resistentes al Agua IP7",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-veatool-sonido-hifi-3d-cuatro-mic-enc-34h-autonomia-carga-usb-c-intrauditivos-resistentes-al-agua-ip7/00931344871302",
+        "price": 449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cargador Inalámbrico Estación Plegable Magsafe para iPhone Apple Watch y AirPods",
+        "url": "https://www.walmart.com.mx/ip/cargador-inalambrico-estacion-plegable-magsafe-para-iphone-apple-watch-y-airpods/00076770075289",
+        "price": 1156.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cargador de pared para AirPods 4 USB C de 20 W para AirPods 4 Gen, AirPods Pro 2 2nd, AirPods Max 2",
+        "url": "https://www.walmart.com.mx/ip/cargador-de-pared-para-airpods-4-usb-c-de-20-w-para-airpods-4-gen-airpods-pro-2-2nd-airpods-max-2/00076877132907",
+        "price": 602.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "VEATOOL K520 Auriculares Inalámbricos Intrauditivos, Bluetooth 5.3, Diseño con Cordón Portátil, Perfil Doble en Forma de Corazón",
+        "url": "https://www.walmart.com.mx/ip/veatool-k520-auriculares-inalambricos-intrauditivos-bluetooth-5-3-diseno-con-cordon-portatil-perfil-doble-en-forma-de-corazon/00094285946540",
+        "price": 489.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Keybudz Element - Funda de Carga Impermeable para Apple AirPods Pro 2, Funda Protectora de Material Reciclado, IP68, Resistente al Polvo y al Agua, Color Negro",
+        "url": "https://www.walmart.com.mx/ip/keybudz-element-funda-de-carga-impermeable-para-apple-airpods-pro-2-funda-protectora-de-material-reciclado-ip68-resistente-al-polvo-y-al-agua-color-negro/00081008299074?athbdg=L1300",
+        "price": 1661.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Realme Buds T200 Audífonos Bluetooth Hi-Res Audio, Cancelación Activa 32dB y 50H Autonomía, Blanco",
+        "url": "https://www.walmart.com.mx/ip/realme-buds-t200-audifonos-bluetooth-hi-res-audio-cancelacion-activa-32db-y-50h-autonomia-blanco/00074200347672",
+        "price": 399.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|65A65NV": {
+    "ts": "2026-07-06T04:01:59.109263+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Televisión Pantalla 65 Pulgadas Smart Hisense TV 4K UHD Mod. 65A65NV",
+        "url": "https://www.amazon.com.mx/dp/B0FB49SK6N",
+        "price": 8029.0,
+        "model": "65A65NV"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,QLED Smart Vidaa TV UHD 4K,Control Remoto por Voz con Alexa,Escalado AI a 4K,Dolby Vision Atmos, Modo de Juego Plus",
+        "url": "https://www.amazon.com.mx/dp/B0GHYFZHYM",
+        "price": 7827.0,
+        "model": "QD65QV"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 50“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRP64JX",
+        "price": 5695.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G87FL6SZ",
+        "price": 12783.41,
+        "model": "QNED73"
+      },
+      {
+        "store": "amazon",
+        "name": "Sharp 4K Smart LED TV de 65\" - Roku TV con WiFi",
+        "url": "https://www.amazon.com.mx/dp/B0CH4FPNJ1",
+        "price": 8035.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television A6NV Pantalla 65 Pulgadas, Smart TV Vidda U UHD 4K,Control Remoto por Voz con Alexa, Dolby Vision, Amplia Gama de Colores, Modo de Juego Plus, ALLM,mira TV en Vivo sin Cable 65A6NV",
+        "url": "https://www.amazon.com.mx/dp/B0D8JZRQVJ",
+        "price": 9906.48,
+        "model": "65A6NV"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Smart TV de 65\" Pulgadas Clase Q72DD Series 4K (2160p) LED (2024) - QN65Q72DDFXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DXGMKNK1",
+        "price": 9179.0,
+        "model": "QN65Q72DDFXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (55\")",
+        "url": "https://www.amazon.com.mx/dp/B0CWMDXJ1K",
+        "price": 7699.0,
+        "model": "Q60DD"
+      }
+    ]
+  },
+  "walmart|65A65NV": {
+    "ts": "2026-07-06T04:02:41.834990+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "TV Hisense 65 pulgadas 65A65NV 4K Vidaa",
+        "url": "https://www.walmart.com.mx/ip/tv-hisense-65-pulgadas-65a65nv-4k-vidaa/00694235141503?athbdg=L1600",
+        "price": 7990.0,
+        "model": "65A65NV"
+      },
+      {
+        "store": "walmart",
+        "name": "Tv 65 Pulgadas Smart TV UHD 4K 65A65NV VIDAA Hisense",
+        "url": "https://www.walmart.com.mx/ip/tv-65-pulgadas-smart-tv-uhd-4k-65a65nv-vidaa-hisense/00088814302219?athbdg=L1300",
+        "price": 8589.0,
+        "model": "65A65NV"
+      }
+    ]
+  },
+  "sams|65A65NV": {
+    "ts": "2026-07-06T04:02:49.687563+00:00",
+    "items": []
   }
 }
