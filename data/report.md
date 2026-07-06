@@ -1,32 +1,9 @@
-# Errores/chollos de precio — 2026-07-06 04:02 UTC
+# Errores/chollos de precio — 2026-07-06 06:23 UTC
 
-- Productos revisados: **3284**
+- Productos revisados: **903**
 - Umbral de diferencia: **20%**
-- Hallazgos: **24**
+- Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -34% | $31,620 | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | Confirmado vs competencia | $61,379 en palacio vs mercado -> -34% bajo la competencia |
-| -47% | $16,428 | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | Confirmado vs competencia | $18,571 en palacio vs mercado -> -47% bajo la competencia |
-| -52% | $11,142 | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | Confirmado vs competencia | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
-| -29% | $10,919 | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,400 | Confirmado vs competencia | $26,400 en palacio vs mercado -> -29% bajo la competencia |
-| -45% | $9,480 | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | Confirmado vs competencia | $11,520 en palacio vs mercado -> -45% bajo la competencia |
-| -25% | $4,560 | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | Confirmado vs competencia | $13,439 en palacio vs mercado -> -25% bajo la competencia |
-| -27% | $4,486 | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | Confirmado vs competencia | $11,880 en palacio vs sams $18,412 -> -27% bajo la competencia |
-| -28% | $4,080 | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro RT16N6…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | Confirmado vs competencia | $10,222 en sams vs amazon $15,936 -> -28% bajo la competencia |
-| -29% | $2,799 | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $6,990 | Confirmado vs competencia | $6,990 en walmart vs mercado -> -29% bajo la competencia |
-| -36% | $2,350 | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema VIDAA](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | Confirmado vs competencia | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |
-| -45% | $2,270 | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- NEGRO](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,729 | Confirmado vs competencia | $2,729 en walmart vs mercado -> -45% bajo la competencia |
-| -21% | $1,491 | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | Confirmado vs competencia | $5,699 en walmart vs mercado -> -21% bajo la competencia |
-| -22% | $1,184 | sams | [Bicicleta de Montaña Huffy  Rock Creek Rodada 26 Negro](https://www.sams.com.mx/ip/bicicleta-de-montana-huffy-rock-creek-rodada-26-negro/981021395) | $4,089 | Confirmado vs competencia | $4,089 en sams vs mercado -> -22% bajo la competencia |
-| -28% | $1,023 | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | Confirmado vs competencia | $2,658 en sams vs mercado -> -28% bajo la competencia |
-| -21% | $961 | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación Activ…](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,538 | Confirmado vs competencia | $3,538 en walmart vs mercado -> -21% bajo la competencia |
-| -21% | $896 | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | Confirmado vs competencia | $3,375 en sams vs mercado -> -21% bajo la competencia |
-| -54% | $873 | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | Confirmado vs competencia | $758 en walmart vs mercado -> -54% bajo la competencia |
-| -60% | $754 | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | Confirmado vs competencia | $499 en amazon vs mercado -> -60% bajo la competencia |
-| -41% | $716 | sams | [Cafetera Compacta Keuring  K‑Express Single Serve](https://www.sams.com.mx/ip/cafetera-compacta-keuring-k-express-single-serve/981045307) | $1,022 | Confirmado vs competencia | $1,022 en sams vs mercado -> -41% bajo la competencia |
-| -25% | $690 | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,092 | Confirmado vs competencia | $2,092 en amazon vs mercado -> -25% bajo la competencia |
-| -24% | $404 | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para mujer …](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | Confirmado vs competencia | $1,245 en amazon vs mercado -> -24% bajo la competencia |
-| -25% | $270 | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $794 | Confirmado vs competencia | $794 en amazon vs mercado -> -25% bajo la competencia |
-| -33% | $83 | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corre…](https://www.amazon.com.mx/dp/B08D47L4VB) | $170 | Confirmado vs competencia | $170 en amazon vs mercado -> -33% bajo la competencia |
-| -40% | $6 | amazon | [Scotch-Brite Fibra Esponja Multiuso, La Original Verde-Amari…](https://www.amazon.com.mx/dp/B00A7494TM) | $10 | Confirmado vs competencia | $10 en amazon vs mercado -> -40% bajo la competencia |
