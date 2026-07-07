@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 21:10 UTC",
-  "products_scanned": 1706,
+  "generated_at": "2026-07-07 22:32 UTC",
+  "products_scanned": 1717,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -154,13 +154,13 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.8,
-      "detail": "$24,914 en liverpool vs mercado -> -26% bajo la competencia",
+      "detail": "$24,913 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 8544.5,
+      "savings": 8545.5,
       "store": "liverpool",
       "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
       "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
-      "price": 24914.0,
+      "price": 24913.0,
       "list_price": 35999.0,
       "ean": null,
       "model": null,
@@ -358,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273254",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273250",
         "outlet": false
       }
     },
