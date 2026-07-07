@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-07-06 23:51 UTC",
-  "products_scanned": 1721,
+  "generated_at": "2026-07-07 02:10 UTC",
+  "products_scanned": 1702,
   "threshold_pct": 20.0,
-  "count": 21,
+  "count": 30,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$3,499 en liverpool vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2899.7,
+      "store": "liverpool",
+      "name": "Kit De Licuadora Ninja Bn801 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030",
+      "price": 3499.3,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": "Bn801",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1109672030",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.1,
+      "detail": "$24,916 en liverpool vs mercado -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 17083.0,
+      "store": "liverpool",
+      "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
+      "price": 24916.0,
+      "list_price": 38999.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1170197151",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 34.0,
@@ -23,6 +65,27 @@
       "extra": {
         "id": "45588136",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.6,
+      "detail": "$7,499 en liverpool vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3559.75,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123",
+      "price": 7499.25,
+      "list_price": 14299.0,
+      "ean": null,
+      "model": "55Ua7500Psa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1179253123",
+        "marketplace": null
       }
     },
     {
@@ -132,6 +195,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 54.4,
+      "detail": "$912 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 378.02,
+      "store": "liverpool",
+      "name": "Smartwatch Elego St2 G Para Hombre",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354",
+      "price": 911.98,
+      "list_price": 2000.0,
+      "ean": null,
+      "model": null,
+      "brand": "ELEGO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180364354",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$594 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 245.0,
+      "store": "liverpool",
+      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
+      "price": 594.3,
+      "list_price": 849.0,
+      "ean": null,
+      "model": "Ln8221Mx",
+      "brand": "T-FAL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1123821587",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -153,6 +258,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$4,908 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1760.89,
+      "store": "liverpool",
+      "name": "Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527",
+      "price": 4908.11,
+      "list_price": 7699.0,
+      "ean": null,
+      "model": "Mcp15Hb",
+      "brand": "MIRAGE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1160020527",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -169,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45345631",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,249 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2749.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A56 5G, 256 GB, RAM 8 GB, Verde, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a56-5g-256-gb-ram-8-gb-verde-desbloqueado-44556105.html",
-      "price": 8249.25,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44556105",
         "outlet": false
       }
     },
@@ -279,6 +384,69 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 24.6,
+      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 123.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Sovico",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798",
+      "price": 376.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "SOVICO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1132756798",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$6,975 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2247.36,
+      "store": "liverpool",
+      "name": "Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073",
+      "price": 6974.55,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": "Fc88D6Cbx1",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1116121073",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.5,
+      "detail": "$11,024 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3474.94,
+      "store": "liverpool",
+      "name": "Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056",
+      "price": 11024.48,
+      "list_price": 20999.0,
+      "ean": null,
+      "model": "Wt21Wt6Hkna",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1202655056",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -338,6 +506,27 @@
       "extra": {
         "id": "45273250",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 22.6,
+      "detail": "$387 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 113.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Ecoshopmaster",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567",
+      "price": 387.0,
+      "list_price": 500.0,
+      "ean": null,
+      "model": null,
+      "brand": "ECOSHOPMASTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189055567",
+        "marketplace": null
       }
     },
     {

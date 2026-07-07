@@ -1,9 +1,19 @@
-# Historial de ofertas encontradas (222)
+# Historial de ofertas encontradas (232)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-07 02:10 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | $387 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-07-07 02:10 | -24% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $11,024 | $11,024 en liverpool vs mercado -> -24% bajo la competencia |
+| 2026-07-07 02:10 | -24% | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $6,975 | $6,975 en liverpool vs mercado -> -24% bajo la competencia |
+| 2026-07-07 02:10 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
+| 2026-07-07 02:10 | -26% | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | $4,908 en liverpool vs mercado -> -26% bajo la competencia |
+| 2026-07-07 02:10 | -29% | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $594 | $594 en liverpool vs mercado -> -29% bajo la competencia |
+| 2026-07-07 02:10 | -29% | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $912 | $912 en liverpool vs mercado -> -29% bajo la competencia |
+| 2026-07-07 02:10 | -32% | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $7,499 | $7,499 en liverpool vs mercado -> -32% bajo la competencia |
+| 2026-07-07 02:10 | -41% | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,916 | $24,916 en liverpool vs mercado -> -41% bajo la competencia |
+| 2026-07-07 02:10 | -45% | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | $3,499 en liverpool vs mercado -> -45% bajo la competencia |
 | 2026-07-06 23:51 | -21% | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,880 | $11,880 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-06 23:51 | -21% | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, C…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | $30,380 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-06 23:51 | -28% | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
