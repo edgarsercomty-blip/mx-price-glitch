@@ -1,93 +1,9 @@
 {
-  "generated_at": "2026-07-07 02:10 UTC",
-  "products_scanned": 1702,
+  "generated_at": "2026-07-07 03:36 UTC",
+  "products_scanned": 1738,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 21,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$3,499 en liverpool vs mercado -> -45% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2899.7,
-      "store": "liverpool",
-      "name": "Kit De Licuadora Ninja Bn801 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030",
-      "price": 3499.3,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": "Bn801",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1109672030",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.1,
-      "detail": "$24,916 en liverpool vs mercado -> -41% bajo la competencia",
-      "likely_typo": false,
-      "savings": 17083.0,
-      "store": "liverpool",
-      "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
-      "price": 24916.0,
-      "list_price": 38999.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1170197151",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$61,379 en palacio vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 31619.66,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ",
-      "url": "https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html",
-      "price": 61379.34,
-      "list_price": 92999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Sony",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45588136",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.6,
-      "detail": "$7,499 en liverpool vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3559.75,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa Con Ai Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123",
-      "price": 7499.25,
-      "list_price": 14299.0,
-      "ean": null,
-      "model": "55Ua7500Psa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1179253123",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
@@ -112,27 +28,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.7,
-      "store": "palacio",
-      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
-      "price": 6999.3,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345626",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 9899.7,
@@ -148,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44443562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
+      "price": 6999.3,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345626",
         "outlet": false
       }
     },
@@ -195,43 +111,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.4,
-      "detail": "$912 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 378.02,
-      "store": "liverpool",
-      "name": "Smartwatch Elego St2 G Para Hombre",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354",
-      "price": 911.98,
-      "list_price": 2000.0,
-      "ean": null,
-      "model": null,
-      "brand": "ELEGO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180364354",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$594 en liverpool vs mercado -> -29% bajo la competencia",
+      "detail": "$3,499 en liverpool vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
-      "savings": 245.0,
+      "savings": 1449.85,
       "store": "liverpool",
-      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
-      "price": 594.3,
-      "list_price": 849.0,
+      "name": "Kit De Licuadora Ninja Bn801 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030",
+      "price": 3499.3,
+      "list_price": 4999.0,
       "ean": null,
-      "model": "Ln8221Mx",
-      "brand": "T-FAL",
+      "model": "Bn801",
+      "brand": "NINJA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1123821587",
+        "productId": "1109672030",
         "marketplace": null
       }
     },
@@ -258,22 +153,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$4,908 en liverpool vs mercado -> -26% bajo la competencia",
+      "discount_pct": 36.1,
+      "detail": "$24,916 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 1760.89,
+      "savings": 8542.5,
       "store": "liverpool",
-      "name": "Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527",
-      "price": 4908.11,
-      "list_price": 7699.0,
+      "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
+      "price": 24916.0,
+      "list_price": 38999.0,
       "ean": null,
-      "model": "Mcp15Hb",
-      "brand": "MIRAGE",
+      "model": null,
+      "brand": "SAMSUNG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1160020527",
+        "productId": "1170197151",
         "marketplace": null
       }
     },
@@ -384,48 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132756798",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$6,975 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2247.36,
-      "store": "liverpool",
-      "name": "Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073",
-      "price": 6974.55,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": "Fc88D6Cbx1",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1116121073",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 47.5,
       "detail": "$11,024 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -489,48 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273250",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 22.6,
-      "detail": "$387 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 113.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Ecoshopmaster",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567",
-      "price": 387.0,
-      "list_price": 500.0,
-      "ean": null,
-      "model": null,
-      "brand": "ECOSHOPMASTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1189055567",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -552,23 +363,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
+      "discount_pct": 34.0,
+      "detail": "$61,379 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3103.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
-      "price": 11880.0,
-      "list_price": 19800.0,
+      "savings": 15809.83,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ",
+      "url": "https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html",
+      "price": 61379.34,
+      "list_price": 92999.0,
       "ean": null,
       "model": null,
-      "brand": "HP",
+      "brand": "Sony",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1181402284",
-        "marketplace": null
+        "id": "45588136",
+        "outlet": false
       }
     },
     {
