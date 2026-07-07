@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-07 12:40 UTC",
-  "products_scanned": 1719,
+  "generated_at": "2026-07-07 14:39 UTC",
+  "products_scanned": 1725,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 21,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.7,
-      "detail": "$10,000 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5713.4,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K Uhd Un65U8500Hfxzx Con Tizen",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454",
-      "price": 9999.6,
-      "list_price": 17141.0,
-      "ean": null,
-      "model": "Un65U8500Hfxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197292454",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
@@ -49,27 +28,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.7,
-      "store": "palacio",
-      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
-      "price": 6999.3,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345626",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 9899.7,
@@ -85,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44443562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
+      "price": 6999.3,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345626",
         "outlet": false
       }
     },
@@ -300,23 +279,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 51.3,
-      "detail": "$23,058 en liverpool vs mercado -> -24% bajo la competencia",
+      "discount_pct": 44.0,
+      "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 7391.16,
-      "store": "liverpool",
-      "name": "Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941",
-      "price": 23058.26,
-      "list_price": 47299.0,
+      "savings": 8841.71,
+      "store": "palacio",
+      "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
+      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
+      "price": 28727.44,
+      "list_price": 51299.0,
       "ean": null,
-      "model": "Wd22Vv2S6R",
-      "brand": "LG",
+      "model": "RF32CG5411B1EM",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1100637941",
-        "marketplace": null
+        "id": "43388828",
+        "outlet": false
       }
     },
     {
@@ -363,27 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273250",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -405,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3103.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
-      "price": 11880.0,
-      "list_price": 19800.0,
-      "ean": null,
-      "model": null,
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181402284",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$61,379 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -442,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45588136",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.8,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html",
+      "price": 17999.2,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273246",
         "outlet": false
       }
     },

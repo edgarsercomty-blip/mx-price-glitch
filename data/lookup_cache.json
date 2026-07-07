@@ -1,57 +1,14 @@
 {
   "amazon|55QM64L": {
-    "ts": "2026-07-05T14:38:40.948385+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 55QM64L Smart TV Pantalla 4K QD-MINILED 55\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRK522ZF",
-        "price": 7219.62,
-        "model": "55QM64L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 10827.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
-        "price": 11678.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 65QM64L Smart TV 4K QD-MINILED 65\" Fire TV 144Hz VRR 1000 NITS Dolby Vision IQ HDR10+ Game Master Alexa + 55QM64L 55\"",
-        "url": "https://www.amazon.com.mx/dp/B0H6Y8S82D",
-        "price": 19091.62,
-        "model": "65QM64L"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
-        "url": "https://www.amazon.com.mx/dp/B0DPHCZZ2T",
-        "price": 8499.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
-        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
-        "price": 16999.0,
-        "model": "75QM64L"
-      }
-    ]
+    "ts": "2026-07-07T14:39:26.124306+00:00",
+    "items": []
   },
   "walmart|55QM64L": {
-    "ts": "2026-07-05T14:38:48.204588+00:00",
+    "ts": "2026-07-07T14:39:27.664662+00:00",
     "items": []
   },
   "sams|55QM64L": {
-    "ts": "2026-07-05T14:38:51.497149+00:00",
+    "ts": "2026-07-07T14:39:29.821132+00:00",
     "items": []
   },
   "amazon|CM0916B": {
@@ -245,572 +202,6 @@
   },
   "sams|SONYPANTALLABRAVIAPLANALED": {
     "ts": "2026-07-07T09:46:42.882762+00:00",
-    "items": []
-  },
-  "walmart|CHARIECALVINKLEINTENIS": {
-    "ts": "2026-07-05T13:54:26.374876+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Ck One Shock 200 Ml Edt Spray Calvin Klein Calvin Klein Model",
-        "url": "https://www.walmart.com.mx/ip/ck-one-shock-200-ml-edt-spray-calvin-klein-calvin-klein-model/00070101970174",
-        "price": 776.99,
-        "model": null
-      }
-    ]
-  },
-  "sams|CHARIECALVINKLEINTENIS": {
-    "ts": "2026-07-05T13:54:27.915311+00:00",
-    "items": []
-  },
-  "walmart|SANDALIASFLEXIBLESSKECHERSLIBRES": {
-    "ts": "2026-07-05T13:54:56.222135+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752439?athbdg=L1300",
-        "price": 2049.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787873?athbdg=L1300",
-        "price": 2089.0,
-        "model": "0-Sun"
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787891?athbdg=L1300",
-        "price": 2099.0,
-        "model": "0-Sun"
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752417?athbdg=L1300",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787899",
-        "price": 2459.0,
-        "model": "0-Sun"
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Skechers GO Walk Flex Sublime Sport Navy para mujer 8",
-        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-navy-para-mujer-8/00019664297902?athbdg=L1300",
-        "price": 1909.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Skechers GO Walk Flex Sublime Sport para mujer, color negro 8",
-        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-go-walk-flex-sublime-sport-para-mujer-color-negro-8/00019664299387?athbdg=L1300",
-        "price": 1379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia deportiva Skechers Reggae Slim Simply Stretch para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-deportiva-skechers-reggae-slim-simply-stretch-para-mujer/00019442819028?athbdg=L1300",
-        "price": 1329.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalias Skechers Reggae Slim-Stretch Flex manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalias-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752441?athbdg=L1300",
-        "price": 2019.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Ultra Flex 3.0-Sun Warmth manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-ultra-flex-3-0-sun-warmth-manos-libres-para-mujer/00019762787877?athbdg=L1300",
-        "price": 2089.0,
-        "model": "0-Sun"
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Stretch Reggae Slim para Mujer Skechers Natural Talla 8",
-        "url": "https://www.walmart.com.mx/ip/sandalia-stretch-reggae-slim-para-mujer-skechers-natural-talla-8/00019442839713",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sandalia Skechers Reggae Slim-Stretch Flex manos libres para mujer",
-        "url": "https://www.walmart.com.mx/ip/sandalia-skechers-reggae-slim-stretch-flex-manos-libres-para-mujer/00019762752420?athbdg=L1300",
-        "price": 2029.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|SANDALIASFLEXIBLESSKECHERSLIBRES": {
-    "ts": "2026-07-05T13:54:57.127636+00:00",
-    "items": []
-  },
-  "walmart|APPLEONLY64GBWIFI": {
-    "ts": "2026-07-05T13:55:15.182691+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 3 A2152 (WiFi) 64GB Gris Espacial (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-3-a2152-wifi-64gb-gris-espacial-grado-a-/00099900256127",
-        "price": 4119.96,
-        "model": "A2152"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 2 A1566 (WiFi) 64GB Gris Espacial (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-2-a1566-wifi-64gb-gris-espacial-grado-a-/00076159657824",
-        "price": 2589.6,
-        "model": "A1566"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 4 A2324 (WiFi + Cellular Desbloqueado) 64GB Oro Rosado (Grado A+)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-4-a2324-wifi-cellular-desbloqueado-64gb-oro-rosado-grado-a-/00065945572375",
-        "price": 8475.6,
-        "model": "A2324"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad 9th Gen A2602 (WiFi) 64GB Gris Espacial (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-9th-gen-a2602-wifi-64gb-gris-espacial-grado-a-/00065945586621",
-        "price": 4944.0,
-        "model": "A2602"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Pro 10.5 A1701 (WiFi) 64GB Plata (Grado A+)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-pro-10-5-a1701-wifi-64gb-plata-grado-a-/00065982100789",
-        "price": 4473.12,
-        "model": "A1701"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad 10th Gen A2696 (WiFi) 64GB Azul (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-10th-gen-a2696-wifi-64gb-azul-grado-a-/00065945553758",
-        "price": 7651.56,
-        "model": "A2696"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 5 A2588 (WiFi) 64GB Morado (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-5-a2588-wifi-64gb-morado-grado-a-/00065945558947",
-        "price": 9417.36,
-        "model": "A2588"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 3 A2152 (WiFi) 64GB Oro (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-3-a2152-wifi-64gb-oro-grado-a-/00099900256155",
-        "price": 4119.96,
-        "model": "A2152"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Mini 6 A2567 (WiFi) 64GB Morado (Grado B)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-mini-6-a2567-wifi-64gb-morado-grado-b-/00065945559655",
-        "price": 8240.16,
-        "model": "A2567"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Pro 10.5 A1709 (WiFi + Cellular Desbloqueado) 64GB Gris Espacial (Grado A+)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-pro-10-5-a1709-wifi-cellular-desbloqueado-64gb-gris-espacial-grado-a-/00073520387204",
-        "price": 4708.56,
-        "model": "A1709"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 3 A2152 (WiFi) 64GB Gris Espacial (Grado A+)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-3-a2152-wifi-64gb-gris-espacial-grado-a-/00076159657090",
-        "price": 4237.68,
-        "model": "A2152"
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPad Air 2 A1567 (WiFi + Cellular Desbloqueado) 64GB Oro (Grado A)",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-2-a1567-wifi-cellular-desbloqueado-64gb-oro-grado-a-/00076159657654",
-        "price": 2707.32,
-        "model": "A1567"
-      }
-    ]
-  },
-  "sams|APPLEONLY64GBWIFI": {
-    "ts": "2026-07-05T13:55:16.447395+00:00",
-    "items": []
-  },
-  "amazon|APPLEINALAMBRICOSCANCELACIONAUDIFONOSAIRPODS": {
-    "ts": "2026-07-05T13:55:24.410555+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Audífonos Inalámbricos Bluetooth, Auriculares Verdaderos con 40H de Reproducción, Sonido Estéreo con Graves Potentes, Mic con Cancelación de Ruido, IPX4 Impermeables para Deporte, TV y Teléfono-Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0G1YK45NB",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Edifier - W800BT Pro Audifonos híbridos con Cancelación Activa de Ruido de -44dB, Inalámbricos Supraaurales con Bluetooth 5.4, Audio Hi-Res, Llamada Clara AI, Ecualizador Via App - Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0D5HN2P37",
-        "price": 1099.0,
-        "model": "W800BT"
-      },
-      {
-        "store": "amazon",
-        "name": "Soporte de Carga inalámbrica, Cargador inalámbrico Compatible con iPhone iWatch AirPods Pro y Dispositivos con tecnología Qi Base de Carga inalámbrica con Reloj Digital y Alarma-Negro",
-        "url": "https://www.amazon.com.mx/dp/B09X16RHK8",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Skullcandy Dime 3 Auriculares In-Ear Inalámbricos, 20 h de Autonomía, Micrófono, Compatibles con iPhone Android y Dispositivos Bluetooth, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0CFCHY7YM",
-        "price": 537.77,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos AirPods 4 de Apple con Bluetooth, Cancelación Activa de Ruido, Modo Ambiente, Audio Espacial Personalizado, Estuche de Carga con USB-C, Carga inalámbrica, Chip H2",
-        "url": "https://www.amazon.com.mx/dp/B0DGJGJ9HZ",
-        "price": 3795.22,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos AirPods Pro 3 de Apple, Cancelación Activa de Ruido, Traducción en Vivo, Detección de la frecuencia Cardiaca, audífonos Bluetooth, Audio Espacial, Sonido de Alta fidelidad",
-        "url": "https://www.amazon.com.mx/dp/B0FQGG9VLN",
-        "price": 4942.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos AirPods 4 de Apple con Bluetooth,Audio Espacial Personalizado,Resistentes al Polvo,al Agua y al Sudor,Chip H2,hasta 30 Horas de batería,fácil configuración para el iPhone",
-        "url": "https://www.amazon.com.mx/dp/B0DGJ7MDGW",
-        "price": 2461.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple EarPods con Conector USB-C ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0DCH8VDXF",
-        "price": 549.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple AirPods Pro 3 ​​​​​​​con AppleCare+ (2 años - activación automática)",
-        "url": "https://www.amazon.com.mx/dp/B0FRWDXTYZ",
-        "price": 5791.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos de Diadema AirPods MAX 2 de Apple, Cancelación Activa de Ruido, Audio Adaptativo, Audio Espacial Personalizado, Traducción en Vivo - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GSSQWQ6F",
-        "price": 12999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería hasta 32 Horas, Driver de 10mm Hi-Fi Calida de Sonido, Reducción de Ruido AI para Llamadas, Admite App y Encuentra Audifonos y 8 EQ Efectos",
-        "url": "https://www.amazon.com.mx/dp/B0F94D2JB6",
-        "price": 312.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos de Diadema AirPods MAX 2 de Apple, Cancelación Activa de Ruido, Audio Adaptativo, Audio Espacial Personalizado, Traducción en Vivo - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GSSL4R2Y",
-        "price": 12666.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEINALAMBRICOSCANCELACIONAUDIFONOSAIRPODS": {
-    "ts": "2026-07-05T13:55:25.109239+00:00",
-    "items": []
-  },
-  "walmart|128GB": {
-    "ts": "2026-07-05T13:55:29.649433+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco C85 Dual 128GB 6RAM Negro",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-c85-dual-128gb-6ram-negro/00693255445729",
-        "price": 2349.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria SanDisk Ultra microSDXC 128GB UHS-I 120MB/s",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-ultra-microsdxc-128gb-uhs-i-120mb-s/00046730628849?athbdg=L1300",
-        "price": 1559.0,
-        "model": "120MB/s"
-      },
-      {
-        "store": "walmart",
-        "name": "128GB 4-in-1 metal USB Flash drive Mobile phone computer dual-use Mini USB flash drive Support Type-C USB iOS devices",
-        "url": "https://www.walmart.com.mx/ip/128gb-4-in-1-metal-usb-flash-drive-mobile-phone-computer-dual-use-mini-usb-flash-drive-support-type-c-usb-ios-devices/00807176948390",
-        "price": 850.0,
-        "model": "4-in-1"
-      },
-      {
-        "store": "walmart",
-        "name": "SmartPhone Motorola Moto G55 Dual SIM 256GB ROM 8GB RAM Negro Global",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g55-dual-sim-256gb-rom-8gb-ram-negro-global/00694768156668",
-        "price": 3459.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Kingston USB Flash Drive DataTraveler Exodia, 128GB, data storage.",
-        "url": "https://www.walmart.com.mx/ip/kingston-usb-flash-drive-datatraveler-exodia-128gb-data-storage-/00535121648420",
-        "price": 689.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MicroSDXC Transcend 128GB Clase 10 UHS-1 45MB/s",
-        "url": "https://www.walmart.com.mx/ip/microsdxc-transcend-128gb-clase-10-uhs-1-45mb-s/00076055783198?athbdg=L1300",
-        "price": 1209.0,
-        "model": "45MB/s"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Xiaomi Poco Phone C85 Dual Sim 6gb Ram 128gb Rom Morado",
-        "url": "https://www.walmart.com.mx/ip/celular-xiaomi-poco-phone-c85-dual-sim-6gb-ram-128gb-rom-morado/00693255445700",
-        "price": 2349.0,
-        "model": "128gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria SanDisk 128GB microSDXC para Nintendo Switch",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-128gb-microsdxc-para-nintendo-switch/00046666610203?athbdg=L1300",
-        "price": 2309.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Paquete de Tarjetas de Memoria Sandisk Extreme PRO 128GB 5 unidades",
-        "url": "https://www.walmart.com.mx/ip/paquete-de-tarjetas-de-memoria-sandisk-extreme-pro-128gb-5-unidades/00046273273615?athbdg=L1300",
-        "price": 6219.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria Sandisk Ultra 128GB SDXC UHS-I Class 10 x10",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-ultra-128gb-sdxc-uhs-i-class-10-x10/00061419843099?athbdg=L1300",
-        "price": 8519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria Kingston microSDXC Canvas Go Plus 128GB",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-kingston-microsdxc-canvas-go-plus-128gb/00046666519648?athbdg=L1300",
-        "price": 1979.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria SanDisk Ultra microSDXC 128GB Class 10 100MB/s",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-ultra-microsdxc-128gb-class-10-100mb-s/00061965918509",
-        "price": 519.0,
-        "model": "100MB/s"
-      }
-    ]
-  },
-  "amazon|256GB": {
-    "ts": "2026-07-05T13:55:32.669215+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ADATA 256 GB Tarjeta de Memoria Micro SDXC con Adaptador Color Negro con Azul A1 (Clase 10)",
-        "url": "https://www.amazon.com.mx/dp/B07H9FVB6M",
-        "price": 698.87,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "microSD Express Card P9 Express 256GB Tarjeta gráfica",
-        "url": "https://www.amazon.com.mx/dp/B0FT99KCV8",
-        "price": 796.69,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Kingston USB Data Traveler Exodia M, Capacidad: 256GB, USB 3.2 Gen 1 (DTXM/256GB)",
-        "url": "https://www.amazon.com.mx/dp/B0B1JPMF8R",
-        "price": 436.5,
-        "model": "DTXM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Kingston Tarjeta De Memoria MicroSD, Canvas Select Plus Gen3, Capacidad: 256GB, Clase 10, UHS-I, U1, V10, A1 Lectura: 150MB/s, SKU: SDCS3/256GB",
-        "url": "https://www.amazon.com.mx/dp/B0FCZRCP67",
-        "price": 615.47,
-        "model": "SDCS3/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "SanDisk Tarjeta microSDXC Extreme Pro de 256 GB + Adaptador SD + RescuePRO Deluxe, hasta 200 MB/s, con Rendimiento de aplicación A2, UHS-I, Clase 10, U3, V30",
-        "url": "https://www.amazon.com.mx/dp/B09X7DMBVF",
-        "price": 1296.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ADATA - Tarjeta de Memoria microSDXC/SDHC UHS-I (256 GB, con Adaptador, C10, U3, V30, 4K, A2, Micro SD, AUSDX256GUI3V30SA2-RA1)",
-        "url": "https://www.amazon.com.mx/dp/B07RH7S7SN",
-        "price": 972.0,
-        "model": "AUSDX256GUI3V30SA2-RA1"
-      },
-      {
-        "store": "amazon",
-        "name": "Kingston USB DTExodia 256GB USB 3.2 Gen 1 (DTX/256GB)",
-        "url": "https://www.amazon.com.mx/dp/B08JD3DSTJ",
-        "price": 456.94,
-        "model": "DTX/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "SanDisk Tarjeta microSDXC Extreme de 256 GB + Adaptador SD + RescuePRO Deluxe, hasta 190 MB/s, con A2 App Performance, UHS-I, Clase 10, U3, V30",
-        "url": "https://www.amazon.com.mx/dp/B09X7CRKRZ",
-        "price": 1249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "256GB SANDISK Ultra MICROSDXC MEM",
-        "url": "https://www.amazon.com.mx/dp/B08KSL4RNQ",
-        "price": 723.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Kingston Tarjeta De Memoria SD, Canvas Go Plus Gen4, Capacidad: 256GB, 4K, Clase 10, UHS-I, U3, V30, Lectura: 200MB/s y Escritura: 160MB/s, SKU: SDG4/256GB",
-        "url": "https://www.amazon.com.mx/dp/B0F29Z1MK9",
-        "price": 1279.0,
-        "model": "SDG4/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "SanDisk Extreme SDXC UHS-I - Tarjeta de Memoria de 256 GB (V30, 180 MB/s de transmisión, U3, vídeo 4K UHD, tecnología QuickFlow, Impermeable, a Prueba de Golpes, Resistente a la Temperatura)",
-        "url": "https://www.amazon.com.mx/dp/B09X7DGDQ7",
-        "price": 1032.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SanDisk Tarjeta microSDXC de video de alta resistencia de 256 GB con adaptador para cámara de salpicadero y sistemas de monitoreo del hogar - C10, U3, V30, 4K UHD, tarjeta micro SD - SDSQQNR-256G-GN6IA",
-        "url": "https://www.amazon.com.mx/dp/B07P4HBRMV",
-        "price": 1511.98,
-        "model": "SDSQQNR-256G-GN6IA"
-      }
-    ]
-  },
-  "walmart|256GB": {
-    "ts": "2026-07-05T13:55:49.288254+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco M8 5G dual 256GB 8RAM Plata",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-5g-dual-256gb-8ram-plata/00693255447811",
-        "price": 4449.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria SanDisk Extreme PRO SDXC 256GB UHS-II V60",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-extreme-pro-sdxc-256gb-uhs-ii-v60/00061965920214",
-        "price": 6899.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria TEAMGROUP GO 256GB Micro SDXC UHS-I U3 V30 4K",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-teamgroup-go-256gb-micro-sdxc-uhs-i-u3-v30-4k/00076544105163?athbdg=L1300",
-        "price": 1089.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Xiaomi Poco Phone C85 Dual Sim 8gb Ram 256gb Rom Morado",
-        "url": "https://www.walmart.com.mx/ip/celular-xiaomi-poco-phone-c85-dual-sim-8gb-ram-256gb-rom-morado/00693255445732",
-        "price": 2899.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Micro SDXC Speederlash 256GB 100MB/s Resistente al Agua",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-micro-sdxc-speederlash-256gb-100mb-s-resistente-al-agua/00045096486742?athbdg=L1300",
-        "price": 1039.0,
-        "model": "100MB/s"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta Micro SD Kingston SDCS 256GB con Adaptador",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-micro-sd-kingston-sdcs-256gb-con-adaptador/00073637290128?athbdg=L6000",
-        "price": 999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Moto S50 Neo / G85 5G 256 GB 12 GB Ram- Verde",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-moto-s50-neo-g85-5g-256-gb-12-gb-ram-verde/00697837653087",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria Lexar Professional 256GB 2000x UHS-II SDXC (paquete de 2)",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-lexar-professional-256gb-2000x-uhs-ii-sdxc-paquete-de-2-/00019627165192?athbdg=L1300",
-        "price": 11699.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "[Tarjeta de memoria] SanDisk Ultra microSDXC 256GB UHS-I con adaptador",
-        "url": "https://www.walmart.com.mx/ip/-tarjeta-de-memoria-sandisk-ultra-microsdxc-256gb-uhs-i-con-adaptador/00046666499749?athbdg=L1300",
-        "price": 2339.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "SmartPhone Motorola Moto G55 Dual SIM 256GB ROM 8GB RAM Negro Global",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g55-dual-sim-256gb-rom-8gb-ram-negro-global/00694768156668",
-        "price": 3459.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Tarjeta de memoria SanDisk 256GB microSDXC para Nintendo Switch",
-        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-256gb-microsdxc-para-nintendo-switch/00046666498928?athbdg=L1300",
-        "price": 2009.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco F8 Pro Dual Sim 256 Gb 12 Gb Ram Nuevo Liberado Plata",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-f8-pro-dual-sim-256-gb-12-gb-ram-nuevo-liberado-plata/00693255447415",
-        "price": 9499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|256GB": {
-    "ts": "2026-07-05T13:55:50.392199+00:00",
     "items": []
   },
   "amazon|UN50U8500HFXZX": {
@@ -5483,6 +4874,60 @@
   },
   "sams|HPRADEONLAPTOPRYZENSSD": {
     "ts": "2026-07-07T12:40:24.121048+00:00",
+    "items": []
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-07-07T14:39:32.132289+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Tcl Qd Mini Led De 75 Pulgadas 4K Uhd 75Qm8K Con Google Tv",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qd-mini-led-de-75-pulgadas-4k-uhd-75qm8k-con-google-tv/1187120353",
+        "price": 26999.1,
+        "model": "75Qm8K"
+      },
+      {
+        "store": "liverpool",
+        "name": "Chaise Lounge Wision De Madera Acacia",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/chaise-lounge-wision-de-madera-acacia/1154446199",
+        "price": 7479.6,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Reclinable Bayona Haus",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/reclinable-bayona-haus/1115194310",
+        "price": 19599.3,
+        "model": null
+      }
+    ]
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-07-07T14:39:33.730859+00:00",
+    "items": []
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-07-07T14:39:35.252077+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-07-07T14:39:36.881637+00:00",
+    "items": []
+  },
+  "mercadolibre|75QM8K": {
+    "ts": "2026-07-07T14:39:38.182731+00:00",
+    "items": []
+  },
+  "amazon|RF32CG5411B1EM": {
+    "ts": "2026-07-07T14:39:55.650457+00:00",
+    "items": []
+  },
+  "walmart|RF32CG5411B1EM": {
+    "ts": "2026-07-07T14:39:57.243563+00:00",
+    "items": []
+  },
+  "sams|RF32CG5411B1EM": {
+    "ts": "2026-07-07T14:39:58.743390+00:00",
     "items": []
   }
 }
