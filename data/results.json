@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-07 09:46 UTC",
-  "products_scanned": 1720,
+  "generated_at": "2026-07-07 10:04 UTC",
+  "products_scanned": 1730,
   "threshold_pct": 20.0,
   "count": 23,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.7,
-      "detail": "$3,169 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2413.49,
-      "store": "liverpool",
-      "name": "Combo Licuadora Ninja Cco905Ks 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660",
-      "price": 3169.0,
-      "list_price": 4049.0,
-      "ean": null,
-      "model": "Cco905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1160618660",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 41.7,
@@ -317,6 +296,27 @@
       "extra": {
         "id": "45273253",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.3,
+      "detail": "$23,058 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7391.16,
+      "store": "liverpool",
+      "name": "Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941",
+      "price": 23058.26,
+      "list_price": 47299.0,
+      "ean": null,
+      "model": "Wd22Vv2S6R",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1100637941",
+        "marketplace": null
       }
     },
     {
