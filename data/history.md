@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (232)
+# Historial de ofertas encontradas (234)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-07 09:46 | -36% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | $10,000 en liverpool vs mercado -> -36% bajo la competencia |
+| 2026-07-07 09:46 | -43% | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $3,169 | $3,169 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-07-07 02:10 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | $387 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-07 02:10 | -24% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $11,024 | $11,024 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-07 02:10 | -24% | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $6,975 | $6,975 en liverpool vs mercado -> -24% bajo la competencia |
