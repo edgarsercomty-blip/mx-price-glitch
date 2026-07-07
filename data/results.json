@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 17:36 UTC",
-  "products_scanned": 1720,
+  "generated_at": "2026-07-07 19:24 UTC",
+  "products_scanned": 1704,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -28,27 +28,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9899.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver Blue Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html",
-      "price": 23099.3,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44443562",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 2999.7,
@@ -64,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345626",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9899.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver Blue Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html",
+      "price": 23099.3,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44443562",
         "outlet": false
       }
     },
@@ -358,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273254",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273250",
         "outlet": false
       }
     },
