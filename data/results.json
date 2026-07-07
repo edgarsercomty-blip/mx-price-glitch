@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 15:34 UTC",
-  "products_scanned": 1724,
+  "generated_at": "2026-07-07 17:36 UTC",
+  "products_scanned": 1720,
   "threshold_pct": 20.0,
-  "count": 22,
+  "count": 23,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -153,15 +153,15 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 43.4,
-      "detail": "$24,915 en liverpool vs mercado -> -26% bajo la competencia",
+      "discount_pct": 30.8,
+      "detail": "$24,914 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 8543.5,
+      "savings": 8544.5,
       "store": "liverpool",
       "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
       "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
-      "price": 24915.0,
-      "list_price": 43999.0,
+      "price": 24914.0,
+      "list_price": 35999.0,
       "ean": null,
       "model": null,
       "brand": "SAMSUNG",
@@ -380,6 +380,27 @@
       "extra": {
         "id": "44585698",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3103.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
+      "price": 11880.0,
+      "list_price": 19800.0,
+      "ean": null,
+      "model": null,
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181402284",
+        "marketplace": null
       }
     },
     {

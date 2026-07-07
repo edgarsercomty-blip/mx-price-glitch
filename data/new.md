@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-07 15:34 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-07 17:36 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -24% | $3,111 | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,110 | Confirmado vs competencia | $10,110 en liverpool vs mercado -> -24% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
