@@ -1,9 +1,17 @@
-# Historial de ofertas encontradas (238)
+# Historial de ofertas encontradas (246)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-08 08:33 | -20% | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | $15,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-08 08:33 | -25% | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,624 | $2,624 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-08 08:33 | -25% | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-08 08:33 | -29% | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $3,114 | $3,114 en palacio vs mercado -> -29% bajo la competencia |
+| 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, D…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-07-08 08:33 | -33% | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | $1,745 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-07-08 01:06 | -28% | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | $1,999 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-07 15:34 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calo…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,110 | $10,110 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-07 14:39 | -24% | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | $28,727 en palacio vs mercado -> -24% bajo la competencia |
