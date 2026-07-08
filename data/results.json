@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08 14:14 UTC",
-  "products_scanned": 1706,
+  "generated_at": "2026-07-08 15:37 UTC",
+  "products_scanned": 1731,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -232,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44781017",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -636,27 +615,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3103.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
-      "price": 11880.0,
-      "list_price": 19800.0,
-      "ean": null,
-      "model": null,
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181402284",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -700,27 +658,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273245",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$15,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 3799.8,
@@ -736,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44616285",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.8,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
+      "price": 17999.2,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273245",
         "outlet": false
       }
     }
