@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-08 09:39 UTC",
-  "products_scanned": 1668,
+  "generated_at": "2026-07-08 11:29 UTC",
+  "products_scanned": 1706,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 31,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9689.66,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
+      "price": 18809.34,
+      "list_price": 28499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44677942",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -70,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9899.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver Blue Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html",
-      "price": 23099.3,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44443562",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 4649.7,
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9899.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver Blue Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html",
+      "price": 23099.3,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44443562",
         "outlet": false
       }
     },
@@ -137,27 +158,6 @@
       "likely_typo": false,
       "savings": 4499.7,
       "store": "palacio",
-      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44781018",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.7,
-      "store": "palacio",
       "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html",
       "price": 10499.3,
@@ -169,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44747552",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44781018",
         "outlet": false
       }
     },
@@ -258,22 +279,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 28.0,
+      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
-      "savings": 2999.75,
+      "savings": 9379.72,
       "store": "palacio",
-      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
+      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html",
+      "price": 24119.28,
+      "list_price": 33499.0,
       "ean": null,
       "model": null,
-      "brand": "Motorola",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44600286",
+        "id": "45273249",
         "outlet": false
       }
     },
@@ -295,6 +316,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45345630",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345629",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600286",
         "outlet": false
       }
     },
@@ -337,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45273255",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345629",
         "outlet": false
       }
     },

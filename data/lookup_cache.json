@@ -11,70 +11,6 @@
     "ts": "2026-07-07T14:39:29.821132+00:00",
     "items": []
   },
-  "liverpool|98Q7K": {
-    "ts": "2026-07-06T10:39:30.078997+00:00",
-    "items": []
-  },
-  "coppel|98Q7K": {
-    "ts": "2026-07-06T10:39:33.340987+00:00",
-    "items": []
-  },
-  "amazon|98Q7K": {
-    "ts": "2026-07-06T10:39:36.604698+00:00",
-    "items": []
-  },
-  "walmart|98Q7K": {
-    "ts": "2026-07-06T10:39:39.996137+00:00",
-    "items": []
-  },
-  "sams|98Q7K": {
-    "ts": "2026-07-06T10:39:43.557356+00:00",
-    "items": []
-  },
-  "mercadolibre|98Q7K": {
-    "ts": "2026-07-06T10:39:46.870581+00:00",
-    "items": []
-  },
-  "liverpool|9QUOT": {
-    "ts": "2026-07-06T10:40:00.092989+00:00",
-    "items": []
-  },
-  "amazon|9QUOT": {
-    "ts": "2026-07-06T10:40:03.358318+00:00",
-    "items": []
-  },
-  "walmart|9QUOT": {
-    "ts": "2026-07-06T10:40:06.812174+00:00",
-    "items": []
-  },
-  "sams|9QUOT": {
-    "ts": "2026-07-06T10:40:16.374878+00:00",
-    "items": []
-  },
-  "amazon|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-07-06T10:42:07.243975+00:00",
-    "items": []
-  },
-  "walmart|APPLETELCELIPHONEAPPLE256": {
-    "ts": "2026-07-06T10:42:08.658719+00:00",
-    "items": []
-  },
-  "amazon|LMA78112CBAB0": {
-    "ts": "2026-07-06T10:43:13.594792+00:00",
-    "items": []
-  },
-  "sams|LMA78112CBAB0": {
-    "ts": "2026-07-06T10:43:16.597170+00:00",
-    "items": []
-  },
-  "amazon|RT16N6BDX": {
-    "ts": "2026-07-06T10:43:17.842067+00:00",
-    "items": []
-  },
-  "walmart|RT16N6BDX": {
-    "ts": "2026-07-06T10:43:19.361996+00:00",
-    "items": []
-  },
   "liverpool|75Q6K": {
     "ts": "2026-07-06T20:01:27.642820+00:00",
     "items": []
@@ -111,542 +47,100 @@
     "ts": "2026-07-07T09:46:42.882762+00:00",
     "items": []
   },
-  "liverpool|TL18KG": {
-    "ts": "2026-07-06T10:38:18.073003+00:00",
-    "items": []
-  },
-  "coppel|TL18KG": {
-    "ts": "2026-07-06T10:38:22.772536+00:00",
-    "items": []
-  },
-  "palacio|TL18KG": {
-    "ts": "2026-07-06T10:38:23.101274+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Té Silver Jar, 60 g",
-        "url": "https://www.elpalaciodehierro.com/jar-bar-te-silver-jar-60-g-41518746.html",
-        "price": 227.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Vela Aromática Giambattista Valli Positano",
-        "url": "https://www.elpalaciodehierro.com/trudon-vela-aromatica-giambattista-valli-positano-44740928.html",
-        "price": 1240.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Té Orange Jar, 60 g",
-        "url": "https://www.elpalaciodehierro.com/jar-bar-te-orange-jar-60-g-41518740.html",
-        "price": 227.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén en aluminio Delight 24 cm Beige",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-24-cm-beige-42893720.html",
-        "price": 1119.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén en aluminio Delight 20 cm Beige",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-en-aluminio-delight-20-cm-beige-42893719.html",
-        "price": 799.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Sartén redondo en aluminio Excellence+ 20 cm negro",
-        "url": "https://www.elpalaciodehierro.com/t-fal-sarten-redondo-en-aluminio-excellence-20-cm-negro-45370401.html",
-        "price": 1199.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Olla con Tapa de 24 cm T-Fal Delight",
-        "url": "https://www.elpalaciodehierro.com/t-fal-olla-con-tapa-de-24-cm-t-fal-delight-42893724.html",
-        "price": 1499.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cerveza Tsingtao, 330 ml",
-        "url": "https://www.elpalaciodehierro.com/tsingtao-beer-cerveza-tsingtao-330-ml-39359074.html",
-        "price": 65.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Crepera de aluminio Excellence, 25 cm",
-        "url": "https://www.elpalaciodehierro.com/t-fal-crepera-de-aluminio-excellence-25-cm-45494810.html",
-        "price": 1599.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro amarillo de 18 kilates Margherita con cerámica y cuarzo Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-amarillo-de-18-kilates-margherita-con-ceramica-y-cuarzo-mujer-45190519.html",
-        "price": 44500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Gargantilla en Oro de 18 Kilates con Perlas Cultivadas Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-gargantilla-en-oro-de-18-kilates-con-perlas-cultivadas-mujer-44108210.html",
-        "price": 15500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Anillo en oro rosa de 18 kilates Belle Époque Mujer",
-        "url": "https://www.elpalaciodehierro.com/damiani-anillo-en-oro-rosa-de-18-kilates-belle-epoque-mujer-45190467.html",
-        "price": 44500.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|TL18KG": {
-    "ts": "2026-07-06T10:38:26.459356+00:00",
-    "items": []
-  },
-  "sams|TL18KG": {
-    "ts": "2026-07-06T10:38:34.371505+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Whisky Ballantine's  1 l",
-        "url": "https://www.sams.com.mx/ip/whisky-ballantine-s-1-l/000172894",
-        "price": 298.72,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licor HPNOTIQ  1 l",
-        "url": "https://www.sams.com.mx/ip/licor-hpnotiq-1-l/981029696",
-        "price": 971.82,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Ginebra Hendrick's  1 l",
-        "url": "https://www.sams.com.mx/ip/ginebra-hendrick-s-1-l/981036568",
-        "price": 1364.64,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vodka Smirnoff  1 l",
-        "url": "https://www.sams.com.mx/ip/vodka-smirnoff-1-l/000145772",
-        "price": 310.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tequila 1800  1 l",
-        "url": "https://www.sams.com.mx/ip/tequila-1800-1-l/981026586",
-        "price": 736.54,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Abrillantador Multiusos Member's Mark  5 l + Atomizador de 1 l",
-        "url": "https://www.sams.com.mx/ip/abrillantador-multiusos-member-s-mark-5-l-atomizador-de-1-l/000177626",
-        "price": 304.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sangrita Viuda de Sánchez  1 l",
-        "url": "https://www.sams.com.mx/ip/sangrita-viuda-de-sanchez-1-l/000010653",
-        "price": 120.7,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bactericida Member's Mark  1 L",
-        "url": "https://www.sams.com.mx/ip/bactericida-member-s-mark-1-l/000729800",
-        "price": 91.03,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licor de Naranja Controy  1 l",
-        "url": "https://www.sams.com.mx/ip/licor-de-naranja-controy-1-l/000023613",
-        "price": 241.21,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Rompope Coronado  Vainilla 1 l",
-        "url": "https://www.sams.com.mx/ip/rompope-coronado-vainilla-1-l/000000720",
-        "price": 213.79,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Whisky William Lawson's  1 l",
-        "url": "https://www.sams.com.mx/ip/whisky-william-lawson-s-1-l/000071328",
-        "price": 249.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Vinagre Balsámico Bertolli  1 l",
-        "url": "https://www.sams.com.mx/ip/vinagre-balsamico-bertolli-1-l/000172789",
-        "price": 126.85,
-        "model": null
-      }
-    ]
-  },
-  "mercadolibre|TL18KG": {
-    "ts": "2026-07-06T10:38:59.370143+00:00",
-    "items": []
-  },
-  "liverpool|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:06.559373+00:00",
-    "items": []
-  },
-  "coppel|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:09.831159+00:00",
-    "items": []
-  },
-  "amazon|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:13.077044+00:00",
-    "items": []
-  },
-  "walmart|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:16.569272+00:00",
-    "items": []
-  },
-  "sams|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:20.114006+00:00",
-    "items": []
-  },
-  "mercadolibre|QN85QN800DFXZX": {
-    "ts": "2026-07-06T10:39:23.397522+00:00",
-    "items": []
-  },
-  "liverpool|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:23.001502+00:00",
-    "items": []
-  },
-  "coppel|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:26.223987+00:00",
-    "items": []
-  },
-  "amazon|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:29.513814+00:00",
-    "items": []
-  },
-  "walmart|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:33.262115+00:00",
-    "items": []
-  },
-  "sams|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:36.725045+00:00",
-    "items": []
-  },
-  "mercadolibre|LMA71214VBAB0": {
-    "ts": "2026-07-06T10:40:39.951537+00:00",
-    "items": []
-  },
-  "liverpool|65QNED9MASA": {
-    "ts": "2026-07-06T10:40:43.419206+00:00",
-    "items": []
-  },
-  "coppel|65QNED9MASA": {
-    "ts": "2026-07-06T10:40:47.315368+00:00",
-    "items": []
-  },
-  "amazon|65QNED9MASA": {
-    "ts": "2026-07-06T10:40:50.559365+00:00",
-    "items": []
-  },
-  "walmart|65QNED9MASA": {
-    "ts": "2026-07-06T10:40:54.021178+00:00",
-    "items": []
-  },
-  "sams|65QNED9MASA": {
-    "ts": "2026-07-06T10:40:57.634094+00:00",
-    "items": []
-  },
-  "mercadolibre|65QNED9MASA": {
-    "ts": "2026-07-06T10:41:00.884004+00:00",
-    "items": []
-  },
-  "liverpool|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:07.846590+00:00",
-    "items": []
-  },
-  "coppel|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:11.117568+00:00",
-    "items": []
-  },
-  "amazon|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:14.380128+00:00",
-    "items": []
-  },
-  "walmart|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:17.861438+00:00",
-    "items": []
-  },
-  "sams|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:21.310685+00:00",
-    "items": []
-  },
-  "mercadolibre|RC20N6HBX1": {
-    "ts": "2026-07-06T10:41:24.652821+00:00",
-    "items": []
-  },
-  "liverpool|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:34.524528+00:00",
-    "items": []
-  },
-  "coppel|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:37.808884+00:00",
-    "items": []
-  },
-  "amazon|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:41.034284+00:00",
-    "items": []
-  },
-  "walmart|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:42.522476+00:00",
-    "items": []
-  },
-  "sams|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:44.167102+00:00",
-    "items": []
-  },
-  "mercadolibre|FV28N6ASX": {
-    "ts": "2026-07-06T10:41:46.092393+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-07-06T10:42:09.938655+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-07-06T10:42:11.409622+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-07-06T10:42:12.991038+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-06T10:42:14.257508+00:00",
+    "ts": "2026-07-08T11:28:40.629860+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-06T10:42:15.730256+00:00",
+    "ts": "2026-07-08T11:28:42.145862+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-06T10:42:17.205337+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-06T10:42:18.469836+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-06T10:42:20.145725+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-06T10:42:21.677311+00:00",
+    "ts": "2026-07-08T11:28:43.683593+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOOBSCUROCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:22.923564+00:00",
+    "ts": "2026-07-08T11:28:22.079448+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOOBSCUROCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:24.481876+00:00",
+    "ts": "2026-07-08T11:28:23.481658+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOOBSCUROCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:25.971732+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:27.222434+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:28.700882+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-07-06T10:42:30.161892+00:00",
+    "ts": "2026-07-08T11:28:25.007014+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYMARINO": {
-    "ts": "2026-07-06T10:42:31.568391+00:00",
+    "ts": "2026-07-08T11:28:31.236556+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYMARINO": {
-    "ts": "2026-07-06T10:42:33.020324+00:00",
+    "ts": "2026-07-08T11:28:32.611230+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYMARINO": {
-    "ts": "2026-07-06T10:42:34.497180+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-06T10:42:35.757831+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-06T10:42:37.354890+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-06T10:42:38.864995+00:00",
+    "ts": "2026-07-08T11:28:34.037605+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA57": {
-    "ts": "2026-07-06T10:42:40.140152+00:00",
+    "ts": "2026-07-08T11:28:26.400060+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA57": {
-    "ts": "2026-07-06T10:42:41.544756+00:00",
+    "ts": "2026-07-08T11:28:27.916347+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA57": {
-    "ts": "2026-07-06T10:42:43.024581+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-06T10:42:44.265908+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-06T10:42:46.150063+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-06T10:42:47.759092+00:00",
+    "ts": "2026-07-08T11:28:29.377027+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYULTRA": {
-    "ts": "2026-07-06T10:42:48.970047+00:00",
+    "ts": "2026-07-08T11:28:35.584868+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYULTRA": {
-    "ts": "2026-07-06T10:42:50.391855+00:00",
+    "ts": "2026-07-08T11:28:37.052187+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYULTRA": {
-    "ts": "2026-07-06T10:42:52.380577+00:00",
+    "ts": "2026-07-08T11:28:39.173708+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYCLARO": {
-    "ts": "2026-07-06T10:42:53.891191+00:00",
+    "ts": "2026-07-08T11:28:50.652929+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYCLARO": {
-    "ts": "2026-07-06T10:42:55.292019+00:00",
+    "ts": "2026-07-08T11:28:52.068261+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYCLARO": {
-    "ts": "2026-07-06T10:42:56.747459+00:00",
-    "items": []
-  },
-  "walmart|CONSISTENTADVANTAGESKECHERSTENIS": {
-    "ts": "2026-07-06T10:42:58.202556+00:00",
-    "items": []
-  },
-  "sams|CONSISTENTADVANTAGESKECHERSTENIS": {
-    "ts": "2026-07-06T10:42:59.642202+00:00",
-    "items": []
-  },
-  "walmart|ZAPATILLASCALVINCARLLAKLEIN": {
-    "ts": "2026-07-06T10:43:01.113786+00:00",
-    "items": []
-  },
-  "sams|ZAPATILLASCALVINCARLLAKLEIN": {
-    "ts": "2026-07-06T10:43:02.672127+00:00",
-    "items": []
-  },
-  "walmart|ZAPATILLASCARINAPUMA": {
-    "ts": "2026-07-06T10:43:05.357027+00:00",
-    "items": []
-  },
-  "sams|ZAPATILLASCARINAPUMA": {
-    "ts": "2026-07-06T10:43:06.891329+00:00",
-    "items": []
-  },
-  "walmart|PREINSTALADOSINALAMBRICOSMULTIJUGADORVIDEOJUEGOS": {
-    "ts": "2026-07-06T10:43:09.600121+00:00",
-    "items": []
-  },
-  "sams|PREINSTALADOSINALAMBRICOSMULTIJUGADORVIDEOJUEGOS": {
-    "ts": "2026-07-06T10:43:11.044303+00:00",
-    "items": []
-  },
-  "amazon|PANTALLASAMSUNGSERIESTIZEN": {
-    "ts": "2026-07-06T10:43:20.582377+00:00",
-    "items": []
-  },
-  "walmart|PANTALLASAMSUNGSERIESTIZEN": {
-    "ts": "2026-07-06T10:43:22.162696+00:00",
-    "items": []
-  },
-  "sams|PANTALLASAMSUNGSERIESTIZEN": {
-    "ts": "2026-07-06T10:43:23.590869+00:00",
+    "ts": "2026-07-08T11:28:53.543979+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-06T11:06:00.164925+00:00",
+    "ts": "2026-07-08T11:28:12.182637+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-06T11:06:01.730957+00:00",
+    "ts": "2026-07-08T11:28:13.703024+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-06T11:06:03.604818+00:00",
+    "ts": "2026-07-08T11:28:16.293587+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY256": {
-    "ts": "2026-07-06T11:06:04.704841+00:00",
+    "ts": "2026-07-08T11:28:17.564791+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY256": {
-    "ts": "2026-07-06T11:06:06.074296+00:00",
+    "ts": "2026-07-08T11:28:19.039943+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY256": {
-    "ts": "2026-07-06T11:06:07.831440+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
-    "ts": "2026-07-06T11:06:09.225767+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
-    "ts": "2026-07-06T11:06:10.694806+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
-    "ts": "2026-07-06T11:06:11.921599+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARMARINOGALAXY": {
-    "ts": "2026-07-06T11:06:13.073516+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARMARINOGALAXY": {
-    "ts": "2026-07-06T11:06:14.597399+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARMARINOGALAXY": {
-    "ts": "2026-07-06T11:06:16.332076+00:00",
+    "ts": "2026-07-08T11:28:20.527553+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
@@ -2943,6 +2437,42 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARCOBALTOMOTO": {
     "ts": "2026-07-08T09:39:36.236395+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARRAZR512": {
+    "ts": "2026-07-08T11:28:44.961183+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARRAZR512": {
+    "ts": "2026-07-08T11:28:46.525950+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARRAZR512": {
+    "ts": "2026-07-08T11:28:48.505384+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-08T11:28:54.941566+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-08T11:28:56.634531+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-08T11:28:58.329164+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-08T11:28:59.574746+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-08T11:29:01.112412+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-08T11:29:02.876442+00:00",
     "items": []
   }
 }

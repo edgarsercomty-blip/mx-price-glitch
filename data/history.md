@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (247)
+# Historial de ofertas encontradas (249)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-08 11:29 | -28% | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqu…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | $24,119 en palacio vs mercado -> -28% bajo la competencia |
+| 2026-07-08 11:29 | -34% | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desb…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | $18,809 en palacio vs mercado -> -34% bajo la competencia |
 | 2026-07-08 09:39 | -28% | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-07-08 08:33 | -20% | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | $15,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-08 08:33 | -25% | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,624 | $2,624 en palacio vs mercado -> -25% bajo la competencia |
