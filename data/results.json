@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08 19:29 UTC",
-  "products_scanned": 1722,
+  "generated_at": "2026-07-08 20:17 UTC",
+  "products_scanned": 1744,
   "threshold_pct": 20.0,
   "count": 34,
   "findings": [
@@ -232,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44781017",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -611,6 +590,27 @@
       "extra": {
         "id": "45273250",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.0,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
       }
     },
     {
