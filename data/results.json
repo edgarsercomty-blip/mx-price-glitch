@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08 17:04 UTC",
-  "products_scanned": 1677,
+  "generated_at": "2026-07-08 18:48 UTC",
+  "products_scanned": 1709,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,27 +70,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4649.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 2999.7,
@@ -106,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345626",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951477",
         "outlet": false
       }
     },
@@ -133,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4649.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 9899.7,
@@ -169,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44443562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951479",
         "outlet": false
       }
     },
@@ -284,27 +284,6 @@
       "likely_typo": false,
       "savings": 9379.72,
       "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html",
-      "price": 24119.28,
-      "list_price": 33499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273249",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9379.72,
-      "store": "palacio",
       "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html",
       "price": 24119.28,
@@ -316,6 +295,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45273248",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600286",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11499.75,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html",
+      "price": 34499.25,
+      "list_price": 45999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273253",
         "outlet": false
       }
     },
@@ -368,27 +389,6 @@
       "likely_typo": false,
       "savings": 2999.75,
       "store": "palacio",
-      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600286",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
       "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
       "price": 8999.25,
@@ -400,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345629",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11499.75,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html",
+      "price": 34499.25,
+      "list_price": 45999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273255",
         "outlet": false
       }
     },
@@ -452,48 +473,6 @@
       "likely_typo": false,
       "savings": 11499.75,
       "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273255",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273253",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html",
       "price": 34499.25,
@@ -536,27 +515,6 @@
       "likely_typo": false,
       "savings": 8739.77,
       "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273252",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html",
       "price": 29259.23,
@@ -568,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273254",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273252",
         "outlet": false
       }
     },
@@ -594,6 +573,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.0,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -611,27 +611,6 @@
       "extra": {
         "id": "44585698",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3103.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
-      "price": 11880.0,
-      "list_price": 19800.0,
-      "ean": null,
-      "model": null,
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181402284",
-        "marketplace": null
       }
     },
     {
@@ -679,27 +658,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$15,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3799.8,
-      "store": "palacio",
-      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
-      "price": 15199.2,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44616285",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4499.8,
@@ -715,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273245",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$15,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3799.8,
+      "store": "palacio",
+      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
+      "price": 15199.2,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44616285",
         "outlet": false
       }
     }
