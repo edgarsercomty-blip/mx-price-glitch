@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08 01:06 UTC",
-  "products_scanned": 1707,
+  "generated_at": "2026-07-08 02:51 UTC",
+  "products_scanned": 1699,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 20,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -111,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$3,499 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1449.85,
-      "store": "liverpool",
-      "name": "Kit De Licuadora Ninja Bn801 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030",
-      "price": 3499.3,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": "Bn801",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1109672030",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -148,48 +127,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1180553254",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.3,
-      "detail": "$1,999 en liverpool vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 774.5,
-      "store": "liverpool",
-      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
-      "price": 1999.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": "S0694",
-      "brand": "CV DIRECTO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1164922185",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.8,
-      "detail": "$24,910 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8548.5,
-      "store": "liverpool",
-      "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
-      "price": 24910.0,
-      "list_price": 35999.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1170197151",
         "marketplace": null
       }
     },
@@ -300,27 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.7,
-      "detail": "$10,110 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3110.83,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 18000 Btu Mmi18Hdbwca32M2",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080",
-      "price": 10110.2,
-      "list_price": 18299.0,
-      "ean": null,
-      "model": "Mmi18Hdbwca32M2",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1174006080",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -384,6 +300,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273250",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -422,27 +359,6 @@
       "extra": {
         "productId": "1181402284",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$61,379 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15809.83,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ",
-      "url": "https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html",
-      "price": 61379.34,
-      "list_price": 92999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Sony",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45588136",
-        "outlet": false
       }
     },
     {

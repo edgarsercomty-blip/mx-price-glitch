@@ -4009,5 +4009,413 @@
   "sams|S0694": {
     "ts": "2026-07-08T01:06:40.282477+00:00",
     "items": []
+  },
+  "palacio|CO750B": {
+    "ts": "2026-07-08T02:50:57.599778+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespoke",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html",
+        "price": 13621.51,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cepillo alaciador de aire HC45O, 1000 W",
+        "url": "https://www.elpalaciodehierro.com/beurer-cepillo-alaciador-de-aire-hc45o-1000-w-44956549.html",
+        "price": 854.1,
+        "model": "HC45O"
+      },
+      {
+        "store": "palacio",
+        "name": "Parrilla a Gas Lp / Gas Natural GBC75VG 5 Quemadores",
+        "url": "https://www.elpalaciodehierro.com/teka-parrilla-a-gas-lp-%2F-gas-natural-gbc75vg-5-quemadores-45498559.html",
+        "price": 14395.41,
+        "model": "GBC75VG"
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M1605, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m1605-120-v-43354453.html",
+        "price": 4049.25,
+        "model": "M1605"
+      },
+      {
+        "store": "palacio",
+        "name": "Barra de sonido HW-B750F/ZX negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-barra-de-sonido-hw-b750f%2Fzx-negro-44875851.html",
+        "price": 5039.44,
+        "model": "HW-B750F/ZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora de Cabello para Viaje HC 35 Ocean",
+        "url": "https://www.elpalaciodehierro.com/beurer-secadora-de-cabello-para-viaje-hc-35-ocean-44941157.html",
+        "price": 854.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Coser C5655 75 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-c5655-75-w-45037216.html",
+        "price": 7844.25,
+        "model": "C5655"
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M3505, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m3505-120-v-41403775.html",
+        "price": 5924.25,
+        "model": "M3505"
+      },
+      {
+        "store": "palacio",
+        "name": "Licuadora The Super Q, 12 Velocidades, Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/breville-licuadora-the-super-q-12-velocidades-acero-inoxidable-45007811.html",
+        "price": 11999.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Cocer Overlock Heavy Duty 110 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-cocer-overlock-heavy-duty-110-w-45081393.html",
+        "price": 8624.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de coser Simple 3210, 97 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-simple-3210-97-w-45037218.html",
+        "price": 4199.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14399.4,
+        "model": "VR122CW"
+      }
+    ]
+  },
+  "amazon|CO750B": {
+    "ts": "2026-07-08T02:50:58.844753+00:00",
+    "items": []
+  },
+  "walmart|CO750B": {
+    "ts": "2026-07-08T02:51:00.935399+00:00",
+    "items": []
+  },
+  "sams|CO750B": {
+    "ts": "2026-07-08T02:51:02.911810+00:00",
+    "items": []
+  },
+  "mercadolibre|CO750B": {
+    "ts": "2026-07-08T02:51:04.144769+00:00",
+    "items": []
+  },
+  "palacio|RS20N6WCX": {
+    "ts": "2026-07-08T02:51:04.405147+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Crystal 4K UN65U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-4k-un65u8500hfxzx-45366548.html",
+        "price": 10798.83,
+        "model": "UN65U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
+        "price": 29798.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 p3 RS27T5200S9 Plata",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-p3-rs27t5200s9-plata-40854949.html",
+        "price": 23246.37,
+        "model": "RS27T5200S9"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 39998.7,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora a gas 22 Kg carga superior DT22EGTX",
+        "url": "https://www.elpalaciodehierro.com/lg-secadora-a-gas-22-kg-carga-superior-dt22egtx-45001057.html",
+        "price": 17979.42,
+        "model": "DT22EGTX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 30752.49,
+        "model": "WD22BV2S6R"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 22 p3",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html",
+        "price": 21174.45,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora a gas 22 Kg carga superior DT22PBTX",
+        "url": "https://www.elpalaciodehierro.com/lg-secadora-a-gas-22-kg-carga-superior-dt22pbtx-45005045.html",
+        "price": 17049.45,
+        "model": "DT22PBTX"
+      },
+      {
+        "store": "palacio",
+        "name": "Juego de bocinas amplificadas MR1B-SG Bluetooth 20W",
+        "url": "https://www.elpalaciodehierro.com/ruark-juego-de-bocinas-amplificadas-mr1b-sg-bluetooth-20w-43860677.html",
+        "price": 9044.33,
+        "model": "MR1B-SG"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 22 p3",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html",
+        "price": 22714.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cable de Carga tipo C",
+        "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
+        "price": 199.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RS20N6WCX": {
+    "ts": "2026-07-08T02:51:06.047936+00:00",
+    "items": []
+  },
+  "walmart|RS20N6WCX": {
+    "ts": "2026-07-08T02:51:08.370377+00:00",
+    "items": []
+  },
+  "sams|RS20N6WCX": {
+    "ts": "2026-07-08T02:51:10.031147+00:00",
+    "items": []
+  },
+  "mercadolibre|RS20N6WCX": {
+    "ts": "2026-07-08T02:51:11.462557+00:00",
+    "items": []
+  },
+  "palacio|RT14N6CDX": {
+    "ts": "2026-07-08T02:51:11.609862+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 14189.34,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 13419.39,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 19 p3 RT53DG6798B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19-p3-rt53dg6798b1em-negro-43689720.html",
+        "price": 15005.39,
+        "model": "RT53DG6798B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
+        "price": 13418.37,
+        "model": "RT42DG6734B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 24 p3 Smart Inverter GT24BS Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-24-p3-smart-inverter-gt24bs-plata-43815234.html",
+        "price": 15749.37,
+        "model": "GT24BS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 p3 RS27T5200S9 Plata",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-p3-rs27t5200s9-plata-40854949.html",
+        "price": 23246.37,
+        "model": "RS27T5200S9"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 39998.7,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Gamer 34 pulgadas Curva HDR TUF WQHD 180 Hz VG34VQ3B",
+        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-34-pulgadas-curva-hdr-tuf-wqhd-180-hz-vg34vq3b-44689675.html",
+        "price": 8999.1,
+        "model": "VG34VQ3B"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor 27 pulgadas Plana UltraFine UHD 4K 60 Hz 27US500-W",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-27-pulgadas-plana-ultrafine-uhd-4k-60-hz-27us500-w-44318701.html",
+        "price": 8099.1,
+        "model": "27US500-W"
+      },
+      {
+        "store": "palacio",
+        "name": "Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX 4060 Intel Core i5, 8 GB RAM, 512 GB SSD",
+        "url": "https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html",
+        "price": 27999.0,
+        "model": "G16CHR"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor gamer 27 pulgadas curva LED TUF Gaming Full HD 180 Hz VG27VQ3B",
+        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-27-pulgadas-curva-led-tuf-gaming-full-hd-180-hz-vg27vq3b-44875867.html",
+        "price": 5399.1,
+        "model": "VG27VQ3B"
+      }
+    ]
+  },
+  "amazon|RT14N6CDX": {
+    "ts": "2026-07-08T02:51:13.661341+00:00",
+    "items": []
+  },
+  "walmart|RT14N6CDX": {
+    "ts": "2026-07-08T02:51:17.298105+00:00",
+    "items": []
+  },
+  "sams|RT14N6CDX": {
+    "ts": "2026-07-08T02:51:19.651710+00:00",
+    "items": []
+  },
+  "mercadolibre|RT14N6CDX": {
+    "ts": "2026-07-08T02:51:20.951653+00:00",
+    "items": []
+  },
+  "palacio|FC88D6CBX1": {
+    "ts": "2026-07-08T02:51:21.139218+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Panel superior para refrigerador Bespoke Flex French Door 22 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-22-p3-42685433.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Libreta Fifa WC 2026 Multicolor",
+        "url": "https://www.elpalaciodehierro.com/fifa-libreta-fifa-wc-2026-multicolor-45329864.html",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html",
+        "price": 61379.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Control Multiplataforma FIFA WC 2026 Brasil Edición Especial Multicolor",
+        "url": "https://www.elpalaciodehierro.com/fifa-control-multiplataforma-fifa-wc-2026-brasil-edicion-especial-multicolor-45316997.html",
+        "price": 749.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor para entrenamiento Fénix 8 con GPS",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 29 p3 Family Hub RF29DB9950QDEM Acero",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-29-p3-family-hub-rf29db9950qdem-acero-43896314.html",
+        "price": 78115.41,
+        "model": "RF29DB9950QDEM"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor para entrenamiento Fénix 8 con GPS",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 47141.82,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas plana True RGB 4K BRAVIA 7 II K-85XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-85-pulgadas-plana-true-rgb-4k-bravia-7-ii-k-85xr70m2-45588139.html",
+        "price": 50159.34,
+        "model": "K-85XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor para entrenamiento Fénix 8",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110961.html",
+        "price": 24999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Deportivo Fénix 8 multideporte",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-fenix-8-multideporte-44110962.html",
+        "price": 24999.0,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|FC88D6CBX1": {
+    "ts": "2026-07-08T02:51:22.379838+00:00",
+    "items": []
   }
 }
