@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07 23:32 UTC",
-  "products_scanned": 1722,
+  "generated_at": "2026-07-08 01:06 UTC",
+  "products_scanned": 1707,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -153,14 +153,35 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.8,
-      "detail": "$24,913 en liverpool vs mercado -> -26% bajo la competencia",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
-      "savings": 8545.5,
+      "savings": 774.5,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.8,
+      "detail": "$24,910 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8548.5,
       "store": "liverpool",
       "name": "Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas",
       "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151",
-      "price": 24913.0,
+      "price": 24910.0,
       "list_price": 35999.0,
       "ean": null,
       "model": null,
@@ -363,27 +384,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273250",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -401,6 +401,27 @@
       "extra": {
         "id": "44585698",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$11,880 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3103.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284",
+      "price": 11880.0,
+      "list_price": 19800.0,
+      "ean": null,
+      "model": null,
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181402284",
+        "marketplace": null
       }
     },
     {
