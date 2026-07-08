@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-07-08 11:29 UTC
+# Errores/chollos de precio — 2026-07-08 13:13 UTC
 
-- Productos revisados: **1706**
+- Productos revisados: **1652**
 - Umbral de diferencia: **20%**
 - Hallazgos: **31**
 
@@ -12,7 +12,6 @@
 | -34% | $9,690 | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | Confirmado vs competencia | $18,809 en palacio vs mercado -> -34% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
-| -24% | $8,842 | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | Confirmado vs competencia | $28,727 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
@@ -28,6 +27,7 @@
 | -30% | $4,500 | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $4,500 | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, Desblo…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $3,800 | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | Confirmado vs competencia | $15,199 en palacio vs mercado -> -20% bajo la competencia |
+| -21% | $3,104 | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 G…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,880 | Confirmado vs competencia | $11,880 en liverpool vs mercado -> -21% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-gris-desbloqueado-45345630.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
