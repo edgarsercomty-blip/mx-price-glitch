@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-07-09 15:15 UTC
+# Errores/chollos de precio — 2026-07-09 15:45 UTC
 
-- Productos revisados: **1755**
+- Productos revisados: **1707**
 - Umbral de diferencia: **20%**
 - Hallazgos: **43**
 
@@ -13,6 +13,7 @@
 | -34% | $9,690 | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | Confirmado vs competencia | $18,809 en palacio vs mercado -> -34% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
+| -24% | $8,842 | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | Confirmado vs competencia | $28,727 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
@@ -28,10 +29,8 @@
 | -20% | $4,500 | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,500 | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $4,500 | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
-| -30% | $4,500 | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $3,800 | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | Confirmado vs competencia | $15,199 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
-| -30% | $3,079 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | Confirmado vs competencia | $7,220 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-violeta-desbloqueado-45345631.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-gris-desbloqueado-45345630.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
@@ -49,3 +48,4 @@
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $720 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,879 | Confirmado vs competencia | $2,879 en palacio vs mercado -> -20% bajo la competencia |
 | -58% | $560 | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -58% bajo la competencia |
+| -22% | $549 | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | Confirmado vs competencia | $1,999 en liverpool vs mercado -> -22% bajo la competencia |

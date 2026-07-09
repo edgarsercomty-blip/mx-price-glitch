@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09 15:15 UTC",
-  "products_scanned": 1755,
+  "generated_at": "2026-07-09 15:45 UTC",
+  "products_scanned": 1707,
   "threshold_pct": 20.0,
   "count": 43,
   "findings": [
@@ -127,48 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44747552",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.7,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44781018",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -573,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8841.71,
+      "store": "palacio",
+      "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
+      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
+      "price": 28727.44,
+      "list_price": 51299.0,
+      "ean": null,
+      "model": "RF32CG5411B1EM",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43388828",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -653,6 +632,27 @@
       "extra": {
         "id": "45205059",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.0,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
       }
     },
     {
