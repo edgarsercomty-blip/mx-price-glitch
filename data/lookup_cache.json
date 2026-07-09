@@ -1,14 +1,14 @@
 {
   "amazon|55QM64L": {
-    "ts": "2026-07-07T14:39:26.124306+00:00",
+    "ts": "2026-07-09T15:14:20.225526+00:00",
     "items": []
   },
   "walmart|55QM64L": {
-    "ts": "2026-07-07T14:39:27.664662+00:00",
+    "ts": "2026-07-09T15:14:21.765025+00:00",
     "items": []
   },
   "sams|55QM64L": {
-    "ts": "2026-07-07T14:39:29.821132+00:00",
+    "ts": "2026-07-09T15:14:23.497176+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
@@ -167,106 +167,24 @@
     "ts": "2026-07-09T02:02:26.453481+00:00",
     "items": []
   },
-  "amazon|SAMSUNGSAMSUNGDYNAMICGALAXYAMOLED": {
-    "ts": "2026-07-07T10:03:42.056105+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGSAMSUNGDYNAMICGALAXYAMOLED": {
-    "ts": "2026-07-07T10:03:43.982431+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGSAMSUNGDYNAMICGALAXYAMOLED": {
-    "ts": "2026-07-07T10:03:45.446556+00:00",
-    "items": []
-  },
-  "amazon|WD22VV2S6R": {
-    "ts": "2026-07-07T10:03:46.692293+00:00",
-    "items": []
-  },
-  "walmart|WD22VV2S6R": {
-    "ts": "2026-07-07T10:03:48.000316+00:00",
-    "items": []
-  },
-  "sams|WD22VV2S6R": {
-    "ts": "2026-07-07T10:03:49.288821+00:00",
-    "items": []
-  },
-  "amazon|HPLAPTOPRADEONRYZENG10": {
-    "ts": "2026-07-07T10:03:53.716056+00:00",
-    "items": []
-  },
-  "walmart|HPLAPTOPRADEONRYZENG10": {
-    "ts": "2026-07-07T10:04:00.721536+00:00",
-    "items": []
-  },
-  "sams|HPLAPTOPRADEONRYZENG10": {
-    "ts": "2026-07-07T10:04:02.028583+00:00",
-    "items": []
-  },
-  "amazon|HPRADEONLAPTOPRYZENSSD": {
-    "ts": "2026-07-07T12:40:20.516374+00:00",
-    "items": []
-  },
-  "walmart|HPRADEONLAPTOPRYZENSSD": {
-    "ts": "2026-07-07T12:40:22.369969+00:00",
-    "items": []
-  },
-  "sams|HPRADEONLAPTOPRYZENSSD": {
-    "ts": "2026-07-07T12:40:24.121048+00:00",
-    "items": []
-  },
   "liverpool|75QM8K": {
-    "ts": "2026-07-07T14:39:32.132289+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Tcl Qd Mini Led De 75 Pulgadas 4K Uhd 75Qm8K Con Google Tv",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qd-mini-led-de-75-pulgadas-4k-uhd-75qm8k-con-google-tv/1187120353",
-        "price": 26999.1,
-        "model": "75Qm8K"
-      },
-      {
-        "store": "liverpool",
-        "name": "Chaise Lounge Wision De Madera Acacia",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/chaise-lounge-wision-de-madera-acacia/1154446199",
-        "price": 7479.6,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Reclinable Bayona Haus",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/reclinable-bayona-haus/1115194310",
-        "price": 19599.3,
-        "model": null
-      }
-    ]
+    "ts": "2026-07-09T15:14:28.246444+00:00",
+    "items": []
   },
   "amazon|75QM8K": {
-    "ts": "2026-07-07T14:39:33.730859+00:00",
+    "ts": "2026-07-09T15:14:29.480035+00:00",
     "items": []
   },
   "walmart|75QM8K": {
-    "ts": "2026-07-07T14:39:35.252077+00:00",
+    "ts": "2026-07-09T15:14:31.041411+00:00",
     "items": []
   },
   "sams|75QM8K": {
-    "ts": "2026-07-07T14:39:36.881637+00:00",
+    "ts": "2026-07-09T15:14:32.645448+00:00",
     "items": []
   },
   "mercadolibre|75QM8K": {
-    "ts": "2026-07-07T14:39:38.182731+00:00",
-    "items": []
-  },
-  "amazon|RF32CG5411B1EM": {
-    "ts": "2026-07-07T14:39:55.650457+00:00",
-    "items": []
-  },
-  "walmart|RF32CG5411B1EM": {
-    "ts": "2026-07-07T14:39:57.243563+00:00",
-    "items": []
-  },
-  "sams|RF32CG5411B1EM": {
-    "ts": "2026-07-07T14:39:58.743390+00:00",
+    "ts": "2026-07-09T15:14:34.023945+00:00",
     "items": []
   },
   "amazon|MMI18HDBWCA32M2": {
@@ -2681,6 +2599,66 @@
   },
   "sams|GARMINMONITORSUENOINDEX": {
     "ts": "2026-07-09T09:59:30.335559+00:00",
+    "items": []
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARPURA512": {
+    "ts": "2026-07-09T15:14:51.278486+00:00",
+    "items": []
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARPURA512": {
+    "ts": "2026-07-09T15:14:52.835289+00:00",
+    "items": []
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARPURA512": {
+    "ts": "2026-07-09T15:14:54.353004+00:00",
+    "items": []
+  },
+  "amazon|100QD6SFM": {
+    "ts": "2026-07-09T15:14:55.631113+00:00",
+    "items": []
+  },
+  "walmart|100QD6SFM": {
+    "ts": "2026-07-09T15:14:57.239649+00:00",
+    "items": []
+  },
+  "sams|100QD6SFM": {
+    "ts": "2026-07-09T15:14:59.062315+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-09T15:15:00.322917+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-09T15:15:02.042892+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-09T15:15:03.998509+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERMONITORCORRERMUSIC": {
+    "ts": "2026-07-09T15:15:05.364441+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERMONITORCORRERMUSIC": {
+    "ts": "2026-07-09T15:15:06.922310+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERMONITORCORRERMUSIC": {
+    "ts": "2026-07-09T15:15:08.542303+00:00",
+    "items": []
+  },
+  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
+    "ts": "2026-07-09T15:15:09.802371+00:00",
+    "items": []
+  },
+  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
+    "ts": "2026-07-09T15:15:11.326811+00:00",
+    "items": []
+  },
+  "sams|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
+    "ts": "2026-07-09T15:15:13.272661+00:00",
     "items": []
   }
 }
