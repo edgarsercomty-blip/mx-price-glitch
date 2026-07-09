@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09 19:49 UTC",
-  "products_scanned": 1762,
+  "generated_at": "2026-07-09 21:06 UTC",
+  "products_scanned": 1743,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -127,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44747552",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -547,27 +526,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44928184",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8841.71,
-      "store": "palacio",
-      "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
-      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
-      "price": 28727.44,
-      "list_price": 51299.0,
-      "ean": null,
-      "model": "RF32CG5411B1EM",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43388828",
         "outlet": false
       }
     },
