@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09 22:44 UTC",
-  "products_scanned": 1717,
+  "generated_at": "2026-07-09 23:58 UTC",
+  "products_scanned": 1733,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 41,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44842808",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9689.66,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
-      "price": 18809.34,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44677942",
         "outlet": false
       }
     },
@@ -531,6 +510,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8841.71,
+      "store": "palacio",
+      "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
+      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
+      "price": 28727.44,
+      "list_price": 51299.0,
+      "ean": null,
+      "model": "RF32CG5411B1EM",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43388828",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -778,27 +778,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44840620",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110957",
         "outlet": false
       }
     },
