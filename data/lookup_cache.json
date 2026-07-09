@@ -11,18 +11,6 @@
     "ts": "2026-07-07T14:39:29.821132+00:00",
     "items": []
   },
-  "amazon|SONYPANTALLABRAVIAPLANALED": {
-    "ts": "2026-07-07T09:46:38.181690+00:00",
-    "items": []
-  },
-  "walmart|SONYPANTALLABRAVIAPLANALED": {
-    "ts": "2026-07-07T09:46:40.099392+00:00",
-    "items": []
-  },
-  "sams|SONYPANTALLABRAVIAPLANALED": {
-    "ts": "2026-07-07T09:46:42.882762+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
     "ts": "2026-07-08T11:28:40.629860+00:00",
     "items": []
@@ -177,333 +165,6 @@
   },
   "sams|WD26FB8690BEAX": {
     "ts": "2026-07-09T02:02:26.453481+00:00",
-    "items": []
-  },
-  "mercadolibre|9QUOT": {
-    "ts": "2026-07-07T09:45:50.694416+00:00",
-    "items": []
-  },
-  "palacio|WM20EWNTS6P": {
-    "ts": "2026-07-07T09:45:50.842949+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
-        "price": 16953.51,
-        "model": "WM22WV26SR"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
-        "price": 13419.39,
-        "model": "LT57BPSX"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
-        "price": 20783.52,
-        "model": "WM22VV2S6GR"
-      },
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
-        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
-        "price": 34199.55,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 27792.74,
-        "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
-        "price": 13419.39,
-        "model": "VT40BJM"
-      },
-      {
-        "store": "palacio",
-        "name": "Frigobar 5 p3 WUC2205B, negro",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
-        "price": 6719.3,
-        "model": "WUC2205B"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-        "price": 24225.0,
-        "model": "WM25VFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 30752.49,
-        "model": "WD22BV2S6R"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor 27 Pulgadas Oled QHD 27GX790A B AWM",
-        "url": "https://www.elpalaciodehierro.com/lg-monitor-27-pulgadas-oled-qhd-27gx790a-b-awm-45081045.html",
-        "price": 22499.1,
-        "model": "27GX790A"
-      },
-      {
-        "store": "palacio",
-        "name": "Volteador para freir Profi Plus",
-        "url": "https://www.elpalaciodehierro.com/wmf-volteador-para-freir-profi-plus-10545326.html",
-        "price": 1015.2,
-        "model": null
-      }
-    ]
-  },
-  "amazon|WM20EWNTS6P": {
-    "ts": "2026-07-07T09:45:51.923922+00:00",
-    "items": []
-  },
-  "walmart|WM20EWNTS6P": {
-    "ts": "2026-07-07T09:45:53.244035+00:00",
-    "items": []
-  },
-  "sams|WM20EWNTS6P": {
-    "ts": "2026-07-07T09:45:55.395416+00:00",
-    "items": []
-  },
-  "mercadolibre|WM20EWNTS6P": {
-    "ts": "2026-07-07T09:45:57.042542+00:00",
-    "items": []
-  },
-  "liverpool|WA23C3554GVAX": {
-    "ts": "2026-07-07T09:46:00.898026+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Lavadora Hisense 22 Kg Automatica Carga Superior Wt5I2223Db",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-hisense-22-kg-automatica-carga-superior-wt5i2223db/1173845029",
-        "price": 9749.51,
-        "model": "Wt5I2223Db"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 21 Kg Automatica Carga Superior Wa21B3554Gv Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-21-kg-automatica-carga-superior-wa21b3554gv-ax/1126607721",
-        "price": 10754.55,
-        "model": "Wa21B3554Gv"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 22 Kg Automatica Carga Superior Wa22B3550Gw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22b3550gw-ax/1126607829",
-        "price": 12029.0,
-        "model": "Wa22B3550Gw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3543Gw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3543gw-ax/1164464144",
-        "price": 11091.86,
-        "model": "Wa22C3543Gw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 20 Kg Automatica Carga Frontal Wf20T6000Aw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-frontal-wf20t6000aw-ax/1103911407",
-        "price": 20239.99,
-        "model": "Wf20T6000Aw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 28 Kg Automatica Carga Superior Wa28B8375Gv Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-28-kg-automatica-carga-superior-wa28b8375gv-ax/1134084061",
-        "price": 17901.98,
-        "model": "Wa28B8375Gv"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 21 Kg Automatica Carga Superior Wa21A3341Gw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-21-kg-automatica-carga-superior-wa21a3341gw-ax/1106592736",
-        "price": 10135.61,
-        "model": "Wa21A3341Gw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 22 Kg Automatica Carga Superior Wa22A3350Gw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22a3350gw-ax/1106592370",
-        "price": 12259.0,
-        "model": "Wa22A3350Gw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Lg 22 Kg Automatica Carga Frontal Wm22Bv2S6R",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-22-kg-automatica-carga-frontal-wm22bv2s6r/1191358259",
-        "price": 19761.86,
-        "model": "Wm22Bv2S6R"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
-        "price": 10152.56,
-        "model": "Wa20A3350Gw"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Doble Tina Samsung 21 Kg Semiautomatica Carga Superior Wt21F6300Lg Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-samsung-21-kg-semiautomatica-carga-superior-wt21f6300lg-ax/1173832989",
-        "price": 10424.25,
-        "model": "Wt21F6300Lg"
-      },
-      {
-        "store": "liverpool",
-        "name": "Lavadora Samsung 21 Kg Automatica Carga Superior Wa21A3344Gv Ax",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-21-kg-automatica-carga-superior-wa21a3344gv-ax/1117862131",
-        "price": 9498.11,
-        "model": "Wa21A3344Gv"
-      }
-    ]
-  },
-  "amazon|WA23C3554GVAX": {
-    "ts": "2026-07-07T09:46:02.618738+00:00",
-    "items": []
-  },
-  "walmart|WA23C3554GVAX": {
-    "ts": "2026-07-07T09:46:03.983917+00:00",
-    "items": []
-  },
-  "sams|WA23C3554GVAX": {
-    "ts": "2026-07-07T09:46:05.431725+00:00",
-    "items": []
-  },
-  "mercadolibre|WA23C3554GVAX": {
-    "ts": "2026-07-07T09:46:07.703879+00:00",
-    "items": []
-  },
-  "palacio|50NU850BPSA": {
-    "ts": "2026-07-07T09:46:07.901024+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 pulgadas plana UHD 4K NU850 55NU850BPSA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-uhd-4k-nu850-55nu850bpsa-45505420.html",
-        "price": 8679.44,
-        "model": "55NU850BPSA"
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado Lavadora Eléctrica y Secadora Gas Natural Frontal 22 Kg Inox",
-        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-lavadora-electrica-y-secadora-gas-natural-frontal-22-kg-inox-43441683.html",
-        "price": 30266.43,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
-        "price": 9427.44,
-        "model": "UN55U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Horno Freidora de Aire RJ50-SS-M18-MX 18 L Plateado",
-        "url": "https://www.elpalaciodehierro.com/chefman-horno-freidora-de-aire-rj50-ss-m18-mx-18-l-plateado-43863266.html",
-        "price": 2239.3,
-        "model": "RJ50-SS-M18-MX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
-        "price": 39998.7,
-        "model": "MRN65R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Deshumidificador de Aire DH50K1R2",
-        "url": "https://www.elpalaciodehierro.com/hisense-deshumidificador-de-aire-dh50k1r2-45533203.html",
-        "price": 6599.0,
-        "model": "DH50K1R2"
-      },
-      {
-        "store": "palacio",
-        "name": "PC Gamer ROG G700TF, GeForce RTX 5070 PRIME, Intel Core Ultra 7, RAM 16 GB, 1TB",
-        "url": "https://www.elpalaciodehierro.com/asus-pc-gamer-rog-g700tf-geforce-rtx-5070-prime-intel-core-ultra-7-ram-16-gb-1tb-45369034.html",
-        "price": 49931.24,
-        "model": "G700TF"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
-        "price": 12319.3,
-        "model": "WCF2111Q"
-      },
-      {
-        "store": "palacio",
-        "name": "Horno de Microondas Empotrable en acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/smeg-horno-de-microondas-empotrable-en-acero-inoxidable-42559602.html",
-        "price": 29100.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Classic 9 p3 50's Style FAB28URWH3 blanco",
-        "url": "https://www.elpalaciodehierro.com/smeg-refrigerador-classic-9-p3-50s-style-fab28urwh3-blanco-42879639.html",
-        "price": 36075.0,
-        "model": "FAB28URWH3"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
-        "price": 19999.0,
-        "model": "QN90F"
-      }
-    ]
-  },
-  "amazon|UN65U8500HFXZX": {
-    "ts": "2026-07-07T09:46:27.377120+00:00",
-    "items": []
-  },
-  "walmart|UN65U8500HFXZX": {
-    "ts": "2026-07-07T09:46:29.430880+00:00",
-    "items": []
-  },
-  "sams|UN65U8500HFXZX": {
-    "ts": "2026-07-07T09:46:30.835539+00:00",
-    "items": []
-  },
-  "amazon|CCO905KS": {
-    "ts": "2026-07-07T09:46:32.373894+00:00",
-    "items": []
-  },
-  "walmart|CCO905KS": {
-    "ts": "2026-07-07T09:46:34.866939+00:00",
-    "items": []
-  },
-  "sams|CCO905KS": {
-    "ts": "2026-07-07T09:46:36.963038+00:00",
     "items": []
   },
   "amazon|SAMSUNGSAMSUNGDYNAMICGALAXYAMOLED": {
@@ -2996,6 +2657,30 @@
   },
   "sams|MT8113S": {
     "ts": "2026-07-09T09:45:16.170578+00:00",
+    "items": []
+  },
+  "amazon|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
+    "ts": "2026-07-09T09:59:22.766614+00:00",
+    "items": []
+  },
+  "walmart|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
+    "ts": "2026-07-09T09:59:24.279287+00:00",
+    "items": []
+  },
+  "sams|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
+    "ts": "2026-07-09T09:59:26.436768+00:00",
+    "items": []
+  },
+  "amazon|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-07-09T09:59:27.583924+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-07-09T09:59:28.978231+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-07-09T09:59:30.335559+00:00",
     "items": []
   }
 }
