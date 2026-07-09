@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-09 17:48 UTC
+# Errores/chollos de precio — 2026-07-09 19:23 UTC
 
-- Productos revisados: **1748**
+- Productos revisados: **1711**
 - Umbral de diferencia: **20%**
-- Hallazgos: **43**
+- Hallazgos: **42**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -48,4 +48,3 @@
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $720 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,879 | Confirmado vs competencia | $2,879 en palacio vs mercado -> -20% bajo la competencia |
 | -58% | $560 | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -58% bajo la competencia |
-| -22% | $549 | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | Confirmado vs competencia | $1,999 en liverpool vs mercado -> -22% bajo la competencia |

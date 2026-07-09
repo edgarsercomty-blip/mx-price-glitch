@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09 17:48 UTC",
-  "products_scanned": 1748,
+  "generated_at": "2026-07-09 19:23 UTC",
+  "products_scanned": 1711,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -632,27 +632,6 @@
       "extra": {
         "id": "45205059",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.3,
-      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 549.0,
-      "store": "liverpool",
-      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
-      "price": 1999.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": "S0694",
-      "brand": "CV DIRECTO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1164922185",
-        "marketplace": null
       }
     },
     {
