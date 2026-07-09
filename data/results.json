@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-09 06:17 UTC",
-  "products_scanned": 1737,
+  "generated_at": "2026-07-09 09:45 UTC",
+  "products_scanned": 1659,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 45,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 77.8,
+      "detail": "$399 en liverpool vs mercado -> -58% bajo la competencia",
+      "likely_typo": false,
+      "savings": 560.0,
+      "store": "liverpool",
+      "name": "Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160",
+      "price": 399.0,
+      "list_price": 1799.0,
+      "ean": null,
+      "model": null,
+      "brand": "CHEFMAN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183025160",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -27,23 +48,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 9689.66,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
-      "price": 18809.34,
-      "list_price": 28499.0,
+      "savings": 8400.24,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "75Qned73Asc",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44677942",
-        "outlet": false
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -133,6 +154,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
+      "price": 6999.3,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345626",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 9899.7,
@@ -195,6 +237,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$3,114 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -242,6 +305,27 @@
       "likely_typo": false,
       "savings": 9379.72,
       "store": "palacio",
+      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html",
+      "price": 24119.28,
+      "list_price": 33499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273248",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9379.72,
+      "store": "palacio",
       "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html",
       "price": 24119.28,
@@ -258,22 +342,85 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 9379.72,
+      "savings": 849.75,
       "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html",
-      "price": 24119.28,
-      "list_price": 33499.0,
+      "name": "Monitor Deportivo Vívosmart 5 negro para Entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html",
+      "price": 2549.25,
+      "list_price": 3399.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45273248",
+        "id": "42538928",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3174.75,
+      "store": "palacio",
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2874.75,
+      "store": "palacio",
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44965112",
         "outlet": false
       }
     },
@@ -326,27 +473,6 @@
       "likely_typo": false,
       "savings": 2999.75,
       "store": "palacio",
-      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600286",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
       "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
       "price": 8999.25,
@@ -368,6 +494,27 @@
       "likely_typo": false,
       "savings": 2999.75,
       "store": "palacio",
+      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600286",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
       "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html",
       "price": 8999.25,
@@ -379,27 +526,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600285",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 874.75,
-      "store": "palacio",
-      "name": "Celular Moto G15 128 GB 4 GB Gris Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html",
-      "price": 2624.25,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44495620",
         "outlet": false
       }
     },
@@ -431,27 +557,6 @@
       "likely_typo": false,
       "savings": 11499.75,
       "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273253",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html",
       "price": 34499.25,
@@ -468,22 +573,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$28,727 en palacio vs mercado -> -24% bajo la competencia",
+      "discount_pct": 51.3,
+      "detail": "$23,058 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 8841.71,
-      "store": "palacio",
-      "name": "Refrigerador French Door 31 p3 RF32CG5411B1EM Negro",
-      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html",
-      "price": 28727.44,
-      "list_price": 51299.0,
+      "savings": 7391.16,
+      "store": "liverpool",
+      "name": "Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941",
+      "price": 23058.26,
+      "list_price": 47299.0,
       "ean": null,
-      "model": "RF32CG5411B1EM",
-      "brand": "Samsung",
+      "model": "Wd22Vv2S6R",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43388828",
+        "productId": "1100637941",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4799.84,
+      "store": "palacio",
+      "name": "Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html",
+      "price": 14999.5,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44928184",
         "outlet": false
       }
     },
@@ -515,27 +641,6 @@
       "likely_typo": false,
       "savings": 8739.77,
       "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273254",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
       "price": 29259.23,
@@ -548,6 +653,48 @@
       "extra": {
         "id": "45273250",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$3,849 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1149.77,
+      "store": "palacio",
+      "name": "Kindle Colorsoft, 7\", 16 GB, RAM 1 GB, Linux, MTK MT8113S, Wi-Fi, Negro",
+      "url": "https://www.elpalaciodehierro.com/amazon-kindle-colorsoft-7-16-gb-ram-1-gb-linux-mtk-mt8113s-wi-fi-negro-45205059.html",
+      "price": 3849.23,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": "MT8113S",
+      "brand": "Amazon",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45205059",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.0,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
       }
     },
     {
@@ -568,6 +715,174 @@
       "currency": "MXN",
       "extra": {
         "id": "44585698",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110954",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110955",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 719.8,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2879.2,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110956",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4999.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
+      "price": 19999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110959",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$6,719 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439906",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,519 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1879.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
+      "price": 7519.2,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439905",
         "outlet": false
       }
     },
@@ -595,27 +910,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273256",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$15,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 3799.8,
@@ -637,21 +931,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$26,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 4499.8,
+      "savings": 6599.8,
       "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
+      "name": "Celular Moto Razr 60 Ultra, 1 TB, 16 GB RAM, café, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-razr-60-ultra-1-tb-16-gb-ram-cafe-desbloqueado-44600338.html",
+      "price": 26399.2,
+      "list_price": 32999.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45273245",
+        "id": "44600338",
         "outlet": false
       }
     }

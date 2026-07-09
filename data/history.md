@@ -1,9 +1,26 @@
-# Historial de ofertas encontradas (253)
+# Historial de ofertas encontradas (270)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-09 09:45 | -20% | palacio | [Celular Moto Razr 60 Ultra, 1 TB, 16 GB RAM, café, desb…](https://www.elpalaciodehierro.com/motorola-celular-moto-razr-60-ultra-1-tb-16-gb-ram-cafe-desbloqueado-44600338.html) | $26,399 | $26,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $7,519 | $7,519 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $6,719 | $6,719 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | $19,999 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,879 | $2,879 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -20% | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-09 09:45 | -23% | palacio | [Kindle Colorsoft, 7", 16 GB, RAM 1 GB, Linux, MTK MT811…](https://www.elpalaciodehierro.com/amazon-kindle-colorsoft-7-16-gb-ram-1-gb-linux-mtk-mt8113s-wi-fi-negro-45205059.html) | $3,849 | $3,849 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-07-09 09:45 | -24% | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbl…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $15,000 | $15,000 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-07-09 09:45 | -25% | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $8,624 | $8,624 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-09 09:45 | -25% | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-09 09:45 | -25% | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | $9,524 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-09 09:45 | -25% | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | $2,549 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-09 09:45 | -38% | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | $13,999 en liverpool vs mercado -> -38% bajo la competencia |
+| 2026-07-09 09:45 | -58% | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $399 | $399 en liverpool vs mercado -> -58% bajo la competencia |
 | 2026-07-08 14:14 | -25% | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqu…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $34,499 | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-08 14:14 | -25% | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-08 14:14 | -30% | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | $7,220 en palacio vs mercado -> -30% bajo la competencia |
