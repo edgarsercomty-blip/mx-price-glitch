@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (301)
+# Historial de ofertas encontradas (302)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 22:36 | -23% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $3,000 | $3,000 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-10 19:37 | -20% | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 19:37 | -20% | palacio | [Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango …](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 19:37 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99979195991) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |

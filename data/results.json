@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 21:29 UTC",
-  "products_scanned": 1751,
+  "generated_at": "2026-07-10 22:36 UTC",
+  "products_scanned": 1759,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -531,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 47.5,
+      "detail": "$11,024 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3474.94,
+      "store": "liverpool",
+      "name": "Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056",
+      "price": 11024.48,
+      "list_price": 20999.0,
+      "ean": null,
+      "model": "Wt21Wt6Hkna",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1202655056",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.3,
       "detail": "$8,580 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -569,6 +590,27 @@
       "extra": {
         "productId": "99979195991",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$3,000 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.85,
+      "store": "palacio",
+      "name": "Smartwatch Huawei Watch Gt5 Hombre",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html",
+      "price": 2999.5,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44319260",
+        "outlet": false
       }
     },
     {
