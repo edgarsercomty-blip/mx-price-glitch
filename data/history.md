@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (289)
+# Historial de ofertas encontradas (290)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 15:18 | -29% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $8,999 | $8,999 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-10 10:16 | -20% | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | $7,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 10:16 | -25% | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-10 10:16 | -57% | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | $1,890 en liverpool vs mercado -> -57% bajo la competencia |
