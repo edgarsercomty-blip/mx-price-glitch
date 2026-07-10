@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (290)
+# Historial de ofertas encontradas (294)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 17:12 | -22% | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-07-10 17:12 | -22% | palacio | [Lavadora semiautomática 19 kg con pulsador, carga super…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | $10,079 en palacio vs mercado -> -22% bajo la competencia |
+| 2026-07-10 17:12 | -25% | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 1200…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,749 | $6,749 en liverpool vs mercado -> -25% bajo la competencia |
+| 2026-07-10 17:12 | -40% | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,574 | $1,574 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-10 15:18 | -29% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $8,999 | $8,999 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-10 10:16 | -20% | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | $7,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 10:16 | -25% | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |

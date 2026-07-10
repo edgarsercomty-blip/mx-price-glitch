@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 15:18 UTC",
-  "products_scanned": 1762,
+  "generated_at": "2026-07-10 17:12 UTC",
+  "products_scanned": 1773,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -28,9 +28,9 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 45.0,
-      "detail": "$14,849 en palacio vs mercado -> -46% bajo la competencia",
+      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
       "likely_typo": false,
-      "savings": 12450.06,
+      "savings": 16090.0,
       "store": "palacio",
       "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
       "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
@@ -48,22 +48,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 77.8,
-      "detail": "$399 en liverpool vs mercado -> -41% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$1,574 en liverpool vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 280.0,
+      "savings": 1050.75,
       "store": "liverpool",
-      "name": "Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160",
-      "price": 399.0,
-      "list_price": 1799.0,
+      "name": "Licuadora Oster Blstpegcrt 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092",
+      "price": 1574.25,
+      "list_price": 2099.0,
       "ean": null,
       "model": null,
-      "brand": "CHEFMAN",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1183025160",
+        "productId": "1133854092",
         "marketplace": null
       }
     },
@@ -338,6 +338,48 @@
       "extra": {
         "id": "44495620",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10555.81,
+      "store": "palacio",
+      "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
+      "price": 30379.51,
+      "list_price": 61999.0,
+      "ean": null,
+      "model": "WD26FB8690BEAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44585698",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.7,
+      "detail": "$6,749 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.81,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu Hs Aa 12 110Fc Ah121Ck 115 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893",
+      "price": 6749.44,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": "Ah121Ck",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173773893",
+        "marketplace": null
       }
     },
     {
@@ -657,6 +699,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2771.8,
+      "store": "palacio",
+      "name": "Lavadora semiautomática 19 kg con pulsador, carga superior WA19CG6746BVAX",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html",
+      "price": 10079.44,
+      "list_price": 17999.0,
+      "ean": null,
+      "model": "WA19CG6746BVAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45068396",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,499 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2887.34,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000 Btu Vo182H1",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820",
+      "price": 10499.4,
+      "list_price": 17499.0,
+      "ean": null,
+      "model": "Vo182H1",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172678820",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 33.3,
       "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -674,27 +758,6 @@
       "extra": {
         "productId": "1164922185",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7997.35,
-      "store": "palacio",
-      "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
-      "price": 30379.51,
-      "list_price": 61999.0,
-      "ean": null,
-      "model": "WD26FB8690BEAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44585698",
-        "outlet": false
       }
     },
     {
@@ -867,27 +930,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273245",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$8,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -904,6 +946,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600285",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.8,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
+      "price": 17999.2,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273245",
         "outlet": false
       }
     }
