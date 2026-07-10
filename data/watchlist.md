@@ -1,4 +1,4 @@
-# Productos en vigilancia (250)
+# Productos en vigilancia (254)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -254,3 +254,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | -20% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | -20% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $5,999 | -62% |
+| 🟢 disponible | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | -57% |
+| 🟢 disponible | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | -25% |
+| 🟢 disponible | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | -20% |

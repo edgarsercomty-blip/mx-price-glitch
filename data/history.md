@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (285)
+# Historial de ofertas encontradas (289)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 10:16 | -20% | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | $7,599 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-10 10:16 | -25% | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-10 10:16 | -57% | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | $1,890 en liverpool vs mercado -> -57% bajo la competencia |
+| 2026-07-10 10:16 | -62% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $5,999 | $5,999 en liverpool vs mercado -> -62% bajo la competencia |
 | 2026-07-10 09:40 | -20% | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,399 | $8,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 09:40 | -20% | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,399 | $8,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 09:40 | -20% | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multidepo…](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | $53,599 en palacio vs mercado -> -20% bajo la competencia |

@@ -1,16 +1,10 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-10 09:40 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-10 10:16 UTC
 
-- Hallazgos: **10**
+- Hallazgos: **4**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
-| -20% | $13,400 | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | Confirmado vs competencia | $53,599 en palacio vs mercado -> -20% bajo la competencia |
-| -46% | $12,450 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,849 | Confirmado vs competencia | $14,849 en palacio vs mercado -> -46% bajo la competencia |
-| -27% | $4,004 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253) | $10,979 | Confirmado vs competencia | $10,979 en liverpool vs mercado -> -27% bajo la competencia |
-| -20% | $2,920 | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | Confirmado vs competencia | $11,679 en palacio vs mercado -> -20% bajo la competencia |
-| -25% | $2,350 | palacio | [Monitor Venu 3, Whitestone Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $2,100 | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,399 | Confirmado vs competencia | $8,399 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $2,100 | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,399 | Confirmado vs competencia | $8,399 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $1,900 | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | Confirmado vs competencia | $7,599 en palacio vs mercado -> -20% bajo la competencia |
-| -25% | $1,575 | palacio | [Monitor Deportivo Forerunner 165 Music para Correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html) | $4,724 | Confirmado vs competencia | $4,724 en palacio vs mercado -> -25% bajo la competencia |
+| -62% | $9,714 | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -62% bajo la competencia |
+| -57% | $2,510 | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | Confirmado vs competencia | $1,890 en liverpool vs mercado -> -57% bajo la competencia |
+| -25% | $2,350 | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
+| -20% | $1,900 | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | Confirmado vs competencia | $7,599 en palacio vs mercado -> -20% bajo la competencia |
