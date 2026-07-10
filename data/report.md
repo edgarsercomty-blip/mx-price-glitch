@@ -1,12 +1,11 @@
-# Errores/chollos de precio — 2026-07-10 10:16 UTC
+# Errores/chollos de precio — 2026-07-10 12:39 UTC
 
-- Productos revisados: **1680**
+- Productos revisados: **1674**
 - Umbral de diferencia: **20%**
-- Hallazgos: **45**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -46% | $12,450 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,849 | Confirmado vs competencia | $14,849 en palacio vs mercado -> -46% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |

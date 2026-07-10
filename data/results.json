@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 10:16 UTC",
-  "products_scanned": 1680,
+  "generated_at": "2026-07-10 12:39 UTC",
+  "products_scanned": 1674,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "productId": "1163026518",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$14,849 en palacio vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12450.06,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 14849.45,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
       }
     },
     {
