@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 19:37 UTC",
-  "products_scanned": 1742,
+  "generated_at": "2026-07-10 20:15 UTC",
+  "products_scanned": 1764,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -132,27 +132,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$8,999 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -191,27 +170,6 @@
       "extra": {
         "id": "44672817",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.5,
-      "detail": "$9,750 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3899.85,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor 12000 Btu Aa Aru122Nfw 12 220V 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276",
-      "price": 9749.63,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Aru122Nfw",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163538276",
-        "marketplace": null
       }
     },
     {
@@ -343,90 +301,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1574.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 165 Music para Correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html",
-      "price": 4724.25,
-      "list_price": 6299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43698152",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3174.75,
-      "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074177",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.75,
-      "store": "palacio",
-      "name": "Monitor de Sueño Index Sleep",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-sleep-44840621.html",
-      "price": 2699.25,
-      "list_price": 3599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44840621",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2874.75,
@@ -442,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44973731",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1574.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 165 Music para Correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html",
+      "price": 4724.25,
+      "list_price": 6299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43698152",
         "outlet": false
       }
     },
@@ -847,63 +742,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 13399.8,
+      "savings": 4599.8,
       "store": "palacio",
-      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
-      "price": 53599.2,
-      "list_price": 66999.0,
+      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43587917",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$6,719 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
-      "price": 6719.2,
-      "list_price": 8399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,519 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1879.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
-      "price": 7519.2,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439905",
+        "id": "44110955",
         "outlet": false
       }
     },
@@ -931,63 +784,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2299.8,
+      "savings": 1899.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
+      "name": "Monitor Forerunner 265S Music para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html",
+      "price": 7599.2,
+      "list_price": 9499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44733803",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110955",
+        "id": "43074175",
         "outlet": false
       }
     },
