@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-10 22:36 UTC
+# Errores/chollos de precio — 2026-07-10 23:34 UTC
 
-- Productos revisados: **1759**
+- Productos revisados: **1742**
 - Umbral de diferencia: **20%**
-- Hallazgos: **45**
+- Hallazgos: **43**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -34,7 +34,6 @@
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,887 | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
-| -22% | $2,772 | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | Confirmado vs competencia | $10,079 en palacio vs mercado -> -22% bajo la competencia |
 | -24% | $2,640 | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio 18000 Btu M…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-18000-btu-mmi18cdbwca32m2-220-v/1174006071) | $8,580 | Confirmado vs competencia | $8,580 en liverpool vs mercado -> -24% bajo la competencia |
 | -25% | $2,350 | liverpool | [Smartwatch Garmin Venu 3S Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627) | $7,049 | Confirmado vs competencia | $7,049 en liverpool vs mercado -> -25% bajo la competencia |
 | -25% | $2,350 | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
@@ -50,4 +49,3 @@
 | -33% | $872 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -33% bajo la competencia |
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $549 | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | Confirmado vs competencia | $1,999 en liverpool vs mercado -> -22% bajo la competencia |
-| -23% | $116 | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99979195991) | $383 | Confirmado vs competencia | $383 en liverpool vs mercado -> -23% bajo la competencia |

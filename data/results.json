@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10 22:36 UTC",
-  "products_scanned": 1759,
+  "generated_at": "2026-07-10 23:34 UTC",
+  "products_scanned": 1742,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -573,27 +573,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.2,
-      "detail": "$383 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 116.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Ecoshopmaster",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99979195991",
-      "price": 383.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "ECOSHOPMASTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "99979195991",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$3,000 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -673,27 +652,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45273250",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2771.8,
-      "store": "palacio",
-      "name": "Lavadora semiautomática 19 kg con pulsador, carga superior WA19CG6746BVAX",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html",
-      "price": 10079.44,
-      "list_price": 17999.0,
-      "ean": null,
-      "model": "WA19CG6746BVAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45068396",
         "outlet": false
       }
     },
