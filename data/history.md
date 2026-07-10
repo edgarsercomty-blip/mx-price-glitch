@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (296)
+# Historial de ofertas encontradas (301)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 19:37 | -20% | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-10 19:37 | -20% | palacio | [Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango …](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-10 19:37 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99979195991) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-07-10 19:37 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio 18000 …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-18000-btu-mmi18cdbwca32m2-220-v/1174006071) | $8,580 | $8,580 en liverpool vs mercado -> -24% bajo la competencia |
+| 2026-07-10 19:37 | -25% | palacio | [Monitor de Sueño Index Sleep](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-sleep-44840621.html) | $2,699 | $2,699 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-10 18:47 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | $13,565 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-10 18:47 | -29% | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y C…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $9,750 | $9,750 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-07-10 17:12 | -22% | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | $10,499 en liverpool vs mercado -> -22% bajo la competencia |

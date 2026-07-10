@@ -438,20 +438,8 @@
     "ts": "2026-07-10T17:12:39.895624+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULAROSCUROGALAXY": {
-    "ts": "2026-07-08T18:48:36.214842+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULAROSCUROGALAXY": {
-    "ts": "2026-07-08T18:48:38.050840+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULAROSCUROGALAXY": {
-    "ts": "2026-07-08T18:48:39.630084+00:00",
-    "items": []
-  },
   "palacio|98Q7K": {
-    "ts": "2026-07-08T19:28:17.878193+00:00",
+    "ts": "2026-07-10T19:36:10.097922+00:00",
     "items": [
       {
         "store": "palacio",
@@ -459,6 +447,13 @@
         "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
         "price": 37799.37,
         "model": "98QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
+        "price": 49599.69,
+        "model": "QNED86"
       },
       {
         "store": "palacio",
@@ -476,17 +471,10 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
-        "price": 49599.69,
-        "model": "QNED86"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
-        "price": 31999.1,
-        "model": "QN75QN80HAFXZX"
+        "name": "Pantalla 98 Pulgadas Plana QLED 4K QN98Q80CAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-qled-4k-qn98q80cafxzx-43280837.html",
+        "price": 157141.0,
+        "model": "QN98Q80CAFXZX"
       },
       {
         "store": "palacio",
@@ -504,24 +492,17 @@
       },
       {
         "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
         "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
         "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
         "price": 47141.82,
         "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Gamer 34 pulgadas Curva HDR TUF WQHD 180 Hz VG34VQ3B",
-        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-34-pulgadas-curva-hdr-tuf-wqhd-180-hz-vg34vq3b-44689675.html",
-        "price": 8999.1,
-        "model": "VG34VQ3B"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
-        "price": 30239.44,
-        "model": "98A400"
       },
       {
         "store": "palacio",
@@ -532,39 +513,39 @@
       },
       {
         "store": "palacio",
-        "name": "Bocina inalámbrica M7 Wi-Fi 100W",
-        "url": "https://www.elpalaciodehierro.com/lg-bocina-inalambrica-m7-wi-fi-100w-45468003.html",
-        "price": 8749.3,
-        "model": null
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 48411.51,
+        "model": "98Qm7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
+        "price": 42839.37,
+        "model": "100Z670RM"
       }
     ]
   },
   "amazon|98Q7K": {
-    "ts": "2026-07-08T19:28:19.012840+00:00",
+    "ts": "2026-07-10T19:36:11.641041+00:00",
     "items": []
   },
   "walmart|98Q7K": {
-    "ts": "2026-07-08T19:28:21.014061+00:00",
+    "ts": "2026-07-10T19:36:14.420866+00:00",
     "items": []
   },
   "sams|98Q7K": {
-    "ts": "2026-07-08T19:28:24.376204+00:00",
+    "ts": "2026-07-10T19:36:16.228203+00:00",
     "items": []
   },
   "mercadolibre|98Q7K": {
-    "ts": "2026-07-08T19:28:27.889669+00:00",
+    "ts": "2026-07-10T19:36:17.554530+00:00",
     "items": []
   },
   "liverpool|UA8050": {
-    "ts": "2026-07-08T19:28:28.839132+00:00",
+    "ts": "2026-07-10T19:36:18.468062+00:00",
     "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Crystal Uhd De 65 Pulgadas 4K 65Ua8050Psa Con Ai Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-crystal-uhd-de-65-pulgadas-4k-65ua8050psa-con-ai-webos/1178738735",
-        "price": 12299.0,
-        "model": "65Ua8050Psa"
-      },
       {
         "store": "liverpool",
         "name": "Pantalla Smart Tv Lg Crystal Uhd De 55 Pulgadas 4K 55Ua8050Psa Con Ai Webos",
@@ -575,124 +556,19 @@
     ]
   },
   "amazon|UA8050": {
-    "ts": "2026-07-08T19:28:30.420366+00:00",
+    "ts": "2026-07-10T19:36:19.721779+00:00",
     "items": []
   },
   "walmart|UA8050": {
-    "ts": "2026-07-08T19:28:32.647624+00:00",
+    "ts": "2026-07-10T19:36:21.335121+00:00",
     "items": []
   },
   "sams|UA8050": {
-    "ts": "2026-07-08T19:28:37.274879+00:00",
+    "ts": "2026-07-10T19:36:23.124771+00:00",
     "items": []
   },
   "mercadolibre|UA8050": {
-    "ts": "2026-07-08T19:28:40.572736+00:00",
-    "items": []
-  },
-  "palacio|FB02D": {
-    "ts": "2026-07-08T19:28:40.758791+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Tenis casuales Maddox Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-tenis-casuales-maddox-hombre-45220194.html",
-        "price": 1224.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales Maddox Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-tenis-casuales-maddox-hombre-45220206.html",
-        "price": 1224.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botines casuales en piel con tacón bajo ancho Hombre",
-        "url": "https://www.elpalaciodehierro.com/franco-cuadra-botines-casuales-en-piel-con-tacon-bajo-ancho-hombre-43537809.html",
-        "price": 4995.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botas casuales Herran en piel Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-botas-casuales-herran-en-piel-hombre-44727145.html",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis casuales Belk Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-tenis-casuales-belk-hombre-45220176.html",
-        "price": 1189.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botines Hombre",
-        "url": "https://www.elpalaciodehierro.com/florsheim-botines-hombre-42700306.html",
-        "price": 2599.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botines casuales en piel con tacón bajo ancho Hombre",
-        "url": "https://www.elpalaciodehierro.com/franco-cuadra-botines-casuales-en-piel-con-tacon-bajo-ancho-hombre-43537797.html",
-        "price": 4995.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Zapatos casuales bostonianos Anderson en piel Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-zapatos-casuales-bostonianos-anderson-en-piel-hombre-45220259.html",
-        "price": 1899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Zapatos casuales bostonianos Anderson en piel Hombre",
-        "url": "https://www.elpalaciodehierro.com/flexi-zapatos-casuales-bostonianos-anderson-en-piel-hombre-45220269.html",
-        "price": 1899.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Zapatos Oxford Tramezza con toe cap Hombre",
-        "url": "https://www.elpalaciodehierro.com/ferragamo-zapatos-oxford-tramezza-con-toe-cap-hombre-43102224.html",
-        "price": 32950.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botines en piel Baruc Hombre",
-        "url": "https://www.elpalaciodehierro.com/florsheim-botines-en-piel-baruc-hombre-44083979.html",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Zapatos Oxford Hombre",
-        "url": "https://www.elpalaciodehierro.com/ferragamo-zapatos-oxford-hombre-44990625.html",
-        "price": 38800.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|FB02D": {
-    "ts": "2026-07-08T19:28:43.120805+00:00",
-    "items": []
-  },
-  "walmart|FB02D": {
-    "ts": "2026-07-08T19:28:45.188978+00:00",
-    "items": []
-  },
-  "sams|FB02D": {
-    "ts": "2026-07-08T19:28:47.279026+00:00",
-    "items": []
-  },
-  "mercadolibre|FB02D": {
-    "ts": "2026-07-08T19:28:48.987031+00:00",
+    "ts": "2026-07-10T19:36:24.463320+00:00",
     "items": []
   },
   "palacio|BCM35R": {
@@ -2673,6 +2549,340 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
     "ts": "2026-07-10T18:47:21.267356+00:00",
+    "items": []
+  },
+  "palacio|75QNED92ASA": {
+    "ts": "2026-07-10T19:36:03.479967+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
+        "price": 49599.69,
+        "model": "QNED86"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+        "price": 11519.55,
+        "model": "75Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QLED 4K QN98Q80CAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-qled-4k-qn98q80cafxzx-43280837.html",
+        "price": 157141.0,
+        "model": "QN98Q80CAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 47141.82,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+        "price": 121427.0,
+        "model": "QN85QN85DBFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas QLED 4K 75QD6SFM",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-75-pulgadas-qled-4k-75qd6sfm-45467928.html",
+        "price": 11959.48,
+        "model": "75QD6SFM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 86 pulgadas Plana QNED 4K Smart TV webOS 86QNED73ASA",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-86-pulgadas-plana-qned-4k-smart-tv-webos-86qned73asa-45242630.html",
+        "price": 22399.44,
+        "model": "86QNED73ASA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas QLED 4K 85QD6SFM",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-85-pulgadas-qled-4k-85qd6sfm-45467929.html",
+        "price": 17699.41,
+        "model": "85QD6SFM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana QLED 4K QN65QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-qn65qn80hafxzx-45367268.html",
+        "price": 24999.1,
+        "model": "QN65QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana Neo QLED 4K QN100QN80HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-100-pulgadas-plana-neo-qled-4k-qn100qn80hfxzx-45361867.html",
+        "price": 79999.36,
+        "model": "QN100QN80HFXZX"
+      }
+    ]
+  },
+  "amazon|75QNED92ASA": {
+    "ts": "2026-07-10T19:36:05.003674+00:00",
+    "items": []
+  },
+  "walmart|75QNED92ASA": {
+    "ts": "2026-07-10T19:36:06.693983+00:00",
+    "items": []
+  },
+  "sams|75QNED92ASA": {
+    "ts": "2026-07-10T19:36:08.406163+00:00",
+    "items": []
+  },
+  "mercadolibre|75QNED92ASA": {
+    "ts": "2026-07-10T19:36:09.960694+00:00",
+    "items": []
+  },
+  "liverpool|WA23C3554GVAX": {
+    "ts": "2026-07-10T19:36:25.586008+00:00",
+    "items": []
+  },
+  "amazon|WA23C3554GVAX": {
+    "ts": "2026-07-10T19:36:26.871928+00:00",
+    "items": []
+  },
+  "walmart|WA23C3554GVAX": {
+    "ts": "2026-07-10T19:36:28.482702+00:00",
+    "items": []
+  },
+  "sams|WA23C3554GVAX": {
+    "ts": "2026-07-10T19:36:30.067975+00:00",
+    "items": []
+  },
+  "mercadolibre|WA23C3554GVAX": {
+    "ts": "2026-07-10T19:36:31.357137+00:00",
+    "items": []
+  },
+  "liverpool|WK22WS6": {
+    "ts": "2026-07-10T19:36:32.659091+00:00",
+    "items": []
+  },
+  "amazon|WK22WS6": {
+    "ts": "2026-07-10T19:36:33.924334+00:00",
+    "items": []
+  },
+  "walmart|WK22WS6": {
+    "ts": "2026-07-10T19:36:35.688166+00:00",
+    "items": []
+  },
+  "sams|WK22WS6": {
+    "ts": "2026-07-10T19:36:37.321658+00:00",
+    "items": []
+  },
+  "mercadolibre|WK22WS6": {
+    "ts": "2026-07-10T19:36:38.661081+00:00",
+    "items": []
+  },
+  "palacio|85A65NV": {
+    "ts": "2026-07-10T19:36:38.824071+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 20699.28,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter Boost, 18,000 BTU, 220V Frio-Calor",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-boost-18000-btu-220v-frio-calor-44531359.html",
+        "price": 17387.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
+        "price": 13859.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 39998.7,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
+        "price": 12035.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 47141.82,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+        "price": 121427.0,
+        "model": "QN85QN85DBFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 12749.5,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Ac Minisplit Inv LG Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-ac-minisplit-inv-lg-solo-frio-44456609.html",
+        "price": 19139.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter 18,000 BTU, 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-18000-btu-220v-frio-44531360.html",
+        "price": 16253.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
+        "price": 14867.37,
+        "model": null
+      }
+    ]
+  },
+  "amazon|85A65NV": {
+    "ts": "2026-07-10T19:36:40.167425+00:00",
+    "items": []
+  },
+  "walmart|85A65NV": {
+    "ts": "2026-07-10T19:36:41.995241+00:00",
+    "items": []
+  },
+  "sams|85A65NV": {
+    "ts": "2026-07-10T19:36:44.072219+00:00",
+    "items": []
+  },
+  "mercadolibre|85A65NV": {
+    "ts": "2026-07-10T19:36:45.758862+00:00",
+    "items": []
+  },
+  "amazon|MMI18CDBWCA32M2": {
+    "ts": "2026-07-10T19:37:10.374946+00:00",
+    "items": []
+  },
+  "walmart|MMI18CDBWCA32M2": {
+    "ts": "2026-07-10T19:37:11.936321+00:00",
+    "items": []
+  },
+  "sams|MMI18CDBWCA32M2": {
+    "ts": "2026-07-10T19:37:13.541545+00:00",
+    "items": []
+  },
+  "amazon|ECOSHOPMASTERECOSHOPMASTERAUDIFONOSPORTAEAR": {
+    "ts": "2026-07-10T19:37:15.229167+00:00",
+    "items": []
+  },
+  "walmart|ECOSHOPMASTERECOSHOPMASTERAUDIFONOSPORTAEAR": {
+    "ts": "2026-07-10T19:37:16.944088+00:00",
+    "items": []
+  },
+  "sams|ECOSHOPMASTERECOSHOPMASTERAUDIFONOSPORTAEAR": {
+    "ts": "2026-07-10T19:37:18.469444+00:00",
+    "items": []
+  },
+  "amazon|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-07-10T19:37:19.747793+00:00",
+    "items": []
+  },
+  "walmart|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-07-10T19:37:21.293830+00:00",
+    "items": []
+  },
+  "sams|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-07-10T19:37:23.464682+00:00",
+    "items": []
+  },
+  "amazon|GARMINMONITORINDEXSLEEPSUENO": {
+    "ts": "2026-07-10T19:37:24.876182+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORINDEXSLEEPSUENO": {
+    "ts": "2026-07-10T19:37:26.716099+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORINDEXSLEEPSUENO": {
+    "ts": "2026-07-10T19:37:28.842159+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-10T19:37:30.187333+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-10T19:37:31.893961+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-10T19:37:33.987811+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOTACTICALINSTINCTEDITION": {
+    "ts": "2026-07-10T19:37:35.276737+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOTACTICALINSTINCTEDITION": {
+    "ts": "2026-07-10T19:37:36.897219+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOTACTICALINSTINCTEDITION": {
+    "ts": "2026-07-10T19:37:38.562158+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
+    "ts": "2026-07-10T19:37:39.851387+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
+    "ts": "2026-07-10T19:37:41.682211+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
+    "ts": "2026-07-10T19:37:43.224574+00:00",
     "items": []
   }
 }
