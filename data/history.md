@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (274)
+# Historial de ofertas encontradas (275)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 03:31 | -25% | liverpool | [Smartwatch Garmin Venu 3S Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627) | $7,049 | $7,049 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-09 15:15 | -20% | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $5,319 | $5,319 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-09 15:15 | -21% | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 1…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $29,999 | $29,999 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-09 15:15 | -25% | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | $8,624 en palacio vs mercado -> -25% bajo la competencia |
