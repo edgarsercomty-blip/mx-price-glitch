@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-10 06:44 UTC",
-  "products_scanned": 1770,
+  "generated_at": "2026-07-10 09:40 UTC",
+  "products_scanned": 1682,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 45,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$14,849 en palacio vs mercado -> -46% bajo la competencia",
+      "likely_typo": false,
+      "savings": 12450.06,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 14849.45,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 77.8,
@@ -27,23 +48,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$2,245 en palacio vs mercado -> -38% bajo la competencia",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 1347.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html",
-      "price": 2245.0,
-      "list_price": 4490.0,
+      "savings": 8400.24,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
       "ean": null,
-      "model": null,
-      "brand": "Nespresso",
+      "model": "75Qned73Asc",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44842808",
-        "outlet": false
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -70,6 +91,69 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 9899.7,
@@ -85,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44443562",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -132,27 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.0,
-      "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 900.2,
-      "store": "liverpool",
-      "name": "Set Licuadora Personal Ninja Ss151 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254",
-      "price": 2299.0,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": "Ss151",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180553254",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -174,23 +258,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
+      "discount_pct": 45.4,
+      "detail": "$10,979 en liverpool vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
-      "savings": 9379.72,
-      "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html",
-      "price": 24119.28,
-      "list_price": 33499.0,
+      "savings": 4004.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253",
+      "price": 10979.0,
+      "list_price": 20109.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "Fc0240La",
+      "brand": "HP",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45273249",
-        "outlet": false
+        "productId": "9995792253",
+        "marketplace": null
       }
     },
     {
@@ -259,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401370",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 3174.75,
@@ -295,6 +358,69 @@
       "currency": "MXN",
       "extra": {
         "id": "43074177",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2874.75,
+      "store": "palacio",
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44965112",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1574.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 165 Music para Correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html",
+      "price": 4724.25,
+      "list_price": 6299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -326,27 +452,6 @@
       "likely_typo": false,
       "savings": 2999.75,
       "store": "palacio",
-      "name": "Celular Galaxy A57 256 GB 8 GB Gris Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-gris-desbloqueado-45345630.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345630",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
       "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
       "price": 8999.25,
@@ -358,27 +463,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45345629",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 874.75,
-      "store": "palacio",
-      "name": "Celular Moto G15 128 GB 4 GB Gris Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html",
-      "price": 2624.25,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44495620",
         "outlet": false
       }
     },
@@ -443,6 +527,27 @@
       "extra": {
         "id": "45273251",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.3,
+      "detail": "$23,058 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7391.16,
+      "store": "liverpool",
+      "name": "Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941",
+      "price": 23058.26,
+      "list_price": 47299.0,
+      "ean": null,
+      "model": "Wd22Vv2S6R",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1100637941",
+        "marketplace": null
       }
     },
     {
@@ -531,6 +636,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$46,199 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13799.77,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 46199.23,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$1,999 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.0,
+      "store": "liverpool",
+      "name": "Secadora De Cabello Cv Directo Magic Styler S0694 00",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185",
+      "price": 1999.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "S0694",
+      "brand": "CV DIRECTO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164922185",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -569,27 +716,6 @@
       "extra": {
         "productId": "1197517057",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110954",
-        "outlet": false
       }
     },
     {
@@ -642,7 +768,7 @@
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -651,49 +777,91 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110956",
+        "id": "44110957",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 719.8,
+      "savings": 1899.8,
       "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2879.2,
-      "list_price": 3599.0,
+      "name": "Monitor Forerunner 265S Music para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html",
+      "price": 7599.2,
+      "list_price": 9499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44840620",
+        "id": "43074175",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$6,719 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 4499.8,
+      "savings": 1679.8,
       "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
+      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45273246",
+        "id": "44439906",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 moss",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784099",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13399.8,
+      "store": "palacio",
+      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
+      "price": 53599.2,
+      "list_price": 66999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43587917",
         "outlet": false
       }
     },
@@ -715,6 +883,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45273256",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$8,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2099.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html",
+      "price": 8399.3,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600286",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$8,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2099.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html",
+      "price": 8399.3,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600285",
         "outlet": false
       }
     },
