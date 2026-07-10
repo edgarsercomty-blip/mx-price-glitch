@@ -1,72 +1,9 @@
 {
-  "generated_at": "2026-07-10 17:12 UTC",
-  "products_scanned": 1773,
+  "generated_at": "2026-07-10 18:47 UTC",
+  "products_scanned": 1756,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 44,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.4,
-      "detail": "$1,890 en liverpool vs mercado -> -57% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2510.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Personal Nutribullet Pro 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518",
-      "price": 1890.0,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163026518",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 16090.0,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 14849.45,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,574 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1050.75,
-      "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092",
-      "price": 1574.25,
-      "list_price": 2099.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854092",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -237,6 +174,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 62.5,
+      "detail": "$9,750 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3899.85,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor 12000 Btu Aa Aru122Nfw 12 220V 220 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276",
+      "price": 9749.63,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Aru122Nfw",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1163538276",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -300,27 +258,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.4,
-      "detail": "$10,979 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4004.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253",
-      "price": 10979.0,
-      "list_price": 20109.0,
-      "ean": null,
-      "model": "Fc0240La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9995792253",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 26.0,
       "detail": "$2,589 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -359,27 +296,6 @@
       "extra": {
         "id": "44585698",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.7,
-      "detail": "$6,749 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2249.81,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu Hs Aa 12 110Fc Ah121Ck 115 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893",
-      "price": 6749.44,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": "Ah121Ck",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173773893",
-        "marketplace": null
       }
     },
     {
@@ -636,6 +552,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 43.0,
+      "detail": "$13,565 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4334.81,
+      "store": "palacio",
+      "name": "Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html",
+      "price": 13565.43,
+      "list_price": 23799.0,
+      "ean": null,
+      "model": "WA25DG5505AVAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44548089",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -862,6 +799,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43074175",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110956",
         "outlet": false
       }
     },

@@ -1,4 +1,4 @@
-# Productos en vigilancia (258)
+# Productos en vigilancia (259)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -201,7 +201,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
 | 🟢 disponible | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $7,904 | -24% |
-| 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $11,024 | -24% |
+| 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $12,494 | -24% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | -23% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $3,169 | -43% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | -36% |
@@ -262,3 +262,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,749 | -25% |
 | 🟢 disponible | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | -22% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $9,750 | -29% |

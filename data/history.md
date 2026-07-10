@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (294)
+# Historial de ofertas encontradas (296)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-10 18:47 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | $13,565 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-07-10 18:47 | -29% | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y C…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $9,750 | $9,750 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-07-10 17:12 | -22% | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-10 17:12 | -22% | palacio | [Lavadora semiautomática 19 kg con pulsador, carga super…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | $10,079 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-10 17:12 | -25% | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 1200…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,749 | $6,749 en liverpool vs mercado -> -25% bajo la competencia |
