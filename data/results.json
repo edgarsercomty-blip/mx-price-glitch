@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 13:23 UTC",
-  "products_scanned": 1696,
+  "generated_at": "2026-07-11 13:56 UTC",
+  "products_scanned": 1708,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "productId": "1178822116",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$19,000 en palacio vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10999.18,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html",
-      "price": 18999.62,
-      "list_price": 49999.0,
-      "ean": null,
-      "model": "QNED92",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44776799",
-        "outlet": false
       }
     },
     {
@@ -169,27 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
