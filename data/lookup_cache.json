@@ -1,16 +1,4 @@
 {
-  "amazon|55QM64L": {
-    "ts": "2026-07-09T15:14:20.225526+00:00",
-    "items": []
-  },
-  "walmart|55QM64L": {
-    "ts": "2026-07-09T15:14:21.765025+00:00",
-    "items": []
-  },
-  "sams|55QM64L": {
-    "ts": "2026-07-09T15:14:23.497176+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYMARINO": {
     "ts": "2026-07-10T12:38:40.610693+00:00",
     "items": []
@@ -81,26 +69,6 @@
   },
   "sams|WD26FB8690BEAX": {
     "ts": "2026-07-11T02:47:37.144354+00:00",
-    "items": []
-  },
-  "liverpool|75QM8K": {
-    "ts": "2026-07-09T15:14:28.246444+00:00",
-    "items": []
-  },
-  "amazon|75QM8K": {
-    "ts": "2026-07-09T15:14:29.480035+00:00",
-    "items": []
-  },
-  "walmart|75QM8K": {
-    "ts": "2026-07-09T15:14:31.041411+00:00",
-    "items": []
-  },
-  "sams|75QM8K": {
-    "ts": "2026-07-09T15:14:32.645448+00:00",
-    "items": []
-  },
-  "mercadolibre|75QM8K": {
-    "ts": "2026-07-09T15:14:34.023945+00:00",
     "items": []
   },
   "amazon|S0694": {
@@ -631,88 +599,28 @@
     "ts": "2026-07-11T10:05:42.585209+00:00",
     "items": []
   },
-  "amazon|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-09T15:14:51.278486+00:00",
-    "items": []
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-09T15:14:52.835289+00:00",
-    "items": []
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-09T15:14:54.353004+00:00",
-    "items": []
-  },
-  "amazon|100QD6SFM": {
-    "ts": "2026-07-09T15:14:55.631113+00:00",
-    "items": []
-  },
-  "walmart|100QD6SFM": {
-    "ts": "2026-07-09T15:14:57.239649+00:00",
-    "items": []
-  },
-  "sams|100QD6SFM": {
-    "ts": "2026-07-09T15:14:59.062315+00:00",
-    "items": []
-  },
   "amazon|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
-    "ts": "2026-07-09T15:15:00.322917+00:00",
+    "ts": "2026-07-11T15:45:30.516957+00:00",
     "items": []
   },
   "walmart|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
-    "ts": "2026-07-09T15:15:02.042892+00:00",
+    "ts": "2026-07-11T15:45:35.376953+00:00",
     "items": []
   },
   "sams|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
-    "ts": "2026-07-09T15:15:03.998509+00:00",
+    "ts": "2026-07-11T15:45:37.046542+00:00",
     "items": []
   },
   "amazon|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-09T15:15:05.364441+00:00",
+    "ts": "2026-07-11T15:45:38.195589+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-09T15:15:06.922310+00:00",
+    "ts": "2026-07-11T15:45:39.618247+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-09T15:15:08.542303+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-09T15:15:09.802371+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-09T15:15:11.326811+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-09T15:15:13.272661+00:00",
-    "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOCELULARPURARAM": {
-    "ts": "2026-07-09T15:44:58.375272+00:00",
-    "items": []
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARPURARAM": {
-    "ts": "2026-07-09T15:44:59.960980+00:00",
-    "items": []
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARPURARAM": {
-    "ts": "2026-07-09T15:45:01.573428+00:00",
-    "items": []
-  },
-  "amazon|RF32CG5411B1EM": {
-    "ts": "2026-07-09T15:45:02.864555+00:00",
-    "items": []
-  },
-  "walmart|RF32CG5411B1EM": {
-    "ts": "2026-07-09T15:45:04.423426+00:00",
-    "items": []
-  },
-  "sams|RF32CG5411B1EM": {
-    "ts": "2026-07-09T15:45:06.063810+00:00",
+    "ts": "2026-07-11T15:45:41.714277+00:00",
     "items": []
   },
   "amazon|CHEFMANREFRIGERADORCHEFMANCUBICOSRJ48": {

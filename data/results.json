@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-11 14:46 UTC",
-  "products_scanned": 1738,
+  "generated_at": "2026-07-11 15:45 UTC",
+  "products_scanned": 1764,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 42,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.4,
-      "detail": "$1,890 en liverpool vs mercado -> -57% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2510.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Personal Nutribullet Pro 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518",
-      "price": 1890.0,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163026518",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 42.8,
@@ -43,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178822116",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 24.4,
+      "detail": "$1,890 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1255.0,
+      "store": "liverpool",
+      "name": "Set Licuadora Personal Nutribullet Pro 1 Velocidad",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518",
+      "price": 1890.0,
+      "list_price": 2499.0,
+      "ean": null,
+      "model": null,
+      "brand": "NUTRIBULLET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1163026518",
         "marketplace": null
       }
     },
@@ -799,27 +799,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43074175",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1899.8,
-      "store": "palacio",
-      "name": "Monitor Forerunner 265 Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html",
-      "price": 7599.2,
-      "list_price": 9499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074173",
         "outlet": false
       }
     },
