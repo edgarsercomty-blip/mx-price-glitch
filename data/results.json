@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 10:05 UTC",
-  "products_scanned": 1707,
+  "generated_at": "2026-07-11 11:21 UTC",
+  "products_scanned": 1688,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -116,27 +116,6 @@
       "likely_typo": false,
       "savings": 4649.7,
       "store": "palacio",
-      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4649.7,
-      "store": "palacio",
       "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html",
       "price": 10849.3,
@@ -148,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4649.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
+      "price": 10849.3,
+      "list_price": 15499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951479",
         "outlet": false
       }
     },
@@ -322,6 +322,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3174.75,
+      "store": "palacio",
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2349.75,
@@ -347,8 +368,8 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
       "price": 7049.25,
       "list_price": 9399.0,
       "ean": null,
@@ -357,28 +378,28 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401374",
+        "id": "43401369",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 3174.75,
+      "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
+      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43074177",
+        "id": "43401372",
         "outlet": false
       }
     },
@@ -531,6 +552,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$46,199 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13799.77,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 46199.23,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -600,7 +642,7 @@
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -609,7 +651,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110957",
+        "id": "44110956",
         "outlet": false
       }
     },
@@ -642,7 +684,7 @@
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -651,7 +693,49 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110956",
+        "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Azul/Blanco Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674668",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 719.8,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2879.2,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
         "outlet": false
       }
     },

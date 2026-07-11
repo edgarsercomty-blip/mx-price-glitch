@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (304)
+# Historial de ofertas encontradas (306)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-11 11:21 | -20% | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-11 11:21 | -25% | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-11 10:05 | -35% | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | $2,259 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-07-11 10:05 | -49% | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | $3,449 en liverpool vs mercado -> -49% bajo la competencia |
 | 2026-07-10 22:36 | -23% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $3,000 | $3,000 en palacio vs mercado -> -23% bajo la competencia |
