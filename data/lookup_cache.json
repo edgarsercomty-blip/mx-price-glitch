@@ -60,27 +60,27 @@
     "items": []
   },
   "amazon|SS151": {
-    "ts": "2026-07-09T02:02:18.786937+00:00",
+    "ts": "2026-07-11T02:47:29.841134+00:00",
     "items": []
   },
   "walmart|SS151": {
-    "ts": "2026-07-09T02:02:20.386215+00:00",
+    "ts": "2026-07-11T02:47:31.256287+00:00",
     "items": []
   },
   "sams|SS151": {
-    "ts": "2026-07-09T02:02:22.401483+00:00",
+    "ts": "2026-07-11T02:47:32.825598+00:00",
     "items": []
   },
   "amazon|WD26FB8690BEAX": {
-    "ts": "2026-07-09T02:02:23.787541+00:00",
+    "ts": "2026-07-11T02:47:34.120598+00:00",
     "items": []
   },
   "walmart|WD26FB8690BEAX": {
-    "ts": "2026-07-09T02:02:25.118620+00:00",
+    "ts": "2026-07-11T02:47:35.645356+00:00",
     "items": []
   },
   "sams|WD26FB8690BEAX": {
-    "ts": "2026-07-09T02:02:26.453481+00:00",
+    "ts": "2026-07-11T02:47:37.144354+00:00",
     "items": []
   },
   "liverpool|75QM8K": {
@@ -2943,6 +2943,111 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-07-10T22:36:57.269737+00:00",
+    "items": []
+  },
+  "palacio|WM20EWNTS6P": {
+    "ts": "2026-07-11T02:47:03.955498+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
+        "price": 16953.51,
+        "model": "WM22WV26SR"
+      },
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
+        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
+        "price": 34199.55,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 13419.39,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
+        "price": 27792.74,
+        "model": "WD20WV26R"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 24 p3 Smart Inverter GT24BS Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-24-p3-smart-inverter-gt24bs-plata-43815234.html",
+        "price": 15749.37,
+        "model": "GT24BS"
+      },
+      {
+        "store": "palacio",
+        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
+        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
+        "price": 40479.54,
+        "model": "WM25BFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+        "price": 24225.0,
+        "model": "WM25VFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
+        "price": 13419.39,
+        "model": "VT40BJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
+      },
+      {
+        "store": "palacio",
+        "name": "Walkman WM1AM2, Negro",
+        "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
+        "price": 18129.51,
+        "model": "WM1AM2"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 30752.49,
+        "model": "WD22BV2S6R"
+      }
+    ]
+  },
+  "amazon|WM20EWNTS6P": {
+    "ts": "2026-07-11T02:47:05.212009+00:00",
+    "items": []
+  },
+  "walmart|WM20EWNTS6P": {
+    "ts": "2026-07-11T02:47:06.751050+00:00",
+    "items": []
+  },
+  "sams|WM20EWNTS6P": {
+    "ts": "2026-07-11T02:47:08.284012+00:00",
+    "items": []
+  },
+  "mercadolibre|WM20EWNTS6P": {
+    "ts": "2026-07-11T02:47:09.559022+00:00",
     "items": []
   }
 }
