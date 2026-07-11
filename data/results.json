@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 16:44 UTC",
-  "products_scanned": 1769,
+  "generated_at": "2026-07-11 17:46 UTC",
+  "products_scanned": 1781,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -233,27 +233,6 @@
       "extra": {
         "id": "44672817",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.5,
-      "detail": "$9,750 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3899.85,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor 12000 Btu Aa Aru122Nfw 12 220V 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276",
-      "price": 9749.63,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Aru122Nfw",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163538276",
-        "marketplace": null
       }
     },
     {
