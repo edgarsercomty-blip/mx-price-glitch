@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11 06:40 UTC",
-  "products_scanned": 1739,
+  "generated_at": "2026-07-11 07:59 UTC",
+  "products_scanned": 1722,
   "threshold_pct": 20.0,
   "count": 39,
   "findings": [
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -510,43 +531,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 47.5,
-      "detail": "$11,024 en liverpool vs mercado -> -24% bajo la competencia",
+      "discount_pct": 43.0,
+      "detail": "$13,565 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 3474.94,
-      "store": "liverpool",
-      "name": "Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056",
-      "price": 11024.48,
-      "list_price": 20999.0,
-      "ean": null,
-      "model": "Wt21Wt6Hkna",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1202655056",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$3,000 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.85,
+      "savings": 4334.81,
       "store": "palacio",
-      "name": "Smartwatch Huawei Watch Gt5 Hombre",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html",
-      "price": 2999.5,
-      "list_price": 5999.0,
+      "name": "Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html",
+      "price": 13565.43,
+      "list_price": 23799.0,
       "ean": null,
-      "model": null,
-      "brand": "Huawei",
+      "model": "WA25DG5505AVAX",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44319260",
+        "id": "44548089",
         "outlet": false
       }
     },
@@ -610,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273250",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2771.8,
+      "store": "palacio",
+      "name": "Lavadora semiautomática 19 kg con pulsador, carga superior WA19CG6746BVAX",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html",
+      "price": 10079.44,
+      "list_price": 17999.0,
+      "ean": null,
+      "model": "WA19CG6746BVAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45068396",
         "outlet": false
       }
     },
@@ -736,27 +757,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43074175",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110956",
         "outlet": false
       }
     },
