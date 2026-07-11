@@ -571,858 +571,64 @@
     "ts": "2026-07-10T19:36:24.463320+00:00",
     "items": []
   },
-  "palacio|PANTA100MBLA": {
-    "ts": "2026-07-09T09:42:57.251975+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011872.html",
-        "price": 1610.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón de vestir Hombre",
-        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295744.html",
-        "price": 1245.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón 126Pipanello Mujer",
-        "url": "https://www.elpalaciodehierro.com/maje-pantalon-126pipanello-mujer-45589393.html",
-        "price": 7690.0,
-        "model": "126Pipanello"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
-        "price": 2650.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón de vestir Hombre",
-        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295737.html",
-        "price": 996.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón de vestir Hombre",
-        "url": "https://www.elpalaciodehierro.com/pal-zileri-pantalon-de-vestir-hombre-45368894.html",
-        "price": 7990.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Mujer",
-        "url": "https://www.elpalaciodehierro.com/simorra-pantalon-mujer-45196679.html",
-        "price": 3192.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón 126Pigul Mujer",
-        "url": "https://www.elpalaciodehierro.com/maje-pantalon-126pigul-mujer-45589384.html",
-        "price": 7690.0,
-        "model": "126Pigul"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346426.html",
-        "price": 6500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Mujer",
-        "url": "https://www.elpalaciodehierro.com/hobbs-pantalon-mujer-44294972.html",
-        "price": 3300.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346438.html",
-        "price": 6500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón de vestir Hombre",
-        "url": "https://www.elpalaciodehierro.com/pal-zileri-pantalon-de-vestir-hombre-43524772.html",
-        "price": 10392.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|PANTA100MBLA": {
-    "ts": "2026-07-09T09:42:58.689929+00:00",
-    "items": []
-  },
-  "walmart|PANTA100MBLA": {
-    "ts": "2026-07-09T09:43:00.383888+00:00",
-    "items": []
-  },
-  "sams|PANTA100MBLA": {
-    "ts": "2026-07-09T09:43:02.276899+00:00",
-    "items": []
-  },
-  "mercadolibre|PANTA100MBLA": {
-    "ts": "2026-07-09T09:43:03.803850+00:00",
-    "items": []
-  },
-  "liverpool|14FE0001LA": {
-    "ts": "2026-07-09T09:43:07.487531+00:00",
-    "items": []
-  },
-  "amazon|14FE0001LA": {
-    "ts": "2026-07-09T09:43:08.771671+00:00",
-    "items": []
-  },
-  "walmart|14FE0001LA": {
-    "ts": "2026-07-09T09:43:10.436319+00:00",
-    "items": []
-  },
-  "sams|14FE0001LA": {
-    "ts": "2026-07-09T09:43:12.739996+00:00",
-    "items": []
-  },
-  "mercadolibre|14FE0001LA": {
-    "ts": "2026-07-09T09:43:14.031081+00:00",
-    "items": []
-  },
-  "palacio|RC21N6FDX": {
-    "ts": "2026-07-09T09:43:14.190607+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 19 p3 RT53DG6798B1EM Negro",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19-p3-rt53dg6798b1em-negro-43689720.html",
-        "price": 15005.39,
-        "model": "RT53DG6798B1EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Roku Express 4K",
-        "url": "https://www.elpalaciodehierro.com/roku-roku-express-4k-41883187.html",
-        "price": 1199.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 30752.49,
-        "model": "WD22BV2S6R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
-        "price": 14189.34,
-        "model": "RT42DG6774S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Professional Single-Door 19 p3, Gris",
-        "url": "https://www.elpalaciodehierro.com/frigidaire-refrigerador-professional-single-door-19-p3-gris-41973798.html",
-        "price": 75374.33,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 25.8 p",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-french-door-25.8-p-37265890.html",
-        "price": 135959.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Duplex side-by-side 20.8 p3 KRSC536RJP",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-duplex-side-by-side-20.8-p3-krsc536rjp-45441414.html",
-        "price": 63719.28,
-        "model": "KRSC536RJP"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 25.8 p",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-french-door-25.8-p-41135752.html",
-        "price": 133366.32,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 25 p3 GM65FQP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fqp-45001051.html",
-        "price": 26473.39,
-        "model": "GM65FQP"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3 RS22N6IBX",
-        "url": "https://www.elpalaciodehierro.com/hisense-refrigerador-duplex-22-p3-rs22n6ibx-45479180.html",
-        "price": 22229.43,
-        "model": "RS22N6IBX"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Single Door 19 p3 Professional FPFU19F8WF Gris",
-        "url": "https://www.elpalaciodehierro.com/frigidaire-congelador-single-door-19-p3-professional-fpfu19f8wf-gris-41973799.html",
-        "price": 75374.33,
-        "model": "FPFU19F8WF"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador french door 20 p3 RC20N6HBX1",
-        "url": "https://www.elpalaciodehierro.com/hisense-refrigerador-french-door-20-p3-rc20n6hbx1-45479177.html",
-        "price": 39099.54,
-        "model": "RC20N6HBX1"
-      }
-    ]
-  },
-  "amazon|RC21N6FDX": {
-    "ts": "2026-07-09T09:43:15.463827+00:00",
-    "items": []
-  },
-  "walmart|RC21N6FDX": {
-    "ts": "2026-07-09T09:43:16.949891+00:00",
-    "items": []
-  },
-  "sams|RC21N6FDX": {
-    "ts": "2026-07-09T09:43:18.788953+00:00",
-    "items": []
-  },
-  "mercadolibre|RC21N6FDX": {
-    "ts": "2026-07-09T09:43:20.064691+00:00",
-    "items": []
-  },
-  "palacio|7MMVWC465JW": {
-    "ts": "2026-07-09T09:43:20.216201+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Jeans slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slim-hombre-45044536.html",
-        "price": 3079.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Slim Tapered Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slim-tapered-hombre-45166857.html",
-        "price": 2939.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-pantalon-mujer-44861869.html",
-        "price": 3989.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Modern Dojo recto Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-modern-dojo-recto-mujer-45261039.html",
-        "price": 4769.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Slimmy Tapered Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slimmy-tapered-hombre-44355594.html",
-        "price": 3286.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-de-corte-straight-hombre-44820472.html",
-        "price": 2999.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans wideleg Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-wideleg-mujer-44861828.html",
-        "price": 6159.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Wide Leg Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-wide-leg-mujer-44861749.html",
-        "price": 4949.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte Slim Straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-de-corte-slim-straight-hombre-43941236.html",
-        "price": 4495.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Luxe performance de corte Slim Straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-luxe-performance-de-corte-slim-straight-hombre-43935444.html",
-        "price": 2796.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Luxe performance de corte Modern Slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-luxe-performance-de-corte-modern-slim-hombre-43935500.html",
-        "price": 2796.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "SLIMMY LUXE PERFORMANCE PLUS ROA",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-slimmy-luxe-performance-plus-roa-43935459.html",
-        "price": 2796.5,
-        "model": null
-      }
-    ]
-  },
-  "amazon|7MMVWC465JW": {
-    "ts": "2026-07-09T09:43:21.484567+00:00",
-    "items": []
-  },
-  "walmart|7MMVWC465JW": {
-    "ts": "2026-07-09T09:43:22.994335+00:00",
-    "items": []
-  },
-  "sams|7MMVWC465JW": {
-    "ts": "2026-07-09T09:43:24.740678+00:00",
-    "items": []
-  },
-  "mercadolibre|7MMVWC465JW": {
-    "ts": "2026-07-09T09:43:26.062593+00:00",
-    "items": []
-  },
-  "palacio|7MMHW6621HC": {
-    "ts": "2026-07-09T09:43:26.228197+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Jeans slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slim-hombre-45044536.html",
-        "price": 3079.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Slim Tapered Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slim-tapered-hombre-45166857.html",
-        "price": 2939.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Audífonos Inalámbricos Bluetooth 5.0 Arctis Nova 7 Negro",
-        "url": "https://www.elpalaciodehierro.com/steelseries-audifonos-inalambricos-bluetooth-5.0-arctis-nova-7-negro-44151832.html",
-        "price": 2649.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor para entrenamiento Fénix 8 con GPS",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
-        "price": 18399.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Slimmy Tapered Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slimmy-tapered-hombre-44355594.html",
-        "price": 3286.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor para entrenamiento Fénix 8 con GPS",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-        "price": 18399.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Audífonos Inalámbricos Bluetooth Huawei Freebuds 7i Rosas",
-        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-rosas-45263135.html",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Audífonos inalámbricos Bluetooth Huawei Freebuds 7i Blancos",
-        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-blancos-45263133.html",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Chamarra de mezclilla Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-de-mezclilla-hombre-44820425.html",
-        "price": 4619.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Chamarra de mezclilla Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-de-mezclilla-mujer-44861606.html",
-        "price": 4619.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Chamarra de mezclilla Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-de-mezclilla-mujer-45325310.html",
-        "price": 5389.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Chamarra en mezclilla Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-en-mezclilla-hombre-44820428.html",
-        "price": 4269.3,
-        "model": null
-      }
-    ]
-  },
-  "amazon|7MMHW6621HC": {
-    "ts": "2026-07-09T09:43:27.488322+00:00",
-    "items": []
-  },
-  "walmart|7MMHW6621HC": {
-    "ts": "2026-07-09T09:43:29.054571+00:00",
-    "items": []
-  },
-  "sams|7MMHW6621HC": {
-    "ts": "2026-07-09T09:43:30.582249+00:00",
-    "items": []
-  },
-  "mercadolibre|7MMHW6621HC": {
-    "ts": "2026-07-09T09:43:32.335953+00:00",
-    "items": []
-  },
-  "palacio|7MWTW1904LM": {
-    "ts": "2026-07-09T09:43:32.498371+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8945.37,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
-        "price": 49599.69,
-        "model": "QNED86"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
-        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
-        "price": 13451.41,
-        "model": "WD13FG6B34BEAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 pulgadas 55QM7L SQD-Mini LED",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-55qm7l-sqd-mini-led-45360021.html",
-        "price": 13519.48,
-        "model": "55QM7L"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RME360FZMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rme360fzmrp0-negro-41637772.html",
-        "price": 13331.34,
-        "model": "RME360FZMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana LED RGB 4K BRAVIA 7 II K55XR70M2",
-        "url": "https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-led-rgb-4k-bravia-7-ii-k55xr70m2-45500055.html",
-        "price": 30679.41,
-        "model": "K55XR70M2"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 47141.82,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 pulgadas 75QM7L SQD-Mini LED",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-75qm7l-sqd-mini-led-45360023.html",
-        "price": 26319.44,
-        "model": "75QM7L"
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte relaxed Hombre",
-        "url": "https://www.elpalaciodehierro.com/mm6-maison-margiela-jeans-de-corte-relaxed-hombre-45070510.html",
-        "price": 7680.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas QLED 4K 75QD6SFM",
-        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-75-pulgadas-qled-4k-75qd6sfm-45467928.html",
-        "price": 11959.48,
-        "model": "75QD6SFM"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 77 Pulgadas Plana OLED 4K WebOS OLED77G6PSA",
-        "url": "https://www.elpalaciodehierro.com/lg-pantalla-77-pulgadas-plana-oled-4k-webos-oled77g6psa-45395464.html",
-        "price": 67599.48,
-        "model": "OLED77G6PSA"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BBAX Negro",
-        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34bbax-negro-45208019.html",
-        "price": 13864.41,
-        "model": "WD13FG6B34BBAX"
-      }
-    ]
-  },
-  "amazon|7MWTW1904LM": {
-    "ts": "2026-07-09T09:43:33.825824+00:00",
-    "items": []
-  },
-  "walmart|7MWTW1904LM": {
-    "ts": "2026-07-09T09:43:35.301661+00:00",
-    "items": []
-  },
-  "sams|7MWTW1904LM": {
-    "ts": "2026-07-09T09:43:36.845220+00:00",
-    "items": []
-  },
-  "mercadolibre|7MWTW1904LM": {
-    "ts": "2026-07-09T09:43:38.117496+00:00",
-    "items": []
-  },
-  "palacio|MF200D125WB": {
-    "ts": "2026-07-09T09:43:38.285160+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Bottom Mount 300 L, Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-300-l-negro-42854729.html",
-        "price": 12999.35,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8945.37,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html",
-        "price": 21174.45,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RME360FZMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rme360fzmrp0-negro-41637772.html",
-        "price": 13331.34,
-        "model": "RME360FZMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 400 L RMS400IBMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-400-l-rms400ibmrx0-43427911.html",
-        "price": 14867.37,
-        "model": "RMS400IBMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html",
-        "price": 14499.42,
-        "model": "RMS510ICMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
-        "price": 12544.35,
-        "model": "RMA300FZMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html",
-        "price": 22714.41,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit MMT12CABWCAM3, 12000 BTUs, 1 tonelada, 115 V Frio",
-        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt12cabwcam3-12000-btus-1-tonelada-115-v-frio-44662196.html",
-        "price": 8249.34,
-        "model": "MMT12CABWCAM3"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador 15 p3 Blanco",
-        "url": "https://www.elpalaciodehierro.com/mabe-congelador-15-p3-blanco-44662603.html",
-        "price": 15049.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
-        "price": 12319.3,
-        "model": "WCF2111Q"
-      }
-    ]
-  },
-  "amazon|MF200D125WB": {
-    "ts": "2026-07-09T09:43:39.674387+00:00",
-    "items": []
-  },
-  "walmart|MF200D125WB": {
-    "ts": "2026-07-09T09:43:41.216253+00:00",
-    "items": []
-  },
-  "sams|MF200D125WB": {
-    "ts": "2026-07-09T09:43:42.828086+00:00",
-    "items": []
-  },
-  "mercadolibre|MF200D125WB": {
-    "ts": "2026-07-09T09:43:44.163051+00:00",
-    "items": []
-  },
-  "amazon|CHEFMANREFRIGERADORCUBICOSCHEFMANMINI": {
-    "ts": "2026-07-09T09:44:04.872722+00:00",
-    "items": []
-  },
-  "walmart|CHEFMANREFRIGERADORCUBICOSCHEFMANMINI": {
-    "ts": "2026-07-09T09:44:06.459009+00:00",
-    "items": []
-  },
-  "sams|CHEFMANREFRIGERADORCUBICOSCHEFMANMINI": {
-    "ts": "2026-07-09T09:44:08.036767+00:00",
-    "items": []
-  },
-  "amazon|75QNED73ASC": {
-    "ts": "2026-07-09T09:44:09.321829+00:00",
-    "items": []
-  },
-  "walmart|75QNED73ASC": {
-    "ts": "2026-07-09T09:44:11.247331+00:00",
-    "items": []
-  },
-  "sams|75QNED73ASC": {
-    "ts": "2026-07-09T09:44:12.887240+00:00",
-    "items": []
-  },
   "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEIPURA": {
-    "ts": "2026-07-09T09:44:14.176821+00:00",
+    "ts": "2026-07-11T10:05:16.487018+00:00",
     "items": []
   },
   "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEIPURA": {
-    "ts": "2026-07-09T09:44:15.597154+00:00",
+    "ts": "2026-07-11T10:05:17.912191+00:00",
     "items": []
   },
   "sams|HUAWEIDESBLOQUEADOCELULARHUAWEIPURA": {
-    "ts": "2026-07-09T09:44:17.101557+00:00",
+    "ts": "2026-07-11T10:05:19.960420+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOSMARTWATCHFENIX": {
-    "ts": "2026-07-09T09:44:18.371900+00:00",
+    "ts": "2026-07-11T10:05:30.392859+00:00",
     "items": []
   },
   "walmart|GARMINENTRENAMIENTOSMARTWATCHFENIX": {
-    "ts": "2026-07-09T09:44:19.883559+00:00",
+    "ts": "2026-07-11T10:05:31.742068+00:00",
     "items": []
   },
   "sams|GARMINENTRENAMIENTOSMARTWATCHFENIX": {
-    "ts": "2026-07-09T09:44:21.434600+00:00",
+    "ts": "2026-07-11T10:05:33.544176+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-09T09:44:22.712950+00:00",
+    "ts": "2026-07-11T10:05:26.325587+00:00",
     "items": []
   },
   "walmart|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-09T09:44:24.235951+00:00",
+    "ts": "2026-07-11T10:05:27.815027+00:00",
     "items": []
   },
   "sams|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-09T09:44:25.736116+00:00",
-    "items": []
-  },
-  "amazon|GARMINMONITORINDEXSUENO": {
-    "ts": "2026-07-09T09:44:27.054216+00:00",
-    "items": []
-  },
-  "walmart|GARMINMONITORINDEXSUENO": {
-    "ts": "2026-07-09T09:44:28.544038+00:00",
-    "items": []
-  },
-  "sams|GARMINMONITORINDEXSUENO": {
-    "ts": "2026-07-09T09:44:30.900955+00:00",
+    "ts": "2026-07-11T10:05:29.166116+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOMONITORFENIXGPS": {
-    "ts": "2026-07-09T09:44:32.189404+00:00",
+    "ts": "2026-07-11T10:05:34.981019+00:00",
     "items": []
   },
   "walmart|GARMINENTRENAMIENTOMONITORFENIXGPS": {
-    "ts": "2026-07-09T09:44:34.805884+00:00",
+    "ts": "2026-07-11T10:05:36.391882+00:00",
     "items": []
   },
   "sams|GARMINENTRENAMIENTOMONITORFENIXGPS": {
-    "ts": "2026-07-09T09:44:36.315961+00:00",
+    "ts": "2026-07-11T10:05:38.534589+00:00",
     "items": []
   },
   "amazon|GARMINFORERUNNERMONITORCORRER965": {
-    "ts": "2026-07-09T09:44:37.654399+00:00",
+    "ts": "2026-07-11T10:05:39.880157+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERMONITORCORRER965": {
-    "ts": "2026-07-09T09:44:39.222373+00:00",
+    "ts": "2026-07-11T10:05:41.264406+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERMONITORCORRER965": {
-    "ts": "2026-07-09T09:44:40.776913+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-09T09:44:42.041419+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-09T09:44:43.566984+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-09T09:44:45.348183+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-07-09T09:44:46.985558+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-07-09T09:44:49.921649+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-07-09T09:44:51.722056+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-09T09:44:53.041350+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-09T09:44:54.530921+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-09T09:44:56.063179+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:44:57.334923+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:44:58.844561+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:45:00.361162+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:45:02.079333+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:45:04.433298+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-09T09:45:06.251487+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-07-09T09:45:07.743988+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-07-09T09:45:09.449999+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-07-09T09:45:11.418692+00:00",
-    "items": []
-  },
-  "amazon|MT8113S": {
-    "ts": "2026-07-09T09:45:12.728961+00:00",
-    "items": []
-  },
-  "walmart|MT8113S": {
-    "ts": "2026-07-09T09:45:14.536910+00:00",
-    "items": []
-  },
-  "sams|MT8113S": {
-    "ts": "2026-07-09T09:45:16.170578+00:00",
-    "items": []
-  },
-  "amazon|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
-    "ts": "2026-07-09T09:59:22.766614+00:00",
-    "items": []
-  },
-  "walmart|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
-    "ts": "2026-07-09T09:59:24.279287+00:00",
-    "items": []
-  },
-  "sams|CHEFMANREFRIGERADORCUBICOSCHEFMANRJ48": {
-    "ts": "2026-07-09T09:59:26.436768+00:00",
-    "items": []
-  },
-  "amazon|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-07-09T09:59:27.583924+00:00",
-    "items": []
-  },
-  "walmart|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-07-09T09:59:28.978231+00:00",
-    "items": []
-  },
-  "sams|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-07-09T09:59:30.335559+00:00",
+    "ts": "2026-07-11T10:05:42.585209+00:00",
     "items": []
   },
   "amazon|HUAWEIDESBLOQUEADOCELULARPURA512": {
@@ -2992,6 +2198,30 @@
   },
   "mercadolibre|BCM35R": {
     "ts": "2026-07-11T07:59:13.242931+00:00",
+    "items": []
+  },
+  "amazon|CO905KS": {
+    "ts": "2026-07-11T10:05:11.461118+00:00",
+    "items": []
+  },
+  "walmart|CO905KS": {
+    "ts": "2026-07-11T10:05:13.290880+00:00",
+    "items": []
+  },
+  "sams|CO905KS": {
+    "ts": "2026-07-11T10:05:15.293717+00:00",
+    "items": []
+  },
+  "amazon|BN701": {
+    "ts": "2026-07-11T10:05:21.187317+00:00",
+    "items": []
+  },
+  "walmart|BN701": {
+    "ts": "2026-07-11T10:05:22.786665+00:00",
+    "items": []
+  },
+  "sams|BN701": {
+    "ts": "2026-07-11T10:05:25.005043+00:00",
     "items": []
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 08:26 UTC",
-  "products_scanned": 1693,
+  "generated_at": "2026-07-11 10:05 UTC",
+  "products_scanned": 1707,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,48 @@
       "currency": "MXN",
       "extra": {
         "productId": "1197292489",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.8,
+      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3344.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
+      "price": 3449.0,
+      "list_price": 6029.0,
+      "ean": null,
+      "model": "Co905Ks",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178822116",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.5,
+      "detail": "$2,259 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1240.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Bn701 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718",
+      "price": 2259.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "Bn701",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125550718",
         "marketplace": null
       }
     },

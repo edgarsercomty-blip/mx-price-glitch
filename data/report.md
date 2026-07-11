@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-11 08:26 UTC
+# Errores/chollos de precio — 2026-07-11 10:05 UTC
 
-- Productos revisados: **1693**
+- Productos revisados: **1707**
 - Umbral de diferencia: **20%**
-- Hallazgos: **30**
+- Hallazgos: **32**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -24,6 +24,7 @@
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,500 | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $4,335 | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | Confirmado vs competencia | $13,565 en palacio vs mercado -> -24% bajo la competencia |
+| -49% | $3,344 | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | Confirmado vs competencia | $3,449 en liverpool vs mercado -> -49% bajo la competencia |
 | -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-violeta-desbloqueado-45345631.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,887 | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
@@ -33,6 +34,7 @@
 | -25% | $2,350 | palacio | [Monitor Venu 3, Whitestone Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $1,900 | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | Confirmado vs competencia | $7,599 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $1,575 | palacio | [Monitor Deportivo Forerunner 165 Music para Correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html) | $4,724 | Confirmado vs competencia | $4,724 en palacio vs mercado -> -25% bajo la competencia |
+| -35% | $1,240 | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | Confirmado vs competencia | $2,259 en liverpool vs mercado -> -35% bajo la competencia |
 | -28% | $900 | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | Confirmado vs competencia | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
 | -33% | $872 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -33% bajo la competencia |
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
