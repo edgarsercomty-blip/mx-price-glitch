@@ -1,22 +1,19 @@
-# Errores/chollos de precio — 2026-07-11 21:40 UTC
+# Errores/chollos de precio — 2026-07-11 22:38 UTC
 
-- Productos revisados: **1757**
+- Productos revisados: **1745**
 - Umbral de diferencia: **20%**
-- Hallazgos: **43**
+- Hallazgos: **39**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
-| -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -26% | $10,556 | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | Confirmado vs competencia | $30,380 en palacio vs mercado -> -26% bajo la competencia |
 | -30% | $9,900 | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver B…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html) | $23,099 | Confirmado vs competencia | $23,099 en palacio vs mercado -> -30% bajo la competencia |
-| -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
-| -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -24% | $4,800 | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $15,000 | Confirmado vs competencia | $15,000 en palacio vs mercado -> -24% bajo la competencia |
 | -30% | $4,650 | palacio | [Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html) | $10,849 | Confirmado vs competencia | $10,849 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $4,650 | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html) | $10,849 | Confirmado vs competencia | $10,849 en palacio vs mercado -> -30% bajo la competencia |
@@ -44,7 +41,6 @@
 | -38% | $1,347 | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $2,245 | Confirmado vs competencia | $2,245 en palacio vs mercado -> -38% bajo la competencia |
 | -20% | $1,330 | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $5,319 | Confirmado vs competencia | $5,319 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $1,298 | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $3,114 | Confirmado vs competencia | $3,114 en palacio vs mercado -> -29% bajo la competencia |
-| -40% | $1,255 | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | Confirmado vs competencia | $1,890 en liverpool vs mercado -> -40% bajo la competencia |
 | -35% | $1,240 | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | Confirmado vs competencia | $2,259 en liverpool vs mercado -> -35% bajo la competencia |
 | -28% | $900 | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | Confirmado vs competencia | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
 | -33% | $872 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -33% bajo la competencia |
