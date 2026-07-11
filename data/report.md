@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-11 15:45 UTC
+# Errores/chollos de precio — 2026-07-11 16:44 UTC
 
-- Productos revisados: **1764**
+- Productos revisados: **1769**
 - Umbral de diferencia: **20%**
-- Hallazgos: **42**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -29,6 +29,8 @@
 | -20% | $4,500 | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,500 | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $4,335 | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | Confirmado vs competencia | $13,565 en palacio vs mercado -> -24% bajo la competencia |
+| -29% | $3,900 | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $9,750 | Confirmado vs competencia | $9,750 en liverpool vs mercado -> -29% bajo la competencia |
+| -52% | $3,468 | liverpool | [Smartwatch Samsung Galaxy Watch 7 44Mm Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482) | $3,184 | Confirmado vs competencia | $3,184 en liverpool vs mercado -> -52% bajo la competencia |
 | -49% | $3,344 | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | Confirmado vs competencia | $3,449 en liverpool vs mercado -> -49% bajo la competencia |
 | -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,000 | palacio | [Celular Galaxy A57 256 GB 8 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-violeta-desbloqueado-45345631.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |

@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (307)
+# Historial de ofertas encontradas (308)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-11 16:44 | -52% | liverpool | [Smartwatch Samsung Galaxy Watch 7 44Mm Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482) | $3,184 | $3,184 en liverpool vs mercado -> -52% bajo la competencia |
 | 2026-07-11 13:23 | -37% | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART …](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $19,000 | $19,000 en palacio vs mercado -> -37% bajo la competencia |
 | 2026-07-11 11:21 | -20% | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-11 11:21 | -25% | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |

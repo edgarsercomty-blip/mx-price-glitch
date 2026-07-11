@@ -1,4 +1,4 @@
-# Productos en vigilancia (270)
+# Productos en vigilancia (271)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -194,7 +194,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | -26% |
 | 🟢 disponible | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 G…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,880 | -21% |
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
-| 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,904 | -26% |
+| 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,902 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $7,499 | -32% |
 | 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,598 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,643 | -29% |
@@ -274,3 +274,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | -20% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $19,000 | -37% |
+| 🟢 disponible | liverpool | [Smartwatch Samsung Galaxy Watch 7 44Mm Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482) | $3,184 | -52% |
