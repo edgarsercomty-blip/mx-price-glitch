@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11 22:38 UTC",
-  "products_scanned": 1745,
+  "generated_at": "2026-07-11 23:35 UTC",
+  "products_scanned": 1695,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -233,6 +233,27 @@
       "extra": {
         "productId": "1180553254",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9379.72,
+      "store": "palacio",
+      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html",
+      "price": 24119.28,
+      "list_price": 33499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273248",
+        "outlet": false
       }
     },
     {
@@ -473,6 +494,27 @@
       "likely_typo": false,
       "savings": 11499.75,
       "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html",
+      "price": 34499.25,
+      "list_price": 45999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273255",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11499.75,
+      "store": "palacio",
       "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html",
       "price": 34499.25,
@@ -568,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45273254",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8739.77,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
+      "price": 29259.23,
+      "list_price": 37999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273250",
         "outlet": false
       }
     },

@@ -1,19 +1,22 @@
-# Errores/chollos de precio — 2026-07-11 22:38 UTC
+# Errores/chollos de precio — 2026-07-11 23:35 UTC
 
-- Productos revisados: **1745**
+- Productos revisados: **1695**
 - Umbral de diferencia: **20%**
-- Hallazgos: **39**
+- Hallazgos: **42**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -23% | $13,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $46,199 | Confirmado vs competencia | $46,199 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $11,500 | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $34,499 | Confirmado vs competencia | $34,499 en palacio vs mercado -> -25% bajo la competencia |
 | -26% | $10,556 | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | Confirmado vs competencia | $30,380 en palacio vs mercado -> -26% bajo la competencia |
 | -30% | $9,900 | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver B…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html) | $23,099 | Confirmado vs competencia | $23,099 en palacio vs mercado -> -30% bajo la competencia |
+| -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
+| -23% | $8,740 | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | Confirmado vs competencia | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | -24% | $4,800 | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $15,000 | Confirmado vs competencia | $15,000 en palacio vs mercado -> -24% bajo la competencia |
 | -30% | $4,650 | palacio | [Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html) | $10,849 | Confirmado vs competencia | $10,849 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $4,650 | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html) | $10,849 | Confirmado vs competencia | $10,849 en palacio vs mercado -> -30% bajo la competencia |
