@@ -2283,5 +2283,222 @@
   "sams|GARMINMONITORINDEXSUENO": {
     "ts": "2026-07-11T12:09:25.169862+00:00",
     "items": []
+  },
+  "palacio|PANTA100MBLA": {
+    "ts": "2026-07-11T13:23:18.292173+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/cortefiel-pantalon-mujer-44934946.html",
+        "price": 796.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/octavia-pantalon-mujer-45442324.html",
+        "price": 1290.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/octavia-pantalon-mujer-45412957.html",
+        "price": 1390.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295744.html",
+        "price": 1245.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/brownie-pantalon-mujer-45146754.html",
+        "price": 949.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/simorra-pantalon-mujer-45196755.html",
+        "price": 3353.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/charme-pantalon-mujer-45319136.html",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón 126Pigul Mujer",
+        "url": "https://www.elpalaciodehierro.com/maje-pantalon-126pigul-mujer-45589384.html",
+        "price": 7690.0,
+        "model": "126Pigul"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
+        "price": 6500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/charme-pantalon-mujer-45319130.html",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/charme-pantalon-mujer-45319124.html",
+        "price": 1399.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|PANTA100MBLA": {
+    "ts": "2026-07-11T13:23:19.506119+00:00",
+    "items": []
+  },
+  "walmart|PANTA100MBLA": {
+    "ts": "2026-07-11T13:23:21.379130+00:00",
+    "items": []
+  },
+  "sams|PANTA100MBLA": {
+    "ts": "2026-07-11T13:23:22.917610+00:00",
+    "items": []
+  },
+  "mercadolibre|PANTA100MBLA": {
+    "ts": "2026-07-11T13:23:24.145555+00:00",
+    "items": []
+  },
+  "liverpool|QNED92": {
+    "ts": "2026-07-11T13:23:24.754532+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 85 Pulgadas 4K Uhd 85Qned92Asa Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-85-pulgadas-4k-uhd-85qned92asa-con-evo-ai/1179495119",
+        "price": 29998.8,
+        "model": "85Qned92Asa"
+      },
+      {
+        "store": "liverpool",
+        "name": "Control Remoto Para Smart Tv Lg Mr25Ga Compatible Con Lg Magic Remote Misma Version",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/control-remoto-para-smart-tv-lg-mr25ga-compatible-con-lg-magic-remote-misma-version/1189683002",
+        "price": 1899.0,
+        "model": "Mr25Ga"
+      }
+    ]
+  },
+  "amazon|QNED92": {
+    "ts": "2026-07-11T13:23:25.998382+00:00",
+    "items": []
+  },
+  "walmart|QNED92": {
+    "ts": "2026-07-11T13:23:27.446004+00:00",
+    "items": []
+  },
+  "sams|QNED92": {
+    "ts": "2026-07-11T13:23:28.996178+00:00",
+    "items": []
+  },
+  "mercadolibre|QNED92": {
+    "ts": "2026-07-11T13:23:30.341662+00:00",
+    "items": []
+  },
+  "liverpool|55QNED83ASG": {
+    "ts": "2026-07-11T13:23:30.958595+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+        "price": 11225.0,
+        "model": "55Qned83Asg"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+        "price": 12599.4,
+        "model": "75Qned73Asc"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con Webos Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482",
+        "price": 22498.7,
+        "model": "Oled55G5Psa"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Led De 32 Pulgadas Hd 32Lr600Bpsc Con Ai Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-led-de-32-pulgadas-hd-32lr600bpsc-con-ai-webos/1188893828",
+        "price": 3286.0,
+        "model": "32Lr600Bpsc"
+      }
+    ]
+  },
+  "amazon|55QNED83ASG": {
+    "ts": "2026-07-11T13:23:32.206434+00:00",
+    "items": []
+  },
+  "walmart|55QNED83ASG": {
+    "ts": "2026-07-11T13:23:33.825975+00:00",
+    "items": []
+  },
+  "sams|55QNED83ASG": {
+    "ts": "2026-07-11T13:23:35.286220+00:00",
+    "items": []
+  },
+  "mercadolibre|55QNED83ASG": {
+    "ts": "2026-07-11T13:23:36.531571+00:00",
+    "items": []
+  },
+  "amazon|RC21N6FDX": {
+    "ts": "2026-07-11T13:23:37.743366+00:00",
+    "items": []
+  },
+  "walmart|RC21N6FDX": {
+    "ts": "2026-07-11T13:23:39.163578+00:00",
+    "items": []
+  },
+  "sams|RC21N6FDX": {
+    "ts": "2026-07-11T13:23:40.603829+00:00",
+    "items": []
+  },
+  "mercadolibre|RC21N6FDX": {
+    "ts": "2026-07-11T13:23:41.826576+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORSOFTROSE": {
+    "ts": "2026-07-11T13:23:49.616633+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORSOFTROSE": {
+    "ts": "2026-07-11T13:23:51.235717+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORSOFTROSE": {
+    "ts": "2026-07-11T13:23:52.708699+00:00",
+    "items": []
   }
 }

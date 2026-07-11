@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (306)
+# Historial de ofertas encontradas (307)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-11 13:23 | -37% | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART …](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $19,000 | $19,000 en palacio vs mercado -> -37% bajo la competencia |
 | 2026-07-11 11:21 | -20% | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-11 11:21 | -25% | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-11 10:05 | -35% | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | $2,259 en liverpool vs mercado -> -35% bajo la competencia |
