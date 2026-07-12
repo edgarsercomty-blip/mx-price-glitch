@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12 13:14 UTC",
-  "products_scanned": 1685,
+  "generated_at": "2026-07-12 13:24 UTC",
+  "products_scanned": 1688,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45081397",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -469,6 +490,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1899.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 265 Multideporte",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-265-multideporte-43277901.html",
+      "price": 7599.2,
+      "list_price": 9499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43277901",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2299.8,
@@ -484,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44733803",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Negro Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674661",
         "outlet": false
       }
     }
