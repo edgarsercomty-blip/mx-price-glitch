@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-12 08:21 UTC",
-  "products_scanned": 1709,
+  "generated_at": "2026-07-12 09:29 UTC",
+  "products_scanned": 1685,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 23,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3344.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
-      "price": 3449.0,
-      "list_price": 6029.0,
-      "ean": null,
-      "model": "Co905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178822116",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.5,
@@ -43,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1125550718",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,184 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1733.83,
-      "store": "liverpool",
-      "name": "Smartwatch Samsung Galaxy Watch 7 44Mm Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482",
-      "price": 3184.35,
-      "list_price": 4899.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158643482",
         "marketplace": null
       }
     },
@@ -90,27 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$3,114 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -127,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44672817",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$15,000 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Pura 80 Pro, 512 GB, RAM 12 GB, Negro, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-pura-80-pro-512-gb-ram-12-gb-negro-desbloqueado-44928183.html",
-      "price": 14999.5,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44928183",
         "outlet": false
       }
     },
@@ -316,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43401369",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 45 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-45-mm-casual-44965113.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44965113",
         "outlet": false
       }
     },
