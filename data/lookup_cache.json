@@ -47,221 +47,6 @@
     "ts": "2026-07-12T10:58:46.164053+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-10T14:31:50.014571+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-10T14:31:51.769882+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-07-10T14:31:53.523474+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULAREDGEMOTO": {
-    "ts": "2026-07-10T14:31:45.233910+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULAREDGEMOTO": {
-    "ts": "2026-07-10T14:31:46.902071+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULAREDGEMOTO": {
-    "ts": "2026-07-10T14:31:48.740568+00:00",
-    "items": []
-  },
-  "liverpool|55QM64L": {
-    "ts": "2026-07-10T14:30:49.874763+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Samsung Oled De 83 Pulgadas 4K Qn83S90Haexzx Con Ai Escalado A 4K",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-oled-de-83-pulgadas-4k-qn83s90haexzx-con-ai-escalado-a-4k/1197292420",
-        "price": 69998.5,
-        "model": "Qn83S90Haexzx"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Tcl Qd Mini Led De 55 Pulgadas 4K Uhd 55Qm64L Con Fire Os",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qd-mini-led-de-55-pulgadas-4k-uhd-55qm64l-con-fire-os/1197391541",
-        "price": 10298.75,
-        "model": "55Qm64L"
-      },
-      {
-        "store": "liverpool",
-        "name": "Microfono Shure Pga58 Qtr 1 Canal Negro",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/microfono-shure-pga58-qtr-1-canal-negro/1087702894",
-        "price": 1880.0,
-        "model": "Pga58"
-      }
-    ]
-  },
-  "mercadolibre|55QM64L": {
-    "ts": "2026-07-10T14:30:51.761464+00:00",
-    "items": []
-  },
-  "palacio|PANTA120EBLA": {
-    "ts": "2026-07-10T14:30:51.945676+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón Chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098325.html",
-        "price": 999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011872.html",
-        "price": 1610.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-44445101.html",
-        "price": 2069.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalon Regular Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-regular-hombre-44453279.html",
-        "price": 1914.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
-        "price": 2650.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-44534753.html",
-        "price": 1554.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/boggi-milano-pantalon-casual-hombre-45266147.html",
-        "price": 3534.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-hombre-44445106.html",
-        "price": 2069.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
-        "price": 6500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-45137445.html",
-        "price": 3432.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-chino-hombre-45137073.html",
-        "price": 2233.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-42454062.html",
-        "price": 6500.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|PANTA120EBLA": {
-    "ts": "2026-07-10T14:30:53.348920+00:00",
-    "items": []
-  },
-  "walmart|PANTA120EBLA": {
-    "ts": "2026-07-10T14:30:55.095183+00:00",
-    "items": []
-  },
-  "sams|PANTA120EBLA": {
-    "ts": "2026-07-10T14:30:58.358196+00:00",
-    "items": []
-  },
-  "mercadolibre|PANTA120EBLA": {
-    "ts": "2026-07-10T14:30:59.630388+00:00",
-    "items": []
-  },
-  "liverpool|65QNED9MASA": {
-    "ts": "2026-07-10T14:31:00.402024+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned9Masa Con Evo Ai True Wireless",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned9masa-con-evo-ai-true-wireless/1178739324",
-        "price": 19999.0,
-        "model": "65Qned9Masa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Oled 55 Pulgadas 4K Oled55B6Psa Con Ai Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-55-pulgadas-4k-oled55b6psa-con-ai-webos/1199017001",
-        "price": 21998.9,
-        "model": "Oled55B6Psa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Nanocell De 75 Pulgadas 4K 75Nano80Asa Con Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-75-pulgadas-4k-75nano80asa-con-webos/1175969094",
-        "price": 11998.7,
-        "model": "75Nano80Asa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Nanocell De 55 Pulgadas 4K 55Nano80Asa Con Ai Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-55-pulgadas-4k-55nano80asa-con-ai-webos/1178739227",
-        "price": 9279.0,
-        "model": "55Nano80Asa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Soporte Para Router Impremli Kit Decox50",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-router-impremli-kit-decox50/99975410678",
-        "price": 1170.0,
-        "model": "Decox50"
-      }
-    ]
-  },
-  "amazon|65QNED9MASA": {
-    "ts": "2026-07-10T14:31:01.688587+00:00",
-    "items": []
-  },
-  "walmart|65QNED9MASA": {
-    "ts": "2026-07-10T14:31:03.439918+00:00",
-    "items": []
-  },
-  "sams|65QNED9MASA": {
-    "ts": "2026-07-10T14:31:05.511355+00:00",
-    "items": []
-  },
-  "mercadolibre|65QNED9MASA": {
-    "ts": "2026-07-10T14:31:07.150782+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
     "ts": "2026-07-10T17:12:36.903957+00:00",
     "items": []
@@ -525,30 +310,6 @@
   },
   "sams|GARMINDEPORTIVOMONITORPEBBLESLATE": {
     "ts": "2026-07-12T10:58:53.923714+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETNUTRIBULLETVELOCIDADLICUADORAPERSONAL": {
-    "ts": "2026-07-10T14:31:35.536060+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETNUTRIBULLETVELOCIDADLICUADORAPERSONAL": {
-    "ts": "2026-07-10T14:31:37.412957+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETNUTRIBULLETVELOCIDADLICUADORAPERSONAL": {
-    "ts": "2026-07-10T14:31:39.278686+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-10T14:31:40.545700+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-10T14:31:42.105542+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYS25": {
-    "ts": "2026-07-10T14:31:43.890286+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
@@ -2027,6 +1788,30 @@
   },
   "sams|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
     "ts": "2026-07-12T13:24:21.615122+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-12T14:38:27.263009+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-12T14:38:28.845445+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
+    "ts": "2026-07-12T14:38:30.811771+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
+    "ts": "2026-07-12T14:38:32.096461+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
+    "ts": "2026-07-12T14:38:33.957289+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
+    "ts": "2026-07-12T14:38:35.460169+00:00",
     "items": []
   }
 }
