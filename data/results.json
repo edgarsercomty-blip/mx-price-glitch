@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-12 01:09 UTC",
-  "products_scanned": 1765,
+  "generated_at": "2026-07-12 02:55 UTC",
+  "products_scanned": 1787,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 26,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,184 en liverpool vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3467.65,
-      "store": "liverpool",
-      "name": "Smartwatch Samsung Galaxy Watch 7 44Mm Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482",
-      "price": 3184.35,
-      "list_price": 4899.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158643482",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 42.8,
@@ -43,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178822116",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.4,
-      "detail": "$1,890 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1255.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Personal Nutribullet Pro 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518",
-      "price": 1890.0,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163026518",
         "marketplace": null
       }
     },
@@ -111,6 +69,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,184 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1733.83,
+      "store": "liverpool",
+      "name": "Smartwatch Samsung Galaxy Watch 7 44Mm Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482",
+      "price": 3184.35,
+      "list_price": 4899.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158643482",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$1,745 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -132,85 +111,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 4649.7,
+      "savings": 3079.13,
       "store": "palacio",
-      "name": "Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "55QM64L",
+      "brand": "Tcl",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44951477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$23,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9899.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver Blue Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html",
-      "price": 23099.3,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44443562",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4649.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4649.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html",
-      "price": 10849.3,
-      "list_price": 15499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951479",
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -426,132 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A57 256 GB 8 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-violeta-desbloqueado-45345631.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345631",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A57 256 GB 8 GB Gris Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-gris-desbloqueado-45345630.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345630",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345629",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273253",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra, 1 TB, RAM 16 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-violeta-desbloqueado-45273255.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273255",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$34,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11499.75,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html",
-      "price": 34499.25,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273251",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -589,90 +379,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44548089",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273252",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273254",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$29,259 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8739.77,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html",
-      "price": 29259.23,
-      "list_price": 37999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273250",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$46,199 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13799.77,
-      "store": "palacio",
-      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
-      "price": 46199.23,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600330",
         "outlet": false
       }
     },
@@ -841,69 +547,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273246",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273256",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.8,
-      "store": "palacio",
-      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html",
-      "price": 17999.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273245",
         "outlet": false
       }
     }
