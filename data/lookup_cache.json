@@ -71,88 +71,16 @@
     "ts": "2026-07-11T02:47:37.144354+00:00",
     "items": []
   },
-  "liverpool|QNED86": {
-    "ts": "2026-07-10T09:38:38.333136+00:00",
-    "items": []
-  },
-  "amazon|QNED86": {
-    "ts": "2026-07-10T09:38:39.630942+00:00",
-    "items": []
-  },
-  "walmart|QNED86": {
-    "ts": "2026-07-10T09:38:41.072252+00:00",
-    "items": []
-  },
-  "sams|QNED86": {
-    "ts": "2026-07-10T09:38:42.690778+00:00",
-    "items": []
-  },
-  "mercadolibre|QNED86": {
-    "ts": "2026-07-10T09:38:44.069241+00:00",
-    "items": []
-  },
-  "liverpool|98UT9050": {
-    "ts": "2026-07-10T09:39:08.089833+00:00",
-    "items": []
-  },
-  "amazon|98UT9050": {
-    "ts": "2026-07-10T09:39:09.673347+00:00",
-    "items": []
-  },
-  "walmart|98UT9050": {
-    "ts": "2026-07-10T09:39:11.174389+00:00",
-    "items": []
-  },
-  "sams|98UT9050": {
-    "ts": "2026-07-10T09:39:12.667549+00:00",
-    "items": []
-  },
-  "mercadolibre|98UT9050": {
-    "ts": "2026-07-10T09:39:13.934868+00:00",
-    "items": []
-  },
-  "liverpool|WK22BS6": {
-    "ts": "2026-07-10T09:39:17.281502+00:00",
-    "items": []
-  },
-  "amazon|WK22BS6": {
-    "ts": "2026-07-10T09:39:18.580229+00:00",
-    "items": []
-  },
-  "walmart|WK22BS6": {
-    "ts": "2026-07-10T09:39:20.551417+00:00",
-    "items": []
-  },
-  "sams|WK22BS6": {
-    "ts": "2026-07-10T09:39:22.315906+00:00",
-    "items": []
-  },
-  "mercadolibre|WK22BS6": {
-    "ts": "2026-07-10T09:39:23.582033+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-10T09:39:45.945906+00:00",
+    "ts": "2026-07-12T10:58:43.075558+00:00",
     "items": []
   },
   "walmart|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-10T09:39:47.458123+00:00",
+    "ts": "2026-07-12T10:58:44.615473+00:00",
     "items": []
   },
   "sams|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-10T09:39:49.035888+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-10T09:40:24.446859+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-10T09:40:25.956108+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-10T09:40:28.445453+00:00",
+    "ts": "2026-07-12T10:58:46.164053+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
@@ -623,305 +551,28 @@
     "ts": "2026-07-12T04:42:31.892610+00:00",
     "items": []
   },
-  "palacio|ANR2359": {
-    "ts": "2026-07-10T09:38:44.171785+00:00",
-    "items": []
-  },
-  "amazon|ANR2359": {
-    "ts": "2026-07-10T09:38:45.518712+00:00",
-    "items": []
-  },
-  "walmart|ANR2359": {
-    "ts": "2026-07-10T09:38:46.974380+00:00",
-    "items": []
-  },
-  "sams|ANR2359": {
-    "ts": "2026-07-10T09:38:48.490666+00:00",
-    "items": []
-  },
-  "mercadolibre|ANR2359": {
-    "ts": "2026-07-10T09:38:49.774643+00:00",
-    "items": []
-  },
-  "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-07-10T09:38:50.892797+00:00",
-    "items": []
-  },
-  "amazon|UN98DU9000FXZX": {
-    "ts": "2026-07-10T09:38:52.987274+00:00",
-    "items": []
-  },
-  "walmart|UN98DU9000FXZX": {
-    "ts": "2026-07-10T09:38:54.432718+00:00",
-    "items": []
-  },
-  "sams|UN98DU9000FXZX": {
-    "ts": "2026-07-10T09:38:56.373948+00:00",
-    "items": []
-  },
-  "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-07-10T09:38:57.643533+00:00",
-    "items": []
-  },
-  "liverpool|9QUOT": {
-    "ts": "2026-07-10T09:39:00.054933+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Eau De Parfum Afnan 9 Pm Para Hombre",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-para-hombre/1195102259",
-        "price": 1206.79,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau De Parfum Afnan 9 Pm Unisex",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-unisex/1111408170",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Anillo De Compromiso De Oro 14 K Amore Mio",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/anillo-de-compromiso-de-oro-14-k-amore-mio/9993337211",
-        "price": 20069.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Congelador Aurus Afu09W 9P3 Vertical 9 Pies Cubicos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afu09w-9p3-vertical-9-pies-cubicos/1186256600",
-        "price": 13889.0,
-        "model": "Afu09W"
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau De Parfum Afnan 9 Pm Para Hombre",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-para-hombre/1167945321",
-        "price": 1113.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Set De Sal Sabori 9 Sabores",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/set-de-sal-sabori-9-sabores/1110660967",
-        "price": 559.2,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Refrigerador Unipuerta Hisense 9 Pies Cubicos No Frost Cvc494N3Awx",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-unipuerta-hisense-9-pies-cubicos-no-frost-cvc494n3awx/1154113491",
-        "price": 17849.41,
-        "model": "Cvc494N3Awx"
-      },
-      {
-        "store": "liverpool",
-        "name": "Eau De Parfum Afnan 9 Am Dive Unisex",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-am-dive-unisex/1140415614",
-        "price": 849.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Proyector Electrica Audiotek Mkz Panta150Ebla",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-proyector-electrica-audiotek-mkz-panta150ebla/1157502201",
-        "price": 2999.0,
-        "model": "Panta150Ebla"
-      },
-      {
-        "store": "liverpool",
-        "name": "Jeans Cargo Wide Leg Opp S Jeans Para Mujer",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/jeans-cargo-wide-leg-opp-s-jeans-para-mujer/999674209584",
-        "price": 749.9,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Croqueta Instinct De Pollo Para Perro Todas Las Etapas Contenido 9 Kg",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/croqueta-instinct-de-pollo-para-perro-todas-las-etapas-contenido-9-kg/1144364186",
-        "price": 2025.0,
-        "model": null
-      },
-      {
-        "store": "liverpool",
-        "name": "Vestido Largo De Fiesta La Difference Espalda Abierta",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/vestido-largo-de-fiesta-la-difference-espalda-abierta/99991278252",
-        "price": 1599.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|9QUOT": {
-    "ts": "2026-07-10T09:39:01.326796+00:00",
-    "items": []
-  },
-  "walmart|9QUOT": {
-    "ts": "2026-07-10T09:39:02.845691+00:00",
-    "items": []
-  },
-  "sams|9QUOT": {
-    "ts": "2026-07-10T09:39:04.404408+00:00",
-    "items": []
-  },
-  "mercadolibre|9QUOT": {
-    "ts": "2026-07-10T09:39:05.671046+00:00",
-    "items": []
-  },
-  "amazon|WT25PBTX6": {
-    "ts": "2026-07-10T09:39:40.730389+00:00",
-    "items": []
-  },
-  "walmart|WT25PBTX6": {
-    "ts": "2026-07-10T09:39:42.289141+00:00",
-    "items": []
-  },
-  "sams|WT25PBTX6": {
-    "ts": "2026-07-10T09:39:44.449508+00:00",
-    "items": []
-  },
-  "amazon|FC0240LA": {
-    "ts": "2026-07-10T09:39:50.748513+00:00",
-    "items": []
-  },
-  "walmart|FC0240LA": {
-    "ts": "2026-07-10T09:39:52.510520+00:00",
-    "items": []
-  },
-  "sams|FC0240LA": {
-    "ts": "2026-07-10T09:39:54.044112+00:00",
-    "items": []
-  },
-  "amazon|WD22VV2S6R": {
-    "ts": "2026-07-10T09:39:55.509495+00:00",
-    "items": []
-  },
-  "walmart|WD22VV2S6R": {
-    "ts": "2026-07-10T09:39:56.960555+00:00",
-    "items": []
-  },
-  "sams|WD22VV2S6R": {
-    "ts": "2026-07-10T09:39:58.564260+00:00",
-    "items": []
-  },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-10T09:39:59.853615+00:00",
+    "ts": "2026-07-12T10:58:47.240709+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-10T09:40:01.350938+00:00",
+    "ts": "2026-07-12T10:58:48.827604+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-10T09:40:02.908727+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T09:40:04.549004+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T09:40:06.012957+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T09:40:07.551997+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-10T09:40:08.820761+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-10T09:40:10.357506+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-10T09:40:12.624434+00:00",
-    "items": []
-  },
-  "amazon|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
-    "ts": "2026-07-10T09:40:14.070241+00:00",
-    "items": []
-  },
-  "walmart|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
-    "ts": "2026-07-10T09:40:15.530559+00:00",
-    "items": []
-  },
-  "sams|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
-    "ts": "2026-07-10T09:40:17.335564+00:00",
-    "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-07-10T09:40:18.770883+00:00",
-    "items": []
-  },
-  "walmart|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-07-10T09:40:21.320614+00:00",
-    "items": []
-  },
-  "sams|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-07-10T09:40:23.168590+00:00",
-    "items": []
-  },
-  "amazon|UN43U8500HFXZX": {
-    "ts": "2026-07-10T10:15:40.614967+00:00",
-    "items": []
-  },
-  "walmart|UN43U8500HFXZX": {
-    "ts": "2026-07-10T10:15:43.526148+00:00",
-    "items": []
-  },
-  "sams|UN43U8500HFXZX": {
-    "ts": "2026-07-10T10:15:45.660312+00:00",
-    "items": []
-  },
-  "amazon|UN65U8500HFXZX": {
-    "ts": "2026-07-10T10:15:47.381014+00:00",
-    "items": []
-  },
-  "walmart|UN65U8500HFXZX": {
-    "ts": "2026-07-10T10:15:48.846658+00:00",
-    "items": []
-  },
-  "sams|UN65U8500HFXZX": {
-    "ts": "2026-07-10T10:15:51.070620+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETNUTRIBULLETLICUADORAVELOCIDADPERSONAL": {
-    "ts": "2026-07-10T10:15:54.776217+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETNUTRIBULLETLICUADORAVELOCIDADPERSONAL": {
-    "ts": "2026-07-10T10:15:57.711663+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETNUTRIBULLETLICUADORAVELOCIDADPERSONAL": {
-    "ts": "2026-07-10T10:15:59.704779+00:00",
-    "items": []
-  },
-  "amazon|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T10:16:01.227197+00:00",
-    "items": []
-  },
-  "walmart|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T10:16:03.615663+00:00",
-    "items": []
-  },
-  "sams|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-10T10:16:05.932822+00:00",
+    "ts": "2026-07-12T10:58:50.150687+00:00",
     "items": []
   },
   "amazon|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-10T10:16:08.804054+00:00",
+    "ts": "2026-07-12T10:58:51.292055+00:00",
     "items": []
   },
   "walmart|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-10T10:16:10.479564+00:00",
+    "ts": "2026-07-12T10:58:52.549653+00:00",
     "items": []
   },
   "sams|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-10T10:16:16.235033+00:00",
+    "ts": "2026-07-12T10:58:53.923714+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARMOTOEDGE": {
