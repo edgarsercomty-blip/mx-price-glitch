@@ -337,75 +337,27 @@
     "items": []
   },
   "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-10T18:46:56.886121+00:00",
+    "ts": "2026-07-12T19:08:54.942197+00:00",
     "items": []
   },
   "walmart|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-10T18:46:58.541647+00:00",
+    "ts": "2026-07-12T19:08:56.571079+00:00",
     "items": []
   },
   "sams|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-10T18:47:00.040650+00:00",
-    "items": []
-  },
-  "amazon|ARU122NFW": {
-    "ts": "2026-07-10T18:47:02.033059+00:00",
-    "items": []
-  },
-  "walmart|ARU122NFW": {
-    "ts": "2026-07-10T18:47:03.464561+00:00",
-    "items": []
-  },
-  "sams|ARU122NFW": {
-    "ts": "2026-07-10T18:47:05.515830+00:00",
+    "ts": "2026-07-12T19:08:58.178834+00:00",
     "items": []
   },
   "amazon|WA25DG5505AVAX": {
-    "ts": "2026-07-10T18:47:06.658890+00:00",
+    "ts": "2026-07-12T19:08:59.500439+00:00",
     "items": []
   },
   "walmart|WA25DG5505AVAX": {
-    "ts": "2026-07-10T18:47:07.954073+00:00",
+    "ts": "2026-07-12T19:09:01.014340+00:00",
     "items": []
   },
   "sams|WA25DG5505AVAX": {
-    "ts": "2026-07-10T18:47:09.247840+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-07-10T18:47:10.331788+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-07-10T18:47:11.650243+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-07-10T18:47:13.272599+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARMOTOG15": {
-    "ts": "2026-07-10T18:47:14.365327+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARMOTOG15": {
-    "ts": "2026-07-10T18:47:15.653812+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARMOTOG15": {
-    "ts": "2026-07-10T18:47:17.453848+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-10T18:47:18.689302+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-10T18:47:20.007543+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYOSCURO": {
-    "ts": "2026-07-10T18:47:21.267356+00:00",
+    "ts": "2026-07-12T19:09:02.516705+00:00",
     "items": []
   },
   "palacio|75QNED92ASA": {
@@ -1729,5 +1681,229 @@
   "sams|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
     "ts": "2026-07-12T16:33:04.750459+00:00",
     "items": []
+  },
+  "liverpool|55QM64L": {
+    "ts": "2026-07-12T19:08:28.795582+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Samsung Oled De 83 Pulgadas 4K Qn83S90Haexzx Con Ai Escalado A 4K",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-oled-de-83-pulgadas-4k-qn83s90haexzx-con-ai-escalado-a-4k/1197292420",
+        "price": 69998.5,
+        "model": "Qn83S90Haexzx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Tcl Qd Mini Led De 55 Pulgadas 4K Uhd 55Qm64L Con Fire Os",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qd-mini-led-de-55-pulgadas-4k-uhd-55qm64l-con-fire-os/1197391541",
+        "price": 10298.75,
+        "model": "55Qm64L"
+      },
+      {
+        "store": "liverpool",
+        "name": "Microfono Shure Pga58 Qtr 1 Canal Negro",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/microfono-shure-pga58-qtr-1-canal-negro/1087702894",
+        "price": 1636.0,
+        "model": "Pga58"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Aoc Plasma De 32 Pulgadas Full Hd 32S5045 Con Roku Tv",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-aoc-plasma-de-32-pulgadas-full-hd-32s5045-con-roku-tv/1172818133",
+        "price": 2489.0,
+        "model": "32S5045"
+      }
+    ]
+  },
+  "mercadolibre|55QM64L": {
+    "ts": "2026-07-12T19:08:30.054263+00:00",
+    "items": []
+  },
+  "palacio|PANTA120EBLA": {
+    "ts": "2026-07-12T19:08:31.539497+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098316.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011872.html",
+        "price": 1610.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098323.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/desigual-pantalon-hombre-45252162.html",
+        "price": 1845.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011868.html",
+        "price": 1360.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/boggi-milano-pantalon-casual-hombre-45266147.html",
+        "price": 3534.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-44445101.html",
+        "price": 2069.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon Regular Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-regular-hombre-44453279.html",
+        "price": 1914.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pants para entrenamiento liso Hombre",
+        "url": "https://www.elpalaciodehierro.com/craft-pants-para-entrenamiento-liso-hombre-45446826.html",
+        "price": 1749.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-44534753.html",
+        "price": 1554.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
+        "price": 6500.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|PANTA120EBLA": {
+    "ts": "2026-07-12T19:08:33.188170+00:00",
+    "items": []
+  },
+  "walmart|PANTA120EBLA": {
+    "ts": "2026-07-12T19:08:34.645631+00:00",
+    "items": []
+  },
+  "sams|PANTA120EBLA": {
+    "ts": "2026-07-12T19:08:36.070406+00:00",
+    "items": []
+  },
+  "mercadolibre|PANTA120EBLA": {
+    "ts": "2026-07-12T19:08:37.343118+00:00",
+    "items": []
+  },
+  "liverpool|RC21N6FDX": {
+    "ts": "2026-07-12T19:08:38.038337+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Refrigerador French Door Hisense 21 Pies Cubicos Inverter No Frost Rc21N6Fdx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-hisense-21-pies-cubicos-inverter-no-frost-rc21n6fdx/1131583296",
+        "price": 25499.49,
+        "model": "Rc21N6Fdx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador French Door Hisense 20 Pies Cubicos Inverter Y No Frost Y Fabrica De Hielo Rc20N6Hbx1",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-hisense-20-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-rc20n6hbx1/1169161069",
+        "price": 43349.49,
+        "model": "Rc20N6Hbx1"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Top Mount Hisense 14 Pies Cubicos Rt14N6Cdx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-hisense-14-pies-cubicos-rt14n6cdx/1187895665",
+        "price": 11619.0,
+        "model": "Rt14N6Cdx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Duplex Hisense 22 Pies Cubicos Inverter Y No Frost Rs22N6Gcx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-hisense-22-pies-cubicos-inverter-y-no-frost-rs22n6gcx/1154113483",
+        "price": 18231.95,
+        "model": "Rs22N6Gcx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Unipuerta Hisense 7 Pies Cubicos Rr63D6Wrx1",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-unipuerta-hisense-7-pies-cubicos-rr63d6wrx1/1133537984",
+        "price": 6419.0,
+        "model": "Rr63D6Wrx1"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Unipuerta Hisense 7 Pies Cubicos Rr63D6Wbx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-unipuerta-hisense-7-pies-cubicos-rr63d6wbx/1094212215",
+        "price": 5855.95,
+        "model": "Rr63D6Wbx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Top Mount Hisense 19 Pies Cubicos No Frost Rt19N6Acx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-hisense-19-pies-cubicos-no-frost-rt19n6acx/1171368304",
+        "price": 12749.36,
+        "model": "Rt19N6Acx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Top Mount Hisense 9 Pies Cubicos No Frost Rt90N6Wkx2",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-hisense-9-pies-cubicos-no-frost-rt90n6wkx2/1148741880",
+        "price": 7844.95,
+        "model": "Rt90N6Wkx2"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Unipuerta Hisense 9 Pies Cubicos No Frost Cvc494N3Awx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-unipuerta-hisense-9-pies-cubicos-no-frost-cvc494n3awx/1154113491",
+        "price": 17849.41,
+        "model": "Cvc494N3Awx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Top Mount Hisense 7 Pies Cubicos Rr63D6Wwx",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-hisense-7-pies-cubicos-rr63d6wwx/1127540591",
+        "price": 6279.0,
+        "model": "Rr63D6Wwx"
+      },
+      {
+        "store": "liverpool",
+        "name": "Centro De Lavado Samsung Electrico 22 Kg Wh22Dbh570Ewax",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/centro-de-lavado-samsung-electrico-22-kg-wh22dbh570ewax/1170027147",
+        "price": 38691.32,
+        "model": "Wh22Dbh570Ewax"
+      }
+    ]
   }
 }
