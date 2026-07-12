@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-07-12 11:58 UTC
+# Errores/chollos de precio — 2026-07-12 13:14 UTC
 
-- Productos revisados: **1695**
+- Productos revisados: **1685**
 - Umbral de diferencia: **20%**
 - Hallazgos: **23**
 
@@ -15,10 +15,11 @@
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,887 | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
+| -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,772 | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | Confirmado vs competencia | $10,079 en palacio vs mercado -> -22% bajo la competencia |
 | -25% | $2,350 | liverpool | [Smartwatch Garmin Venu 3S Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627) | $7,049 | Confirmado vs competencia | $7,049 en liverpool vs mercado -> -25% bajo la competencia |
-| -25% | $2,350 | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $2,350 | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $2,350 | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $2,300 | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | Confirmado vs competencia | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $2,300 | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $9,199 | Confirmado vs competencia | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,900 | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | Confirmado vs competencia | $7,599 en palacio vs mercado -> -20% bajo la competencia |
@@ -28,4 +29,3 @@
 | -35% | $1,240 | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | Confirmado vs competencia | $2,259 en liverpool vs mercado -> -35% bajo la competencia |
 | -28% | $900 | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | Confirmado vs competencia | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
 | -33% | $872 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -33% bajo la competencia |
-| -20% | $720 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,879 | Confirmado vs competencia | $2,879 en palacio vs mercado -> -20% bajo la competencia |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12 11:58 UTC",
-  "products_scanned": 1695,
+  "generated_at": "2026-07-12 13:14 UTC",
+  "products_scanned": 1685,
   "threshold_pct": 20.0,
   "count": 23,
   "findings": [
@@ -200,6 +200,27 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
+      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401369",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
       "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
       "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
       "price": 7049.25,
@@ -217,21 +238,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2349.75,
+      "savings": 2874.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401369",
+        "id": "44965112",
         "outlet": false
       }
     },
@@ -442,27 +463,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674668",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 719.8,
-      "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2879.2,
-      "list_price": 3599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44840620",
         "outlet": false
       }
     },
