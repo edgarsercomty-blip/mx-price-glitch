@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12 02:55 UTC",
-  "products_scanned": 1787,
+  "generated_at": "2026-07-12 04:42 UTC",
+  "products_scanned": 1756,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45081397",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -316,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3174.75,
-      "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074177",
         "outlet": false
       }
     },

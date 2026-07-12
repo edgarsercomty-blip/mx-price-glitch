@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-12 02:55 UTC
+# Errores/chollos de precio — 2026-07-12 04:42 UTC
 
-- Productos revisados: **1787**
+- Productos revisados: **1756**
 - Umbral de diferencia: **20%**
-- Hallazgos: **26**
+- Hallazgos: **24**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -16,8 +16,6 @@
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $4,335 | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | Confirmado vs competencia | $13,565 en palacio vs mercado -> -24% bajo la competencia |
 | -49% | $3,344 | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | Confirmado vs competencia | $3,449 en liverpool vs mercado -> -49% bajo la competencia |
-| -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
-| -30% | $3,079 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | Confirmado vs competencia | $7,220 en palacio vs mercado -> -30% bajo la competencia |
 | -22% | $2,887 | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,772 | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | Confirmado vs competencia | $10,079 en palacio vs mercado -> -22% bajo la competencia |
