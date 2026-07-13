@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13 13:40 UTC",
-  "products_scanned": 1739,
+  "generated_at": "2026-07-13 16:09 UTC",
+  "products_scanned": 1790,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -405,23 +405,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 37.2,
+      "detail": "$2,199 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1329.8,
-      "store": "palacio",
-      "name": "Monitor Forerunner 265S Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html",
-      "price": 5319.2,
-      "list_price": 6649.0,
+      "savings": 600.0,
+      "store": "liverpool",
+      "name": "Smartwatch Huawei Fit 3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191",
+      "price": 2199.0,
+      "list_price": 3499.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "HUAWEI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43074174",
-        "outlet": false
+        "productId": "1155144191",
+        "marketplace": null
       }
     },
     {
@@ -442,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44110954",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1329.8,
+      "store": "palacio",
+      "name": "Monitor Forerunner 265S Music para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html",
+      "price": 5319.2,
+      "list_price": 6649.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074174",
         "outlet": false
       }
     },
@@ -495,7 +516,7 @@
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -504,7 +525,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110957",
+        "id": "44110956",
         "outlet": false
       }
     },
@@ -516,7 +537,7 @@
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -525,7 +546,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110956",
+        "id": "44110957",
         "outlet": false
       }
     }
