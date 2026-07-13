@@ -89,8 +89,8 @@ stores:
 
   coppel:
     name: Coppel
-    type: coppel               # Next.js vía Bright Data Web Unlocker (WAF)
-    enabled: false              # 0 productos en TODAS las corridas: Bright Data trae ~274KB idénticos por término (probable challenge/WAF), no resultados reales. Deshabilitado hasta diagnosticar (ver probe-serp target=coppel).
+    type: coppel               # GraphQL persisted query + token anónimo, vía Bright Data (flujo capturado con navegador 2026-07-12)
+    enabled: false              # LISTO PARA PROBAR: correr probe-serp target=coppel cuando Bright Data vuelva (zona caída desde 06-jul, devuelve 0 bytes); si el probe pasa, poner true.
     max_products_per_term: 40
     search_terms:              # foco en línea blanca y electrónica (categorías con más glitches)
       - refrigerador

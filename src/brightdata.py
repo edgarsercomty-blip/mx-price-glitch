@@ -34,15 +34,18 @@ def _dry_run() -> bool:
 def fetch(url: str, *, country: str = "mx", timeout: int = 60,
           retries: int = 3, expect: str | None = None,
           unblock_headers: dict[str, str] | None = None,
-          zone: str | None = None) -> str:
+          zone: str | None = None, method: str = "GET",
+          body: str | None = None) -> str:
     """Descarga `url` a través de Bright Data y devuelve el cuerpo como texto.
 
     `country`         geolocalización del request (mx => precios/stock de México).
     `expect`          CSS selector/texto a esperar antes de devolver la página
                       (x-unblock-expect): evita HTML parcial en páginas que
                       pintan precios por JS.
-    `unblock_headers` cabeceras x-unblock-* extra (p. ej. x-unblock-zipcode para
-                      precios regionales de Amazon).
+    `unblock_headers` cabeceras extra que se reenvían al sitio destino
+                      (x-unblock-* o normales, p. ej. Authorization para APIs).
+    `method`/`body`   verbo y cuerpo del request al sitio destino (p. ej. el
+                      POST /auth/access-token de Coppel).
     Reintenta con backoff ante errores transitorios (429/5xx/timeouts).
     """
     if _dry_run():
@@ -69,6 +72,10 @@ def fetch(url: str, *, country: str = "mx", timeout: int = 60,
         "format": "raw",
         "country": country,
     }
+    if method != "GET":
+        payload["method"] = method
+    if body is not None:
+        payload["body"] = body
     if unblock:
         payload["headers"] = unblock
 
