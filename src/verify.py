@@ -16,6 +16,7 @@ import unicodedata
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
+from . import category
 from .adapters.base import StoreAdapter
 from .detect import Finding, is_price_typo, is_refurbished
 from .models import Product
@@ -35,6 +36,16 @@ _STOP = set((
 OUTLIER_FRAC = 0.15
 # un descuento cruzado por encima de esto es casi siempre error de dato/mismatch
 CROSS_MAX_PCT = 85.0
+
+# Categorías con muchas variantes (talla/correa/color/capacidad) donde el solape
+# de tokens del título confunde variantes con precios muy distintos (Garmin
+# Forerunner/Venu, licuadoras Ninja, audífonos): aquí se exige coincidencia por
+# CÓDIGO de modelo; el respaldo marca+tokens queda deshabilitado.
+_STRICT_CATS = {"smartwatch", "audio-audifonos", "licuadora"}
+
+
+def _needs_model(p: Product) -> bool:
+    return category.detect(p.name) in _STRICT_CATS
 
 
 def _norm(s: str | None) -> str:
@@ -80,6 +91,8 @@ def same_product(cand: Product, other: Product, min_overlap: float = 0.55) -> bo
         return True
     if other.model and models_match(other.model, cand.model, cand.name):
         return True
+    if _needs_model(cand):
+        return False
     if (cand.brand and other.brand
             and _norm(cand.brand) == _norm(other.brand)
             and _overlap(cand.name, other.name) >= min_overlap):
@@ -162,12 +175,13 @@ def guard_costly(findings: list[Finding], guard_adapters: dict[str, StoreAdapter
                         and same_product(p, op)):
                     rivals.append(op)
 
-        # #2: si la ÚNICA evidencia es un solo comparable de GOOGLE (poco
-        # confiable) y ninguna tienda costosa corrobora -> descartar (caso #8,
-        # un listado raro infla el descuento). Un comparable de TIENDA real sí
-        # se confía aunque sea único (no mata deals legítimos como la bici).
-        if f.n_comparables <= 1 and f.store_comparables == 0 and not rivals:
-            print(f"   [guard] descartado (1 comparable Google sin corroborar): {p.name[:40]}")
+        # #2: si TODA la evidencia viene de Google Shopping (listados de
+        # revendedores/variantes con precio inflado: 5 de 6 issues con 👎 en la
+        # semana del 2026-07-12 eran "vs mercado" solo-Google) y ninguna tienda
+        # costosa corrobora -> descartar. Se exige al menos un comparable de
+        # TIENDA real (pool/histórico propio) o un rival directo de la guardia.
+        if f.store_comparables == 0 and not rivals:
+            print(f"   [guard] descartado (solo Google, sin tienda real): {p.name[:40]}")
             continue
 
         # #1: junta TODAS las ofertas conocidas y recalcula contra el competidor
@@ -249,7 +263,7 @@ class _Pool:
                 if p.store != cand.store and id(p) not in seen:
                     seen.add(id(p)); out.append(p)
         cbn = _norm(cand.brand)
-        if cbn:
+        if cbn and not _needs_model(cand):
             ctok = _tokens(cand.name)
             if ctok:
                 for p in self.by_brand.get(cbn, []):

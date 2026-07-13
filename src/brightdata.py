@@ -83,7 +83,15 @@ def fetch(url: str, *, country: str = "mx", timeout: int = 60,
             r = requests.post(API_URL, headers=headers,
                               data=json.dumps(payload), timeout=timeout)
             if r.status_code == 200:
-                return r.text
+                if not r.text:
+                    # 200 con cuerpo vacío: así se manifiesta la zona
+                    # suspendida/sin crédito (pasó del 06 al 12 jul 2026 y los
+                    # adaptadores lo tragaban como "sin HTML" sin avisar)
+                    last_err = FetchError(
+                        f"cuerpo vacío (0 bytes) en {url} — "
+                        "¿zona Bright Data suspendida o sin crédito?")
+                else:
+                    return r.text
             if r.status_code in (429, 500, 502, 503, 504):
                 last_err = FetchError(f"HTTP {r.status_code} en {url}")
             else:

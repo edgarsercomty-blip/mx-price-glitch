@@ -32,7 +32,10 @@ _RULES: list[tuple[str, list[str]]] = [
     ("herramienta",  [r"\btaladro\b", r"sierra circular", r"compresor", r"multiherramienta",
                       r"rotomartillo", r"llave de impacto"]),
     ("bicicleta",    [r"bicicleta", r"\bscooter\b", r"patineta"]),
-    ("smartwatch",   [r"smartwatch", r"reloj inteligente"]),
+    ("smartwatch",   [r"smartwatch", r"reloj inteligente", r"monitor deportivo",
+                      r"\bforerunner\b", r"\bvenu\b", r"\bvivoactive\b",
+                      r"\bfenix\b", r"\binstinct\b", r"galaxy watch",
+                      r"\bamazfit\b"]),
     ("licuadora",    [r"licuadora", r"\bblender\b"]),
 ]
 

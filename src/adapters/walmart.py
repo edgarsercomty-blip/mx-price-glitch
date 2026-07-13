@@ -98,7 +98,14 @@ class WalmartAdapter(StoreAdapter):
             html = self._fetch_search(term)
             if not html:
                 continue
-            for raw in self._products_in(html)[: self.max_per_term]:
+            raws = self._products_in(html)
+            if not raws:
+                # cuerpo 200 pero sin productos = challenge/WAF o cambio de
+                # estructura; el tamaño ayuda a distinguir (challenge ~igual
+                # en todos los términos, como pasó con Coppel)
+                print(f"[{self.key}] aviso: '{term}' devolvió {len(html)} bytes "
+                      f"sin productos (¿challenge/WAF o cambió __NEXT_DATA__?)")
+            for raw in raws[: self.max_per_term]:
                 uid = raw.get("usItemId") or raw.get("canonicalUrl")
                 if uid and uid in seen:
                     continue

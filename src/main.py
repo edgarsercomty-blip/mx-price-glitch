@@ -178,6 +178,14 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
                 print(f"   [{key}] error: {e}")
                 got = []
             print(f"-> {adapter.name} ({adapter.quality}): {len(got)} productos")
+            if not got and adapter.quality == "solid":
+                # anotación visible en el resumen de Actions: una tienda "solid"
+                # en 0 casi siempre es Bright Data bloqueado o el adaptador roto
+                # (pasó del 06 al 12 jul con amazon/walmart/sams sin notarse:
+                # las corridas seguían en verde).
+                print(f"::warning title={adapter.name} en 0 productos::"
+                      f"revisar Bright Data o el adaptador "
+                      f"(gh workflow run probe-serp.yml -f target={key})")
             return got
 
         max_workers = min(len(adapters), int(cfg.get("scan_workers", 6))) or 1

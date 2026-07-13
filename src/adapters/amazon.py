@@ -94,7 +94,13 @@ class AmazonAdapter(StoreAdapter):
             html = self._fetch(url)
             if not html:
                 continue
-            for p in self._parse_search(html)[: self.max_per_term]:
+            parsed = self._parse_search(html)
+            if not parsed:
+                # cuerpo 200 pero sin productos = captcha/challenge o cambio
+                # de estructura del listado (mismo síntoma que Coppel)
+                print(f"[{self.key}] aviso: {url} devolvió {len(html)} bytes "
+                      f"sin productos (¿challenge o cambió el HTML?)")
+            for p in parsed[: self.max_per_term]:
                 asin = (p.extra or {}).get("asin")
                 if asin and asin in seen:
                     continue
