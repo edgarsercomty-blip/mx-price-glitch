@@ -1,26 +1,26 @@
 {
   "amazon|SS151": {
-    "ts": "2026-07-11T02:47:29.841134+00:00",
+    "ts": "2026-07-13T02:57:30.283766+00:00",
     "items": []
   },
   "walmart|SS151": {
-    "ts": "2026-07-11T02:47:31.256287+00:00",
+    "ts": "2026-07-13T02:57:31.960079+00:00",
     "items": []
   },
   "sams|SS151": {
-    "ts": "2026-07-11T02:47:32.825598+00:00",
+    "ts": "2026-07-13T02:57:33.651277+00:00",
     "items": []
   },
   "amazon|WD26FB8690BEAX": {
-    "ts": "2026-07-11T02:47:34.120598+00:00",
+    "ts": "2026-07-13T02:57:34.890870+00:00",
     "items": []
   },
   "walmart|WD26FB8690BEAX": {
-    "ts": "2026-07-11T02:47:35.645356+00:00",
+    "ts": "2026-07-13T02:57:36.397658+00:00",
     "items": []
   },
   "sams|WD26FB8690BEAX": {
-    "ts": "2026-07-11T02:47:37.144354+00:00",
+    "ts": "2026-07-13T02:57:38.967312+00:00",
     "items": []
   },
   "amazon|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
@@ -240,7 +240,7 @@
     "items": []
   },
   "palacio|WM20EWNTS6P": {
-    "ts": "2026-07-11T02:47:03.955498+00:00",
+    "ts": "2026-07-13T02:57:01.423100+00:00",
     "items": [
       {
         "store": "palacio",
@@ -258,38 +258,10 @@
       },
       {
         "store": "palacio",
-        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
-        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
-        "price": 34199.55,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
-        "price": 13419.39,
-        "model": "LT57BPSX"
-      },
-      {
-        "store": "palacio",
         "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
         "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
         "price": 27792.74,
         "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 24 p3 Smart Inverter GT24BS Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-24-p3-smart-inverter-gt24bs-plata-43815234.html",
-        "price": 15749.37,
-        "model": "GT24BS"
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
       },
       {
         "store": "palacio",
@@ -300,6 +272,13 @@
       },
       {
         "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 13419.39,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
         "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
         "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
         "price": 13419.39,
@@ -307,10 +286,24 @@
       },
       {
         "store": "palacio",
-        "name": "Frigobar 5 p3 WUC2205B, negro",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
-        "price": 6719.3,
-        "model": "WUC2205B"
+        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
+        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
+        "price": 40479.54,
+        "model": "WM25BFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
+        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
+        "price": 34199.55,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 24 p3 Smart Inverter GT24BS Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-24-p3-smart-inverter-gt24bs-plata-43815234.html",
+        "price": 15749.37,
+        "model": "GT24BS"
       },
       {
         "store": "palacio",
@@ -318,6 +311,13 @@
         "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
         "price": 18129.51,
         "model": "WM1AM2"
+      },
+      {
+        "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
       },
       {
         "store": "palacio",
@@ -329,19 +329,19 @@
     ]
   },
   "amazon|WM20EWNTS6P": {
-    "ts": "2026-07-11T02:47:05.212009+00:00",
+    "ts": "2026-07-13T02:57:02.802017+00:00",
     "items": []
   },
   "walmart|WM20EWNTS6P": {
-    "ts": "2026-07-11T02:47:06.751050+00:00",
+    "ts": "2026-07-13T02:57:04.416767+00:00",
     "items": []
   },
   "sams|WM20EWNTS6P": {
-    "ts": "2026-07-11T02:47:08.284012+00:00",
+    "ts": "2026-07-13T02:57:05.978775+00:00",
     "items": []
   },
   "mercadolibre|WM20EWNTS6P": {
-    "ts": "2026-07-11T02:47:09.559022+00:00",
+    "ts": "2026-07-13T02:57:07.221374+00:00",
     "items": []
   },
   "palacio|BCM35R": {
@@ -1401,6 +1401,244 @@
   },
   "sams|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
     "ts": "2026-07-12T20:36:29.419447+00:00",
+    "items": []
+  },
+  "palacio|98Q7K": {
+    "ts": "2026-07-13T02:56:48.106729+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Fire TV 98QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
+        "price": 37799.37,
+        "model": "98QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
+        "price": 49599.69,
+        "model": "QNED86"
+      },
+      {
+        "store": "palacio",
+        "name": "Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX 4060 Intel Core i5, 8 GB RAM, 512 GB SSD",
+        "url": "https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html",
+        "price": 27999.0,
+        "model": "G16CHR"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-Mini LED 98QM6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-mini-led-98qm6k-44576133.html",
+        "price": 38464.51,
+        "model": "98QM6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
+        "price": 42839.37,
+        "model": "100Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QLED 4K QN98Q80CAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-qled-4k-qn98q80cafxzx-43280837.html",
+        "price": 157141.0,
+        "model": "QN98Q80CAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 47141.82,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana QLED 4K 100QD6SFM",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-qled-4k-100qd6sfm-45464467.html",
+        "price": 37799.37,
+        "model": "100QD6SFM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+        "price": 121427.0,
+        "model": "QN85QN85DBFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 48411.51,
+        "model": "98Qm7K"
+      }
+    ]
+  },
+  "amazon|98Q7K": {
+    "ts": "2026-07-13T02:56:49.624518+00:00",
+    "items": []
+  },
+  "walmart|98Q7K": {
+    "ts": "2026-07-13T02:56:51.189672+00:00",
+    "items": []
+  },
+  "sams|98Q7K": {
+    "ts": "2026-07-13T02:56:52.668996+00:00",
+    "items": []
+  },
+  "mercadolibre|98Q7K": {
+    "ts": "2026-07-13T02:56:53.900360+00:00",
+    "items": []
+  },
+  "liverpool|9QUOT": {
+    "ts": "2026-07-13T02:56:55.051211+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Pm Para Hombre",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-para-hombre/1195102259",
+        "price": 1201.72,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Pm Unisex",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-unisex/1111408170",
+        "price": 639.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Pm Para Hombre",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-para-hombre/1167945321",
+        "price": 1113.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Am Dive Unisex",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-am-dive-unisex/1140415614",
+        "price": 849.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Pm For Men Para Hombre",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-for-men-para-hombre/1146460263",
+        "price": 959.99,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Set Eau De Parfum Afnan 9 Pm Para Hombre",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/set-eau-de-parfum-afnan-9-pm-para-hombre/1167931908",
+        "price": 3543.99,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Malla",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/malla/1196055817",
+        "price": 367.2,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Eau De Parfum Afnan 9 Pm Para Mujer",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/eau-de-parfum-afnan-9-pm-para-mujer/1145437632",
+        "price": 649.54,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Conjunto Deportivo Regular Adidas Con Elastico Para Hombre",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/conjunto-deportivo-regular-adidas-con-elastico-para-hombre/1186338391",
+        "price": 779.4,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Set Alimentacion Mon Caramel De Plastico 9 Piezas",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/set-alimentacion-mon-caramel-de-plastico-9-piezas/1190223899",
+        "price": 783.2,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Zapatera Armable Mueble Eke Life Home Para 9 Pares De Zapatos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/zapatera-armable-mueble-eke-life-home-para-9-pares-de-zapatos/1190539837",
+        "price": 1699.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Argolla De Oro 18 K Salvini",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/argolla-de-oro-18-k-salvini/1099439678",
+        "price": 4999.5,
+        "model": null
+      }
+    ]
+  },
+  "amazon|9QUOT": {
+    "ts": "2026-07-13T02:56:56.301156+00:00",
+    "items": []
+  },
+  "walmart|9QUOT": {
+    "ts": "2026-07-13T02:56:57.891803+00:00",
+    "items": []
+  },
+  "sams|9QUOT": {
+    "ts": "2026-07-13T02:56:59.951915+00:00",
+    "items": []
+  },
+  "mercadolibre|9QUOT": {
+    "ts": "2026-07-13T02:57:01.212506+00:00",
+    "items": []
+  },
+  "liverpool|UA8050": {
+    "ts": "2026-07-13T02:57:08.019048+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Crystal Uhd De 55 Pulgadas 4K 55Ua8050Psa Con Ai Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-crystal-uhd-de-55-pulgadas-4k-55ua8050psa-con-ai-webos/1178738751",
+        "price": 10739.0,
+        "model": "55Ua8050Psa"
+      }
+    ]
+  },
+  "amazon|UA8050": {
+    "ts": "2026-07-13T02:57:09.298428+00:00",
+    "items": []
+  },
+  "walmart|UA8050": {
+    "ts": "2026-07-13T02:57:10.841438+00:00",
+    "items": []
+  },
+  "sams|UA8050": {
+    "ts": "2026-07-13T02:57:12.356351+00:00",
+    "items": []
+  },
+  "mercadolibre|UA8050": {
+    "ts": "2026-07-13T02:57:13.719981+00:00",
     "items": []
   }
 }

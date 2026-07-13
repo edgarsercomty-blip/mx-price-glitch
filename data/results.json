@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13 01:10 UTC",
-  "products_scanned": 1753,
+  "generated_at": "2026-07-13 02:57 UTC",
+  "products_scanned": 1731,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,27 +27,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.5,
-      "detail": "$2,259 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1240.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Bn701 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718",
-      "price": 2259.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": "Bn701",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125550718",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$1,745 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -64,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45081397",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -400,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172678820",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.5,
+      "detail": "$2,259 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 620.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Bn701 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718",
+      "price": 2259.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "Bn701",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125550718",
         "marketplace": null
       }
     },
