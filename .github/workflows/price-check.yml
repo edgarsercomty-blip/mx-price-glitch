@@ -2,7 +2,7 @@ name: Cazador de errores de precio MX
 
 on:
   schedule:
-    - cron: "0 */6 * * *"      # cada 6 horas (holgado dentro de los minutos gratis de Actions en repo privado)
+    - cron: "0 1,15 * * *"     # 2x/día (9am y 7pm CDMX): las tiendas Bright Data consumen ~45 créditos/corrida y el free tier da ~166/día
   workflow_dispatch: {}        # también se puede correr a mano (Run workflow)
 
 permissions:

@@ -144,7 +144,7 @@ def load_fixture_products() -> list[Product]:
 
 
 def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
-        net_fallback: int | None = None) -> int:
+        net_fallback: int | None = None, google_max: int | None = None) -> int:
     cfg = load_config()
     threshold = threshold if threshold is not None else cfg.get(
         "threshold_pct", detect.DEFAULT_THRESHOLD)
@@ -218,7 +218,12 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
               f"contra otras tiendas...")
 
         google = None
-        if gcfg.get("enabled"):
+        if google_max == 0:
+            # --google-max 0: sin SERP en esta corrida (el carril rápido corre
+            # 96x/día; con Google activo ahí se quemaba el free tier de Bright
+            # Data en ~5 días). La guardia ya exige tienda real de todos modos.
+            pass
+        elif gcfg.get("enabled"):
             from .gshop import GoogleShopping
             google = GoogleShopping(
                 ROOT / "data" / "gshop_cache.json",
@@ -240,7 +245,8 @@ def run(stores_filter: set[str] | None, threshold: float, dry_run: bool,
         mature = pricehist.n_series >= int(cfg.get("history_mature_series", 3000))
         eff_net = (net_fallback if net_fallback is not None
                    else int(cfg.get("net_fallback", 40)))
-        eff_google = int(gcfg.get("max_lookups", 15))
+        eff_google = (google_max if google_max is not None
+                      else int(gcfg.get("max_lookups", 15)))
         if mature:
             eff_net = min(eff_net, int(cfg.get("net_fallback_mature", 15)))
             eff_google = min(eff_google, int(gcfg.get("max_lookups_mature", 15)))
@@ -352,10 +358,13 @@ def main() -> None:
                     help="umbral de descuento en %% (default: stores.yaml)")
     ap.add_argument("--net-fallback", type=int, default=None,
                     help="máx. candidatos con lookup de red (0 = solo pool+Google; carril rápido)")
+    ap.add_argument("--google-max", type=int, default=None,
+                    help="máx. consultas SERP de Google Shopping (0 = sin Google; carril rápido)")
     args = ap.parse_args()
 
     stores_filter = {s.strip() for s in args.stores.split(",") if s.strip()} or None
-    run(stores_filter, args.threshold, args.dry_run, net_fallback=args.net_fallback)
+    run(stores_filter, args.threshold, args.dry_run,
+        net_fallback=args.net_fallback, google_max=args.google_max)
 
 
 if __name__ == "__main__":

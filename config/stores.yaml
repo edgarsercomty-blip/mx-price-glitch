@@ -33,8 +33,8 @@ scan_workers: 6            # tiendas escaneadas en paralelo (cada una es red ind
 google_shopping:
   enabled: true
   min_pct: 30              # árbitro amplio: consulta Google para casi todos los candidatos con modelo
-  max_lookups: 40          # tope de consultas de RED por corrida (caché no cuenta)
-  max_lookups_mature: 15   # tope cuando el histórico propio ya está maduro (menos gasto)
+  max_lookups: 10          # tope de consultas de RED por corrida (free tier: solo carril completo 2x/día)
+  max_lookups_mature: 8    # tope cuando el histórico propio ya está maduro (menos gasto)
   cache_ttl_hours: 48      # vigencia del precio cacheado por modelo
 
 stores:
@@ -127,85 +127,65 @@ stores:
     type: amazon               # vía Bright Data; solo reporta vendido/enviado por Amazon
     enabled: true
     scan_mode: both            # deals (barrido general) + términos de alto ticket
-    deals_pages: 8             # páginas del filtro de ofertas (~48 productos c/u)
+    deals_pages: 4             # páginas del filtro de ofertas (~48 c/u; free tier: 1 crédito/página)
     max_products_per_term: 60
-    search_terms:              # se usan en scan_mode: both/search (alto ticket, verificable con Keepa)
+    search_terms:              # alto ticket (recortado para el free tier de Bright Data)
       - audifonos sony
       - audifonos bose
-      - tablet
       - ipad
       - macbook
       - consola nintendo
       - playstation
-      - camara fotografica
-      - proyector
   walmart:
     name: Walmart MX
     type: walmart              # __NEXT_DATA__ vía Bright Data (bloquea directo)
     enabled: true
     max_products_per_term: 60
-    search_terms:               # "ofertas/liquidacion" como feed + línea blanca/electrónica
+    search_terms:               # recortado al top que produce hallazgos (free tier: 1 crédito/término)
       - ofertas
       - liquidacion
       - pantalla
       - laptop
       - celular
-      - smartwatch
       - refrigerador
       - lavadora
-      - lavasecadora
       - congelador
       - estufa
-      - secadora
-      - minisplit
       - licuadora
-      - cafetera
-      - bicicleta
       - iphone
-      - ipad
-      - macbook
       - airpods
-      - apple watch
   sams:
     name: Sam's Club MX
     type: sams                 # mismo platform que Walmart (vía Bright Data)
     enabled: true
     max_products_per_term: 60
-    search_terms:
+    search_terms:               # recortado para el free tier
       - ofertas
       - pantalla
       - laptop
       - refrigerador
       - lavadora
-      - lavasecadora
       - congelador
-      - minisplit
       - licuadora
-      - cafetera
-      - bicicleta
       - celular
       - iphone
-      - ipad
-      - macbook
       - airpods
   mercadolibre:
     name: Mercado Libre MX
     type: mercadolibre         # HTML de listado vía Bright Data (API pública requiere auth)
     enabled: true
     max_products_per_term: 50
-    search_terms:              # alto volumen + categorías con errores frecuentes
+    search_terms:              # alto volumen (recortado para el free tier)
       - refrigerador
       - lavadora
-      - lavasecadora
       - pantalla
       - laptop
       - celular
       - iphone
-      - ipad
       - audifonos
       - consola
       - licuadora
-      - bicicleta
+      - congelador
 
   suburbia:
     name: Suburbia
