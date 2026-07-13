@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-13 11:31 UTC",
-  "products_scanned": 1757,
+  "generated_at": "2026-07-13 13:40 UTC",
+  "products_scanned": 1739,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 25,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$29,999 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 25200.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd Color Plata",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081",
-      "price": 29999.0,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196143081",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -44,27 +23,6 @@
       "extra": {
         "id": "44842808",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8400.24,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
-      "price": 13999.2,
-      "list_price": 24999.0,
-      "ean": null,
-      "model": "75Qned73Asc",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1192293321",
-        "marketplace": null
       }
     },
     {
@@ -326,27 +284,6 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401369",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
       "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
       "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
       "price": 7049.25,
@@ -568,6 +505,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110956",
         "outlet": false
       }
     }
