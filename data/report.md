@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-13 18:10 UTC
+# Errores/chollos de precio — 2026-07-13 19:50 UTC
 
-- Productos revisados: **1769**
+- Productos revisados: **1725**
 - Umbral de diferencia: **20%**
-- Hallazgos: **27**
+- Hallazgos: **26**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -31,5 +31,4 @@
 | -33% | $872 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -33% bajo la competencia |
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $620 | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,259 | Confirmado vs competencia | $2,259 en liverpool vs mercado -> -22% bajo la competencia |
-| -21% | $600 | liverpool | [Smartwatch Huawei Fit 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -21% bajo la competencia |
 | -25% | $120 | liverpool | [Tijeras Para Aves Poultry](https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012) | $356 | Confirmado vs competencia | $356 en liverpool vs mercado -> -25% bajo la competencia |
