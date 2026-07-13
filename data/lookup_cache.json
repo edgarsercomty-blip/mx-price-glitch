@@ -1640,5 +1640,17 @@
   "mercadolibre|UA8050": {
     "ts": "2026-07-13T02:57:13.719981+00:00",
     "items": []
+  },
+  "amazon|HUAWEISMARTWATCHHUAWEIFITGPS": {
+    "ts": "2026-07-13T04:48:44.891830+00:00",
+    "items": []
+  },
+  "walmart|HUAWEISMARTWATCHHUAWEIFITGPS": {
+    "ts": "2026-07-13T04:48:46.547170+00:00",
+    "items": []
+  },
+  "sams|HUAWEISMARTWATCHHUAWEIFITGPS": {
+    "ts": "2026-07-13T04:48:48.562365+00:00",
+    "items": []
   }
 }

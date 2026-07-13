@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13 02:57 UTC",
-  "products_scanned": 1731,
+  "generated_at": "2026-07-13 04:48 UTC",
+  "products_scanned": 1762,
   "threshold_pct": 20.0,
   "count": 25,
   "findings": [
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45081397",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
@@ -421,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1125550718",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.2,
+      "detail": "$2,199 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 600.0,
+      "store": "liverpool",
+      "name": "Smartwatch Huawei Fit 3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191",
+      "price": 2199.0,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "HUAWEI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1155144191",
         "marketplace": null
       }
     },
