@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-13 08:10 UTC",
-  "products_scanned": 1748,
+  "generated_at": "2026-07-13 11:31 UTC",
+  "products_scanned": 1757,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 27,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$29,999 en liverpool vs mercado -> -46% bajo la competencia",
+      "likely_typo": false,
+      "savings": 25200.0,
+      "store": "liverpool",
+      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd Color Plata",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081",
+      "price": 29999.0,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196143081",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -23,6 +44,27 @@
       "extra": {
         "id": "44842808",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8400.24,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "75Qned73Asc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -149,6 +191,27 @@
       "extra": {
         "id": "44585698",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$356 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 120.0,
+      "store": "liverpool",
+      "name": "Tijeras Para Aves Poultry",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012",
+      "price": 356.0,
+      "list_price": 445.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1064265012",
+        "marketplace": null
       }
     },
     {
@@ -405,27 +468,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.2,
-      "detail": "$2,199 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 600.0,
-      "store": "liverpool",
-      "name": "Smartwatch Huawei Fit 3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191",
-      "price": 2199.0,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "HUAWEI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1155144191",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -505,27 +547,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor Venu X1 French Gray para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45245377",
         "outlet": false
       }
     },
