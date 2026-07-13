@@ -344,18 +344,6 @@
     "ts": "2026-07-13T16:09:34.611955+00:00",
     "items": []
   },
-  "amazon|SAMSUNGSMARTWATCHSAMSUNGGALAXYWATCH": {
-    "ts": "2026-07-11T16:44:22.631041+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGSMARTWATCHSAMSUNGGALAXYWATCH": {
-    "ts": "2026-07-11T16:44:24.008957+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGSMARTWATCHSAMSUNGGALAXYWATCH": {
-    "ts": "2026-07-11T16:44:25.447119+00:00",
-    "items": []
-  },
   "liverpool|QN83S90DAEXZX": {
     "ts": "2026-07-11T19:06:23.642199+00:00",
     "items": []
@@ -1305,6 +1293,347 @@
   },
   "sams|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
     "ts": "2026-07-13T16:09:38.424889+00:00",
+    "items": []
+  },
+  "palacio|PANTA100MBLA": {
+    "ts": "2026-07-13T17:10:07.825206+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/octavia-pantalon-mujer-45442324.html",
+        "price": 1290.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/octavia-pantalon-mujer-45412957.html",
+        "price": 1390.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45295744.html",
+        "price": 1245.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Mujer",
+        "url": "https://www.elpalaciodehierro.com/brownie-pantalon-casual-mujer-45541708.html",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon Mujer",
+        "url": "https://www.elpalaciodehierro.com/hobbs-pantalon-mujer-44620173.html",
+        "price": 1680.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/brownie-pantalon-mujer-45146754.html",
+        "price": 949.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/simorra-pantalon-mujer-45196755.html",
+        "price": 3353.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/charme-pantalon-mujer-45319141.html",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Mujer",
+        "url": "https://www.elpalaciodehierro.com/charme-pantalon-mujer-45175433.html",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
+        "price": 6500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón 126Pigul Mujer",
+        "url": "https://www.elpalaciodehierro.com/maje-pantalon-126pigul-mujer-45589384.html",
+        "price": 7690.0,
+        "model": "126Pigul"
+      }
+    ]
+  },
+  "amazon|PANTA100MBLA": {
+    "ts": "2026-07-13T17:10:10.138217+00:00",
+    "items": []
+  },
+  "walmart|PANTA100MBLA": {
+    "ts": "2026-07-13T17:10:11.693279+00:00",
+    "items": []
+  },
+  "sams|PANTA100MBLA": {
+    "ts": "2026-07-13T17:10:14.241171+00:00",
+    "items": []
+  },
+  "mercadolibre|PANTA100MBLA": {
+    "ts": "2026-07-13T17:10:15.475495+00:00",
+    "items": []
+  },
+  "liverpool|QN65QN800DFXZX": {
+    "ts": "2026-07-13T17:10:17.962358+00:00",
+    "items": []
+  },
+  "amazon|QN65QN800DFXZX": {
+    "ts": "2026-07-13T17:10:19.231809+00:00",
+    "items": []
+  },
+  "walmart|QN65QN800DFXZX": {
+    "ts": "2026-07-13T17:10:20.640965+00:00",
+    "items": []
+  },
+  "sams|QN65QN800DFXZX": {
+    "ts": "2026-07-13T17:10:22.465477+00:00",
+    "items": []
+  },
+  "mercadolibre|QN65QN800DFXZX": {
+    "ts": "2026-07-13T17:10:23.822940+00:00",
+    "items": []
+  },
+  "liverpool|43UR7800PSB": {
+    "ts": "2026-07-13T17:10:28.478947+00:00",
+    "items": []
+  },
+  "amazon|43UR7800PSB": {
+    "ts": "2026-07-13T17:10:29.766947+00:00",
+    "items": []
+  },
+  "walmart|43UR7800PSB": {
+    "ts": "2026-07-13T17:10:31.784881+00:00",
+    "items": []
+  },
+  "sams|43UR7800PSB": {
+    "ts": "2026-07-13T17:10:34.065432+00:00",
+    "items": []
+  },
+  "mercadolibre|43UR7800PSB": {
+    "ts": "2026-07-13T17:10:35.181352+00:00",
+    "items": []
+  },
+  "liverpool|43NANO80TSA": {
+    "ts": "2026-07-13T17:10:37.746215+00:00",
+    "items": []
+  },
+  "amazon|43NANO80TSA": {
+    "ts": "2026-07-13T17:10:38.907992+00:00",
+    "items": []
+  },
+  "walmart|43NANO80TSA": {
+    "ts": "2026-07-13T17:10:40.426233+00:00",
+    "items": []
+  },
+  "sams|43NANO80TSA": {
+    "ts": "2026-07-13T17:10:42.141768+00:00",
+    "items": []
+  },
+  "mercadolibre|43NANO80TSA": {
+    "ts": "2026-07-13T17:10:43.895357+00:00",
+    "items": []
+  },
+  "liverpool|RB33A3070AP": {
+    "ts": "2026-07-13T17:10:49.436368+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Refrigerador Bottom Mount Samsung 12 Pies Cubicos Inverter Y No Frost Rb33A307012 Em",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-samsung-12-pies-cubicos-inverter-y-no-frost-rb33a307012-em/1185668513",
+        "price": 25244.15,
+        "model": "Rb33A307012"
+      },
+      {
+        "store": "liverpool",
+        "name": "Panel Inferior Para Refrigerador Samsung Compatible Con Bespoke Bmf Rb33A3070Ap Em",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/panel-inferior-para-refrigerador-samsung-compatible-con-bespoke-bmf-rb33a3070ap-em/1122532865",
+        "price": 1699.15,
+        "model": "Rb33A3070Ap"
+      }
+    ]
+  },
+  "amazon|RB33A3070AP": {
+    "ts": "2026-07-13T17:10:50.566390+00:00",
+    "items": []
+  },
+  "walmart|RB33A3070AP": {
+    "ts": "2026-07-13T17:10:52.011876+00:00",
+    "items": []
+  },
+  "sams|RB33A3070AP": {
+    "ts": "2026-07-13T17:10:54.182087+00:00",
+    "items": []
+  },
+  "mercadolibre|RB33A3070AP": {
+    "ts": "2026-07-13T17:10:55.492200+00:00",
+    "items": []
+  },
+  "palacio|BCM35R": {
+    "ts": "2026-07-13T17:10:55.667269+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Regulador de voltaje para Línea Blanca, 1550 W",
+        "url": "https://www.elpalaciodehierro.com/koblenz-regulador-de-voltaje-para-linea-blanca-1550-w-45095479.html",
+        "price": 1759.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brasier con varilla",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943653.html",
+        "price": 1219.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor para correr Forerunner 970 Gris/Índigo",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-correr-forerunner-970-gris%2Findigo-44674591.html",
+        "price": 13344.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón Reversible en Piel Casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/armani-exchange-cinturon-reversible-en-piel-casual-hombre-43356310.html",
+        "price": 1890.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor para correr Forerunner 970",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-correr-forerunner-970-44674578.html",
+        "price": 13344.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora de Cabello para Viaje HC 35 Ocean",
+        "url": "https://www.elpalaciodehierro.com/beurer-secadora-de-cabello-para-viaje-hc-35-ocean-44941157.html",
+        "price": 854.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Venu 4 para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-4-para-entrenamiento-44965110.html",
+        "price": 9449.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brasier con varilla",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943628.html",
+        "price": 1159.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brasier con varilla",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943647.html",
+        "price": 1219.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón Sartorial con hebilla, 35 mm Hombre",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-sartorial-con-hebilla-35-mm-hombre-45059959.html",
+        "price": 10900.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brasier Balconette",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-balconette-44607229.html",
+        "price": 1159.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|BCM35R": {
+    "ts": "2026-07-13T17:10:56.922836+00:00",
+    "items": []
+  },
+  "walmart|BCM35R": {
+    "ts": "2026-07-13T17:10:58.261850+00:00",
+    "items": []
+  },
+  "sams|BCM35R": {
+    "ts": "2026-07-13T17:10:59.686229+00:00",
+    "items": []
+  },
+  "mercadolibre|BCM35R": {
+    "ts": "2026-07-13T17:11:01.260119+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKAPPLECHIPRAM": {
+    "ts": "2026-07-13T17:11:02.536818+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKAPPLECHIPRAM": {
+    "ts": "2026-07-13T17:11:03.860902+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKAPPLECHIPRAM": {
+    "ts": "2026-07-13T17:11:05.296086+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T17:11:06.559391+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T17:11:07.856869+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T17:11:09.551103+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-13T17:11:10.704551+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-13T17:11:12.063652+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYBLACK": {
+    "ts": "2026-07-13T17:11:14.546866+00:00",
     "items": []
   }
 }

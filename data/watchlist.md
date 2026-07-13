@@ -280,5 +280,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Negro Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html) | $9,199 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Huawei Fit 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191) | $2,199 | -21% |
 | 🟢 disponible | palacio | [Monitor Venu X1 French Gray para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html) | $11,679 | -20% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd C…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $55,199 | -46% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd C…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $29,999 | -46% |
 | 🟢 disponible | liverpool | [Tijeras Para Aves Poultry](https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012) | $356 | -25% |

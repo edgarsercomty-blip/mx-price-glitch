@@ -1,12 +1,14 @@
-# Errores/chollos de precio — 2026-07-13 16:09 UTC
+# Errores/chollos de precio — 2026-07-13 17:11 UTC
 
-- Productos revisados: **1790**
+- Productos revisados: **1772**
 - Umbral de diferencia: **20%**
-- Hallazgos: **26**
+- Hallazgos: **29**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -46% | $25,200 | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd C…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $29,999 | Confirmado vs competencia | $29,999 en liverpool vs mercado -> -46% bajo la competencia |
 | -26% | $10,556 | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | Confirmado vs competencia | $30,380 en palacio vs mercado -> -26% bajo la competencia |
+| -34% | $9,690 | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | Confirmado vs competencia | $18,809 en palacio vs mercado -> -34% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $9,380 | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | Confirmado vs competencia | $24,119 en palacio vs mercado -> -28% bajo la competencia |
 | -24% | $4,800 | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $15,000 | Confirmado vs competencia | $15,000 en palacio vs mercado -> -24% bajo la competencia |
@@ -15,6 +17,7 @@
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $4,335 | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | Confirmado vs competencia | $13,565 en palacio vs mercado -> -24% bajo la competencia |
+| -30% | $3,079 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | Confirmado vs competencia | $7,220 en palacio vs mercado -> -30% bajo la competencia |
 | -22% | $2,887 | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -22% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
