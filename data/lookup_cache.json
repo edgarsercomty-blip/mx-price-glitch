@@ -344,111 +344,6 @@
     "ts": "2026-07-13T02:57:07.221374+00:00",
     "items": []
   },
-  "palacio|BCM35R": {
-    "ts": "2026-07-11T07:59:08.180740+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Faja brief Mujer",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-faja-brief-mujer-44876606.html",
-        "price": 327.6,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Regulador de voltaje para Línea Blanca, 1550 W",
-        "url": "https://www.elpalaciodehierro.com/koblenz-regulador-de-voltaje-para-linea-blanca-1550-w-45095479.html",
-        "price": 1759.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier con varilla",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943654.html",
-        "price": 1219.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Frigobar 5 p3 WUC2205B, negro",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
-        "price": 6719.3,
-        "model": "WUC2205B"
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier con varilla",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943628.html",
-        "price": 1159.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier con varilla",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943637.html",
-        "price": 1159.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor para correr Forerunner 970 Gris/Índigo",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-correr-forerunner-970-gris%2Findigo-44674591.html",
-        "price": 13344.15,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier Balconette",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-balconette-44607231.html",
-        "price": 1159.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor para correr Forerunner 970",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-correr-forerunner-970-44674578.html",
-        "price": 13344.15,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Funda con MagSafe de Beats iPhone 16 Beige claro",
-        "url": "https://www.elpalaciodehierro.com/apple-funda-con-magsafe-de-beats-iphone-16-beige-claro-44272870.html",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier con varilla",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-con-varilla-44943647.html",
-        "price": 1219.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cinturón Reversible en Piel Casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/armani-exchange-cinturon-reversible-en-piel-casual-hombre-43356310.html",
-        "price": 1890.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|BCM35R": {
-    "ts": "2026-07-11T07:59:09.360100+00:00",
-    "items": []
-  },
-  "walmart|BCM35R": {
-    "ts": "2026-07-11T07:59:10.644588+00:00",
-    "items": []
-  },
-  "sams|BCM35R": {
-    "ts": "2026-07-11T07:59:11.937053+00:00",
-    "items": []
-  },
-  "mercadolibre|BCM35R": {
-    "ts": "2026-07-11T07:59:13.242931+00:00",
-    "items": []
-  },
   "amazon|CO905KS": {
     "ts": "2026-07-11T10:05:11.461118+00:00",
     "items": []
@@ -1651,6 +1546,30 @@
   },
   "sams|HUAWEISMARTWATCHHUAWEIFITGPS": {
     "ts": "2026-07-13T04:48:48.562365+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
+    "ts": "2026-07-13T08:10:33.655034+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
+    "ts": "2026-07-13T08:10:35.248853+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
+    "ts": "2026-07-13T08:10:36.819865+00:00",
+    "items": []
+  },
+  "amazon|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T08:10:40.002992+00:00",
+    "items": []
+  },
+  "walmart|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T08:10:41.451125+00:00",
+    "items": []
+  },
+  "sams|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-13T08:10:43.085965+00:00",
     "items": []
   }
 }

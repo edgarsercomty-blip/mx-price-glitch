@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13 04:48 UTC",
-  "products_scanned": 1762,
+  "generated_at": "2026-07-13 08:10 UTC",
+  "products_scanned": 1748,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -175,27 +175,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 849.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Vívosmart 5 negro para Entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html",
-      "price": 2549.25,
-      "list_price": 3399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42538928",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2874.75,
@@ -217,6 +196,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 849.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Vívosmart 5 negro para Entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html",
+      "price": 2549.25,
+      "list_price": 3399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42538928",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1574.75,
@@ -232,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2874.75,
+      "store": "palacio",
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44965112",
         "outlet": false
       }
     },
@@ -263,8 +284,8 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
       "price": 7049.25,
       "list_price": 9399.0,
       "ean": null,
@@ -273,28 +294,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401370",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44965112",
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -490,12 +490,54 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$6,719 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439906",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor Venu X1 French Gray para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45245377",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4599.8,
       "store": "palacio",
       "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
       "price": 18399.2,
       "list_price": 22999.0,
       "ean": null,
@@ -504,28 +546,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110956",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1899.8,
-      "store": "palacio",
-      "name": "Monitor Forerunner 265S Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html",
-      "price": 7599.2,
-      "list_price": 9499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074175",
+        "id": "44110957",
         "outlet": false
       }
     }
