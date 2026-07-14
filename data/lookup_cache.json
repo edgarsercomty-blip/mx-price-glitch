@@ -24,15 +24,15 @@
     "items": []
   },
   "amazon|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-12T10:58:43.075558+00:00",
+    "ts": "2026-07-14T12:00:13.172257+00:00",
     "items": []
   },
   "walmart|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-12T10:58:44.615473+00:00",
+    "ts": "2026-07-14T12:00:14.987078+00:00",
     "items": []
   },
   "sams|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-12T10:58:46.164053+00:00",
+    "ts": "2026-07-14T12:00:16.666479+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
@@ -120,27 +120,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-12T10:58:47.240709+00:00",
+    "ts": "2026-07-14T12:00:44.201562+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-12T10:58:48.827604+00:00",
+    "ts": "2026-07-14T12:00:45.922811+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-12T10:58:50.150687+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-12T10:58:51.292055+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-12T10:58:52.549653+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORPEBBLESLATE": {
-    "ts": "2026-07-12T10:58:53.923714+00:00",
+    "ts": "2026-07-14T12:00:47.746340+00:00",
     "items": []
   },
   "amazon|WA19CG6746BVAX": {
@@ -354,18 +342,6 @@
   },
   "sams|GARMINDEPORTIVOINSTINCTMONITOR": {
     "ts": "2026-07-14T08:53:26.761007+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOINSTINCTTACTICALEDITION": {
-    "ts": "2026-07-12T11:58:09.753952+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOINSTINCTTACTICALEDITION": {
-    "ts": "2026-07-12T11:58:11.424702+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOINSTINCTTACTICALEDITION": {
-    "ts": "2026-07-12T11:58:13.145472+00:00",
     "items": []
   },
   "liverpool|QNED86": {
@@ -1811,6 +1787,42 @@
   },
   "sams|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
     "ts": "2026-07-14T10:30:35.003318+00:00",
+    "items": []
+  },
+  "amazon|CO401B": {
+    "ts": "2026-07-14T12:00:21.295076+00:00",
+    "items": []
+  },
+  "walmart|CO401B": {
+    "ts": "2026-07-14T12:00:23.571857+00:00",
+    "items": []
+  },
+  "sams|CO401B": {
+    "ts": "2026-07-14T12:00:33.067011+00:00",
+    "items": []
+  },
+  "amazon|LN8221MX": {
+    "ts": "2026-07-14T12:00:36.173629+00:00",
+    "items": []
+  },
+  "walmart|LN8221MX": {
+    "ts": "2026-07-14T12:00:38.195682+00:00",
+    "items": []
+  },
+  "sams|LN8221MX": {
+    "ts": "2026-07-14T12:00:42.872457+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-14T12:00:49.178299+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-14T12:00:51.412058+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
+    "ts": "2026-07-14T12:00:54.514852+00:00",
     "items": []
   }
 }

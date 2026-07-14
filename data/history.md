@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (320)
+# Historial de ofertas encontradas (321)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-14 12:00 | -26% | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | $2,980 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-14 10:30 | -23% | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | $1,698 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-14 10:30 | -25% | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-14 08:53 | -20% | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |

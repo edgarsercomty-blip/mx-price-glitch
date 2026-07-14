@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 10:30 UTC",
-  "products_scanned": 1685,
+  "generated_at": "2026-07-14 12:00 UTC",
+  "products_scanned": 1684,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,48 @@
       "extra": {
         "productId": "1104553521",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$594 en liverpool vs mercado -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 646.85,
+      "store": "liverpool",
+      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
+      "price": 594.3,
+      "list_price": 849.0,
+      "ean": null,
+      "model": "Ln8221Mx",
+      "brand": "T-FAL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1123821587",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 16090.0,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 14849.45,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
       }
     },
     {
@@ -195,6 +237,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 14.9,
+      "detail": "$2,980 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1019.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co401B 7 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223",
+      "price": 2980.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "Co401B",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,049 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -295,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44965112",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -547,27 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,519 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1879.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
-      "price": 7519.2,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439905",
         "outlet": false
       }
     }
