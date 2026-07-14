@@ -344,40 +344,16 @@
     "ts": "2026-07-13T16:09:34.611955+00:00",
     "items": []
   },
-  "amazon|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-12T08:20:54.612403+00:00",
-    "items": []
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-12T08:20:57.413937+00:00",
-    "items": []
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARPURA512": {
-    "ts": "2026-07-12T08:21:00.235946+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORVENU": {
-    "ts": "2026-07-12T08:21:01.520702+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORVENU": {
-    "ts": "2026-07-12T08:21:02.982891+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORVENU": {
-    "ts": "2026-07-12T08:21:04.837891+00:00",
-    "items": []
-  },
   "amazon|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-12T08:21:06.168462+00:00",
+    "ts": "2026-07-14T08:53:23.038601+00:00",
     "items": []
   },
   "walmart|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-12T08:21:07.725767+00:00",
+    "ts": "2026-07-14T08:53:24.566081+00:00",
     "items": []
   },
   "sams|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-12T08:21:09.317367+00:00",
+    "ts": "2026-07-14T08:53:26.761007+00:00",
     "items": []
   },
   "amazon|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
@@ -1751,6 +1727,66 @@
   },
   "sams|LDTS5552S": {
     "ts": "2026-07-14T06:37:51.920784+00:00",
+    "items": []
+  },
+  "amazon|WT25PBTX6": {
+    "ts": "2026-07-14T08:52:48.234170+00:00",
+    "items": []
+  },
+  "walmart|WT25PBTX6": {
+    "ts": "2026-07-14T08:52:51.031747+00:00",
+    "items": []
+  },
+  "sams|WT25PBTX6": {
+    "ts": "2026-07-14T08:53:03.800818+00:00",
+    "items": []
+  },
+  "amazon|OSTERVELOCIDADESLICUADORA2114099OSTER": {
+    "ts": "2026-07-14T08:53:05.476807+00:00",
+    "items": []
+  },
+  "walmart|OSTERVELOCIDADESLICUADORA2114099OSTER": {
+    "ts": "2026-07-14T08:53:20.043033+00:00",
+    "items": []
+  },
+  "sams|OSTERVELOCIDADESLICUADORA2114099OSTER": {
+    "ts": "2026-07-14T08:53:21.947222+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-14T08:53:28.453603+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-14T08:53:29.911123+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-14T08:53:31.248390+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
+    "ts": "2026-07-14T08:53:32.764319+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
+    "ts": "2026-07-14T08:53:34.909385+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
+    "ts": "2026-07-14T08:53:36.660334+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-14T08:53:38.217860+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-14T08:53:39.768817+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-14T08:53:41.080892+00:00",
     "items": []
   }
 }

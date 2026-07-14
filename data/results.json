@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-07-14 06:37 UTC",
-  "products_scanned": 1758,
+  "generated_at": "2026-07-14 08:53 UTC",
+  "products_scanned": 1670,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 26,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$991 en liverpool vs mercado -> -64% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1758.4,
+      "store": "liverpool",
+      "name": "Licuadora Oster 2114099 2 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521",
+      "price": 990.6,
+      "list_price": 1651.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1104553521",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 16090.0,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 14849.45,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -27,23 +69,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 9689.66,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
-      "price": 18809.34,
-      "list_price": 28499.0,
+      "savings": 8400.24,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "75Qned73Asc",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44677942",
-        "outlet": false
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -153,27 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$356 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 120.0,
-      "store": "liverpool",
-      "name": "Tijeras Para Aves Poultry",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012",
-      "price": 356.0,
-      "list_price": 445.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1064265012",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,049 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -212,27 +233,6 @@
       "extra": {
         "productId": "1125099480",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44973731",
-        "outlet": false
       }
     },
     {
@@ -300,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -337,27 +316,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44928184",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.0,
-      "detail": "$13,565 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4334.81,
-      "store": "palacio",
-      "name": "Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html",
-      "price": 13565.43,
-      "list_price": 23799.0,
-      "ean": null,
-      "model": "WA25DG5505AVAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44548089",
         "outlet": false
       }
     },
@@ -401,27 +359,6 @@
       "extra": {
         "productId": "1172678820",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110954",
-        "outlet": false
       }
     },
     {
@@ -511,6 +448,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4599.8,
@@ -526,6 +484,69 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1899.8,
+      "store": "palacio",
+      "name": "Monitor Forerunner 265S Music para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html",
+      "price": 7599.2,
+      "list_price": 9499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074175",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,519 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1879.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
+      "price": 7519.2,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439905",
         "outlet": false
       }
     }
