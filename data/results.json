@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 13:49 UTC",
-  "products_scanned": 1766,
+  "generated_at": "2026-07-14 15:17 UTC",
+  "products_scanned": 1715,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -274,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 80.0,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 235.0,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
         "marketplace": null
       }
     },
