@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 04:33 UTC",
-  "products_scanned": 1729,
+  "generated_at": "2026-07-14 06:37 UTC",
+  "products_scanned": 1758,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -190,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1142099627",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
         "marketplace": null
       }
     },

@@ -108,15 +108,15 @@
     "items": []
   },
   "amazon|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-12T04:42:28.481260+00:00",
+    "ts": "2026-07-14T06:37:43.256870+00:00",
     "items": []
   },
   "walmart|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-12T04:42:30.180445+00:00",
+    "ts": "2026-07-14T06:37:45.123012+00:00",
     "items": []
   },
   "sams|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-12T04:42:31.892610+00:00",
+    "ts": "2026-07-14T06:37:46.742300+00:00",
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
@@ -1739,6 +1739,18 @@
   },
   "mercadolibre|WA23C3554GVAX": {
     "ts": "2026-07-14T03:54:06.105627+00:00",
+    "items": []
+  },
+  "amazon|LDTS5552S": {
+    "ts": "2026-07-14T06:37:48.292852+00:00",
+    "items": []
+  },
+  "walmart|LDTS5552S": {
+    "ts": "2026-07-14T06:37:49.858435+00:00",
+    "items": []
+  },
+  "sams|LDTS5552S": {
+    "ts": "2026-07-14T06:37:51.920784+00:00",
     "items": []
   }
 }

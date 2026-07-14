@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (315)
+# Historial de ofertas encontradas (316)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-14 06:37 | -25% | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | $16,574 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-13 11:31 | -25% | liverpool | [Tijeras Para Aves Poultry](https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012) | $356 | $356 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-13 11:31 | -46% | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $29,999 | $29,999 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-13 08:10 | -20% | palacio | [Monitor Venu X1 French Gray para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
