@@ -344,122 +344,6 @@
     "ts": "2026-07-14T08:53:26.761007+00:00",
     "items": []
   },
-  "liverpool|QNED86": {
-    "ts": "2026-07-12T13:23:40.112516+00:00",
-    "items": []
-  },
-  "amazon|QNED86": {
-    "ts": "2026-07-12T13:23:41.380418+00:00",
-    "items": []
-  },
-  "walmart|QNED86": {
-    "ts": "2026-07-12T13:23:42.848373+00:00",
-    "items": []
-  },
-  "sams|QNED86": {
-    "ts": "2026-07-12T13:23:44.395070+00:00",
-    "items": []
-  },
-  "mercadolibre|QNED86": {
-    "ts": "2026-07-12T13:23:45.662512+00:00",
-    "items": []
-  },
-  "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-07-12T13:23:46.986066+00:00",
-    "items": []
-  },
-  "amazon|UN98DU9000FXZX": {
-    "ts": "2026-07-12T13:23:48.238929+00:00",
-    "items": []
-  },
-  "walmart|UN98DU9000FXZX": {
-    "ts": "2026-07-12T13:23:49.768213+00:00",
-    "items": []
-  },
-  "sams|UN98DU9000FXZX": {
-    "ts": "2026-07-12T13:23:51.371717+00:00",
-    "items": []
-  },
-  "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-07-12T13:23:52.649277+00:00",
-    "items": []
-  },
-  "liverpool|98UT9050": {
-    "ts": "2026-07-12T13:23:53.849393+00:00",
-    "items": []
-  },
-  "amazon|98UT9050": {
-    "ts": "2026-07-12T13:23:55.449822+00:00",
-    "items": []
-  },
-  "walmart|98UT9050": {
-    "ts": "2026-07-12T13:23:56.970808+00:00",
-    "items": []
-  },
-  "sams|98UT9050": {
-    "ts": "2026-07-12T13:23:58.543288+00:00",
-    "items": []
-  },
-  "mercadolibre|98UT9050": {
-    "ts": "2026-07-12T13:23:59.821133+00:00",
-    "items": []
-  },
-  "liverpool|WK22BS6": {
-    "ts": "2026-07-12T13:24:01.950706+00:00",
-    "items": []
-  },
-  "amazon|WK22BS6": {
-    "ts": "2026-07-12T13:24:03.226615+00:00",
-    "items": []
-  },
-  "walmart|WK22BS6": {
-    "ts": "2026-07-12T13:24:05.486590+00:00",
-    "items": []
-  },
-  "sams|WK22BS6": {
-    "ts": "2026-07-12T13:24:07.008977+00:00",
-    "items": []
-  },
-  "mercadolibre|WK22BS6": {
-    "ts": "2026-07-12T13:24:08.282108+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-12T13:24:09.645618+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-12T13:24:11.100445+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-12T13:24:12.732177+00:00",
-    "items": []
-  },
-  "amazon|GARMINMULTIDEPORTEFORERUNNERDEPORTIVOMONITOR": {
-    "ts": "2026-07-12T13:24:14.021026+00:00",
-    "items": []
-  },
-  "walmart|GARMINMULTIDEPORTEFORERUNNERDEPORTIVOMONITOR": {
-    "ts": "2026-07-12T13:24:15.467645+00:00",
-    "items": []
-  },
-  "sams|GARMINMULTIDEPORTEFORERUNNERDEPORTIVOMONITOR": {
-    "ts": "2026-07-12T13:24:17.217988+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
-    "ts": "2026-07-12T13:24:18.563892+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
-    "ts": "2026-07-12T13:24:20.054919+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
-    "ts": "2026-07-12T13:24:21.615122+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY512": {
     "ts": "2026-07-12T14:38:27.263009+00:00",
     "items": []
@@ -1823,6 +1707,30 @@
   },
   "sams|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
     "ts": "2026-07-14T12:00:54.514852+00:00",
+    "items": []
+  },
+  "amazon|WILLIAMSSONOMACERAMICASICILYBOWL": {
+    "ts": "2026-07-14T13:49:38.468914+00:00",
+    "items": []
+  },
+  "walmart|WILLIAMSSONOMACERAMICASICILYBOWL": {
+    "ts": "2026-07-14T13:49:41.337004+00:00",
+    "items": []
+  },
+  "sams|WILLIAMSSONOMACERAMICASICILYBOWL": {
+    "ts": "2026-07-14T13:49:43.563183+00:00",
+    "items": []
+  },
+  "amazon|WILLIAMSSONOMABOLSA": {
+    "ts": "2026-07-14T13:49:44.924492+00:00",
+    "items": []
+  },
+  "walmart|WILLIAMSSONOMABOLSA": {
+    "ts": "2026-07-14T13:49:46.889815+00:00",
+    "items": []
+  },
+  "sams|WILLIAMSSONOMABOLSA": {
+    "ts": "2026-07-14T13:49:48.860416+00:00",
     "items": []
   }
 }

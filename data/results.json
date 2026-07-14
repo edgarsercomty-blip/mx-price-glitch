@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 12:00 UTC",
-  "products_scanned": 1684,
+  "generated_at": "2026-07-14 13:49 UTC",
+  "products_scanned": 1766,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1104553521",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$594 en liverpool vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 646.85,
-      "store": "liverpool",
-      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
-      "price": 594.3,
-      "list_price": 849.0,
-      "ean": null,
-      "model": "Ln8221Mx",
-      "brand": "T-FAL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1123821587",
         "marketplace": null
       }
     },
@@ -132,6 +111,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9689.66,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
+      "price": 18809.34,
+      "list_price": 28499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44677942",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$1,745 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -170,6 +170,27 @@
       "extra": {
         "id": "44672817",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$594 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 245.0,
+      "store": "liverpool",
+      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
+      "price": 594.3,
+      "list_price": 849.0,
+      "ean": null,
+      "model": "Ln8221Mx",
+      "brand": "T-FAL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1123821587",
+        "marketplace": null
       }
     },
     {
@@ -253,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
         "marketplace": null
       }
     },
@@ -348,7 +390,7 @@
       "savings": 2874.75,
       "store": "palacio",
       "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html",
       "price": 8624.25,
       "list_price": 11499.0,
       "ean": null,
@@ -357,28 +399,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44965112",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
+        "id": "44973731",
         "outlet": false
       }
     },
@@ -389,8 +410,8 @@
       "likely_typo": false,
       "savings": 2874.75,
       "store": "palacio",
-      "name": "Monitor deportivo Venu 4 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html",
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
       "price": 8624.25,
       "list_price": 11499.0,
       "ean": null,
@@ -399,7 +420,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44965114",
+        "id": "44965112",
         "outlet": false
       }
     },
@@ -489,6 +510,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 15.0,
+      "detail": "$149 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 39.25,
+      "store": "liverpool",
+      "name": "Bolsa W P",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536",
+      "price": 148.75,
+      "list_price": 175.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1100981536",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -505,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43074174",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110954",
         "outlet": false
       }
     },
@@ -568,48 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110956",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110957",
         "outlet": false
       }
     },
