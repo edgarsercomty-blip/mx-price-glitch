@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 16:40 UTC",
-  "products_scanned": 1738,
+  "generated_at": "2026-07-14 17:46 UTC",
+  "products_scanned": 1741,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178822116",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.4,
-      "detail": "$3,400 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
-      "price": 3400.0,
-      "list_price": 5700.0,
-      "ean": null,
-      "model": "Nbks50100",
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172621941",
         "marketplace": null
       }
     },
@@ -531,6 +510,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 15.0,
+      "detail": "$149 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 39.25,
+      "store": "liverpool",
+      "name": "Bolsa W P",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536",
+      "price": 148.75,
+      "list_price": 175.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1100981536",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -652,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     }
