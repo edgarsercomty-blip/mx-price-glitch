@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-14 08:53 UTC",
-  "products_scanned": 1670,
+  "generated_at": "2026-07-14 10:30 UTC",
+  "products_scanned": 1685,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$991 en liverpool vs mercado -> -64% bajo la competencia",
+      "detail": "$991 en liverpool vs mercado -> -61% bajo la competencia",
       "likely_typo": false,
-      "savings": 1758.4,
+      "savings": 1565.4,
       "store": "liverpool",
       "name": "Licuadora Oster 2114099 2 Velocidades",
       "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521",
@@ -27,23 +27,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
+      "discount_pct": 42.8,
+      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
       "likely_typo": false,
-      "savings": 16090.0,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 14849.45,
-      "list_price": 26999.0,
+      "savings": 3344.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
+      "price": 3449.0,
+      "list_price": 6029.0,
       "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
+      "model": "Co905Ks",
+      "brand": "NINJA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45005046",
-        "outlet": false
+        "productId": "1178822116",
+        "marketplace": null
       }
     },
     {
@@ -300,6 +300,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2874.75,
+      "store": "palacio",
+      "name": "Monitor deportivo Venu 4 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44965114",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -317,6 +338,27 @@
       "extra": {
         "id": "44928184",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 46.9,
+      "detail": "$1,698 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 511.0,
+      "store": "liverpool",
+      "name": "Combo Licuadora Ninja Ss100 2 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719",
+      "price": 1698.0,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": "Ss100",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165527719",
+        "marketplace": null
       }
     },
     {
@@ -505,27 +547,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1899.8,
-      "store": "palacio",
-      "name": "Monitor Forerunner 265S Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html",
-      "price": 7599.2,
-      "list_price": 9499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074175",
         "outlet": false
       }
     },

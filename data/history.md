@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (318)
+# Historial de ofertas encontradas (320)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-14 10:30 | -23% | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | $1,698 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-07-14 10:30 | -25% | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-14 08:53 | -20% | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-14 08:53 | -64% | liverpool | [Licuadora Oster 2114099 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521) | $991 | $991 en liverpool vs mercado -> -64% bajo la competencia |
 | 2026-07-14 06:37 | -25% | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | $16,574 en liverpool vs mercado -> -25% bajo la competencia |

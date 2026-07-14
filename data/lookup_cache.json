@@ -356,18 +356,6 @@
     "ts": "2026-07-14T08:53:26.761007+00:00",
     "items": []
   },
-  "amazon|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-12T09:29:49.279206+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-12T09:29:50.887165+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-12T09:29:52.600007+00:00",
-    "items": []
-  },
   "amazon|GARMINDEPORTIVOINSTINCTTACTICALEDITION": {
     "ts": "2026-07-12T11:58:09.753952+00:00",
     "items": []
@@ -1787,6 +1775,42 @@
   },
   "sams|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
     "ts": "2026-07-14T08:53:41.080892+00:00",
+    "items": []
+  },
+  "amazon|CO905KS": {
+    "ts": "2026-07-14T10:30:05.215250+00:00",
+    "items": []
+  },
+  "walmart|CO905KS": {
+    "ts": "2026-07-14T10:30:07.818987+00:00",
+    "items": []
+  },
+  "sams|CO905KS": {
+    "ts": "2026-07-14T10:30:25.609568+00:00",
+    "items": []
+  },
+  "amazon|SS100": {
+    "ts": "2026-07-14T10:30:27.280317+00:00",
+    "items": []
+  },
+  "walmart|SS100": {
+    "ts": "2026-07-14T10:30:28.891495+00:00",
+    "items": []
+  },
+  "sams|SS100": {
+    "ts": "2026-07-14T10:30:30.397127+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-14T10:30:31.838543+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-14T10:30:33.433461+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-14T10:30:35.003318+00:00",
     "items": []
   }
 }
