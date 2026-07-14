@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14 17:46 UTC",
-  "products_scanned": 1741,
+  "generated_at": "2026-07-14 19:03 UTC",
+  "products_scanned": 1777,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
@@ -64,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178822116",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.4,
+      "detail": "$3,400 en liverpool vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.0,
+      "store": "liverpool",
+      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
+      "price": 3400.0,
+      "list_price": 5700.0,
+      "ean": null,
+      "model": "Nbks50100",
+      "brand": "NUTRIBULLET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172621941",
         "marketplace": null
       }
     },
@@ -274,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 80.0,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 235.0,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
         "marketplace": null
       }
     },
