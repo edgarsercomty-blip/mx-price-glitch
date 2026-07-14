@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 15:17 UTC",
-  "products_scanned": 1715,
+  "generated_at": "2026-07-14 16:12 UTC",
+  "products_scanned": 1755,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178822116",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.4,
+      "detail": "$3,400 en liverpool vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.0,
+      "store": "liverpool",
+      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
+      "price": 3400.0,
+      "list_price": 5700.0,
+      "ean": null,
+      "model": "Nbks50100",
+      "brand": "NUTRIBULLET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172621941",
         "marketplace": null
       }
     },
@@ -148,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45081397",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -279,6 +321,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,049 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -295,27 +358,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1142099627",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
         "marketplace": null
       }
     },
@@ -489,27 +531,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 15.0,
-      "detail": "$149 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 39.25,
-      "store": "liverpool",
-      "name": "Bolsa W P",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536",
-      "price": 148.75,
-      "list_price": 175.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1100981536",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -631,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     }
