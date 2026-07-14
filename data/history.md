@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (324)
+# Historial de ofertas encontradas (325)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-14 23:28 | -26% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $140 | $140 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-14 16:12 | -47% | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 …](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | $3,400 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-07-14 13:49 | -21% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | $149 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-14 13:49 | -25% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | $235 en liverpool vs mercado -> -25% bajo la competencia |
