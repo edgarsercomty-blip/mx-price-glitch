@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-14 20:33 UTC
+# Errores/chollos de precio — 2026-07-14 21:33 UTC
 
-- Productos revisados: **1731**
+- Productos revisados: **1771**
 - Umbral de diferencia: **20%**
-- Hallazgos: **32**
+- Hallazgos: **31**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -37,4 +37,3 @@
 | -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $511 | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | Confirmado vs competencia | $1,698 en liverpool vs mercado -> -23% bajo la competencia |
 | -29% | $245 | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $594 | Confirmado vs competencia | $594 en liverpool vs mercado -> -29% bajo la competencia |
-| -21% | $39 | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | Confirmado vs competencia | $149 en liverpool vs mercado -> -21% bajo la competencia |

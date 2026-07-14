@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 20:33 UTC",
-  "products_scanned": 1731,
+  "generated_at": "2026-07-14 21:33 UTC",
+  "products_scanned": 1771,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -505,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172678820",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 15.0,
-      "detail": "$149 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 39.25,
-      "store": "liverpool",
-      "name": "Bolsa W P",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536",
-      "price": 148.75,
-      "list_price": 175.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1100981536",
         "marketplace": null
       }
     },

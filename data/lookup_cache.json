@@ -155,18 +155,6 @@
     "ts": "2026-07-14T17:46:36.936089+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-12T21:29:20.391554+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-12T21:29:22.128526+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-12T21:29:23.869619+00:00",
-    "items": []
-  },
   "palacio|WM20EWNTS6P": {
     "ts": "2026-07-13T02:57:01.423100+00:00",
     "items": [
@@ -321,15 +309,15 @@
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-12T20:36:24.576351+00:00",
+    "ts": "2026-07-14T21:33:43.834959+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-12T20:36:26.233226+00:00",
+    "ts": "2026-07-14T21:33:45.255802+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
-    "ts": "2026-07-12T20:36:29.419447+00:00",
+    "ts": "2026-07-14T21:33:46.672134+00:00",
     "items": []
   },
   "palacio|98Q7K": {
@@ -1810,6 +1798,18 @@
   },
   "sams|NESPRESSOAEROCCINOCAFETERAVERTUONEGRA": {
     "ts": "2026-07-14T20:33:05.437377+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-07-14T21:33:39.814588+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-07-14T21:33:41.184758+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-07-14T21:33:42.719625+00:00",
     "items": []
   }
 }
