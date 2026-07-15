@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15 21:49 UTC",
-  "products_scanned": 1787,
+  "generated_at": "2026-07-15 22:50 UTC",
+  "products_scanned": 1722,
   "threshold_pct": 20.0,
   "count": 26,
   "findings": [
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196168741",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4353.48,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmrx0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328",
+      "price": 6530.22,
+      "list_price": 11819.4,
+      "ean": null,
+      "model": "Rma300Fzmrx0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110895328",
         "marketplace": null
       }
     },
@@ -258,6 +279,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$356 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 120.0,
+      "store": "liverpool",
+      "name": "Tijeras Para Aves Poultry",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012",
+      "price": 356.0,
+      "list_price": 445.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1064265012",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -363,27 +405,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132756780",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -401,27 +422,6 @@
       "extra": {
         "id": "44928184",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.3,
-      "detail": "$25,496 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7844.85,
-      "store": "liverpool",
-      "name": "Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos Fabrica De Hielo Wrff3536Sv",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303",
-      "price": 25495.76,
-      "list_price": 52299.0,
-      "ean": null,
-      "model": "Wrff3536Sv",
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185462303",
-        "marketplace": null
       }
     },
     {
