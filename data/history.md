@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (325)
+# Historial de ofertas encontradas (328)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-15 00:56 | -30% | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | $380 en liverpool vs mercado -> -30% bajo la competencia |
+| 2026-07-15 00:56 | -33% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | $212 en liverpool vs mercado -> -33% bajo la competencia |
+| 2026-07-15 00:56 | -40% | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-14 23:28 | -26% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $140 | $140 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-14 16:12 | -47% | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 …](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | $3,400 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-07-14 13:49 | -21% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | $149 en liverpool vs mercado -> -21% bajo la competencia |

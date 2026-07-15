@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14 23:28 UTC",
-  "products_scanned": 1763,
+  "generated_at": "2026-07-15 00:56 UTC",
+  "products_scanned": 1776,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4353.48,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmerx0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638",
+      "price": 6530.22,
+      "list_price": 11819.4,
+      "ean": null,
+      "model": "Rma300Fzmerx0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110895638",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$2,245 en palacio vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
@@ -170,6 +191,48 @@
       "extra": {
         "id": "45081397",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 10.0,
+      "detail": "$212 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.5,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 211.5,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$380 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 159.75,
+      "store": "liverpool",
+      "name": "Set Bowl Akino 4 Piezas De Porcelana",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592",
+      "price": 380.0,
+      "list_price": 475.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166212592",
+        "marketplace": null
       }
     },
     {
@@ -337,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1142099627",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
         "marketplace": null
       }
     },
@@ -637,42 +679,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2299.8,
+      "savings": 4599.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
+        "id": "44110957",
         "outlet": false
       }
     }
