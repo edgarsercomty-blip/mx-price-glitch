@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 17:07 UTC",
-  "products_scanned": 1765,
+  "generated_at": "2026-07-15 18:20 UTC",
+  "products_scanned": 1753,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -505,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
         "outlet": false
       }
     }
