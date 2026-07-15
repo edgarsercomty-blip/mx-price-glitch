@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-15 00:56 UTC",
-  "products_scanned": 1776,
+  "generated_at": "2026-07-15 03:53 UTC",
+  "products_scanned": 1720,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 20,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$991 en liverpool vs mercado -> -61% bajo la competencia",
+      "detail": "$991 en liverpool vs mercado -> -58% bajo la competencia",
       "likely_typo": false,
-      "savings": 1565.4,
+      "savings": 1372.4,
       "store": "liverpool",
       "name": "Licuadora Oster 2114099 2 Velocidades",
       "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521",
@@ -44,69 +44,6 @@
       "extra": {
         "id": "45005046",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3344.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
-      "price": 3449.0,
-      "list_price": 6029.0,
-      "ean": null,
-      "model": "Co905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178822116",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.4,
-      "detail": "$3,400 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
-      "price": 3400.0,
-      "list_price": 5700.0,
-      "ean": null,
-      "model": "Nbks50100",
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172621941",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.7,
-      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4353.48,
-      "store": "liverpool",
-      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmerx0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638",
-      "price": 6530.22,
-      "list_price": 11819.4,
-      "ean": null,
-      "model": "Rma300Fzmerx0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1110895638",
-        "marketplace": null
       }
     },
     {
@@ -195,48 +132,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 10.0,
-      "detail": "$212 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.5,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 211.5,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$380 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 159.75,
-      "store": "liverpool",
-      "name": "Set Bowl Akino 4 Piezas De Porcelana",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592",
-      "price": 380.0,
-      "list_price": 475.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1166212592",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$3,114 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -300,27 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$24,119 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9379.72,
-      "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html",
-      "price": 24119.28,
-      "list_price": 33499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273249",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -338,69 +212,6 @@
       "extra": {
         "id": "44585698",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$140 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 48.0,
-      "store": "liverpool",
-      "name": "Bolsa W P",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536",
-      "price": 140.0,
-      "list_price": 175.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1100981536",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 14.9,
-      "detail": "$2,980 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1019.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co401B 7 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223",
-      "price": 2980.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": "Co401B",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "liverpool",
-      "name": "Smartwatch Garmin Venu 3S Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "GARMIN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1142099627",
-        "marketplace": null
       }
     },
     {
@@ -468,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44965112",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -510,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 46.9,
-      "detail": "$1,698 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 511.0,
-      "store": "liverpool",
-      "name": "Combo Licuadora Ninja Ss100 2 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719",
-      "price": 1698.0,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": "Ss100",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165527719",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -548,27 +317,6 @@
       "extra": {
         "id": "45068396",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,499 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2887.34,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000 Btu Vo182H1",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820",
-      "price": 10499.4,
-      "list_price": 17499.0,
-      "ean": null,
-      "model": "Vo182H1",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172678820",
-        "marketplace": null
       }
     },
     {
@@ -652,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110956",
         "outlet": false
       }
     },
