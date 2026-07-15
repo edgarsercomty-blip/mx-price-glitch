@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (332)
+# Historial de ofertas encontradas (333)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-15 10:27 | -25% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | $335 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 08:38 | -24% | liverpool | [Refrigerador French Door Whirlpool Bismarck 30 Pies Cub…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303) | $25,496 | $25,496 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-15 08:38 | -25% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-15 08:38 | -28% | liverpool | [Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495) | $14,917 | $14,917 en liverpool vs mercado -> -28% bajo la competencia |

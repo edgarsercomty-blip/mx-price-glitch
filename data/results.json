@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 08:38 UTC",
-  "products_scanned": 1688,
+  "generated_at": "2026-07-15 10:27 UTC",
+  "products_scanned": 1730,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -216,27 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$625 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 210.0,
-      "store": "liverpool",
-      "name": "Camino De Mesa De Algodon Scale Block",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535",
-      "price": 625.0,
-      "list_price": 625.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1149702535",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -401,6 +380,27 @@
       "extra": {
         "id": "44951467",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$335 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 110.0,
+      "store": "liverpool",
+      "name": "Set Regalo Moscow Mule",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
+      "price": 335.0,
+      "list_price": 335.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1137579509",
+        "marketplace": null
       }
     },
     {
@@ -595,27 +595,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2919.8,
@@ -641,8 +620,8 @@
       "likely_typo": false,
       "savings": 2299.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Negro Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
       "price": 9199.2,
       "list_price": 11499.0,
       "ean": null,
@@ -651,7 +630,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44674661",
+        "id": "44674691",
         "outlet": false
       }
     },
