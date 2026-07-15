@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (335)
+# Historial de ofertas encontradas (337)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-15 14:13 | -27% | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $8,399 | $8,399 en palacio vs mercado -> -27% bajo la competencia |
+| 2026-07-15 14:13 | -30% | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $5,839 | $5,839 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-15 12:06 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 12:06 | -46% | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | $37,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-15 10:27 | -25% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | $335 en liverpool vs mercado -> -25% bajo la competencia |
