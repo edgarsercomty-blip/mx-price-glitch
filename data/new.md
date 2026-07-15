@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-15 15:52 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-15 16:16 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -40% | $4,353 | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328) | $6,530 | Confirmado vs competencia | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._

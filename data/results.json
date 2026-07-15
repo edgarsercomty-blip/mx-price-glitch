@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 15:52 UTC",
-  "products_scanned": 1765,
+  "generated_at": "2026-07-15 16:16 UTC",
+  "products_scanned": 1797,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44439906",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.13,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
         "outlet": false
       }
     },
