@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 20:51 UTC",
-  "products_scanned": 1733,
+  "generated_at": "2026-07-15 21:49 UTC",
+  "products_scanned": 1787,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -237,6 +237,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -337,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1137579509",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 24.6,
+      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 123.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Sovico",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780",
+      "price": 376.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "SOVICO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1132756780",
         "marketplace": null
       }
     },
