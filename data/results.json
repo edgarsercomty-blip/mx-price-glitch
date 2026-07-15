@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 14:13 UTC",
-  "products_scanned": 1797,
+  "generated_at": "2026-07-15 15:52 UTC",
+  "products_scanned": 1765,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196168741",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4353.48,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmrx0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328",
+      "price": 6530.22,
+      "list_price": 11819.4,
+      "ean": null,
+      "model": "Rma300Fzmrx0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110895328",
         "marketplace": null
       }
     },
@@ -342,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132756780",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -526,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     }
