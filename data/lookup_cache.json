@@ -215,28 +215,16 @@
     "ts": "2026-07-14T21:33:46.672134+00:00",
     "items": []
   },
-  "amazon|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
-    "ts": "2026-07-13T08:10:33.655034+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
-    "ts": "2026-07-13T08:10:35.248853+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
-    "ts": "2026-07-13T08:10:36.819865+00:00",
-    "items": []
-  },
   "amazon|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-13T08:10:40.002992+00:00",
+    "ts": "2026-07-15T08:37:29.431657+00:00",
     "items": []
   },
   "walmart|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-13T08:10:41.451125+00:00",
+    "ts": "2026-07-15T08:37:31.004044+00:00",
     "items": []
   },
   "sams|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
-    "ts": "2026-07-13T08:10:43.085965+00:00",
+    "ts": "2026-07-15T08:37:33.113204+00:00",
     "items": []
   },
   "amazon|75QNED73ASC": {
@@ -2053,6 +2041,150 @@
   },
   "sams|WILLIAMSSONOMAALGODONCAMINOSCALEBLOCK": {
     "ts": "2026-07-15T06:08:23.338203+00:00",
+    "items": []
+  },
+  "amazon|WM16EWNTS6P": {
+    "ts": "2026-07-15T08:36:53.360731+00:00",
+    "items": []
+  },
+  "walmart|WM16EWNTS6P": {
+    "ts": "2026-07-15T08:37:09.860287+00:00",
+    "items": []
+  },
+  "sams|WM16EWNTS6P": {
+    "ts": "2026-07-15T08:37:11.666335+00:00",
+    "items": []
+  },
+  "amazon|WRFF3536SV": {
+    "ts": "2026-07-15T08:37:13.057398+00:00",
+    "items": []
+  },
+  "walmart|WRFF3536SV": {
+    "ts": "2026-07-15T08:37:15.250606+00:00",
+    "items": []
+  },
+  "sams|WRFF3536SV": {
+    "ts": "2026-07-15T08:37:19.818557+00:00",
+    "items": []
+  },
+  "amazon|WILLIAMSSONOMAALGODONCAMINOBLOCKSCALE": {
+    "ts": "2026-07-15T08:37:24.351536+00:00",
+    "items": []
+  },
+  "walmart|WILLIAMSSONOMAALGODONCAMINOBLOCKSCALE": {
+    "ts": "2026-07-15T08:37:26.415492+00:00",
+    "items": []
+  },
+  "sams|WILLIAMSSONOMAALGODONCAMINOBLOCKSCALE": {
+    "ts": "2026-07-15T08:37:28.125340+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
+    "ts": "2026-07-15T08:37:34.968136+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
+    "ts": "2026-07-15T08:37:37.818407+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOINSTINCTTACTICALMONITOR": {
+    "ts": "2026-07-15T08:37:39.865323+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORMOSSVENU": {
+    "ts": "2026-07-15T08:37:41.151165+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORMOSSVENU": {
+    "ts": "2026-07-15T08:37:43.268891+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOMONITORMOSSVENU": {
+    "ts": "2026-07-15T08:37:44.824789+00:00",
+    "items": []
+  },
+  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
+    "ts": "2026-07-15T08:37:47.001245+00:00",
+    "items": []
+  },
+  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
+    "ts": "2026-07-15T08:37:50.029515+00:00",
+    "items": []
+  },
+  "sams|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
+    "ts": "2026-07-15T08:37:51.634314+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERDEPORTIVOMONITOR570": {
+    "ts": "2026-07-15T08:37:53.084231+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERDEPORTIVOMONITOR570": {
+    "ts": "2026-07-15T08:37:54.727558+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERDEPORTIVOMONITOR570": {
+    "ts": "2026-07-15T08:37:56.335006+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORPEBBLESLATE": {
+    "ts": "2026-07-15T08:37:57.616674+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORPEBBLESLATE": {
+    "ts": "2026-07-15T08:37:59.383264+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORPEBBLESLATE": {
+    "ts": "2026-07-15T08:38:02.568108+00:00",
+    "items": []
+  },
+  "amazon|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-07-15T08:38:03.987131+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-07-15T08:38:06.200404+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-07-15T08:38:09.428565+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORDUSTROSE": {
+    "ts": "2026-07-15T08:38:10.741428+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORDUSTROSE": {
+    "ts": "2026-07-15T08:38:12.305203+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORDUSTROSE": {
+    "ts": "2026-07-15T08:38:15.225514+00:00",
+    "items": []
+  },
+  "amazon|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-15T08:38:16.651515+00:00",
+    "items": []
+  },
+  "walmart|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-15T08:38:18.767352+00:00",
+    "items": []
+  },
+  "sams|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-15T08:38:20.482438+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARMOUSSEFUSION": {
+    "ts": "2026-07-15T08:38:22.264643+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARMOUSSEFUSION": {
+    "ts": "2026-07-15T08:38:24.096726+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARMOUSSEFUSION": {
+    "ts": "2026-07-15T08:38:26.084737+00:00",
     "items": []
   }
 }

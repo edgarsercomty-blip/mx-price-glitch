@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-15 06:08 UTC",
-  "products_scanned": 1776,
+  "generated_at": "2026-07-15 08:38 UTC",
+  "products_scanned": 1688,
   "threshold_pct": 20.0,
-  "count": 20,
+  "count": 33,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.8,
+      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3344.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
+      "price": 3449.0,
+      "list_price": 6029.0,
+      "ean": null,
+      "model": "Co905Ks",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178822116",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -107,6 +128,27 @@
       "extra": {
         "id": "44672817",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$14,917 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5866.57,
+      "store": "liverpool",
+      "name": "Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495",
+      "price": 14916.95,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "Wm16Ewnts6P",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1179336495",
+        "marketplace": null
       }
     },
     {
@@ -258,6 +300,111 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401374",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401369",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951467",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -275,6 +422,27 @@
       "extra": {
         "id": "44928184",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.3,
+      "detail": "$25,496 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7844.85,
+      "store": "liverpool",
+      "name": "Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos Fabrica De Hielo Wrff3536Sv",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303",
+      "price": 25495.76,
+      "list_price": 52299.0,
+      "ean": null,
+      "model": "Wrff3536Sv",
+      "brand": "WHIRLPOOL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1185462303",
+        "marketplace": null
       }
     },
     {
@@ -364,21 +532,63 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$6,719 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1679.8,
+      "savings": 4599.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
-      "price": 6719.2,
-      "list_price": 8399.0,
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44439906",
+        "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44733803",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     },
@@ -410,8 +620,8 @@
       "likely_typo": false,
       "savings": 2919.8,
       "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "name": "Monitor para entrenamiento Venu X1 moss",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html",
       "price": 11679.2,
       "list_price": 14599.0,
       "ean": null,
@@ -420,7 +630,70 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44784098",
+        "id": "44784099",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Negro Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674661",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 719.8,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2879.2,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13399.8,
+      "store": "palacio",
+      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
+      "price": 53599.2,
+      "list_price": 66999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43587917",
         "outlet": false
       }
     }
