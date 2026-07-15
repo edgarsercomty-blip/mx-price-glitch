@@ -287,10 +287,10 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | -25% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | -23% |
-| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $3,999 | -26% |
+| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | -26% |
 | 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | -25% |
 | 🟢 disponible | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | -26% |
-| 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $6,099 | -47% |
+| 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | -46% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | -40% |
 | 🟢 disponible | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | -30% |
 | 🟢 disponible | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | -25% |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 18:20 UTC",
-  "products_scanned": 1753,
+  "generated_at": "2026-07-15 19:41 UTC",
+  "products_scanned": 1794,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,22 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.7,
-      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
+      "discount_pct": 40.4,
+      "detail": "$3,400 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
-      "savings": 4353.48,
+      "savings": 2849.0,
       "store": "liverpool",
-      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmrx0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328",
-      "price": 6530.22,
-      "list_price": 11819.4,
+      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
+      "price": 3400.0,
+      "list_price": 5700.0,
       "ean": null,
-      "model": "Rma300Fzmrx0",
-      "brand": "MABE",
+      "model": "Nbks50100",
+      "brand": "NUTRIBULLET",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1110895328",
+        "productId": "1172621941",
         "marketplace": null
       }
     },
@@ -216,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 14.9,
+      "detail": "$2,980 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1019.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co401B 7 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223",
+      "price": 2980.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": "Co401B",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -316,27 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2249.75,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
-      "price": 6749.25,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951467",
         "outlet": false
       }
     },
@@ -505,6 +505,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     }
