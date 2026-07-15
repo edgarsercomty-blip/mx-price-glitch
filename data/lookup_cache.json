@@ -215,18 +215,6 @@
     "ts": "2026-07-14T21:33:46.672134+00:00",
     "items": []
   },
-  "amazon|HUAWEISMARTWATCHHUAWEIFITGPS": {
-    "ts": "2026-07-13T04:48:44.891830+00:00",
-    "items": []
-  },
-  "walmart|HUAWEISMARTWATCHHUAWEIFITGPS": {
-    "ts": "2026-07-13T04:48:46.547170+00:00",
-    "items": []
-  },
-  "sams|HUAWEISMARTWATCHHUAWEIFITGPS": {
-    "ts": "2026-07-13T04:48:48.562365+00:00",
-    "items": []
-  },
   "amazon|GARMINENTRENAMIENTOMONITORFRENCHGRAY": {
     "ts": "2026-07-13T08:10:33.655034+00:00",
     "items": []
@@ -2053,6 +2041,18 @@
   },
   "mercadolibre|86UA8050PSA": {
     "ts": "2026-07-15T03:55:12.236166+00:00",
+    "items": []
+  },
+  "amazon|WILLIAMSSONOMAALGODONCAMINOSCALEBLOCK": {
+    "ts": "2026-07-15T06:08:17.802662+00:00",
+    "items": []
+  },
+  "walmart|WILLIAMSSONOMAALGODONCAMINOSCALEBLOCK": {
+    "ts": "2026-07-15T06:08:20.851454+00:00",
+    "items": []
+  },
+  "sams|WILLIAMSSONOMAALGODONCAMINOSCALEBLOCK": {
+    "ts": "2026-07-15T06:08:23.338203+00:00",
     "items": []
   }
 }

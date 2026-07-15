@@ -1,51 +1,9 @@
 {
-  "generated_at": "2026-07-15 03:55 UTC",
-  "products_scanned": 1721,
+  "generated_at": "2026-07-15 06:08 UTC",
+  "products_scanned": 1776,
   "threshold_pct": 20.0,
-  "count": 21,
+  "count": 20,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$991 en liverpool vs mercado -> -58% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1372.4,
-      "store": "liverpool",
-      "name": "Licuadora Oster 2114099 2 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521",
-      "price": 990.6,
-      "list_price": 1651.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1104553521",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 16090.0,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 14849.45,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -132,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$3,114 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -170,27 +107,6 @@
       "extra": {
         "id": "44672817",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$594 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 245.0,
-      "store": "liverpool",
-      "name": "Licuadora T Fal Ln8221Mx 12 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587",
-      "price": 594.3,
-      "list_price": 849.0,
-      "ean": null,
-      "model": "Ln8221Mx",
-      "brand": "T-FAL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1123821587",
-        "marketplace": null
       }
     },
     {
@@ -233,6 +149,48 @@
       "extra": {
         "id": "44585698",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$625 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 210.0,
+      "store": "liverpool",
+      "name": "Camino De Mesa De Algodon Scale Block",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535",
+      "price": 625.0,
+      "list_price": 625.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1149702535",
+        "marketplace": null
       }
     },
     {
@@ -427,21 +385,42 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 4599.8,
+      "savings": 2299.8,
       "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44110957",
+        "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     }

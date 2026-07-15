@@ -1,4 +1,4 @@
-# Productos en vigilancia (289)
+# Productos en vigilancia (290)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -197,7 +197,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,899 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $7,499 | -32% |
 | 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,598 | -29% |
-| 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $594 | -29% |
+| 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,674 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
 | 🟢 disponible | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $7,904 | -24% |
@@ -283,13 +283,14 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd C…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $29,999 | -46% |
 | 🟢 disponible | liverpool | [Tijeras Para Aves Poultry](https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012) | $356 | -25% |
 | 🟢 disponible | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | -25% |
-| 🟢 disponible | liverpool | [Licuadora Oster 2114099 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521) | $991 | -58% |
+| 🟢 disponible | liverpool | [Licuadora Oster 2114099 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521) | $2,363 | -58% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | -25% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | -23% |
 | 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $3,999 | -26% |
-| 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | -33% |
+| 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | -25% |
 | 🟢 disponible | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | -26% |
 | 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | -47% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | -40% |
 | 🟢 disponible | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | -30% |
+| 🟢 disponible | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | -25% |

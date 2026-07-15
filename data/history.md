@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (328)
+# Historial de ofertas encontradas (329)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-15 06:08 | -25% | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | $625 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 00:56 | -30% | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | $380 en liverpool vs mercado -> -30% bajo la competencia |
 | 2026-07-15 00:56 | -33% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | $212 en liverpool vs mercado -> -33% bajo la competencia |
 | 2026-07-15 00:56 | -40% | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
