@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (333)
+# Historial de ofertas encontradas (335)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-15 12:06 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
+| 2026-07-15 12:06 | -46% | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | $37,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-15 10:27 | -25% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | $335 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 08:38 | -24% | liverpool | [Refrigerador French Door Whirlpool Bismarck 30 Pies Cub…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303) | $25,496 | $25,496 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-15 08:38 | -25% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |

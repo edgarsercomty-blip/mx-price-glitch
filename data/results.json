@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-07-15 10:27 UTC",
-  "products_scanned": 1730,
+  "generated_at": "2026-07-15 12:06 UTC",
+  "products_scanned": 1724,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
+      "discount_pct": 0.0,
+      "detail": "$37,499 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
-      "savings": 3344.0,
+      "savings": 31530.0,
       "store": "liverpool",
-      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
-      "price": 3449.0,
-      "list_price": 6029.0,
+      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741",
+      "price": 37499.0,
+      "list_price": 37499.0,
       "ean": null,
-      "model": "Co905Ks",
-      "brand": "NINJA",
+      "model": null,
+      "brand": "APPLE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1178822116",
+        "productId": "1196168741",
         "marketplace": null
       }
     },
@@ -405,6 +405,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 24.6,
+      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 123.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Sovico",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780",
+      "price": 376.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "SOVICO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1132756780",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -574,6 +595,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2919.8,
@@ -616,27 +658,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 719.8,
@@ -658,21 +679,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 13399.8,
+      "savings": 2299.8,
       "store": "palacio",
-      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
-      "price": 53599.2,
-      "list_price": 66999.0,
+      "name": "Monitor Deportivo Forerunner 570 Azul/Blanco Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43587917",
+        "id": "44674668",
         "outlet": false
       }
     }
