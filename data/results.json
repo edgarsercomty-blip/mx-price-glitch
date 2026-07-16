@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15 23:52 UTC",
-  "products_scanned": 1763,
+  "generated_at": "2026-07-16 01:47 UTC",
+  "products_scanned": 1743,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -258,27 +258,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 80.0,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 235.0,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -426,6 +405,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 24.6,
+      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 123.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Sovico",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771",
+      "price": 376.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "SOVICO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1132756771",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -506,6 +506,27 @@
       "extra": {
         "id": "45068396",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.3,
+      "detail": "$5,819 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.0,
+      "store": "liverpool",
+      "name": "Cubot Kingkong 11 Lcd 6 7 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892",
+      "price": 5819.0,
+      "list_price": 7298.0,
+      "ean": null,
+      "model": null,
+      "brand": "CUBOT",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189562892",
+        "marketplace": null
       }
     },
     {
