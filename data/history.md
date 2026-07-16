@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (343)
+# Historial de ofertas encontradas (344)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-16 03:58 | -21% | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | $2,879 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-16 01:47 | -20% | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | $5,819 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-16 01:47 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 23:52 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978226057) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |

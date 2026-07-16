@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 01:47 UTC",
-  "products_scanned": 1743,
+  "generated_at": "2026-07-16 03:58 UTC",
+  "products_scanned": 1739,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 22,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,90 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$2,245 en palacio vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1347.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html",
-      "price": 2245.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44842808",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$18,809 en palacio vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9689.66,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
-      "price": 18809.34,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44677942",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 872.5,
-      "store": "palacio",
-      "name": "Cafetera Vertuo Pop Samra",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45081397",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.4,
-      "detail": "$3,400 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1499.5,
-      "store": "liverpool",
-      "name": "Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941",
-      "price": 3400.0,
-      "list_price": 5700.0,
-      "ean": null,
-      "model": "Nbks50100",
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172621941",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -153,22 +69,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$3,114 en palacio vs mercado -> -29% bajo la competencia",
+      "discount_pct": 62.0,
+      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 1297.5,
+      "savings": 3079.13,
       "store": "palacio",
-      "name": "Combo Cafetera Vertuo Next Negra Aeroccino XL",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html",
-      "price": 3114.0,
-      "list_price": 5190.0,
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 7219.62,
+      "list_price": 18999.0,
       "ean": null,
-      "model": null,
-      "brand": "Nespresso",
+      "model": "55QM64L",
+      "brand": "Tcl",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44672817",
+        "id": "45361102",
         "outlet": false
       }
     },
@@ -258,44 +174,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 849.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Vívosmart 5 negro para Entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html",
-      "price": 2549.25,
-      "list_price": 3399.0,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "WILLIAMS-SONOMA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42538928",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1574.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 165 Music para Correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html",
-      "price": 4724.25,
-      "list_price": 6299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43698152",
-        "outlet": false
+        "productId": "1067167747",
+        "marketplace": null
       }
     },
     {
@@ -363,69 +258,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132756780",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132844999",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132844999",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.6,
-      "detail": "$376 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 123.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Sovico",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771",
-      "price": 376.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SOVICO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1132756771",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -447,44 +279,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.2,
-      "detail": "$383 en liverpool vs mercado -> -23% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$2,245 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 116.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Ecoshopmaster",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978289038",
-      "price": 383.0,
-      "list_price": 499.0,
+      "savings": 673.5,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html",
+      "price": 2245.0,
+      "list_price": 4490.0,
       "ean": null,
       "model": null,
-      "brand": "ECOSHOPMASTER",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "99978289038",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.2,
-      "detail": "$383 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 116.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Ecoshopmaster",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978226057",
-      "price": 383.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "ECOSHOPMASTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "99978226057",
-        "marketplace": null
+        "id": "44842808",
+        "outlet": false
       }
     },
     {
@@ -505,6 +316,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45068396",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.1,
+      "detail": "$2,879 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 776.5,
+      "store": "liverpool",
+      "name": "Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197",
+      "price": 2879.0,
+      "list_price": 3604.0,
+      "ean": null,
+      "model": null,
+      "brand": "CUBOT",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1170123197",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$18,809 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4844.83,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
+      "price": 18809.34,
+      "list_price": 28499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44677942",
         "outlet": false
       }
     },
@@ -531,22 +384,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1329.8,
+      "savings": 436.25,
       "store": "palacio",
-      "name": "Monitor Forerunner 265S Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html",
-      "price": 5319.2,
-      "list_price": 6649.0,
+      "name": "Cafetera Vertuo Pop Samra",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43074174",
+        "id": "45081397",
         "outlet": false
       }
     },
@@ -610,48 +463,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110957",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
         "outlet": false
       }
     }

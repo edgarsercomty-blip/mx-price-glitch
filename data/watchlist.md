@@ -1,4 +1,4 @@
-# Productos en vigilancia (302)
+# Productos en vigilancia (303)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -209,7 +209,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | -24% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $8,921 | -24% |
 | 🟢 disponible | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | -22% |
-| 🟢 disponible | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | -33% |
+| 🟢 disponible | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | -20% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | -30% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $8,999 | -29% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, Desblo…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $8,999 | -30% |
@@ -218,9 +218,9 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,589 | -26% |
 | 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $24,119 | -28% |
-| 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | -34% |
+| 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $18,809 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $24,119 | -28% |
-| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $2,245 | -38% |
+| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $2,245 | -23% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | -30% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,399 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $34,499 | -25% |
@@ -306,3 +306,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978226057) | $383 | -23% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771) | $376 | -25% |
 | 🟢 disponible | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | -20% |
+| 🟢 disponible | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | -21% |
