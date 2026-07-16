@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (352)
+# Historial de ofertas encontradas (353)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-16 19:59 | -32% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $302 | $302 en liverpool vs mercado -> -32% bajo la competencia |
 | 2026-07-16 18:57 | -25% | palacio | [Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verd…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-16 12:55 | -26% | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | $147 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |

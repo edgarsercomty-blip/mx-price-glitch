@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16 18:57 UTC",
-  "products_scanned": 1724,
+  "generated_at": "2026-07-16 19:59 UTC",
+  "products_scanned": 1726,
   "threshold_pct": 20.0,
   "count": 31,
   "findings": [
@@ -132,6 +132,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 10.0,
+      "detail": "$212 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.5,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 211.5,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 10.0,
+      "detail": "$302 en liverpool vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 143.5,
+      "store": "liverpool",
+      "name": "Set Regalo Moscow Mule",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
+      "price": 301.5,
+      "list_price": 335.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1137579509",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -153,43 +195,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$8,399 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3099.8,
-      "store": "palacio",
-      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
-      "price": 8399.2,
-      "list_price": 10499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44733803",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 207.74,
+      "savings": 51.74,
       "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
+      "name": "Cable de Carga tipo C",
+      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
+      "price": 147.26,
+      "list_price": 199.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44815304",
+        "id": "41564840",
         "outlet": false
       }
     },
@@ -326,8 +347,8 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
       "price": 7049.25,
       "list_price": 9399.0,
       "ean": null,
@@ -336,7 +357,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401374",
+        "id": "43401370",
         "outlet": false
       }
     },
@@ -359,48 +380,6 @@
       "extra": {
         "id": "44951467",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2249.75,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verde, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html",
-      "price": 6749.25,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600340",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$335 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 110.0,
-      "store": "liverpool",
-      "name": "Set Regalo Moscow Mule",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
-      "price": 335.0,
-      "list_price": 335.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1137579509",
-        "marketplace": null
       }
     },
     {
@@ -631,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
         "outlet": false
       }
     },
