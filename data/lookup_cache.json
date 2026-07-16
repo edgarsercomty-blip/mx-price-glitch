@@ -690,18 +690,6 @@
     "ts": "2026-07-16T16:13:20.934065+00:00",
     "items": []
   },
-  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUONEGRA": {
-    "ts": "2026-07-14T20:32:59.430165+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUONEGRA": {
-    "ts": "2026-07-14T20:33:01.635598+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERAVERTUONEGRA": {
-    "ts": "2026-07-14T20:33:05.437377+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
     "ts": "2026-07-14T21:33:39.814588+00:00",
     "items": []
@@ -2104,6 +2092,78 @@
   },
   "sams|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
     "ts": "2026-07-16T19:59:46.986719+00:00",
+    "items": []
+  },
+  "amazon|FC0240LA": {
+    "ts": "2026-07-16T21:02:34.075853+00:00",
+    "items": []
+  },
+  "walmart|FC0240LA": {
+    "ts": "2026-07-16T21:02:35.771420+00:00",
+    "items": []
+  },
+  "sams|FC0240LA": {
+    "ts": "2026-07-16T21:02:38.103855+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAESPRESSO212196OSTER": {
+    "ts": "2026-07-16T21:02:39.542405+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAESPRESSO212196OSTER": {
+    "ts": "2026-07-16T21:02:41.793222+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAESPRESSO212196OSTER": {
+    "ts": "2026-07-16T21:02:43.295189+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKAPPLECHIP512": {
+    "ts": "2026-07-16T21:02:45.519029+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKAPPLECHIP512": {
+    "ts": "2026-07-16T21:02:47.466616+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKAPPLECHIP512": {
+    "ts": "2026-07-16T21:02:49.063873+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-16T21:02:50.478900+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-16T21:02:52.485416+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-16T21:02:54.000505+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKESTELARAPPLECHIP": {
+    "ts": "2026-07-16T21:02:55.929347+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKESTELARAPPLECHIP": {
+    "ts": "2026-07-16T21:02:57.818023+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKESTELARAPPLECHIP": {
+    "ts": "2026-07-16T21:02:59.491906+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
+    "ts": "2026-07-16T21:03:02.740560+00:00",
+    "items": []
+  },
+  "walmart|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
+    "ts": "2026-07-16T21:03:09.395610+00:00",
+    "items": []
+  },
+  "sams|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
+    "ts": "2026-07-16T21:03:11.982775+00:00",
     "items": []
   }
 }
