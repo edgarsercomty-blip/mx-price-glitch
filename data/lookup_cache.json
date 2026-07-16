@@ -550,27 +550,27 @@
     "items": []
   },
   "liverpool|QNED86": {
-    "ts": "2026-07-14T16:11:13.402944+00:00",
+    "ts": "2026-07-16T16:12:35.691238+00:00",
     "items": []
   },
   "amazon|QNED86": {
-    "ts": "2026-07-14T16:11:15.293947+00:00",
+    "ts": "2026-07-16T16:12:37.861232+00:00",
     "items": []
   },
   "walmart|QNED86": {
-    "ts": "2026-07-14T16:11:18.120393+00:00",
+    "ts": "2026-07-16T16:12:44.201605+00:00",
     "items": []
   },
   "sams|QNED86": {
-    "ts": "2026-07-14T16:11:19.903373+00:00",
+    "ts": "2026-07-16T16:12:47.325520+00:00",
     "items": []
   },
   "mercadolibre|QNED86": {
-    "ts": "2026-07-14T16:11:21.107081+00:00",
+    "ts": "2026-07-16T16:12:48.443343+00:00",
     "items": []
   },
   "palacio|ARU122NFW": {
-    "ts": "2026-07-14T16:11:23.235589+00:00",
+    "ts": "2026-07-16T16:12:53.884721+00:00",
     "items": [
       {
         "store": "palacio",
@@ -581,38 +581,10 @@
       },
       {
         "store": "palacio",
-        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
-        "price": 9434.49,
-        "model": "LP1225WC"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 9999.5,
-        "model": "VM122C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
-        "price": 15599.4,
-        "model": "VR122HD"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
-        "price": 13199.4,
-        "model": "VM122H9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit BIG Inverter SW362H8 Enfriamiento 33,000 BTU-h, Calefacción 29,000 BTU-h 3 Toneladas 220V",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-big-inverter-sw362h8%C2%A0enfriamiento-33000-btu-h-calefaccion-29000-btu-h-3-toneladas-220v-40338133.html",
-        "price": 34319.34,
-        "model": "SW362H8"
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
+        "price": 22799.4,
+        "model": "VR242CW"
       },
       {
         "store": "palacio",
@@ -630,17 +602,31 @@
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242H9 22,000 BTU-h 2 Toneladas 220V Frío y Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242h9-22000-btu-h-2-toneladas-220v-frio-y-calor-40785874.html",
-        "price": 18899.4,
-        "model": "VM242H9"
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
+        "price": 15599.4,
+        "model": "VR122HD"
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
-        "price": 10724.45,
-        "model": null
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit BIG Inverter SW362H8 Enfriamiento 33,000 BTU-h, Calefacción 29,000 BTU-h 3 Toneladas 220V",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-big-inverter-sw362h8%C2%A0enfriamiento-33000-btu-h-calefaccion-29000-btu-h-3-toneladas-220v-40338133.html",
+        "price": 34319.34,
+        "model": "SW362H8"
       },
       {
         "store": "palacio",
@@ -648,6 +634,20 @@
         "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
         "price": 8699.25,
         "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
+        "price": 9434.49,
+        "model": "LP1225WC"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
+        "price": 10724.45,
+        "model": null
       },
       {
         "store": "palacio",
@@ -659,245 +659,59 @@
     ]
   },
   "amazon|ARU122NFW": {
-    "ts": "2026-07-14T16:11:24.668115+00:00",
+    "ts": "2026-07-16T16:12:55.233678+00:00",
     "items": []
   },
   "walmart|ARU122NFW": {
-    "ts": "2026-07-14T16:11:26.744017+00:00",
+    "ts": "2026-07-16T16:12:56.759578+00:00",
     "items": []
   },
   "sams|ARU122NFW": {
-    "ts": "2026-07-14T16:11:33.773317+00:00",
+    "ts": "2026-07-16T16:12:58.921104+00:00",
     "items": []
   },
   "mercadolibre|ARU122NFW": {
-    "ts": "2026-07-14T16:11:35.021598+00:00",
-    "items": []
-  },
-  "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-07-14T16:11:37.312460+00:00",
-    "items": []
-  },
-  "amazon|UN98DU9000FXZX": {
-    "ts": "2026-07-14T16:11:38.791632+00:00",
-    "items": []
-  },
-  "walmart|UN98DU9000FXZX": {
-    "ts": "2026-07-14T16:11:42.138466+00:00",
-    "items": []
-  },
-  "sams|UN98DU9000FXZX": {
-    "ts": "2026-07-14T16:11:43.962323+00:00",
-    "items": []
-  },
-  "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-07-14T16:11:46.369933+00:00",
-    "items": []
-  },
-  "palacio|98UT9050PSA": {
-    "ts": "2026-07-14T16:11:49.512840+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
-        "price": 20699.28,
-        "model": "UN85U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana QD-Mini LED 98QM6K",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-mini-led-98qm6k-44576133.html",
-        "price": 38464.51,
-        "model": "98QM6K"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
-        "price": 31999.1,
-        "model": "QN75QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Fire TV 98QM64L",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
-        "price": 37799.37,
-        "model": "98QM64L"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
-        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
-        "price": 42839.37,
-        "model": "100Z670RM"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana QLED 4K QN98Q80CAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-qled-4k-qn98q80cafxzx-43280837.html",
-        "price": 157141.0,
-        "model": "QN98Q80CAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
-        "price": 30239.44,
-        "model": "98A400"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
-        "price": 48411.51,
-        "model": "98Qm7K"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 47141.82,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85X11L SQD",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85x11l-sqd-45368768.html",
-        "price": 90159.44,
-        "model": "85X11L"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
-        "price": 121427.0,
-        "model": "QN85QN85DBFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado VM121C10 Inverter 12,000 BTU's, 115 V Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-vm121c10-inverter-12000-btus-115-v-frio-45586025.html",
-        "price": 13199.34,
-        "model": "VM121C10"
-      }
-    ]
-  },
-  "amazon|98UT9050PSA": {
-    "ts": "2026-07-14T16:11:52.120447+00:00",
-    "items": []
-  },
-  "walmart|98UT9050PSA": {
-    "ts": "2026-07-14T16:11:53.890823+00:00",
-    "items": []
-  },
-  "sams|98UT9050PSA": {
-    "ts": "2026-07-14T16:11:56.165785+00:00",
-    "items": []
-  },
-  "mercadolibre|98UT9050PSA": {
-    "ts": "2026-07-14T16:11:57.737109+00:00",
+    "ts": "2026-07-16T16:13:00.414027+00:00",
     "items": []
   },
   "liverpool|98UT9050": {
-    "ts": "2026-07-14T16:11:59.827263+00:00",
+    "ts": "2026-07-16T16:13:05.464125+00:00",
     "items": []
   },
   "amazon|98UT9050": {
-    "ts": "2026-07-14T16:12:01.023201+00:00",
+    "ts": "2026-07-16T16:13:06.646405+00:00",
     "items": []
   },
   "walmart|98UT9050": {
-    "ts": "2026-07-14T16:12:02.934908+00:00",
+    "ts": "2026-07-16T16:13:08.598168+00:00",
     "items": []
   },
   "sams|98UT9050": {
-    "ts": "2026-07-14T16:12:04.717161+00:00",
+    "ts": "2026-07-16T16:13:12.350409+00:00",
     "items": []
   },
   "mercadolibre|98UT9050": {
-    "ts": "2026-07-14T16:12:07.448812+00:00",
-    "items": []
-  },
-  "liverpool|65QNED9MASA": {
-    "ts": "2026-07-14T16:12:12.152623+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned9Masa Con Evo Ai True Wireless",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned9masa-con-evo-ai-true-wireless/1178739324",
-        "price": 19999.0,
-        "model": "65Qned9Masa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Oled 55 Pulgadas 4K Oled55B6Psa Con Ai Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-55-pulgadas-4k-oled55b6psa-con-ai-webos/1199017001",
-        "price": 21998.9,
-        "model": "Oled55B6Psa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Lg Nanocell De 75 Pulgadas 4K 75Nano80Asa Con Webos",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-75-pulgadas-4k-75nano80asa-con-webos/1175969094",
-        "price": 11998.7,
-        "model": "75Nano80Asa"
-      },
-      {
-        "store": "liverpool",
-        "name": "Soporte Para Router Impremli Kit Decox50",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/soporte-para-router-impremli-kit-decox50/99975410678",
-        "price": 1448.84,
-        "model": "Decox50"
-      }
-    ]
-  },
-  "amazon|65QNED9MASA": {
-    "ts": "2026-07-14T16:12:15.349419+00:00",
-    "items": []
-  },
-  "walmart|65QNED9MASA": {
-    "ts": "2026-07-14T16:12:18.368221+00:00",
-    "items": []
-  },
-  "sams|65QNED9MASA": {
-    "ts": "2026-07-14T16:12:19.801690+00:00",
-    "items": []
-  },
-  "mercadolibre|65QNED9MASA": {
-    "ts": "2026-07-14T16:12:21.127781+00:00",
+    "ts": "2026-07-16T16:13:13.659878+00:00",
     "items": []
   },
   "liverpool|WK22BS6": {
-    "ts": "2026-07-14T16:12:23.530157+00:00",
+    "ts": "2026-07-16T16:13:15.390767+00:00",
     "items": []
   },
   "amazon|WK22BS6": {
-    "ts": "2026-07-14T16:12:24.765822+00:00",
+    "ts": "2026-07-16T16:13:16.599551+00:00",
     "items": []
   },
   "walmart|WK22BS6": {
-    "ts": "2026-07-14T16:12:26.490819+00:00",
+    "ts": "2026-07-16T16:13:18.223193+00:00",
     "items": []
   },
   "sams|WK22BS6": {
-    "ts": "2026-07-14T16:12:28.917858+00:00",
+    "ts": "2026-07-16T16:13:19.698354+00:00",
     "items": []
   },
   "mercadolibre|WK22BS6": {
-    "ts": "2026-07-14T16:12:31.298920+00:00",
-    "items": []
-  },
-  "amazon|NBKS50100": {
-    "ts": "2026-07-14T16:12:32.631601+00:00",
-    "items": []
-  },
-  "walmart|NBKS50100": {
-    "ts": "2026-07-14T16:12:34.162372+00:00",
-    "items": []
-  },
-  "sams|NBKS50100": {
-    "ts": "2026-07-14T16:12:36.376723+00:00",
+    "ts": "2026-07-16T16:13:20.934065+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
