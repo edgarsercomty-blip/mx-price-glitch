@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-16 04:52 UTC",
-  "products_scanned": 1710,
+  "generated_at": "2026-07-16 07:17 UTC",
+  "products_scanned": 1741,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 27,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,599 en liverpool vs mercado -> -62% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10848.6,
+      "store": "liverpool",
+      "name": "Cafetera Espresso Smeg 50 S Style Ecf02",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863",
+      "price": 6599.4,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Ecf02",
+      "brand": "SMEG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1163021863",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 0.0,
@@ -22,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196168741",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.5,
+      "detail": "$4,369 en liverpool vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2811.0,
+      "store": "liverpool",
+      "name": "Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
+      "price": 4369.0,
+      "list_price": 6769.0,
+      "ean": null,
+      "model": "Dq6011Dx",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181496939",
         "marketplace": null
       }
     },
@@ -132,6 +174,69 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 80.0,
+      "store": "liverpool",
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 235.0,
+      "list_price": 235.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1067167747",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2874.75,
+      "store": "palacio",
+      "name": "Monitor deportivo Venu 4, 41 mm casual",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html",
+      "price": 8624.25,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44973731",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -169,48 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44973731",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
         "outlet": false
       }
     },
@@ -275,6 +338,27 @@
       "extra": {
         "id": "44842808",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.5,
+      "detail": "$2,339 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 659.9,
+      "store": "liverpool",
+      "name": "Motorola Moto G15 Lcd 6 7 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393",
+      "price": 2339.35,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOTOROLA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173028393",
+        "marketplace": null
       }
     },
     {
@@ -427,6 +511,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 moss",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784099",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4599.8,
@@ -463,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
         "outlet": false
       }
     }

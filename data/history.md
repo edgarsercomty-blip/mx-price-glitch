@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (344)
+# Historial de ofertas encontradas (347)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-16 07:17 | -22% | liverpool | [Motorola Moto G15 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393) | $2,339 | $2,339 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-07-16 07:17 | -39% | liverpool | [Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $4,369 | $4,369 en liverpool vs mercado -> -39% bajo la competencia |
+| 2026-07-16 07:17 | -62% | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | 2026-07-16 03:58 | -21% | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | $2,879 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-16 01:47 | -20% | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | $5,819 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-16 01:47 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |

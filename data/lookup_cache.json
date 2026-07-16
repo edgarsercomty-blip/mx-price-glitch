@@ -107,18 +107,6 @@
     "ts": "2026-07-15T16:16:34.996232+00:00",
     "items": []
   },
-  "amazon|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-14T06:37:43.256870+00:00",
-    "items": []
-  },
-  "walmart|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-14T06:37:45.123012+00:00",
-    "items": []
-  },
-  "sams|GARMINSMARTWATCHGARMINVENUGPS": {
-    "ts": "2026-07-14T06:37:46.742300+00:00",
-    "items": []
-  },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
     "ts": "2026-07-14T12:00:44.201562+00:00",
     "items": []
@@ -526,15 +514,15 @@
     "items": []
   },
   "amazon|LDTS5552S": {
-    "ts": "2026-07-14T06:37:48.292852+00:00",
+    "ts": "2026-07-16T07:17:10.496653+00:00",
     "items": []
   },
   "walmart|LDTS5552S": {
-    "ts": "2026-07-14T06:37:49.858435+00:00",
+    "ts": "2026-07-16T07:17:11.915214+00:00",
     "items": []
   },
   "sams|LDTS5552S": {
-    "ts": "2026-07-14T06:37:51.920784+00:00",
+    "ts": "2026-07-16T07:17:13.909399+00:00",
     "items": []
   },
   "amazon|WT25PBTX6": {
@@ -2278,6 +2266,42 @@
   },
   "sams|APPLEMACBOOKAPPLECHIPAIR": {
     "ts": "2026-07-16T01:47:11.471419+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLAMOTOROLATELCELMOTOG15": {
+    "ts": "2026-07-16T07:17:00.467905+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLAMOTOROLATELCELMOTOG15": {
+    "ts": "2026-07-16T07:17:02.256180+00:00",
+    "items": []
+  },
+  "sams|MOTOROLAMOTOROLATELCELMOTOG15": {
+    "ts": "2026-07-16T07:17:04.042256+00:00",
+    "items": []
+  },
+  "amazon|DQ6011DX": {
+    "ts": "2026-07-16T07:17:06.304082+00:00",
+    "items": []
+  },
+  "walmart|DQ6011DX": {
+    "ts": "2026-07-16T07:17:07.789808+00:00",
+    "items": []
+  },
+  "sams|DQ6011DX": {
+    "ts": "2026-07-16T07:17:09.281780+00:00",
+    "items": []
+  },
+  "amazon|ECF02": {
+    "ts": "2026-07-16T07:17:15.375489+00:00",
+    "items": []
+  },
+  "walmart|ECF02": {
+    "ts": "2026-07-16T07:17:20.378693+00:00",
+    "items": []
+  },
+  "sams|ECF02": {
+    "ts": "2026-07-16T07:17:22.262684+00:00",
     "items": []
   }
 }
