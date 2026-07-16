@@ -24,15 +24,15 @@
     "items": []
   },
   "amazon|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-14T12:00:13.172257+00:00",
+    "ts": "2026-07-16T12:54:47.134187+00:00",
     "items": []
   },
   "walmart|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-14T12:00:14.987078+00:00",
+    "ts": "2026-07-16T12:54:48.786689+00:00",
     "items": []
   },
   "sams|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
-    "ts": "2026-07-14T12:00:16.666479+00:00",
+    "ts": "2026-07-16T12:54:50.801603+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
@@ -108,15 +108,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-14T12:00:44.201562+00:00",
+    "ts": "2026-07-16T12:54:56.963646+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-14T12:00:45.922811+00:00",
+    "ts": "2026-07-16T12:54:58.935021+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
-    "ts": "2026-07-14T12:00:47.746340+00:00",
+    "ts": "2026-07-16T12:55:00.625103+00:00",
     "items": []
   },
   "amazon|WA19CG6746BVAX": {
@@ -538,39 +538,15 @@
     "items": []
   },
   "amazon|CO401B": {
-    "ts": "2026-07-14T12:00:21.295076+00:00",
+    "ts": "2026-07-16T12:54:52.289164+00:00",
     "items": []
   },
   "walmart|CO401B": {
-    "ts": "2026-07-14T12:00:23.571857+00:00",
+    "ts": "2026-07-16T12:54:54.184624+00:00",
     "items": []
   },
   "sams|CO401B": {
-    "ts": "2026-07-14T12:00:33.067011+00:00",
-    "items": []
-  },
-  "amazon|LN8221MX": {
-    "ts": "2026-07-14T12:00:36.173629+00:00",
-    "items": []
-  },
-  "walmart|LN8221MX": {
-    "ts": "2026-07-14T12:00:38.195682+00:00",
-    "items": []
-  },
-  "sams|LN8221MX": {
-    "ts": "2026-07-14T12:00:42.872457+00:00",
-    "items": []
-  },
-  "amazon|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
-    "ts": "2026-07-14T12:00:49.178299+00:00",
-    "items": []
-  },
-  "walmart|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
-    "ts": "2026-07-14T12:00:51.412058+00:00",
-    "items": []
-  },
-  "sams|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
-    "ts": "2026-07-14T12:00:54.514852+00:00",
+    "ts": "2026-07-16T12:54:55.736805+00:00",
     "items": []
   },
   "amazon|WILLIAMSSONOMACERAMICASICILYBOWL": {
@@ -2278,6 +2254,30 @@
   },
   "sams|GARMINENTRENAMIENTOMONITORVENU": {
     "ts": "2026-07-16T11:20:29.889677+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-16T12:55:01.843486+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-16T12:55:03.303761+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-16T12:55:05.514786+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-16T12:55:06.729861+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-16T12:55:10.912390+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-16T12:55:12.451903+00:00",
     "items": []
   }
 }

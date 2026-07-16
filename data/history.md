@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (350)
+# Historial de ofertas encontradas (351)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-16 12:55 | -26% | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | $147 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -35% | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | $292 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-16 09:32 | -36% | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | $191 en palacio vs mercado -> -36% bajo la competencia |
