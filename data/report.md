@@ -1,12 +1,13 @@
-# Errores/chollos de precio — 2026-07-16 16:13 UTC
+# Errores/chollos de precio — 2026-07-16 17:42 UTC
 
-- Productos revisados: **1729**
+- Productos revisados: **1743**
 - Umbral de diferencia: **20%**
 - Hallazgos: **32**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -46% | $31,530 | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | Confirmado vs competencia | $37,499 en liverpool vs mercado -> -46% bajo la competencia |
+| -52% | $16,090 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,849 | Confirmado vs competencia | $14,849 en palacio vs mercado -> -52% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | -26% | $10,556 | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | Confirmado vs competencia | $30,380 en palacio vs mercado -> -26% bajo la competencia |
 | -25% | $5,525 | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | Confirmado vs competencia | $16,574 en liverpool vs mercado -> -25% bajo la competencia |
@@ -15,7 +16,6 @@
 | -20% | $4,600 | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,600 | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
-| -30% | $3,079 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | Confirmado vs competencia | $7,220 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $2,920 | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | Confirmado vs competencia | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $2,920 | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | Confirmado vs competencia | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |

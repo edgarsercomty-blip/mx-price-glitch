@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16 16:13 UTC",
-  "products_scanned": 1729,
+  "generated_at": "2026-07-16 17:42 UTC",
+  "products_scanned": 1743,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
@@ -23,6 +23,27 @@
       "extra": {
         "productId": "1163021863",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$14,849 en palacio vs mercado -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 16090.0,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 14849.45,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
       }
     },
     {
@@ -127,27 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.0,
-      "detail": "$7,220 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.13,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
-      "price": 7219.62,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": "55QM64L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361102",
         "outlet": false
       }
     },
