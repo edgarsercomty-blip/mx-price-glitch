@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (347)
+# Historial de ofertas encontradas (350)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-07-16 09:32 | -35% | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | $292 en palacio vs mercado -> -35% bajo la competencia |
+| 2026-07-16 09:32 | -36% | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | $191 en palacio vs mercado -> -36% bajo la competencia |
 | 2026-07-16 07:17 | -22% | liverpool | [Motorola Moto G15 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393) | $2,339 | $2,339 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-16 07:17 | -39% | liverpool | [Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $4,369 | $4,369 en liverpool vs mercado -> -39% bajo la competencia |
 | 2026-07-16 07:17 | -62% | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | $6,599 en liverpool vs mercado -> -62% bajo la competencia |

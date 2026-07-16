@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 07:17 UTC",
-  "products_scanned": 1741,
+  "generated_at": "2026-07-16 09:32 UTC",
+  "products_scanned": 1734,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,6 +69,69 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8400.24,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "75Qned73Asc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192293321",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$191 en palacio vs mercado -> -36% bajo la competencia",
+      "likely_typo": false,
+      "savings": 107.64,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A56 Transparente",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html",
+      "price": 191.36,
+      "list_price": 299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563913",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44733803",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 207.74,
+      "store": "palacio",
+      "name": "Funda para celular Galaxy Z Flip 7, Navy",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
+      "price": 591.26,
+      "list_price": 799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44815304",
         "outlet": false
       }
     },
@@ -195,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -274,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951467",
         "outlet": false
       }
     },
@@ -338,27 +422,6 @@
       "extra": {
         "id": "44842808",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.5,
-      "detail": "$2,339 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 659.9,
-      "store": "liverpool",
-      "name": "Motorola Moto G15 Lcd 6 7 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393",
-      "price": 2339.35,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOTOROLA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173028393",
-        "marketplace": null
       }
     },
     {
