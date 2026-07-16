@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 17:42 UTC",
-  "products_scanned": 1743,
+  "generated_at": "2026-07-16 18:57 UTC",
+  "products_scanned": 1724,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -153,43 +153,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.0,
-      "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$8,399 en palacio vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
-      "savings": 900.2,
-      "store": "liverpool",
-      "name": "Set Licuadora Personal Ninja Ss151 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254",
-      "price": 2299.0,
-      "list_price": 4999.0,
+      "savings": 3099.8,
+      "store": "palacio",
+      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
+      "price": 8399.2,
+      "list_price": 10499.0,
       "ean": null,
-      "model": "Ss151",
-      "brand": "NINJA",
+      "model": null,
+      "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1180553254",
-        "marketplace": null
+        "id": "44733803",
+        "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 51.74,
+      "savings": 207.74,
       "store": "palacio",
-      "name": "Cable de Carga tipo C",
-      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
-      "price": 147.26,
-      "list_price": 199.0,
+      "name": "Funda para celular Galaxy Z Flip 7, Navy",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
+      "price": 591.26,
+      "list_price": 799.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "41564840",
+        "id": "44815304",
         "outlet": false
       }
     },
@@ -232,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$235 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 80.0,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 235.0,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
         "marketplace": null
       }
     },
@@ -347,8 +326,8 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
       "price": 7049.25,
       "list_price": 9399.0,
       "ean": null,
@@ -357,7 +336,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401370",
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -379,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951467",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verde, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600340",
         "outlet": false
       }
     },
@@ -631,27 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
         "outlet": false
       }
     },

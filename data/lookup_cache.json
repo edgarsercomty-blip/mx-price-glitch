@@ -35,18 +35,6 @@
     "ts": "2026-07-16T12:54:50.801603+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-14T17:46:38.561221+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-14T17:46:40.932784+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARVIOLETAGALAXY": {
-    "ts": "2026-07-14T17:46:43.284080+00:00",
-    "items": []
-  },
   "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEIPURA": {
     "ts": "2026-07-15T12:05:21.109416+00:00",
     "items": []
@@ -120,27 +108,15 @@
     "items": []
   },
   "amazon|WA19CG6746BVAX": {
-    "ts": "2026-07-14T17:46:26.730906+00:00",
+    "ts": "2026-07-16T18:57:22.165003+00:00",
     "items": []
   },
   "walmart|WA19CG6746BVAX": {
-    "ts": "2026-07-14T17:46:28.529589+00:00",
+    "ts": "2026-07-16T18:57:24.557650+00:00",
     "items": []
   },
   "sams|WA19CG6746BVAX": {
-    "ts": "2026-07-14T17:46:30.995948+00:00",
-    "items": []
-  },
-  "amazon|VO182H1": {
-    "ts": "2026-07-14T17:46:32.450991+00:00",
-    "items": []
-  },
-  "walmart|VO182H1": {
-    "ts": "2026-07-14T17:46:34.710170+00:00",
-    "items": []
-  },
-  "sams|VO182H1": {
-    "ts": "2026-07-14T17:46:36.936089+00:00",
+    "ts": "2026-07-16T18:57:33.067271+00:00",
     "items": []
   },
   "amazon|GARMINDEPORTIVOMONITORCASUALVENU": {
@@ -712,18 +688,6 @@
   },
   "mercadolibre|WK22BS6": {
     "ts": "2026-07-16T16:13:20.934065+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-07-14T17:46:11.467922+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-07-14T17:46:15.691879+00:00",
-    "items": []
-  },
-  "sams|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-07-14T17:46:19.174390+00:00",
     "items": []
   },
   "amazon|NESPRESSOAEROCCINOCAFETERAVERTUONEGRA": {
@@ -2104,6 +2068,30 @@
   },
   "sams|WT25PBTX6": {
     "ts": "2026-07-16T17:42:05.847559+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-16T18:57:35.024992+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-16T18:57:39.255127+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-16T18:57:41.195944+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-16T18:57:43.080290+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-16T18:57:45.255024+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-16T18:57:49.623775+00:00",
     "items": []
   }
 }
