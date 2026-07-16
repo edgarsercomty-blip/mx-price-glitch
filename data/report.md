@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-16 03:58 UTC
+# Errores/chollos de precio — 2026-07-16 04:52 UTC
 
-- Productos revisados: **1739**
+- Productos revisados: **1710**
 - Umbral de diferencia: **20%**
-- Hallazgos: **22**
+- Hallazgos: **23**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -13,18 +13,19 @@
 | -20% | $4,600 | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,600 | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $4,600 | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | Confirmado vs competencia | $18,399 en palacio vs mercado -> -20% bajo la competencia |
-| -40% | $4,353 | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328) | $6,530 | Confirmado vs competencia | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
 | -27% | $3,100 | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $8,399 | Confirmado vs competencia | $8,399 en palacio vs mercado -> -27% bajo la competencia |
-| -30% | $3,079 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $7,220 | Confirmado vs competencia | $7,220 en palacio vs mercado -> -30% bajo la competencia |
+| -20% | $2,920 | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | Confirmado vs competencia | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,875 | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | Confirmado vs competencia | $8,624 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,772 | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,079 | Confirmado vs competencia | $10,079 en palacio vs mercado -> -22% bajo la competencia |
 | -30% | $2,560 | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $5,839 | Confirmado vs competencia | $5,839 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $2,350 | palacio | [Monitor Venu 3, Whitestone Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html) | $7,049 | Confirmado vs competencia | $7,049 en palacio vs mercado -> -25% bajo la competencia |
+| -20% | $2,300 | palacio | [Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unise…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html) | $9,199 | Confirmado vs competencia | $9,199 en palacio vs mercado -> -20% bajo la competencia |
+| -25% | $1,575 | palacio | [Monitor Deportivo Forerunner 165 Music para Correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html) | $4,724 | Confirmado vs competencia | $4,724 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $1,479 | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | Confirmado vs competencia | $5,819 en liverpool vs mercado -> -20% bajo la competencia |
+| -20% | $1,330 | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $5,319 | Confirmado vs competencia | $5,319 en palacio vs mercado -> -20% bajo la competencia |
 | -26% | $1,019 | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | Confirmado vs competencia | $2,980 en liverpool vs mercado -> -26% bajo la competencia |
 | -28% | $900 | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | Confirmado vs competencia | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
-| -21% | $776 | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | Confirmado vs competencia | $2,879 en liverpool vs mercado -> -21% bajo la competencia |
+| -25% | $850 | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | Confirmado vs competencia | $2,549 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $674 | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $2,245 | Confirmado vs competencia | $2,245 en palacio vs mercado -> -23% bajo la competencia |
 | -20% | $436 | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $110 | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | Confirmado vs competencia | $335 en liverpool vs mercado -> -25% bajo la competencia |
-| -25% | $80 | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | Confirmado vs competencia | $235 en liverpool vs mercado -> -25% bajo la competencia |
