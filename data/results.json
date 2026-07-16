@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 12:55 UTC",
-  "products_scanned": 1743,
+  "generated_at": "2026-07-16 14:53 UTC",
+  "products_scanned": 1730,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44733803",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 207.74,
-      "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44815304",
         "outlet": false
       }
     },
@@ -401,27 +380,6 @@
       "extra": {
         "id": "44928184",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.3,
-      "detail": "$25,496 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7844.85,
-      "store": "liverpool",
-      "name": "Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos Fabrica De Hielo Wrff3536Sv",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303",
-      "price": 25495.76,
-      "list_price": 52299.0,
-      "ean": null,
-      "model": "Wrff3536Sv",
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185462303",
-        "marketplace": null
       }
     },
     {
