@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16 21:03 UTC",
-  "products_scanned": 1778,
+  "generated_at": "2026-07-16 22:16 UTC",
+  "products_scanned": 1724,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -133,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 0.0,
-      "detail": "$42,499 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 35700.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Blanco Estelar",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466",
-      "price": 42499.0,
-      "list_price": 42499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196180466",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
       "detail": "$47,499 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
       "savings": 39930.0,
@@ -190,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1181496939",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,393 en liverpool vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1409.3,
-      "store": "liverpool",
-      "name": "Cafetera Espresso Oster 212196",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-212196/1110425665",
-      "price": 2393.4,
-      "list_price": 3989.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1110425665",
         "marketplace": null
       }
     },
@@ -316,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$8,399 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3099.8,
-      "store": "palacio",
-      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
-      "price": 8399.2,
-      "list_price": 10499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44733803",
         "outlet": false
       }
     },
@@ -484,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
         "outlet": false
       }
     },
@@ -721,27 +679,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110957",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2299.8,
@@ -778,6 +715,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44784098",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix 8 con GPS",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110957",
         "outlet": false
       }
     }
