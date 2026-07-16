@@ -167,18 +167,6 @@
     "ts": "2026-07-16T09:31:51.648484+00:00",
     "items": []
   },
-  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-14T15:17:35.251924+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-14T15:17:37.661942+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-07-14T15:17:41.312049+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOVIOLETACELULARGALAXY": {
     "ts": "2026-07-14T21:33:43.834959+00:00",
     "items": []
@@ -2278,6 +2266,18 @@
   },
   "sams|GARMINFORERUNNERDEPORTIVOFRAMBUESAMONITOR": {
     "ts": "2026-07-16T14:53:44.823936+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCARGACABLETIPO": {
+    "ts": "2026-07-16T16:10:40.245054+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCARGACABLETIPO": {
+    "ts": "2026-07-16T16:10:48.460409+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCARGACABLETIPO": {
+    "ts": "2026-07-16T16:10:55.409975+00:00",
     "items": []
   }
 }
