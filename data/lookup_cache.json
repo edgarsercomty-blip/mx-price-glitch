@@ -537,42 +537,6 @@
     "ts": "2026-07-16T09:32:01.101664+00:00",
     "items": []
   },
-  "amazon|CO905KS": {
-    "ts": "2026-07-14T10:30:05.215250+00:00",
-    "items": []
-  },
-  "walmart|CO905KS": {
-    "ts": "2026-07-14T10:30:07.818987+00:00",
-    "items": []
-  },
-  "sams|CO905KS": {
-    "ts": "2026-07-14T10:30:25.609568+00:00",
-    "items": []
-  },
-  "amazon|SS100": {
-    "ts": "2026-07-14T10:30:27.280317+00:00",
-    "items": []
-  },
-  "walmart|SS100": {
-    "ts": "2026-07-14T10:30:28.891495+00:00",
-    "items": []
-  },
-  "sams|SS100": {
-    "ts": "2026-07-14T10:30:30.397127+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
-    "ts": "2026-07-14T10:30:31.838543+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
-    "ts": "2026-07-14T10:30:33.433461+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
-    "ts": "2026-07-14T10:30:35.003318+00:00",
-    "items": []
-  },
   "amazon|CO401B": {
     "ts": "2026-07-14T12:00:21.295076+00:00",
     "items": []
@@ -2302,6 +2266,18 @@
   },
   "sams|SAMSUNGCELULARGALAXYCLAROFUNDA": {
     "ts": "2026-07-16T09:32:19.189452+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-16T11:20:26.148794+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-16T11:20:28.186140+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-07-16T11:20:29.889677+00:00",
     "items": []
   }
 }
