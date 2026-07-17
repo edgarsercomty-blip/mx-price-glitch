@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-17 00:14 UTC",
-  "products_scanned": 1748,
+  "generated_at": "2026-07-17 03:39 UTC",
+  "products_scanned": 1745,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 28,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$2,183 en liverpool vs mercado -> -67% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4444.65,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272",
-      "price": 2183.35,
-      "list_price": 3359.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165812272",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -65,27 +44,6 @@
       "extra": {
         "id": "45005046",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3344.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
-      "price": 3449.0,
-      "list_price": 6029.0,
-      "ean": null,
-      "model": "Co905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178822116",
-        "marketplace": null
       }
     },
     {
@@ -133,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 0.0,
-      "detail": "$37,499 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 31530.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741",
-      "price": 37499.0,
-      "list_price": 37499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196168741",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
       "detail": "$42,499 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
       "savings": 35700.0,
@@ -190,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196182841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.5,
-      "detail": "$4,369 en liverpool vs mercado -> -39% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2811.0,
-      "store": "liverpool",
-      "name": "Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
-      "price": 4369.0,
-      "list_price": 6769.0,
-      "ean": null,
-      "model": "Dq6011Dx",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181496939",
         "marketplace": null
       }
     },
@@ -317,6 +233,27 @@
       "extra": {
         "id": "44439906",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$37,499 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15765.0,
+      "store": "liverpool",
+      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741",
+      "price": 37499.0,
+      "list_price": 37499.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196168741",
+        "marketplace": null
       }
     },
     {
@@ -510,48 +447,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$15,000 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4799.84,
-      "store": "palacio",
-      "name": "Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html",
-      "price": 14999.5,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44928184",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$2,245 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 673.5,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html",
-      "price": 2245.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44842808",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,079 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -568,27 +463,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45068396",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$18,809 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4844.83,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html",
-      "price": 18809.34,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44677942",
         "outlet": false
       }
     },
@@ -611,27 +485,6 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 436.25,
-      "store": "palacio",
-      "name": "Cafetera Vertuo Pop Samra",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45081397",
-        "outlet": false
       }
     },
     {
@@ -673,27 +526,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110954",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110955",
         "outlet": false
       }
     },
@@ -757,27 +589,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44784098",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8 con GPS",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110957",
         "outlet": false
       }
     }

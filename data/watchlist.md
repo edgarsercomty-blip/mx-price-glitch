@@ -193,7 +193,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | -28% |
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | -26% |
 | 🟢 disponible | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 G…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,999 | -21% |
-| 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,290 | -29% |
+| 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,890 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
 | 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,598 | -29% |
@@ -298,7 +298,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse d…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | -25% |
 | 🟢 disponible | liverpool | [Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303) | $25,496 | -24% |
 | 🟢 disponible | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $302 | -32% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | -46% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | -30% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780) | $376 | -25% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328) | $6,530 | -40% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132844999) | $376 | -25% |
@@ -308,7 +308,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | -20% |
 | 🟢 disponible | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | -21% |
 | 🟢 disponible | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | -62% |
-| 🟢 disponible | liverpool | [Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011D…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $4,369 | -39% |
+| 🟢 disponible | liverpool | [Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011D…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $7,197 | -39% |
 | 🟢 disponible | liverpool | [Motorola Moto G15 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393) | $2,339 | -22% |
 | 🟢 disponible | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | -36% |
 | 🟢 disponible | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | -35% |
