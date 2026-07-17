@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (359)
+# Historial de ofertas encontradas (360)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-17 00:14 | -67% | liverpool | [Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272) | $2,183 | $2,183 en liverpool vs mercado -> -67% bajo la competencia |
 | 2026-07-16 21:03 | -37% | liverpool | [Cafetera Espresso Oster 212196](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-212196/1110425665) | $2,393 | $2,393 en liverpool vs mercado -> -37% bajo la competencia |
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Me…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $47,499 | $47,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466) | $42,499 | $42,499 en liverpool vs mercado -> -46% bajo la competencia |

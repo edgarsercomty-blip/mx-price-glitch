@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-16 23:12 UTC",
-  "products_scanned": 1731,
+  "generated_at": "2026-07-17 00:14 UTC",
+  "products_scanned": 1748,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 37,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,183 en liverpool vs mercado -> -67% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4444.65,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272",
+      "price": 2183.35,
+      "list_price": 3359.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165812272",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -44,6 +65,27 @@
       "extra": {
         "id": "45005046",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.8,
+      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3344.0,
+      "store": "liverpool",
+      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
+      "price": 3449.0,
+      "list_price": 6029.0,
+      "ean": null,
+      "model": "Co905Ks",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178822116",
+        "marketplace": null
       }
     },
     {
