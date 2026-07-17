@@ -1091,15 +1091,15 @@
     "items": []
   },
   "amazon|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:08:56.594854+00:00",
+    "ts": "2026-07-17T16:10:56.200623+00:00",
     "items": []
   },
   "walmart|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:08:58.474358+00:00",
+    "ts": "2026-07-17T16:11:05.580884+00:00",
     "items": []
   },
   "sams|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:09:01.291448+00:00",
+    "ts": "2026-07-17T16:11:08.067831+00:00",
     "items": []
   },
   "palacio|MWRF140SWHM": {
@@ -2766,40 +2766,76 @@
     "ts": "2026-07-17T14:54:35.749109+00:00",
     "items": []
   },
+  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-17T16:11:09.927397+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-17T16:11:15.116310+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-17T16:11:17.411149+00:00",
+    "items": []
+  },
   "amazon|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:09:02.724238+00:00",
+    "ts": "2026-07-17T16:11:20.897967+00:00",
     "items": []
   },
   "walmart|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:09:04.268426+00:00",
+    "ts": "2026-07-17T16:11:22.810584+00:00",
     "items": []
   },
   "sams|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:09:06.113846+00:00",
+    "ts": "2026-07-17T16:11:25.605681+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-17T16:09:07.627027+00:00",
+  "amazon|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-17T16:11:27.367802+00:00",
     "items": []
   },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-17T16:09:10.794565+00:00",
+  "walmart|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-17T16:11:29.271404+00:00",
     "items": []
   },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-17T16:09:14.834390+00:00",
+  "sams|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-17T16:11:32.276226+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCORRIENTECARGADOR25W": {
+    "ts": "2026-07-17T16:11:44.452880+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCORRIENTECARGADOR25W": {
+    "ts": "2026-07-17T16:11:49.453956+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCORRIENTECARGADOR25W": {
+    "ts": "2026-07-17T16:11:54.469740+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-17T16:11:55.883422+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-17T16:12:03.064779+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-17T16:12:08.669213+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:09:16.205727+00:00",
+    "ts": "2026-07-17T16:12:11.315446+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:09:23.370368+00:00",
+    "ts": "2026-07-17T16:12:14.677323+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:09:24.883527+00:00",
+    "ts": "2026-07-17T16:12:16.603942+00:00",
     "items": []
   }
 }
