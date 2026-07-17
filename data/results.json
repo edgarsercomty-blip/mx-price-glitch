@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 13:08 UTC",
-  "products_scanned": 1717,
+  "generated_at": "2026-07-17 14:54 UTC",
+  "products_scanned": 1722,
   "threshold_pct": 20.0,
-  "count": 68,
+  "count": 66,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -107,27 +107,6 @@
       "extra": {
         "productId": "1200202381",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,974 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1974.5,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 velocidades roja",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html",
-      "price": 1974.5,
-      "list_price": 3949.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729904",
-        "outlet": false
       }
     },
     {
@@ -280,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -316,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -784,27 +763,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 51.74,
-      "store": "palacio",
-      "name": "Cable de Carga tipo C",
-      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
-      "price": 147.26,
-      "list_price": 199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -820,27 +778,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45272435",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.74,
-      "store": "palacio",
-      "name": "Funda magnética de silicón para Galaxy S26 Plus",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html",
-      "price": 739.26,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272471",
         "outlet": false
       }
     },
@@ -904,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
         "marketplace": null
       }
     },
