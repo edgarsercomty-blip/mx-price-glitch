@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (401)
+# Historial de ofertas encontradas (403)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-17 10:25 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-07-17 10:25 | -29% | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $6,650 | $6,650 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | $9,599 en palacio vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-21 15:41 | -36% | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y …](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $19,110 | $19,110 en liverpool vs amazon $29,999 -> -36% bajo la competencia |
 | 2026-06-21 14:38 | -37% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $2,999 | $2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) / también walmart $4,779 |
 | 2026-06-19 17:16 | -70% | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | $12,600 vs liverpool $41,999 -> -70% bajo la competencia (ERROR de precio real, se agotó) |
-| 2026-06-19 15:54 | -21% | liverpool | [Frigobar Hisense RR43D6AGX1 4 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Hisense-RR43D6AGX1-4-pies-c%C3%BAbicos/1126618243) | $3,375 | $3,375 vs sams $4,288 -> -21% bajo la competencia |
-| 2026-06-19 15:54 | -23% | liverpool | [Refrigerador French door Whirlpool 20 pies tecnología n…](https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981) | $20,293 | $20,293 vs walmart $26,499 -> -23% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 08:37 UTC",
-  "products_scanned": 1754,
+  "generated_at": "2026-07-17 10:25 UTC",
+  "products_scanned": 1753,
   "threshold_pct": 20.0,
-  "count": 70,
+  "count": 68,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -127,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43740349",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$23,000 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 22999.5,
-      "store": "palacio",
-      "name": "Torre Gaming Lenovo Legion, Intel Core i5-14400F, 16 GB RAM,1 TB SSD, GeForce RTX 4060 8 GB, Windows 11 Home",
-      "url": "https://www.elpalaciodehierro.com/lenovo-torre-gaming-lenovo-legion-intel-core-i5-14400f-16-gb-ram1-tb-ssd-geforce-rtx-4060-8-gb-windows-11-home-44472024.html",
-      "price": 22999.5,
-      "list_price": 45999.0,
-      "ean": null,
-      "model": "i5-14400F",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44472024",
         "outlet": false
       }
     },
@@ -699,27 +678,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11970.0,
-      "store": "palacio",
-      "name": "Cafetera semi automática Porsche para 6 tazas",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
-      "price": 27930.0,
-      "list_price": 39900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000828",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$37,499 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -757,6 +715,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44587559",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2659.8,
+      "store": "palacio",
+      "name": "Máquina de Café Espresso Crema",
+      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
+      "price": 6649.5,
+      "list_price": 13299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Chefman",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964885",
         "outlet": false
       }
     },
@@ -862,27 +841,6 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272435",
         "outlet": false
       }
     },
@@ -1057,27 +1015,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$21,374 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7124.75,
-      "store": "palacio",
-      "name": "Secadora a Gas con Pedestal 23 Kg Carga Frontal CP_7MMGD7020RU",
-      "url": "https://www.elpalaciodehierro.com/maytag-secadora-a-gas-con-pedestal-23-kg-carga-frontal-cp_7mmgd7020ru-44892324.html",
-      "price": 21374.25,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Maytag",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44892324",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1499.75,
@@ -1241,6 +1178,27 @@
       "extra": {
         "id": "45021106",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.2,
+      "detail": "$383 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 116.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Ecoshopmaster",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315",
+      "price": 383.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "ECOSHOPMASTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166990315",
+        "marketplace": null
       }
     },
     {
