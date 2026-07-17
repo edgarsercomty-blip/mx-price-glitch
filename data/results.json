@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 18:39 UTC",
-  "products_scanned": 1719,
+  "generated_at": "2026-07-17 19:43 UTC",
+  "products_scanned": 1717,
   "threshold_pct": 20.0,
-  "count": 65,
+  "count": 64,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -216,48 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.7,
-      "detail": "$6,530 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4353.48,
-      "store": "liverpool",
-      "name": "Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Frost Rma300Fzmrx0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328",
-      "price": 6530.22,
-      "list_price": 11819.4,
-      "ean": null,
-      "model": "Rma300Fzmrx0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1110895328",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$26,699 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 17799.6,
-      "store": "palacio",
-      "name": "Laptop ROG Strix G16 16\" Nvidia GeForce RTX 5060, AMD Ryzen 9, RAM 16 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-rog-strix-g16-16-nvidia-geforce-rtx-5060-amd-ryzen-9-ram-16-gb-ssd-1-tb-44923676.html",
-      "price": 26699.4,
-      "list_price": 44499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44923676",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -322,27 +280,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 687.6,
@@ -358,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -862,6 +820,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
         "marketplace": null
       }
     },

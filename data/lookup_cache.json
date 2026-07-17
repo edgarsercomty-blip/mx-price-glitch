@@ -1090,18 +1090,6 @@
     "ts": "2026-07-17T16:11:08.067831+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-15T19:41:24.856699+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-15T19:41:26.908071+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-15T19:41:28.454182+00:00",
-    "items": []
-  },
   "amazon|WILLIAMSSONOMATIJERASPOULTRYAVES": {
     "ts": "2026-07-15T22:50:32.724358+00:00",
     "items": []
@@ -2630,6 +2618,30 @@
   },
   "sams|OSTERCAFETERATAZASACEROPANEL": {
     "ts": "2026-07-17T18:39:17.367566+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-17T19:43:20.692095+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-17T19:43:23.829635+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-17T19:43:28.012171+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-07-17T19:43:31.649191+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-07-17T19:43:33.031604+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-07-17T19:43:34.712913+00:00",
     "items": []
   }
 }
