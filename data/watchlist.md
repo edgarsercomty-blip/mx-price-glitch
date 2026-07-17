@@ -1,4 +1,4 @@
-# Productos en vigilancia (360)
+# Productos en vigilancia (362)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -103,7 +103,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blanco](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $29,039 | -20% |
 | 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | -20% |
 | 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | -20% |
-| 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | -52% |
+| 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $21,427 | -52% |
 | 🟢 disponible | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | -20% |
 | 🟢 disponible | walmart | [Perfume Nautica Voyage Eau de Toilette 100 ml](https://www.walmart.com.mx/ip/perfume-nautica-voyage-eau-de-toilette-100-ml/00003165553190?athbdg=L1600) | $235 | -20% |
 | 🟢 disponible | amazon | [NYX Professional Makeup The Brow Glue Instant Brow Styler, g…](https://www.amazon.com.mx/dp/B0BDP7PB83) | $142 | -28% |
@@ -364,3 +364,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | -20% |
 | 🟢 disponible | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $6,650 | -29% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | -23% |
+| 🟢 disponible | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | -26% |
+| 🟢 disponible | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | -20% |

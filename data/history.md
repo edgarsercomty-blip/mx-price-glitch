@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (403)
+# Historial de ofertas encontradas (405)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-17 11:55 | -20% | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | $15,039 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-17 11:55 | -26% | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-17 10:25 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-17 10:25 | -29% | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $6,650 | $6,650 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-21 15:41 | -34% | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,150 | $3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia |
 | 2026-06-21 15:41 | -34% | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,999 | $4,999 en liverpool vs amazon $7,619, walmart $7,619 -> -34% bajo la competencia |
 | 2026-06-21 15:41 | -36% | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y …](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $19,110 | $19,110 en liverpool vs amazon $29,999 -> -36% bajo la competencia |
-| 2026-06-21 14:38 | -37% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $2,999 | $2,999 vs walmart $4,779 -> -37% bajo la competencia (descuento propio 60%) / también walmart $4,779 |
-| 2026-06-19 17:16 | -70% | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | $12,600 vs liverpool $41,999 -> -70% bajo la competencia (ERROR de precio real, se agotó) |
