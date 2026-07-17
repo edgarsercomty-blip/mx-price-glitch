@@ -1,8 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-17 11:55 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-17 13:08 UTC
 
-- Hallazgos: **2**
+- Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -20% | $3,760 | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | Confirmado vs competencia | $15,039 en palacio vs mercado -> -20% bajo la competencia |
-| -26% | $260 | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | Confirmado vs competencia | $739 en palacio vs mercado -> -26% bajo la competencia |
+| -25% | $7,125 | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | Confirmado vs competencia | $21,374 en palacio vs mercado -> -25% bajo la competencia |

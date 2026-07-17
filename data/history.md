@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (405)
+# Historial de ofertas encontradas (406)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-17 13:08 | -25% | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 11:55 | -20% | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | $15,039 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 11:55 | -26% | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-17 10:25 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-21 15:41 | -26% | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | $1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia |
 | 2026-06-21 15:41 | -34% | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,150 | $3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia |
 | 2026-06-21 15:41 | -34% | liverpool | [Frigobar Avera FB02D 3.2 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-FB02D-3.2-pies-c%C3%BAbicos/1151591431) | $4,999 | $4,999 en liverpool vs amazon $7,619, walmart $7,619 -> -34% bajo la competencia |
-| 2026-06-21 15:41 | -36% | liverpool | [Refrigerador dúplex Hisense 22 pies cúbicos inverter y …](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Hisense-22-pies-c%C3%BAbicos-inverter-y-no-frost-y-f%C3%A1brica-de-hielo-RS22N6IBX/1184494481) | $19,110 | $19,110 en liverpool vs amazon $29,999 -> -36% bajo la competencia |

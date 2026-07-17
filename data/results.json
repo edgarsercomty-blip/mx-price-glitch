@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 11:55 UTC",
-  "products_scanned": 1711,
+  "generated_at": "2026-07-17 13:08 UTC",
+  "products_scanned": 1717,
   "threshold_pct": 20.0,
-  "count": 72,
+  "count": 68,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -107,27 +107,6 @@
       "extra": {
         "productId": "1200202381",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$17,250 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 17249.5,
-      "store": "palacio",
-      "name": "Laptop Zenbook S 13 OLED, 13.3\", Intel Core Ultra 7, 32 GB, 1TB SSD, Gris",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-13-oled-13.3-intel-core-ultra-7-32-gb-1tb-ssd-gris-43740349.html",
-      "price": 17249.5,
-      "list_price": 34499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43740349",
-        "outlet": false
       }
     },
     {
@@ -301,27 +280,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -337,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -826,27 +805,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.74,
-      "store": "palacio",
-      "name": "Funda magnética de silicón para Galaxy S26 Plus",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html",
-      "price": 739.26,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -862,6 +820,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272435",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 259.74,
+      "store": "palacio",
+      "name": "Funda magnética de silicón para Galaxy S26 Plus",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html",
+      "price": 739.26,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272471",
         "outlet": false
       }
     },
@@ -925,27 +904,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
         "marketplace": null
       }
     },
@@ -1019,27 +977,6 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
       "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
       "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
       "price": 7049.25,
@@ -1051,6 +988,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43401370",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -1072,6 +1030,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951467",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$21,374 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7124.75,
+      "store": "palacio",
+      "name": "Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED7020RU",
+      "url": "https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html",
+      "price": 21374.25,
+      "list_price": 28499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Maytag",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44911285",
         "outlet": false
       }
     },
@@ -1366,69 +1345,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44784099",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3759.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Enduro 3 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
-      "price": 15039.2,
-      "list_price": 18799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439914",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
         "outlet": false
       }
     },
