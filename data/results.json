@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17 20:44 UTC",
-  "products_scanned": 1722,
+  "generated_at": "2026-07-17 21:43 UTC",
+  "products_scanned": 1718,
   "threshold_pct": 20.0,
-  "count": 64,
+  "count": 62,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -872,27 +872,6 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
       "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
       "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
       "price": 7049.25,
@@ -914,8 +893,8 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
       "price": 7049.25,
       "list_price": 9399.0,
       "ean": null,
@@ -924,7 +903,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401372",
+        "id": "43401374",
         "outlet": false
       }
     },
@@ -1240,27 +1219,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44784099",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3759.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Enduro 3 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
-      "price": 15039.2,
-      "list_price": 18799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439914",
         "outlet": false
       }
     },
