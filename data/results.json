@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17 16:12 UTC",
-  "products_scanned": 1718,
+  "generated_at": "2026-07-17 17:33 UTC",
+  "products_scanned": 1716,
   "threshold_pct": 20.0,
   "count": 65,
   "findings": [
@@ -259,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -295,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -322,27 +322,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 687.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
-      "price": 1031.4,
-      "list_price": 1719.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -358,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 687.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
+      "price": 1031.4,
+      "list_price": 1719.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216477",
         "outlet": false
       }
     },
@@ -531,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.72,
+      "store": "palacio",
+      "name": "Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html",
+      "price": 6599.4,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345503",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -699,27 +720,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2659.8,
-      "store": "palacio",
-      "name": "Máquina de Café Espresso Crema",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
-      "price": 6649.5,
-      "list_price": 13299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44964885",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -763,42 +763,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 207.74,
+      "savings": 51.74,
       "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
+      "name": "Cable de Carga tipo C",
+      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
+      "price": 147.26,
+      "list_price": 199.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44815304",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
+        "id": "41564840",
         "outlet": false
       }
     },
@@ -1009,27 +988,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951467",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$21,374 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7124.75,
-      "store": "palacio",
-      "name": "Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED7020RU",
-      "url": "https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html",
-      "price": 21374.25,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Maytag",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44911285",
         "outlet": false
       }
     },
@@ -1345,6 +1303,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43295135",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.85,
+      "store": "palacio",
+      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
+      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44170253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2549.85,
+      "store": "palacio",
+      "name": "Máquina de café Espressería Automática Sensation Milk",
+      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
+      "price": 10199.4,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44911677",
         "outlet": false
       }
     },

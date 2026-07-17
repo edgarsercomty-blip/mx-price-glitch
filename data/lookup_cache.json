@@ -36,15 +36,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-15T16:16:31.684486+00:00",
+    "ts": "2026-07-17T17:32:16.020860+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-15T16:16:33.400800+00:00",
+    "ts": "2026-07-17T17:32:17.567766+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-15T16:16:34.996232+00:00",
+    "ts": "2026-07-17T17:32:36.367557+00:00",
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
@@ -72,15 +72,15 @@
     "items": []
   },
   "amazon|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-15T16:16:36.342053+00:00",
+    "ts": "2026-07-17T17:32:49.906289+00:00",
     "items": []
   },
   "walmart|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-15T16:16:37.888129+00:00",
+    "ts": "2026-07-17T17:33:02.082284+00:00",
     "items": []
   },
   "sams|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-15T16:16:39.982153+00:00",
+    "ts": "2026-07-17T17:33:03.684944+00:00",
     "items": []
   },
   "amazon|GARMINDEPORTIVOINSTINCTMONITOR": {
@@ -96,15 +96,15 @@
     "items": []
   },
   "amazon|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-15T16:16:41.404502+00:00",
+    "ts": "2026-07-17T17:33:05.931190+00:00",
     "items": []
   },
   "walmart|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-15T16:16:43.283870+00:00",
+    "ts": "2026-07-17T17:33:07.621979+00:00",
     "items": []
   },
   "sams|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-15T16:16:44.924214+00:00",
+    "ts": "2026-07-17T17:33:11.636926+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
@@ -1100,236 +1100,6 @@
   },
   "sams|RMA300FZMRX0": {
     "ts": "2026-07-17T16:11:08.067831+00:00",
-    "items": []
-  },
-  "palacio|MWRF140SWHM": {
-    "ts": "2026-07-15T16:15:54.119440+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8945.37,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
-        "price": 13419.39,
-        "model": "VT40BJM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 32 p3 RF32CG5N10S9EM Silver",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-32-p3-rf32cg5n10s9em-silver-43388831.html",
-        "price": 21239.41,
-        "model": "RF32CG5N10S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
-        "price": 12869.34,
-        "model": "RMS510IVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
-        "price": 10361.34,
-        "model": "RMA300FXMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 22 p3 RF22A4110S9",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-22-p3-rf22a4110s9-41998761.html",
-        "price": 17522.41,
-        "model": "RF22A4110S9"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 29 p3 Family Hub RF29DB9950QDEM Acero",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-29-p3-family-hub-rf29db9950qdem-acero-43896314.html",
-        "price": 78115.41,
-        "model": "RF29DB9950QDEM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RMS400IBMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rms400ibmrp0-negro-40075633.html",
-        "price": 15839.34,
-        "model": "RMS400IBMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
-        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
-        "price": 599.7,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
-        "price": 14189.34,
-        "model": "RT42DG6774S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11 p3 TMF RT31DG5724B1EM",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-11-p3-tmf-rt31dg5724b1em-45208022.html",
-        "price": 11549.3,
-        "model": "RT31DG5724B1EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 VT40BJP Rosa",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjp-rosa-43758768.html",
-        "price": 13419.39,
-        "model": "VT40BJP"
-      }
-    ]
-  },
-  "amazon|MWRF140SWHM": {
-    "ts": "2026-07-15T16:15:55.507704+00:00",
-    "items": []
-  },
-  "walmart|MWRF140SWHM": {
-    "ts": "2026-07-15T16:15:58.344348+00:00",
-    "items": []
-  },
-  "sams|MWRF140SWHM": {
-    "ts": "2026-07-15T16:15:59.964922+00:00",
-    "items": []
-  },
-  "mercadolibre|MWRF140SWHM": {
-    "ts": "2026-07-15T16:16:01.494114+00:00",
-    "items": []
-  },
-  "liverpool|WK22WS6": {
-    "ts": "2026-07-15T16:16:06.642022+00:00",
-    "items": []
-  },
-  "amazon|WK22WS6": {
-    "ts": "2026-07-15T16:16:08.060893+00:00",
-    "items": []
-  },
-  "walmart|WK22WS6": {
-    "ts": "2026-07-15T16:16:10.100022+00:00",
-    "items": []
-  },
-  "sams|WK22WS6": {
-    "ts": "2026-07-15T16:16:11.724548+00:00",
-    "items": []
-  },
-  "mercadolibre|WK22WS6": {
-    "ts": "2026-07-15T16:16:13.067348+00:00",
-    "items": []
-  },
-  "palacio|85A65NV": {
-    "ts": "2026-07-15T16:16:14.579940+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
-        "price": 20699.28,
-        "model": "UN85U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
-        "price": 13859.37,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 9999.5,
-        "model": "VM122C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
-        "price": 12035.41,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 47141.82,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
-        "price": 39998.7,
-        "model": "MRN65R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Ac Minisplit Inv LG Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-ac-minisplit-inv-lg-solo-frio-44456609.html",
-        "price": 19139.34,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
-        "price": 12749.5,
-        "model": "VM182C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter Boost, 18,000 BTU, 220V Frio-Calor",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-boost-18000-btu-220v-frio-calor-44531359.html",
-        "price": 17387.37,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242C9 22,000 BTU-h 2 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242c9-22000-btu-h-2-toneladas-220v-solo-frio-40785873.html",
-        "price": 19799.34,
-        "model": "VM242C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
-        "price": 14867.37,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter 18,000 BTU, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-18000-btu-220v-frio-44531360.html",
-        "price": 16253.37,
-        "model": null
-      }
-    ]
-  },
-  "amazon|85A65NV": {
-    "ts": "2026-07-15T16:16:16.039979+00:00",
-    "items": []
-  },
-  "walmart|85A65NV": {
-    "ts": "2026-07-15T16:16:17.634568+00:00",
-    "items": []
-  },
-  "sams|85A65NV": {
-    "ts": "2026-07-15T16:16:19.382264+00:00",
-    "items": []
-  },
-  "mercadolibre|85A65NV": {
-    "ts": "2026-07-15T16:16:20.825554+00:00",
     "items": []
   },
   "amazon|APPLEMACBOOKAPPLECHIPRAM": {
@@ -2836,6 +2606,30 @@
   },
   "sams|OSTERCAFETERAACEROTOUCHGOTEO": {
     "ts": "2026-07-17T16:12:16.603942+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-07-17T17:33:21.506220+00:00",
+    "items": []
+  },
+  "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-07-17T17:33:23.472433+00:00",
+    "items": []
+  },
+  "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-07-17T17:33:25.633209+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-17T17:33:28.730184+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-17T17:33:34.294761+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-17T17:33:35.804136+00:00",
     "items": []
   }
 }

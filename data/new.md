@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-17 16:12 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-17 17:33 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
