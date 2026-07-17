@@ -1,26 +1,14 @@
 {
-  "amazon|SS151": {
-    "ts": "2026-07-15T03:53:15.479498+00:00",
-    "items": []
-  },
-  "walmart|SS151": {
-    "ts": "2026-07-15T03:53:17.404131+00:00",
-    "items": []
-  },
-  "sams|SS151": {
-    "ts": "2026-07-15T03:53:19.745693+00:00",
-    "items": []
-  },
   "amazon|WD26FB8690BEAX": {
-    "ts": "2026-07-15T03:53:21.219508+00:00",
+    "ts": "2026-07-17T03:58:54.355419+00:00",
     "items": []
   },
   "walmart|WD26FB8690BEAX": {
-    "ts": "2026-07-15T03:53:24.378756+00:00",
+    "ts": "2026-07-17T03:58:58.050867+00:00",
     "items": []
   },
   "sams|WD26FB8690BEAX": {
-    "ts": "2026-07-15T03:53:27.778376+00:00",
+    "ts": "2026-07-17T03:58:59.469258+00:00",
     "items": []
   },
   "amazon|NESPRESSOCAFETERAVERTUOSAMRAPOP": {
@@ -691,7 +679,7 @@
     "items": []
   },
   "palacio|98Q7K": {
-    "ts": "2026-07-15T03:54:29.477509+00:00",
+    "ts": "2026-07-17T03:57:05.841728+00:00",
     "items": [
       {
         "store": "palacio",
@@ -709,45 +697,10 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
-        "price": 44999.01,
-        "model": "QN85LS03FWFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX 4060 Intel Core i5, 8 GB RAM, 512 GB SSD",
-        "url": "https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html",
-        "price": 27999.0,
-        "model": "G16CHR"
-      },
-      {
-        "store": "palacio",
         "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
         "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
         "price": 31999.1,
         "model": "QN75QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Laptop Gaming TUF FA607NU, 16\", Nvidia RTX 4050, AMD Ryzen 5, 16 GB RAM, 512 GB SSD",
-        "url": "https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-fa607nu-16-nvidia-rtx-4050-amd-ryzen-5-16-gb-ram-512-gb-ssd-44729912.html",
-        "price": 20807.28,
-        "model": "FA607NU"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
-        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
-        "price": 42839.37,
-        "model": "100Z670RM"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 100 Pulgadas Plana QLED 4K 100QD6SFM",
-        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-qled-4k-100qd6sfm-45464467.html",
-        "price": 37799.37,
-        "model": "100QD6SFM"
       },
       {
         "store": "palacio",
@@ -758,6 +711,41 @@
       },
       {
         "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX 4060 Intel Core i5, 8 GB RAM, 512 GB SSD",
+        "url": "https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html",
+        "price": 25199.1,
+        "model": "G16CHR"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 39998.7,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 48411.51,
+        "model": "98Qm7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 pulgadas 98QM7L SQD-Mini LED",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-98qm7l-sqd-mini-led-45360024.html",
+        "price": 50399.37,
+        "model": "98QM7L"
+      },
+      {
+        "store": "palacio",
         "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
         "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
         "price": 47141.82,
@@ -765,82 +753,61 @@
       },
       {
         "store": "palacio",
-        "name": "Monitor Gamer 34 pulgadas Curva HDR TUF WQHD 180 Hz VG34VQ3B",
-        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-34-pulgadas-curva-hdr-tuf-wqhd-180-hz-vg34vq3b-44689675.html",
-        "price": 8999.1,
-        "model": "VG34VQ3B"
-      },
-      {
-        "store": "palacio",
         "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
         "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
         "price": 121427.0,
         "model": "QN85QN85DBFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Gamer 34 pulgadas Curva HDR TUF WQHD 180 Hz VG34VQ3B",
+        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-34-pulgadas-curva-hdr-tuf-wqhd-180-hz-vg34vq3b-44689675.html",
+        "price": 8999.1,
+        "model": "VG34VQ3B"
       }
     ]
   },
   "amazon|98Q7K": {
-    "ts": "2026-07-15T03:54:30.687077+00:00",
+    "ts": "2026-07-17T03:57:17.410726+00:00",
     "items": []
   },
   "walmart|98Q7K": {
-    "ts": "2026-07-15T03:54:32.036079+00:00",
+    "ts": "2026-07-17T03:57:19.445314+00:00",
     "items": []
   },
   "sams|98Q7K": {
-    "ts": "2026-07-15T03:54:33.355627+00:00",
+    "ts": "2026-07-17T03:57:22.937481+00:00",
     "items": []
   },
   "mercadolibre|98Q7K": {
-    "ts": "2026-07-15T03:54:34.519634+00:00",
+    "ts": "2026-07-17T03:57:36.145919+00:00",
     "items": []
   },
   "liverpool|55QM64L": {
-    "ts": "2026-07-15T03:54:35.222510+00:00",
+    "ts": "2026-07-17T03:57:36.715529+00:00",
     "items": [
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Tcl Qd Mini Led De 55 Pulgadas 4K Uhd 55Qm64L Con Fire Os",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qd-mini-led-de-55-pulgadas-4k-uhd-55qm64l-con-fire-os/1197391541",
-        "price": 10298.75,
-        "model": "55Qm64L"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Smart Tv Aoc Plasma De 32 Pulgadas Full Hd 32S5045 Con Roku Tv",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-aoc-plasma-de-32-pulgadas-full-hd-32s5045-con-roku-tv/1172818133",
-        "price": 2489.0,
-        "model": "32S5045"
-      },
       {
         "store": "liverpool",
         "name": "Microfono Shure Pga58 Qtr 1 Canal Negro",
         "url": "https://www.liverpool.com.mx/tienda/pdp/microfono-shure-pga58-qtr-1-canal-negro/1087702894",
         "price": 1636.0,
         "model": "Pga58"
-      },
-      {
-        "store": "liverpool",
-        "name": "Pantalla Electrica Para Proyector Audiotek Mkz Panta150Ebla",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-electrica-para-proyector-audiotek-mkz-panta150ebla/1124623401",
-        "price": 3499.0,
-        "model": "Panta150Ebla"
       }
     ]
   },
   "mercadolibre|55QM64L": {
-    "ts": "2026-07-15T03:54:36.482019+00:00",
+    "ts": "2026-07-17T03:57:38.184197+00:00",
     "items": []
   },
   "palacio|WD1600S": {
-    "ts": "2026-07-15T03:54:36.674237+00:00",
+    "ts": "2026-07-17T03:57:38.340282+00:00",
     "items": [
       {
         "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 27792.74,
-        "model": "WD20WV26R"
+        "name": "Lavasecadora Eléctrica de Carga Frontal 14 Kg",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html",
+        "price": 11879.64,
+        "model": null
       },
       {
         "store": "palacio",
@@ -851,24 +818,10 @@
       },
       {
         "store": "palacio",
-        "name": "Frigobar 5 p3 WUC2205B, negro",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
-        "price": 6719.3,
-        "model": "WUC2205B"
-      },
-      {
-        "store": "palacio",
         "name": "Lavadora Eléctrica 26 Kg Carga Superior 8MWTW2654WRM",
         "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-electrica-26-kg-carga-superior-8mwtw2654wrm-44767439.html",
         "price": 16099.3,
         "model": "8MWTW2654WRM"
-      },
-      {
-        "store": "palacio",
-        "name": "Lav carga superior 18 Kg Xpert Dual Wash",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-lav-carga-superior-18-kg-xpert-dual-wash-43127039.html",
-        "price": 13199.4,
-        "model": null
       },
       {
         "store": "palacio",
@@ -879,31 +832,17 @@
       },
       {
         "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
+      },
+      {
+        "store": "palacio",
         "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
         "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
         "price": 13451.41,
         "model": "WD13FG6B34BEAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
-        "price": 9427.44,
-        "model": "UN55U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Batidor Globo Profi Plus",
-        "url": "https://www.elpalaciodehierro.com/wmf-batidor-globo-profi-plus-10544587.html",
-        "price": 543.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aspiradora WD3 V de 17 Litros",
-        "url": "https://www.elpalaciodehierro.com/karcher-aspiradora-wd3-v-de-17-litros-45040656.html",
-        "price": 3144.15,
-        "model": null
       },
       {
         "store": "palacio",
@@ -914,31 +853,59 @@
       },
       {
         "store": "palacio",
+        "name": "Batidor Globo Profi Plus",
+        "url": "https://www.elpalaciodehierro.com/wmf-batidor-globo-profi-plus-10544587.html",
+        "price": 543.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
         "name": "Decantador de cristal",
         "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
         "price": 1679.3,
         "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Combo Lavadora Carga Superior 22 Kg + Secadora a Gas Carga Frontal 21 Kg Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-combo-lavadora-carga-superior-22-kg-secadora-a-gas-carga-frontal-21-kg-blanco-41154627.html",
+        "price": 18534.45,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
+        "price": 9015.54,
+        "model": "8MWTW1824WJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Duplex 25 p3 Side by Side WD5600S",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-duplex-25-p3-side-by-side-wd5600s-44231549.html",
+        "price": 23399.4,
+        "model": "WD5600S"
       }
     ]
   },
   "amazon|WD1600S": {
-    "ts": "2026-07-15T03:54:37.878086+00:00",
+    "ts": "2026-07-17T03:57:39.875155+00:00",
     "items": []
   },
   "walmart|WD1600S": {
-    "ts": "2026-07-15T03:54:39.711124+00:00",
+    "ts": "2026-07-17T03:57:41.794801+00:00",
     "items": []
   },
   "sams|WD1600S": {
-    "ts": "2026-07-15T03:54:41.729762+00:00",
+    "ts": "2026-07-17T03:57:46.114956+00:00",
     "items": []
   },
   "mercadolibre|WD1600S": {
-    "ts": "2026-07-15T03:54:43.013414+00:00",
+    "ts": "2026-07-17T03:57:52.020030+00:00",
     "items": []
   },
   "palacio|WM20EWNTS6P": {
-    "ts": "2026-07-15T03:54:43.192356+00:00",
+    "ts": "2026-07-17T03:57:52.231568+00:00",
     "items": [
       {
         "store": "palacio",
@@ -949,17 +916,17 @@
       },
       {
         "store": "palacio",
+        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
+        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
+        "price": 34199.55,
+        "model": null
+      },
+      {
+        "store": "palacio",
         "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
         "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
         "price": 16953.51,
         "model": "WM22WV26SR"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-        "price": 24225.0,
-        "model": "WM25VFXS"
       },
       {
         "store": "palacio",
@@ -977,31 +944,10 @@
       },
       {
         "store": "palacio",
-        "name": "Lavasecadora Eléctrica 20 Kg Lavado, 11 Kg Secado, Carga Frontal WD20WV26R.WD300CW Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-20-kg-lavado-11-kg-secado-carga-frontal-wd20wv26r.wd300cw-blanco-43831585.html",
-        "price": 27792.74,
-        "model": "WD20WV26R"
-      },
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado LG WashTower Eléctrico Frontal 22 Kg Negro",
-        "url": "https://www.elpalaciodehierro.com/lg-centro-de-lavado-lg-washtower-electrico-frontal-22-kg-negro-43188066.html",
-        "price": 34199.55,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
-        "price": 12869.34,
-        "model": "RMS510IVMRP0"
+        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+        "price": 24225.0,
+        "model": "WM25VFXS"
       },
       {
         "store": "palacio",
@@ -1012,10 +958,17 @@
       },
       {
         "store": "palacio",
-        "name": "Frigobar 5 p3 WUC2205B, negro",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
-        "price": 6719.3,
-        "model": "WUC2205B"
+        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
+        "price": 12869.34,
+        "model": "RMS510IVMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 RMS400IBMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rms400ibmrp0-negro-40075633.html",
+        "price": 15839.34,
+        "model": "RMS400IBMRP0"
       },
       {
         "store": "palacio",
@@ -1023,145 +976,47 @@
         "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
         "price": 18129.51,
         "model": "WM1AM2"
+      },
+      {
+        "store": "palacio",
+        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
+        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
+        "price": 40479.54,
+        "model": "WM25BFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Frigobar 5 p3 WUC2205B, negro",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-frigobar-5-p3-wuc2205b-negro-44231704.html",
+        "price": 6719.3,
+        "model": "WUC2205B"
       }
     ]
   },
   "amazon|WM20EWNTS6P": {
-    "ts": "2026-07-15T03:54:45.062633+00:00",
+    "ts": "2026-07-17T03:57:53.988784+00:00",
     "items": []
   },
   "walmart|WM20EWNTS6P": {
-    "ts": "2026-07-15T03:54:46.803794+00:00",
+    "ts": "2026-07-17T03:57:55.623636+00:00",
     "items": []
   },
   "sams|WM20EWNTS6P": {
-    "ts": "2026-07-15T03:54:48.422036+00:00",
+    "ts": "2026-07-17T03:57:57.674364+00:00",
     "items": []
   },
   "mercadolibre|WM20EWNTS6P": {
-    "ts": "2026-07-15T03:54:49.905506+00:00",
-    "items": []
-  },
-  "palacio|PANTA120EBLA": {
-    "ts": "2026-07-15T03:54:51.371813+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098321.html",
-        "price": 999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098323.html",
-        "price": 999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011872.html",
-        "price": 1610.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/desigual-pantalon-hombre-45252164.html",
-        "price": 1845.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-44445101.html",
-        "price": 2069.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011868.html",
-        "price": 1360.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/boggi-milano-pantalon-casual-hombre-45266145.html",
-        "price": 3534.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalon Regular Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-regular-hombre-44453279.html",
-        "price": 1914.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
-        "price": 2650.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pants para entrenamiento liso Hombre",
-        "url": "https://www.elpalaciodehierro.com/craft-pants-para-entrenamiento-liso-hombre-45446823.html",
-        "price": 1749.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-44534753.html",
-        "price": 1554.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
-        "price": 6500.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|PANTA120EBLA": {
-    "ts": "2026-07-15T03:54:52.567713+00:00",
-    "items": []
-  },
-  "walmart|PANTA120EBLA": {
-    "ts": "2026-07-15T03:54:54.119863+00:00",
-    "items": []
-  },
-  "sams|PANTA120EBLA": {
-    "ts": "2026-07-15T03:54:55.548997+00:00",
-    "items": []
-  },
-  "mercadolibre|PANTA120EBLA": {
-    "ts": "2026-07-15T03:54:56.703816+00:00",
+    "ts": "2026-07-17T03:58:04.066024+00:00",
     "items": []
   },
   "palacio|86UA8050PSA": {
-    "ts": "2026-07-15T03:55:01.932619+00:00",
+    "ts": "2026-07-17T03:58:24.675182+00:00",
     "items": [
       {
         "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
-        "price": 20699.28,
-        "model": "UN85U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 21,000 BTU's, 2 Toneladas 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-21000-btus-2-toneladas-220v-frio-45305635.html",
-        "price": 13229.37,
+        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
+        "price": 9449.37,
         "model": null
       },
       {
@@ -1173,10 +1028,31 @@
       },
       {
         "store": "palacio",
+        "name": "Bocina inalámbrica Wi-Fi Echo Show 8 blanco",
+        "url": "https://www.elpalaciodehierro.com/amazon-bocina-inalambrica-wi-fi-echo-show-8-blanco-45223449.html",
+        "price": 3899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 20699.28,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
         "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
         "price": 9999.5,
         "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter 21,000 BTU's, 2 Toneladas 220V Frío",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-21000-btus-2-toneladas-220v-frio-45305635.html",
+        "price": 13229.37,
+        "model": null
       },
       {
         "store": "palacio",
@@ -1187,20 +1063,6 @@
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter 12,000 BTUaposs, 1 tonelada, 110 V, Frio",
-        "url": "https://www.elpalaciodehierro.com/carrier-aire-acondicionado-minisplit-inverter-12000-btuaposs-1-tonelada-110-v-frio-43801442.html",
-        "price": 11591.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
-        "price": 12749.5,
-        "model": "VM182C9"
-      },
-      {
-        "store": "palacio",
         "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
         "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
         "price": 8699.25,
@@ -1208,17 +1070,17 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana MiniLED 4K  85Z670RM FIRE TV",
-        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-85-pulgadas-plana-miniled-4k--85z670rm-fire-tv-45315665.html",
-        "price": 27341.37,
-        "model": "85Z670RM"
+        "name": "Aire Acondicionado Minisplit Inverter 12,000 BTUaposs, 1 tonelada, 110 V, Frio",
+        "url": "https://www.elpalaciodehierro.com/carrier-aire-acondicionado-minisplit-inverter-12000-btuaposs-1-tonelada-110-v-frio-43801442.html",
+        "price": 11591.44,
+        "model": null
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter VA121C5 12,000 BTU's 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-va121c5-12000-btus-110-v-frio-45450539.html",
-        "price": 12599.4,
-        "model": "VA121C5"
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+        "price": 121427.0,
+        "model": "QN85QN85DBFXZX"
       },
       {
         "store": "palacio",
@@ -1229,27 +1091,27 @@
       },
       {
         "store": "palacio",
-        "name": "Set de 4 Focos White & Color Ambiance + Hue Bridge",
-        "url": "https://www.elpalaciodehierro.com/philips-set-de-4-focos-white-color-ambiance-hue-bridge-43117574.html",
-        "price": 4845.0,
-        "model": null
+        "name": "Aire Acondicionado Minisplit Inverter VA121C5 12,000 BTU's 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-va121c5-12000-btus-110-v-frio-45450539.html",
+        "price": 12599.4,
+        "model": "VA121C5"
       }
     ]
   },
   "amazon|86UA8050PSA": {
-    "ts": "2026-07-15T03:55:05.889503+00:00",
+    "ts": "2026-07-17T03:58:29.423597+00:00",
     "items": []
   },
   "walmart|86UA8050PSA": {
-    "ts": "2026-07-15T03:55:07.486190+00:00",
+    "ts": "2026-07-17T03:58:33.370003+00:00",
     "items": []
   },
   "sams|86UA8050PSA": {
-    "ts": "2026-07-15T03:55:10.695032+00:00",
+    "ts": "2026-07-17T03:58:39.776532+00:00",
     "items": []
   },
   "mercadolibre|86UA8050PSA": {
-    "ts": "2026-07-15T03:55:12.236166+00:00",
+    "ts": "2026-07-17T03:58:41.438445+00:00",
     "items": []
   },
   "amazon|WILLIAMSSONOMAALGODONCAMINOSCALEBLOCK": {
@@ -2176,6 +2038,216 @@
   },
   "sams|APPLEMACBOOKAPPLECIELOCHIP": {
     "ts": "2026-07-17T00:14:11.162696+00:00",
+    "items": []
+  },
+  "palacio|LN8121MX": {
+    "ts": "2026-07-17T03:58:09.045831+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 13419.39,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+        "price": 14849.45,
+        "model": "WT25PBTX6"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
+        "price": 16953.51,
+        "model": "WM22WV26SR"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 24 p3 Smart Inverter GT24BS Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-24-p3-smart-inverter-gt24bs-plata-43815234.html",
+        "price": 15749.37,
+        "model": "GT24BS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40AWP Plateado",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40awp-plateado-41858782.html",
+        "price": 14867.37,
+        "model": "VT40AWP"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+        "price": 24225.0,
+        "model": "WM25VFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora 28 kg Superior WT28EGTX6",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-28-kg-superior-wt28egtx6-45005044.html",
+        "price": 19609.47,
+        "model": "WT28EGTX6"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 19 kg Carga Superior Negro WT19MV6",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-19-kg-carga-superior-negro-wt19mv6-43796858.html",
+        "price": 11549.3,
+        "model": "WT19MV6"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
+        "price": 13419.39,
+        "model": "VT40BJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Mujer",
+        "url": "https://www.elpalaciodehierro.com/lauren-pantalon-casual-mujer-45242645.html",
+        "price": 2274.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis para entrenamiento con logo Mujer",
+        "url": "https://www.elpalaciodehierro.com/new-balance-tenis-para-entrenamiento-con-logo-mujer-44593319.html",
+        "price": 3999.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|LN8121MX": {
+    "ts": "2026-07-17T03:58:10.538959+00:00",
+    "items": []
+  },
+  "walmart|LN8121MX": {
+    "ts": "2026-07-17T03:58:13.233655+00:00",
+    "items": []
+  },
+  "sams|LN8121MX": {
+    "ts": "2026-07-17T03:58:17.254105+00:00",
+    "items": []
+  },
+  "mercadolibre|LN8121MX": {
+    "ts": "2026-07-17T03:58:21.301793+00:00",
+    "items": []
+  },
+  "palacio|7MMHW6621HW": {
+    "ts": "2026-07-17T03:58:44.546477+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavadora 7MMHW6621HC de carga frontal 22 kg Gris acero + Pedestal",
+        "url": "https://www.elpalaciodehierro.com/maytag-lavadora-7mmhw6621hc-de-carga-frontal-22-kg-gris-acero-pedestal-42037959.html",
+        "price": 27047.51,
+        "model": "7MMHW6621HC"
+      },
+      {
+        "store": "palacio",
+        "name": "Celular Moto G77 256 GB 8 GB Café Telcel",
+        "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g77-256-gb-8-gb-cafe-telcel-45357630.html",
+        "price": 6959.13,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Correa hibrida para Watch8, Blanco",
+        "url": "https://www.elpalaciodehierro.com/samsung-correa-hibrida-para-watch8-blanco-44815332.html",
+        "price": 1199.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 pulgadas plana True RGB 4K BRAVIA 7 II K- 75XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-true-rgb-4k-bravia-7-ii-k--75xr70m2-45588140.html",
+        "price": 41579.34,
+        "model": "75XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Huawei Watch Fit 4 Blanco",
+        "url": "https://www.elpalaciodehierro.com/huawei-huawei-watch-fit-4-blanco-44729928.html",
+        "price": 2274.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos Inalámbricos Bluetooth Huawei Freebuds 7i Negros",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-negros-45263134.html",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos inalámbricos Bluetooth Huawei Freebuds 7i Blancos",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-blancos-45263133.html",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
+        "price": 13451.41,
+        "model": "WD13FG6B34BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos Inalámbricos Bluetooth Huawei Freebuds 7i Rosas",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-rosas-45263135.html",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Chamarra de mezclilla Mujer",
+        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-de-mezclilla-mujer-44861608.html",
+        "price": 4619.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor deportivo Forerunner 70, GPS, Citron, WW para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-70-gps-citron-ww-para-entrenamiento-45465474.html",
+        "price": 5099.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Chamarra de mezclilla Mujer",
+        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-chamarra-de-mezclilla-mujer-45325307.html",
+        "price": 4199.3,
+        "model": null
+      }
+    ]
+  },
+  "amazon|7MMHW6621HW": {
+    "ts": "2026-07-17T03:58:46.364344+00:00",
+    "items": []
+  },
+  "walmart|7MMHW6621HW": {
+    "ts": "2026-07-17T03:58:47.708508+00:00",
+    "items": []
+  },
+  "sams|7MMHW6621HW": {
+    "ts": "2026-07-17T03:58:50.706462+00:00",
+    "items": []
+  },
+  "mercadolibre|7MMHW6621HW": {
+    "ts": "2026-07-17T03:58:52.016588+00:00",
     "items": []
   }
 }
