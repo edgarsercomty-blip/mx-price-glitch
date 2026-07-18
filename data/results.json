@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 04:15 UTC",
-  "products_scanned": 1722,
+  "generated_at": "2026-07-18 06:20 UTC",
+  "products_scanned": 1727,
   "threshold_pct": 20.0,
-  "count": 54,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1199018091",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.1,
+      "detail": "$349 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 350.0,
+      "store": "liverpool",
+      "name": "Playera Tipo Polo Head Para Mujer",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918",
+      "price": 349.0,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "HEAD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "29113918",
         "marketplace": null
       }
     },
@@ -426,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3079.72,
+      "store": "palacio",
+      "name": "Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html",
+      "price": 6599.4,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345503",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -637,27 +679,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 207.74,
-      "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44815304",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 51.74,
@@ -757,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
         "marketplace": null
       }
     },

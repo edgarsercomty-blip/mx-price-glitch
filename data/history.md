@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (407)
+# Historial de ofertas encontradas (408)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-18 06:20 | -50% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | $349 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-07-17 16:12 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-17 13:08 | -25% | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 11:55 | -20% | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | $15,039 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-21 19:58 | -45% | sams | [Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD…](https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372) | $14,319 | $14,319 en sams vs walmart $30,529 -> -45% bajo la competencia |
 | 2026-06-21 15:57 | -28% | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,498 | $21,498 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-06-21 15:41 | -26% | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | $1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia |
-| 2026-06-21 15:41 | -34% | liverpool | [Congelador Mirage MCP10HB horizontal 3.5 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Congelador-Mirage-MCP10HB-horizontal-3.5-pies-c%C3%BAbicos/1161903082) | $3,150 | $3,150 en liverpool vs amazon $5,769 -> -34% bajo la competencia |
