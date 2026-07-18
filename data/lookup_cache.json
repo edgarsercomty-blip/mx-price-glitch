@@ -47,18 +47,6 @@
     "ts": "2026-07-18T14:17:02.951707+00:00",
     "items": []
   },
-  "amazon|WA19CG6746BVAX": {
-    "ts": "2026-07-16T18:57:22.165003+00:00",
-    "items": []
-  },
-  "walmart|WA19CG6746BVAX": {
-    "ts": "2026-07-16T18:57:24.557650+00:00",
-    "items": []
-  },
-  "sams|WA19CG6746BVAX": {
-    "ts": "2026-07-16T18:57:33.067271+00:00",
-    "items": []
-  },
   "amazon|GARMINDEPORTIVOMONITORCASUALVENU": {
     "ts": "2026-07-17T17:32:49.906289+00:00",
     "items": []
@@ -735,28 +723,16 @@
     "ts": "2026-07-18T16:12:49.417158+00:00",
     "items": []
   },
-  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-16T18:57:35.024992+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-16T18:57:39.255127+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-16T18:57:41.195944+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-16T18:57:43.080290+00:00",
+    "ts": "2026-07-18T19:33:43.924350+00:00",
     "items": []
   },
   "walmart|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-16T18:57:45.255024+00:00",
+    "ts": "2026-07-18T19:33:45.609869+00:00",
     "items": []
   },
   "sams|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-16T18:57:49.623775+00:00",
+    "ts": "2026-07-18T19:33:48.830125+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
@@ -3000,6 +2976,18 @@
   },
   "sams|OSTERCAFETERAACEROGOTEOPANEL": {
     "ts": "2026-07-18T18:09:07.082870+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-07-18T19:33:50.270895+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-07-18T19:33:51.997089+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-07-18T19:33:54.122659+00:00",
     "items": []
   }
 }
