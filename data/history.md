@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (408)
+# Historial de ofertas encontradas (413)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-18 08:13 | -25% | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | $1,012 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-18 08:13 | -25% | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | $13,020 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-18 08:13 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-07-18 08:13 | -28% | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $6,719 | $6,719 en palacio vs mercado -> -28% bajo la competencia |
+| 2026-07-18 08:13 | -70% | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | $36,428 en palacio vs mercado -> -70% bajo la competencia |
 | 2026-07-18 06:20 | -50% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | $349 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-07-17 16:12 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-17 13:08 | -25% | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-22 21:06 | -28% | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desblo…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600) | $17,999 | $17,999 en walmart vs sams $24,920, sams $24,920, sams $24,920 -> -28% bajo la competencia |
 | 2026-06-22 21:06 | -33% | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + …](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300) | $18,499 | $18,499 en walmart vs mercado -> -33% bajo la competencia |
 | 2026-06-22 14:42 | -34% | liverpool | [Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB R…](https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472) | $7,554 | $7,554 en liverpool vs sams $15,344, sams $19,436 -> -34% bajo la competencia |
-| 2026-06-22 12:52 | -20% | liverpool | [Lavasecadora Samsung eléctrica 20 kg 12 kg WD20T6300GP/…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-20-kg-12-kg-WD20T6300GP/AX/1103888430) | $18,303 | $18,303 en liverpool vs amazon $23,999 -> -20% bajo la competencia |
-| 2026-06-21 19:58 | -28% | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,609 | $21,609 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-06-21 19:58 | -45% | sams | [Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD…](https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372) | $14,319 | $14,319 en sams vs walmart $30,529 -> -45% bajo la competencia |
-| 2026-06-21 15:57 | -28% | liverpool | [Refrigerador dúplex Ge Profile 22 pies cúbicos no frost…](https://liverpool.com.mx/tienda/pdp/Refrigerador-d%C3%BAplex-Ge-Profile-22-pies-c%C3%BAbicos-no-frost-y-f%C3%A1brica-de-hielo-PNM22MDTHDS/1127549521) | $21,498 | $21,498 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-06-21 15:41 | -26% | liverpool | [Secadora de cabello Llano ll-pc001](https://liverpool.com.mx/tienda/pdp/Secadora-de-cabello-Llano-ll-pc001/1174499892) | $1,200 | $1,200 en liverpool vs walmart $1,799 -> -26% bajo la competencia |

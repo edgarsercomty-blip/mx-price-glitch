@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-07-18 06:20 UTC",
-  "products_scanned": 1727,
+  "generated_at": "2026-07-18 08:13 UTC",
+  "products_scanned": 1732,
   "threshold_pct": 20.0,
-  "count": 56,
+  "count": 60,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 70.0,
-      "detail": "$330 en palacio vs mercado -> -70% bajo la competencia",
+      "detail": "$36,428 en palacio vs mercado -> -70% bajo la competencia",
       "likely_typo": false,
-      "savings": 769.3,
+      "savings": 84998.9,
       "store": "palacio",
-      "name": "Correa deportiva para Apple Watch 42 mm Verde lago",
-      "url": "https://www.elpalaciodehierro.com/apple-correa-deportiva-para-apple-watch-42-mm-verde-lago-44272712.html",
-      "price": 329.7,
-      "list_price": 1099.0,
+      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+      "price": 36428.1,
+      "list_price": 121427.0,
       "ean": null,
-      "model": null,
-      "brand": "Apple",
+      "model": "QN85QN85DBFXZX",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44272712",
+        "id": "43788563",
         "outlet": false
       }
     },
@@ -111,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$13,499 en liverpool vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13499.8,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Uhd De 75 Pulgadas 4K Uhd 75Nu850Bpsa Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-75-pulgadas-4k-uhd-75nu850bpsa-con-webos/1200202381",
-      "price": 13499.2,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "75Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200202381",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$42,499 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
@@ -196,27 +175,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -238,21 +196,42 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 859.6,
+      "savings": 1479.6,
       "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "41683214",
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -280,21 +259,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 955.6,
+      "savings": 859.6,
       "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216478",
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -636,6 +615,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$6,719 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2679.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439905",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -679,6 +679,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
+      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 207.74,
+      "store": "palacio",
+      "name": "Funda para celular Galaxy Z Flip 7, Navy",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
+      "price": 591.26,
+      "list_price": 799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44815304",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
       "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 51.74,
@@ -704,8 +725,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -714,7 +735,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272435",
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -783,6 +804,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$13,020 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4339.86,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html",
+      "price": 13019.58,
+      "list_price": 30999.0,
+      "ean": null,
+      "model": "QNED82",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44777572",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.3,
       "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -826,42 +868,42 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2349.75,
+      "savings": 2249.75,
       "store": "palacio",
-      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
+      "name": "Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verde, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401370",
+        "id": "44600340",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2349.75,
+      "savings": 337.25,
       "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
+      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
+      "price": 1011.75,
+      "list_price": 1349.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43401374",
+        "id": "45272481",
         "outlet": false
       }
     },
@@ -910,27 +952,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.75,
@@ -946,6 +967,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -1035,6 +1077,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.2,
+      "detail": "$383 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 116.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Ecoshopmaster",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315",
+      "price": 383.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "ECOSHOPMASTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166990315",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 10.0,
       "detail": "$302 en liverpool vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -1098,6 +1161,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674691",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,094 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1120,27 +1204,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.85,
-      "store": "palacio",
-      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
-      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44170253",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2549.85,
@@ -1156,6 +1219,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44911677",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.85,
+      "store": "palacio",
+      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
+      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44170253",
         "outlet": false
       }
     },
