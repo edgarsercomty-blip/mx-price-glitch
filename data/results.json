@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 12:54 UTC",
-  "products_scanned": 1695,
+  "generated_at": "2026-07-18 14:17 UTC",
+  "products_scanned": 1697,
   "threshold_pct": 20.0,
-  "count": 56,
+  "count": 58,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -594,27 +594,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2659.8,
-      "store": "palacio",
-      "name": "Máquina de Café Espresso Crema",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
-      "price": 6649.5,
-      "list_price": 13299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44964885",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,719 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -725,6 +704,27 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
       "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
       "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
       "price": 295.26,
@@ -746,8 +746,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -756,7 +756,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520801",
+        "id": "45272436",
         "outlet": false
       }
     },
@@ -841,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
         "outlet": false
       }
     },
@@ -1094,6 +1115,27 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674691",
+        "outlet": false
       }
     },
     {
