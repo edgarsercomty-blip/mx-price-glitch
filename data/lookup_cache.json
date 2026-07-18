@@ -736,75 +736,27 @@
     "items": []
   },
   "amazon|FC0240LA": {
-    "ts": "2026-07-16T21:02:34.075853+00:00",
+    "ts": "2026-07-18T21:29:58.675006+00:00",
     "items": []
   },
   "walmart|FC0240LA": {
-    "ts": "2026-07-16T21:02:35.771420+00:00",
+    "ts": "2026-07-18T21:30:00.802408+00:00",
     "items": []
   },
   "sams|FC0240LA": {
-    "ts": "2026-07-16T21:02:38.103855+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAESPRESSO212196OSTER": {
-    "ts": "2026-07-16T21:02:39.542405+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSO212196OSTER": {
-    "ts": "2026-07-16T21:02:41.793222+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSO212196OSTER": {
-    "ts": "2026-07-16T21:02:43.295189+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKAPPLECHIP512": {
-    "ts": "2026-07-16T21:02:45.519029+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECHIP512": {
-    "ts": "2026-07-16T21:02:47.466616+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECHIP512": {
-    "ts": "2026-07-16T21:02:49.063873+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-16T21:02:50.478900+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-16T21:02:52.485416+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-16T21:02:54.000505+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKESTELARAPPLECHIP": {
-    "ts": "2026-07-16T21:02:55.929347+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKESTELARAPPLECHIP": {
-    "ts": "2026-07-16T21:02:57.818023+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKESTELARAPPLECHIP": {
-    "ts": "2026-07-16T21:02:59.491906+00:00",
+    "ts": "2026-07-18T21:30:02.547157+00:00",
     "items": []
   },
   "amazon|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-16T21:03:02.740560+00:00",
+    "ts": "2026-07-18T21:30:03.773238+00:00",
     "items": []
   },
   "walmart|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-16T21:03:09.395610+00:00",
+    "ts": "2026-07-18T21:30:05.412156+00:00",
     "items": []
   },
   "sams|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-16T21:03:11.982775+00:00",
+    "ts": "2026-07-18T21:30:07.120072+00:00",
     "items": []
   },
   "amazon|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
@@ -2976,6 +2928,18 @@
   },
   "sams|OSTERCAFETERATAZASGOTEOACERO": {
     "ts": "2026-07-18T19:33:54.122659+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-18T21:30:08.437927+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-18T21:30:09.822450+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-18T21:30:11.680351+00:00",
     "items": []
   }
 }
