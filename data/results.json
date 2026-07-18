@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 01:02 UTC",
-  "products_scanned": 1727,
+  "generated_at": "2026-07-18 03:52 UTC",
+  "products_scanned": 1724,
   "threshold_pct": 20.0,
-  "count": 61,
+  "count": 54,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,27 +112,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 0.0,
-      "detail": "$34,999 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29400.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd Azul Cielo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341",
-      "price": 34999.0,
-      "list_price": 34999.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196183341",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
       "detail": "$42,499 en liverpool vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
       "savings": 35700.0,
@@ -196,27 +175,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -232,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -447,48 +426,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 10.0,
-      "detail": "$302 en liverpool vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 143.5,
-      "store": "liverpool",
-      "name": "Set Regalo Moscow Mule",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
-      "price": 301.5,
-      "list_price": 335.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1137579509",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.72,
-      "store": "palacio",
-      "name": "Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html",
-      "price": 6599.4,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345503",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -616,21 +553,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 0.0,
-      "detail": "$37,499 en liverpool vs mercado -> -30% bajo la competencia",
+      "detail": "$34,999 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 15765.0,
+      "savings": 14700.0,
       "store": "liverpool",
-      "name": "Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741",
-      "price": 37499.0,
-      "list_price": 37499.0,
+      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd Azul Cielo",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341",
+      "price": 34999.0,
+      "list_price": 34999.0,
       "ean": null,
       "model": null,
       "brand": "APPLE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1196168741",
+        "productId": "1196183341",
         "marketplace": null
       }
     },
@@ -821,48 +758,6 @@
       "extra": {
         "productId": "1178833223",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,549 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 849.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Vívosmart 5 negro para Entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html",
-      "price": 2549.25,
-      "list_price": 3399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42538928",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4, 41 mm casual",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44973731",
-        "outlet": false
       }
     },
     {
@@ -1098,6 +993,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 10.0,
+      "detail": "$302 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 88.5,
+      "store": "liverpool",
+      "name": "Set Regalo Moscow Mule",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
+      "price": 301.5,
+      "list_price": 335.0,
+      "ean": null,
+      "model": null,
+      "brand": "WILLIAMS-SONOMA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1137579509",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1136,69 +1052,6 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Smartwatch para entrenamiento Fenix 8 Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110954",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,319 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1329.8,
-      "store": "palacio",
-      "name": "Monitor Forerunner 265S Music para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html",
-      "price": 5319.2,
-      "list_price": 6649.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074174",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 moss",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784099",
-        "outlet": false
       }
     },
     {
