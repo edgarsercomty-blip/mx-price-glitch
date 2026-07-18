@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 09:48 UTC",
-  "products_scanned": 1701,
+  "generated_at": "2026-07-18 10:56 UTC",
+  "products_scanned": 1700,
   "threshold_pct": 20.0,
-  "count": 60,
+  "count": 61,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -238,27 +238,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 687.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
-      "price": 1031.4,
-      "list_price": 1719.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -274,6 +253,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 687.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
+      "price": 1031.4,
+      "list_price": 1719.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216477",
         "outlet": false
       }
     },
@@ -762,6 +762,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 259.74,
+      "store": "palacio",
+      "name": "Galaxy S26+ Silicone Magnet Case",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
+      "price": 739.26,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -883,6 +904,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
         "outlet": false
       }
     },
@@ -1072,27 +1114,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
-      "detail": "$7,479 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2419.78,
-      "store": "palacio",
-      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
-      "price": 7479.32,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "Edge70",
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45363417",
         "outlet": false
       }
     },
