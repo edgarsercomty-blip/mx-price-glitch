@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (413)
+# Historial de ofertas encontradas (414)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-18 09:48 | -24% | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, …](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,479 | $7,479 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-18 08:13 | -25% | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | $1,012 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-18 08:13 | -25% | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | $13,020 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-18 08:13 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-22 21:06 | -27% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $14,850 | $14,850 en palacio vs sams $20,459 -> -27% bajo la competencia |
 | 2026-06-22 21:06 | -28% | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desblo…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1600) | $17,999 | $17,999 en walmart vs sams $24,920, sams $24,920, sams $24,920 -> -28% bajo la competencia |
 | 2026-06-22 21:06 | -33% | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Azul Titanio + …](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-azul-titanio-bocina-desbloqueado/00750665822492?athbdg=L1300) | $18,499 | $18,499 en walmart vs mercado -> -33% bajo la competencia |
-| 2026-06-22 14:42 | -34% | liverpool | [Laptop Hp 14 pulgadas HD AMD Ryzen 3 AMD Radeon 16 GB R…](https://liverpool.com.mx/tienda/pdp/Laptop-Hp-14-pulgadas-HD-AMD-Ryzen-3-AMD-Radeon-16-GB-RAM-512-GB-SSD/1148353472) | $7,554 | $7,554 en liverpool vs sams $15,344, sams $19,436 -> -34% bajo la competencia |

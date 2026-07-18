@@ -84,15 +84,15 @@
     "items": []
   },
   "amazon|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-16T09:31:47.812309+00:00",
+    "ts": "2026-07-18T09:46:21.101325+00:00",
     "items": []
   },
   "walmart|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-16T09:31:49.506657+00:00",
+    "ts": "2026-07-18T09:46:46.932099+00:00",
     "items": []
   },
   "sams|GARMINDEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-16T09:31:51.648484+00:00",
+    "ts": "2026-07-18T09:46:48.644757+00:00",
     "items": []
   },
   "amazon|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
@@ -132,15 +132,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
-    "ts": "2026-07-16T09:31:57.974529+00:00",
+    "ts": "2026-07-18T09:47:08.041716+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
-    "ts": "2026-07-16T09:31:59.442664+00:00",
+    "ts": "2026-07-18T09:47:13.797605+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERFRAMBUESADEPORTIVOMONITOR": {
-    "ts": "2026-07-16T09:32:01.101664+00:00",
+    "ts": "2026-07-18T09:47:23.813929+00:00",
     "items": []
   },
   "amazon|CO401B": {
@@ -852,52 +852,28 @@
     "ts": "2026-07-18T08:13:25.986706+00:00",
     "items": []
   },
-  "amazon|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-16T09:31:53.063117+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-16T09:31:54.994687+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTOMONITORVENUMOSS": {
-    "ts": "2026-07-16T09:31:56.574353+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-16T09:32:02.964500+00:00",
+    "ts": "2026-07-18T09:47:28.324089+00:00",
     "items": []
   },
   "walmart|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-16T09:32:05.162965+00:00",
+    "ts": "2026-07-18T09:47:29.706505+00:00",
     "items": []
   },
   "sams|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-16T09:32:06.860106+00:00",
+    "ts": "2026-07-18T09:47:31.492901+00:00",
     "items": []
   },
   "amazon|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-16T09:32:08.472167+00:00",
+    "ts": "2026-07-18T09:47:34.086542+00:00",
     "items": []
   },
   "walmart|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-16T09:32:10.259072+00:00",
+    "ts": "2026-07-18T09:47:43.652820+00:00",
     "items": []
   },
   "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-16T09:32:12.059727+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-16T09:32:16.096434+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-16T09:32:17.595801+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-16T09:32:19.189452+00:00",
+    "ts": "2026-07-18T09:48:09.594371+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOMONITORVENU": {
@@ -2722,6 +2698,42 @@
   },
   "sams|OSTERCAFETERATOUCHTAZASPANEL": {
     "ts": "2026-07-18T08:13:55.309310+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-18T09:48:18.821473+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-18T09:48:20.474685+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-18T09:48:21.720223+00:00",
+    "items": []
+  },
+  "amazon|EDGE70": {
+    "ts": "2026-07-18T09:48:23.380419+00:00",
+    "items": []
+  },
+  "walmart|EDGE70": {
+    "ts": "2026-07-18T09:48:24.851724+00:00",
+    "items": []
+  },
+  "sams|EDGE70": {
+    "ts": "2026-07-18T09:48:26.250507+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-07-18T09:48:28.995250+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-07-18T09:48:31.120218+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-07-18T09:48:34.947322+00:00",
     "items": []
   }
 }
