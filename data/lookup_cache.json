@@ -876,18 +876,6 @@
     "ts": "2026-07-18T09:48:09.594371+00:00",
     "items": []
   },
-  "amazon|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-07-16T11:20:26.148794+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-07-16T11:20:28.186140+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-07-16T11:20:29.889677+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
     "ts": "2026-07-16T12:55:01.843486+00:00",
     "items": []
@@ -2770,6 +2758,18 @@
   },
   "sams|OSTERCAFETERAACEROGOTEOTOUCH": {
     "ts": "2026-07-18T10:56:50.428236+00:00",
+    "items": []
+  },
+  "amazon|HEADPLAYERAPOLOHEADTIPO": {
+    "ts": "2026-07-18T11:47:28.339700+00:00",
+    "items": []
+  },
+  "walmart|HEADPLAYERAPOLOHEADTIPO": {
+    "ts": "2026-07-18T11:47:30.763294+00:00",
+    "items": []
+  },
+  "sams|HEADPLAYERAPOLOHEADTIPO": {
+    "ts": "2026-07-18T11:47:34.474691+00:00",
     "items": []
   }
 }
