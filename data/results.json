@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18 19:33 UTC",
-  "products_scanned": 1698,
+  "generated_at": "2026-07-18 20:24 UTC",
+  "products_scanned": 1695,
   "threshold_pct": 20.0,
   "count": 59,
   "findings": [
@@ -742,27 +742,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.74,
-      "store": "palacio",
-      "name": "Galaxy S26+ Silicone Magnet Case",
-      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
-      "price": 739.26,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272463",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -778,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272435",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272436",
         "outlet": false
       }
     },
