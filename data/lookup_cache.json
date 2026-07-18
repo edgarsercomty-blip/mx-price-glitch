@@ -143,18 +143,6 @@
     "ts": "2026-07-18T15:17:29.251779+00:00",
     "items": []
   },
-  "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-16T22:16:13.650162+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-16T22:16:15.213299+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-07-16T22:16:19.615921+00:00",
-    "items": []
-  },
   "palacio|98Q7K": {
     "ts": "2026-07-17T03:57:05.841728+00:00",
     "items": [
@@ -2940,6 +2928,18 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
     "ts": "2026-07-18T21:30:11.680351+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-18T22:28:19.955381+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-18T22:28:22.399732+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKCIELOAPPLECHIP": {
+    "ts": "2026-07-18T22:28:24.299692+00:00",
     "items": []
   }
 }
