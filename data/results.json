@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18 22:28 UTC",
-  "products_scanned": 1689,
+  "generated_at": "2026-07-18 23:32 UTC",
+  "products_scanned": 1703,
   "threshold_pct": 20.0,
   "count": 58,
   "findings": [
@@ -725,27 +725,6 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272435",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
       "name": "Cargador de corriente 25W",
       "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
       "price": 295.26,
@@ -757,6 +736,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 259.74,
+      "store": "palacio",
+      "name": "Galaxy S26+ Silicone Magnet Case",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
+      "price": 739.26,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272463",
         "outlet": false
       }
     },
@@ -825,27 +825,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -862,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43698152",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401370",
         "outlet": false
       }
     },
@@ -973,27 +973,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 439.75,
-      "store": "palacio",
-      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
-      "price": 1319.25,
-      "list_price": 1759.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 4887.25,
@@ -1015,21 +994,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2999.75,
+      "savings": 439.75,
       "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1319.25,
+      "list_price": 1759.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021110",
+        "id": "43926488",
         "outlet": false
       }
     },
@@ -1051,6 +1030,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021110",
         "outlet": false
       }
     },

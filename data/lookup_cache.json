@@ -747,18 +747,6 @@
     "ts": "2026-07-18T21:30:07.120072+00:00",
     "items": []
   },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-16T23:12:14.475540+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-16T23:12:15.957994+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORGRAY": {
-    "ts": "2026-07-16T23:12:17.491927+00:00",
-    "items": []
-  },
   "amazon|CO905KS": {
     "ts": "2026-07-17T00:13:48.202361+00:00",
     "items": []
@@ -2940,6 +2928,18 @@
   },
   "sams|APPLEMACBOOKCIELOAPPLECHIP": {
     "ts": "2026-07-18T22:28:24.299692+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHPANELTAZAS": {
+    "ts": "2026-07-18T23:32:47.591043+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHPANELTAZAS": {
+    "ts": "2026-07-18T23:32:50.623996+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHPANELTAZAS": {
+    "ts": "2026-07-18T23:32:52.732094+00:00",
     "items": []
   }
 }
