@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 16:12 UTC",
-  "products_scanned": 1706,
+  "generated_at": "2026-07-18 17:15 UTC",
+  "products_scanned": 1699,
   "threshold_pct": 20.0,
-  "count": 59,
+  "count": 58,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -594,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$6,719 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2679.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439905",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -704,8 +725,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -714,7 +735,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520802",
+        "id": "45272435",
         "outlet": false
       }
     },
@@ -736,27 +757,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45272436",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272435",
         "outlet": false
       }
     },
@@ -862,27 +862,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43401370",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
         "outlet": false
       }
     },
@@ -1036,27 +1015,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.75,
@@ -1072,6 +1030,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021110",
         "outlet": false
       }
     },
