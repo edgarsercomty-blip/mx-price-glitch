@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18 17:15 UTC",
-  "products_scanned": 1699,
+  "generated_at": "2026-07-18 18:09 UTC",
+  "products_scanned": 1693,
   "threshold_pct": 20.0,
-  "count": 58,
+  "count": 60,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -594,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2659.8,
+      "store": "palacio",
+      "name": "Máquina de Café Espresso Crema",
+      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
+      "price": 6649.5,
+      "list_price": 13299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Chefman",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964885",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,719 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -721,6 +742,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 259.74,
+      "store": "palacio",
+      "name": "Galaxy S26+ Silicone Magnet Case",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
+      "price": 739.26,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -736,27 +778,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45272435",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272436",
         "outlet": false
       }
     },
@@ -820,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5524.79,
+      "store": "liverpool",
+      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
+      "price": 16574.36,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Ldts5552S",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125099480",
         "marketplace": null
       }
     },
