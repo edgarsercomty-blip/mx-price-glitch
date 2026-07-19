@@ -747,42 +747,6 @@
     "ts": "2026-07-18T21:30:07.120072+00:00",
     "items": []
   },
-  "amazon|CO905KS": {
-    "ts": "2026-07-17T00:13:48.202361+00:00",
-    "items": []
-  },
-  "walmart|CO905KS": {
-    "ts": "2026-07-17T00:13:49.795004+00:00",
-    "items": []
-  },
-  "sams|CO905KS": {
-    "ts": "2026-07-17T00:13:52.066199+00:00",
-    "items": []
-  },
-  "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-17T00:13:55.204463+00:00",
-    "items": []
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-17T00:14:01.890974+00:00",
-    "items": []
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-17T00:14:03.841848+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKAPPLECIELOCHIP": {
-    "ts": "2026-07-17T00:14:05.630004+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECIELOCHIP": {
-    "ts": "2026-07-17T00:14:07.633197+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECIELOCHIP": {
-    "ts": "2026-07-17T00:14:11.162696+00:00",
-    "items": []
-  },
   "palacio|LN8121MX": {
     "ts": "2026-07-17T03:58:09.045831+00:00",
     "items": [
@@ -2940,6 +2904,18 @@
   },
   "sams|OSTERCAFETERATOUCHPANELTAZAS": {
     "ts": "2026-07-18T23:32:52.732094+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-19T01:06:22.787559+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-19T01:06:25.291292+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-19T01:06:28.056331+00:00",
     "items": []
   }
 }
