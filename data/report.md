@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-19 15:34 UTC
+# Errores/chollos de precio — 2026-07-19 15:52 UTC
 
-- Productos revisados: **1715**
+- Productos revisados: **1722**
 - Umbral de diferencia: **20%**
-- Hallazgos: **56**
+- Hallazgos: **55**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -59,6 +59,5 @@
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
 | -26% | $104 | palacio | [Mica protectora antirreflejante para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
-| -26% | $104 | palacio | [Mica protectora antirreflejante para Galaxy S26](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -23% | $64 | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | Confirmado vs competencia | $212 en liverpool vs mercado -> -23% bajo la competencia |
 | -26% | $52 | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | Confirmado vs competencia | $147 en palacio vs mercado -> -26% bajo la competencia |

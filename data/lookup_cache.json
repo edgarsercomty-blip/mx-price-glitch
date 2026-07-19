@@ -2793,5 +2793,174 @@
   "sams|OSTERCAFETERAGOTEOTAZASTOUCH": {
     "ts": "2026-07-19T15:34:32.975073+00:00",
     "items": []
+  },
+  "palacio|7MMHW6621HW": {
+    "ts": "2026-07-19T15:52:00.665379+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Celular Moto G77 256 GB 8 GB Café Telcel",
+        "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g77-256-gb-8-gb-cafe-telcel-45357630.html",
+        "price": 5839.27,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis para entrenamiento Cloud 6 Hombre",
+        "url": "https://www.elpalaciodehierro.com/on-tenis-para-entrenamiento-cloud-6-hombre-44356479.html",
+        "price": 4899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Celular Moto G77 256 GB 8 GB RAM Esmeralda Desbloqueado",
+        "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g77-256-gb-8-gb-ram-esmeralda-desbloqueado-45345510.html",
+        "price": 5839.27,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html",
+        "price": 21427.0,
+        "model": "55QNED81BSG"
+      },
+      {
+        "store": "palacio",
+        "name": "Huawei Watch Fit 4 Blanco",
+        "url": "https://www.elpalaciodehierro.com/huawei-huawei-watch-fit-4-blanco-44729928.html",
+        "price": 2274.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor deportivo Forerunner 70, GPS, Citron, WW para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-70-gps-citron-ww-para-entrenamiento-45465474.html",
+        "price": 5099.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos Inalámbricos Bluetooth Huawei Freebuds 7i Rosas",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-rosas-45263135.html",
+        "price": 1599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos Inalámbricos Bluetooth Huawei Freebuds 7i Negros",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-negros-45263134.html",
+        "price": 1599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Audífonos inalámbricos Bluetooth Huawei Freebuds 7i Blancos",
+        "url": "https://www.elpalaciodehierro.com/huawei-audifonos-inalambricos-bluetooth-huawei-freebuds-7i-blancos-45263133.html",
+        "price": 1599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas plana True RGB 4K BRAVIA 7 II K-85XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-85-pulgadas-plana-true-rgb-4k-bravia-7-ii-k-85xr70m2-45588139.html",
+        "price": 47879.37,
+        "model": "K-85XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QNED 4K 75QNED81BSG",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-qned-4k-75qned81bsg-45505428.html",
+        "price": 29999.0,
+        "model": "75QNED81BSG"
+      },
+      {
+        "store": "palacio",
+        "name": "Correa hibrida para Watch8, Blanco",
+        "url": "https://www.elpalaciodehierro.com/samsung-correa-hibrida-para-watch8-blanco-44815332.html",
+        "price": 1199.0,
+        "model": "Watch8"
+      }
+    ]
+  },
+  "amazon|7MMHW6621HW": {
+    "ts": "2026-07-19T15:52:01.888663+00:00",
+    "items": []
+  },
+  "walmart|7MMHW6621HW": {
+    "ts": "2026-07-19T15:52:03.431580+00:00",
+    "items": []
+  },
+  "sams|7MMHW6621HW": {
+    "ts": "2026-07-19T15:52:05.137912+00:00",
+    "items": []
+  },
+  "mercadolibre|7MMHW6621HW": {
+    "ts": "2026-07-19T15:52:06.361807+00:00",
+    "items": []
+  },
+  "liverpool|98QM8K": {
+    "ts": "2026-07-19T15:52:08.848276+00:00",
+    "items": []
+  },
+  "amazon|98QM8K": {
+    "ts": "2026-07-19T15:52:10.016819+00:00",
+    "items": []
+  },
+  "walmart|98QM8K": {
+    "ts": "2026-07-19T15:52:11.616244+00:00",
+    "items": []
+  },
+  "sams|98QM8K": {
+    "ts": "2026-07-19T15:52:13.418115+00:00",
+    "items": []
+  },
+  "mercadolibre|98QM8K": {
+    "ts": "2026-07-19T15:52:15.774500+00:00",
+    "items": []
+  },
+  "liverpool|WA23C3554GVAX": {
+    "ts": "2026-07-19T15:52:16.838833+00:00",
+    "items": []
+  },
+  "amazon|WA23C3554GVAX": {
+    "ts": "2026-07-19T15:52:18.358418+00:00",
+    "items": []
+  },
+  "walmart|WA23C3554GVAX": {
+    "ts": "2026-07-19T15:52:20.078584+00:00",
+    "items": []
+  },
+  "sams|WA23C3554GVAX": {
+    "ts": "2026-07-19T15:52:21.519179+00:00",
+    "items": []
+  },
+  "mercadolibre|WA23C3554GVAX": {
+    "ts": "2026-07-19T15:52:23.544394+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-19T15:52:28.001226+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-19T15:52:29.751826+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-19T15:52:31.212698+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
+    "ts": "2026-07-19T15:52:33.577445+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
+    "ts": "2026-07-19T15:52:35.404358+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
+    "ts": "2026-07-19T15:52:37.807652+00:00",
+    "items": []
   }
 }
