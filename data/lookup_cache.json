@@ -551,18 +551,6 @@
     "ts": "2026-07-19T04:19:34.832194+00:00",
     "items": []
   },
-  "amazon|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:10:56.200623+00:00",
-    "items": []
-  },
-  "walmart|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:11:05.580884+00:00",
-    "items": []
-  },
-  "sams|RMA300FZMRX0": {
-    "ts": "2026-07-17T16:11:08.067831+00:00",
-    "items": []
-  },
   "amazon|CUBOTKINGKONGCUBOTLCD": {
     "ts": "2026-07-18T03:51:58.039182+00:00",
     "items": []
@@ -1076,76 +1064,28 @@
     "ts": "2026-07-19T15:34:28.913516+00:00",
     "items": []
   },
-  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-17T16:11:09.927397+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-17T16:11:15.116310+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-17T16:11:17.411149+00:00",
-    "items": []
-  },
-  "amazon|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:11:20.897967+00:00",
-    "items": []
-  },
-  "walmart|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:11:22.810584+00:00",
-    "items": []
-  },
-  "sams|WILLIAMSSONOMAREGALOMOSCOWMULE": {
-    "ts": "2026-07-17T16:11:25.605681+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKAPPLECHIPSSD": {
-    "ts": "2026-07-17T16:11:27.367802+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECHIPSSD": {
-    "ts": "2026-07-17T16:11:29.271404+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECHIPSSD": {
-    "ts": "2026-07-17T16:11:32.276226+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGCORRIENTECARGADOR25W": {
-    "ts": "2026-07-17T16:11:44.452880+00:00",
+    "ts": "2026-07-19T16:30:24.844116+00:00",
     "items": []
   },
   "walmart|SAMSUNGCORRIENTECARGADOR25W": {
-    "ts": "2026-07-17T16:11:49.453956+00:00",
+    "ts": "2026-07-19T16:30:27.078412+00:00",
     "items": []
   },
   "sams|SAMSUNGCORRIENTECARGADOR25W": {
-    "ts": "2026-07-17T16:11:54.469740+00:00",
+    "ts": "2026-07-19T16:30:29.579055+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-17T16:11:55.883422+00:00",
+    "ts": "2026-07-19T16:30:38.268332+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-17T16:12:03.064779+00:00",
+    "ts": "2026-07-19T16:30:39.892401+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-17T16:12:08.669213+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:12:11.315446+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:12:14.677323+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTOUCHGOTEO": {
-    "ts": "2026-07-17T16:12:16.603942+00:00",
+    "ts": "2026-07-19T16:30:41.462288+00:00",
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
@@ -2961,6 +2901,18 @@
   },
   "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
     "ts": "2026-07-19T15:52:37.807652+00:00",
+    "items": []
+  },
+  "amazon|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
+    "ts": "2026-07-19T16:30:32.110609+00:00",
+    "items": []
+  },
+  "walmart|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
+    "ts": "2026-07-19T16:30:35.430323+00:00",
+    "items": []
+  },
+  "sams|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
+    "ts": "2026-07-19T16:30:37.069950+00:00",
     "items": []
   }
 }
