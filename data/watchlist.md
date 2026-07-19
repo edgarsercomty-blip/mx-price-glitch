@@ -196,7 +196,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,890 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
-| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,596 | -29% |
+| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,399 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
@@ -238,7 +238,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110956.html) | $18,399 | -20% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | -20% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix 8 con GPS](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-con-gps-44110957.html) | $18,399 | -20% |
-| 🟢 disponible | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $5,839 | -30% |
+| 🟢 disponible | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $5,839 | -23% |
 | 🟢 disponible | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $6,719 | -28% |
 | 🟢 disponible | palacio | [Celular Moto Razr 60 Ultra, 1 TB, 16 GB RAM, café, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-razr-60-ultra-1-tb-16-gb-ram-cafe-desbloqueado-44600338.html) | $26,399 | -20% |
 | 🟢 disponible | palacio | [Celular Pura 80 Pro, 512 GB, RAM 12 GB, Negro, Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-pura-80-pro-512-gb-ram-12-gb-negro-desbloqueado-44928183.html) | $15,000 | -29% |
@@ -288,7 +288,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | -25% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | -23% |
 | 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | -26% |
-| 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | -33% |
+| 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | -23% |
 | 🟢 disponible | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | -26% |
 | 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | -31% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | -40% |
@@ -368,7 +368,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | -20% |
 | 🟢 disponible | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | -25% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | -26% |
-| 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | -50% |
+| 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | -33% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85D…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | -70% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | -25% |

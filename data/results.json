@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19 01:06 UTC",
-  "products_scanned": 1720,
+  "generated_at": "2026-07-19 04:19 UTC",
+  "products_scanned": 1704,
   "threshold_pct": 20.0,
-  "count": 61,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1199018091",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.1,
-      "detail": "$349 en liverpool vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 350.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918",
-      "price": 349.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "29113918",
         "marketplace": null
       }
     },
@@ -342,6 +321,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.1,
+      "detail": "$349 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 175.0,
+      "store": "liverpool",
+      "name": "Playera Tipo Polo Head Para Mujer",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918",
+      "price": 349.0,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "HEAD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "29113918",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -384,27 +384,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 10.0,
-      "detail": "$212 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.5,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 211.5,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
       "likely_typo": false,
@@ -421,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45345503",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,839 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2559.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
-      "price": 5839.2,
-      "list_price": 7299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439906",
         "outlet": false
       }
     },
@@ -548,27 +506,6 @@
       "extra": {
         "id": "45000828",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$34,999 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 14700.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd Azul Cielo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341",
-      "price": 34999.0,
-      "list_price": 34999.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196183341",
-        "marketplace": null
       }
     },
     {
@@ -725,69 +662,6 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520801",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272436",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
       "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
       "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
       "price": 295.26,
@@ -799,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272435",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -841,90 +736,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45467987",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 14.9,
-      "detail": "$2,980 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1019.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co401B 7 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223",
-      "price": 2980.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": "Co401B",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,724 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1574.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 165 Music para Correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html",
-      "price": 4724.25,
-      "list_price": 6299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43698152",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3S, Sage Gray + Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401370",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
         "outlet": false
       }
     },
@@ -1078,27 +889,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.75,
@@ -1119,23 +909,65 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 10.0,
-      "detail": "$302 en liverpool vs mercado -> -23% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 88.5,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 10.0,
+      "detail": "$212 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 63.5,
       "store": "liverpool",
-      "name": "Set Regalo Moscow Mule",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509",
-      "price": 301.5,
-      "list_price": 335.0,
+      "name": "Bowl Sicily De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
+      "price": 211.5,
+      "list_price": 235.0,
       "ean": null,
       "model": null,
       "brand": "WILLIAMS-SONOMA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1137579509",
+        "productId": "1067167747",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$5,839 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1719.9,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
+      "price": 5839.2,
+      "list_price": 7299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439906",
+        "outlet": false
       }
     },
     {
@@ -1178,27 +1010,6 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2299.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44674691",
-        "outlet": false
       }
     },
     {
