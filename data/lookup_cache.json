@@ -1052,30 +1052,6 @@
     "ts": "2026-07-19T19:48:05.764003+00:00",
     "items": []
   },
-  "amazon|GARMINDEPORTIVOMONITORDUSTSOFT": {
-    "ts": "2026-07-17T20:44:11.050200+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORDUSTSOFT": {
-    "ts": "2026-07-17T20:44:13.502420+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORDUSTSOFT": {
-    "ts": "2026-07-17T20:44:17.437926+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-17T20:44:22.923084+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-17T20:44:29.584228+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-17T20:44:31.661179+00:00",
-    "items": []
-  },
   "amazon|APPLEMACBOOKAPPLECHIPRAM": {
     "ts": "2026-07-17T21:42:55.484957+00:00",
     "items": []
@@ -2901,6 +2877,18 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
     "ts": "2026-07-19T20:38:27.891476+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-07-19T21:32:12.708463+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-07-19T21:32:14.657024+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-07-19T21:32:17.594595+00:00",
     "items": []
   }
 }

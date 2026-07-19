@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-19 20:38 UTC",
-  "products_scanned": 1704,
+  "generated_at": "2026-07-19 21:32 UTC",
+  "products_scanned": 1677,
   "threshold_pct": 20.0,
-  "count": 54,
+  "count": 53,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$36,428 en palacio vs mercado -> -70% bajo la competencia",
-      "likely_typo": false,
-      "savings": 84998.9,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
-      "price": 36428.1,
-      "list_price": 121427.0,
-      "ean": null,
-      "model": "QN85QN85DBFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43788563",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -615,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 45.4,
+      "detail": "$10,979 en liverpool vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4004.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253",
+      "price": 10979.0,
+      "list_price": 20109.0,
+      "ean": null,
+      "model": "Fc0240La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9995792253",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 26.0,
       "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -715,27 +715,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45272463",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272436",
         "outlet": false
       }
     },
