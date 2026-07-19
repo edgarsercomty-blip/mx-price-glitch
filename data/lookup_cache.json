@@ -1064,18 +1064,6 @@
     "ts": "2026-07-19T22:30:25.035470+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-17T22:40:18.263348+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-17T22:40:20.357119+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-17T22:40:22.509350+00:00",
-    "items": []
-  },
   "palacio|ARU122VQW": {
     "ts": "2026-07-18T03:51:14.965331+00:00",
     "items": [
@@ -2913,6 +2901,18 @@
   },
   "sams|OSTERCAFETERAACEROPANELTAZAS": {
     "ts": "2026-07-19T22:30:42.864827+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTAZASGOTEO": {
+    "ts": "2026-07-19T23:34:22.153589+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELTAZASGOTEO": {
+    "ts": "2026-07-19T23:34:24.352281+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELTAZASGOTEO": {
+    "ts": "2026-07-19T23:34:27.870053+00:00",
     "items": []
   }
 }
