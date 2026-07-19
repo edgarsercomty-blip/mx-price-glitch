@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19 09:20 UTC",
-  "products_scanned": 1631,
+  "generated_at": "2026-07-19 10:47 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -111,22 +111,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "discount_pct": 54.0,
+      "detail": "$23,276 en palacio vs mercado -> -42% bajo la competencia",
       "likely_typo": false,
-      "savings": 1155.6,
+      "savings": 17203.66,
       "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
+      "name": "Refrigerador French Door Xpert Inverter 30 p3",
+      "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html",
+      "price": 23275.54,
+      "list_price": 50599.0,
       "ean": null,
       "model": null,
-      "brand": "Oster",
+      "brand": "Whirlpool",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216480",
+        "id": "45040173",
         "outlet": false
       }
     },
@@ -154,21 +154,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 859.6,
+      "savings": 1155.6,
       "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "41683214",
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -190,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -447,6 +468,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$8,399 en palacio vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3099.8,
+      "store": "palacio",
+      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
+      "price": 8399.2,
+      "list_price": 10499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44733803",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.4,
       "detail": "$10,979 en liverpool vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -490,12 +532,33 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 259.74,
+      "store": "palacio",
+      "name": "Funda Magnética Galaxy S26 rojo coral lisa",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html",
+      "price": 739.26,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272474",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Funda Galaxy A37 Rugged Negra rayas",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -504,7 +567,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45347604",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -515,8 +578,8 @@
       "likely_typo": false,
       "savings": 259.74,
       "store": "palacio",
-      "name": "Funda magnética de silicón para Galaxy S26 Plus",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html",
+      "name": "Galaxy S26+ Silicone Magnet Case",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
       "price": 739.26,
       "list_price": 999.0,
       "ean": null,
@@ -525,7 +588,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272471",
+        "id": "45272463",
         "outlet": false
       }
     },
@@ -599,6 +662,27 @@
       "likely_typo": false,
       "savings": 2349.75,
       "store": "palacio",
+      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401369",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
       "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
       "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
       "price": 7049.25,
@@ -637,27 +721,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$21,374 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7124.75,
-      "store": "palacio",
-      "name": "Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED7020RU",
-      "url": "https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html",
-      "price": 21374.25,
-      "list_price": 28499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Maytag",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44911285",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 824.75,
@@ -673,27 +736,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 224.75,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 674.25,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
         "outlet": false
       }
     },
@@ -736,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 224.75,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 674.25,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -884,6 +947,69 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3759.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Enduro 3 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
+      "price": 15039.2,
+      "list_price": 18799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44439914",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 719.8,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2879.2,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
       }
     },
     {
