@@ -1,4 +1,4 @@
-# Productos en vigilancia (375)
+# Productos en vigilancia (376)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -379,3 +379,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda Galaxy A37 Rugged Negra rayas](https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html) | $7,699 | -22% |
 | 🟢 disponible | palacio | [Funda Magnética Galaxy S26 rojo coral lisa](https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html) | $739 | -26% |
+| 🟢 disponible | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | -40% |

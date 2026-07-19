@@ -1,13 +1,14 @@
-# Errores/chollos de precio — 2026-07-19 11:49 UTC
+# Errores/chollos de precio — 2026-07-19 12:57 UTC
 
-- Productos revisados: **1636**
+- Productos revisados: **1643**
 - Umbral de diferencia: **20%**
-- Hallazgos: **50**
+- Hallazgos: **48**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -46% | $39,930 | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Mediano…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $47,499 | Confirmado vs competencia | $47,499 en liverpool vs mercado -> -46% bajo la competencia |
 | -46% | $35,700 | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402) | $42,499 | Confirmado vs competencia | $42,499 en liverpool vs mercado -> -46% bajo la competencia |
+| -40% | $22,000 | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | Confirmado vs competencia | $32,999 en palacio vs mercado -> -40% bajo la competencia |
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
 | -30% | $11,877 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $27,713 | Confirmado vs competencia | $27,713 en palacio vs mercado -> -30% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
@@ -17,12 +18,10 @@
 | -33% | $9,240 | palacio | [Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX…](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html) | $18,759 | Confirmado vs competencia | $18,759 en palacio vs mercado -> -33% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -53% | $8,000 | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $6,999 | Confirmado vs competencia | $6,999 en liverpool vs mercado -> -53% bajo la competencia |
-| -25% | $5,525 | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | Confirmado vs competencia | $16,574 en liverpool vs mercado -> -25% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $4,500 | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -27% | $4,004 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253) | $10,979 | Confirmado vs competencia | $10,979 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $3,760 | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | Confirmado vs competencia | $15,039 en palacio vs mercado -> -20% bajo la competencia |
-| -27% | $3,100 | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $8,399 | Confirmado vs competencia | $8,399 en palacio vs mercado -> -27% bajo la competencia |
 | -32% | $3,080 | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $6,599 | Confirmado vs competencia | $6,599 en palacio vs mercado -> -32% bajo la competencia |
 | -25% | $3,000 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $2,920 | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | Confirmado vs competencia | $11,679 en palacio vs mercado -> -20% bajo la competencia |
@@ -53,6 +52,5 @@
 | -35% | $157 | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | Confirmado vs competencia | $292 en palacio vs mercado -> -35% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
 | -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
-| -26% | $104 | palacio | [Funda Galaxy A37 Rugged Negra rayas](https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -23% | $64 | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | Confirmado vs competencia | $212 en liverpool vs mercado -> -23% bajo la competencia |
 | -26% | $52 | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | Confirmado vs competencia | $147 en palacio vs mercado -> -26% bajo la competencia |
