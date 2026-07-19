@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (416)
+# Historial de ofertas encontradas (418)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-19 09:20 | -22% | palacio | [Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html) | $7,699 | $7,699 en palacio vs mercado -> -22% bajo la competencia |
+| 2026-07-19 09:20 | -26% | palacio | [Funda Galaxy A37 Rugged Negra rayas](https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-18 14:17 | -26% | palacio | [Mica protectora antirreflejante para Galaxy S26](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-18 10:56 | -26% | palacio | [Galaxy S26+ Silicone Magnet Case](https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-18 09:48 | -24% | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, …](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,479 | $7,479 en palacio vs mercado -> -24% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-23 21:20 | -56% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | $7,470 en palacio vs mercado -> -56% bajo la competencia |
 | 2026-06-23 20:20 | -20% | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | $3,799 en liverpool vs walmart $4,779 -> -20% bajo la competencia |
 | 2026-06-23 15:14 | -28% | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (2…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | $1,090 en amazon vs amazon $1,505, palacio $1,726, amazon $2,090 -> -28% bajo la competencia |
-| 2026-06-23 12:27 | -21% | palacio | [Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart …](https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html) | $32,571 | $32,571 en palacio vs walmart $50,135 -> -21% bajo la competencia |
-| 2026-06-22 21:06 | -27% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $14,850 | $14,850 en palacio vs sams $20,459 -> -27% bajo la competencia |

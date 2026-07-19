@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-19 07:12 UTC",
-  "products_scanned": 1693,
+  "generated_at": "2026-07-19 09:20 UTC",
+  "products_scanned": 1631,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 46,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$36,428 en palacio vs mercado -> -70% bajo la competencia",
-      "likely_typo": false,
-      "savings": 84998.9,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
-      "price": 36428.1,
-      "list_price": 121427.0,
-      "ean": null,
-      "model": "QN85QN85DBFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43788563",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -175,48 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 687.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
-      "price": 1031.4,
-      "list_price": 1719.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -238,42 +175,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,274 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1516.0,
+      "savings": 687.6,
       "store": "palacio",
-      "name": "Cafetera Vertuo Pop Deluxe Titan",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html",
-      "price": 2274.0,
-      "list_price": 3790.0,
+      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
+      "price": 1031.4,
+      "list_price": 1719.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43394653",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,500 en palacio vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora Smart Power, 2 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html",
-      "price": 1499.5,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Cuisinart",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45397408",
+        "id": "43216477",
         "outlet": false
       }
     },
@@ -448,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11877.0,
@@ -484,48 +379,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11970.0,
-      "store": "palacio",
-      "name": "Cafetera semi automática Porsche para 6 tazas",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
-      "price": 27930.0,
-      "list_price": 39900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000828",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.8,
-      "store": "palacio",
-      "name": "Maquina de cafe Espresso",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html",
-      "price": 5649.5,
-      "list_price": 11299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44587559",
         "outlet": false
       }
     },
@@ -616,27 +469,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 207.74,
-      "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44815304",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 51.74,
@@ -662,8 +494,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
+      "name": "Funda Galaxy A37 Rugged Negra rayas",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -672,28 +504,28 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272435",
+        "id": "45347604",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 103.74,
+      "savings": 259.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
-      "price": 295.26,
-      "list_price": 399.0,
+      "name": "Funda magnética de silicón para Galaxy S26 Plus",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html",
+      "price": 739.26,
+      "list_price": 999.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520801",
+        "id": "45272471",
         "outlet": false
       }
     },
@@ -763,6 +595,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401374",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 337.25,
@@ -784,21 +637,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$21,374 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 1499.75,
+      "savings": 7124.75,
       "store": "palacio",
-      "name": "Licuadora Titan, 5 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
-      "price": 4499.25,
-      "list_price": 5999.0,
+      "name": "Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED7020RU",
+      "url": "https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html",
+      "price": 21374.25,
+      "list_price": 28499.0,
       "ean": null,
       "model": null,
-      "brand": "Oster",
+      "brand": "Maytag",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45281005",
+        "id": "44911285",
         "outlet": false
       }
     },
@@ -868,27 +721,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 439.75,
@@ -910,27 +742,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2999.75,
@@ -946,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$7,479 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2419.78,
+      "store": "palacio",
+      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
+      "price": 7479.32,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Edge70",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45363417",
         "outlet": false
       }
     },
@@ -1009,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2199.8,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
+      "price": 7699.3,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345509",
         "outlet": false
       }
     },
