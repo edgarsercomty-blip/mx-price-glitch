@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19 10:47 UTC",
-  "products_scanned": 1632,
+  "generated_at": "2026-07-19 11:49 UTC",
+  "products_scanned": 1636,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 50,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -532,27 +532,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.74,
-      "store": "palacio",
-      "name": "Funda Magnética Galaxy S26 rojo coral lisa",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html",
-      "price": 739.26,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272474",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -589,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Funda Galaxy A37 Rugged Negra rayas",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45347604",
         "outlet": false
       }
     },
@@ -653,27 +653,6 @@
       "extra": {
         "productId": "1125099480",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3S, Pebble Gray Slate Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401369",
-        "outlet": false
       }
     },
     {
@@ -952,27 +931,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3759.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Enduro 3 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
-      "price": 15039.2,
-      "list_price": 18799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439914",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2919.8,
@@ -994,21 +952,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$2,879 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 719.8,
+      "savings": 3759.8,
       "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2879.2,
-      "list_price": 3599.0,
+      "name": "Monitor Deportivo Enduro 3 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
+      "price": 15039.2,
+      "list_price": 18799.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44840620",
+        "id": "44439914",
         "outlet": false
       }
     },
