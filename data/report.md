@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-19 19:48 UTC
+# Errores/chollos de precio — 2026-07-19 20:38 UTC
 
-- Productos revisados: **1719**
+- Productos revisados: **1704**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **54**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -22,7 +22,6 @@
 | -25% | $4,887 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | Confirmado vs competencia | $14,662 en palacio vs mercado -> -25% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $4,500 | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
-| -27% | $4,004 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253) | $10,979 | Confirmado vs competencia | $10,979 en liverpool vs mercado -> -27% bajo la competencia |
 | -32% | $3,080 | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $6,599 | Confirmado vs competencia | $6,599 en palacio vs mercado -> -32% bajo la competencia |
 | -25% | $3,000 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -28% | $2,680 | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $6,719 | Confirmado vs competencia | $6,719 en palacio vs mercado -> -28% bajo la competencia |
