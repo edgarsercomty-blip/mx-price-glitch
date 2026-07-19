@@ -11,18 +11,6 @@
     "ts": "2026-07-19T04:19:40.433719+00:00",
     "items": []
   },
-  "amazon|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-17T17:32:16.020860+00:00",
-    "items": []
-  },
-  "walmart|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-17T17:32:17.567766+00:00",
-    "items": []
-  },
-  "sams|GARMINFORERUNNERMONITORCORRERMUSIC": {
-    "ts": "2026-07-17T17:32:36.367557+00:00",
-    "items": []
-  },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORCORRER": {
     "ts": "2026-07-18T14:16:57.102990+00:00",
     "items": []
@@ -35,18 +23,6 @@
     "ts": "2026-07-18T14:17:02.951707+00:00",
     "items": []
   },
-  "amazon|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-17T17:32:49.906289+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-17T17:33:02.082284+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORCASUALVENU": {
-    "ts": "2026-07-17T17:33:03.684944+00:00",
-    "items": []
-  },
   "amazon|GARMINDEPORTIVOINSTINCTMONITOR": {
     "ts": "2026-07-18T09:46:21.101325+00:00",
     "items": []
@@ -57,18 +33,6 @@
   },
   "sams|GARMINDEPORTIVOINSTINCTMONITOR": {
     "ts": "2026-07-18T09:46:48.644757+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-17T17:33:05.931190+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-17T17:33:07.621979+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDWHITESTONEDEPORTIVOMONITOR": {
-    "ts": "2026-07-17T17:33:11.636926+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOVIVOSMARTDEPORTIVOMONITOR": {
@@ -1086,30 +1050,6 @@
   },
   "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
     "ts": "2026-07-19T16:30:41.462288+00:00",
-    "items": []
-  },
-  "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-17T17:33:21.506220+00:00",
-    "items": []
-  },
-  "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-17T17:33:23.472433+00:00",
-    "items": []
-  },
-  "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-17T17:33:25.633209+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTOUCHTAZAS": {
-    "ts": "2026-07-17T17:33:28.730184+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTOUCHTAZAS": {
-    "ts": "2026-07-17T17:33:34.294761+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
-    "ts": "2026-07-17T17:33:35.804136+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERATAZASACEROPANEL": {
@@ -2913,6 +2853,42 @@
   },
   "sams|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
     "ts": "2026-07-19T16:30:37.069950+00:00",
+    "items": []
+  },
+  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-19T17:36:52.159084+00:00",
+    "items": []
+  },
+  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-19T17:36:53.863522+00:00",
+    "items": []
+  },
+  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-19T17:36:55.847880+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-19T17:36:57.477650+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-19T17:36:59.306763+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKAPPLECHIPSSD": {
+    "ts": "2026-07-19T17:37:01.082237+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELGOTEOACERO": {
+    "ts": "2026-07-19T17:37:02.436002+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELGOTEOACERO": {
+    "ts": "2026-07-19T17:37:03.924863+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELGOTEOACERO": {
+    "ts": "2026-07-19T17:37:05.562992+00:00",
     "items": []
   }
 }
