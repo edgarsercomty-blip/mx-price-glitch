@@ -551,18 +551,6 @@
     "ts": "2026-07-19T04:19:34.832194+00:00",
     "items": []
   },
-  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
-    "ts": "2026-07-17T14:54:10.706034+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
-    "ts": "2026-07-17T14:54:12.425934+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
-    "ts": "2026-07-17T14:54:14.230512+00:00",
-    "items": []
-  },
   "amazon|RMA300FZMRX0": {
     "ts": "2026-07-17T16:10:56.200623+00:00",
     "items": []
@@ -1076,76 +1064,16 @@
     "ts": "2026-07-19T14:22:17.310723+00:00",
     "items": []
   },
-  "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-17T14:53:53.017552+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-17T14:53:54.547186+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-17T14:53:57.021859+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-17T14:53:58.428717+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-17T14:53:59.654335+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTODEPORTIVOVIVOSMARTMONITOR": {
-    "ts": "2026-07-17T14:54:03.338410+00:00",
-    "items": []
-  },
-  "amazon|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-17T14:54:04.620804+00:00",
-    "items": []
-  },
-  "walmart|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-17T14:54:06.601260+00:00",
-    "items": []
-  },
-  "sams|GARMINPASSIVATEDDEPORTIVOMONITORSAGE": {
-    "ts": "2026-07-17T14:54:08.840828+00:00",
-    "items": []
-  },
-  "amazon|MAYTAG7MMED7020RUELECTRICAPEDESTALSECADORA": {
-    "ts": "2026-07-17T14:54:15.762119+00:00",
-    "items": []
-  },
-  "walmart|MAYTAG7MMED7020RUELECTRICAPEDESTALSECADORA": {
-    "ts": "2026-07-17T14:54:17.007657+00:00",
-    "items": []
-  },
-  "sams|MAYTAG7MMED7020RUELECTRICAPEDESTALSECADORA": {
-    "ts": "2026-07-17T14:54:18.708643+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-17T14:54:24.011262+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-17T14:54:25.415486+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-17T14:54:28.950221+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-17T14:54:32.963910+00:00",
+    "ts": "2026-07-19T15:34:23.544423+00:00",
     "items": []
   },
   "walmart|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-17T14:54:34.454203+00:00",
+    "ts": "2026-07-19T15:34:26.792781+00:00",
     "items": []
   },
   "sams|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-17T14:54:35.749109+00:00",
+    "ts": "2026-07-19T15:34:28.913516+00:00",
     "items": []
   },
   "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
@@ -2852,6 +2780,18 @@
   },
   "sams|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
     "ts": "2026-07-19T14:22:31.061812+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTAZASTOUCH": {
+    "ts": "2026-07-19T15:34:30.122933+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOTAZASTOUCH": {
+    "ts": "2026-07-19T15:34:31.527981+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOTAZASTOUCH": {
+    "ts": "2026-07-19T15:34:32.975073+00:00",
     "items": []
   }
 }

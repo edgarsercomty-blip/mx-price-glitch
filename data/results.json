@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19 14:22 UTC",
-  "products_scanned": 1720,
+  "generated_at": "2026-07-19 15:34 UTC",
+  "products_scanned": 1715,
   "threshold_pct": 20.0,
   "count": 56,
   "findings": [
@@ -154,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -448,27 +448,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -484,6 +463,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43806632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -736,6 +736,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272463",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272436",
         "outlet": false
       }
     },
@@ -1073,27 +1094,6 @@
       "extra": {
         "productId": "1189562892",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
-        "outlet": false
       }
     },
     {
