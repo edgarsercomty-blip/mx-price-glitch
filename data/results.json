@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19 21:32 UTC",
-  "products_scanned": 1677,
+  "generated_at": "2026-07-19 22:30 UTC",
+  "products_scanned": 1689,
   "threshold_pct": 20.0,
   "count": 53,
   "findings": [
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45040173",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 21999.6,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638189",
         "outlet": false
       }
     },
@@ -589,27 +610,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1180553254",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.4,
-      "detail": "$10,979 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4004.5,
-      "store": "liverpool",
-      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253",
-      "price": 10979.0,
-      "list_price": 20109.0,
-      "ean": null,
-      "model": "Fc0240La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9995792253",
         "marketplace": null
       }
     },
