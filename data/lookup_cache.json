@@ -1186,18 +1186,6 @@
     "ts": "2026-07-20T16:22:09.568982+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATOUCHPANELTAZAS": {
-    "ts": "2026-07-18T23:32:47.591043+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHPANELTAZAS": {
-    "ts": "2026-07-18T23:32:50.623996+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHPANELTAZAS": {
-    "ts": "2026-07-18T23:32:52.732094+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAPANELACEROTAZAS": {
     "ts": "2026-07-19T01:06:22.787559+00:00",
     "items": []
@@ -2546,6 +2534,30 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
     "ts": "2026-07-20T22:48:11.882181+00:00",
+    "items": []
+  },
+  "amazon|WESTELMMARIPOSAFUNDACOJIN": {
+    "ts": "2026-07-20T23:48:30.454753+00:00",
+    "items": []
+  },
+  "walmart|WESTELMMARIPOSAFUNDACOJIN": {
+    "ts": "2026-07-20T23:48:32.122468+00:00",
+    "items": []
+  },
+  "sams|WESTELMMARIPOSAFUNDACOJIN": {
+    "ts": "2026-07-20T23:48:33.841522+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-20T23:48:35.043764+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-20T23:48:37.438898+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-20T23:48:38.972620+00:00",
     "items": []
   }
 }
