@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-20 07:53 UTC",
-  "products_scanned": 1626,
+  "generated_at": "2026-07-20 10:42 UTC",
+  "products_scanned": 1617,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 42,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$36,428 en palacio vs mercado -> -70% bajo la competencia",
-      "likely_typo": false,
-      "savings": 84998.9,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
-      "price": 36428.1,
-      "list_price": 121427.0,
-      "ean": null,
-      "model": "QN85QN85DBFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43788563",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
@@ -44,6 +23,27 @@
       "extra": {
         "productId": "1163021863",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$36,428 en palacio vs mercado -> -54% bajo la competencia",
+      "likely_typo": false,
+      "savings": 42499.45,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
+      "price": 36428.1,
+      "list_price": 121427.0,
+      "ean": null,
+      "model": "QN85QN85DBFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43788563",
+        "outlet": false
       }
     },
     {
@@ -615,69 +615,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$16,574 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5524.79,
-      "store": "liverpool",
-      "name": "Lavavajillas De Piso Lg Ldts5552S Asselat",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480",
-      "price": 16574.36,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Ldts5552S",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125099480",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3, Whitestone Passivated Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401374",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,624 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2874.75,
-      "store": "palacio",
-      "name": "Monitor deportivo Venu 4 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html",
-      "price": 8624.25,
-      "list_price": 11499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44965114",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -889,27 +826,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$6,719 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1739.9,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
-      "price": 6719.2,
-      "list_price": 8399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439905",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2919.8,
@@ -931,21 +847,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$15,039 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3759.8,
+      "savings": 1899.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Enduro 3 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html",
-      "price": 15039.2,
-      "list_price": 18799.0,
+      "name": "Monitor Deportivo Forerunner 265 Multideporte",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-265-multideporte-43277901.html",
+      "price": 7599.2,
+      "list_price": 9499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44439914",
+        "id": "43277901",
         "outlet": false
       }
     },

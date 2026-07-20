@@ -225,7 +225,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,399 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $31,739 | -25% |
 | 🟢 disponible | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $959 | -41% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $12,999 | -38% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | -38% |
 | 🟢 disponible | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | -25% |
@@ -369,7 +369,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | -25% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | -26% |
 | 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | -33% |
-| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85D…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | -70% |
+| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85D…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | -54% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | -25% |
 | 🟢 disponible | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | -25% |
