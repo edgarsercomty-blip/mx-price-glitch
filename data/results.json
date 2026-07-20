@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20 10:42 UTC",
-  "products_scanned": 1617,
+  "generated_at": "2026-07-20 13:02 UTC",
+  "products_scanned": 1664,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,27 +23,6 @@
       "extra": {
         "productId": "1163021863",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$36,428 en palacio vs mercado -> -54% bajo la competencia",
-      "likely_typo": false,
-      "savings": 42499.45,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85DBFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html",
-      "price": 36428.1,
-      "list_price": 121427.0,
-      "ean": null,
-      "model": "QN85QN85DBFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43788563",
-        "outlet": false
       }
     },
     {
@@ -195,6 +174,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 687.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
+      "price": 1031.4,
+      "list_price": 1719.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,274 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1516.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Pop Deluxe Titan",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html",
+      "price": 2274.0,
+      "list_price": 3790.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394653",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$1,500 en palacio vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
@@ -232,6 +253,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44563913",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
         "outlet": false
       }
     },
@@ -296,6 +338,27 @@
       "extra": {
         "id": "45345503",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$13,999 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6000.3,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 13999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "75Qned73Asc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -468,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2659.8,
+      "store": "palacio",
+      "name": "Máquina de Café Espresso Crema",
+      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
+      "price": 6649.5,
+      "list_price": 13299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Chefman",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44964885",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$2,299 en liverpool vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -594,6 +678,90 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272436",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Galaxy SmartTag2 blanco",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "SmartTag2",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520788",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10555.81,
+      "store": "palacio",
+      "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
+      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
+      "price": 30379.51,
+      "list_price": 61999.0,
+      "ean": null,
+      "model": "WD26FB8690BEAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44585698",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -673,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216476",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 224.75,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 674.25,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -783,6 +972,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 55.1,
+      "detail": "$7,573 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2406.35,
+      "store": "liverpool",
+      "name": "Congelador Aurus Afc11W Horizontal 11 Pies Cubicos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082",
+      "price": 7572.65,
+      "list_price": 16868.0,
+      "ean": null,
+      "model": "Afc11W",
+      "brand": "AURUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1142280082",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -804,64 +1014,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,094 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2199.8,
+      "savings": 523.5,
       "store": "palacio",
-      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
-      "price": 7699.3,
-      "list_price": 10999.0,
+      "name": "Cafetera Vertuo Pop negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html",
+      "price": 2094.0,
+      "list_price": 3490.0,
       "ean": null,
       "model": null,
-      "brand": "Motorola",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45345509",
+        "id": "43295135",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2919.8,
+      "savings": 2549.85,
       "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
+      "name": "Máquina de café Espressería Automática Sensation Milk",
+      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
+      "price": 10199.4,
+      "list_price": 16999.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "Krups",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44784098",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1899.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 265 Multideporte",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-265-multideporte-43277901.html",
-      "price": 7599.2,
-      "list_price": 9499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43277901",
+        "id": "44911677",
         "outlet": false
       }
     },
@@ -883,6 +1072,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44170253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.85,
+      "store": "palacio",
+      "name": "Krups Expresseria Intuition",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html",
+      "price": 17999.4,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484884",
         "outlet": false
       }
     }
