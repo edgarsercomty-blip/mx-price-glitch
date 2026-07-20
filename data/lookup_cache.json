@@ -1157,30 +1157,6 @@
     "ts": "2026-07-20T04:33:09.248620+00:00",
     "items": []
   },
-  "amazon|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-07-18T06:20:26.831575+00:00",
-    "items": []
-  },
-  "walmart|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-07-18T06:20:29.330420+00:00",
-    "items": []
-  },
-  "sams|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-07-18T06:20:31.792382+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-07-18T06:20:33.642919+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-07-18T06:20:35.111741+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-07-18T06:20:36.756344+00:00",
-    "items": []
-  },
   "amazon|QN85QN85DBFXZX": {
     "ts": "2026-07-18T08:12:44.474931+00:00",
     "items": []
@@ -2840,6 +2816,54 @@
   },
   "sams|SAMSUNGRUGGEDGALAXYRAYASFUNDA": {
     "ts": "2026-07-20T04:54:15.679853+00:00",
+    "items": []
+  },
+  "amazon|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-20T07:52:42.390007+00:00",
+    "items": []
+  },
+  "walmart|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-20T07:52:53.977557+00:00",
+    "items": []
+  },
+  "sams|GARMINWHITESTONEPASSIVATEDDEPORTIVOMONITOR": {
+    "ts": "2026-07-20T07:53:03.706990+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-20T07:53:09.258793+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-20T07:53:11.208874+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTODEPORTIVOMONITORVENU": {
+    "ts": "2026-07-20T07:53:13.257518+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGGALAXYRUGGEDRAYASFUNDA": {
+    "ts": "2026-07-20T07:53:14.705611+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGGALAXYRUGGEDRAYASFUNDA": {
+    "ts": "2026-07-20T07:53:16.124906+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGGALAXYRUGGEDRAYASFUNDA": {
+    "ts": "2026-07-20T07:53:17.500244+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-20T07:53:18.688545+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-20T07:53:20.110739+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-20T07:53:21.475502+00:00",
     "items": []
   }
 }
