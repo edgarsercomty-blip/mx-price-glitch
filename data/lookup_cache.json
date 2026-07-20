@@ -503,18 +503,6 @@
     "ts": "2026-07-19T04:19:34.832194+00:00",
     "items": []
   },
-  "amazon|CUBOTKINGKONGCUBOTLCD": {
-    "ts": "2026-07-18T03:51:58.039182+00:00",
-    "items": []
-  },
-  "walmart|CUBOTKINGKONGCUBOTLCD": {
-    "ts": "2026-07-18T03:51:59.654598+00:00",
-    "items": []
-  },
-  "sams|CUBOTKINGKONGCUBOTLCD": {
-    "ts": "2026-07-18T03:52:01.564463+00:00",
-    "items": []
-  },
   "amazon|ECF02": {
     "ts": "2026-07-18T08:13:21.036591+00:00",
     "items": []
@@ -1065,14 +1053,28 @@
     "items": []
   },
   "palacio|ARU122VQW": {
-    "ts": "2026-07-18T03:51:14.965331+00:00",
+    "ts": "2026-07-20T04:33:03.096734+00:00",
     "items": [
       {
         "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
-        "price": 7256.41,
-        "model": null
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14399.4,
+        "model": "VR122CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8699.25,
+        "model": "AP12CWN2"
       },
       {
         "store": "palacio",
@@ -1090,13 +1092,6 @@
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
-        "price": 13199.4,
-        "model": "VM122H9"
-      },
-      {
-        "store": "palacio",
         "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
         "price": 22799.4,
@@ -1104,10 +1099,24 @@
       },
       {
         "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 9999.5,
-        "model": "VM122C9"
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 12749.5,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
+        "price": 9619.48,
+        "model": "LP1225WC"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
       },
       {
         "store": "palacio",
@@ -1118,31 +1127,10 @@
       },
       {
         "store": "palacio",
-        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
-        "price": 14399.4,
-        "model": "VR122CW"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
-        "price": 8699.25,
-        "model": "AP12CWN2"
-      },
-      {
-        "store": "palacio",
         "name": "Aire Acondicionado Artcool Gallery 12000 BTUs VG122HD 220 V Frio - Calor",
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-artcool-gallery-12000-btus-vg122hd-220-v-frio---calor-44548112.html",
         "price": 27949.35,
         "model": "VG122HD"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
-        "price": 9619.48,
-        "model": "LP1225WC"
       },
       {
         "store": "palacio",
@@ -1154,148 +1142,19 @@
     ]
   },
   "amazon|ARU122VQW": {
-    "ts": "2026-07-18T03:51:16.645480+00:00",
+    "ts": "2026-07-20T04:33:04.391941+00:00",
     "items": []
   },
   "walmart|ARU122VQW": {
-    "ts": "2026-07-18T03:51:19.702504+00:00",
+    "ts": "2026-07-20T04:33:05.927862+00:00",
     "items": []
   },
   "sams|ARU122VQW": {
-    "ts": "2026-07-18T03:51:22.553609+00:00",
+    "ts": "2026-07-20T04:33:08.005984+00:00",
     "items": []
   },
   "mercadolibre|ARU122VQW": {
-    "ts": "2026-07-18T03:51:26.641535+00:00",
-    "items": []
-  },
-  "palacio|MWRF140SWHM": {
-    "ts": "2026-07-18T03:51:34.896345+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 32 p3 RF32CG5N10S9EM Silver",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-32-p3-rf32cg5n10s9em-silver-43388831.html",
-        "price": 23759.34,
-        "model": "RF32CG5N10S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8377.41,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
-        "price": 13639.38,
-        "model": "VT40BJM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
-        "price": 12284.37,
-        "model": "RMS510IVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
-        "price": 10047.36,
-        "model": "RMA300FXMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 29 p3 Family Hub RF29DB9950QDEM Acero",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-29-p3-family-hub-rf29db9950qdem-acero-43896314.html",
-        "price": 74143.44,
-        "model": "RF29DB9950QDEM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RMS400IBMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rms400ibmrp0-negro-40075633.html",
-        "price": 15839.34,
-        "model": "RMS400IBMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 15p3 RMS400IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-15p3-rms400ivmrp0-negro-44964259.html",
-        "price": 12077.34,
-        "model": "RMS400IVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 20 p3 Gris Acero",
-        "url": "https://www.elpalaciodehierro.com/maytag-refrigerador-french-door-20-p3-gris-acero-37265898.html",
-        "price": 32284.8,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
-        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
-        "price": 599.7,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 22 p3 RF22A4110S9",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-22-p3-rf22a4110s9-41998761.html",
-        "price": 19601.34,
-        "model": "RF22A4110S9"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
-        "price": 14189.34,
-        "model": "RT42DG6774S9EM"
-      }
-    ]
-  },
-  "amazon|MWRF140SWHM": {
-    "ts": "2026-07-18T03:51:37.192930+00:00",
-    "items": []
-  },
-  "walmart|MWRF140SWHM": {
-    "ts": "2026-07-18T03:51:38.723989+00:00",
-    "items": []
-  },
-  "sams|MWRF140SWHM": {
-    "ts": "2026-07-18T03:51:40.548592+00:00",
-    "items": []
-  },
-  "mercadolibre|MWRF140SWHM": {
-    "ts": "2026-07-18T03:51:42.330773+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-18T03:52:03.803651+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-18T03:52:07.883708+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-18T03:52:12.010744+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKAPPLECHIPAIR": {
-    "ts": "2026-07-18T04:15:44.231732+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECHIPAIR": {
-    "ts": "2026-07-18T04:15:46.316676+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECHIPAIR": {
-    "ts": "2026-07-18T04:15:51.762591+00:00",
+    "ts": "2026-07-20T04:33:09.248620+00:00",
     "items": []
   },
   "amazon|HEADPLAYERATIPOPOLOHEAD": {
@@ -2925,6 +2784,38 @@
   },
   "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
     "ts": "2026-07-20T01:09:17.750067+00:00",
+    "items": []
+  },
+  "liverpool|UN98DU9000FXZX": {
+    "ts": "2026-07-20T04:32:55.901194+00:00",
+    "items": []
+  },
+  "amazon|UN98DU9000FXZX": {
+    "ts": "2026-07-20T04:32:57.152311+00:00",
+    "items": []
+  },
+  "walmart|UN98DU9000FXZX": {
+    "ts": "2026-07-20T04:32:59.371746+00:00",
+    "items": []
+  },
+  "sams|UN98DU9000FXZX": {
+    "ts": "2026-07-20T04:33:01.418917+00:00",
+    "items": []
+  },
+  "mercadolibre|UN98DU9000FXZX": {
+    "ts": "2026-07-20T04:33:02.926281+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGRUGGEDGALAXYFUNDANEGRA": {
+    "ts": "2026-07-20T04:33:20.631277+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGRUGGEDGALAXYFUNDANEGRA": {
+    "ts": "2026-07-20T04:33:23.054184+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGRUGGEDGALAXYFUNDANEGRA": {
+    "ts": "2026-07-20T04:33:25.201135+00:00",
     "items": []
   }
 }

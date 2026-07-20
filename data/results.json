@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20 01:09 UTC",
-  "products_scanned": 1702,
+  "generated_at": "2026-07-20 04:33 UTC",
+  "products_scanned": 1697,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 51,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,48 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$42,499 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 35700.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402",
-      "price": 42499.0,
-      "list_price": 42499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196178402",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$47,499 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 39930.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Medianoche",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841",
-      "price": 47499.0,
-      "list_price": 47499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196182841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$23,276 en palacio vs mercado -> -42% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45040173",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 21999.6,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638189",
         "outlet": false
       }
     },
@@ -321,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.1,
-      "detail": "$349 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 175.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918",
-      "price": 349.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "29113918",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -510,6 +468,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$42,499 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 17850.0,
+      "store": "liverpool",
+      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402",
+      "price": 42499.0,
+      "list_price": 42499.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196178402",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$47,499 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 19965.0,
+      "store": "liverpool",
+      "name": "Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Medianoche",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841",
+      "price": 47499.0,
+      "list_price": 47499.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196182841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -547,27 +547,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44964885",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$6,719 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2679.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
-      "price": 6719.2,
-      "list_price": 8399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439905",
         "outlet": false
       }
     },
@@ -673,27 +652,6 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$739 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.74,
-      "store": "palacio",
-      "name": "Galaxy S26+ Silicone Magnet Case",
-      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html",
-      "price": 739.26,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272463",
         "outlet": false
       }
     },
@@ -993,48 +951,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 10.0,
-      "detail": "$212 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 63.5,
-      "store": "liverpool",
-      "name": "Bowl Sicily De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747",
-      "price": 211.5,
-      "list_price": 235.0,
-      "ean": null,
-      "model": null,
-      "brand": "WILLIAMS-SONOMA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1067167747",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,839 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1719.9,
-      "store": "palacio",
-      "name": "Monitor Deportivo Instinct 3 Deportivo Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html",
-      "price": 5839.2,
-      "list_price": 7299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44439906",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1056,23 +972,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.3,
-      "detail": "$5,819 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$6,719 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1479.0,
-      "store": "liverpool",
-      "name": "Cubot Kingkong 11 Lcd 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892",
-      "price": 5819.0,
-      "list_price": 7298.0,
+      "savings": 1739.9,
+      "store": "palacio",
+      "name": "Monitor Deportivo Instinct 3 para entrenamiento",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html",
+      "price": 6719.2,
+      "list_price": 8399.0,
       "ean": null,
       "model": null,
-      "brand": "CUBOT",
+      "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1189562892",
-        "marketplace": null
+        "id": "44439905",
+        "outlet": false
       }
     },
     {
