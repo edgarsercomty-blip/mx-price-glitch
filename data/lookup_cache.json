@@ -455,18 +455,6 @@
     "ts": "2026-07-20T10:42:49.528183+00:00",
     "items": []
   },
-  "amazon|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-18T16:12:44.283983+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-18T16:12:45.905957+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-18T16:12:49.417158+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
     "ts": "2026-07-18T19:33:43.924350+00:00",
     "items": []
@@ -1086,245 +1074,28 @@
     "items": []
   },
   "liverpool|75QM8K": {
-    "ts": "2026-07-18T15:49:27.837308+00:00",
+    "ts": "2026-07-20T16:21:34.322489+00:00",
     "items": []
   },
   "amazon|75QM8K": {
-    "ts": "2026-07-18T15:49:29.312544+00:00",
+    "ts": "2026-07-20T16:21:39.373687+00:00",
     "items": []
   },
   "walmart|75QM8K": {
-    "ts": "2026-07-18T15:49:31.283147+00:00",
+    "ts": "2026-07-20T16:21:48.476661+00:00",
     "items": []
   },
   "sams|75QM8K": {
-    "ts": "2026-07-18T15:49:34.003473+00:00",
+    "ts": "2026-07-20T16:21:50.579474+00:00",
     "items": []
   },
   "mercadolibre|75QM8K": {
-    "ts": "2026-07-18T15:49:35.936960+00:00",
-    "items": []
-  },
-  "palacio|PANTA120EBLA": {
-    "ts": "2026-07-18T15:49:45.986304+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón Chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-chino-hombre-45098325.html",
-        "price": 999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011872.html",
-        "price": 1610.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalon Mujer",
-        "url": "https://www.elpalaciodehierro.com/hobbs-pantalon-mujer-44620173.html",
-        "price": 1680.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
-        "price": 2650.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón casual Hombre",
-        "url": "https://www.elpalaciodehierro.com/boggi-milano-pantalon-casual-hombre-44170785.html",
-        "price": 2845.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346431.html",
-        "price": 6500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pants para entrenamiento liso Hombre",
-        "url": "https://www.elpalaciodehierro.com/craft-pants-para-entrenamiento-liso-hombre-45446826.html",
-        "price": 1749.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-hombre-45343656.html",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/vilebrequin-pantalon-hombre-45346418.html",
-        "price": 6500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-pantalon-hombre-44445114.html",
-        "price": 2069.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón chino Hombre",
-        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-chino-hombre-45137404.html",
-        "price": 2233.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Mujer",
-        "url": "https://www.elpalaciodehierro.com/hobbs-pantalon-mujer-45334954.html",
-        "price": 3300.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|PANTA120EBLA": {
-    "ts": "2026-07-18T15:49:47.678710+00:00",
-    "items": []
-  },
-  "walmart|PANTA120EBLA": {
-    "ts": "2026-07-18T15:49:49.133007+00:00",
-    "items": []
-  },
-  "sams|PANTA120EBLA": {
-    "ts": "2026-07-18T15:49:50.862329+00:00",
-    "items": []
-  },
-  "mercadolibre|PANTA120EBLA": {
-    "ts": "2026-07-18T15:49:52.048195+00:00",
-    "items": []
-  },
-  "palacio|7MMVWC465JW": {
-    "ts": "2026-07-18T15:49:52.231206+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-pantalon-hombre-45235949.html",
-        "price": 2699.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-slim-hombre-43700227.html",
-        "price": 2726.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans straight Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-straight-mujer-44861650.html",
-        "price": 4499.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-pantalon-mujer-44861872.html",
-        "price": 3989.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-straight-hombre-45166845.html",
-        "price": 3429.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Marie wideleg Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-marie-wideleg-mujer-44861758.html",
-        "price": 4619.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans flared Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-flared-mujer-44861800.html",
-        "price": 4139.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans wideleg Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-wideleg-mujer-44861683.html",
-        "price": 4499.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Luxe performance de corte Modern Slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-luxe-performance-de-corte-modern-slim-hombre-43935502.html",
-        "price": 2796.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Franklin wideleg Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-franklin-wideleg-mujer-44861791.html",
-        "price": 3989.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-de-corte-straight-hombre-44820472.html",
-        "price": 2999.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Blusa de mezclilla sólida sin mangas Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-blusa-de-mezclilla-solida-sin-mangas-mujer-45325300.html",
-        "price": 3149.3,
-        "model": null
-      }
-    ]
-  },
-  "amazon|7MMVWC465JW": {
-    "ts": "2026-07-18T15:49:53.866710+00:00",
-    "items": []
-  },
-  "walmart|7MMVWC465JW": {
-    "ts": "2026-07-18T15:49:55.996254+00:00",
-    "items": []
-  },
-  "sams|7MMVWC465JW": {
-    "ts": "2026-07-18T15:49:57.495623+00:00",
-    "items": []
-  },
-  "mercadolibre|7MMVWC465JW": {
-    "ts": "2026-07-18T15:49:59.106170+00:00",
+    "ts": "2026-07-20T16:21:52.879237+00:00",
     "items": []
   },
   "palacio|SETCMC361V": {
-    "ts": "2026-07-18T15:49:59.326791+00:00",
+    "ts": "2026-07-20T16:22:00.010738+00:00",
     "items": [
-      {
-        "store": "palacio",
-        "name": "Jeans de corte slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764165.html",
-        "price": 999.5,
-        "model": null
-      },
       {
         "store": "palacio",
         "name": "Traje Regular Microdiseño Hombre",
@@ -1334,16 +1105,16 @@
       },
       {
         "store": "palacio",
-        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
-        "price": 12158.37,
-        "model": "RMA300FZMRX0"
+        "name": "Jeans de corte slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764172.html",
+        "price": 1049.5,
+        "model": null
       },
       {
         "store": "palacio",
         "name": "Jeans de corte slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764172.html",
-        "price": 1049.5,
+        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764167.html",
+        "price": 999.5,
         "model": null
       },
       {
@@ -1355,17 +1126,17 @@
       },
       {
         "store": "palacio",
-        "name": "Jeans straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-straight-hombre-44889503.html",
-        "price": 1584.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
         "name": "Traje de lana corte regular jaspeado Hombre",
         "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-jaspeado-hombre-45131837.html",
         "price": 5749.5,
         "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
+        "price": 12158.37,
+        "model": "RMA300FZMRX0"
       },
       {
         "store": "palacio",
@@ -1376,16 +1147,16 @@
       },
       {
         "store": "palacio",
-        "name": "Traje de lana corte regular cuadros Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-cuadros-hombre-45192179.html",
-        "price": 8049.3,
+        "name": "Jeans straight Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-straight-hombre-44889501.html",
+        "price": 1584.0,
         "model": null
       },
       {
         "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
-        "price": 1399.0,
+        "name": "Saco jaspeado Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-saco-jaspeado-hombre-45192121.html",
+        "price": 5879.3,
         "model": null
       },
       {
@@ -1398,38 +1169,33 @@
       {
         "store": "palacio",
         "name": "Traje de corte regular con microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-traje-de-corte-regular-con-microdiseno-hombre-45026115.html",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-traje-de-corte-regular-con-microdiseno-hombre-45026117.html",
         "price": 6999.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa microdiseño manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
+        "price": 1399.0,
         "model": null
       }
     ]
   },
   "amazon|SETCMC361V": {
-    "ts": "2026-07-18T15:50:00.772036+00:00",
+    "ts": "2026-07-20T16:22:01.785618+00:00",
     "items": []
   },
   "walmart|SETCMC361V": {
-    "ts": "2026-07-18T15:50:02.207353+00:00",
+    "ts": "2026-07-20T16:22:04.122313+00:00",
     "items": []
   },
   "sams|SETCMC361V": {
-    "ts": "2026-07-18T15:50:03.598249+00:00",
+    "ts": "2026-07-20T16:22:05.656885+00:00",
     "items": []
   },
   "mercadolibre|SETCMC361V": {
-    "ts": "2026-07-18T15:50:04.901421+00:00",
-    "items": []
-  },
-  "amazon|HEADPLAYERAHEADTIPOPOLO": {
-    "ts": "2026-07-18T15:50:06.333569+00:00",
-    "items": []
-  },
-  "walmart|HEADPLAYERAHEADTIPOPOLO": {
-    "ts": "2026-07-18T15:50:08.116743+00:00",
-    "items": []
-  },
-  "sams|HEADPLAYERAHEADTIPOPOLO": {
-    "ts": "2026-07-18T15:50:09.555609+00:00",
+    "ts": "2026-07-20T16:22:09.568982+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAACEROGOTEOPANEL": {
@@ -2672,6 +2438,54 @@
   },
   "sams|OSTERCAFETERAACEROGOTEOTOUCH": {
     "ts": "2026-07-20T15:22:46.208277+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-20T16:22:14.813908+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-20T16:22:16.334364+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-20T16:22:25.304985+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-20T16:22:27.134165+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-20T16:22:29.173871+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCABLECARGATIPO": {
+    "ts": "2026-07-20T16:22:31.040378+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-20T16:22:32.522970+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-20T16:22:34.862131+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
+    "ts": "2026-07-20T16:22:37.258361+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-20T16:22:39.031359+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-20T16:22:41.948993+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-20T16:22:44.148484+00:00",
     "items": []
   }
 }
