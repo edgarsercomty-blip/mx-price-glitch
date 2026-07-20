@@ -455,18 +455,6 @@
     "ts": "2026-07-20T10:42:49.528183+00:00",
     "items": []
   },
-  "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-18T19:33:43.924350+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-18T19:33:45.609869+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYFUNDANAVY": {
-    "ts": "2026-07-18T19:33:48.830125+00:00",
-    "items": []
-  },
   "amazon|FC0240LA": {
     "ts": "2026-07-18T21:29:58.675006+00:00",
     "items": []
@@ -1196,18 +1184,6 @@
   },
   "mercadolibre|SETCMC361V": {
     "ts": "2026-07-20T16:22:09.568982+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASGOTEOACERO": {
-    "ts": "2026-07-18T19:33:50.270895+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASGOTEOACERO": {
-    "ts": "2026-07-18T19:33:51.997089+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASGOTEOACERO": {
-    "ts": "2026-07-18T19:33:54.122659+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
@@ -2558,6 +2534,18 @@
   },
   "sams|OSTERCAFETERAGOTEOTAZASACERO": {
     "ts": "2026-07-20T19:09:25.764863+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELACEROGOTEO": {
+    "ts": "2026-07-20T20:42:22.245518+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELACEROGOTEO": {
+    "ts": "2026-07-20T20:42:27.615885+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELACEROGOTEO": {
+    "ts": "2026-07-20T20:42:30.499954+00:00",
     "items": []
   }
 }
