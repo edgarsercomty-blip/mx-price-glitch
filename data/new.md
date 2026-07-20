@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-20 21:56 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-20 22:48 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -56% | $186 | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $149 | Confirmado vs competencia | $149 en liverpool vs mercado -> -56% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._

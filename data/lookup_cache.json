@@ -1186,18 +1186,6 @@
     "ts": "2026-07-20T16:22:09.568982+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-18T22:28:19.955381+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-18T22:28:22.399732+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKCIELOAPPLECHIP": {
-    "ts": "2026-07-18T22:28:24.299692+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERATOUCHPANELTAZAS": {
     "ts": "2026-07-18T23:32:47.591043+00:00",
     "items": []
@@ -2546,6 +2534,18 @@
   },
   "sams|WESTELMMARIPOSACOJINFUNDA": {
     "ts": "2026-07-20T21:56:01.337764+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-20T22:48:05.113193+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-20T22:48:06.882021+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
+    "ts": "2026-07-20T22:48:11.882181+00:00",
     "items": []
   }
 }
