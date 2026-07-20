@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (422)
+# Historial de ofertas encontradas (423)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-20 15:22 | -20% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | $2,095 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-20 13:02 | -24% | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | $7,573 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-20 13:02 | -26% | palacio | [Galaxy SmartTag2 blanco](https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-19 12:57 | -40% | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | $32,999 en palacio vs mercado -> -40% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-26 10:04 | -33% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,904 | $8,904 en liverpool vs mercado -> -33% bajo la competencia |
 | 2026-06-25 09:49 | -27% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $367 | $367 en walmart vs sams $503 -> -27% bajo la competencia |
 | 2026-06-24 20:02 | -22% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $10,388 | $10,388 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-06-24 20:02 | -43% | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga sup…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $12,005 | $12,005 en palacio vs mercado -> -43% bajo la competencia |

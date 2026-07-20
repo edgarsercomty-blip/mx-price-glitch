@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20 13:02 UTC",
-  "products_scanned": 1664,
+  "generated_at": "2026-07-20 15:22 UTC",
+  "products_scanned": 1670,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -662,27 +662,6 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Funda Galaxy A37 Rugged Negra rayas",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45347604",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
       "name": "Mica protectora antirreflejante para Galaxy S26",
       "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
       "price": 295.26,
@@ -694,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272436",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -726,7 +726,7 @@
       "savings": 103.74,
       "store": "palacio",
       "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -735,7 +735,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520801",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -1010,6 +1010,27 @@
       "extra": {
         "id": "45345508",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,095 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 523.8,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
+      "price": 2095.2,
+      "list_price": 2619.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165916841",
+        "marketplace": null
       }
     },
     {
