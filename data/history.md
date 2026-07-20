@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (424)
+# Historial de ofertas encontradas (425)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-20 17:06 | -26% | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-20 16:22 | -26% | palacio | [Funda magnética transparente para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-20 15:22 | -20% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | $2,095 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-20 13:02 | -24% | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | $7,573 en liverpool vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-26 20:13 | -52% | liverpool | [Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED9…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101) | $19,999 | $19,999 en liverpool vs walmart $41,655 -> -52% bajo la competencia |
 | 2026-06-26 12:24 | -62% | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | $8,499 en liverpool vs mercado -> -62% bajo la competencia |
 | 2026-06-26 10:04 | -33% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,904 | $8,904 en liverpool vs mercado -> -33% bajo la competencia |
-| 2026-06-25 09:49 | -27% | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $367 | $367 en walmart vs sams $503 -> -27% bajo la competencia |

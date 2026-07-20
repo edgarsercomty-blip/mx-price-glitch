@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20 16:22 UTC",
-  "products_scanned": 1683,
+  "generated_at": "2026-07-20 17:06 UTC",
+  "products_scanned": 1697,
   "threshold_pct": 20.0,
-  "count": 54,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -658,48 +658,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 207.74,
-      "store": "palacio",
-      "name": "Funda magnética transparente para Galaxy S26 Plus",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html",
-      "price": 591.26,
-      "list_price": 799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272462",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
@@ -726,7 +684,7 @@
       "savings": 103.74,
       "store": "palacio",
       "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -735,7 +693,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520801",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -779,6 +737,27 @@
       "extra": {
         "id": "45467987",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$460 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 159.0,
+      "store": "liverpool",
+      "name": "Cafetera De Goteo Oster Bvstdc12B",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749",
+      "price": 460.0,
+      "list_price": 460.0,
+      "ean": null,
+      "model": "Bvstdc12B",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1153472749",
+        "marketplace": null
       }
     },
     {
@@ -1031,27 +1010,6 @@
       "extra": {
         "productId": "1165916841",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2919.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Venu X1 negro",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
-      "price": 11679.2,
-      "list_price": 14599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44784098",
-        "outlet": false
       }
     },
     {
