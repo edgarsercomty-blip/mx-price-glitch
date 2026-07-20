@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (425)
+# Historial de ofertas encontradas (428)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-20 19:09 | -20% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,377 | $3,377 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-20 19:09 | -48% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
+| 2026-07-20 19:09 | -48% | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | $15,929 en palacio vs mercado -> -48% bajo la competencia |
 | 2026-07-20 17:06 | -26% | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-20 16:22 | -26% | palacio | [Funda magnética transparente para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-20 15:22 | -20% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | $2,095 en liverpool vs mercado -> -20% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-28 04:16 | -22% | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,399 | $1,399 en walmart vs mercado -> -22% bajo la competencia |
 | 2026-06-28 04:16 | -26% | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $19,259 | $19,259 en walmart vs amazon $38,999 -> -26% bajo la competencia |
 | 2026-06-26 20:13 | -32% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | $8,957 en liverpool vs mercado -> -32% bajo la competencia |
-| 2026-06-26 20:13 | -52% | liverpool | [Pantalla Smart TV LG QNED de 75 pulgadas 4K/UHD 75QNED9…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-75-pulgadas-4K/UHD-75QNED92ASA-con-evo-AI/1179495101) | $19,999 | $19,999 en liverpool vs walmart $41,655 -> -52% bajo la competencia |
-| 2026-06-26 12:24 | -62% | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA…](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | $8,499 en liverpool vs mercado -> -62% bajo la competencia |
-| 2026-06-26 10:04 | -33% | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,904 | $8,904 en liverpool vs mercado -> -33% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20 17:06 UTC",
-  "products_scanned": 1697,
+  "generated_at": "2026-07-20 19:09 UTC",
+  "products_scanned": 1707,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 57,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,6 +64,48 @@
       "currency": "MXN",
       "extra": {
         "productId": "1199017744",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15010.04,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 15929.41,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.4,
+      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9500.5,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162",
+      "price": 10499.0,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": "55Qned81Bsc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200279162",
         "marketplace": null
       }
     },
@@ -699,6 +741,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Galaxy SmartTag2 blanco",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "SmartTag2",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520788",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -910,27 +994,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2999.75,
@@ -946,6 +1009,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3599.25,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -993,23 +1077,44 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,095 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$3,377 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 523.8,
+      "savings": 844.35,
       "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 2095.2,
-      "list_price": 2619.0,
+      "name": "Cafetera Espresso Oster Prima Latte Ii Bvstem6801R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576",
+      "price": 3377.4,
+      "list_price": 5629.0,
       "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
+      "model": "Bvstem6801R",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1165916841",
+        "productId": "1133853576",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$11,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2919.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Venu X1 negro",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html",
+      "price": 11679.2,
+      "list_price": 14599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44784098",
+        "outlet": false
       }
     },
     {
