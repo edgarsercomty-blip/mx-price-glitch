@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21 19:05 UTC",
-  "products_scanned": 1684,
+  "generated_at": "2026-07-21 20:37 UTC",
+  "products_scanned": 1686,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 51,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,27 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 53.3,
-      "detail": "$6,999 en liverpool vs mercado -> -53% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
-      "price": 6999.0,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": "50Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199018091",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,999 en liverpool vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
@@ -86,27 +65,6 @@
       "extra": {
         "productId": "1199017744",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15010.04,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 15929.41,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
       }
     },
     {
@@ -175,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -211,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -490,27 +448,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11877.0,
-      "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 27713.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11970.0,
@@ -526,6 +463,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45000828",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11877.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 27713.0,
+      "list_price": 39590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44302743",
         "outlet": false
       }
     },
@@ -662,8 +620,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -672,7 +630,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520802",
+        "id": "45272436",
         "outlet": false
       }
     },

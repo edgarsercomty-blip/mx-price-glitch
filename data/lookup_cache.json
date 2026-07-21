@@ -251,18 +251,6 @@
     "ts": "2026-07-21T17:47:34.811722+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATAZASACEROPANEL": {
-    "ts": "2026-07-19T19:48:01.451415+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASACEROPANEL": {
-    "ts": "2026-07-19T19:48:02.997134+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASACEROPANEL": {
-    "ts": "2026-07-19T19:48:05.764003+00:00",
-    "items": []
-  },
   "amazon|APPLEMACBOOKAPPLECHIPRAM": {
     "ts": "2026-07-19T22:30:19.213355+00:00",
     "items": []
@@ -647,18 +635,6 @@
   },
   "sams|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
     "ts": "2026-07-21T17:47:23.898781+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-19T19:47:51.508910+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-19T19:47:58.912421+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-19T19:48:00.320035+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
@@ -2556,6 +2532,30 @@
   },
   "sams|OSTERESPRESSOCAFETERALATTEPRIMA": {
     "ts": "2026-07-21T19:05:52.181842+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-07-21T20:37:38.552193+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-07-21T20:37:42.991230+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-07-21T20:37:47.127647+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-21T20:37:48.548858+00:00",
+    "items": []
+  },
+  "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-21T20:37:50.268672+00:00",
+    "items": []
+  },
+  "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-21T20:37:52.550804+00:00",
     "items": []
   }
 }
