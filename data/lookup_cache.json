@@ -637,30 +637,6 @@
     "ts": "2026-07-21T17:47:23.898781+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-19T20:38:24.678993+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-19T20:38:26.145041+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-19T20:38:27.891476+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-19T21:32:12.708463+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-19T21:32:14.657024+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-19T21:32:17.594595+00:00",
-    "items": []
-  },
   "amazon|LGPANTALLASMARTPLANA2025": {
     "ts": "2026-07-19T22:30:27.051500+00:00",
     "items": []
@@ -2556,6 +2532,18 @@
   },
   "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
     "ts": "2026-07-21T20:37:52.550804+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASPANELGOTEO": {
+    "ts": "2026-07-21T21:43:27.919508+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASPANELGOTEO": {
+    "ts": "2026-07-21T21:43:29.646933+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASPANELGOTEO": {
+    "ts": "2026-07-21T21:43:32.811897+00:00",
     "items": []
   }
 }
