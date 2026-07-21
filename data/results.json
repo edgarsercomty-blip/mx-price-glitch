@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21 16:21 UTC",
-  "products_scanned": 1690,
+  "generated_at": "2026-07-21 17:47 UTC",
+  "products_scanned": 1703,
   "threshold_pct": 20.0,
   "count": 52,
   "findings": [
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1171148278",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.3,
+      "detail": "$6,999 en liverpool vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8000.0,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
+      "price": 6999.0,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": "50Nu850Bpsa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1199018091",
         "marketplace": null
       }
     },
@@ -406,27 +427,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -442,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43806632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -967,27 +988,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196970540",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$3,377 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 844.35,
-      "store": "liverpool",
-      "name": "Cafetera Espresso Oster Prima Latte Ii Bvstem6801R",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576",
-      "price": 3377.4,
-      "list_price": 5629.0,
-      "ean": null,
-      "model": "Bvstem6801R",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133853576",
         "marketplace": null
       }
     },
