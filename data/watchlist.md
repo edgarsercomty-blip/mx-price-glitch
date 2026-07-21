@@ -1,4 +1,4 @@
-# Productos en vigilancia (386)
+# Productos en vigilancia (387)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -218,7 +218,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,589 | -26% |
 | 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $15,199 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $23,449 | -28% |
-| 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $28,499 | -20% |
+| 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $17,099 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $23,449 | -28% |
 | 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $3,143 | -23% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $13,299 | -30% |
@@ -390,3 +390,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $149 | -56% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Watch 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-5-unisex-con-gps/1196970540) | $5,199 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | -20% |
+| 🟢 disponible | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB + 512…](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | -25% |

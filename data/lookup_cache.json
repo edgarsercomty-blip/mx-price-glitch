@@ -661,18 +661,6 @@
     "ts": "2026-07-20T16:22:09.568982+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-19T07:11:46.561413+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-19T07:11:55.403458+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-19T07:12:02.963741+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGGALAXYRUGGEDFUNDARAYAS": {
     "ts": "2026-07-19T09:18:56.437302+00:00",
     "items": []
@@ -2183,6 +2171,30 @@
   },
   "sams|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
     "ts": "2026-07-21T05:12:28.507213+00:00",
+    "items": []
+  },
+  "amazon|16IRX9": {
+    "ts": "2026-07-21T07:43:23.656078+00:00",
+    "items": []
+  },
+  "walmart|16IRX9": {
+    "ts": "2026-07-21T07:43:25.968913+00:00",
+    "items": []
+  },
+  "sams|16IRX9": {
+    "ts": "2026-07-21T07:43:28.617495+00:00",
+    "items": []
+  },
+  "amazon|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-21T07:43:42.689105+00:00",
+    "items": []
+  },
+  "walmart|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-21T07:43:49.338340+00:00",
+    "items": []
+  },
+  "sams|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
+    "ts": "2026-07-21T07:43:51.887976+00:00",
     "items": []
   }
 }
