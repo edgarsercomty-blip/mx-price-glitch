@@ -251,18 +251,6 @@
     "ts": "2026-07-21T17:47:34.811722+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-19T22:30:19.213355+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-19T22:30:23.191538+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKAPPLECHIPRAM": {
-    "ts": "2026-07-19T22:30:25.035470+00:00",
-    "items": []
-  },
   "palacio|ARU122VQW": {
     "ts": "2026-07-20T04:33:03.096734+00:00",
     "items": [
@@ -637,40 +625,16 @@
     "ts": "2026-07-21T17:47:23.898781+00:00",
     "items": []
   },
-  "amazon|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-19T22:30:27.051500+00:00",
-    "items": []
-  },
-  "walmart|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-19T22:30:29.326878+00:00",
-    "items": []
-  },
-  "sams|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-19T22:30:31.427745+00:00",
-    "items": []
-  },
   "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-19T22:30:33.417024+00:00",
+    "ts": "2026-07-21T22:46:19.052956+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-19T22:30:35.176691+00:00",
+    "ts": "2026-07-21T22:46:20.515164+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-19T22:30:36.896850+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-19T22:30:38.266156+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-19T22:30:40.431093+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-19T22:30:42.864827+00:00",
+    "ts": "2026-07-21T22:46:22.172804+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAPANELTAZASGOTEO": {
@@ -2544,6 +2508,18 @@
   },
   "sams|OSTERCAFETERATAZASPANELGOTEO": {
     "ts": "2026-07-21T21:43:32.811897+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-07-21T22:46:09.437704+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-07-21T22:46:11.483997+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-07-21T22:46:14.078152+00:00",
     "items": []
   }
 }
