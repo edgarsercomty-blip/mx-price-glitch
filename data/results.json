@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20 23:48 UTC",
-  "products_scanned": 1666,
+  "generated_at": "2026-07-21 01:48 UTC",
+  "products_scanned": 1675,
   "threshold_pct": 20.0,
   "count": 52,
   "findings": [
@@ -86,6 +86,27 @@
       "extra": {
         "productId": "1199017744",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15010.04,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 15929.41,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
       }
     },
     {
@@ -673,27 +694,6 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272435",
         "outlet": false
       }
     },
