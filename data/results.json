@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21 17:47 UTC",
-  "products_scanned": 1703,
+  "generated_at": "2026-07-21 19:05 UTC",
+  "products_scanned": 1684,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15010.04,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 15929.41,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.4,
       "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
       "likely_typo": false,
@@ -154,27 +175,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -190,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -469,27 +490,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11970.0,
-      "store": "palacio",
-      "name": "Cafetera semi automática Porsche para 6 tazas",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
-      "price": 27930.0,
-      "list_price": 39900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000828",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11877.0,
@@ -505,6 +505,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11970.0,
+      "store": "palacio",
+      "name": "Cafetera semi automática Porsche para 6 tazas",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
+      "price": 27930.0,
+      "list_price": 39900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000828",
         "outlet": false
       }
     },

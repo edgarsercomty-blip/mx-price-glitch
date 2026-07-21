@@ -1,12 +1,13 @@
-# Errores/chollos de precio — 2026-07-21 17:47 UTC
+# Errores/chollos de precio — 2026-07-21 19:05 UTC
 
-- Productos revisados: **1703**
+- Productos revisados: **1684**
 - Umbral de diferencia: **20%**
-- Hallazgos: **52**
+- Hallazgos: **53**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
+| -48% | $15,010 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | Confirmado vs competencia | $15,929 en palacio vs mercado -> -48% bajo la competencia |
 | -30% | $11,970 | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | Confirmado vs competencia | $27,930 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $11,877 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $27,713 | Confirmado vs competencia | $27,713 en palacio vs mercado -> -30% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
