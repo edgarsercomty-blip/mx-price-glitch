@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21 14:26 UTC",
-  "products_scanned": 1691,
+  "generated_at": "2026-07-21 16:05 UTC",
+  "products_scanned": 1689,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,27 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 53.3,
-      "detail": "$6,999 en liverpool vs mercado -> -53% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
-      "price": 6999.0,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": "50Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199018091",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,999 en liverpool vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
@@ -86,27 +65,6 @@
       "extra": {
         "productId": "1199017744",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15010.04,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 15929.41,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
       }
     },
     {
@@ -175,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -211,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -448,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 599.7,
@@ -484,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.7,
+      "store": "palacio",
+      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
+      "price": 2099.3,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43806632",
         "outlet": false
       }
     },
@@ -1009,6 +967,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196970540",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$3,377 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 844.35,
+      "store": "liverpool",
+      "name": "Cafetera Espresso Oster Prima Latte Ii Bvstem6801R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576",
+      "price": 3377.4,
+      "list_price": 5629.0,
+      "ean": null,
+      "model": "Bvstem6801R",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133853576",
         "marketplace": null
       }
     },
