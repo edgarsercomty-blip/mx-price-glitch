@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21 01:48 UTC",
-  "products_scanned": 1675,
+  "generated_at": "2026-07-21 04:12 UTC",
+  "products_scanned": 1681,
   "threshold_pct": 20.0,
   "count": 52,
   "findings": [
@@ -531,48 +531,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$42,499 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 17850.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402",
-      "price": 42499.0,
-      "list_price": 42499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196178402",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$47,499 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19965.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Medianoche",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841",
-      "price": 47499.0,
-      "list_price": 47499.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196182841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -694,6 +652,48 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272436",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
         "outlet": false
       }
     },
