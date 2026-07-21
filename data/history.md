@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (432)
+# Historial de ofertas encontradas (433)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-21 10:18 | -20% | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-21 07:43 | -25% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | $24,299 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-21 05:12 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | $2,879 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-21 05:12 | -20% | liverpool | [Smartwatch Xiaomi Watch 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-5-unisex-con-gps/1196970540) | $5,199 | $5,199 en liverpool vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 10:17 | -49% | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | $10,752 en palacio vs mercado -> -49% bajo la competencia |
 | 2026-06-30 10:17 | -59% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | $7,860 en palacio vs walmart $19,204 -> -59% bajo la competencia |
 | 2026-06-29 18:27 | -22% | liverpool | [Lavasecadora Samsung eléctrico 13 kg 8 kg WD13FG6B34BBA…](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrico-13-kg-8-kg-WD13FG6B34BBAX/1192526376) | $11,543 | $11,543 en liverpool vs sams $14,997 -> -22% bajo la competencia |
-| 2026-06-29 15:56 | -59% | liverpool | [Frigobar Avera EBC115DC01 3 pies cúbicos](https://liverpool.com.mx/tienda/pdp/Frigobar-Avera-EBC115DC01-3-pies-c%C3%BAbicos/1163947036) | $6,009 | $6,009 en liverpool vs mercado -> -59% bajo la competencia |
