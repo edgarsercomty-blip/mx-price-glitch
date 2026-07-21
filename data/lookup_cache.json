@@ -637,18 +637,6 @@
     "ts": "2026-07-21T22:46:22.172804+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAPANELTAZASGOTEO": {
-    "ts": "2026-07-19T23:34:22.153589+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELTAZASGOTEO": {
-    "ts": "2026-07-19T23:34:24.352281+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELTAZASGOTEO": {
-    "ts": "2026-07-19T23:34:27.870053+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
     "ts": "2026-07-20T01:09:13.499447+00:00",
     "items": []
@@ -2520,6 +2508,18 @@
   },
   "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
     "ts": "2026-07-21T22:46:14.078152+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-21T23:48:55.278915+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-21T23:48:57.086158+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-07-21T23:48:58.707734+00:00",
     "items": []
   }
 }
