@@ -594,63 +594,15 @@
     "items": []
   },
   "amazon|75QNED73ASC": {
-    "ts": "2026-07-20T13:01:41.845721+00:00",
+    "ts": "2026-07-22T14:24:06.715247+00:00",
     "items": []
   },
   "walmart|75QNED73ASC": {
-    "ts": "2026-07-20T13:01:43.281839+00:00",
+    "ts": "2026-07-22T14:24:11.563498+00:00",
     "items": []
   },
   "sams|75QNED73ASC": {
-    "ts": "2026-07-20T13:01:45.013639+00:00",
-    "items": []
-  },
-  "amazon|AFC11W": {
-    "ts": "2026-07-20T13:01:47.370477+00:00",
-    "items": []
-  },
-  "walmart|AFC11W": {
-    "ts": "2026-07-20T13:01:49.569234+00:00",
-    "items": []
-  },
-  "sams|AFC11W": {
-    "ts": "2026-07-20T13:01:50.891947+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T13:01:52.731384+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T13:01:54.383700+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T13:01:56.487230+00:00",
-    "items": []
-  },
-  "amazon|SMARTTAG2": {
-    "ts": "2026-07-20T13:01:57.739952+00:00",
-    "items": []
-  },
-  "walmart|SMARTTAG2": {
-    "ts": "2026-07-20T13:01:59.400403+00:00",
-    "items": []
-  },
-  "sams|SMARTTAG2": {
-    "ts": "2026-07-20T13:02:03.225090+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-20T13:02:05.701241+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-20T13:02:07.183274+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-20T13:02:08.755196+00:00",
+    "ts": "2026-07-22T14:24:13.235419+00:00",
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
@@ -2798,6 +2750,54 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARMOTO128": {
     "ts": "2026-07-22T12:05:08.733512+00:00",
+    "items": []
+  },
+  "amazon|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
+    "ts": "2026-07-22T14:24:17.464677+00:00",
+    "items": []
+  },
+  "walmart|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
+    "ts": "2026-07-22T14:24:19.466332+00:00",
+    "items": []
+  },
+  "sams|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
+    "ts": "2026-07-22T14:24:21.917032+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORDUSTGOLD": {
+    "ts": "2026-07-22T14:24:24.846156+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORDUSTGOLD": {
+    "ts": "2026-07-22T14:24:27.267534+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORDUSTGOLD": {
+    "ts": "2026-07-22T14:24:28.837287+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
+    "ts": "2026-07-22T14:24:30.276929+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
+    "ts": "2026-07-22T14:24:31.930852+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULAROBSCUROGALAXY": {
+    "ts": "2026-07-22T14:24:37.405343+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-22T14:24:40.261673+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-22T14:24:41.758740+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-22T14:24:43.344832+00:00",
     "items": []
   }
 }

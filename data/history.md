@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (437)
+# Historial de ofertas encontradas (439)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-22 14:24 | -25% | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-22 14:24 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | $879 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 10:06 | -24% | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | $4,939 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-22 10:06 | -25% | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-22 10:06 | -35% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | $9,749 en palacio vs mercado -> -35% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |
 | 2026-06-30 10:17 | -25% | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | $13,439 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-06-30 10:17 | -28% | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desblo…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300) | $17,999 | $17,999 en walmart vs sams $24,920, sams $24,920, sams $31,712 -> -28% bajo la competencia |
-| 2026-06-30 10:17 | -36% | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | $8,999 en walmart vs sams $14,014, sams $20,459 -> -36% bajo la competencia |

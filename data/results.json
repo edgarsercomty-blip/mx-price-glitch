@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 12:05 UTC",
-  "products_scanned": 1699,
+  "generated_at": "2026-07-22 14:24 UTC",
+  "products_scanned": 1703,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -259,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5249.65,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
-      "price": 9749.35,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44781018",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 157.15,
@@ -295,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44563904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5249.65,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
+      "price": 9749.35,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44781018",
         "outlet": false
       }
     },
@@ -657,6 +657,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520802",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -720,6 +741,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$879 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 299.8,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921",
+      "price": 879.2,
+      "list_price": 1099.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1167053921",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 43.7,
       "detail": "$6,749 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -737,27 +779,6 @@
       "extra": {
         "productId": "1173773893",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401372",
-        "outlet": false
       }
     },
     {
@@ -784,6 +805,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$412 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 137.25,
@@ -799,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45272448",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$412 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 137.25,
+      "store": "palacio",
+      "name": "Case para Buds4 y Buds4 Pro Clip Negro liso",
+      "url": "https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html",
+      "price": 411.75,
+      "list_price": 549.0,
+      "ean": null,
+      "model": "Buds4",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272450",
         "outlet": false
       }
     },
@@ -868,6 +931,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 224.75,
@@ -904,27 +988,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
         "outlet": false
       }
     },
