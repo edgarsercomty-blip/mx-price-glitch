@@ -516,52 +516,16 @@
     "ts": "2026-07-22T17:43:50.925548+00:00",
     "items": []
   },
-  "amazon|WT25PBTX6": {
-    "ts": "2026-07-20T19:08:50.762038+00:00",
-    "items": []
-  },
-  "walmart|WT25PBTX6": {
-    "ts": "2026-07-20T19:09:01.957589+00:00",
-    "items": []
-  },
-  "sams|WT25PBTX6": {
-    "ts": "2026-07-20T19:09:04.667462+00:00",
-    "items": []
-  },
   "amazon|55QNED81BSC": {
-    "ts": "2026-07-20T19:09:10.036750+00:00",
+    "ts": "2026-07-22T20:11:54.744293+00:00",
     "items": []
   },
   "walmart|55QNED81BSC": {
-    "ts": "2026-07-20T19:09:11.662204+00:00",
+    "ts": "2026-07-22T20:11:56.397218+00:00",
     "items": []
   },
   "sams|55QNED81BSC": {
-    "ts": "2026-07-20T19:09:16.525385+00:00",
-    "items": []
-  },
-  "amazon|BVSTEM6801R": {
-    "ts": "2026-07-20T19:09:17.674361+00:00",
-    "items": []
-  },
-  "walmart|BVSTEM6801R": {
-    "ts": "2026-07-20T19:09:19.504280+00:00",
-    "items": []
-  },
-  "sams|BVSTEM6801R": {
-    "ts": "2026-07-20T19:09:20.866528+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-20T19:09:22.276395+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-20T19:09:23.677312+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-20T19:09:25.764863+00:00",
+    "ts": "2026-07-22T20:11:58.691815+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAPANELACEROGOTEO": {
@@ -2882,6 +2846,30 @@
   },
   "sams|OSTERCAFETERAGOTEOTOUCHACERO": {
     "ts": "2026-07-22T18:59:21.899822+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-22T20:12:01.608080+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-22T20:12:03.146569+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
+    "ts": "2026-07-22T20:12:07.374512+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-07-22T20:12:09.417187+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-07-22T20:12:11.616225+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-07-22T20:12:15.306243+00:00",
     "items": []
   }
 }
