@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 04:14 UTC",
-  "products_scanned": 1673,
+  "generated_at": "2026-07-22 05:00 UTC",
+  "products_scanned": 1696,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 50,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1171148278",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.3,
-      "detail": "$6,999 en liverpool vs mercado -> -53% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
-      "price": 6999.0,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": "50Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199018091",
         "marketplace": null
       }
     },
@@ -427,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 599.7,
@@ -463,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.7,
+      "store": "palacio",
+      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
+      "price": 2099.3,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43806632",
         "outlet": false
       }
     },
