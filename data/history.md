@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (439)
+# Historial de ofertas encontradas (440)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-22 16:06 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 14:24 | -25% | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-22 14:24 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | $879 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 10:06 | -24% | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | $4,939 en palacio vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |
-| 2026-06-30 10:17 | -25% | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | $13,439 en palacio vs mercado -> -25% bajo la competencia |

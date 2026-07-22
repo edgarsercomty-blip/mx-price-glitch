@@ -1,4 +1,4 @@
-# Productos en vigilancia (393)
+# Productos en vigilancia (394)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -321,7 +321,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Bla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466) | $42,499 | -46% |
 | 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Mediano…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $47,499 | -30% |
 | 🟢 disponible | liverpool | [Cafetera Espresso Oster 212196](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-212196/1110425665) | $2,393 | -37% |
-| 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272) | $2,183 | -67% |
+| 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272) | $6,950 | -67% |
 | 🟢 disponible | palacio | [Correa deportiva para Apple Watch 42 mm Verde lago](https://www.elpalaciodehierro.com/apple-correa-deportiva-para-apple-watch-42-mm-verde-lago-44272712.html) | $330 | -70% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $6,999 | -53% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $9,999 | -50% |
@@ -397,3 +397,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | -24% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | -25% |
 | 🟢 disponible | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | -25% |
+| 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | -20% |

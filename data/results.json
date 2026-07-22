@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 14:24 UTC",
-  "products_scanned": 1703,
+  "generated_at": "2026-07-22 16:06 UTC",
+  "products_scanned": 1731,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -259,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 157.15,
-      "store": "palacio",
-      "name": "Funda para Celular Galaxy A36, Verde Claro",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
-      "price": 291.85,
-      "list_price": 449.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44563904",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 5249.65,
@@ -295,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44781018",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
         "outlet": false
       }
     },
@@ -657,27 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -784,27 +763,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3174.75,
-      "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074177",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2349.75,
@@ -820,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3174.75,
+      "store": "palacio",
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
         "outlet": false
       }
     },
@@ -931,27 +910,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 224.75,
@@ -988,6 +946,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -1073,6 +1052,48 @@
       "extra": {
         "id": "45345508",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,879 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 719.8,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257",
+      "price": 2879.2,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200266257",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,607 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 651.8,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802",
+      "price": 2607.2,
+      "list_price": 3259.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1185265802",
+        "marketplace": null
       }
     },
     {

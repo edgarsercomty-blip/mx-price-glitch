@@ -336,18 +336,6 @@
     "ts": "2026-07-21T17:47:34.811722+00:00",
     "items": []
   },
-  "amazon|SAMSUNGANTIRREFLEJANTEPROTECTORAGALAXYMICA": {
-    "ts": "2026-07-20T15:22:24.782707+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGANTIRREFLEJANTEPROTECTORAGALAXYMICA": {
-    "ts": "2026-07-20T15:22:26.186404+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGANTIRREFLEJANTEPROTECTORAGALAXYMICA": {
-    "ts": "2026-07-20T15:22:27.671539+00:00",
-    "items": []
-  },
   "liverpool|75QM8K": {
     "ts": "2026-07-20T16:21:34.322489+00:00",
     "items": []
@@ -605,52 +593,28 @@
     "ts": "2026-07-22T14:24:13.235419+00:00",
     "items": []
   },
-  "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-20T15:22:00.746705+00:00",
-    "items": []
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-20T15:22:02.395933+00:00",
-    "items": []
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-07-20T15:22:04.189990+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-20T15:22:09.135108+00:00",
+    "ts": "2026-07-22T16:05:54.250888+00:00",
     "items": []
   },
   "walmart|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-20T15:22:10.523541+00:00",
+    "ts": "2026-07-22T16:05:56.594316+00:00",
     "items": []
   },
   "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-20T15:22:15.419479+00:00",
+    "ts": "2026-07-22T16:05:59.201542+00:00",
     "items": []
   },
   "amazon|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-20T15:22:16.876641+00:00",
+    "ts": "2026-07-22T16:06:00.810068+00:00",
     "items": []
   },
   "walmart|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-20T15:22:21.500701+00:00",
+    "ts": "2026-07-22T16:06:02.343928+00:00",
     "items": []
   },
   "sams|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-20T15:22:23.609158+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-20T15:22:29.001586+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-20T15:22:30.765352+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-20T15:22:46.208277+00:00",
+    "ts": "2026-07-22T16:06:04.158799+00:00",
     "items": []
   },
   "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
@@ -2798,6 +2762,54 @@
   },
   "sams|OSTERCAFETERAPANELTOUCHGOTEO": {
     "ts": "2026-07-22T14:24:43.344832+00:00",
+    "items": []
+  },
+  "amazon|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
+    "ts": "2026-07-22T16:05:25.179804+00:00",
+    "items": []
+  },
+  "walmart|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
+    "ts": "2026-07-22T16:05:27.208531+00:00",
+    "items": []
+  },
+  "sams|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
+    "ts": "2026-07-22T16:05:33.454591+00:00",
+    "items": []
+  },
+  "amazon|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
+    "ts": "2026-07-22T16:05:36.597381+00:00",
+    "items": []
+  },
+  "walmart|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
+    "ts": "2026-07-22T16:05:39.394003+00:00",
+    "items": []
+  },
+  "sams|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
+    "ts": "2026-07-22T16:05:44.803709+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORSOFTDUST": {
+    "ts": "2026-07-22T16:05:48.700733+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORSOFTDUST": {
+    "ts": "2026-07-22T16:05:50.646953+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORSOFTDUST": {
+    "ts": "2026-07-22T16:05:52.625136+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-22T16:06:06.144834+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-22T16:06:08.173585+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-22T16:06:10.156017+00:00",
     "items": []
   }
 }

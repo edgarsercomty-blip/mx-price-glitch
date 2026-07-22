@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-22 14:24 UTC
+# Errores/chollos de precio — 2026-07-22 16:06 UTC
 
-- Productos revisados: **1703**
+- Productos revisados: **1731**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **56**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -46,7 +46,9 @@
 | -30% | $900 | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | Confirmado vs competencia | $2,099 en palacio vs mercado -> -30% bajo la competencia |
 | -40% | $860 | palacio | [Licuadora, 3 Velocidades, Plata](https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html) | $1,289 | Confirmado vs competencia | $1,289 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |
+| -20% | $720 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | Confirmado vs competencia | $2,879 en liverpool vs mercado -> -20% bajo la competencia |
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
+| -20% | $652 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | Confirmado vs competencia | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
@@ -59,5 +61,4 @@
 | -25% | $137 | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | Confirmado vs competencia | $412 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $137 | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | Confirmado vs competencia | $412 en palacio vs mercado -> -25% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
-| -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $52 | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | Confirmado vs competencia | $147 en palacio vs mercado -> -26% bajo la competencia |
