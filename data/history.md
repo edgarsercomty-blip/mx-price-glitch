@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (440)
+# Historial de ofertas encontradas (441)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-22 16:18 | -20% | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 16:06 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 14:24 | -25% | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-22 14:24 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | $879 en liverpool vs mercado -> -25% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 14:40 | -54% | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -54% bajo la competencia |
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
 | 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
-| 2026-06-30 10:17 | -24% | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $12,759 | $12,759 en palacio vs sams $16,679 -> -24% bajo la competencia |
