@@ -1,4 +1,4 @@
-# Productos en vigilancia (389)
+# Productos en vigilancia (391)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -115,7 +115,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | -29% |
 | 🟢 disponible | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | -25% |
 | 🟢 disponible | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | -25% |
-| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | -33% |
+| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,944 | -33% |
 | 🟢 disponible | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | -30% |
 | 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $366 | -26% |
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
@@ -167,7 +167,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,092 | -25% |
 | 🟢 disponible | mercadolibre | [Controles Del Reproductor De Consola Qconsole #x8 \| Wireless…](https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168) | $987 | -23% |
 | 🟢 disponible | mercadolibre | [Licuadora Oster Pro 1200 Jarra Vidrio+ Vaso Batidos Color Pl…](https://www.mercadolibre.com.mx/licuadora-oster-pro-1200-jarra-vidrio-vaso-batidos-color-plateado/p/MLM28082169) | $2,171 | -38% |
-| 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | -20% |
+| 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $58,589 | -20% |
 | 🟢 disponible | walmart | [Kingston USB Flash Drive DataTraveler Exodia, 128GB, data st…](https://www.walmart.com.mx/ip/kingston-usb-flash-drive-datatraveler-exodia-128gb-data-storage-/00535121648420) | $689 | -65% |
 | 🟢 disponible | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación Activ…](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $4,499 | -21% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | -47% |
@@ -210,7 +210,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $8,921 | -24% |
 | 🟢 disponible | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | -22% |
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | -20% |
-| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | -30% |
+| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | -35% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $8,999 | -29% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, Desblo…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $8,999 | -30% |
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $4,152 | -29% |
@@ -381,7 +381,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda Magnética Galaxy S26 rojo coral lisa](https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html) | $739 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | -40% |
 | 🟢 disponible | palacio | [Galaxy SmartTag2 blanco](https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html) | $295 | -26% |
-| 🟢 disponible | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | -24% |
+| 🟢 disponible | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $8,909 | -24% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | -20% |
 | 🟢 disponible | palacio | [Funda magnética transparente para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html) | $591 | -26% |
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | -26% |
@@ -393,3 +393,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB + 512…](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | -25% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | -41% |
+| 🟢 disponible | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | -25% |
+| 🟢 disponible | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | -24% |

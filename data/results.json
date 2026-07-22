@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 07:37 UTC",
-  "products_scanned": 1648,
+  "generated_at": "2026-07-22 10:06 UTC",
+  "products_scanned": 1701,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45040173",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$21,829 en palacio vs mercado -> -41% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15169.59,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html",
-      "price": 21829.41,
-      "list_price": 36999.0,
-      "ean": null,
-      "model": "85NU850BPSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505423",
         "outlet": false
       }
     },
@@ -280,6 +259,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5249.65,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
+      "price": 9749.35,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44781018",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 157.15,
@@ -380,6 +380,27 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
+      "price": 6999.3,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345626",
+        "outlet": false
       }
     },
     {
@@ -574,21 +595,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$2,589 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 207.74,
+      "savings": 909.74,
       "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
+      "name": "Celular Moto G15 128 GB 4 GB Gris Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html",
+      "price": 2589.26,
+      "list_price": 3499.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44815304",
+        "id": "44495620",
         "outlet": false
       }
     },
@@ -616,12 +637,33 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
+      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 207.74,
+      "store": "palacio",
+      "name": "Funda para celular Galaxy Z Flip 7, Navy",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
+      "price": 591.26,
+      "list_price": 799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44815304",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
       "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -630,7 +672,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520802",
+        "id": "45272435",
         "outlet": false
       }
     },
@@ -721,21 +763,63 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 337.25,
+      "savings": 3174.75,
       "store": "palacio",
-      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
-      "price": 1011.75,
-      "list_price": 1349.0,
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
       "ean": null,
       "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$412 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 137.25,
+      "store": "palacio",
+      "name": "Case para Buds4 y Buds4 Pro Foodcan estampada",
+      "url": "https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html",
+      "price": 411.75,
+      "list_price": 549.0,
+      "ean": null,
+      "model": "Buds4",
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272481",
+        "id": "45272448",
         "outlet": false
       }
     },
@@ -909,23 +993,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.1,
-      "detail": "$7,573 en liverpool vs mercado -> -24% bajo la competencia",
+      "discount_pct": 24.0,
+      "detail": "$4,939 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 2406.35,
-      "store": "liverpool",
-      "name": "Congelador Aurus Afc11W Horizontal 11 Pies Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082",
-      "price": 7572.65,
-      "list_price": 16868.0,
+      "savings": 1559.76,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch8 Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html",
+      "price": 4939.24,
+      "list_price": 6499.0,
       "ean": null,
-      "model": "Afc11W",
-      "brand": "AURUS",
+      "model": "Watch8",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1142280082",
-        "marketplace": null
+        "id": "44824184",
+        "outlet": false
       }
     },
     {
@@ -946,27 +1030,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110960",
         "outlet": false
       }
     },

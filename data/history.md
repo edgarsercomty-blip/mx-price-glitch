@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (434)
+# Historial de ofertas encontradas (437)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-22 10:06 | -24% | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | $4,939 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-07-22 10:06 | -25% | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-22 10:06 | -35% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | $9,749 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-22 07:37 | -41% | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | $21,829 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-21 10:18 | -20% | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-21 07:43 | -25% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | $24,299 en palacio vs mercado -> -25% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 10:17 | -25% | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | $13,439 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-06-30 10:17 | -28% | walmart | [Smartphone Galaxy S25 Ultra 512 GB Negro Titanio Desblo…](https://www.walmart.com.mx/ip/smartphone-galaxy-s25-ultra-512-gb-negro-titanio-desbloqueado/00750665821658?athbdg=L1300) | $17,999 | $17,999 en walmart vs sams $24,920, sams $24,920, sams $31,712 -> -28% bajo la competencia |
 | 2026-06-30 10:17 | -36% | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,999 | $8,999 en walmart vs sams $14,014, sams $20,459 -> -36% bajo la competencia |
-| 2026-06-30 10:17 | -45% | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio +…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $18,499 | $18,499 en walmart vs sams $33,758 -> -45% bajo la competencia |
-| 2026-06-30 10:17 | -49% | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | $10,752 en palacio vs mercado -> -49% bajo la competencia |
-| 2026-06-30 10:17 | -59% | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBA…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | $7,860 en palacio vs walmart $19,204 -> -59% bajo la competencia |
