@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 10:06 UTC",
-  "products_scanned": 1701,
+  "generated_at": "2026-07-22 12:05 UTC",
+  "products_scanned": 1699,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -91,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -616,27 +616,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 51.74,
-      "store": "palacio",
-      "name": "Cable de Carga tipo C",
-      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
-      "price": 147.26,
-      "list_price": 199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
       "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 207.74,
@@ -658,21 +637,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$147 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 103.74,
+      "savings": 51.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
-      "price": 295.26,
-      "list_price": 399.0,
+      "name": "Cable de Carga tipo C",
+      "url": "https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html",
+      "price": 147.26,
+      "list_price": 199.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272435",
+        "id": "41564840",
         "outlet": false
       }
     },
@@ -763,27 +742,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3174.75,
-      "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074177",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2349.75,
@@ -799,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3174.75,
+      "store": "palacio",
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
         "outlet": false
       }
     },
@@ -931,27 +910,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 4887.25,
@@ -967,6 +925,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3599.25,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021106",
         "outlet": false
       }
     },
