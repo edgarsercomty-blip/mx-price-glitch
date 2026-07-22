@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-22 16:18 UTC
+# Errores/chollos de precio — 2026-07-22 17:44 UTC
 
-- Productos revisados: **1734**
+- Productos revisados: **1703**
 - Umbral de diferencia: **20%**
-- Hallazgos: **58**
+- Hallazgos: **56**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -18,9 +18,11 @@
 | -30% | $6,000 | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | Confirmado vs competencia | $13,999 en liverpool vs mercado -> -30% bajo la competencia |
 | -35% | $5,250 | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | Confirmado vs competencia | $9,749 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $4,887 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | Confirmado vs competencia | $14,662 en palacio vs mercado -> -25% bajo la competencia |
+| -60% | $4,827 | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $3,169 | Confirmado vs competencia | $3,169 en liverpool vs mercado -> -60% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $4,500 | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -27% | $4,004 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253) | $10,979 | Confirmado vs competencia | $10,979 en liverpool vs mercado -> -27% bajo la competencia |
+| -49% | $3,344 | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | Confirmado vs competencia | $3,449 en liverpool vs mercado -> -49% bajo la competencia |
 | -25% | $3,175 | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | Confirmado vs competencia | $9,524 en palacio vs mercado -> -25% bajo la competencia |
 | -32% | $3,080 | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $6,599 | Confirmado vs competencia | $6,599 en palacio vs mercado -> -32% bajo la competencia |
 | -25% | $3,000 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
@@ -39,7 +41,6 @@
 | -25% | $1,200 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,599 | Confirmado vs competencia | $3,599 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,200 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,599 | Confirmado vs competencia | $3,599 en palacio vs mercado -> -25% bajo la competencia |
 | -40% | $1,156 | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,733 | Confirmado vs competencia | $1,733 en palacio vs mercado -> -40% bajo la competencia |
-| -20% | $1,000 | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | Confirmado vs competencia | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
 | -40% | $956 | palacio | [Licuadora reversible color acero](https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html) | $1,433 | Confirmado vs competencia | $1,433 en palacio vs mercado -> -40% bajo la competencia |
 | -26% | $910 | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,589 | Confirmado vs competencia | $2,589 en palacio vs mercado -> -26% bajo la competencia |
 | -28% | $900 | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | Confirmado vs competencia | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
@@ -47,9 +48,7 @@
 | -30% | $900 | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | Confirmado vs competencia | $2,099 en palacio vs mercado -> -30% bajo la competencia |
 | -40% | $860 | palacio | [Licuadora, 3 Velocidades, Plata](https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html) | $1,289 | Confirmado vs competencia | $1,289 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $720 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | Confirmado vs competencia | $2,879 en liverpool vs mercado -> -20% bajo la competencia |
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
-| -20% | $652 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | Confirmado vs competencia | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
@@ -62,5 +61,4 @@
 | -25% | $137 | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | Confirmado vs competencia | $412 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $137 | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | Confirmado vs competencia | $412 en palacio vs mercado -> -25% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
-| -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $52 | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | Confirmado vs competencia | $147 en palacio vs mercado -> -26% bajo la competencia |

@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-22 16:18 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-22 17:44 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -20% | $1,000 | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | Confirmado vs competencia | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._

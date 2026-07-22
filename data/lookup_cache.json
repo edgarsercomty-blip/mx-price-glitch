@@ -336,131 +336,6 @@
     "ts": "2026-07-21T17:47:34.811722+00:00",
     "items": []
   },
-  "liverpool|75QM8K": {
-    "ts": "2026-07-20T16:21:34.322489+00:00",
-    "items": []
-  },
-  "amazon|75QM8K": {
-    "ts": "2026-07-20T16:21:39.373687+00:00",
-    "items": []
-  },
-  "walmart|75QM8K": {
-    "ts": "2026-07-20T16:21:48.476661+00:00",
-    "items": []
-  },
-  "sams|75QM8K": {
-    "ts": "2026-07-20T16:21:50.579474+00:00",
-    "items": []
-  },
-  "mercadolibre|75QM8K": {
-    "ts": "2026-07-20T16:21:52.879237+00:00",
-    "items": []
-  },
-  "palacio|SETCMC361V": {
-    "ts": "2026-07-20T16:22:00.010738+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Traje Regular Microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/nautica-traje-regular-microdiseno-hombre-45192192.html",
-        "price": 3249.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764172.html",
-        "price": 1049.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans de corte slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764167.html",
-        "price": 999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 400 L RMS400IBMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-400-l-rms400ibmrx0-43427911.html",
-        "price": 14867.37,
-        "model": "RMS400IBMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de lana corte regular jaspeado Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-jaspeado-hombre-45131837.html",
-        "price": 5749.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
-        "price": 12158.37,
-        "model": "RMA300FZMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html",
-        "price": 5099.41,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-straight-hombre-44889501.html",
-        "price": 1584.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Saco jaspeado Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-saco-jaspeado-hombre-45192121.html",
-        "price": 5879.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de lana corte regular estampado Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-estampado-hombre-45192173.html",
-        "price": 8049.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de corte regular con microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-traje-de-corte-regular-con-microdiseno-hombre-45026117.html",
-        "price": 6999.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
-        "price": 1399.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|SETCMC361V": {
-    "ts": "2026-07-20T16:22:01.785618+00:00",
-    "items": []
-  },
-  "walmart|SETCMC361V": {
-    "ts": "2026-07-20T16:22:04.122313+00:00",
-    "items": []
-  },
-  "sams|SETCMC361V": {
-    "ts": "2026-07-20T16:22:05.656885+00:00",
-    "items": []
-  },
-  "mercadolibre|SETCMC361V": {
-    "ts": "2026-07-20T16:22:09.568982+00:00",
-    "items": []
-  },
   "amazon|WHIRLPOOLREFRIGERADORINVERTERFRENCHXPERT": {
     "ts": "2026-07-21T12:02:17.764724+00:00",
     "items": []
@@ -617,88 +492,28 @@
     "ts": "2026-07-22T16:06:04.158799+00:00",
     "items": []
   },
-  "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
-    "ts": "2026-07-20T16:22:14.813908+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYFUNDACLARO": {
-    "ts": "2026-07-20T16:22:16.334364+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYFUNDACLARO": {
-    "ts": "2026-07-20T16:22:25.304985+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-20T16:22:27.134165+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-20T16:22:29.173871+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-20T16:22:31.040378+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T16:22:32.522970+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T16:22:34.862131+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGTRANSPARENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-20T16:22:37.258361+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-20T16:22:39.031359+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-20T16:22:41.948993+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-20T16:22:44.148484+00:00",
-    "items": []
-  },
   "amazon|BVSTDC12B": {
-    "ts": "2026-07-20T17:05:21.449764+00:00",
+    "ts": "2026-07-22T17:43:17.959447+00:00",
     "items": []
   },
   "walmart|BVSTDC12B": {
-    "ts": "2026-07-20T17:05:23.979900+00:00",
+    "ts": "2026-07-22T17:43:25.019048+00:00",
     "items": []
   },
   "sams|BVSTDC12B": {
-    "ts": "2026-07-20T17:05:36.630698+00:00",
+    "ts": "2026-07-22T17:43:28.388041+00:00",
     "items": []
   },
   "amazon|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-20T17:05:44.962219+00:00",
+    "ts": "2026-07-22T17:43:45.868961+00:00",
     "items": []
   },
   "walmart|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-20T17:05:46.704280+00:00",
+    "ts": "2026-07-22T17:43:47.918444+00:00",
     "items": []
   },
   "sams|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-20T17:05:50.954592+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-07-20T17:05:53.681833+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-07-20T17:06:01.779683+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-07-20T17:06:03.686998+00:00",
+    "ts": "2026-07-22T17:43:50.925548+00:00",
     "items": []
   },
   "amazon|WT25PBTX6": {
@@ -2971,6 +2786,54 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARMOTOEDGE": {
     "ts": "2026-07-22T16:18:11.689182+00:00",
+    "items": []
+  },
+  "amazon|CO905KS": {
+    "ts": "2026-07-22T17:42:51.414228+00:00",
+    "items": []
+  },
+  "walmart|CO905KS": {
+    "ts": "2026-07-22T17:42:56.512494+00:00",
+    "items": []
+  },
+  "sams|CO905KS": {
+    "ts": "2026-07-22T17:42:58.723389+00:00",
+    "items": []
+  },
+  "amazon|CCO905KS": {
+    "ts": "2026-07-22T17:43:00.712868+00:00",
+    "items": []
+  },
+  "walmart|CCO905KS": {
+    "ts": "2026-07-22T17:43:04.775801+00:00",
+    "items": []
+  },
+  "sams|CCO905KS": {
+    "ts": "2026-07-22T17:43:12.979495+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORGOLDSOFT": {
+    "ts": "2026-07-22T17:43:31.765460+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORGOLDSOFT": {
+    "ts": "2026-07-22T17:43:39.674626+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORGOLDSOFT": {
+    "ts": "2026-07-22T17:43:44.611178+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROGOTEOTOUCH": {
+    "ts": "2026-07-22T17:43:52.444045+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROGOTEOTOUCH": {
+    "ts": "2026-07-22T17:44:00.079570+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROGOTEOTOUCH": {
+    "ts": "2026-07-22T17:44:01.602281+00:00",
     "items": []
   }
 }
