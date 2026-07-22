@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22 17:44 UTC",
-  "products_scanned": 1703,
+  "generated_at": "2026-07-22 18:59 UTC",
+  "products_scanned": 1697,
   "threshold_pct": 20.0,
   "count": 56,
   "findings": [
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1163021863",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.7,
-      "detail": "$3,169 en liverpool vs mercado -> -60% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4826.99,
-      "store": "liverpool",
-      "name": "Combo Licuadora Ninja Cco905Ks 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660",
-      "price": 3169.0,
-      "list_price": 4049.0,
-      "ean": null,
-      "model": "Cco905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1160618660",
         "marketplace": null
       }
     },
@@ -254,6 +233,27 @@
       "extra": {
         "id": "43394653",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.5,
+      "detail": "$4,369 en liverpool vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2828.0,
+      "store": "liverpool",
+      "name": "Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
+      "price": 4369.0,
+      "list_price": 6769.0,
+      "ean": null,
+      "model": "Dq6011Dx",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181496939",
+        "marketplace": null
       }
     },
     {
