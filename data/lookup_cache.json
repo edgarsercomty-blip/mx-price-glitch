@@ -121,27 +121,15 @@
     ]
   },
   "amazon|FC0240LA": {
-    "ts": "2026-07-20T21:56:03.352719+00:00",
+    "ts": "2026-07-22T22:38:01.953865+00:00",
     "items": []
   },
   "walmart|FC0240LA": {
-    "ts": "2026-07-20T21:56:09.522455+00:00",
+    "ts": "2026-07-22T22:38:03.314200+00:00",
     "items": []
   },
   "sams|FC0240LA": {
-    "ts": "2026-07-20T21:56:11.371557+00:00",
-    "items": []
-  },
-  "amazon|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-20T21:56:12.867267+00:00",
-    "items": []
-  },
-  "walmart|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-20T21:56:15.434289+00:00",
-    "items": []
-  },
-  "sams|APPLEMEDIANOCHEMACBOOKAPPLECHIP": {
-    "ts": "2026-07-20T21:56:22.224012+00:00",
+    "ts": "2026-07-22T22:38:05.494819+00:00",
     "items": []
   },
   "amazon|50NU850BPSA": {
@@ -526,18 +514,6 @@
   },
   "sams|55QNED81BSC": {
     "ts": "2026-07-22T20:11:58.691815+00:00",
-    "items": []
-  },
-  "amazon|WESTELMMARIPOSACOJINFUNDA": {
-    "ts": "2026-07-20T21:55:56.796092+00:00",
-    "items": []
-  },
-  "walmart|WESTELMMARIPOSACOJINFUNDA": {
-    "ts": "2026-07-20T21:55:58.671517+00:00",
-    "items": []
-  },
-  "sams|WESTELMMARIPOSACOJINFUNDA": {
-    "ts": "2026-07-20T21:56:01.337764+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
@@ -2918,6 +2894,42 @@
   },
   "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
     "ts": "2026-07-22T21:33:44.615303+00:00",
+    "items": []
+  },
+  "amazon|XIAOMIXIAOMIREDMILCD": {
+    "ts": "2026-07-22T22:38:06.602943+00:00",
+    "items": []
+  },
+  "walmart|XIAOMIXIAOMIREDMILCD": {
+    "ts": "2026-07-22T22:38:07.974171+00:00",
+    "items": []
+  },
+  "sams|XIAOMIXIAOMIREDMILCD": {
+    "ts": "2026-07-22T22:38:09.732570+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERSMARTWATCHGARMIN165": {
+    "ts": "2026-07-22T22:38:11.359216+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERSMARTWATCHGARMIN165": {
+    "ts": "2026-07-22T22:38:13.073824+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERSMARTWATCHGARMIN165": {
+    "ts": "2026-07-22T22:38:14.601961+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-22T22:38:15.751329+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-22T22:38:17.034206+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-22T22:38:18.451019+00:00",
     "items": []
   }
 }

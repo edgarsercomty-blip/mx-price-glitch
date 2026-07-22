@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (441)
+# Historial de ofertas encontradas (443)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-22 22:38 | -20% | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-22 22:38 | -25% | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | $3,899 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 16:18 | -20% | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 16:06 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 14:24 | -25% | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 14:40 | -28% | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | $26,950 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-06-30 14:40 | -53% | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 20…](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | $8,499 en walmart vs mercado -> -53% bajo la competencia |
 | 2026-06-30 14:40 | -54% | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -54% bajo la competencia |
-| 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
-| 2026-06-30 10:17 | -23% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,700 | $7,700 en sams vs walmart $9,990 -> -23% bajo la competencia |
