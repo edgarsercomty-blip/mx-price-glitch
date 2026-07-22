@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 22:38 UTC",
-  "products_scanned": 1711,
+  "generated_at": "2026-07-22 23:36 UTC",
+  "products_scanned": 1713,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1171148278",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$3,449 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3344.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co905Ks 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116",
-      "price": 3449.0,
-      "list_price": 6029.0,
-      "ean": null,
-      "model": "Co905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178822116",
         "marketplace": null
       }
     },
