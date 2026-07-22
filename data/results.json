@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 01:48 UTC",
-  "products_scanned": 1694,
+  "generated_at": "2026-07-22 04:14 UTC",
+  "products_scanned": 1673,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 51,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -968,27 +968,6 @@
       "extra": {
         "id": "45345508",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$5,199 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.8,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch 5 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-5-unisex-con-gps/1196970540",
-      "price": 5199.2,
-      "list_price": 6499.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196970540",
-        "marketplace": null
       }
     },
     {
