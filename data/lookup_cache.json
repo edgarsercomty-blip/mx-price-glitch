@@ -528,18 +528,6 @@
     "ts": "2026-07-22T20:11:58.691815+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAPANELACEROGOTEO": {
-    "ts": "2026-07-20T20:42:22.245518+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELACEROGOTEO": {
-    "ts": "2026-07-20T20:42:27.615885+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELACEROGOTEO": {
-    "ts": "2026-07-20T20:42:30.499954+00:00",
-    "items": []
-  },
   "amazon|WESTELMMARIPOSACOJINFUNDA": {
     "ts": "2026-07-20T21:55:56.796092+00:00",
     "items": []
@@ -2870,6 +2858,66 @@
   },
   "sams|OSTERCAFETERAPANELACEROTOUCH": {
     "ts": "2026-07-22T20:12:15.306243+00:00",
+    "items": []
+  },
+  "amazon|BVSTEM6801R": {
+    "ts": "2026-07-22T21:31:39.990119+00:00",
+    "items": []
+  },
+  "walmart|BVSTEM6801R": {
+    "ts": "2026-07-22T21:31:47.088961+00:00",
+    "items": []
+  },
+  "sams|BVSTEM6801R": {
+    "ts": "2026-07-22T21:31:52.904331+00:00",
+    "items": []
+  },
+  "amazon|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-22T21:32:25.987779+00:00",
+    "items": []
+  },
+  "walmart|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-22T21:33:01.871293+00:00",
+    "items": []
+  },
+  "sams|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-22T21:33:06.550887+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOMONITORVENUSOFT": {
+    "ts": "2026-07-22T21:33:10.443334+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOMONITORVENUSOFT": {
+    "ts": "2026-07-22T21:33:16.873543+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOMONITORVENUSOFT": {
+    "ts": "2026-07-22T21:33:18.755961+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-22T21:33:23.117316+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-22T21:33:24.656693+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDACLARO": {
+    "ts": "2026-07-22T21:33:29.479493+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-07-22T21:33:30.763450+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-07-22T21:33:33.130554+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-07-22T21:33:44.615303+00:00",
     "items": []
   }
 }

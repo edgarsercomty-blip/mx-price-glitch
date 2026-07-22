@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22 20:12 UTC",
-  "products_scanned": 1706,
+  "generated_at": "2026-07-22 21:33 UTC",
+  "products_scanned": 1714,
   "threshold_pct": 20.0,
-  "count": 56,
+  "count": 58,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,6 +112,48 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 21999.6,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638189",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -175,27 +217,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -233,27 +254,6 @@
       "extra": {
         "id": "43394653",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.5,
-      "detail": "$4,369 en liverpool vs mercado -> -39% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2811.0,
-      "store": "liverpool",
-      "name": "Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
-      "price": 4369.0,
-      "list_price": 6769.0,
-      "ean": null,
-      "model": "Dq6011Dx",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181496939",
-        "marketplace": null
       }
     },
     {
@@ -699,6 +699,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272435",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -952,27 +973,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 224.75,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 674.25,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.75,
@@ -988,6 +988,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 224.75,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 674.25,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -1094,6 +1115,27 @@
       "extra": {
         "id": "45345508",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$3,377 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 844.35,
+      "store": "liverpool",
+      "name": "Cafetera Espresso Oster Prima Latte Ii Bvstem6801R",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576",
+      "price": 3377.4,
+      "list_price": 5629.0,
+      "ean": null,
+      "model": "Bvstem6801R",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133853576",
+        "marketplace": null
       }
     },
     {
