@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-21 23:48 UTC
+# Errores/chollos de precio — 2026-07-22 01:48 UTC
 
-- Productos revisados: **1700**
+- Productos revisados: **1694**
 - Umbral de diferencia: **20%**
-- Hallazgos: **50**
+- Hallazgos: **52**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -16,6 +16,7 @@
 | -48% | $9,500 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
 | -33% | $9,240 | palacio | [Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX…](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html) | $18,759 | Confirmado vs competencia | $18,759 en palacio vs mercado -> -33% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
+| -53% | $8,000 | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $6,999 | Confirmado vs competencia | $6,999 en liverpool vs mercado -> -53% bajo la competencia |
 | -30% | $6,000 | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | Confirmado vs competencia | $13,999 en liverpool vs mercado -> -30% bajo la competencia |
 | -25% | $4,887 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | Confirmado vs competencia | $14,662 en palacio vs mercado -> -25% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
@@ -29,6 +30,7 @@
 | -24% | $2,406 | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | Confirmado vs competencia | $7,573 en liverpool vs mercado -> -24% bajo la competencia |
 | -20% | $2,400 | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $2,260 | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $5,650 | Confirmado vs competencia | $5,650 en palacio vs mercado -> -29% bajo la competencia |
+| -25% | $2,250 | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,749 | Confirmado vs competencia | $6,749 en liverpool vs mercado -> -25% bajo la competencia |
 | -22% | $2,200 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -22% bajo la competencia |
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $1,500 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $4,499 | Confirmado vs competencia | $4,499 en palacio vs mercado -> -25% bajo la competencia |
@@ -54,5 +56,5 @@
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | -35% | $157 | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | Confirmado vs competencia | $292 en palacio vs mercado -> -35% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
-| -26% | $104 | palacio | [Mica protectora antirreflejante para Galaxy S26](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
+| -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $52 | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | Confirmado vs competencia | $147 en palacio vs mercado -> -26% bajo la competencia |

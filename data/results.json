@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21 23:48 UTC",
-  "products_scanned": 1700,
+  "generated_at": "2026-07-22 01:48 UTC",
+  "products_scanned": 1694,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1171148278",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.3,
+      "detail": "$6,999 en liverpool vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8000.0,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
+      "price": 6999.0,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": "50Nu850Bpsa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1199018091",
         "marketplace": null
       }
     },
@@ -133,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -169,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -620,8 +641,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -630,7 +651,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272436",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -694,6 +715,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1153472749",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.7,
+      "detail": "$6,749 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.81,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu Hs Aa 12 110Fc Ah121Ck 115 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893",
+      "price": 6749.44,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": "Ah121Ck",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173773893",
         "marketplace": null
       }
     },

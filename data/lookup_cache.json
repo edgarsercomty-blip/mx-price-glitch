@@ -637,18 +637,6 @@
     "ts": "2026-07-21T22:46:22.172804+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-20T01:09:13.499447+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-20T01:09:15.954559+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-20T01:09:17.750067+00:00",
-    "items": []
-  },
   "liverpool|UN98DU9000FXZX": {
     "ts": "2026-07-20T04:32:55.901194+00:00",
     "items": []
@@ -2520,6 +2508,42 @@
   },
   "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
     "ts": "2026-07-21T23:48:58.707734+00:00",
+    "items": []
+  },
+  "amazon|AH121CK": {
+    "ts": "2026-07-22T01:47:48.246529+00:00",
+    "items": []
+  },
+  "walmart|AH121CK": {
+    "ts": "2026-07-22T01:47:57.043700+00:00",
+    "items": []
+  },
+  "sams|AH121CK": {
+    "ts": "2026-07-22T01:47:58.972425+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-22T01:48:00.455689+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-22T01:48:02.629777+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-07-22T01:48:04.847840+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTAZASGOTEO": {
+    "ts": "2026-07-22T01:48:11.149525+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTAZASGOTEO": {
+    "ts": "2026-07-22T01:48:12.649204+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTAZASGOTEO": {
+    "ts": "2026-07-22T01:48:15.778073+00:00",
     "items": []
   }
 }
