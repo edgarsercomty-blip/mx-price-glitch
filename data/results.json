@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 04:12 UTC",
-  "products_scanned": 1722,
+  "generated_at": "2026-07-23 04:36 UTC",
+  "products_scanned": 1710,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -300,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4624.75,
-      "store": "palacio",
-      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
-      "price": 9249.5,
-      "list_price": 18499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44064062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 33.0,
       "detail": "$18,759 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -490,27 +469,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.8,
-      "store": "palacio",
-      "name": "Maquina de cafe Espresso",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html",
-      "price": 5649.5,
-      "list_price": 11299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44587559",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
       "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
       "savings": 2659.8,
@@ -636,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Mica protectora antirreflejante para Galaxy S26",
+      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272436",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -742,27 +721,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2349.75,
-      "store": "palacio",
-      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
-      "price": 7049.25,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43401372",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 3174.75,
@@ -778,6 +736,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43074177",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2349.75,
+      "store": "palacio",
+      "name": "Monitor Venu 3S, Dust Rose Soft Gold Deportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html",
+      "price": 7049.25,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43401372",
         "outlet": false
       }
     },
@@ -1093,48 +1072,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43295135",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2549.85,
-      "store": "palacio",
-      "name": "Máquina de café Espressería Automática Sensation Milk",
-      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
-      "price": 10199.4,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44911677",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.85,
-      "store": "palacio",
-      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
-      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44170253",
         "outlet": false
       }
     },
