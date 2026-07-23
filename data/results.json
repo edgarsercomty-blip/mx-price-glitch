@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 16:24 UTC",
+  "generated_at": "2026-07-23 17:03 UTC",
   "products_scanned": 1694,
   "threshold_pct": 20.0,
-  "count": 62,
+  "count": 63,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -364,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1154.65,
-      "store": "palacio",
-      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
-      "price": 2144.35,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": "BLST4125",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1749.65,
@@ -400,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1154.65,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2144.35,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
         "outlet": false
       }
     },
@@ -448,27 +448,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 615.65,
-      "store": "palacio",
-      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
-      "price": 1143.35,
-      "list_price": 1759.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1679.65,
@@ -490,21 +469,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 6842.15,
+      "savings": 615.65,
       "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1143.35,
+      "list_price": 1759.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43926489",
+        "id": "43926488",
         "outlet": false
       }
     },
@@ -526,6 +505,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -841,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Galaxy SmartTag2 blanco",
+      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "SmartTag2",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520788",
         "outlet": false
       }
     },
