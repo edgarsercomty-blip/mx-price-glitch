@@ -1266,18 +1266,6 @@
     "ts": "2026-07-23T19:59:39.860318+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-21T21:43:27.919508+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-21T21:43:29.646933+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-21T21:43:32.811897+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOTOUCHTAZAS": {
     "ts": "2026-07-21T22:46:09.437704+00:00",
     "items": []
@@ -3232,6 +3220,42 @@
   },
   "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
     "ts": "2026-07-23T21:05:14.595487+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAMILANAPPLERELOJ": {
+    "ts": "2026-07-23T22:16:37.734474+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAMILANAPPLERELOJ": {
+    "ts": "2026-07-23T22:16:40.068641+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAMILANAPPLERELOJ": {
+    "ts": "2026-07-23T22:16:42.308178+00:00",
+    "items": []
+  },
+  "amazon|LGPANTALLASMARTPLANAOLED": {
+    "ts": "2026-07-23T22:16:43.941918+00:00",
+    "items": []
+  },
+  "walmart|LGPANTALLASMARTPLANAOLED": {
+    "ts": "2026-07-23T22:16:45.484888+00:00",
+    "items": []
+  },
+  "sams|LGPANTALLASMARTPLANAOLED": {
+    "ts": "2026-07-23T22:16:50.176222+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHPANELACERO": {
+    "ts": "2026-07-23T22:16:51.582592+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHPANELACERO": {
+    "ts": "2026-07-23T22:16:53.528607+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHPANELACERO": {
+    "ts": "2026-07-23T22:16:55.013706+00:00",
     "items": []
   }
 }
