@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 11:30 UTC",
-  "products_scanned": 1641,
+  "generated_at": "2026-07-23 13:10 UTC",
+  "products_scanned": 1685,
   "threshold_pct": 20.0,
-  "count": 61,
+  "count": 64,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,23 +48,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,259 en liverpool vs mercado -> -52% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$19,795 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
-      "savings": 1365.6,
-      "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 3 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092",
-      "price": 1259.4,
-      "list_price": 2099.0,
+      "savings": 19795.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
       "ean": null,
       "model": null,
-      "brand": "OSTER",
+      "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1133854092",
-        "marketplace": null
+        "id": "44302743",
+        "outlet": false
       }
     },
     {
@@ -196,6 +196,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -232,27 +253,6 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
         "outlet": false
       }
     },
@@ -300,6 +300,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$3,000 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1799.7,
+      "store": "palacio",
+      "name": "Krups Espresseria Divine",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html",
+      "price": 2999.5,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484891",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$191 en palacio vs mercado -> -36% bajo la competencia",
       "likely_typo": false,
@@ -322,21 +343,210 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 157.15,
+      "savings": 2099.65,
       "store": "palacio",
-      "name": "Funda para Celular Galaxy A36, Verde Claro",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
-      "price": 291.85,
-      "list_price": 449.0,
+      "name": "Licuadora Titan, 5 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
+      "price": 3899.35,
+      "list_price": 5999.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44563904",
+        "id": "45281005",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1154.65,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2144.35,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1749.65,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3249.35,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,677 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1441.65,
+      "store": "palacio",
+      "name": "Licuadora Xtreme Mix, 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
+      "price": 2677.35,
+      "list_price": 4119.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 615.65,
+      "store": "palacio",
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1143.35,
+      "list_price": 1759.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4199.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 7799.35,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -490,48 +700,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5397.0,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 12593.0,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11877.0,
-      "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 27713.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11970.0,
@@ -547,6 +715,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45000828",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5397.0,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 12593.0,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -589,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44964885",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3012.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -652,48 +862,6 @@
       "currency": "MXN",
       "extra": {
         "id": "41564840",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Galaxy SmartTag2 blanco",
-      "url": "https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": "SmartTag2",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520788",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520801",
         "outlet": false
       }
     },
@@ -783,6 +951,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$13,020 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4339.86,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html",
+      "price": 13019.58,
+      "list_price": 30999.0,
+      "ean": null,
+      "model": "QNED82",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44777572",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 43.7,
       "detail": "$6,749 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -805,21 +994,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 337.25,
+      "savings": 1299.75,
       "store": "palacio",
-      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
-      "price": 1011.75,
-      "list_price": 1349.0,
+      "name": "Funda con teclado iPad Pro 11\"",
+      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Logitech",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272481",
+        "id": "45053113",
         "outlet": false
       }
     },
@@ -867,195 +1056,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1499.75,
-      "store": "palacio",
-      "name": "Licuadora Titan, 5 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
-      "price": 4499.25,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45281005",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 824.75,
-      "store": "palacio",
-      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
-      "price": 2474.25,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": "BLST4125",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 224.75,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 674.25,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 439.75,
-      "store": "palacio",
-      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
-      "price": 1319.25,
-      "list_price": 1759.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021105",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 8999.25,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.75,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
-      "detail": "$7,479 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2419.78,
-      "store": "palacio",
-      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
-      "price": 7479.32,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "Edge70",
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45363417",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 24.0,
       "detail": "$4,939 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -1072,6 +1072,90 @@
       "currency": "MXN",
       "extra": {
         "id": "44824184",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,899 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.8,
+      "store": "palacio",
+      "name": "Cafetera Automática Dedica Dúo Gris en Acero Inoxidable",
+      "url": "https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html",
+      "price": 3899.35,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Delonghi",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45387349",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02WHUS Blanco",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02WHUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011027",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02BLUS Negra",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02BLUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011025",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02CRUS Crema",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02CRUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011026",
         "outlet": false
       }
     },
@@ -1178,27 +1262,6 @@
       "extra": {
         "productId": "1136430528",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4599.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix 8",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html",
-      "price": 18399.2,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110960",
-        "outlet": false
       }
     },
     {
