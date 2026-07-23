@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23 09:39 UTC",
-  "products_scanned": 1634,
+  "generated_at": "2026-07-23 11:30 UTC",
+  "products_scanned": 1641,
   "threshold_pct": 20.0,
   "count": 61,
   "findings": [
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1171148278",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,259 en liverpool vs mercado -> -52% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1365.6,
+      "store": "liverpool",
+      "name": "Licuadora Oster Blstpegcrt 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092",
+      "price": 1259.4,
+      "list_price": 2099.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133854092",
         "marketplace": null
       }
     },
@@ -301,27 +322,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5249.65,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html",
-      "price": 9749.35,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44781018",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 157.15,
@@ -337,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44563904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4624.75,
+      "store": "palacio",
+      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
+      "price": 9249.5,
+      "list_price": 18499.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44064062",
         "outlet": false
       }
     },
@@ -490,6 +511,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$27,713 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11877.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 27713.0,
+      "list_price": 39590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11970.0,
@@ -547,27 +589,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44964885",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$8,399 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3099.8,
-      "store": "palacio",
-      "name": "Monitor deportivo Instinct 3 – Tactical Edition",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html",
-      "price": 8399.2,
-      "list_price": 10499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44733803",
         "outlet": false
       }
     },
@@ -652,27 +673,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43520788",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
         "outlet": false
       }
     },
@@ -825,27 +825,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$412 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 137.25,
-      "store": "palacio",
-      "name": "Case para Buds4 y Buds4 Pro Foodcan estampada",
-      "url": "https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html",
-      "price": 411.75,
-      "list_price": 549.0,
-      "ean": null,
-      "model": "Buds4",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272448",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -931,21 +910,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 1199.75,
+      "savings": 224.75,
       "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3599.25,
-      "list_price": 4799.0,
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 674.25,
+      "list_price": 899.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021105",
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -973,21 +952,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 4887.25,
+      "savings": 1199.75,
       "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "price": 3599.25,
+      "list_price": 4799.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43926489",
+        "id": "45021105",
         "outlet": false
       }
     },
@@ -1015,27 +994,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 224.75,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 674.25,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,599 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.75,
@@ -1051,6 +1009,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -1183,21 +1162,42 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 13399.8,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
+      "price": 183.2,
+      "list_price": 229.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430528",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$18,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4599.8,
       "store": "palacio",
-      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
-      "price": 53599.2,
-      "list_price": 66999.0,
+      "name": "Monitor para entrenamiento Fénix 8",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html",
+      "price": 18399.2,
+      "list_price": 22999.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43587917",
+        "id": "44110960",
         "outlet": false
       }
     },

@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (450)
+# Historial de ofertas encontradas (452)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-23 11:30 | -20% | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 …](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-23 11:30 | -52% | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,259 | $1,259 en liverpool vs mercado -> -52% bajo la competencia |
 | 2026-07-23 09:39 | -20% | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | $519 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-23 09:39 | -20% | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-23 09:39 | -25% | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | $2,999 en palacio vs mercado -> -25% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-01 15:03 | -50% | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vas…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-negro/p/MLM41816580) | $498 | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
 | 2026-07-01 14:10 | -25% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $4,999 | $4,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-01 10:11 | -22% | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| C…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,899 | $3,899 en mercadolibre vs mercado -> -22% bajo la competencia |
-| 2026-07-01 10:11 | -26% | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $8,590 | $8,590 en walmart vs mercado -> -26% bajo la competencia |
-| 2026-07-01 10:11 | -26% | walmart | [Congelador Horizontal 18 pies Aurus AFC18W](https://www.walmart.com.mx/ip/congelador-horizontal-18-pies-aurus-afc18w/00750283205325?athbdg=L1300) | $12,899 | $12,899 en walmart vs mercado -> -26% bajo la competencia |
