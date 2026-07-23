@@ -1,14 +1,14 @@
 {
   "amazon|WD26FB8690BEAX": {
-    "ts": "2026-07-21T05:12:12.781308+00:00",
+    "ts": "2026-07-23T07:13:19.185368+00:00",
     "items": []
   },
   "walmart|WD26FB8690BEAX": {
-    "ts": "2026-07-21T05:12:14.516860+00:00",
+    "ts": "2026-07-23T07:13:21.978968+00:00",
     "items": []
   },
   "sams|WD26FB8690BEAX": {
-    "ts": "2026-07-21T05:12:16.239267+00:00",
+    "ts": "2026-07-23T07:13:23.775110+00:00",
     "items": []
   },
   "amazon|ECF02": {
@@ -529,27 +529,15 @@
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-21T05:12:18.273508+00:00",
+    "ts": "2026-07-23T07:13:43.780206+00:00",
     "items": []
   },
   "walmart|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-21T05:12:20.696204+00:00",
+    "ts": "2026-07-23T07:13:53.098866+00:00",
     "items": []
   },
   "sams|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-21T05:12:22.090367+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-21T05:12:23.844317+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-21T05:12:25.172617+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
-    "ts": "2026-07-21T05:12:28.507213+00:00",
+    "ts": "2026-07-23T07:13:54.693339+00:00",
     "items": []
   },
   "amazon|16IRX9": {
@@ -2847,6 +2835,42 @@
   },
   "sams|OSTERCAFETERATAZASPANELTOUCH": {
     "ts": "2026-07-23T04:36:11.523283+00:00",
+    "items": []
+  },
+  "amazon|TVOFERTASRETROVISOROFERTASESPEJO": {
+    "ts": "2026-07-23T07:13:26.825851+00:00",
+    "items": []
+  },
+  "walmart|TVOFERTASRETROVISOROFERTASESPEJO": {
+    "ts": "2026-07-23T07:13:35.684004+00:00",
+    "items": []
+  },
+  "sams|TVOFERTASRETROVISOROFERTASESPEJO": {
+    "ts": "2026-07-23T07:13:37.271644+00:00",
+    "items": []
+  },
+  "amazon|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
+    "ts": "2026-07-23T07:13:38.538199+00:00",
+    "items": []
+  },
+  "walmart|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
+    "ts": "2026-07-23T07:13:40.103534+00:00",
+    "items": []
+  },
+  "sams|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
+    "ts": "2026-07-23T07:13:41.757469+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-23T07:13:56.065676+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-23T07:13:57.544553+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-23T07:13:59.491991+00:00",
     "items": []
   }
 }

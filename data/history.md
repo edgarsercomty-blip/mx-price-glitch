@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (443)
+# Historial de ofertas encontradas (445)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-23 07:13 | -47% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | $287 en liverpool vs mercado -> -47% bajo la competencia |
+| 2026-07-23 07:13 | -49% | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | $1,007 en liverpool vs mercado -> -49% bajo la competencia |
 | 2026-07-22 22:38 | -20% | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 22:38 | -25% | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | $3,899 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 16:18 | -20% | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-06-30 22:54 | -41% | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $37,799 | $37,799 en palacio vs amazon $63,599 -> -41% bajo la competencia |
 | 2026-06-30 20:15 | -31% | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $17,999 | $17,999 en walmart vs amazon $38,999 -> -31% bajo la competencia |
 | 2026-06-30 14:40 | -28% | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | $26,950 en palacio vs mercado -> -28% bajo la competencia |
-| 2026-06-30 14:40 | -53% | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 20…](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | $8,499 en walmart vs mercado -> -53% bajo la competencia |
-| 2026-06-30 14:40 | -54% | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | $758 en walmart vs mercado -> -54% bajo la competencia |

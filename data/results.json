@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 04:36 UTC",
-  "products_scanned": 1710,
+  "generated_at": "2026-07-23 07:13 UTC",
+  "products_scanned": 1683,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 58,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,6 +48,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.4,
       "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
       "likely_typo": false,
@@ -64,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1200279162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$287 en liverpool vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 252.0,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 287.4,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
         "marketplace": null
       }
     },
@@ -259,6 +301,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 5249.65,
@@ -279,22 +342,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 157.15,
+      "savings": 4624.75,
       "store": "palacio",
-      "name": "Funda para Celular Galaxy A36, Verde Claro",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
-      "price": 291.85,
-      "list_price": 449.0,
+      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
+      "price": 9249.5,
+      "list_price": 18499.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "KitchenAid",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44563904",
+        "id": "44064062",
         "outlet": false
       }
     },
@@ -469,6 +532,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
+      "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2259.8,
+      "store": "palacio",
+      "name": "Maquina de cafe Espresso",
+      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html",
+      "price": 5649.5,
+      "list_price": 11299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Chefman",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44587559",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
       "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
       "savings": 2659.8,
@@ -599,8 +683,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Mica protectora antirreflejante para Galaxy S26",
-      "url": "https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -609,7 +693,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272436",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -721,27 +805,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3174.75,
-      "store": "palacio",
-      "name": "Monitor Forerunner 965 para correr",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
-      "price": 9524.25,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43074177",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2349.75,
@@ -757,6 +820,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43401372",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$9,524 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3174.75,
+      "store": "palacio",
+      "name": "Monitor Forerunner 965 para correr",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html",
+      "price": 9524.25,
+      "list_price": 12699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43074177",
         "outlet": false
       }
     },
@@ -889,6 +973,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$674 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 224.75,
@@ -946,27 +1051,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
         "outlet": false
       }
     },
@@ -1072,6 +1156,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43295135",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2549.85,
+      "store": "palacio",
+      "name": "Máquina de café Espressería Automática Sensation Milk",
+      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
+      "price": 10199.4,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44911677",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.85,
+      "store": "palacio",
+      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
+      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44170253",
         "outlet": false
       }
     },

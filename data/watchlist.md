@@ -1,4 +1,4 @@
-# Productos en vigilancia (397)
+# Productos en vigilancia (399)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -401,3 +401,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | -25% |
 | 🟢 disponible | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | -20% |
+| 🟢 disponible | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | -49% |
+| 🟢 disponible | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | -47% |
