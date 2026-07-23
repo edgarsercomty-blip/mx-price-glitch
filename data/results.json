@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 15:27 UTC",
-  "products_scanned": 1699,
+  "generated_at": "2026-07-23 16:24 UTC",
+  "products_scanned": 1694,
   "threshold_pct": 20.0,
-  "count": 64,
+  "count": 62,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -196,27 +196,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -253,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -490,6 +490,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 4199.65,
@@ -531,27 +552,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -568,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44064062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.0,
-      "detail": "$18,759 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9239.67,
-      "store": "palacio",
-      "name": "Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX 4060 Intel Core i5, 8 GB RAM, 512 GB SSD",
-      "url": "https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html",
-      "price": 18759.33,
-      "list_price": 27999.0,
-      "ean": null,
-      "model": "G16CHR",
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45046845",
         "outlet": false
       }
     },
@@ -989,27 +968,6 @@
       "extra": {
         "productId": "1173773893",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.75,
-      "store": "palacio",
-      "name": "Funda con teclado iPad Pro 11\"",
-      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Logitech",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45053113",
-        "outlet": false
       }
     },
     {
