@@ -540,30 +540,6 @@
     "ts": "2026-07-23T07:13:54.693339+00:00",
     "items": []
   },
-  "amazon|16IRX9": {
-    "ts": "2026-07-21T07:43:23.656078+00:00",
-    "items": []
-  },
-  "walmart|16IRX9": {
-    "ts": "2026-07-21T07:43:25.968913+00:00",
-    "items": []
-  },
-  "sams|16IRX9": {
-    "ts": "2026-07-21T07:43:28.617495+00:00",
-    "items": []
-  },
-  "amazon|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-21T07:43:42.689105+00:00",
-    "items": []
-  },
-  "walmart|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-21T07:43:49.338340+00:00",
-    "items": []
-  },
-  "sams|GARMINENTRENAMIENTODEPORTIVOINSTINCTMONITOR": {
-    "ts": "2026-07-21T07:43:51.887976+00:00",
-    "items": []
-  },
   "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
     "ts": "2026-07-21T10:17:16.598108+00:00",
     "items": []
@@ -2871,6 +2847,126 @@
   },
   "sams|OSTERCAFETERAGOTEOPANELACERO": {
     "ts": "2026-07-23T07:13:59.491991+00:00",
+    "items": []
+  },
+  "amazon|TVOFERTASTELESCOPICONATURALESCEPILLOOFERTAS": {
+    "ts": "2026-07-23T09:38:28.884729+00:00",
+    "items": []
+  },
+  "walmart|TVOFERTASTELESCOPICONATURALESCEPILLOOFERTAS": {
+    "ts": "2026-07-23T09:38:32.632089+00:00",
+    "items": []
+  },
+  "sams|TVOFERTASTELESCOPICONATURALESCEPILLOOFERTAS": {
+    "ts": "2026-07-23T09:38:34.141418+00:00",
+    "items": []
+  },
+  "amazon|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-07-23T09:38:35.777392+00:00",
+    "items": []
+  },
+  "walmart|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-07-23T09:38:37.099901+00:00",
+    "items": []
+  },
+  "sams|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-07-23T09:38:38.607097+00:00",
+    "items": []
+  },
+  "amazon|SPIGENSPIGENFUNDAURBANFIT": {
+    "ts": "2026-07-23T09:38:39.874373+00:00",
+    "items": []
+  },
+  "walmart|SPIGENSPIGENFUNDAURBANFIT": {
+    "ts": "2026-07-23T09:38:42.091171+00:00",
+    "items": []
+  },
+  "sams|SPIGENSPIGENFUNDAURBANFIT": {
+    "ts": "2026-07-23T09:38:43.785232+00:00",
+    "items": []
+  },
+  "amazon|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
+    "ts": "2026-07-23T09:38:45.938915+00:00",
+    "items": []
+  },
+  "walmart|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
+    "ts": "2026-07-23T09:38:48.218167+00:00",
+    "items": []
+  },
+  "sams|GARMINDEPORTIVOTACTICALINSTINCTMONITOR": {
+    "ts": "2026-07-23T09:38:52.765432+00:00",
+    "items": []
+  },
+  "amazon|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-23T09:38:53.908139+00:00",
+    "items": []
+  },
+  "walmart|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-23T09:38:55.540929+00:00",
+    "items": []
+  },
+  "sams|GARMINMULTIDEPORTIVOCOMMANDERMONITOREDITION": {
+    "ts": "2026-07-23T09:38:57.019999+00:00",
+    "items": []
+  },
+  "amazon|SMARTTAG2": {
+    "ts": "2026-07-23T09:38:58.613267+00:00",
+    "items": []
+  },
+  "walmart|SMARTTAG2": {
+    "ts": "2026-07-23T09:39:01.809048+00:00",
+    "items": []
+  },
+  "sams|SMARTTAG2": {
+    "ts": "2026-07-23T09:39:04.355887+00:00",
+    "items": []
+  },
+  "amazon|EDGE70": {
+    "ts": "2026-07-23T09:39:09.311840+00:00",
+    "items": []
+  },
+  "walmart|EDGE70": {
+    "ts": "2026-07-23T09:39:10.931645+00:00",
+    "items": []
+  },
+  "sams|EDGE70": {
+    "ts": "2026-07-23T09:39:12.839176+00:00",
+    "items": []
+  },
+  "amazon|NINJAVELOCIDADESLICUADORADETECTNINJA": {
+    "ts": "2026-07-23T09:39:19.512499+00:00",
+    "items": []
+  },
+  "walmart|NINJAVELOCIDADESLICUADORADETECTNINJA": {
+    "ts": "2026-07-23T09:39:23.569357+00:00",
+    "items": []
+  },
+  "sams|NINJAVELOCIDADESLICUADORADETECTNINJA": {
+    "ts": "2026-07-23T09:39:30.590491+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-23T09:39:32.253041+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-23T09:39:35.602318+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-23T09:39:38.070475+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOCREATISTACAFETERAORIGINS": {
+    "ts": "2026-07-23T09:39:42.972079+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOCREATISTACAFETERAORIGINS": {
+    "ts": "2026-07-23T09:39:44.402927+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOCREATISTACAFETERAORIGINS": {
+    "ts": "2026-07-23T09:39:48.755224+00:00",
     "items": []
   }
 }

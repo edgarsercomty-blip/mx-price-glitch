@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (445)
+# Historial de ofertas encontradas (450)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-23 09:39 | -20% | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | $519 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-23 09:39 | -20% | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | $399 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-23 09:39 | -25% | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | $2,999 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-23 09:39 | -25% | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | $2,399 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-07-23 09:39 | -30% | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $12,593 | $12,593 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-23 07:13 | -47% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | $287 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-07-23 07:13 | -49% | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | $1,007 en liverpool vs mercado -> -49% bajo la competencia |
 | 2026-07-22 22:38 | -20% | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-01 10:11 | -22% | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| C…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,899 | $3,899 en mercadolibre vs mercado -> -22% bajo la competencia |
 | 2026-07-01 10:11 | -26% | walmart | [Lavadora Mabe 21 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300) | $8,590 | $8,590 en walmart vs mercado -> -26% bajo la competencia |
 | 2026-07-01 10:11 | -26% | walmart | [Congelador Horizontal 18 pies Aurus AFC18W](https://www.walmart.com.mx/ip/congelador-horizontal-18-pies-aurus-afc18w/00750283205325?athbdg=L1300) | $12,899 | $12,899 en walmart vs mercado -> -26% bajo la competencia |
-| 2026-07-01 08:29 | -37% | palacio | [Refrigerador French Door Smart Inverter 29 p3, GM29BIP,…](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-smart-inverter-29-p3-gm29bip-plata-42668113.html) | $12,000 | $12,000 en palacio vs walmart $18,999, sams $24,550 -> -37% bajo la competencia |
-| 2026-06-30 22:54 | -30% | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $16,631 | $16,631 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-06-30 22:54 | -41% | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $37,799 | $37,799 en palacio vs amazon $63,599 -> -41% bajo la competencia |
-| 2026-06-30 20:15 | -31% | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $17,999 | $17,999 en walmart vs amazon $38,999 -> -31% bajo la competencia |
-| 2026-06-30 14:40 | -28% | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $26,950 | $26,950 en palacio vs mercado -> -28% bajo la competencia |
