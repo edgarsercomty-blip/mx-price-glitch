@@ -1,24 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-23 13:10 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-23 15:27 UTC
 
-- Hallazgos: **18**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
-| -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
-| -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
-| -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
-| -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
-| -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
-| -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
-| -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| -35% | $1,442 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | Confirmado vs competencia | $2,677 en palacio vs mercado -> -35% bajo la competencia |
-| -25% | $1,300 | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -25% bajo la competencia |
-| -24% | $1,200 | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -24% bajo la competencia |
-| -35% | $1,155 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | Confirmado vs competencia | $2,144 en palacio vs mercado -> -35% bajo la competencia |
-| -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
-| -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._

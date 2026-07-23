@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23 13:10 UTC",
-  "products_scanned": 1685,
+  "generated_at": "2026-07-23 15:27 UTC",
+  "products_scanned": 1699,
   "threshold_pct": 20.0,
   "count": 64,
   "findings": [
@@ -490,27 +490,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 4199.65,
@@ -547,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
