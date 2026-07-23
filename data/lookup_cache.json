@@ -349,15 +349,15 @@
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-21T22:46:19.052956+00:00",
+    "ts": "2026-07-23T23:12:57.760285+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-21T22:46:20.515164+00:00",
+    "ts": "2026-07-23T23:13:00.430291+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-21T22:46:22.172804+00:00",
+    "ts": "2026-07-23T23:13:01.709954+00:00",
     "items": []
   },
   "amazon|75QNED73ASC": {
@@ -1264,18 +1264,6 @@
   },
   "sams|OSTERESPRESSOCAFETERALATTEPRIMA": {
     "ts": "2026-07-23T19:59:39.860318+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTOUCHTAZAS": {
-    "ts": "2026-07-21T22:46:09.437704+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTOUCHTAZAS": {
-    "ts": "2026-07-21T22:46:11.483997+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
-    "ts": "2026-07-21T22:46:14.078152+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAACEROTOUCHTAZAS": {
@@ -3256,6 +3244,30 @@
   },
   "sams|OSTERCAFETERATOUCHPANELACERO": {
     "ts": "2026-07-23T22:16:55.013706+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAAPPLERELOJMILAN": {
+    "ts": "2026-07-23T23:12:53.705307+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAAPPLERELOJMILAN": {
+    "ts": "2026-07-23T23:12:55.192920+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAAPPLERELOJMILAN": {
+    "ts": "2026-07-23T23:12:56.607826+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-23T23:13:03.067714+00:00",
+    "items": []
+  },
+  "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-23T23:13:04.448055+00:00",
+    "items": []
+  },
+  "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-07-23T23:13:05.697124+00:00",
     "items": []
   }
 }
