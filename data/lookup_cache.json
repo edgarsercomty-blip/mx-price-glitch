@@ -2943,5 +2943,189 @@
   "sams|GARMINDEPORTIVOMONITORGOLDVENU": {
     "ts": "2026-07-22T23:36:07.621894+00:00",
     "items": []
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-07-23T04:11:26.813592+00:00",
+    "items": []
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-07-23T04:11:27.880168+00:00",
+    "items": []
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-07-23T04:11:29.091615+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-07-23T04:11:30.286339+00:00",
+    "items": []
+  },
+  "mercadolibre|75QM8K": {
+    "ts": "2026-07-23T04:11:31.483322+00:00",
+    "items": []
+  },
+  "palacio|SETCMC361V": {
+    "ts": "2026-07-23T04:11:36.226509+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Jeans de corte slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764167.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Traje Regular Microdiseño Hombre",
+        "url": "https://www.elpalaciodehierro.com/nautica-traje-regular-microdiseno-hombre-45192192.html",
+        "price": 3249.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans de corte slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/penguin-jeans-de-corte-slim-hombre-44764174.html",
+        "price": 1049.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 300 L RMA300FZMRX0 Plateado",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-300-l-rma300fzmrx0-plateado-42085504.html",
+        "price": 12158.37,
+        "model": "RMA300FZMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans straight Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-by-michael-kors-jeans-straight-hombre-44889503.html",
+        "price": 1584.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Traje de lana corte regular jaspeado Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-jaspeado-hombre-45131837.html",
+        "price": 5749.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 400 L RMS400IBMRX0",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-400-l-rms400ibmrx0-43427911.html",
+        "price": 14867.37,
+        "model": "RMS400IBMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html",
+        "price": 5099.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Saco jaspeado Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-saco-jaspeado-hombre-45192125.html",
+        "price": 5879.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa microdiseño manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Traje de lana corte regular estampado Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-estampado-hombre-45192173.html",
+        "price": 8049.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Saco jaspeado Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-saco-jaspeado-hombre-45192115.html",
+        "price": 5879.3,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SETCMC361V": {
+    "ts": "2026-07-23T04:11:37.349821+00:00",
+    "items": []
+  },
+  "walmart|SETCMC361V": {
+    "ts": "2026-07-23T04:11:38.590778+00:00",
+    "items": []
+  },
+  "sams|SETCMC361V": {
+    "ts": "2026-07-23T04:11:40.157668+00:00",
+    "items": []
+  },
+  "mercadolibre|SETCMC361V": {
+    "ts": "2026-07-23T04:11:41.246699+00:00",
+    "items": []
+  },
+  "liverpool|UA8050": {
+    "ts": "2026-07-23T04:11:41.802583+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Crystal Uhd De 55 Pulgadas 4K 55Ua8050Psa Con Ai Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-crystal-uhd-de-55-pulgadas-4k-55ua8050psa-con-ai-webos/1178738751",
+        "price": 10739.0,
+        "model": "55Ua8050Psa"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Led De 75 Pulgadas 4K Uhd 75Ua8050Psa Con Ai Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-led-de-75-pulgadas-4k-uhd-75ua8050psa-con-ai-webos/1179252712",
+        "price": 11998.8,
+        "model": "75Ua8050Psa"
+      }
+    ]
+  },
+  "amazon|UA8050": {
+    "ts": "2026-07-23T04:11:42.866226+00:00",
+    "items": []
+  },
+  "walmart|UA8050": {
+    "ts": "2026-07-23T04:11:44.184542+00:00",
+    "items": []
+  },
+  "sams|UA8050": {
+    "ts": "2026-07-23T04:11:45.423332+00:00",
+    "items": []
+  },
+  "mercadolibre|UA8050": {
+    "ts": "2026-07-23T04:11:46.515606+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-23T04:11:52.144807+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-23T04:11:53.425657+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARGALAXYFUNDANAVY": {
+    "ts": "2026-07-23T04:11:55.189217+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGRESISTENTEMAGNETICAGALAXYULTRA": {
+    "ts": "2026-07-23T04:11:56.258926+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGRESISTENTEMAGNETICAGALAXYULTRA": {
+    "ts": "2026-07-23T04:11:57.575552+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGRESISTENTEMAGNETICAGALAXYULTRA": {
+    "ts": "2026-07-23T04:12:01.769057+00:00",
+    "items": []
   }
 }

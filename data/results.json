@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23 01:07 UTC",
-  "products_scanned": 1702,
+  "generated_at": "2026-07-23 04:12 UTC",
+  "products_scanned": 1722,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -259,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 157.15,
-      "store": "palacio",
-      "name": "Funda para Celular Galaxy A36, Verde Claro",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
-      "price": 291.85,
-      "list_price": 449.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44563904",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$9,749 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 5249.65,
@@ -295,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44781018",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
         "outlet": false
       }
     },
@@ -380,27 +380,6 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$6,999 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.7,
-      "store": "palacio",
-      "name": "Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html",
-      "price": 6999.3,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345626",
-        "outlet": false
       }
     },
     {
@@ -657,27 +636,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.74,
-      "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43520802",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 51.0,
       "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -784,27 +742,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,899 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.75,
-      "store": "liverpool",
-      "name": "Smartwatch Garmin Forerunner 165 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891",
-      "price": 3899.25,
-      "list_price": 5199.0,
-      "ean": null,
-      "model": null,
-      "brand": "GARMIN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1149294891",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,049 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2349.75,
@@ -889,6 +826,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 337.25,
+      "store": "palacio",
+      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
+      "price": 1011.75,
+      "list_price": 1349.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1499.75,
@@ -946,27 +904,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4887.25,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 14661.75,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
         "outlet": false
       }
     },
@@ -1036,6 +973,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$14,662 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4887.25,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 14661.75,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2999.75,
@@ -1099,21 +1057,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$1,599 en liverpool vs mercado -> -20% bajo la competencia",
+      "detail": "$2,879 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 399.8,
+      "savings": 719.8,
       "store": "liverpool",
-      "name": "Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560",
-      "price": 1599.2,
-      "list_price": 1999.0,
+      "name": "Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257",
+      "price": 2879.2,
+      "list_price": 3599.0,
       "ean": null,
       "model": null,
       "brand": "XIAOMI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1175813560",
+        "productId": "1200266257",
         "marketplace": null
       }
     },
