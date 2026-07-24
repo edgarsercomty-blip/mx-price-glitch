@@ -1,4 +1,4 @@
-# Productos en vigilancia (419)
+# Productos en vigilancia (420)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -196,7 +196,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,880 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
-| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,378 | -29% |
+| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,376 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
@@ -423,3 +423,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | -24% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | -22% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3544Gv…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | -22% |
+| 🟢 disponible | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert Energ…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | -44% |
