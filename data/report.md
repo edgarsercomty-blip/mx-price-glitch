@@ -1,14 +1,14 @@
-# Errores/chollos de precio — 2026-07-24 03:46 UTC
+# Errores/chollos de precio — 2026-07-24 04:10 UTC
 
-- Productos revisados: **1692**
+- Productos revisados: **1669**
 - Umbral de diferencia: **20%**
-- Hallazgos: **57**
+- Hallazgos: **59**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -40% | $22,000 | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | Confirmado vs competencia | $32,999 en palacio vs mercado -> -40% bajo la competencia |
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
+| -56% | $13,000 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | Confirmado vs competencia | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | -30% | $11,970 | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | Confirmado vs competencia | $27,930 en palacio vs mercado -> -30% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | -26% | $10,556 | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | Confirmado vs competencia | $30,380 en palacio vs mercado -> -26% bajo la competencia |
@@ -44,6 +44,7 @@
 | -40% | $1,156 | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,733 | Confirmado vs competencia | $1,733 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,155 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | Confirmado vs competencia | $2,144 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $1,000 | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | Confirmado vs competencia | $2,999 en palacio vs mercado -> -25% bajo la competencia |
+| -49% | $972 | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | Confirmado vs competencia | $1,007 en liverpool vs mercado -> -49% bajo la competencia |
 | -40% | $956 | palacio | [Licuadora reversible color acero](https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html) | $1,433 | Confirmado vs competencia | $1,433 en palacio vs mercado -> -40% bajo la competencia |
 | -38% | $900 | palacio | [Licuadora Smart Power, 2 Velocidades](https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html) | $1,500 | Confirmado vs competencia | $1,500 en palacio vs mercado -> -38% bajo la competencia |
 | -30% | $900 | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | Confirmado vs competencia | $2,099 en palacio vs mercado -> -30% bajo la competencia |
@@ -60,6 +61,7 @@
 | -26% | $208 | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | Confirmado vs competencia | $591 en palacio vs mercado -> -26% bajo la competencia |
 | -56% | $186 | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $149 | Confirmado vs competencia | $149 en liverpool vs mercado -> -56% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
+| -35% | $157 | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | Confirmado vs competencia | $292 en palacio vs mercado -> -35% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $46 | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |

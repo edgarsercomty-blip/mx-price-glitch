@@ -1,4 +1,4 @@
-# Productos en vigilancia (413)
+# Productos en vigilancia (414)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -417,3 +417,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | -56% |

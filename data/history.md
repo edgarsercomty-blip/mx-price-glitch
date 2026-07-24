@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (470)
+# Historial de ofertas encontradas (471)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-24 04:10 | -56% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 04:02 | -35% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600) | $8,090 | $8,090 en walmart vs mercado -> -35% bajo la competencia |
 | 2026-07-01 20:18 | -20% | sams | [Pantalla Samsung  65" QLED Smart TV QN65Q8FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902) | $10,637 | $10,637 en sams vs mercado -> -20% bajo la competencia |
 | 2026-07-01 20:18 | -21% | amazon | [Skechers Go Run Consistent 2.0 Advantage - Tenis para M…](https://www.amazon.com.mx/dp/B0CCTBB4HD) | $1,079 | $1,079 en amazon vs mercado -> -21% bajo la competencia |
-| 2026-07-01 20:18 | -21% | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944) | $6,799 | $6,799 en walmart vs mercado -> -21% bajo la competencia |
