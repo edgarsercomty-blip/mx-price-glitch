@@ -1,4 +1,4 @@
-# Productos en vigilancia (414)
+# Productos en vigilancia (419)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -145,7 +145,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | -28% |
 | 🟢 disponible | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Multiusos](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | -24% |
 | 🟢 disponible | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bundle](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $14,790 | -22% |
-| 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $59,999 | -23% |
+| 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | -23% |
 | 🟢 disponible | amazon | [Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,…](https://www.amazon.com.mx/dp/B0GHYFZHYM) | $7,827 | -35% |
 | 🟢 disponible | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | -29% |
 | 🟢 disponible | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $794 | -25% |
@@ -200,14 +200,14 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
-| 🟢 disponible | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $7,904 | -24% |
+| 🟢 disponible | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $8,563 | -24% |
 | 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $12,494 | -24% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | -23% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $7,996 | -60% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | -36% |
 | 🟢 disponible | liverpool | [Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941) | $26,133 | -24% |
 | 🟢 disponible | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | -24% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $8,921 | -24% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,888 | -24% |
 | 🟢 disponible | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | -22% |
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | -20% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | -35% |
@@ -259,10 +259,10 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | -20% |
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,259 | -52% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,749 | -25% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $7,139 | -25% |
 | 🟢 disponible | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $12,599 | -22% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $10,499 | -22% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $9,750 | -29% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $12,643 | -22% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $11,050 | -29% |
 | 🟢 disponible | palacio | [Monitor de Sueño Index Sleep](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-sleep-44840621.html) | $2,699 | -25% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio 18000 Btu M…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-18000-btu-mmi18cdbwca32m2-220-v/1174006071) | $8,580 | -24% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99979195991) | $383 | -23% |
@@ -270,7 +270,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $8,399 | -27% |
 | 🟢 disponible | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $3,000 | -23% |
 | 🟢 disponible | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,449 | -49% |
-| 🟢 disponible | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $1,990 | -22% |
+| 🟢 disponible | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $1,950 | -22% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | -20% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $19,000 | -37% |
@@ -418,3 +418,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | -56% |
+| 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,985 | -28% |
+| 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $11,326 | -28% |
+| 🟢 disponible | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | -24% |
+| 🟢 disponible | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | -22% |
+| 🟢 disponible | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3544Gv…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | -22% |

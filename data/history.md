@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (471)
+# Historial de ofertas encontradas (476)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | $10,859 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-07-24 08:47 | -24% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | $8,122 en liverpool vs mercado -> -24% bajo la competencia |
+| 2026-07-24 08:47 | -28% | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $11,326 | $11,326 en liverpool vs mercado -> -28% bajo la competencia |
+| 2026-07-24 08:47 | -28% | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 …](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,985 | $11,985 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-24 04:10 | -56% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 04:02 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-02 04:02 | -21% | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | $3,375 en sams vs mercado -> -21% bajo la competencia |
 | 2026-07-02 04:02 | -21% | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300) | $6,799 | $6,799 en walmart vs mercado -> -21% bajo la competencia |
-| 2026-07-02 04:02 | -22% | walmart | [Refrigerador Inverter Midea Top Mount 9 Pies Negro Jazz…](https://www.walmart.com.mx/ip/refrigerador-inverter-midea-top-mount-9-pies-negro-jazz-black-mdrt346mtm28d/00695490382045?athbdg=L1300) | $6,990 | $6,990 en walmart vs amazon $8,999 -> -22% bajo la competencia |
-| 2026-07-02 04:02 | -23% | walmart | [LICUADORA PROFESIONAL NINJA BN700 4 VEL VASO 2.1 LT neg…](https://www.walmart.com.mx/ip/licuadora-profesional-ninja-bn700-4-vel-vaso-2-1-lt-negra/00820095550814) | $1,930 | $1,930 en walmart vs amazon $2,499 -> -23% bajo la competencia |
-| 2026-07-02 04:02 | -35% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600) | $8,090 | $8,090 en walmart vs mercado -> -35% bajo la competencia |
-| 2026-07-01 20:18 | -20% | sams | [Pantalla Samsung  65" QLED Smart TV QN65Q8FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-65-qled-smart-tv-qn65q8faafxzx/981053902) | $10,637 | $10,637 en sams vs mercado -> -20% bajo la competencia |
-| 2026-07-01 20:18 | -21% | amazon | [Skechers Go Run Consistent 2.0 Advantage - Tenis para M…](https://www.amazon.com.mx/dp/B0CCTBB4HD) | $1,079 | $1,079 en amazon vs mercado -> -21% bajo la competencia |

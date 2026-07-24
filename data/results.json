@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24 06:19 UTC",
-  "products_scanned": 1651,
+  "generated_at": "2026-07-24 08:47 UTC",
+  "products_scanned": 1580,
   "threshold_pct": 20.0,
-  "count": 59,
+  "count": 54,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "productId": "1171148278",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$19,795 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19795.0,
-      "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 19795.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
       }
     },
     {
@@ -169,48 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 687.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
-      "price": 1031.4,
-      "list_price": 1719.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
         "outlet": false
       }
     },
@@ -448,27 +385,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 615.65,
@@ -573,27 +489,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4624.75,
-      "store": "palacio",
-      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
-      "price": 9249.5,
-      "list_price": 18499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44064062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
       "likely_typo": false,
@@ -637,21 +532,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$23,449 en palacio vs mercado -> -30% bajo la competencia",
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 10049.7,
+      "savings": 599.7,
       "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html",
-      "price": 23449.3,
-      "list_price": 33499.0,
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Nutribullet",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45273247",
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -679,27 +574,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 11970.0,
@@ -715,48 +589,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45000828",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5397.0,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 12593.0,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.8,
-      "store": "palacio",
-      "name": "Maquina de cafe Espresso",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html",
-      "price": 5649.5,
-      "list_price": 11299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44587559",
         "outlet": false
       }
     },
@@ -804,6 +636,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.1,
+      "detail": "$11,985 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4734.24,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331",
+      "price": 11985.0,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": null,
+      "brand": "ASUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192640331",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$11,326 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4356.04,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia No Frost Rme360Fzmrp0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163",
+      "price": 11325.7,
+      "list_price": 20499.0,
+      "ean": null,
+      "model": "Rme360Fzmrp0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1105337163",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 26.0,
       "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -841,27 +715,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43520801",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$30,380 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10555.81,
-      "store": "palacio",
-      "name": "Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga Frontal WD26FB8690BEAX",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html",
-      "price": 30379.51,
-      "list_price": 61999.0,
-      "ean": null,
-      "model": "WD26FB8690BEAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44585698",
         "outlet": false
       }
     },
@@ -931,6 +784,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 337.25,
+      "store": "palacio",
+      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
+      "price": 1011.75,
+      "list_price": 1349.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1299.75,
@@ -946,27 +820,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45053113",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
-      "name": "Licuadora Ninja Dúo Twisti SS151, 5 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html",
-      "price": 2399.4,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": "SS151",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45397419",
         "outlet": false
       }
     },
@@ -989,6 +842,48 @@
       "extra": {
         "id": "44567926",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$7,479 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2419.78,
+      "store": "palacio",
+      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
+      "price": 7479.32,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Edge70",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45363417",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$8,122 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2491.34,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
+      "price": 8122.05,
+      "list_price": 18049.0,
+      "ean": null,
+      "model": "Wa20A3350Gw",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1106592728",
+        "marketplace": null
       }
     },
     {
@@ -1098,6 +993,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,079 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2771.84,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746Bvax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136",
+      "price": 10079.4,
+      "list_price": 16799.0,
+      "ean": null,
+      "model": "Wa19Cg6746Bvax",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164464136",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,859 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2986.34,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3544Gvax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673",
+      "price": 10859.4,
+      "list_price": 18099.0,
+      "ean": null,
+      "model": "Wa22C3544Gvax",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1148765673",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$2,879 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1177,48 +1114,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43295135",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2549.85,
-      "store": "palacio",
-      "name": "Máquina de café Espressería Automática Sensation Milk",
-      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
-      "price": 10199.4,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44911677",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.85,
-      "store": "palacio",
-      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
-      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44170253",
         "outlet": false
       }
     },
