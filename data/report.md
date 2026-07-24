@@ -1,12 +1,11 @@
-# Errores/chollos de precio — 2026-07-24 12:14 UTC
+# Errores/chollos de precio — 2026-07-24 14:14 UTC
 
-- Productos revisados: **1575**
+- Productos revisados: **1568**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **53**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -40% | $22,000 | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | Confirmado vs competencia | $32,999 en palacio vs mercado -> -40% bajo la competencia |
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
 | -30% | $11,970 | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | Confirmado vs competencia | $27,930 en palacio vs mercado -> -30% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
@@ -23,7 +22,6 @@
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
 | -22% | $2,772 | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | Confirmado vs competencia | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
 | -29% | $2,660 | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $6,650 | Confirmado vs competencia | $6,650 en palacio vs mercado -> -29% bajo la competencia |
-| -24% | $2,420 | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telce…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,479 | Confirmado vs competencia | $7,479 en palacio vs mercado -> -24% bajo la competencia |
 | -20% | $2,400 | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $2,260 | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $5,650 | Confirmado vs competencia | $5,650 en palacio vs mercado -> -29% bajo la competencia |
 | -22% | $2,200 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -22% bajo la competencia |
