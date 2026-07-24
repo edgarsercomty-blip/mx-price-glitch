@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (477)
+# Historial de ofertas encontradas (478)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-24 21:57 | -22% | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-24 10:54 | -44% | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | $9,839 en liverpool vs mercado -> -44% bajo la competencia |
 | 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | $10,859 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:03 | -38% | palacio | [Combo Lavadora 21 kg y Secadora 22 kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html) | $16,739 | $16,739 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-02 09:03 | -41% | palacio | [Lavadora Automática, 21 Kg, Carga Superior LMA71214VBAB…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-21-kg-carga-superior-lma71214vbab0-44621890.html) | $8,820 | $8,820 en palacio vs amazon $18,333 -> -41% bajo la competencia |
 | 2026-07-02 04:02 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699?athbdg=L1300) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
-| 2026-07-02 04:02 | -21% | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | $3,375 en sams vs mercado -> -21% bajo la competencia |
