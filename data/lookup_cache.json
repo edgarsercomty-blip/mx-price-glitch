@@ -300,15 +300,15 @@
     "items": []
   },
   "amazon|55QNED81BSC": {
-    "ts": "2026-07-22T20:11:54.744293+00:00",
+    "ts": "2026-07-24T20:41:51.331337+00:00",
     "items": []
   },
   "walmart|55QNED81BSC": {
-    "ts": "2026-07-22T20:11:56.397218+00:00",
+    "ts": "2026-07-24T20:41:53.715999+00:00",
     "items": []
   },
   "sams|55QNED81BSC": {
-    "ts": "2026-07-22T20:11:58.691815+00:00",
+    "ts": "2026-07-24T20:41:56.350856+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
@@ -1268,30 +1268,6 @@
   },
   "mercadolibre|ARU122VQW": {
     "ts": "2026-07-24T16:36:02.404301+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-22T20:12:01.608080+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-22T20:12:03.146569+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-22T20:12:07.374512+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-22T20:12:09.417187+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-22T20:12:11.616225+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-07-22T20:12:15.306243+00:00",
     "items": []
   },
   "amazon|BVSTEM6801R": {
@@ -3104,6 +3080,18 @@
   },
   "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
     "ts": "2026-07-24T19:03:10.508984+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROGOTEOPANEL": {
+    "ts": "2026-07-24T20:41:58.152931+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROGOTEOPANEL": {
+    "ts": "2026-07-24T20:41:59.683940+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROGOTEOPANEL": {
+    "ts": "2026-07-24T20:42:02.222565+00:00",
     "items": []
   }
 }
