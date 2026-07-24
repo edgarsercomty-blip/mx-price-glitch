@@ -35,18 +35,6 @@
     "ts": "2026-07-24T12:14:15.145699+00:00",
     "items": []
   },
-  "amazon|FC0240LA": {
-    "ts": "2026-07-22T22:38:01.953865+00:00",
-    "items": []
-  },
-  "walmart|FC0240LA": {
-    "ts": "2026-07-22T22:38:03.314200+00:00",
-    "items": []
-  },
-  "sams|FC0240LA": {
-    "ts": "2026-07-22T22:38:05.494819+00:00",
-    "items": []
-  },
   "amazon|SS151": {
     "ts": "2026-07-23T11:29:37.441280+00:00",
     "items": []
@@ -1268,42 +1256,6 @@
   },
   "mercadolibre|ARU122VQW": {
     "ts": "2026-07-24T16:36:02.404301+00:00",
-    "items": []
-  },
-  "amazon|XIAOMIXIAOMIREDMILCD": {
-    "ts": "2026-07-22T22:38:06.602943+00:00",
-    "items": []
-  },
-  "walmart|XIAOMIXIAOMIREDMILCD": {
-    "ts": "2026-07-22T22:38:07.974171+00:00",
-    "items": []
-  },
-  "sams|XIAOMIXIAOMIREDMILCD": {
-    "ts": "2026-07-22T22:38:09.732570+00:00",
-    "items": []
-  },
-  "amazon|GARMINFORERUNNERSMARTWATCHGARMIN165": {
-    "ts": "2026-07-22T22:38:11.359216+00:00",
-    "items": []
-  },
-  "walmart|GARMINFORERUNNERSMARTWATCHGARMIN165": {
-    "ts": "2026-07-22T22:38:13.073824+00:00",
-    "items": []
-  },
-  "sams|GARMINFORERUNNERSMARTWATCHGARMIN165": {
-    "ts": "2026-07-22T22:38:14.601961+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-22T22:38:15.751329+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-22T22:38:17.034206+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROPANELTOUCH": {
-    "ts": "2026-07-22T22:38:18.451019+00:00",
     "items": []
   },
   "amazon|WESTELMMARIPOSACOJINFUNDA": {
@@ -3068,6 +3020,18 @@
   },
   "sams|OSTERCAFETERATAZASTOUCHGOTEO": {
     "ts": "2026-07-24T21:57:09.863033+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-07-24T22:57:01.899003+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-07-24T22:57:05.036971+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-07-24T22:57:11.213974+00:00",
     "items": []
   }
 }
