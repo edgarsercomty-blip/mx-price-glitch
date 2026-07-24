@@ -288,27 +288,15 @@
     "items": []
   },
   "amazon|BVSTDC12B": {
-    "ts": "2026-07-22T17:43:17.959447+00:00",
+    "ts": "2026-07-24T19:02:57.293136+00:00",
     "items": []
   },
   "walmart|BVSTDC12B": {
-    "ts": "2026-07-22T17:43:25.019048+00:00",
+    "ts": "2026-07-24T19:02:58.738926+00:00",
     "items": []
   },
   "sams|BVSTDC12B": {
-    "ts": "2026-07-22T17:43:28.388041+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-22T17:43:45.868961+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-22T17:43:47.918444+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCARGACABLETIPO": {
-    "ts": "2026-07-22T17:43:50.925548+00:00",
+    "ts": "2026-07-24T19:03:00.615329+00:00",
     "items": []
   },
   "amazon|55QNED81BSC": {
@@ -1280,102 +1268,6 @@
   },
   "mercadolibre|ARU122VQW": {
     "ts": "2026-07-24T16:36:02.404301+00:00",
-    "items": []
-  },
-  "amazon|CO905KS": {
-    "ts": "2026-07-22T17:42:51.414228+00:00",
-    "items": []
-  },
-  "walmart|CO905KS": {
-    "ts": "2026-07-22T17:42:56.512494+00:00",
-    "items": []
-  },
-  "sams|CO905KS": {
-    "ts": "2026-07-22T17:42:58.723389+00:00",
-    "items": []
-  },
-  "amazon|CCO905KS": {
-    "ts": "2026-07-22T17:43:00.712868+00:00",
-    "items": []
-  },
-  "walmart|CCO905KS": {
-    "ts": "2026-07-22T17:43:04.775801+00:00",
-    "items": []
-  },
-  "sams|CCO905KS": {
-    "ts": "2026-07-22T17:43:12.979495+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORGOLDSOFT": {
-    "ts": "2026-07-22T17:43:31.765460+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORGOLDSOFT": {
-    "ts": "2026-07-22T17:43:39.674626+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORGOLDSOFT": {
-    "ts": "2026-07-22T17:43:44.611178+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-22T17:43:52.444045+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-22T17:44:00.079570+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROGOTEOTOUCH": {
-    "ts": "2026-07-22T17:44:01.602281+00:00",
-    "items": []
-  },
-  "amazon|DQ6011DX": {
-    "ts": "2026-07-22T18:59:02.018777+00:00",
-    "items": []
-  },
-  "walmart|DQ6011DX": {
-    "ts": "2026-07-22T18:59:04.205477+00:00",
-    "items": []
-  },
-  "sams|DQ6011DX": {
-    "ts": "2026-07-22T18:59:06.744281+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORROSEGOLD": {
-    "ts": "2026-07-22T18:59:07.980847+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORROSEGOLD": {
-    "ts": "2026-07-22T18:59:09.483662+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORROSEGOLD": {
-    "ts": "2026-07-22T18:59:11.697375+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-22T18:59:12.999885+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-22T18:59:14.662353+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCABLECARGATIPO": {
-    "ts": "2026-07-22T18:59:16.360424+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-07-22T18:59:17.776828+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-07-22T18:59:19.798962+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-07-22T18:59:21.899822+00:00",
     "items": []
   },
   "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
@@ -3188,6 +3080,30 @@
   },
   "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
     "ts": "2026-07-24T17:21:01.384557+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAMILANWATCHAPPLE": {
+    "ts": "2026-07-24T19:03:01.749622+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAMILANWATCHAPPLE": {
+    "ts": "2026-07-24T19:03:03.012827+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAMILANWATCHAPPLE": {
+    "ts": "2026-07-24T19:03:06.488428+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-07-24T19:03:07.651443+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-07-24T19:03:08.992364+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-07-24T19:03:10.508984+00:00",
     "items": []
   }
 }
