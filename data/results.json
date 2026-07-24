@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24 14:14 UTC",
-  "products_scanned": 1568,
+  "generated_at": "2026-07-24 15:45 UTC",
+  "products_scanned": 1630,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,6 +69,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$19,795 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 19795.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.4,
       "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
       "likely_typo": false,
@@ -111,27 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,839 en liverpool vs mercado -> -44% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7859.6,
-      "store": "liverpool",
-      "name": "Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert Energy Saver Wt1143K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924",
-      "price": 9839.4,
-      "list_price": 16399.0,
-      "ean": null,
-      "model": "Wt1143K",
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1119021924",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$23,276 en palacio vs mercado -> -42% bajo la competencia",
       "likely_typo": false,
@@ -148,6 +169,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45040173",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 687.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPEG-NPB de 6 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html",
+      "price": 1031.4,
+      "list_price": 1719.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -175,21 +238,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1155.6,
+      "savings": 955.6,
       "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216480",
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -301,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 157.15,
-      "store": "palacio",
-      "name": "Funda para Celular Galaxy A36, Verde Claro",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
-      "price": 291.85,
-      "list_price": 449.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44563904",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 2099.65,
@@ -400,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -574,6 +637,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$23,449 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10049.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html",
+      "price": 23449.3,
+      "list_price": 33499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273247",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -636,43 +720,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,650 en palacio vs mercado -> -29% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 2259.8,
+      "savings": 5397.0,
       "store": "palacio",
-      "name": "Maquina de cafe Espresso",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html",
-      "price": 5649.5,
-      "list_price": 11299.0,
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 12593.0,
+      "list_price": 17990.0,
       "ean": null,
       "model": null,
-      "brand": "Chefman",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44587559",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$6,650 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2659.8,
-      "store": "palacio",
-      "name": "Máquina de Café Espresso Crema",
-      "url": "https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html",
-      "price": 6649.5,
-      "list_price": 13299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Chefman",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44964885",
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -695,27 +758,6 @@
       "extra": {
         "id": "44519347",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.1,
-      "detail": "$11,985 en liverpool vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4734.24,
-      "store": "liverpool",
-      "name": "Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331",
-      "price": 11985.0,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "ASUS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1192640331",
-        "marketplace": null
       }
     },
     {
@@ -783,27 +825,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$879 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 299.8,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921",
-      "price": 879.2,
-      "list_price": 1099.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167053921",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -825,22 +846,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 337.25,
+      "savings": 799.8,
       "store": "palacio",
-      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
-      "price": 1011.75,
-      "list_price": 1349.0,
+      "name": "Licuadora Ninja Dúo Twisti SS151, 5 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html",
+      "price": 2399.4,
+      "list_price": 3999.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "SS151",
+      "brand": "NINJA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45272481",
+        "id": "45397419",
         "outlet": false
       }
     },
@@ -1072,6 +1093,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43295135",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2549.85,
+      "store": "palacio",
+      "name": "Máquina de café Espressería Automática Sensation Milk",
+      "url": "https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html",
+      "price": 10199.4,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44911677",
         "outlet": false
       }
     },
