@@ -287,30 +287,6 @@
     "ts": "2026-07-24T15:45:39.214423+00:00",
     "items": []
   },
-  "amazon|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-22T16:05:54.250888+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-22T16:05:56.594316+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-22T16:05:59.201542+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-22T16:06:00.810068+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-22T16:06:02.343928+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYCLAROFUNDA": {
-    "ts": "2026-07-22T16:06:04.158799+00:00",
-    "items": []
-  },
   "amazon|BVSTDC12B": {
     "ts": "2026-07-22T17:43:17.959447+00:00",
     "items": []
@@ -1181,76 +1157,28 @@
     "ts": "2026-07-23T19:59:39.860318+00:00",
     "items": []
   },
-  "amazon|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-07-22T16:05:25.179804+00:00",
-    "items": []
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-07-22T16:05:27.208531+00:00",
-    "items": []
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-07-22T16:05:33.454591+00:00",
-    "items": []
-  },
-  "amazon|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-07-22T16:05:36.597381+00:00",
-    "items": []
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-07-22T16:05:39.394003+00:00",
-    "items": []
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-07-22T16:05:44.803709+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORSOFTDUST": {
-    "ts": "2026-07-22T16:05:48.700733+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORSOFTDUST": {
-    "ts": "2026-07-22T16:05:50.646953+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORSOFTDUST": {
-    "ts": "2026-07-22T16:05:52.625136+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-07-22T16:06:06.144834+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-07-22T16:06:08.173585+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-07-22T16:06:10.156017+00:00",
-    "items": []
-  },
   "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-07-22T16:17:24.465146+00:00",
+    "ts": "2026-07-24T16:35:26.945975+00:00",
     "items": []
   },
   "amazon|UN98DU9000FXZX": {
-    "ts": "2026-07-22T16:17:25.982539+00:00",
+    "ts": "2026-07-24T16:35:28.098927+00:00",
     "items": []
   },
   "walmart|UN98DU9000FXZX": {
-    "ts": "2026-07-22T16:17:27.569902+00:00",
+    "ts": "2026-07-24T16:35:29.587139+00:00",
     "items": []
   },
   "sams|UN98DU9000FXZX": {
-    "ts": "2026-07-22T16:17:29.504125+00:00",
+    "ts": "2026-07-24T16:35:32.440892+00:00",
     "items": []
   },
   "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-07-22T16:17:31.632411+00:00",
+    "ts": "2026-07-24T16:35:34.353313+00:00",
     "items": []
   },
   "palacio|ARU122VQW": {
-    "ts": "2026-07-22T16:17:36.326038+00:00",
+    "ts": "2026-07-24T16:35:47.301363+00:00",
     "items": [
       {
         "store": "palacio",
@@ -1261,10 +1189,24 @@
       },
       {
         "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8699.25,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
         "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
         "price": 9999.5,
         "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
+        "price": 9619.48,
+        "model": "LP1225WC"
       },
       {
         "store": "palacio",
@@ -1275,17 +1217,17 @@
       },
       {
         "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
+        "price": 15599.4,
+        "model": "VR122HD"
+      },
+      {
+        "store": "palacio",
         "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
         "price": 12749.5,
         "model": "VM182C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
-        "price": 22799.4,
-        "model": "VR242CW"
       },
       {
         "store": "palacio",
@@ -1303,31 +1245,10 @@
       },
       {
         "store": "palacio",
-        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
-        "price": 8699.25,
-        "model": "AP12CWN2"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Artcool Gallery 12000 BTUs VG122HD 220 V Frio - Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-artcool-gallery-12000-btus-vg122hd-220-v-frio---calor-44548112.html",
-        "price": 27949.35,
-        "model": "VG122HD"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
-        "price": 15599.4,
-        "model": "VR122HD"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter VA121C5 12,000 BTU's 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-va121c5-12000-btus-110-v-frio-45450539.html",
-        "price": 12599.4,
-        "model": "VA121C5"
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
+        "price": 22799.4,
+        "model": "VR242CW"
       },
       {
         "store": "palacio",
@@ -1335,59 +1256,30 @@
         "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-vm242c10-24000-btus-220-v-frio-45441436.html",
         "price": 19499.35,
         "model": "VM242C10"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter VA121C5 12,000 BTU's 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-va121c5-12000-btus-110-v-frio-45450539.html",
+        "price": 12599.4,
+        "model": "VA121C5"
       }
     ]
   },
   "amazon|ARU122VQW": {
-    "ts": "2026-07-22T16:17:37.640702+00:00",
+    "ts": "2026-07-24T16:35:48.435351+00:00",
     "items": []
   },
   "walmart|ARU122VQW": {
-    "ts": "2026-07-22T16:17:39.353372+00:00",
+    "ts": "2026-07-24T16:35:50.142443+00:00",
     "items": []
   },
   "sams|ARU122VQW": {
-    "ts": "2026-07-22T16:17:40.982918+00:00",
+    "ts": "2026-07-24T16:35:54.046377+00:00",
     "items": []
   },
   "mercadolibre|ARU122VQW": {
-    "ts": "2026-07-22T16:17:42.360304+00:00",
-    "items": []
-  },
-  "amazon|VIVOTELCELVIVOY19SLCD": {
-    "ts": "2026-07-22T16:17:54.523070+00:00",
-    "items": []
-  },
-  "walmart|VIVOTELCELVIVOY19SLCD": {
-    "ts": "2026-07-22T16:17:56.360991+00:00",
-    "items": []
-  },
-  "sams|VIVOTELCELVIVOY19SLCD": {
-    "ts": "2026-07-22T16:17:58.590810+00:00",
-    "items": []
-  },
-  "amazon|GARMINDEPORTIVOMONITORVENUGOLD": {
-    "ts": "2026-07-22T16:17:59.889386+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORVENUGOLD": {
-    "ts": "2026-07-22T16:18:01.505981+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORVENUGOLD": {
-    "ts": "2026-07-22T16:18:03.674203+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARMOTOEDGE": {
-    "ts": "2026-07-22T16:18:05.606942+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARMOTOEDGE": {
-    "ts": "2026-07-22T16:18:08.618991+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARMOTOEDGE": {
-    "ts": "2026-07-22T16:18:11.689182+00:00",
+    "ts": "2026-07-24T16:36:02.404301+00:00",
     "items": []
   },
   "amazon|CO905KS": {
@@ -3135,6 +3027,155 @@
   },
   "sams|OSTERCAFETERATOUCHTAZASPANEL": {
     "ts": "2026-07-24T15:45:49.212660+00:00",
+    "items": []
+  },
+  "palacio|SP4PLUS": {
+    "ts": "2026-07-24T16:35:36.918780+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+        "price": 10751.58,
+        "model": "75Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana QLED 4K 55Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-55q6k-44579096.html",
+        "price": 7331.48,
+        "model": "55Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana Neo QLED 4K QN43QN90FAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-neo-qled-4k-qn43qn90fafxzx-44630927.html",
+        "price": 16027.44,
+        "model": "QN43QN90FAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html",
+        "price": 29999.2,
+        "model": "QN90F"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QD-Mini LED 4K 75QM7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qd-mini-led-4k-75qm7k-44576238.html",
+        "price": 25013.34,
+        "model": "75QM7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana QLED 4K 43Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-43-pulgadas-plana-qled-4k-43q6k-44580109.html",
+        "price": 5884.45,
+        "model": "43Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 115 pulgadas Plana LED 4K AiPQ Pro Quad Core 115QM891G",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-115-pulgadas-plana-led-4k-aipq-pro-quad-core-115qm891g-44576116.html",
+        "price": 262183.48,
+        "model": "115QM891G"
+      },
+      {
+        "store": "palacio",
+        "name": "Tech Deck 4 Patinetas The Simpsons",
+        "url": "https://www.elpalaciodehierro.com/spin-master-tech-deck-4-patinetas-the-simpsons-45244088.html",
+        "price": 379.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas plana True RGB 4K BRAVIA 9 II K-85XR90M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-85-pulgadas-plana-true-rgb-4k-bravia-9-ii-k-85xr90m2-45588137.html",
+        "price": 68039.37,
+        "model": "K-85XR90M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas plana True RGB 4K BRAVIA 7 II K-85XR70M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-85-pulgadas-plana-true-rgb-4k-bravia-7-ii-k-85xr70m2-45588139.html",
+        "price": 47879.37,
+        "model": "K-85XR70M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 48 Pulgadas Plana OLED S90FA",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-48-pulgadas-plana-oled-s90fa-44629409.html",
+        "price": 17599.12,
+        "model": "S90FA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
+        "price": 19999.0,
+        "model": "QN90F"
+      }
+    ]
+  },
+  "amazon|SP4PLUS": {
+    "ts": "2026-07-24T16:35:38.453290+00:00",
+    "items": []
+  },
+  "walmart|SP4PLUS": {
+    "ts": "2026-07-24T16:35:40.534942+00:00",
+    "items": []
+  },
+  "sams|SP4PLUS": {
+    "ts": "2026-07-24T16:35:42.936031+00:00",
+    "items": []
+  },
+  "mercadolibre|SP4PLUS": {
+    "ts": "2026-07-24T16:35:45.787108+00:00",
+    "items": []
+  },
+  "liverpool|98QM8K": {
+    "ts": "2026-07-24T16:36:32.073573+00:00",
+    "items": []
+  },
+  "amazon|98QM8K": {
+    "ts": "2026-07-24T16:36:33.511948+00:00",
+    "items": []
+  },
+  "walmart|98QM8K": {
+    "ts": "2026-07-24T16:36:35.993695+00:00",
+    "items": []
+  },
+  "sams|98QM8K": {
+    "ts": "2026-07-24T16:36:37.477893+00:00",
+    "items": []
+  },
+  "mercadolibre|98QM8K": {
+    "ts": "2026-07-24T16:36:38.858499+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAWATCHMILANRELOJ": {
+    "ts": "2026-07-24T16:36:40.739592+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAWATCHMILANRELOJ": {
+    "ts": "2026-07-24T16:36:43.672798+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAWATCHMILANRELOJ": {
+    "ts": "2026-07-24T16:36:45.024321+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-24T16:36:46.831266+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-24T16:36:49.070155+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELACEROTAZAS": {
+    "ts": "2026-07-24T16:36:50.798512+00:00",
     "items": []
   }
 }
