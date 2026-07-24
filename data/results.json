@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24 10:54 UTC",
-  "products_scanned": 1586,
+  "generated_at": "2026-07-24 12:14 UTC",
+  "products_scanned": 1575,
   "threshold_pct": 20.0,
-  "count": 54,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -49,21 +49,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "detail": "$1,259 en liverpool vs mercado -> -52% bajo la competencia",
       "likely_typo": false,
-      "savings": 972.0,
+      "savings": 1365.6,
       "store": "liverpool",
-      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
-      "price": 1007.4,
-      "list_price": 1679.0,
+      "name": "Licuadora Oster Blstpegcrt 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092",
+      "price": 1259.4,
+      "list_price": 2099.0,
       "ean": null,
       "model": null,
-      "brand": "TV OFERTAS",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1158548573",
+        "productId": "1133854092",
         "marketplace": null
       }
     },
@@ -148,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45040173",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 21999.6,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638189",
         "outlet": false
       }
     },
@@ -406,27 +427,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 615.65,
-      "store": "palacio",
-      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
-      "price": 1143.35,
-      "list_price": 1759.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1679.65,
@@ -442,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 615.65,
+      "store": "palacio",
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1143.35,
+      "list_price": 1759.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926488",
         "outlet": false
       }
     },
