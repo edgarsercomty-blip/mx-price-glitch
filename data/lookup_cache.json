@@ -1266,42 +1266,6 @@
     "ts": "2026-07-23T19:59:39.860318+00:00",
     "items": []
   },
-  "amazon|AH121CK": {
-    "ts": "2026-07-22T01:47:48.246529+00:00",
-    "items": []
-  },
-  "walmart|AH121CK": {
-    "ts": "2026-07-22T01:47:57.043700+00:00",
-    "items": []
-  },
-  "sams|AH121CK": {
-    "ts": "2026-07-22T01:47:58.972425+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-22T01:48:00.455689+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-22T01:48:02.629777+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-22T01:48:04.847840+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-07-22T01:48:11.149525+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-07-22T01:48:12.649204+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-07-22T01:48:15.778073+00:00",
-    "items": []
-  },
   "palacio|SP4PLUS": {
     "ts": "2026-07-22T04:13:23.755648+00:00",
     "items": [
@@ -3280,6 +3244,18 @@
   },
   "sams|OSTERCAFETERATOUCHGOTEOACERO": {
     "ts": "2026-07-24T00:12:26.853946+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-24T03:46:25.520643+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-24T03:46:29.730043+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-24T03:46:31.581147+00:00",
     "items": []
   }
 }
