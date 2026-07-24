@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24 22:57 UTC",
-  "products_scanned": 1645,
+  "generated_at": "2026-07-24 23:58 UTC",
+  "products_scanned": 1653,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1158548573",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.4,
+      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9500.5,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162",
+      "price": 10499.0,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": "55Qned81Bsc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200279162",
         "marketplace": null
       }
     },
