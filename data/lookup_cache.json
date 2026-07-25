@@ -1,16 +1,4 @@
 {
-  "amazon|WD26FB8690BEAX": {
-    "ts": "2026-07-23T07:13:19.185368+00:00",
-    "items": []
-  },
-  "walmart|WD26FB8690BEAX": {
-    "ts": "2026-07-23T07:13:21.978968+00:00",
-    "items": []
-  },
-  "sams|WD26FB8690BEAX": {
-    "ts": "2026-07-23T07:13:23.775110+00:00",
-    "items": []
-  },
   "amazon|ECF02": {
     "ts": "2026-07-24T12:13:54.605264+00:00",
     "items": []
@@ -312,15 +300,15 @@
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-23T07:13:43.780206+00:00",
+    "ts": "2026-07-25T07:35:10.680316+00:00",
     "items": []
   },
   "walmart|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-23T07:13:53.098866+00:00",
+    "ts": "2026-07-25T07:35:12.389957+00:00",
     "items": []
   },
   "sams|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
-    "ts": "2026-07-23T07:13:54.693339+00:00",
+    "ts": "2026-07-25T07:35:14.580747+00:00",
     "items": []
   },
   "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
@@ -1295,39 +1283,15 @@
     "items": []
   },
   "amazon|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-07-23T07:13:26.825851+00:00",
+    "ts": "2026-07-25T07:35:00.327963+00:00",
     "items": []
   },
   "walmart|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-07-23T07:13:35.684004+00:00",
+    "ts": "2026-07-25T07:35:02.058059+00:00",
     "items": []
   },
   "sams|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-07-23T07:13:37.271644+00:00",
-    "items": []
-  },
-  "amazon|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
-    "ts": "2026-07-23T07:13:38.538199+00:00",
-    "items": []
-  },
-  "walmart|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
-    "ts": "2026-07-23T07:13:40.103534+00:00",
-    "items": []
-  },
-  "sams|TVOFERTASTELESCOPICONATURALESOFERTASCEPILLO": {
-    "ts": "2026-07-23T07:13:41.757469+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-23T07:13:56.065676+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-23T07:13:57.544553+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-23T07:13:59.491991+00:00",
+    "ts": "2026-07-25T07:35:05.662741+00:00",
     "items": []
   },
   "amazon|TVOFERTASTELESCOPICONATURALESCEPILLOOFERTAS": {
@@ -2892,6 +2856,18 @@
   },
   "sams|OSTERCAFETERAPANELTOUCHACERO": {
     "ts": "2026-07-25T05:30:58.776395+00:00",
+    "items": []
+  },
+  "amazon|LGPANTALLAPLANASMART2025": {
+    "ts": "2026-07-25T07:35:15.932984+00:00",
+    "items": []
+  },
+  "walmart|LGPANTALLAPLANASMART2025": {
+    "ts": "2026-07-25T07:35:17.580592+00:00",
+    "items": []
+  },
+  "sams|LGPANTALLAPLANASMART2025": {
+    "ts": "2026-07-25T07:35:19.612261+00:00",
     "items": []
   }
 }

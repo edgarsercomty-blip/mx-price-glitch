@@ -1,11 +1,12 @@
-# Errores/chollos de precio — 2026-07-25 05:30 UTC
+# Errores/chollos de precio — 2026-07-25 07:35 UTC
 
-- Productos revisados: **1659**
+- Productos revisados: **1631**
 - Umbral de diferencia: **20%**
-- Hallazgos: **54**
+- Hallazgos: **55**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -40% | $22,000 | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | Confirmado vs competencia | $32,999 en palacio vs mercado -> -40% bajo la competencia |
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
