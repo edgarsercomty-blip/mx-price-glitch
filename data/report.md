@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-25 09:21 UTC
+# Errores/chollos de precio — 2026-07-25 10:48 UTC
 
-- Productos revisados: **1546**
+- Productos revisados: **1569**
 - Umbral de diferencia: **20%**
-- Hallazgos: **49**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -12,14 +12,11 @@
 | -20% | $10,772 | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | Confirmado vs competencia | $43,086 en palacio vs mercado -> -20% bajo la competencia |
 | -48% | $9,500 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
-| -21% | $8,250 | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | Confirmado vs competencia | $30,249 en palacio vs mercado -> -21% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | -30% | $6,000 | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | Confirmado vs competencia | $13,999 en liverpool vs mercado -> -30% bajo la competencia |
 | -30% | $5,397 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $12,593 | Confirmado vs competencia | $12,593 en palacio vs mercado -> -30% bajo la competencia |
-| -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $4,500 | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
-| -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
 | -22% | $2,772 | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | Confirmado vs competencia | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $2,400 | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -20% bajo la competencia |
@@ -30,7 +27,6 @@
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $1,300 | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $1,200 | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -24% bajo la competencia |
@@ -48,7 +44,6 @@
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
-| -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -26% | $208 | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | Confirmado vs competencia | $591 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | -35% | $157 | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | Confirmado vs competencia | $292 en palacio vs mercado -> -35% bajo la competencia |
