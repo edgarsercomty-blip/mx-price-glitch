@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25 18:54 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-07-25 20:07 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 56,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -721,21 +721,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 207.74,
+      "savings": 103.74,
       "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "price": 295.26,
+      "list_price": 399.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44815304",
+        "id": "43520802",
         "outlet": false
       }
     },
@@ -779,69 +779,6 @@
       "extra": {
         "productId": "1153472749",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$13,020 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4339.86,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html",
-      "price": 13019.58,
-      "list_price": 30999.0,
-      "ean": null,
-      "model": "QNED82",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44777572",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.75,
-      "store": "palacio",
-      "name": "Funda con teclado iPad Pro 11\"",
-      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Logitech",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45053113",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 337.25,
-      "store": "palacio",
-      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
-      "price": 1011.75,
-      "list_price": 1349.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45272481",
-        "outlet": false
       }
     },
     {
