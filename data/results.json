@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 14:42 UTC",
-  "products_scanned": 1647,
+  "generated_at": "2026-07-25 15:58 UTC",
+  "products_scanned": 1657,
   "threshold_pct": 20.0,
   "count": 55,
   "findings": [
@@ -490,48 +490,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021105",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -568,6 +526,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
