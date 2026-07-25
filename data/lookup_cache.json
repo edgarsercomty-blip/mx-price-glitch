@@ -748,66 +748,6 @@
     "ts": "2026-07-25T20:07:01.339414+00:00",
     "items": []
   },
-  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-07-23T21:04:49.982793+00:00",
-    "items": []
-  },
-  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-07-23T21:04:52.032670+00:00",
-    "items": []
-  },
-  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-07-23T21:04:53.876268+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-23T21:04:54.996412+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-23T21:04:56.328400+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-23T21:04:57.812413+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-07-23T21:04:58.929615+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-07-23T21:05:00.624568+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-07-23T21:05:04.984455+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-23T21:05:06.189149+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-23T21:05:07.590877+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-07-23T21:05:09.161605+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-23T21:05:10.420035+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-23T21:05:12.713560+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-23T21:05:14.595487+00:00",
-    "items": []
-  },
   "amazon|MOBOCORREAMILANAPPLERELOJ": {
     "ts": "2026-07-23T22:16:37.734474+00:00",
     "items": []
@@ -2182,6 +2122,18 @@
   },
   "sams|OSTERCAFETERATAZASACEROGOTEO": {
     "ts": "2026-07-25T20:07:15.071771+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTAZASPANEL": {
+    "ts": "2026-07-25T21:10:20.138527+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOTAZASPANEL": {
+    "ts": "2026-07-25T21:10:22.172456+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOTAZASPANEL": {
+    "ts": "2026-07-25T21:10:23.822120+00:00",
     "items": []
   }
 }

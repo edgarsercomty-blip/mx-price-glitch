@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25 20:07 UTC",
-  "products_scanned": 1632,
+  "generated_at": "2026-07-25 21:10 UTC",
+  "products_scanned": 1647,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -721,21 +721,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 103.74,
+      "savings": 207.74,
       "store": "palacio",
-      "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
-      "price": 295.26,
-      "list_price": 399.0,
+      "name": "Funda para celular Galaxy Z Flip 7, Navy",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
+      "price": 591.26,
+      "list_price": 799.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520802",
+        "id": "44815304",
         "outlet": false
       }
     },
@@ -779,6 +779,48 @@
       "extra": {
         "productId": "1153472749",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Funda con teclado iPad Pro 11\"",
+      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Logitech",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45053113",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,012 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 337.25,
+      "store": "palacio",
+      "name": "Funda Magnética Resistente para Galaxy S26 Ultra",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html",
+      "price": 1011.75,
+      "list_price": 1349.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45272481",
+        "outlet": false
       }
     },
     {
