@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (480)
+# Historial de ofertas encontradas (481)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-25 22:12 | -21% | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automat…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | $38,542 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-25 09:21 | -20% | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | $43,086 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-25 09:21 | -21% | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | $30,249 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-24 21:57 | -22% | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | $749 en liverpool vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:03 | -33% | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html) | $22,714 | $22,714 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-07-02 09:03 | -38% | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964253.html) | $9,585 | $9,585 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-02 09:03 | -38% | palacio | [Lavadora automática 19 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-19-kg-carga-superior-44964252.html) | $7,830 | $7,830 en palacio vs mercado -> -38% bajo la competencia |
-| 2026-07-02 09:03 | -38% | palacio | [Combo Lavadora 21 kg y Secadora 22 kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html) | $16,739 | $16,739 en palacio vs mercado -> -38% bajo la competencia |

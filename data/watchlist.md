@@ -1,4 +1,4 @@
-# Productos en vigilancia (424)
+# Productos en vigilancia (425)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -428,3 +428,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092) | $1,259 | -40% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | -21% |
 | 🟢 disponible | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | -20% |
+| 🟢 disponible | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | -21% |
