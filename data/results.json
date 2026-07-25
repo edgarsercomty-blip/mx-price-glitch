@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 02:34 UTC",
-  "products_scanned": 1655,
+  "generated_at": "2026-07-25 03:59 UTC",
+  "products_scanned": 1651,
   "threshold_pct": 20.0,
   "count": 56,
   "findings": [
@@ -27,43 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$149 en liverpool vs mercado -> -56% bajo la competencia",
+      "discount_pct": 61.5,
+      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
       "likely_typo": false,
-      "savings": 185.6,
+      "savings": 13000.0,
       "store": "liverpool",
-      "name": "Funda Cojin Mariposa",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278",
-      "price": 149.0,
-      "list_price": 298.0,
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+      "price": 9999.0,
+      "list_price": 25999.0,
       "ean": null,
-      "model": null,
-      "brand": "WEST ELM",
+      "model": "55Qned83Asg",
+      "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1171148278",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,259 en liverpool vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1365.6,
-      "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
-      "price": 1259.4,
-      "list_price": 2099.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854092",
+        "productId": "1183858552",
         "marketplace": null
       }
     },
@@ -86,6 +65,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
       }
     },
     {
@@ -149,6 +149,27 @@
       "extra": {
         "id": "45040173",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,259 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 840.22,
+      "store": "liverpool",
+      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
+      "price": 1259.4,
+      "list_price": 2099.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133854092",
+        "marketplace": null
       }
     },
     {
@@ -275,6 +296,27 @@
       "extra": {
         "id": "43394653",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$149 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 92.8,
+      "store": "liverpool",
+      "name": "Funda Cojin Mariposa",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278",
+      "price": 149.0,
+      "list_price": 298.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1171148278",
+        "marketplace": null
       }
     },
     {
@@ -573,27 +615,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,599 en palacio vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3079.72,
-      "store": "palacio",
-      "name": "Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html",
-      "price": 6599.4,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345503",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$13,999 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -611,27 +632,6 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$23,449 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10049.7,
-      "store": "palacio",
-      "name": "Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html",
-      "price": 23449.3,
-      "list_price": 33499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273247",
-        "outlet": false
       }
     },
     {
@@ -673,27 +673,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11970.0,
-      "store": "palacio",
-      "name": "Cafetera semi automática Porsche para 6 tazas",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
-      "price": 27930.0,
-      "list_price": 39900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000828",
         "outlet": false
       }
     },
@@ -1031,6 +1010,27 @@
       "extra": {
         "productId": "1164464136",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,599 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1814.84,
+      "store": "palacio",
+      "name": "Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html",
+      "price": 6599.4,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345503",
+        "outlet": false
       }
     },
     {
