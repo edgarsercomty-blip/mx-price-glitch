@@ -180,15 +180,15 @@
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-23T23:12:57.760285+00:00",
+    "ts": "2026-07-25T23:14:38.991485+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-23T23:13:00.430291+00:00",
+    "ts": "2026-07-25T23:14:40.246459+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-23T23:13:01.709954+00:00",
+    "ts": "2026-07-25T23:14:41.614183+00:00",
     "items": []
   },
   "amazon|75QNED73ASC": {
@@ -748,64 +748,16 @@
     "ts": "2026-07-25T20:07:01.339414+00:00",
     "items": []
   },
-  "amazon|MOBOCORREAMILANAPPLERELOJ": {
-    "ts": "2026-07-23T22:16:37.734474+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAMILANAPPLERELOJ": {
-    "ts": "2026-07-23T22:16:40.068641+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAMILANAPPLERELOJ": {
-    "ts": "2026-07-23T22:16:42.308178+00:00",
-    "items": []
-  },
-  "amazon|LGPANTALLASMARTPLANAOLED": {
-    "ts": "2026-07-23T22:16:43.941918+00:00",
-    "items": []
-  },
-  "walmart|LGPANTALLASMARTPLANAOLED": {
-    "ts": "2026-07-23T22:16:45.484888+00:00",
-    "items": []
-  },
-  "sams|LGPANTALLASMARTPLANAOLED": {
-    "ts": "2026-07-23T22:16:50.176222+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHPANELACERO": {
-    "ts": "2026-07-23T22:16:51.582592+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHPANELACERO": {
-    "ts": "2026-07-23T22:16:53.528607+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHPANELACERO": {
-    "ts": "2026-07-23T22:16:55.013706+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-23T23:12:53.705307+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-23T23:12:55.192920+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-23T23:12:56.607826+00:00",
-    "items": []
-  },
   "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-23T23:13:03.067714+00:00",
+    "ts": "2026-07-25T23:14:42.854720+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-23T23:13:04.448055+00:00",
+    "ts": "2026-07-25T23:14:44.113910+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-23T23:13:05.697124+00:00",
+    "ts": "2026-07-25T23:14:45.677884+00:00",
     "items": []
   },
   "amazon|MOBOCORREAWATCHRELOJMILAN": {
@@ -2206,6 +2158,30 @@
   },
   "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
     "ts": "2026-07-25T22:12:45.380475+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-25T23:14:34.701928+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-25T23:14:36.209156+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOTOUCH": {
+    "ts": "2026-07-25T23:14:37.768310+00:00",
+    "items": []
+  },
+  "amazon|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
+    "ts": "2026-07-25T23:14:46.808631+00:00",
+    "items": []
+  },
+  "walmart|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
+    "ts": "2026-07-25T23:14:48.708431+00:00",
+    "items": []
+  },
+  "sams|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
+    "ts": "2026-07-25T23:14:50.080432+00:00",
     "items": []
   }
 }

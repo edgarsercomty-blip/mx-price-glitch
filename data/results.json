@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 22:12 UTC",
-  "products_scanned": 1662,
+  "generated_at": "2026-07-25 23:14 UTC",
+  "products_scanned": 1640,
   "threshold_pct": 20.0,
   "count": 55,
   "findings": [
@@ -48,22 +48,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.4,
-      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
       "likely_typo": false,
-      "savings": 9500.5,
+      "savings": 972.0,
       "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162",
-      "price": 10499.0,
-      "list_price": 22999.0,
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
       "ean": null,
-      "model": "55Qned81Bsc",
-      "brand": "LG",
+      "model": null,
+      "brand": "TV OFERTAS",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1200279162",
+        "productId": "1158548573",
         "marketplace": null
       }
     },
@@ -175,27 +175,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -211,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
