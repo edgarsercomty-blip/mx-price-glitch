@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 09:00 UTC",
-  "products_scanned": 1550,
+  "generated_at": "2026-07-26 10:45 UTC",
+  "products_scanned": 1545,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 51,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,27 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.4,
-      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9500.5,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162",
-      "price": 10499.0,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": "55Qned81Bsc",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200279162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$287 en liverpool vs mercado -> -47% bajo la competencia",
       "likely_typo": false,
@@ -128,27 +107,6 @@
       "extra": {
         "productId": "1196176604",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 21999.6,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
-      "price": 32999.4,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44638189",
-        "outlet": false
       }
     },
     {
@@ -300,6 +258,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$35,153 en palacio vs mercado -> -37% bajo la competencia",
+      "likely_typo": false,
+      "savings": 20645.63,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
+      "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
+      "price": 35153.37,
+      "list_price": 55799.0,
+      "ean": null,
+      "model": "K65XR70M2",
+      "brand": "Sony",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45500060",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$191 en palacio vs mercado -> -36% bajo la competencia",
       "likely_typo": false,
@@ -364,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1154.65,
-      "store": "palacio",
-      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
-      "price": 2144.35,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": "BLST4125",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1749.65,
@@ -400,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1154.65,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2144.35,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
         "outlet": false
       }
     },
@@ -704,8 +683,8 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
-      "name": "Funda Galaxy A37 Rugged Negra rayas",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -714,7 +693,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45347604",
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -758,27 +737,6 @@
       "extra": {
         "productId": "1153472749",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$13,020 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4339.86,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html",
-      "price": 13019.58,
-      "list_price": 30999.0,
-      "ean": null,
-      "model": "QNED82",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44777572",
-        "outlet": false
       }
     },
     {
@@ -883,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44011026",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$46,199 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13799.77,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 46199.23,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
         "outlet": false
       }
     },
