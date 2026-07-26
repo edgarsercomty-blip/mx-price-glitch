@@ -191,18 +191,6 @@
     "ts": "2026-07-25T23:14:41.614183+00:00",
     "items": []
   },
-  "amazon|75QNED73ASC": {
-    "ts": "2026-07-24T15:45:35.632955+00:00",
-    "items": []
-  },
-  "walmart|75QNED73ASC": {
-    "ts": "2026-07-24T15:45:37.258965+00:00",
-    "items": []
-  },
-  "sams|75QNED73ASC": {
-    "ts": "2026-07-24T15:45:39.214423+00:00",
-    "items": []
-  },
   "amazon|BVSTDC12B": {
     "ts": "2026-07-24T19:02:57.293136+00:00",
     "items": []
@@ -899,30 +887,6 @@
   },
   "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
     "ts": "2026-07-26T11:57:14.012495+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREARELOJMILANWATCH": {
-    "ts": "2026-07-24T15:45:40.846584+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREARELOJMILANWATCH": {
-    "ts": "2026-07-24T15:45:42.444641+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREARELOJMILANWATCH": {
-    "ts": "2026-07-24T15:45:44.210021+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHTAZASPANEL": {
-    "ts": "2026-07-24T15:45:45.523520+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHTAZASPANEL": {
-    "ts": "2026-07-24T15:45:47.350644+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHTAZASPANEL": {
-    "ts": "2026-07-24T15:45:49.212660+00:00",
     "items": []
   },
   "palacio|SP4PLUS": {
@@ -2714,6 +2678,18 @@
   },
   "sams|MOBOCORREAMILANRELOJAPPLE": {
     "ts": "2026-07-26T14:45:10.323754+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-26T15:56:21.171184+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-26T15:56:22.966416+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-07-26T15:56:24.833004+00:00",
     "items": []
   }
 }

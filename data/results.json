@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 14:45 UTC",
-  "products_scanned": 1641,
+  "generated_at": "2026-07-26 15:56 UTC",
+  "products_scanned": 1649,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 51,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -863,6 +863,27 @@
       "extra": {
         "id": "45345508",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.5,
+      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 210.0,
+      "store": "liverpool",
+      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
+      "price": 749.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": "Bj2Bl",
+      "brand": "BLENDJET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178436101",
+        "marketplace": null
       }
     },
     {
