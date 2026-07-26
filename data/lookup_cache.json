@@ -865,42 +865,6 @@
     "ts": "2026-07-26T04:22:47.549612+00:00",
     "items": []
   },
-  "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-24T06:19:19.992066+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-24T06:19:21.684242+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-24T06:19:23.409991+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAAPPLERELOJWATCH": {
-    "ts": "2026-07-24T06:19:24.660499+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAAPPLERELOJWATCH": {
-    "ts": "2026-07-24T06:19:26.992782+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAAPPLERELOJWATCH": {
-    "ts": "2026-07-24T06:19:28.792138+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-24T06:19:29.937773+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-24T06:19:31.839798+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-07-24T06:19:33.132115+00:00",
-    "items": []
-  },
   "amazon|ASUSGRAPHICSVIVOBOOKLAPTOPINTEL": {
     "ts": "2026-07-24T08:46:37.158880+00:00",
     "items": []
@@ -2666,6 +2630,30 @@
   },
   "sams|OSTERCAFETERAPANELTOUCHTAZAS": {
     "ts": "2026-07-26T04:23:40.609689+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTAZASTOUCH": {
+    "ts": "2026-07-26T06:32:38.389754+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTAZASTOUCH": {
+    "ts": "2026-07-26T06:32:39.953102+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTAZASTOUCH": {
+    "ts": "2026-07-26T06:32:42.084008+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-26T06:32:43.783416+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-26T06:32:45.951075+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-26T06:32:47.732275+00:00",
     "items": []
   }
 }
