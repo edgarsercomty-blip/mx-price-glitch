@@ -901,18 +901,6 @@
     "ts": "2026-07-26T11:57:14.012495+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-07-24T14:14:49.064056+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-07-24T14:14:50.423575+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-07-24T14:14:52.444534+00:00",
-    "items": []
-  },
   "amazon|MOBOCORREARELOJMILANWATCH": {
     "ts": "2026-07-24T15:45:40.846584+00:00",
     "items": []
@@ -2702,6 +2690,30 @@
   },
   "sams|OSTERCAFETERAPANELGOTEOTAZAS": {
     "ts": "2026-07-26T13:01:41.632368+00:00",
+    "items": []
+  },
+  "amazon|WA20A3350GW": {
+    "ts": "2026-07-26T14:44:59.632319+00:00",
+    "items": []
+  },
+  "walmart|WA20A3350GW": {
+    "ts": "2026-07-26T14:45:02.444288+00:00",
+    "items": []
+  },
+  "sams|WA20A3350GW": {
+    "ts": "2026-07-26T14:45:04.352358+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-26T14:45:06.442539+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-26T14:45:08.524898+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-26T14:45:10.323754+00:00",
     "items": []
   }
 }
