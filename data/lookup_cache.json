@@ -192,15 +192,15 @@
     "items": []
   },
   "amazon|BVSTDC12B": {
-    "ts": "2026-07-24T19:02:57.293136+00:00",
+    "ts": "2026-07-26T20:07:24.443907+00:00",
     "items": []
   },
   "walmart|BVSTDC12B": {
-    "ts": "2026-07-24T19:02:58.738926+00:00",
+    "ts": "2026-07-26T20:07:26.558776+00:00",
     "items": []
   },
   "sams|BVSTDC12B": {
-    "ts": "2026-07-24T19:03:00.615329+00:00",
+    "ts": "2026-07-26T20:07:29.963753+00:00",
     "items": []
   },
   "amazon|55QNED81BSC": {
@@ -762,30 +762,6 @@
   },
   "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
     "ts": "2026-07-26T11:57:14.012495+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAMILANWATCHAPPLE": {
-    "ts": "2026-07-24T19:03:01.749622+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAMILANWATCHAPPLE": {
-    "ts": "2026-07-24T19:03:03.012827+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAMILANWATCHAPPLE": {
-    "ts": "2026-07-24T19:03:06.488428+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-24T19:03:07.651443+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-24T19:03:08.992364+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-07-24T19:03:10.508984+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAACEROGOTEOPANEL": {
@@ -2452,6 +2428,18 @@
   },
   "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
     "ts": "2026-07-26T18:58:18.897666+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-07-26T20:07:33.432789+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-07-26T20:07:38.939569+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-07-26T20:07:41.036717+00:00",
     "items": []
   }
 }
