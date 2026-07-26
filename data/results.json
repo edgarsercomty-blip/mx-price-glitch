@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-26 17:56 UTC",
-  "products_scanned": 875,
+  "generated_at": "2026-07-26 18:58 UTC",
+  "products_scanned": 1647,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 50,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,599 en liverpool vs mercado -> -62% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10848.6,
+      "store": "liverpool",
+      "name": "Cafetera Espresso Smeg 50 S Style Ecf02",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863",
+      "price": 6599.4,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Ecf02",
+      "brand": "SMEG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1163021863",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -23,6 +44,69 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$287 en liverpool vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 252.0,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 287.4,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$34,999 en liverpool vs mercado -> -46% bajo la competencia",
+      "likely_typo": false,
+      "savings": 29400.0,
+      "store": "liverpool",
+      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd Plateado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604",
+      "price": 34999.0,
+      "list_price": 34999.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196176604",
+        "marketplace": null
       }
     },
     {
@@ -70,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -106,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -322,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1679.65,
@@ -364,21 +427,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 1679.65,
+      "savings": 314.65,
       "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021105",
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -400,6 +463,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021105",
         "outlet": false
       }
     },
@@ -448,27 +532,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 599.7,
@@ -484,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.7,
+      "store": "palacio",
+      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
+      "price": 2099.3,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43806632",
         "outlet": false
       }
     },
@@ -594,22 +678,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$32,999 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 0.0,
+      "detail": "$460 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 10999.8,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
-      "price": 32999.4,
-      "list_price": 54999.0,
+      "savings": 159.0,
+      "store": "liverpool",
+      "name": "Cafetera De Goteo Oster Bvstdc12B",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749",
+      "price": 460.0,
+      "list_price": 460.0,
       "ean": null,
-      "model": null,
-      "brand": "Lg",
+      "model": "Bvstdc12B",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44638189",
+        "productId": "1153472749",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Funda con teclado iPad Pro 11\"",
+      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Logitech",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45053113",
         "outlet": false
       }
     },
@@ -657,23 +762,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 55.0,
+      "detail": "$8,122 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 1299.75,
-      "store": "palacio",
-      "name": "Funda con teclado iPad Pro 11\"",
-      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
+      "savings": 2491.34,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
+      "price": 8122.05,
+      "list_price": 18049.0,
       "ean": null,
-      "model": null,
-      "brand": "Logitech",
+      "model": "Wa20A3350Gw",
+      "brand": "SAMSUNG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45053113",
-        "outlet": false
+        "productId": "1106592728",
+        "marketplace": null
       }
     },
     {
@@ -762,6 +867,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$10,079 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2771.84,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746Bvax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136",
+      "price": 10079.4,
+      "list_price": 16799.0,
+      "ean": null,
+      "model": "Wa19Cg6746Bvax",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1164464136",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -779,6 +905,69 @@
       "extra": {
         "id": "45505426",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,259 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.85,
+      "store": "liverpool",
+      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
+      "price": 1259.4,
+      "list_price": 2099.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133854092",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 99.8,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Karl Lagerfeld",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305",
+      "price": 399.2,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "KARL LAGERFELD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1128184305",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
+      "price": 183.2,
+      "list_price": 229.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430528",
+        "marketplace": null
       }
     },
     {
