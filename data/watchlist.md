@@ -196,7 +196,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,879 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
-| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,362 | -29% |
+| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,360 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
@@ -329,7 +329,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop Zenbook S 13 OLED, 13.3", Intel Core Ultra 7, 32 GB, …](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-13-oled-13.3-intel-core-ultra-7-32-gb-1tb-ssd-gris-43740349.html) | $17,250 | -50% |
 | 🟢 disponible | palacio | [Torre Gaming Lenovo Legion, Intel Core i5-14400F, 16 GB RAM,…](https://www.elpalaciodehierro.com/lenovo-torre-gaming-lenovo-legion-intel-core-i5-14400f-16-gb-ram1-tb-ssd-geforce-rtx-4060-8-gb-windows-11-home-44472024.html) | $23,000 | -50% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades roja](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html) | $1,974 | -50% |
-| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | -42% |
+| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | -27% |
 | 🟢 disponible | palacio | [Laptop ROG Strix G16 16" Nvidia GeForce RTX 5060, AMD Ryzen …](https://www.elpalaciodehierro.com/asus-laptop-rog-strix-g16-16-nvidia-geforce-rtx-5060-amd-ryzen-9-ram-16-gb-ssd-1-tb-44923676.html) | $26,699 | -40% |
 | 🟢 disponible | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,733 | -40% |
 | 🟢 disponible | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | -40% |
@@ -425,7 +425,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3544Gv…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | -22% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert Energ…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | -44% |
 | 🟢 disponible | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | -22% |
-| 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092) | $1,259 | -40% |
+| 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092) | $1,259 | -20% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | -21% |
 | 🟢 disponible | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | -20% |
 | 🟢 disponible | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | -21% |
