@@ -764,18 +764,6 @@
     "ts": "2026-07-26T22:14:51.074225+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-24T22:57:01.899003+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-24T22:57:05.036971+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROPANELTAZAS": {
-    "ts": "2026-07-24T22:57:11.213974+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOTOUCHTAZAS": {
     "ts": "2026-07-24T23:58:54.672762+00:00",
     "items": []
@@ -2416,6 +2404,30 @@
   },
   "sams|MOBOCORREAMILANWATCHRELOJ": {
     "ts": "2026-07-26T22:14:45.257989+00:00",
+    "items": []
+  },
+  "amazon|BJ2BL": {
+    "ts": "2026-07-26T23:13:15.573662+00:00",
+    "items": []
+  },
+  "walmart|BJ2BL": {
+    "ts": "2026-07-26T23:13:17.339831+00:00",
+    "items": []
+  },
+  "sams|BJ2BL": {
+    "ts": "2026-07-26T23:13:18.845506+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-26T23:13:19.995077+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-26T23:13:21.781119+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-07-26T23:13:23.402146+00:00",
     "items": []
   }
 }
