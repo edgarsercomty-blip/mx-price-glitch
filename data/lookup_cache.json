@@ -889,28 +889,16 @@
     "ts": "2026-07-26T08:59:46.943096+00:00",
     "items": []
   },
-  "amazon|WT1143K": {
-    "ts": "2026-07-24T10:54:46.026593+00:00",
-    "items": []
-  },
-  "walmart|WT1143K": {
-    "ts": "2026-07-24T10:54:47.716823+00:00",
-    "items": []
-  },
-  "sams|WT1143K": {
-    "ts": "2026-07-24T10:54:49.854141+00:00",
-    "items": []
-  },
   "amazon|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-24T10:54:51.634236+00:00",
+    "ts": "2026-07-26T11:57:10.355794+00:00",
     "items": []
   },
   "walmart|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-24T10:54:53.012535+00:00",
+    "ts": "2026-07-26T11:57:11.915712+00:00",
     "items": []
   },
   "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-24T10:54:54.417872+00:00",
+    "ts": "2026-07-26T11:57:14.012495+00:00",
     "items": []
   },
   "amazon|MOBOCORREARELOJMILANAPPLE": {
@@ -2666,6 +2654,30 @@
   },
   "sams|OSTERCAFETERATAZASACEROPANEL": {
     "ts": "2026-07-26T10:45:37.277360+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
+    "ts": "2026-07-26T11:57:15.330728+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
+    "ts": "2026-07-26T11:57:17.622484+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
+    "ts": "2026-07-26T11:57:19.173979+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-07-26T11:57:20.620940+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-07-26T11:57:22.216196+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-07-26T11:57:24.228235+00:00",
     "items": []
   }
 }
