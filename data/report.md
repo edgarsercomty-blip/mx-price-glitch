@@ -1,13 +1,14 @@
-# Errores/chollos de precio — 2026-07-26 15:56 UTC
+# Errores/chollos de precio — 2026-07-26 15:57 UTC
 
-- Productos revisados: **1649**
+- Productos revisados: **1646**
 - Umbral de diferencia: **20%**
-- Hallazgos: **51**
+- Hallazgos: **52**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -46% | $29,400 | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd P…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | Confirmado vs competencia | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
+| -56% | $13,000 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | Confirmado vs competencia | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -27% | $8,602 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -27% bajo la competencia |
@@ -51,9 +52,9 @@
 | -20% | $315 | liverpool | [Licuadora Oster Blstpegcrt 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092) | $1,259 | Confirmado vs competencia | $1,259 en liverpool vs mercado -> -20% bajo la competencia |
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
-| -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -26% | $208 | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | Confirmado vs competencia | $591 en palacio vs mercado -> -26% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | -36% | $108 | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | Confirmado vs competencia | $191 en palacio vs mercado -> -36% bajo la competencia |
+| -26% | $104 | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | Confirmado vs competencia | $295 en palacio vs mercado -> -26% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $46 | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |

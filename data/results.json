@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 15:56 UTC",
-  "products_scanned": 1649,
+  "generated_at": "2026-07-26 15:57 UTC",
+  "products_scanned": 1646,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1163021863",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 61.5,
+      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13000.0,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+      "price": 9999.0,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "55Qned83Asg",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183858552",
         "marketplace": null
       }
     },
@@ -133,6 +154,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -169,27 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
         "outlet": false
       }
     },
@@ -322,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1154.65,
-      "store": "palacio",
-      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
-      "price": 2144.35,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": "BLST4125",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1749.65,
@@ -358,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1154.65,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2144.35,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
         "outlet": false
       }
     },
@@ -406,27 +427,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1679.65,
@@ -442,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -657,6 +678,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -863,27 +905,6 @@
       "extra": {
         "id": "45345508",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 210.0,
-      "store": "liverpool",
-      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
-      "price": 749.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": "Bj2Bl",
-      "brand": "BLENDJET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178436101",
-        "marketplace": null
       }
     },
     {
