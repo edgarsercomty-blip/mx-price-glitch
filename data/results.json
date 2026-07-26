@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 06:32 UTC",
-  "products_scanned": 1642,
+  "generated_at": "2026-07-26 09:00 UTC",
+  "products_scanned": 1550,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -128,6 +128,27 @@
       "extra": {
         "productId": "1196176604",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 21999.6,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638189",
+        "outlet": false
       }
     },
     {
@@ -259,27 +280,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,500 en palacio vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora Smart Power, 2 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html",
-      "price": 1499.5,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Cuisinart",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45397408",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
       "detail": "$3,000 en palacio vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
       "savings": 1799.7,
@@ -322,6 +322,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$292 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 157.15,
+      "store": "palacio",
+      "name": "Funda para Celular Galaxy A36, Verde Claro",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html",
+      "price": 291.85,
+      "list_price": 449.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44563904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 2099.65,
@@ -337,27 +358,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45281005",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1749.65,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3249.35,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
         "outlet": false
       }
     },
@@ -385,21 +385,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,677 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 1441.65,
+      "savings": 1749.65,
       "store": "palacio",
-      "name": "Licuadora Xtreme Mix, 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
-      "price": 2677.35,
-      "list_price": 4119.0,
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3249.35,
+      "list_price": 4999.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43926491",
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -469,48 +469,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021105",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 4199.65,
@@ -526,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -657,6 +636,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.1,
+      "detail": "$11,985 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4734.24,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331",
+      "price": 11985.0,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": null,
+      "brand": "ASUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192640331",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 54.0,
       "detail": "$23,276 en palacio vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -694,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44815304",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
+      "name": "Funda Galaxy A37 Rugged Negra rayas",
+      "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45347604",
         "outlet": false
       }
     },
@@ -741,6 +762,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$13,020 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4339.86,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html",
+      "price": 13019.58,
+      "list_price": 30999.0,
+      "ean": null,
+      "model": "QNED82",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44777572",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -779,48 +821,6 @@
       "extra": {
         "id": "45397419",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 999.8,
-      "store": "palacio",
-      "name": "Licuadora Ninja Detect Power Pro, 10 velocidades",
-      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html",
-      "price": 2999.4,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44567926",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$8,122 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2491.34,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
-      "price": 8122.05,
-      "list_price": 18049.0,
-      "ean": null,
-      "model": "Wa20A3350Gw",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1106592728",
-        "marketplace": null
       }
     },
     {
@@ -872,17 +872,17 @@
       "likely_typo": false,
       "savings": 1648.5,
       "store": "palacio",
-      "name": "Cafetera Expreso ECF02BLUS Negra",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "name": "Cafetera Expreso ECF02CRUS Crema",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html",
       "price": 5495.0,
       "list_price": 10990.0,
       "ean": null,
-      "model": "ECF02BLUS",
+      "model": "ECF02CRUS",
       "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44011025",
+        "id": "44011026",
         "outlet": false
       }
     },
@@ -926,6 +926,27 @@
       "extra": {
         "productId": "1164464136",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8249.85,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30249.45,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
+        "outlet": false
       }
     },
     {
