@@ -764,18 +764,6 @@
     "ts": "2026-07-26T11:57:14.012495+00:00",
     "items": []
   },
-  "amazon|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-24T17:20:55.347339+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-24T17:20:57.381640+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARGALAXYFUNDAFLIP": {
-    "ts": "2026-07-24T17:21:01.384557+00:00",
-    "items": []
-  },
   "amazon|MOBOCORREAMILANWATCHAPPLE": {
     "ts": "2026-07-24T19:03:01.749622+00:00",
     "items": []
@@ -2428,6 +2416,18 @@
   },
   "sams|MOBOCORREAAPPLEMILANRELOJ": {
     "ts": "2026-07-26T16:49:54.753699+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-07-26T17:56:02.016207+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-07-26T17:56:03.618813+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-07-26T17:56:06.506880+00:00",
     "items": []
   }
 }

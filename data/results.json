@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-26 16:49 UTC",
-  "products_scanned": 1647,
+  "generated_at": "2026-07-26 17:56 UTC",
+  "products_scanned": 875,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 41,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,599 en liverpool vs mercado -> -62% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10848.6,
-      "store": "liverpool",
-      "name": "Cafetera Espresso Smeg 50 S Style Ecf02",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863",
-      "price": 6599.4,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "Ecf02",
-      "brand": "SMEG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163021863",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -44,69 +23,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 972.0,
-      "store": "liverpool",
-      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
-      "price": 1007.4,
-      "list_price": 1679.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158548573",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$287 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 252.0,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 287.4,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$34,999 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29400.0,
-      "store": "liverpool",
-      "name": "Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604",
-      "price": 34999.0,
-      "list_price": 34999.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196176604",
-        "marketplace": null
       }
     },
     {
@@ -678,43 +594,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$460 en liverpool vs mercado -> -26% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 159.0,
-      "store": "liverpool",
-      "name": "Cafetera De Goteo Oster Bvstdc12B",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749",
-      "price": 460.0,
-      "list_price": 460.0,
-      "ean": null,
-      "model": "Bvstdc12B",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153472749",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.75,
+      "savings": 10999.8,
       "store": "palacio",
-      "name": "Funda con teclado iPad Pro 11\"",
-      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
       "ean": null,
       "model": null,
-      "brand": "Logitech",
+      "brand": "Lg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45053113",
+        "id": "44638189",
         "outlet": false
       }
     },
@@ -762,23 +657,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$8,122 en liverpool vs mercado -> -24% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2491.34,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
-      "price": 8122.05,
-      "list_price": 18049.0,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Funda con teclado iPad Pro 11\"",
+      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
       "ean": null,
-      "model": "Wa20A3350Gw",
-      "brand": "SAMSUNG",
+      "model": null,
+      "brand": "Logitech",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1106592728",
-        "marketplace": null
+        "id": "45053113",
+        "outlet": false
       }
     },
     {
@@ -867,27 +762,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,079 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2771.84,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746Bvax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136",
-      "price": 10079.4,
-      "list_price": 16799.0,
-      "ean": null,
-      "model": "Wa19Cg6746Bvax",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1164464136",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -905,69 +779,6 @@
       "extra": {
         "id": "45505426",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,259 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.85,
-      "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
-      "price": 1259.4,
-      "list_price": 2099.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854092",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 99.8,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Karl Lagerfeld",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305",
-      "price": 399.2,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KARL LAGERFELD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1128184305",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430528",
-        "marketplace": null
       }
     },
     {
