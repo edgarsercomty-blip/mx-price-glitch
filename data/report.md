@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-07-26 03:57 UTC
+# Errores/chollos de precio — 2026-07-26 04:23 UTC
 
-- Productos revisados: **1662**
+- Productos revisados: **1654**
 - Umbral de diferencia: **20%**
 - Hallazgos: **52**
 
@@ -8,6 +8,7 @@
 |------:|-------:|--------|----------|-------:|------|---------|
 | -46% | $29,400 | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd P…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | Confirmado vs competencia | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
+| -56% | $13,000 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | Confirmado vs competencia | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | -48% | $9,500 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
@@ -39,7 +40,6 @@
 | -40% | $1,156 | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,733 | Confirmado vs competencia | $1,733 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,155 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | Confirmado vs competencia | $2,144 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $1,000 | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | Confirmado vs competencia | $2,999 en palacio vs mercado -> -25% bajo la competencia |
-| -49% | $972 | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | Confirmado vs competencia | $1,007 en liverpool vs mercado -> -49% bajo la competencia |
 | -40% | $956 | palacio | [Licuadora reversible color acero](https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html) | $1,433 | Confirmado vs competencia | $1,433 en palacio vs mercado -> -40% bajo la competencia |
 | -38% | $900 | palacio | [Licuadora Smart Power, 2 Velocidades](https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html) | $1,500 | Confirmado vs competencia | $1,500 en palacio vs mercado -> -38% bajo la competencia |
 | -30% | $900 | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | Confirmado vs competencia | $2,099 en palacio vs mercado -> -30% bajo la competencia |
