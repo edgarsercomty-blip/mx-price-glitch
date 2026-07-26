@@ -1,4 +1,4 @@
-# Productos en vigilancia (426)
+# Productos en vigilancia (428)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -430,3 +430,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | -20% |
 | 🟢 disponible | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | -21% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana 4K K65XR70M2](https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html) | $35,153 | -37% |
+| 🟢 disponible | liverpool | [Smartwatch Stf Insignia Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-stf-insignia-unisex/1176671432) | $299 | -25% |
+| 🟢 disponible | liverpool | [Playmobil Naruto Shippuden Kabuto 71568](https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364) | $55 | -20% |

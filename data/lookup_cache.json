@@ -1,26 +1,26 @@
 {
   "amazon|ECF02": {
-    "ts": "2026-07-24T12:13:54.605264+00:00",
+    "ts": "2026-07-26T13:01:14.867030+00:00",
     "items": []
   },
   "walmart|ECF02": {
-    "ts": "2026-07-24T12:13:56.209702+00:00",
+    "ts": "2026-07-26T13:01:16.958941+00:00",
     "items": []
   },
   "sams|ECF02": {
-    "ts": "2026-07-24T12:13:58.166794+00:00",
+    "ts": "2026-07-26T13:01:19.569377+00:00",
     "items": []
   },
   "amazon|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-24T12:14:11.883351+00:00",
+    "ts": "2026-07-26T13:01:30.479175+00:00",
     "items": []
   },
   "walmart|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-24T12:14:13.432413+00:00",
+    "ts": "2026-07-26T13:01:31.710682+00:00",
     "items": []
   },
   "sams|SAMSUNGTRANSPARENTECELULARGALAXYFUNDA": {
-    "ts": "2026-07-24T12:14:15.145699+00:00",
+    "ts": "2026-07-26T13:01:33.140442+00:00",
     "items": []
   },
   "amazon|SS151": {
@@ -899,42 +899,6 @@
   },
   "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
     "ts": "2026-07-26T11:57:14.012495+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREARELOJMILANAPPLE": {
-    "ts": "2026-07-24T12:14:00.316314+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREARELOJMILANAPPLE": {
-    "ts": "2026-07-24T12:14:02.001981+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREARELOJMILANAPPLE": {
-    "ts": "2026-07-24T12:14:03.839054+00:00",
-    "items": []
-  },
-  "amazon|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-24T12:14:07.219032+00:00",
-    "items": []
-  },
-  "walmart|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-24T12:14:09.021226+00:00",
-    "items": []
-  },
-  "sams|LGPANTALLASMARTPLANA2025": {
-    "ts": "2026-07-24T12:14:10.597408+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-24T12:14:16.633384+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-24T12:14:18.811446+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-07-24T12:14:20.434836+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERATOUCHACEROGOTEO": {
@@ -2678,6 +2642,66 @@
   },
   "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
     "ts": "2026-07-26T11:57:24.228235+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-26T13:01:08.289418+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-26T13:01:11.683641+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
+    "ts": "2026-07-26T13:01:13.501222+00:00",
+    "items": []
+  },
+  "amazon|PLAYMOBILSHIPPUDENPLAYMOBILNARUTOKABUTO": {
+    "ts": "2026-07-26T13:01:21.823914+00:00",
+    "items": []
+  },
+  "walmart|PLAYMOBILSHIPPUDENPLAYMOBILNARUTOKABUTO": {
+    "ts": "2026-07-26T13:01:23.126439+00:00",
+    "items": []
+  },
+  "sams|PLAYMOBILSHIPPUDENPLAYMOBILNARUTOKABUTO": {
+    "ts": "2026-07-26T13:01:24.537696+00:00",
+    "items": []
+  },
+  "amazon|STFSMARTWATCHINSIGNIASTF": {
+    "ts": "2026-07-26T13:01:25.615356+00:00",
+    "items": []
+  },
+  "walmart|STFSMARTWATCHINSIGNIASTF": {
+    "ts": "2026-07-26T13:01:26.976885+00:00",
+    "items": []
+  },
+  "sams|STFSMARTWATCHINSIGNIASTF": {
+    "ts": "2026-07-26T13:01:28.694186+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGGALAXYRUGGEDNEGRAFUNDA": {
+    "ts": "2026-07-26T13:01:34.371638+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGGALAXYRUGGEDNEGRAFUNDA": {
+    "ts": "2026-07-26T13:01:35.682905+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGGALAXYRUGGEDNEGRAFUNDA": {
+    "ts": "2026-07-26T13:01:37.579699+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELGOTEOTAZAS": {
+    "ts": "2026-07-26T13:01:38.681393+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELGOTEOTAZAS": {
+    "ts": "2026-07-26T13:01:40.106443+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELGOTEOTAZAS": {
+    "ts": "2026-07-26T13:01:41.632368+00:00",
     "items": []
   }
 }

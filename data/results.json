@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 11:57 UTC",
-  "products_scanned": 1541,
+  "generated_at": "2026-07-26 13:01 UTC",
+  "products_scanned": 1531,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1158548573",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 54.4,
-      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9500.5,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162",
-      "price": 10499.0,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": "55Qned81Bsc",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200279162",
         "marketplace": null
       }
     },
@@ -154,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -190,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -364,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1154.65,
-      "store": "palacio",
-      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
-      "price": 2144.35,
-      "list_price": 3299.0,
-      "ean": null,
-      "model": "BLST4125",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1749.65,
@@ -400,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1154.65,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2144.35,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
         "outlet": false
       }
     },
@@ -553,27 +532,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -589,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43806632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -704,6 +683,27 @@
       "likely_typo": false,
       "savings": 103.74,
       "store": "palacio",
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43520801",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 103.74,
+      "store": "palacio",
       "name": "Funda Galaxy A37 Rugged Negra rayas",
       "url": "https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html",
       "price": 295.26,
@@ -757,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1153472749",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$299 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 99.75,
+      "store": "liverpool",
+      "name": "Smartwatch Stf Insignia Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-stf-insignia-unisex/1176671432",
+      "price": 299.25,
+      "list_price": 399.0,
+      "ean": null,
+      "model": null,
+      "brand": "STF",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1176671432",
         "marketplace": null
       }
     },
@@ -967,6 +988,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1128184305",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$55 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13.8,
+      "store": "liverpool",
+      "name": "Playmobil Naruto Shippuden Kabuto 71568",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364",
+      "price": 55.2,
+      "list_price": 69.0,
+      "ean": null,
+      "model": null,
+      "brand": "PLAYMOBIL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184385364",
         "marketplace": null
       }
     },
