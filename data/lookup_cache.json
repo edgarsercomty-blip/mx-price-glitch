@@ -752,40 +752,16 @@
     "ts": "2026-07-26T11:57:14.012495+00:00",
     "items": []
   },
-  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-24T21:56:55.068068+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-24T21:56:56.623224+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-24T21:56:58.695622+00:00",
-    "items": []
-  },
-  "amazon|BJ2BL": {
-    "ts": "2026-07-24T21:56:59.876695+00:00",
-    "items": []
-  },
-  "walmart|BJ2BL": {
-    "ts": "2026-07-24T21:57:02.103172+00:00",
-    "items": []
-  },
-  "sams|BJ2BL": {
-    "ts": "2026-07-24T21:57:04.395156+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERATAZASTOUCHGOTEO": {
-    "ts": "2026-07-24T21:57:05.624072+00:00",
+    "ts": "2026-07-26T22:14:46.660847+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERATAZASTOUCHGOTEO": {
-    "ts": "2026-07-24T21:57:08.009056+00:00",
+    "ts": "2026-07-26T22:14:49.246290+00:00",
     "items": []
   },
   "sams|OSTERCAFETERATAZASTOUCHGOTEO": {
-    "ts": "2026-07-24T21:57:09.863033+00:00",
+    "ts": "2026-07-26T22:14:51.074225+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAACEROPANELTAZAS": {
@@ -2428,6 +2404,18 @@
   },
   "sams|MOBOCORREAAPPLEWATCHMILAN": {
     "ts": "2026-07-26T21:13:22.541613+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAMILANWATCHRELOJ": {
+    "ts": "2026-07-26T22:14:41.719146+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAMILANWATCHRELOJ": {
+    "ts": "2026-07-26T22:14:43.587616+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAMILANWATCHRELOJ": {
+    "ts": "2026-07-26T22:14:45.257989+00:00",
     "items": []
   }
 }
