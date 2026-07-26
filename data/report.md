@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-25 23:14 UTC
+# Errores/chollos de precio — 2026-07-26 00:15 UTC
 
-- Productos revisados: **1640**
+- Productos revisados: **1663**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **56**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -11,6 +11,7 @@
 | -42% | $17,204 | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $23,276 | Confirmado vs competencia | $23,276 en palacio vs mercado -> -42% bajo la competencia |
 | -62% | $10,849 | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | Confirmado vs competencia | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | -21% | $9,992 | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | Confirmado vs competencia | $38,542 en liverpool vs mercado -> -21% bajo la competencia |
+| -48% | $9,500 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | -30% | $6,000 | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,999 | Confirmado vs competencia | $13,999 en liverpool vs mercado -> -30% bajo la competencia |
