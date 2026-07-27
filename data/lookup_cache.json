@@ -119,18 +119,6 @@
     "ts": "2026-07-27T13:47:18.351006+00:00",
     "items": []
   },
-  "amazon|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-25T16:53:15.049905+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-25T16:53:16.370869+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOCAFETERAVERTUODELUXETITAN": {
-    "ts": "2026-07-25T16:53:17.700757+00:00",
-    "items": []
-  },
   "amazon|OSTERVELOCIDADESLICUADORATITAN": {
     "ts": "2026-07-27T16:09:26.626642+00:00",
     "items": []
@@ -237,18 +225,6 @@
   },
   "sams|OSTERCAFETERA2217257TAZAS": {
     "ts": "2026-07-27T16:10:21.480449+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGPANTALLALIFESYLEPLANAFRAME": {
-    "ts": "2026-07-25T16:53:07.205114+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEPLANAFRAME": {
-    "ts": "2026-07-25T16:53:08.459367+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEPLANAFRAME": {
-    "ts": "2026-07-25T16:53:09.875043+00:00",
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERALATTEPRIMA": {
@@ -396,39 +372,27 @@
     "items": []
   },
   "amazon|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-25T16:53:02.845220+00:00",
+    "ts": "2026-07-27T16:55:41.555371+00:00",
     "items": []
   },
   "walmart|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-25T16:53:04.341569+00:00",
+    "ts": "2026-07-27T16:55:44.238235+00:00",
     "items": []
   },
   "sams|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-25T16:53:06.017112+00:00",
-    "items": []
-  },
-  "amazon|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-25T16:53:22.765820+00:00",
-    "items": []
-  },
-  "walmart|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-25T16:53:24.499036+00:00",
-    "items": []
-  },
-  "sams|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-25T16:53:25.884853+00:00",
+    "ts": "2026-07-27T16:55:46.054063+00:00",
     "items": []
   },
   "amazon|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
-    "ts": "2026-07-25T16:53:18.775829+00:00",
+    "ts": "2026-07-27T16:55:53.158283+00:00",
     "items": []
   },
   "walmart|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
-    "ts": "2026-07-25T16:53:20.118896+00:00",
+    "ts": "2026-07-27T16:55:54.712218+00:00",
     "items": []
   },
   "sams|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
-    "ts": "2026-07-25T16:53:21.426166+00:00",
+    "ts": "2026-07-27T16:55:56.998427+00:00",
     "items": []
   },
   "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
@@ -702,18 +666,6 @@
   },
   "sams|APPLEMACBOOKAPPLECHIP512": {
     "ts": "2026-07-27T16:09:25.246689+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-25T16:53:11.088135+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-25T16:53:12.381844+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGRESISTENTEMAGNETICAGALAXYFUNDA": {
-    "ts": "2026-07-25T16:53:13.709182+00:00",
     "items": []
   },
   "amazon|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
@@ -2557,6 +2509,300 @@
   },
   "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
     "ts": "2026-07-27T16:10:16.831094+00:00",
+    "items": []
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-07-27T16:54:45.461548+00:00",
+    "items": []
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-07-27T16:54:46.636848+00:00",
+    "items": []
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-07-27T16:54:48.886767+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-07-27T16:54:50.700064+00:00",
+    "items": []
+  },
+  "mercadolibre|75QM8K": {
+    "ts": "2026-07-27T16:54:52.774062+00:00",
+    "items": []
+  },
+  "palacio|98Q7K": {
+    "ts": "2026-07-27T16:54:55.693737+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Fire TV 98QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
+        "price": 37799.37,
+        "model": "98QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 48411.51,
+        "model": "98Qm7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
+        "price": 17999.5,
+        "model": "QNED85"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 39999.12,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
+        "price": 42839.37,
+        "model": "100Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 pulgadas 98QM7L SQD-Mini LED",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-98qm7l-sqd-mini-led-45360024.html",
+        "price": 50399.37,
+        "model": "98QM7L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-Mini LED 98QM6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-mini-led-98qm6k-44576133.html",
+        "price": 35324.55,
+        "model": "98QM6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85X11L SQD",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85x11l-sqd-45368768.html",
+        "price": 112699.3,
+        "model": "85X11L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
+        "price": 37799.3,
+        "model": "98A400"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina inalámbrica M7 Wi-Fi 100W",
+        "url": "https://www.elpalaciodehierro.com/lg-bocina-inalambrica-m7-wi-fi-100w-45468003.html",
+        "price": 7874.37,
+        "model": null
+      }
+    ]
+  },
+  "amazon|98Q7K": {
+    "ts": "2026-07-27T16:54:57.183018+00:00",
+    "items": []
+  },
+  "walmart|98Q7K": {
+    "ts": "2026-07-27T16:54:58.914327+00:00",
+    "items": []
+  },
+  "sams|98Q7K": {
+    "ts": "2026-07-27T16:55:00.998417+00:00",
+    "items": []
+  },
+  "mercadolibre|98Q7K": {
+    "ts": "2026-07-27T16:55:02.681548+00:00",
+    "items": []
+  },
+  "liverpool|UA8050": {
+    "ts": "2026-07-27T16:55:18.178541+00:00",
+    "items": []
+  },
+  "amazon|UA8050": {
+    "ts": "2026-07-27T16:55:19.645857+00:00",
+    "items": []
+  },
+  "walmart|UA8050": {
+    "ts": "2026-07-27T16:55:21.631827+00:00",
+    "items": []
+  },
+  "sams|UA8050": {
+    "ts": "2026-07-27T16:55:24.428908+00:00",
+    "items": []
+  },
+  "mercadolibre|UA8050": {
+    "ts": "2026-07-27T16:55:25.714031+00:00",
+    "items": []
+  },
+  "liverpool|WA23C3554GVAX": {
+    "ts": "2026-07-27T16:55:27.132653+00:00",
+    "items": []
+  },
+  "amazon|WA23C3554GVAX": {
+    "ts": "2026-07-27T16:55:28.342705+00:00",
+    "items": []
+  },
+  "walmart|WA23C3554GVAX": {
+    "ts": "2026-07-27T16:55:29.877619+00:00",
+    "items": []
+  },
+  "sams|WA23C3554GVAX": {
+    "ts": "2026-07-27T16:55:31.470996+00:00",
+    "items": []
+  },
+  "mercadolibre|WA23C3554GVAX": {
+    "ts": "2026-07-27T16:55:34.174156+00:00",
+    "items": []
+  },
+  "palacio|CO610B": {
+    "ts": "2026-07-27T16:55:34.330295+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Teka +Grill 1.4p3",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-de-microondas-teka-grill-1.4p3-36617282.html",
+        "price": 3989.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Regulador de voltaje para Línea Blanca, 1550 W",
+        "url": "https://www.elpalaciodehierro.com/koblenz-regulador-de-voltaje-para-linea-blanca-1550-w-45095479.html",
+        "price": 1759.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Botella de Tinta T555 Cian",
+        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-t555-cian-42564622.html",
+        "price": 479.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bote para basura de 12 L con pedal en Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/brabantia-bote-para-basura-de-12-l-con-pedal-en-acero-inoxidable-44049480.html",
+        "price": 1912.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M1605, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m1605-120-v-43354453.html",
+        "price": 3779.3,
+        "model": "M1605"
+      },
+      {
+        "store": "palacio",
+        "name": "Jigger cobre",
+        "url": "https://www.elpalaciodehierro.com/cilio-jigger-cobre-41024711.html",
+        "price": 224.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Smoking de corte regular liso Hombre",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-smoking-de-corte-regular-liso-hombre-45131826.html",
+        "price": 4899.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M3505, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m3505-120-v-41403775.html",
+        "price": 5529.3,
+        "model": "M3505"
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Coser Overlock S0105 110 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-overlock-s0105-110-w-45037219.html",
+        "price": 6999.3,
+        "model": "S0105"
+      },
+      {
+        "store": "palacio",
+        "name": "Hidrolavadora K5 WCM",
+        "url": "https://www.elpalaciodehierro.com/karcher-hidrolavadora-k5-wcm-45355725.html",
+        "price": 11699.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Altavoz Satelital Matte White M1, 100 W",
+        "url": "https://www.elpalaciodehierro.com/bowers-wilkins-altavoz-satelital-matte-white-m1-100-w-44371671.html",
+        "price": 8099.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bote para basura de 20 L con pedal en Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/brabantia-bote-para-basura-de-20-l-con-pedal-en-acero-inoxidable-44049481.html",
+        "price": 2760.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|CO610B": {
+    "ts": "2026-07-27T16:55:36.065729+00:00",
+    "items": []
+  },
+  "walmart|CO610B": {
+    "ts": "2026-07-27T16:55:37.573948+00:00",
+    "items": []
+  },
+  "sams|CO610B": {
+    "ts": "2026-07-27T16:55:39.097789+00:00",
+    "items": []
+  },
+  "mercadolibre|CO610B": {
+    "ts": "2026-07-27T16:55:40.269265+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERA158436": {
+    "ts": "2026-07-27T16:55:47.886721+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSONESPRESSOAEROCCINOCAFETERA158436": {
+    "ts": "2026-07-27T16:55:49.736615+00:00",
+    "items": []
+  },
+  "sams|NESPRESSONESPRESSOAEROCCINOCAFETERA158436": {
+    "ts": "2026-07-27T16:55:51.842694+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHGOTEOTAZAS": {
+    "ts": "2026-07-27T16:56:00.309639+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHGOTEOTAZAS": {
+    "ts": "2026-07-27T16:56:02.429753+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHGOTEOTAZAS": {
+    "ts": "2026-07-27T16:56:06.239769+00:00",
     "items": []
   }
 }

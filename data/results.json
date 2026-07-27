@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-07-27 16:10 UTC",
-  "products_scanned": 1601,
+  "generated_at": "2026-07-27 16:56 UTC",
+  "products_scanned": 1597,
   "threshold_pct": 20.0,
-  "count": 59,
+  "count": 57,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 41.5,
-      "detail": "$33,428 en liverpool vs mercado -> -51% bajo la competencia",
+      "discount_pct": 61.5,
+      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
       "likely_typo": false,
-      "savings": 34171.93,
+      "savings": 13000.0,
       "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa Con Evo Ai",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273",
-      "price": 33427.55,
-      "list_price": 57141.43,
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+      "price": 9999.0,
+      "list_price": 25999.0,
       "ean": null,
-      "model": "Oled65G5Psa",
+      "model": "55Qned83Asg",
       "brand": "LG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1175150273",
+        "productId": "1183858552",
         "marketplace": null
       }
     },
@@ -44,27 +44,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 972.0,
-      "store": "liverpool",
-      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
-      "price": 1007.4,
-      "list_price": 1679.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158548573",
-        "marketplace": null
       }
     },
     {
@@ -783,27 +762,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
-      "name": "Licuadora Ninja Dúo Twisti SS151, 5 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html",
-      "price": 2399.4,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": "SS151",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45397419",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -820,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45053113",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Licuadora Ninja Dúo Twisti SS151, 5 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html",
+      "price": 2399.4,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": "SS151",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45397419",
         "outlet": false
       }
     },
@@ -1072,27 +1051,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1183307602",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.5,
-      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9992.32,
-      "store": "liverpool",
-      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
-      "price": 38541.83,
-      "list_price": 57099.0,
-      "ean": null,
-      "model": "Rf80H30Cdtem",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200106811",
         "marketplace": null
       }
     },
