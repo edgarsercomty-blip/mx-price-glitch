@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-27 04:04 UTC",
-  "products_scanned": 1674,
+  "generated_at": "2026-07-27 04:34 UTC",
+  "products_scanned": 1666,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 52,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 61.5,
+      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13000.0,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+      "price": 9999.0,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "55Qned83Asg",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183858552",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -23,6 +44,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
       }
     },
     {
