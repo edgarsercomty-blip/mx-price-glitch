@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (494)
+# Historial de ofertas encontradas (496)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-27 13:48 | -28% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
+| 2026-07-27 13:48 | -34% | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $1,899 | $1,899 en liverpool vs mercado -> -34% bajo la competencia |
 | 2026-07-27 11:13 | -26% | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Haf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-27 07:55 | -20% | liverpool | [Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482) | $19,999 | $19,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-27 07:55 | -21% | liverpool | [Pantalla Smart Tv Hisense Led De 85 Pulgadas 4K Uhd 85A…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-led-de-85-pulgadas-4k-uhd-85a65nv-con-ai-sports-mode/1183307602) | $12,571 | $12,571 en liverpool vs mercado -> -21% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:03 | -23% | palacio | [Refrigerador Bottom Mount 300 L, Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-300-l-negro-42854729.html) | $12,999 | $12,999 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-02 09:03 | -24% | palacio | [Refrigerador bottom mount 22 p3 PWN22JEWCDS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jewcds-44964256.html) | $22,679 | $22,679 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-02 09:03 | -25% | palacio | [Lavadora Carga Superior 24 Kg Diamond Gray + Secadora](https://www.elpalaciodehierro.com/mabe-lavadora-carga-superior-24-kg-diamond-gray-secadora-41222632.html) | $27,059 | $27,059 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-02 09:03 | -25% | palacio | [Hervidor de agua 1.7 L Blanco](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-blanco-44519515.html) | $2,902 | $2,902 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-02 09:03 | -25% | palacio | [Hervidor de agua 1.7 L Negro Mate](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-negro-mate-44519513.html) | $2,902 | $2,902 en palacio vs mercado -> -25% bajo la competencia |

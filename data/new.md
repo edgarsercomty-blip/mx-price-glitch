@@ -1,7 +1,8 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-27 11:13 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-27 13:48 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **2**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -26% | $1,743 | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | Confirmado vs competencia | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
+| -28% | $1,186 | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | Confirmado vs competencia | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
+| -34% | $973 | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $1,899 | Confirmado vs competencia | $1,899 en liverpool vs mercado -> -34% bajo la competencia |
