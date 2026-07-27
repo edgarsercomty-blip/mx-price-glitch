@@ -156,15 +156,15 @@
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-25T23:14:38.991485+00:00",
+    "ts": "2026-07-27T23:58:17.289190+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-25T23:14:40.246459+00:00",
+    "ts": "2026-07-27T23:58:24.106372+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-25T23:14:41.614183+00:00",
+    "ts": "2026-07-27T23:58:27.937515+00:00",
     "items": []
   },
   "amazon|BVSTDC12B": {
@@ -420,15 +420,15 @@
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-25T23:14:42.854720+00:00",
+    "ts": "2026-07-27T23:58:29.236605+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-25T23:14:44.113910+00:00",
+    "ts": "2026-07-27T23:58:31.137688+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-07-25T23:14:45.677884+00:00",
+    "ts": "2026-07-27T23:58:33.774203+00:00",
     "items": []
   },
   "palacio|55QNED83ASG": {
@@ -678,30 +678,6 @@
   },
   "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
     "ts": "2026-07-27T22:56:35.990143+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASGOTEOTOUCH": {
-    "ts": "2026-07-25T23:14:34.701928+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASGOTEOTOUCH": {
-    "ts": "2026-07-25T23:14:36.209156+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASGOTEOTOUCH": {
-    "ts": "2026-07-25T23:14:37.768310+00:00",
-    "items": []
-  },
-  "amazon|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
-    "ts": "2026-07-25T23:14:46.808631+00:00",
-    "items": []
-  },
-  "walmart|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
-    "ts": "2026-07-25T23:14:48.708431+00:00",
-    "items": []
-  },
-  "sams|KRUPSESPRESSERIASENSATIONKRUPSAUTO": {
-    "ts": "2026-07-25T23:14:50.080432+00:00",
     "items": []
   },
   "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
@@ -2779,6 +2755,18 @@
   },
   "sams|OSTERCAFETERAPANELACEROTAZAS": {
     "ts": "2026-07-27T22:56:41.578073+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-07-27T23:58:12.448215+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-07-27T23:58:14.100135+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-07-27T23:58:15.780710+00:00",
     "items": []
   }
 }
