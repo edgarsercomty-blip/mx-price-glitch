@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-27 04:34 UTC",
-  "products_scanned": 1666,
+  "generated_at": "2026-07-27 07:55 UTC",
+  "products_scanned": 1543,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 51,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 61.5,
-      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
-      "price": 9999.0,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "55Qned83Asg",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183858552",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -44,27 +23,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 972.0,
-      "store": "liverpool",
-      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
-      "price": 1007.4,
-      "list_price": 1679.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158548573",
-        "marketplace": null
       }
     },
     {
@@ -154,48 +112,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -279,43 +195,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$191 en palacio vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 107.64,
-      "store": "palacio",
-      "name": "Funda para Celular Galaxy A56 Transparente",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html",
-      "price": 191.36,
-      "list_price": 299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44563913",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 2099.65,
+      "savings": 1749.65,
       "store": "palacio",
-      "name": "Licuadora Titan, 5 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
-      "price": 3899.35,
-      "list_price": 5999.0,
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3249.35,
+      "list_price": 4999.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45281005",
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -337,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216476",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1749.65,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3249.35,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
         "outlet": false
       }
     },
@@ -400,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
         "outlet": false
       }
     },
@@ -474,7 +327,7 @@
       "savings": 1679.65,
       "store": "palacio",
       "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
       "price": 3119.35,
       "list_price": 4799.0,
       "ean": null,
@@ -483,28 +336,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021105",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4199.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 7799.35,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021110",
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -553,6 +385,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$41,999 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 17999.7,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 41999.3,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 599.7,
@@ -568,27 +421,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
         "outlet": false
       }
     },
@@ -611,6 +443,27 @@
       "extra": {
         "id": "41273412",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.7,
+      "detail": "$14,917 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6299.56,
+      "store": "liverpool",
+      "name": "Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495",
+      "price": 14916.95,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "Wm16Ewnts6P",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1179336495",
+        "marketplace": null
       }
     },
     {
@@ -658,21 +511,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 26.0,
-      "detail": "$591 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$295 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 207.74,
+      "savings": 103.74,
       "store": "palacio",
-      "name": "Funda para celular Galaxy Z Flip 7, Navy",
-      "url": "https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html",
-      "price": 591.26,
-      "list_price": 799.0,
+      "name": "Cargador de corriente 25W",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
+      "price": 295.26,
+      "list_price": 399.0,
       "ean": null,
       "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44815304",
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -716,6 +569,69 @@
       "extra": {
         "productId": "1153472749",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.6,
+      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.9,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
+      "price": 5999.0,
+      "list_price": 12141.0,
+      "ean": null,
+      "model": "Un50M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9799.8,
+      "store": "palacio",
+      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262437",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9799.8,
+      "store": "palacio",
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262438",
+        "outlet": false
       }
     },
     {
@@ -779,6 +695,48 @@
       "extra": {
         "id": "44567926",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 64.3,
+      "detail": "$5,356 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1642.5,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
+      "price": 5356.5,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": "50Nu850Bpsa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1199018091",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 57.1,
+      "detail": "$10,714 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3285.6,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con Ai Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321",
+      "price": 10713.6,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": "75Qned73Asc",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1192293321",
+        "marketplace": null
       }
     },
     {
@@ -888,23 +846,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
-      "savings": 210.0,
-      "store": "liverpool",
-      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
-      "price": 749.0,
-      "list_price": 1199.0,
+      "savings": 2199.8,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
+      "price": 7699.3,
+      "list_price": 10999.0,
       "ean": null,
-      "model": "Bj2Bl",
-      "brand": "BLENDJET",
+      "model": null,
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1178436101",
-        "marketplace": null
+        "id": "45345509",
+        "outlet": false
       }
     },
     {
@@ -930,6 +888,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 64.1,
+      "detail": "$12,571 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3428.15,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Led De 85 Pulgadas 4K Uhd 85A65Nv Con Ai Sports Mode",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-led-de-85-pulgadas-4k-uhd-85a65nv-con-ai-sports-mode/1183307602",
+      "price": 12570.8,
+      "list_price": 34999.0,
+      "ean": null,
+      "model": "85A65Nv",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183307602",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -947,6 +926,27 @@
       "extra": {
         "id": "45505426",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 46.2,
+      "detail": "$19,999 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5000.1,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con Webos Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482",
+      "price": 19999.0,
+      "list_price": 37141.43,
+      "ean": null,
+      "model": "Oled55G5Psa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175336482",
+        "marketplace": null
       }
     },
     {
@@ -1010,27 +1010,6 @@
       "extra": {
         "productId": "1136430528",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,094 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 523.5,
-      "store": "palacio",
-      "name": "Cafetera Vertuo Pop negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html",
-      "price": 2094.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43295135",
-        "outlet": false
       }
     },
     {
