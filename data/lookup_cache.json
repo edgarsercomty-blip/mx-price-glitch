@@ -668,18 +668,6 @@
     "ts": "2026-07-27T19:19:04.625644+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-25T21:10:20.138527+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-25T21:10:22.172456+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-25T21:10:23.822120+00:00",
-    "items": []
-  },
   "amazon|RF80H30CDTEM": {
     "ts": "2026-07-25T22:12:16.807068+00:00",
     "items": []
@@ -2779,6 +2767,66 @@
   },
   "sams|OSTERCAFETERATAZASGOTEOACERO": {
     "ts": "2026-07-27T19:18:56.200066+00:00",
+    "items": []
+  },
+  "amazon|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-27T21:57:46.761224+00:00",
+    "items": []
+  },
+  "walmart|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-27T21:57:48.432030+00:00",
+    "items": []
+  },
+  "sams|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-07-27T21:57:50.886760+00:00",
+    "items": []
+  },
+  "amazon|PLAYMOBILPLAYMOBILSHIPPUDENKABUTONARUTO": {
+    "ts": "2026-07-27T21:57:53.984001+00:00",
+    "items": []
+  },
+  "walmart|PLAYMOBILPLAYMOBILSHIPPUDENKABUTONARUTO": {
+    "ts": "2026-07-27T21:57:55.446522+00:00",
+    "items": []
+  },
+  "sams|PLAYMOBILPLAYMOBILSHIPPUDENKABUTONARUTO": {
+    "ts": "2026-07-27T21:57:57.072296+00:00",
+    "items": []
+  },
+  "amazon|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
+    "ts": "2026-07-27T21:57:58.464381+00:00",
+    "items": []
+  },
+  "walmart|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
+    "ts": "2026-07-27T21:58:00.298846+00:00",
+    "items": []
+  },
+  "sams|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
+    "ts": "2026-07-27T21:58:02.209672+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-27T21:58:04.460546+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-27T21:58:10.663092+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-07-27T21:58:24.910959+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOCAFETERAVERTUODELUXETITAN": {
+    "ts": "2026-07-27T21:58:26.148382+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOCAFETERAVERTUODELUXETITAN": {
+    "ts": "2026-07-27T21:58:27.984722+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOCAFETERAVERTUODELUXETITAN": {
+    "ts": "2026-07-27T21:58:30.155530+00:00",
     "items": []
   }
 }

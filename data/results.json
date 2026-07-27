@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27 20:46 UTC",
-  "products_scanned": 1607,
+  "generated_at": "2026-07-27 21:58 UTC",
+  "products_scanned": 1590,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -154,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -553,27 +553,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 599.7,
@@ -589,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44650469",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.7,
+      "store": "palacio",
+      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
+      "price": 2099.3,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43806632",
         "outlet": false
       }
     },
@@ -762,22 +762,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$32,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 1299.75,
+      "savings": 10999.8,
       "store": "palacio",
-      "name": "Funda con teclado iPad Pro 11\"",
-      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
+      "name": "Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html",
+      "price": 32999.4,
+      "list_price": 54999.0,
       "ean": null,
       "model": null,
-      "brand": "Logitech",
+      "brand": "Lg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45053113",
+        "id": "44638189",
         "outlet": false
       }
     },
@@ -799,6 +799,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45397419",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Funda con teclado iPad Pro 11\"",
+      "url": "https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Logitech",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45053113",
         "outlet": false
       }
     },
@@ -930,6 +951,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$35,153 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10322.81,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
+      "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
+      "price": 35153.37,
+      "list_price": 55799.0,
+      "ean": null,
+      "model": "K65XR70M2",
+      "brand": "Sony",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45500060",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1030,6 +1072,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1128184305",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$55 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13.8,
+      "store": "liverpool",
+      "name": "Playmobil Naruto Shippuden Kabuto 71568",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364",
+      "price": 55.2,
+      "list_price": 69.0,
+      "ean": null,
+      "model": null,
+      "brand": "PLAYMOBIL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184385364",
         "marketplace": null
       }
     },
