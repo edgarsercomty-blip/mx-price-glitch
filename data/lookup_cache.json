@@ -396,15 +396,15 @@
     "items": []
   },
   "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-25T17:52:14.182969+00:00",
+    "ts": "2026-07-27T17:56:53.795553+00:00",
     "items": []
   },
   "walmart|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-25T17:52:15.898903+00:00",
+    "ts": "2026-07-27T17:57:05.519162+00:00",
     "items": []
   },
   "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-25T17:52:17.524890+00:00",
+    "ts": "2026-07-27T17:57:11.105905+00:00",
     "items": []
   },
   "amazon|CUISINARTVELOCIDADESLICUADORAPOWERSMART": {
@@ -666,54 +666,6 @@
   },
   "sams|APPLEMACBOOKAPPLECHIP512": {
     "ts": "2026-07-27T16:09:25.246689+00:00",
-    "items": []
-  },
-  "amazon|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
-    "ts": "2026-07-25T17:52:18.737896+00:00",
-    "items": []
-  },
-  "walmart|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
-    "ts": "2026-07-25T17:52:20.294913+00:00",
-    "items": []
-  },
-  "sams|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
-    "ts": "2026-07-25T17:52:21.917912+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREARELOJWATCHMILAN": {
-    "ts": "2026-07-25T17:52:23.155924+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREARELOJWATCHMILAN": {
-    "ts": "2026-07-25T17:52:24.585359+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREARELOJWATCHMILAN": {
-    "ts": "2026-07-25T17:52:27.945808+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETINOXIDABLELICUADORAVELOCIDADPORTATIL": {
-    "ts": "2026-07-25T17:52:29.302101+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETINOXIDABLELICUADORAVELOCIDADPORTATIL": {
-    "ts": "2026-07-25T17:52:30.822787+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETINOXIDABLELICUADORAVELOCIDADPORTATIL": {
-    "ts": "2026-07-25T17:52:32.290690+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-07-25T17:52:33.662586+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-07-25T17:52:36.112386+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-07-25T17:52:37.621017+00:00",
     "items": []
   },
   "amazon|SAMSUNGRESISTENTEMAGNETICAGALAXYULTRA": {
@@ -2803,6 +2755,30 @@
   },
   "sams|OSTERCAFETERATOUCHGOTEOTAZAS": {
     "ts": "2026-07-27T16:56:06.239769+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-27T17:57:12.561530+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-27T17:57:17.526430+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHPANELGOTEO": {
+    "ts": "2026-07-27T17:57:21.586567+00:00",
+    "items": []
+  },
+  "amazon|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
+    "ts": "2026-07-27T17:57:23.532518+00:00",
+    "items": []
+  },
+  "walmart|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
+    "ts": "2026-07-27T17:57:25.546058+00:00",
+    "items": []
+  },
+  "sams|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
+    "ts": "2026-07-27T17:57:27.135571+00:00",
     "items": []
   }
 }

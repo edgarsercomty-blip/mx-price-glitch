@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-27 16:56 UTC",
-  "products_scanned": 1597,
+  "generated_at": "2026-07-27 17:57 UTC",
+  "products_scanned": 1602,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 55,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 61.5,
-      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
-      "price": 9999.0,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "55Qned83Asg",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183858552",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -175,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -211,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -553,27 +532,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -589,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43806632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -968,27 +947,6 @@
       "extra": {
         "productId": "1180419841",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$35,153 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10322.81,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
-      "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
-      "price": 35153.37,
-      "list_price": 55799.0,
-      "ean": null,
-      "model": "K65XR70M2",
-      "brand": "Sony",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45500060",
-        "outlet": false
       }
     },
     {

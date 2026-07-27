@@ -1,16 +1,14 @@
-# Errores/chollos de precio — 2026-07-27 16:56 UTC
+# Errores/chollos de precio — 2026-07-27 17:57 UTC
 
-- Productos revisados: **1597**
+- Productos revisados: **1602**
 - Umbral de diferencia: **20%**
-- Hallazgos: **57**
+- Hallazgos: **55**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
 | -48% | $15,010 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | Confirmado vs competencia | $15,929 en palacio vs mercado -> -48% bajo la competencia |
 | -30% | $14,700 | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd P…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | Confirmado vs competencia | $34,999 en liverpool vs mercado -> -30% bajo la competencia |
-| -56% | $13,000 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | Confirmado vs competencia | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
-| -23% | $10,323 | palacio | [Pantalla 65 pulgadas Plana 4K K65XR70M2](https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html) | $35,153 | Confirmado vs competencia | $35,153 en palacio vs mercado -> -23% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
