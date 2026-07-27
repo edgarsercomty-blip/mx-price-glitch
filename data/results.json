@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26 23:13 UTC",
-  "products_scanned": 1649,
+  "generated_at": "2026-07-27 00:14 UTC",
+  "products_scanned": 1651,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -133,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -169,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -406,6 +406,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -432,7 +453,7 @@
       "savings": 1679.65,
       "store": "palacio",
       "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
       "price": 3119.35,
       "list_price": 4799.0,
       "ean": null,
@@ -441,7 +462,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021106",
+        "id": "45021105",
         "outlet": false
       }
     },
@@ -463,27 +484,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021105",
         "outlet": false
       }
     },
@@ -532,27 +532,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.7,
-      "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 899.7,
@@ -568,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43806632",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -663,7 +663,7 @@
       "savings": 103.74,
       "store": "palacio",
       "name": "Cargador de corriente 25W",
-      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html",
+      "url": "https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html",
       "price": 295.26,
       "list_price": 399.0,
       "ean": null,
@@ -672,7 +672,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43520802",
+        "id": "43520801",
         "outlet": false
       }
     },
@@ -926,6 +926,27 @@
       "extra": {
         "productId": "1164464136",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8249.85,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30249.45,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
+        "outlet": false
       }
     },
     {
