@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (498)
+# Historial de ofertas encontradas (499)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-27 19:19 | -38% | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | $12,499 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-07-27 16:10 | -23% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-27 16:10 | -51% | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $33,428 | $33,428 en liverpool vs mercado -> -51% bajo la competencia |
 | 2026-07-27 13:48 | -28% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:03 | -20% | palacio | [Refrigerador Bottom Mount 520 L](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-520-l-42886432.html) | $19,535 | $19,535 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:03 | -22% | palacio | [Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html) | $14,499 | $14,499 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-02 09:03 | -23% | palacio | [Refrigerador Top Mount 10 p3 RMA250FYMRX0](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html) | $8,945 | $8,945 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-02 09:03 | -23% | palacio | [Refrigerador Bottom Mount 300 L, Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-300-l-negro-42854729.html) | $12,999 | $12,999 en palacio vs mercado -> -23% bajo la competencia |
