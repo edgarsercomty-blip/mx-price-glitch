@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (496)
+# Historial de ofertas encontradas (498)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-27 16:10 | -23% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-07-27 16:10 | -51% | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $33,428 | $33,428 en liverpool vs mercado -> -51% bajo la competencia |
 | 2026-07-27 13:48 | -28% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-27 13:48 | -34% | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $1,899 | $1,899 en liverpool vs mercado -> -34% bajo la competencia |
 | 2026-07-27 11:13 | -26% | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Haf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:03 | -22% | palacio | [Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html) | $14,499 | $14,499 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-02 09:03 | -23% | palacio | [Refrigerador Top Mount 10 p3 RMA250FYMRX0](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html) | $8,945 | $8,945 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-02 09:03 | -23% | palacio | [Refrigerador Bottom Mount 300 L, Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-300-l-negro-42854729.html) | $12,999 | $12,999 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-02 09:03 | -24% | palacio | [Refrigerador bottom mount 22 p3 PWN22JEWCDS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jewcds-44964256.html) | $22,679 | $22,679 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-07-02 09:03 | -25% | palacio | [Lavadora Carga Superior 24 Kg Diamond Gray + Secadora](https://www.elpalaciodehierro.com/mabe-lavadora-carga-superior-24-kg-diamond-gray-secadora-41222632.html) | $27,059 | $27,059 en palacio vs mercado -> -25% bajo la competencia |

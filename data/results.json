@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-27 13:48 UTC",
-  "products_scanned": 1583,
+  "generated_at": "2026-07-27 16:10 UTC",
+  "products_scanned": 1601,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 59,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.5,
+      "detail": "$33,428 en liverpool vs mercado -> -51% bajo la competencia",
+      "likely_typo": false,
+      "savings": 34171.93,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273",
+      "price": 33427.55,
+      "list_price": 57141.43,
+      "ean": null,
+      "model": "Oled65G5Psa",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175150273",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -23,6 +44,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
       }
     },
     {
@@ -258,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$35,153 en palacio vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 20645.63,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
-      "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
-      "price": 35153.37,
-      "list_price": 55799.0,
-      "ean": null,
-      "model": "K65XR70M2",
-      "brand": "Sony",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45500060",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$191 en palacio vs mercado -> -36% bajo la competencia",
       "likely_typo": false,
@@ -506,27 +527,6 @@
       "extra": {
         "id": "45021110",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$1,899 en liverpool vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 972.89,
-      "store": "liverpool",
-      "name": "Smartwatch Mibro Lite 3 Pro Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224",
-      "price": 1899.0,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "MIBRO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "99981212224",
-        "marketplace": null
       }
     },
     {
@@ -804,27 +804,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 999.8,
-      "store": "palacio",
-      "name": "Licuadora Ninja Detect Power Pro, 10 velocidades",
-      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html",
-      "price": 2999.4,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44567926",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -841,6 +820,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45053113",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 999.8,
+      "store": "palacio",
+      "name": "Licuadora Ninja Detect Power Pro, 10 velocidades",
+      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html",
+      "price": 2999.4,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44567926",
         "outlet": false
       }
     },
@@ -972,6 +972,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.7,
+      "detail": "$17,999 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5399.9,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 17999.2,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$35,153 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10322.81,
+      "store": "palacio",
+      "name": "Pantalla 65 pulgadas Plana 4K K65XR70M2",
+      "url": "https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html",
+      "price": 35153.37,
+      "list_price": 55799.0,
+      "ean": null,
+      "model": "K65XR70M2",
+      "brand": "Sony",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45500060",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1014,22 +1056,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,259 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 64.1,
+      "detail": "$12,571 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 314.85,
+      "savings": 3428.15,
       "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
-      "price": 1259.4,
-      "list_price": 2099.0,
+      "name": "Pantalla Smart Tv Hisense Led De 85 Pulgadas 4K Uhd 85A65Nv Con Ai Sports Mode",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-led-de-85-pulgadas-4k-uhd-85a65nv-con-ai-sports-mode/1183307602",
+      "price": 12570.8,
+      "list_price": 34999.0,
       "ean": null,
-      "model": null,
-      "brand": "OSTER",
+      "model": "85A65Nv",
+      "brand": "HISENSE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1133854092",
+        "productId": "1183307602",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.5,
+      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9992.32,
+      "store": "liverpool",
+      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
+      "price": 38541.83,
+      "list_price": 57099.0,
+      "ean": null,
+      "model": "Rf80H30Cdtem",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200106811",
         "marketplace": null
       }
     },
@@ -1073,6 +1136,27 @@
       "extra": {
         "id": "45262438",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 99.8,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Karl Lagerfeld",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305",
+      "price": 399.2,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "KARL LAGERFELD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1128184305",
+        "marketplace": null
       }
     },
     {
@@ -1157,48 +1241,6 @@
       "extra": {
         "id": "43484884",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 99.8,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Karl Lagerfeld",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305",
-      "price": 399.2,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KARL LAGERFELD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1128184305",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430528",
-        "marketplace": null
       }
     }
   ]
