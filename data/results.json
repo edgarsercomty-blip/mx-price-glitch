@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28 18:07 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-07-28 19:55 UTC",
+  "products_scanned": 845,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 41,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,48 +23,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15010.04,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 15929.41,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$287 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 252.0,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 287.4,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
       }
     },
     {
@@ -594,27 +552,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 56.3,
-      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1742.78,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
-      "price": 4999.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "Un43M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509171",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -631,69 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45467987",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$460 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 159.0,
-      "store": "liverpool",
-      "name": "Cafetera De Goteo Oster Bvstdc12B",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749",
-      "price": 460.0,
-      "list_price": 460.0,
-      "ean": null,
-      "model": "Bvstdc12B",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153472749",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2249.75,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
-      "price": 6749.25,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951467",
         "outlet": false
       }
     },
@@ -736,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44567926",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951467",
         "outlet": false
       }
     },
@@ -825,27 +720,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 42.7,
-      "detail": "$17,999 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5399.9,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 17999.2,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -863,90 +737,6 @@
       "extra": {
         "id": "45345508",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 210.0,
-      "store": "liverpool",
-      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
-      "price": 749.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": "Bj2Bl",
-      "brand": "BLENDJET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178436101",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,079 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2771.84,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746Bvax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136",
-      "price": 10079.4,
-      "list_price": 16799.0,
-      "ean": null,
-      "model": "Wa19Cg6746Bvax",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1164464136",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,445 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 611.25,
-      "store": "liverpool",
-      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
-      "price": 2445.0,
-      "list_price": 2445.0,
-      "ean": null,
-      "model": null,
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1194918409",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 99.8,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Karl Lagerfeld",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305",
-      "price": 399.2,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "KARL LAGERFELD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1128184305",
-        "marketplace": null
       }
     },
     {

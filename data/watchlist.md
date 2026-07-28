@@ -1,4 +1,4 @@
-# Productos en vigilancia (441)
+# Productos en vigilancia (442)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -12,6 +12,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🔴 agotado | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | -22% |
 | 🔴 agotado | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | -21% |
 | 🔴 agotado | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | -21% |
+| 🔴 agotado | liverpool | [Apple MacBook Air 13.6" M3 8GB/256GB (ERROR precio ~75%)](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-6-pulgadas-m3-8-gb-ram-256-gb-ssd-plateado/1153206542) | $5,684 | -75% |
 | 🟢 disponible | liverpool | [Refrigerador French door Whirlpool 20 pies tecnología no fro…](https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981) | $24,641 | -24% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED Evo AI C5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-c5-4k-smart-tv-2025-44636336.html) | $15,960 | -20% |
 | 🟢 disponible | liverpool | [Bicicleta urbana Veloci rodada 26 unisex](https://liverpool.com.mx/tienda/pdp/Bicicleta-urbana-Veloci-rodada-26-unisex/1167998964) | $3,799 | -37% |
