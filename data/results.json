@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28 21:00 UTC",
-  "products_scanned": 1626,
+  "generated_at": "2026-07-28 22:06 UTC",
+  "products_scanned": 1641,
   "threshold_pct": 20.0,
-  "count": 49,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,6 +112,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -148,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
         "outlet": false
       }
     },
@@ -364,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 6842.15,
@@ -400,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -590,6 +590,27 @@
       "extra": {
         "id": "44519347",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.3,
+      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1742.78,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 4999.15,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
+        "marketplace": null
       }
     },
     {
@@ -804,6 +825,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.7,
+      "detail": "$17,999 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5399.9,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 17999.2,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -867,6 +909,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 32.5,
+      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9992.32,
+      "store": "liverpool",
+      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
+      "price": 38541.83,
+      "list_price": 57099.0,
+      "ean": null,
+      "model": "Rf80H30Cdtem",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200106811",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$2,445 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -883,6 +946,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1194918409",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$519 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 129.8,
+      "store": "liverpool",
+      "name": "Funda Spigen Urban Fit",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844",
+      "price": 519.2,
+      "list_price": 649.0,
+      "ean": null,
+      "model": null,
+      "brand": "SPIGEN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1160052844",
         "marketplace": null
       }
     },
@@ -994,27 +1078,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.85,
-      "store": "palacio",
-      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
-      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44170253",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4499.85,
@@ -1030,6 +1093,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43484884",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.85,
+      "store": "palacio",
+      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
+      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44170253",
         "outlet": false
       }
     }
