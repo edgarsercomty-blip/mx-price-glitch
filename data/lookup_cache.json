@@ -443,18 +443,6 @@
     "ts": "2026-07-28T10:46:26.539219+00:00",
     "items": []
   },
-  "amazon|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-26T11:57:10.355794+00:00",
-    "items": []
-  },
-  "walmart|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-26T11:57:11.915712+00:00",
-    "items": []
-  },
-  "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-07-26T11:57:14.012495+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERATAZASTOUCHGOTEO": {
     "ts": "2026-07-26T22:14:46.660847+00:00",
     "items": []
@@ -561,30 +549,6 @@
   },
   "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
     "ts": "2026-07-27T22:56:35.990143+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
-    "ts": "2026-07-26T11:57:15.330728+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
-    "ts": "2026-07-26T11:57:17.622484+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGRUGGEDGALAXYRAYASNEGRA": {
-    "ts": "2026-07-26T11:57:19.173979+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-07-26T11:57:20.620940+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-07-26T11:57:22.216196+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-07-26T11:57:24.228235+00:00",
     "items": []
   },
   "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
@@ -2238,6 +2202,42 @@
   },
   "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
     "ts": "2026-07-28T10:46:46.793843+00:00",
+    "items": []
+  },
+  "amazon|ECF02CRUS": {
+    "ts": "2026-07-28T12:48:57.355747+00:00",
+    "items": []
+  },
+  "walmart|ECF02CRUS": {
+    "ts": "2026-07-28T12:48:59.054036+00:00",
+    "items": []
+  },
+  "sams|ECF02CRUS": {
+    "ts": "2026-07-28T12:49:01.054473+00:00",
+    "items": []
+  },
+  "amazon|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-07-28T12:49:02.816689+00:00",
+    "items": []
+  },
+  "walmart|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-07-28T12:49:05.063728+00:00",
+    "items": []
+  },
+  "sams|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-07-28T12:49:06.599734+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHTAZAS": {
+    "ts": "2026-07-28T12:49:07.889374+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHTAZAS": {
+    "ts": "2026-07-28T12:49:09.855989+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELTOUCHTAZAS": {
+    "ts": "2026-07-28T12:49:11.309354+00:00",
     "items": []
   }
 }
