@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28 08:03 UTC",
-  "products_scanned": 1570,
+  "generated_at": "2026-07-28 10:46 UTC",
+  "products_scanned": 1588,
   "threshold_pct": 20.0,
   "count": 42,
   "findings": [
@@ -149,6 +149,27 @@
       "extra": {
         "id": "43394653",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.1,
+      "detail": "$12,499 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7500.3,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669",
+      "price": 12499.2,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": "65Qned81Bsg",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200279669",
+        "marketplace": null
       }
     },
     {
@@ -426,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 56.3,
+      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1742.78,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 4999.15,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -699,27 +741,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 32.5,
-      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9992.32,
-      "store": "liverpool",
-      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
-      "price": 38541.83,
-      "list_price": 57099.0,
-      "ean": null,
-      "model": "Rf80H30Cdtem",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200106811",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$2,445 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -736,27 +757,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1194918409",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$519 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 129.8,
-      "store": "liverpool",
-      "name": "Funda Spigen Urban Fit",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844",
-      "price": 519.2,
-      "list_price": 649.0,
-      "ean": null,
-      "model": null,
-      "brand": "SPIGEN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1160052844",
         "marketplace": null
       }
     },

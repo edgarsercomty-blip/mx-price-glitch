@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-07-28 08:03 UTC
+# Errores/chollos de precio — 2026-07-28 10:46 UTC
 
-- Productos revisados: **1570**
+- Productos revisados: **1588**
 - Umbral de diferencia: **20%**
 - Hallazgos: **42**
 
@@ -8,9 +8,9 @@
 |------:|-------:|--------|----------|-------:|------|---------|
 | -30% | $17,250 | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | Confirmado vs competencia | $40,249 en palacio vs mercado -> -30% bajo la competencia |
 | -48% | $15,010 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | Confirmado vs competencia | $15,929 en palacio vs mercado -> -48% bajo la competencia |
-| -21% | $9,992 | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | Confirmado vs competencia | $38,542 en liverpool vs mercado -> -21% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -21% | $8,250 | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | Confirmado vs competencia | $30,249 en palacio vs mercado -> -21% bajo la competencia |
+| -38% | $7,500 | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | Confirmado vs competencia | $12,499 en liverpool vs mercado -> -38% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $5,400 | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | Confirmado vs competencia | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
@@ -26,6 +26,7 @@
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
+| -26% | $1,743 | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | Confirmado vs competencia | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
@@ -46,5 +47,4 @@
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
 | -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
-| -20% | $130 | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | Confirmado vs competencia | $519 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
