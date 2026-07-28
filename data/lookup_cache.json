@@ -575,30 +575,6 @@
     "ts": "2026-07-27T22:56:35.990143+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAACEROTAZASTOUCH": {
-    "ts": "2026-07-26T06:32:38.389754+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTAZASTOUCH": {
-    "ts": "2026-07-26T06:32:39.953102+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTAZASTOUCH": {
-    "ts": "2026-07-26T06:32:42.084008+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-26T06:32:43.783416+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-26T06:32:45.951075+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-26T06:32:47.732275+00:00",
-    "items": []
-  },
   "amazon|LGPANTALLASMARTPLANAOLED": {
     "ts": "2026-07-26T08:59:48.517837+00:00",
     "items": []
@@ -2262,6 +2238,54 @@
   },
   "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
     "ts": "2026-07-28T05:26:35.666810+00:00",
+    "items": []
+  },
+  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-28T08:02:52.742555+00:00",
+    "items": []
+  },
+  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-28T08:02:55.596100+00:00",
+    "items": []
+  },
+  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-07-28T08:03:02.824567+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
+    "ts": "2026-07-28T08:03:16.695748+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
+    "ts": "2026-07-28T08:03:18.253757+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOUSSE": {
+    "ts": "2026-07-28T08:03:19.755128+00:00",
+    "items": []
+  },
+  "amazon|MABESECADORALAVADORA": {
+    "ts": "2026-07-28T08:03:21.344996+00:00",
+    "items": []
+  },
+  "walmart|MABESECADORALAVADORA": {
+    "ts": "2026-07-28T08:03:25.815701+00:00",
+    "items": []
+  },
+  "sams|MABESECADORALAVADORA": {
+    "ts": "2026-07-28T08:03:30.007794+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHGOTEOACERO": {
+    "ts": "2026-07-28T08:03:31.330383+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHGOTEOACERO": {
+    "ts": "2026-07-28T08:03:33.172456+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHGOTEOACERO": {
+    "ts": "2026-07-28T08:03:35.755399+00:00",
     "items": []
   }
 }

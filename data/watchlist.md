@@ -1,4 +1,4 @@
-# Productos en vigilancia (440)
+# Productos en vigilancia (441)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -30,7 +30,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Yinleader 1500W Transformador convertidor de Voltaje (220V a…](https://www.amazon.com.mx/dp/B07SZFF97X) | $1,090 | -28% |
 | 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72205WBAB1 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72205wbab1-blanca-43133031.html) | $7,470 | -56% |
 | 🟢 disponible | sams | [iPhone 16 Apple  256 GB 5G Blanco Telcel](https://www.sams.com.mx/ip/iphone-16-apple-256-gb-5g-blanco-telcel/981028997) | $10,229 | -32% |
-| 🟢 disponible | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $11,025 | -43% |
+| 🟢 disponible | palacio | [Lavadora Automática, 23 Kg, WA23C3554GV-AX de carga superior…](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-23-kg-wa23c3554gv-ax-de-carga-superior-negra-43689721.html) | $10,290 | -43% |
 | 🟢 disponible | liverpool | [Lavasecadora Samsung eléctrica 11.5 kg 7 kg WD11T4046BX/AX](https://liverpool.com.mx/tienda/pdp/Lavasecadora-Samsung-el%C3%A9ctrica-11.5-kg-7-kg-WD11T4046BX/AX/1110891659) | $8,957 | -32% |
 | 🟢 disponible | walmart | [Cafetera Hamilton Beach Programable 12 tazas Plateado](https://www.walmart.com.mx/ip/cafetera-hamilton-beach-programable-12-tazas-plateado/00004009446321?athbdg=L1300) | $758 | -24% |
 | 🟢 disponible | liverpool | [Pantalla Smart TV LG QNED de 50 pulgadas 4K 50QNED82ASA con …](https://liverpool.com.mx/tienda/pdp/Pantalla-Smart-TV-LG-QNED-de-50-pulgadas-4K-50QNED82ASA-con-WebOS-con-AI-webOS/1175836957) | $8,499 | -62% |
@@ -45,7 +45,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Boci…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $20,499 | -45% |
 | 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,299 | -32% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,199 | -25% |
-| 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $13,565 | -24% |
+| 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $14,517 | -24% |
 | 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $10,228 | -23% |
 | 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $10,228 | -23% |
 | 🟢 disponible | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | -54% |
@@ -80,12 +80,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Lavadora 21 kg y Secadora 22 kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-21-kg-y-secadora-22-kg-44964251.html) | $19,529 | -27% |
 | 🟢 disponible | palacio | [Lavadora automática 19 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-19-kg-carga-superior-44964252.html) | $7,830 | -38% |
 | 🟢 disponible | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964253.html) | $8,946 | -38% |
-| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html) | $24,254 | -21% |
+| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html) | $21,559 | -21% |
 | 🟢 disponible | palacio | [Centro de lavado a Gas de carga superior 24 Kg Gris](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-a-gas-de-carga-superior-24-kg-gris-44064323.html) | $30,271 | -32% |
 | 🟢 disponible | walmart | [Máquina de café espresso KitchenAid KES6403 semiautomática 1…](https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300) | $9,539 | -31% |
 | 🟢 disponible | palacio | [Frigobar 4 p3 RMF0411PYMX0R](https://www.elpalaciodehierro.com/mabe-frigobar-4-p3-rmf0411pymx0r-45253852.html) | $3,574 | -29% |
 | 🟢 disponible | palacio | [Secadora a Gas 22 Kg Energy Saver Green Carga Frontal Blanca](https://www.elpalaciodehierro.com/mabe-secadora-a-gas-22-kg-energy-saver-green-carga-frontal-blanca-40283500.html) | $11,593 | -26% |
-| 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JYWCFS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html) | $21,654 | -25% |
+| 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JYWCFS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html) | $18,459 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $2,567 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $2,567 | -25% |
 | 🟢 disponible | palacio | [Combo Licuadora Porcelain con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html) | $2,599 | -25% |
@@ -100,7 +100,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html) | $15,999 | -22% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 520 L](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-520-l-42886432.html) | $18,647 | -20% |
 | 🟢 disponible | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964254.html) | $14,321 | -20% |
-| 🟢 disponible | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blanco](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $29,039 | -20% |
+| 🟢 disponible | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blanco](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $30,799 | -20% |
 | 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | -20% |
 | 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $21,427 | -52% |
@@ -115,7 +115,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | -29% |
 | 🟢 disponible | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | -25% |
 | 🟢 disponible | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | -25% |
-| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,944 | -33% |
+| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,559 | -33% |
 | 🟢 disponible | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | -30% |
 | 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $366 | -26% |
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
@@ -124,10 +124,10 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | -24% |
 | 🟢 disponible | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | -24% |
 | 🟢 disponible | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,080 | -25% |
-| 🟢 disponible | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $19,379 | -21% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $16,660 | -21% |
 | 🟢 disponible | walmart | [Smartwatch Samsung Galaxy Fit3 Rosa](https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447?athbdg=L1600) | $999 | -21% |
 | 🟢 disponible | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,047 | -20% |
-| 🟢 disponible | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespoke](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $17,513 | -20% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespoke](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | -20% |
 | 🟢 disponible | mercadolibre | [Pantalla Samsung 65 Pulgadas Series Uhd 4k Smart Tizen Tv](https://www.mercadolibre.com.mx/pantalla-samsung-65-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM66344857) | $9,899 | -29% |
 | 🟢 disponible | walmart | [Congelador Hisense 7 Pies Gris FC70D6BGX](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300) | $5,690 | -29% |
 | 🟢 disponible | amazon | [Suavitel Suavizante de Ropa Cuidado Superior Fresca Primaver…](https://www.amazon.com.mx/dp/B0BPB5MG17) | $151 | -27% |
@@ -260,7 +260,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | -20% |
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,259 | -52% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $7,139 | -25% |
-| 🟢 disponible | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $12,599 | -22% |
+| 🟢 disponible | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,619 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $12,643 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $11,050 | -29% |
 | 🟢 disponible | palacio | [Monitor de Sueño Index Sleep](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-sleep-44840621.html) | $2,699 | -25% |
@@ -444,3 +444,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | -38% |
 | 🟢 disponible | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,699 | -42% |
+| 🟢 disponible | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | -30% |

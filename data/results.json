@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-28 05:26 UTC",
-  "products_scanned": 1630,
+  "generated_at": "2026-07-28 08:03 UTC",
+  "products_scanned": 1570,
   "threshold_pct": 20.0,
-  "count": 49,
+  "count": 42,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$19,795 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19795.0,
-      "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 19795.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 41.0,
@@ -112,48 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -169,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -301,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$2,677 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1441.65,
-      "store": "palacio",
-      "name": "Licuadora Xtreme Mix, 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
-      "price": 2677.35,
-      "list_price": 4119.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926491",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 615.65,
@@ -343,21 +280,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 314.65,
+      "savings": 6842.15,
       "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45162351",
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -405,48 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4199.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 7799.35,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -469,42 +364,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "detail": "$40,249 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 599.7,
+      "savings": 17249.7,
       "store": "palacio",
-      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
-      "price": 1399.3,
-      "list_price": 1999.0,
+      "name": "Lavadora y Secadora, 25 Kg",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html",
+      "price": 40249.3,
+      "list_price": 57499.0,
       "ean": null,
       "model": null,
-      "brand": "Nutribullet",
+      "brand": "Mabe",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44650469",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.7,
-      "store": "palacio",
-      "name": "Licuadora personal, 1 Velocidad, Blanco Mate",
-      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html",
-      "price": 2099.3,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nutribullet",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43806632",
+        "id": "42731253",
         "outlet": false
       }
     },
@@ -615,6 +489,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951467",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -653,27 +548,6 @@
       "extra": {
         "id": "44567926",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$8,122 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2491.34,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
-      "price": 8122.05,
-      "list_price": 18049.0,
-      "ean": null,
-      "model": "Wa20A3350Gw",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1106592728",
-        "marketplace": null
       }
     },
     {
@@ -762,27 +636,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$7,699 en palacio vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2199.8,
-      "store": "palacio",
-      "name": "Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html",
-      "price": 7699.3,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45345508",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 37.5,
       "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -821,6 +674,27 @@
       "extra": {
         "productId": "1164464136",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8249.85,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30249.45,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
+        "outlet": false
       }
     },
     {
@@ -925,27 +799,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262437",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
         "outlet": false
       }
     },
