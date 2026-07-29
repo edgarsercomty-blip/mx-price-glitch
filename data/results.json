@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-29 16:20 UTC",
-  "products_scanned": 1648,
+  "generated_at": "2026-07-29 17:05 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 55,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 61.5,
-      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13000.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
-      "price": 9999.0,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "55Qned83Asg",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183858552",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 21.7,
@@ -111,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 56.7,
+      "detail": "$8,699 en liverpool vs mercado -> -42% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6284.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253",
+      "price": 8699.0,
+      "list_price": 20109.0,
+      "ean": null,
+      "model": "Fc0240La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "999675792253",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -127,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
         "outlet": false
       }
     },
@@ -175,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -211,6 +169,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -275,27 +275,6 @@
       "extra": {
         "id": "43484891",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 27.7,
-      "detail": "$4,471 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2413.0,
-      "store": "liverpool",
-      "name": "Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron Intel Uhd Graphics 4 Gb Ram 128 Gb Emmc",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218",
-      "price": 4471.0,
-      "list_price": 6186.8,
-      "ean": null,
-      "model": null,
-      "brand": "LENOVO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1176451218",
-        "marketplace": null
       }
     },
     {
@@ -1014,43 +993,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,499 en liverpool vs mercado -> -21% bajo la competencia",
+      "discount_pct": 32.5,
+      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1999.8,
+      "savings": 9992.32,
       "store": "liverpool",
-      "name": "Apple Iphone 13 6 1 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-13-6-1-pulgadas-super-retina-xdr/1111323971",
-      "price": 7499.25,
-      "list_price": 9999.0,
+      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
+      "price": 38541.83,
+      "list_price": 57099.0,
       "ean": null,
-      "model": null,
-      "brand": "APPLE",
+      "model": "Rf80H30Cdtem",
+      "brand": "SAMSUNG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1111323971",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$519 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 129.8,
-      "store": "liverpool",
-      "name": "Funda Spigen Urban Fit",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844",
-      "price": 519.2,
-      "list_price": 649.0,
-      "ean": null,
-      "model": null,
-      "brand": "SPIGEN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1160052844",
+        "productId": "1200106811",
         "marketplace": null
       }
     },
