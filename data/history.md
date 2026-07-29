@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (503)
+# Historial de ofertas encontradas (504)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-29 09:25 | -40% | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-29 00:11 | -36% | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 23:17 | -36% | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Cele…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | $4,471 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 08:03 | -30% | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | $40,249 en palacio vs mercado -> -30% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:42 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-02 09:03 | -20% | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | $5,631 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 09:03 | -20% | palacio | [Centro de lavado Premium Electrico de Carga Superior 24…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | $35,573 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-02 09:03 | -20% | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blan…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $29,039 | $29,039 en palacio vs mercado -> -20% bajo la competencia |

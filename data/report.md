@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-29 06:24 UTC
+# Errores/chollos de precio — 2026-07-29 09:25 UTC
 
-- Productos revisados: **1617**
+- Productos revisados: **1607**
 - Umbral de diferencia: **20%**
-- Hallazgos: **52**
+- Hallazgos: **55**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -11,13 +11,15 @@
 | -48% | $15,010 | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | Confirmado vs competencia | $15,929 en palacio vs mercado -> -48% bajo la competencia |
 | -30% | $11,970 | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | Confirmado vs competencia | $27,930 en palacio vs mercado -> -30% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
-| -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
+| -21% | $8,250 | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | Confirmado vs competencia | $30,249 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $5,400 | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | Confirmado vs competencia | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
 | -30% | $5,397 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $12,593 | Confirmado vs competencia | $12,593 en palacio vs mercado -> -30% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $4,500 | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | Confirmado vs competencia | $17,999 en palacio vs mercado -> -20% bajo la competencia |
+| -40% | $4,220 | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | Confirmado vs competencia | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
 | -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
 | -55% | $3,821 | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,169 | Confirmado vs competencia | $3,169 en liverpool vs mercado -> -55% bajo la competencia |
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
@@ -30,11 +32,12 @@
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
+| -26% | $1,743 | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | Confirmado vs competencia | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
+| -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -40% | $1,480 | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | Confirmado vs competencia | $2,219 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,442 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | Confirmado vs competencia | $2,677 en palacio vs mercado -> -35% bajo la competencia |
