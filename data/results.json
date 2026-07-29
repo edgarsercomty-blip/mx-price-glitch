@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 21:51 UTC",
-  "products_scanned": 1645,
+  "generated_at": "2026-07-29 22:52 UTC",
+  "products_scanned": 1650,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -154,6 +154,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.6,
+      "store": "palacio",
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -190,27 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1155.6,
-      "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216480",
         "outlet": false
       }
     },
@@ -385,6 +385,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 6842.15,
@@ -406,21 +427,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 314.65,
+      "savings": 1679.65,
       "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45162351",
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -463,27 +484,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1679.65,
-      "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45021106",
         "outlet": false
       }
     },
@@ -905,6 +905,27 @@
       "extra": {
         "productId": "1178436101",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8249.85,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30249.45,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
+        "outlet": false
       }
     },
     {
