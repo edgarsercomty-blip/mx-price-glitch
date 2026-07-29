@@ -311,18 +311,6 @@
     "ts": "2026-07-29T13:49:43.955725+00:00",
     "items": []
   },
-  "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-27T17:56:53.795553+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-27T17:57:05.519162+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-07-27T17:57:11.105905+00:00",
-    "items": []
-  },
   "amazon|CUISINARTVELOCIDADESLICUADORAPOWERSMART": {
     "ts": "2026-07-27T19:18:04.880820+00:00",
     "items": []
@@ -477,30 +465,6 @@
   },
   "sams|BG1051LA": {
     "ts": "2026-07-29T16:19:51.043965+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-27T17:57:12.561530+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-27T17:57:17.526430+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHPANELGOTEO": {
-    "ts": "2026-07-27T17:57:21.586567+00:00",
-    "items": []
-  },
-  "amazon|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-27T17:57:23.532518+00:00",
-    "items": []
-  },
-  "walmart|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-27T17:57:25.546058+00:00",
-    "items": []
-  },
-  "sams|KRUPSESPRESSERIASENSATIONKRUPSFULL": {
-    "ts": "2026-07-27T17:57:27.135571+00:00",
     "items": []
   },
   "amazon|65QNED81BSG": {
@@ -2246,6 +2210,42 @@
   },
   "sams|OSTERCAFETERATOUCHTAZASPANEL": {
     "ts": "2026-07-29T17:05:43.526681+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-29T18:16:21.293490+00:00",
+    "items": []
+  },
+  "walmart|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-29T18:16:47.253279+00:00",
+    "items": []
+  },
+  "sams|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
+    "ts": "2026-07-29T18:16:55.210984+00:00",
+    "items": []
+  },
+  "amazon|TURBOQUOTIDIENBICICLETARODADAURBANA": {
+    "ts": "2026-07-29T18:16:56.596170+00:00",
+    "items": []
+  },
+  "walmart|TURBOQUOTIDIENBICICLETARODADAURBANA": {
+    "ts": "2026-07-29T18:17:10.156684+00:00",
+    "items": []
+  },
+  "sams|TURBOQUOTIDIENBICICLETARODADAURBANA": {
+    "ts": "2026-07-29T18:17:35.458602+00:00",
+    "items": []
+  },
+  "amazon|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-07-29T18:18:02.392711+00:00",
+    "items": []
+  },
+  "walmart|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-07-29T18:18:03.932488+00:00",
+    "items": []
+  },
+  "sams|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-07-29T18:18:05.630197+00:00",
     "items": []
   }
 }
