@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-29 11:48 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-29 13:49 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -43% | $9,020 | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K Un75…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $11,998 | Confirmado vs competencia | $11,998 en liverpool vs mercado -> -43% bajo la competencia |
+| -25% | $9,300 | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $28,499 | Confirmado vs competencia | $28,499 en liverpool vs mercado -> -25% bajo la competencia |
