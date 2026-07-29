@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-07-29 19:46 UTC",
-  "products_scanned": 1629,
+  "generated_at": "2026-07-29 20:43 UTC",
+  "products_scanned": 1639,
   "threshold_pct": 20.0,
-  "count": 52,
+  "count": 51,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.7,
-      "detail": "$3,169 en liverpool vs mercado -> -55% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3821.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Cco905Ks Ninja Plata",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660",
-      "price": 3169.0,
-      "list_price": 4049.0,
-      "ean": null,
-      "model": "Cco905Ks",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1160618660",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
