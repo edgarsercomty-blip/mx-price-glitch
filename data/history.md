@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (506)
+# Historial de ofertas encontradas (507)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-29 15:45 | -21% | liverpool | [Apple Iphone 13 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-13-6-1-pulgadas-super-retina-xdr/1111323971) | $7,499 | $7,499 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-29 13:49 | -25% | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 1…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $28,499 | $28,499 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-29 11:48 | -43% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $11,998 | $11,998 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-07-29 09:25 | -40% | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:42 | -45% | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $11,520 | $11,520 en palacio vs mercado -> -45% bajo la competencia |
 | 2026-07-02 09:42 | -52% | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,285 | $10,285 en palacio vs amazon $21,427 -> -52% bajo la competencia |
 | 2026-07-02 09:42 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
-| 2026-07-02 09:42 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
