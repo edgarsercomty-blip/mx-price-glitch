@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28 23:17 UTC",
-  "products_scanned": 1640,
+  "generated_at": "2026-07-29 00:11 UTC",
+  "products_scanned": 1654,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 55,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$15,929 en palacio vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15010.04,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 15929.41,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
         "outlet": false
       }
     },
@@ -237,10 +258,31 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 27.7,
-      "detail": "$4,471 en liverpool vs mercado -> -36% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,099 en liverpool vs mercado -> -36% bajo la competencia",
       "likely_typo": false,
-      "savings": 2477.0,
+      "savings": 1200.0,
+      "store": "liverpool",
+      "name": "Audifonos On Ear Marshall Major Iv Inalambricos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588",
+      "price": 2099.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": null,
+      "brand": "MARSHALL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1104009588",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 27.7,
+      "detail": "$4,471 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2450.0,
       "store": "liverpool",
       "name": "Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron Intel Uhd Graphics 4 Gb Ram 128 Gb Emmc",
       "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218",
@@ -385,21 +427,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 1679.65,
+      "savings": 6842.15,
       "store": "palacio",
-      "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
-      "price": 3119.35,
-      "list_price": 4799.0,
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021105",
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -427,27 +469,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 4199.65,
@@ -463,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1679.65,
+      "store": "palacio",
+      "name": "Cafetera Espresso Prima Latte para 1 Taza",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "price": 3119.35,
+      "list_price": 4799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021105",
         "outlet": false
       }
     },
