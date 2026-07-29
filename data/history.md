@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (504)
+# Historial de ofertas encontradas (505)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-29 11:48 | -43% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $11,998 | $11,998 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-07-29 09:25 | -40% | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-29 00:11 | -36% | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 23:17 | -36% | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Cele…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | $4,471 en liverpool vs mercado -> -36% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 09:42 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
 | 2026-07-02 09:42 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-02 09:03 | -20% | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | $5,631 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-02 09:03 | -20% | palacio | [Centro de lavado Premium Electrico de Carga Superior 24…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | $35,573 en palacio vs mercado -> -20% bajo la competencia |
