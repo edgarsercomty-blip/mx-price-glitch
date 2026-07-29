@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-29 00:11 UTC
+# Errores/chollos de precio — 2026-07-29 03:43 UTC
 
-- Productos revisados: **1654**
+- Productos revisados: **1643**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **52**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -21,9 +21,8 @@
 | -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
 | -55% | $3,821 | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,169 | Confirmado vs competencia | $3,169 en liverpool vs mercado -> -55% bajo la competencia |
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
-| -22% | $2,772 | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | Confirmado vs competencia | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
-| -35% | $2,450 | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron I…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | Confirmado vs competencia | $4,471 en liverpool vs mercado -> -35% bajo la competencia |
+| -35% | $2,413 | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron I…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | Confirmado vs competencia | $4,471 en liverpool vs mercado -> -35% bajo la competencia |
 | -20% | $2,400 | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,250 | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse d…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | Confirmado vs competencia | $6,749 en palacio vs mercado -> -25% bajo la competencia |
 | -22% | $2,200 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -22% bajo la competencia |
@@ -40,7 +39,6 @@
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -40% | $1,480 | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | Confirmado vs competencia | $2,219 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,442 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | Confirmado vs competencia | $2,677 en palacio vs mercado -> -35% bajo la competencia |
-| -36% | $1,200 | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | Confirmado vs competencia | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
 | -24% | $1,200 | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $1,156 | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,733 | Confirmado vs competencia | $1,733 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,155 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | Confirmado vs competencia | $2,144 en palacio vs mercado -> -35% bajo la competencia |
@@ -52,7 +50,6 @@
 | -25% | $800 | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -25% bajo la competencia |
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
-| -20% | $611 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $2,445 | Confirmado vs competencia | $2,445 en liverpool vs mercado -> -20% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |

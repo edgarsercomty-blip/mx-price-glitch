@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 00:11 UTC",
-  "products_scanned": 1654,
+  "generated_at": "2026-07-29 03:43 UTC",
+  "products_scanned": 1643,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 52,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -133,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1479.6,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -258,31 +258,10 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,099 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1200.0,
-      "store": "liverpool",
-      "name": "Audifonos On Ear Marshall Major Iv Inalambricos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588",
-      "price": 2099.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": null,
-      "brand": "MARSHALL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1104009588",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 27.7,
       "detail": "$4,471 en liverpool vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 2450.0,
+      "savings": 2413.0,
       "store": "liverpool",
       "name": "Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron Intel Uhd Graphics 4 Gb Ram 128 Gb Emmc",
       "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218",
@@ -427,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,119 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1679.65,
@@ -463,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -951,48 +930,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$10,079 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2771.84,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746Bvax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136",
-      "price": 10079.4,
-      "list_price": 16799.0,
-      "ean": null,
-      "model": "Wa19Cg6746Bvax",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1164464136",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,445 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 611.25,
-      "store": "liverpool",
-      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
-      "price": 2445.0,
-      "list_price": 2445.0,
-      "ean": null,
-      "model": null,
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1194918409",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$519 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1120,27 +1057,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.85,
-      "store": "palacio",
-      "name": "Krups Expresseria Intuition",
-      "url": "https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html",
-      "price": 17999.4,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43484884",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2399.85,
@@ -1156,6 +1072,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44170253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.85,
+      "store": "palacio",
+      "name": "Krups Expresseria Intuition",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html",
+      "price": 17999.4,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484884",
         "outlet": false
       }
     }

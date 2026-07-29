@@ -156,15 +156,15 @@
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-27T00:14:04.044495+00:00",
+    "ts": "2026-07-29T03:42:57.742824+00:00",
     "items": []
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-27T00:14:06.153903+00:00",
+    "ts": "2026-07-29T03:42:59.270027+00:00",
     "items": []
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-07-27T00:14:07.371842+00:00",
+    "ts": "2026-07-29T03:43:01.015180+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
@@ -525,30 +525,6 @@
   },
   "sams|BJ2BL": {
     "ts": "2026-07-28T23:17:29.272944+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-27T00:13:59.234088+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-27T00:14:00.853003+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
-    "ts": "2026-07-27T00:14:02.695406+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-27T00:14:08.463419+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-27T00:14:09.966337+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-07-27T00:14:13.407312+00:00",
     "items": []
   },
   "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
@@ -2820,6 +2796,18 @@
   },
   "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
     "ts": "2026-07-29T00:11:08.948575+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHACEROGOTEO": {
+    "ts": "2026-07-29T03:43:02.245755+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHACEROGOTEO": {
+    "ts": "2026-07-29T03:43:03.513917+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHACEROGOTEO": {
+    "ts": "2026-07-29T03:43:05.321789+00:00",
     "items": []
   }
 }
