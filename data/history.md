@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (519)
+# Historial de ofertas encontradas (524)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-30 13:29 | -20% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | $64,000 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-30 13:29 | -20% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | $2,400 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-30 13:29 | -21% | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, S…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $13,859 | $13,859 en palacio vs mercado -> -21% bajo la competencia |
+| 2026-07-30 13:29 | -23% | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 G…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $23,939 | $23,939 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-07-30 13:29 | -41% | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $12,220 | $12,220 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-30 11:47 | -20% | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | $360 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 11:47 | -25% | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 14:37 | -26% | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $269 | $269 en mercadolibre vs mercado -> -26% bajo la competencia |
 | 2026-07-02 14:37 | -29% | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,311 | $15,311 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-02 14:37 | -30% | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32W…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-02 14:37 | -33% | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | $21,174 en palacio vs mercado -> -33% bajo la competencia |
-| 2026-07-02 14:37 | -40% | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 …](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | $21,500 en palacio vs mercado -> -40% bajo la competencia |
-| 2026-07-02 14:37 | -40% | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | $5,099 en palacio vs mercado -> -40% bajo la competencia |
-| 2026-07-02 14:37 | -44% | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo …](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | $500 en amazon vs mercado -> -44% bajo la competencia |
-| 2026-07-02 13:23 | -20% | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | $5,583 en palacio vs mercado -> -20% bajo la competencia |
