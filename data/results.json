@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-07-30 01:29 UTC",
-  "products_scanned": 1642,
+  "generated_at": "2026-07-30 03:54 UTC",
+  "products_scanned": 1639,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 49,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 61.5,
+      "detail": "$9,999 en liverpool vs mercado -> -56% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13000.0,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+      "price": 9999.0,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "55Qned83Asg",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183858552",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -216,27 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.1,
-      "detail": "$12,499 en liverpool vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7500.3,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669",
-      "price": 12499.2,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": "65Qned81Bsg",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200279669",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$1,500 en palacio vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
@@ -385,27 +385,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 6842.15,
@@ -421,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -699,27 +699,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2249.75,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
-      "price": 6749.25,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951467",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -909,43 +888,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8249.85,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
-      "price": 30249.45,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "75MRGB86BSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.5,
-      "detail": "$38,542 en liverpool vs mercado -> -21% bajo la competencia",
+      "detail": "$14,107 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 9992.32,
+      "savings": 3657.32,
       "store": "liverpool",
-      "name": "Refrigerador Refrigerador Samsung French Door Y Automatica Rf80H30Cdtem",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811",
-      "price": 38541.83,
-      "list_price": 57099.0,
+      "name": "Refrigerador Top Mount Samsung 19 Pies Cubicos Inverter Y Fabrica De Hielos Rt53Dg6798B1Em",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-samsung-19-pies-cubicos-inverter-y-fabrica-de-hielos-rt53dg6798b1em/1148831471",
+      "price": 14106.83,
+      "list_price": 20899.0,
       "ean": null,
-      "model": "Rf80H30Cdtem",
+      "model": "Rt53Dg6798B1Em",
       "brand": "SAMSUNG",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1200106811",
+        "productId": "1148831471",
         "marketplace": null
       }
     },
@@ -1072,48 +1030,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44911677",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$17,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.85,
-      "store": "palacio",
-      "name": "Krups Expresseria Intuition",
-      "url": "https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html",
-      "price": 17999.4,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43484884",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.85,
-      "store": "palacio",
-      "name": "ESPRESSERIA KRUPS FULL AUTO SENSATION",
-      "url": "https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44170253",
         "outlet": false
       }
     }
