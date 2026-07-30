@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (524)
+# Historial de ofertas encontradas (529)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-30 20:13 | -21% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $11,384 | $11,384 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-30 13:29 | -20% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | $64,000 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 13:29 | -20% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | $2,400 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 13:29 | -21% | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, S…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $13,859 | $13,859 en palacio vs mercado -> -21% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 14:37 | -24% | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | $9,599 en walmart vs palacio $12,544 -> -24% bajo la competencia |
 | 2026-07-02 14:37 | -24% | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | $12,284 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-02 14:37 | -25% | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,474 | $2,474 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-02 14:37 | -25% | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,962 | $2,962 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-02 14:37 | -25% | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Car…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | $10,747 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-02 14:37 | -26% | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $269 | $269 en mercadolibre vs mercado -> -26% bajo la competencia |
-| 2026-07-02 14:37 | -29% | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,311 | $15,311 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-07-02 14:37 | -30% | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32W…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |

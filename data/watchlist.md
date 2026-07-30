@@ -1,4 +1,4 @@
-# Productos en vigilancia (463)
+# Productos en vigilancia (468)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -467,3 +467,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 GB SSD…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $23,939 | -23% |
 | 🟢 disponible | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, SSD 51…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $13,859 | -21% |
 | 🟢 disponible | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | -20% |
+| 🟢 disponible | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $11,384 | -21% |
+| 🟢 disponible | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $183 | -20% |
+| 🟢 disponible | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | -20% |
+| 🟢 disponible | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | -20% |
+| 🟢 disponible | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | -20% |
