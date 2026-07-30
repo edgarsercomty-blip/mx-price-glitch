@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30 13:29 UTC",
-  "products_scanned": 1624,
+  "generated_at": "2026-07-30 15:35 UTC",
+  "products_scanned": 1696,
   "threshold_pct": 20.0,
-  "count": 58,
+  "count": 61,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,6 +44,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
       }
     },
     {
@@ -133,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -190,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -909,6 +930,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 22.3,
+      "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 545.0,
+      "store": "liverpool",
+      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
+      "price": 1900.0,
+      "list_price": 2445.0,
+      "ean": null,
+      "model": null,
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1194918409",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 37.0,
       "detail": "$13,859 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -947,6 +989,27 @@
       "extra": {
         "id": "43689719",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.5,
+      "detail": "$14,107 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3657.32,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Samsung 19 Pies Cubicos Inverter Y Fabrica De Hielos Rt53Dg6798B1Em",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-samsung-19-pies-cubicos-inverter-y-fabrica-de-hielos-rt53dg6798b1em/1148831471",
+      "price": 14106.83,
+      "list_price": 20899.0,
+      "ean": null,
+      "model": "Rt53Dg6798B1Em",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1148831471",
+        "marketplace": null
       }
     },
     {
