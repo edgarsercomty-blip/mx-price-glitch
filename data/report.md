@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-29 23:54 UTC
+# Errores/chollos de precio — 2026-07-30 01:29 UTC
 
-- Productos revisados: **1627**
+- Productos revisados: **1642**
 - Umbral de diferencia: **20%**
-- Hallazgos: **51**
+- Hallazgos: **53**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -12,6 +12,7 @@
 | -25% | $9,300 | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $28,499 | Confirmado vs competencia | $28,499 en liverpool vs mercado -> -25% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -21% | $8,250 | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | Confirmado vs competencia | $30,249 en palacio vs mercado -> -21% bajo la competencia |
+| -38% | $7,500 | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | Confirmado vs competencia | $12,499 en liverpool vs mercado -> -38% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
@@ -57,3 +58,4 @@
 | -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
+| -20% | $46 | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |

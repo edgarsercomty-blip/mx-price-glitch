@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29 23:54 UTC",
-  "products_scanned": 1627,
+  "generated_at": "2026-07-30 01:29 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -212,6 +212,27 @@
       "extra": {
         "id": "43394653",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.1,
+      "detail": "$12,499 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7500.3,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con Webos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669",
+      "price": 12499.2,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": "65Qned81Bsg",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200279669",
+        "marketplace": null
       }
     },
     {
@@ -946,6 +967,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1128184305",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
+      "price": 183.2,
+      "list_price": 229.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430528",
         "marketplace": null
       }
     },
