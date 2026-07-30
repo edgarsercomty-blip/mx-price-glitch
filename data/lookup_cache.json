@@ -347,18 +347,6 @@
     "ts": "2026-07-29T19:46:42.476490+00:00",
     "items": []
   },
-  "amazon|BJ2BL": {
-    "ts": "2026-07-28T23:17:24.754748+00:00",
-    "items": []
-  },
-  "walmart|BJ2BL": {
-    "ts": "2026-07-28T23:17:27.129209+00:00",
-    "items": []
-  },
-  "sams|BJ2BL": {
-    "ts": "2026-07-28T23:17:29.272944+00:00",
-    "items": []
-  },
   "amazon|UN50M70HAFXZX": {
     "ts": "2026-07-29T09:24:54.931005+00:00",
     "items": []
@@ -537,18 +525,6 @@
   },
   "sams|OSTERCAFETERAPANELTAZASACERO": {
     "ts": "2026-07-30T17:07:12.232000+00:00",
-    "items": []
-  },
-  "amazon|LENOVOGRAPHICSCELERONIDEAPADLAPTOP": {
-    "ts": "2026-07-28T23:17:17.326248+00:00",
-    "items": []
-  },
-  "walmart|LENOVOGRAPHICSCELERONIDEAPADLAPTOP": {
-    "ts": "2026-07-28T23:17:20.139375+00:00",
-    "items": []
-  },
-  "sams|LENOVOGRAPHICSCELERONIDEAPADLAPTOP": {
-    "ts": "2026-07-28T23:17:23.379130+00:00",
     "items": []
   },
   "amazon|MARSHALLINALAMBRICOSAUDIFONOSMARSHALLMAJOR": {
@@ -2343,6 +2319,30 @@
   },
   "sams|MOBOCORREAMILANWATCHRELOJ": {
     "ts": "2026-07-30T22:41:51.745525+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
+    "ts": "2026-07-30T23:54:24.633701+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
+    "ts": "2026-07-30T23:54:26.174767+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
+    "ts": "2026-07-30T23:54:27.647403+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREARELOJWATCHMILAN": {
+    "ts": "2026-07-30T23:54:28.875086+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREARELOJWATCHMILAN": {
+    "ts": "2026-07-30T23:54:30.362110+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREARELOJWATCHMILAN": {
+    "ts": "2026-07-30T23:54:31.670443+00:00",
     "items": []
   }
 }
