@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (530)
+# Historial de ofertas encontradas (531)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-30 22:41 | -40% | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Dats…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $20,246 | $20,246 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-30 21:34 | -20% | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 14:37 | -22% | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | $17,000 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-02 14:37 | -23% | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,109 | $1,109 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-07-02 14:37 | -24% | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | $9,599 en walmart vs palacio $12,544 -> -24% bajo la competencia |
-| 2026-07-02 14:37 | -24% | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,284 | $12,284 en palacio vs mercado -> -24% bajo la competencia |
