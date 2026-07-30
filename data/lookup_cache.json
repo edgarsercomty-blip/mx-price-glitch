@@ -132,15 +132,15 @@
     "items": []
   },
   "amazon|BVSTDC12B": {
-    "ts": "2026-07-28T20:59:50.085044+00:00",
+    "ts": "2026-07-30T21:33:56.783279+00:00",
     "items": []
   },
   "walmart|BVSTDC12B": {
-    "ts": "2026-07-28T20:59:51.841813+00:00",
+    "ts": "2026-07-30T21:34:03.955789+00:00",
     "items": []
   },
   "sams|BVSTDC12B": {
-    "ts": "2026-07-28T20:59:54.659104+00:00",
+    "ts": "2026-07-30T21:34:07.005588+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
@@ -537,30 +537,6 @@
   },
   "sams|OSTERCAFETERAPANELTAZASACERO": {
     "ts": "2026-07-30T17:07:12.232000+00:00",
-    "items": []
-  },
-  "amazon|CCO905KS": {
-    "ts": "2026-07-28T20:59:45.533837+00:00",
-    "items": []
-  },
-  "walmart|CCO905KS": {
-    "ts": "2026-07-28T20:59:47.168074+00:00",
-    "items": []
-  },
-  "sams|CCO905KS": {
-    "ts": "2026-07-28T20:59:48.742365+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-07-28T20:59:56.073628+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-07-28T20:59:58.993939+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-07-28T21:00:00.278681+00:00",
     "items": []
   },
   "amazon|SPIGENSPIGENURBANFUNDAFIT": {
@@ -2307,6 +2283,54 @@
   },
   "sams|SPIGENSMARTWATCHCORREASPIGEN": {
     "ts": "2026-07-30T20:12:59.801339+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAAPPLEWATCHRELOJ": {
+    "ts": "2026-07-30T21:34:14.486398+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAAPPLEWATCHRELOJ": {
+    "ts": "2026-07-30T21:34:16.427543+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAAPPLEWATCHRELOJ": {
+    "ts": "2026-07-30T21:34:18.648529+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREARELOJMOBO": {
+    "ts": "2026-07-30T21:34:19.955866+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREARELOJMOBO": {
+    "ts": "2026-07-30T21:34:21.476512+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREARELOJMOBO": {
+    "ts": "2026-07-30T21:34:23.174699+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-30T21:34:25.813751+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-30T21:34:29.379677+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOPANELACERO": {
+    "ts": "2026-07-30T21:34:30.889947+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-30T21:34:32.183192+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-30T21:34:33.790067+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
+    "ts": "2026-07-30T21:34:35.384103+00:00",
     "items": []
   }
 }
