@@ -479,40 +479,16 @@
     "ts": "2026-07-30T04:39:40.009535+00:00",
     "items": []
   },
-  "amazon|SPIGENSPIGENFUNDAURBANFIT": {
-    "ts": "2026-07-28T05:26:01.102470+00:00",
-    "items": []
-  },
-  "walmart|SPIGENSPIGENFUNDAURBANFIT": {
-    "ts": "2026-07-28T05:26:02.648632+00:00",
-    "items": []
-  },
-  "sams|SPIGENSPIGENFUNDAURBANFIT": {
-    "ts": "2026-07-28T05:26:05.022098+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-28T05:26:09.330990+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-28T05:26:10.890078+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-07-28T05:26:12.774510+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-28T05:26:16.227815+00:00",
+    "ts": "2026-07-30T07:18:59.199548+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-28T05:26:20.892575+00:00",
+    "ts": "2026-07-30T07:19:01.078038+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-28T05:26:35.666810+00:00",
+    "ts": "2026-07-30T07:19:04.211688+00:00",
     "items": []
   },
   "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
@@ -2408,6 +2384,30 @@
   },
   "sams|OSTERCAFETERAGOTEOTAZASPANEL": {
     "ts": "2026-07-30T04:39:55.089595+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAWATCHRELOJAPPLE": {
+    "ts": "2026-07-30T07:18:42.884295+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAWATCHRELOJAPPLE": {
+    "ts": "2026-07-30T07:18:44.737612+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAWATCHRELOJAPPLE": {
+    "ts": "2026-07-30T07:18:46.825558+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASACEROTOUCH": {
+    "ts": "2026-07-30T07:18:48.451080+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASACEROTOUCH": {
+    "ts": "2026-07-30T07:18:53.735117+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASACEROTOUCH": {
+    "ts": "2026-07-30T07:18:55.685943+00:00",
     "items": []
   }
 }

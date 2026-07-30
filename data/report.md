@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-30 04:39 UTC
+# Errores/chollos de precio — 2026-07-30 07:19 UTC
 
-- Productos revisados: **1637**
+- Productos revisados: **1612**
 - Umbral de diferencia: **20%**
-- Hallazgos: **47**
+- Hallazgos: **46**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -23,9 +23,9 @@
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $2,200 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -22% bajo la competencia |
 | -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
-| -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
+| -26% | $1,743 | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | Confirmado vs competencia | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
@@ -49,7 +49,6 @@
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
-| -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -26% | $159 | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | Confirmado vs competencia | $460 en liverpool vs mercado -> -26% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $46 | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |
