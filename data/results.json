@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30 09:48 UTC",
-  "products_scanned": 1589,
+  "generated_at": "2026-07-30 11:47 UTC",
+  "products_scanned": 1581,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 49,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,27 @@
       "extra": {
         "id": "44108204",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
+      "likely_typo": false,
+      "savings": 972.0,
+      "store": "liverpool",
+      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
+      "price": 1007.4,
+      "list_price": 1679.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1158548573",
+        "marketplace": null
       }
     },
     {
@@ -70,21 +91,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 859.6,
+      "savings": 955.6,
       "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "41683214",
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -112,21 +133,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 955.6,
+      "savings": 859.6,
       "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216478",
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -238,27 +259,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 615.65,
-      "store": "palacio",
-      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
-      "price": 1143.35,
-      "list_price": 1759.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926488",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -280,21 +280,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 6842.15,
+      "savings": 615.65,
       "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1143.35,
+      "list_price": 1759.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43926489",
+        "id": "43926488",
         "outlet": false
       }
     },
@@ -316,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -573,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.3,
+      "detail": "$23,715 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7905.0,
+      "store": "liverpool",
+      "name": "Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341",
+      "price": 23715.0,
+      "list_price": 37200.0,
+      "ean": null,
+      "model": "Wd20Egnts6P",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1179905341",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -763,6 +805,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Negro",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003621",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -935,27 +998,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001065",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Naranja destello",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html",
       "price": 3199.2,
@@ -967,6 +1009,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001064",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001065",
         "outlet": false
       }
     }

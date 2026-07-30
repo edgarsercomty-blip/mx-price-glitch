@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (517)
+# Historial de ofertas encontradas (519)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-30 11:47 | -20% | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | $360 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-30 11:47 | -25% | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 09:48 | -20% | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | $280 en palacio vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 14:37 | -40% | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $5,099 | $5,099 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-07-02 14:37 | -44% | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo …](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | $500 en amazon vs mercado -> -44% bajo la competencia |
 | 2026-07-02 13:23 | -20% | palacio | [Reloj para Hombre Lexington de Vestir, Dorado](https://www.elpalaciodehierro.com/michael-kors-reloj-para-hombre-lexington-de-vestir-dorado-19687375.html) | $5,583 | $5,583 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-02 09:42 | -21% | amazon | [Star Fox™ - Nintendo Switch 2 - Solo juego Edition](https://www.amazon.com.mx/dp/B0GZSLD685) | $1,735 | $1,735 en amazon vs mercado -> -21% bajo la competencia |
-| 2026-07-02 09:42 | -25% | amazon | [Adidas Duramo SL 2.0 Zapatillas para Correr para Mujer](https://www.amazon.com.mx/dp/B091MCMXPS) | $869 | $869 en amazon vs mercado -> -25% bajo la competencia |

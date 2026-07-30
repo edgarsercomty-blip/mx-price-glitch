@@ -1,15 +1,8 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-30 09:48 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-30 11:47 UTC
 
-- Hallazgos: **9**
+- Hallazgos: **2**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -60% | $9,856 | palacio | [Pantalla 65 Pulgadas Plana Crystal UHD 4K Tizen Smart TV DU7…](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-uhd-4k-tizen-smart-tv-du7010-un65du7010fxzx-44108204.html) | $6,571 | Confirmado vs competencia | $6,571 en palacio vs mercado -> -60% bajo la competencia |
-| -21% | $3,192 | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | Confirmado vs competencia | $12,311 en palacio vs mercado -> -21% bajo la competencia |
-| -29% | $2,000 | palacio | [Celular Oppo Reno13 F, 256 GB, RAM 12 GB Gris, Desbloqueado](https://www.elpalaciodehierro.com/oppo-celular-oppo-reno13-f-256-gb-ram-12-gb-gris-desbloqueado-44506346.html) | $5,000 | Confirmado vs competencia | $5,000 en palacio vs mercado -> -29% bajo la competencia |
-| -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| -22% | $545 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | Confirmado vs competencia | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
-| -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |
+| -25% | $7,905 | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | Confirmado vs competencia | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
+| -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
