@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31 08:20 UTC",
-  "products_scanned": 1556,
+  "generated_at": "2026-07-31 11:03 UTC",
+  "products_scanned": 1553,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,329 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4219.6,
-      "store": "liverpool",
-      "name": "Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087",
-      "price": 6329.4,
-      "list_price": 10549.0,
-      "ean": null,
-      "model": null,
-      "brand": "TURBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133798087",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 15.0,
       "detail": "$20,246 en liverpool vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -133,6 +112,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$6,329 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4219.6,
+      "store": "liverpool",
+      "name": "Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087",
+      "price": 6329.4,
+      "list_price": 10549.0,
+      "ean": null,
+      "model": null,
+      "brand": "TURBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133798087",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 687.6,
@@ -148,27 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216477",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 859.6,
-      "store": "palacio",
-      "name": "Licuadora, 3 Velocidades, Plata",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
-      "price": 1289.4,
-      "list_price": 2149.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41683214",
         "outlet": false
       }
     },
@@ -211,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 859.6,
+      "store": "palacio",
+      "name": "Licuadora, 3 Velocidades, Plata",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html",
+      "price": 1289.4,
+      "list_price": 2149.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41683214",
         "outlet": false
       }
     },
@@ -867,69 +867,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$9,771 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2442.86,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM",
-      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html",
-      "price": 9771.44,
-      "list_price": 17449.0,
-      "ean": null,
-      "model": "65QD6SFM",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467919",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262437",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$4,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -952,21 +889,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$1,599 en liverpool vs mercado -> -20% bajo la competencia",
+      "detail": "$2,879 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 399.8,
+      "savings": 719.8,
       "store": "liverpool",
-      "name": "Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560",
-      "price": 1599.2,
-      "list_price": 1999.0,
+      "name": "Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257",
+      "price": 2879.2,
+      "list_price": 3599.0,
       "ean": null,
       "model": null,
       "brand": "XIAOMI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1175813560",
+        "productId": "1200266257",
         "marketplace": null
       }
     },
@@ -1056,27 +993,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$119 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Mobo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579",
-      "price": 119.2,
-      "list_price": 149.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430579",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$64,000 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1093,6 +1009,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262438",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262437",
         "outlet": false
       }
     },

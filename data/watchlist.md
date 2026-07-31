@@ -390,7 +390,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | -28% |
 | 🟢 disponible | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $335 | -38% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Watch 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-5-unisex-con-gps/1196970540) | $6,499 | -20% |
-| 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $3,599 | -20% |
+| 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | -20% |
 | 🟢 disponible | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB + 512…](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | -25% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | -41% |

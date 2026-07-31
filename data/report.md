@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-31 08:20 UTC
+# Errores/chollos de precio — 2026-07-31 11:03 UTC
 
-- Productos revisados: **1556**
+- Productos revisados: **1553**
 - Umbral de diferencia: **20%**
-- Hallazgos: **55**
+- Hallazgos: **53**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -26,7 +26,6 @@
 | -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
 | -21% | $3,192 | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | Confirmado vs competencia | $12,311 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $2,443 | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | Confirmado vs competencia | $9,771 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -29% | $2,000 | palacio | [Celular Oppo Reno13 F, 256 GB, RAM 12 GB Gris, Desbloqueado](https://www.elpalaciodehierro.com/oppo-celular-oppo-reno13-f-256-gb-ram-12-gb-gris-desbloqueado-44506346.html) | $5,000 | Confirmado vs competencia | $5,000 en palacio vs mercado -> -29% bajo la competencia |
@@ -47,12 +46,12 @@
 | -25% | $800 | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $720 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | Confirmado vs competencia | $2,879 en liverpool vs mercado -> -20% bajo la competencia |
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
 | -20% | $600 | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | Confirmado vs competencia | $2,400 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $545 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | Confirmado vs competencia | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $400 | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | Confirmado vs competencia | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
-| -20% | $400 | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | Confirmado vs competencia | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
 | -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
@@ -60,4 +59,3 @@
 | -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $46 | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $46 | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |
-| -20% | $30 | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | Confirmado vs competencia | $119 en liverpool vs mercado -> -20% bajo la competencia |
