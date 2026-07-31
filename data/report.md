@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-07-31 04:20 UTC
+# Errores/chollos de precio — 2026-07-31 05:27 UTC
 
-- Productos revisados: **1642**
+- Productos revisados: **1772**
 - Umbral de diferencia: **20%**
-- Hallazgos: **57**
+- Hallazgos: **56**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -58,7 +58,6 @@
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
 | -47% | $252 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | Confirmado vs competencia | $287 en liverpool vs mercado -> -47% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
-| -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |
