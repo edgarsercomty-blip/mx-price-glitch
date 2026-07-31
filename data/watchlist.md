@@ -1,4 +1,4 @@
-# Productos en vigilancia (475)
+# Productos en vigilancia (478)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -45,7 +45,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $10,752 | -45% |
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Boci…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $20,499 | -45% |
 | 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $8,299 | -32% |
-| 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,199 | -25% |
+| 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | -25% |
 | 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $14,755 | -24% |
 | 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $10,228 | -23% |
 | 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $10,228 | -23% |
@@ -212,12 +212,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | -22% |
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | -20% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | -35% |
-| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $14,999 | -29% |
-| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, Desblo…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $14,999 | -30% |
+| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $9,899 | -29% |
+| 🟢 disponible | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, Desblo…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $9,899 | -30% |
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $4,152 | -29% |
-| 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $11,999 | -20% |
+| 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,399 | -20% |
 | 🟢 disponible | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,589 | -26% |
-| 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $18,999 | -20% |
+| 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $14,439 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $23,449 | -28% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $17,099 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $23,449 | -28% |
@@ -296,7 +296,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | -30% |
 | 🟢 disponible | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | -25% |
 | 🟢 disponible | liverpool | [Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495) | $14,917 | -30% |
-| 🟢 disponible | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse d…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $8,999 | -25% |
+| 🟢 disponible | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse d…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | -25% |
 | 🟢 disponible | liverpool | [Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303) | $25,496 | -24% |
 | 🟢 disponible | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | -23% |
 | 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | -30% |
@@ -340,7 +340,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | -40% |
 | 🟢 disponible | palacio | [Licuadora Smart Power, 2 Velocidades](https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html) | $1,500 | -38% |
 | 🟢 disponible | palacio | [Computadora gaming de escritorio ROG Strix G16CHR Nvidia RTX…](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html) | $18,759 | -33% |
-| 🟢 disponible | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $10,999 | -22% |
+| 🟢 disponible | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $7,479 | -22% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html) | $23,449 | -30% |
 | 🟢 disponible | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | -30% |
 | 🟢 disponible | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | -30% |
@@ -358,7 +358,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | -35% |
 | 🟢 disponible | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | -35% |
 | 🟢 disponible | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | -35% |
-| 🟢 disponible | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $10,999 | -22% |
+| 🟢 disponible | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $9,899 | -22% |
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | -20% |
 | 🟢 disponible | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | -20% |
 | 🟢 disponible | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | -20% |
@@ -393,7 +393,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | -20% |
 | 🟢 disponible | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB + 512…](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | -25% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | -20% |
-| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | -41% |
+| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $22,939 | -41% |
 | 🟢 disponible | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | -25% |
 | 🟢 disponible | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | -24% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | -25% |
@@ -427,7 +427,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert Energ…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | -44% |
 | 🟢 disponible | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | -22% |
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092) | $1,259 | -20% |
-| 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | -21% |
+| 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,799 | -20% |
 | 🟢 disponible | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | -20% |
 | 🟢 disponible | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | -21% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana 4K K65XR70M2](https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html) | $35,153 | -23% |
@@ -448,7 +448,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | -30% |
 | 🟢 disponible | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $6,590 | -55% |
 | 🟢 disponible | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron I…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | -35% |
-| 🟢 disponible | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | -22% |
+| 🟢 disponible | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $1,999 | -26% |
 | 🟢 disponible | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | -40% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K Un75…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $11,998 | -43% |
 | 🟢 disponible | liverpool | [Apple Iphone 13 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-13-6-1-pulgadas-super-retina-xdr/1111323971) | $7,499 | -21% |
@@ -479,3 +479,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | -20% |
 | 🟢 disponible | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | -20% |
 | 🟢 disponible | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | -20% |
+| 🟢 disponible | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB, SSD…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | -38% |
+| 🟢 disponible | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | -30% |
+| 🟢 disponible | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | -22% |

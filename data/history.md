@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (536)
+# Historial de ofertas encontradas (539)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-31 13:08 | -22% | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | $2,789 en palacio vs mercado -> -22% bajo la competencia |
+| 2026-07-31 13:08 | -30% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | $7,699 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-07-31 13:08 | -38% | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | $7,154 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-31 08:20 | -20% | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -20% | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | $4,799 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -20% | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | $9,771 en palacio vs mercado -> -20% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 19:46 | -27% | amazon | [Suavitel Suavizante de Ropa Cuidado Superior Fresca Pri…](https://www.amazon.com.mx/dp/B0BPB5MG17) | $145 | $145 en amazon vs mercado -> -27% bajo la competencia |
 | 2026-07-02 19:46 | -29% | walmart | [Congelador Hisense 7 Pies Gris FC70D6BGX](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300) | $5,690 | $5,690 en walmart vs mercado -> -29% bajo la competencia |
 | 2026-07-02 19:46 | -29% | mercadolibre | [Pantalla Samsung 65 Pulgadas Series Uhd 4k Smart Tizen …](https://www.mercadolibre.com.mx/pantalla-samsung-65-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM66344857) | $9,899 | $9,899 en mercadolibre vs mercado -> -29% bajo la competencia |
-| 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespok…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | $13,622 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | $11,880 en palacio vs sams $20,459 -> -20% bajo la competencia |
-| 2026-07-02 14:37 | -20% | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | $10,361 en palacio vs mercado -> -20% bajo la competencia |

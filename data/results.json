@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31 11:03 UTC",
-  "products_scanned": 1553,
+  "generated_at": "2026-07-31 13:08 UTC",
+  "products_scanned": 1643,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 66,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -196,6 +196,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$1,289 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 859.6,
@@ -211,6 +232,69 @@
       "currency": "MXN",
       "extra": {
         "id": "41683214",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,274 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1516.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Pop Deluxe Titan",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html",
+      "price": 2274.0,
+      "list_price": 3790.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394653",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.0,
+      "detail": "$7,154 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4319.68,
+      "store": "palacio",
+      "name": "Laptop, 15-fd0237la, 15.6\", AMD Ryzen 3 7320U, RAM 8 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html",
+      "price": 7154.47,
+      "list_price": 13499.0,
+      "ean": null,
+      "model": "15-fd0237la",
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44850166",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,500 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.7,
+      "store": "palacio",
+      "name": "Licuadora Smart Power, 2 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html",
+      "price": 1499.5,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Cuisinart",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45397408",
         "outlet": false
       }
     },
@@ -237,27 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,245 en liverpool vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1347.0,
-      "store": "liverpool",
-      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
-      "price": 2245.0,
-      "list_price": 2245.0,
-      "ean": null,
-      "model": "A3Kgcv6Us",
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183038172",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
@@ -274,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45281005",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1749.65,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3249.35,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -322,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 615.65,
@@ -358,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -385,21 +469,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 4199.65,
+      "savings": 6842.15,
       "store": "palacio",
-      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
-      "price": 7799.35,
-      "list_price": 11999.0,
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021110",
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -427,21 +511,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 6842.15,
+      "savings": 4199.65,
       "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 7799.35,
+      "list_price": 11999.0,
       "ean": null,
       "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43926489",
+        "id": "45021110",
         "outlet": false
       }
     },
@@ -469,6 +553,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$7,699 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3299.7,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
+      "price": 7699.3,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45421529",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$40,249 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 17249.7,
@@ -484,6 +589,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42731253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,399 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.7,
+      "store": "palacio",
+      "name": "Licuadora portátil Flip, 1 Velocidad, Acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html",
+      "price": 1399.3,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nutribullet",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44650469",
         "outlet": false
       }
     },
@@ -552,6 +678,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3012.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.9,
+      "detail": "$1,999 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 700.0,
+      "store": "liverpool",
+      "name": "Audifonos On Ear Marshall Major Iv Inalambricos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588",
+      "price": 1999.0,
+      "list_price": 3500.0,
+      "ean": null,
+      "model": null,
+      "brand": "MARSHALL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1104009588",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -611,6 +779,27 @@
       "extra": {
         "productId": "1179905341",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$6,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2249.75,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 6749.25,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951467",
+        "outlet": false
       }
     },
     {
@@ -725,6 +914,27 @@
       "likely_typo": false,
       "savings": 1648.5,
       "store": "palacio",
+      "name": "Cafetera Expreso ECF02WHUS Blanco",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02WHUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011027",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
       "name": "Cafetera Expreso ECF02BLUS Negra",
       "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
       "price": 5495.0,
@@ -736,6 +946,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44011025",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02CRUS Crema",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02CRUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011026",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.0,
+      "detail": "$2,789 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 809.82,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 128 GB 4 GB Negro Telcel",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html",
+      "price": 2789.38,
+      "list_price": 4499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45324315",
         "outlet": false
       }
     },
@@ -762,22 +1014,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$24,700 en palacio vs mercado -> -21% bajo la competencia",
+      "discount_pct": 37.0,
+      "detail": "$13,859 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 6728.75,
+      "savings": 3739.83,
       "store": "palacio",
-      "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-      "price": 24700.0,
-      "list_price": 47500.0,
+      "name": "Laptop, Vivobook, 16\", Intel Core Ultra 5, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html",
+      "price": 13859.37,
+      "list_price": 21999.0,
       "ean": null,
-      "model": "WM25VFXS",
-      "brand": "Lg",
+      "model": null,
+      "brand": "Asus",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44968789",
+        "id": "44634308",
         "outlet": false
       }
     },
@@ -826,21 +1078,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$280 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 69.9,
+      "savings": 230.0,
       "store": "palacio",
-      "name": "Protector de pantalla para Apple Watch",
-      "url": "https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html",
-      "price": 279.6,
-      "list_price": 699.0,
+      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
+      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
+      "price": 920.0,
+      "list_price": 2300.0,
       "ean": null,
       "model": null,
-      "brand": "Belkin",
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42704900",
+        "id": "44004165",
         "outlet": false
       }
     },
@@ -862,6 +1114,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44272688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$280 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 69.9,
+      "store": "palacio",
+      "name": "Protector de pantalla para Apple Watch",
+      "url": "https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html",
+      "price": 279.6,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Belkin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42704900",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7699.86,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30799.44,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
         "outlet": false
       }
     },
@@ -951,48 +1245,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430528",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Trippy",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430552",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$64,000 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1057,6 +1309,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$2,094 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 523.5,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Pop negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html",
+      "price": 2094.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43295135",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$10,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2549.85,
@@ -1082,27 +1355,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Naranja destello",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001064",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
       "price": 3199.2,
@@ -1114,6 +1366,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001065",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Naranja destello",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001064",
         "outlet": false
       }
     }
