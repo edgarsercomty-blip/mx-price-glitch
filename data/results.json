@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31 13:08 UTC",
-  "products_scanned": 1643,
+  "generated_at": "2026-07-31 15:32 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
-  "count": 66,
+  "count": 67,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -154,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 955.6,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1155.6,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 955.6,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -317,6 +317,27 @@
       "extra": {
         "id": "43484891",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,245 en liverpool vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1347.0,
+      "store": "liverpool",
+      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
+      "price": 2245.0,
+      "list_price": 2245.0,
+      "ean": null,
+      "model": "A3Kgcv6Us",
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183038172",
+        "marketplace": null
       }
     },
     {
@@ -699,27 +720,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 42.9,
-      "detail": "$1,999 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 700.0,
-      "store": "liverpool",
-      "name": "Audifonos On Ear Marshall Major Iv Inalambricos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588",
-      "price": 1999.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": null,
-      "brand": "MARSHALL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1104009588",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -972,27 +972,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 38.0,
-      "detail": "$2,789 en palacio vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 809.82,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 128 GB 4 GB Negro Telcel",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html",
-      "price": 2789.38,
-      "list_price": 4499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45324315",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 22.3,
       "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1010,6 +989,27 @@
       "extra": {
         "productId": "1194918409",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$24,700 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6728.75,
+      "store": "palacio",
+      "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+      "price": 24700.0,
+      "list_price": 47500.0,
+      "ean": null,
+      "model": "WM25VFXS",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44968789",
+        "outlet": false
       }
     },
     {
@@ -1051,27 +1051,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43689719",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$2,400 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.9,
-      "store": "palacio",
-      "name": "Smartwatch Huawei Watch Gt5 Hombre",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html",
-      "price": 2399.6,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44319260",
         "outlet": false
       }
     },
@@ -1240,6 +1219,48 @@
       "currency": "MXN",
       "extra": {
         "productId": "1128184305",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
+      "price": 183.2,
+      "list_price": 229.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430528",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Trippy",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
+      "price": 183.2,
+      "list_price": 229.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430552",
         "marketplace": null
       }
     },
