@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (531)
+# Historial de ofertas encontradas (536)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-31 08:20 | -20% | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-31 08:20 | -20% | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | $4,799 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-07-31 08:20 | -20% | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | $9,771 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-07-31 08:20 | -21% | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $24,700 | $24,700 en palacio vs mercado -> -21% bajo la competencia |
+| 2026-07-31 08:20 | -38% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $2,245 | $2,245 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-07-30 22:41 | -40% | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Dats…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $20,246 | $20,246 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-30 21:34 | -20% | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica 14 Kg, 9 Kg Carga Frontal Bespok…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-14-kg-9-kg-carga-frontal-bespoke-43441687.html) | $13,622 | $13,622 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-02 14:37 | -20% | palacio | [Lavasecadora Eléctrica de Carga Frontal 14 Kg](https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-de-carga-frontal-14-kg-42419031.html) | $11,880 | $11,880 en palacio vs sams $20,459 -> -20% bajo la competencia |
 | 2026-07-02 14:37 | -20% | palacio | [Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html) | $10,361 | $10,361 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-02 14:37 | -21% | walmart | [Smartwatch Samsung Galaxy Fit3 Rosa](https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447?athbdg=L1600) | $649 | $649 en walmart vs mercado -> -21% bajo la competencia |
-| 2026-07-02 14:37 | -22% | walmart | [Secadora Mabe 20  kg Blanca](https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1300) | $8,990 | $8,990 en walmart vs mercado -> -22% bajo la competencia |
-| 2026-07-02 14:37 | -22% | palacio | [Lavasecadora Eléctrica 18 Kg, 10 Kg Carga Frontal](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-18-kg-10-kg-carga-frontal-43441688.html) | $17,000 | $17,000 en palacio vs mercado -> -22% bajo la competencia |
-| 2026-07-02 14:37 | -23% | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,109 | $1,109 en amazon vs mercado -> -23% bajo la competencia |
-| 2026-07-02 14:37 | -24% | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | $9,599 en walmart vs palacio $12,544 -> -24% bajo la competencia |
