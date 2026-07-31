@@ -359,18 +359,6 @@
     "ts": "2026-07-31T11:02:55.933545+00:00",
     "items": []
   },
-  "amazon|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
-    "ts": "2026-07-29T22:52:27.885648+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
-    "ts": "2026-07-29T22:52:29.685350+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETLICUADORAVELOCIDADPERSONALMATE": {
-    "ts": "2026-07-29T22:52:31.564208+00:00",
-    "items": []
-  },
   "amazon|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
     "ts": "2026-07-30T03:54:24.298872+00:00",
     "items": []
@@ -618,18 +606,6 @@
   },
   "sams|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
     "ts": "2026-07-31T18:46:23.849783+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-07-29T22:52:33.599462+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-07-29T22:52:35.153214+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-07-29T22:52:38.139024+00:00",
     "items": []
   },
   "amazon|NESPRESSOCAFETERAVERTUODELUXETITAN": {
@@ -3221,6 +3197,42 @@
   },
   "sams|APPLEIPHONERETINASUPERAPPLE": {
     "ts": "2026-07-31T22:38:39.340308+00:00",
+    "items": []
+  },
+  "amazon|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
+    "ts": "2026-07-31T23:38:04.696226+00:00",
+    "items": []
+  },
+  "walmart|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
+    "ts": "2026-07-31T23:38:07.678763+00:00",
+    "items": []
+  },
+  "sams|KARLLAGERFELDAUDIFONOSLAGERFELDPORTAKARL": {
+    "ts": "2026-07-31T23:38:09.714095+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-31T23:38:11.388794+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-31T23:38:12.711137+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAMILANRELOJAPPLE": {
+    "ts": "2026-07-31T23:38:14.565691+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-31T23:38:15.745204+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-31T23:38:17.365809+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROPANELTOUCH": {
+    "ts": "2026-07-31T23:38:18.846471+00:00",
     "items": []
   }
 }
