@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-07-31 20:16 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-07-31 21:29 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -38% | $499 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -38% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
