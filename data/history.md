@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (539)
+# Historial de ofertas encontradas (540)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-31 16:43 | -36% | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | $979 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-31 13:08 | -22% | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | $2,789 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-31 13:08 | -30% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | $7,699 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-31 13:08 | -38% | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | $7,154 en palacio vs mercado -> -38% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 19:46 | -24% | walmart | [Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300) | $1,219 | $1,219 en walmart vs mercado -> -24% bajo la competencia |
 | 2026-07-02 19:46 | -27% | amazon | [Suavitel Suavizante de Ropa Cuidado Superior Fresca Pri…](https://www.amazon.com.mx/dp/B0BPB5MG17) | $145 | $145 en amazon vs mercado -> -27% bajo la competencia |
 | 2026-07-02 19:46 | -29% | walmart | [Congelador Hisense 7 Pies Gris FC70D6BGX](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-gris-fc70d6bgx/00692172706284?athbdg=L1300) | $5,690 | $5,690 en walmart vs mercado -> -29% bajo la competencia |
-| 2026-07-02 19:46 | -29% | mercadolibre | [Pantalla Samsung 65 Pulgadas Series Uhd 4k Smart Tizen …](https://www.mercadolibre.com.mx/pantalla-samsung-65-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM66344857) | $9,899 | $9,899 en mercadolibre vs mercado -> -29% bajo la competencia |

@@ -1,4 +1,4 @@
-# Productos en vigilancia (478)
+# Productos en vigilancia (479)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -431,7 +431,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | -20% |
 | 🟢 disponible | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automatica R…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | -21% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana 4K K65XR70M2](https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html) | $35,153 | -23% |
-| 🟢 disponible | liverpool | [Smartwatch Stf Insignia Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-stf-insignia-unisex/1176671432) | $399 | -25% |
+| 🟢 disponible | liverpool | [Smartwatch Stf Insignia Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-stf-insignia-unisex/1176671432) | $299 | -25% |
 | 🟢 disponible | liverpool | [Playmobil Naruto Shippuden Kabuto 71568](https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364) | $55 | -20% |
 | 🟢 disponible | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | -22% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | -25% |
@@ -482,3 +482,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB, SSD…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | -38% |
 | 🟢 disponible | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | -22% |
+| 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -36% |
