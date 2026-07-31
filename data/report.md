@@ -1,15 +1,14 @@
-# Errores/chollos de precio — 2026-07-30 23:54 UTC
+# Errores/chollos de precio — 2026-07-31 01:55 UTC
 
-- Productos revisados: **1676**
+- Productos revisados: **1689**
 - Umbral de diferencia: **20%**
-- Hallazgos: **58**
+- Hallazgos: **57**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -50% | $19,795 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -50% bajo la competencia |
 | -30% | $17,250 | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | Confirmado vs competencia | $40,249 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $16,000 | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | Confirmado vs competencia | $64,000 en palacio vs mercado -> -20% bajo la competencia |
-| -40% | $13,498 | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $20,246 | Confirmado vs competencia | $20,246 en liverpool vs mercado -> -40% bajo la competencia |
 | -26% | $9,000 | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | Confirmado vs competencia | $25,999 en palacio vs mercado -> -26% bajo la competencia |
 | -41% | $8,580 | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P-42-1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $12,220 | Confirmado vs competencia | $12,220 en palacio vs mercado -> -41% bajo la competencia |
 | -25% | $7,905 | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | Confirmado vs competencia | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
@@ -48,8 +47,8 @@
 | -30% | $900 | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | Confirmado vs competencia | $2,099 en palacio vs mercado -> -30% bajo la competencia |
 | -40% | $860 | palacio | [Licuadora, 3 Velocidades, Plata](https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html) | $1,289 | Confirmado vs competencia | $1,289 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $800 | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
 | -20% | $600 | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | Confirmado vs competencia | $2,400 en palacio vs mercado -> -20% bajo la competencia |
