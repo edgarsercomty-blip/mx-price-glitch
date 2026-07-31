@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (541)
+# Historial de ofertas encontradas (542)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-07-31 20:16 | -38% | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-07-31 17:09 | -37% | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | 2026-07-31 16:43 | -36% | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | $979 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-31 13:08 | -22% | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | $2,789 en palacio vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-02 19:46 | -22% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $869 | $869 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-07-02 19:46 | -22% | amazon | [ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB M…](https://www.amazon.com.mx/dp/B07RLHSKJ7) | $1,649 | $1,649 en amazon vs amazon $2,111, walmart $3,359, walmart $3,399 -> -22% bajo la competencia |
 | 2026-07-02 19:46 | -24% | walmart | [Licuadora Hamilton Beach 4 Velocidades Acero Inoxidable](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-4-velocidades-acero-inoxidable/00004009493540?athbdg=L1300) | $1,219 | $1,219 en walmart vs mercado -> -24% bajo la competencia |
-| 2026-07-02 19:46 | -27% | amazon | [Suavitel Suavizante de Ropa Cuidado Superior Fresca Pri…](https://www.amazon.com.mx/dp/B0BPB5MG17) | $145 | $145 en amazon vs mercado -> -27% bajo la competencia |
