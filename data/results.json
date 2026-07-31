@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31 01:55 UTC",
-  "products_scanned": 1689,
+  "generated_at": "2026-07-31 04:20 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
   "count": 57,
   "findings": [
@@ -23,27 +23,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,007 en liverpool vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 972.0,
-      "store": "liverpool",
-      "name": "Cepillo Telescopico Tv Ofertas De Cerdas Naturales",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573",
-      "price": 1007.4,
-      "list_price": 1679.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1158548573",
-        "marketplace": null
       }
     },
     {
@@ -107,6 +86,27 @@
       "extra": {
         "id": "44573840",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 15.0,
+      "detail": "$20,246 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13497.66,
+      "store": "liverpool",
+      "name": "Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De 6 Quemadores",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701",
+      "price": 20246.49,
+      "list_price": 23819.4,
+      "ean": null,
+      "model": "Emh7614Datss0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125228701",
+        "marketplace": null
       }
     },
     {
@@ -406,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 615.65,
@@ -505,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -678,48 +678,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$460 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 159.0,
-      "store": "liverpool",
-      "name": "Cafetera De Goteo Oster Bvstdc12B",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749",
-      "price": 460.0,
-      "list_price": 460.0,
-      "ean": null,
-      "model": "Bvstdc12B",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153472749",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.3,
       "detail": "$23,715 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -779,6 +737,27 @@
       "extra": {
         "id": "44567926",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$28,499 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9300.27,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6Sfm Con Fire Os Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057",
+      "price": 28499.1,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": "100Qd6Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197517057",
+        "marketplace": null
       }
     },
     {
@@ -883,6 +862,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1194918409",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.5,
+      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 210.0,
+      "store": "liverpool",
+      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
+      "price": 749.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": "Bj2Bl",
+      "brand": "BLENDJET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178436101",
         "marketplace": null
       }
     },
@@ -1166,27 +1166,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001065",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Naranja destello",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html",
       "price": 3199.2,
@@ -1198,6 +1177,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001064",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001065",
         "outlet": false
       }
     }
