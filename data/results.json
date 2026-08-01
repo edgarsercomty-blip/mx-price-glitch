@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 04:19 UTC",
-  "products_scanned": 1660,
+  "generated_at": "2026-08-01 04:36 UTC",
+  "products_scanned": 1656,
   "threshold_pct": 20.0,
-  "count": 64,
+  "count": 65,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -1114,6 +1114,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45505426",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$9,771 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2442.86,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html",
+      "price": 9771.44,
+      "list_price": 17449.0,
+      "ean": null,
+      "model": "65QD6SFM",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45467919",
         "outlet": false
       }
     },
