@@ -119,18 +119,6 @@
     "ts": "2026-07-31T16:43:40.232992+00:00",
     "items": []
   },
-  "amazon|BVSTDC12B": {
-    "ts": "2026-07-30T21:33:56.783279+00:00",
-    "items": []
-  },
-  "walmart|BVSTDC12B": {
-    "ts": "2026-07-30T21:34:03.955789+00:00",
-    "items": []
-  },
-  "sams|BVSTDC12B": {
-    "ts": "2026-07-30T21:34:07.005588+00:00",
-    "items": []
-  },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
     "ts": "2026-07-31T15:30:57.732914+00:00",
     "items": []
@@ -898,54 +886,6 @@
   },
   "sams|15IRX10": {
     "ts": "2026-08-01T13:56:50.599573+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAAPPLEWATCHRELOJ": {
-    "ts": "2026-07-30T21:34:14.486398+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAAPPLEWATCHRELOJ": {
-    "ts": "2026-07-30T21:34:16.427543+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAAPPLEWATCHRELOJ": {
-    "ts": "2026-07-30T21:34:18.648529+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREARELOJMOBO": {
-    "ts": "2026-07-30T21:34:19.955866+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREARELOJMOBO": {
-    "ts": "2026-07-30T21:34:21.476512+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREARELOJMOBO": {
-    "ts": "2026-07-30T21:34:23.174699+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-30T21:34:25.813751+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-30T21:34:29.379677+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOPANELACERO": {
-    "ts": "2026-07-30T21:34:30.889947+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-30T21:34:32.183192+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-30T21:34:33.790067+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSOPRIMALATTE": {
-    "ts": "2026-07-30T21:34:35.384103+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
@@ -3115,6 +3055,42 @@
   },
   "sams|OSTERCAFETERAGOTEOPANELTAZAS": {
     "ts": "2026-08-01T21:10:57.690272+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-01T22:12:02.982696+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-01T22:12:04.734710+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-01T22:12:06.520437+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROPANEL": {
+    "ts": "2026-08-01T22:12:08.325196+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROPANEL": {
+    "ts": "2026-08-01T22:12:09.827830+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOACEROPANEL": {
+    "ts": "2026-08-01T22:12:11.542429+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-08-01T22:12:13.123378+00:00",
+    "items": []
+  },
+  "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-08-01T22:12:14.615629+00:00",
+    "items": []
+  },
+  "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
+    "ts": "2026-08-01T22:12:15.868597+00:00",
     "items": []
   }
 }

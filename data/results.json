@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 21:10 UTC",
-  "products_scanned": 1635,
+  "generated_at": "2026-08-01 22:12 UTC",
+  "products_scanned": 1633,
   "threshold_pct": 20.0,
-  "count": 63,
+  "count": 62,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -926,27 +926,6 @@
       "extra": {
         "id": "44011025",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 22.3,
-      "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 545.0,
-      "store": "liverpool",
-      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
-      "price": 1900.0,
-      "list_price": 2445.0,
-      "ean": null,
-      "model": null,
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1194918409",
-        "marketplace": null
       }
     },
     {
