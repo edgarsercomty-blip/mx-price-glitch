@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 01:10 UTC",
-  "products_scanned": 1655,
+  "generated_at": "2026-08-01 04:19 UTC",
+  "products_scanned": 1660,
   "threshold_pct": 20.0,
-  "count": 65,
+  "count": 64,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,6 +44,27 @@
       "extra": {
         "productId": "1152285660",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
       }
     },
     {
@@ -90,48 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 15.0,
-      "detail": "$20,246 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13497.66,
-      "store": "liverpool",
-      "name": "Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De 6 Quemadores",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701",
-      "price": 20246.49,
-      "list_price": 23819.4,
-      "ean": null,
-      "model": "Emh7614Datss0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125228701",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,329 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4219.6,
-      "store": "liverpool",
-      "name": "Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087",
-      "price": 6329.4,
-      "list_price": 10549.0,
-      "ean": null,
-      "model": null,
-      "brand": "TURBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133798087",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$1,031 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -154,21 +133,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 955.6,
+      "savings": 1479.6,
       "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
       "ean": null,
-      "model": null,
+      "model": "BLSTPYG1312XBG",
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216478",
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -217,21 +196,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1479.6,
+      "savings": 955.6,
       "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
       "ean": null,
-      "model": "BLSTPYG1312XBG",
+      "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216479",
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -317,27 +296,6 @@
       "extra": {
         "id": "43484891",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,245 en liverpool vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1347.0,
-      "store": "liverpool",
-      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
-      "price": 2245.0,
-      "list_price": 2245.0,
-      "ean": null,
-      "model": "A3Kgcv6Us",
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183038172",
-        "marketplace": null
       }
     },
     {
@@ -490,6 +448,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -526,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45021106",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
         "outlet": false
       }
     },
@@ -804,6 +762,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 15.0,
+      "detail": "$20,246 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6748.83,
+      "store": "liverpool",
+      "name": "Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De 6 Quemadores",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701",
+      "price": 20246.49,
+      "list_price": 23819.4,
+      "ean": null,
+      "model": "Emh7614Datss0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125228701",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$6,329 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2109.8,
+      "store": "liverpool",
+      "name": "Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087",
+      "price": 6329.4,
+      "list_price": 10549.0,
+      "ean": null,
+      "model": null,
+      "brand": "TURBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133798087",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -951,6 +951,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,245 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 673.5,
+      "store": "liverpool",
+      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
+      "price": 2245.0,
+      "list_price": 2245.0,
+      "ean": null,
+      "model": "A3Kgcv6Us",
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1183038172",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 22.3,
       "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -988,27 +1009,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44968789",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$13,859 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3739.83,
-      "store": "palacio",
-      "name": "Laptop, Vivobook, 16\", Intel Core Ultra 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html",
-      "price": 13859.37,
-      "list_price": 21999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44634308",
         "outlet": false
       }
     },
@@ -1115,27 +1115,6 @@
       "extra": {
         "id": "45505426",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$4,799 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.8,
-      "store": "liverpool",
-      "name": "Oppo A5 Pro Lcd 6 67 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251",
-      "price": 4799.2,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "OPPO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183393251",
-        "marketplace": null
       }
     },
     {
