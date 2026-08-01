@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 11:03 UTC",
-  "products_scanned": 1571,
+  "generated_at": "2026-08-01 12:14 UTC",
+  "products_scanned": 1561,
   "threshold_pct": 20.0,
-  "count": 55,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -343,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -442,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021105",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -889,6 +889,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Negro",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003621",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -931,27 +952,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 44.0,
-      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7699.86,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
-      "price": 30799.44,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "75MRGB86BSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
       "detail": "$9,771 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2442.86,
@@ -967,6 +967,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45467919",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7699.86,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30799.44,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
         "outlet": false
       }
     },
