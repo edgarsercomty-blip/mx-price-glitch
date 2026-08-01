@@ -407,30 +407,6 @@
     "ts": "2026-08-01T12:14:38.309594+00:00",
     "items": []
   },
-  "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-30T17:06:58.751427+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-30T17:07:00.565512+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
-    "ts": "2026-07-30T17:07:02.773725+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-07-30T17:07:09.244700+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-07-30T17:07:10.788715+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-07-30T17:07:12.232000+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGPANTALLALIFESYLEFRAMEPLANA": {
     "ts": "2026-07-31T04:19:51.384398+00:00",
     "items": []
@@ -922,30 +898,6 @@
   },
   "sams|15IRX10": {
     "ts": "2026-08-01T13:56:50.599573+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-07-30T17:07:04.857385+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-07-30T17:07:06.306538+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-07-30T17:07:07.952280+00:00",
-    "items": []
-  },
-  "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-30T17:07:14.188294+00:00",
-    "items": []
-  },
-  "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-30T17:07:15.851936+00:00",
-    "items": []
-  },
-  "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-07-30T17:07:19.681294+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
@@ -3127,6 +3079,42 @@
   },
   "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
     "ts": "2026-08-01T16:50:09.099638+00:00",
+    "items": []
+  },
+  "amazon|RT53DG6798B1EM": {
+    "ts": "2026-08-01T17:53:38.091052+00:00",
+    "items": []
+  },
+  "walmart|RT53DG6798B1EM": {
+    "ts": "2026-08-01T17:53:39.691589+00:00",
+    "items": []
+  },
+  "sams|RT53DG6798B1EM": {
+    "ts": "2026-08-01T17:53:41.251292+00:00",
+    "items": []
+  },
+  "amazon|MOBOCORREAAPPLEMILANWATCH": {
+    "ts": "2026-08-01T17:53:42.691097+00:00",
+    "items": []
+  },
+  "walmart|MOBOCORREAAPPLEMILANWATCH": {
+    "ts": "2026-08-01T17:53:44.216741+00:00",
+    "items": []
+  },
+  "sams|MOBOCORREAAPPLEMILANWATCH": {
+    "ts": "2026-08-01T17:53:45.713335+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-08-01T17:53:47.008354+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-08-01T17:53:48.880294+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOACERO": {
+    "ts": "2026-08-01T17:53:50.450094+00:00",
     "items": []
   }
 }

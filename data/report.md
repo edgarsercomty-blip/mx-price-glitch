@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-01 16:50 UTC
+# Errores/chollos de precio — 2026-08-01 17:53 UTC
 
-- Productos revisados: **1657**
+- Productos revisados: **1669**
 - Umbral de diferencia: **20%**
 - Hallazgos: **62**
 
@@ -22,13 +22,14 @@
 | -30% | $5,397 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $12,593 | Confirmado vs competencia | $12,593 en palacio vs mercado -> -30% bajo la competencia |
 | -33% | $4,625 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -33% bajo la competencia |
 | -35% | $4,200 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -35% bajo la competencia |
+| -21% | $3,657 | liverpool | [Refrigerador Top Mount Samsung 19 Pies Cubicos Inverter Y Fa…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-samsung-19-pies-cubicos-inverter-y-fabrica-de-hielos-rt53dg6798b1em/1148831471) | $14,107 | Confirmado vs competencia | $14,107 en liverpool vs mercado -> -21% bajo la competencia |
 | -30% | $3,300 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -30% bajo la competencia |
 | -21% | $3,192 | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | Confirmado vs competencia | $12,311 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $2,443 | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | Confirmado vs competencia | $9,771 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,110 | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | Confirmado vs competencia | $6,329 en liverpool vs mercado -> -25% bajo la competencia |
 | -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
-| -20% | $1,834 | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | Confirmado vs competencia | $7,335 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
@@ -56,7 +57,6 @@
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -22% | $545 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | Confirmado vs competencia | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
-| -36% | $542 | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | Confirmado vs competencia | $979 en liverpool vs mercado -> -36% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $499 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |
