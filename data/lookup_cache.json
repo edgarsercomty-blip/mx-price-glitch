@@ -3124,5 +3124,178 @@
   "sams|OSTERCAFETERAGOTEOTAZASACERO": {
     "ts": "2026-08-01T15:53:30.518617+00:00",
     "items": []
+  },
+  "palacio|ANR2359": {
+    "ts": "2026-08-01T15:56:13.795191+00:00",
+    "items": []
+  },
+  "amazon|ANR2359": {
+    "ts": "2026-08-01T15:56:15.096787+00:00",
+    "items": []
+  },
+  "walmart|ANR2359": {
+    "ts": "2026-08-01T15:56:17.086060+00:00",
+    "items": []
+  },
+  "sams|ANR2359": {
+    "ts": "2026-08-01T15:56:20.133692+00:00",
+    "items": []
+  },
+  "mercadolibre|ANR2359": {
+    "ts": "2026-08-01T15:56:21.482114+00:00",
+    "items": []
+  },
+  "palacio|85A65NV": {
+    "ts": "2026-08-01T15:56:26.587042+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 39999.12,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Minisplit Invert LG Frío Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-minisplit-invert-lg-frio-calor-44456601.html",
+        "price": 13799.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla Hisense 4K 75 Vidaa",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-hisense-4k-75-vidaa-44658039.html",
+        "price": 12249.51,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 21684.96,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 35998.83,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
+        "price": 10607.48,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11999.4,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 12749.5,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
+        "price": 12319.44,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
+        "price": 12271.48,
+        "model": null
+      }
+    ]
+  },
+  "amazon|85A65NV": {
+    "ts": "2026-08-01T15:56:28.536786+00:00",
+    "items": []
+  },
+  "walmart|85A65NV": {
+    "ts": "2026-08-01T15:56:30.000385+00:00",
+    "items": []
+  },
+  "sams|85A65NV": {
+    "ts": "2026-08-01T15:56:31.706134+00:00",
+    "items": []
+  },
+  "mercadolibre|85A65NV": {
+    "ts": "2026-08-01T15:56:33.651794+00:00",
+    "items": []
+  },
+  "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-01T15:56:42.043970+00:00",
+    "items": []
+  },
+  "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-01T15:56:44.230842+00:00",
+    "items": []
+  },
+  "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-01T15:56:46.634227+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-08-01T15:56:48.594224+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-08-01T15:56:51.283181+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
+    "ts": "2026-08-01T15:56:53.856497+00:00",
+    "items": []
+  },
+  "amazon|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
+    "ts": "2026-08-01T15:56:55.199191+00:00",
+    "items": []
+  },
+  "walmart|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
+    "ts": "2026-08-01T15:56:56.814234+00:00",
+    "items": []
+  },
+  "sams|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
+    "ts": "2026-08-01T15:56:58.800884+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-08-01T15:57:00.875909+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-08-01T15:57:02.483541+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATOUCHTAZASACERO": {
+    "ts": "2026-08-01T15:57:04.580697+00:00",
+    "items": []
   }
 }
