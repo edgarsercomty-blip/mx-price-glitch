@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (543)
+# Historial de ofertas encontradas (544)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-01 07:09 | -32% | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $14,850 | $14,850 en palacio vs mercado -> -32% bajo la competencia |
 | 2026-08-01 04:19 | -43% | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | $600 en palacio vs mercado -> -43% bajo la competencia |
 | 2026-07-31 20:16 | -38% | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-07-31 17:09 | -37% | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 03:45 | -51% | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | $509 en amazon vs mercado -> -51% bajo la competencia |
 | 2026-07-03 03:45 | -60% | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | $499 en amazon vs mercado -> -60% bajo la competencia |
 | 2026-07-02 19:46 | -22% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $869 | $869 en amazon vs mercado -> -22% bajo la competencia |
-| 2026-07-02 19:46 | -22% | amazon | [ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB M…](https://www.amazon.com.mx/dp/B07RLHSKJ7) | $1,649 | $1,649 en amazon vs amazon $2,111, walmart $3,359, walmart $3,399 -> -22% bajo la competencia |

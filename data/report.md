@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-01 04:36 UTC
+# Errores/chollos de precio — 2026-08-01 07:09 UTC
 
-- Productos revisados: **1656**
+- Productos revisados: **1647**
 - Umbral de diferencia: **20%**
-- Hallazgos: **65**
+- Hallazgos: **64**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -17,6 +17,7 @@
 | -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -23% | $7,220 | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 GB SSD…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $23,939 | Confirmado vs competencia | $23,939 en palacio vs mercado -> -23% bajo la competencia |
+| -32% | $6,930 | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $14,850 | Confirmado vs competencia | $14,850 en palacio vs mercado -> -32% bajo la competencia |
 | -35% | $6,842 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | Confirmado vs competencia | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $6,749 | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $20,246 | Confirmado vs competencia | $20,246 en liverpool vs mercado -> -25% bajo la competencia |
 | -21% | $6,729 | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $24,700 | Confirmado vs competencia | $24,700 en palacio vs mercado -> -21% bajo la competencia |
@@ -35,7 +36,6 @@
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -40% | $1,480 | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | Confirmado vs competencia | $2,219 en palacio vs mercado -> -40% bajo la competencia |
@@ -59,7 +59,6 @@
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -22% | $545 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | Confirmado vs competencia | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
-| -36% | $542 | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | Confirmado vs competencia | $979 en liverpool vs mercado -> -36% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $499 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |

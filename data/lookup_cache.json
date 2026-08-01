@@ -372,15 +372,15 @@
     "items": []
   },
   "amazon|FC0240LA": {
-    "ts": "2026-07-30T04:39:36.109337+00:00",
+    "ts": "2026-08-01T07:08:59.904160+00:00",
     "items": []
   },
   "walmart|FC0240LA": {
-    "ts": "2026-07-30T04:39:38.164146+00:00",
+    "ts": "2026-08-01T07:09:01.504016+00:00",
     "items": []
   },
   "sams|FC0240LA": {
-    "ts": "2026-07-30T04:39:40.009535+00:00",
+    "ts": "2026-08-01T07:09:03.431414+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAESPRESSOLATTEPRIMA": {
@@ -814,42 +814,6 @@
   },
   "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
     "ts": "2026-08-01T04:18:40.917100+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-07-30T04:39:42.429654+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-07-30T04:39:44.152362+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-07-30T04:39:45.902122+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-30T04:39:47.698474+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-30T04:39:49.204675+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAWATCHAPPLERELOJ": {
-    "ts": "2026-07-30T04:39:50.540690+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-30T04:39:51.731540+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-30T04:39:53.618117+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-07-30T04:39:55.089595+00:00",
     "items": []
   },
   "amazon|MOBOCORREAWATCHRELOJAPPLE": {
@@ -3303,6 +3267,18 @@
   },
   "sams|OSTERCAFETERATAZASGOTEOPANEL": {
     "ts": "2026-08-01T04:36:54.856926+00:00",
+    "items": []
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-08-01T07:09:05.194110+00:00",
+    "items": []
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-08-01T07:09:06.986894+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-08-01T07:09:08.813701+00:00",
     "items": []
   }
 }
