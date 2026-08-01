@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-01 22:12 UTC
+# Errores/chollos de precio — 2026-08-01 23:13 UTC
 
-- Productos revisados: **1633**
+- Productos revisados: **1629**
 - Umbral de diferencia: **20%**
-- Hallazgos: **62**
+- Hallazgos: **63**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -28,7 +28,7 @@
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,110 | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | Confirmado vs competencia | $6,329 en liverpool vs mercado -> -25% bajo la competencia |
 | -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
-| -20% | $1,834 | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | Confirmado vs competencia | $7,335 en palacio vs mercado -> -20% bajo la competencia |
+| -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
@@ -55,6 +55,7 @@
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $616 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -35% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
+| -22% | $545 | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | Confirmado vs competencia | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
 | -36% | $542 | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | Confirmado vs competencia | $979 en liverpool vs mercado -> -36% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $499 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -38% bajo la competencia |

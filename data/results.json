@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01 22:12 UTC",
-  "products_scanned": 1633,
+  "generated_at": "2026-08-01 23:13 UTC",
+  "products_scanned": 1629,
   "threshold_pct": 20.0,
-  "count": 62,
+  "count": 63,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,21 +70,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1155.6,
+      "savings": 1479.6,
       "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
       "ean": null,
-      "model": null,
+      "model": "BLSTPYG1312XBG",
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216480",
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -112,21 +112,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1479.6,
+      "savings": 1155.6,
       "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
       "ean": null,
-      "model": "BLSTPYG1312XBG",
+      "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216479",
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -301,27 +301,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2099.65,
-      "store": "palacio",
-      "name": "Licuadora Titan, 5 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
-      "price": 3899.35,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45281005",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1749.65,
@@ -337,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$3,899 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2099.65,
+      "store": "palacio",
+      "name": "Licuadora Titan, 5 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html",
+      "price": 3899.35,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45281005",
         "outlet": false
       }
     },
@@ -762,6 +762,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.6,
+      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.9,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
+      "price": 5999.0,
+      "list_price": 12141.0,
+      "ean": null,
+      "model": "Un50M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.3,
       "detail": "$23,715 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -930,6 +951,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 22.3,
+      "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 545.0,
+      "store": "liverpool",
+      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
+      "price": 1900.0,
+      "list_price": 2445.0,
+      "ean": null,
+      "model": null,
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1194918409",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 46.0,
       "detail": "$12,311 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -1009,27 +1051,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42704900",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1833.86,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
-      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
-      "price": 7335.44,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "55QD6SFM",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467917",
         "outlet": false
       }
     },
