@@ -900,42 +900,6 @@
     "ts": "2026-08-01T13:56:50.599573+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
-    "ts": "2026-07-30T18:48:16.281598+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
-    "ts": "2026-07-30T18:48:19.134305+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
-    "ts": "2026-07-30T18:48:21.028651+00:00",
-    "items": []
-  },
-  "amazon|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-07-30T18:48:22.605615+00:00",
-    "items": []
-  },
-  "walmart|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-07-30T18:48:24.036158+00:00",
-    "items": []
-  },
-  "sams|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-07-30T18:48:26.279473+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASTOUCH": {
-    "ts": "2026-07-30T18:48:27.464298+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASTOUCH": {
-    "ts": "2026-07-30T18:48:28.849091+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASTOUCH": {
-    "ts": "2026-07-30T18:48:30.354798+00:00",
-    "items": []
-  },
   "amazon|APPLEEXTENSIBLEKHAKICARGOWATCH": {
     "ts": "2026-07-30T20:11:28.176207+00:00",
     "items": []
@@ -3115,6 +3079,30 @@
   },
   "sams|OSTERCAFETERATAZASGOTEOACERO": {
     "ts": "2026-08-01T17:53:50.450094+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-01T18:55:32.198910+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-01T18:55:33.830012+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-01T18:55:35.570064+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-01T18:55:36.698581+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-01T18:55:38.278276+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-01T18:55:39.827273+00:00",
     "items": []
   }
 }
