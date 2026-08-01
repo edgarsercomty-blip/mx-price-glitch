@@ -384,15 +384,15 @@
     "items": []
   },
   "amazon|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-30T07:18:59.199548+00:00",
+    "ts": "2026-08-01T09:22:23.118608+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-30T07:19:01.078038+00:00",
+    "ts": "2026-08-01T09:22:24.607696+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-07-30T07:19:04.211688+00:00",
+    "ts": "2026-08-01T09:22:27.107427+00:00",
     "items": []
   },
   "amazon|MABESECADORALAVADORA": {
@@ -814,30 +814,6 @@
   },
   "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
     "ts": "2026-08-01T04:18:40.917100+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAWATCHRELOJAPPLE": {
-    "ts": "2026-07-30T07:18:42.884295+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAWATCHRELOJAPPLE": {
-    "ts": "2026-07-30T07:18:44.737612+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAWATCHRELOJAPPLE": {
-    "ts": "2026-07-30T07:18:46.825558+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASACEROTOUCH": {
-    "ts": "2026-07-30T07:18:48.451080+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASACEROTOUCH": {
-    "ts": "2026-07-30T07:18:53.735117+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASACEROTOUCH": {
-    "ts": "2026-07-30T07:18:55.685943+00:00",
     "items": []
   },
   "amazon|UN65DU7010FXZX": {
@@ -3279,6 +3255,18 @@
   },
   "sams|65QNED81BSG": {
     "ts": "2026-08-01T07:09:08.813701+00:00",
+    "items": []
+  },
+  "amazon|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
+    "ts": "2026-08-01T09:22:14.785197+00:00",
+    "items": []
+  },
+  "walmart|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
+    "ts": "2026-08-01T09:22:16.570479+00:00",
+    "items": []
+  },
+  "sams|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
+    "ts": "2026-08-01T09:22:21.905236+00:00",
     "items": []
   }
 }

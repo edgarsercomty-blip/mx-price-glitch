@@ -1,7 +1,8 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-01 07:09 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-01 09:22 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **2**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -32% | $6,930 | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $14,850 | Confirmado vs competencia | $14,850 en palacio vs mercado -> -32% bajo la competencia |
+| -36% | $220 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -36% bajo la competencia |
+| -33% | $180 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | Confirmado vs competencia | $359 en liverpool vs mercado -> -33% bajo la competencia |

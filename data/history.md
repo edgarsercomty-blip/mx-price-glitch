@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (544)
+# Historial de ofertas encontradas (546)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-01 09:22 | -33% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | $359 en liverpool vs mercado -> -33% bajo la competencia |
+| 2026-08-01 09:22 | -36% | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | $399 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-08-01 07:09 | -32% | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $14,850 | $14,850 en palacio vs mercado -> -32% bajo la competencia |
 | 2026-08-01 04:19 | -43% | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | $600 en palacio vs mercado -> -43% bajo la competencia |
 | 2026-07-31 20:16 | -38% | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | $799 en liverpool vs mercado -> -38% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 03:45 | -26% | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para m…](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | $1,245 en amazon vs mercado -> -26% bajo la competencia |
 | 2026-07-03 03:45 | -27% | mercadolibre | [Pantalla Ips Portátil Para Juegos Retro  R36s Pro 64 G](https://www.mercadolibre.com.mx/pantalla-ips-portatil-para-juegos-retro-r36s-pro-64-g/p/MLM2082326449) | $848 | $848 en mercadolibre vs mercado -> -27% bajo la competencia |
 | 2026-07-03 03:45 | -51% | amazon | [Stanley Quencher ProTour - Vaso con popote abatible con…](https://www.amazon.com.mx/dp/B0FB7NWQN5) | $509 | $509 en amazon vs mercado -> -51% bajo la competencia |
-| 2026-07-03 03:45 | -60% | amazon | [Reebok Tenis LITE5 para Mujer](https://www.amazon.com.mx/dp/B0DMT1NB22) | $499 | $499 en amazon vs mercado -> -60% bajo la competencia |
-| 2026-07-02 19:46 | -22% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $869 | $869 en amazon vs mercado -> -22% bajo la competencia |
