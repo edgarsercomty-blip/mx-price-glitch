@@ -900,88 +900,28 @@
     "ts": "2026-08-01T12:14:42.763112+00:00",
     "items": []
   },
-  "amazon|X1P42100": {
-    "ts": "2026-07-30T13:28:36.604682+00:00",
-    "items": []
-  },
-  "walmart|X1P42100": {
-    "ts": "2026-07-30T13:28:39.246625+00:00",
-    "items": []
-  },
-  "sams|X1P42100": {
-    "ts": "2026-07-30T13:28:46.452274+00:00",
-    "items": []
-  },
-  "amazon|HUAWEISMARTWATCHHUAWEIWATCHGT5": {
-    "ts": "2026-07-30T13:28:49.223333+00:00",
-    "items": []
-  },
-  "walmart|HUAWEISMARTWATCHHUAWEIWATCHGT5": {
-    "ts": "2026-07-30T13:28:51.185110+00:00",
-    "items": []
-  },
-  "sams|HUAWEISMARTWATCHHUAWEIWATCHGT5": {
-    "ts": "2026-07-30T13:28:53.102092+00:00",
-    "items": []
-  },
   "amazon|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-07-30T13:28:54.496900+00:00",
+    "ts": "2026-08-01T13:56:39.590194+00:00",
     "items": []
   },
   "walmart|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-07-30T13:28:56.353397+00:00",
+    "ts": "2026-08-01T13:56:41.018344+00:00",
     "items": []
   },
   "sams|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-07-30T13:28:59.159079+00:00",
-    "items": []
-  },
-  "amazon|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-07-30T13:29:00.708023+00:00",
-    "items": []
-  },
-  "walmart|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-07-30T13:29:04.397154+00:00",
-    "items": []
-  },
-  "sams|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-07-30T13:29:06.890632+00:00",
-    "items": []
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPULTRAINTEL": {
-    "ts": "2026-07-30T13:29:10.476571+00:00",
-    "items": []
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPULTRAINTEL": {
-    "ts": "2026-07-30T13:29:11.794703+00:00",
-    "items": []
-  },
-  "sams|ASUSVIVOBOOKLAPTOPULTRAINTEL": {
-    "ts": "2026-07-30T13:29:13.234598+00:00",
+    "ts": "2026-08-01T13:56:42.565677+00:00",
     "items": []
   },
   "amazon|15IRX10": {
-    "ts": "2026-07-30T13:29:14.727508+00:00",
+    "ts": "2026-08-01T13:56:43.944919+00:00",
     "items": []
   },
   "walmart|15IRX10": {
-    "ts": "2026-07-30T13:29:16.913224+00:00",
+    "ts": "2026-08-01T13:56:48.226513+00:00",
     "items": []
   },
   "sams|15IRX10": {
-    "ts": "2026-07-30T13:29:18.750356+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-30T13:29:20.707319+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-30T13:29:23.270141+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTAZASPANEL": {
-    "ts": "2026-07-30T13:29:24.801649+00:00",
+    "ts": "2026-08-01T13:56:50.599573+00:00",
     "items": []
   },
   "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
@@ -3183,6 +3123,42 @@
   },
   "sams|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
     "ts": "2026-08-01T12:14:24.723867+00:00",
+    "items": []
+  },
+  "amazon|MABESECADORALAVADORA": {
+    "ts": "2026-08-01T13:56:52.483761+00:00",
+    "items": []
+  },
+  "walmart|MABESECADORALAVADORA": {
+    "ts": "2026-08-01T13:56:54.590817+00:00",
+    "items": []
+  },
+  "sams|MABESECADORALAVADORA": {
+    "ts": "2026-08-01T13:56:56.243030+00:00",
+    "items": []
+  },
+  "amazon|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-08-01T13:57:00.542606+00:00",
+    "items": []
+  },
+  "walmart|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-08-01T13:57:02.190193+00:00",
+    "items": []
+  },
+  "sams|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
+    "ts": "2026-08-01T13:57:03.628689+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-08-01T13:57:05.028690+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-08-01T13:57:07.509251+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
+    "ts": "2026-08-01T13:57:10.212221+00:00",
     "items": []
   }
 }
