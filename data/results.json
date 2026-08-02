@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02 03:55 UTC",
+  "generated_at": "2026-08-02 04:21 UTC",
   "products_scanned": 1627,
   "threshold_pct": 20.0,
-  "count": 57,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -821,27 +821,6 @@
       "extra": {
         "id": "44011025",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,245 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 673.5,
-      "store": "liverpool",
-      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
-      "price": 2245.0,
-      "list_price": 2245.0,
-      "ean": null,
-      "model": "A3Kgcv6Us",
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183038172",
-        "marketplace": null
       }
     },
     {
