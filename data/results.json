@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02 18:56 UTC",
-  "products_scanned": 1648,
+  "generated_at": "2026-08-02 20:07 UTC",
+  "products_scanned": 1640,
   "threshold_pct": 20.0,
-  "count": 58,
+  "count": 56,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -364,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.65,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 4199.65,
@@ -400,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.65,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -505,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44064062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$14,850 en palacio vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6929.79,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html",
-      "price": 14849.55,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": "65QNED81BSG",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505427",
         "outlet": false
       }
     },
@@ -694,27 +673,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
         "marketplace": null
       }
     },
@@ -1187,27 +1145,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001065",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Naranja destello",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html",
       "price": 3199.2,
@@ -1219,6 +1156,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001064",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Rosa intenso",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001065",
         "outlet": false
       }
     }
