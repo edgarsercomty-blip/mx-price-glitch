@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 13:00 UTC",
-  "products_scanned": 1642,
+  "generated_at": "2026-08-02 14:38 UTC",
+  "products_scanned": 1647,
   "threshold_pct": 20.0,
   "count": 58,
   "findings": [
@@ -70,27 +70,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -432,7 +432,7 @@
       "savings": 1679.65,
       "store": "palacio",
       "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
       "price": 3119.35,
       "list_price": 4799.0,
       "ean": null,
@@ -441,7 +441,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021105",
+        "id": "45021106",
         "outlet": false
       }
     },
@@ -453,7 +453,7 @@
       "savings": 1679.65,
       "store": "palacio",
       "name": "Cafetera Espresso Prima Latte para 1 Taza",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html",
       "price": 3119.35,
       "list_price": 4799.0,
       "ean": null,
@@ -462,7 +462,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45021106",
+        "id": "45021105",
         "outlet": false
       }
     },
@@ -762,6 +762,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$28,499 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9300.27,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6Sfm Con Fire Os Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057",
+      "price": 28499.1,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": "100Qd6Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197517057",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$3,899 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -863,27 +884,6 @@
       "extra": {
         "productId": "1123821595",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$24,700 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6728.75,
-      "store": "palacio",
-      "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-      "price": 24700.0,
-      "list_price": 47500.0,
-      "ean": null,
-      "model": "WM25VFXS",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44968789",
-        "outlet": false
       }
     },
     {
