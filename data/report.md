@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-02 21:11 UTC
+# Errores/chollos de precio — 2026-08-02 22:11 UTC
 
-- Productos revisados: **1646**
+- Productos revisados: **1642**
 - Umbral de diferencia: **20%**
 - Hallazgos: **55**
 
@@ -29,7 +29,6 @@
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -40% | $1,516 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -40% bajo la competencia |
 | -40% | $1,480 | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | Confirmado vs competencia | $2,219 en palacio vs mercado -> -40% bajo la competencia |
 | -35% | $1,442 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | Confirmado vs competencia | $2,677 en palacio vs mercado -> -35% bajo la competencia |
@@ -61,3 +60,4 @@
 | -20% | $130 | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | Confirmado vs competencia | $519 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
+| -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |

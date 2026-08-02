@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 21:11 UTC",
-  "products_scanned": 1646,
+  "generated_at": "2026-08-02 22:11 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
   "count": 55,
   "findings": [
@@ -364,27 +364,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6842.15,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 12706.85,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$584 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 314.65,
@@ -421,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$12,707 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6842.15,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 12706.85,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -783,27 +783,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1648.5,
-      "store": "palacio",
-      "name": "Cafetera Expreso ECF02CRUS Crema",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html",
-      "price": 5495.0,
-      "list_price": 10990.0,
-      "ean": null,
-      "model": "ECF02CRUS",
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44011026",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$979 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -904,6 +883,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44272688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$280 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 69.9,
+      "store": "palacio",
+      "name": "Protector de pantalla para Apple Watch",
+      "url": "https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html",
+      "price": 279.6,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Belkin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42704900",
         "outlet": false
       }
     },
