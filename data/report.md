@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-02 10:38 UTC
+# Errores/chollos de precio — 2026-08-02 11:45 UTC
 
-- Productos revisados: **1558**
+- Productos revisados: **1557**
 - Umbral de diferencia: **20%**
-- Hallazgos: **49**
+- Hallazgos: **50**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -47,6 +47,7 @@
 | -40% | $688 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -40% bajo la competencia |
 | -30% | $600 | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | Confirmado vs competencia | $1,399 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $524 | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | Confirmado vs competencia | $2,094 en palacio vs mercado -> -20% bajo la competencia |
+| -38% | $499 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | -35% | $315 | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | Confirmado vs competencia | $584 en palacio vs mercado -> -35% bajo la competencia |
 | -22% | $271 | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | Confirmado vs competencia | $979 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
