@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02 11:45 UTC",
-  "products_scanned": 1557,
+  "generated_at": "2026-08-02 13:00 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 58,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,6 +70,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1479.6,
+      "store": "palacio",
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": "BLSTPYG1312XBG",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216479",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$1,433 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 955.6,
@@ -106,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216480",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1479.6,
-      "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": "BLSTPYG1312XBG",
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216479",
         "outlet": false
       }
     },
@@ -216,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$3,000 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1799.7,
+      "store": "palacio",
+      "name": "Krups Espresseria Divine",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html",
+      "price": 2999.5,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484891",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
       "likely_typo": false,
@@ -259,6 +280,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
+      "detail": "$3,249 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1749.65,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3249.35,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
       "detail": "$2,144 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 1154.65,
@@ -274,6 +316,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43216476",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,677 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1441.65,
+      "store": "palacio",
+      "name": "Licuadora Xtreme Mix, 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
+      "price": 2677.35,
+      "list_price": 4119.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$1,143 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 615.65,
+      "store": "palacio",
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1143.35,
+      "list_price": 1759.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926488",
         "outlet": false
       }
     },
@@ -401,6 +485,27 @@
       "extra": {
         "productId": "1152285660",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$9,250 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4624.75,
+      "store": "palacio",
+      "name": "Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html",
+      "price": 9249.5,
+      "list_price": 18499.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44064062",
+        "outlet": false
       }
     },
     {
@@ -594,6 +699,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.6,
+      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.9,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
+      "price": 5999.0,
+      "list_price": 12141.0,
+      "ean": null,
+      "model": "Un50M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -636,23 +762,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$28,499 en liverpool vs mercado -> -25% bajo la competencia",
+      "discount_pct": 35.0,
+      "detail": "$3,899 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 9300.27,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6Sfm Con Fire Os Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057",
-      "price": 28499.1,
-      "list_price": 59999.0,
+      "savings": 1199.8,
+      "store": "palacio",
+      "name": "Cafetera Automática Dedica Dúo Gris en Acero Inoxidable",
+      "url": "https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html",
+      "price": 3899.35,
+      "list_price": 5999.0,
       "ean": null,
-      "model": "100Qd6Sfm",
-      "brand": "HISENSE",
+      "model": null,
+      "brand": "Delonghi",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1197517057",
-        "marketplace": null
+        "id": "45387349",
+        "outlet": false
       }
     },
     {
@@ -784,27 +910,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Negro",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003621",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -841,6 +946,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44272688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$280 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 69.9,
+      "store": "palacio",
+      "name": "Protector de pantalla para Apple Watch",
+      "url": "https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html",
+      "price": 279.6,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Belkin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42704900",
         "outlet": false
       }
     },
@@ -910,6 +1036,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$519 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 129.8,
+      "store": "liverpool",
+      "name": "Funda Spigen Urban Fit",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844",
+      "price": 519.2,
+      "list_price": 649.0,
+      "ean": null,
+      "model": null,
+      "brand": "SPIGEN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1160052844",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 99.8,
@@ -946,6 +1093,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262438",
         "outlet": false
       }
     },
