@@ -2871,5 +2871,110 @@
   "sams|OSTERCAFETERATAZASPANELGOTEO": {
     "ts": "2026-08-02T15:44:03.798993+00:00",
     "items": []
+  },
+  "palacio|CO750B": {
+    "ts": "2026-08-02T15:56:23.092918+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Cepillo alaciador de aire HC45O, 1000 W",
+        "url": "https://www.elpalaciodehierro.com/beurer-cepillo-alaciador-de-aire-hc45o-1000-w-44956549.html",
+        "price": 854.1,
+        "model": "HC45O"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Electrico con Doble Conveccion 28 L",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-horno-electrico-con-doble-conveccion-28-l-44395741.html",
+        "price": 4419.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora de Cabello para Viaje HC 35 Ocean",
+        "url": "https://www.elpalaciodehierro.com/beurer-secadora-de-cabello-para-viaje-hc-35-ocean-44941157.html",
+        "price": 854.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Cocer Overlock Heavy Duty 110 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-cocer-overlock-heavy-duty-110-w-45081393.html",
+        "price": 8049.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M1605, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m1605-120-v-43354453.html",
+        "price": 3779.3,
+        "model": "M1605"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Combinado de Vapor 1.06 p3 Crema",
+        "url": "https://www.elpalaciodehierro.com/smeg-horno-combinado-de-vapor-1.06-p3-crema-44453308.html",
+        "price": 18165.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14399.4,
+        "model": "VR122CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Licuadora The Super Q, 12 Velocidades, Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/breville-licuadora-the-super-q-12-velocidades-acero-inoxidable-45007811.html",
+        "price": 12749.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hidrolavadora K5 WCM",
+        "url": "https://www.elpalaciodehierro.com/karcher-hidrolavadora-k5-wcm-45355725.html",
+        "price": 11699.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 83 Pulgadas Plana OLED 4K QN83S95HAEXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-83-pulgadas-plana-oled-4k-qn83s95haexzx-45447359.html",
+        "price": 94999.1,
+        "model": "QN83S95HAEXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de café automática portátil CM6160 Milk Perfection",
+        "url": "https://www.elpalaciodehierro.com/miele-maquina-de-cafe-automatica-portatil-cm6160-milk-perfection-44396865.html",
+        "price": 38250.0,
+        "model": "CM6160"
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M3505, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m3505-120-v-41403775.html",
+        "price": 5529.3,
+        "model": "M3505"
+      }
+    ]
+  },
+  "amazon|CO750B": {
+    "ts": "2026-08-02T15:56:24.245492+00:00",
+    "items": []
+  },
+  "walmart|CO750B": {
+    "ts": "2026-08-02T15:56:25.504081+00:00",
+    "items": []
+  },
+  "sams|CO750B": {
+    "ts": "2026-08-02T15:56:26.804529+00:00",
+    "items": []
+  },
+  "mercadolibre|CO750B": {
+    "ts": "2026-08-02T15:56:28.096360+00:00",
+    "items": []
   }
 }
