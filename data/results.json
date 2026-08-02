@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-02 00:13 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-08-02 03:55 UTC",
+  "products_scanned": 1627,
   "threshold_pct": 20.0,
-  "count": 65,
+  "count": 57,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.55,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -23,48 +44,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.3,
-      "detail": "$11,998 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9020.5,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K Un75U8200Ffxzx",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318",
-      "price": 11998.5,
-      "list_price": 25713.0,
-      "ean": null,
-      "model": "Un75U8200Ffxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1176864318",
-        "marketplace": null
       }
     },
     {
@@ -91,21 +70,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1155.6,
+      "savings": 1479.6,
       "store": "palacio",
-      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
-      "price": 1733.4,
-      "list_price": 2889.0,
+      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
+      "price": 2219.4,
+      "list_price": 3699.0,
       "ean": null,
-      "model": null,
+      "model": "BLSTPYG1312XBG",
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216480",
+        "id": "43216479",
         "outlet": false
       }
     },
@@ -133,21 +112,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,219 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$1,733 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 1479.6,
+      "savings": 1155.6,
       "store": "palacio",
-      "name": "Licuadora BLSTPYG1312XBG de 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html",
-      "price": 2219.4,
-      "list_price": 3699.0,
+      "name": "Licuadora reversible New Blade, 3 velocidades, Roja",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html",
+      "price": 1733.4,
+      "list_price": 2889.0,
       "ean": null,
-      "model": "BLSTPYG1312XBG",
+      "model": null,
       "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43216479",
+        "id": "43216480",
         "outlet": false
       }
     },
@@ -274,48 +253,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$979 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 541.7,
-      "store": "liverpool",
-      "name": "Licuadora T Fal Infinyforce Xl 14 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595",
-      "price": 979.3,
-      "list_price": 1399.0,
-      "ean": null,
-      "model": null,
-      "brand": "T-FAL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1123821595",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 220.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Alomia",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
-      "price": 399.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "ALOMIA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9957691086",
         "marketplace": null
       }
     },
@@ -594,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$399 en liverpool vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 185.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Alomia",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
+      "price": 399.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "ALOMIA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9957691086",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$7,699 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -679,27 +637,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$27,930 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11970.0,
-      "store": "palacio",
-      "name": "Cafetera semi automática Porsche para 6 tazas",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html",
-      "price": 27930.0,
-      "list_price": 39900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000828",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 5397.0,
@@ -741,27 +678,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$25,999 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8999.82,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html",
-      "price": 25999.48,
-      "list_price": 49999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467987",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 14.9,
       "detail": "$2,980 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -778,69 +694,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.3,
-      "detail": "$23,715 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7905.0,
-      "store": "liverpool",
-      "name": "Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341",
-      "price": 23715.0,
-      "list_price": 37200.0,
-      "ean": null,
-      "model": "Wd20Egnts6P",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1179905341",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$6,329 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2109.8,
-      "store": "liverpool",
-      "name": "Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087",
-      "price": 6329.4,
-      "list_price": 10549.0,
-      "ean": null,
-      "model": null,
-      "brand": "TURBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133798087",
         "marketplace": null
       }
     },
@@ -972,22 +825,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 22.3,
-      "detail": "$1,900 en liverpool vs mercado -> -22% bajo la competencia",
+      "discount_pct": 0.0,
+      "detail": "$2,245 en liverpool vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 545.0,
+      "savings": 673.5,
       "store": "liverpool",
-      "name": "Combo Cafetera Y Aeroccino Nespresso Vertuo 158436",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409",
-      "price": 1900.0,
-      "list_price": 2445.0,
+      "name": "Cafetera Capsulas A3Kgcv6Us Li N Rosa",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172",
+      "price": 2245.0,
+      "list_price": 2245.0,
       "ean": null,
-      "model": null,
+      "model": "A3Kgcv6Us",
       "brand": "NESPRESSO",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1194918409",
+        "productId": "1183038172",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$979 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 270.85,
+      "store": "liverpool",
+      "name": "Licuadora T Fal Infinyforce Xl 14 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595",
+      "price": 979.3,
+      "list_price": 1399.0,
+      "ean": null,
+      "model": null,
+      "brand": "T-FAL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1123821595",
         "marketplace": null
       }
     },
@@ -1161,27 +1035,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$1,599 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 400.0,
-      "store": "liverpool",
-      "name": "Cafetera Goteo Electrica C44 Plateado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104",
-      "price": 1599.0,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163604104",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1198,27 +1051,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1128184305",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430528",
         "marketplace": null
       }
     },
