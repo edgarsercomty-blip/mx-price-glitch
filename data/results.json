@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02 22:11 UTC",
-  "products_scanned": 1642,
+  "generated_at": "2026-08-02 23:14 UTC",
+  "products_scanned": 1631,
   "threshold_pct": 20.0,
   "count": 55,
   "findings": [
@@ -678,6 +678,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.6,
+      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.9,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
+      "price": 5999.0,
+      "list_price": 12141.0,
+      "ean": null,
+      "model": "Un50M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -800,27 +821,6 @@
       "extra": {
         "productId": "1123821595",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$24,700 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6728.75,
-      "store": "palacio",
-      "name": "Lavadora 25 Kg carga frontal WM25VFXS",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
-      "price": 24700.0,
-      "list_price": 47500.0,
-      "ean": null,
-      "model": "WM25VFXS",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44968789",
-        "outlet": false
       }
     },
     {
