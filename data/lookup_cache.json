@@ -371,18 +371,6 @@
     "ts": "2026-08-02T15:43:04.938727+00:00",
     "items": []
   },
-  "amazon|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-31T18:46:17.399989+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-31T18:46:21.874060+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDSEMIAUTOMATICAMOLEDORAESPRESSOMAQUINA": {
-    "ts": "2026-07-31T18:46:23.849783+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOCAFETERAVERTUODELUXETITAN": {
     "ts": "2026-08-01T01:10:46.862399+00:00",
     "items": []
@@ -1279,64 +1267,28 @@
     "ts": "2026-08-02T17:54:37.608222+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
-    "ts": "2026-07-31T18:46:27.304752+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
-    "ts": "2026-07-31T18:46:30.780713+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
-    "ts": "2026-07-31T18:46:32.775691+00:00",
-    "items": []
-  },
   "amazon|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-07-31T18:46:34.079789+00:00",
+    "ts": "2026-08-02T18:56:42.535467+00:00",
     "items": []
   },
   "walmart|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-07-31T18:46:35.705468+00:00",
+    "ts": "2026-08-02T18:56:45.119570+00:00",
     "items": []
   },
   "sams|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-07-31T18:46:37.545216+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-31T18:46:38.932113+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-31T18:46:41.607510+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREAAPPLERELOJMILAN": {
-    "ts": "2026-07-31T18:46:44.507748+00:00",
+    "ts": "2026-08-02T18:56:46.881207+00:00",
     "items": []
   },
   "amazon|DELONGHIAUTOMATICAINOXIDABLECAFETERADEDICA": {
-    "ts": "2026-07-31T18:46:46.368518+00:00",
+    "ts": "2026-08-02T18:56:48.144527+00:00",
     "items": []
   },
   "walmart|DELONGHIAUTOMATICAINOXIDABLECAFETERADEDICA": {
-    "ts": "2026-07-31T18:46:49.238215+00:00",
+    "ts": "2026-08-02T18:56:49.604575+00:00",
     "items": []
   },
   "sams|DELONGHIAUTOMATICAINOXIDABLECAFETERADEDICA": {
-    "ts": "2026-07-31T18:46:50.780439+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHTAZASGOTEO": {
-    "ts": "2026-07-31T18:46:52.031896+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHTAZASGOTEO": {
-    "ts": "2026-07-31T18:46:53.689019+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHTAZASGOTEO": {
-    "ts": "2026-07-31T18:46:55.227919+00:00",
+    "ts": "2026-08-02T18:56:51.075940+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
@@ -2741,6 +2693,30 @@
   },
   "sams|OSTERCAFETERAACEROPANELGOTEO": {
     "ts": "2026-08-02T16:48:59.710818+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-02T18:56:35.484735+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-02T18:56:37.123212+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-02T18:56:40.581375+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-02T18:56:52.727027+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-02T18:56:54.325416+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-02T18:56:57.566919+00:00",
     "items": []
   }
 }

@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-02 17:54 UTC
+# Errores/chollos de precio — 2026-08-02 18:56 UTC
 
 - Productos revisados: **1648**
 - Umbral de diferencia: **20%**
-- Hallazgos: **57**
+- Hallazgos: **58**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -25,6 +25,7 @@
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
 | -20% | $2,550 | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | Confirmado vs competencia | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $2,100 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -35% bajo la competencia |
+| -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -38% | $1,800 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -35% | $1,680 | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | Confirmado vs competencia | $3,119 en palacio vs mercado -> -35% bajo la competencia |
