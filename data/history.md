@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (551)
+# Historial de ofertas encontradas (552)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-03 22:19 | -80% | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Sup…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | $900 en liverpool vs mercado -> -80% bajo la competencia |
 | 2026-08-03 13:28 | -25% | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-03 10:34 | -20% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $1,796 | $1,796 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-03 10:34 | -29% | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | $250 en liverpool vs mercado -> -29% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 19:43 | -44% | mercadolibre | [Licuadora Hamilton Beach 52400 650w Color Negro](https://www.mercadolibre.com.mx/licuadora-hamilton-beach-52400-650w-color-negro/p/MLM23039041) | $999 | $999 en mercadolibre vs mercado -> -44% bajo la competencia |
 | 2026-07-03 14:28 | -22% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,699 (estaba agotado) |
 | 2026-07-03 09:38 | -23% | amazon | [Resident Evil 4 PS5](https://www.amazon.com.mx/dp/B0BJTKYLCB) | $383 | $383 en amazon vs mercado -> -23% bajo la competencia |
-| 2026-07-03 09:38 | -27% | mercadolibre | [Apple iPhone 16 (128 GB) - Negro](https://www.mercadolibre.com.mx/apple-iphone-16-128-gb-negro/p/MLM40287808) | $14,652 | $14,652 en mercadolibre vs mercado -> -27% bajo la competencia |
