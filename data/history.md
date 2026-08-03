@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (547)
+# Historial de ofertas encontradas (548)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-03 03:56 | -21% | liverpool | [Pantalla De Lampara Textured Gallery](https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690) | $1,499 | $1,499 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-01 16:50 | -20% | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | $7,335 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-01 09:22 | -33% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | $359 en liverpool vs mercado -> -33% bajo la competencia |
 | 2026-08-01 09:22 | -36% | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | $399 en liverpool vs mercado -> -36% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 09:38 | -35% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
 | 2026-07-03 09:38 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
 | 2026-07-03 03:45 | -26% | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para m…](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | $1,245 en amazon vs mercado -> -26% bajo la competencia |
-| 2026-07-03 03:45 | -27% | mercadolibre | [Pantalla Ips Portátil Para Juegos Retro  R36s Pro 64 G](https://www.mercadolibre.com.mx/pantalla-ips-portatil-para-juegos-retro-r36s-pro-64-g/p/MLM2082326449) | $848 | $848 en mercadolibre vs mercado -> -27% bajo la competencia |
