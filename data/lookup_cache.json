@@ -240,15 +240,15 @@
     "items": []
   },
   "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-01T04:19:05.857834+00:00",
+    "ts": "2026-08-03T04:27:09.701930+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-01T04:19:07.443814+00:00",
+    "ts": "2026-08-03T04:27:11.179127+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-01T04:19:08.985893+00:00",
+    "ts": "2026-08-03T04:27:13.262631+00:00",
     "items": []
   },
   "amazon|75MRGB86BSA": {
@@ -297,18 +297,6 @@
   },
   "sams|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
     "ts": "2026-08-02T11:45:07.206894+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-08-01T04:18:50.913700+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-08-01T04:18:52.411665+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETVELOCIDADLICUADORAPERSONALMATE": {
-    "ts": "2026-08-01T04:18:54.202311+00:00",
     "items": []
   },
   "amazon|FC0240LA": {
@@ -371,52 +359,40 @@
     "ts": "2026-08-03T03:56:29.727856+00:00",
     "items": []
   },
-  "amazon|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-01T04:18:55.472561+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-01T04:18:56.994313+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-01T04:18:58.525603+00:00",
-    "items": []
-  },
   "amazon|OSTERESPRESSOCAFETERALATTEPRIMA": {
-    "ts": "2026-08-01T04:18:59.790374+00:00",
+    "ts": "2026-08-03T04:27:14.553358+00:00",
     "items": []
   },
   "walmart|OSTERESPRESSOCAFETERALATTEPRIMA": {
-    "ts": "2026-08-01T04:19:01.351249+00:00",
+    "ts": "2026-08-03T04:27:16.041464+00:00",
     "items": []
   },
   "sams|OSTERESPRESSOCAFETERALATTEPRIMA": {
-    "ts": "2026-08-01T04:19:03.674938+00:00",
+    "ts": "2026-08-03T04:27:17.571645+00:00",
     "items": []
   },
   "liverpool|75QM8K": {
-    "ts": "2026-08-01T04:17:52.215984+00:00",
+    "ts": "2026-08-03T04:25:47.032696+00:00",
     "items": []
   },
   "amazon|75QM8K": {
-    "ts": "2026-08-01T04:17:53.499730+00:00",
+    "ts": "2026-08-03T04:25:48.489777+00:00",
     "items": []
   },
   "walmart|75QM8K": {
-    "ts": "2026-08-01T04:17:55.038254+00:00",
+    "ts": "2026-08-03T04:25:50.091283+00:00",
     "items": []
   },
   "sams|75QM8K": {
-    "ts": "2026-08-01T04:17:56.702907+00:00",
+    "ts": "2026-08-03T04:25:52.547383+00:00",
     "items": []
   },
   "mercadolibre|75QM8K": {
-    "ts": "2026-08-01T04:17:57.965115+00:00",
+    "ts": "2026-08-03T04:25:54.190245+00:00",
     "items": []
   },
   "palacio|98Q7K": {
-    "ts": "2026-08-01T04:18:00.782653+00:00",
+    "ts": "2026-08-03T04:25:57.998122+00:00",
     "items": [
       {
         "store": "palacio",
@@ -427,13 +403,6 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
-        "price": 44999.01,
-        "model": "QN85LS03FWFXZX"
-      },
-      {
-        "store": "palacio",
         "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
         "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
         "price": 49599.69,
@@ -441,24 +410,31 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
-        "price": 31999.1,
-        "model": "QN75QN80HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor 34 Pulgadas Curvo UltraWide QHD 100 Hz",
-        "url": "https://www.elpalaciodehierro.com/lg-monitor-34-pulgadas-curvo-ultrawide-qhd-100-hz-44318699.html",
-        "price": 8585.19,
-        "model": null
-      },
-      {
-        "store": "palacio",
         "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
         "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
         "price": 39999.12,
         "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla Hisense 4K 75 Vidaa",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-hisense-4k-75-vidaa-44658039.html",
+        "price": 12249.51,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
       },
       {
         "store": "palacio",
@@ -476,13 +452,6 @@
       },
       {
         "store": "palacio",
-        "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85X11L SQD",
-        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85x11l-sqd-45368768.html",
-        "price": 112699.3,
-        "model": "85X11L"
-      },
-      {
-        "store": "palacio",
         "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
         "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
         "price": 37799.3,
@@ -490,9 +459,9 @@
       },
       {
         "store": "palacio",
-        "name": "Bocina inalámbrica M7 Wi-Fi 100W",
-        "url": "https://www.elpalaciodehierro.com/lg-bocina-inalambrica-m7-wi-fi-100w-45468003.html",
-        "price": 7874.37,
+        "name": "Monitor 34 Pulgadas Curvo UltraWide QHD 100 Hz",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-34-pulgadas-curvo-ultrawide-qhd-100-hz-44318699.html",
+        "price": 8585.19,
         "model": null
       },
       {
@@ -501,27 +470,34 @@
         "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
         "price": 44879.34,
         "model": "100Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85X11L SQD",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85x11l-sqd-45368768.html",
+        "price": 112699.3,
+        "model": "85X11L"
       }
     ]
   },
   "amazon|98Q7K": {
-    "ts": "2026-08-01T04:18:02.327563+00:00",
+    "ts": "2026-08-03T04:25:59.372102+00:00",
     "items": []
   },
   "walmart|98Q7K": {
-    "ts": "2026-08-01T04:18:04.127483+00:00",
+    "ts": "2026-08-03T04:26:00.881802+00:00",
     "items": []
   },
   "sams|98Q7K": {
-    "ts": "2026-08-01T04:18:07.890593+00:00",
+    "ts": "2026-08-03T04:26:02.542690+00:00",
     "items": []
   },
   "mercadolibre|98Q7K": {
-    "ts": "2026-08-01T04:18:11.800433+00:00",
+    "ts": "2026-08-03T04:26:03.937183+00:00",
     "items": []
   },
   "liverpool|UA8050": {
-    "ts": "2026-08-01T04:18:23.093362+00:00",
+    "ts": "2026-08-03T04:26:25.351023+00:00",
     "items": [
       {
         "store": "liverpool",
@@ -540,31 +516,19 @@
     ]
   },
   "amazon|UA8050": {
-    "ts": "2026-08-01T04:18:24.373014+00:00",
+    "ts": "2026-08-03T04:26:26.679951+00:00",
     "items": []
   },
   "walmart|UA8050": {
-    "ts": "2026-08-01T04:18:26.226700+00:00",
+    "ts": "2026-08-03T04:26:28.324855+00:00",
     "items": []
   },
   "sams|UA8050": {
-    "ts": "2026-08-01T04:18:27.740221+00:00",
+    "ts": "2026-08-03T04:26:31.172841+00:00",
     "items": []
   },
   "mercadolibre|UA8050": {
-    "ts": "2026-08-01T04:18:29.053901+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-01T04:18:37.864095+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-01T04:18:39.379909+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-01T04:18:40.917100+00:00",
+    "ts": "2026-08-03T04:26:32.637169+00:00",
     "items": []
   },
   "amazon|RT53DG6758S9EM": {
@@ -1292,13 +1256,20 @@
     "items": []
   },
   "palacio|ASW32": {
-    "ts": "2026-08-01T04:18:15.990412+00:00",
+    "ts": "2026-08-03T04:26:17.287512+00:00",
     "items": [
       {
         "store": "palacio",
-        "name": "Tenis para correr Gel-Kayano 32 Hombre",
-        "url": "https://www.elpalaciodehierro.com/asics-tenis-para-correr-gel-kayano-32-hombre-45384126.html",
-        "price": 3999.0,
+        "name": "Pantalla 43 Pulgadas Plana Crystal 4K UN43U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-crystal-4k-un43u8500hfxzx-45366537.html",
+        "price": 6320.67,
+        "model": "UN43U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
+        "price": 40079.2,
         "model": null
       },
       {
@@ -1310,23 +1281,23 @@
       },
       {
         "store": "palacio",
-        "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
-        "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
-        "price": 40079.2,
+        "name": "Aspiradora Bespoke Jet 95",
+        "url": "https://www.elpalaciodehierro.com/samsung-aspiradora-bespoke-jet-95-45465138.html",
+        "price": 10919.4,
         "model": null
       },
       {
         "store": "palacio",
-        "name": "Pantalla 43 Pulgadas Plana Crystal 4K UN43U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-crystal-4k-un43u8500hfxzx-45366537.html",
-        "price": 6320.67,
-        "model": "UN43U8500HFXZX"
+        "name": "Tenis para correr Gel-Kayano 32 Hombre",
+        "url": "https://www.elpalaciodehierro.com/asics-tenis-para-correr-gel-kayano-32-hombre-45384126.html",
+        "price": 3999.0,
+        "model": null
       },
       {
         "store": "palacio",
-        "name": "Aspiradora Bespoke Jet 95",
-        "url": "https://www.elpalaciodehierro.com/samsung-aspiradora-bespoke-jet-95-45465138.html",
-        "price": 10919.4,
+        "name": "Maleta de Cabina Rígida Richmond II negra",
+        "url": "https://www.elpalaciodehierro.com/samsonite-maleta-de-cabina-rigida-richmond-ii-negra-42778468.html",
+        "price": 6959.4,
         "model": null
       },
       {
@@ -1338,10 +1309,10 @@
       },
       {
         "store": "palacio",
-        "name": "Computadora AIO VM640KA-R516G512 R5 AI, 23.8\", AMD Ryzen AI 5 330, RAM 16 GB, SSD 512 GB",
-        "url": "https://www.elpalaciodehierro.com/asus-computadora-aio-vm640ka-r516g512-r5-ai-23.8-amd-ryzen-ai-5-330-ram-16-gb-ssd-512-gb-45650683.html",
-        "price": 29999.0,
-        "model": "VM640KA-R516G512"
+        "name": "Maleta de viaje Octolite azul 32quot",
+        "url": "https://www.elpalaciodehierro.com/samsonite-maleta-de-viaje-octolite-azul-32quot-40456801.html",
+        "price": 6299.3,
+        "model": "32quot"
       },
       {
         "store": "palacio",
@@ -1352,17 +1323,17 @@
       },
       {
         "store": "palacio",
-        "name": "Laptop ProArt HN7306EA R AI Max, 13.3\", AMD Ryzen AI MAX+ 388, RAM 32 GB, SSD 1 TB",
-        "url": "https://www.elpalaciodehierro.com/asus-laptop-proart-hn7306ea-r-ai-max-13.3-amd-ryzen-ai-max-388-ram-32-gb-ssd-1-tb-45650686.html",
-        "price": 64999.0,
-        "model": "HN7306EA"
+        "name": "Maleta de viaje Motion Gris",
+        "url": "https://www.elpalaciodehierro.com/wenger-maleta-de-viaje-motion-gris-43557245.html",
+        "price": 3149.3,
+        "model": null
       },
       {
         "store": "palacio",
-        "name": "Playera para correr Atmosphere Hombre",
-        "url": "https://www.elpalaciodehierro.com/brooks-playera-para-correr-atmosphere-hombre-44968889.html",
-        "price": 989.0,
-        "model": null
+        "name": "Computadora AIO VM640KA-R516G512 R5 AI, 23.8\", AMD Ryzen AI 5 330, RAM 16 GB, SSD 512 GB",
+        "url": "https://www.elpalaciodehierro.com/asus-computadora-aio-vm640ka-r516g512-r5-ai-23.8-amd-ryzen-ai-5-330-ram-16-gb-ssd-512-gb-45650683.html",
+        "price": 29999.0,
+        "model": "VM640KA-R516G512"
       },
       {
         "store": "palacio",
@@ -1370,66 +1341,35 @@
         "url": "https://www.elpalaciodehierro.com/joseph-joseph-bote-de-basura-en-acero-inoxidable-44073746.html",
         "price": 1832.0,
         "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de Cabina Rígida Richmond II negra",
-        "url": "https://www.elpalaciodehierro.com/samsonite-maleta-de-cabina-rigida-richmond-ii-negra-42778468.html",
-        "price": 6959.4,
-        "model": null
       }
     ]
   },
   "amazon|ASW32": {
-    "ts": "2026-08-01T04:18:17.685140+00:00",
+    "ts": "2026-08-03T04:26:18.789831+00:00",
     "items": []
   },
   "walmart|ASW32": {
-    "ts": "2026-08-01T04:18:19.197828+00:00",
+    "ts": "2026-08-03T04:26:21.065781+00:00",
     "items": []
   },
   "sams|ASW32": {
-    "ts": "2026-08-01T04:18:20.754285+00:00",
+    "ts": "2026-08-03T04:26:22.746400+00:00",
     "items": []
   },
   "mercadolibre|ASW32": {
-    "ts": "2026-08-01T04:18:22.016316+00:00",
+    "ts": "2026-08-03T04:26:24.571843+00:00",
     "items": []
   },
   "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-01T04:18:31.818503+00:00",
+    "ts": "2026-08-03T04:26:49.641225+00:00",
     "items": []
   },
   "walmart|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-01T04:18:33.400976+00:00",
+    "ts": "2026-08-03T04:26:51.306271+00:00",
     "items": []
   },
   "sams|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-01T04:18:36.573445+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEAPPLECARGOWATCH": {
-    "ts": "2026-08-01T04:18:42.178853+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLECARGOWATCH": {
-    "ts": "2026-08-01T04:18:43.678732+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLECARGOWATCH": {
-    "ts": "2026-08-01T04:18:45.244519+00:00",
-    "items": []
-  },
-  "amazon|TURBOBICICLETAQUOTIDIENURBANARODADA": {
-    "ts": "2026-08-01T04:18:46.579550+00:00",
-    "items": []
-  },
-  "walmart|TURBOBICICLETAQUOTIDIENURBANARODADA": {
-    "ts": "2026-08-01T04:18:48.055257+00:00",
-    "items": []
-  },
-  "sams|TURBOBICICLETAQUOTIDIENURBANARODADA": {
-    "ts": "2026-08-01T04:18:49.565624+00:00",
+    "ts": "2026-08-03T04:26:52.898040+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERATAZASGOTEOPANEL": {
@@ -2705,6 +2645,357 @@
   },
   "sams|OSTERCAFETERAACEROGOTEOTAZAS": {
     "ts": "2026-08-03T03:56:24.546725+00:00",
+    "items": []
+  },
+  "palacio|ARU122VQW": {
+    "ts": "2026-08-03T04:26:07.527711+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit MMT12CABWCAM3, 12000 BTUs, 1 tonelada, 115 V Frio",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt12cabwcam3-12000-btus-1-tonelada-115-v-frio-44662196.html",
+        "price": 7874.37,
+        "model": "MMT12CABWCAM3"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242H9 22,000 BTU-h 2 Toneladas 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242h9-22000-btu-h-2-toneladas-220v-frio-y-calor-40785874.html",
+        "price": 18899.4,
+        "model": "VM242H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
+        "price": 9449.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 12749.5,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242CW 22,000 BTU's, 2 Toneladas 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242cw-22000-btus-2-toneladas-220v-solo-frio-38239334.html",
+        "price": 22799.4,
+        "model": "VR242CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11999.4,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14399.4,
+        "model": "VR122CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8699.25,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
+        "price": 15599.4,
+        "model": "VR122HD"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
+        "price": 9619.48,
+        "model": "LP1225WC"
+      }
+    ]
+  },
+  "amazon|ARU122VQW": {
+    "ts": "2026-08-03T04:26:09.403220+00:00",
+    "items": []
+  },
+  "walmart|ARU122VQW": {
+    "ts": "2026-08-03T04:26:11.388894+00:00",
+    "items": []
+  },
+  "sams|ARU122VQW": {
+    "ts": "2026-08-03T04:26:12.987853+00:00",
+    "items": []
+  },
+  "mercadolibre|ARU122VQW": {
+    "ts": "2026-08-03T04:26:14.263710+00:00",
+    "items": []
+  },
+  "palacio|75QNED83ASG": {
+    "ts": "2026-08-03T04:26:32.821059+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
+        "price": 49599.69,
+        "model": "QNED86"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QNED 4K 75QNED81BSG",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-qned-4k-75qned81bsg-45505428.html",
+        "price": 17699.41,
+        "model": "75QNED81BSG"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+        "price": 10751.58,
+        "model": "75Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 39999.12,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop M3607HA 16 AMD Ryzen 9, 16 GB RAM, 512 GB SSD",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-m3607ha-16-amd-ryzen-9-16-gb-ram-512-gb-ssd-44923669.html",
+        "price": 19223.28,
+        "model": "M3607HA"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador LG Instaview Door in Door 30 p3 LM85SXD",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-lg-instaview-door-in-door-30-p3-lm85sxd-41264405.html",
+        "price": 82679.47,
+        "model": "LM85SXD"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 44999.01,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
+        "price": 44879.34,
+        "model": "100Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana QNED 4K Evo 100QNED85BS",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-4k-evo-100qned85bs-45470229.html",
+        "price": 68599.51,
+        "model": "100QNED85BS"
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 77 Pulgadas Plana OLED 4K QN77S95HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-77-pulgadas-plana-oled-4k-qn77s95hafxzx-45421510.html",
+        "price": 76998.6,
+        "model": "QN77S95HAFXZX"
+      }
+    ]
+  },
+  "amazon|75QNED83ASG": {
+    "ts": "2026-08-03T04:26:35.091419+00:00",
+    "items": []
+  },
+  "walmart|75QNED83ASG": {
+    "ts": "2026-08-03T04:26:36.618076+00:00",
+    "items": []
+  },
+  "sams|75QNED83ASG": {
+    "ts": "2026-08-03T04:26:38.346399+00:00",
+    "items": []
+  },
+  "mercadolibre|75QNED83ASG": {
+    "ts": "2026-08-03T04:26:40.346565+00:00",
+    "items": []
+  },
+  "palacio|PANTA150EBLA": {
+    "ts": "2026-08-03T04:26:40.551251+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011868.html",
+        "price": 816.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-casual-hombre-45011873.html",
+        "price": 966.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón cargo Hombre",
+        "url": "https://www.elpalaciodehierro.com/springfield-pantalon-cargo-hombre-44936366.html",
+        "price": 795.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pants Hombre",
+        "url": "https://www.elpalaciodehierro.com/harmont-blaine-pants-hombre-45253012.html",
+        "price": 1585.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-45137440.html",
+        "price": 2574.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-chino-hombre-45137384.html",
+        "price": 1674.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón chino Hombre",
+        "url": "https://www.elpalaciodehierro.com/ecoalf-pantalon-chino-hombre-45376262.html",
+        "price": 2650.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon Regular Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-regular-hombre-44453299.html",
+        "price": 1914.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/springfield-pantalon-hombre-45263755.html",
+        "price": 1490.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/boggi-milano-pantalon-hombre-45197585.html",
+        "price": 3354.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/faconnable-pantalon-hombre-45550572.html",
+        "price": 3490.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón 126Pigul Mujer",
+        "url": "https://www.elpalaciodehierro.com/maje-pantalon-126pigul-mujer-45589384.html",
+        "price": 7690.0,
+        "model": "126Pigul"
+      }
+    ]
+  },
+  "amazon|PANTA150EBLA": {
+    "ts": "2026-08-03T04:26:41.911913+00:00",
+    "items": []
+  },
+  "walmart|PANTA150EBLA": {
+    "ts": "2026-08-03T04:26:45.115673+00:00",
+    "items": []
+  },
+  "sams|PANTA150EBLA": {
+    "ts": "2026-08-03T04:26:46.925045+00:00",
+    "items": []
+  },
+  "mercadolibre|PANTA150EBLA": {
+    "ts": "2026-08-03T04:26:48.200108+00:00",
+    "items": []
+  },
+  "amazon|POTTERYBARNPANTALLATEXTUREDGALLERYLAMPARA": {
+    "ts": "2026-08-03T04:26:54.371214+00:00",
+    "items": []
+  },
+  "walmart|POTTERYBARNPANTALLATEXTUREDGALLERYLAMPARA": {
+    "ts": "2026-08-03T04:26:56.453587+00:00",
+    "items": []
+  },
+  "sams|POTTERYBARNPANTALLATEXTUREDGALLERYLAMPARA": {
+    "ts": "2026-08-03T04:26:58.048152+00:00",
+    "items": []
+  },
+  "amazon|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-03T04:26:59.488663+00:00",
+    "items": []
+  },
+  "walmart|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-03T04:27:01.014525+00:00",
+    "items": []
+  },
+  "sams|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-03T04:27:03.301412+00:00",
+    "items": []
+  },
+  "amazon|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-08-03T04:27:05.103116+00:00",
+    "items": []
+  },
+  "walmart|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-08-03T04:27:06.564645+00:00",
+    "items": []
+  },
+  "sams|KARLLAGERFELDLAGERFELDAUDIFONOSPORTAKARL": {
+    "ts": "2026-08-03T04:27:08.383050+00:00",
     "items": []
   }
 }
