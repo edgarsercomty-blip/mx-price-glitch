@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-03 16:05 UTC
+# Errores/chollos de precio — 2026-08-03 17:07 UTC
 
-- Productos revisados: **1629**
+- Productos revisados: **1706**
 - Umbral de diferencia: **20%**
-- Hallazgos: **46**
+- Hallazgos: **47**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -51,4 +51,5 @@
 | -33% | $180 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | Confirmado vs competencia | $359 en liverpool vs mercado -> -33% bajo la competencia |
 | -27% | $150 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
+| -29% | $100 | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | Confirmado vs competencia | $250 en liverpool vs mercado -> -29% bajo la competencia |
 | -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |

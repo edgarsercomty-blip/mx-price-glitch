@@ -1276,28 +1276,16 @@
     "ts": "2026-08-03T16:05:41.687717+00:00",
     "items": []
   },
-  "amazon|55QD6SFM": {
-    "ts": "2026-08-01T16:50:00.748174+00:00",
-    "items": []
-  },
-  "walmart|55QD6SFM": {
-    "ts": "2026-08-01T16:50:02.643862+00:00",
-    "items": []
-  },
-  "sams|55QD6SFM": {
-    "ts": "2026-08-01T16:50:04.506770+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-01T16:50:05.801809+00:00",
+    "ts": "2026-08-03T17:06:53.728885+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-01T16:50:07.476769+00:00",
+    "ts": "2026-08-03T17:06:58.236594+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-01T16:50:09.099638+00:00",
+    "ts": "2026-08-03T17:07:03.564831+00:00",
     "items": []
   },
   "amazon|RT53DG6798B1EM": {
@@ -2739,6 +2727,216 @@
   },
   "sams|BELKINPROTECTORPANTALLAWATCHAPPLE": {
     "ts": "2026-08-03T16:05:32.527448+00:00",
+    "items": []
+  },
+  "palacio|SP4PLUS": {
+    "ts": "2026-08-03T17:06:12.863289+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html",
+        "price": 10751.58,
+        "model": "75Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Carro Ford Puma WRC - Loubet",
+        "url": "https://www.elpalaciodehierro.com/scalextric-carro-ford-puma-wrc---loubet-44729432.html",
+        "price": 251.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana QLED 4K 55Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-55q6k-44579096.html",
+        "price": 7331.48,
+        "model": "55Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 pulgadas Plana LED Crystal UHD Tizen Smart TV UN98DU9000FXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-led-crystal-uhd-tizen-smart-tv-un98du9000fxzx-44038784.html",
+        "price": 32570.94,
+        "model": "UN98DU9000FXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 pulgadas plana QD-Mini LED 4K 98QM8K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-mini-led-4k-98qm8k-44927735.html",
+        "price": 51749.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 50 Pulgadas Plana Neo QLED 4K QN90F",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-neo-qled-4k-qn90f-44630811.html",
+        "price": 19999.0,
+        "model": "QN90F"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana QLED 4K 43Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-43-pulgadas-plana-qled-4k-43q6k-44580109.html",
+        "price": 5991.44,
+        "model": "43Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q6k-44576454.html",
+        "price": 10087.48,
+        "model": "65Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 83 Pulgadas Plana OLED 4K QN83S95HAEXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-83-pulgadas-plana-oled-4k-qn83s95haexzx-45447359.html",
+        "price": 94999.1,
+        "model": "QN83S95HAEXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 48 Pulgadas Plana OLED S90FA",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-48-pulgadas-plana-oled-s90fa-44629409.html",
+        "price": 17599.12,
+        "model": "S90FA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana QD-Mini LED 4K 75QM7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qd-mini-led-4k-75qm7k-44576238.html",
+        "price": 25013.34,
+        "model": "75QM7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Metroid Prime 4 Beyond Nintendo Switch 2",
+        "url": "https://www.elpalaciodehierro.com/nintendo-metroid-prime-4-beyond-nintendo-switch-2-45021111.html",
+        "price": 1451.67,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SP4PLUS": {
+    "ts": "2026-08-03T17:06:18.141590+00:00",
+    "items": []
+  },
+  "walmart|SP4PLUS": {
+    "ts": "2026-08-03T17:06:19.793174+00:00",
+    "items": []
+  },
+  "sams|SP4PLUS": {
+    "ts": "2026-08-03T17:06:21.814910+00:00",
+    "items": []
+  },
+  "mercadolibre|SP4PLUS": {
+    "ts": "2026-08-03T17:06:23.321851+00:00",
+    "items": []
+  },
+  "palacio|85A65NV": {
+    "ts": "2026-08-03T17:06:28.981747+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 21684.96,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 35998.83,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
+        "price": 10607.48,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Minisplit Invert LG Frío Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-minisplit-invert-lg-frio-calor-44456601.html",
+        "price": 13799.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 39999.12,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla Hisense 4K 75 Vidaa",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-hisense-4k-75-vidaa-44658039.html",
+        "price": 12249.51,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
+        "price": 12319.44,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 12749.5,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 9999.5,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11999.4,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 13199.4,
+        "model": "VM122H9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
+        "price": 12271.48,
+        "model": null
+      }
+    ]
+  },
+  "amazon|85A65NV": {
+    "ts": "2026-08-03T17:06:30.279004+00:00",
+    "items": []
+  },
+  "walmart|85A65NV": {
+    "ts": "2026-08-03T17:06:32.085108+00:00",
+    "items": []
+  },
+  "sams|85A65NV": {
+    "ts": "2026-08-03T17:06:34.380741+00:00",
+    "items": []
+  },
+  "mercadolibre|85A65NV": {
+    "ts": "2026-08-03T17:06:36.748193+00:00",
     "items": []
   }
 }
