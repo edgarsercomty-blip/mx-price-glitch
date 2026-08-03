@@ -299,30 +299,6 @@
     "ts": "2026-08-02T11:45:07.206894+00:00",
     "items": []
   },
-  "amazon|FC0240LA": {
-    "ts": "2026-08-01T07:08:59.904160+00:00",
-    "items": []
-  },
-  "walmart|FC0240LA": {
-    "ts": "2026-08-01T07:09:01.504016+00:00",
-    "items": []
-  },
-  "sams|FC0240LA": {
-    "ts": "2026-08-01T07:09:03.431414+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-08-01T09:22:23.118608+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-08-01T09:22:24.607696+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
-    "ts": "2026-08-01T09:22:27.107427+00:00",
-    "items": []
-  },
   "amazon|MABELAVADORASECADORA": {
     "ts": "2026-08-01T12:14:35.043734+00:00",
     "items": []
@@ -1372,28 +1348,16 @@
     "ts": "2026-08-03T04:26:52.898040+00:00",
     "items": []
   },
-  "amazon|65QNED81BSG": {
-    "ts": "2026-08-01T07:09:05.194110+00:00",
-    "items": []
-  },
-  "walmart|65QNED81BSG": {
-    "ts": "2026-08-01T07:09:06.986894+00:00",
-    "items": []
-  },
-  "sams|65QNED81BSG": {
-    "ts": "2026-08-01T07:09:08.813701+00:00",
-    "items": []
-  },
   "amazon|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-01T09:22:14.785197+00:00",
+    "ts": "2026-08-03T10:33:52.711065+00:00",
     "items": []
   },
   "walmart|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-01T09:22:16.570479+00:00",
+    "ts": "2026-08-03T10:33:55.130881+00:00",
     "items": []
   },
   "sams|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-01T09:22:21.905236+00:00",
+    "ts": "2026-08-03T10:33:57.599033+00:00",
     "items": []
   },
   "amazon|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
@@ -3020,6 +2984,54 @@
   },
   "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
     "ts": "2026-08-03T06:53:32.060174+00:00",
+    "items": []
+  },
+  "amazon|POTTERYBARNENSALADACERAMICARAMADANPLATO": {
+    "ts": "2026-08-03T10:33:34.452877+00:00",
+    "items": []
+  },
+  "walmart|POTTERYBARNENSALADACERAMICARAMADANPLATO": {
+    "ts": "2026-08-03T10:33:36.259098+00:00",
+    "items": []
+  },
+  "sams|POTTERYBARNENSALADACERAMICARAMADANPLATO": {
+    "ts": "2026-08-03T10:33:41.173318+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
+    "ts": "2026-08-03T10:33:42.874675+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
+    "ts": "2026-08-03T10:33:44.683896+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHCARGOAPPLE": {
+    "ts": "2026-08-03T10:33:46.411620+00:00",
+    "items": []
+  },
+  "amazon|A3KGCV6US": {
+    "ts": "2026-08-03T10:33:47.677017+00:00",
+    "items": []
+  },
+  "walmart|A3KGCV6US": {
+    "ts": "2026-08-03T10:33:49.298486+00:00",
+    "items": []
+  },
+  "sams|A3KGCV6US": {
+    "ts": "2026-08-03T10:33:51.247350+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-08-03T10:33:59.172429+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-08-03T10:34:00.997095+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASGOTEOPANEL": {
+    "ts": "2026-08-03T10:34:02.583933+00:00",
     "items": []
   }
 }

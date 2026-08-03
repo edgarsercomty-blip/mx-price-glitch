@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (548)
+# Historial de ofertas encontradas (550)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-03 10:34 | -20% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $1,796 | $1,796 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-08-03 10:34 | -29% | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | $250 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-03 03:56 | -21% | liverpool | [Pantalla De Lampara Textured Gallery](https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690) | $1,499 | $1,499 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-01 16:50 | -20% | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | $7,335 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-01 09:22 | -33% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | $359 en liverpool vs mercado -> -33% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 09:38 | -23% | amazon | [Resident Evil 4 PS5](https://www.amazon.com.mx/dp/B0BJTKYLCB) | $383 | $383 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-07-03 09:38 | -27% | mercadolibre | [Apple iPhone 16 (128 GB) - Negro](https://www.mercadolibre.com.mx/apple-iphone-16-128-gb-negro/p/MLM40287808) | $14,652 | $14,652 en mercadolibre vs mercado -> -27% bajo la competencia |
 | 2026-07-03 09:38 | -35% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
-| 2026-07-03 09:38 | -37% | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe -…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $14,499 (estaba agotado) |
-| 2026-07-03 03:45 | -26% | amazon | [Skechers On-The-Go Go Walk - Sandalias flexibles para m…](https://www.amazon.com.mx/dp/B0DFXH25MN) | $1,245 | $1,245 en amazon vs mercado -> -26% bajo la competencia |
