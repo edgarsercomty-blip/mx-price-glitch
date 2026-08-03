@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (550)
+# Historial de ofertas encontradas (551)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-03 13:28 | -25% | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-03 10:34 | -20% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $1,796 | $1,796 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-03 10:34 | -29% | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | $250 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-03 03:56 | -21% | liverpool | [Pantalla De Lampara Textured Gallery](https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690) | $1,499 | $1,499 en liverpool vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 14:28 | -22% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,699 (estaba agotado) |
 | 2026-07-03 09:38 | -23% | amazon | [Resident Evil 4 PS5](https://www.amazon.com.mx/dp/B0BJTKYLCB) | $383 | $383 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-07-03 09:38 | -27% | mercadolibre | [Apple iPhone 16 (128 GB) - Negro](https://www.mercadolibre.com.mx/apple-iphone-16-128-gb-negro/p/MLM40287808) | $14,652 | $14,652 en mercadolibre vs mercado -> -27% bajo la competencia |
-| 2026-07-03 09:38 | -35% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |

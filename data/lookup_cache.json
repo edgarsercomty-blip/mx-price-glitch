@@ -300,15 +300,15 @@
     "items": []
   },
   "amazon|MABELAVADORASECADORA": {
-    "ts": "2026-08-01T12:14:35.043734+00:00",
+    "ts": "2026-08-03T13:27:59.409174+00:00",
     "items": []
   },
   "walmart|MABELAVADORASECADORA": {
-    "ts": "2026-08-01T12:14:36.444812+00:00",
+    "ts": "2026-08-03T13:28:01.427652+00:00",
     "items": []
   },
   "sams|MABELAVADORASECADORA": {
-    "ts": "2026-08-01T12:14:38.309594+00:00",
+    "ts": "2026-08-03T13:28:03.202494+00:00",
     "items": []
   },
   "amazon|100QD6SFM": {
@@ -508,111 +508,27 @@
     "items": []
   },
   "amazon|RT53DG6758S9EM": {
-    "ts": "2026-08-01T11:03:21.097187+00:00",
+    "ts": "2026-08-03T13:27:36.033522+00:00",
     "items": []
   },
   "walmart|RT53DG6758S9EM": {
-    "ts": "2026-08-01T11:03:22.558001+00:00",
+    "ts": "2026-08-03T13:27:37.819668+00:00",
     "items": []
   },
   "sams|RT53DG6758S9EM": {
-    "ts": "2026-08-01T11:03:24.132956+00:00",
+    "ts": "2026-08-03T13:27:39.446520+00:00",
     "items": []
   },
   "amazon|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-01T11:03:25.479218+00:00",
+    "ts": "2026-08-03T13:27:40.776849+00:00",
     "items": []
   },
   "walmart|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-01T11:03:27.029394+00:00",
+    "ts": "2026-08-03T13:27:42.698275+00:00",
     "items": []
   },
   "sams|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-01T11:03:28.612931+00:00",
-    "items": []
-  },
-  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-01T11:03:34.416805+00:00",
-    "items": []
-  },
-  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-01T11:03:35.942632+00:00",
-    "items": []
-  },
-  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-01T11:03:37.821279+00:00",
-    "items": []
-  },
-  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-01T12:14:00.629137+00:00",
-    "items": []
-  },
-  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-01T12:14:02.052269+00:00",
-    "items": []
-  },
-  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-01T12:14:03.868003+00:00",
-    "items": []
-  },
-  "amazon|APPLECELULARIPHONEBUMPERFUNDA": {
-    "ts": "2026-08-01T12:14:05.041047+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARIPHONEBUMPERFUNDA": {
-    "ts": "2026-08-01T12:14:06.649037+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARIPHONEBUMPERFUNDA": {
-    "ts": "2026-08-01T12:14:08.041510+00:00",
-    "items": []
-  },
-  "amazon|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-01T12:14:09.149947+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-01T12:14:10.638497+00:00",
-    "items": []
-  },
-  "sams|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-01T12:14:12.155018+00:00",
-    "items": []
-  },
-  "amazon|WD20EGNTS6P": {
-    "ts": "2026-08-01T12:14:17.190449+00:00",
-    "items": []
-  },
-  "walmart|WD20EGNTS6P": {
-    "ts": "2026-08-01T12:14:18.690714+00:00",
-    "items": []
-  },
-  "sams|WD20EGNTS6P": {
-    "ts": "2026-08-01T12:14:20.205191+00:00",
-    "items": []
-  },
-  "amazon|MOBOCORREARELOJAPPLEMILAN": {
-    "ts": "2026-08-01T12:14:25.856387+00:00",
-    "items": []
-  },
-  "walmart|MOBOCORREARELOJAPPLEMILAN": {
-    "ts": "2026-08-01T12:14:27.381315+00:00",
-    "items": []
-  },
-  "sams|MOBOCORREARELOJAPPLEMILAN": {
-    "ts": "2026-08-01T12:14:28.740131+00:00",
-    "items": []
-  },
-  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-01T12:14:39.585858+00:00",
-    "items": []
-  },
-  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-01T12:14:41.242360+00:00",
-    "items": []
-  },
-  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-01T12:14:42.763112+00:00",
+    "ts": "2026-08-03T13:27:44.716974+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
@@ -1358,54 +1274,6 @@
   },
   "sams|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
     "ts": "2026-08-03T10:33:57.599033+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-08-01T11:03:15.964132+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-08-01T11:03:17.576151+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGLIFESYLEPANTALLAFRAMEPLANA": {
-    "ts": "2026-08-01T11:03:19.791924+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASPANELACERO": {
-    "ts": "2026-08-01T11:03:29.905726+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASPANELACERO": {
-    "ts": "2026-08-01T11:03:31.393751+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASPANELACERO": {
-    "ts": "2026-08-01T11:03:32.976033+00:00",
-    "items": []
-  },
-  "amazon|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-01T12:14:13.252818+00:00",
-    "items": []
-  },
-  "walmart|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-01T12:14:14.578086+00:00",
-    "items": []
-  },
-  "sams|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-01T12:14:16.046219+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-08-01T12:14:21.535198+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-08-01T12:14:23.052500+00:00",
-    "items": []
-  },
-  "sams|NESPRESSONESPRESSOAEROCCINOCAFETERAVERTUO": {
-    "ts": "2026-08-01T12:14:24.723867+00:00",
     "items": []
   },
   "amazon|MABESECADORALAVADORA": {
@@ -3032,6 +2900,54 @@
   },
   "sams|OSTERCAFETERATAZASGOTEOPANEL": {
     "ts": "2026-08-03T10:34:02.583933+00:00",
+    "items": []
+  },
+  "amazon|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-03T13:27:30.035188+00:00",
+    "items": []
+  },
+  "walmart|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-03T13:27:31.987398+00:00",
+    "items": []
+  },
+  "sams|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-03T13:27:33.975196+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-03T13:27:46.348805+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-03T13:27:50.307280+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-03T13:27:52.381364+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOMULTICAPSULASNESPRESSOCAFETERAC140": {
+    "ts": "2026-08-03T13:27:53.744109+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOMULTICAPSULASNESPRESSOCAFETERAC140": {
+    "ts": "2026-08-03T13:27:55.577836+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOMULTICAPSULASNESPRESSOCAFETERAC140": {
+    "ts": "2026-08-03T13:27:57.620919+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAESPRESSOLATTEPRIMA": {
+    "ts": "2026-08-03T13:28:05.118395+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERAESPRESSOLATTEPRIMA": {
+    "ts": "2026-08-03T13:28:07.683233+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
+    "ts": "2026-08-03T13:28:09.290354+00:00",
     "items": []
   }
 }
