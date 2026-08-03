@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-03 04:27 UTC
+# Errores/chollos de precio — 2026-08-03 06:53 UTC
 
-- Productos revisados: **1645**
+- Productos revisados: **1632**
 - Umbral de diferencia: **20%**
-- Hallazgos: **47**
+- Hallazgos: **46**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -42,7 +42,6 @@
 | -25% | $478 | palacio | [Licuadora reversible color acero](https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html) | $1,433 | Confirmado vs competencia | $1,433 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $450 | palacio | [Licuadora Smart Power, 2 Velocidades](https://www.elpalaciodehierro.com/cuisinart-licuadora-smart-power-2-velocidades-45397408.html) | $1,500 | Confirmado vs competencia | $1,500 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $430 | palacio | [Licuadora, 3 Velocidades, Plata](https://www.elpalaciodehierro.com/oster-licuadora-3-velocidades-plata-41683214.html) | $1,289 | Confirmado vs competencia | $1,289 en palacio vs mercado -> -25% bajo la competencia |
-| -21% | $400 | liverpool | [Pantalla De Lampara Textured Gallery](https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690) | $1,499 | Confirmado vs competencia | $1,499 en liverpool vs mercado -> -21% bajo la competencia |
 | -26% | $396 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | Confirmado vs competencia | $1,143 en palacio vs mercado -> -26% bajo la competencia |
 | -25% | $344 | palacio | [Licuadora BLSTPEG-NPB de 6 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpeg-npb-de-6-velocidades-43216477.html) | $1,031 | Confirmado vs competencia | $1,031 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03 04:27 UTC",
-  "products_scanned": 1645,
+  "generated_at": "2026-08-03 06:53 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -716,27 +716,6 @@
       "extra": {
         "id": "44968789",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$1,499 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 400.0,
-      "store": "liverpool",
-      "name": "Pantalla De Lampara Textured Gallery",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690",
-      "price": 1499.0,
-      "list_price": 1499.0,
-      "ean": null,
-      "model": null,
-      "brand": "POTTERY BARN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1083869690",
-        "marketplace": null
       }
     },
     {
