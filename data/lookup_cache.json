@@ -1288,30 +1288,6 @@
     "ts": "2026-08-03T17:07:03.564831+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-01T18:55:32.198910+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-01T18:55:33.830012+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-01T18:55:35.570064+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-08-01T18:55:36.698581+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-08-01T18:55:38.278276+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
-    "ts": "2026-08-01T18:55:39.827273+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGLIFESYLEPANTALLAPLANAFRAME": {
     "ts": "2026-08-01T20:06:16.735263+00:00",
     "items": []
@@ -2961,6 +2937,30 @@
   },
   "sams|OSTERCAFETERAPANELTAZASGOTEO": {
     "ts": "2026-08-03T18:08:23.794326+00:00",
+    "items": []
+  },
+  "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-03T19:59:49.974131+00:00",
+    "items": []
+  },
+  "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-03T19:59:52.533735+00:00",
+    "items": []
+  },
+  "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
+    "ts": "2026-08-03T20:00:07.570833+00:00",
+    "items": []
+  },
+  "amazon|55QD6SFM": {
+    "ts": "2026-08-03T20:00:14.976249+00:00",
+    "items": []
+  },
+  "walmart|55QD6SFM": {
+    "ts": "2026-08-03T20:00:17.066553+00:00",
+    "items": []
+  },
+  "sams|55QD6SFM": {
+    "ts": "2026-08-03T20:00:18.930205+00:00",
     "items": []
   }
 }
