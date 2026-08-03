@@ -531,28 +531,16 @@
     "ts": "2026-08-03T13:27:44.716974+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-08-01T13:56:39.590194+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-08-01T13:56:41.018344+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
-    "ts": "2026-08-01T13:56:42.565677+00:00",
-    "items": []
-  },
   "amazon|15IRX10": {
-    "ts": "2026-08-01T13:56:43.944919+00:00",
+    "ts": "2026-08-03T16:05:33.895399+00:00",
     "items": []
   },
   "walmart|15IRX10": {
-    "ts": "2026-08-01T13:56:48.226513+00:00",
+    "ts": "2026-08-03T16:05:35.861247+00:00",
     "items": []
   },
   "sams|15IRX10": {
-    "ts": "2026-08-01T13:56:50.599573+00:00",
+    "ts": "2026-08-03T16:05:37.424125+00:00",
     "items": []
   },
   "liverpool|QNED86": {
@@ -1276,249 +1264,16 @@
     "ts": "2026-08-03T10:33:57.599033+00:00",
     "items": []
   },
-  "amazon|MABESECADORALAVADORA": {
-    "ts": "2026-08-01T13:56:52.483761+00:00",
-    "items": []
-  },
-  "walmart|MABESECADORALAVADORA": {
-    "ts": "2026-08-01T13:56:54.590817+00:00",
-    "items": []
-  },
-  "sams|MABESECADORALAVADORA": {
-    "ts": "2026-08-01T13:56:56.243030+00:00",
-    "items": []
-  },
-  "amazon|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
-    "ts": "2026-08-01T13:57:00.542606+00:00",
-    "items": []
-  },
-  "walmart|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
-    "ts": "2026-08-01T13:57:02.190193+00:00",
-    "items": []
-  },
-  "sams|SMEGAUTOMATICACAFETERAPORSCHETAZAS": {
-    "ts": "2026-08-01T13:57:03.628689+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-01T13:57:05.028690+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-01T13:57:07.509251+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-01T13:57:10.212221+00:00",
-    "items": []
-  },
-  "amazon|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-01T14:55:22.391217+00:00",
-    "items": []
-  },
-  "walmart|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-01T14:55:25.088539+00:00",
-    "items": []
-  },
-  "sams|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-01T14:55:26.537724+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-01T14:55:27.609833+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-01T14:55:29.069246+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-01T14:55:30.738764+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-01T15:53:27.610786+00:00",
+    "ts": "2026-08-03T16:05:38.569301+00:00",
     "items": []
   },
   "walmart|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-01T15:53:29.049546+00:00",
+    "ts": "2026-08-03T16:05:40.219717+00:00",
     "items": []
   },
   "sams|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-01T15:53:30.518617+00:00",
-    "items": []
-  },
-  "palacio|ANR2359": {
-    "ts": "2026-08-01T15:56:13.795191+00:00",
-    "items": []
-  },
-  "amazon|ANR2359": {
-    "ts": "2026-08-01T15:56:15.096787+00:00",
-    "items": []
-  },
-  "walmart|ANR2359": {
-    "ts": "2026-08-01T15:56:17.086060+00:00",
-    "items": []
-  },
-  "sams|ANR2359": {
-    "ts": "2026-08-01T15:56:20.133692+00:00",
-    "items": []
-  },
-  "mercadolibre|ANR2359": {
-    "ts": "2026-08-01T15:56:21.482114+00:00",
-    "items": []
-  },
-  "palacio|85A65NV": {
-    "ts": "2026-08-01T15:56:26.587042+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
-        "price": 39999.12,
-        "model": "MRN75R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Minisplit Invert LG Frío Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-minisplit-invert-lg-frio-calor-44456601.html",
-        "price": 13799.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla Hisense 4K 75 Vidaa",
-        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-hisense-4k-75-vidaa-44658039.html",
-        "price": 12249.51,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
-        "price": 21684.96,
-        "model": "UN85U8500HFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
-        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
-        "price": 35998.83,
-        "model": "MRN65R85HAFXZX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
-        "price": 10607.48,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
-        "price": 11999.4,
-        "model": "VM121C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
-        "price": 12749.5,
-        "model": "VM182C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
-        "price": 12319.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
-        "price": 13199.4,
-        "model": "VM122H9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 9999.5,
-        "model": "VM122C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
-        "price": 12271.48,
-        "model": null
-      }
-    ]
-  },
-  "amazon|85A65NV": {
-    "ts": "2026-08-01T15:56:28.536786+00:00",
-    "items": []
-  },
-  "walmart|85A65NV": {
-    "ts": "2026-08-01T15:56:30.000385+00:00",
-    "items": []
-  },
-  "sams|85A65NV": {
-    "ts": "2026-08-01T15:56:31.706134+00:00",
-    "items": []
-  },
-  "mercadolibre|85A65NV": {
-    "ts": "2026-08-01T15:56:33.651794+00:00",
-    "items": []
-  },
-  "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-01T15:56:42.043970+00:00",
-    "items": []
-  },
-  "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-01T15:56:44.230842+00:00",
-    "items": []
-  },
-  "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-01T15:56:46.634227+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-08-01T15:56:48.594224+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-08-01T15:56:51.283181+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINONESPRESSOCAFETERAVERTUO": {
-    "ts": "2026-08-01T15:56:53.856497+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
-    "ts": "2026-08-01T15:56:55.199191+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
-    "ts": "2026-08-01T15:56:56.814234+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETINOXIDABLEVELOCIDADLICUADORAPORTATIL": {
-    "ts": "2026-08-01T15:56:58.800884+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHTAZASACERO": {
-    "ts": "2026-08-01T15:57:00.875909+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATOUCHTAZASACERO": {
-    "ts": "2026-08-01T15:57:02.483541+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATOUCHTAZASACERO": {
-    "ts": "2026-08-01T15:57:04.580697+00:00",
+    "ts": "2026-08-03T16:05:41.687717+00:00",
     "items": []
   },
   "amazon|55QD6SFM": {
@@ -2948,6 +2703,42 @@
   },
   "sams|OSTERCAFETERAESPRESSOLATTEPRIMA": {
     "ts": "2026-08-03T13:28:09.290354+00:00",
+    "items": []
+  },
+  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-08-03T16:05:20.166594+00:00",
+    "items": []
+  },
+  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-08-03T16:05:21.722127+00:00",
+    "items": []
+  },
+  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
+    "ts": "2026-08-03T16:05:23.190490+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-03T16:05:24.335358+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-03T16:05:25.743249+00:00",
+    "items": []
+  },
+  "sams|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-03T16:05:27.174190+00:00",
+    "items": []
+  },
+  "amazon|BELKINPROTECTORPANTALLAWATCHAPPLE": {
+    "ts": "2026-08-03T16:05:28.383086+00:00",
+    "items": []
+  },
+  "walmart|BELKINPROTECTORPANTALLAWATCHAPPLE": {
+    "ts": "2026-08-03T16:05:30.607327+00:00",
+    "items": []
+  },
+  "sams|BELKINPROTECTORPANTALLAWATCHAPPLE": {
+    "ts": "2026-08-03T16:05:32.527448+00:00",
     "items": []
   }
 }

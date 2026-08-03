@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-03 13:28 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-03 16:05 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -25% | $770 | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | Confirmado vs competencia | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
