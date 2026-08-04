@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04 21:38 UTC",
-  "products_scanned": 1635,
+  "generated_at": "2026-08-04 22:41 UTC",
+  "products_scanned": 1617,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -238,27 +238,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$3,000 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.8,
-      "store": "palacio",
-      "name": "Krups Espresseria Divine",
-      "url": "https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html",
-      "price": 2999.5,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43484891",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
       "savings": 7918.0,
@@ -316,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1195509171",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
         "marketplace": null
       }
     },
