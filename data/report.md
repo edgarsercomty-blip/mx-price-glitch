@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-04 10:02 UTC
+# Errores/chollos de precio — 2026-08-04 12:20 UTC
 
-- Productos revisados: **1539**
+- Productos revisados: **1565**
 - Umbral de diferencia: **20%**
-- Hallazgos: **28**
+- Hallazgos: **29**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -19,6 +19,7 @@
 | -21% | $3,192 | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | Confirmado vs competencia | $12,311 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $3,012 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -29% bajo la competencia |
 | -21% | $2,172 | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | Confirmado vs competencia | $8,232 en palacio vs mercado -> -21% bajo la competencia |
+| -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -67% | $1,844 | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | Confirmado vs competencia | $900 en liverpool vs mercado -> -67% bajo la competencia |
 | -20% | $1,834 | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | Confirmado vs competencia | $7,335 en palacio vs mercado -> -20% bajo la competencia |

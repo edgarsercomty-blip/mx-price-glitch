@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04 10:02 UTC",
-  "products_scanned": 1539,
+  "generated_at": "2026-08-04 12:20 UTC",
+  "products_scanned": 1565,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -405,6 +405,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$8,232 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -490,27 +511,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 44.0,
-      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7699.86,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
-      "price": 30799.44,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "75MRGB86BSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
       "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 1833.86,
@@ -526,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45467917",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7699.86,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30799.44,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
         "outlet": false
       }
     },

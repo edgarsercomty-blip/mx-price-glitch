@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (555)
+# Historial de ofertas encontradas (556)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-04 12:20 | -21% | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-04 10:02 | -21% | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $16,087 | $16,087 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-04 10:02 | -21% | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | $14,122 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-04 04:01 | -21% | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | $8,232 en palacio vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 19:43 | -22% | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bu…](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $11,599 | $11,599 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-07-03 19:43 | -24% | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Mult…](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | $189 en walmart vs mercado -> -24% bajo la competencia |
 | 2026-07-03 19:43 | -28% | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O…](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | $2,658 en sams vs mercado -> -28% bajo la competencia |
-| 2026-07-03 19:43 | -30% | amazon | [Black+Decker Cafetera con Tecnología Vortex y Filtro Pe…](https://www.amazon.com.mx/dp/B0CYQL7WXT) | $345 | $345 en amazon vs amazon $491, amazon $495, amazon $527 -> -30% bajo la competencia |
