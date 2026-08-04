@@ -544,15 +544,15 @@
     "items": []
   },
   "amazon|OPPOTELCELOPPOLCD": {
-    "ts": "2026-08-02T08:58:03.140159+00:00",
+    "ts": "2026-08-04T10:02:54.163192+00:00",
     "items": []
   },
   "walmart|OPPOTELCELOPPOLCD": {
-    "ts": "2026-08-02T08:58:06.633509+00:00",
+    "ts": "2026-08-04T10:02:55.689863+00:00",
     "items": []
   },
   "sams|OPPOTELCELOPPOLCD": {
-    "ts": "2026-08-02T08:58:10.287550+00:00",
+    "ts": "2026-08-04T10:02:57.438903+00:00",
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCH46MM": {
@@ -850,18 +850,6 @@
   },
   "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
     "ts": "2026-08-03T22:19:21.162187+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
-    "ts": "2026-08-02T08:57:52.284265+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
-    "ts": "2026-08-02T08:57:58.421497+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEWATCHCARGOKHAKI": {
-    "ts": "2026-08-02T08:58:00.472799+00:00",
     "items": []
   },
   "amazon|WM25VFXS": {
@@ -2464,6 +2452,30 @@
   },
   "sams|APPLEEXTENSIBLEWATCHKHAKICARGO": {
     "ts": "2026-08-04T07:19:29.952976+00:00",
+    "items": []
+  },
+  "amazon|RMB400IBMRP0": {
+    "ts": "2026-08-04T10:02:36.480340+00:00",
+    "items": []
+  },
+  "walmart|RMB400IBMRP0": {
+    "ts": "2026-08-04T10:02:39.015668+00:00",
+    "items": []
+  },
+  "sams|RMB400IBMRP0": {
+    "ts": "2026-08-04T10:02:40.728660+00:00",
+    "items": []
+  },
+  "amazon|HFG3602CPS": {
+    "ts": "2026-08-04T10:02:43.250375+00:00",
+    "items": []
+  },
+  "walmart|HFG3602CPS": {
+    "ts": "2026-08-04T10:02:50.812718+00:00",
+    "items": []
+  },
+  "sams|HFG3602CPS": {
+    "ts": "2026-08-04T10:02:52.346813+00:00",
     "items": []
   }
 }

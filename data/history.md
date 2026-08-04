@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (553)
+# Historial de ofertas encontradas (555)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-04 10:02 | -21% | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $16,087 | $16,087 en liverpool vs mercado -> -21% bajo la competencia |
+| 2026-08-04 10:02 | -21% | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | $14,122 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-04 04:01 | -21% | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | $8,232 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-03 22:19 | -80% | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Sup…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | $900 en liverpool vs mercado -> -80% bajo la competencia |
 | 2026-08-03 13:28 | -25% | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-03 19:43 | -24% | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Mult…](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | $189 en walmart vs mercado -> -24% bajo la competencia |
 | 2026-07-03 19:43 | -28% | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O…](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | $2,658 en sams vs mercado -> -28% bajo la competencia |
 | 2026-07-03 19:43 | -30% | amazon | [Black+Decker Cafetera con Tecnología Vortex y Filtro Pe…](https://www.amazon.com.mx/dp/B0CYQL7WXT) | $345 | $345 en amazon vs amazon $491, amazon $495, amazon $527 -> -30% bajo la competencia |
-| 2026-07-03 19:43 | -44% | mercadolibre | [Licuadora Hamilton Beach 52400 650w Color Negro](https://www.mercadolibre.com.mx/licuadora-hamilton-beach-52400-650w-color-negro/p/MLM23039041) | $999 | $999 en mercadolibre vs mercado -> -44% bajo la competencia |
-| 2026-07-03 14:28 | -22% | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,699 (estaba agotado) |
