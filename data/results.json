@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03 23:30 UTC",
-  "products_scanned": 1633,
+  "generated_at": "2026-08-04 01:03 UTC",
+  "products_scanned": 1634,
   "threshold_pct": 20.0,
   "count": 48,
   "findings": [
@@ -385,27 +385,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
-      "detail": "$584 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 202.27,
-      "store": "palacio",
-      "name": "Cafetera 2217257 para 12 tazas",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
-      "price": 584.35,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45162351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
       "detail": "$7,799 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
       "savings": 2699.77,
@@ -421,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45021110",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$584 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 202.27,
+      "store": "palacio",
+      "name": "Cafetera 2217257 para 12 tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html",
+      "price": 584.35,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45162351",
         "outlet": false
       }
     },
@@ -511,6 +511,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$2,309 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 769.8,
+      "store": "liverpool",
+      "name": "Cafetera Multicapsulas Nespresso C140 Mx Ti Ne",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851",
+      "price": 2309.4,
+      "list_price": 3849.0,
+      "ean": null,
+      "model": null,
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1137498851",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 799.8,
@@ -547,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216477",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,433 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 477.8,
+      "store": "palacio",
+      "name": "Licuadora reversible color acero",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
+      "price": 1433.4,
+      "list_price": 2389.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216478",
         "outlet": false
       }
     },
@@ -610,27 +652,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44567926",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,433 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 477.8,
-      "store": "palacio",
-      "name": "Licuadora reversible color acero",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-reversible-color-acero-43216478.html",
-      "price": 1433.4,
-      "list_price": 2389.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216478",
         "outlet": false
       }
     },
@@ -904,27 +925,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1833.86,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
-      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
-      "price": 7335.44,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "55QD6SFM",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467917",
         "outlet": false
       }
     },

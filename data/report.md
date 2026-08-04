@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-03 23:30 UTC
+# Errores/chollos de precio — 2026-08-04 01:03 UTC
 
-- Productos revisados: **1633**
+- Productos revisados: **1634**
 - Umbral de diferencia: **20%**
 - Hallazgos: **48**
 
@@ -23,7 +23,6 @@
 | -26% | $2,700 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -26% bajo la competencia |
 | -20% | $2,312 | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de Cafe](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | Confirmado vs competencia | $9,250 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
-| -20% | $1,834 | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | Confirmado vs competencia | $7,335 en palacio vs mercado -> -20% bajo la competencia |
 | -35% | $1,750 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | Confirmado vs competencia | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | -33% | $1,500 | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | Confirmado vs competencia | $3,000 en palacio vs mercado -> -33% bajo la competencia |
 | -35% | $1,442 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | Confirmado vs competencia | $2,677 en palacio vs mercado -> -35% bajo la competencia |
@@ -36,6 +35,7 @@
 | -25% | $1,000 | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | Confirmado vs competencia | $2,999 en palacio vs mercado -> -25% bajo la competencia |
 | -60% | $900 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -60% bajo la competencia |
 | -25% | $800 | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $770 | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | Confirmado vs competencia | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
 | -25% | $758 | palacio | [Cafetera Vertuo Pop Deluxe Titan](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-deluxe-titan-43394653.html) | $2,274 | Confirmado vs competencia | $2,274 en palacio vs mercado -> -25% bajo la competencia |
 | -26% | $742 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | Confirmado vs competencia | $2,144 en palacio vs mercado -> -26% bajo la competencia |
 | -25% | $740 | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $2,219 | Confirmado vs competencia | $2,219 en palacio vs mercado -> -25% bajo la competencia |

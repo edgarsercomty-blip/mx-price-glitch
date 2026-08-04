@@ -1324,30 +1324,6 @@
     "ts": "2026-08-03T22:19:21.162187+00:00",
     "items": []
   },
-  "amazon|UN75U8200FFXZX": {
-    "ts": "2026-08-02T00:13:47.704363+00:00",
-    "items": []
-  },
-  "walmart|UN75U8200FFXZX": {
-    "ts": "2026-08-02T00:13:49.207890+00:00",
-    "items": []
-  },
-  "sams|UN75U8200FFXZX": {
-    "ts": "2026-08-02T00:13:50.942954+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLECARGOAPPLEWATCH": {
-    "ts": "2026-08-02T00:13:52.140003+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLECARGOAPPLEWATCH": {
-    "ts": "2026-08-02T00:13:53.466817+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLECARGOAPPLEWATCH": {
-    "ts": "2026-08-02T00:13:55.353852+00:00",
-    "items": []
-  },
   "amazon|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
     "ts": "2026-08-02T03:54:50.517723+00:00",
     "items": []
@@ -2913,6 +2889,30 @@
   },
   "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
     "ts": "2026-08-03T23:30:50.942085+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
+    "ts": "2026-08-04T01:03:36.430707+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
+    "ts": "2026-08-04T01:03:37.891405+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
+    "ts": "2026-08-04T01:03:39.869952+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-08-04T01:03:41.220703+00:00",
+    "items": []
+  },
+  "walmart|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-08-04T01:03:43.706712+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERATAZASACEROGOTEO": {
+    "ts": "2026-08-04T01:03:44.933194+00:00",
     "items": []
   }
 }
