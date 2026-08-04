@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-04 18:23 UTC
+# Errores/chollos de precio — 2026-08-04 20:11 UTC
 
-- Productos revisados: **1634**
+- Productos revisados: **1632**
 - Umbral de diferencia: **20%**
 - Hallazgos: **33**
 
@@ -19,7 +19,7 @@
 | -21% | $3,829 | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost Rmb4…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | Confirmado vs competencia | $14,122 en liverpool vs mercado -> -21% bajo la competencia |
 | -30% | $3,300 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | Confirmado vs competencia | $7,699 en palacio vs mercado -> -30% bajo la competencia |
 | -21% | $3,192 | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | Confirmado vs competencia | $12,311 en palacio vs mercado -> -21% bajo la competencia |
-| -21% | $2,172 | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | Confirmado vs competencia | $8,232 en palacio vs mercado -> -21% bajo la competencia |
+| -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | -67% | $1,844 | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | Confirmado vs competencia | $900 en liverpool vs mercado -> -67% bajo la competencia |
 | -20% | $1,834 | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $7,335 | Confirmado vs competencia | $7,335 en palacio vs mercado -> -20% bajo la competencia |

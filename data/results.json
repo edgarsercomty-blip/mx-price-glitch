@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04 18:23 UTC",
-  "products_scanned": 1634,
+  "generated_at": "2026-08-04 20:11 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
   "count": 33,
   "findings": [
@@ -489,22 +489,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$8,232 en palacio vs mercado -> -21% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 2171.91,
+      "savings": 2079.84,
       "store": "palacio",
-      "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
-      "price": 8231.58,
-      "list_price": 19599.0,
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
       "ean": null,
-      "model": "8MWTW1824WJM",
-      "brand": "Whirlpool",
+      "model": null,
+      "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "40904406",
+        "id": "45262439",
         "outlet": false
       }
     },
