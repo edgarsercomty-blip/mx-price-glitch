@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04 12:20 UTC",
-  "products_scanned": 1565,
+  "generated_at": "2026-08-04 14:46 UTC",
+  "products_scanned": 1647,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,48 @@
       "extra": {
         "productId": "1162817830",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.55,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.0,
+      "detail": "$12,220 en palacio vs mercado -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8579.67,
+      "store": "palacio",
+      "name": "Laptop Ideapad Slim 5, 14\" WUXGA, Snapdragon X Plus X1P-42-100, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html",
+      "price": 12219.53,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "X1P-42-100",
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44573840",
+        "outlet": false
       }
     },
     {
@@ -133,6 +175,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$40,249 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 17249.7,
+      "store": "palacio",
+      "name": "Lavadora y Secadora, 25 Kg",
+      "url": "https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html",
+      "price": 40249.3,
+      "list_price": 57499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42731253",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 5397.0,
@@ -175,6 +238,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
+      "detail": "$3,000 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.8,
+      "store": "palacio",
+      "name": "Krups Espresseria Divine",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html",
+      "price": 2999.5,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484891",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
       "savings": 7918.0,
@@ -190,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3012.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
         "outlet": false
       }
     },
@@ -237,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -274,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45397419",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 999.8,
+      "store": "palacio",
+      "name": "Licuadora Ninja Detect Power Pro, 10 velocidades",
+      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html",
+      "price": 2999.4,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44567926",
         "outlet": false
       }
     },
@@ -347,17 +410,17 @@
       "likely_typo": false,
       "savings": 1648.5,
       "store": "palacio",
-      "name": "Cafetera Expreso ECF02BLUS Negra",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "name": "Cafetera Expreso ECF02CRUS Crema",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html",
       "price": 5495.0,
       "list_price": 10990.0,
       "ean": null,
-      "model": "ECF02BLUS",
+      "model": "ECF02CRUS",
       "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44011025",
+        "id": "44011026",
         "outlet": false
       }
     },
@@ -401,27 +464,6 @@
       "extra": {
         "productId": "1172176514",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262439",
-        "outlet": false
       }
     },
     {
@@ -490,6 +532,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$440 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 109.9,
+      "store": "palacio",
+      "name": "Extensible para Apple Watch 40 mm, Cargo Khaki",
+      "url": "https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html",
+      "price": 439.6,
+      "list_price": 1099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44272688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$280 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 69.9,
@@ -505,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42704900",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1833.86,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
-      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
-      "price": 7335.44,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "55QD6SFM",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467917",
         "outlet": false
       }
     },
@@ -552,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1833.86,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
+      "price": 7335.44,
+      "list_price": 13099.0,
+      "ean": null,
+      "model": "55QD6SFM",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45467917",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$4,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -573,43 +636,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 28.0,
+      "detail": "$64,000 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 7349.85,
+      "savings": 16000.02,
       "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
+      "name": "Laptop Asus ProArt, 16\", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html",
+      "price": 64000.08,
+      "list_price": 88889.0,
       "ean": null,
       "model": null,
-      "brand": "Huawei",
+      "brand": "Asus",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45262437",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
+        "id": "45241138",
         "outlet": false
       }
     }
