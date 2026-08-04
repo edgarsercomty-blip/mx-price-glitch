@@ -1,4 +1,4 @@
-# Productos en vigilancia (489)
+# Productos en vigilancia (490)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -197,7 +197,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,870 | -26% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
-| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,318 | -29% |
+| 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,315 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
@@ -344,7 +344,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html) | $23,449 | -30% |
 | 🟢 disponible | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | -30% |
 | 🟢 disponible | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | -30% |
-| 🟢 disponible | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | -41% |
+| 🟢 disponible | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | -29% |
 | 🟢 disponible | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | -30% |
 | 🟢 disponible | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $6,553 | -29% |
 | 🟢 disponible | palacio | [Mica protectora antirreflejante para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html) | $295 | -26% |
@@ -410,7 +410,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $424 | -20% |
 | 🟢 disponible | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $552 | -20% |
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $195 | -20% |
-| 🟢 disponible | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | -33% |
+| 🟢 disponible | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | -29% |
 | 🟢 disponible | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | -35% |
 | 🟢 disponible | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | -29% |
 | 🟢 disponible | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | -25% |
@@ -492,4 +492,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla De Lampara Textured Gallery](https://www.liverpool.com.mx/tienda/pdp/pantalla-de-lampara-textured-gallery/1083869690) | $1,499 | -21% |
 | 🟢 disponible | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | -29% |
 | 🟢 disponible | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | -25% |
-| 🟢 disponible | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | -80% |
+| 🟢 disponible | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | -67% |
+| 🟢 disponible | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | -21% |

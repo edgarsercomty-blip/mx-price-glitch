@@ -1324,30 +1324,6 @@
     "ts": "2026-08-03T22:19:21.162187+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-02T03:54:50.517723+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-02T03:54:52.559193+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-02T03:54:54.450091+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASPANELTOUCH": {
-    "ts": "2026-08-02T03:54:56.159502+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERATAZASPANELTOUCH": {
-    "ts": "2026-08-02T03:54:57.976485+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERATAZASPANELTOUCH": {
-    "ts": "2026-08-02T03:55:00.270823+00:00",
-    "items": []
-  },
   "liverpool|RC21N6FDX": {
     "ts": "2026-08-02T04:20:43.391050+00:00",
     "items": []
@@ -2913,6 +2889,210 @@
   },
   "sams|OSTERCAFETERATAZASACEROGOTEO": {
     "ts": "2026-08-04T01:03:44.933194+00:00",
+    "items": []
+  },
+  "liverpool|UN98DU9000FXZX": {
+    "ts": "2026-08-04T04:00:18.793272+00:00",
+    "items": []
+  },
+  "amazon|UN98DU9000FXZX": {
+    "ts": "2026-08-04T04:00:20.052637+00:00",
+    "items": []
+  },
+  "walmart|UN98DU9000FXZX": {
+    "ts": "2026-08-04T04:00:21.745020+00:00",
+    "items": []
+  },
+  "sams|UN98DU9000FXZX": {
+    "ts": "2026-08-04T04:00:23.793303+00:00",
+    "items": []
+  },
+  "mercadolibre|UN98DU9000FXZX": {
+    "ts": "2026-08-04T04:00:25.098796+00:00",
+    "items": []
+  },
+  "palacio|BC155NV": {
+    "ts": "2026-08-04T04:00:27.291025+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Batidor en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/birkmann-batidor-en-acero-inoxidable-44618992.html",
+        "price": 104.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batidor en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/birkmann-batidor-en-acero-inoxidable-44618994.html",
+        "price": 104.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Botella de Tinta T555 Cian",
+        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-t555-cian-42564622.html",
+        "price": 479.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Escurridor Classico champagne",
+        "url": "https://www.elpalaciodehierro.com/interdesign-escurridor-classico-champagne-41013888.html",
+        "price": 693.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lentes oftálmicos cuadrados negros Hombre",
+        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-negros-hombre-44073654.html",
+        "price": 7339.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador Azul Gris",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-azul-gris-44095152.html",
+        "price": 312.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón en piel reversible 30 mm",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-reversible-30-mm-44949769.html",
+        "price": 7200.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador top mount 15p3 RMS400IVMRP0 negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-15p3-rms400ivmrp0-negro-44964259.html",
+        "price": 12077.34,
+        "model": "RMS400IVMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Extreme3.0 Funda rigida para Apple iPhone15Pro con 2tarjetas",
+        "url": "https://www.elpalaciodehierro.com/montblanc-extreme3.0-funda-rigida-para-apple-iphone15pro-con-2tarjetas-43576937.html",
+        "price": 4900.0,
+        "model": "iPhone15Pro"
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturon",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-44221348.html",
+        "price": 10400.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lentes oftálmicos Cuadrados Hombre",
+        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-hombre-43391382.html",
+        "price": 5859.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturon en Piel Mujer",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-mujer-44221344.html",
+        "price": 8700.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|BC155NV": {
+    "ts": "2026-08-04T04:00:34.720925+00:00",
+    "items": []
+  },
+  "walmart|BC155NV": {
+    "ts": "2026-08-04T04:00:36.781846+00:00",
+    "items": []
+  },
+  "sams|BC155NV": {
+    "ts": "2026-08-04T04:00:38.523769+00:00",
+    "items": []
+  },
+  "mercadolibre|BC155NV": {
+    "ts": "2026-08-04T04:00:40.222906+00:00",
+    "items": []
+  },
+  "liverpool|WK22WS6": {
+    "ts": "2026-08-04T04:00:43.860754+00:00",
+    "items": []
+  },
+  "amazon|WK22WS6": {
+    "ts": "2026-08-04T04:00:45.184103+00:00",
+    "items": []
+  },
+  "walmart|WK22WS6": {
+    "ts": "2026-08-04T04:00:46.704882+00:00",
+    "items": []
+  },
+  "sams|WK22WS6": {
+    "ts": "2026-08-04T04:00:48.736188+00:00",
+    "items": []
+  },
+  "mercadolibre|WK22WS6": {
+    "ts": "2026-08-04T04:00:50.399340+00:00",
+    "items": []
+  },
+  "liverpool|65QNED81BSG": {
+    "ts": "2026-08-04T04:00:51.504442+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con Webos",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669",
+        "price": 12499.2,
+        "model": "65Qned81Bsg"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Mini Led De 4K 65Mrgb86Bsa Con Webos Con Ai Upscaling",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-mini-led-de-4k-65mrgb86bsa-con-webos-con-ai-upscaling/1200279561",
+        "price": 25998.7,
+        "model": "65Mrgb86Bsa"
+      }
+    ]
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-08-04T04:00:53.778976+00:00",
+    "items": []
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-08-04T04:00:55.770690+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-08-04T04:00:57.940417+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED81BSG": {
+    "ts": "2026-08-04T04:01:00.661777+00:00",
+    "items": []
+  },
+  "amazon|8MWTW1824WJM": {
+    "ts": "2026-08-04T04:01:17.706995+00:00",
+    "items": []
+  },
+  "walmart|8MWTW1824WJM": {
+    "ts": "2026-08-04T04:01:19.228083+00:00",
+    "items": []
+  },
+  "sams|8MWTW1824WJM": {
+    "ts": "2026-08-04T04:01:21.014466+00:00",
+    "items": []
+  },
+  "amazon|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-04T04:01:22.631868+00:00",
+    "items": []
+  },
+  "walmart|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-04T04:01:24.081839+00:00",
+    "items": []
+  },
+  "sams|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-04T04:01:28.522790+00:00",
     "items": []
   }
 }
