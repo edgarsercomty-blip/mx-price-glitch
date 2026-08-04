@@ -119,18 +119,6 @@
     "ts": "2026-08-04T14:45:48.890340+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAESPRESSOPERFECTTAZAS": {
-    "ts": "2026-08-02T21:11:37.412965+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAESPRESSOPERFECTTAZAS": {
-    "ts": "2026-08-02T21:11:39.461463+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAESPRESSOPERFECTTAZAS": {
-    "ts": "2026-08-02T21:11:41.322208+00:00",
-    "items": []
-  },
   "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
     "ts": "2026-08-04T12:20:39.405932+00:00",
     "items": []
@@ -727,18 +715,6 @@
   },
   "mercadolibre|CO750B": {
     "ts": "2026-08-04T16:53:30.338848+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-08-02T21:11:32.671456+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-08-02T21:11:34.327856+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAACEROTAZASGOTEO": {
-    "ts": "2026-08-02T21:11:36.026806+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEAPPLEKHAKIWATCH": {
@@ -2467,6 +2443,42 @@
   },
   "sams|UN50M70HAFXZX": {
     "ts": "2026-08-04T16:55:10.611036+00:00",
+    "items": []
+  },
+  "amazon|UN43M70HAFXZX": {
+    "ts": "2026-08-04T21:37:54.902700+00:00",
+    "items": []
+  },
+  "walmart|UN43M70HAFXZX": {
+    "ts": "2026-08-04T21:37:57.409060+00:00",
+    "items": []
+  },
+  "sams|UN43M70HAFXZX": {
+    "ts": "2026-08-04T21:38:02.015470+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLECARGOWATCHKHAKI": {
+    "ts": "2026-08-04T21:38:03.326051+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLECARGOWATCHKHAKI": {
+    "ts": "2026-08-04T21:38:05.303010+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLECARGOWATCHKHAKI": {
+    "ts": "2026-08-04T21:38:09.593682+00:00",
+    "items": []
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-04T21:38:18.846575+00:00",
+    "items": []
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-04T21:38:20.186095+00:00",
+    "items": []
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-04T21:38:21.675778+00:00",
     "items": []
   }
 }

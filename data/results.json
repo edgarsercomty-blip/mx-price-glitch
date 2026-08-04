@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04 20:11 UTC",
-  "products_scanned": 1632,
+  "generated_at": "2026-08-04 21:38 UTC",
+  "products_scanned": 1635,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -295,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "9957691086",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.3,
+      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1742.78,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 4999.15,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
         "marketplace": null
       }
     },
