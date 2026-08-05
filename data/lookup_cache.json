@@ -440,30 +440,6 @@
     "ts": "2026-08-05T19:19:02.210176+00:00",
     "items": []
   },
-  "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-03T19:59:49.974131+00:00",
-    "items": []
-  },
-  "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-03T19:59:52.533735+00:00",
-    "items": []
-  },
-  "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-03T20:00:07.570833+00:00",
-    "items": []
-  },
-  "amazon|55QD6SFM": {
-    "ts": "2026-08-03T20:00:14.976249+00:00",
-    "items": []
-  },
-  "walmart|55QD6SFM": {
-    "ts": "2026-08-03T20:00:17.066553+00:00",
-    "items": []
-  },
-  "sams|55QD6SFM": {
-    "ts": "2026-08-03T20:00:18.930205+00:00",
-    "items": []
-  },
   "amazon|POTTERYBARNCERAMICAENSALADARAMADANPLATO": {
     "ts": "2026-08-03T21:04:26.912664+00:00",
     "items": []
@@ -1699,6 +1675,30 @@
   },
   "sams|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
     "ts": "2026-08-05T17:56:32.425949+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-05T20:41:15.882175+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-05T20:41:17.821441+00:00",
+    "items": []
+  },
+  "sams|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-05T20:41:19.832388+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-05T20:41:21.113740+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-05T20:41:23.740469+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLECARGOKHAKIWATCH": {
+    "ts": "2026-08-05T20:41:25.475312+00:00",
     "items": []
   }
 }
