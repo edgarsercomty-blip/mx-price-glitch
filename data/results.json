@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 03:55 UTC",
-  "products_scanned": 1636,
+  "generated_at": "2026-08-05 04:57 UTC",
+  "products_scanned": 1653,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -279,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 150.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Alomia",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
-      "price": 399.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "ALOMIA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9957691086",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 56.3,
       "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -316,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1195509171",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.6,
+      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.9,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
+      "price": 5999.0,
+      "list_price": 12141.0,
+      "ean": null,
+      "model": "Un50M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509162",
         "marketplace": null
       }
     },
@@ -447,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 37.5,
+      "detail": "$749 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 210.0,
+      "store": "liverpool",
+      "name": "Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101",
+      "price": 749.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": "Bj2Bl",
+      "brand": "BLENDJET",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178436101",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -553,27 +574,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 44.0,
-      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7699.86,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
-      "price": 30799.44,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "75MRGB86BSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
       "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 1833.86,
@@ -589,6 +589,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45467917",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7699.86,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30799.44,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
         "outlet": false
       }
     },
