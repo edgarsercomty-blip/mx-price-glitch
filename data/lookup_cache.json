@@ -144,15 +144,15 @@
     "items": []
   },
   "amazon|15IRX10": {
-    "ts": "2026-08-03T16:05:33.895399+00:00",
+    "ts": "2026-08-05T16:18:59.515676+00:00",
     "items": []
   },
   "walmart|15IRX10": {
-    "ts": "2026-08-03T16:05:35.861247+00:00",
+    "ts": "2026-08-05T16:19:01.010458+00:00",
     "items": []
   },
   "sams|15IRX10": {
-    "ts": "2026-08-03T16:05:37.424125+00:00",
+    "ts": "2026-08-05T16:19:03.347551+00:00",
     "items": []
   },
   "amazon|OPPOTELCELOPPOLCD": {
@@ -213,18 +213,6 @@
   },
   "sams|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
     "ts": "2026-08-05T12:18:15.348586+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-03T16:05:38.569301+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-03T16:05:40.219717+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASACERO": {
-    "ts": "2026-08-03T16:05:41.687717+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
@@ -428,40 +416,16 @@
     "ts": "2026-08-05T04:57:32.973358+00:00",
     "items": []
   },
-  "amazon|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-03T16:05:20.166594+00:00",
-    "items": []
-  },
-  "walmart|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-03T16:05:21.722127+00:00",
-    "items": []
-  },
-  "sams|CUISINARTVELOCIDADESLICUADORASMARTPOWER": {
-    "ts": "2026-08-03T16:05:23.190490+00:00",
-    "items": []
-  },
-  "amazon|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-03T16:05:24.335358+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-03T16:05:25.743249+00:00",
-    "items": []
-  },
-  "sams|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-03T16:05:27.174190+00:00",
-    "items": []
-  },
   "amazon|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-03T16:05:28.383086+00:00",
+    "ts": "2026-08-05T16:18:53.450653+00:00",
     "items": []
   },
   "walmart|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-03T16:05:30.607327+00:00",
+    "ts": "2026-08-05T16:18:55.823893+00:00",
     "items": []
   },
   "sams|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-03T16:05:32.527448+00:00",
+    "ts": "2026-08-05T16:18:58.182147+00:00",
     "items": []
   },
   "palacio|SP4PLUS": {
@@ -1776,6 +1740,42 @@
   },
   "sams|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
     "ts": "2026-08-05T12:18:08.663814+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-05T16:18:41.572455+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-05T16:18:43.635655+00:00",
+    "items": []
+  },
+  "sams|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-05T16:18:45.752346+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-05T16:18:48.575319+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-05T16:18:50.248292+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-05T16:18:52.086013+00:00",
+    "items": []
+  },
+  "amazon|MABELAVADORASECADORA": {
+    "ts": "2026-08-05T16:19:05.128087+00:00",
+    "items": []
+  },
+  "walmart|MABELAVADORASECADORA": {
+    "ts": "2026-08-05T16:19:07.097920+00:00",
+    "items": []
+  },
+  "sams|MABELAVADORASECADORA": {
+    "ts": "2026-08-05T16:19:08.955120+00:00",
     "items": []
   }
 }

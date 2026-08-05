@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 14:36 UTC",
-  "products_scanned": 1598,
+  "generated_at": "2026-08-05 16:19 UTC",
+  "products_scanned": 1604,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -233,6 +233,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$399 en liverpool vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 150.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Alomia",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
+      "price": 399.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "ALOMIA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9957691086",
+        "marketplace": null
       }
     },
     {
