@@ -215,42 +215,6 @@
     "ts": "2026-08-05T12:18:15.348586+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
-    "ts": "2026-08-03T22:19:01.900239+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
-    "ts": "2026-08-03T22:19:03.673132+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
-    "ts": "2026-08-03T22:19:06.949188+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROPANEL": {
-    "ts": "2026-08-03T22:19:12.272876+00:00",
-    "items": []
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROPANEL": {
-    "ts": "2026-08-03T22:19:13.980696+00:00",
-    "items": []
-  },
-  "sams|OSTERCAFETERAGOTEOACEROPANEL": {
-    "ts": "2026-08-03T22:19:16.462293+00:00",
-    "items": []
-  },
-  "amazon|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-08-03T22:19:17.573505+00:00",
-    "items": []
-  },
-  "walmart|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-08-03T22:19:19.863245+00:00",
-    "items": []
-  },
-  "sams|OSTERESPRESSOCAFETERAPRIMALATTE": {
-    "ts": "2026-08-03T22:19:21.162187+00:00",
-    "items": []
-  },
   "palacio|CO750B": {
     "ts": "2026-08-04T16:52:48.141676+00:00",
     "items": [
@@ -450,18 +414,6 @@
   },
   "sams|POTTERYBARNCERAMICAENSALADARAMADANPLATO": {
     "ts": "2026-08-05T22:06:45.458773+00:00",
-    "items": []
-  },
-  "amazon|LMDX1123HBAB0": {
-    "ts": "2026-08-03T22:19:08.530196+00:00",
-    "items": []
-  },
-  "walmart|LMDX1123HBAB0": {
-    "ts": "2026-08-03T22:19:09.818773+00:00",
-    "items": []
-  },
-  "sams|LMDX1123HBAB0": {
-    "ts": "2026-08-03T22:19:11.143219+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEAPPLECARGOWATCH": {
@@ -1711,6 +1663,30 @@
   },
   "sams|ASUSLAPTOPPROARTRYZENASUS": {
     "ts": "2026-08-05T22:06:56.392265+00:00",
+    "items": []
+  },
+  "amazon|POTTERYBARNCERAMICAENSALADARAMADANZAHRA": {
+    "ts": "2026-08-05T23:18:46.854862+00:00",
+    "items": []
+  },
+  "walmart|POTTERYBARNCERAMICAENSALADARAMADANZAHRA": {
+    "ts": "2026-08-05T23:18:48.767836+00:00",
+    "items": []
+  },
+  "sams|POTTERYBARNCERAMICAENSALADARAMADANZAHRA": {
+    "ts": "2026-08-05T23:18:51.002916+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHAPPLECARGO": {
+    "ts": "2026-08-05T23:18:52.170622+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHAPPLECARGO": {
+    "ts": "2026-08-05T23:18:53.691480+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHAPPLECARGO": {
+    "ts": "2026-08-05T23:18:55.612614+00:00",
     "items": []
   }
 }
