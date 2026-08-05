@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 17:56 UTC",
+  "generated_at": "2026-08-05 19:19 UTC",
   "products_scanned": 1600,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -232,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3012.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -589,48 +610,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262437",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
         "outlet": false
       }
     }
