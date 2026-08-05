@@ -1,4 +1,4 @@
-# Errores/chollos de precio — 2026-08-05 04:57 UTC
+# Errores/chollos de precio — 2026-08-05 07:35 UTC
 
 - Productos revisados: **1653**
 - Umbral de diferencia: **20%**
@@ -32,8 +32,8 @@
 | -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -39% | $344 | liverpool | [Licuadora Hamilton Beach 53521Fg 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266) | $545 | Confirmado vs competencia | $545 en liverpool vs mercado -> -39% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
-| -22% | $210 | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | Confirmado vs competencia | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | -33% | $180 | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $359 | Confirmado vs competencia | $359 en liverpool vs mercado -> -33% bajo la competencia |
+| -27% | $150 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $110 | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | Confirmado vs competencia | $440 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $100 | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | Confirmado vs competencia | $250 en liverpool vs mercado -> -29% bajo la competencia |
 | -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |

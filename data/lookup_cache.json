@@ -452,42 +452,6 @@
     "ts": "2026-08-05T04:57:32.973358+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-03T06:53:18.508686+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-03T06:53:20.083643+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-03T06:53:21.726115+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-03T06:53:23.780576+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-03T06:53:26.159625+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDSEMIAUTOMATICAESPRESSOMOLEDORAMAQUINA": {
-    "ts": "2026-08-03T06:53:27.662037+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-03T06:53:29.027732+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-03T06:53:30.458828+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOCAFETERADELUXEVERTUOTITAN": {
-    "ts": "2026-08-03T06:53:32.060174+00:00",
-    "items": []
-  },
   "amazon|POTTERYBARNENSALADACERAMICARAMADANPLATO": {
     "ts": "2026-08-03T10:33:34.452877+00:00",
     "items": []
@@ -1848,6 +1812,18 @@
   },
   "sams|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
     "ts": "2026-08-05T04:57:26.568687+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-05T07:35:40.057426+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-05T07:35:43.610372+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-05T07:35:52.339784+00:00",
     "items": []
   }
 }
