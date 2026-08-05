@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04 23:56 UTC",
-  "products_scanned": 1633,
+  "generated_at": "2026-08-05 01:47 UTC",
+  "products_scanned": 1652,
   "threshold_pct": 20.0,
   "count": 34,
   "findings": [
@@ -616,27 +616,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 44.0,
-      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1833.86,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
-      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
-      "price": 7335.44,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "55QD6SFM",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45467917",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
       "detail": "$30,799 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 7699.86,
@@ -652,6 +631,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45505426",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$7,335 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1833.86,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
+      "price": 7335.44,
+      "list_price": 13099.0,
+      "ean": null,
+      "model": "55QD6SFM",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45467917",
         "outlet": false
       }
     },
