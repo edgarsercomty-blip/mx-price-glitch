@@ -1,36 +1,15 @@
 {
-  "generated_at": "2026-08-05 01:47 UTC",
-  "products_scanned": 1652,
+  "generated_at": "2026-08-05 03:55 UTC",
+  "products_scanned": 1636,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$900 en liverpool vs mercado -> -67% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1844.5,
-      "store": "liverpool",
-      "name": "Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior Lmdx1123Hbab0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830",
-      "price": 899.99,
-      "list_price": 899.99,
-      "ean": null,
-      "model": "Lmdx1123Hbab0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1162817830",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
       "likely_typo": false,
-      "savings": 899.55,
+      "savings": 449.77,
       "store": "palacio",
       "name": "Panel para refrigerador One Door 11 p3",
       "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
@@ -65,6 +44,27 @@
       "extra": {
         "id": "44573840",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$545 en liverpool vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 344.2,
+      "store": "liverpool",
+      "name": "Licuadora Hamilton Beach 53521Fg 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266",
+      "price": 544.8,
+      "list_price": 908.0,
+      "ean": null,
+      "model": "53521Fg",
+      "brand": "HAMILTON BEACH (X762)",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1157700266",
+        "marketplace": null
       }
     },
     {
@@ -111,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 33.4,
-      "detail": "$799 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 424.0,
-      "store": "liverpool",
-      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
-      "price": 799.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": null,
-      "brand": "FLAVORSTONE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178603252",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -148,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1152285660",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
         "marketplace": null
       }
     },
@@ -321,27 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.6,
-      "detail": "$5,999 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162",
-      "price": 5999.0,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "Un50M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509162",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -464,48 +443,6 @@
       "extra": {
         "id": "44011026",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.5,
-      "detail": "$14,122 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3829.34,
-      "store": "liverpool",
-      "name": "Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost Rmb400Ibmrp0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672",
-      "price": 14121.98,
-      "list_price": 26899.0,
-      "ean": null,
-      "model": "Rmb400Ibmrp0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1162487672",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.3,
-      "detail": "$16,087 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4331.12,
-      "store": "liverpool",
-      "name": "Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602Cps De 6 Quemadores",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514",
-      "price": 16087.01,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": "Hfg3602Cps",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172176514",
-        "marketplace": null
       }
     },
     {
@@ -653,27 +590,6 @@
       "extra": {
         "id": "45467917",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$4,799 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.8,
-      "store": "liverpool",
-      "name": "Oppo A5 Pro Lcd 6 67 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251",
-      "price": 4799.2,
-      "list_price": 5999.0,
-      "ean": null,
-      "model": null,
-      "brand": "OPPO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183393251",
-        "marketplace": null
       }
     },
     {
