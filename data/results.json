@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05 12:18 UTC",
-  "products_scanned": 1524,
+  "generated_at": "2026-08-05 14:36 UTC",
+  "products_scanned": 1598,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -237,48 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3012.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$399 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 150.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Alomia",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
-      "price": 399.0,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "ALOMIA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9957691086",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 56.3,
       "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -317,6 +275,27 @@
       "extra": {
         "productId": "1195509162",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,399 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Licuadora Ninja Dúo Twisti SS151, 5 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html",
+      "price": 2399.4,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": "SS151",
+      "brand": "NINJA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45397419",
+        "outlet": false
       }
     },
     {
@@ -468,27 +447,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262440",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 46.0,
       "detail": "$12,311 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -511,21 +469,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 89.9,
+      "savings": 230.0,
       "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Negro",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html",
-      "price": 359.6,
-      "list_price": 899.0,
+      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
+      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
+      "price": 920.0,
+      "list_price": 2300.0,
       "ean": null,
       "model": null,
       "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45003621",
+        "id": "44004165",
         "outlet": false
       }
     },
