@@ -1,5 +1,19 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-06 06:15 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-06 09:09 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **13**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -59% | $15,100 | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -59% bajo la competencia |
+| -43% | $13,000 | liverpool | [Pantalla Smart Tv Hisense Qled De 85 Pulgadas 4K Uhd 85Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-85-pulgadas-4k-uhd-85qd6sfm-con-fire-os-con-ai-smooth-motion/1197517481) | $16,999 | Confirmado vs competencia | $16,999 en liverpool vs mercado -> -43% bajo la competencia |
+| -52% | $12,000 | liverpool | [Television Hisense Qled De 4K Uhd 75Qd6Sfm Con Fire Os Con A…](https://www.liverpool.com.mx/tienda/pdp/television-hisense-qled-de-4k-uhd-75qd6sfm-con-fire-os-con-ai-picture/1197715665) | $10,999 | Confirmado vs competencia | $10,999 en liverpool vs mercado -> -52% bajo la competencia |
+| -47% | $10,900 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | Confirmado vs competencia | $12,099 en liverpool vs mercado -> -47% bajo la competencia |
+| -48% | $9,500 | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
+| -46% | $8,900 | liverpool | [Pantalla Smart Tv Tcl Qled De 65 Pulgadas 4K Uhd 65Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-65-pulgadas-4k-uhd-65q6k-con-google-tv/1173699375) | $10,499 | Confirmado vs competencia | $10,499 en liverpool vs mercado -> -46% bajo la competencia |
+| -47% | $8,400 | liverpool | [Pantalla Smart Tv Hisense Uhd De 65 Pulgadas 4K Uhd 65A65Nv …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-uhd-de-65-pulgadas-4k-uhd-65a65nv-con-ai-sports-mode/1178739405) | $9,499 | Confirmado vs competencia | $9,499 en liverpool vs mercado -> -47% bajo la competencia |
+| -50% | $7,500 | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $7,499 | Confirmado vs competencia | $7,499 en liverpool vs mercado -> -50% bajo la competencia |
+| -43% | $7,450 | liverpool | [Pantalla Smart Tv Hisense Qled 65 Pulgadas 4K Uhd 65Qd6Sfm C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-65-pulgadas-4k-uhd-65qd6sfm-con-ai-smooth-motion/1197753036) | $9,999 | Confirmado vs competencia | $9,999 en liverpool vs mercado -> -43% bajo la competencia |
+| -48% | $6,800 | liverpool | [Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367) | $7,299 | Confirmado vs competencia | $7,299 en liverpool vs mercado -> -48% bajo la competencia |
+| -44% | $5,800 | liverpool | [Pantalla Smart Tv Hisense Qled De 55 Pulgadas 4K Uhd 55Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-55-pulgadas-4k-uhd-55qd6sfm-con-fire-os-con-ai-smooth-motion/1197517707) | $7,299 | Confirmado vs competencia | $7,299 en liverpool vs mercado -> -44% bajo la competencia |
+| -41% | $4,900 | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $6,999 | Confirmado vs competencia | $6,999 en liverpool vs mercado -> -41% bajo la competencia |
+| -35% | $3,850 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | Confirmado vs competencia | $7,149 en palacio vs mercado -> -35% bajo la competencia |
