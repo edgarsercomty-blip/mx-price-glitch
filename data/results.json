@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06 11:35 UTC",
-  "products_scanned": 1487,
+  "generated_at": "2026-08-06 13:13 UTC",
+  "products_scanned": 1480,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -611,27 +611,6 @@
       "extra": {
         "id": "45345509",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$475 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 124.0,
-      "store": "liverpool",
-      "name": "Set Toallas Cocina 4 Piezas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092",
-      "price": 475.0,
-      "list_price": 475.0,
-      "ean": null,
-      "model": null,
-      "brand": "WS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1168713092",
-        "marketplace": null
       }
     },
     {
