@@ -1,240 +1,9 @@
 {
-  "generated_at": "2026-08-06 13:13 UTC",
-  "products_scanned": 1480,
+  "generated_at": "2026-08-06 15:30 UTC",
+  "products_scanned": 1619,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 27,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 57.0,
-      "detail": "$10,499 en liverpool vs mercado -> -59% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15100.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K Con Google Tv",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383",
-      "price": 10499.0,
-      "list_price": 24399.0,
-      "ean": null,
-      "model": "75Q6K",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173699383",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$28,499 en liverpool vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 31499.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6Sfm Con Fire Os Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057",
-      "price": 28499.1,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": "100Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197517057",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.2,
-      "detail": "$10,999 en liverpool vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11999.9,
-      "store": "liverpool",
-      "name": "Television Hisense Qled De 4K Uhd 75Qd6Sfm Con Fire Os Con Ai Picture",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/television-hisense-qled-de-4k-uhd-75qd6sfm-con-fire-os-con-ai-picture/1197715665",
-      "price": 10999.1,
-      "list_price": 22999.0,
-      "ean": null,
-      "model": "75Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197715665",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,499 en liverpool vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.9,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850Bpsa Con Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091",
-      "price": 7499.1,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": "50Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199018091",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.5,
-      "detail": "$7,299 en liverpool vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6800.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K Con Google Tv",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367",
-      "price": 7299.0,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": "55Q6K",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173699367",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.5,
-      "detail": "$10,499 en liverpool vs mercado -> -48% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9500.05,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa Con Ai Webos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744",
-      "price": 10498.95,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": "65Nu850Bpsa",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1199017744",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.1,
-      "detail": "$12,099 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10900.0,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
-      "price": 12099.0,
-      "list_price": 20538.0,
-      "ean": null,
-      "model": "55Qned83Asg",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1183858552",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.9,
-      "detail": "$9,499 en liverpool vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8399.8,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Uhd De 65 Pulgadas 4K Uhd 65A65Nv Con Ai Sports Mode",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-uhd-de-65-pulgadas-4k-uhd-65a65nv-con-ai-sports-mode/1178739405",
-      "price": 9499.2,
-      "list_price": 17899.0,
-      "ean": null,
-      "model": "65A65Nv",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178739405",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.3,
-      "detail": "$7,299 en liverpool vs mercado -> -44% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5800.1,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 55 Pulgadas 4K Uhd 55Qd6Sfm Con Fire Os Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-55-pulgadas-4k-uhd-55qd6sfm-con-fire-os-con-ai-smooth-motion/1197517707",
-      "price": 7298.9,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "55Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197517707",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.3,
-      "detail": "$16,999 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13000.2,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 85 Pulgadas 4K Uhd 85Qd6Sfm Con Fire Os Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-85-pulgadas-4k-uhd-85qd6sfm-con-fire-os-con-ai-smooth-motion/1197517481",
-      "price": 16998.8,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": "85Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197517481",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.7,
-      "detail": "$9,999 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7450.2,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled 65 Pulgadas 4K Uhd 65Qd6Sfm Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-65-pulgadas-4k-uhd-65qd6sfm-con-ai-smooth-motion/1197753036",
-      "price": 9998.8,
-      "list_price": 17449.0,
-      "ean": null,
-      "model": "65Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197753036",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
@@ -274,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,677 en palacio vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1441.65,
+      "store": "palacio",
+      "name": "Licuadora Xtreme Mix, 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
+      "price": 2677.35,
+      "list_price": 4119.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926491",
         "outlet": false
       }
     },
@@ -342,23 +132,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 56.3,
-      "detail": "$4,999 en liverpool vs mercado -> -29% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$12,593 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 2000.05,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
-      "price": 4999.15,
-      "list_price": 11427.0,
+      "savings": 5397.0,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 12593.0,
+      "list_price": 17990.0,
       "ean": null,
-      "model": "Un43M70Hafxzx",
-      "brand": "SAMSUNG",
+      "model": null,
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1195509171",
-        "marketplace": null
+        "id": "41273412",
+        "outlet": false
       }
     },
     {
@@ -385,6 +175,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
+      "detail": "$3,000 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.8,
+      "store": "palacio",
+      "name": "Krups Espresseria Divine",
+      "url": "https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html",
+      "price": 2999.5,
+      "list_price": 5999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43484891",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
       "savings": 7918.0,
@@ -401,6 +212,27 @@
       "extra": {
         "id": "44302743",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.3,
+      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1742.78,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 4999.15,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
+        "marketplace": null
       }
     },
     {
@@ -578,29 +410,8 @@
       "likely_typo": false,
       "savings": 2089.81,
       "store": "palacio",
-      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
-      "price": 7809.29,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "Edge70",
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45363417",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.0,
-      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2089.81,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
+      "name": "Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html",
       "price": 7809.29,
       "list_price": 10999.0,
       "ean": null,
@@ -609,7 +420,49 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45345509",
+        "id": "45345508",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 46.0,
+      "detail": "$12,311 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3191.86,
+      "store": "palacio",
+      "name": "Refrigerador Top Mount 19p3 RT53DG6758S9EM",
+      "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html",
+      "price": 12311.46,
+      "list_price": 22799.0,
+      "ean": null,
+      "model": "RT53DG6758S9EM",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43689719",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 230.0,
+      "store": "palacio",
+      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
+      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
+      "price": 920.0,
+      "list_price": 2300.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44004165",
         "outlet": false
       }
     },
@@ -657,6 +510,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,639 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2659.86,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html",
+      "price": 10639.44,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": "55QM64L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361102",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$64,000 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -679,21 +553,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$7,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 5999.8,
+      "savings": 1799.8,
       "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
+      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
+      "price": 7199.2,
+      "list_price": 8999.0,
       "ean": null,
       "model": null,
       "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45260351",
+        "id": "44951467",
         "outlet": false
       }
     }

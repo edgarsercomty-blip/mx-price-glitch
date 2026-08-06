@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (574)
+# Historial de ofertas encontradas (576)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-06 15:30 | -20% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $7,199 | $7,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-06 15:30 | -20% | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | $10,639 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-06 11:35 | -20% | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-06 11:35 | -21% | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | $475 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-06 11:35 | -22% | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | $13,859 en liverpool vs mercado -> -22% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-04 19:38 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
 | 2026-07-04 19:38 | -35% | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $3,990 | 🔁 DE NUEVO DISPONIBLE en walmart: $3,990 (estaba agotado) |
 | 2026-07-04 19:38 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356?athbdg=L1300) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
-| 2026-07-04 13:59 | -20% | amazon | [Nautica - Tenis deportivos de moda para mujer, con cord…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | $840 en amazon vs mercado -> -20% bajo la competencia |
-| 2026-07-04 13:59 | -21% | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | $7,157 en sams vs walmart $23,583 -> -21% bajo la competencia |
