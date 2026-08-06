@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-06 09:09 UTC",
-  "products_scanned": 1493,
+  "generated_at": "2026-08-06 11:35 UTC",
+  "products_scanned": 1487,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 34,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.55,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 57.0,
@@ -195,27 +174,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 41.7,
-      "detail": "$10,499 en liverpool vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8899.7,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Tcl Qled De 65 Pulgadas 4K Uhd 65Q6K Con Google Tv",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-65-pulgadas-4k-uhd-65q6k-con-google-tv/1173699375",
-      "price": 10499.3,
-      "list_price": 17999.0,
-      "ean": null,
-      "model": "65Q6K",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173699375",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.3,
       "detail": "$7,299 en liverpool vs mercado -> -44% bajo la competencia",
       "likely_typo": false,
@@ -274,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1197753036",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.2,
-      "detail": "$6,999 en liverpool vs mercado -> -41% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4899.7,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50Qd6Sfm Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044",
-      "price": 6999.3,
-      "list_price": 11899.0,
-      "ean": null,
-      "model": "50Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197753044",
         "marketplace": null
       }
     },
@@ -616,22 +553,22 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
+      "savings": 3811.34,
+      "store": "liverpool",
+      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
+      "price": 13859.4,
+      "list_price": 23099.0,
       "ean": null,
-      "model": null,
-      "brand": "Huawei",
+      "model": "Tfr18Si",
+      "brand": "TCL",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45262439",
-        "outlet": false
+        "productId": "1166524551",
+        "marketplace": null
       }
     },
     {
@@ -657,23 +594,44 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 29.0,
+      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 89.9,
+      "savings": 2089.81,
       "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Negro",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html",
-      "price": 359.6,
-      "list_price": 899.0,
+      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
+      "price": 7809.29,
+      "list_price": 10999.0,
       "ean": null,
       "model": null,
-      "brand": "Apple",
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45003621",
+        "id": "45345509",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$475 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 124.0,
+      "store": "liverpool",
+      "name": "Set Toallas Cocina 4 Piezas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092",
+      "price": 475.0,
+      "list_price": 475.0,
+      "ean": null,
+      "model": null,
+      "brand": "WS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1168713092",
+        "marketplace": null
       }
     },
     {
@@ -736,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5999.8,
+      "store": "palacio",
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45260351",
         "outlet": false
       }
     }

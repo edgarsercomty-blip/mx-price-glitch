@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (571)
+# Historial de ofertas encontradas (574)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-06 11:35 | -20% | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-06 11:35 | -21% | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | $475 en liverpool vs mercado -> -21% bajo la competencia |
+| 2026-08-06 11:35 | -22% | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | $13,859 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-06 09:09 | -35% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | $7,149 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-08-06 09:09 | -41% | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $6,999 | $6,999 en liverpool vs mercado -> -41% bajo la competencia |
 | 2026-08-06 09:09 | -43% | liverpool | [Pantalla Smart Tv Hisense Qled 65 Pulgadas 4K Uhd 65Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-65-pulgadas-4k-uhd-65qd6sfm-con-ai-smooth-motion/1197753036) | $9,999 | $9,999 en liverpool vs mercado -> -43% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-04 19:38 | -41% | walmart | [Estufa de Piso MABE 76 cm 30 pulgadas Plata Mercury EM7…](https://www.walmart.com.mx/ip/estufa-de-piso-mabe-76-cm-30-pulgadas-plata-mercury-em7622baps2/00075763840356?athbdg=L1300) | $5,599 | 🔁 DE NUEVO DISPONIBLE en walmart: $5,599 (estaba agotado) |
 | 2026-07-04 13:59 | -20% | amazon | [Nautica - Tenis deportivos de moda para mujer, con cord…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $840 | $840 en amazon vs mercado -> -20% bajo la competencia |
 | 2026-07-04 13:59 | -21% | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | $7,157 en sams vs walmart $23,583 -> -21% bajo la competencia |
-| 2026-07-04 13:59 | -22% | amazon | [TCL Smart TV Pantalla 98" 98QM6K Google TV QLED - MiniL…](https://www.amazon.com.mx/dp/B0DZN8SX9J) | $29,998 | $29,998 en amazon vs palacio $38,465 -> -22% bajo la competencia |
-| 2026-07-04 13:59 | -30% | amazon | [UGREEN USB C Hub, 5 en 1 Adaptador USB C Multipuerto Al…](https://www.amazon.com.mx/dp/B0BR3M8XHK) | $265 | $265 en amazon vs mercado -> -30% bajo la competencia |
-| 2026-07-04 13:59 | -43% | walmart | [Auriculares Bluetooth Lenovo TA410 Bluetooth 5.4 con mi…](https://www.walmart.com.mx/ip/auriculares-bluetooth-lenovo-ta410-bluetooth-5-4-con-microfono/00046876091952?athbdg=L1300) | $349 | $349 en walmart vs mercadolibre $612 -> -43% bajo la competencia |
