@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (609)
+# Historial de ofertas encontradas (611)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-07 19:39 | -20% | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-08-07 19:39 | -21% | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | $7,899 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-07 17:43 | -20% | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 17:43 | -21% | palacio | [Laptop ProArt PX13, 13.3", AMD Ryzen AI MAX+, RAM 128 G…](https://www.elpalaciodehierro.com/asus-laptop-proart-px13-13.3-amd-ryzen-ai-max-ram-128-gb-ssd-1-tb-45244300.html) | $53,439 | $53,439 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-07 17:43 | -22% | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, …](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | $17,549 en palacio vs mercado -> -22% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-06 10:43 | -23% | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-06 10:43 | -23% | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta De…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-06 10:43 | -25% | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $34,499 | $34,499 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-06 10:43 | -25% | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
