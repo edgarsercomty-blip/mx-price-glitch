@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (577)
+# Historial de ofertas encontradas (583)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-07 07:54 | -20% | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | $6,479 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-07 07:54 | -21% | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| 2026-08-07 07:54 | -22% | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | $2,520 en palacio vs mercado -> -22% bajo la competencia |
+| 2026-08-07 07:54 | -24% | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | $5,142 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-08-07 07:54 | -24% | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | $2,519 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-08-07 07:54 | -28% | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | $1,349 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-08-07 03:35 | -34% | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $519 | $519 en liverpool vs mercado -> -34% bajo la competencia |
 | 2026-08-06 15:30 | -20% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $7,199 | $7,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-06 15:30 | -20% | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | $10,639 en palacio vs mercado -> -20% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-05 03:55 | -36% | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema …](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |
 | 2026-07-04 19:38 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-07-04 19:38 | -21% | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | $2,199 en walmart vs mercado -> -21% bajo la competencia |
-| 2026-07-04 19:38 | -30% | amazon | [XuanPad 【Compatible with Netflix】 Plateado Mini Proyect…](https://www.amazon.com.mx/dp/B0G3WGXKRK) | $2,500 | $2,500 en amazon vs mercado -> -30% bajo la competencia |
-| 2026-07-04 19:38 | -40% | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 128 Gb 6 Gb C…](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-128-gb-6-gb-color-negro/p/MLM54097181) | $2,429 | $2,429 en mercadolibre vs mercado -> -40% bajo la competencia |
-| 2026-07-04 19:38 | -45% | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- …](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,729 | $2,729 en walmart vs mercado -> -45% bajo la competencia |
-| 2026-07-04 19:38 | -68% | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2…](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $1,079 | $1,079 en walmart vs sams $3,375 -> -68% bajo la competencia |
-| 2026-07-04 19:38 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
-| 2026-07-04 19:38 | -35% | walmart | [Estufa Mabe Piso 20  pulgadas Mercury EM5030BAIS1 Plata](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5030bais1-plata/00075763840433?athbdg=L1300) | $3,990 | 🔁 DE NUEVO DISPONIBLE en walmart: $3,990 (estaba agotado) |
