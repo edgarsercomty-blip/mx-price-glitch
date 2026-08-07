@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 17:43 UTC",
-  "products_scanned": 1561,
+  "generated_at": "2026-08-07 18:41 UTC",
+  "products_scanned": 1558,
   "threshold_pct": 20.0,
-  "count": 49,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
         "outlet": false
       }
     },
@@ -363,27 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 56.3,
-      "detail": "$4,999 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2000.05,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
-      "price": 4999.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "Un43M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509171",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 46.0,
       "detail": "$1,349 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -636,27 +594,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$19,313 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5942.4,
-      "store": "palacio",
-      "name": "Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html",
-      "price": 19312.8,
-      "list_price": 37140.0,
-      "ean": null,
-      "model": null,
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44638232",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -778,6 +715,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45505426",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$19,313 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5199.6,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html",
+      "price": 19312.8,
+      "list_price": 37140.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44638232",
         "outlet": false
       }
     },
