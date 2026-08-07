@@ -1,4 +1,4 @@
-# Productos en vigilancia (540)
+# Productos en vigilancia (541)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -146,7 +146,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $2,658 | -28% |
 | 🟢 disponible | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Multiusos](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | -24% |
 | 🟢 disponible | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bundle](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $14,790 | -22% |
-| 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $41,999 | -23% |
+| 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | -23% |
 | 🟢 disponible | amazon | [Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,…](https://www.amazon.com.mx/dp/B0GHYFZHYM) | $7,827 | -35% |
 | 🟢 disponible | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | -29% |
 | 🟢 disponible | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $794 | -25% |
@@ -544,3 +544,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | -21% |
 | 🟢 disponible | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | -20% |
 | 🟢 disponible | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | -20% |
+| 🟢 disponible | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | -29% |

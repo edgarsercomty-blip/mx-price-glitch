@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 23:09 UTC",
-  "products_scanned": 1559,
+  "generated_at": "2026-08-07 23:49 UTC",
+  "products_scanned": 1566,
   "threshold_pct": 20.0,
-  "count": 50,
+  "count": 49,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -153,27 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 49.1,
-      "detail": "$519 en liverpool vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 271.99,
-      "store": "liverpool",
-      "name": "Smartwatch Lab G Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349",
-      "price": 518.62,
-      "list_price": 1018.82,
-      "ean": null,
-      "model": null,
-      "brand": "LAB.G",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1190794349",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$32,922 en palacio vs mercado -> -32% bajo la competencia",
       "likely_typo": false,
@@ -296,6 +275,27 @@
       "extra": {
         "id": "45555104",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$723 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 300.0,
+      "store": "liverpool",
+      "name": "Funda Esr Para Airpods Pro",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183",
+      "price": 723.0,
+      "list_price": 723.0,
+      "ean": null,
+      "model": null,
+      "brand": "ESR",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1112842183",
+        "marketplace": null
       }
     },
     {
@@ -820,27 +820,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45244300",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.0,
-      "detail": "$7,899 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2099.79,
-      "store": "palacio",
-      "name": "Celular A37 5G 256 GB 8G Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html",
-      "price": 7899.21,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45616291",
         "outlet": false
       }
     },

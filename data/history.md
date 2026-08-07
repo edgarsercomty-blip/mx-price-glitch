@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (612)
+# Historial de ofertas encontradas (613)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-07 23:49 | -29% | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | $723 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-07 20:18 | -20% | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | $2,479 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-07 19:39 | -20% | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-07 19:39 | -21% | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | $7,899 en palacio vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-06 10:43 | -23% | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
