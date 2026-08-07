@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06 15:30 UTC",
-  "products_scanned": 1619,
+  "generated_at": "2026-08-07 00:37 UTC",
+  "products_scanned": 1585,
   "threshold_pct": 20.0,
   "count": 27,
   "findings": [
@@ -447,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 32.5,
+      "detail": "$14,107 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3657.32,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Samsung 19 Pies Cubicos Inverter Y Fabrica De Hielos Rt53Dg6798B1Em",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-samsung-19-pies-cubicos-inverter-y-fabrica-de-hielos-rt53dg6798b1em/1148831471",
+      "price": 14106.83,
+      "list_price": 20899.0,
+      "ean": null,
+      "model": "Rt53Dg6798B1Em",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1148831471",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -547,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1799.8,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html",
-      "price": 7199.2,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951467",
         "outlet": false
       }
     }
