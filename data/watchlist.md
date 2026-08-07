@@ -1,4 +1,4 @@
-# Productos en vigilancia (514)
+# Productos en vigilancia (515)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -372,7 +372,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | -33% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85D…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | -54% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | -26% |
-| 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $11,780 | -25% |
+| 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | -25% |
 | 🟢 disponible | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | -25% |
 | 🟢 disponible | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telce…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,809 | -21% |
 | 🟢 disponible | palacio | [Galaxy S26+ Silicone Magnet Case](https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html) | $739 | -26% |
@@ -518,3 +518,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | -22% |
 | 🟢 disponible | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | -21% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | -20% |
+| 🟢 disponible | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | -20% |

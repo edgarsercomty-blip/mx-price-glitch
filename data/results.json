@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 07:54 UTC",
-  "products_scanned": 1583,
+  "generated_at": "2026-08-07 08:46 UTC",
+  "products_scanned": 1591,
   "threshold_pct": 20.0,
-  "count": 16,
+  "count": 18,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -279,6 +279,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2089.81,
+      "store": "palacio",
+      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
+      "price": 7809.29,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Edge70",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45363417",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,639 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -295,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45361102",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$30,239 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7559.86,
+      "store": "palacio",
+      "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
+      "price": 30239.44,
+      "list_price": 53999.0,
+      "ean": null,
+      "model": "98A400",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361091",
         "outlet": false
       }
     },
