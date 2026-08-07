@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (584)
+# Historial de ofertas encontradas (585)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-07 13:55 | -43% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | $399 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-07 08:46 | -20% | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | $30,239 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 07:54 | -20% | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | $6,479 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 07:54 | -21% | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | $6,313 en palacio vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-05 03:55 | -23% | mercadolibre | [Controles Del Reproductor De Consola Qconsole #x8 \| Wir…](https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168) | $987 | $987 en mercadolibre vs mercado -> -23% bajo la competencia |
 | 2026-07-05 03:55 | -25% | amazon | [Apple iPad Pro de 10.5 pulgadas, Gris, 64GB WiFi Only](https://www.amazon.com.mx/dp/B078D6S5PX) | $2,083 | $2,083 en amazon vs mercado -> -25% bajo la competencia |
 | 2026-07-05 03:55 | -36% | walmart | [Tv 43 Pulgadas Smart TV UHD 4K 43A65NV Hisense sistema …](https://www.walmart.com.mx/ip/tv-43-pulgadas-smart-tv-uhd-4k-43a65nv-hisense-sistema-vidaa/00088814302216?athbdg=L1300) | $4,199 | $4,199 en walmart vs amazon $8,219 -> -36% bajo la competencia |
-| 2026-07-04 19:38 | -21% | walmart | [Congelador Midea 7 Pies Negro](https://www.walmart.com.mx/ip/congelador-midea-7-pies-negro/00694046193699) | $5,699 | $5,699 en walmart vs mercado -> -21% bajo la competencia |
