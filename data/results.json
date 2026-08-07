@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 15:44 UTC",
-  "products_scanned": 1597,
+  "generated_at": "2026-08-07 15:50 UTC",
+  "products_scanned": 1630,
   "threshold_pct": 20.0,
-  "count": 18,
+  "count": 19,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,6 +69,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 180.15,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 359.25,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$7,149 en palacio vs mercado -> -31% bajo la competencia",
       "likely_typo": false,
@@ -106,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178603252",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.3,
+      "detail": "$4,999 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2000.05,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 4999.15,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
         "marketplace": null
       }
     },
@@ -295,27 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.0,
-      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2089.81,
-      "store": "palacio",
-      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
-      "price": 7809.29,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": "Edge70",
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45363417",
         "outlet": false
       }
     },
