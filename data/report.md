@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-07 21:04 UTC
+# Errores/chollos de precio — 2026-08-07 21:57 UTC
 
 - Productos revisados: **1598**
 - Umbral de diferencia: **20%**
-- Hallazgos: **51**
+- Hallazgos: **50**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -29,7 +29,6 @@
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |
 | -20% | $2,660 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | Confirmado vs competencia | $10,639 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,500 | palacio | [Cafetera automática Coffee Crush Negra, acero inoxidable](https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html) | $7,499 | Confirmado vs competencia | $7,499 en palacio vs mercado -> -25% bajo la competencia |
-| -21% | $2,100 | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | Confirmado vs competencia | $7,899 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,090 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,809 | Confirmado vs competencia | $7,809 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,090 | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telce…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,809 | Confirmado vs competencia | $7,809 en palacio vs mercado -> -21% bajo la competencia |
 | -25% | $2,000 | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | Confirmado vs competencia | $5,999 en liverpool vs mercado -> -25% bajo la competencia |

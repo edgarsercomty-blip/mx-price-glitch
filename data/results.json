@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 21:04 UTC",
+  "generated_at": "2026-08-07 21:57 UTC",
   "products_scanned": 1598,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 50,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -841,27 +841,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45244300",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.0,
-      "detail": "$7,899 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2099.79,
-      "store": "palacio",
-      "name": "Celular A37 5G 256 GB 8G Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html",
-      "price": 7899.21,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45616291",
         "outlet": false
       }
     },
