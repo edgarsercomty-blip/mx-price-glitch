@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 15:50 UTC",
-  "products_scanned": 1630,
+  "generated_at": "2026-08-07 16:42 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 19,
+  "count": 20,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -337,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2089.81,
+      "store": "palacio",
+      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
+      "price": 7809.29,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": "Edge70",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45363417",
         "outlet": false
       }
     },
