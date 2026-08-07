@@ -143,18 +143,6 @@
     "ts": "2026-08-07T00:37:39.630163+00:00",
     "items": []
   },
-  "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-05T04:57:18.327521+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-05T04:57:20.063474+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-05T04:57:21.755617+00:00",
-    "items": []
-  },
   "amazon|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
     "ts": "2026-08-05T12:18:12.035617+00:00",
     "items": []
@@ -192,15 +180,15 @@
     "items": []
   },
   "amazon|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-05T04:57:28.212232+00:00",
+    "ts": "2026-08-07T05:19:53.642269+00:00",
     "items": []
   },
   "walmart|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-05T04:57:31.136477+00:00",
+    "ts": "2026-08-07T05:19:55.141787+00:00",
     "items": []
   },
   "sams|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-05T04:57:32.973358+00:00",
+    "ts": "2026-08-07T05:19:56.712841+00:00",
     "items": []
   },
   "amazon|BELKINPROTECTORPANTALLAWATCHAPPLE": {
@@ -369,145 +357,16 @@
     "ts": "2026-08-07T00:36:53.569987+00:00",
     "items": []
   },
-  "palacio|SETCMC361V": {
-    "ts": "2026-08-05T03:55:13.606167+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Jeans straight Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-straight-hombre-45139690.html",
-        "price": 1188.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Traje Regular Microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/nautica-traje-regular-microdiseno-hombre-45192192.html",
-        "price": 3249.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html",
-        "price": 21559.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Procesador 350 W",
-        "url": "https://www.elpalaciodehierro.com/cuisinart-procesador-350-w-44611239.html",
-        "price": 1959.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45479168.html",
-        "price": 1399.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 400 L RMS400IBMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-400-l-rms400ibmrx0-43427911.html",
-        "price": 14867.37,
-        "model": "RMS400IBMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de lana corte regular cuadros Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-cuadros-hombre-45192179.html",
-        "price": 6899.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cafetera Jazz blanca",
-        "url": "https://www.elpalaciodehierro.com/mkm-porcelain-cafetera-jazz-blanca-41902569.html",
-        "price": 636.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Secador de cocina",
-        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334306.html",
-        "price": 471.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Recto Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-recto-hombre-45275187.html",
-        "price": 4390.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Secador de cocina",
-        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334300.html",
-        "price": 471.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
-        "price": 1399.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|SETCMC361V": {
-    "ts": "2026-08-05T03:55:16.281979+00:00",
-    "items": []
-  },
-  "walmart|SETCMC361V": {
-    "ts": "2026-08-05T03:55:18.779609+00:00",
-    "items": []
-  },
-  "sams|SETCMC361V": {
-    "ts": "2026-08-05T03:55:20.328036+00:00",
-    "items": []
-  },
-  "mercadolibre|SETCMC361V": {
-    "ts": "2026-08-05T03:55:21.449192+00:00",
-    "items": []
-  },
-  "amazon|53521FG": {
-    "ts": "2026-08-05T03:55:22.627869+00:00",
-    "items": []
-  },
-  "walmart|53521FG": {
-    "ts": "2026-08-05T03:55:24.178431+00:00",
-    "items": []
-  },
-  "sams|53521FG": {
-    "ts": "2026-08-05T03:55:25.890648+00:00",
-    "items": []
-  },
   "amazon|NINJAVELOCIDADESLICUADORADETECTNINJA": {
-    "ts": "2026-08-05T03:55:27.125228+00:00",
+    "ts": "2026-08-07T05:19:58.041624+00:00",
     "items": []
   },
   "walmart|NINJAVELOCIDADESLICUADORADETECTNINJA": {
-    "ts": "2026-08-05T03:55:29.073682+00:00",
+    "ts": "2026-08-07T05:20:00.317166+00:00",
     "items": []
   },
   "sams|NINJAVELOCIDADESLICUADORADETECTNINJA": {
-    "ts": "2026-08-05T03:55:30.495257+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
-    "ts": "2026-08-05T04:57:23.489686+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
-    "ts": "2026-08-05T04:57:25.024688+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
-    "ts": "2026-08-05T04:57:26.568687+00:00",
+    "ts": "2026-08-07T05:20:02.072045+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEKHAKICARGOWATCH": {
@@ -2626,6 +2485,30 @@
   },
   "sams|LABGSMARTWATCHGPSLAB": {
     "ts": "2026-08-07T03:46:12.884465+00:00",
+    "items": []
+  },
+  "amazon|FC0240LA": {
+    "ts": "2026-08-07T05:19:48.393818+00:00",
+    "items": []
+  },
+  "walmart|FC0240LA": {
+    "ts": "2026-08-07T05:19:50.677835+00:00",
+    "items": []
+  },
+  "sams|FC0240LA": {
+    "ts": "2026-08-07T05:19:52.331982+00:00",
+    "items": []
+  },
+  "amazon|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-08-07T05:20:03.942125+00:00",
+    "items": []
+  },
+  "walmart|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-08-07T05:20:05.463028+00:00",
+    "items": []
+  },
+  "sams|DELONGHIINOXIDABLEAUTOMATICACAFETERADEDICA": {
+    "ts": "2026-08-07T05:20:07.078954+00:00",
     "items": []
   }
 }

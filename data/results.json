@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-07 03:46 UTC",
-  "products_scanned": 1628,
+  "generated_at": "2026-08-07 05:20 UTC",
+  "products_scanned": 1570,
   "threshold_pct": 20.0,
   "count": 27,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.7,
+      "detail": "$8,899 en liverpool vs mercado -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6084.5,
+      "store": "liverpool",
+      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253",
+      "price": 8899.0,
+      "list_price": 20109.0,
+      "ean": null,
+      "model": "Fc0240La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "999675792253",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 35.0,
@@ -233,27 +254,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 56.3,
-      "detail": "$4,999 en liverpool vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1742.78,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
-      "price": 4999.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "Un43M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509171",
-        "marketplace": null
       }
     },
     {
