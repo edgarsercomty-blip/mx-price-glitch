@@ -321,30 +321,6 @@
     "ts": "2026-08-07T05:20:02.072045+00:00",
     "items": []
   },
-  "amazon|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-05T20:41:15.882175+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-05T20:41:17.821441+00:00",
-    "items": []
-  },
-  "sams|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-05T20:41:19.832388+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-05T20:41:21.113740+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-05T20:41:23.740469+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-05T20:41:25.475312+00:00",
-    "items": []
-  },
   "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
     "ts": "2026-08-05T22:06:46.846293+00:00",
     "items": []
@@ -3110,6 +3086,138 @@
   },
   "sams|HPNVIDIAHYPERXLAPTOPGAMING": {
     "ts": "2026-08-07T20:18:55.209663+00:00",
+    "items": []
+  },
+  "amazon|HEADPLAYERAHEADPOLOTIPO": {
+    "ts": "2026-08-07T21:03:11.226643+00:00",
+    "items": []
+  },
+  "walmart|HEADPLAYERAHEADPOLOTIPO": {
+    "ts": "2026-08-07T21:03:13.068725+00:00",
+    "items": []
+  },
+  "sams|HEADPLAYERAHEADPOLOTIPO": {
+    "ts": "2026-08-07T21:03:15.386892+00:00",
+    "items": []
+  },
+  "amazon|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-08-07T21:03:16.993969+00:00",
+    "items": []
+  },
+  "walmart|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-08-07T21:03:18.782325+00:00",
+    "items": []
+  },
+  "sams|LGPANTALLAPLANASMARTOLED": {
+    "ts": "2026-08-07T21:03:20.148349+00:00",
+    "items": []
+  },
+  "amazon|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-07T21:03:21.227440+00:00",
+    "items": []
+  },
+  "walmart|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-07T21:03:23.203914+00:00",
+    "items": []
+  },
+  "sams|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-07T21:03:25.106736+00:00",
+    "items": []
+  },
+  "amazon|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-07T21:03:26.524544+00:00",
+    "items": []
+  },
+  "walmart|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-07T21:03:28.167007+00:00",
+    "items": []
+  },
+  "sams|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-07T21:03:38.442965+00:00",
+    "items": []
+  },
+  "amazon|ASUSNVIDIAGAMINGLAPTOPINTEL": {
+    "ts": "2026-08-07T21:03:39.643529+00:00",
+    "items": []
+  },
+  "walmart|ASUSNVIDIAGAMINGLAPTOPINTEL": {
+    "ts": "2026-08-07T21:03:41.215097+00:00",
+    "items": []
+  },
+  "sams|ASUSNVIDIAGAMINGLAPTOPINTEL": {
+    "ts": "2026-08-07T21:03:42.772545+00:00",
+    "items": []
+  },
+  "amazon|ASUSPROARTLAPTOPRYZENPX13": {
+    "ts": "2026-08-07T21:03:43.888408+00:00",
+    "items": []
+  },
+  "walmart|ASUSPROARTLAPTOPRYZENPX13": {
+    "ts": "2026-08-07T21:03:45.203342+00:00",
+    "items": []
+  },
+  "sams|ASUSPROARTLAPTOPRYZENPX13": {
+    "ts": "2026-08-07T21:03:47.464196+00:00",
+    "items": []
+  },
+  "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-07T21:03:48.814874+00:00",
+    "items": []
+  },
+  "walmart|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-07T21:03:50.554564+00:00",
+    "items": []
+  },
+  "sams|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-07T21:03:52.125247+00:00",
+    "items": []
+  },
+  "amazon|HPNVIDIAGAMINGLAPTOPHYPERX": {
+    "ts": "2026-08-07T21:03:54.961460+00:00",
+    "items": []
+  },
+  "walmart|HPNVIDIAGAMINGLAPTOPHYPERX": {
+    "ts": "2026-08-07T21:03:56.954885+00:00",
+    "items": []
+  },
+  "sams|HPNVIDIAGAMINGLAPTOPHYPERX": {
+    "ts": "2026-08-07T21:03:58.311634+00:00",
+    "items": []
+  },
+  "amazon|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-07T21:04:00.764748+00:00",
+    "items": []
+  },
+  "walmart|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-07T21:04:03.453945+00:00",
+    "items": []
+  },
+  "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-07T21:04:06.241163+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARVIOLETA256A37": {
+    "ts": "2026-08-07T21:04:07.663400+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARVIOLETA256A37": {
+    "ts": "2026-08-07T21:04:11.493119+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARVIOLETA256A37": {
+    "ts": "2026-08-07T21:04:12.989631+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-07T21:04:14.342928+00:00",
+    "items": []
+  },
+  "walmart|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-07T21:04:15.889050+00:00",
+    "items": []
+  },
+  "sams|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-07T21:04:17.847238+00:00",
     "items": []
   }
 }
