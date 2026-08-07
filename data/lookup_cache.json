@@ -95,18 +95,6 @@
     "ts": "2026-08-07T00:37:34.479850+00:00",
     "items": []
   },
-  "amazon|RT53DG6758S9EM": {
-    "ts": "2026-08-05T14:36:36.891596+00:00",
-    "items": []
-  },
-  "walmart|RT53DG6758S9EM": {
-    "ts": "2026-08-05T14:36:39.113159+00:00",
-    "items": []
-  },
-  "sams|RT53DG6758S9EM": {
-    "ts": "2026-08-05T14:36:40.662753+00:00",
-    "items": []
-  },
   "amazon|15IRX10": {
     "ts": "2026-08-05T16:18:59.515676+00:00",
     "items": []
@@ -2509,6 +2497,18 @@
   },
   "sams|HEADPLAYERAPOLOHEADTIPO": {
     "ts": "2026-08-07T13:55:03.812244+00:00",
+    "items": []
+  },
+  "amazon|HEADPLAYERATIPOPOLOHEAD": {
+    "ts": "2026-08-07T14:45:25.907887+00:00",
+    "items": []
+  },
+  "walmart|HEADPLAYERATIPOPOLOHEAD": {
+    "ts": "2026-08-07T14:45:27.574861+00:00",
+    "items": []
+  },
+  "sams|HEADPLAYERATIPOPOLOHEAD": {
+    "ts": "2026-08-07T14:45:29.317880+00:00",
     "items": []
   }
 }

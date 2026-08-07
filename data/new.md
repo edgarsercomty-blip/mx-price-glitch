@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-07 13:55 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-07 14:45 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -43% | $300 | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -43% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
