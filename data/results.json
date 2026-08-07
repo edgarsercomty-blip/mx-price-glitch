@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07 22:29 UTC",
-  "products_scanned": 1599,
+  "generated_at": "2026-08-07 23:09 UTC",
+  "products_scanned": 1559,
   "threshold_pct": 20.0,
   "count": 50,
   "findings": [
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1190794349",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
         "marketplace": null
       }
     },
@@ -841,6 +820,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45244300",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 21.0,
+      "detail": "$7,899 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2099.79,
+      "store": "palacio",
+      "name": "Celular A37 5G 256 GB 8G Violeta",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html",
+      "price": 7899.21,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45616291",
         "outlet": false
       }
     },
