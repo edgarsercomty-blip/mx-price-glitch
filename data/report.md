@@ -1,14 +1,13 @@
-# Errores/chollos de precio — 2026-08-07 08:46 UTC
+# Errores/chollos de precio — 2026-08-07 09:52 UTC
 
-- Productos revisados: **1591**
+- Productos revisados: **1589**
 - Umbral de diferencia: **20%**
-- Hallazgos: **18**
+- Hallazgos: **17**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -58% | $12,506 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,899 | Confirmado vs competencia | $8,899 en liverpool vs mercado -> -58% bajo la competencia |
 | -21% | $8,250 | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | Confirmado vs competencia | $30,249 en palacio vs mercado -> -21% bajo la competencia |
-| -20% | $7,560 | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | Confirmado vs competencia | $30,239 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $3,811 | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | Confirmado vs competencia | $13,859 en liverpool vs mercado -> -22% bajo la competencia |
 | -31% | $3,190 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | Confirmado vs competencia | $7,149 en palacio vs mercado -> -31% bajo la competencia |
 | -20% | $2,660 | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | Confirmado vs competencia | $10,639 en palacio vs mercado -> -20% bajo la competencia |
