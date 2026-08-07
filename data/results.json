@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 05:20 UTC",
-  "products_scanned": 1570,
+  "generated_at": "2026-08-07 06:36 UTC",
+  "products_scanned": 1576,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$7,149 en palacio vs mercado -> -31% bajo la competencia",
       "likely_typo": false,
@@ -191,27 +170,6 @@
       "extra": {
         "id": "41273412",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$250 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 99.8,
-      "store": "liverpool",
-      "name": "Plato Ensalada Zahra Ramadan De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431",
-      "price": 249.5,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "POTTERY BARN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167857431",
-        "marketplace": null
       }
     },
     {
