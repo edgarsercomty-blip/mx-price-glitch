@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07 19:39 UTC",
-  "products_scanned": 1554,
+  "generated_at": "2026-08-07 20:18 UTC",
+  "products_scanned": 1592,
   "threshold_pct": 20.0,
-  "count": 49,
+  "count": 50,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -169,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1190794349",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 180.15,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 359.25,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
         "marketplace": null
       }
     },
@@ -825,27 +846,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 21.0,
-      "detail": "$7,899 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2099.79,
-      "store": "palacio",
-      "name": "Celular A37 5G 256 GB 8G Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html",
-      "price": 7899.21,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45616291",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -947,6 +947,27 @@
       "extra": {
         "id": "45361102",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.1,
+      "detail": "$2,479 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 619.8,
+      "store": "liverpool",
+      "name": "Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538",
+      "price": 2479.2,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184984538",
+        "marketplace": null
       }
     },
     {
