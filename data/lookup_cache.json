@@ -179,18 +179,6 @@
     "ts": "2026-08-07T19:38:57.411729+00:00",
     "items": []
   },
-  "amazon|POTTERYBARNCERAMICAENSALADARAMADANPLATO": {
-    "ts": "2026-08-05T22:06:41.614823+00:00",
-    "items": []
-  },
-  "walmart|POTTERYBARNCERAMICAENSALADARAMADANPLATO": {
-    "ts": "2026-08-05T22:06:43.545913+00:00",
-    "items": []
-  },
-  "sams|POTTERYBARNCERAMICAENSALADARAMADANPLATO": {
-    "ts": "2026-08-05T22:06:45.458773+00:00",
-    "items": []
-  },
   "liverpool|UN98DU9000FXZX": {
     "ts": "2026-08-06T04:00:44.866589+00:00",
     "items": []
@@ -322,27 +310,15 @@
     "items": []
   },
   "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-05T22:06:46.846293+00:00",
+    "ts": "2026-08-07T22:29:11.358007+00:00",
     "items": []
   },
   "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-05T22:06:48.497265+00:00",
+    "ts": "2026-08-07T22:29:13.107544+00:00",
     "items": []
   },
   "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-05T22:06:50.293186+00:00",
-    "items": []
-  },
-  "amazon|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-05T22:06:51.753459+00:00",
-    "items": []
-  },
-  "walmart|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-05T22:06:53.540622+00:00",
-    "items": []
-  },
-  "sams|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-05T22:06:56.392265+00:00",
+    "ts": "2026-08-07T22:29:14.852977+00:00",
     "items": []
   },
   "amazon|POTTERYBARNCERAMICAENSALADARAMADANZAHRA": {
@@ -3266,6 +3242,42 @@
   },
   "sams|HPGAMINGHYPERXNVIDIALAPTOP": {
     "ts": "2026-08-07T21:57:10.310740+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-07T22:29:01.643981+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-07T22:29:03.296915+00:00",
+    "items": []
+  },
+  "sams|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-07T22:29:05.072925+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-07T22:29:06.381396+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-07T22:29:08.011181+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-07T22:29:10.143606+00:00",
+    "items": []
+  },
+  "amazon|HPHYPERXGAMINGNVIDIALAPTOP": {
+    "ts": "2026-08-07T22:29:16.304943+00:00",
+    "items": []
+  },
+  "walmart|HPHYPERXGAMINGNVIDIALAPTOP": {
+    "ts": "2026-08-07T22:29:17.836172+00:00",
+    "items": []
+  },
+  "sams|HPHYPERXGAMINGNVIDIALAPTOP": {
+    "ts": "2026-08-07T22:29:19.843094+00:00",
     "items": []
   }
 }
