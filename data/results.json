@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 02:53 UTC",
-  "products_scanned": 1596,
+  "generated_at": "2026-08-08 04:05 UTC",
+  "products_scanned": 1556,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 48,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -153,27 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$32,922 en palacio vs mercado -> -32% bajo la competencia",
       "likely_typo": false,
@@ -191,27 +170,6 @@
       "extra": {
         "id": "45504579",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$9,866 en liverpool vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4553.7,
-      "store": "liverpool",
-      "name": "Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451",
-      "price": 9866.35,
-      "list_price": 15179.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1142674451",
-        "marketplace": null
       }
     },
     {
@@ -862,27 +820,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45244300",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.0,
-      "detail": "$7,899 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2099.79,
-      "store": "palacio",
-      "name": "Celular A37 5G 256 GB 8G Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html",
-      "price": 7899.21,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45616291",
         "outlet": false
       }
     },
