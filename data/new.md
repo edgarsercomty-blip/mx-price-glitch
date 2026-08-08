@@ -1,5 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-08 08:29 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-08 09:20 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **1**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -33% | $180 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -33% bajo la competencia |

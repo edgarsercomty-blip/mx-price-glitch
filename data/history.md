@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (618)
+# Historial de ofertas encontradas (619)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-08 09:20 | -33% | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | $360 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-08 07:41 | -25% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | $74 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-08 07:41 | -26% | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 25…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | $35,844 en palacio vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-06 23:51 | -21% | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,880 | $11,880 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-06 23:51 | -21% | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, C…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | $30,380 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-06 23:51 | -28% | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-07-06 14:38 | -23% | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbl…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
