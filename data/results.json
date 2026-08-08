@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 05:58 UTC",
+  "generated_at": "2026-08-08 06:47 UTC",
   "products_scanned": 1561,
   "threshold_pct": 20.0,
-  "count": 48,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -191,27 +191,6 @@
       "extra": {
         "id": "45215651",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.4,
-      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 349.0,
-      "store": "liverpool",
-      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
-      "price": 799.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": null,
-      "brand": "FLAVORSTONE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178603252",
-        "marketplace": null
       }
     },
     {
