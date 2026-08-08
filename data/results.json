@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08 04:05 UTC",
-  "products_scanned": 1556,
+  "generated_at": "2026-08-08 05:10 UTC",
+  "products_scanned": 1543,
   "threshold_pct": 20.0,
   "count": 48,
   "findings": [
@@ -23,27 +23,6 @@
       "extra": {
         "id": "45215652",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.9,
-      "detail": "$399 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
-      "price": 399.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9931044794",
-        "marketplace": null
       }
     },
     {
@@ -149,6 +128,27 @@
       "extra": {
         "id": "45522776",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 180.15,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 359.25,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
+        "marketplace": null
       }
     },
     {
