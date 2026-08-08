@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 21:21 UTC",
-  "products_scanned": 1572,
+  "generated_at": "2026-08-08 21:59 UTC",
+  "products_scanned": 1577,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -863,6 +863,27 @@
       "extra": {
         "id": "45361102",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,259 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 314.85,
+      "store": "liverpool",
+      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
+      "price": 1259.4,
+      "list_price": 2099.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133854092",
+        "marketplace": null
       }
     },
     {
