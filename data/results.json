@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 09:57 UTC",
-  "products_scanned": 1541,
+  "generated_at": "2026-08-08 10:27 UTC",
+  "products_scanned": 1532,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -427,27 +427,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4497.5,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2499.75,
@@ -463,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45641563",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4497.5,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -616,27 +616,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 2989.77,
@@ -652,6 +631,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
         "outlet": false
       }
     },
@@ -841,6 +841,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45361102",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$33,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8399.86,
+      "store": "palacio",
+      "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html",
+      "price": 33599.44,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": "85QM7L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45368711",
         "outlet": false
       }
     },
