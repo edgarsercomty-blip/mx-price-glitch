@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 10:27 UTC",
-  "products_scanned": 1532,
+  "generated_at": "2026-08-08 11:03 UTC",
+  "products_scanned": 1503,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -107,27 +107,6 @@
       "extra": {
         "id": "45522776",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
       }
     },
     {
@@ -616,27 +595,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 3449.77,
@@ -652,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42824648",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42077608",
         "outlet": false
       }
     },
