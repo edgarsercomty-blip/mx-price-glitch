@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (614)
+# Historial de ofertas encontradas (618)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-08 07:41 | -25% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | $74 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-08-08 07:41 | -26% | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 25…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | $35,844 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-08-08 07:41 | -33% | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | $5,560 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 02:53 | -32% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
 | 2026-08-07 23:49 | -29% | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | $723 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-07 20:18 | -20% | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | $2,479 en liverpool vs mercado -> -20% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-06 23:51 | -21% | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, C…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | $30,380 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-06 23:51 | -28% | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | $2,299 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-06 14:38 | -23% | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbl…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $29,259 | $29,259 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-06 14:38 | -25% | palacio | [Celular Galaxy A56 5G, 256 GB, RAM 8 GB, Verde, Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a56-5g-256-gb-ram-8-gb-verde-desbloqueado-44556105.html) | $8,249 | $8,249 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-06 14:38 | -30% | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbl…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html) | $10,849 | $10,849 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-06 10:43 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |

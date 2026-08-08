@@ -1,4 +1,4 @@
-# Productos en vigilancia (541)
+# Productos en vigilancia (545)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -87,7 +87,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Frigobar 4 p3 RMF0411PYMX0R](https://www.elpalaciodehierro.com/mabe-frigobar-4-p3-rmf0411pymx0r-45253852.html) | $3,574 | -29% |
 | 🟢 disponible | palacio | [Secadora a Gas 22 Kg Energy Saver Green Carga Frontal Blanca](https://www.elpalaciodehierro.com/mabe-secadora-a-gas-22-kg-energy-saver-green-carga-frontal-blanca-40283500.html) | $11,032 | -26% |
 | 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JYWCFS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html) | $22,364 | -25% |
-| 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $3,949 | -25% |
+| 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $2,567 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $2,567 | -25% |
 | 🟢 disponible | palacio | [Combo Licuadora Porcelain con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html) | $2,599 | -25% |
 | 🟢 disponible | palacio | [Licuadora de Inmersion Vel Var Negro](https://www.elpalaciodehierro.com/kitchenaid-licuadora-de-inmersion-vel-var-negro-41646264.html) | $1,644 | -25% |
@@ -121,7 +121,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $366 | -26% |
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,567 | -25% |
-| 🟢 disponible | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $3,299 | -25% |
+| 🟢 disponible | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,144 | -25% |
 | 🟢 disponible | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,674 | -24% |
 | 🟢 disponible | walmart | [Refrigerador Automático 300 L Inox Mabe - RMA300FZMRX0](https://www.walmart.com.mx/ip/refrigerador-automatico-300-l-inox-mabe-rma300fzmrx0/00075763835341?athbdg=L1300) | $9,599 | -24% |
 | 🟢 disponible | amazon | [Calvin Klein Gwena - Tenis para mujer](https://www.amazon.com.mx/dp/B0CPM3HC3S) | $1,080 | -25% |
@@ -344,8 +344,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html) | $33,499 | -30% |
 | 🟢 disponible | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,999 | -30% |
 | 🟢 disponible | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,999 | -30% |
-| 🟢 disponible | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $39,590 | -29% |
-| 🟢 disponible | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $39,900 | -30% |
+| 🟢 disponible | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $25,734 | -29% |
+| 🟢 disponible | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | -30% |
 | 🟢 disponible | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $6,779 | -29% |
 | 🟢 disponible | palacio | [Mica protectora antirreflejante para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $27,999 | -26% |
@@ -380,7 +380,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda Galaxy A37 Rugged Negra rayas](https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html) | $7,809 | -21% |
 | 🟢 disponible | palacio | [Funda Magnética Galaxy S26 rojo coral lisa](https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html) | $739 | -26% |
-| 🟢 disponible | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $54,999 | -25% |
+| 🟢 disponible | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $27,500 | -25% |
 | 🟢 disponible | palacio | [Galaxy SmartTag2 blanco](https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html) | $295 | -26% |
 | 🟢 disponible | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $8,909 | -24% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,619 | -20% |
@@ -412,7 +412,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $195 | -20% |
 | 🟢 disponible | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $4,499 | -29% |
 | 🟢 disponible | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $4,119 | -35% |
-| 🟢 disponible | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | -29% |
+| 🟢 disponible | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $9,789 | -29% |
 | 🟢 disponible | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | -25% |
 | 🟢 disponible | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $5,399 | -24% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $7,144 | -23% |
@@ -459,7 +459,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | -20% |
 | 🟢 disponible | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | -20% |
 | 🟢 disponible | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | -20% |
-| 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,999 | -20% |
+| 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | -20% |
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | -20% |
 | 🟢 disponible | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $20,925 | -25% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | -20% |
@@ -545,3 +545,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | -20% |
 | 🟢 disponible | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | -20% |
 | 🟢 disponible | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | -29% |
+| 🟢 disponible | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | -33% |
+| 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | -26% |
+| 🟢 disponible | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | -25% |
+| 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
