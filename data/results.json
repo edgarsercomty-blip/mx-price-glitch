@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 15:23 UTC",
-  "products_scanned": 1611,
+  "generated_at": "2026-08-08 15:51 UTC",
+  "products_scanned": 1555,
   "threshold_pct": 20.0,
-  "count": 48,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.9,
-      "detail": "$399 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
-      "price": 399.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9931044794",
-        "marketplace": null
       }
     },
     {
