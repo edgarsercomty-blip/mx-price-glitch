@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08 19:45 UTC",
-  "products_scanned": 1567,
+  "generated_at": "2026-08-08 20:18 UTC",
+  "products_scanned": 1613,
   "threshold_pct": 20.0,
   "count": 47,
   "findings": [
@@ -44,6 +44,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.9,
+      "detail": "$399 en liverpool vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 300.0,
+      "store": "liverpool",
+      "name": "Playera Tipo Polo Head Para Mujer",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
+      "price": 399.0,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "HEAD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9931044794",
+        "marketplace": null
       }
     },
     {
@@ -695,27 +716,6 @@
       "extra": {
         "id": "44472014",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3811.34,
-      "store": "liverpool",
-      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
-      "price": 13859.4,
-      "list_price": 23099.0,
-      "ean": null,
-      "model": "Tfr18Si",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1166524551",
-        "marketplace": null
       }
     },
     {
