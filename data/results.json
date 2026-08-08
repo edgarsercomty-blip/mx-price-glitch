@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-08-08 13:29 UTC",
-  "products_scanned": 1574,
+  "generated_at": "2026-08-08 14:09 UTC",
+  "products_scanned": 1603,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 48,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1279.6,
+      "store": "palacio",
+      "name": "Licuadora HR2244 91 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
+      "price": 1119.65,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": "HR2244",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215652",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1745.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 42.9,
@@ -153,22 +195,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "discount_pct": 32.0,
+      "detail": "$32,922 en palacio vs mercado -> -32% bajo la competencia",
       "likely_typo": false,
-      "savings": 2780.0,
+      "savings": 15492.8,
       "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
+      "name": "Laptop Gaming Omen HyperX 15.3\", Nvidia RTX 5060, Intel Core i7, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html",
+      "price": 32922.2,
+      "list_price": 48415.0,
       "ean": null,
       "model": null,
-      "brand": "Smeg",
+      "brand": "Hp",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000830",
+        "id": "45504579",
         "outlet": false
       }
     },
@@ -427,27 +469,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2499.75,
-      "store": "palacio",
-      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
-      "price": 7499.25,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45641563",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 4497.5,
@@ -469,6 +490,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2499.75,
+      "store": "palacio",
+      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
+      "price": 7499.25,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45641563",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$4,118 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1372.5,
@@ -484,27 +526,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44032598",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$74 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 24.75,
-      "store": "palacio",
-      "name": "Descalcificador para Cafeteras",
-      "url": "https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html",
-      "price": 74.25,
-      "list_price": 99.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "15513938",
         "outlet": false
       }
     },
@@ -720,6 +741,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8249.85,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
+      "price": 30249.45,
+      "list_price": 54999.0,
+      "ean": null,
+      "model": "75MRGB86BSA",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505426",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -746,17 +788,17 @@
       "likely_typo": false,
       "savings": 2089.81,
       "store": "palacio",
-      "name": "Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, Telcel",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html",
+      "name": "Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html",
       "price": 7809.29,
       "list_price": 10999.0,
       "ean": null,
-      "model": "Edge70",
+      "model": null,
       "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45363417",
+        "id": "45345508",
         "outlet": false
       }
     },
@@ -779,6 +821,27 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 230.0,
+      "store": "palacio",
+      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
+      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
+      "price": 920.0,
+      "list_price": 2300.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44004165",
+        "outlet": false
       }
     },
     {
@@ -863,6 +926,27 @@
       "extra": {
         "productId": "9957691086",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1619.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
+      "price": 6479.28,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600342",
+        "outlet": false
       }
     },
     {

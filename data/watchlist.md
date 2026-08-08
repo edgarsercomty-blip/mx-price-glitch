@@ -1,4 +1,4 @@
-# Productos en vigilancia (547)
+# Productos en vigilancia (548)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -52,7 +52,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Olla de Presión T-Fal Easy Pressure Cooker Mod. 92180PC Plat…](https://www.walmart.com.mx/ip/olla-de-presion-t-fal-easy-pressure-cooker-mod-92180pc-plateado-1-pieza/00750110832157?athbdg=L1300) | $758 | -54% |
 | 🟢 disponible | walmart | [Pantalla 50 pulgadas LG AI QNED 50QNED82 4K Smart TV 2025](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-lg-ai-qned-50qned82-4k-smart-tv-2025/00880609633280) | $8,499 | -53% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $28,599 | -29% |
-| 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $59,999 | -41% |
+| 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $37,799 | -41% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $16,631 | -29% |
 | 🟢 disponible | palacio | [Refrigerador French Door Smart Inverter 29 p3, GM29BIP, Plat…](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-smart-inverter-29-p3-gm29bip-plata-42668113.html) | $12,000 | -37% |
 | 🟢 disponible | walmart | [Congelador Horizontal 18 pies Aurus AFC18W](https://www.walmart.com.mx/ip/congelador-horizontal-18-pies-aurus-afc18w/00750283205325?athbdg=L1300) | $12,899 | -26% |
@@ -353,7 +353,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $5,999 | -26% |
 | 🟢 disponible | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $3,299 | -26% |
 | 🟢 disponible | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $19,549 | -26% |
-| 🟢 disponible | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $4,799 | -26% |
+| 🟢 disponible | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $4,079 | -26% |
 | 🟢 disponible | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,759 | -26% |
 | 🟢 disponible | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $899 | -26% |
 | 🟢 disponible | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $11,999 | -26% |
@@ -362,7 +362,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $1,745 | -20% |
 | 🟢 disponible | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $11,199 | -20% |
 | 🟢 disponible | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $11,899 | -20% |
-| 🟢 disponible | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $29,999 | -20% |
+| 🟢 disponible | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $20,999 | -20% |
 | 🟢 disponible | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $13,299 | -29% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | -23% |
 | 🟢 disponible | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | -26% |
@@ -551,3 +551,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -33% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
+| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
