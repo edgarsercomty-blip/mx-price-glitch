@@ -3376,40 +3376,456 @@
     "ts": "2026-08-08T00:56:32.999372+00:00",
     "items": []
   },
-  "amazon|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T02:51:41.596009+00:00",
+  "palacio|UN98DU9000FXZX": {
+    "ts": "2026-08-08T02:52:34.213745+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Camisa jaspeada de manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-camisa-jaspeada-de-manga-larga-hombre-44745303.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-hombre-45594380.html",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-de-vestir-hombre-45131803.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-hombre-45472958.html",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa lisa manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-camisa-lisa-manga-larga-hombre-45434998.html",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa de vestir lisa manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-camisa-de-vestir-lisa-manga-larga-hombre-45211632.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa de vestir lisa manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-camisa-de-vestir-lisa-manga-larga-hombre-45211648.html",
+        "price": 799.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón con cinturón Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-con-cinturon-hombre-45425945.html",
+        "price": 1899.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-de-vestir-hombre-44443120.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón casual Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-casual-hombre-44967815.html",
+        "price": 1599.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalón de vestir Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-pantalon-de-vestir-hombre-44443129.html",
+        "price": 999.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa de vestir lisa manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/epsilon-camisa-de-vestir-lisa-manga-larga-hombre-45211622.html",
+        "price": 999.5,
+        "model": null
+      }
+    ]
+  },
+  "palacio|ARU122NFW": {
+    "ts": "2026-08-08T02:52:35.578916+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8351.28,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil Inverter LP1419IVSM 14,000 BTU’s, 1 Tonelada 115V Sólo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-inverter-lp1419ivsm-14000-btu%E2%80%99s-1-tonelada-115v-solo-frio-42341583.html",
+        "price": 11339.46,
+        "model": "LP1419IVSM"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11799.41,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit BIG Inverter SW362H8 Enfriamiento 33,000 BTU-h, Calefacción 29,000 BTU-h 3 Toneladas 220V",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-big-inverter-sw362h8%C2%A0enfriamiento-33000-btu-h-calefaccion-29000-btu-h-3-toneladas-220v-40338133.html",
+        "price": 33279.36,
+        "model": "SW362H8"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
+        "price": 10529.46,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit ARTCOOL Inverter VR122CW 12,000 BTU's, 1 Tonelada 220V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122cw-12000-btus-1-tonelada-220v-solo-frio-41578149.html",
+        "price": 14159.41,
+        "model": "VR122CW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 16319.36,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR122HD 12,000 BTU’s, 1 Tonelada 220V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr122hd%C2%A012000-btu%E2%80%99s-1-tonelada-220v%C2%A0frio---calor-38983629.html",
+        "price": 16639.36,
+        "model": "VR122HD"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
+        "price": 9299.38,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit ARTCOOL Inverter VR242HW 22,000 BTU x h, 2 Toneladas, 220 V, Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-artcool-inverter-vr242hw-22000-btu-x-h-2-toneladas-220-v-frio-y-calor-38239326.html",
+        "price": 23599.41,
+        "model": "VR242HW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242C9 22,000 BTU-h 2 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242c9-22000-btu-h-2-toneladas-220v-solo-frio-40785873.html",
+        "price": 17699.41,
+        "model": "VM242C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter VA121C5 12,000 BTU's 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-inverter-va121c5-12000-btus-110-v-frio-45450539.html",
+        "price": 12389.41,
+        "model": "VA121C5"
+      }
+    ]
+  },
+  "amazon|ARU122NFW": {
+    "ts": "2026-08-08T02:52:36.781708+00:00",
     "items": []
   },
-  "walmart|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T02:51:43.324155+00:00",
+  "walmart|ARU122NFW": {
+    "ts": "2026-08-08T02:52:38.022507+00:00",
     "items": []
   },
-  "sams|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T02:51:45.024013+00:00",
+  "sams|ARU122NFW": {
+    "ts": "2026-08-08T02:52:39.296703+00:00",
     "items": []
   },
-  "amazon|APPLERETINAIPHONESUPERAPPLE": {
-    "ts": "2026-08-08T02:51:46.591663+00:00",
+  "mercadolibre|ARU122NFW": {
+    "ts": "2026-08-08T02:52:41.010735+00:00",
     "items": []
   },
-  "walmart|APPLERETINAIPHONESUPERAPPLE": {
-    "ts": "2026-08-08T02:51:48.268571+00:00",
+  "palacio|98Q7K": {
+    "ts": "2026-08-08T02:52:43.679887+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 pulgadas Plana QNED evo AI QNED86 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-100-pulgadas-plana-qned-evo-ai-qned86-4k-smart-tv-2025-44705207.html",
+        "price": 49599.69,
+        "model": "QNED86"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana QLED 4K Frame Pro sin marco QN85LS03FWFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-frame-pro-sin-marco-qn85ls03fwfxzx-45416976.html",
+        "price": 49998.9,
+        "model": "QN85LS03FWFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Crystal 4K UN85U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-4k-un85u8500hfxzx-45367574.html",
+        "price": 21684.96,
+        "model": "UN85U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r85hafxzx-45367628.html",
+        "price": 39999.12,
+        "model": "MRN75R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Fire TV 98QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
+        "price": 41999.3,
+        "model": "98QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana OLED 4K Mini RGB evo 65MRGB86BSA",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-mini-rgb-evo-65mrgb86bsa-45505425.html",
+        "price": 25369.41,
+        "model": "65MRGB86BSA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85X11L SQD",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85x11l-sqd-45368768.html",
+        "price": 90159.44,
+        "model": "85X11L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
+        "price": 30239.44,
+        "model": "98A400"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana MiniLED 4K 100Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-100-pulgadas-plana-miniled-4k-100z670rm-fire-tv-45315661.html",
+        "price": 40119.41,
+        "model": "100Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina inalámbrica M7 Wi-Fi 100W",
+        "url": "https://www.elpalaciodehierro.com/lg-bocina-inalambrica-m7-wi-fi-100w-45468003.html",
+        "price": 7874.37,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 55327.44,
+        "model": "98Qm7K"
+      }
+    ]
+  },
+  "amazon|98Q7K": {
+    "ts": "2026-08-08T02:52:45.018380+00:00",
     "items": []
   },
-  "sams|APPLERETINAIPHONESUPERAPPLE": {
-    "ts": "2026-08-08T02:51:50.157361+00:00",
+  "walmart|98Q7K": {
+    "ts": "2026-08-08T02:52:46.492318+00:00",
     "items": []
   },
-  "amazon|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-08T02:51:51.428912+00:00",
+  "sams|98Q7K": {
+    "ts": "2026-08-08T02:52:48.239104+00:00",
     "items": []
   },
-  "walmart|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-08T02:51:53.020034+00:00",
+  "mercadolibre|98Q7K": {
+    "ts": "2026-08-08T02:52:49.597026+00:00",
     "items": []
   },
-  "sams|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-08T02:51:54.588671+00:00",
+  "palacio|EMPRN121": {
+    "ts": "2026-08-08T02:52:53.061451+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Vestido largo fantasía Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-largo-fantasia-mujer-45406054.html",
+        "price": 1945.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido maxi fantasía Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-maxi-fantasia-mujer-45406007.html",
+        "price": 1945.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para Hombre Inox Automatico Casual Gris",
+        "url": "https://www.elpalaciodehierro.com/victorinox-reloj-para-hombre-inox-automatico-casual-gris-44224473.html",
+        "price": 30499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido maxi fantasía Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-maxi-fantasia-mujer-45353149.html",
+        "price": 1974.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Game Card Case Eevee Cottage Core",
+        "url": "https://www.elpalaciodehierro.com/nintendo-game-card-case-eevee-cottage-core-45305658.html",
+        "price": 509.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido maxi fantasía Mujer",
+        "url": "https://www.elpalaciodehierro.com/eva-brazzi-vestido-maxi-fantasia-mujer-45353100.html",
+        "price": 2334.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maletín Werks Traveler 7.0 liso Hombre",
+        "url": "https://www.elpalaciodehierro.com/victorinox-maletin-werks-traveler-7.0-liso-hombre-45134429.html",
+        "price": 6969.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maletín Werks Traveler 7.0 Compact liso Unisex",
+        "url": "https://www.elpalaciodehierro.com/victorinox-maletin-werks-traveler-7.0-compact-liso-unisex-45183976.html",
+        "price": 7385.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para Hombre Inox Automatico Casual Gris",
+        "url": "https://www.elpalaciodehierro.com/victorinox-reloj-para-hombre-inox-automatico-casual-gris-44224474.html",
+        "price": 30499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maletín Werks Traveler 7.0 Deluxe liso Unisex",
+        "url": "https://www.elpalaciodehierro.com/victorinox-maletin-werks-traveler-7.0-deluxe-liso-unisex-45183975.html",
+        "price": 8115.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jane Eyre",
+        "url": "https://www.elpalaciodehierro.com/gandhi-jane-eyre-45301361.html",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "FP 149 Meisterstück Burgundy 149 Rojo burdeos",
+        "url": "https://www.elpalaciodehierro.com/montblanc-fp-149-meisterst%C3%BCck-burgundy-149-rojo-burdeos-45262251.html",
+        "price": 29800.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|EMPRN121": {
+    "ts": "2026-08-08T02:52:54.276891+00:00",
+    "items": []
+  },
+  "walmart|EMPRN121": {
+    "ts": "2026-08-08T02:52:55.769407+00:00",
+    "items": []
+  },
+  "sams|EMPRN121": {
+    "ts": "2026-08-08T02:52:57.482966+00:00",
+    "items": []
+  },
+  "mercadolibre|EMPRN121": {
+    "ts": "2026-08-08T02:52:59.174178+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
+    "ts": "2026-08-08T02:53:02.398905+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
+    "ts": "2026-08-08T02:53:03.750479+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIWATCHCARGO": {
+    "ts": "2026-08-08T02:53:05.206971+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPHONERETINAAPPLESUPER": {
+    "ts": "2026-08-08T02:53:06.306212+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPHONERETINAAPPLESUPER": {
+    "ts": "2026-08-08T02:53:07.498312+00:00",
+    "items": []
+  },
+  "sams|APPLEIPHONERETINAAPPLESUPER": {
+    "ts": "2026-08-08T02:53:09.426761+00:00",
+    "items": []
+  },
+  "amazon|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-08T02:53:10.637341+00:00",
+    "items": []
+  },
+  "walmart|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-08T02:53:12.951248+00:00",
+    "items": []
+  },
+  "sams|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-08T02:53:14.154032+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARVIOLETAA37256": {
+    "ts": "2026-08-08T02:53:15.221952+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARVIOLETAA37256": {
+    "ts": "2026-08-08T02:53:17.257921+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARVIOLETAA37256": {
+    "ts": "2026-08-08T02:53:18.535212+00:00",
     "items": []
   }
 }

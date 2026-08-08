@@ -4,7 +4,7 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
-| 2026-08-08 02:51 | -32% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
+| 2026-08-08 02:53 | -32% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
 | 2026-08-07 23:49 | -29% | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | $723 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-07 20:18 | -20% | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | $2,479 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-07 19:39 | -20% | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
