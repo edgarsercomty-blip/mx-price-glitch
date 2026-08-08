@@ -36,15 +36,15 @@
     "items": []
   },
   "amazon|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-08-06T13:13:17.283330+00:00",
+    "ts": "2026-08-08T13:29:55.324180+00:00",
     "items": []
   },
   "walmart|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-08-06T13:13:19.062349+00:00",
+    "ts": "2026-08-08T13:29:57.041493+00:00",
     "items": []
   },
   "sams|TVOFERTASRETROVISOROFERTASESPEJO": {
-    "ts": "2026-08-06T13:13:20.840450+00:00",
+    "ts": "2026-08-08T13:29:58.531240+00:00",
     "items": []
   },
   "amazon|NESPRESSOCREATISTACAFETERAORIGINS": {
@@ -261,18 +261,6 @@
   },
   "sams|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
     "ts": "2026-08-08T11:44:59.912888+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARCELESTEFUSION": {
-    "ts": "2026-08-06T13:13:22.106485+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARCELESTEFUSION": {
-    "ts": "2026-08-06T13:13:23.681964+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARCELESTEFUSION": {
-    "ts": "2026-08-06T13:13:25.359288+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEWATCHKHAKICARGO": {
@@ -3453,6 +3441,30 @@
   },
   "sams|APPLEEXTENSIBLEKHAKICARGOAPPLE": {
     "ts": "2026-08-08T12:27:45.004065+00:00",
+    "items": []
+  },
+  "amazon|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-08T13:29:44.493711+00:00",
+    "items": []
+  },
+  "walmart|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-08T13:29:46.438721+00:00",
+    "items": []
+  },
+  "sams|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-08T13:29:49.706521+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-08T13:29:50.980421+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-08T13:29:52.420671+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIAPPLECARGO": {
+    "ts": "2026-08-08T13:29:54.130037+00:00",
     "items": []
   }
 }
