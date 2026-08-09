@@ -179,52 +179,28 @@
     "ts": "2026-08-09T05:32:04.983114+00:00",
     "items": []
   },
-  "amazon|HUAWEISMARTWATCHFIT": {
-    "ts": "2026-08-07T07:54:31.086361+00:00",
-    "items": []
-  },
-  "walmart|HUAWEISMARTWATCHFIT": {
-    "ts": "2026-08-07T07:54:32.814930+00:00",
-    "items": []
-  },
-  "sams|HUAWEISMARTWATCHFIT": {
-    "ts": "2026-08-07T07:54:37.795764+00:00",
-    "items": []
-  },
   "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-07T07:54:39.824415+00:00",
+    "ts": "2026-08-09T08:20:20.401519+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-07T07:54:41.929507+00:00",
+    "ts": "2026-08-09T08:20:22.218995+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-07T07:54:43.651354+00:00",
-    "items": []
-  },
-  "amazon|75MRGB86BSA": {
-    "ts": "2026-08-07T07:54:45.108806+00:00",
-    "items": []
-  },
-  "walmart|75MRGB86BSA": {
-    "ts": "2026-08-07T07:54:46.791193+00:00",
-    "items": []
-  },
-  "sams|75MRGB86BSA": {
-    "ts": "2026-08-07T07:54:49.374484+00:00",
+    "ts": "2026-08-09T08:20:24.193662+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-07T07:54:51.052974+00:00",
+    "ts": "2026-08-09T08:20:33.444909+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-07T07:54:54.565232+00:00",
+    "ts": "2026-08-09T08:20:34.915344+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-07T07:54:56.132793+00:00",
+    "ts": "2026-08-09T08:20:36.713239+00:00",
     "items": []
   },
   "amazon|98A400": {
@@ -2718,6 +2694,30 @@
   },
   "sams|APPLETELCELIPHONE128": {
     "ts": "2026-08-09T07:38:06.458100+00:00",
+    "items": []
+  },
+  "amazon|HPGAMINGLAPTOPHYPERXNVIDIA": {
+    "ts": "2026-08-09T08:20:26.592152+00:00",
+    "items": []
+  },
+  "walmart|HPGAMINGLAPTOPHYPERXNVIDIA": {
+    "ts": "2026-08-09T08:20:30.034094+00:00",
+    "items": []
+  },
+  "sams|HPGAMINGLAPTOPHYPERXNVIDIA": {
+    "ts": "2026-08-09T08:20:31.786079+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPHONETELCEL128": {
+    "ts": "2026-08-09T08:20:39.565694+00:00",
+    "items": []
+  },
+  "walmart|APPLEIPHONETELCEL128": {
+    "ts": "2026-08-09T08:20:42.446225+00:00",
+    "items": []
+  },
+  "sams|APPLEIPHONETELCEL128": {
+    "ts": "2026-08-09T08:20:44.038674+00:00",
     "items": []
   }
 }
