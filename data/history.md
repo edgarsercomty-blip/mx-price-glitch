@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (623)
+# Historial de ofertas encontradas (624)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-09 13:34 | -23% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -23% | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | $10,009 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -33% | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, …](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | $12,800 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 14:09 | -50% | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | $1,745 en palacio vs mercado -> -50% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-07 02:10 | -29% | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $594 | $594 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-07-07 02:10 | -29% | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $912 | $912 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-07-07 02:10 | -32% | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $7,499 | $7,499 en liverpool vs mercado -> -32% bajo la competencia |
-| 2026-07-07 02:10 | -41% | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,916 | $24,916 en liverpool vs mercado -> -41% bajo la competencia |

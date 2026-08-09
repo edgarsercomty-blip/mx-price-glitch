@@ -1,4 +1,4 @@
-# Productos en vigilancia (550)
+# Productos en vigilancia (551)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -416,7 +416,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | -25% |
 | 🟢 disponible | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $5,399 | -24% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $7,144 | -23% |
-| 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | -23% |
+| 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $7,144 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | -47% |
 | 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,985 | -28% |
@@ -554,3 +554,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
+| 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
