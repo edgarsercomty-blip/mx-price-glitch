@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-09 10:31 UTC
+# Errores/chollos de precio — 2026-08-09 11:04 UTC
 
-- Productos revisados: **1558**
+- Productos revisados: **1563**
 - Umbral de diferencia: **20%**
 - Hallazgos: **41**
 
