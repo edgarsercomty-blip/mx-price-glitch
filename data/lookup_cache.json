@@ -59,18 +59,6 @@
     "ts": "2026-08-09T05:32:09.446586+00:00",
     "items": []
   },
-  "amazon|MABESECADORALAVADORA": {
-    "ts": "2026-08-07T19:38:50.751556+00:00",
-    "items": []
-  },
-  "walmart|MABESECADORALAVADORA": {
-    "ts": "2026-08-07T19:38:54.547928+00:00",
-    "items": []
-  },
-  "sams|MABESECADORALAVADORA": {
-    "ts": "2026-08-07T19:38:57.411729+00:00",
-    "items": []
-  },
   "amazon|UN50M70HAFXZX": {
     "ts": "2026-08-09T00:59:16.936840+00:00",
     "items": []
@@ -371,124 +359,16 @@
     "ts": "2026-08-09T19:03:25.488198+00:00",
     "items": []
   },
-  "amazon|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-07T19:37:39.795921+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-07T19:37:41.753574+00:00",
-    "items": []
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-07T19:37:43.866792+00:00",
-    "items": []
-  },
-  "amazon|ASUSSNAPDRAGONVIVOBOOKLAPTOP100": {
-    "ts": "2026-08-07T19:37:46.311706+00:00",
-    "items": []
-  },
-  "walmart|ASUSSNAPDRAGONVIVOBOOKLAPTOP100": {
-    "ts": "2026-08-07T19:37:48.865789+00:00",
-    "items": []
-  },
-  "sams|ASUSSNAPDRAGONVIVOBOOKLAPTOP100": {
-    "ts": "2026-08-07T19:37:52.691516+00:00",
-    "items": []
-  },
-  "amazon|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-07T19:37:53.969870+00:00",
-    "items": []
-  },
-  "walmart|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-07T19:37:55.787454+00:00",
-    "items": []
-  },
-  "sams|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-07T19:37:58.558987+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLECARGOWATCHKHAKI": {
-    "ts": "2026-08-07T19:38:00.004988+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLECARGOWATCHKHAKI": {
-    "ts": "2026-08-07T19:38:02.457292+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLECARGOWATCHKHAKI": {
-    "ts": "2026-08-07T19:38:04.323623+00:00",
-    "items": []
-  },
   "amazon|ASUSNVIDIALAPTOPGAMINGINTEL": {
-    "ts": "2026-08-07T19:38:05.875809+00:00",
+    "ts": "2026-08-09T19:49:51.100650+00:00",
     "items": []
   },
   "walmart|ASUSNVIDIALAPTOPGAMINGINTEL": {
-    "ts": "2026-08-07T19:38:07.399975+00:00",
+    "ts": "2026-08-09T19:49:52.790608+00:00",
     "items": []
   },
   "sams|ASUSNVIDIALAPTOPGAMINGINTEL": {
-    "ts": "2026-08-07T19:38:11.955869+00:00",
-    "items": []
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-07T19:38:13.575222+00:00",
-    "items": []
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-07T19:38:16.180620+00:00",
-    "items": []
-  },
-  "sams|ASUSVIVOBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-07T19:38:18.170705+00:00",
-    "items": []
-  },
-  "amazon|LENOVOIDEAPADLAPTOPRADEONABYSS": {
-    "ts": "2026-08-07T19:38:19.614527+00:00",
-    "items": []
-  },
-  "walmart|LENOVOIDEAPADLAPTOPRADEONABYSS": {
-    "ts": "2026-08-07T19:38:21.426767+00:00",
-    "items": []
-  },
-  "sams|LENOVOIDEAPADLAPTOPRADEONABYSS": {
-    "ts": "2026-08-07T19:38:23.914288+00:00",
-    "items": []
-  },
-  "amazon|HPHYPERXNVIDIALAPTOPGAMING": {
-    "ts": "2026-08-07T19:38:25.388736+00:00",
-    "items": []
-  },
-  "walmart|HPHYPERXNVIDIALAPTOPGAMING": {
-    "ts": "2026-08-07T19:38:26.985974+00:00",
-    "items": []
-  },
-  "sams|HPHYPERXNVIDIALAPTOPGAMING": {
-    "ts": "2026-08-07T19:38:29.230801+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGVIOLETACELULARA37256": {
-    "ts": "2026-08-07T19:38:34.663988+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGVIOLETACELULARA37256": {
-    "ts": "2026-08-07T19:38:45.154627+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGVIOLETACELULARA37256": {
-    "ts": "2026-08-07T19:38:47.744971+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-07T19:38:58.817910+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-07T19:39:05.072487+00:00",
-    "items": []
-  },
-  "sams|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-07T19:39:06.867907+00:00",
+    "ts": "2026-08-09T19:49:54.146449+00:00",
     "items": []
   },
   "amazon|XIAOMIXIAOMITELCELREDMI15C": {
@@ -3107,6 +2987,78 @@
   },
   "sams|HPGAMINGLAPTOPNVIDIAHYPERX": {
     "ts": "2026-08-09T19:03:16.130490+00:00",
+    "items": []
+  },
+  "amazon|ASUSSNAPDRAGONVIVOBOOKLAPTOPRAM": {
+    "ts": "2026-08-09T19:49:46.360379+00:00",
+    "items": []
+  },
+  "walmart|ASUSSNAPDRAGONVIVOBOOKLAPTOPRAM": {
+    "ts": "2026-08-09T19:49:48.135535+00:00",
+    "items": []
+  },
+  "sams|ASUSSNAPDRAGONVIVOBOOKLAPTOPRAM": {
+    "ts": "2026-08-09T19:49:49.886373+00:00",
+    "items": []
+  },
+  "amazon|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-09T19:49:55.298339+00:00",
+    "items": []
+  },
+  "walmart|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-09T19:49:56.884406+00:00",
+    "items": []
+  },
+  "sams|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-09T19:49:58.443301+00:00",
+    "items": []
+  },
+  "amazon|MABELAVADORASECADORA": {
+    "ts": "2026-08-09T19:49:59.594885+00:00",
+    "items": []
+  },
+  "walmart|MABELAVADORASECADORA": {
+    "ts": "2026-08-09T19:50:02.697102+00:00",
+    "items": []
+  },
+  "sams|MABELAVADORASECADORA": {
+    "ts": "2026-08-09T19:50:04.153341+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
+    "ts": "2026-08-09T19:50:05.439638+00:00",
+    "items": []
+  },
+  "walmart|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
+    "ts": "2026-08-09T19:50:06.902155+00:00",
+    "items": []
+  },
+  "sams|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
+    "ts": "2026-08-09T19:50:08.207239+00:00",
+    "items": []
+  },
+  "amazon|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
+    "ts": "2026-08-09T19:50:09.357301+00:00",
+    "items": []
+  },
+  "walmart|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
+    "ts": "2026-08-09T19:50:11.171598+00:00",
+    "items": []
+  },
+  "sams|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
+    "ts": "2026-08-09T19:50:12.457913+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
+    "ts": "2026-08-09T19:50:13.527666+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
+    "ts": "2026-08-09T19:50:16.105270+00:00",
+    "items": []
+  },
+  "sams|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
+    "ts": "2026-08-09T19:50:17.709657+00:00",
     "items": []
   }
 }
