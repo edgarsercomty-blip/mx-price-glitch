@@ -395,28 +395,16 @@
     "ts": "2026-08-09T21:05:32.978966+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
-    "ts": "2026-08-07T23:09:07.838553+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
-    "ts": "2026-08-07T23:09:09.591413+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
-    "ts": "2026-08-07T23:09:11.287227+00:00",
-    "items": []
-  },
   "amazon|KITCHENAIDLICUADORACOMBONEGRAVASOS": {
-    "ts": "2026-08-07T23:09:12.554395+00:00",
+    "ts": "2026-08-09T23:22:12.352781+00:00",
     "items": []
   },
   "walmart|KITCHENAIDLICUADORACOMBONEGRAVASOS": {
-    "ts": "2026-08-07T23:09:14.313572+00:00",
+    "ts": "2026-08-09T23:22:13.890706+00:00",
     "items": []
   },
   "sams|KITCHENAIDLICUADORACOMBONEGRAVASOS": {
-    "ts": "2026-08-07T23:09:16.027342+00:00",
+    "ts": "2026-08-09T23:22:15.534520+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
@@ -3083,6 +3071,18 @@
   },
   "sams|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
     "ts": "2026-08-09T22:54:28.338125+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-09T23:22:07.554853+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-09T23:22:09.303826+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
+    "ts": "2026-08-09T23:22:11.062079+00:00",
     "items": []
   }
 }

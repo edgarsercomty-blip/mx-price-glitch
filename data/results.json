@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09 22:54 UTC",
-  "products_scanned": 1618,
+  "generated_at": "2026-08-09 23:22 UTC",
+  "products_scanned": 1607,
   "threshold_pct": 20.0,
   "count": 46,
   "findings": [
@@ -44,27 +44,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.9,
-      "detail": "$399 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
-      "price": 399.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9931044794",
-        "marketplace": null
       }
     },
     {
@@ -128,6 +107,27 @@
       "extra": {
         "id": "45522776",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 180.15,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 359.25,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
+        "marketplace": null
       }
     },
     {
@@ -678,6 +678,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3811.34,
+      "store": "liverpool",
+      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
+      "price": 13859.4,
+      "list_price": 23099.0,
+      "ean": null,
+      "model": "Tfr18Si",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166524551",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -925,27 +946,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600342",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
         "outlet": false
       }
     },
