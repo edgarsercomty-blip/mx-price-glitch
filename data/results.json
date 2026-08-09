@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08 23:46 UTC",
-  "products_scanned": 1571,
+  "generated_at": "2026-08-09 00:59 UTC",
+  "products_scanned": 1616,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 48,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -149,6 +149,27 @@
       "extra": {
         "id": "45522776",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 180.15,
+      "store": "liverpool",
+      "name": "Espejo Retrovisor Tv Ofertas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
+      "price": 359.25,
+      "list_price": 479.0,
+      "ean": null,
+      "model": null,
+      "brand": "TV OFERTAS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152285660",
+        "marketplace": null
       }
     },
     {
@@ -552,6 +573,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 804.77,
+      "store": "palacio",
+      "name": "Smartwach Kids 4 Pro Nina",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
+      "price": 2519.28,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44123334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -595,27 +637,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 3449.77,
@@ -631,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42824648",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42077608",
         "outlet": false
       }
     },
@@ -888,27 +930,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1619.82,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
-      "price": 6479.28,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600342",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -925,6 +946,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45260351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1619.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
+      "price": 6479.28,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600342",
         "outlet": false
       }
     },
