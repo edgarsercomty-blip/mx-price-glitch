@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 03:02 UTC",
-  "products_scanned": 1589,
+  "generated_at": "2026-08-09 04:38 UTC",
+  "products_scanned": 1585,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -653,6 +653,27 @@
       "extra": {
         "id": "44472014",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3811.34,
+      "store": "liverpool",
+      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
+      "price": 13859.4,
+      "list_price": 23099.0,
+      "ean": null,
+      "model": "Tfr18Si",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166524551",
+        "marketplace": null
       }
     },
     {
