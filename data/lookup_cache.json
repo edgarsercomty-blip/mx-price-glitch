@@ -215,18 +215,6 @@
     "ts": "2026-08-09T14:16:34.348730+00:00",
     "items": []
   },
-  "amazon|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-08-07T14:45:25.907887+00:00",
-    "items": []
-  },
-  "walmart|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-08-07T14:45:27.574861+00:00",
-    "items": []
-  },
-  "sams|HEADPLAYERATIPOPOLOHEAD": {
-    "ts": "2026-08-07T14:45:29.317880+00:00",
-    "items": []
-  },
   "amazon|HEADPLAYERAPOLOTIPOHEAD": {
     "ts": "2026-08-07T15:44:48.276875+00:00",
     "items": []
@@ -2754,6 +2742,18 @@
   },
   "sams|APPLEMEDIANOCHETELCELIPHONE128": {
     "ts": "2026-08-09T13:34:15.448464+00:00",
+    "items": []
+  },
+  "amazon|HPLAPTOPHYPERXGAMINGNVIDIA": {
+    "ts": "2026-08-09T14:55:04.715602+00:00",
+    "items": []
+  },
+  "walmart|HPLAPTOPHYPERXGAMINGNVIDIA": {
+    "ts": "2026-08-09T14:55:06.387370+00:00",
+    "items": []
+  },
+  "sams|HPLAPTOPHYPERXGAMINGNVIDIA": {
+    "ts": "2026-08-09T14:55:08.340377+00:00",
     "items": []
   }
 }
