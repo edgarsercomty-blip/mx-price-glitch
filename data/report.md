@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-09 16:00 UTC
+# Errores/chollos de precio — 2026-08-09 16:55 UTC
 
-- Productos revisados: **1622**
+- Productos revisados: **1614**
 - Umbral de diferencia: **20%**
-- Hallazgos: **47**
+- Hallazgos: **46**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -13,7 +13,6 @@
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $10,800 | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | Confirmado vs competencia | $16,199 en palacio vs mercado -> -40% bajo la competencia |
 | -25% | $6,460 | palacio | [Laptop TUF Gaming F16, 16", Nvidia RTX 5050, Intel Core i5, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html) | $19,379 | Confirmado vs competencia | $19,379 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $6,000 | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | Confirmado vs competencia | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $4,950 | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | Confirmado vs competencia | $17,549 en palacio vs mercado -> -22% bajo la competencia |
 | -35% | $4,800 | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,899 | Confirmado vs competencia | $8,899 en liverpool vs mercado -> -35% bajo la competencia |
 | -25% | $4,498 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $13,492 | Confirmado vs competencia | $13,492 en palacio vs mercado -> -25% bajo la competencia |
