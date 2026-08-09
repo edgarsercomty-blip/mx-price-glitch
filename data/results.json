@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 06:24 UTC",
-  "products_scanned": 1621,
+  "generated_at": "2026-08-09 07:38 UTC",
+  "products_scanned": 1549,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1745.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43394466",
         "outlet": false
       }
     },
@@ -174,6 +153,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$12,800 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6399.8,
+      "store": "palacio",
+      "name": "Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD Ryzen 5 7535HS, RAM 16 GB, 512 GB SSD, Gris",
+      "url": "https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html",
+      "price": 12799.6,
+      "list_price": 31999.0,
+      "ean": null,
+      "model": "7535HS",
+      "brand": "MSI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43836168",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -279,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1347.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Pixie Titán",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html",
-      "price": 3143.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45555104",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -342,27 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$1,349 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 524.79,
-      "store": "palacio",
-      "name": "Smartwatch Fit 3 Unisex",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html",
-      "price": 1349.46,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123344",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$360 en palacio vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -379,27 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45003623",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2529.77,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 7149.35,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
         "outlet": false
       }
     },
@@ -510,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$74 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 24.75,
+      "store": "palacio",
+      "name": "Descalcificador para Cafeteras",
+      "url": "https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html",
+      "price": 74.25,
+      "list_price": 99.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "15513938",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -589,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366538",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Blanco Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44639312",
         "outlet": false
       }
     },
@@ -904,48 +883,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600342",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,559 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 639.8,
-      "store": "palacio",
-      "name": "Licuadora Foddi, 2 velocidades",
-      "url": "https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html",
-      "price": 2559.2,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45040659",
         "outlet": false
       }
     },

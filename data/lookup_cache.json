@@ -179,18 +179,6 @@
     "ts": "2026-08-09T05:32:04.983114+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-07T06:36:06.238431+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-07T06:36:07.931094+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
-    "ts": "2026-08-07T06:36:10.592207+00:00",
-    "items": []
-  },
   "amazon|HUAWEISMARTWATCHFIT": {
     "ts": "2026-08-07T07:54:31.086361+00:00",
     "items": []
@@ -2706,6 +2694,30 @@
   },
   "sams|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
     "ts": "2026-08-09T03:02:27.865030+00:00",
+    "items": []
+  },
+  "amazon|7535HS": {
+    "ts": "2026-08-09T07:37:56.998376+00:00",
+    "items": []
+  },
+  "walmart|7535HS": {
+    "ts": "2026-08-09T07:37:58.517606+00:00",
+    "items": []
+  },
+  "sams|7535HS": {
+    "ts": "2026-08-09T07:38:01.257827+00:00",
+    "items": []
+  },
+  "amazon|APPLETELCELIPHONE128": {
+    "ts": "2026-08-09T07:38:03.125171+00:00",
+    "items": []
+  },
+  "walmart|APPLETELCELIPHONE128": {
+    "ts": "2026-08-09T07:38:04.920661+00:00",
+    "items": []
+  },
+  "sams|APPLETELCELIPHONE128": {
+    "ts": "2026-08-09T07:38:06.458100+00:00",
     "items": []
   }
 }

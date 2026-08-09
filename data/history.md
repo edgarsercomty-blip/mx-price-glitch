@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (621)
+# Historial de ofertas encontradas (623)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-09 07:38 | -23% | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | $10,009 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-08-09 07:38 | -33% | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, …](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | $12,800 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 14:09 | -50% | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-08-08 10:27 | -20% | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L…](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | $33,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-08 09:20 | -33% | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | $360 en palacio vs mercado -> -33% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-07 02:10 | -29% | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $912 | $912 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-07-07 02:10 | -32% | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $7,499 | $7,499 en liverpool vs mercado -> -32% bajo la competencia |
 | 2026-07-07 02:10 | -41% | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,916 | $24,916 en liverpool vs mercado -> -41% bajo la competencia |
-| 2026-07-07 02:10 | -45% | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | $3,499 en liverpool vs mercado -> -45% bajo la competencia |
-| 2026-07-06 23:51 | -21% | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,880 | $11,880 en liverpool vs mercado -> -21% bajo la competencia |
