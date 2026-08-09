@@ -485,7 +485,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $4,100 | -37% |
 | 🟢 disponible | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | -30% |
-| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $1,999 | -43% |
+| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -43% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $12,540 | -32% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $8,252 | -20% |
@@ -522,7 +522,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | -43% |
 | 🟢 disponible | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | -53% |
 | 🟢 disponible | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | -40% |
-| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | -40% |
+| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | -33% |
 | 🟢 disponible | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,599 | -35% |
 | 🟢 disponible | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | -32% |
 | 🟢 disponible | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | -31% |
@@ -534,7 +534,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Cafetera Pixie Aeroccino 3 Verde](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-pixie-aeroccino-3-verde-44032598.html) | $4,118 | -25% |
 | 🟢 disponible | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | -24% |
 | 🟢 disponible | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | -24% |
-| 🟢 disponible | palacio | [Laptop Vivobook 14 Snapdragon X X1 26 100, RAM 16 GB, 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-14-snapdragon-x-x1-26-100-ram-16-gb-512-gb-44729927.html) | $10,999 | -24% |
+| 🟢 disponible | palacio | [Laptop Vivobook 14 Snapdragon X X1 26 100, RAM 16 GB, 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-14-snapdragon-x-x1-26-100-ram-16-gb-512-gb-44729927.html) | $10,999 | -21% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html) | $19,313 | -21% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | -23% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | -23% |
@@ -549,6 +549,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | -26% |
 | 🟢 disponible | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | -25% |
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
-| 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -33% |
+| 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -27% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
 | 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |

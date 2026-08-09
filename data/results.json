@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 00:59 UTC",
-  "products_scanned": 1616,
+  "generated_at": "2026-08-09 02:59 UTC",
+  "products_scanned": 1588,
   "threshold_pct": 20.0,
-  "count": 48,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
         "outlet": false
       }
     },
@@ -90,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1796.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.7,
       "detail": "$8,899 en liverpool vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
@@ -153,43 +153,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 179.8,
+      "savings": 1347.0,
       "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
       "ean": null,
       "model": null,
-      "brand": "Apple",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45003623",
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -300,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$723 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "liverpool",
-      "name": "Funda Esr Para Airpods Pro",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183",
-      "price": 723.0,
-      "list_price": 723.0,
-      "ean": null,
-      "model": null,
-      "brand": "ESR",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1112842183",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -379,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44123344",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 134.85,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
         "outlet": false
       }
     },
@@ -510,27 +489,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,118 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1372.5,
-      "store": "palacio",
-      "name": "Combo Cafetera Pixie Aeroccino 3 Verde",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-pixie-aeroccino-3-verde-44032598.html",
-      "price": 4117.5,
-      "list_price": 5490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44032598",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -615,22 +573,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$10,999 en palacio vs mercado -> -24% bajo la competencia",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 3399.83,
+      "savings": 2989.77,
       "store": "palacio",
-      "name": "Laptop Vivobook 14 Snapdragon X X1 26 100, RAM 16 GB, 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-14-snapdragon-x-x1-26-100-ram-16-gb-512-gb-44729927.html",
-      "price": 10999.45,
-      "list_price": 19999.0,
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
       "ean": null,
       "model": null,
-      "brand": "Asus",
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44729927",
+        "id": "42077608",
         "outlet": false
       }
     },
@@ -652,27 +610,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42824648",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42077608",
         "outlet": false
       }
     },
@@ -720,27 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$30,249 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8249.85,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html",
-      "price": 30249.45,
-      "list_price": 54999.0,
-      "ean": null,
-      "model": "75MRGB86BSA",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505426",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -778,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$10,999 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2899.86,
+      "store": "palacio",
+      "name": "Laptop Vivobook 14 Snapdragon X X1 26 100, RAM 16 GB, 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-14-snapdragon-x-x1-26-100-ram-16-gb-512-gb-44729927.html",
+      "price": 10999.45,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729927",
         "outlet": false
       }
     },
@@ -888,27 +825,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,259 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 314.85,
-      "store": "liverpool",
-      "name": "Licuadora Oster Blstpegcrt 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-5-velocidades/1133854092",
-      "price": 1259.4,
-      "list_price": 2099.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854092",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -930,27 +846,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -967,6 +862,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600342",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5999.8,
+      "store": "palacio",
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45260351",
         "outlet": false
       }
     },
