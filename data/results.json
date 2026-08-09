@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 21:49 UTC",
-  "products_scanned": 1620,
+  "generated_at": "2026-08-09 22:20 UTC",
+  "products_scanned": 1623,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 48,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -967,6 +967,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600342",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5999.8,
+      "store": "palacio",
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45260351",
         "outlet": false
       }
     },
