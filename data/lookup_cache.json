@@ -2755,5 +2755,816 @@
   "sams|HPLAPTOPHYPERXGAMINGNVIDIA": {
     "ts": "2026-08-09T14:55:08.340377+00:00",
     "items": []
+  },
+  "liverpool|QNED86": {
+    "ts": "2026-08-09T15:24:11.968384+00:00",
+    "items": []
+  },
+  "amazon|QNED86": {
+    "ts": "2026-08-09T15:24:13.684079+00:00",
+    "items": []
+  },
+  "walmart|QNED86": {
+    "ts": "2026-08-09T15:24:15.530657+00:00",
+    "items": []
+  },
+  "sams|QNED86": {
+    "ts": "2026-08-09T15:24:18.316750+00:00",
+    "items": []
+  },
+  "mercadolibre|QNED86": {
+    "ts": "2026-08-09T15:24:19.646215+00:00",
+    "items": []
+  },
+  "palacio|WM20EWNTS6P": {
+    "ts": "2026-08-09T15:24:22.699661+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 12979.41,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
+        "price": 16607.52,
+        "model": "WM22WV26SR"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 18 p3 WT1818A",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
+        "price": 11626.74,
+        "model": "WT1818A"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora 25 Kg carga frontal WM25VFXS",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html",
+        "price": 25175.0,
+        "model": "WM25VFXS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40AWP Plateado",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40awp-plateado-41858782.html",
+        "price": 15103.36,
+        "model": "VT40AWP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
+        "price": 12284.37,
+        "model": "RMS510IVMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Cacerola Fusiontec Essential, 16 cm",
+        "url": "https://www.elpalaciodehierro.com/wmf-cacerola-fusiontec-essential-16-cm-43463548.html",
+        "price": 1845.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 VT40BJM Menta",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-14-p3-vt40bjm-menta-43758769.html",
+        "price": 13199.4,
+        "model": "VT40BJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador top mount 15p3 RMS400IVMRP0 negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-15p3-rms400ivmrp0-negro-44964259.html",
+        "price": 11894.35,
+        "model": "RMS400IVMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Sarten Para Crepas 27Cm",
+        "url": "https://www.elpalaciodehierro.com/wmf-sarten-para-crepas-27cm-42635691.html",
+        "price": 2720.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|WM20EWNTS6P": {
+    "ts": "2026-08-09T15:24:23.795544+00:00",
+    "items": []
+  },
+  "walmart|WM20EWNTS6P": {
+    "ts": "2026-08-09T15:24:25.631861+00:00",
+    "items": []
+  },
+  "sams|WM20EWNTS6P": {
+    "ts": "2026-08-09T15:24:27.885696+00:00",
+    "items": []
+  },
+  "mercadolibre|WM20EWNTS6P": {
+    "ts": "2026-08-09T15:24:30.737036+00:00",
+    "items": []
+  },
+  "palacio|86UA8050PSA": {
+    "ts": "2026-08-09T15:24:35.260719+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
+        "price": 6272.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil Inverter LP1419IVSM 14,000 BTU’s, 1 Tonelada 115V Sólo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-inverter-lp1419ivsm-14000-btu%E2%80%99s-1-tonelada-115v-solo-frio-42341583.html",
+        "price": 11339.46,
+        "model": "LP1419IVSM"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Ac Minisplit Inv LG Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-ac-minisplit-inv-lg-solo-frio-44456609.html",
+        "price": 17109.41,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina inalámbrica Wi-Fi Echo Show 8 blanco",
+        "url": "https://www.elpalaciodehierro.com/amazon-bocina-inalambrica-wi-fi-echo-show-8-blanco-45223449.html",
+        "price": 3509.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador Horizontal WCF2107Q, 7 p3 Dual Cooling, Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2107q-7-p3-dual-cooling-blanco-42037904.html",
+        "price": 8568.0,
+        "model": "WCF2107Q"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8351.28,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM182C9 18,000 BTU-h 1.5 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm182c9-18000-btu-h-1.5-toneladas-220v-solo-frio-40785899.html",
+        "price": 16319.36,
+        "model": "VM182C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
+        "price": 11799.41,
+        "model": "VM122C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
+        "price": 10529.46,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11799.41,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina bafle Inalámbrica Sound tower ST50F 80 W",
+        "url": "https://www.elpalaciodehierro.com/samsung-bocina-bafle-inalambrica-sound-tower-st50f-80-w-45479305.html",
+        "price": 10798.83,
+        "model": "ST50F"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122H9 12,000 BTU-h 1 Tonelada 220V Frío y Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122h9-12000-btu-h-1-tonelada%C2%A0220v-frio-y-calor-40785871.html",
+        "price": 12979.41,
+        "model": "VM122H9"
+      }
+    ]
+  },
+  "amazon|86UA8050PSA": {
+    "ts": "2026-08-09T15:24:36.340610+00:00",
+    "items": []
+  },
+  "walmart|86UA8050PSA": {
+    "ts": "2026-08-09T15:24:37.946614+00:00",
+    "items": []
+  },
+  "sams|86UA8050PSA": {
+    "ts": "2026-08-09T15:24:39.296269+00:00",
+    "items": []
+  },
+  "mercadolibre|86UA8050PSA": {
+    "ts": "2026-08-09T15:24:40.367542+00:00",
+    "items": []
+  },
+  "liverpool|65QNED9MASA": {
+    "ts": "2026-08-09T15:24:44.335302+00:00",
+    "items": []
+  },
+  "amazon|65QNED9MASA": {
+    "ts": "2026-08-09T15:24:45.775574+00:00",
+    "items": []
+  },
+  "walmart|65QNED9MASA": {
+    "ts": "2026-08-09T15:24:47.841629+00:00",
+    "items": []
+  },
+  "sams|65QNED9MASA": {
+    "ts": "2026-08-09T15:24:49.144563+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED9MASA": {
+    "ts": "2026-08-09T15:24:50.523760+00:00",
+    "items": []
+  },
+  "palacio|BL610": {
+    "ts": "2026-08-09T15:24:50.701638+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Bluetooth Xtreme 5 90W",
+        "url": "https://www.elpalaciodehierro.com/jbl-bocina-inalambrica-bluetooth-xtreme-5-90w-45592320.html",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Celular Oppo A6x, 128 GB, RAM 4 GB, Gris, Desbloqueado",
+        "url": "https://www.elpalaciodehierro.com/telcel-celular-oppo-a6x-128-gb-ram-4-gb-gris-desbloqueado-45251314.html",
+        "price": 3144.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batería portátil VIONTA L10, 10,000 mAh",
+        "url": "https://www.elpalaciodehierro.com/adam-elements-bateria-portatil-vionta-l10-10000-mah-45232327.html",
+        "price": 1124.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bote Reciclaje Pedal Plas Verde 40L",
+        "url": "https://www.elpalaciodehierro.com/brabantia-bote-reciclaje-pedal-plas-verde-40l-43360347.html",
+        "price": 1953.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bote de Basura Newi en Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/brabantia-bote-de-basura-newi-en-acero-inoxidable-42813660.html",
+        "price": 1399.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Brazalete abierto Chevalier con cristal Hombre",
+        "url": "https://www.elpalaciodehierro.com/mm6-maison-margiela-brazalete-abierto-chevalier-con-cristal-hombre-45153031.html",
+        "price": 8400.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Inalámbrica Bluetooth Xtreme 5 90W",
+        "url": "https://www.elpalaciodehierro.com/jbl-bocina-inalambrica-bluetooth-xtreme-5-90w-45592321.html",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "TENIS RADAR GRADIENT LINES",
+        "url": "https://www.elpalaciodehierro.com/balenciaga-tenis-radar-gradient-lines-45500729.html",
+        "price": 21400.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bote de Basura Newi en Acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/brabantia-bote-de-basura-newi-en-acero-inoxidable-42813659.html",
+        "price": 1259.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batería portátil VIONTA L5, 5,000 mAh, Azul",
+        "url": "https://www.elpalaciodehierro.com/adam-elements-bateria-portatil-vionta-l5-5000-mah-azul-45232328.html",
+        "price": 974.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Es a ti a quien buscas",
+        "url": "https://www.elpalaciodehierro.com/gandhi-es-a-ti-a-quien-buscas-45268056.html",
+        "price": 289.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Libreta Impressionism con 176 hojas",
+        "url": "https://www.elpalaciodehierro.com/gandhi-libreta-impressionism-con-176-hojas-45268021.html",
+        "price": 899.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|BL610": {
+    "ts": "2026-08-09T15:24:52.129124+00:00",
+    "items": []
+  },
+  "walmart|BL610": {
+    "ts": "2026-08-09T15:24:54.131523+00:00",
+    "items": []
+  },
+  "sams|BL610": {
+    "ts": "2026-08-09T15:24:55.314855+00:00",
+    "items": []
+  },
+  "mercadolibre|BL610": {
+    "ts": "2026-08-09T15:24:56.594845+00:00",
+    "items": []
+  },
+  "palacio|CO750B": {
+    "ts": "2026-08-09T15:24:56.820208+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Secadora de Cabello Pro Style HC50",
+        "url": "https://www.elpalaciodehierro.com/beurer-secadora-de-cabello-pro-style-hc50-44941156.html",
+        "price": 746.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
+        "price": 8998.92,
+        "model": "UN55U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M1605, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m1605-120-v-43354453.html",
+        "price": 3779.3,
+        "model": "M1605"
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina para hacer pan The Custom Loaf",
+        "url": "https://www.elpalaciodehierro.com/breville-maquina-para-hacer-pan-the-custom-loaf-45010180.html",
+        "price": 8999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Coser C5655 75 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-c5655-75-w-45037216.html",
+        "price": 7321.3,
+        "model": "C5655"
+      },
+      {
+        "store": "palacio",
+        "name": "Parrilla a Gas Lp / Gas Natural GBC75VG 5 Quemadores",
+        "url": "https://www.elpalaciodehierro.com/teka-parrilla-a-gas-lp-%2F-gas-natural-gbc75vg-5-quemadores-45498559.html",
+        "price": 14395.41,
+        "model": "GBC75VG"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno HLC 844 C Eléctrico negro",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-hlc-844-c-electrico-negro-39009944.html",
+        "price": 17051.58,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Máquina de Cocer Overlock Heavy Duty 110 W",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-cocer-overlock-heavy-duty-110-w-45081393.html",
+        "price": 8049.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Eléctrico Combi",
+        "url": "https://www.elpalaciodehierro.com/teka-horno-electrico-combi-45498530.html",
+        "price": 25535.44,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Remadora RW700",
+        "url": "https://www.elpalaciodehierro.com/nordictrack-remadora-rw700-45372710.html",
+        "price": 34995.0,
+        "model": "RW700"
+      },
+      {
+        "store": "palacio",
+        "name": "Maquina de coser M3505, 120 V",
+        "url": "https://www.elpalaciodehierro.com/singer-maquina-de-coser-m3505-120-v-41403775.html",
+        "price": 5529.3,
+        "model": "M3505"
+      },
+      {
+        "store": "palacio",
+        "name": "Teatro en Casa TCL Q75H 5.1.2Canales",
+        "url": "https://www.elpalaciodehierro.com/tcl-teatro-en-casa-tcl-q75h-5.1.2canales-44545384.html",
+        "price": 11199.3,
+        "model": "2Canales"
+      }
+    ]
+  },
+  "amazon|CO750B": {
+    "ts": "2026-08-09T15:24:57.884498+00:00",
+    "items": []
+  },
+  "walmart|CO750B": {
+    "ts": "2026-08-09T15:24:59.366819+00:00",
+    "items": []
+  },
+  "sams|CO750B": {
+    "ts": "2026-08-09T15:25:00.691214+00:00",
+    "items": []
+  },
+  "mercadolibre|CO750B": {
+    "ts": "2026-08-09T15:25:01.934521+00:00",
+    "items": []
+  },
+  "palacio|WRFF3536SZ": {
+    "ts": "2026-08-09T15:25:02.061728+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 29 p3 Family Hub RF29DB9950QDEM Acero",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-29-p3-family-hub-rf29db9950qdem-acero-43896314.html",
+        "price": 82087.38,
+        "model": "RF29DB9950QDEM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 22 p3 RF22A4110S9",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-22-p3-rf22a4110s9-41998761.html",
+        "price": 17522.41,
+        "model": "RF22A4110S9"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door Xpert Inverter 30 p3",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html",
+        "price": 25805.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 31 p3 Family Hub RF32CG5911B1EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-family-hub-rf32cg5911b1em-43388829.html",
+        "price": 46682.43,
+        "model": "RF32CG5911B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door Xpert Inverter 31p3",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html",
+        "price": 23597.46,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 18 p3 WT1818A",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
+        "price": 11626.74,
+        "model": "WT1818A"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25.8 p",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-french-door-25.8-p-41135752.html",
+        "price": 122837.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 23 p3 Family Hub RF23DB9950QDEM Acero",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-23-p3-family-hub-rf23db9950qdem-acero-43896313.html",
+        "price": 67709.39,
+        "model": "RF23DB9950QDEM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Professional Single-Door 19 p3, Gris",
+        "url": "https://www.elpalaciodehierro.com/frigidaire-refrigerador-professional-single-door-19-p3-gris-41973798.html",
+        "price": 74249.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Sidekick 18 pies",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-sidekick-18-pies-42146835.html",
+        "price": 50357.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador dúplex 27 p3 Side by Side VS28LNP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-duplex-27-p3-side-by-side-vs28lnp-44968791.html",
+        "price": 27341.38,
+        "model": "VS28LNP"
+      }
+    ]
+  },
+  "amazon|WRFF3536SZ": {
+    "ts": "2026-08-09T15:25:03.380497+00:00",
+    "items": []
+  },
+  "walmart|WRFF3536SZ": {
+    "ts": "2026-08-09T15:25:05.207201+00:00",
+    "items": []
+  },
+  "sams|WRFF3536SZ": {
+    "ts": "2026-08-09T15:25:07.128730+00:00",
+    "items": []
+  },
+  "mercadolibre|WRFF3536SZ": {
+    "ts": "2026-08-09T15:25:08.443157+00:00",
+    "items": []
+  },
+  "palacio|MAS12H2EZI": {
+    "ts": "2026-08-09T15:25:08.639801+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática, 21 Kg, Carga Superior LMA71214VBAB0",
+        "url": "https://www.elpalaciodehierro.com/mabe-lavadora-automatica-21-kg-carga-superior-lma71214vbab0-44621890.html",
+        "price": 8399.6,
+        "model": "LMA71214VBAB0"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
+        "price": 8945.37,
+        "model": "RMA250FYMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Campana de pared CMPUV761SSX0 30\"",
+        "url": "https://www.elpalaciodehierro.com/mabe-campana-de-pared-cmpuv761ssx0-30-45372626.html",
+        "price": 2999.0,
+        "model": "CMPUV761SSX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html",
+        "price": 15499.38,
+        "model": "RMS510ICMRX0"
+      },
+      {
+        "store": "palacio",
+        "name": "Masajeador de mano con percusión portátil con calor e intensidad variable HHP-285HJ-WT",
+        "url": "https://www.elpalaciodehierro.com/homedics-masajeador-de-mano-con-percusion-portatil-con-calor-e-intensidad-variable-hhp-285hj-wt-45357676.html",
+        "price": 999.2,
+        "model": "HHP-285HJ-WT"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit MMT12CABWCAM3, 12000 BTUs, 1 tonelada, 115 V Frio",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt12cabwcam3-12000-btus-1-tonelada-115-v-frio-44662196.html",
+        "price": 7749.38,
+        "model": "MMT12CABWCAM3"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-44662173.html",
+        "price": 9034.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 14 p3 RME360FZMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rme360fzmrp0-negro-41637772.html",
+        "price": 13129.35,
+        "model": "RME360FZMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Vestido de fiesta largo fantasía con lentejuelas Mujer",
+        "url": "https://www.elpalaciodehierro.com/massima-vestido-de-fiesta-largo-fantasia-con-lentejuelas-mujer-45124101.html",
+        "price": 2905.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalon Mujer",
+        "url": "https://www.elpalaciodehierro.com/max-mara-pantalon-mujer-44556169.html",
+        "price": 5245.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado minisplit MMT24CDBWCAM3 24,000 BTU's 2 toneladas frío",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt24cdbwcam3-24000-btus-2-toneladas-frio-44964274.html",
+        "price": 16490.31,
+        "model": "MMT24CDBWCAM3"
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora a Gas LP, 24 Kg, Carga Frontal, SMG17R8MSDAB0, Diamond Gray",
+        "url": "https://www.elpalaciodehierro.com/mabe-secadora-a-gas-lp-24-kg-carga-frontal-smg17r8msdab0-diamond-gray-37509193.html",
+        "price": 16444.35,
+        "model": "SMG17R8MSDAB0"
+      }
+    ]
+  },
+  "amazon|MAS12H2EZI": {
+    "ts": "2026-08-09T15:25:10.266625+00:00",
+    "items": []
+  },
+  "walmart|MAS12H2EZI": {
+    "ts": "2026-08-09T15:25:11.660564+00:00",
+    "items": []
+  },
+  "sams|MAS12H2EZI": {
+    "ts": "2026-08-09T15:25:13.393982+00:00",
+    "items": []
+  },
+  "mercadolibre|MAS12H2EZI": {
+    "ts": "2026-08-09T15:25:16.077267+00:00",
+    "items": []
+  },
+  "palacio|HS12HFW13MI": {
+    "ts": "2026-08-09T15:25:16.256822+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 19p3 RT53DG6758S9EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html",
+        "price": 13907.39,
+        "model": "RT53DG6758S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil Inverter LP1419IVSM 14,000 BTU’s, 1 Tonelada 115V Sólo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-inverter-lp1419ivsm-14000-btu%E2%80%99s-1-tonelada-115v-solo-frio-42341583.html",
+        "price": 11339.46,
+        "model": "LP1419IVSM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
+        "price": 13205.38,
+        "model": "RT42DG6734B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit MMT12CABWCAM3, 12000 BTUs, 1 tonelada, 115 V Frio",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt12cabwcam3-12000-btus-1-tonelada-115-v-frio-44662196.html",
+        "price": 7749.38,
+        "model": "MMT12CABWCAM3"
+      },
+      {
+        "store": "palacio",
+        "name": "Router Wi-Fi Mesh X3 Pro, 12 V",
+        "url": "https://www.elpalaciodehierro.com/huawei-router-wi-fi-mesh-x3-pro-12-v-45281475.html",
+        "price": 2999.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8351.28,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Congelador Horizontal WCF2111Q, 11 p3 Dual Cooling, Blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-congelador-horizontal-wcf2111q-11-p3-dual-cooling-blanco-42037957.html",
+        "price": 11967.32,
+        "model": "WCF2111Q"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio---calor-44531365.html",
+        "price": 12099.45,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Purificador de aire HP11",
+        "url": "https://www.elpalaciodehierro.com/dyson-purificador-de-aire-hp11-45382013.html",
+        "price": 11899.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado portátil LP1225WC 12,000 BTUs, 1 tonelada, 115 V Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lp1225wc-12000-btus-1-tonelada-115-v-frio-44737810.html",
+        "price": 9989.46,
+        "model": "LP1225WC"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor 34 pulgadas Curvo WQHD",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-34-pulgadas-curvo-wqhd-45088955.html",
+        "price": 8999.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil 14,000 BTUs, 1.1 Toneladas 115 V Frío - Calor",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-14000-btus-1.1-toneladas-115-v-frio---calor-44548090.html",
+        "price": 10529.46,
+        "model": null
+      }
+    ]
+  },
+  "amazon|HS12HFW13MI": {
+    "ts": "2026-08-09T15:25:17.774770+00:00",
+    "items": []
+  },
+  "walmart|HS12HFW13MI": {
+    "ts": "2026-08-09T15:25:19.909655+00:00",
+    "items": []
+  },
+  "sams|HS12HFW13MI": {
+    "ts": "2026-08-09T15:25:21.428456+00:00",
+    "items": []
+  },
+  "mercadolibre|HS12HFW13MI": {
+    "ts": "2026-08-09T15:25:22.539560+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-09T15:25:23.713603+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-09T15:25:25.050810+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKIAPPLEWATCH": {
+    "ts": "2026-08-09T15:25:27.146589+00:00",
+    "items": []
+  },
+  "amazon|HPHYPERXNVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-09T15:25:28.765120+00:00",
+    "items": []
+  },
+  "walmart|HPHYPERXNVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-09T15:25:30.257760+00:00",
+    "items": []
+  },
+  "sams|HPHYPERXNVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-09T15:25:31.653948+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-08-09T15:25:32.735993+00:00",
+    "items": []
+  },
+  "walmart|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-08-09T15:25:34.095845+00:00",
+    "items": []
+  },
+  "sams|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-08-09T15:25:35.410264+00:00",
+    "items": []
   }
 }
