@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09 22:20 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-09 22:54 UTC",
+  "products_scanned": 1618,
   "threshold_pct": 20.0,
-  "count": 48,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -128,27 +128,6 @@
       "extra": {
         "id": "45522776",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
       }
     },
     {
@@ -695,27 +674,6 @@
       "extra": {
         "id": "44472014",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3811.34,
-      "store": "liverpool",
-      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
-      "price": 13859.4,
-      "list_price": 23099.0,
-      "ean": null,
-      "model": "Tfr18Si",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1166524551",
-        "marketplace": null
       }
     },
     {
