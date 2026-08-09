@@ -1,7 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-09 13:34 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-09 14:16 UTC
 
-- Hallazgos: **1**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -23% | $3,450 | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
