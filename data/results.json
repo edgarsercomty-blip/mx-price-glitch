@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 14:02 UTC",
-  "products_scanned": 1687,
+  "generated_at": "2026-08-10 15:19 UTC",
+  "products_scanned": 1622,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -510,27 +510,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 24.0,
-      "detail": "$13,527 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4271.76,
-      "store": "palacio",
-      "name": "Laptop, Vivobook 16, 16\", AMD Ryzen 7, RAM 16 GB, SSD 512 GB, Plata",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html",
-      "price": 13527.24,
-      "list_price": 17799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43740346",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -884,27 +863,6 @@
       "extra": {
         "id": "45361102",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,399 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 600.0,
-      "store": "liverpool",
-      "name": "Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2Sgdw",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386",
-      "price": 2399.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": "Mlts101M2Sgdw",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1127610386",
-        "marketplace": null
       }
     },
     {
