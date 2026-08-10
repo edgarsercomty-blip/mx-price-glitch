@@ -288,7 +288,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | -25% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | -23% |
-| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $3,890 | -26% |
+| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $3,999 | -26% |
 | 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | -23% |
 | 🟢 disponible | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $175 | -26% |
 | 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | -31% |
@@ -522,7 +522,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | -43% |
 | 🟢 disponible | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | -53% |
 | 🟢 disponible | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | -40% |
-| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | -33% |
+| 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | -25% |
 | 🟢 disponible | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,599 | -35% |
 | 🟢 disponible | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | -32% |
 | 🟢 disponible | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | -31% |

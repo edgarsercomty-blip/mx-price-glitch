@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 00:02 UTC",
-  "products_scanned": 1575,
+  "generated_at": "2026-08-10 02:36 UTC",
+  "products_scanned": 1590,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,6 +48,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.9,
+      "detail": "$399 en liverpool vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 300.0,
+      "store": "liverpool",
+      "name": "Playera Tipo Polo Head Para Mujer",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
+      "price": 399.0,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": "HEAD",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9931044794",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$16,199 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -65,27 +86,6 @@
       "extra": {
         "id": "43796853",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.7,
-      "detail": "$8,899 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4800.2,
-      "store": "liverpool",
-      "name": "Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd Radeon 8 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253",
-      "price": 8899.0,
-      "list_price": 20109.0,
-      "ean": null,
-      "model": "Fc0240La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "999675792253",
-        "marketplace": null
       }
     },
     {
@@ -111,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$359 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 180.15,
-      "store": "liverpool",
-      "name": "Espejo Retrovisor Tv Ofertas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660",
-      "price": 359.25,
-      "list_price": 479.0,
-      "ean": null,
-      "model": null,
-      "brand": "TV OFERTAS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152285660",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -148,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45000830",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1347.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
         "outlet": false
       }
     },
@@ -468,6 +426,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -678,22 +657,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$13,859 en liverpool vs mercado -> -22% bajo la competencia",
+      "discount_pct": 47.5,
+      "detail": "$14,122 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 3811.34,
+      "savings": 3829.34,
       "store": "liverpool",
-      "name": "Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No Frost Tfr18Si",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551",
-      "price": 13859.4,
-      "list_price": 23099.0,
+      "name": "Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost Rmb400Ibmrp0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672",
+      "price": 14121.98,
+      "list_price": 26899.0,
       "ean": null,
-      "model": "Tfr18Si",
-      "brand": "TCL",
+      "model": "Rmb400Ibmrp0",
+      "brand": "MABE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1166524551",
+        "productId": "1162487672",
         "marketplace": null
       }
     },
@@ -757,27 +736,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45363417",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$10,999 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2899.86,
-      "store": "palacio",
-      "name": "Laptop Vivobook 14 Snapdragon X X1 26 100, RAM 16 GB, 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-14-snapdragon-x-x1-26-100-ram-16-gb-512-gb-44729927.html",
-      "price": 10999.45,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729927",
         "outlet": false
       }
     },
@@ -884,27 +842,6 @@
       "extra": {
         "id": "45361102",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,094 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 523.5,
-      "store": "liverpool",
-      "name": "Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878",
-      "price": 2094.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "NESPRESSO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1137498878",
-        "marketplace": null
       }
     },
     {

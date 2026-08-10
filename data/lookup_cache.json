@@ -431,30 +431,6 @@
     "ts": "2026-08-10T00:02:09.195935+00:00",
     "items": []
   },
-  "amazon|HPNVIDIALAPTOPHYPERXGAMING": {
-    "ts": "2026-08-08T00:56:21.512888+00:00",
-    "items": []
-  },
-  "walmart|HPNVIDIALAPTOPHYPERXGAMING": {
-    "ts": "2026-08-08T00:56:23.327905+00:00",
-    "items": []
-  },
-  "sams|HPNVIDIALAPTOPHYPERXGAMING": {
-    "ts": "2026-08-08T00:56:26.107112+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-08T00:56:28.169899+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-08T00:56:30.844301+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-08T00:56:32.999372+00:00",
-    "items": []
-  },
   "palacio|UN98DU9000FXZX": {
     "ts": "2026-08-08T02:52:34.213745+00:00",
     "items": [
@@ -3047,6 +3023,42 @@
   },
   "sams|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
     "ts": "2026-08-10T00:01:58.398685+00:00",
+    "items": []
+  },
+  "amazon|RMB400IBMRP0": {
+    "ts": "2026-08-10T02:36:04.775628+00:00",
+    "items": []
+  },
+  "walmart|RMB400IBMRP0": {
+    "ts": "2026-08-10T02:36:07.765835+00:00",
+    "items": []
+  },
+  "sams|RMB400IBMRP0": {
+    "ts": "2026-08-10T02:36:10.955660+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-10T02:36:12.214539+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-10T02:36:13.607620+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEKHAKICARGOWATCH": {
+    "ts": "2026-08-10T02:36:15.144786+00:00",
+    "items": []
+  },
+  "amazon|HPHYPERXLAPTOPNVIDIAGAMING": {
+    "ts": "2026-08-10T02:36:16.322208+00:00",
+    "items": []
+  },
+  "walmart|HPHYPERXLAPTOPNVIDIAGAMING": {
+    "ts": "2026-08-10T02:36:18.196914+00:00",
+    "items": []
+  },
+  "sams|HPHYPERXLAPTOPNVIDIAGAMING": {
+    "ts": "2026-08-10T02:36:20.207891+00:00",
     "items": []
   }
 }
