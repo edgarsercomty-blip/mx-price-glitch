@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10 18:05 UTC",
-  "products_scanned": 1598,
+  "generated_at": "2026-08-10 19:18 UTC",
+  "products_scanned": 1607,
   "threshold_pct": 20.0,
   "count": 45,
   "findings": [
@@ -233,6 +233,27 @@
       "extra": {
         "id": "45555104",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$19,056 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7939.8,
+      "store": "liverpool",
+      "name": "Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De 6 Quemadores",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701",
+      "price": 19055.52,
+      "list_price": 23819.4,
+      "ean": null,
+      "model": "Emh7614Datss0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1125228701",
+        "marketplace": null
       }
     },
     {
@@ -527,27 +548,6 @@
       "extra": {
         "id": "45366538",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.1,
-      "detail": "$5,356 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1642.7,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
-      "price": 5356.5,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "Un43M70Hafxzx",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1195509171",
-        "marketplace": null
       }
     },
     {
