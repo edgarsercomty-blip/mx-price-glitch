@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (634)
+# Historial de ofertas encontradas (637)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-10 14:02 | -20% | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | $7,919 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-10 14:02 | -24% | palacio | [Laptop, Vivobook 16, 16", AMD Ryzen 7, RAM 16 GB, SSD 5…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html) | $13,527 | $13,527 en palacio vs mercado -> -24% bajo la competencia |
+| 2026-08-10 14:02 | -36% | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,392 | $13,392 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-08-10 12:27 | -24% | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Haf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $5,356 | $5,356 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-10 11:28 | -20% | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,399 | $2,399 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-10 10:10 | -20% | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | $103,645 en palacio vs mercado -> -20% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-08 08:33 | -33% | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | $1,745 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-07-08 01:06 | -28% | liverpool | [Secadora De Cabello Cv Directo Magic Styler S0694 00](https://www.liverpool.com.mx/tienda/pdp/secadora-de-cabello-cv-directo-magic-styler-s0694-00/1164922185) | $1,999 | $1,999 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-07-07 15:34 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calo…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,110 | $10,110 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-07 14:39 | -24% | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | $28,727 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-07-07 10:04 | -24% | liverpool | [Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941) | $23,058 | $23,058 en liverpool vs mercado -> -24% bajo la competencia |
