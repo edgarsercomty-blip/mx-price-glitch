@@ -407,76 +407,28 @@
     "ts": "2026-08-09T23:22:15.534520+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-07T23:49:14.381702+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-07T23:49:16.160613+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLECARGOKHAKIWATCH": {
-    "ts": "2026-08-07T23:49:17.762916+00:00",
-    "items": []
-  },
-  "amazon|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-07T23:49:18.955640+00:00",
-    "items": []
-  },
-  "walmart|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-07T23:49:20.215903+00:00",
-    "items": []
-  },
-  "sams|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-07T23:49:21.603625+00:00",
-    "items": []
-  },
-  "amazon|ESRAIRPODSFUNDAESR": {
-    "ts": "2026-08-07T23:49:23.117699+00:00",
-    "items": []
-  },
-  "walmart|ESRAIRPODSFUNDAESR": {
-    "ts": "2026-08-07T23:49:24.397938+00:00",
-    "items": []
-  },
-  "sams|ESRAIRPODSFUNDAESR": {
-    "ts": "2026-08-07T23:49:25.903202+00:00",
-    "items": []
-  },
   "amazon|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-07T23:49:27.168965+00:00",
+    "ts": "2026-08-10T00:02:00.059545+00:00",
     "items": []
   },
   "walmart|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-07T23:49:28.876540+00:00",
+    "ts": "2026-08-10T00:02:01.778459+00:00",
     "items": []
   },
   "sams|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-07T23:49:30.329436+00:00",
-    "items": []
-  },
-  "amazon|HPLAPTOPNVIDIAHYPERXGAMING": {
-    "ts": "2026-08-07T23:49:31.463500+00:00",
-    "items": []
-  },
-  "walmart|HPLAPTOPNVIDIAHYPERXGAMING": {
-    "ts": "2026-08-07T23:49:32.745311+00:00",
-    "items": []
-  },
-  "sams|HPLAPTOPNVIDIAHYPERXGAMING": {
-    "ts": "2026-08-07T23:49:34.036745+00:00",
+    "ts": "2026-08-10T00:02:03.271394+00:00",
     "items": []
   },
   "amazon|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-07T23:49:35.160717+00:00",
+    "ts": "2026-08-10T00:02:06.051166+00:00",
     "items": []
   },
   "walmart|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-07T23:49:36.571554+00:00",
+    "ts": "2026-08-10T00:02:07.339959+00:00",
     "items": []
   },
   "sams|ASUSLAPTOPPROARTRYZENASUS": {
-    "ts": "2026-08-07T23:49:37.979611+00:00",
+    "ts": "2026-08-10T00:02:09.195935+00:00",
     "items": []
   },
   "amazon|HPNVIDIALAPTOPHYPERXGAMING": {
@@ -3083,6 +3035,18 @@
   },
   "sams|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
     "ts": "2026-08-09T23:22:11.062079+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-10T00:01:53.702779+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-10T00:01:55.342982+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEAPPLECARGOKHAKI": {
+    "ts": "2026-08-10T00:01:58.398685+00:00",
     "items": []
   }
 }
