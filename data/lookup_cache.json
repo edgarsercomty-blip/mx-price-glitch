@@ -697,18 +697,6 @@
     "ts": "2026-08-10T15:54:57.203146+00:00",
     "items": []
   },
-  "amazon|APPLEEXTENSIBLEAPPLEKHAKIWATCH": {
-    "ts": "2026-08-08T23:01:31.112799+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEKHAKIWATCH": {
-    "ts": "2026-08-08T23:01:35.035419+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEKHAKIWATCH": {
-    "ts": "2026-08-08T23:01:36.947366+00:00",
-    "items": []
-  },
   "amazon|APPLEEXTENSIBLECARGOAPPLEKHAKI": {
     "ts": "2026-08-08T23:46:28.391178+00:00",
     "items": []
@@ -3252,6 +3240,18 @@
   },
   "sams|HPNVIDIAGAMINGHYPERXLAPTOP": {
     "ts": "2026-08-10T22:39:15.183376+00:00",
+    "items": []
+  },
+  "amazon|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-10T23:16:31.542317+00:00",
+    "items": []
+  },
+  "walmart|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-10T23:16:33.295402+00:00",
+    "items": []
+  },
+  "sams|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-10T23:16:36.906066+00:00",
     "items": []
   }
 }
