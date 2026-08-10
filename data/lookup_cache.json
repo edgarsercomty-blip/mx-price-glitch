@@ -697,18 +697,6 @@
     "ts": "2026-08-10T15:54:57.203146+00:00",
     "items": []
   },
-  "amazon|HPNVIDIALAPTOPGAMINGHYPERX": {
-    "ts": "2026-08-08T17:05:38.976872+00:00",
-    "items": []
-  },
-  "walmart|HPNVIDIALAPTOPGAMINGHYPERX": {
-    "ts": "2026-08-08T17:05:40.749917+00:00",
-    "items": []
-  },
-  "sams|HPNVIDIALAPTOPGAMINGHYPERX": {
-    "ts": "2026-08-08T17:05:42.602447+00:00",
-    "items": []
-  },
   "amazon|APPLECELULARBUMPERIPHONECANELA": {
     "ts": "2026-08-08T20:18:36.316500+00:00",
     "items": []
@@ -3228,6 +3216,18 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-08-10T15:56:23.712090+00:00",
+    "items": []
+  },
+  "amazon|HPLAPTOPHYPERXNVIDIAGAMING": {
+    "ts": "2026-08-10T17:10:25.172750+00:00",
+    "items": []
+  },
+  "walmart|HPLAPTOPHYPERXNVIDIAGAMING": {
+    "ts": "2026-08-10T17:10:30.155528+00:00",
+    "items": []
+  },
+  "sams|HPLAPTOPHYPERXNVIDIAGAMING": {
+    "ts": "2026-08-10T17:10:31.839773+00:00",
     "items": []
   }
 }
