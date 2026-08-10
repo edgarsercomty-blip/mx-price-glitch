@@ -96,15 +96,15 @@
     "items": []
   },
   "amazon|EDGE70": {
-    "ts": "2026-08-08T09:19:59.590740+00:00",
+    "ts": "2026-08-10T10:09:52.050960+00:00",
     "items": []
   },
   "walmart|EDGE70": {
-    "ts": "2026-08-08T09:20:01.695108+00:00",
+    "ts": "2026-08-10T10:09:53.679218+00:00",
     "items": []
   },
   "sams|EDGE70": {
-    "ts": "2026-08-08T09:20:04.174612+00:00",
+    "ts": "2026-08-10T10:09:55.247100+00:00",
     "items": []
   },
   "amazon|TFR18SI": {
@@ -687,42 +687,6 @@
   },
   "sams|KRUPSDESCALCIFICADORCAFETERAS": {
     "ts": "2026-08-10T08:52:58.558670+00:00",
-    "items": []
-  },
-  "amazon|APPLECELULARIPHONEBUMPERCANELA": {
-    "ts": "2026-08-08T09:19:48.678760+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARIPHONEBUMPERCANELA": {
-    "ts": "2026-08-08T09:19:50.283456+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARIPHONEBUMPERCANELA": {
-    "ts": "2026-08-08T09:19:52.137969+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEKHAKIWATCHAPPLE": {
-    "ts": "2026-08-08T09:19:54.928074+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEKHAKIWATCHAPPLE": {
-    "ts": "2026-08-08T09:19:56.493335+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEKHAKIWATCHAPPLE": {
-    "ts": "2026-08-08T09:19:58.093653+00:00",
-    "items": []
-  },
-  "amazon|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-08T09:57:24.276757+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-08T09:57:26.822734+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-08T09:57:28.590365+00:00",
     "items": []
   },
   "amazon|APPLECELULARBUMPERCANELAIPHONE": {
@@ -3047,6 +3011,54 @@
   },
   "sams|APPLENUCLEOSMACBOOKGPURAM": {
     "ts": "2026-08-10T08:52:54.289216+00:00",
+    "items": []
+  },
+  "amazon|HPNVIDIAHYPERXLAPTOPGAMING": {
+    "ts": "2026-08-10T10:09:42.559289+00:00",
+    "items": []
+  },
+  "walmart|HPNVIDIAHYPERXLAPTOPGAMING": {
+    "ts": "2026-08-10T10:09:44.358127+00:00",
+    "items": []
+  },
+  "sams|HPNVIDIAHYPERXLAPTOPGAMING": {
+    "ts": "2026-08-10T10:09:46.399255+00:00",
+    "items": []
+  },
+  "amazon|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-10T10:09:47.765721+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-10T10:09:49.105003+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-10T10:09:50.772338+00:00",
+    "items": []
+  },
+  "amazon|ZIDS240NSS": {
+    "ts": "2026-08-10T10:09:59.464409+00:00",
+    "items": []
+  },
+  "walmart|ZIDS240NSS": {
+    "ts": "2026-08-10T10:10:01.112097+00:00",
+    "items": []
+  },
+  "sams|ZIDS240NSS": {
+    "ts": "2026-08-10T10:10:02.535050+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-10T10:10:04.373364+00:00",
+    "items": []
+  },
+  "walmart|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-10T10:10:11.792624+00:00",
+    "items": []
+  },
+  "sams|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-10T10:10:19.512124+00:00",
     "items": []
   }
 }

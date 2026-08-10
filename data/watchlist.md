@@ -1,4 +1,4 @@
-# Productos en vigilancia (556)
+# Productos en vigilancia (557)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -441,7 +441,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482) | $21,428 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $6,219 | -29% |
 | 🟢 disponible | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $2,872 | -34% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $35,999 | -51% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $38,570 | -51% |
 | 🟢 disponible | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $13,392 | -38% |
 | 🟢 disponible | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,899 | -35% |
@@ -560,3 +560,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, SSD 51…](https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html) | $10,335 | -32% |
 | 🟢 disponible | palacio | [MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcleos, R…](https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html) | $35,999 | -25% |
 | 🟢 disponible | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | -20% |
+| 🟢 disponible | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | -20% |

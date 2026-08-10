@@ -1,11 +1,12 @@
-# Errores/chollos de precio — 2026-08-10 08:52 UTC
+# Errores/chollos de precio — 2026-08-10 10:10 UTC
 
-- Productos revisados: **1564**
+- Productos revisados: **1528**
 - Umbral de diferencia: **20%**
-- Hallazgos: **38**
+- Hallazgos: **39**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -20% | $25,911 | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | Confirmado vs competencia | $103,645 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $23,111 | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | Confirmado vs competencia | $56,889 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $17,250 | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | Confirmado vs competencia | $40,249 en palacio vs mercado -> -30% bajo la competencia |
 | -32% | $15,493 | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | Confirmado vs competencia | $32,922 en palacio vs mercado -> -32% bajo la competencia |

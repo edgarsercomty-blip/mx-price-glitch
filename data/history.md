@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (631)
+# Historial de ofertas encontradas (632)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-10 10:10 | -20% | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | $103,645 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-10 08:52 | -20% | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-10 08:52 | -25% | palacio | [MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcle…](https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html) | $35,999 | $35,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-10 08:52 | -26% | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $1,745 | $1,745 en liverpool vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-07 10:04 | -24% | liverpool | [Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941) | $23,058 | $23,058 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-07 09:46 | -36% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | $10,000 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-07 09:46 | -43% | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $3,169 | $3,169 en liverpool vs mercado -> -43% bajo la competencia |
-| 2026-07-07 02:10 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | $387 en liverpool vs mercado -> -23% bajo la competencia |

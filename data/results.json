@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 08:52 UTC",
-  "products_scanned": 1564,
+  "generated_at": "2026-08-10 10:10 UTC",
+  "products_scanned": 1528,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -778,6 +778,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45260351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$103,645 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 25911.2,
+      "store": "palacio",
+      "name": "Cajón Refrigerador Monogram ZIDS240NSS",
+      "url": "https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html",
+      "price": 103644.8,
+      "list_price": 129556.0,
+      "ean": null,
+      "model": "ZIDS240NSS",
+      "brand": "Monogram",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45664272",
         "outlet": false
       }
     },
