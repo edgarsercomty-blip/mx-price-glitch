@@ -641,30 +641,6 @@
     "ts": "2026-08-10T03:09:35.054121+00:00",
     "items": []
   },
-  "amazon|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T04:05:47.290508+00:00",
-    "items": []
-  },
-  "walmart|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T04:05:48.819736+00:00",
-    "items": []
-  },
-  "sams|HEADPLAYERATIPOHEADPOLO": {
-    "ts": "2026-08-08T04:05:50.689933+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-08T04:05:51.771552+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-08T04:05:53.280836+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEWATCHKHAKI": {
-    "ts": "2026-08-08T04:05:54.661025+00:00",
-    "items": []
-  },
   "amazon|HPNVIDIAGAMINGHYPERXLAPTOP": {
     "ts": "2026-08-08T05:10:34.066514+00:00",
     "items": []
@@ -3051,6 +3027,42 @@
   },
   "sams|APPLEEXTENSIBLEAPPLEKHAKICARGO": {
     "ts": "2026-08-10T03:10:31.110170+00:00",
+    "items": []
+  },
+  "amazon|APPLEEXTENSIBLEWATCHKHAKICARGO": {
+    "ts": "2026-08-10T04:16:35.747890+00:00",
+    "items": []
+  },
+  "walmart|APPLEEXTENSIBLEWATCHKHAKICARGO": {
+    "ts": "2026-08-10T04:16:37.541497+00:00",
+    "items": []
+  },
+  "sams|APPLEEXTENSIBLEWATCHKHAKICARGO": {
+    "ts": "2026-08-10T04:16:39.768002+00:00",
+    "items": []
+  },
+  "amazon|ASUSGAMINGNVIDIALAPTOPINTEL": {
+    "ts": "2026-08-10T04:16:46.143668+00:00",
+    "items": []
+  },
+  "walmart|ASUSGAMINGNVIDIALAPTOPINTEL": {
+    "ts": "2026-08-10T04:16:50.265402+00:00",
+    "items": []
+  },
+  "sams|ASUSGAMINGNVIDIALAPTOPINTEL": {
+    "ts": "2026-08-10T04:16:52.047960+00:00",
+    "items": []
+  },
+  "amazon|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-10T04:16:53.350547+00:00",
+    "items": []
+  },
+  "walmart|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-10T04:16:54.937145+00:00",
+    "items": []
+  },
+  "sams|HPGAMINGNVIDIAHYPERXLAPTOP": {
+    "ts": "2026-08-10T04:16:56.606340+00:00",
     "items": []
   }
 }

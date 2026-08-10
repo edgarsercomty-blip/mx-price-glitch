@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 03:10 UTC",
-  "products_scanned": 1588,
+  "generated_at": "2026-08-10 04:16 UTC",
+  "products_scanned": 1628,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -275,48 +275,6 @@
       "extra": {
         "id": "44123344",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 134.85,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.9,
-      "detail": "$399 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 150.0,
-      "store": "liverpool",
-      "name": "Playera Tipo Polo Head Para Mujer",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794",
-      "price": 399.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "HEAD",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "9931044794",
-        "marketplace": null
       }
     },
     {
