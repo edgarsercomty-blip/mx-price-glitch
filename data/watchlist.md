@@ -1,4 +1,4 @@
-# Productos en vigilancia (560)
+# Productos en vigilancia (561)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -564,3 +564,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,399 | -20% |
 | 🟢 disponible | palacio | [Laptop, Vivobook 16, 16", AMD Ryzen 7, RAM 16 GB, SSD 512 GB…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html) | $13,527 | -24% |
 | 🟢 disponible | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | -20% |
+| 🟢 disponible | liverpool | [Motorola Edge 70 Fusion Fifa Poled 6 78 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-edge-70-fusion-fifa-poled-6-78-pulgadas-telcel/1197641921) | $5,599 | -49% |

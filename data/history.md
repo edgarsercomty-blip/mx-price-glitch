@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (638)
+# Historial de ofertas encontradas (639)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-10 21:59 | -49% | liverpool | [Motorola Edge 70 Fusion Fifa Poled 6 78 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-edge-70-fusion-fifa-poled-6-78-pulgadas-telcel/1197641921) | $5,599 | $5,599 en liverpool vs mercado -> -49% bajo la competencia |
 | 2026-08-10 19:18 | -29% | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Dats…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $19,056 | $19,056 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-10 14:02 | -20% | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-10 14:02 | -24% | palacio | [Laptop, Vivobook 16, 16", AMD Ryzen 7, RAM 16 GB, SSD 5…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html) | $13,527 | $13,527 en palacio vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, D…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-08 08:33 | -33% | palacio | [Cafetera Vertuo Pop Samra](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-samra-45081397.html) | $1,745 | $1,745 en palacio vs mercado -> -33% bajo la competencia |
