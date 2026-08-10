@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 19:18 UTC",
-  "products_scanned": 1607,
+  "generated_at": "2026-08-10 20:04 UTC",
+  "products_scanned": 1612,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -233,27 +233,6 @@
       "extra": {
         "id": "45555104",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$19,056 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7939.8,
-      "store": "liverpool",
-      "name": "Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De 6 Quemadores",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701",
-      "price": 19055.52,
-      "list_price": 23819.4,
-      "ean": null,
-      "model": "Emh7614Datss0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1125228701",
-        "marketplace": null
       }
     },
     {

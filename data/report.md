@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-10 19:18 UTC
+# Errores/chollos de precio — 2026-08-10 20:04 UTC
 
-- Productos revisados: **1607**
+- Productos revisados: **1612**
 - Umbral de diferencia: **20%**
-- Hallazgos: **45**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -12,7 +12,6 @@
 | -26% | $12,305 | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | Confirmado vs competencia | $35,844 en palacio vs mercado -> -26% bajo la competencia |
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -48% | $10,086 | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,713 | Confirmado vs competencia | $10,713 en liverpool vs mercado -> -48% bajo la competencia |
-| -29% | $7,940 | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $19,056 | Confirmado vs competencia | $19,056 en liverpool vs mercado -> -29% bajo la competencia |
 | -36% | $7,407 | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,392 | Confirmado vs competencia | $13,392 en liverpool vs mercado -> -36% bajo la competencia |
 | -25% | $6,460 | palacio | [Laptop TUF Gaming F16, 16", Nvidia RTX 5050, Intel Core i5, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html) | $19,379 | Confirmado vs competencia | $19,379 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $6,000 | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | Confirmado vs competencia | $23,999 en palacio vs mercado -> -20% bajo la competencia |
