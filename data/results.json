@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 10:10 UTC",
-  "products_scanned": 1528,
+  "generated_at": "2026-08-10 11:28 UTC",
+  "products_scanned": 1545,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -695,6 +695,27 @@
       "extra": {
         "id": "45361102",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,399 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 600.0,
+      "store": "liverpool",
+      "name": "Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2Sgdw",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386",
+      "price": 2399.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "Mlts101M2Sgdw",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1127610386",
+        "marketplace": null
       }
     },
     {
