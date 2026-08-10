@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (625)
+# Historial de ofertas encontradas (631)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-10 08:52 | -20% | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-10 08:52 | -25% | palacio | [MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcle…](https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html) | $35,999 | $35,999 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-08-10 08:52 | -26% | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $1,745 | $1,745 en liverpool vs mercado -> -26% bajo la competencia |
+| 2026-08-10 08:52 | -32% | palacio | [Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, S…](https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html) | $10,335 | $10,335 en palacio vs mercado -> -32% bajo la competencia |
+| 2026-08-10 08:52 | -33% | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html) | $5,560 | $5,560 en palacio vs mercado -> -33% bajo la competencia |
+| 2026-08-10 08:52 | -40% | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | $2,399 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-09 19:03 | -20% | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $2,094 | $2,094 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-09 13:34 | -23% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -23% | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | $10,009 en palacio vs mercado -> -23% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-07 09:46 | -36% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | $10,000 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-07 09:46 | -43% | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $3,169 | $3,169 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-07-07 02:10 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | $387 en liverpool vs mercado -> -23% bajo la competencia |
-| 2026-07-07 02:10 | -24% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $11,024 | $11,024 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-07 02:10 | -24% | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $6,975 | $6,975 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-07 02:10 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-07 02:10 | -26% | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,908 | $4,908 en liverpool vs mercado -> -26% bajo la competencia |
-| 2026-07-07 02:10 | -29% | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $594 | $594 en liverpool vs mercado -> -29% bajo la competencia |
-| 2026-07-07 02:10 | -29% | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $912 | $912 en liverpool vs mercado -> -29% bajo la competencia |

@@ -654,63 +654,39 @@
     "items": []
   },
   "amazon|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-08T07:41:26.614457+00:00",
+    "ts": "2026-08-10T08:52:22.070811+00:00",
     "items": []
   },
   "walmart|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-08T07:41:28.209790+00:00",
+    "ts": "2026-08-10T08:52:23.664944+00:00",
     "items": []
   },
   "sams|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-08T07:41:29.747871+00:00",
+    "ts": "2026-08-10T08:52:25.439386+00:00",
     "items": []
   },
   "amazon|14IAH10": {
-    "ts": "2026-08-08T07:41:32.262649+00:00",
+    "ts": "2026-08-10T08:52:32.251188+00:00",
     "items": []
   },
   "walmart|14IAH10": {
-    "ts": "2026-08-08T07:41:33.575815+00:00",
+    "ts": "2026-08-10T08:52:34.348152+00:00",
     "items": []
   },
   "sams|14IAH10": {
-    "ts": "2026-08-08T07:41:34.997617+00:00",
-    "items": []
-  },
-  "amazon|NINJAVELOCIDADESLICUADORAFODDI": {
-    "ts": "2026-08-08T07:41:36.519609+00:00",
-    "items": []
-  },
-  "walmart|NINJAVELOCIDADESLICUADORAFODDI": {
-    "ts": "2026-08-08T07:41:38.020446+00:00",
-    "items": []
-  },
-  "sams|NINJAVELOCIDADESLICUADORAFODDI": {
-    "ts": "2026-08-08T07:41:39.404545+00:00",
+    "ts": "2026-08-10T08:52:36.802111+00:00",
     "items": []
   },
   "amazon|KRUPSDESCALCIFICADORCAFETERAS": {
-    "ts": "2026-08-08T07:41:40.899093+00:00",
+    "ts": "2026-08-10T08:52:55.786454+00:00",
     "items": []
   },
   "walmart|KRUPSDESCALCIFICADORCAFETERAS": {
-    "ts": "2026-08-08T07:41:42.787947+00:00",
+    "ts": "2026-08-10T08:52:57.106475+00:00",
     "items": []
   },
   "sams|KRUPSDESCALCIFICADORCAFETERAS": {
-    "ts": "2026-08-08T07:41:43.986228+00:00",
-    "items": []
-  },
-  "amazon|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-08T08:29:00.120002+00:00",
-    "items": []
-  },
-  "walmart|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-08T08:29:02.117270+00:00",
-    "items": []
-  },
-  "sams|APPLEEXTENSIBLEAPPLEWATCHCARGO": {
-    "ts": "2026-08-08T08:29:03.934197+00:00",
+    "ts": "2026-08-10T08:52:58.558670+00:00",
     "items": []
   },
   "amazon|APPLECELULARIPHONEBUMPERCANELA": {
@@ -3003,6 +2979,74 @@
   },
   "sams|HPLAPTOPNVIDIAHYPERXGAMING": {
     "ts": "2026-08-10T07:11:44.110502+00:00",
+    "items": []
+  },
+  "amazon|ASUSLAPTOPGAMINGNVIDIAINTEL": {
+    "ts": "2026-08-10T08:52:26.829386+00:00",
+    "items": []
+  },
+  "walmart|ASUSLAPTOPGAMINGNVIDIAINTEL": {
+    "ts": "2026-08-10T08:52:28.620770+00:00",
+    "items": []
+  },
+  "sams|ASUSLAPTOPGAMINGNVIDIAINTEL": {
+    "ts": "2026-08-10T08:52:30.471394+00:00",
+    "items": []
+  },
+  "amazon|HPLAPTOPGAMINGNVIDIAHYPERX": {
+    "ts": "2026-08-10T08:52:38.038842+00:00",
+    "items": []
+  },
+  "walmart|HPLAPTOPGAMINGNVIDIAHYPERX": {
+    "ts": "2026-08-10T08:52:39.901989+00:00",
+    "items": []
+  },
+  "sams|HPLAPTOPGAMINGNVIDIAHYPERX": {
+    "ts": "2026-08-10T08:52:41.339918+00:00",
+    "items": []
+  },
+  "amazon|15FC0080LA": {
+    "ts": "2026-08-10T08:52:42.568514+00:00",
+    "items": []
+  },
+  "walmart|15FC0080LA": {
+    "ts": "2026-08-10T08:52:44.327997+00:00",
+    "items": []
+  },
+  "sams|15FC0080LA": {
+    "ts": "2026-08-10T08:52:45.021513+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 3/8 GB RAM/512 GB SSD 15-fc0000la + Multifuncional IA 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-3-8-gb-ram-512-gb-ssd-15-fc0000la-multifuncional-ia-2375/981008584",
+        "price": 10433.57,
+        "model": "15-fc0000la"
+      }
+    ]
+  },
+  "amazon|APPLEMACBOOKSILVERCHIPRAM": {
+    "ts": "2026-08-10T08:52:46.574536+00:00",
+    "items": []
+  },
+  "walmart|APPLEMACBOOKSILVERCHIPRAM": {
+    "ts": "2026-08-10T08:52:48.738277+00:00",
+    "items": []
+  },
+  "sams|APPLEMACBOOKSILVERCHIPRAM": {
+    "ts": "2026-08-10T08:52:49.975300+00:00",
+    "items": []
+  },
+  "amazon|APPLENUCLEOSMACBOOKGPURAM": {
+    "ts": "2026-08-10T08:52:51.331772+00:00",
+    "items": []
+  },
+  "walmart|APPLENUCLEOSMACBOOKGPURAM": {
+    "ts": "2026-08-10T08:52:52.867791+00:00",
+    "items": []
+  },
+  "sams|APPLENUCLEOSMACBOOKGPURAM": {
+    "ts": "2026-08-10T08:52:54.289216+00:00",
     "items": []
   }
 }
