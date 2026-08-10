@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-10 21:59 UTC
+# Errores/chollos de precio — 2026-08-10 22:39 UTC
 
-- Productos revisados: **1623**
+- Productos revisados: **1614**
 - Umbral de diferencia: **20%**
-- Hallazgos: **45**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -46,7 +46,6 @@
 | -26% | $611 | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $1,745 | Confirmado vs competencia | $1,745 en liverpool vs mercado -> -26% bajo la competencia |
 | -28% | $525 | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | Confirmado vs competencia | $1,349 en palacio vs mercado -> -28% bajo la competencia |
 | -31% | $450 | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | Confirmado vs competencia | $989 en palacio vs mercado -> -31% bajo la competencia |
-| -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
