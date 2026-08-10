@@ -107,28 +107,16 @@
     "ts": "2026-08-10T10:09:55.247100+00:00",
     "items": []
   },
-  "amazon|TFR18SI": {
-    "ts": "2026-08-08T11:44:52.474584+00:00",
-    "items": []
-  },
-  "walmart|TFR18SI": {
-    "ts": "2026-08-08T11:44:54.048334+00:00",
-    "items": []
-  },
-  "sams|TFR18SI": {
-    "ts": "2026-08-08T11:44:55.729246+00:00",
-    "items": []
-  },
   "amazon|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-08T11:44:57.172520+00:00",
+    "ts": "2026-08-10T12:27:28.682627+00:00",
     "items": []
   },
   "walmart|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-08T11:44:58.585784+00:00",
+    "ts": "2026-08-10T12:27:30.408800+00:00",
     "items": []
   },
   "sams|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-08T11:44:59.912888+00:00",
+    "ts": "2026-08-10T12:27:32.452282+00:00",
     "items": []
   },
   "amazon|55QM64L": {
@@ -3059,6 +3047,54 @@
   },
   "sams|APPLEMACBOOKNUCLEOS512CPU": {
     "ts": "2026-08-10T11:28:04.748032+00:00",
+    "items": []
+  },
+  "amazon|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-10T12:27:14.331234+00:00",
+    "items": []
+  },
+  "walmart|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-10T12:27:16.557378+00:00",
+    "items": []
+  },
+  "sams|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-10T12:27:18.393012+00:00",
+    "items": []
+  },
+  "amazon|HPLAPTOPNVIDIAGAMINGHYPERX": {
+    "ts": "2026-08-10T12:27:19.754340+00:00",
+    "items": []
+  },
+  "walmart|HPLAPTOPNVIDIAGAMINGHYPERX": {
+    "ts": "2026-08-10T12:27:21.288684+00:00",
+    "items": []
+  },
+  "sams|HPLAPTOPNVIDIAGAMINGHYPERX": {
+    "ts": "2026-08-10T12:27:22.899438+00:00",
+    "items": []
+  },
+  "amazon|APPLENUCLEOSMACBOOKGPU512": {
+    "ts": "2026-08-10T12:27:24.316625+00:00",
+    "items": []
+  },
+  "walmart|APPLENUCLEOSMACBOOKGPU512": {
+    "ts": "2026-08-10T12:27:25.837136+00:00",
+    "items": []
+  },
+  "sams|APPLENUCLEOSMACBOOKGPU512": {
+    "ts": "2026-08-10T12:27:27.420396+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
+    "ts": "2026-08-10T12:27:34.141026+00:00",
+    "items": []
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
+    "ts": "2026-08-10T12:27:35.670752+00:00",
+    "items": []
+  },
+  "sams|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
+    "ts": "2026-08-10T12:27:37.445158+00:00",
     "items": []
   }
 }

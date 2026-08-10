@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10 11:28 UTC",
-  "products_scanned": 1545,
+  "generated_at": "2026-08-10 12:27 UTC",
+  "products_scanned": 1577,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 41,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -468,6 +468,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 53.1,
+      "detail": "$5,356 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1642.7,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx Con Tizen Con Ai Escalado A 4K",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171",
+      "price": 5356.5,
+      "list_price": 11427.0,
+      "ean": null,
+      "model": "Un43M70Hafxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1195509171",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -594,6 +615,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2089.81,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html",
+      "price": 7809.29,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45345509",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -695,27 +737,6 @@
       "extra": {
         "id": "45361102",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,399 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 600.0,
-      "store": "liverpool",
-      "name": "Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2Sgdw",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386",
-      "price": 2399.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": "Mlts101M2Sgdw",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1127610386",
-        "marketplace": null
       }
     },
     {

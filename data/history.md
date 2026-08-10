@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (633)
+# Historial de ofertas encontradas (634)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-10 12:27 | -24% | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Haf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $5,356 | $5,356 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-10 11:28 | -20% | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,399 | $2,399 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-10 10:10 | -20% | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | $103,645 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-10 08:52 | -20% | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-07 15:34 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calo…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,110 | $10,110 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-07 14:39 | -24% | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | $28,727 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-07 10:04 | -24% | liverpool | [Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941) | $23,058 | $23,058 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-07 09:46 | -36% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,000 | $10,000 en liverpool vs mercado -> -36% bajo la competencia |

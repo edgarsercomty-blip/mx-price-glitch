@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-10 11:28 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-10 12:27 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -20% | $600 | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,399 | Confirmado vs competencia | $2,399 en liverpool vs mercado -> -20% bajo la competencia |
+| -24% | $1,643 | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $5,356 | Confirmado vs competencia | $5,356 en liverpool vs mercado -> -24% bajo la competencia |
