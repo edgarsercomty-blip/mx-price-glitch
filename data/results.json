@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11 21:32 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-08-11 22:22 UTC",
+  "products_scanned": 1641,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 41,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -758,6 +758,27 @@
       "extra": {
         "id": "43133039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 740.0,
+      "store": "liverpool",
+      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
+      "price": 2959.0,
+      "list_price": 7398.0,
+      "ean": null,
+      "model": null,
+      "brand": "VELOCI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189090401",
+        "marketplace": null
       }
     },
     {
