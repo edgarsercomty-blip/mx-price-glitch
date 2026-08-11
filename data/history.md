@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (640)
+# Historial de ofertas encontradas (642)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-11 08:04 | -20% | palacio | [Refrigerador Bottom Mount de 520 Litros Black Stainless…](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html) | $14,640 | $14,640 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-11 08:04 | -51% | palacio | [Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html) | $26,460 | $26,460 en palacio vs mercado -> -51% bajo la competencia |
 | 2026-08-10 23:16 | -50% | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | $68 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-08-10 21:59 | -49% | liverpool | [Motorola Edge 70 Fusion Fifa Poled 6 78 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-edge-70-fusion-fifa-poled-6-78-pulgadas-telcel/1197641921) | $5,599 | $5,599 en liverpool vs mercado -> -49% bajo la competencia |
 | 2026-08-10 19:18 | -29% | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Dats…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $19,056 | $19,056 en liverpool vs mercado -> -29% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-08 08:33 | -25% | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,624 | $2,624 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-08 08:33 | -25% | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-08 08:33 | -29% | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $3,114 | $3,114 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro, 512 GB, RAM 12 GB, Cobalto, D…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-cobalto-desbloqueado-44781017.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-08 08:33 | -30% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Gris Desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-gris-desbloqueado-44747552.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |

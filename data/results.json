@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11 06:50 UTC",
-  "products_scanned": 1576,
+  "generated_at": "2026-08-11 08:04 UTC",
+  "products_scanned": 1599,
   "threshold_pct": 20.0,
   "count": 42,
   "findings": [
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$26,460 en palacio vs mercado -> -51% bajo la competencia",
+      "likely_typo": false,
+      "savings": 27539.49,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html",
+      "price": 26459.51,
+      "list_price": 53999.0,
+      "ean": null,
+      "model": "85QNED81BSG",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45505430",
         "outlet": false
       }
     },
@@ -91,6 +112,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
+      "detail": "$16,199 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.6,
+      "store": "palacio",
+      "name": "Refrigerador Top Freezer 16 p3 VT45AWP Plata",
+      "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html",
+      "price": 16199.4,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "VT45AWP",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43796853",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1599.6,
@@ -128,6 +170,27 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000829",
+        "outlet": false
       }
     },
     {
@@ -300,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$1,349 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 524.79,
-      "store": "palacio",
-      "name": "Smartwatch Fit 3 Unisex",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html",
-      "price": 1349.46,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123344",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -363,43 +405,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 6459.8,
+      "savings": 4497.5,
       "store": "palacio",
-      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
-      "price": 19379.4,
-      "list_price": 32299.0,
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
       "ean": null,
       "model": null,
-      "brand": "Asus",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45244409",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$35,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11999.8,
-      "store": "palacio",
-      "name": "MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcleos, RAM 24 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html",
-      "price": 35999.4,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44319564",
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -421,27 +442,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45641563",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4497.5,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
         "outlet": false
       }
     },
@@ -763,6 +763,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
+      "ean": null,
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43133039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 740.0,
@@ -779,27 +800,6 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 230.0,
-      "store": "palacio",
-      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
-      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
-      "price": 920.0,
-      "list_price": 2300.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44004165",
-        "outlet": false
       }
     },
     {
@@ -846,27 +846,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44557436",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -883,6 +862,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600342",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1798.0,
+      "store": "palacio",
+      "name": "Cafetera Gran Lattissima Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
+      "price": 7192.0,
+      "list_price": 8990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43135869",
         "outlet": false
       }
     }
