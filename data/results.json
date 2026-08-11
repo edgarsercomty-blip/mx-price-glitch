@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11 11:58 UTC",
-  "products_scanned": 1655,
+  "generated_at": "2026-08-11 13:02 UTC",
+  "products_scanned": 1618,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$16,199 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
@@ -149,27 +170,6 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000829",
-        "outlet": false
       }
     },
     {
@@ -406,27 +406,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2499.75,
-      "store": "palacio",
-      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
-      "price": 7499.25,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45641563",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 4497.5,
@@ -442,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41273412",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2499.75,
+      "store": "palacio",
+      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
+      "price": 7499.25,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45641563",
         "outlet": false
       }
     },
@@ -800,6 +800,27 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
       }
     },
     {
