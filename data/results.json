@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11 18:33 UTC",
-  "products_scanned": 1588,
+  "generated_at": "2026-08-11 19:44 UTC",
+  "products_scanned": 1680,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,27 @@
       "extra": {
         "id": "45505430",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 68.4,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
       }
     },
     {
@@ -191,6 +212,27 @@
       "extra": {
         "id": "44850150",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
@@ -364,7 +406,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs sams $3,998, sams $4,142 -> -25% bajo la competencia",
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 898.0,
       "store": "palacio",
@@ -463,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45366538",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
         "outlet": false
       }
     },
@@ -716,6 +737,27 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
       }
     },
     {
