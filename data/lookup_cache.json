@@ -314,136 +314,739 @@
     "items": []
   },
   "amazon|HR2244": {
-    "ts": "2026-08-09T18:02:29.989665+00:00",
-    "items": []
+    "ts": "2026-08-11T18:29:48.694382+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Philips HR2244/91 Licuadora 1400 W",
+        "url": "https://www.amazon.com.mx/dp/B0FPPK9PKD",
+        "price": 1119.65,
+        "model": "HR2244/91"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips Licuadora Serie 5000 1400W, Jarra de Vidrio 2L, 12 Velocidades | Tecnología ProBlend 6 – cuchillas desmontables de acero inoxidable para batidos suaves (HR2244/91)",
+        "url": "https://www.amazon.com.mx/dp/B08TM3ZF2K",
+        "price": 3199.0,
+        "model": "HR2244/91"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible Con Philips Batidora HR1626 | Licuadora, HR1627, HR1608, HR1623, HR1625, mezcladora, piezas,",
+        "url": "https://www.amazon.com.mx/dp/B0HCZ2JYXG",
+        "price": 1019.09,
+        "model": "HR1626"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra Mezcladora De Vaso De Licuadora, Compatible Con Philips HR2101 HR2100 HR2103 HR2104, Repuestos De Jarra Mezcladora",
+        "url": "https://www.amazon.com.mx/dp/B0GJ5SVHXD",
+        "price": 1569.34,
+        "model": "HR2101"
+      },
+      {
+        "store": "amazon",
+        "name": "532419744 - Correa de transmisión para sopladores de nieve de 1/2\" x 34-1/2\" de repuesto para AYP Husqvarna 179092, 419744, 532179092, 532416954, 532419744",
+        "url": "https://www.amazon.com.mx/dp/B0B8NQ1SNF",
+        "price": 402.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Equipo de repuesto para herramientas eléctricas HR006, HR5202C y HR5212, engranaje de metal de 46 dientes, número de pieza 227788-9, negro",
+        "url": "https://www.amazon.com.mx/dp/B0GQD2WR5Y",
+        "price": 295.74,
+        "model": "HR5202C"
+      }
+    ]
   },
   "walmart|HR2244": {
-    "ts": "2026-08-09T18:02:31.519221+00:00",
+    "ts": "2026-08-11T18:29:54.425957+00:00",
     "items": []
   },
   "sams|HR2244": {
-    "ts": "2026-08-09T18:02:33.009607+00:00",
+    "ts": "2026-08-11T18:30:00.973449+00:00",
     "items": []
   },
   "amazon|HR2242": {
-    "ts": "2026-08-09T18:02:34.177752+00:00",
-    "items": []
+    "ts": "2026-08-11T18:30:07.274450+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Philips Licuadora Serie 5000 1200W, Jarra de Vidrio 2L, 12 Velocidades | Cuchillas Desmontables – acero inoxidable con tecnología ProBlend 6 para triturar sin esfuerzo (HR2242/91)",
+        "url": "https://www.amazon.com.mx/dp/B0BSK6NL8F",
+        "price": 1147.0,
+        "model": "HR2242/91"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips Batidora de vaso serie 5000, plata, 800 W | HR2764/00 - Batidora de batidos (0,7 L, 1 velocidad, prensa y giro, incluye tapa To-Go)",
+        "url": "https://www.amazon.com.mx/dp/B0CP9RWLJR",
+        "price": 1577.77,
+        "model": "HR2764/00"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja® TWISTi™, Licuadora DUO DE ALTA VELOCIDAD 3 Programas Auto-iQ® Preestablecidos, 34 oz. Mod. SS150 RENOVADA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BXB9DRYQ",
+        "price": 1579.0,
+        "model": "SS150"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips HR2041/41 - Batidora de vaso y smoothie maker (450 W, recipiente de 1,9 litros, aplicación de recetas, 1 velocidad + función de impulso, ProBlend, función de trituración de hielo y botella de agua móvil)",
+        "url": "https://www.amazon.com.mx/dp/B09CTX6BFC",
+        "price": 1657.48,
+        "model": "HR2041/41"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra Mezcladora De Vaso De Licuadora, Compatible Con Philips HR2024 HR2021 HR2027 HR2028, Repuesto De Piezas De Mezclador Exprimidor",
+        "url": "https://www.amazon.com.mx/dp/B0GHP1N285",
+        "price": 1455.11,
+        "model": "HR2024"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas De Repuesto For Licuadora De Jarra De Vidrio, Compatibles Con PHILIPS HR2090 HR2094 HR2096, Accesorios For Jarra Mezcladora",
+        "url": "https://www.amazon.com.mx/dp/B0GHF6PMWV",
+        "price": 2843.74,
+        "model": "HR2090"
+      },
+      {
+        "store": "amazon",
+        "name": "CASO HB 2200 Pro – Batidora de mano de diseño – potente batidora para mezclar, remover, batir, triturar, triturar, triturar, potente 22 rpm, incluye accesorios",
+        "url": "https://www.amazon.com.mx/dp/B07QH7963R",
+        "price": 1777.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Philips HR2041/00 Batidora de vaso, 450 W, 1,9 litros, cuchillas de acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B09GPL6H1M",
+        "price": 1474.09,
+        "model": "HR2041/00"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips ProMix Viva Collection - Batidora de mano de 300 W, potencia de mezcla SpeedTouch, tecnología ProMix, fácil e intuitiva, vaso sobre la marcha, negro, (HR2627/91)",
+        "url": "https://www.amazon.com.mx/dp/B0C6BLGZG1",
+        "price": 3339.68,
+        "model": "HR2627/91"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips 5000 Batidora de Vaso ProBlend Plus, 1000W, vaso de 2L, Negro | Tecnología ProBlend, 1000 W, vaso de 2L, batidora smoothie, piezas aptas para lavavajillas, app de recetas HomeID (HR3020/20)",
+        "url": "https://www.amazon.com.mx/dp/B0CX24SVFY",
+        "price": 2101.98,
+        "model": "HR3020/20"
+      },
+      {
+        "store": "amazon",
+        "name": "Batidora De Pedestal H.B. Roja 64699",
+        "url": "https://www.amazon.com.mx/dp/B01I77A55C",
+        "price": 1139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible Con Philips Batidora HR1626 | Licuadora, HR1627, HR1608, HR1623, HR1625, mezcladora, piezas,",
+        "url": "https://www.amazon.com.mx/dp/B0HCZ2JYXG",
+        "price": 1019.09,
+        "model": "HR1626"
+      }
+    ]
   },
   "walmart|HR2242": {
-    "ts": "2026-08-09T18:02:35.565794+00:00",
-    "items": []
+    "ts": "2026-08-11T18:30:19.618468+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Philips Licuadora 1200W Vaso Vidrio HR2242/91",
+        "url": "https://www.walmart.com.mx/ip/Philips-Licuadora-1200W-Vaso-Vidrio-HR2242-91/00871010395256",
+        "price": 1799.0,
+        "model": "HR2242/91"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Philips Serie 5000 de 1200 W con Jarra de Tritan - HR2242/93",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-Philips-Serie-5000-de-1200-W-con-Jarra-de-Tritan-HR2242-93/00872038904456?athbdg=L6000",
+        "price": 1799.0,
+        "model": "HR2242/93"
+      }
+    ]
   },
   "sams|HR2242": {
-    "ts": "2026-08-09T18:02:36.987806+00:00",
-    "items": []
-  },
-  "amazon|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-09T18:02:38.093432+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-09T18:02:39.335815+00:00",
-    "items": []
-  },
-  "sams|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-09T18:02:40.734407+00:00",
-    "items": []
-  },
-  "amazon|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-09T18:02:41.819025+00:00",
-    "items": []
-  },
-  "walmart|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-09T18:02:43.279055+00:00",
-    "items": []
-  },
-  "sams|BELKINPROTECTORPANTALLAWATCHAPPLE": {
-    "ts": "2026-08-09T18:02:45.133284+00:00",
-    "items": []
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:46.450654+00:00",
-    "items": []
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:47.784651+00:00",
-    "items": []
-  },
-  "sams|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:49.190322+00:00",
-    "items": []
-  },
-  "amazon|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:50.404472+00:00",
-    "items": []
-  },
-  "walmart|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:51.898735+00:00",
-    "items": []
-  },
-  "sams|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-09T18:02:53.408031+00:00",
-    "items": []
-  },
-  "amazon|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-09T18:02:54.603356+00:00",
-    "items": []
-  },
-  "walmart|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-09T18:02:56.452050+00:00",
-    "items": []
-  },
-  "sams|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-09T18:02:59.012628+00:00",
+    "ts": "2026-08-11T18:30:31.849752+00:00",
     "items": []
   },
   "amazon|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-09T18:03:00.178985+00:00",
-    "items": []
+    "ts": "2026-08-11T18:31:08.866863+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5994.23,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128 GB Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0BDJN394T",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 14 Pro MAX 512 GB Color Oro",
+        "url": "https://www.amazon.com.mx/dp/B0BDJJ5QQG",
+        "price": 36999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
+        "price": 18299.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5994.23,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6494.26,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5370.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13 Mini, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LKTXKXQ",
+        "price": 4885.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
+        "price": 6054.34,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
+        "price": 7638.81,
+        "model": "128GBNegroDesbloqueado"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8179.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLN4B613",
+        "price": 8265.4,
+        "model": "128GB"
+      }
+    ]
   },
   "walmart|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-09T18:03:01.658102+00:00",
-    "items": []
+    "ts": "2026-08-11T18:31:22.409323+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 16 Reacondicionado, Desbloqueado , 128 GB, Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-reacondicionado-desbloqueado-128-gb-color-rosa/00078495673646?athbdg=L1300",
+        "price": 12799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 256GB Reacondicionado de Grado A y Desbloqueado de Fábrica - Medianoche",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-256gb-reacondicionado-de-grado-a-y-desbloqueado-de-fabrica-medianoche/00046249978008?athbdg=L1300",
+        "price": 9999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-blanco-reacondicionado/00085369895438?athbdg=L1500",
+        "price": 6199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPhone SE 3rd Gen A2595 Totalmente desbloqueado 64GB Medianoche Grado A",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a/00065982168336?athbdg=L6000",
+        "price": 6340.32,
+        "model": "A2595"
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPhone SE (3rd Gen) A2595 (Totalmente desbloqueado) 64GB Medianoche (Grado A)",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a-/00065747745825?athbdg=L6000",
+        "price": 6340.32,
+        "model": "A2595"
+      }
+    ]
   },
   "sams|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-09T18:03:04.007649+00:00",
-    "items": []
+    "ts": "2026-08-11T18:31:46.146973+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
+        "price": 10998.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
+        "price": 28098.73,
+        "model": "M2/512"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035030",
+        "price": 39998.99,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035029",
+        "price": 34998.99,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/8C GPU/16GB/256GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-8c-gpu-16gb-256gb-ssd-azul-medianoche/981035015",
+        "price": 24998.99,
+        "model": "GPU/16GB/256GB"
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11762.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple 128GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128gb-negro-desbloqueado/981018495",
+        "price": 19947.46,
+        "model": "128GB"
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Apple  128 GB Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-at-t/981015025",
+        "price": 13603.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Negro AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-negro-at-t/981032198",
+        "price": 39752.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-azul-at-t/981032199",
+        "price": 39752.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB Ultramarino AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultramarino-at-t/981029076",
+        "price": 16028.36,
+        "model": null
+      }
+    ]
   },
   "amazon|VT45AWP": {
-    "ts": "2026-08-09T18:03:05.551220+00:00",
+    "ts": "2026-08-11T18:32:00.066826+00:00",
     "items": []
   },
   "walmart|VT45AWP": {
-    "ts": "2026-08-09T18:03:06.947791+00:00",
+    "ts": "2026-08-11T18:32:18.815727+00:00",
     "items": []
   },
   "sams|VT45AWP": {
-    "ts": "2026-08-09T18:03:08.200488+00:00",
-    "items": []
+    "ts": "2026-08-11T18:32:32.611592+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador LG  14 Pies Cúbicos Top Mount VT40SWP",
+        "url": "https://www.sams.com.mx/ip/refrigerador-lg-14-pies-cubicos-top-mount-vt40swp/980038922",
+        "price": 15449.35,
+        "model": "VT40SWP"
+      }
+    ]
   },
   "amazon|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-09T18:03:13.692562+00:00",
+    "ts": "2026-08-11T18:33:44.056740+00:00",
     "items": []
   },
   "walmart|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-09T18:03:19.576629+00:00",
-    "items": []
+    "ts": "2026-08-11T18:33:48.246134+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Gran Lattissima De'Longhi White",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-white/00004438710640?athbdg=L1300",
+        "price": 13709.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Gran Lattissima De'Longhi Black",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-black/00004438721640?athbdg=L1300",
+        "price": 13729.0,
+        "model": null
+      }
+    ]
   },
   "sams|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-09T18:03:20.893282+00:00",
-    "items": []
+    "ts": "2026-08-11T18:33:54.263461+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 3774.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 4141.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 4237.25,
+        "model": null
+      }
+    ]
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-09T18:03:09.948634+00:00",
-    "items": []
+    "ts": "2026-08-11T18:32:39.478467+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3978.85,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
+        "price": 2694.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
+        "price": 3490.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
+        "price": 4990.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
+        "price": 1895.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 5949.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5099.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3978.85,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 2717.71,
+        "model": null
+      }
+    ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-09T18:03:11.228662+00:00",
-    "items": []
+    "ts": "2026-08-11T18:33:14.156758+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera de espresso y café con espumador de leche",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140?athbdg=L1300",
+        "price": 4129.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3919.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
+        "price": 3239.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
+        "price": 4219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-cold-con-vaso-helado/00004438730924?athbdg=L1300",
+        "price": 3879.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-deluxe-de-breville-con-espumador-de-leche-titan/00002161480805?athbdg=L1300",
+        "price": 4219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera Nespresso Vertuo Next de Breville, color azul marino",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-nespresso-vertuo-next-de-breville-color-azul-marino/00002161480454?athbdg=L1300",
+        "price": 3839.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
+        "price": 7139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480802?athbdg=L1300",
+        "price": 4149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
+        "price": 4039.0,
+        "model": null
+      }
+    ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-09T18:03:12.532458+00:00",
-    "items": []
+    "ts": "2026-08-11T18:33:27.463115+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 3774.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 4141.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
+        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 4237.25,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
+        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
+        "price": 5011.66,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Paquete Combo Desayuno Daewoo  Cafetera + Extractor de Jugo + Parrilla Panini",
+        "url": "https://www.sams.com.mx/ip/paquete-combo-desayuno-daewoo-cafetera-extractor-de-jugo-parrilla-panini/981043213",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1324.79,
+        "model": "TEKM-1500"
+      }
+    ]
   },
   "amazon|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
     "ts": "2026-08-09T19:03:17.225303+00:00",
@@ -3664,6 +4267,245 @@
         "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
         "price": 20458.97,
         "model": null
+      }
+    ]
+  },
+  "amazon|HPNVIDIAHYPERXGAMINGLAPTOP": {
+    "ts": "2026-08-11T18:30:41.252471+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming HyperX OMEN 15-ga0007la, Intel Core i5, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 5050 (8GB), 15.3\", 2K (1920x1200), Windows 11 Home, Teclado en Español, Garantía Mexico, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0H4J69XZJ",
+        "price": 39999.0,
+        "model": "15-ga0007la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Victus Laptop para juegos, Intel i7-13620H, 16 GB DDR5 RAM, 1 TB SSD PCIe, pantalla FHD de 15,6\" (1920x1080) 144Hz, Nvidia G-Force RTX 5060, Teclado numérico retroiluminado, W11 Home, color plata",
+        "url": "https://www.amazon.com.mx/dp/B0FM4GK7NK",
+        "price": 26429.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming Victus 15-fa2017la, Intel Core i5, 16 GB RAM, 512 GB SSD, 15.6\", FHD, NVIDIA GeForce RTX 5050 (8GB), Windows 11 Home, Teclado en Español, Garantía México, Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FPTCMDN2",
+        "price": 21504.15,
+        "model": "15-fa2017la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP HyperX OMEN Laptop para juegos, visualización WQXGA de 15.3 pulgadas 2.5K 180Hz, AMD Ryzen 7 260, gráficos AMD Radeon 780M, NVIDIA GeForce RTX 5060, 16GB DDR5 RAM, 1TB SSD, Wi-Fi 7, teclado",
+        "url": "https://www.amazon.com.mx/dp/B0H992GJ6X",
+        "price": 35788.76,
+        "model": "180Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0015la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5050(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSX848X",
+        "price": 27299.0,
+        "model": "16-am0015la"
+      },
+      {
+        "store": "amazon",
+        "name": "MSI Laptop Gaming Cyborg 15 NVIDIA RTX 5060 Procesador Intel® Core™ 7 240H 16GB RAM 1TB SSD 15.6\" FHD 144Hz/Teclado en español/2 años de garantía + Incluye Mouse",
+        "url": "https://www.amazon.com.mx/dp/B0FSJYDMLW",
+        "price": 25697.0,
+        "model": "144Hz/Teclado"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gamer Victus NVIDIA GeForce RTX 4050 Intel Core i5 13420H 32GB 760GB SSD 15.6\" Full HD 144Hz W11 Teclado Ingles Mouse DXT Gaming y Edicion de Video",
+        "url": "https://www.amazon.com.mx/dp/B0GCTPL2CR",
+        "price": 20999.0,
+        "model": "13420H"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Victus 15.6\" Full HD 144Hz Laptop Gamer Intel Core i5-13420H 8GB RAM NVIDIA GeForce RTX 3050 512GB SSD Azul",
+        "url": "https://www.amazon.com.mx/dp/B0C4YX39T7",
+        "price": 14299.0,
+        "model": "i5-13420H"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop AI PC Gamer Omen Nvidia GeForce RTX 5060 8GB DLSS Intel Core Ultra 7 255H NPU 16GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 144Hz Teclado Ingles W11H AI Boost Gaming y Creacion de Contenido",
+        "url": "https://www.amazon.com.mx/dp/B0GZ4ZCWYC",
+        "price": 33999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
+        "price": 32432.67,
+        "model": "16-am0014la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FH429674",
+        "price": 18499.0,
+        "model": "144Hz/Wi-Fi"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming HyperX OMEN 15-ga0000la, Intel Core i5, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 5050 (8GB), 15.3\", 2K (1920x1200), Windows 11 Home, Teclado en Español, Garantía Mexico, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GYV66MMP",
+        "price": 36603.9,
+        "model": "15-ga0000la"
+      }
+    ]
+  },
+  "walmart|HPNVIDIAHYPERXGAMINGLAPTOP": {
+    "ts": "2026-08-11T18:30:47.458636+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Gaming HP 15-fa2029la Intel Core i7 10 nucleos 24 GB NVIDIA® GEFORCE RTX ™ 5050 1 TB SSD Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-gaming-hp-15-fa2029la-intel-core-i7-10-nucleos-24-gb-nvidia-geforce-rtx-5050-1-tb-ssd-plata/00019948530470?athbdg=L1300",
+        "price": 24996.0,
+        "model": "15-fa2029la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Omen Nvidia GeForce RTX 5060 8GB DLSS 4 Intel Core i7 14650HX 32GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles W11H League of Legends Gamer Competitivo Streaming en Vivo",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-omen-nvidia-geforce-rtx-5060-8gb-dlss-4-intel-core-i7-14650hx-32gb-ddr5-1tb-ssd-pantalla-16-ips-fhd-165hz-teclado-ingles-w11h-league-of-legends-gamer-competitivo-streaming-en-vivo/00019925175876?athbdg=L1300",
+        "price": 36999.0,
+        "model": "14650HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer HP Omen Nvidia GeForce RTX 5060 8GB AMD Ryzen 9 8940HX 32GB DDR5 1TB SSD 16\" IPS FHD+ 144Hz Teclado Ingles W11H Copilot Optimizada por IA Gaming Creación y Productividad",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-hp-omen-nvidia-geforce-rtx-5060-8gb-amd-ryzen-9-8940hx-32gb-ddr5-1tb-ssd-16-ips-fhd-144hz-teclado-ingles-w11h-copilot-optimizada-por-ia-gaming-creacion-y-productividad/00019925137365?athbdg=L6000",
+        "price": 38999.0,
+        "model": "8940HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 16GB DDR5, 1TB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-amd-ryzen-7-7445hs-16gb-ddr5-1tb-ssd-pcie-gen4-nvidia-geforce-rtx-3050-6gb-wi-fi-6-windows-11-home-teclado-retroiluminado-espanol-/00046045713565?athbdg=L1300",
+        "price": 23599.0,
+        "model": "7445HS"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 13420H 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-nvidia-geforce-rtx-3050-intel-core-i5-13420h-8gb-ram-512gb-ssd-15-6-windows-11-home-teclado-en-ingles/00019899067746?athbdg=L1300",
+        "price": 14829.0,
+        "model": "13420H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus Intel Core i5 13th 8GB RAM 512GB SSD Nvidia GeForce RTX3050",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-intel-core-i5-13th-8gb-ram-512gb-ssd-nvidia-geforce-rtx3050/00075976331919?athbdg=L1300",
+        "price": 13298.0,
+        "model": "RTX3050"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 8GB RAM 512GB SSD Windows 11",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-nvidia-geforce-rtx-3050-intel-core-i5-8gb-ram-512gb-ssd-windows-11/00019749718313?athbdg=L1300",
+        "price": 15449.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP VICTUS 15.6\"FHD Intel Core i7-13620H Nvidia RTX5060 16GB RAM 1TB SSD; Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-15-6-fhd-intel-core-i7-13620h-nvidia-rtx5060-16gb-ram-1tb-ssd-negra/00019899069065?athbdg=L6000",
+        "price": 31999.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus 15-fa1001a NVIDIA GeForce RTX 4050 Intel Core i5 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-15-fa1001a-nvidia-geforce-rtx-4050-intel-core-i5-16gb-ram-512gb-ssd/00019749731274?athbdg=L1300",
+        "price": 19996.0,
+        "model": "15-fa1001a"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Victus Gaming 15-fa0021la,15.6, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, FHD, Windows 11 Home, Azul metalizado brillante",
+        "url": "https://www.walmart.com.mx/ip/laptop-victus-gaming-15-fa0021la-15-6-intel-core-i5-8gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-fhd-windows-11-home-azul-metalizado-brillante/00019812271824?athbdg=L6000",
+        "price": 19133.0,
+        "model": "15-fa0021la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gaming OMEN 16-am0021la, Intel Core i7, 16 GB RAM, GPU NVIDIA GeForce RTX 5060 , 1 TB SSD, 16\" a 240 Hz, Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-gaming-omen-16-am0021la-intel-core-i7-16-gb-ram-gpu-nvidia-geforce-rtx-5060-1-tb-ssd-16-a-240-hz-windows-11-home/00019948569008?athbdg=L1300",
+        "price": 39999.0,
+        "model": "16-am0021la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 24GB DDR5, 1TB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-amd-ryzen-7-7445hs-24gb-ddr5-1tb-ssd-pcie-gen4-nvidia-geforce-rtx-3050-6gb-wi-fi-6-windows-11-home-teclado-retroiluminado-espanol-/00046882769006?athbdg=L1300",
+        "price": 24999.0,
+        "model": "7445HS"
+      }
+    ]
+  },
+  "sams|HPNVIDIAHYPERXGAMINGLAPTOP": {
+    "ts": "2026-08-11T18:30:56.956894+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
+        "price": 16366.98,
+        "model": "15-fa2009la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
+        "price": 16366.98,
+        "model": "15-FD2360LA"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
+        "price": 21481.98,
+        "model": "15-FB3011LA"
+      },
+      {
+        "store": "sams",
+        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate Xbox Negro 6L366AA",
+        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-xbox-negro-6l366aa/981047114",
+        "price": 612.78,
+        "model": "6L366AA"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD 15-fb2002la + Audífonos HyperX Stinger Core 2",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-15-fb2002la-audifonos-hyperx-stinger-core-2/981023807",
+        "price": 12271.91,
+        "model": "15-fb2002la"
+      },
+      {
+        "store": "sams",
+        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate RGB Xbox Claro 7D6H2AA",
+        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-rgb-xbox-claro-7d6h2aa/981047113",
+        "price": 612.78,
+        "model": "7D6H2AA"
+      },
+      {
+        "store": "sams",
+        "name": "Mouse Gaming Inalámbrico HyperX  Pulsefire Haste 2 Mini Black 7D388AA",
+        "url": "https://www.sams.com.mx/ip/mouse-gaming-inalambrico-hyperx-pulsefire-haste-2-mini-black-7d388aa/981047109",
+        "price": 1533.48,
+        "model": "7D388AA"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
+        "price": 23527.98,
+        "model": "15-fb3021la"
       }
     ]
   }
