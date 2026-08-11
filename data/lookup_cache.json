@@ -229,18 +229,6 @@
     "ts": "2026-08-11T01:00:43.394738+00:00",
     "items": []
   },
-  "amazon|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-09T22:54:12.803732+00:00",
-    "items": []
-  },
-  "walmart|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-09T22:54:14.235673+00:00",
-    "items": []
-  },
-  "sams|BELKINPROTECTORPANTALLAAPPLEWATCH": {
-    "ts": "2026-08-09T22:54:15.779155+00:00",
-    "items": []
-  },
   "amazon|EDGE70": {
     "ts": "2026-08-10T10:09:52.050960+00:00",
     "items": []
@@ -3575,42 +3563,6 @@
         "model": "15-fc0377la"
       }
     ]
-  },
-  "amazon|ASUSNVIDIAGAMINGLAPTOPINTEL": {
-    "ts": "2026-08-09T22:54:16.956420+00:00",
-    "items": []
-  },
-  "walmart|ASUSNVIDIAGAMINGLAPTOPINTEL": {
-    "ts": "2026-08-09T22:54:18.389979+00:00",
-    "items": []
-  },
-  "sams|ASUSNVIDIAGAMINGLAPTOPINTEL": {
-    "ts": "2026-08-09T22:54:20.041332+00:00",
-    "items": []
-  },
-  "amazon|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-09T22:54:21.199128+00:00",
-    "items": []
-  },
-  "walmart|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-09T22:54:22.853116+00:00",
-    "items": []
-  },
-  "sams|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-09T22:54:24.300435+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-09T22:54:25.416140+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-09T22:54:27.001313+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-09T22:54:28.338125+00:00",
-    "items": []
   },
   "amazon|APPLEEXTENSIBLEWATCHKHAKIAPPLE": {
     "ts": "2026-08-09T23:22:07.554853+00:00",
@@ -8847,6 +8799,435 @@
         "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
         "price": 673.13,
         "model": null
+      }
+    ]
+  },
+  "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-11T23:20:59.191716+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KAIGERR 16\" Laptop Gamer RX16, Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD, WiFi 6, USB-C, Teclado en Español, Carcasa de Metal, Win 11 Pro, Garantía 2 años",
+        "url": "https://www.amazon.com.mx/dp/B0H7RDDRGF",
+        "price": 15999.99,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Gamer 16\" 16:10,Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD Extensiones 4TB, WiFi 6, USB-C, Teclado Español Retroiluminado, Carcasa de Metal,Win11Pro Laptop",
+        "url": "https://www.amazon.com.mx/dp/B0GFWL358B",
+        "price": 12860.52,
+        "model": "Win11Pro"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 24 GB de Memoria unificada, 512 GB - Plata",
+        "url": "https://www.amazon.com.mx/dp/B0DLHW4H6B",
+        "price": 50039.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KAIGERR 16\" Laptop Gamer TX16PRO, AMD Ryzen 7 7730U (8 Núcleos/16 Hilos, 4.5GHz), 16GB RAM 512GB SSD, Win 11 Pro, Teclado Español, Radeon RX Vega 8, WiFi 6, Caja Metálica",
+        "url": "https://www.amazon.com.mx/dp/B0FX83P7F6",
+        "price": 11399.98,
+        "model": "TX16PRO"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
+        "price": 14389.0,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
+        "price": 7999.0,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
+        "price": 5779.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15.6\" FHD Touch Laptop, AMD Ryzen 5 7520U, 8GB DDR5 RAM, 512 SSD, Windows 11 Home, AMD Radeon 610M, Copilot AI, Artic Grey, 82XQ00RSUS",
+        "url": "https://www.amazon.com.mx/dp/B0GC538VWR",
+        "price": 16029.08,
+        "model": "82XQ00RSUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
+        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
+        "price": 6179.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo 82VG00WXUS 15.6\" Ryzen 5 8GB 256GB Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GGDKX67X",
+        "price": 7989.45,
+        "model": "82VG00WXUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
+        "price": 12979.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
+        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
+        "price": 8799.0,
+        "model": "i7-1165G7"
+      }
+    ]
+  },
+  "walmart|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-11T23:21:09.045849+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "LENOVO 83N3003GUS IdeaPad Slim 3 15Q8X10 15.3\" WUXGA Snapdragon X X1-26-100 2.8GHz Qualcomm Adreno GPU 16GB RAM 512GB SSD Win 11 Home Luna Grey",
+        "url": "https://www.walmart.com.mx/ip/lenovo-83n3003gus-ideapad-slim-3-15q8x10-15-3-wuxga-snapdragon-x-x1-26-100-2-8ghz-qualcomm-adreno-gpu-16gb-ram-512gb-ssd-win-11-home-luna-grey/00019927116805",
+        "price": 13419.99,
+        "model": "83N3003GUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
+        "price": 13609.0,
+        "model": "83k700axlm"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
+        "price": 8589.0,
+        "model": "15AMN7"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
+        "price": 9519.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
+        "price": 26599.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 512GB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
+        "price": 21499.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
+        "price": 6899.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.3\" WUXGA Touch AMD Ryzen 7 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-touch-amd-ryzen-7-16gb-ram-512gb-ssd/00019927392295?athbdg=L1300",
+        "price": 13419.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
+        "price": 7999.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
+        "price": 12849.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "walmart",
+        "name": "LENOVO IDEAPAD SLIM 3 (83K700TUUS) 15.3\" 2K TOUCH RYZEN 7 16GB 512GB SSD W11 GRIS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-83k700tuus-15-3-2k-touch-ryzen-7-16gb-512gb-ssd-w11-gris/00750232957123?athbdg=L1300",
+        "price": 12729.0,
+        "model": "83K700TUUS"
+      }
+    ]
+  },
+  "sams|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
+    "ts": "2026-08-11T23:21:15.197610+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
+        "price": 13907.69,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
+        "price": 34776.89,
+        "model": "RAM/1"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
+        "price": 17897.39,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Flex 5 Ryzen 5/8 GB RAM/512 GB 14A + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-flex-5-ryzen-5-8-gb-ram-512-gb-14a-mochila-mouse/981008318",
+        "price": 19433.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad 1 AMD Ryzen 7/16 GB RAM/512 GB SDD + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-1-amd-ryzen-7-16-gb-ram-512-gb-sdd-mochila-mouse/981022913",
+        "price": 10225.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3/Ryzen 7/16 GB RAM/1 TB IPSLIM3-AXLM + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-ryzen-7-16-gb-ram-1-tb-ipslim3-axlm-mochila/981044391",
+        "price": 10225.91,
+        "model": "IPSLIM3-AXLM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 5/8 GB RAM/512 GB SSD MJLM + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-amd-ryzen-5-8-gb-ram-512-gb-ssd-mjlm-mochila/981035506",
+        "price": 8178.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
+        "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
+        "price": 20966.39,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
+        "price": 16876.43,
+        "model": "gen/8"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
+        "price": 12467.27,
+        "model": "RAM/256"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/8 GB RAM/512 GB SSD 6VLM + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-8-gb-ram-512-gb-ssd-6vlm-mochila-mouse/981038992",
+        "price": 8178.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
+        "price": 29354.99,
+        "model": "3-1ALM"
+      }
+    ]
+  },
+  "amazon|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
+    "ts": "2026-08-11T23:21:17.642522+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Pixie Titán con Aeroccino 3 y Termo | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0FL4DC8S4",
+        "price": 3421.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso, Cafetera, Citiz Platinum, Sistema Original, Color Titan (Incluye Café de Regalo)",
+        "url": "https://www.amazon.com.mx/dp/B0CTS5X6B8",
+        "price": 5290.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso De'Longhi Pixie EN127.S - Cafetera de cápsulas de café, dos teclas de selección directa, modo ECO, diseño compacto, sistema de presión de 19 bares, 1260 W, color plateado y negro",
+        "url": "https://www.amazon.com.mx/dp/B0CQPN4ZT3",
+        "price": 2999.0,
+        "model": "EN127"
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Pixie Original Espresso Machine by Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B01NAW5CYK",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
+        "price": 3490.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bandeja De Agua, Compatible Con Nespresso, Compatible Con Nestlé, Cafetera De Cápsulas Pixie C61/C60, Depósito De Agua, Bandeja De Agua, Tapa, Accesorios EN125(Cup holder)",
+        "url": "https://www.amazon.com.mx/dp/B0G2GP5MX5",
+        "price": 455.63,
+        "model": "C61/C60"
+      },
+      {
+        "store": "amazon",
+        "name": "Rejilla de goteo para máquinas de café Pixie compatible con máquinas Krups, Delonghi y Nespresso Pixie, rejilla para bandeja de goteo de café, mantiene la encimera limpia y evita manchas y daños,",
+        "url": "https://www.amazon.com.mx/dp/B0D7BN5L8X",
+        "price": 389.05,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Krups Nespresso tanque agua tapa máquina café Esencia Mini XN110",
+        "url": "https://www.amazon.com.mx/dp/B0979DHKBP",
+        "price": 623.28,
+        "model": "XN110"
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Pixie Máquina espresso de De'Longhi, azul oscuro",
+        "url": "https://www.amazon.com.mx/dp/B0DJG16Y9S",
+        "price": 4031.59,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Anakel Home ANAKEL HOME MS-624403 - Cafetera de repuesto para depósito de agua, compatible con cafetera Nespresso INISSIA, incluye tapa, 0,7 l, no compatible con otros modelos",
+        "url": "https://www.amazon.com.mx/dp/B09PZ4B29D",
+        "price": 699.99,
+        "model": "MS-624403"
+      },
+      {
+        "store": "amazon",
+        "name": "Mini máquina de café espresso para cápsulas compatible con la máquina Nespresso OriginalL, cafetera espresso de servicio único, cápsulas de café Bestpresso Peet's Espresso más (negro)",
+        "url": "https://www.amazon.com.mx/dp/B0CBWT7ST3",
+        "price": 2624.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Pixie Máquina de café espresso de una sola porción por De'Longhi, aluminio",
+        "url": "https://www.amazon.com.mx/dp/B0D971QH6N",
+        "price": 4903.74,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
+    "ts": "2026-08-11T23:21:24.932362+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera De′Longhi Nespresso Pixie EN127.S Silver 19 Bar",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-longhi-nespresso-pixie-en127-s-silver-19-bar/00800439902875?athbdg=L1300",
+        "price": 4599.0,
+        "model": "EN127"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Espresso Nespresso Pixie de Aluminio por De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-nespresso-pixie-de-aluminio-por-de-longhi/00004438701270",
+        "price": 6499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-deluxe-de-breville-con-espumador-de-leche-titan/00002161480805?athbdg=L1300",
+        "price": 4219.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
+    "ts": "2026-08-11T23:21:32.327509+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 3774.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 4141.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 4237.25,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
       }
     ]
   }
