@@ -697,113 +697,8 @@
     "ts": "2026-08-10T15:54:57.203146+00:00",
     "items": []
   },
-  "palacio|BC155NV": {
-    "ts": "2026-08-09T02:59:26.086245+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Botella de Tinta T555 Cian",
-        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-t555-cian-42564622.html",
-        "price": 431.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Batidor en acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/birkmann-batidor-en-acero-inoxidable-44618993.html",
-        "price": 104.7,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Botella de tinta Original HP GT52 Cian M0H54AL Deskjet 5810, 5821",
-        "url": "https://www.elpalaciodehierro.com/hp-botella-de-tinta-original-hp-gt52-cian-m0h54al-deskjet-5810-5821-41687045.html",
-        "price": 203.15,
-        "model": "M0H54AL"
-      },
-      {
-        "store": "palacio",
-        "name": "Cinturón en piel reversible 30 mm",
-        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-en-piel-reversible-30-mm-44949769.html",
-        "price": 7200.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Escurridor Compacto",
-        "url": "https://www.elpalaciodehierro.com/brabantia-escurridor-compacto-39250335.html",
-        "price": 1253.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 15p3 RMS400IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-15p3-rms400ivmrp0-negro-44964259.html",
-        "price": 11894.35,
-        "model": "RMS400IVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Lentes oftálmicos cuadrados negros Hombre",
-        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-negros-hombre-44073654.html",
-        "price": 7339.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Hervidor de agua The Smart Kettle Luxe",
-        "url": "https://www.elpalaciodehierro.com/breville-hervidor-de-agua-the-smart-kettle-luxe-45007813.html",
-        "price": 4399.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lentes oftálmicos rectangulares negros Hombre",
-        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-rectangulares-negros-hombre-43662699.html",
-        "price": 7929.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lentes oftálmicos Cuadrados Hombre",
-        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-hombre-43391382.html",
-        "price": 5859.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Secador Azul Gris",
-        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-azul-gris-44095152.html",
-        "price": 273.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Set de 4 Focos White & Color Ambiance + Hue Bridge",
-        "url": "https://www.elpalaciodehierro.com/philips-set-de-4-focos-white-color-ambiance-hue-bridge-43117574.html",
-        "price": 4118.25,
-        "model": null
-      }
-    ]
-  },
-  "amazon|BC155NV": {
-    "ts": "2026-08-09T02:59:28.190667+00:00",
-    "items": []
-  },
-  "walmart|BC155NV": {
-    "ts": "2026-08-09T02:59:31.009302+00:00",
-    "items": []
-  },
-  "sams|BC155NV": {
-    "ts": "2026-08-09T02:59:33.228481+00:00",
-    "items": []
-  },
-  "mercadolibre|BC155NV": {
-    "ts": "2026-08-09T02:59:34.875550+00:00",
-    "items": []
-  },
   "palacio|RR43D6AGX1": {
-    "ts": "2026-08-09T02:59:39.638427+00:00",
+    "ts": "2026-08-11T03:02:13.387935+00:00",
     "items": [
       {
         "store": "palacio",
@@ -828,6 +723,13 @@
       },
       {
         "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13329.38,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
         "name": "Refrigerador French Door 25 p3 GM65FPP",
         "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
         "price": 19764.41,
@@ -835,10 +737,10 @@
       },
       {
         "store": "palacio",
-        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
-        "price": 13329.38,
-        "model": "RT42DG6774S9EM"
+        "name": "Refrigerador dúplex 27 p3 Side by Side VS28LNP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-duplex-27-p3-side-by-side-vs28lnp-44968791.html",
+        "price": 27341.38,
+        "model": "VS28LNP"
       },
       {
         "store": "palacio",
@@ -851,7 +753,7 @@
         "store": "palacio",
         "name": "Galaxy Watch 9 44mm Verde",
         "url": "https://www.elpalaciodehierro.com/samsung-galaxy-watch-9-44mm-verde-45637741.html",
-        "price": 6299.16,
+        "price": 6224.17,
         "model": null
       },
       {
@@ -860,20 +762,6 @@
         "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-gemelo-1020-l-gempdf19ebtcds-negro-42970045.html",
         "price": 67339.35,
         "model": "GEMPDF19EBTCDS"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Freezer 16 p3 VT45AWP Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html",
-        "price": 16199.4,
-        "model": "VT45AWP"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador dúplex 27 p3 Side by Side VS28LNP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-duplex-27-p3-side-by-side-vs28lnp-44968791.html",
-        "price": 27341.38,
-        "model": "VS28LNP"
       },
       {
         "store": "palacio",
@@ -888,35 +776,30 @@
         "url": "https://www.elpalaciodehierro.com/hisense-refrigerador-duplex-22-p3-rs22n6ibx-45479180.html",
         "price": 19889.49,
         "model": "RS22N6IBX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerado French Door 19 p3 4 Puertas KRQC736RPS",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerado-french-door-19-p3-4-puertas-krqc736rps-45441409.html",
+        "price": 97369.3,
+        "model": "KRQC736RPS"
       }
     ]
   },
   "amazon|RR43D6AGX1": {
-    "ts": "2026-08-09T02:59:40.917105+00:00",
+    "ts": "2026-08-11T03:02:14.602093+00:00",
     "items": []
   },
   "walmart|RR43D6AGX1": {
-    "ts": "2026-08-09T02:59:42.986184+00:00",
+    "ts": "2026-08-11T03:02:16.289929+00:00",
     "items": []
   },
   "sams|RR43D6AGX1": {
-    "ts": "2026-08-09T02:59:44.326848+00:00",
+    "ts": "2026-08-11T03:02:18.139146+00:00",
     "items": []
   },
   "mercadolibre|RR43D6AGX1": {
-    "ts": "2026-08-09T02:59:45.599045+00:00",
-    "items": []
-  },
-  "amazon|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
-    "ts": "2026-08-09T03:02:24.318258+00:00",
-    "items": []
-  },
-  "walmart|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
-    "ts": "2026-08-09T03:02:26.053877+00:00",
-    "items": []
-  },
-  "sams|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
-    "ts": "2026-08-09T03:02:27.865030+00:00",
+    "ts": "2026-08-11T03:02:19.374778+00:00",
     "items": []
   },
   "amazon|7535HS": {
@@ -3276,6 +3159,270 @@
   },
   "sams|HPHYPERXLAPTOPGAMINGNVIDIA": {
     "ts": "2026-08-10T23:52:17.792540+00:00",
+    "items": []
+  },
+  "palacio|BASICS1": {
+    "ts": "2026-08-11T03:01:52.637678+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pulsera Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-pulsera-basics-mujer-45357968.html",
+        "price": 1000.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cartera Back to basics liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-cartera-back-to-basics-liso-mujer-45347105.html",
+        "price": 1750.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aretes en plata .925 Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-plata-.925-basics-mujer-42036386.html",
+        "price": 2750.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Arracadas en plata vermeil Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-arracadas-en-plata-vermeil-basics-mujer-40466267.html",
+        "price": 2750.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Muñeca Barbie Basics 07",
+        "url": "https://www.elpalaciodehierro.com/barbie-muneca-barbie-basics-07-45322680.html",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Alargador de pulsera en plata vermeil Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-alargador-de-pulsera-en-plata-vermeil-basics-mujer-41972791.html",
+        "price": 500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aretes triple aro en plata Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-aretes-triple-aro-en-plata-basics-mujer-43925155.html",
+        "price": 2000.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aretes en oro amarillo de 18 kilates con perlas Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-oro-amarillo-de-18-kilates-con-perlas-basics-mujer-44278674.html",
+        "price": 5500.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Collar con eslabones Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-collar-con-eslabones-basics-mujer-45637161.html",
+        "price": 1100.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Gargantilla en plata .925 Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-gargantilla-en-plata-.925-basics-mujer-42622836.html",
+        "price": 1600.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aretes en Plata .925 Basics Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-plata-.925-basics-mujer-40466271.html",
+        "price": 1800.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cartera Back to basics liso Mujer",
+        "url": "https://www.elpalaciodehierro.com/tous-cartera-back-to-basics-liso-mujer-45276848.html",
+        "price": 3000.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|BASICS1": {
+    "ts": "2026-08-11T03:01:55.278595+00:00",
+    "items": []
+  },
+  "walmart|BASICS1": {
+    "ts": "2026-08-11T03:01:57.482379+00:00",
+    "items": []
+  },
+  "sams|BASICS1": {
+    "ts": "2026-08-11T03:01:59.479132+00:00",
+    "items": []
+  },
+  "mercadolibre|BASICS1": {
+    "ts": "2026-08-11T03:02:01.467668+00:00",
+    "items": []
+  },
+  "palacio|WH22DBH570GWAX": {
+    "ts": "2026-08-11T03:02:19.848274+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
+        "price": 29325.38,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
+        "price": 16607.52,
+        "model": "WM22WV26SR"
+      },
+      {
+        "store": "palacio",
+        "name": "Centro de Lavado WH22DBH570EWAX Electrico, Frontal, 22 Kg",
+        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-wh22dbh570ewax-electrico-frontal-22-kg-44586077.html",
+        "price": 33494.45,
+        "model": "WH22DBH570EWAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Automática 22 Kg Con Agitador Carga Superior",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-con-agitador-carga-superior-45068400.html",
+        "price": 10024.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Grill 1.1 Pies MG32DG4524CGAX Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-grill-1.1-pies-mg32dg4524cgax-negro-44047751.html",
+        "price": 3444.35,
+        "model": "MG32DG4524CGAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora semiautomática 19 kg con pulsador, carga superior WA19CG6746BVAX",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html",
+        "price": 10439.42,
+        "model": "WA19CG6746BVAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Horno de Microondas Bespoke 1p3 Gris",
+        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-bespoke-1p3-gris-42904176.html",
+        "price": 3704.35,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora a gas 22 Kg carga superior DT22EGTX",
+        "url": "https://www.elpalaciodehierro.com/lg-secadora-a-gas-22-kg-carga-superior-dt22egtx-45001057.html",
+        "price": 16429.47,
+        "model": "DT22EGTX"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
+        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
+        "price": 12035.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Walkman WM1AM2, Negro",
+        "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
+        "price": 19239.48,
+        "model": "WM1AM2"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 28943.52,
+        "model": "WD22BV2S6R"
+      }
+    ]
+  },
+  "amazon|WH22DBH570GWAX": {
+    "ts": "2026-08-11T03:02:21.252951+00:00",
+    "items": []
+  },
+  "walmart|WH22DBH570GWAX": {
+    "ts": "2026-08-11T03:02:23.120825+00:00",
+    "items": []
+  },
+  "sams|WH22DBH570GWAX": {
+    "ts": "2026-08-11T03:02:24.591515+00:00",
+    "items": []
+  },
+  "mercadolibre|WH22DBH570GWAX": {
+    "ts": "2026-08-11T03:02:26.181868+00:00",
+    "items": []
+  },
+  "liverpool|100QNED85BS": {
+    "ts": "2026-08-11T03:02:26.901480+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Mini Led Qned De 100 Pulgadas 4K Uhd 100Qned85Bs Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-mini-led-qned-de-100-pulgadas-4k-uhd-100qned85bs-con-evo-ai/1199016241",
+        "price": 74999.25,
+        "model": "100Qned85Bs"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
+        "price": 12099.0,
+        "model": "55Qned83Asg"
+      },
+      {
+        "store": "liverpool",
+        "name": "Proyector Hisense Dlt100 E",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/proyector-hisense-dlt100-e/999681687364",
+        "price": 114999.0,
+        "model": "Dlt100"
+      }
+    ]
+  },
+  "amazon|100QNED85BS": {
+    "ts": "2026-08-11T03:02:28.797126+00:00",
+    "items": []
+  },
+  "walmart|100QNED85BS": {
+    "ts": "2026-08-11T03:02:31.057917+00:00",
+    "items": []
+  },
+  "sams|100QNED85BS": {
+    "ts": "2026-08-11T03:02:32.650907+00:00",
+    "items": []
+  },
+  "mercadolibre|100QNED85BS": {
+    "ts": "2026-08-11T03:02:33.903386+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-11T03:02:35.573040+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-11T03:02:37.794886+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-11T03:02:39.441823+00:00",
     "items": []
   }
 }
