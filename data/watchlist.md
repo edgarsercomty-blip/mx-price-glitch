@@ -199,7 +199,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
 | 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,289 | -29% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Ln8221Mx 12 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-ln8221mx-12-velocidades/1123821587) | $1,505 | -29% |
-| 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $6,590 | -26% |
+| 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,619 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $376 | -25% |
 | 🟢 disponible | liverpool | [Congelador Hisense Fc88D6Cbx1 Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-hisense-fc88d6cbx1-horizontal-9-pies-cubicos/1116121073) | $8,059 | -24% |
 | 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $12,494 | -24% |
@@ -469,7 +469,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | -29% |
 | 🟢 disponible | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | -32% |
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $195 | -20% |
-| 🟢 disponible | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | -20% |
+| 🟢 disponible | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $127 | -20% |
 | 🟢 disponible | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $195 | -20% |
 | 🟢 disponible | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | -20% |
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $127 | -20% |
@@ -485,7 +485,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $4,100 | -37% |
 | 🟢 disponible | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | -30% |
-| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -43% |
+| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $1,999 | -43% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $12,540 | -32% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $8,252 | -20% |

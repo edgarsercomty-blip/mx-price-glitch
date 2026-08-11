@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-11 11:06 UTC
+# Errores/chollos de precio — 2026-08-11 11:58 UTC
 
-- Productos revisados: **1614**
+- Productos revisados: **1655**
 - Umbral de diferencia: **20%**
 - Hallazgos: **42**
 
@@ -9,6 +9,7 @@
 | -51% | $27,539 | palacio | [Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html) | $26,460 | Confirmado vs competencia | $26,460 en palacio vs mercado -> -51% bajo la competencia |
 | -29% | $23,111 | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | Confirmado vs competencia | $56,889 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $17,250 | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | Confirmado vs competencia | $40,249 en palacio vs mercado -> -30% bajo la competencia |
+| -32% | $15,493 | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | Confirmado vs competencia | $32,922 en palacio vs mercado -> -32% bajo la competencia |
 | -26% | $12,305 | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | Confirmado vs competencia | $35,844 en palacio vs mercado -> -26% bajo la competencia |
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $10,800 | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | Confirmado vs competencia | $16,199 en palacio vs mercado -> -40% bajo la competencia |
@@ -47,4 +48,3 @@
 | -31% | $450 | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | Confirmado vs competencia | $989 en palacio vs mercado -> -31% bajo la competencia |
 | -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
-| -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
