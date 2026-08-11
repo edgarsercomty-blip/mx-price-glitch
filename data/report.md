@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-10 23:52 UTC
+# Errores/chollos de precio — 2026-08-11 01:00 UTC
 
-- Productos revisados: **1658**
+- Productos revisados: **1616**
 - Umbral de diferencia: **20%**
-- Hallazgos: **46**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -36,7 +36,6 @@
 | -20% | $1,620 | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | Confirmado vs competencia | $6,479 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $1,600 | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -40% bajo la competencia |
-| -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
 | -53% | $1,280 | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | Confirmado vs competencia | $1,120 en palacio vs mercado -> -53% bajo la competencia |
 | -29% | $998 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -29% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
@@ -51,4 +50,3 @@
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $70 | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | Confirmado vs competencia | $280 en palacio vs mercado -> -20% bajo la competencia |
-| -50% | $68 | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | Confirmado vs competencia | $68 en liverpool vs mercado -> -50% bajo la competencia |
