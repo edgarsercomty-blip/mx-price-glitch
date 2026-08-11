@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11 16:34 UTC",
-  "products_scanned": 1587,
+  "generated_at": "2026-08-11 17:35 UTC",
+  "products_scanned": 1605,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,26 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$651 en mercadolibre vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 625.0,
-      "store": "mercadolibre",
-      "name": "Controles Del Reproductor De Consola #x8 | Inalambricos",
-      "url": "https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168",
-      "price": 651.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM2047274168"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 53.4,
       "detail": "$10,713 en liverpool vs mercado -> -48% bajo la competencia",
       "likely_typo": false,
@@ -106,46 +86,6 @@
       "extra": {
         "productId": "1200279162",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.7,
-      "detail": "$444 en sams vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 373.38,
-      "store": "sams",
-      "name": "Licuadora Personal Koblenz  MSKM-600 2PS",
-      "url": "https://www.sams.com.mx/ip/licuadora-personal-koblenz-mskm-600-2ps/981039640",
-      "price": 444.0,
-      "list_price": 817.38,
-      "ean": null,
-      "model": "MSKM-600",
-      "brand": "Koblenz",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981039640"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 7.6,
-      "detail": "$849 en walmart vs sams $1,499, walmart $2,189 -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 650.0,
-      "store": "walmart",
-      "name": "Pistola de Calor SainSmart 1800W Temperatura Variable 50-650°C 110V",
-      "url": "https://www.walmart.com.mx/ip/pistola-de-calor-sainsmart-1800w-temperatura-variable-50-650-c-110v/00081655002508?athbdg=L1300",
-      "price": 849.0,
-      "list_price": 919.0,
-      "ean": null,
-      "model": "1800W",
-      "brand": "Sainsmart",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00081655002508"
       }
     },
     {
@@ -213,26 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 39.2,
-      "detail": "$13,999 en sams vs mercado -> -39% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9017.46,
-      "store": "sams",
-      "name": "Refrigerador Midea  French Door 19 Pies Cúbicos MDRF700FGM45",
-      "url": "https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254",
-      "price": 13999.0,
-      "list_price": 23016.46,
-      "ean": null,
-      "model": "MDRF700FGM45",
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981052254"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 46.4,
       "detail": "$13,392 en liverpool vs mercado -> -36% bajo la competencia",
       "likely_typo": false,
@@ -250,126 +170,6 @@
       "extra": {
         "productId": "1192293321",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.9,
-      "detail": "$999 en sams vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 534.47,
-      "store": "sams",
-      "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
-      "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
-      "price": 999.0,
-      "list_price": 1533.47,
-      "ean": null,
-      "model": null,
-      "brand": "Hamilton Beach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981045739"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.8,
-      "detail": "$13,999 en sams vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7482.96,
-      "store": "sams",
-      "name": "Refrigerador Midea  20 Pies Cúbicos Side By Side Plus Inverter Bru Steel MDRS710FGM46",
-      "url": "https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735",
-      "price": 13999.0,
-      "list_price": 21481.96,
-      "ean": null,
-      "model": "MDRS710FGM46",
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981036735"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$4,499 en mercadolibre vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2395.0,
-      "store": "mercadolibre",
-      "name": "Pantalla Smart Tv Roku 43 PuLG. Jvc",
-      "url": "https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473",
-      "price": 4499.0,
-      "list_price": 4499.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM20656473"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.5,
-      "detail": "$1,942 en sams vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1023.0,
-      "store": "sams",
-      "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-      "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-      "price": 1941.65,
-      "list_price": 2964.65,
-      "ean": null,
-      "model": null,
-      "brand": "T-fal",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050797"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 15.6,
-      "detail": "$759 en walmart vs walmart $1,149, walmart $1,469, sams $1,599 -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 390.0,
-      "store": "walmart",
-      "name": "Procesador de Alimentos Hamilton Beach 4 Tazas Negro",
-      "url": "https://www.walmart.com.mx/ip/Procesador-de-Alimentos-Hamilton-Beach-4-Tazas-Negro/00004009470510?athbdg=L1300",
-      "price": 759.0,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Hamilton Beach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00004009470510"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,399 en mercadolibre vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2241.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Semiautomática White-Westinghouse de 13 kg y Doble Tina con Centrifugado",
-      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221",
-      "price": 4399.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM47040221"
       }
     },
     {
@@ -416,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$32,922 en palacio vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15492.8,
+      "store": "palacio",
+      "name": "Laptop Gaming Omen HyperX 15.3\", Nvidia RTX 5060, Intel Core i7, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html",
+      "price": 32922.2,
+      "list_price": 48415.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45504579",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
       "likely_typo": false,
@@ -433,6 +254,27 @@
       "extra": {
         "id": "45215651",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
@@ -521,126 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.6,
-      "detail": "$1,533 en sams vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 613.78,
-      "store": "sams",
-      "name": "Batidora de Pedestal Daewoo Blanco",
-      "url": "https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847",
-      "price": 1533.48,
-      "list_price": 2147.26,
-      "ean": null,
-      "model": null,
-      "brand": "Daewoo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981010847"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.4,
-      "detail": "$11,499 en sams vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4561.07,
-      "store": "sams",
-      "name": "Lavasecadora Midea  Frontal 15 kg Lavado/ 8 kg Secado MF210D150WB/T",
-      "url": "https://www.sams.com.mx/ip/lavasecadora-midea-frontal-15-kg-lavado-8-kg-secado-mf210d150wb-t/981050369",
-      "price": 11499.0,
-      "list_price": 16060.07,
-      "ean": null,
-      "model": "MF210D150WB/T",
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050369"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.4,
-      "detail": "$2,049 en walmart vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 800.0,
-      "store": "walmart",
-      "name": "Refrigerador Portátil Sunnimix 12V con Congelador",
-      "url": "https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300",
-      "price": 2049.0,
-      "list_price": 2057.18,
-      "ean": null,
-      "model": null,
-      "brand": "Sm Sunnimix",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00075535817203"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,525 en mercadolibre vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 969.0,
-      "store": "mercadolibre",
-      "name": "Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Televisión 32\" Bluetooth Hdmi Wi-fi Negro Con Dolby Audio",
-      "url": "https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159",
-      "price": 2525.0,
-      "list_price": 2525.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM27346159"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.7,
-      "detail": "$25,799 en sams vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9391.17,
-      "store": "sams",
-      "name": "Refrigerador GE Profile  26 Pies Cúbicos Dúplex Black Steel PNM26PGTFPS",
-      "url": "https://www.sams.com.mx/ip/refrigerador-ge-profile-26-pies-cubicos-duplex-black-steel-pnm26pgtfps/981036222",
-      "price": 25799.0,
-      "list_price": 35190.17,
-      "ean": null,
-      "model": "PNM26PGTFPS",
-      "brand": "Ge Profile",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981036222"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$970 en amazon vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 349.49,
-      "store": "amazon",
-      "name": "Puma Club 5v5 - Tenis para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0CLQ4LYFB",
-      "price": 970.2,
-      "list_price": 323.4,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0CLQ4LYFB"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -662,46 +384,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$1,021 en sams vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 358.03,
-      "store": "sams",
-      "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-      "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-      "price": 1020.95,
-      "list_price": 1378.98,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981009012"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.9,
-      "detail": "$1,022 en sams vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 358.04,
-      "store": "sams",
-      "name": "Accesorio Rallador/Cortador KitchenAid  para Batidora KSMVSA",
-      "url": "https://www.sams.com.mx/ip/accesorio-rallador-cortador-kitchenaid-para-batidora-ksmvsa/981024190",
-      "price": 1021.98,
-      "list_price": 1380.02,
-      "ean": null,
-      "model": null,
-      "brand": "Kitchenaid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981024190"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 33.0,
       "detail": "$35,844 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -719,46 +401,6 @@
       "extra": {
         "id": "45353704",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$2,879 en walmart vs sams $19,947, sams $19,947 -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 985.0,
-      "store": "walmart",
-      "name": "Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- NEGRO",
-      "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300",
-      "price": 2879.0,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": "128gb",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00880609582888"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.3,
-      "detail": "$750 en amazon vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 249.28,
-      "store": "amazon",
-      "name": "Guess Loven Zapatillas para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B09NLBWH3K",
-      "price": 749.72,
-      "list_price": 1299.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B09NLBWH3K"
       }
     },
     {
@@ -826,26 +468,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$920 en sams vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 306.89,
-      "store": "sams",
-      "name": "Licuadora Daewoo con Molino 1.5L",
-      "url": "https://www.sams.com.mx/ip/licuadora-daewoo-con-molino-1-5l/981010849",
-      "price": 919.68,
-      "list_price": 1226.57,
-      "ean": null,
-      "model": null,
-      "brand": "Daewoo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981010849"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -909,26 +531,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 43.1,
-      "detail": "$265 en walmart vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 84.0,
-      "store": "walmart",
-      "name": "Fragancia Nautica 200ml.",
-      "url": "https://www.walmart.com.mx/ip/fragancia-nautica-200ml-/00361422883403?athbdg=L1300",
-      "price": 265.0,
-      "list_price": 466.0,
-      "ean": null,
-      "model": "200ml",
-      "brand": "Nautica",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00361422883403"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -946,26 +548,6 @@
       "extra": {
         "id": "45366538",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.6,
-      "detail": "$13,298 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4092.0,
-      "store": "sams",
-      "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905",
-      "price": 13297.98,
-      "list_price": 19435.96,
-      "ean": null,
-      "model": "15-fc0276la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043905"
       }
     },
     {
@@ -1013,27 +595,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Medianoche Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824645",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 2989.77,
@@ -1050,26 +611,6 @@
       "extra": {
         "id": "42077608",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.5,
-      "detail": "$10,229 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2950.02,
-      "store": "sams",
-      "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-      "price": 10228.98,
-      "list_price": 19129.06,
-      "ean": null,
-      "model": "15-eg2523la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981030009"
       }
     },
     {
@@ -1116,26 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$3,899 en mercadolibre vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1091.0,
-      "store": "mercadolibre",
-      "name": "Hisense Lavadora Semiautomática Doble Tina Wsa1104p | Capacidad De Lavado 11 Kg Centrifugado 5.5 Kg | Motores Independientes | Cubierta Antioxidante De Plástico | 3 Perillas De Control",
-      "url": "https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070",
-      "price": 3899.0,
-      "list_price": null,
-      "ean": null,
-      "model": "Wsa1104p",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM67475070"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -1153,26 +674,6 @@
       "extra": {
         "id": "45366544",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 12.4,
-      "detail": "$227 en amazon vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 61.0,
-      "store": "amazon",
-      "name": "Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Multicolor para Regalo de Fiesta de Cumpleaños",
-      "url": "https://www.amazon.com.mx/dp/B0BVRBNZZ2",
-      "price": 227.0,
-      "list_price": 259.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BVRBNZZ2"
       }
     },
     {
@@ -1219,87 +720,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$3,375 en sams vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 895.97,
-      "store": "sams",
-      "name": "Airpods Apple  con Estuche de Carga Blanco",
-      "url": "https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208",
-      "price": 3374.88,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "980020208"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 49.0,
-      "detail": "$41,768 en palacio vs sams $52,786 -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11017.26,
-      "store": "palacio",
-      "name": "Lavasecadora a gas LP, 26 kg, 24 kg, Bespoke AI carga frontal FWD90F26AUDSP",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-a-gas-lp-26-kg-24-kg-bespoke-ai-carga-frontal-fwd90f26audsp-44770750.html",
-      "price": 41768.49,
-      "list_price": 81899.0,
-      "ean": null,
-      "model": "FWD90F26AUDSP",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44770750",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1450.0,
-      "store": "walmart",
-      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
-      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165",
-      "price": 5490.0,
-      "list_price": 9799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750940184165"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1300.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
-      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
-      "price": 4999.0,
-      "list_price": null,
-      "ean": null,
-      "model": "Lrk-2311a",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM46517919"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -1317,26 +737,6 @@
       "extra": {
         "id": "44824190",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.9,
-      "detail": "$14,321 en sams vs walmart $17,996 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3675.02,
-      "store": "sams",
-      "name": "Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SSD 14-he0000la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728",
-      "price": 14320.98,
-      "list_price": 21993.47,
-      "ean": null,
-      "model": "14-he0000la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043728"
       }
     },
     {
@@ -1379,6 +779,27 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
       }
     },
     {
@@ -1463,26 +884,6 @@
       "extra": {
         "id": "43135869",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$1,021 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 255.75,
-      "store": "sams",
-      "name": "Licuadora Oster  Clásica 1.25L Gris",
-      "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-      "price": 1020.95,
-      "list_price": 1634.74,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "980028698"
       }
     }
   ]
