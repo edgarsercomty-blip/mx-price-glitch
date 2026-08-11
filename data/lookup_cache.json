@@ -120,27 +120,27 @@
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-09T08:20:20.401519+00:00",
+    "ts": "2026-08-11T09:15:30.116875+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-09T08:20:22.218995+00:00",
+    "ts": "2026-08-11T09:15:31.829597+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-09T08:20:24.193662+00:00",
+    "ts": "2026-08-11T09:15:36.552437+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-09T08:20:33.444909+00:00",
+    "ts": "2026-08-11T09:15:50.927194+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-09T08:20:34.915344+00:00",
+    "ts": "2026-08-11T09:15:52.138758+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-09T08:20:36.713239+00:00",
+    "ts": "2026-08-11T09:15:53.773192+00:00",
     "items": []
   },
   "amazon|HEADPLAYERAPOLOHEADTIPO": {
@@ -790,28 +790,16 @@
     "ts": "2026-08-11T08:04:41.822860+00:00",
     "items": []
   },
-  "amazon|HPGAMINGLAPTOPHYPERXNVIDIA": {
-    "ts": "2026-08-09T08:20:26.592152+00:00",
-    "items": []
-  },
-  "walmart|HPGAMINGLAPTOPHYPERXNVIDIA": {
-    "ts": "2026-08-09T08:20:30.034094+00:00",
-    "items": []
-  },
-  "sams|HPGAMINGLAPTOPHYPERXNVIDIA": {
-    "ts": "2026-08-09T08:20:31.786079+00:00",
-    "items": []
-  },
   "amazon|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-09T08:20:39.565694+00:00",
+    "ts": "2026-08-11T09:15:54.846984+00:00",
     "items": []
   },
   "walmart|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-09T08:20:42.446225+00:00",
+    "ts": "2026-08-11T09:15:56.134598+00:00",
     "items": []
   },
   "sams|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-09T08:20:44.038674+00:00",
+    "ts": "2026-08-11T09:15:57.502802+00:00",
     "items": []
   },
   "amazon|APPLEEXTENSIBLEWATCHAPPLEKHAKI": {
@@ -3459,6 +3447,18 @@
   },
   "sams|RMB520IWMRP1": {
     "ts": "2026-08-11T08:04:36.735157+00:00",
+    "items": []
+  },
+  "amazon|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-11T09:15:43.119867+00:00",
+    "items": []
+  },
+  "walmart|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-11T09:15:46.300204+00:00",
+    "items": []
+  },
+  "sams|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
+    "ts": "2026-08-11T09:15:49.730261+00:00",
     "items": []
   }
 }
