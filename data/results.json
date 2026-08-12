@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 16:18 UTC",
-  "products_scanned": 2726,
+  "generated_at": "2026-08-12 16:22 UTC",
+  "products_scanned": 1566,
   "threshold_pct": 20.0,
-  "count": 58,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,26 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$648 en mercadolibre vs mercado -> -49% bajo la competencia",
-      "likely_typo": false,
-      "savings": 628.0,
-      "store": "mercadolibre",
-      "name": "Controles Del Reproductor De Consola #x8 | Inalambricos",
-      "url": "https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168",
-      "price": 648.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM2047274168"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 53.4,
       "detail": "$10,713 en liverpool vs mercado -> -48% bajo la competencia",
       "likely_typo": false,
@@ -85,26 +65,6 @@
       "extra": {
         "productId": "1200279162",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$5,990 en walmart vs mercado -> -42% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4310.0,
-      "store": "walmart",
-      "name": "TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM5K",
-      "url": "https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300",
-      "price": 5990.0,
-      "list_price": 12599.0,
-      "ean": null,
-      "model": "55QM5K",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00084046404537"
       }
     },
     {
@@ -210,46 +170,6 @@
       "extra": {
         "productId": "1172657709",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.0,
-      "detail": "$604 en amazon vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 359.16,
-      "store": "amazon",
-      "name": "Nautica - Tenis deportivos de moda para mujer, con cordones, para correr, casual, con amortiguación máxima",
-      "url": "https://www.amazon.com.mx/dp/B0DBWJ6LXF",
-      "price": 604.03,
-      "list_price": 794.74,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0DBWJ6LXF"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,399 en mercadolibre vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2241.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Semiautomática White-Westinghouse de 13 kg y Doble Tina con Centrifugado",
-      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221",
-      "price": 4399.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM47040221"
       }
     },
     {
@@ -458,46 +378,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 27.1,
-      "detail": "$3,490 en walmart vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1219.0,
-      "store": "walmart",
-      "name": "Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0",
-      "url": "https://www.walmart.com.mx/ip/lavadora-mabe-doble-tina-13-kg-blanca-lmdx3123hbab0/00075763838988?athbdg=L1300",
-      "price": 3490.0,
-      "list_price": 4790.0,
-      "ean": null,
-      "model": "LMDX3123HBAB0",
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00075763838988"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.3,
-      "detail": "$750 en amazon vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 249.28,
-      "store": "amazon",
-      "name": "Guess Loven Zapatillas para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B09NLBWH3K",
-      "price": 749.72,
-      "list_price": 1299.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B09NLBWH3K"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -557,46 +437,6 @@
       "extra": {
         "id": "43294637",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,999 en amazon vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1000.0,
-      "store": "amazon",
-      "name": "Bose QuietComfort - Auriculares Bluetooth con cancelación Activa de Ruido y micrófono, Graves Profundos, clasificación IPX4, hasta 8.5 Horas de Tiempo de reproducción, Rosa pétalo - Color de edición",
-      "url": "https://www.amazon.com.mx/dp/B0FC6KNK6X",
-      "price": 2999.0,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0FC6KNK6X"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$5,249 en amazon vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1749.98,
-      "store": "amazon",
-      "name": "Bose Audífonos inalámbricos con cancelación de Ruido QuietComfort, audífonos externos Bluetooth con hasta 24 Horas de duración de la batería, Azul Atardecer",
-      "url": "https://www.amazon.com.mx/dp/B0D4Z9BZV2",
-      "price": 5249.0,
-      "list_price": 6999.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0D4Z9BZV2"
       }
     },
     {
