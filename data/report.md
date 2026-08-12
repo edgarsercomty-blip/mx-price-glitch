@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-11 23:21 UTC
+# Errores/chollos de precio — 2026-08-12 00:11 UTC
 
-- Productos revisados: **1656**
+- Productos revisados: **1606**
 - Umbral de diferencia: **20%**
-- Hallazgos: **41**
+- Hallazgos: **40**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -46,4 +46,3 @@
 | -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |
 | -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |
-| -50% | $68 | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | Confirmado vs competencia | $68 en liverpool vs mercado -> -50% bajo la competencia |

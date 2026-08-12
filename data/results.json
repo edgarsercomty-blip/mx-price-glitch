@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11 23:21 UTC",
-  "products_scanned": 1656,
+  "generated_at": "2026-08-12 00:11 UTC",
+  "products_scanned": 1606,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,27 +23,6 @@
       "extra": {
         "id": "45505430",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 68.4,
-      "store": "liverpool",
-      "name": "Funda Para Almohada Ribbed",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
-      "price": 68.4,
-      "list_price": 228.0,
-      "ean": null,
-      "model": null,
-      "brand": "WEST ELM",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172986773",
-        "marketplace": null
       }
     },
     {
