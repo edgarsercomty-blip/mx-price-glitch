@@ -1,51 +1,9 @@
 {
-  "generated_at": "2026-08-12 16:22 UTC",
-  "products_scanned": 1566,
+  "generated_at": "2026-08-12 17:15 UTC",
+  "products_scanned": 1569,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 36,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.55,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1745.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43394466",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 53.4,
@@ -153,6 +111,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs walmart $2,819 -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1074.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
       "likely_typo": false,
@@ -237,26 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$699 en amazon vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "amazon",
-      "name": "UGREEN Audífonos Open Ear con ANC Cancelación Adaptativa 32H 4 Micrófono IA | Carga Rápida, Bluetooth 6.0, LDAC Alta Resolución,Para Llamadas, Ideal para Deporte,Oficina y Juegos,Negro",
-      "url": "https://www.amazon.com.mx/dp/B0DZX8G1ZB",
-      "price": 699.0,
-      "list_price": 999.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0DZX8G1ZB"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -296,64 +255,6 @@
         "id": "45481963",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.4,
-      "detail": "$4,290 en walmart vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1700.0,
-      "store": "walmart",
-      "name": "Pantalla 43 pulgadas Samsung Crystal U8200H 4K Smart TV (2026)",
-      "url": "https://www.walmart.com.mx/ip/pantalla-43-pulgadas-samsung-crystal-u8200h-4k-smart-tv-2026-/00750940184218",
-      "price": 4290.0,
-      "list_price": 7999.0,
-      "ean": null,
-      "model": "U8200H",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750940184218"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.4,
-      "detail": "$2,049 en walmart vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 800.0,
-      "store": "walmart",
-      "name": "Refrigerador Portátil Sunnimix 12V con Congelador",
-      "url": "https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300",
-      "price": 2049.0,
-      "list_price": 2057.18,
-      "ean": null,
-      "model": null,
-      "brand": "Sm Sunnimix",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00075535817203"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1780.28,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -399,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4497.5,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -436,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4497.5,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -525,26 +426,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.1,
-      "detail": "$2,000 en amazon vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 600.0,
-      "store": "amazon",
-      "name": "Baseus Inspire XC1 Audífonos Inalámbricos Open Ear, Sound by Bose | Dolby Audio, Hi-Res Wireless, LDAC, Driver Híbrido de 2 Vías, 4 Micrófonos, IP66, Hasta 40 Horas de Batería",
-      "url": "https://www.amazon.com.mx/dp/B0H153K79Y",
-      "price": 1999.99,
-      "list_price": 2599.99,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0H153K79Y"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -629,26 +510,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 16.7,
-      "detail": "$813 en amazon vs walmart $1,049 -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 235.77,
-      "store": "amazon",
-      "name": "Sony WI-C310 Intraaural Banda para cuello Negro - Auriculares (Intraaural, Banda para cuello, Inalámbrico, 20 - 20000 Hz, 0.2 m, Negro)",
-      "url": "https://www.amazon.com.mx/dp/B07R37BSZ6",
-      "price": 813.23,
-      "list_price": 975.94,
-      "ean": null,
-      "model": "WI-C310",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B07R37BSZ6"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$2,520 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -666,26 +527,6 @@
       "extra": {
         "id": "45130972",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.8,
-      "detail": "$4,899 en amazon vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1391.0,
-      "store": "amazon",
-      "name": "Nintendo Switch + Super Mario Bros Wonder + 3 meses gratis de Nintendo Switch Online",
-      "url": "https://www.amazon.com.mx/dp/B0FM1RC8RR",
-      "price": 4899.0,
-      "list_price": 7399.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0FM1RC8RR"
       }
     },
     {
@@ -711,86 +552,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 21.9,
-      "detail": "$468 en amazon vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 130.95,
-      "store": "amazon",
-      "name": "Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstalados, HDMI Plug & Play 4K para TV, 2 Controles/Mandos Inalámbricos, Multijugador, Consola de Videojuegos Familiar, Juegos 3D, Regalo Ideal",
-      "url": "https://www.amazon.com.mx/dp/B0FVTZ67ZF",
-      "price": 468.05,
-      "list_price": 599.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0FVTZ67ZF"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$3,899 en mercadolibre vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1091.0,
-      "store": "mercadolibre",
-      "name": "Hisense Lavadora Semiautomática Doble Tina Wsa1104p | Capacidad De Lavado 11 Kg Centrifugado 5.5 Kg | Motores Independientes | Cubierta Antioxidante De Plástico | 3 Perillas De Control",
-      "url": "https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070",
-      "price": 3899.0,
-      "list_price": null,
-      "ean": null,
-      "model": "Wsa1104p",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM67475070"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.6,
-      "detail": "$15,996 en walmart vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4403.0,
-      "store": "walmart",
-      "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
-      "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300",
-      "price": 15996.0,
-      "list_price": 20399.0,
-      "ean": null,
-      "model": "14-fp0054la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00019925125687"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$196 en amazon vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 53.36,
-      "store": "amazon",
-      "name": "NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette para Hombre, Fragancia Corporal Fougère con Notas Oceánicas, Verdes y Amaderadas, 100 ML",
-      "url": "https://www.amazon.com.mx/dp/B000P22TIY",
-      "price": 195.64,
-      "list_price": 195.64,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B000P22TIY"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -808,26 +569,6 @@
       "extra": {
         "id": "45366544",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 12.4,
-      "detail": "$227 en amazon vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 61.0,
-      "store": "amazon",
-      "name": "Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Multicolor para Regalo de Fiesta de Cumpleaños",
-      "url": "https://www.amazon.com.mx/dp/B0BVRBNZZ2",
-      "price": 227.0,
-      "list_price": 259.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BVRBNZZ2"
       }
     },
     {
@@ -895,26 +636,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$10,343 en mercadolibre vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2656.0,
-      "store": "mercadolibre",
-      "name": "Apple iPhone 13 128 GB Medianoche - Distribuidor Autorizado",
-      "url": "https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844",
-      "price": 10343.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM1018500844"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -932,26 +653,6 @@
       "extra": {
         "id": "43133039",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$5,490 en walmart vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1400.0,
-      "store": "walmart",
-      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
-      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165",
-      "price": 5490.0,
-      "list_price": 9799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750940184165"
       }
     },
     {
@@ -994,6 +695,27 @@
       "extra": {
         "productId": "9957691086",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1619.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
+      "price": 6479.28,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600342",
+        "outlet": false
       }
     },
     {

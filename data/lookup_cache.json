@@ -4616,18 +4616,6 @@
       }
     ]
   },
-  "amazon|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-10T17:10:25.172750+00:00",
-    "items": []
-  },
-  "walmart|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-10T17:10:30.155528+00:00",
-    "items": []
-  },
-  "sams|HPLAPTOPHYPERXNVIDIAGAMING": {
-    "ts": "2026-08-10T17:10:31.839773+00:00",
-    "items": []
-  },
   "amazon|APPLECELULARCANELABUMPERIPHONE": {
     "ts": "2026-08-10T18:05:08.071798+00:00",
     "items": []
@@ -24701,6 +24689,370 @@
   },
   "sams|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
     "ts": "2026-08-12T16:21:38.721071+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEMACBOOKRAM256": {
+    "ts": "2026-08-12T17:13:53.689518+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 256GB SSD de Memoria) Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FB57GXYP",
+        "price": 19999.0,
+        "model": "13-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Apple MacBook Air 2022 con chip Apple M2 (13.6 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) medianoche (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0BHC15G32",
+        "price": 14199.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
+        "price": 9335.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2023 Apple MacBook Air con Apple M2 Chip (15-pulgadas, 8GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CFT39XJZ",
+        "price": 16489.03,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "2022 Apple MacBook Pro with M2 Chip (13-Pulgadas, 8GB RAM, 256GB SSD Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BGQJ7LDN",
+        "price": 13920.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
+        "price": 17711.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air 13.3pulgadas MQD32LL/A, Intel Core i5-5350U 1.8Ghz, 8GB RAM, 256GB SSD, Plata (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07XQJ5BB9",
+        "price": 4199.0,
+        "model": "3pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2019 MacBook Pro con 2.6GHz Intel Core i7 (15-pulgadas, 16GB RAM, 256GB SSD) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0849W8JK7",
+        "price": 9267.34,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MNYF2LL/A 12in MacBook, Retina, 1.2GHz Intel Core m3 Dual Core Processor, 8GB RAM, 256GB SSD, Space Gray (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07JF3DKQ8",
+        "price": 6102.17,
+        "model": "MNYF2LL/A"
+      }
+    ]
+  },
+  "walmart|APPLEMEDIANOCHEMACBOOKRAM256": {
+    "ts": "2026-08-12T17:14:46.646602+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-indigo/00893336968316?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-plata/00893388451210?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple Chip M1 8-Core GPU 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-chip-m1-8-core-gpu-8gb-256gb-plata-reacondicionado/00750046568421?athbdg=L1300",
+        "price": 9371.0,
+        "model": "8-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m1-8-core-gpu-8gb-256gb-plata/00019425205617?athbdg=L1300",
+        "price": 13643.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-plata-reacondicionado/00076404678004?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Gris Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-gris-reacondicionado/00076404677995?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Macbook Air 13\" M1 8GB 256GB Gris Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/laptop-macbook-air-13-m1-8gb-256gb-gris-reacondicionado/00076404678017?athbdg=L1500",
+        "price": 10249.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Starlight Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-starlight-teclado-retroiluminado-touch-id/00019595068879?athbdg=L1300",
+        "price": 26839.0,
+        "model": "10-Core"
+      }
+    ]
+  },
+  "sams|APPLEMEDIANOCHEMACBOOKRAM256": {
+    "ts": "2026-08-12T17:14:51.985914+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-08-12T17:14:57.939617+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
+        "price": 2694.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5099.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 5949.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3978.85,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 2717.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 1875.18,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
+        "price": 4990.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow",
+        "url": "https://www.amazon.com.mx/dp/B0FJZC1Z61",
+        "price": 2790.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-08-12T17:15:13.856596+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
+        "price": 3369.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Next Coffee & Nespresso BNV550GRY1BUC1Nespresso",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-next-coffee-nespresso-bnv550gry1buc1nespresso/00002161480207?athbdg=L1300",
+        "price": 6892.0,
+        "model": "BNV550GRY1BUC1Nespresso"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712022",
+        "price": 3448.85,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville Red",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville-red/00002161480798?athbdg=L1300",
+        "price": 2819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
+        "price": 5269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Next ENV120GYAE Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-env120gyae-reacondicionado/00004438701205?athbdg=L1300",
+        "price": 4059.0,
+        "model": "ENV120GYAE"
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3919.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
+        "price": 3649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
+        "price": 7139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y Espresso Nespresso Vertuo Next de De'Longhi con e Nespresso Nespresso",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-de-de-longhi-con-e-nespresso-nespresso/00004438701206?athbdg=L1300",
+        "price": 4759.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
+        "price": 5269.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-08-12T17:15:14.951098+00:00",
     "items": []
   }
 }
