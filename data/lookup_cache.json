@@ -2195,15 +2195,185 @@
     ]
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-10T15:18:49.674764+00:00",
-    "items": []
+    "ts": "2026-08-12T15:33:44.454318+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
+        "price": 1895.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 2717.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 1875.18,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por Breville, blanco coco",
+        "url": "https://www.amazon.com.mx/dp/B0CS71J3GP",
+        "price": 2115.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Standalone by Breville, Lila",
+        "url": "https://www.amazon.com.mx/dp/B0FSNT1FX1",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Cafetera y espresso de edición limitada de De'Longhi, amarillo pastel",
+        "url": "https://www.amazon.com.mx/dp/B0DZH3VRT7",
+        "price": 2042.06,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow",
+        "url": "https://www.amazon.com.mx/dp/B0FJZC1Z61",
+        "price": 2790.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow Aeroccino3 espumador de leche",
+        "url": "https://www.amazon.com.mx/dp/B0FJZ2G6QJ",
+        "price": 3131.97,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo variedad 30 cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
+        "price": 635.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
+        "price": 2590.0,
+        "model": null
+      }
+    ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-10T15:18:51.837046+00:00",
-    "items": []
+    "ts": "2026-08-12T15:34:03.532320+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Café Nescafé Dolce Gusto KitKat 10 cápsulas",
+        "url": "https://www.walmart.com.mx/ip/cafe-nescafe-dolce-gusto-kitkat-10-capsulas/00789100040526",
+        "price": 109.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
+        "price": 3239.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Pack Lila",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-pack-lila/00002161481500?athbdg=L1300",
+        "price": 3919.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas de chocolate Nescafé Dolce Gusto chococino 16 pzas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-de-chocolate-nescafe-dolce-gusto-chococino-16-pzas/00761303569750",
+        "price": 171.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de De'Longhi, negro mate con cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-de-longhi-negro-mate-con-cromo-oscuro/00004438720921?athbdg=L1300",
+        "price": 3279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3919.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas Starbucks Nespresso Smooth Caramel 10 cápsulas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-starbucks-nespresso-smooth-caramel-10-capsulas/00844529015412",
+        "price": 170.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Pop+ De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-pop-de-longhi/00004438700920?athbdg=L1300",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de Breville, color blanco coco",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-breville-color-blanco-coco/00002161480800",
+        "price": 3339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas de café Starbucks by Nescafé Dolce Gusto latte macchiato 12 pzas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-de-cafe-starbucks-by-nescafe-dolce-gusto-latte-macchiato-12-pzas/00761303694139",
+        "price": 116.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas de café y leche Starbucks by Nescafé Dolce Gusto caramel macchiato 12 pzas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-de-cafe-y-leche-starbucks-by-nescafe-dolce-gusto-caramel-macchiato-12-pzas/00761303694270",
+        "price": 116.0,
+        "model": null
+      }
+    ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-10T15:19:00.596168+00:00",
+    "ts": "2026-08-12T15:34:51.467043+00:00",
     "items": []
   },
   "liverpool|75QM8K": {
@@ -4026,41 +4196,272 @@
     "ts": "2026-08-12T14:05:00.942504+00:00",
     "items": []
   },
-  "amazon|APPLECELULARIPHONECANELABUMPER": {
-    "ts": "2026-08-10T15:18:26.120643+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARIPHONECANELABUMPER": {
-    "ts": "2026-08-10T15:18:27.721173+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARIPHONECANELABUMPER": {
-    "ts": "2026-08-10T15:18:32.241648+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-10T15:18:33.810011+00:00",
-    "items": []
+    "ts": "2026-08-12T15:32:52.807690+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "STF Smartwatch Kronos Trek Reloj Inteligente Negro | Resistente al Agua, Modo Multideportivo, Monitores de Salud, Batería hasta 7 días",
+        "url": "https://www.amazon.com.mx/dp/B0CTD4Y73F",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correa de goma para Samsung Galaxy Watch 7 Ultra 47mm, pulsera de silicona para Galaxy Watch Ultra 47mm, pulsera deportiva",
+        "url": "https://www.amazon.com.mx/dp/B0DXCTTW9J",
+        "price": 769.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Para Samsung Galaxy Watch Ultra 47 mm Caja de reloj de metal",
+        "url": "https://www.amazon.com.mx/dp/B0DXCSLM9H",
+        "price": 709.44,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "EASYTAO Smartwatch Mujer Alexa, Llamadas Bluetooth, IP68, 1.91'' HD | Reloj Inteligente, Fitness Tracker, SpO2/Frecuencia Cardíaca, Monitor de Sueño, 100+ Modos Deportivos, iPhone y Android",
+        "url": "https://www.amazon.com.mx/dp/B0D66G4YPT",
+        "price": 498.0,
+        "model": "SpO2/Frecuencia"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch Ultra 47mm Titanio Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FCNT2GG1",
+        "price": 5799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch Ultra 2 Titanium Gris",
+        "url": "https://www.amazon.com.mx/dp/B0H1D46MPG",
+        "price": 14415.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (BT) Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0FCNPYS3X",
+        "price": 3654.15,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (BT) Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FCP4BLXH",
+        "price": 3899.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smartwatch Galaxy Fit 3 Oro Rosa, Nacional con Garantía",
+        "url": "https://www.amazon.com.mx/dp/B0CSYH6QFW",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
+        "price": 13386.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 Classic White 46mm",
+        "url": "https://www.amazon.com.mx/dp/B0FCNBRS44",
+        "price": 5099.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy Watch 5 40mm Bluetooth Smartwatch con Cuerpo, Salud, Fitness y sueño, Vidrio de Zafiro, Seguimiento GPS Mejorado, Bisel Plateado con Banda Blanca (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DM6VJ8X4",
+        "price": 1597.0,
+        "model": null
+      }
+    ]
   },
   "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-10T15:18:36.039091+00:00",
-    "items": []
+    "ts": "2026-08-12T15:33:21.596571+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Fit3 Rosa",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch Ultra Plata Titanio",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-plata-titanio/00880609571076?athbdg=L6000",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 8 Classic Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-negro/00880609748601?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 8 Classic Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-negro/00880609748601",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch Active2 40 mm Aqua Black",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-active2-40-mm-aqua-black/00088727637252?athbdg=L1300",
+        "price": 4209.0,
+        "model": "Active2"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-gris/00880609760415?athbdg=L1300",
+        "price": 7199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch8 44 mm Gris",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch8-44-mm-gris/00880609741638",
+        "price": 6099.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 8 40 mm AMOLED con GPS",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-40-mm-amoled-con-gps/00789250914430?athbdg=L1300",
+        "price": 5959.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Reloj inteligente SAMSUNG Galaxy Watch 7 40 mm Bluetooth AI 2024",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-reloj-inteligente-samsung-galaxy-watch-7-40-mm-bluetooth-ai-2024/00070367059829?athbdg=L1300",
+        "price": 3529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-gris/00880609760415",
+        "price": 7199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 8 40mm Bluetooth Grafito",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-40mm-bluetooth-grafito/00019895725479?athbdg=L1300",
+        "price": 8249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 8 Classic Blanco",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-blanco/00880609748599",
+        "price": 6499.0,
+        "model": null
+      }
+    ]
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-10T15:18:39.142218+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-10T15:18:43.109583+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-10T15:18:46.323150+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
-    "ts": "2026-08-10T15:18:48.306690+00:00",
-    "items": []
+    "ts": "2026-08-12T15:33:27.761040+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Negro 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-negro-46-mm/981039183",
+        "price": 5973.3,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Blanco 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-blanco-46-mm/981039184",
+        "price": 5973.3,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Silver Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-silver-desbloqueado/981037722",
+        "price": 19229.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Icy Blue Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-icy-blue-desbloqueado/981037720",
+        "price": 19229.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Jet Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-jet-black-desbloqueado/981037721",
+        "price": 19229.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Samsung Galaxy M55 5G 256 GB Verde + Smartwatch Actor Negro + Adaptador",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-5g-256-gb-verde-smartwatch-actor-negro-adaptador/981036410",
+        "price": 11242.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Samsung Galaxy M55 256 GB 5G Negro Desbloqueado + Smartwatch Actor + Adaptador ",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-256-gb-5g-negro-desbloqueado-smartwatch-actor-adaptador/981036409",
+        "price": 10945.06,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Silver",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-silver/981039181",
+        "price": 5420.88,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Dark Gray",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-dark-gray/981039176",
+        "price": 4909.38,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente SAMSUNG  Watch 7 40mm Beige",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-watch-7-40mm-beige/981026915",
+        "price": 3579.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Dark Gray",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-dark-gray/981039179",
+        "price": 4500.18,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Silver",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-silver/981039177",
+        "price": 4909.38,
+        "model": "Watch8"
+      }
+    ]
   },
   "liverpool|SOLOB19M": {
     "ts": "2026-08-10T15:54:33.318785+00:00",
@@ -23165,6 +23566,540 @@
         "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
         "price": 1707.39,
         "model": null
+      }
+    ]
+  },
+  "amazon|APPLEMEDIANOCHEMACBOOKSSD256": {
+    "ts": "2026-08-12T15:30:11.091768+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
+        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
+        "price": 66209.48,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 14.2 Pulgadas,24 GB de Memoria unificada, 1TB - Plata",
+        "url": "https://www.amazon.com.mx/dp/B0DLHQ59F1",
+        "price": 57999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SSD 256GB para MacBook Pro M.2 NVMe PCIe Gen3.0x4 Disco Duro Sólido Interno para MacBook Pro Retina 13 Pulgadas A1708(2016-2017) EMC 3164/2978 Non-Touch Bar",
+        "url": "https://www.amazon.com.mx/dp/B0CCXWS7ZF",
+        "price": 1881.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "GAMERKING (Interfaz Original 256GB SSD para Apple MacBook Pro Retina 13\" A1708 2016 2017 sin Touch Bar, Disco Duro SSD Interno 3D NAND TLC NVMe PCIe Gen3.0x4",
+        "url": "https://www.amazon.com.mx/dp/B0CFDSVL1M",
+        "price": 2221.83,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Apple MacBook Air 2022 con chip Apple M2 (13.6 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) medianoche (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0BHC15G32",
+        "price": 14199.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 256GB SSD de Memoria) Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FB57GXYP",
+        "price": 19999.0,
+        "model": "13-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
+        "price": 9335.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2023 Apple MacBook Air con Apple M2 Chip (15-pulgadas, 8GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CFT39XJZ",
+        "price": 16489.03,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air 13.3pulgadas MQD32LL/A, Intel Core i5-5350U 1.8Ghz, 8GB RAM, 256GB SSD, Plata (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07XQJ5BB9",
+        "price": 4199.0,
+        "model": "3pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
+        "price": 17711.94,
+        "model": "13-Pulgadas"
+      }
+    ]
+  },
+  "walmart|APPLEMEDIANOCHEMACBOOKSSD256": {
+    "ts": "2026-08-12T15:31:34.441436+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 14149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-indigo/00893336968316?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Port?til Apple MacBook Air, pantalla Retina de 13,6\", Apple M2, SSD de 256 GB, macOS Monterey, MLXW3LL/A Manzana MLXW3LL/A",
+        "url": "https://www.walmart.com.mx/ip/port-til-apple-macbook-air-pantalla-retina-de-13-6-apple-m2-ssd-de-256-gb-macos-monterey-mlxw3ll-a-manzana-mlxw3ll-a/00019425308041?athbdg=L6000",
+        "price": 35000.0,
+        "model": "MLXW3LL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-plata/00893388451210?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m1-8-core-gpu-8gb-256gb-plata/00019425205617?athbdg=L1300",
+        "price": 13643.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple Chip M1 8-Core GPU 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-chip-m1-8-core-gpu-8gb-256gb-plata-reacondicionado/00750046568421?athbdg=L1300",
+        "price": 9371.0,
+        "model": "8-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-plata-reacondicionado/00076404678004?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Dorado Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-dorado-reacondicionado/00076404678003?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|APPLEMEDIANOCHEMACBOOKSSD256": {
+    "ts": "2026-08-12T15:31:51.349252+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
+        "price": 28098.73,
+        "model": "M2/512"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035030",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035029",
+        "price": 31497.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/8C GPU/16GB/256GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-8c-gpu-16gb-256gb-ssd-azul-medianoche/981035015",
+        "price": 24998.99,
+        "model": "GPU/16GB/256GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
+        "price": 23323.37,
+        "model": "M1/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
+        "price": 10998.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      }
+    ]
+  },
+  "amazon|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-12T15:32:03.499767+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 AMD Ryzen™ AI 9 HX 370/ NVIDIA® GeForce RTX™ 5070/18 Tops/ 4K OLED 16:10: 60Hz/ 64GB/ 2TB SSD/Wi-Fi 7; Bluetooth® 5.4/ Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0FL9WF437",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 Go Pro/Ryzen AI MAX+ 388/AMD Radeon Graphics/50 Tops/Pantalla 13\" 3K OLED Touch/32GB RAM/1TB SSD/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ78ZQGF",
+        "price": 42999.0,
+        "model": "Graphics/50"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 Ryzen AI 9 HX 370/RTX 5070 (8GB GDDR7)/50 Tops/Pantalla 16\" 3K OLED Touch/64GB RAM/2TB SSD/Mochila y Adaptador USB-A a RJ45 /Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6QMKSR",
+        "price": 58799.02,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 / 16\" 3K OLED/AMD Ryzen AI 9 HX 370 /NVIDIA RTX 5060/32GB /1TB SSD/DialPad/Incluye Mochila y Adaptador/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BXLDV",
+        "price": 47599.32,
+        "model": "5060/32GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 /, Ryzen AI 9 HX 370/RTX 5090/50 Tops/Pantalla 16\" 4K OLED Touch/64GB RAM/2TB SSD/Mochila/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5J6NJ7",
+        "price": 90287.24,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 AI Gaming Laptop 2 en 1 visualización táctil AMOLED 2.8K visualización (AMD Ryzen AI 9 HX 370, 32GB LPDDR5X, 1TB SSD, KB retroiluminado, Win 11 Home) con Microsoft 365 Personal, DKZ",
+        "url": "https://www.amazon.com.mx/dp/B0DLBRXBPZ",
+        "price": 58890.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 2 en 1 AI Creator Laptop 13.3 pulgadas Touch OLED 3K 500 nits (Ryzen AI 9 HX 370, 32GB LPDDR5X, 2TB SSD, KYB retroiluminado, WiFi 7, BT 5.4, Win11P) w/AI Copilot, DKZ USB Port",
+        "url": "https://www.amazon.com.mx/dp/B0DL7VN8Q7",
+        "price": 73099.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 (Reemplaza P16) Laptop AI 2 en 1 de 13.3\" Pantalla Táctil OLED 3K 500 nits (Ryzen AI 9 HX 370, RTX 4050, 32GB LPDDR5X, 1TB SSD, Teclado Retroiluminado, WiFi 7, BT 5.4, Win11P) con",
+        "url": "https://www.amazon.com.mx/dp/B0DL7XB4HM",
+        "price": 59350.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Expertbook P1/Ryzen 5/ 8G RAM / 512SSD/ Wi-Fi 6 + Bluetooth 5.4/ Diseñada para Seguridad empresarial/Mochila + Mouse (Servicio y garantía con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FWG8334L",
+        "price": 9899.0,
+        "model": "P1/Ryzen"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ExpertBook PM3 14\" - Portátil empresarial AMD Ryzen AI7 350, 32 GB de RAM, 1 TB SSD, WiFi 7, Windows 11 Pro, Gris brumoso, PM3406CKA-XS76",
+        "url": "https://www.amazon.com.mx/dp/B0FLNTBHTQ",
+        "price": 26360.82,
+        "model": "PM3406CKA-XS76"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S16 / AMD Ryzen 9 270/ NPU 16 TOPS/16GB - 512GB SSD/Carga Rápida USB-C 65W/Cámara con Rconocimiento Facial/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FKMCBKFM",
+        "price": 18155.32,
+        "model": "TOPS/16GB"
+      }
+    ]
+  },
+  "walmart|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-12T15:32:13.182971+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
+        "price": 64350.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 8GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-8gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919490696?athbdg=L1300",
+        "price": 11999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919510943?athbdg=L1300",
+        "price": 13999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ROG Zephyrus G14 14” OLED 3K 120Hz Gaming AMD Ryzen 9 270 16GB LPDDR5X GeForce RTX 5060 1TB SSD Platinum White",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-zephyrus-g14-14-oled-3k-120hz-gaming-amd-ryzen-9-270-16gb-lpddr5x-geforce-rtx-5060-1tb-ssd-platinum-white/00019710586144?athbdg=L6000",
+        "price": 70419.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 2TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-2tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155453?athbdg=L1300",
+        "price": 41393.08,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-e1404fa-eb923w-r5-16gb-512gb/00019929140091",
+        "price": 11997.0,
+        "model": "E1404FA-EB923W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 1TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-1tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155451?athbdg=L1300",
+        "price": 37144.78,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      }
+    ]
+  },
+  "sams|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-12T15:32:29.051472+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fc0377la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fc0377la/981050997",
+        "price": 12999.0,
+        "model": "15-fc0377la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905",
+        "price": 12999.0,
+        "model": "15-fc0276la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
+        "price": 22999.0,
+        "model": "15-fb3021la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
+        "price": 11999.0,
+        "model": "15-fc0253la"
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2658.78,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 18412.98,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming Asus  F16 Core i5/8 GB RAM/512 GB SSD FX607VJ-RL039W",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-asus-f16-core-i5-8-gb-ram-512-gb-ssd-fx607vj-rl039w/981039333",
+        "price": 14399.0,
+        "model": "FX607VJ-RL039W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
+        "price": 17999.0,
+        "model": "15-FB3011LA"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 15343.98,
+        "model": "M1605NAQ-MB231W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 14320.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 26085.48,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
+        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
+        "price": 13093.38,
+        "model": "X1504MA-BQ353W"
       }
     ]
   }
