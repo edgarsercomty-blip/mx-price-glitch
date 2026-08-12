@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-12 09:05 UTC
+# Errores/chollos de precio — 2026-08-12 10:28 UTC
 
-- Productos revisados: **1515**
+- Productos revisados: **1507**
 - Umbral de diferencia: **20%**
-- Hallazgos: **32**
+- Hallazgos: **33**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -16,6 +16,7 @@
 | -22% | $4,950 | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | Confirmado vs competencia | $17,549 en palacio vs mercado -> -22% bajo la competencia |
 | -25% | $4,498 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $13,492 | Confirmado vs competencia | $13,492 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
+| -20% | $3,720 | palacio | [Refrigerador Bottom Mount de 520 Litros Black Stainless RMB5…](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html) | $14,640 | Confirmado vs competencia | $14,640 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $3,464 | palacio | [Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, SSD 51…](https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html) | $10,335 | Confirmado vs competencia | $10,335 en palacio vs walmart $13,799, amazon $14,549 -> -25% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |

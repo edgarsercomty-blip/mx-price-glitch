@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 09:05 UTC",
-  "products_scanned": 1515,
+  "generated_at": "2026-08-12 10:28 UTC",
+  "products_scanned": 1507,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -547,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45345508",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
+      "ean": null,
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43133039",
         "outlet": false
       }
     },

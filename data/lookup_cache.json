@@ -229,18 +229,6 @@
     "ts": "2026-08-11T01:00:43.394738+00:00",
     "items": []
   },
-  "amazon|EDGE70": {
-    "ts": "2026-08-10T10:09:52.050960+00:00",
-    "items": []
-  },
-  "walmart|EDGE70": {
-    "ts": "2026-08-10T10:09:53.679218+00:00",
-    "items": []
-  },
-  "sams|EDGE70": {
-    "ts": "2026-08-10T10:09:55.247100+00:00",
-    "items": []
-  },
   "amazon|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
     "ts": "2026-08-10T12:27:28.682627+00:00",
     "items": []
@@ -3742,54 +3730,6 @@
         "model": "15-fc0000la"
       }
     ]
-  },
-  "amazon|HPNVIDIAHYPERXLAPTOPGAMING": {
-    "ts": "2026-08-10T10:09:42.559289+00:00",
-    "items": []
-  },
-  "walmart|HPNVIDIAHYPERXLAPTOPGAMING": {
-    "ts": "2026-08-10T10:09:44.358127+00:00",
-    "items": []
-  },
-  "sams|HPNVIDIAHYPERXLAPTOPGAMING": {
-    "ts": "2026-08-10T10:09:46.399255+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKNUCLEOSGPUCPU": {
-    "ts": "2026-08-10T10:09:47.765721+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKNUCLEOSGPUCPU": {
-    "ts": "2026-08-10T10:09:49.105003+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKNUCLEOSGPUCPU": {
-    "ts": "2026-08-10T10:09:50.772338+00:00",
-    "items": []
-  },
-  "amazon|ZIDS240NSS": {
-    "ts": "2026-08-10T10:09:59.464409+00:00",
-    "items": []
-  },
-  "walmart|ZIDS240NSS": {
-    "ts": "2026-08-10T10:10:01.112097+00:00",
-    "items": []
-  },
-  "sams|ZIDS240NSS": {
-    "ts": "2026-08-10T10:10:02.535050+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-10T10:10:04.373364+00:00",
-    "items": []
-  },
-  "walmart|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-10T10:10:11.792624+00:00",
-    "items": []
-  },
-  "sams|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-10T10:10:19.512124+00:00",
-    "items": []
   },
   "amazon|MLTS101M2SGDW": {
     "ts": "2026-08-10T11:27:50.881539+00:00",
@@ -21121,6 +21061,540 @@
         "store": "sams",
         "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
         "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      }
+    ]
+  },
+  "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-08-12T10:27:37.284429+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
+        "price": 13527.24,
+        "model": "7-7730U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S16 / AMD Ryzen 9 270/ NPU 16 TOPS/16GB - 512GB SSD/Carga Rápida USB-C 65W/Cámara con Rconocimiento Facial/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FKMCBKFM",
+        "price": 18155.32,
+        "model": "TOPS/16GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 14 (2025)/ Ryzen 3 7320U/ AMD Radeon Graphics/ 8GB - 512GB SSD/Wi-Fi 5 + Bluetooth 5.1/ Teclado en Español (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
+        "price": 7999.0,
+        "model": "7320U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 15 - Portátil FHD de 15,6 Pulgadas, procesador AMD Ryzen 5 40 (hasta 4,3 GHz), 8 GB de RAM, SSD de 512 GB, gráficos Radeon, Fino y Ligero, Wi-Fi 6E, Bluetooth 5.3, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0GWM4DJ94",
+        "price": 8559.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook Go 14/E1404FA-NK480W/AMD Ryzen 5-7520U 4 núcleos/8GB RAM/512GB SSD/Plata/Windows 11/Mouse y Mochila/Teclado en Español(Grantía y Servicio en México) + Hub USB-C 5",
+        "url": "https://www.amazon.com.mx/dp/B0FB6SC3D4",
+        "price": 9963.97,
+        "model": "14/E1404FA-NK480W/AMD"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 14/ AMD Ryzen 5 40 / Radeon Graphics/ 14\" FHD/8GB / 512GB SSD/Incluye Mochila y Mouse/Garantía y Servicio con la Marca en México (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQVQV6NG",
+        "price": 8799.0,
+        "model": "FHD/8GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook - Computadora portátil de 14 pulgadas - Intel Core i7-1355U o AMD Ryzen 7 4700U - 12GB de RAM - SSD de 512GB - Windows 11 - Office 365 por un año - Computadora para negocios, estudiantes",
+        "url": "https://www.amazon.com.mx/dp/B0FZ9YVV7W",
+        "price": 13138.68,
+        "model": "i7-1355U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 14/ AMD Ryzen 5-7520U/ 8GB - 512GB SSD/Teclado en Español + Mouse y Mochila (Garantía y Servicio en México) (Modelo 2024)",
+        "url": "https://www.amazon.com.mx/dp/B0D6P47B38",
+        "price": 9599.0,
+        "model": "5-7520U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Laptop: Ryzen AI 5 330, RAM DDR5 de 16 GBD, SSD de 512 GB, visualización Full HD+ IPS de 16 pulgadas, Windows 11",
+        "url": "https://www.amazon.com.mx/dp/B0G4QJVBWB",
+        "price": 18950.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
+        "price": 12999.0,
+        "model": "15-fc0372la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 16/AMD RYZEN 7-7730U /16GB /512 SSD (Garantía y Servicio en México) + Microsoft 365 Personal (12 Meses)",
+        "url": "https://www.amazon.com.mx/dp/B0F6QF8XSJ",
+        "price": 15376.24,
+        "model": "7-7730U"
+      }
+    ]
+  },
+  "walmart|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-08-12T10:27:42.692841+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-amd-ryzen-5-150-8gb-ddr5-ssd-512gb-pantalla-15-6-ips-fhd-windows-11-teclado-espanol/00070452118646",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook Go 15.6\" FHD Ryzen 5 7520U 8GB RAM 512GB SSD Windows 11 Color Cool Silver",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-ryzen-5-7520u-8gb-ram-512gb-ssd-windows-11-color-cool-silver/00019710545735?athbdg=L6000",
+        "price": 21180.0,
+        "model": "7520U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
+        "price": 13786.26,
+        "model": "D413UA-R78G512"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook X1504VA-E85362W C5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1504va-e85362w-c5-16gb-512gb/00019929138370",
+        "price": 14997.0,
+        "model": "X1504VA-E85362W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook Go 14 AMD Ryzen 5 7520U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español + Mouse DXT",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-14-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-14-windows-11-home-teclado-en-espanol-mouse-dxt/00070452118389?athbdg=L6000",
+        "price": 19798.0,
+        "model": "7520U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1407KA-LY147W R AI5 16GB 1TB Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1407ka-ly147w-r-ai5-16gb-1tb-azul/00019929116770",
+        "price": 15997.0,
+        "model": "M1407KA-LY147W"
+      }
+    ]
+  },
+  "sams|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-08-12T10:27:50.325122+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
+        "price": 14999.0,
+        "model": "15-FD2360LA"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
+        "price": 15343.98,
+        "model": "15-fa2009la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fc0377la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fc0377la/981050997",
+        "price": 12999.0,
+        "model": "15-fc0377la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
+        "price": 22999.0,
+        "model": "15-fb3021la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 14320.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
+        "price": 7876.08,
+        "model": "E1404FA-NK341W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
+        "price": 12274.98,
+        "model": "D1605YA-MB470W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
+        "price": 11999.0,
+        "model": "15-fc0253la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
+        "price": 14730.18,
+        "model": "M1407KA-LY137W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
+        "price": 10228.98,
+        "model": "E1504FA-BQ5166W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
+        "price": 10638.18,
+        "model": "X1504VA-NJ2530W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
+        "price": 17999.0,
+        "model": "15-FB3011LA"
+      }
+    ]
+  },
+  "amazon|APPLEESPACIALMACBOOKAIR256": {
+    "ts": "2026-08-12T10:28:09.338458+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Macally - mouse inalámbrico Bluetooth para Mac, MacBook Pro/Air, iPad, portátil y PC, silencioso clic y cómodo mouse inalámbrico Apple - Recargable - Gris espacial",
+        "url": "https://www.amazon.com.mx/dp/B0D2TXLVVZ",
+        "price": 586.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16 - Laptop para Juegos - AMD Ryzen 5 7535HS Beat i7-10875H - RTX 4050-32GB RAM| SSD de 1 TB -Teclado retroiluminado RGB - WUXGA de 16 Pulgadas - Windows 11 - Edición de vídeo - Notebook",
+        "url": "https://www.amazon.com.mx/dp/B0CJJJHCFT",
+        "price": 28464.79,
+        "model": "i7-10875H"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop para Windows11, Pantalla IPS de Resolución 2K de 15,6 Pulgadas, 16 GB de RAM (LPDDR4), Procesador N5095, 4 Núcleos y 4 Subprocesos, Portátil Ultradelgada con Teclado Retroiluminado(16+1 TB)",
+        "url": "https://www.amazon.com.mx/dp/B0BXLKH4XD",
+        "price": 10781.15,
+        "model": "Windows11"
+      },
+      {
+        "store": "amazon",
+        "name": "SATECHI Teclado Numérico Extendido Bluetooth, 34 Teclas, Gris Espacial | Distribución en inglés de EE. UU., compatible con MacBook Air/Pro/Neo, iPad Air/Pro, Mac Mini, iMac",
+        "url": "https://www.amazon.com.mx/dp/B07YVPTY94",
+        "price": 1079.95,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPad Air 2025 con Chip M3 (11 Pulgadas, Wi-Fi, 256 GB) - Gris Espacial (Premium renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0FZDXL3V3",
+        "price": 14805.02,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
+        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
+        "price": 9335.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2020 Laptop MacBook Air: Chip M1 de Apple, Pantalla Retina de 13 Pulgadas, 8 GB de RAM, Almacenamiento SSD de 256 GB, Teclado retroiluminado, cámara FaceTime HD y Touch ID - Gris Espacial",
+        "url": "https://www.amazon.com.mx/dp/B08N6Q71P7",
+        "price": 15999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air 2022 con chip Apple M2, 13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD - Gris espacial (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0BLYG2JBR",
+        "price": 14320.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
+        "price": 17711.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR6PXSTQ",
+        "price": 17499.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEESPACIALMACBOOKAIR256": {
+    "ts": "2026-08-12T10:28:16.503686+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple Chip M1 8-Core GPU 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-chip-m1-8-core-gpu-8gb-256gb-plata-reacondicionado/00750046568421?athbdg=L1300",
+        "price": 9371.0,
+        "model": "8-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Plata Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-plata-reacondicionado/00076404678004?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Dorado Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-dorado-reacondicionado/00076404678003?athbdg=L1500",
+        "price": 7689.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Macbook Air 13\" M1 8GB 256GB Gris Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/laptop-macbook-air-13-m1-8gb-256gb-gris-reacondicionado/00076404678017?athbdg=L1500",
+        "price": 10249.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Port?til Apple MacBook Air, pantalla Retina de 13,6\", Apple M2, SSD de 256 GB, macOS Monterey, MLXW3LL/A Manzana MLXW3LL/A",
+        "url": "https://www.walmart.com.mx/ip/port-til-apple-macbook-air-pantalla-retina-de-13-6-apple-m2-ssd-de-256-gb-macos-monterey-mlxw3ll-a-manzana-mlxw3ll-a/00019425308041?athbdg=L6000",
+        "price": 35000.0,
+        "model": "MLXW3LL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-indigo/00893336968316?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15 Pulgadas 16 GB 256 GB Azul Cielo",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-15-pulgadas-16-gb-256-gb-azul-cielo/00019594989351?athbdg=L1300",
+        "price": 32988.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-plata/00893388451210?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEESPACIALMACBOOKAIR256": {
+    "ts": "2026-08-12T10:28:24.665201+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
+        "price": 23323.37,
+        "model": "M1/256"
+      },
+      {
+        "store": "sams",
+        "name": "iPad Air Apple  13\" M3 256 GB WiFi Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-256-gb-wifi-gris-espacial/981035006",
+        "price": 20247.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad Air Apple  11\" M3 256 GB WiFi Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/ipad-air-apple-11-m3-256-gb-wifi-gris-espacial/981034995",
+        "price": 15747.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
+        "price": 26997.0,
+        "model": "GPU/16GB/256GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035035",
         "price": 31497.0,
         "model": "GPU/16GB/512GB"
       }
