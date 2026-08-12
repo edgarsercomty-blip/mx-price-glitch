@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (725)
+# Historial de ofertas encontradas (727)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 23:04 | -29% | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gra…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html) | $23,429 | $23,429 en palacio vs mercado -> -29% bajo la competencia |
+| 2026-08-12 23:04 | -40% | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | $3,299 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-12 22:04 | -51% | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | $377 en liverpool vs amazon $769 -> -51% bajo la competencia |
 | 2026-08-12 19:29 | -28% | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desb…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | $4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia |
 | 2026-08-12 16:18 | -21% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $196 | $196 en amazon vs mercado -> -21% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-15 08:38 | -28% | liverpool | [Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495) | $14,917 | $14,917 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-15 06:08 | -25% | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | $625 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 00:56 | -30% | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | $380 en liverpool vs mercado -> -30% bajo la competencia |
-| 2026-07-15 00:56 | -33% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | $212 en liverpool vs mercado -> -33% bajo la competencia |
-| 2026-07-15 00:56 | -40% | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | $6,530 en liverpool vs mercado -> -40% bajo la competencia |

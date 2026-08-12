@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-12 22:04 UTC",
-  "products_scanned": 1594,
+  "generated_at": "2026-08-12 23:04 UTC",
+  "products_scanned": 1570,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 32,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$377 en liverpool vs amazon $769 -> -51% bajo la competencia",
-      "likely_typo": false,
-      "savings": 391.6,
-      "store": "liverpool",
-      "name": "Cafetera De Goteo Oster Bvstdcp121B",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637",
-      "price": 377.4,
-      "list_price": 629.0,
-      "ean": null,
-      "model": "Bvstdcp121B",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1184812637",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -70,48 +49,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$11,999 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7999.6,
-      "store": "palacio",
-      "name": "MacBook Air, 13.6\", M2, RAM 8 GB, SSD 256 GB, Gris espacial",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-gris-espacial-42622361.html",
-      "price": 11999.4,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42622361",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,999 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7999.6,
-      "store": "palacio",
-      "name": "MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoche",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html",
-      "price": 11999.4,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42622367",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
       "detail": "$2,399 en palacio vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 1599.6,
@@ -127,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45522776",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$3,299 en palacio vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2199.6,
+      "store": "palacio",
+      "name": "iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata",
+      "url": "https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html",
+      "price": 3299.4,
+      "list_price": 5499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42036980",
         "outlet": false
       }
     },
@@ -153,23 +111,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 33.4,
-      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "discount_pct": 51.0,
+      "detail": "$26,460 en palacio vs mercado -> -34% bajo la competencia",
       "likely_typo": false,
-      "savings": 349.0,
-      "store": "liverpool",
-      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
-      "price": 799.0,
-      "list_price": 1199.0,
+      "savings": 13769.74,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG",
+      "url": "https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html",
+      "price": 26459.51,
+      "list_price": 53999.0,
       "ean": null,
-      "model": null,
-      "brand": "FLAVORSTONE",
+      "model": "85QNED81BSG",
+      "brand": "Lg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1178603252",
-        "marketplace": null
+        "id": "45505430",
+        "outlet": false
       }
     },
     {
@@ -211,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9569.71,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
+      "price": 23429.29,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44444419",
         "outlet": false
       }
     },
@@ -466,27 +445,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Medianoche Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824645",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 2989.77,
@@ -502,27 +460,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Blanco Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44639312",
         "outlet": false
       }
     },
@@ -671,6 +608,27 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 230.0,
+      "store": "palacio",
+      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
+      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
+      "price": 920.0,
+      "list_price": 2300.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44004165",
+        "outlet": false
       }
     },
     {

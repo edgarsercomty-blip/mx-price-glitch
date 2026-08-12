@@ -4616,18 +4616,6 @@
       }
     ]
   },
-  "amazon|HPNVIDIAGAMINGHYPERXLAPTOP": {
-    "ts": "2026-08-10T22:39:11.540429+00:00",
-    "items": []
-  },
-  "walmart|HPNVIDIAGAMINGHYPERXLAPTOP": {
-    "ts": "2026-08-10T22:39:13.277260+00:00",
-    "items": []
-  },
-  "sams|HPNVIDIAGAMINGHYPERXLAPTOP": {
-    "ts": "2026-08-10T22:39:15.183376+00:00",
-    "items": []
-  },
   "amazon|WESTELMALMOHADARIBBEDFUNDA": {
     "ts": "2026-08-10T23:16:31.542317+00:00",
     "items": []
@@ -26329,6 +26317,552 @@
   },
   "sams|BVSTDCP121B": {
     "ts": "2026-08-12T22:04:29.818617+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-12T23:03:23.793247+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
+        "price": 1798.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Color Salvia ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J5ZKXZ",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7X4QV",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Morado Claro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6WJSW",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Gris carbón ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J5BGCB",
+        "price": 2004.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio (para iPad Pro de 11 Pulgadas), Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B07K25B9DD",
+        "price": 1030.85,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-12T23:03:32.281100+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
+        "price": 1189.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
+        "price": 2539.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
+        "price": 2379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio para iPad Pro de 12,9\" blanco",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-12-9-blanco/00019425243859?athbdg=L1300",
+        "price": 1339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
+        "price": 2059.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Smart Folio de Apple para iPad Pro de 11\" blanca",
+        "url": "https://www.walmart.com.mx/ip/funda-smart-folio-de-apple-para-ipad-pro-de-11-blanca/00019425243844?athbdg=L1300",
+        "price": 2449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio Para Ipad Pro De 13 Pulgadas (M4) - Mezclilla",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-13-pulgadas-m4-mezclilla/00019594943880?athbdg=L1300",
+        "price": 2349.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
+        "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
+        "price": 875.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
+        "price": 1039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
+        "price": 2379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "n4A For iPad Pro 11 (2024) Leather Case Tree Pattern Folio Stand d7M Smart Tablet Cover -",
+        "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
+        "price": 672.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
+        "price": 2789.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-12T23:03:33.679608+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-08-12T23:03:38.005662+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "OPPO A6x Gris Desbloqueado, 128GB+4GB, Pantalla 6.75\" 120 Hz, Batería de Larga Duración (6100 mAh)",
+        "url": "https://www.amazon.com.mx/dp/B0G61PJWGX",
+        "price": 3399.0,
+        "model": "128GB+4GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Yoidesu Teléfono para Adultos Mayores 2G, 16800mAh, Botones Grandes y SOS | Pantalla 2.6\", SOS emergencia, linterna dual LED，altavoz potente, batería radio, carga USB, diseño resistente",
+        "url": "https://www.amazon.com.mx/dp/B0BK9YM1TC",
+        "price": 699.99,
+        "model": "16800mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "Infinix Celular Hot70 128GB+8GB (4+4GB extendible) Sim Dual NFC Dive Blue | AI Helio G100 Ultimate 6nm Batería 5600mAh Cámara 50MP IA Doble Flash Android XOS 16",
+        "url": "https://www.amazon.com.mx/dp/B0H4CVLV9K",
+        "price": 3599.0,
+        "model": "128GB+8GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Desbloqueado Teléfono Inteligente, 5.45in 1+8GB 128GB Almacenamiento Expandible Pantalla HD Teléfono Tarjeta Dual Doble Modo espera Teléfono Celular Android Reconocimiento Facial Teléfono Móvil(Oro)",
+        "url": "https://www.amazon.com.mx/dp/B08XLX3DPB",
+        "price": 1899.0,
+        "model": "1+8GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 Edge, 256 Gb, Titanium Icy Blue - Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GCPVNK28",
+        "price": 12147.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 512GB Titanium Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CW7WZFS6",
+        "price": 15147.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB RAM 512GB Titanium Amarillo Desbloqueado Tel?fono Celular Inal?mbrico (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4RB1187",
+        "price": 14999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Azul Marino 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKL2R28",
+        "price": 7173.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Celular Galaxy A56 5G Gris 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0DXR38YH2",
+        "price": 6768.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Lila 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKCMVDM",
+        "price": 7199.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S26 Ultra Negro 512GB (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0G4B54DR1",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB Ram 1TB Titanium Naranja Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D2RV66RD",
+        "price": 15199.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-08-12T23:03:45.104476+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S26 Ultra Violeta 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-violeta-512gb-desbloqueado/00880609786692",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S25 EDGE Titanium Silver Desbloqueado 256GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-edge-titanium-silver-desbloqueado-256gb/00880609734412?athbdg=L6000",
+        "price": 37350.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 Ultra 256GB Amarillo Titanio Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-ultra-256gb-amarillo-titanio-desbloqueado/00880609533850?athbdg=L1300",
+        "price": 26554.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S26 Ultra Negro 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-negro-512gb-desbloqueado/00880609786828",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 Ultra 256GB Negro Titanio Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-ultra-256gb-negro-titanio-desbloqueado/00880609533871?athbdg=L1300",
+        "price": 26551.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S25 Ultra 12GB RAM 512GB ROM Azul Titanio Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-12gb-ram-512gb-rom-azul-titanio-desbloqueado/00880609588236?athbdg=L1300",
+        "price": 29091.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 Ultra 12GB RAM 256GB ROM Gris Titanio Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-ultra-12gb-ram-256gb-rom-gris-titanio-desbloqueado/00880609533864?athbdg=L1300",
+        "price": 19999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S25 Ultra 256 GB Plata Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-plata-desbloqueado/00750665821635?athbdg=L1300",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 LTE Azul 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-azul-128gb-desbloqueado/00880609766862",
+        "price": 3099.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A35 5G + 4G LTE (128GB + 6GB) Pantalla 6.6\" 120Hz / Triple Cámara de 50MP / GSM Desbloqueado / Versión Internacional Smartphone Dual SIM / Nuevo (SM-A356E)",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a35-5g-4g-lte-128gb-6gb-pantalla-6-6-120hz-triple-camara-de-50mp-gsm-desbloqueado-version-internacional-smartphone-dual-sim-nuevo-sm-a356e-/00073187567795",
+        "price": 6299.0,
+        "model": "SM-A356E"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A56 8GB RAM 256GB ROM Rosa Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a56-8gb-ram-256gb-rom-rosa-desbloqueado/00880609704753?athbdg=L1300",
+        "price": 6899.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 LTE Negro 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-negro-128gb-desbloqueado/00880609766688?athbdg=L1300",
+        "price": 3098.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-08-12T23:03:46.502386+00:00",
+    "items": []
+  },
+  "amazon|APPLEIPAD": {
+    "ts": "2026-08-12T23:03:50.573478+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPad con Chip A16: Pantalla Liquid Retina de 11 Pulgadas, 128 GB, Wi-Fi 6, cámaras Frontal y Trasera de 12 MP, Touch ID, batería para Todo el día — Azul",
+        "url": "https://www.amazon.com.mx/dp/B0DZ7L4M9C",
+        "price": 8259.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPad (10,2pulgadas, Wi-Fi, 32 GB) - Plata (último Modelo, 8a generación) (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08KZ8GXK8",
+        "price": 2079.88,
+        "model": "2pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPad con Chip A16: Pantalla Liquid Retina de 11 Pulgadas, 128 GB, Wi-Fi 6, cámaras Frontal y Trasera de 12 MP, Touch ID, batería para Todo el día — Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0DZ76C2QV",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPad con Chip A16: Pantalla Liquid Retina de 11 Pulgadas, 128 GB, Wi-Fi 6, cámaras Frontal y Trasera de 12 MP, Touch ID, batería para Todo el día — Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0DZ77GT6V",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Pencil (USB-C)",
+        "url": "https://www.amazon.com.mx/dp/B0CL7J12YK",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Funda para iPad (A16) 11.ª/10.ª Gen, Marino | Trasera Transparente, Portalápiz, Carcasa Protección Slim Antigolpes, Soporte Tríptico",
+        "url": "https://www.amazon.com.mx/dp/B0C7ZMJ4QZ",
+        "price": 289.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2020 Apple iPad Pro (11-pulgadas, Wi-Fi, 128GB) - Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08B2T2178",
+        "price": 7419.0,
+        "model": "11-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "metapen A11 Pencil para iPad A16/11-6Gen,Lápiz iPad con Carga Rápida USB-C | Pluma para Apple iPad 2018+ con Bluetooth y Magnético, Stylus Pen para iPad Pro12,9/11/13'' M4/M5,Air3/4/5/M2/M3/M4,Mini 5/6",
+        "url": "https://www.amazon.com.mx/dp/B0BCWGC7GJ",
+        "price": 298.99,
+        "model": "Air3/4/5/M2/M3/M4"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Cable de USB-C a Lightning (1 m) ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0CX22JSR3",
+        "price": 549.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Adaptador de Corriente USB-C de 20 W - 2025",
+        "url": "https://www.amazon.com.mx/dp/B0DSJSY1S5",
+        "price": 511.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Adaptador de USB-C a Apple Pencil | Carga con lápiz óptico y conectividad para iPad de 10ª generación con adaptador USB-C a lápiz y 1 año de garantía",
+        "url": "https://www.amazon.com.mx/dp/B0D1WWX9LB",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "metapen A8 Lápiz para iPad 2018-2026, Carga Rápida 2X, Precisión de Píxeles | Magnético, Apple Pencil para iPad A16/11/10/9/8/7/6 Gen, Pro12.9/11\"/13\" M4, Air 3/4/5/M2/M3/M4, Mini5/6 Gen, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B09ZTXVNVD",
+        "price": 332.49,
+        "model": "A16/11/10/9/8/7/6"
+      }
+    ]
+  },
+  "walmart|APPLEIPAD": {
+    "ts": "2026-08-12T23:03:58.827119+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Contixo V8-2 Tablet Educativa para Niños 7 Pulgadas Android 13 32GB con Control Parental, WiFi, Bluetooth y Funda Protectora Contixo Contixo Kids Tablets",
+        "url": "https://www.walmart.com.mx/ip/contixo-v8-2-tablet-educativa-para-ninos-7-pulgadas-android-13-32gb-con-control-parental-wifi-bluetooth-y-funda-protectora-contixo-contixo-kids-tablets/00073164271920",
+        "price": 1181.86,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPad Apple MD4E4CL/A A16 A16 128 GB rosa",
+        "url": "https://www.walmart.com.mx/ip/ipad-apple-md4e4cl-a-a16-a16-128-gb-rosa/00019595008685?athbdg=L6000",
+        "price": 8499.0,
+        "model": "MD4E4CL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Tablet APPLE iPad 11\" Chip A16 12MP iPadOS 18 128GB Amarillo amarillo",
+        "url": "https://www.walmart.com.mx/ip/tablet-apple-ipad-11-chip-a16-12mp-ipados-18-128gb-amarillo-amarillo/00019595008669?athbdg=L1300",
+        "price": 7669.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPad (11th Generation) 11\" de 256GB con Pantalla Liquid Retina. Color Plata",
+        "url": "https://www.walmart.com.mx/ip/apple-ipad-11th-generation-11-de-256gb-con-pantalla-liquid-retina-color-plata/00060554744639?athbdg=L1300",
+        "price": 11499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPad Apple 11 pulgadas A16 128GB Plata",
+        "url": "https://www.walmart.com.mx/ip/ipad-apple-11-pulgadas-a16-128gb-plata/00075976331908?athbdg=L6000",
+        "price": 8499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPad Pro 4a Generación 12.9\" (2020) WiFi 256 GB Gris Espacial Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-ipad-pro-4a-generacion-12-9-2020-wifi-256-gb-gris-espacial-reacondicionado/00075150363760?athbdg=L1500",
+        "price": 8829.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "IPAD APPLE 11 PULG A16 WI FI 128GB AZUL",
+        "url": "https://www.walmart.com.mx/ip/ipad-apple-11-pulg-a16-wi-fi-128gb-azul/00019595008646",
+        "price": 8999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPad Apple 11 pulgadas A16 128GB Azul",
+        "url": "https://www.walmart.com.mx/ip/ipad-apple-11-pulgadas-a16-128gb-azul/00075976331904?athbdg=L6000",
+        "price": 8499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPad Air 5 A2588 (WiFi) 64GB Azul (Grado A)",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-5-a2588-wifi-64gb-azul-grado-a-/00065945582650",
+        "price": 9417.36,
+        "model": "A2588"
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPad Air 5 A2588 (WiFi) 64GB Morado (Grado A)",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-ipad-air-5-a2588-wifi-64gb-morado-grado-a-/00065945558947",
+        "price": 9417.36,
+        "model": "A2588"
+      },
+      {
+        "store": "walmart",
+        "name": "iPad Apple MD3Y4CL/A A16 128 GB plata",
+        "url": "https://www.walmart.com.mx/ip/ipad-apple-md3y4cl-a-a16-128-gb-plata/00019595008616?athbdg=L6000",
+        "price": 8499.0,
+        "model": "MD3Y4CL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "2025 Apple 11 Pulgadas iPad A16 Wi-Fi 128GB - Plateado",
+        "url": "https://www.walmart.com.mx/ip/2025-apple-11-pulgadas-ipad-a16-wi-fi-128gb-plateado/00019595008623?athbdg=L1300",
+        "price": 9359.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLEIPAD": {
+    "ts": "2026-08-12T23:04:02.035141+00:00",
     "items": []
   }
 }
