@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (727)
+# Historial de ofertas encontradas (728)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 23:59 | -22% | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $11,999 | $11,999 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-12 23:04 | -29% | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gra…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html) | $23,429 | $23,429 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-08-12 23:04 | -40% | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | $3,299 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-12 22:04 | -51% | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | $377 en liverpool vs amazon $769 -> -51% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-15 08:38 | -25% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-15 08:38 | -28% | liverpool | [Lavadora Lg 16 Kg Automatica Carga Frontal Wm16Ewnts6P](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-16-kg-automatica-carga-frontal-wm16ewnts6p/1179336495) | $14,917 | $14,917 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-15 06:08 | -25% | liverpool | [Camino De Mesa De Algodon Scale Block](https://www.liverpool.com.mx/tienda/pdp/camino-de-mesa-de-algodon-scale-block/1149702535) | $625 | $625 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-15 00:56 | -30% | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | $380 en liverpool vs mercado -> -30% bajo la competencia |
