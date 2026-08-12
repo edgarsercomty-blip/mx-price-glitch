@@ -1,9 +1,17 @@
-# Historial de ofertas encontradas (715)
+# Historial de ofertas encontradas (723)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 16:18 | -21% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $196 | $196 en amazon vs mercado -> -21% bajo la competencia |
+| 2026-08-12 16:18 | -22% | walmart | [Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 …](https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300) | $15,996 | $15,996 en walmart vs mercado -> -22% bajo la competencia |
+| 2026-08-12 16:18 | -22% | amazon | [Nintendo Switch + Super Mario Bros Wonder + 3 meses gra…](https://www.amazon.com.mx/dp/B0FM1RC8RR) | $4,899 | $4,899 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-08-12 16:18 | -26% | walmart | [Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0](https://www.walmart.com.mx/ip/lavadora-mabe-doble-tina-13-kg-blanca-lmdx3123hbab0/00075763838988?athbdg=L1300) | $3,490 | $3,490 en walmart vs mercado -> -26% bajo la competencia |
+| 2026-08-12 16:18 | -28% | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desb…](https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300) | $4,699 | $4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia |
+| 2026-08-12 16:18 | -30% | amazon | [UGREEN Audífonos Open Ear con ANC Cancelación Adaptativ…](https://www.amazon.com.mx/dp/B0DZX8G1ZB) | $699 | $699 en amazon vs mercado -> -30% bajo la competencia |
+| 2026-08-12 16:18 | -37% | amazon | [Nautica - Tenis deportivos de moda para mujer, con cord…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $604 | $604 en amazon vs mercado -> -37% bajo la competencia |
+| 2026-08-12 16:18 | -42% | walmart | [TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV…](https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300) | $5,990 | $5,990 en walmart vs mercado -> -42% bajo la competencia |
 | 2026-08-12 14:09 | -20% | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | $3,499 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-12 14:09 | -23% | amazon | [Funda de teclado para Lenovo Yoga Pro 7 14AHP9 14ASP9 1…](https://www.amazon.com.mx/dp/B0FQJ27QN7) | $220 | $220 en amazon vs amazon $286, amazon $368, amazon $386 -> -23% bajo la competencia |
 | 2026-08-12 14:09 | -40% | palacio | [MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoch…](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html) | $11,999 | $11,999 en palacio vs mercado -> -40% bajo la competencia |
@@ -396,11 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-15 00:56 | -40% | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-14 23:28 | -26% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $140 | $140 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-07-14 16:12 | -47% | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 …](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | $3,400 en liverpool vs mercado -> -47% bajo la competencia |
-| 2026-07-14 13:49 | -21% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $149 | $149 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-14 13:49 | -25% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | $235 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-14 12:00 | -26% | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | $2,980 en liverpool vs mercado -> -26% bajo la competencia |
-| 2026-07-14 10:30 | -23% | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | $1,698 en liverpool vs mercado -> -23% bajo la competencia |
-| 2026-07-14 10:30 | -25% | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $8,624 | $8,624 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-14 08:53 | -20% | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-14 08:53 | -64% | liverpool | [Licuadora Oster 2114099 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-2114099-2-velocidades/1104553521) | $991 | $991 en liverpool vs mercado -> -64% bajo la competencia |
-| 2026-07-14 06:37 | -25% | liverpool | [Lavavajillas De Piso Lg Ldts5552S Asselat](https://www.liverpool.com.mx/tienda/pdp/lavavajillas-de-piso-lg-ldts5552s-asselat/1125099480) | $16,574 | $16,574 en liverpool vs mercado -> -25% bajo la competencia |
