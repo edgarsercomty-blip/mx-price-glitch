@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 07:55 UTC",
-  "products_scanned": 1505,
+  "generated_at": "2026-08-12 09:05 UTC",
+  "products_scanned": 1515,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -216,23 +216,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 32.0,
-      "detail": "$10,335 en palacio vs mercado -> -32% bajo la competencia",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 4863.68,
-      "store": "palacio",
-      "name": "Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html",
-      "price": 10335.32,
-      "list_price": 15199.0,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
       "ean": null,
-      "model": "15-fc0080la",
-      "brand": "Hp",
+      "model": null,
+      "brand": "FLAVORSTONE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44850150",
-        "outlet": false
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
@@ -300,22 +300,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 32.0,
+      "detail": "$10,335 en palacio vs walmart $13,799, amazon $14,549 -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 4497.5,
+      "savings": 3463.68,
       "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
+      "name": "Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html",
+      "price": 10335.32,
+      "list_price": 15199.0,
       "ean": null,
-      "model": null,
-      "brand": "Nespresso",
+      "model": "15-fc0080la",
+      "brand": "Hp",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "41273412",
+        "id": "44850150",
         "outlet": false
       }
     },
@@ -337,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45641563",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4497.5,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -532,27 +553,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3719.8,
-      "store": "palacio",
-      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
-      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
-      "price": 14639.6,
-      "list_price": 36599.0,
-      "ean": null,
-      "model": "RMB520IWMRP1",
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43133039",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 740.0,
@@ -589,27 +589,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45361102",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$33,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8399.86,
-      "store": "palacio",
-      "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html",
-      "price": 33599.44,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": "85QM7L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45368711",
         "outlet": false
       }
     },
