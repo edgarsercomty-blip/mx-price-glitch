@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (679)
+# Historial de ofertas encontradas (680)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 02:50 | -34% | amazon | [Piezas de repuesto para licuadora Ninja Foodi Ultimate …](https://www.amazon.com.mx/dp/B0CW3T2PD2) | $385 | $385 en amazon vs amazon $583, amazon $621, amazon $1,053 -> -34% bajo la competencia |
 | 2026-08-11 16:32 | -20% | sams | [Licuadora Oster  Clásica 1.25L Gris](https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698) | $1,021 | $1,021 en sams vs mercado -> -20% bajo la competencia |
 | 2026-08-11 16:32 | -20% | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 …](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $14,321 | $14,321 en sams vs walmart $17,996 -> -20% bajo la competencia |
 | 2026-08-11 16:32 | -21% | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $4,999 | $4,999 en mercadolibre vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-10 09:40 | -20% | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multidepo…](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | $53,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 09:40 | -20% | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-10 09:40 | -20% | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | $7,599 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-10 09:40 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $46,199 | $46,199 en palacio vs mercado -> -23% bajo la competencia |
