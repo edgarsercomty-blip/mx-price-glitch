@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-12 17:15 UTC
+# Errores/chollos de precio — 2026-08-12 18:08 UTC
 
-- Productos revisados: **1569**
+- Productos revisados: **1570**
 - Umbral de diferencia: **20%**
-- Hallazgos: **36**
+- Hallazgos: **35**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -27,18 +27,17 @@
 | -21% | $2,090 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,809 | Confirmado vs competencia | $7,809 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
+| -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,700 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $1,620 | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloq…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | Confirmado vs competencia | $6,479 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $1,600 | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -40% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
-| -38% | $1,074 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs walmart $2,819 -> -38% bajo la competencia |
 | -29% | $998 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -29% bajo la competencia |
 | -20% | $900 | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | Confirmado vs competencia | $3,499 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -20% | $740 | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | Confirmado vs competencia | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
-| -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $100 | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -20% bajo la competencia |

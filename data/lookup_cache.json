@@ -4616,30 +4616,6 @@
       }
     ]
   },
-  "amazon|APPLECELULARCANELABUMPERIPHONE": {
-    "ts": "2026-08-10T18:05:08.071798+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARCANELABUMPERIPHONE": {
-    "ts": "2026-08-10T18:05:12.803530+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARCANELABUMPERIPHONE": {
-    "ts": "2026-08-10T18:05:14.803020+00:00",
-    "items": []
-  },
-  "amazon|HPNVIDIAGAMINGLAPTOPHYPERX": {
-    "ts": "2026-08-10T18:05:22.049428+00:00",
-    "items": []
-  },
-  "walmart|HPNVIDIAGAMINGLAPTOPHYPERX": {
-    "ts": "2026-08-10T18:05:24.633502+00:00",
-    "items": []
-  },
-  "sams|HPNVIDIAGAMINGLAPTOPHYPERX": {
-    "ts": "2026-08-10T18:05:26.404394+00:00",
-    "items": []
-  },
   "amazon|EMH7614DATSS0": {
     "ts": "2026-08-10T19:18:27.276117+00:00",
     "items": []
@@ -25053,6 +25029,524 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-08-12T17:15:14.951098+00:00",
+    "items": []
+  },
+  "amazon|APPLEESPACIALMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:14.084294+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2019 Apple MacBook Pro con 2.4GHz Intel Core i9 (16-pulgadas, 32GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CN871VWH",
+        "price": 10023.04,
+        "model": "16-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Fin de 2021 Apple MacBook Pro con Chip Apple M1 Pro (16-pulgadas,16GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09P43P66P",
+        "price": 17832.42,
+        "model": "16-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Pro 2021 con chip Apple M1 Pro (14 pulgadas, 16 GB de RAM, 512 GB SSD) - Gris espacial (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B09PGSZDHH",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2022 Apple MacBook Pro with M2 Chip (13-Pulgadas, 8GB RAM, 256GB SSD Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BGQJ7LDN",
+        "price": 13920.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Late 2019 Apple MacBook Pro with 2.6GHz Intel Core i7 (16 inch, 16GB RAM, 512GB) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B082P8N4KJ",
+        "price": 8999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Pro (13 pulgadas, 16 GB de RAM, almacenamiento SSD de 512 GB, teclado mágico) - Gris espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08HHNXW8Y",
+        "price": 8044.59,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
+        "price": 17711.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Mid 2018 MacBook Pro Touch Bar con Intel Core i7 de 2,7 GHz, 13,3 pulgadas, 16 GB de RAM, 256 GB SSD, gris espacial (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B084KGQ15N",
+        "price": 7529.37,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2019 MacBook Pro con 2.6GHz Intel Core i7 (15-pulgadas, 16GB RAM, 256GB SSD) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0849W8JK7",
+        "price": 9267.34,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "2020 Apple MacBook Air con Apple M1 Chip (13-pulgadas, 16GB RAM, 1TB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CMVTJNDL",
+        "price": 13457.96,
+        "model": "13-pulgadas"
+      }
+    ]
+  },
+  "walmart|APPLEESPACIALMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:22.649264+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-2025-13-6-M4-10-Core-16GB-RAM-256GB-SSD-Liquid-Retina-Midnight-teclado-Retroiluminado-macOS/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Air de 13 pulgadas con chip M5, 16 GB de memoria, SSD de 1 TB y color gris espacial",
+        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Air-de-13-pulgadas-con-chip-M5-16-GB-de-memoria-SSD-de-1-TB-y-color-gris-espacial/00019595069208?athbdg=L6000",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Pro de 14 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 18 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Pro-de-14-pulgadas-con-chip-M5-Pro-CPU-de-12-nucleos-y-GPU-de-18-nucleos-24-GB-de-memoria-SSD-de-1-TB-y-color-negro-espacial/00019595071867?athbdg=L1300",
+        "price": 40999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Apple-MacBook-Air-2025-M4-13-6-Liquid-Retina-16GB-RAM-256GB-SSD-Sky-Blue-Teclado-Retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-2026-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Sky-Blue-Teclado-Retroiluminado-Touch-ID/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-Apple-M4-RAM-16GB-SSD-256GB-Pantalla-13-6-macOS-Sequoia/00019594983719?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-Apple-M4-RAM-16GB-SSD-256GB-Pantalla-13-6-macOS-Sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Portátil Apple MacBook Pro de 14 pulgadas - Chip Apple M4 Pro Diseñado para Apple Intelligence - Memoria de 24 GB - SSD de 512 GB - Negro Espacial",
+        "url": "https://www.walmart.com.mx/ip/Portatil-Apple-MacBook-Pro-de-14-pulgadas-Chip-Apple-M4-Pro-Disenado-para-Apple-Intelligence-Memoria-de-24-GB-SSD-de-512-GB-Negro-Espacial/00019594987483?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Starlight Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Starlight-Teclado-Retroiluminado-Touch-ID/00019595068879?athbdg=L1300",
+        "price": 26839.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Pro 14\" Computadora portátil Chip Apple M1 Pro 16 GB 512 GB SSD (último modelo) - Gris espacial",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Pro-14-Computadora-portatil-Chip-Apple-M1-Pro-16-GB-512-GB-SSD-ultimo-modelo-Gris-espacial/00019425255104?athbdg=L1500",
+        "price": 16299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Silver",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Apple-MacBook-Neo-13-A18-Pro-256GB-SSD-8GB-RAM-Mac-OS-Silver/00019595085086?athbdg=L6000",
+        "price": 15999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
+        "url": "https://www.walmart.com.mx/ip/MacBook-Air-Apple-M1-8-core-GPU-8GB-256GB-Plata/00019425205617?athbdg=L1500",
+        "price": 13643.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|APPLEESPACIALMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:25.441140+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:31.032255+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2023 Apple MacBook Air con Apple M2 Chip (15-pulgadas, 8GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CFT39XJZ",
+        "price": 16489.03,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Apple MacBook Air 2022 con chip Apple M2 (13.6 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) medianoche (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0BHC15G32",
+        "price": 14199.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 256GB SSD de Memoria) Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FB57GXYP",
+        "price": 19999.0,
+        "model": "13-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
+        "price": 29999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
+        "price": 17711.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fin de 2021 Apple MacBook Pro con Chip Apple M1 Pro (16-pulgadas,16GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09P43P66P",
+        "price": 17832.42,
+        "model": "16-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "2020 Apple MacBook Air con Chip M1 (13.3 Pulgadas, 8 GB de RAM, 128 GB de SSD) (QWERTY Inglés) Plata (Reacondicionado) | Plata, renovado",
+        "url": "https://www.amazon.com.mx/dp/B09WJHLWHG",
+        "price": 7998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2019 Apple MacBook Pro con 2.4GHz Intel Core i9 (16-pulgadas, 32GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CN871VWH",
+        "price": 10023.04,
+        "model": "16-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
+        "price": 28302.66,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMEDIANOCHEMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:34.474914+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-2026-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Sky-Blue-Teclado-Retroiluminado-Touch-ID/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Silver",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Apple-MacBook-Neo-13-A18-Pro-256GB-SSD-8GB-RAM-Mac-OS-Silver/00019595085086?athbdg=L6000",
+        "price": 15999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15.3 Pulgadas 16 GB 512 GB Azul Medianoche",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-15-3-Pulgadas-16-GB-512-GB-Azul-Medianoche/00019594984232?athbdg=L1300",
+        "price": 32985.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air 13 Pulgadas M5 16GB 512GB Azul Medianoche",
+        "url": "https://www.walmart.com.mx/ip/MacBook-Air-13-Pulgadas-M5-16GB-512GB-Azul-Medianoche/00019595069008?athbdg=L6000",
+        "price": 29998.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13 Pulgadas 16 GB Ssd 512 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-Pulgadas-16-GB-Ssd-512-GB-Plata/00019594983660?athbdg=L1300",
+        "price": 28487.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13.6 Pulgadas 16GB 512 GB Azul Cielo",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-6-Pulgadas-16GB-512-GB-Azul-Cielo/00019594989061?athbdg=L1300",
+        "price": 28488.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15.3 Pulgadas 16GB 512GB Blanco Estelar",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-15-3-Pulgadas-16GB-512GB-Blanco-Estelar/00019594984138?athbdg=L1300",
+        "price": 32985.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air 13 Pulgadas M5 16GB 512GB Plata",
+        "url": "https://www.walmart.com.mx/ip/MacBook-Air-13-Pulgadas-M5-16GB-512GB-Plata/00019595068726?athbdg=L6000",
+        "price": 24999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15.3 Pulgadas 24GB 512GB Blanco Estelar",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-15-3-Pulgadas-24GB-512GB-Blanco-Estelar/00019594989207?athbdg=L1300",
+        "price": 37588.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13.6 Pulgadas 24GB 512GB Blanco Estelar",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-6-Pulgadas-24GB-512GB-Blanco-Estelar/00019594988917?athbdg=L1300",
+        "price": 33238.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13 Pulgadas 24 GB 512 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-Pulgadas-24-GB-512-GB-Plata/00019594988870?athbdg=L1300",
+        "price": 33237.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15 Pulgadas 16 GB 256 GB Azul Cielo",
+        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-15-Pulgadas-16-GB-256-GB-Azul-Cielo/00019594989351?athbdg=L1300",
+        "price": 32988.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEMEDIANOCHEMACBOOKSSDRAM": {
+    "ts": "2026-08-12T18:08:36.085807+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-12T18:08:44.036339+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2229.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2329.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 3106.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "T-FAL Licuadora Infiny Force XL 10 velocidades negra | Tritura todo sin dejar trozos, 6 cuchillas de acero inoxidable, 3 veces más eficiente. Capacidad de 2.2 L, 550W. LN8208MX",
+        "url": "https://www.amazon.com.mx/dp/B0B1NB5P3Z",
+        "price": 699.0,
+        "model": "LN8208MX"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 2369.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
+        "price": 2798.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
+        "price": 3867.0,
+        "model": "7KSB4027MPA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuenco mezclador de 1,6 l para licuadora K400",
+        "url": "https://www.amazon.com.mx/dp/B085ZV5L2G",
+        "price": 2842.94,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
+        "price": 3049.0,
+        "model": "500ml"
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-12T18:08:56.483184+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1078.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
+        "price": 2229.0,
+        "model": "7KSB2078MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3049.0,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
+        "price": 2789.0,
+        "model": "7KSB1330MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
+        "price": 5109.0,
+        "model": "KSB2078"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
+    "ts": "2026-08-12T18:08:57.249782+00:00",
     "items": []
   }
 }
