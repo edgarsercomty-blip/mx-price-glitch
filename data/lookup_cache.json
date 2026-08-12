@@ -21599,5 +21599,61 @@
         "model": "GPU/16GB/512GB"
       }
     ]
+  },
+  "amazon|UN75U8200FFXZX": {
+    "ts": "2026-08-12T11:25:36.261966+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
+        "url": "https://www.amazon.com.mx/dp/B0G87BVYGB",
+        "price": 12499.2,
+        "model": "QNED73"
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Smart TV de 43\" Pulgadas Clase Crystal U8000F Ultra HD 4K Tizen, Diseño MetalStream, HDR, PurColor, One UI Tizen (2025) - UN43U8000FBXZA",
+        "url": "https://www.amazon.com.mx/dp/B0FF7WPRKM",
+        "price": 4498.0,
+        "model": "UN43U8000FBXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV de 43\" Pulgadas Clase Crystal U8000F Ultra HD 4K Tizen, Diseño MetalStream, HDR, PurColor, One UI Tizen (2025) - UN43U8000FBXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FDY8DJQ5",
+        "price": 4273.1,
+        "model": "UN43U8000FBXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV QLED Serie Q7F 4K UHD con Procesador Quantum, Quantum HDR, Gaming Hub, Sistema Operativo Tizen, Alexa Integrada, AirPlay y WiFi (Reacondicionado) (65\")",
+        "url": "https://www.amazon.com.mx/dp/B0GK56RGP4",
+        "price": 8999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Compatible con Samsung Smart TV, BN59-01327B Universal 4K UHD Control Remoto de Voz Reemplazo para Tele Samsung con Botones Netflix, Compatible con la Mayoría de los Televisores",
+        "url": "https://www.amazon.com.mx/dp/B0FH2NK5X4",
+        "price": 199.99,
+        "model": "BN59-01327B"
+      }
+    ]
+  },
+  "walmart|UN75U8200FFXZX": {
+    "ts": "2026-08-12T11:25:44.314810+00:00",
+    "items": []
+  },
+  "sams|UN75U8200FFXZX": {
+    "ts": "2026-08-12T11:26:00.587268+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  75\" UHD Smart TV Crystal UN75U8000FFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-75-uhd-smart-tv-crystal-un75u8000ffxzx/981038746",
+        "price": 12272.93,
+        "model": "UN75U8000FFXZX"
+      }
+    ]
   }
 }
