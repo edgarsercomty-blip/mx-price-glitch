@@ -260,7 +260,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | -20% |
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,259 | -52% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,299 | -25% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio Y Calor 12000 Btu…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-y-calor-12000-btu-hs-aa-12-110fc-ah121ck-115-v/1173773893) | $6,719 | -25% |
 | 🟢 disponible | palacio | [Lavadora semiautomática 19 kg con pulsador, carga superior W…](https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html) | $10,439 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Lg Frio Y Calor 18000…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-lg-frio-y-calor-18000-btu-vo182h1/1172678820) | $12,643 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $10,400 | -29% |
@@ -485,7 +485,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | -37% |
 | 🟢 disponible | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | -30% |
-| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $1,999 | -60% |
+| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -60% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $12,540 | -32% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $8,252 | -20% |
@@ -543,7 +543,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | -20% |
 | 🟢 disponible | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | -21% |
 | 🟢 disponible | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | -20% |
-| 🟢 disponible | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | -20% |
+| 🟢 disponible | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $3,349 | -20% |
 | 🟢 disponible | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | -29% |
 | 🟢 disponible | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | -33% |
 | 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | -26% |

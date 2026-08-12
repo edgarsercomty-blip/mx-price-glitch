@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-12 19:29 UTC",
-  "products_scanned": 1569,
+  "generated_at": "2026-08-12 20:20 UTC",
+  "products_scanned": 1650,
   "threshold_pct": 20.0,
   "count": 36,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.55,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -153,27 +174,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 33.4,
-      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 349.0,
-      "store": "liverpool",
-      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
-      "price": 799.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": null,
-      "brand": "FLAVORSTONE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178603252",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$40,249 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -255,24 +255,6 @@
         "id": "45481963",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1780.28,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -713,6 +695,27 @@
       "extra": {
         "productId": "9957691086",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1619.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
+      "price": 6479.28,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600342",
+        "outlet": false
       }
     },
     {
