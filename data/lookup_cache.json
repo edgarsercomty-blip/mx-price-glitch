@@ -4616,18 +4616,6 @@
       }
     ]
   },
-  "amazon|MOTOROLAMOTOROLATELCELFUSIONPOLED": {
-    "ts": "2026-08-10T21:59:46.272609+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLAMOTOROLATELCELFUSIONPOLED": {
-    "ts": "2026-08-10T21:59:47.925659+00:00",
-    "items": []
-  },
-  "sams|MOTOROLAMOTOROLATELCELFUSIONPOLED": {
-    "ts": "2026-08-10T21:59:50.971986+00:00",
-    "items": []
-  },
   "amazon|HPNVIDIAGAMINGHYPERXLAPTOP": {
     "ts": "2026-08-10T22:39:11.540429+00:00",
     "items": []
@@ -26314,6 +26302,33 @@
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
     "ts": "2026-08-12T20:20:35.337612+00:00",
+    "items": []
+  },
+  "amazon|BVSTDCP121B": {
+    "ts": "2026-08-12T22:04:19.678411+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Cafetera Programable Oster, Capacidad de 12 Tazas, Filtro Reutilizable, Color Negro, Modelo BVSTDCP121B",
+        "url": "https://www.amazon.com.mx/dp/B0G87RRXGQ",
+        "price": 769.0,
+        "model": "BVSTDCP121B"
+      },
+      {
+        "store": "amazon",
+        "name": "Crepera Eléctrica Chefman, 6 Niveles de Temperatura, Color Negro, Modelo RJ33-C-V2-MX",
+        "url": "https://www.amazon.com.mx/dp/B088VHVB8C",
+        "price": 449.0,
+        "model": "RJ33-C-V2-MX"
+      }
+    ]
+  },
+  "walmart|BVSTDCP121B": {
+    "ts": "2026-08-12T22:04:28.995707+00:00",
+    "items": []
+  },
+  "sams|BVSTDCP121B": {
+    "ts": "2026-08-12T22:04:29.818617+00:00",
     "items": []
   }
 }

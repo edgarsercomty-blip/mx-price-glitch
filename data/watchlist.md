@@ -1,4 +1,4 @@
-# Productos en vigilancia (615)
+# Productos en vigilancia (616)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -511,7 +511,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $14,783 | -22% |
 | 🟢 disponible | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | -21% |
 | 🟢 disponible | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | -20% |
-| 🟢 disponible | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $784 | -34% |
+| 🟢 disponible | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $783 | -34% |
 | 🟢 disponible | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | -28% |
 | 🟢 disponible | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | -24% |
 | 🟢 disponible | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | -24% |
@@ -619,3 +619,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Funda de teclado para Lenovo Yoga Pro 7 14AHP9 14ASP9 14IMH9…](https://www.amazon.com.mx/dp/B0FQJ27QN7) | $220 | -23% |
 | 🟢 disponible | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | -20% |
 | 🟢 disponible | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | -28% |
+| 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | -51% |

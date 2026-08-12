@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-12 21:06 UTC",
-  "products_scanned": 1605,
+  "generated_at": "2026-08-12 22:04 UTC",
+  "products_scanned": 1594,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -60% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$377 en liverpool vs amazon $769 -> -51% bajo la competencia",
       "likely_typo": false,
-      "savings": 899.55,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
+      "savings": 391.6,
+      "store": "liverpool",
+      "name": "Cafetera De Goteo Oster Bvstdcp121B",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637",
+      "price": 377.4,
+      "list_price": 629.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "Bvstdcp121B",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42614838",
-        "outlet": false
+        "productId": "1184812637",
+        "marketplace": null
       }
     },
     {
@@ -148,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
         "marketplace": null
       }
     },

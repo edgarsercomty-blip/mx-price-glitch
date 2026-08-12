@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (724)
+# Historial de ofertas encontradas (725)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 22:04 | -51% | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | $377 en liverpool vs amazon $769 -> -51% bajo la competencia |
 | 2026-08-12 19:29 | -28% | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desb…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | $4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia |
 | 2026-08-12 16:18 | -21% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $196 | $196 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-12 16:18 | -22% | walmart | [Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 …](https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300) | $15,996 | $15,996 en walmart vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-15 00:56 | -30% | liverpool | [Set Bowl Akino 4 Piezas De Porcelana](https://www.liverpool.com.mx/tienda/pdp/set-bowl-akino-4-piezas-de-porcelana/1166212592) | $380 | $380 en liverpool vs mercado -> -30% bajo la competencia |
 | 2026-07-15 00:56 | -33% | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $212 | $212 en liverpool vs mercado -> -33% bajo la competencia |
 | 2026-07-15 00:56 | -40% | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmerx0/1110895638) | $6,530 | $6,530 en liverpool vs mercado -> -40% bajo la competencia |
-| 2026-07-14 23:28 | -26% | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $140 | $140 en liverpool vs mercado -> -26% bajo la competencia |
