@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (711)
+# Historial de ofertas encontradas (712)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-12 12:29 | -39% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $12,856 | $12,856 en liverpool vs mercado -> -39% bajo la competencia |
 | 2026-08-12 07:55 | -40% | palacio | [MacBook Air, 13.6", M2, RAM 8 GB, SSD 256 GB, Gris espa…](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-gris-espacial-42622361.html) | $11,999 | $11,999 en palacio vs sams $23,323 -> -40% bajo la competencia |
 | 2026-08-12 03:58 | -20% | sams | [Smartphone Samsung Galaxy A37 256 GB Light Violet Desbl…](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-light-violet-desbloqueado/981050720) | $7,363 | $7,363 en sams vs mercado -> -20% bajo la competencia |
 | 2026-08-12 03:58 | -20% | sams | [Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317) | $7,363 | $7,363 en sams vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-13 11:31 | -25% | liverpool | [Tijeras Para Aves Poultry](https://www.liverpool.com.mx/tienda/pdp/tijeras-para-aves-poultry/1064265012) | $356 | $356 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-13 11:31 | -46% | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-color-plata/1196143081) | $29,999 | $29,999 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-13 08:10 | -20% | palacio | [Monitor Venu X1 French Gray para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-13 04:48 | -21% | liverpool | [Smartwatch Huawei Fit 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191) | $2,199 | $2,199 en liverpool vs mercado -> -21% bajo la competencia |

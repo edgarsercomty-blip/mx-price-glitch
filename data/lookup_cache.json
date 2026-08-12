@@ -230,16 +230,194 @@
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-10T12:27:28.682627+00:00",
-    "items": []
+    "ts": "2026-08-12T12:28:58.411065+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Olivo | Lujo en cada detalle",
+        "url": "https://www.amazon.com.mx/dp/B0GLDHY8W7",
+        "price": 21999.0,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
+        "price": 4699.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6575.49,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
+        "price": 12199.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Olivo | Lujo en cada detalle",
+        "url": "https://www.amazon.com.mx/dp/B0GLDHY8W7",
+        "price": 21999.0,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Negro | Lujo en cada detalle",
+        "url": "https://www.amazon.com.mx/dp/B0GLBK4C3L",
+        "price": 21730.83,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Cafe (4GB RAM/256GB), Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FWF1MRWR",
+        "price": 2099.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2370.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
+        "price": 4789.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
+        "price": 5537.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Negro Signature 16GB/1TB, Desbloqueado, Color Olivo+++",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y4M9W5",
+        "price": 43861.0,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G67 4+256GB Arctic Seal (Gris)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6FKLGG",
+        "price": 4544.0,
+        "model": "4+256GB"
+      }
+    ]
   },
   "walmart|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-10T12:27:30.408800+00:00",
-    "items": []
+    "ts": "2026-08-12T12:29:03.212210+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola G17 Power 256 GB Celeste Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-G17-Power-256-GB-Celeste-Desbloqueado/00084049361503?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      }
+    ]
   },
   "sams|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
-    "ts": "2026-08-10T12:27:32.452282+00:00",
-    "items": []
+    "ts": "2026-08-12T12:29:14.949150+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
+        "price": 2246.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
+        "price": 3579.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  G17 Power Celeste 256 GB Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-g17-power-celeste-256-gb-desbloqueado/981050389",
+        "price": 5008.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Moto E 15 64 GB Morado Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-morado-desbloqueado/981038965",
+        "price": 2249.56,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
+        "price": 8692.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
+        "price": 12887.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
+        "price": 12887.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Edge 60 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-azul-desbloqueado/981036597",
+        "price": 8692.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Edge 60 Pro 512 GB Gris Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-gris-desbloqueado/981038682",
+        "price": 10329.23,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Edge 60 Pro 512 GB Cobalto Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-cobalto-desbloqueado/981038688",
+        "price": 10329.23,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Edge 60 Pro 512 GB Uva Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-uva-desbloqueado/981038720",
+        "price": 10329.23,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Moto G17 Power Azul 256 GB Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g17-power-azul-256-gb-desbloqueado/981050100",
+        "price": 5008.61,
+        "model": null
+      }
+    ]
   },
   "amazon|55QM64L": {
     "ts": "2026-08-10T15:55:59.177549+00:00",
@@ -3730,90 +3908,6 @@
         "model": "15-fc0000la"
       }
     ]
-  },
-  "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-10T11:27:50.881539+00:00",
-    "items": []
-  },
-  "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-10T11:27:52.537646+00:00",
-    "items": []
-  },
-  "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-10T11:27:54.300481+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKSILVERCHIP512": {
-    "ts": "2026-08-10T11:27:56.211522+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKSILVERCHIP512": {
-    "ts": "2026-08-10T11:27:57.756010+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKSILVERCHIP512": {
-    "ts": "2026-08-10T11:27:59.356715+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKNUCLEOS512CPU": {
-    "ts": "2026-08-10T11:28:00.671047+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKNUCLEOS512CPU": {
-    "ts": "2026-08-10T11:28:02.358781+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKNUCLEOS512CPU": {
-    "ts": "2026-08-10T11:28:04.748032+00:00",
-    "items": []
-  },
-  "amazon|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-10T12:27:14.331234+00:00",
-    "items": []
-  },
-  "walmart|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-10T12:27:16.557378+00:00",
-    "items": []
-  },
-  "sams|APPLECELULARCANELAIPHONEBUMPER": {
-    "ts": "2026-08-10T12:27:18.393012+00:00",
-    "items": []
-  },
-  "amazon|HPLAPTOPNVIDIAGAMINGHYPERX": {
-    "ts": "2026-08-10T12:27:19.754340+00:00",
-    "items": []
-  },
-  "walmart|HPLAPTOPNVIDIAGAMINGHYPERX": {
-    "ts": "2026-08-10T12:27:21.288684+00:00",
-    "items": []
-  },
-  "sams|HPLAPTOPNVIDIAGAMINGHYPERX": {
-    "ts": "2026-08-10T12:27:22.899438+00:00",
-    "items": []
-  },
-  "amazon|APPLENUCLEOSMACBOOKGPU512": {
-    "ts": "2026-08-10T12:27:24.316625+00:00",
-    "items": []
-  },
-  "walmart|APPLENUCLEOSMACBOOKGPU512": {
-    "ts": "2026-08-10T12:27:25.837136+00:00",
-    "items": []
-  },
-  "sams|APPLENUCLEOSMACBOOKGPU512": {
-    "ts": "2026-08-10T12:27:27.420396+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
-    "ts": "2026-08-10T12:27:34.141026+00:00",
-    "items": []
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
-    "ts": "2026-08-10T12:27:35.670752+00:00",
-    "items": []
-  },
-  "sams|MOTOROLADESBLOQUEADOCELESTECELULARFUSION": {
-    "ts": "2026-08-10T12:27:37.445158+00:00",
-    "items": []
   },
   "amazon|55QNED81BSC": {
     "ts": "2026-08-10T14:02:23.108875+00:00",
@@ -21653,6 +21747,273 @@
         "url": "https://www.sams.com.mx/ip/pantalla-samsung-75-uhd-smart-tv-crystal-un75u8000ffxzx/981038746",
         "price": 12272.93,
         "model": "UN75U8000FFXZX"
+      }
+    ]
+  },
+  "amazon|APPLEESPACIALMACBOOKSSD256": {
+    "ts": "2026-08-12T12:28:06.880275+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "SSD 256GB para MacBook Pro M.2 NVMe PCIe Gen3.0x4 Disco Duro Sólido Interno para MacBook Pro Retina 13 Pulgadas A1708(2016-2017) EMC 3164/2978 Non-Touch Bar",
+        "url": "https://www.amazon.com.mx/dp/B0CCXWS7ZF",
+        "price": 1881.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 MAX, CPU de 16 núcleos y GPU de 40 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 1TB - Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0DLHFH2KP",
+        "price": 88599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GAMERKING (Interfaz Original 256GB SSD para Apple MacBook Pro Retina 13\" A1708 2016 2017 sin Touch Bar, Disco Duro SSD Interno 3D NAND TLC NVMe PCIe Gen3.0x4",
+        "url": "https://www.amazon.com.mx/dp/B0CFDSVL1M",
+        "price": 2221.83,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop para Windows11, Pantalla IPS de Resolución 2K de 15,6 Pulgadas, 16 GB de RAM (LPDDR4), Procesador N5095, 4 Núcleos y 4 Subprocesos, Portátil Ultradelgada con Teclado Retroiluminado(16+1 TB)",
+        "url": "https://www.amazon.com.mx/dp/B0BXLKH4XD",
+        "price": 10781.15,
+        "model": "Windows11"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2022 Apple MacBook Pro with M2 Chip (13-Pulgadas, 8GB RAM, 256GB SSD Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BGQJ7LDN",
+        "price": 13920.94,
+        "model": "13-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2019 MacBook Pro con 2.6GHz Intel Core i7 (15-pulgadas, 16GB RAM, 256GB SSD) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0849W8JK7",
+        "price": 9267.34,
+        "model": "15-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Mid 2018 MacBook Pro Touch Bar con Intel Core i7 de 2,7 GHz, 13,3 pulgadas, 16 GB de RAM, 256 GB SSD, gris espacial (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B084KGQ15N",
+        "price": 7529.37,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2020 Laptop MacBook Air: Chip M1 de Apple, Pantalla Retina de 13 Pulgadas, 8 GB de RAM, Almacenamiento SSD de 256 GB, Teclado retroiluminado, cámara FaceTime HD y Touch ID - Gris Espacial",
+        "url": "https://www.amazon.com.mx/dp/B08N6Q71P7",
+        "price": 15999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
+        "price": 9335.51,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 21999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2020 Apple MacBook Air con Chip 1.1GHz Intel Core i3 (13-Pulgadas, 8GB RAM, 128GB) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DTJC5VGT",
+        "price": 6345.39,
+        "model": "13-Pulgadas"
+      }
+    ]
+  },
+  "walmart|APPLEESPACIALMACBOOKSSD256": {
+    "ts": "2026-08-12T12:28:13.809622+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 14149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-indigo/00893336968316?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Port?til Apple MacBook Air, pantalla Retina de 13,6\", Apple M2, SSD de 256 GB, macOS Monterey, MLXW3LL/A Manzana MLXW3LL/A",
+        "url": "https://www.walmart.com.mx/ip/port-til-apple-macbook-air-pantalla-retina-de-13-6-apple-m2-ssd-de-256-gb-macos-monterey-mlxw3ll-a-manzana-mlxw3ll-a/00019425308041?athbdg=L6000",
+        "price": 35000.0,
+        "model": "MLXW3LL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Air de 13 pulgadas con chip M5, 16 GB de memoria, SSD de 1 TB y color gris espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-air-de-13-pulgadas-con-chip-m5-16-gb-de-memoria-ssd-de-1-tb-y-color-gris-espacial/00019595069208?athbdg=L6000",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Neo 13\" 256 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-plata/00893388451210?athbdg=L1300",
+        "price": 14279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m1-8-core-gpu-8gb-256gb-plata/00019425205617?athbdg=L1300",
+        "price": 13643.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Pro de 14 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 18 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-pro-de-14-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-18-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071867?athbdg=L1300",
+        "price": 40999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Portátil Apple MacBook Pro de 14 pulgadas - Chip Apple M4 Pro Diseñado para Apple Intelligence - Memoria de 24 GB - SSD de 512 GB - Negro Espacial",
+        "url": "https://www.walmart.com.mx/ip/portatil-apple-macbook-pro-de-14-pulgadas-chip-apple-m4-pro-disenado-para-apple-intelligence-memoria-de-24-gb-ssd-de-512-gb-negro-espacial/00019594987483?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEESPACIALMACBOOKSSD256": {
+    "ts": "2026-08-12T12:28:23.660226+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
+        "price": 23323.37,
+        "model": "M1/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
+        "price": 28098.73,
+        "model": "M2/512"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
+        "price": 26997.0,
+        "model": "GPU/16GB/256GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
       }
     ]
   }

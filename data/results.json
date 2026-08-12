@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 11:26 UTC",
-  "products_scanned": 1503,
+  "generated_at": "2026-08-12 12:29 UTC",
+  "products_scanned": 1495,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,7 +70,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$11,999 en palacio vs mercado -> -40% bajo la competencia",
+      "detail": "$11,999 en palacio vs sams $23,323 -> -40% bajo la competencia",
       "likely_typo": false,
       "savings": 7999.6,
       "store": "palacio",
@@ -107,6 +107,27 @@
       "extra": {
         "id": "45522776",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$12,856 en liverpool vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8163.25,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K Un75U8200Ffxzx",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318",
+      "price": 12855.75,
+      "list_price": 25713.0,
+      "ean": null,
+      "model": "Un75U8200Ffxzx",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1176864318",
+        "marketplace": null
       }
     },
     {
@@ -615,27 +636,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1619.82,
-      "store": "palacio",
-      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
-      "price": 6479.28,
-      "list_price": 8999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600342",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -652,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45260351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$6,479 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1619.82,
+      "store": "palacio",
+      "name": "Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html",
+      "price": 6479.28,
+      "list_price": 8999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600342",
         "outlet": false
       }
     },
