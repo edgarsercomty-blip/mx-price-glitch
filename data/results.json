@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-13 06:03 UTC",
-  "products_scanned": 1603,
+  "generated_at": "2026-08-13 07:58 UTC",
+  "products_scanned": 1526,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 68.4,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -90,23 +111,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$3,299 en palacio vs mercado -> -40% bajo la competencia",
+      "discount_pct": 24.1,
+      "detail": "$10,999 en amazon vs palacio $17,791 -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 2199.6,
-      "store": "palacio",
-      "name": "iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata",
-      "url": "https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html",
-      "price": 3299.4,
-      "list_price": 5499.0,
+      "savings": 6792.36,
+      "store": "amazon",
+      "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
+      "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
+      "price": 10999.0,
+      "list_price": 14499.0,
       "ean": null,
-      "model": null,
-      "brand": "Apple",
+      "model": "RAM/512GB",
+      "brand": null,
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42036980",
-        "outlet": false
+        "asin": "B0GZJ5VFKS"
       }
     },
     {
@@ -128,6 +148,90 @@
       "extra": {
         "productId": "1172657709",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$23,487 en palacio vs mercado -> -36% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13211.64,
+      "store": "palacio",
+      "name": "Laptop Gaming TUF A16, 16\", NVIDIA GeForce RTX 5050,  AMD Ryzen 7, RAM 16 GB, 512 GB SSD",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html",
+      "price": 23487.36,
+      "list_price": 36699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45650689",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11623.64,
+      "store": "palacio",
+      "name": "Laptop TUF FA607NUQ-RL038W R7, 16\", AMD Ryzen 7 170, 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html",
+      "price": 21375.36,
+      "list_price": 33399.0,
+      "ean": null,
+      "model": "FA607NUQ-RL038W",
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45650688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000829",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
+        "outlet": false
       }
     },
     {
@@ -255,27 +359,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2529.77,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 7149.35,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -340,27 +423,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3761.78,
-      "store": "palacio",
-      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
-      "price": 11627.32,
-      "list_price": 17099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 11021.78,
@@ -376,27 +438,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 804.77,
-      "store": "palacio",
-      "name": "Smartwach Kids 4 Pro Nina",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
-      "price": 2519.28,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123334",
         "outlet": false
       }
     },
@@ -486,27 +527,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 22.0,
-      "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4949.78,
-      "store": "palacio",
-      "name": "Laptop IdeaPad Slim 3, 15.6\", AMD Radeon, AMD Ryzen 7, RAM 16 GB, SSD 1 TB, Abyss Blue",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html",
-      "price": 17549.22,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44472014",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -565,27 +585,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 900.0,
-      "store": "palacio",
-      "name": "Licuadora Osterizer MAX, 2 Velocidades, Gris",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html",
-      "price": 3499.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43216481",
         "outlet": false
       }
     },

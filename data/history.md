@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (739)
+# Historial de ofertas encontradas (742)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-13 07:58 | -35% | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16…](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | $21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia |
+| 2026-08-13 07:58 | -36% | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  A…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | $23,487 en palacio vs mercado -> -36% bajo la competencia |
+| 2026-08-13 07:58 | -38% | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Ser…](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | $10,999 en amazon vs palacio $17,791 -> -38% bajo la competencia |
 | 2026-08-13 04:21 | -40% | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | $4,799 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-08-13 04:02 | -22% | sams | [Refrigerador Whirlpool 25 Pies Cúbicos Duplex WD5600S](https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529) | $18,587 | $18,587 en sams vs walmart $24,499 -> -22% bajo la competencia |
 | 2026-08-13 04:02 | -24% | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido Qu…](https://www.amazon.com.mx/dp/B0D4Z9HG1X) | $5,249 | $5,249 en amazon vs mercado -> -24% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 07:17 | -62% | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
 | 2026-07-16 03:58 | -21% | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | $2,879 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-16 01:47 | -20% | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | $5,819 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-16 01:47 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-15 23:52 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978226057) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
-| 2026-07-15 23:52 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978289038) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |

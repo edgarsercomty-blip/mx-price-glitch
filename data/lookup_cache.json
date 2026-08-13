@@ -4724,30 +4724,6 @@
     "ts": "2026-08-13T03:47:46.168546+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKNUCLEOSCPURAM": {
-    "ts": "2026-08-11T06:49:58.797863+00:00",
-    "items": []
-  },
-  "walmart|APPLEMACBOOKNUCLEOSCPURAM": {
-    "ts": "2026-08-11T06:50:00.686130+00:00",
-    "items": []
-  },
-  "sams|APPLEMACBOOKNUCLEOSCPURAM": {
-    "ts": "2026-08-11T06:50:03.157246+00:00",
-    "items": []
-  },
-  "amazon|HPGAMINGHYPERXLAPTOPNVIDIA": {
-    "ts": "2026-08-11T06:50:04.730493+00:00",
-    "items": []
-  },
-  "walmart|HPGAMINGHYPERXLAPTOPNVIDIA": {
-    "ts": "2026-08-11T06:50:06.119067+00:00",
-    "items": []
-  },
-  "sams|HPGAMINGHYPERXLAPTOPNVIDIA": {
-    "ts": "2026-08-11T06:50:07.344895+00:00",
-    "items": []
-  },
   "amazon|85QNED81BSG": {
     "ts": "2026-08-11T08:04:24.555244+00:00",
     "items": []
@@ -29965,6 +29941,866 @@
   },
   "sams|MOTOROLAMOTOROLAEXTREMEAMOLEDTELCEL": {
     "ts": "2026-08-13T04:21:38.244064+00:00",
+    "items": []
+  },
+  "amazon|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-13T07:55:11.188130+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda de almohada para sofá cama, funda de almohada de 40 x 40 cm",
+        "url": "https://www.amazon.com.mx/dp/B0D8WK1YGG",
+        "price": 269.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "City Streetscape - Funda de almohada estampada con cierre, funda de cojín suave y grande, funda de almohada, sofá, funda de almohada de 40 x 40 cm",
+        "url": "https://www.amazon.com.mx/dp/B0D8WK2NFV",
+        "price": 269.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de almohada Chai Gou, funda de almohada estampada con cierre, funda suave y grande, funda de cojín, sofá, funda de almohada de regalo para el hogar, 45 x 45 cm",
+        "url": "https://www.amazon.com.mx/dp/B0D8WGNXZ1",
+        "price": 327.84,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de almohada de castillo, protector de fundas de almohada impresas con cierre, fundas suaves y grandes, fundas de cojín para cama, sofá, regalo del hogar, fundas de almohada de 45 x 45",
+        "url": "https://www.amazon.com.mx/dp/B0D8WL1XZ3",
+        "price": 327.84,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Basics - Fundas de almohada de algodón de 400 hilos, estándar, juego de 2, color blanco, Almohadas no incluidas",
+        "url": "https://www.amazon.com.mx/dp/B01MUDQUN9",
+        "price": 236.83,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Aware - Juego de funda de almohada 100% algodón orgánico de 300 hilos, color blanco, tamaño King, paquete de 2",
+        "url": "https://www.amazon.com.mx/dp/B0B7N4JJC2",
+        "price": 274.78,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "THREAD SPREAD - Juego de fundas de almohada 100% algodón orgánico tamaño king, 2 piezas - Fundas de almohada de percal de algodón orgánico ultra suaves, frescas, crujientes y transpirables para",
+        "url": "https://www.amazon.com.mx/dp/B0DR5X3LDP",
+        "price": 316.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Basics - Juego de 2 fundas de almohada de algodón de 400 hilos, estándar, color beige, Almohadas no incluidas",
+        "url": "https://www.amazon.com.mx/dp/B01N6U0UR1",
+        "price": 235.86,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Yamel Hogar – Fundas de Almohada Imperial | Set 3 Piezas | Microfibra Suave y Resistente | Beige",
+        "url": "https://www.amazon.com.mx/dp/B0BYLGC3TK",
+        "price": 289.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Basics - Fundas de almohada de algodón de 400 hilos, tamaño King, juego de 2, color gris oscuro, Almohadas no incluidas",
+        "url": "https://www.amazon.com.mx/dp/B01MYBBASZ",
+        "price": 294.08,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cotton Metrics - Juego de 2 fundas de almohada de gran calidad, color blanco, 600 hilos, 100 % algodón orgánico, color blanco, tamaño King, 50.8 x 101.6 cm, funda de almohada decorativa con brida de",
+        "url": "https://www.amazon.com.mx/dp/B089STZ8KF",
+        "price": 427.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOOMEE Juego de 2 Fundas de Almohada 100% Algodón Lavado Tipo Lino Estándar | Textura tipo lino. Suave, transpirable y ligera. Cierre tipo sobre para mantener la almohada en su lugar.",
+        "url": "https://www.amazon.com.mx/dp/B0C2411NP4",
+        "price": 470.79,
+        "model": null
+      }
+    ]
+  },
+  "walmart|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-13T07:55:21.461853+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Fundas de Almohada Mainstays Estándar Liso Blanco",
+        "url": "https://www.walmart.com.mx/ip/fundas-de-almohada-mainstays-estandar-liso-blanco/00750662230150?athbdg=L6000",
+        "price": 49.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Para Almohada Home Trends Beige 2 Piezas Estandar",
+        "url": "https://www.walmart.com.mx/ip/funda-para-almohada-home-trends-beige-2-piezas-estandar/00750046215659?athbdg=L6000",
+        "price": 148.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Para Almohada Home Trends Verde 2 Piezas Estandar",
+        "url": "https://www.walmart.com.mx/ip/funda-para-almohada-home-trends-verde-2-piezas-estandar/00750046215676?athbdg=L6000",
+        "price": 148.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "2 Fundas para almohada tamaño Estandar de algodón Du Vló  Funda para almohada",
+        "url": "https://www.walmart.com.mx/ip/2-fundas-para-almohada-tamano-estandar-de-algodon-du-vlo-funda-para-almohada/00066011159755",
+        "price": 195.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Fundas de Almohada Mainstays Estándar Liso Beige",
+        "url": "https://www.walmart.com.mx/ip/fundas-de-almohada-mainstays-estandar-liso-beige/00750662230148?athbdg=L6000",
+        "price": 49.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Fundas de Almohada Mainstays Estándar Liso Gris",
+        "url": "https://www.walmart.com.mx/ip/fundas-de-almohada-mainstays-estandar-liso-gris/00750662230151?athbdg=L6000",
+        "price": 49.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cuerpo Almohada Funda con Sobre Cierre, Almohada Funda para Larga Refuerzo Almohada, Suave Microfibra Cuerpo Almohada Fundas Negro Cuerpo (51cmx122cm)",
+        "url": "https://www.walmart.com.mx/ip/cuerpo-almohada-funda-con-sobre-cierre-almohada-funda-para-larga-refuerzo-almohada-suave-microfibra-cuerpo-almohada-fundas-negro-cuerpo-51cmx122cm-/00072470892885?athbdg=L1300",
+        "price": 359.0,
+        "model": "51cmx122cm"
+      },
+      {
+        "store": "walmart",
+        "name": "Fundas de Almohada Mainstays Estándar Liso Marino",
+        "url": "https://www.walmart.com.mx/ip/fundas-de-almohada-mainstays-estandar-liso-marino/00750662230152?athbdg=L6000",
+        "price": 49.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda de almohadas REGALWOVEN con triple volantes, juego de 2 fundas de almohada, fundas de cama con cierre de sobre, tamaño Queen (20\"x30\") verde",
+        "url": "https://www.walmart.com.mx/ip/funda-de-almohadas-regalwoven-con-triple-volantes-juego-de-2-fundas-de-almohada-fundas-de-cama-con-cierre-de-sobre-tamano-queen-20-x30-verde/00071605862291?athbdg=L1300",
+        "price": 339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Para Almohada Home Trends Beige 2 Piezas King Size",
+        "url": "https://www.walmart.com.mx/ip/funda-para-almohada-home-trends-beige-2-piezas-king-size/00750046215697?athbdg=L6000",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda de almohadas REGALWOVEN con triple volantes, juego de 2 fundas de almohada, fundas de cama con cierre de sobre, tamaño Queen (20\"x30\") gris",
+        "url": "https://www.walmart.com.mx/ip/funda-de-almohadas-regalwoven-con-triple-volantes-juego-de-2-fundas-de-almohada-fundas-de-cama-con-cierre-de-sobre-tamano-queen-20-x30-gris/00071605862289?athbdg=L1300",
+        "price": 339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Para Almohada Home Trends Verde 2 Piezas King Size",
+        "url": "https://www.walmart.com.mx/ip/funda-para-almohada-home-trends-verde-2-piezas-king-size/00750046215677?athbdg=L6000",
+        "price": 179.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|WESTELMALMOHADARIBBEDFUNDA": {
+    "ts": "2026-08-13T07:55:24.077936+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLAMOTOROLAEXTREMETELCELAMOLED": {
+    "ts": "2026-08-13T07:55:40.794363+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
+        "price": 4699.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Turquesa, Compatible con Todas Las Redes",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWP4YC",
+        "price": 5159.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Country Air (Celeste) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
+        "price": 7999.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone Edge 70 Verde Olivo | Ultrarresistente",
+        "url": "https://www.amazon.com.mx/dp/B0G4NGTFXK",
+        "price": 8799.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Silhouette (Azul) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ758H1R",
+        "price": 7999.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
+        "price": 12499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 70 Fusion Plus",
+        "url": "https://www.amazon.com.mx/dp/B0GQ63CSGH",
+        "price": 11874.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Sporting Green (Verde) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ72GKV2",
+        "price": 7999.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G55, Pantalla FHD+ 6.5\", 120Hz, Dimensity 7025, 8GB RAM, 256GB, Cámara 50MP+8MP, Batería 5000mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FHRCFN7K",
+        "price": 3729.0,
+        "model": "50MP+8MP"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G55 Verde (8GB RAM/256GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DR48Q2BM",
+        "price": 3729.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Naranja (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0GY5CK3VQ",
+        "price": 2811.22,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 50 Neo Naranja (8GB RAM/256GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DDNPYFQ3",
+        "price": 5029.0,
+        "model": "RAM/256GB"
+      }
+    ]
+  },
+  "walmart|MOTOROLAMOTOROLAEXTREMETELCELAMOLED": {
+    "ts": "2026-08-13T07:55:59.357634+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G15 256GB Gris Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g15-256gb-gris-telcel/00750622735755?athbdg=L1300",
+        "price": 3399.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G77 256GB Cafe Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g77-256gb-cafe-telcel/00750622736273?athbdg=L1300",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G77 256GB Esmeralda Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g77-256gb-esmeralda-telcel/00750622736274?athbdg=L1300",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G51 128 GB Azul Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g51-128-gb-azul-telcel/00750622734308",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola G51 4/128gb Dorado Telcel (5g)",
+        "url": "https://www.walmart.com.mx/ip/motorola-g51-4-128gb-dorado-telcel-5g-/00750622734309",
+        "price": 2499.0,
+        "model": "4/128gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 256GB Rosa Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g17-256gb-rosa-telcel/00750622736271?athbdg=L1300",
+        "price": 4699.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G G55 5G 256 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g-g55-5g-256-gb-negro-telcel/00750622735624",
+        "price": 4299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 256GB Arándano Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g17-256gb-arandano-telcel/00750622736270",
+        "price": 3349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G G55 5G 256 GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g-g55-5g-256-gb-verde-telcel/00750622735625",
+        "price": 4299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Moto G06 128GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-moto-g06-128gb-verde-telcel/00750622736029?athbdg=L6000",
+        "price": 2999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Moto G06 128GB Café Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-moto-g06-128gb-cafe-telcel/00750622736030?athbdg=L6000",
+        "price": 2999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola MOTO G77 8GB RAM 256GB ROM PANTONE BLACK OLIVE",
+        "url": "https://www.walmart.com.mx/ip/motorola-moto-g77-8gb-ram-256gb-rom-pantone-black-olive/00084049361000?athbdg=L1300",
+        "price": 5789.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|MOTOROLAMOTOROLAEXTREMETELCELAMOLED": {
+    "ts": "2026-08-13T07:56:02.404082+00:00",
+    "items": []
+  },
+  "amazon|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
+    "ts": "2026-08-13T07:56:18.048750+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "FLAVORSTONE SAPPHIRE licuadora 4 velocidades, cuchillas titanio motor cobre hasta 2L máximo | Cuchillas de Titanio, Motor de Cobre, Ideal para Licuados, Smoothies y Salsas, Uso Diario",
+        "url": "https://www.amazon.com.mx/dp/B0D3283YSX",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "FLAVORSTONE QUARTZ licuadora perilla de velocidad y pulso hasta 2 L cuchillas titanium motor cobre | Perilla de Velocidad + Función Pulso, Cuchillas Titanium y Motor de Cobre, Ideal para Licuados, Smoothies y Salsas",
+        "url": "https://www.amazon.com.mx/dp/B0D3652PVD",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Detect Pro Sistema de Cocina, BlendSense, 1800W, Plata | BlendSense™ Ajusta Velocidad Solo | Jarra + procesador + vaso personal | 1800W | 1 toque",
+        "url": "https://www.amazon.com.mx/dp/B0F35QN76L",
+        "price": 4199.0,
+        "model": "1800W"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora Profesional 1000W, 2.1L, 4 Velocidades + Pulso | 1000W con Jarra 2.1L | Total Crushing Tritura Hielo en Nieve | 4 vel + pulso | Apto lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B07ZZM1TQP",
+        "price": 1646.0,
+        "model": "1000W"
+      },
+      {
+        "store": "amazon",
+        "name": "FLAVORSTONE SAPPHIRE licuadora 4 velocidades, cuchillas titanio motor cobre hasta 2L máximo | Cuchillas de Titanio, Motor de Cobre, Ideal para Licuados, Smoothies y Salsas, Uso Diario",
+        "url": "https://www.amazon.com.mx/dp/B0D3283YSX",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Flavorstone Licuadora Sapphire 550W con Vaso de Vidrio 2L, Cuchillas de Titanio, 4 Velocidades Motor de Cobre, Base Antideslizante, Ideal para Jugos, Salsas y Batidos + Regalo Especial",
+        "url": "https://www.amazon.com.mx/dp/B0FDHS2MFF",
+        "price": 1199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "FLAVORSTONE QUARTZ licuadora perilla de velocidad y pulso hasta 2 L cuchillas titanium motor cobre | Perilla de Velocidad + Función Pulso, Cuchillas Titanium y Motor de Cobre, Ideal para Licuados, Smoothies y Salsas",
+        "url": "https://www.amazon.com.mx/dp/B0D3652PVD",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1425.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "FLAVOSTONE Licuadora Quartz Cherry Deluxe + 2 sartenes antiadherentes 20 y 24 cm | Antiadherentes, Combo de Cocina, Fácil de Limpiar, Ideal para Uso Diario",
+        "url": "https://www.amazon.com.mx/dp/B0DLVG9YBV",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
+        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
+        "price": 1767.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JadeCook Licuadora Profesional Digital Jade Electro de 1.5 Litros, Panel Touch con Funcion de Autolavado, Tritura, Bate, Mezcla Potencia de 1000w 7 Funciones Inteligentes",
+        "url": "https://www.amazon.com.mx/dp/B0FGFVPBL6",
+        "price": 1495.0,
+        "model": "1000w"
+      }
+    ]
+  },
+  "walmart|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
+    "ts": "2026-08-13T07:56:25.247815+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Sapphire FLAVORSTONE Negra Vaso de Vidrio 120v 4 velocidades hasta 2 L máximo",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-Sapphire-FLAVORSTONE-Negra-Vaso-de-Vidrio-120v-4-velocidades-hasta-2-L-maximo/00750227477551?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora SAPPHIRE 550 W + Regalo Especial",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-SAPPHIRE-550-W-Regalo-Especial/00750227477689?athbdg=L1300",
+        "price": 1599.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
+    "ts": "2026-08-13T07:56:28.931128+00:00",
+    "items": []
+  },
+  "amazon|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-13T07:56:34.193755+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FH429674",
+        "price": 18499.0,
+        "model": "144Hz/Wi-Fi"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 23499.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
+        "price": 26999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
+        "price": 24424.89,
+        "model": "13450HX"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16 Laptop IA Gamer Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU Rendimiento Total 38 Tops 32GB 1TB Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles Copilot Gaming Proxima Generacion",
+        "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
+        "price": 38899.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "MSI Laptop Gaming Cyborg 15 NVIDIA RTX 5060 Procesador Intel® Core™ 7 240H 16GB RAM 1TB SSD 15.6\" FHD 144Hz/Teclado en español/2 años de garantía + Incluye Mouse",
+        "url": "https://www.amazon.com.mx/dp/B0FSJYDMLW",
+        "price": 25669.99,
+        "model": "144Hz/Teclado"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop ASUS TUF Gaming 16\" Ryzen 7 16GB 512GB Negro FA607NUQ-WS73",
+        "url": "https://www.amazon.com.mx/dp/B0H967X8J5",
+        "price": 20739.0,
+        "model": "FA607NUQ-WS73"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Gamer TUF Gaming A18 NVIDIA GeForce RTX 5060 AMD Ryzen 7 260 16GB DDR5 SSD 1TB 18\" WUXGA 144Hz Teclado Ingles Gaming Competitivo y Creacion de Contenido",
+        "url": "https://www.amazon.com.mx/dp/B0GLHF42BM",
+        "price": 32999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Gaming Lenovo LOQ | AMD Ryzen 7 7735HS | 16GB RAM 512GB SSD | 15,6\" FHD | NVIDIA GeForce RTX 4050 | con AI | Windows 11 (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0H2X6BJM1",
+        "price": 23179.24,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F15 Laptop Gamer 15.6\" FHD 144Hz, Intel Core i5-11400H 2.7GHz, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB, Windows 11 Home, Negro Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0CCGDQZ1M",
+        "price": 15320.85,
+        "model": "i5-11400H"
+      }
+    ]
+  },
+  "walmart|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-13T07:57:11.717793+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
+        "price": 38999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
+        "price": 44999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF Gaming Laptop A18 Pulgadas - NVIDIA RTX 5060 - AMD Ryzen 7 260 Beat i9-13905H - Pantalla WUXGA de 18\" 144Hz - 32GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - Thunderbolt 4 - Cámara FH",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-a18-pulgadas-nvidia-rtx-5060-amd-ryzen-7-260-beat-i9-13905h-pantalla-wuxga-de-18-144hz-32gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-thunderbolt-4-camara-fh/00019710551608?athbdg=L1300",
+        "price": 41050.61,
+        "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-v16-ultra-7-240h-memoria-de-32gb-ddr5-ssd-de-1tb-pantalla-de-16-led-wuxga-1920-x-1200-video-nvidia-geforce-rtx-5060-s-o-windows-11-home-/00019710590587?athbdg=L1300",
+        "price": 29229.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a18-pulgadas-gaming-laptop-amd-ryzen-7-260-beat-i9-13905h-nvidia-rtx-5060-pantalla-wuxga-de-18-32gb-de-ram-1tb-ssd-teclado-retroiluminado-rgb-camara-fhd-laptop-para-gamer/00019710542309",
+        "price": 47340.7,
+        "model": "i9-13905H"
+      }
+    ]
+  },
+  "sams|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
+    "ts": "2026-08-13T07:57:15.782559+00:00",
+    "items": []
+  },
+  "amazon|ASUSVIVOBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-13T07:57:28.734483+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Laptop de 14 pulgadas FHD, procesador Intel Core i3-1315U, 8 GB RAM, SSD de 128 GB, Windows 11 Home, Intel UHD Graphics, Wi-Fi, Bluetooth, Quiet Blue, X1404VA-I38128",
+        "url": "https://www.amazon.com.mx/dp/B0FF4LGG9D",
+        "price": 6199.0,
+        "model": "X1404VA-I38128"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook X1404V Core i7 12GB 512GB 14\" Azul",
+        "url": "https://www.amazon.com.mx/dp/B0FKGBY2F7",
+        "price": 11799.0,
+        "model": "X1404V"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
+        "price": 14997.0,
+        "model": "13TOPS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 15 Intel Core i3 1315U 24GB SSD 512GB 15.6\" FHD Teclado Español Ideal para Estudiantes y Profesionales",
+        "url": "https://www.amazon.com.mx/dp/B0DDR5PMXL",
+        "price": 10599.0,
+        "model": "1315U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
+        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
+        "price": 9408.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
+        "price": 7199.0,
+        "model": "1215U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
+        "price": 10999.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop VivoBook 14: Procesador Intel Core i5 1334U (hasta 4.6 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 14\" LED Full HD (1920 x 1080), S.O. Windows 11 Pro.",
+        "url": "https://www.amazon.com.mx/dp/B00UNGDD0A",
+        "price": 12979.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
+        "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
+        "price": 12399.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 24GB SSD 512GB 14\" FHD Teclado Español Mouse DXT Ideal para Estudio y Multitarea",
+        "url": "https://www.amazon.com.mx/dp/B0DB8V1N91",
+        "price": 14499.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook - Laptop de 14 pulgadas, FHD (1920 x 1080), Intel Core i3-1315U de 6 núcleos, gráficos Intel UHD, cámara de privacidad, bisagra Lay-Flat 180°, Windows 11 Home, con mouse inalámbrico (16",
+        "url": "https://www.amazon.com.mx/dp/B0FMXRTPZ7",
+        "price": 11899.99,
+        "model": "i3-1315U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Laptop de 14 pulgadas - FHD (1920 * 1080) - Intel Core i7-1355U - 10 núcleos - Gráficos Intel UHD - Copilot - Cámara de privacidad - Windows 11 Home - con mouse inalámbrico (12 GB de RAM",
+        "url": "https://www.amazon.com.mx/dp/B0FNCGLFGT",
+        "price": 13399.39,
+        "model": "i7-1355U"
+      }
+    ]
+  },
+  "walmart|ASUSVIVOBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-13T07:57:55.607446+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046373228812?athbdg=L1300",
+        "price": 10999.0,
+        "model": "i5-1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook F1404VA-NK1055X: Intel Core i5 1334U, RAM 8GB DDR4, SSD 512GB, Pantalla 14\", Windows 11 Pro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-f1404va-nk1055x-intel-core-i5-1334u-ram-8gb-ddr4-ssd-512gb-pantalla-14-windows-11-pro/00019710590859?athbdg=L1300",
+        "price": 10099.0,
+        "model": "F1404VA-NK1055X"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
+        "price": 17999.0,
+        "model": "13900H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook Intel Core i3 1215U RAM 16GB 512GB SSD 15.6' Windows 11 Home + Mouse DXT Teclado en español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-intel-core-i3-1215u-ram-16gb-512gb-ssd-15-6-windows-11-home-mouse-dxt-teclado-en-espanol/00070452114723?athbdg=L1300",
+        "price": 9899.0,
+        "model": "1215U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046113099307?athbdg=L1300",
+        "price": 12999.0,
+        "model": "i5-1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 Intel Core i3 1315U 8GB RAM 128GB SSD 14\" Windows 11 Home Teclado en Ingles azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-windows-11-home-teclado-en-ingles-azul/00019710586511?athbdg=L6000",
+        "price": 6199.0,
+        "model": "1315U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 8GB RAM 128GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-8gb-ram-128gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046045033850?athbdg=L1300",
+        "price": 8499.0,
+        "model": "i3-1315U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook X1607CA-MB155W CU5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1607ca-mb155w-cu5-16gb-512gb/00019710589103",
+        "price": 14997.0,
+        "model": "X1607CA-MB155W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 512GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-512gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230309449?athbdg=L1300",
+        "price": 10199.0,
+        "model": "i3-1315U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      }
+    ]
+  },
+  "sams|ASUSVIVOBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-13T07:57:58.744330+00:00",
+    "items": []
+  },
+  "amazon|FA607NUQRL038W": {
+    "ts": "2026-08-13T07:58:13.889936+00:00",
+    "items": []
+  },
+  "walmart|FA607NUQRL038W": {
+    "ts": "2026-08-13T07:58:35.526033+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF FA607NUQ-RL038W R7 RTX 4050 16GB 512GB Gris",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fa607nuq-rl038w-r7-rtx-4050-16gb-512gb-gris/00019929141377?athbdg=L6000",
+        "price": 32999.0,
+        "model": "FA607NUQ-RL038W"
+      }
+    ]
+  },
+  "sams|FA607NUQRL038W": {
+    "ts": "2026-08-13T07:58:38.690031+00:00",
     "items": []
   }
 }
