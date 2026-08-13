@@ -2719,111 +2719,6 @@
     "ts": "2026-08-12T15:34:51.467043+00:00",
     "items": []
   },
-  "palacio|RR43D6AGX1": {
-    "ts": "2026-08-11T03:02:13.387935+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 32 p3 RF32CG5N10S9EM Silver",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-32-p3-rf32cg5n10s9em-silver-43388831.html",
-        "price": 21239.41,
-        "model": "RF32CG5N10S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 31 p3 Family Hub RF32CG5911B1EM",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-family-hub-rf32cg5911b1em-43388829.html",
-        "price": 46682.43,
-        "model": "RF32CG5911B1EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 32 p3 GM90FIP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-32-p3-gm90fip-45001054.html",
-        "price": 22619.42,
-        "model": "GM90FIP"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
-        "price": 13329.38,
-        "model": "RT42DG6774S9EM"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 25 p3 GM65FPP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
-        "price": 19764.41,
-        "model": "GM65FPP"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador dúplex 27 p3 Side by Side VS28LNP",
-        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-duplex-27-p3-side-by-side-vs28lnp-44968791.html",
-        "price": 27341.38,
-        "model": "VS28LNP"
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Recto Niña",
-        "url": "https://www.elpalaciodehierro.com/mango-jeans-recto-nina-44914359.html",
-        "price": 356.49,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Galaxy Watch 9 44mm Verde",
-        "url": "https://www.elpalaciodehierro.com/samsung-galaxy-watch-9-44mm-verde-45637741.html",
-        "price": 6224.17,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Gemelo, 1020 L, GEMPDF19EBTCDS, Negro",
-        "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-gemelo-1020-l-gempdf19ebtcds-negro-42970045.html",
-        "price": 67339.35,
-        "model": "GEMPDF19EBTCDS"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador French Door 21 p3 Quattro con Flexi Freeze Gris Acero",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-21-p3-quattro-con-flexi-freeze-gris-acero-40524468.html",
-        "price": 33291.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3 RS22N6IBX",
-        "url": "https://www.elpalaciodehierro.com/hisense-refrigerador-duplex-22-p3-rs22n6ibx-45479180.html",
-        "price": 19889.49,
-        "model": "RS22N6IBX"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerado French Door 19 p3 4 Puertas KRQC736RPS",
-        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerado-french-door-19-p3-4-puertas-krqc736rps-45441409.html",
-        "price": 97369.3,
-        "model": "KRQC736RPS"
-      }
-    ]
-  },
-  "amazon|RR43D6AGX1": {
-    "ts": "2026-08-11T03:02:14.602093+00:00",
-    "items": []
-  },
-  "walmart|RR43D6AGX1": {
-    "ts": "2026-08-11T03:02:16.289929+00:00",
-    "items": []
-  },
-  "sams|RR43D6AGX1": {
-    "ts": "2026-08-11T03:02:18.139146+00:00",
-    "items": []
-  },
-  "mercadolibre|RR43D6AGX1": {
-    "ts": "2026-08-11T03:02:19.374778+00:00",
-    "items": []
-  },
   "amazon|APPLETELCELIPHONE128": {
     "ts": "2026-08-11T08:04:38.092308+00:00",
     "items": []
@@ -4786,218 +4681,8 @@
       }
     ]
   },
-  "palacio|BASICS1": {
-    "ts": "2026-08-11T03:01:52.637678+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pulsera Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-pulsera-basics-mujer-45357968.html",
-        "price": 1000.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cartera Back to basics liso Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-cartera-back-to-basics-liso-mujer-45347105.html",
-        "price": 1750.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aretes en plata .925 Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-plata-.925-basics-mujer-42036386.html",
-        "price": 2750.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Arracadas en plata vermeil Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-arracadas-en-plata-vermeil-basics-mujer-40466267.html",
-        "price": 2750.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Muñeca Barbie Basics 07",
-        "url": "https://www.elpalaciodehierro.com/barbie-muneca-barbie-basics-07-45322680.html",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Alargador de pulsera en plata vermeil Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-alargador-de-pulsera-en-plata-vermeil-basics-mujer-41972791.html",
-        "price": 500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aretes triple aro en plata Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-aretes-triple-aro-en-plata-basics-mujer-43925155.html",
-        "price": 2000.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aretes en oro amarillo de 18 kilates con perlas Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-oro-amarillo-de-18-kilates-con-perlas-basics-mujer-44278674.html",
-        "price": 5500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Collar con eslabones Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-collar-con-eslabones-basics-mujer-45637161.html",
-        "price": 1100.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Gargantilla en plata .925 Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-gargantilla-en-plata-.925-basics-mujer-42622836.html",
-        "price": 1600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aretes en Plata .925 Basics Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-aretes-en-plata-.925-basics-mujer-40466271.html",
-        "price": 1800.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Cartera Back to basics liso Mujer",
-        "url": "https://www.elpalaciodehierro.com/tous-cartera-back-to-basics-liso-mujer-45276848.html",
-        "price": 3000.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|BASICS1": {
-    "ts": "2026-08-11T03:01:55.278595+00:00",
-    "items": []
-  },
-  "walmart|BASICS1": {
-    "ts": "2026-08-11T03:01:57.482379+00:00",
-    "items": []
-  },
-  "sams|BASICS1": {
-    "ts": "2026-08-11T03:01:59.479132+00:00",
-    "items": []
-  },
-  "mercadolibre|BASICS1": {
-    "ts": "2026-08-11T03:02:01.467668+00:00",
-    "items": []
-  },
-  "palacio|WH22DBH570GWAX": {
-    "ts": "2026-08-11T03:02:19.848274+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
-        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
-        "price": 29325.38,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora Automática 22 Kg WM22WV26SR Carga Frontal Blanco",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-wm22wv26sr-carga-frontal-blanco-43815236.html",
-        "price": 16607.52,
-        "model": "WM22WV26SR"
-      },
-      {
-        "store": "palacio",
-        "name": "Centro de Lavado WH22DBH570EWAX Electrico, Frontal, 22 Kg",
-        "url": "https://www.elpalaciodehierro.com/samsung-centro-de-lavado-wh22dbh570ewax-electrico-frontal-22-kg-44586077.html",
-        "price": 33494.45,
-        "model": "WH22DBH570EWAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
-        "price": 20783.52,
-        "model": "WM22VV2S6GR"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora Automática 22 Kg Con Agitador Carga Superior",
-        "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-con-agitador-carga-superior-45068400.html",
-        "price": 10024.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Horno de Microondas Grill 1.1 Pies MG32DG4524CGAX Negro",
-        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-grill-1.1-pies-mg32dg4524cgax-negro-44047751.html",
-        "price": 3444.35,
-        "model": "MG32DG4524CGAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora semiautomática 19 kg con pulsador, carga superior WA19CG6746BVAX",
-        "url": "https://www.elpalaciodehierro.com/samsung-lavadora-semiautomatica-19-kg-con-pulsador-carga-superior-wa19cg6746bvax-45068396.html",
-        "price": 10439.42,
-        "model": "WA19CG6746BVAX"
-      },
-      {
-        "store": "palacio",
-        "name": "Horno de Microondas Bespoke 1p3 Gris",
-        "url": "https://www.elpalaciodehierro.com/samsung-horno-de-microondas-bespoke-1p3-gris-42904176.html",
-        "price": 3704.35,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Secadora a gas 22 Kg carga superior DT22EGTX",
-        "url": "https://www.elpalaciodehierro.com/lg-secadora-a-gas-22-kg-carga-superior-dt22egtx-45001057.html",
-        "price": 16429.47,
-        "model": "DT22EGTX"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit WindFree 18,000 BTUs, 1.5 Toneladas, 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-windfree-18000-btus-1.5-toneladas-220v-frio-44531364.html",
-        "price": 12035.49,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Walkman WM1AM2, Negro",
-        "url": "https://www.elpalaciodehierro.com/sony-walkman-wm1am2-negro-43137245.html",
-        "price": 19239.48,
-        "model": "WM1AM2"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 28943.52,
-        "model": "WD22BV2S6R"
-      }
-    ]
-  },
-  "amazon|WH22DBH570GWAX": {
-    "ts": "2026-08-11T03:02:21.252951+00:00",
-    "items": []
-  },
-  "walmart|WH22DBH570GWAX": {
-    "ts": "2026-08-11T03:02:23.120825+00:00",
-    "items": []
-  },
-  "sams|WH22DBH570GWAX": {
-    "ts": "2026-08-11T03:02:24.591515+00:00",
-    "items": []
-  },
-  "mercadolibre|WH22DBH570GWAX": {
-    "ts": "2026-08-11T03:02:26.181868+00:00",
-    "items": []
-  },
   "liverpool|100QNED85BS": {
-    "ts": "2026-08-11T03:02:26.901480+00:00",
+    "ts": "2026-08-13T03:46:16.588021+00:00",
     "items": [
       {
         "store": "liverpool",
@@ -5012,42 +4697,31 @@
         "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552",
         "price": 12099.0,
         "model": "55Qned83Asg"
-      },
-      {
-        "store": "liverpool",
-        "name": "Proyector Hisense Dlt100 E",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/proyector-hisense-dlt100-e/999681687364",
-        "price": 114999.0,
-        "model": "Dlt100"
       }
     ]
   },
   "amazon|100QNED85BS": {
-    "ts": "2026-08-11T03:02:28.797126+00:00",
-    "items": []
+    "ts": "2026-08-13T03:46:22.850852+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Original Magic IA Mr26ga 2026 Akb30086801 | Modelo MR26GA, AKB30086801, Magic IA, Original LG, 2026",
+        "url": "https://www.amazon.com.mx/dp/B0H8NJJQRH",
+        "price": 799.0,
+        "model": "Akb30086801"
+      }
+    ]
   },
   "walmart|100QNED85BS": {
-    "ts": "2026-08-11T03:02:31.057917+00:00",
+    "ts": "2026-08-13T03:46:33.479113+00:00",
     "items": []
   },
   "sams|100QNED85BS": {
-    "ts": "2026-08-11T03:02:32.650907+00:00",
+    "ts": "2026-08-13T03:46:36.619477+00:00",
     "items": []
   },
   "mercadolibre|100QNED85BS": {
-    "ts": "2026-08-11T03:02:33.903386+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-11T03:02:35.573040+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-11T03:02:37.794886+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGREFRIGERADORPANELDOORONE": {
-    "ts": "2026-08-11T03:02:39.441823+00:00",
+    "ts": "2026-08-13T03:47:46.168546+00:00",
     "items": []
   },
   "amazon|FLAVORSTONEVELOCIDADESFLAVORSTONELICUADORASAPPHIRE": {
@@ -27179,6 +26853,2960 @@
   },
   "sams|VX182H4": {
     "ts": "2026-08-12T23:59:51.348697+00:00",
+    "items": []
+  },
+  "liverpool|UN98DU9000FXZX": {
+    "ts": "2026-08-13T03:36:32.357598+00:00",
+    "items": []
+  },
+  "amazon|UN98DU9000FXZX": {
+    "ts": "2026-08-13T03:36:57.118908+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV 98\" 4K Crystal UHD (UN98DU9000FXZX)",
+        "url": "https://www.amazon.com.mx/dp/B0D462V8K2",
+        "price": 26654.95,
+        "model": "UN98DU9000FXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 22999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television U7QG (Modelo 2025) Pantalla 100 Pulgadas,Mini-LED Smart Google TV UHD 4K,Modo de Juego Pro de 144 Hz,Hi-View AI Engine,Subwoofer Incorporado",
+        "url": "https://www.amazon.com.mx/dp/B0GKPFCTSQ",
+        "price": 36999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Quantum TV de 85\" Pulgadas Clase Q80D Series QLED 4K Smart Tizen TV - QN85Q80DDFXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FFF8FCGZ",
+        "price": 22694.99,
+        "model": "QN85Q80DDFXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "CHiQ Televisión 32F621FR ROKU Pantalla 32 Pulgadas Smart TV Full HD 1080P con WiFi, Aplicación Móvil, Audio Dolby, Diseño Sin Marco Metálico, Compatible con Apple HomeKit",
+        "url": "https://www.amazon.com.mx/dp/B0G1CV33ZT",
+        "price": 2559.0,
+        "model": "32F621FR"
+      }
+    ]
+  },
+  "walmart|UN98DU9000FXZX": {
+    "ts": "2026-08-13T03:37:12.419066+00:00",
+    "items": []
+  },
+  "sams|UN98DU9000FXZX": {
+    "ts": "2026-08-13T03:37:14.622865+00:00",
+    "items": []
+  },
+  "mercadolibre|UN98DU9000FXZX": {
+    "ts": "2026-08-13T03:37:32.783407+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal Tv 98\" Uhd Un98Du9000Fxzx Negro",
+        "url": "https://www.mercadolibre.com.mx/samsung-crystal-tv-98-uhd-un98du9000fxzx-negro/p/MLM45456257",
+        "price": 48999.0,
+        "model": "Un98Du9000Fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Fuente Samsung Bn44-01283a / L98s6n_ddy | Un98du9000f",
+        "url": "https://www.mercadolibre.com.mx/fuente-samsung-bn4401283a--l98s6nddy--un98du9000f/up/MLMU3346576390",
+        "price": 1299.0,
+        "model": "Bn44-01283a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Main Samsung Bn41-03168a / Bn94-18398p | Un98du9000fxzx",
+        "url": "https://www.mercadolibre.com.mx/main-samsung-bn4103168a--bn9418398p--un98du9000fxzx/up/MLMU3346553832",
+        "price": 1699.0,
+        "model": "Un98du9000fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal Tv 98\" Uhd Un98Du9000Fxzx Negro (Nuevo con caja abierta)",
+        "url": "https://www.mercadolibre.com.mx/samsung-crystal-tv-98-uhd-un98du9000fxzx-negro-nuevo-con-caja-abierta/p/MLM2022513271",
+        "price": 41999.0,
+        "model": "Un98Du9000Fxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Control Remoto Original Samsung  Smart Magic Bn59-01358d",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=YD%2BhXwH69pXpvXDQyQfQ%2Bg6LmlExpwNo2oZI%2BSyyPXNObid8xT4nXpJuXQLLPNkntRhHD4BxDlh3%2BkOfboQ5pnJo4knnvBUbndRGuAXEC10szVghUkdI%2B7qDWaXaBBY0fauAQEhnT7sfq%2F9pRWbKZDZjidiANWm4dh2HTVgHcszPa1FWg2eRvjOMLy7SZfERt6iw2oAhyMdaDabAytwB3fR%2Bb%2BDWRkSn4IyV1dP57viq0hlNSNBqGpMWamVT6Sg6DVta7iq%2BDFvLDgwwgU27rvqGqDGimk8dhdZHl7k7JAKQWJQOEc3JMqbkubJZ%2Fn6snXS0%2BUhuxfM4sjSwzYTBsZ34v9jFQCUahZzITppGAixnSN1Z7UTbdBA51%2F10gJdAOSgxOdZMdjF62GDv5uZsehxUh5uv6RJIGZV3lBep074BkTqGpnCm8ndiNVekpGbxK4emEKDujITZl6TeE9JBEom9DL3hZ6uQmbDQ05SDJm9tCaJjJWg0iQAQqGXaUWZiZDznVH0kdY9id%2BwZemwd6UXAo%2BMzwrSqc7%2BWL7RqKV3hm4Jv0rCD16z7dvUWqS5UzUCXUwvFLy0rmJFS9ndPH%2BGQW8z4T%2FLopDLAcwVTVyqjyV5atTplbu74e%2FY9VXVURXmB2ps1IFeggQFIeLMqhWzk7p76zW8WaouGopooBhnKgxJLKK6UX1YhCjr%2FpE9Vw%2BJHKbjZgodESEkECkzCzwxQRbQOw1%2BjwH4KEj1GEdAuxLDPDQd9dDIrGimPe6ezQXfCwaxg10V7HFgGAdKmScN5Nz4druj2FpSnJSQAQVyz4JalyLEUybBysvlL9TI57rz887WjKiSkk8%2FCNNn2S2Dh%2B6Qn4Ry3gsbMipIufjG67CExP4lj8VckGE3cZ3FAYCO49yZo4z%2FQ7Zc%2Bt8ufxctoQA3c890DYTkrWwSGpRfbirW6Eku7l%2BVCKlT%2FLyLZEs%2FNZY63tHdw4g6fJaI2UcupTU6mvv6yfJq3gvqmqZWRg6CJYpHr%2BnaYGnqD6XzbPM9%2B%2FM5ZkiIo&pdp_filters=item_id%3AMLM1380031848",
+        "price": 674.0,
+        "model": "Bn59-01358d"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Kit Para Samsung Un60eh6200f/ Un60fh6200f/ Un60j6200af Nvos",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=ezXA%2F68R62C8t%2FE08dW4SaFibYYczcV7lJP6Xb2aoq82O52VWJ70dFggGfSj5uYl2NDQoe42t9w0RzaRrd%2FHsUqFLUze7NCh8Qjkk1F2dQQaHCrWCuTSrnuIm6Kw2Wq6AvryZdApgiwJZlhG9k7YpWTR0Gehp0MXfbXETLo%2FUF7rdQbRvS3BFkhEBKB27WYRM9H%2BFi%2Fz%2Fnwr7AtBzgMAwR4t2U8ArXvyEeAG7nQXD6MosznrxEzQ%2BgH3FdPy%2BkIKIVJ4qQyrZhlHr5FO92fjqeQXXSQVK1fyQneqMu5aUyDPV1J6Sp4JMzvsH04s%2BkWikJDiVn1OEEMoKCKSrswAgXUdDA59%2FlzU5r7%2BYnMk96Z0IfaHKs3Upu4dX6lNEQHm4oDbJRUOvvV0L8j1GvnPswE0uUoHxEgiYlafZGKtiSGajNWpY2y50RPWYVuBaBB0nmTKBtenKKVjuMPt9xyVUJaeyal4CZUgxEx%2Bjnu%2F8ipRHlEWtzl47iHlR8sVydmuhR1ghblrNqcUxyMZ5AyYGtBmuZSsTzmHKNyyCMqqDH6xi2SANsonR92VBxhQwJBKW29VEv9Qbh5NAw9XTf5axNkKKWTUf6f3fZgZu%2F8vFrJK%2FRAr0lKYY3pfbNlLdj%2Bhy43Q6lxbCklS9hGetSZoLCNqwqSRjCs51wZUJYKbKDnLn80bTApZlKLxo81Lmhw1CU1DrWdKtegP1fooK5ycviAFrPIjEdvib%2Bh7eg0XBfg%2Bse3IvCDYar70sUaM2OpO9h5obo71qvlUvAXElKeEtlwoGA2iwzpgTSfd4GizuSNkvag9iil%2FGd1QHf1EkOVBMJpzZ2bsHVqiN9kqon1WJBaJiyxaqmvMeDPr3SbcLp1AMdD%2FSXCRfV5VUYTN8De6FgtOU7B4Vg3tLnP1dztALus0TnUsbj%2Fnkm%2FD7UUSwgZrXwrw7eCCCT7neyhAwukHgAtL5UUlFBax6CvBqMcKi1a03%2B5FRZbRoxanlReNg6F5SZFjD5CUPVsL0OZ1owhety6zABhUoYapGN0%3D&pdp_filters=item_id%3AMLM2012610531",
+        "price": 899.0,
+        "model": "Un60eh6200f"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Control Compatible Con Samsung Modelo Bn59-01480a / Tm2360e",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=NyEudcSLSlpEc9KOYuUZh%2F%2BZdZVj%2FEEx1sb9yXH9j1q%2BShWDzfiHehA1C7eByM5l31EpXAqr9DYUTxOkqG9e7dopcaLMlROz%2F5lqv%2FbaCnvVjb7jXk3p3Omygz5ctB8WAqumeWQggyu241a1t5NS%2BZpefx2Bqq%2BMWD2sTAa6glEVoJx8j%2BGvyZk9VtT7l34eg%2F6puiKDpSO0SVKKcsAne5%2B10nLnk%2BREtJ7ogY91vNwLK5XEvQjAH%2BY%2Fggm2%2BUYwT6T3tLWE6PSVCTLMROpDMuQ8jlEmFgQstPwjW3Iby5xfmvfP5RX7DHKxDC8%2BIRm4LUjS7hrqWA8XsX6NYVrx44gHqL%2FnMSAXCO2XhDj1UTwcqiqFEEEfTy%2BgQBMkDB3g%2BCUqMJXxSvL%2Fl66Fg57DEt37ldVToNRZ6Jcy9swexAweB%2BJJhVKdgfIl1UUj%2Ffr66zPQPuY6S1Zw%2BeemQynvQcfP3%2FGgFd62UhVM60M79DVJdE4wJaTv1etwzSB16%2B%2FCUt8uewvbofvPwoqz6PPQk8EG5Hl8RmBzTgXL5VITBfCzNsyFEhp5RCDUpnAs7tUr2PiGnypaU9iWYzs63qMYJjMD0QBmoByb314oJLXr5Q0vD0Pe78a08f4W1sVUQV%2BoCu5j3w%2BQ0It4HA5hsHVoT%2BFHXGCTVS4hj628kp%2Bg5BnEfg8otgev8WT4LKJ1VDlirhlOOXKXrZkRCqDu%2B588AzV8lps5YPnYCIKFjJCNP6zR7QPKiUkbyJu5TQXSD8CA8ZHYFtb8FgSP5oDmGs7A4shUgzN4zUFvBgMUxMLx26QVr%2Buk4H34X3ZVmPHpDq8EDdWg2SpOLSACqxDaMnB0%2FZAZ9GnE0pDA5nagtXSLHmpaVrnoevJCNiIHCAeuhbiRfRQcbSXRXN3JxSyvH4Fjqb91CDIcCm4kOVLSpgFQU4XHbH5gH%2BlvBAUE4qk6qP0VlXajEAkLUibROKeQG0VONZHc9GNUh%2BORhRjedtpsnyh%2BOpzzDvgrhTg3WiZQ2iPGHJ%2BF5dalS0akfKEaHC8%3D&pdp_filters=item_id%3AMLM5147487354",
+        "price": 499.0,
+        "model": "Bn59-01480a"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Control Compatible Con Samsung Solar Smartv 4k 8k Qled Oled",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=aMJDhnjZGk0H5B%2B3akh2B7OQtDfc67qRBq6Nh8%2BpyOr6iGZVNAKADECk76wcOZMKbCzjnnofQ5l%2F6N8PHj3npTpmyb4WXoUVpyvZejDsQIX%2BJNFpMHElRkPu%2F775RRi4L5071HzX8XH2%2FWHeIG4q1txOAiT6xqkqf2B2EjOHdKZjGfHJbtKqK3OTbEkBQzO3Pnx1%2Buc26zAluw3MG1nMELSlwFnkMfdALJXIR3%2Bq12jGhWcl5CPVrgOxwrUXoqtuQsmYogMgrC13cupDNHGdR9mhj%2BxTKgVUN3egVGgl3bl3CDGk%2F1M4r5m4JgRdhD9j2kOKunmtLKSD5SHwyeAWT7pFal9qxkVWZoAc8Mjk3YLMRMKN0Sq8KVSzxSldZIz8IBh3uxJtszw8rub%2BHBS7YJaUfDKPj6yy4QE1XGmf1DkGLVmUts%2Bw39rvFN6VW1AJ3HVuvbncKZe6cL1aLW%2BuTzcntfqP3kPivoALMFfiLeD5LP7wrvhsqd4yUdmKGfZxsch4Bw4IZE%2Bm80Zn99VXEhcrqT4nHIFuciw6lZyElRhGsmzF%2F3DdrzTj73j%2FrtmtvccM9pWEjjxxx%2BNfpBnF1fFK9QqiLEn1uAG1DOSNXnpDY%2FVujHzgp3hQN52xz7wDwAYlQIjN%2FJoySS4a2lYvANfWvoT5dLSySed9RXX3can8CvcBRx2qcoLE29ZrhfOdfxZaTN96u9%2BMZhec%2BBeIvO3Tjj6w7Zs7JMQGFYoWejeTC7%2BS5SKRw%2Fk%2B1rf4j0l45WYyurJ47Gn6mHvZE6wlWpW24iopnyjdMQ9PGIEnoWaigOvcT%2FAy%2BOc2WXRMYQVfS9ocRo5lulEi8Ci30RWKSfBt8TDJr%2B6tCY9XsXyliaFYFb0nScnW05xfYTc2Znjgk4HRaQKVfKtGr8I4RPM4B0wbUj4oZEvMf1gLZ%2BnddIBz1kwQMsefFdKFJCX0hq8Os6iGS%2BQOfc1Q8Fs6Eh5GENholby%2FcoVA0Lm9G7C1V8Jcz5nRyRUueOHDaTudFNdRSdRHsIr9HjqYVr0MuBDc%2BQw%3D&pdp_filters=item_id%3AMLM5147485776",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Samsung Crystal Uhd 98 Un98du9000fxzx Negro",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-5773583078-samsung-crystal-uhd-98-un98du9000fxzx-negro-_JM",
+        "price": 32999.0,
+        "model": "Un98du9000fxzx"
+      }
+    ]
+  },
+  "liverpool|75QM8K": {
+    "ts": "2026-08-13T03:38:25.801517+00:00",
+    "items": []
+  },
+  "amazon|75QM8K": {
+    "ts": "2026-08-13T03:38:45.314402+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Aiwa Smart TV de 43 Pulgadas Roku TV, Pantalla LED Full HD 1080p de Alta Definición, Dolby Audio, Bisel Delgado, 3 Entradas HDMI, Puerto USB, Wi-Fi y Streaming de Miles de Canales Gratis AW43B4SMRK",
+        "url": "https://www.amazon.com.mx/dp/B0DTBT2JP3",
+        "price": 3990.0,
+        "model": "AW43B4SMRK"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV de 43\" Pulgadas Clase Crystal U8000F Ultra HD 4K Tizen, Diseño MetalStream, HDR, PurColor, One UI Tizen (2025) - UN43U8000FBXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FDY8DJQ5",
+        "price": 4199.0,
+        "model": "UN43U8000FBXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL de 55\" Pulgadas Clase S4 4K LED Smart TV con Google TV HDR Pro, Dolby Audio, Diseño sin Bordes, Compatible con Apple AirPlay 2 55S41CG (Reacondionada)",
+        "url": "https://www.amazon.com.mx/dp/B0GSXKH4WJ",
+        "price": 6499.0,
+        "model": "55S41CG"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 22999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM7L Pantalla 75\" SQD-MiniLED 4K Smart TV | 3000 Nits | 144Hz VRR |Sistema de Audio Bang and Olufsen 30W | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GWSHKCBX",
+        "price": 24995.0,
+        "model": "75QM7L"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI TV A Pro 75 2026 | 4K QLED Google TV | Dolby Audio DTS:X + DTS Virtual:X1 | Voice Control | HDR10+ | MEMC | Filmmaker Mode | Apple Airplay",
+        "url": "https://www.amazon.com.mx/dp/B0FSPQM8WX",
+        "price": 14259.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 12680.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 17299.0,
+        "model": "75QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 75\" 75Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHC39TL",
+        "price": 10999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 98QM8K Pantalla 98\" Mini-LED 4K QLED Smart TV | Google TV | 288 Hz VRR Gaming | Sistema de Audio Bang and Olufsen 85W | 5,000 Nits | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GZJDNZKN",
+        "price": 51749.55,
+        "model": "98QM8K"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 85\" 85QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0DYSKRC2V",
+        "price": 23399.0,
+        "model": "VisionHDR10"
+      }
+    ]
+  },
+  "walmart|75QM8K": {
+    "ts": "2026-08-13T03:38:47.843922+00:00",
+    "items": []
+  },
+  "sams|75QM8K": {
+    "ts": "2026-08-13T03:38:48.722361+00:00",
+    "items": []
+  },
+  "mercadolibre|75QM8K": {
+    "ts": "2026-08-13T03:39:52.992460+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tcl 75 Qled 4k Smart Tv Google Tv 75q77k - Excelente (Reacondicionado)",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tcl-75-qled-4k-smart-tv-google-tv-75q77k-excelente-reacondicionado/p/MLM2079024210",
+        "price": 13751.0,
+        "model": "75q77k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Tcl 75  Sqd-mini Led 4k Google Tv 75qm7l 144hz B&o",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-tcl-75--sqdmini-led-4k-google-tv-75qm7l-144hz-bo/up/MLMU4588687394",
+        "price": 46899.0,
+        "model": "75qm7l"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tcl 43 Pulgadas Class Full Hd Qled Smart Google Tv",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=nuc1EdUi%2Fc5t5nkT7fSV4CzTKl9ElK%2BLvstPy%2BvkOUHAzji%2BZagCrj38s06HMxSUH90QpTTzI3k0QUAmoCuZrw6fz54EMDCEhAkYtQxoJMKqdxyH3f60WhvI6BPt6g0VmMs9cDIHkR1OaevUQTwrBfdVMQfqHkgum%2BDXljk9o4%2B%2FaDCCU9sEvXtqDjqYqfK51efFVx139chmV8T6J3f3Ul5rTQshK3Jg6hTt%2FC%2FLmNmmQZQRPRqx%2Ftr1Po3BEwS%2BrVwdD0kCDdRHTg7RC%2BdjGjTGBYWceV0q7pg%2Fumqa6%2FNHp9epdwPFSTZOeeF5rwxIMXMexHvPrQKj2zPuHlVIrsAb9RDlDXcvQRBCp9aHV571enRODWlx7AUVk6H8feNVcOn9NJIEMh4I4%2BpjvtpJFBP2tt%2FhkPe4Zp%2FS5oz2ZIzSDSlt9foMjxI985IMIaAFn%2FklNdQgRTZCaIkOgM9utLpcxpI3sOEy1QitqDcxtL%2BNtJrrKo0yKsxXzMzrV95FMlyzmNgpcWEpSNS8Cw7v96xSAxPNq51Ko3dfOONJa0ZS1m1yP9hv25kTcPI7zL6hZJKnQ%2Bv%2BCsnZ8N7bPMt2vpvTdg0lOj%2FoR09iQGG11ciKG7Yv1v5cq%2BCfgTvLM4T48xR3R64xN3zXc%2BXdYYXmIh2WMX8iqvAM01qlzvRCmdBMtH4pXM3sovib6CN86ehBFN51hZ7LIXvCntytfY%2BuVTfu9rs%2BtVJsp%2Fjq1tg7KUKRmnioamDqe5MbzvfncjoAiLGhSJ9b9%2BwIjKjQHZfH2V%2FHQdfb82bYPo4IB7jADl8iuBPvoLR%2FnPeCKlj%2FOQl%2BLR%2F8TMLlHiaMA9AIjA7NKcudO0y07glUNuBgJPHTB7Ynx6vsrYvP84pBRfE17%2FQQkMJr4VsXt8kZ2UnVTjqiSx%2FT6xbyNBv%2F0sgt6tjzYpc5L1Q%2BMMefIJP2%2B2gcS%2B6tIUGPRen%2FEZfbjftEk2fq0xSVC4O71%2FBbeKHTYRPdlRKigXjkbHFFhBESVuVvsXkIFEo%3D&pdp_filters=item_id%3AMLM2661595991",
+        "price": 4159.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Smart Tv Aiwa 58 Pulgadas Qled 4k Ultra Hd Roku Tv",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=W98pWaj2Jn2%2FeO9Qa0kx8J11xks3uETf5%2B1ywtRWu0GQ%2BQG62%2BwCRSnsc3BqZeDeHD%2FixH0QNRYcf7ElFm4dVoWdWAK0elagFfdk3i5cFhT4UwfW7B90VWDZbJM%2BAmuk6zV%2FyRAvORB5z%2FZbLukSwwVIp%2F71S7fUavgY9wxwF8EUWPALmY2jDSIYiuQdUOO1RJDiYbeCPi%2BHSKcG%2F7A%2FhloYq3IHr5cI6P9dtY7YLl6mTccMiU1FO71Z5XONu7K8JPNFz3AsdbxhB2c%2F4ir3kpRbXv1ng9CWsWicOw9KwZ1cSmU45H2zVFl1SXYozhBu8knn93jtMqz3TiiNXB7AnYh1l6ZLu%2FqXvphriBjnBM7WuDFXa9K9DgfFSwHgjalk9yrFHFIpMvnWatLShhASqQAOChhlAQuoYIJy85NFy6%2BVY6Qckrx9R8A%2BPta6q%2BVglYsA0rG%2F4HMLqF89yXN48h5%2FFAJTRxyTtAUD5N9%2B3uoF5LZ7%2FxFMtzjV3BFLqciGbXeYj6tKVzYw9%2BP%2Fb9%2FWxqrI6OLblWzLHUpRXGPCeeidbiJsxTE21226tPU%2B%2Bnq2Juh0YBao26kC7d%2FdQA5xKSb3wdAGDmjezJnXhzoplbIOcDRTNSy339BY1ghWPgsZsQVwIHEP1hV4LjT2U2yFmrIOCtDB%2FYpnuQ%2BWsGg5Jg7qAi6GPPhz1jLSjgCTNQlxOuXb0%2B31qjU1xALfXPb59jPoHSyO%2F9TCBXNlf24jBaWo3tLlg3baMsQlHXrOyQJeXpJu9tleCWXP5ZGFaeyYRWrDODX4ZgiahqflSewMUT%2FgdZZuKcgYyYdcaeHao%2BhV7T8QQltscB2uLqCCciYUIwSfaZZUmK9kVlt3YcmELI3IPYDQlVFRl6ACM5k4HirgreTC1fLtGjLB9f%2F7vgefcx70%2BJAfSMHWoMP7PJmewdXNjeZgMUPQXrD6yK%2FPLyMT8uZnPL4y%2FaO3SLPpehkiYgVvIkUEOhqns%2FHw10aFq0J%2FW2UOZ6fYxlUVNQA%3D&pdp_filters=item_id%3AMLM5461991210",
+        "price": 7299.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart TV de 75\" Samsung Series 8 QN75Q80BAF con pantalla QLED 4K",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-de-75-samsung-series-8-qn75q80baf-con-pantalla-qled-4k/p/MLM21449731",
+        "price": 62745.0,
+        "model": "QN75Q80BAF"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Television Samsung Be75f 75 Uhd 4k Tizen Hdmi Wifi 5",
+        "url": "https://www.mercadolibre.com.mx/television-samsung-be75f-75-uhd-4k-tizen-hdmi-wifi-5/up/MLMU4090421759",
+        "price": 20472.0,
+        "model": "Be75f"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Samsung De 75 Pulgadas 4k Lh75beahlgfxzx Smart T",
+        "url": "https://www.mercadolibre.com.mx/pantalla-samsung-de-75-pulgadas-4k-lh75beahlgfxzx-smart-t/up/MLMU4656086922",
+        "price": 10500.0,
+        "model": "Lh75beahlgfxzx"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tcl 75qm52l Televisor 32 GB Google Qd-mini Led 75 In Dimming",
+        "url": "https://www.mercadolibre.com.mx/tcl-75qm52l-televisor-32-gb-google-qd-mini-led-75-in-dimming/p/MLM66418865",
+        "price": 24999.0,
+        "model": "75qm52l"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla QN75Q8FAAFXZX 75 pulgadas negro Samsung 127V",
+        "url": "https://www.mercadolibre.com.mx/pantalla-qn75q8faafxzx-75-pulgadas-negro-samsung-127v/p/MLM65373086",
+        "price": 23999.0,
+        "model": "QN75Q8FAAFXZX"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Xiaomi Tv A Pro 75",
+        "url": "https://www.mercadolibre.com.mx/xiaomi-tv-a-pro-75/up/MLMU4364847769",
+        "price": 14359.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pantalla Tcl 75 Qled 4k Smart Tv Google Tv 75q77k",
+        "url": "https://www.mercadolibre.com.mx/pantalla-tcl-75-qled-4k-smart-tv-google-tv-75q77k/p/MLM67695791",
+        "price": 14340.0,
+        "model": "75q77k"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smart Tv Lg 75qned92asa Negro 4k Webos 25",
+        "url": "https://www.mercadolibre.com.mx/smart-tv-lg-75qned92asa-negro-4k-webos-25/up/MLMU3983965976",
+        "price": 33799.0,
+        "model": "75qned92asa"
+      }
+    ]
+  },
+  "palacio|BC155NV": {
+    "ts": "2026-08-13T03:41:12.301497+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 12979.41,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Botella de Tinta T555 Cian",
+        "url": "https://www.elpalaciodehierro.com/epson-botella-de-tinta-t555-cian-42564622.html",
+        "price": 431.1,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batidor en acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/birkmann-batidor-en-acero-inoxidable-44618993.html",
+        "price": 104.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Botella de tinta Original HP GT52 Cian M0H54AL Deskjet 5810, 5821",
+        "url": "https://www.elpalaciodehierro.com/hp-botella-de-tinta-original-hp-gt52-cian-m0h54al-deskjet-5810-5821-41687045.html",
+        "price": 203.15,
+        "model": "M0H54AL"
+      },
+      {
+        "store": "palacio",
+        "name": "Vaso Cooler Barshine en vidrio",
+        "url": "https://www.elpalaciodehierro.com/bormioli-rocco-vaso-cooler-barshine-en-vidrio-44968873.html",
+        "price": 143.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Set de 4 Focos White & Color Ambiance + Hue Bridge",
+        "url": "https://www.elpalaciodehierro.com/philips-set-de-4-focos-white-color-ambiance-hue-bridge-43117574.html",
+        "price": 4118.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Escurridor Compacto",
+        "url": "https://www.elpalaciodehierro.com/brabantia-escurridor-compacto-39250335.html",
+        "price": 1253.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Escurridor Classico champagne",
+        "url": "https://www.elpalaciodehierro.com/interdesign-escurridor-classico-champagne-41013888.html",
+        "price": 792.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cinturón reversible Sartorial Hombre",
+        "url": "https://www.elpalaciodehierro.com/montblanc-cinturon-reversible-sartorial-hombre-45430828.html",
+        "price": 8900.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Licuadora The Control Grip 15 velocidades",
+        "url": "https://www.elpalaciodehierro.com/breville-licuadora-the-control-grip-15-velocidades-45007812.html",
+        "price": 3059.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lentes oftálmicos cuadrados negros Hombre",
+        "url": "https://www.elpalaciodehierro.com/versace-lentes-oftalmicos-cuadrados-negros-hombre-44073654.html",
+        "price": 7339.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Hervidor de agua The Smart Kettle Luxe",
+        "url": "https://www.elpalaciodehierro.com/breville-hervidor-de-agua-the-smart-kettle-luxe-45007813.html",
+        "price": 4399.2,
+        "model": null
+      }
+    ]
+  },
+  "amazon|BC155NV": {
+    "ts": "2026-08-13T03:41:16.281776+00:00",
+    "items": []
+  },
+  "walmart|BC155NV": {
+    "ts": "2026-08-13T03:41:21.531110+00:00",
+    "items": []
+  },
+  "sams|BC155NV": {
+    "ts": "2026-08-13T03:41:28.765683+00:00",
+    "items": []
+  },
+  "mercadolibre|BC155NV": {
+    "ts": "2026-08-13T03:41:55.555697+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Bocina 15'' - 15-b5 - Bobina 5'' Fenixsound",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=Txbj5t59Zb4z6uXyuFfFzVyJeYz99xlCT%2BytwORW8X6vVFFR0cddo3Sr6wfytpytHHHzw6AJwgapjuK46mHcA9uZ%2B3mBorUGKhdcZFB12Q62lPvcF3mVj2wYxkNdH57Y9n2t9li1Lp2gThh62OdRb7dMZE6ma4fEcmXmtOuc7V2Dxxa5CpwHi%2Ft3bO3%2F4MZ%2FYNlVKRrANWfgGNekTfIF4t%2BCy9%2B%2F7Wibdup6CAU2kk5hDNTg8bW46PvzwWxrkLMfRILa6SNtbtLmS2wbcmPBwI02kr6S4BU3%2BUjKd925hQnVyJZsWxOui9Lw9OviFclkj%2Fu0atcN0%2F4TtGBYMBh62FrEC55JWROOj1azvCxUCM%2BaRaTwwq9SyuYf0ZYc0U9d7vCMgUIHSAkyFDfo%2BTaK2bXlgoMqkfl2AXqFcHhEayaRfP4nlRixTjp9qUeZ1uV%2BuZA46MNPh5wdz0KDJ3VbDEaVsGJqtwevnVr8Siu3UUpdkno8bFGbuRQD0%2Bx6EpuMDtclZglldPWS1FyOKw42fhWYtRXbDo5X7S6WPRSl9%2B1p%2B6KRxKiY%2FoA8RJK%2F0l5gSwtPBjG6aadQnrYGhlbppzPuoReyHFEQuwXMEBooyO1V8vMNZXhaJjrXoSHPOtEjFFLcXcJLRBQG02sYbDWd1hcR%2BiLB%2FZV%2F8Tbz8jXv8MlaMNSWxodawqFDr3pYtKF6dX4nzMzBLoNFo4wHhGgXLDxcjBa6H%2F%2Fryc73bqbTgPRYY%2BNyO3GuHmYIo1%2FkaDdcCj7f4D%2F%2B1YCsSNMzR0ms91gflzP2G2kzj6f6UrY30Kgt5wdg6tEwyFvo3Qdxfcl6QC5AhqUcZhJzNcVEgcXIuWyXhTjG6HCrLuScndbqdZB11gPEay0qagYPc8nw1p5100Bf%2BibeuiuBtbaKweujmVYuF8R1WMk%2BLtLb1dWRMvuh2GhxWHIPmLovRdm3dorcdnYgnmqDz7oR%2BveCeoNGGNfshLAmJs99KD%2FiJicJy0Qxr6E%3D&pdp_filters=item_id%3AMLM2268174217",
+        "price": 4290.0,
+        "model": "15-b5"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Amplificador De Bajos Gc Bj805 Bocina Inalambrica Bluetooth Negro",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=cWHBVdtIbtoM2HQ0erfKcD5i2RgT1UR5SyOMTsT743%2BEYbhOR32ssze9HfZaLdJsSh6azsA1aK4RsFhapEjiWrN22CtlsrofPRdSkj2FkHY1O3ceP7QyEWnnjgGYXuVfQMR0sbzV9N8Fw3MRA%2BKK9n4B7oyZ%2FChU2UjOquQ3Df1WdJTzUCDSlgpEejHz8IrqEPbBy8Spp6iAtQFSWcERDyZO27t32Fj5akWrv1echfbjJF2mvWkz82xvYdTr8SL3BMrj0zk99ceP%2F%2FP9%2BxL8IE0H2aphwGA9klLngUoPeerymEVj06vh81%2B3VZBuCOcJpHzVQEW%2FGZb807B5qwx%2FbOWoSDVBtznXJntd7q%2BSVEnbwF0fj6Xu8NrrE8d1aA5Uc%2FuPVocBBElom1fWSP9uM%2B8qMdm85kzmbQoNDo%2BsNoOf%2Fcyrp1wbUt3iF5hqz%2BBkY8y1y%2F6ajHNAQAZz%2BBpe7%2F8h%2FO4wOPk32e1TO3t9wsbZWwcqnpE%2FiK47MQRSZ%2BaxKwij2NLA3ecDw%2BQuG%2Fe25Tg%2BceAbljFOTo1dCeaKYQOsnDDciRwvZoC%2F%2BIsGizvjU6ZcuWtaPHDa0VLp9v7YHgRNElNEj%2F3DvupOhNd892C1%2FHqhy89lm0pPJ8urqJbLMpZ0WvvO87YN2TGquCMve15OV9MPJmjeV7Pv2SFDGHzG8rzTJrVOz53%2BXCnyNG%2B00lFkm%2FKg9GFHWx9HiAcSKYf1Mf3nli5TXup51ht1XKreCBA8Vi8cburkAggtHNdxuPT96%2F9npTo1hZx4K6gM1ywr6zzY0xWP%2FFdWf%2BxAhfq8Zu9diRzzO%2BNxkiy21Pgh%2BX9pXVUq5tm5c2PsrCfWOs5S7hW3LpXzW4cr0GVE7f7Y%2F9q0eeVZGtSEkvEg3qwdWrYISogd9sD5W2EHFQ%2BBClUugpwRRCarDhEvL%2Bl0WGFhTlpvagOJ6vV%2B8R4SOUICeOt7qzoUzXXKcqCVNkL1JCFymcDZXfkeekUj1cEPjQILSiz1x1YJhp7EWdZkqPc4uwt7fOn8xQR09A%3D%3D&pdp_filters=item_id%3AMLM5305136804",
+        "price": 2852.0,
+        "model": "Bj805"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Proyectores Portatil Wifi Para Celular Led Hd 4k Cañon",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=c%2BQ3xMgSYDtHE9BVYRRUmCzwOOBXNNeyKzN2tzaeDkN5RAmuqFmBFYZ%2FBi2tifL%2FKc3%2BkYkJSkUXI4KQzz9m5pZ4GAB2LgaHqF%2F7BpPxaCyx6xPf%2Bkt3z2U20Zynypl5EkYB4VmuYv8r08gtjblOkJOpUmmwZQGAqH0fnTyLluaWQhG3ovdP16zps%2BizHWlg2ZohWP2NbvPDpryfE9qP5YzvRsaH0Mkij2hDOFlf2W3JEb2g9fC97zWBfwE%2BIgazSWI3NpdV769au4Z6cnu8WClG3RY4ypo5um9%2BZuLjOEd6N8NEQNA%2F9i46TvEs0iYC04NAKoNOibgU%2BRMJ%2FVLz3qG0uApJUP2a80WKfi6WppHkngufP1jCbkz1yoK9JCI%2FfVFKpgN%2F7vom0OpO28fLenykAesGVx9Vvg056v4QuPszAfTW1LUDK5c9A81aKv7rwesHSjhguFmhlKcKjIUBmVOQXznZm7%2B%2Fw5NHY%2B1rXqgzKS90QsmtE7PAnOUsoApexJjueqPvI99t%2BJ0SLaZbYTdW60oGNm%2F75Mv1jwtg%2F1zNt9uTJr7AJ96dnpLs3n2BXmw4Vxnp5jSEXcCG5UQKSVaTZg%2BEgaVWZTAx8NeOYM1VS3BN%2FyJgaXm6cnJwYOFgawgdRj25ka3mZ22V0pp8Un6h%2BgjW8jeTarACcMVAq31f79Hp0Iu2gSnMRpiXPw%2F%2B4TtKS5liE7ErSlo3S4Jrp7CGc0Wc8C%2BgTUCE32Iep5IISiXgwDn2xJjjO15fG9i0a4TB7owTVNe8wOTJimVLPrfKkNcqyki9zGJdImibpJVZVunS8ss57zFnGO8HGlJSzwocqV79YoEOqwebtCQRNh67%2F8LObyw757S9GLmVVkWaveM5kPJMCOeUjflmoH9Mn1Liiz%2Bs1Ycp1uR%2BQCExrMnb3sy1XozebDAo0h1ODrRfd3dEhVOM5gjo4UEEj2MTF%2BI0SiNTb7xaB0vBoJcWV14q2Z97mgFs94jCxJlAyDoPuBW4ZvmwcVCgMnWQEkwWQ43M39OQ&pdp_filters=item_id%3AMLM4556276966",
+        "price": 1862.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Mini Cañón Proyector Ajuste Rápido Para Presentaciones",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=qF%2FOHJswG7XcKdgQCGwwCxqCnBLlm1N%2F2HHP3W3GIwbR9ZqFJOIPDM78dmo5DI0nQMjXFEZxaw0EIuvlX1ZRCSNlYopXDPO2N7a8l%2BxI9DAszhfkQRJZXQZlQTW9c142d5E%2FkrS2L3m2cC5V4%2FvB2bNflHJzyhGQQ4KOtAJ6%2Fm4TLt5f%2BeMq2NGMj3nCgNrrwJkafWvpUa%2BXqY3b4GcsXCmqE4WXC1%2FjwfR6uP2JgGreZRlibjWXODi9e5SwPayHmlQNN2re9XQD1HXAn0uHTSLaWberkfJ0atf2zW6PVO60Cn4fv5j0087jgoixoGyEmT642F6%2BDWo3%2FL7800ycDvCpp2r1DBZb0OsgRiLuZtxB9kLpR5HuWHiM%2FB5tvv%2FW2MAY7I8TYs%2F5hkWizE8shkQw6%2Frz9FXs3Xge82FrWC%2BX%2Fn7qzBcHxZ0Ek%2FpHTHOm4VUWjxlgYkfGHKJm5q9u21xDmtrg1B9eWabO%2Fcn5uoXWI20ITZ52guHsgaLRZ1ePqAFmEXmPZcgvYr6zOHlYcNYkuGEKE5sodui6sVnn6r4%2FjM1sHpd8HYhw8zi5Gjl5FYlDkYYPst8US16HDCBzOgv26kKq7H2ptWwpNaVqIGNyaGSHQ%2FxW0xp7fAKLda93oB48bdeaKWL3rnyM9VN9nu31LDIApSVetYFFcamu5JZY31Kl9UuoNsCXbB9BJtxSRroSzI9ARaI7ZF2GMFsj6KENUdGOBHDV9fEU6EQacwFK5atKKCAf2vN%2B0AbEz1CwfU00hT5BXekaLFrTP%2FMZp%2FZXyMuEY6CZBl2%2F1N6J1v7kbYG3A1DaktR6iFVgjNx4%2F7%2BWAxFIl%2BxDDPRIU4qqdyig%2FxvZfkyreJvEH9TeZ3uUuL6VK%2BTush3O1JCVrcAiGOlGOyAED0rqKJ53tIC6FZkvmt9vdzZ5iU%2B7fIsGj83i60IpbWW6VV0gmzWZyFLkkdCPp%2BA7sQMOLrXlKE%2BEwq4T7N8eAXH0yIqi%2BEcPdLlMcRKBkWHgT2%2BSPp6xrNO29rZJq9iRqLk%3D&pdp_filters=item_id%3AMLM5546857174",
+        "price": 1645.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Altavoz De Baja Frecuencia 15  15nw100-8 Ohm",
+        "url": "https://www.mercadolibre.com.mx/altavoz-de-baja-frecuencia-15--15nw1008-ohm/up/MLMU795837626",
+        "price": 11389.0,
+        "model": "15nw100-8"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Behringer B1500xp Bafle Behringer Mod. B1500xp",
+        "url": "https://www.mercadolibre.com.mx/behringer-b1500xp-bafle-behringer-mod-b1500xp/up/MLMU3921186773",
+        "price": 24335.0,
+        "model": "B1500xp"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "B & C 15bg100 2000w 8 Ohms 15 Pulgadas Altavoz",
+        "url": "https://www.mercadolibre.com.mx/b--c-15bg100-2000w-8-ohms-15-pulgadas-altavoz/up/MLMU511739686",
+        "price": 18692.0,
+        "model": "15bg100"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Banda Bx55 Doble (2 Costillas)",
+        "url": "https://www.mercadolibre.com.mx/banda-bx55-doble-2-costillas/up/MLMU416917650",
+        "price": 1023.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Banda B165 (hi Pawer) Black Gold",
+        "url": "https://www.mercadolibre.com.mx/banda-b165-hi-pawer-black-gold/up/MLMU415457795",
+        "price": 739.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Tecneu 100 Transistores Pnp Bc557b Bjt To-92 45v 100ma Amplificador",
+        "url": "https://www.mercadolibre.com.mx/tecneu-100-transistores-pnp-bc557b-bjt-to-92-45v-100ma-amplificador/p/MLM49392114",
+        "price": 129.0,
+        "model": "Bc557b"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Pack 20pz Transistores Bc517 Npn Darlington Tecneu 1a To-92",
+        "url": "https://www.mercadolibre.com.mx/pack-20pz-transistores-bc517-npn-darlington-tecneu-1a-to-92/p/MLM53211598",
+        "price": 83.0,
+        "model": "Bc517"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Altavoz De Baja Frecuencia 15 15nw100-8 Ohm",
+        "url": "https://www.mercadolibre.com.mx/altavoz-de-baja-frecuencia-15-15nw100-8-ohm/p/MLM69946149",
+        "price": 11389.0,
+        "model": "15nw100-8"
+      }
+    ]
+  },
+  "palacio|SETCMC361V": {
+    "ts": "2026-08-13T03:41:55.729553+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Traje Regular Microdiseño Hombre",
+        "url": "https://www.elpalaciodehierro.com/nautica-traje-regular-microdiseno-hombre-45192192.html",
+        "price": 3249.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Traje de corte regular con microdiseño Hombre",
+        "url": "https://www.elpalaciodehierro.com/calvin-klein-traje-de-corte-regular-con-microdiseno-hombre-45026117.html",
+        "price": 5999.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html",
+        "price": 4674.46,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Traje de lana corte regular cuadros Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-cuadros-hombre-45192180.html",
+        "price": 6899.4,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Combo Secadora Gas 23KgPedestal",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-combo-secadora-gas-23kgpedestal-42879141.html",
+        "price": 18095.42,
+        "model": "23KgPedestal"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans Recto Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-jeans-recto-hombre-45275187.html",
+        "price": 4390.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador de cocina",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334300.html",
+        "price": 412.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador de cocina",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334308.html",
+        "price": 272.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador de cocina",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334306.html",
+        "price": 412.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador de cocina",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334302.html",
+        "price": 412.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Camisa microdiseño manga larga Hombre",
+        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383628.html",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Secador de cocina",
+        "url": "https://www.elpalaciodehierro.com/mukitchen-secador-de-cocina-45334305.html",
+        "price": 412.3,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SETCMC361V": {
+    "ts": "2026-08-13T03:42:09.383567+00:00",
+    "items": []
+  },
+  "walmart|SETCMC361V": {
+    "ts": "2026-08-13T03:42:12.875864+00:00",
+    "items": []
+  },
+  "sams|SETCMC361V": {
+    "ts": "2026-08-13T03:42:14.968922+00:00",
+    "items": []
+  },
+  "mercadolibre|SETCMC361V": {
+    "ts": "2026-08-13T03:42:27.030053+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Minisplit Inverter 220v Mirage 3 Ton Magnum 18 Frio Calor",
+        "url": "https://www.mercadolibre.com.mx/minisplit-inverter-220v-mirage-3-ton-magnum-18-frio-calor/up/MLMU491510240",
+        "price": 33489.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Minisplit Inverter 220v Mirage 3 Ton Magnum 18 Frio Calor",
+        "url": "https://www.mercadolibre.com.mx/minisplit-inverter-220v-mirage-3-ton-magnum-18-frio-calor/up/MLMU3967630373",
+        "price": 33489.0,
+        "model": null
+      }
+    ]
+  },
+  "palacio|4417GU": {
+    "ts": "2026-08-13T03:42:27.197928+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Bolsa tote azul Le Pliage Original Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolsa-tote-azul-le-pliage-original-mujer-42500370.html",
+        "price": 3989.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bolsa tote Le Pliage Energy lisa Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolsa-tote-le-pliage-energy-lisa-mujer-45598431.html",
+        "price": 6049.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bolsa tote Le Pliage Energy lisa Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolsa-tote-le-pliage-energy-lisa-mujer-42053528.html",
+        "price": 6199.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Base de carga plegable 3 en 1 Mag 360 Qi2",
+        "url": "https://www.elpalaciodehierro.com/adam-elements-base-de-carga-plegable-3-en-1-mag-360-qi2-44747542.html",
+        "price": 1949.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bolso de mano beige Le Pliage Energy lisa Unisex",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolso-de-mano-beige-le-pliage-energy-lisa-unisex-43960056.html",
+        "price": 6749.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Ciclocomputador Edge 1050",
+        "url": "https://www.elpalaciodehierro.com/garmin-ciclocomputador-edge-1050-44073377.html",
+        "price": 14699.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monedero en piel Le Pliage Xtra Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-monedero-en-piel-le-pliage-xtra-mujer-45448119.html",
+        "price": 3669.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bolsa shoulder café obscuro en piel Le Pliage Xtra lisa Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolsa-shoulder-cafe-obscuro-en-piel-le-pliage-xtra-lisa-mujer-45448066.html",
+        "price": 13719.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bolsa tote Le Pliage Energy lisa Mujer",
+        "url": "https://www.elpalaciodehierro.com/longchamp-bolsa-tote-le-pliage-energy-lisa-mujer-45598429.html",
+        "price": 6809.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 43 Pulgadas Plana LED 4K HDR Bravia 2 II K 43S20M2",
+        "url": "https://www.elpalaciodehierro.com/sony-pantalla-43-pulgadas-plana-led-4k-hdr-bravia-2-ii-k-43s20m2-45060741.html",
+        "price": 9899.34,
+        "model": "43S20M2"
+      },
+      {
+        "store": "palacio",
+        "name": "Cangurera Le Pliage Energy Liso Unisex",
+        "url": "https://www.elpalaciodehierro.com/longchamp-cangurera-le-pliage-energy-liso-unisex-45598447.html",
+        "price": 5399.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Libreta Classic con Hojas Punteadas",
+        "url": "https://www.elpalaciodehierro.com/gandhi-libreta-classic-con-hojas-punteadas-41886347.html",
+        "price": 659.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|4417GU": {
+    "ts": "2026-08-13T03:42:37.169705+00:00",
+    "items": []
+  },
+  "walmart|4417GU": {
+    "ts": "2026-08-13T03:42:46.485234+00:00",
+    "items": []
+  },
+  "sams|4417GU": {
+    "ts": "2026-08-13T03:42:48.861231+00:00",
+    "items": []
+  },
+  "mercadolibre|4417GU": {
+    "ts": "2026-08-13T03:44:15.267842+00:00",
+    "items": []
+  },
+  "liverpool|55QNED81BSG": {
+    "ts": "2026-08-13T03:44:16.371212+00:00",
+    "items": []
+  },
+  "amazon|55QNED81BSG": {
+    "ts": "2026-08-13T03:44:39.340013+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG 32 Smart TV de 32\" Pulgadas Clase HD 720p Procesador de Inteligencia Artificial Alpha a5 Gen6 (2025) - 32LR600BZUC",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3SDWBB",
+        "price": 3299.0,
+        "model": "32LR600BZUC"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Pantalla Smart TV 4k 50 50r6e Led (Renewed/Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07NW1HKQS",
+        "price": 5699.0,
+        "model": "50r6e"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV de 43\" Pulgadas Clase Crystal U8000F Ultra HD 4K Tizen, Diseño MetalStream, HDR, PurColor, One UI Tizen (2025) - UN43U8000FBXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FDY8DJQ5",
+        "price": 4199.0,
+        "model": "UN43U8000FBXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "Westinghouse Television de 32 Pulgadas Resolución 720p HD Combo TV con DVD Control Parental HDMI USB Frecuencia de Actualización de 60Hz LED WD32HX5201 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CTD36JVR",
+        "price": 1902.9,
+        "model": "WD32HX5201"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0GYZRN8KW",
+        "price": 9999.0,
+        "model": "QNED81"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Original Magic IA Mr26ga 2026 Akb30086801 | Modelo MR26GA, AKB30086801, Magic IA, Original LG, 2026",
+        "url": "https://www.amazon.com.mx/dp/B0H8NJJQRH",
+        "price": 799.0,
+        "model": "Akb30086801"
+      },
+      {
+        "store": "amazon",
+        "name": "Kappesberg Mueble TV 85\" 3 Puertas 218cm Canela/Gris",
+        "url": "https://www.amazon.com.mx/dp/B0GMKPK4FM",
+        "price": 4799.0,
+        "model": "218cm"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV de 43\" Pulgadas Serie UA7100 LED 4K Ultra HD (2025), HDR10 Pro, WebOS, Alpha 7 AI Gen8, Precision HDR Master Pro, HDR10 Pro, Filmmaker Mode (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GRWVPHF2",
+        "price": 3989.0,
+        "model": "UA7100"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV 4K Ultra HD de 50\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0FKQ8BGSR",
+        "price": 5299.0,
+        "model": "UA7700"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense 32pulgadas 720p Televisor HD Pantalla LED TV Roku Smart con WiFi Netflix Youtube Vudu Pandora Hulu y ESPN 32H4030F3 Modelo 2020(TV)",
+        "url": "https://www.amazon.com.mx/dp/B09CLM6Y44",
+        "price": 3199.0,
+        "model": "32pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 32pulgadas LED Smart TV 32LM577BPUA 2021(Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B097MN1ZD5",
+        "price": 3299.0,
+        "model": "32LM577BPUA"
+      },
+      {
+        "store": "amazon",
+        "name": "Westinghouse de 40\" Pulgadas Full HD 1080p Smart Xumo TV Resolución Full HD 1080p Control por Voz Mediante App WX40FX2800 (Reacondionada)",
+        "url": "https://www.amazon.com.mx/dp/B0GSXKGQX9",
+        "price": 3099.0,
+        "model": "WX40FX2800"
+      }
+    ]
+  },
+  "walmart|55QNED81BSG": {
+    "ts": "2026-08-13T03:44:48.855221+00:00",
+    "items": []
+  },
+  "sams|55QNED81BSG": {
+    "ts": "2026-08-13T03:44:49.457779+00:00",
+    "items": []
+  },
+  "mercadolibre|55QNED81BSG": {
+    "ts": "2026-08-13T03:46:15.939363+00:00",
+    "items": []
+  },
+  "liverpool|OLED77T4PSA": {
+    "ts": "2026-08-13T03:47:47.242994+00:00",
+    "items": []
+  },
+  "amazon|OLED77T4PSA": {
+    "ts": "2026-08-13T03:48:04.211990+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 97 Pulgadas OLED EVO AI G6 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0GW96R1LQ",
+        "price": 342999.51,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OLED77T4PSA": {
+    "ts": "2026-08-13T03:48:34.923268+00:00",
+    "items": []
+  },
+  "sams|OLED77T4PSA": {
+    "ts": "2026-08-13T03:48:35.553492+00:00",
+    "items": []
+  },
+  "mercadolibre|OLED77T4PSA": {
+    "ts": "2026-08-13T03:49:44.967854+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Hidrolavadora Electrica Portátil 1200w 1600 Psi Alta Presion Amarillo 60hz Para Lavar Carros",
+        "url": "https://www.mercadolibre.com.mx/hidrolavadora-electrica-portatil-1200w-1600-psi-alta-presion-amarillo-60hz-para-lavar-carros/p/MLM53177027",
+        "price": 2299.0,
+        "model": "1200w"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Croquetas para Gato de Salmón carne y pollo 15kg Purina® Cat Chow® Delimix",
+        "url": "https://www.mercadolibre.com.mx/croquetas-para-gato-de-salmon-carne-y-pollo-15kg-purina-cat-chow-delimix/p/MLM8975884",
+        "price": 1089.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla de Gas Xiudeen Empotrable o de Mesa con 5 Quemadores en Acero Inoxidable Plateado",
+        "url": "https://www.mercadolibre.com.mx/parrilla-de-gas-xiudeen-empotrable-o-de-mesa-con-5-quemadores-en-acero-inoxidable-plateado/p/MLM43871751",
+        "price": 2465.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "U Bárbara Pijama Quirúrgica Para Hombre Jogger Uniforme",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-1772691316-u-barbara-pijama-quirurgica-para-hombre-jogger-uniforme-_JM?searchVariation=176392408056",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "L'bel Perfume Para Hombre Bleu Intense Night Fresco 100 Ml",
+        "url": "https://www.mercadolibre.com.mx/lbel-perfume-para-hombre-bleu-intense-night-fresco-100-ml/p/MLM22538554",
+        "price": 810.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Smartwatch Cubot X3 para Hombre con Llamadas, IA y 100 Días de Batería",
+        "url": "https://www.mercadolibre.com.mx/smartwatch-cubot-x3-para-hombre-con-llamadas-ia-y-100-dias-de-bateria/p/MLM50528257",
+        "price": 2024.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Batería De Cocina Latatl 34 Piezas, 9 Juegos de Ollas y Sartenes, Color Verde, Juego De Sartenes Wok Y Ollas Antiadherentes, Compatible Con Gas, Incluye Cucharas Pinzas Vaporera Delantal Paños",
+        "url": "https://www.mercadolibre.com.mx/bateria-de-cocina-latatl-34-piezas-9-juegos-de-ollas-y-sartenes-color-verde-juego-de-sartenes-wok-y-ollas-antiadherentes-compatible-con-gas-incluye-cucharas-pinzas-vaporera-delantal-panos/p/MLM60851530",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Monitor Gamer KTC de 27\" QHD IPS 200Hz con Altavoces y HDR 400",
+        "url": "https://www.mercadolibre.com.mx/monitor-gamer-ktc-de-27-qhd-ips-200hz-con-altavoces-y-hdr-400/p/MLM64952402",
+        "price": 6582.0,
+        "model": "200Hz"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Colchón Individual Ortopédico Cuory Memory Foam Pillow Top 190x99 cm",
+        "url": "https://www.mercadolibre.com.mx/colchon-individual-ortopedico-cuory-memory-foam-pillow-top-190x99-cm/p/MLM45643136",
+        "price": 3399.0,
+        "model": "190x99"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Celular Motorola Moto Edge 50 512gb 12gb Ram Verde Certificación Militar",
+        "url": "https://www.mercadolibre.com.mx/celular-motorola-moto-edge-50-512gb-12gb-ram-verde-certificacion-militar/p/MLM45619420",
+        "price": 11999.0,
+        "model": "512gb"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Caminadora Electrica 2hp Plegable Lumo Bluetooth Walking Pad Negro",
+        "url": "https://www.mercadolibre.com.mx/caminadora-electrica-2hp-plegable-lumo-bluetooth-walking-pad-negro/p/MLM63754327",
+        "price": 6990.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Hisense RR33D6AGX1- Frigobar,3.3 pies cúbicos,Termostato ajustable,Congelador independiente,Estantes para botellas de 2 litros,48x45x84cm(AnchoxLargoxAlto),Gris",
+        "url": "https://www.mercadolibre.com.mx/hisense-rr33d6agx1-frigobar33-pies-cubicostermostato-ajustablecongelador-independienteestantes-para-botellas-de-2-litros48x45x84cmanchoxlargoxaltogris/p/MLM23485952",
+        "price": 4599.0,
+        "model": "RR33D6AGX1"
+      }
+    ]
+  },
+  "liverpool|SS4N1ES": {
+    "ts": "2026-08-13T03:49:47.294932+00:00",
+    "items": []
+  },
+  "amazon|SS4N1ES": {
+    "ts": "2026-08-13T03:50:01.391956+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HIBREW H10B Máquina de Espresso Programable con Pantalla LED y Manómetro | Cafetera Compacta de Acero Inoxidable 20 Bares con Espumador de Leche, Portafiltro de 51 mm para Cappuccino y Latte",
+        "url": "https://www.amazon.com.mx/dp/B0DLP26373",
+        "price": 3211.93,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XUNDEFINED Cafetera Espresso Semiautomática 20 Bares, Pantalla Táctil, 1350 W, Temperatura y Tiempo Ajustables, Espumador de Leche, Depósito 0.8 L, para Cappuccino y Latte.",
+        "url": "https://www.amazon.com.mx/dp/B0GYQQPBYK",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
+        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Chefman Máquina de espresso Chefman CraftBrew, cafetera digital con bomba de 15 bares con varilla de vapor para café con leche y capuchino, compacta con depósito de agua extraíble de 1.8L",
+        "url": "https://www.amazon.com.mx/dp/B0DMQMC4CD",
+        "price": 1699.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart Coffee Center Barista Bar Cafetera 4 en 1 SS-4N1ES",
+        "url": "https://www.amazon.com.mx/dp/B0BWSMV57F",
+        "price": 3649.5,
+        "model": "SS-4N1ES"
+      },
+      {
+        "store": "amazon",
+        "name": "Transistor de unión bipolar 2N4401 4401 TO-92 NPN Power BJT para conmutación",
+        "url": "https://www.amazon.com.mx/dp/B0FPQK41GY",
+        "price": 409.2,
+        "model": "2N4401"
+      },
+      {
+        "store": "amazon",
+        "name": "Estación de mezcla de 1 pieza que reemplaza el sensor de pesaje de presión SBC Media SSB tamaño - 1t2t | 1pc Mixing station replaces pressure weighing sensor SBC Media SSB size - 1t2t(0-300KG)",
+        "url": "https://www.amazon.com.mx/dp/B0HDJ6KQVG",
+        "price": 3628.02,
+        "model": "0-300KG"
+      },
+      {
+        "store": "amazon",
+        "name": "Estación de mezcla de 1 pieza que reemplaza el sensor de pesaje de presión SBC Media SSB tamaño - 1t2t | 1pc Mixing station replaces pressure weighing sensor SBC Media SSB size - 1t2t(0-1000kg)",
+        "url": "https://www.amazon.com.mx/dp/B0HDJ4NG56",
+        "price": 3871.93,
+        "model": "0-1000kg"
+      },
+      {
+        "store": "amazon",
+        "name": "Estación de mezcla de 1 pieza que reemplaza el sensor de pesaje de presión SBC Media SSB tamaño - 1t2t | 1pc Mixing station replaces pressure weighing sensor SBC Media SSB size - 1t2t(0-2t)",
+        "url": "https://www.amazon.com.mx/dp/B0HDJ32C4C",
+        "price": 4216.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Interruptor de proximidad serie SM sensor metal 3 4 5 NPN tres | salida NPN; Cables normal(SM0415N)",
+        "url": "https://www.amazon.com.mx/dp/B0HCJG6N67",
+        "price": 2722.72,
+        "model": "SM0415N"
+      },
+      {
+        "store": "amazon",
+        "name": "SSD Externo Samsung T7 Shield 1TB [Resistente al Agua y al Polvo] Velocidad de Transferencia de hasta 1050 MB/s USB 3.2 Gen2 (10 Gbps, Type-C) PS4, PS5, iPhone 15, Certificado MU-PE1T0S-IT/EC",
+        "url": "https://www.amazon.com.mx/dp/B0BQBQG3N6",
+        "price": 14757.32,
+        "model": "MU-PE1T0S-IT/EC"
+      },
+      {
+        "store": "amazon",
+        "name": "100 Uds diodo rectificador M1 M4 M7 SS12 SS14 SS16 SS24 SS34 SS36 SS110 SS210 SS210 US1M RS2M ES1D DO-214AC diodos Schottky(ES1D)",
+        "url": "https://www.amazon.com.mx/dp/B0HCNZ52LN",
+        "price": 530.58,
+        "model": "DO-214AC"
+      }
+    ]
+  },
+  "walmart|SS4N1ES": {
+    "ts": "2026-08-13T03:50:15.306336+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Cuisinart SS-4N1ES Multi Cápsulas 4 En 1",
+        "url": "https://www.walmart.com.mx/ip/cafetera-cuisinart-ss-4n1es-multi-capsulas-4-en-1/00008627919902",
+        "price": 6685.9,
+        "model": "SS-4N1ES"
+      }
+    ]
+  },
+  "sams|SS4N1ES": {
+    "ts": "2026-08-13T03:50:16.570701+00:00",
+    "items": []
+  },
+  "mercadolibre|SS4N1ES": {
+    "ts": "2026-08-13T03:50:45.704909+00:00",
+    "items": [
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla Tong Yang Chevrolet S-10 (98-03)",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=m%2FRnBVt%2BduaM0%2B7OwfzjSIQ8OQj9l777slZnmqSIZdMfvj8SDBC52ljfnjXAY%2Bl9QeR6LiaG4Q3nRtP7WmjAVY%2BfTTb30%2Fp3jX21F%2FQTWyNRUhJJ5kTTIas95XpTSPsGJnoMxtvqE%2FTcsZ%2F9wc1tazR6MadijlPhD%2B1hD2FHTkROEbZeptFxbKs%2BNARPZu35BAeu2tENEtys5uHx1iQLEHxGju3TvZkLNVhZdO0SgxrMB%2FFhUxprhrwUB7MFBcQ1bIAJDe4GRzVdRUnj2%2B2nm%2B0TfnVkO8pNoAqUqtnMs4%2BUn%2Bn8laySAhFpnH0wFMry%2B8RsieYJeSUsLQxIOfqQKb%2BT0BWgztWMCJOfCGpChKJgejm1E3xiko%2FZi5pQcnAHUWq6tW50qH3bfrj%2BZX%2FW8MPSSz5NtOvQn%2FPTjwFItyUkYbxYEGgZypDdzcmXamWtqXKZStLFJ2vItE7jCTLTsQF0fXMkBmyjALB%2F3liCcwzvJ3%2BJenHks0NyyXuiRaHmZNwwKupHJhr%2B%2BfHEKXp5Nj0X5sefXR7qpXCw4lVmFWywOPu%2BF8tCBCPz9lkV%2BcpfL6GkcY3lo6Bz5IJsdav%2BUJMoI3tMIo3Mzr0EXfYIZ%2BUKdpAKW3egwdNzTr6Uqsk3QylXY0N1NzB2wsZZzLoG75O9g5Z1SRaNCf59nhFwt1l3znsLLlB4BcZmQFaGWg2G1yUqKknvJlas7fZAlNpry%2BTEPG5sQAFXQ2pmss%2FKQfXXr3fjOZrOGtmPL6MBQjvuAvy4aqtA5qsSVKOYp7GJA1MVY221gORZnIMSJpyVb3e%2BA%2FRCFFDWeni3lREIP4OGGHZB0Ml5kjYQ2AFvtId%2BsK6uCFfp7FE%2B0PgBIUmbLupGgav%2FbOgAj5p%2FRHTCoG3NmK%2FEeeuhFp3RLZ58B4VUjaHlqvCzqJxn9X7O0DB6hJaZIlEHg4uh6L%2Bc6LwD6LxTunSfhUJ7oAUsIvVxz6OyGIP9AR7p1UPvrQCkcrI41bJZsOPcdd1o&pdp_filters=item_id%3AMLM794387693",
+        "price": 2057.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla Tong Yang Chevrolet S-10 (95-97)",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=LI9zfvbSennbv6xDEdYpk8M1y54ClEBMBFxt1BAhgeLCj5Lc2oS7AaI64RTHrRrF%2FI4YvUk94PIhtk36CHRNG%2Bd9ou%2FSmHsjNAmw%2BdJSH%2BfFdOKFTBnKDPoSrUxGUaN9bW93q4NU7bKdsgVHXOKpWVgGEfXnJQZQuTXojEOrfgTOw%2FXfA3Ga4GqxrOo2IYlFjGvivW1zCKe%2BxSnaQqQT8dprrpbZKImrdlcogtK94Z36vEtDZNvK9rFNsplxqSUlvCMnja1NwCwO3G0J7avhGN0CNkivCHWQv6Fg4lDwVKflolsRRiaYC%2Bv%2BP0w1Aj5%2BAHDi3q3CQxRNPSqCafINPdzeAo8FI89ljyApDw4ja8cBkAHtSd5sF7PQ6iqWG51MCo1AEuvLOvFM6Zqf5LNwNQjhrccTP0a%2FsO0aeQmQfMtLL2Qc3lGSTqwI2TgrF0NFKcrE1O7xCP7fS2HLp4UEIXijYa5%2FnhmLP%2BSndM5hZMKAUIvZI%2BNhakGNBgKZt3g2HJw03CKkch%2BMBFuLwsA77wzjeee6b3WeTRasX3tS2vyG2YUJlQWm4c6S2wF4MJH4xd8NoeRfgCda8daz78%2Fk%2FRGOHecs2HTgYe8JSMtQUjv%2BSB9%2Fzwp638TAWZcxXYMargT2GoLYwsqKxEpj4FPVyTMn15sFzyA5q4DMgNwZEUQtZYQWefV0%2FXAFsAtncxPouxRln%2B2zohIRrVDyWoprKnevsIKuK1is3V73WEP2sVKY9tSSdCjBYYIft5J9X9O0ZiYsMGUo4WeeMpaVlBD34Fmf3nuF1V0akK7EUSL5f6V6vL0QFDfrgmh3HojQpcofiGazEdcj08Rf5gG4JaP1v%2Flpw0hcIY4XsC8eurxEJUONSiFl6B36%2F8zc5HuV8V2Tz8HZeVzJgc6umw1VHJkX2pSIT8BH3bk7nh1BzEXgqbMpbihFSXsVhpZ%2BzRRRxYVirsDQJXUsZjnDuTFOjiZAGNSJ1%2BbUcyIwyVFptDtNeCld%2Bk3HVSQ%3D&pdp_filters=item_id%3AMLM794384910",
+        "price": 1688.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla Tong Yang Chevrolet S-10 95_97",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=AjoEBa1eQqvOVvhbTaRP2x0EKtSorOV4%2F%2FYaOJT8gywTEX%2F4F1N2zAYYkzQ4xmDAQPiKKhgavYiClBSBvMLJlCeVIthCZLI8pVj%2F7nIAVU5ceEjEPtGftoD6EW9QvOIRNjftARYWNhGkYpAutUMLVa8U5Qto9bvPa%2F1x%2B2Wv10e6VjgDZammqlwr%2FtX2wOKRSyoIMK%2BmM3R78JTUQe%2BAz%2FhS5pTANeSUOZ7N0gPYVlyVkjC7wkJ6lCeQY5Hcm7rRg6E98TwddZ%2FEQ9F6D9AFppPfLyTQoz5AhPMVi81e5e8BqR3EqcSjqZuYYtRiuITIU6sncE7jV8Mcx%2FkTNe7Cv2FiFRvSIob5830sGkAYahwjM1fkfXWA5QHvZJ2i4Nij5%2F1Xn6%2B0vqozMmV%2FvgFRKxDwUjSbBtF%2BFSkG%2FcLd9n4fF9hDbirc9pQ7yo3UjIpANrYeJr9oCnFgwMtfN%2BFho6wGndzIY7bO88%2FdlWB%2BjJjUfpuz7VtQdUBvlOOLryG2%2BGsliO4Ma%2F1fNLStUx4SF9hf0MSS66L8On9TCr%2BYLQ%2B9DjaEO3OtToY7IXUYcaEbQ%2BN77fiLWjI6qyGaQhY2XL54vkVlusekXLz8GOHHhW4hcNE%2FLaytJ2OIcIxS5VwEhyAtuX7Wd02dGjSBP7Zt6Z8ozKfuky1WZazNK%2FRDUH8quOJVQRawgtoRfUX5pxiZ%2BoWnc%2FiNVT%2Bbnzs%2BTAFLsq%2FuME%2BvHfqMv%2Fq7hveizvq%2BOiftgCdoBTAzboiIakAkRnJP1sCwfnjscFTTn3YotLYQjxDyMrlVp2tkDpqkWJ0kRPCbpAo9YMnEHfporznj0xz5VgguTfK2Gg%2BrPxVuBa8rzilTcTDRfee8%2BCJ4D13ZcLmO964bwkSFh2QlUIi11NMRnS2KOLrcZDJXHTIittc5l9YXehfnYh2OeSadG4XDYgNBxVBhuS1PzmroK0ti%2B83x06C09NuHdLEKcpFkJIctBMEq0cXqe5Ywr71MX6nSHO9iMc0%3D&pdp_filters=item_id%3AMLM794363847",
+        "price": 2197.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla Chevrolet S-10 1998-2004 Tong Yang",
+        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=P923TAOAtoyr8GHjTKDxUG%2BLLgB1yYH9oUe4bG2BJwVoq32ardOGgw8hsHQiZLQOANVZeraCW%2BUSYfDQ6b7ITWXxy2B3oFVGd%2F1StWXIxC8eqrC3Pehhmq7uCAv0iT92pRKl0tXPiBFQavZu%2B1tCY3ZzEUCXZzdbeJtvSXb0nv6ZgVjVHfqylmUr0sAH1IDDwBRxukM1hddxGK6tyVA1BomfLqh2L6uPgVwVkDp0iyvCWC1d9d%2F0NQvYTS7qe3zUlBiifC6iwz%2FGgsmkW3lI8K%2Bu4%2FOwt6f19Ky%2BWqh4xfpIeVYYWGomGIqr2YOUbyXsrK7VUObNoDj81oEcs9DhQsTcJcjDdZxe1IC7J%2BtvdqrTaWaAm8j7XYO6Z00iQDu%2FbZHD3i%2FPjm6BTVpPQHyhRpFIPR1ncnGo7JLizHwgKcmf6vYMwYYQj6hFroML%2B3OlLHKbtMJ3nNVD1ZflfM%2F6ugizIA20uOuAGFVCjrxMKGRcej6HHMFw8s4SUqVQA8W6idKe0OSe%2FhMp8h5qYz9cISqUuAS84hOduGNFddmuwkM%2BCV363p7811cFrQL9HKk1olNk%2Bflq%2FCxrROS6aQxQ4yFVtPvgOkuizd7yS5YU%2FFDDsBNGZPvR4Xbpj9ZC7gZL%2BV53Gn9Efc2fg9Hkm%2Fom%2BYaW9iR%2FwhzjZmy0mEJoNg8cE55Y1MqNJLU2P%2BuESpOKmUdzkcNDrkH1x1Eo%2F69WtxE6kSRheqTGOngfDNKiGav2IZmQHgvHx01HSe9eFD4TXUnpeMpPAfkLeuTbvITOEpCHPuUbmBGbPGeHKxNpeWgaO9uwpubLsG20Nqt8RfUUMGQDzrRuMogixqoqKmeh3ef%2BonByZA%2FpD%2BURx54IAhTrBEpRdPceqAlGz8rMwcGrCeEpGzzILQPdqxcL0U54pvcadU%2Fl6IepLXXU6G4rfZezrHuHJ5nqun1WYQcWlywyJ8r89W2fYKNcokcYOUrHXQzIt%2FDoZkre6gcH1Hqd6PNr3kTzK5buV4c%3D&pdp_filters=item_id%3AMLM794369838",
+        "price": 1066.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Euro 4 Catalizador Chevrolet S10 1991 Al 2010 Ovalado",
+        "url": "https://www.mercadolibre.com.mx/euro-4-catalizador-chevrolet-s10-1991-al-2010-ovalado/up/MLMU558246169",
+        "price": 3100.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Parrilla Tong Yang Chevrolet 400 Ss 06_07",
+        "url": "https://www.mercadolibre.com.mx/parrilla-tong-yang-chevrolet-400-ss-0607/up/MLMU548770409",
+        "price": 1807.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Soporte Cardan Sierra 2500 2001 2002 2003 2004 8.1 Int Bal 4",
+        "url": "https://www.mercadolibre.com.mx/soporte-cardan-sierra-2500-2001-2002-2003-2004-81-int-bal-4/up/MLMU3645911317",
+        "price": 780.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "4 Pza Toner Generico  Ce323a M Compatible Con Cp1214n",
+        "url": "https://www.mercadolibre.com.mx/4-pza-toner-generico--ce323a-m-compatible-con-cp1214n/up/MLMU3285538315",
+        "price": 796.0,
+        "model": "Cp1214n"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Defensa Tong Yang Delantera Chevrolet 400 Ss 92 A 98",
+        "url": "https://www.mercadolibre.com.mx/defensa-tong-yang-delantera-chevrolet-400-ss-92-a-98/up/MLMU580043875",
+        "price": 4583.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuisinart Coffee Center Barista Bar Cafetera 4 En 1 Ss-4n1es",
+        "url": "https://www.mercadolibre.com.mx/cuisinart-coffee-center-barista-bar-cafetera-4-en-1-ss4n1es/up/MLMU3241346847",
+        "price": 10477.0,
+        "model": "Ss-4n1es"
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cuisinart Cafetera De Acero Inoxidable, 12 Tazas Térmica,...",
+        "url": "https://www.mercadolibre.com.mx/cafetera-electrica-black-decker-12-tazas-negro/p/MLM2097245682",
+        "price": 3787.0,
+        "model": null
+      },
+      {
+        "store": "mercadolibre",
+        "name": "Cafetera Multi Cápsulas 12 Tazas Cuisinart Ss-4n1es Color Negro",
+        "url": "https://www.mercadolibre.com.mx/cafetera-multi-capsulas-12-tazas-cuisinart-ss-4n1es-color-negro/p/MLM29647640",
+        "price": 3500.0,
+        "model": "Ss-4n1es"
+      }
+    ]
+  },
+  "amazon|SP4PLUS": {
+    "ts": "2026-08-13T03:51:07.061907+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Gc MI Paste Plus Vanilla",
+        "url": "https://www.amazon.com.mx/dp/B08MY7MPP6",
+        "price": 479.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pasta-D-ental Fresh Breath, Blanqueadora Sp-4 Pa-sta-D-ental Fresh Breath, Pas-ta-D-ental Blanqueadora Sp-4, Past-a -Dental Quitamanchas Iluminadora (Rojo+Azul)",
+        "url": "https://www.amazon.com.mx/dp/B0CC4P4JD3",
+        "price": 99.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bioniq Plus Biomimetic Toothpaste with 20 Percent Hydroxyapatite for Teeth and Gums, 3.44 Ounce (Pack of 3)",
+        "url": "https://www.amazon.com.mx/dp/B0BKH3TL3V",
+        "price": 1017.74,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bioniq Pasta dental Moist Gum con 20% de hidroxiapatita, pasta dental sin flúor, hidroxiapatita clínicamente probada, cuidado experto del esmalte con sabor a menta I 3,44 o",
+        "url": "https://www.amazon.com.mx/dp/B0BFFY192W",
+        "price": 565.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Biorepair Oral Care Plus Total Protection - Pasta dental (75 ml)",
+        "url": "https://www.amazon.com.mx/dp/B07LBT4WLH",
+        "price": 434.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "APAGARD M-Plus, pasta dental nano-hidroxiapatita de Sangi para dientes naturalmente más blancos, sin fluoruro, para uso familiar, 125 g / 4.4 oz, sabor a menta suave, paquete de 2",
+        "url": "https://www.amazon.com.mx/dp/B0DGT8KTMP",
+        "price": 985.49,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Crest Cavity Protection Toothpaste Regular - 8.2 oz, Pack of 4",
+        "url": "https://www.amazon.com.mx/dp/B07GZ7HQ2C",
+        "price": 890.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Crest Complete Plus Scope Liquid Gel Toothpaste - Minty Fresh 4.6 Oz by PROCTER & GAMBLE CONSUMER",
+        "url": "https://www.amazon.com.mx/dp/B0011WKE52",
+        "price": 349.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Crest Complete Whitening Plus Scope Toothpaste - Minty Fresh Triple Pack 18.6 Oz",
+        "url": "https://www.amazon.com.mx/dp/B005PLQIQ4",
+        "price": 566.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nano hidroxiapatita pasta dental sin fluoruro | Pro Remineralizing Toothpaste Plus Anti cavidad xilitol – Remineralización dental formulada por dentista para dientes sensibles y soporte de esmalte en",
+        "url": "https://www.amazon.com.mx/dp/B07KX75Z49",
+        "price": 1186.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "APAGARD® M-Plus, pasta dental nano-hidroxiapatita de Sangi para dientes naturalmente más blancos, sin fluoruro, para uso familiar, 125 g / 4.4 oz, sabor a menta suave, paquete de 3",
+        "url": "https://www.amazon.com.mx/dp/B0DGT21R3Q",
+        "price": 1354.24,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Crest Plus Scope Outlast Complete Whitening Toothpaste, Mint, 5.4 Ounce, 3 Count",
+        "url": "https://www.amazon.com.mx/dp/B07MGC24KH",
+        "price": 577.63,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SP4PLUS": {
+    "ts": "2026-08-13T03:51:10.174416+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta Fija Spinning 4kg Droplet SP4plus con Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-fija-spinning-4kg-droplet-sp4plus-con-bluetooth/00779914971895?athbdg=L1300",
+        "price": 1939.0,
+        "model": "SP4plus"
+      }
+    ]
+  },
+  "sams|SP4PLUS": {
+    "ts": "2026-08-13T03:51:11.225307+00:00",
+    "items": []
+  },
+  "amazon|32PFL6654F8C": {
+    "ts": "2026-08-13T03:51:13.956648+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Control Remoto Compatible con Philips Smart TV NH500, Remplazo Universal con Todos los Televisores Inteligentes Philips SmartTV LED/LCD/HDTV/UHD",
+        "url": "https://www.amazon.com.mx/dp/B0GZJXM9BP",
+        "price": 119.99,
+        "model": "NH500"
+      },
+      {
+        "store": "amazon",
+        "name": "LIDERT Control Remoto Compatible con Philips HISENSE HITACHI ROKU 32pfl4765/f8 Netflix HBO Go Spotify JVC Atvio Original",
+        "url": "https://www.amazon.com.mx/dp/B098TWH8HF",
+        "price": 179.1,
+        "model": "32pfl4765/f8"
+      },
+      {
+        "store": "amazon",
+        "name": "LIDERT Control Compatible con Philips Smart TV Netflix Youtube 4k",
+        "url": "https://www.amazon.com.mx/dp/B098TXVX9Z",
+        "price": 107.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "CONTROL EXPERT Control Remoto Compatible con Philips Smart TV",
+        "url": "https://www.amazon.com.mx/dp/B0FS9K31RC",
+        "price": 119.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "CONTROL EXPERT Control Compatible con Philips Smart TV 4k Google TV",
+        "url": "https://www.amazon.com.mx/dp/B0DSLSLYVR",
+        "price": 139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "CONTROL EXPERT Control Compatible con Hisense Roku TV Westinghouse Philips JVC Pantalla 4k Smart TV",
+        "url": "https://www.amazon.com.mx/dp/B0DDWPSBFV",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Remoto Smart TV para Philips Todos los Modelos",
+        "url": "https://www.amazon.com.mx/dp/B0C7ZFGS3Y",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Remoto Inteligente de Repuesto Compatible con TV LCD |Construcción Duradera de ABS |Control de Largo Alcance",
+        "url": "https://www.amazon.com.mx/dp/B0HCNBSK9K",
+        "price": 129.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Reemplazo de Control Remoto Compatible con televisores LCD, reemplazo de Audio, diseño Compacto Simple",
+        "url": "https://www.amazon.com.mx/dp/B0HD32MLWW",
+        "price": 159.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mando a distancia universal de repuesto para Philips TV Remote, compatible con varios televisores inteligentes Philips LCD LED 4K UHD",
+        "url": "https://www.amazon.com.mx/dp/B07MLT2J84",
+        "price": 239.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Reemplazo para Philips TV Remote, control remoto inteligente universal para Philips Android/Google TV",
+        "url": "https://www.amazon.com.mx/dp/B0F292SYHW",
+        "price": 300.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Remoto Compatible con Philips Pantalla Google TV Smart TV Directo",
+        "url": "https://www.amazon.com.mx/dp/B0FC1G1YDF",
+        "price": 134.72,
+        "model": null
+      }
+    ]
+  },
+  "sams|32PFL6654F8C": {
+    "ts": "2026-08-13T03:51:15.848064+00:00",
+    "items": []
+  },
+  "walmart|ZAPATILLASLOVENGUESS": {
+    "ts": "2026-08-13T03:51:19.080211+00:00",
+    "items": []
+  },
+  "sams|ZAPATILLASLOVENGUESS": {
+    "ts": "2026-08-13T03:51:19.786328+00:00",
+    "items": []
+  },
+  "amazon|55QM5K": {
+    "ts": "2026-08-13T03:51:23.033598+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 55\" 55Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHCC3X7",
+        "price": 5699.05,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 55QM52L Pantalla 55\" Mini-LED 4K QLED | Google TV | 60 Hz VRR | Dolby Vision HDR 10+ | 450 NITS | Wi-Fi Bluetooth | Compatible with Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRLJ3843",
+        "price": 8999.0,
+        "model": "55QM52L"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 55“ Pulgadas,Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSR75NJD",
+        "price": 6899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 98\" 98Q7K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | NITS450 | Panel 144 Hz | Dolby Atmos Virtual X",
+        "url": "https://www.amazon.com.mx/dp/B0F3NSC8N8",
+        "price": 22999.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 65QM64L Smart TV Pantalla 4K QD-MINILED 65\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRJY86BR",
+        "price": 12299.0,
+        "model": "65QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55S451G Google TV 4K UHD Ultra HD | HDR 10 | 270 NITS 60 Hz | Dolby Audio Digital + | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0D23NZMRL",
+        "price": 6399.0,
+        "model": "55S451G"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 50“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRP64JX",
+        "price": 5899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV Pantalla 55\" 55QM7K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS 3000 | Panel 144 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DZMCKVCB",
+        "price": 12680.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Smart TV 2025 Pantalla 50\" 50Q5K Google TV QLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS350 | Panel 60 Hz",
+        "url": "https://www.amazon.com.mx/dp/B0DPHD2Y69",
+        "price": 5896.0,
+        "model": "VisionHDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 75QM64L Smart TV Pantalla 4K QD-MINILED 75\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK9MS5F",
+        "price": 17299.0,
+        "model": "75QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL 55QM64L Smart TV Pantalla 4K QD-MINILED 55\" | Fire TV | 144Hz VRR 1000 NITS | Dolby Vision IQ HDR10+ | Game Master | Compatible con Alexa",
+        "url": "https://www.amazon.com.mx/dp/B0GRK522ZF",
+        "price": 9899.0,
+        "model": "55QM64L"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Canvas TV S7S，Pantalla 55“ Pulgadas，QLED 4K Smart TV，144Hz Nativos，Modo Arte，UltraSlim Wall Mount，Sonido multidimensional【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSVLLRBY",
+        "price": 13554.82,
+        "model": "144Hz"
+      }
+    ]
+  },
+  "sams|55QM5K": {
+    "ts": "2026-08-13T03:51:27.066618+00:00",
+    "items": []
+  },
+  "walmart|MULTICOLORCUMPLEANOSBOHEMIOESTILO": {
+    "ts": "2026-08-13T03:51:39.705539+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "unbranded 12Ud Para Multicolor De Estilo Bohemio Para Fiesta Y",
+        "url": "https://www.walmart.com.mx/ip/unbranded-12ud-para-multicolor-de-estilo-bohemio-para-fiesta-y/00369123642636?athbdg=L6000",
+        "price": 173.82,
+        "model": null
+      }
+    ]
+  },
+  "sams|MULTICOLORCUMPLEANOSBOHEMIOESTILO": {
+    "ts": "2026-08-13T03:51:41.267224+00:00",
+    "items": []
+  },
+  "walmart|AMORTIGUACIONDEPORTIVOSCORDONESNAUTICA": {
+    "ts": "2026-08-13T03:52:11.315239+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Nautica - Pantalones Deportivos de Forro Polar para niñas pequeñas, Bolsillos funcionales, Cintura elástica y Cierre de cordón, Marino, 12-14",
+        "url": "https://www.walmart.com.mx/ip/nautica-pantalones-deportivos-de-forro-polar-para-ninas-pequenas-bolsillos-funcionales-cintura-elastica-y-cierre-de-cordon-marino-12-14/00046378822500?athbdg=L1300",
+        "price": 1411.74,
+        "model": null
+      }
+    ]
+  },
+  "sams|AMORTIGUACIONDEPORTIVOSCORDONESNAUTICA": {
+    "ts": "2026-08-13T03:52:19.085975+00:00",
+    "items": []
+  },
+  "walmart|CANCELACIONRESOLUCIONADAPTATIVABLUETOOTH": {
+    "ts": "2026-08-13T03:52:54.795843+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Sennheiser Consumer Audio Momentum 4 Auriculares inalámbricos - Auriculares Bluetooth para llamadas nítidas con cancelación de ruido adaptativa, duración de batería de 60 h, diseño ligero y plegable (",
+        "url": "https://www.walmart.com.mx/ip/sennheiser-consumer-audio-momentum-4-auriculares-inalambricos-auriculares-bluetooth-para-llamadas-nitidas-con-cancelacion-de-ruido-adaptativa-duracion-de-bateria-de-60-h-diseno-ligero-y-plegable-/00081009127261?athbdg=L1300",
+        "price": 6699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Bluetooth con cancelación activa de ruido, inalámbricos, supraaurales, audio de alta resolución, almohadillas de espuma viscoelástica para viajes, hogar y oficina.",
+        "url": "https://www.walmart.com.mx/ip/auriculares-bluetooth-con-cancelacion-activa-de-ruido-inalambricos-supraaurales-audio-de-alta-resolucion-almohadillas-de-espuma-viscoelastica-para-viajes-hogar-y-oficina-/00201183682821?athbdg=L1300",
+        "price": 389.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Soundcore by Anker Q20i Auriculares híbridos con cancelación activa de ruido, Bluetooth inalámbrico supraaural, tiempo de reproducción ANC de 40 horas de duración, audio de alta resolución, graves gra",
+        "url": "https://www.walmart.com.mx/ip/soundcore-by-anker-q20i-auriculares-hibridos-con-cancelacion-activa-de-ruido-bluetooth-inalambrico-supraaural-tiempo-de-reproduccion-anc-de-40-horas-de-duracion-audio-de-alta-resolucion-graves-gra/00019464418237?athbdg=L1300",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Edifier V80 Auriculares híbridos con cancelación activa de ruido, verdaderos auriculares inalámbricos Bluetooth con tiempo de reproducción de 45 horas de audio de alta resolución, carga rápida, conexi",
+        "url": "https://www.walmart.com.mx/ip/edifier-v80-auriculares-hibridos-con-cancelacion-activa-de-ruido-verdaderos-auriculares-inalambricos-bluetooth-con-tiempo-de-reproduccion-de-45-horas-de-audio-de-alta-resolucion-carga-rapida-conexi/00087567400801?athbdg=L1300",
+        "price": 909.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "1MORE Auriculares inalámbricos Bluetooth con cancelación de ruido - HQ31 SonoFlow SE Auriculares supraaurales con audio de alta resolución, tiempo de reproducción de 90 horas, llamadas claras, ecualiz",
+        "url": "https://www.walmart.com.mx/ip/1more-auriculares-inalambricos-bluetooth-con-cancelacion-de-ruido-hq31-sonoflow-se-auriculares-supraaurales-con-audio-de-alta-resolucion-tiempo-de-reproduccion-de-90-horas-llamadas-claras-ecualiz/00019028000153?athbdg=L1300",
+        "price": 1059.0,
+        "model": "1MORE"
+      },
+      {
+        "store": "walmart",
+        "name": "Technics Premium Hi-Fi True Wireless Auriculares Bluetooth con cancelación de ruido avanzada, conectividad multipunto de 3 dispositivos, carga inalámbrica, audio de alta resolución + llamadas mejorada",
+        "url": "https://www.walmart.com.mx/ip/technics-premium-hi-fi-true-wireless-auriculares-bluetooth-con-cancelacion-de-ruido-avanzada-conectividad-multipunto-de-3-dispositivos-carga-inalambrica-audio-de-alta-resolucion-llamadas-mejorada/00088517040742?athbdg=L1300",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Pisexur Electrónica para Hombres Auriculares Inalámbricos con Cancelación Activa de Ruido Bluetooth Audio de Alta Resolución Auriculares de Espuma con Memoria Para Viajes Hogar Oficina Electrónica pa",
+        "url": "https://www.walmart.com.mx/ip/pisexur-electronica-para-hombres-auriculares-inalambricos-con-cancelacion-activa-de-ruido-bluetooth-audio-de-alta-resolucion-auriculares-de-espuma-con-memoria-para-viajes-hogar-oficina-electronica-pa/00690133004916",
+        "price": 470.39,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Edifier W80 - Auriculares supraaurales con cancelación activa de ruido de -49 dB, LDAC AAC de alta resolución inalámbricos y con cable, llamada clara AI, carga rápida, conexión multipunto, Bluetooth V",
+        "url": "https://www.walmart.com.mx/ip/edifier-w80-auriculares-supraaurales-con-cancelacion-activa-de-ruido-de-49-db-ldac-aac-de-alta-resolucion-inalambricos-y-con-cable-llamada-clara-ai-carga-rapida-conexion-multipunto-bluetooth-v/00697633593112?athbdg=L1300",
+        "price": 2183.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares Supraauriculares VEATOOL con Cancelación Activa de Ruido, Bluetooth 6.0, 60 Horas de Autonomía, Audio de Alta Resolución, Micrófono Integrado, Plegables y Cómodos",
+        "url": "https://www.walmart.com.mx/ip/auriculares-supraauriculares-veatool-con-cancelacion-activa-de-ruido-bluetooth-6-0-60-horas-de-autonomia-audio-de-alta-resolucion-microfono-integrado-plegables-y-comodos/00934443560598?athbdg=L1300",
+        "price": 759.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bluetooth Pisexur para hombre - Sleep Pod con ANC, latencia de 30 ms, detección ambiental adaptativa, batería de larga duración de 40 h, Bluetooth 5.4, cancelación de ruido,",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bluetooth-pisexur-para-hombre-sleep-pod-con-anc-latencia-de-30-ms-deteccion-ambiental-adaptativa-bateria-de-larga-duracion-de-40-h-bluetooth-5-4-cancelacion-de-ruido-/00690133003047",
+        "price": 545.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "1MORE SonoFlow-Pro Auriculares con cancelación de Ruido – HQ51 Auriculares Bluetooth con LDAC para Audio inalámbrico de Alta resolución, Tiempo de reproducción 100H, Bluetooth 5.4, QuietMax ANC",
+        "url": "https://www.walmart.com.mx/ip/1more-sonoflow-pro-auriculares-con-cancelacion-de-ruido-hq51-auriculares-bluetooth-con-ldac-para-audio-inalambrico-de-alta-resolucion-tiempo-de-reproduccion-100h-bluetooth-5-4-quietmax-anc/00019028000124?athbdg=L1300",
+        "price": 2343.0,
+        "model": "1MORE"
+      }
+    ]
+  },
+  "sams|CANCELACIONRESOLUCIONADAPTATIVABLUETOOTH": {
+    "ts": "2026-08-13T03:52:57.814724+00:00",
+    "items": []
+  },
+  "walmart|INALAMBRICOSAURICULARESCONCIENCIAOPENAUDIO": {
+    "ts": "2026-08-13T03:54:11.916056+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Auriculares Bose Ultra Open con audio inmersivo, auriculares inalámbricos con clip para mayor comodidad, OpenAudio para concienciación, hasta 48 horas de duración de la batería, azul piedra lunar",
+        "url": "https://www.walmart.com.mx/ip/auriculares-bose-ultra-open-con-audio-inmersivo-auriculares-inalambricos-con-clip-para-mayor-comodidad-openaudio-para-concienciacion-hasta-48-horas-de-duracion-de-la-bateria-azul-piedra-lunar/00001781785474?athbdg=L1300",
+        "price": 4979.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Raycon Fitness Auriculares inalámbricos Bluetooth True con micrófono incorporado, 56 horas de batería, resistencia al agua IPX7, cancelación activa de ruido, modo de conciencia y Bluetooth 5.3 (azul)",
+        "url": "https://www.walmart.com.mx/ip/raycon-fitness-auriculares-inalambricos-bluetooth-true-con-microfono-incorporado-56-horas-de-bateria-resistencia-al-agua-ipx7-cancelacion-activa-de-ruido-modo-de-conciencia-y-bluetooth-5-3-azul-/00081116203157?athbdg=L1300",
+        "price": 2999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|INALAMBRICOSAURICULARESCONCIENCIAOPENAUDIO": {
+    "ts": "2026-08-13T03:54:14.481472+00:00",
+    "items": []
+  },
+  "walmart|QUIETCOMFORTINALAMBRICOSCANCELACIONBLUETOOTH": {
+    "ts": "2026-08-13T03:55:30.660172+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bose QuietComfort Ultra Wireless Earbuds, Auriculares con cancelación de Ruido, Auriculares Bluetooth con Audio Espacial y cancelación de Ruido de Clase Mundial, Diamond - Edición del 60 Aniversario",
+        "url": "https://www.walmart.com.mx/ip/bose-quietcomfort-ultra-wireless-earbuds-auriculares-con-cancelacion-de-ruido-auriculares-bluetooth-con-audio-espacial-y-cancelacion-de-ruido-de-clase-mundial-diamond-edicion-del-60-aniversario/00001781785471?athbdg=L1300",
+        "price": 7099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos inalámbricos Bose QuietComfort con cancelación de ruido Cypress Green",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-bose-quietcomfort-con-cancelacion-de-ruido-cypress-green/00001781784897?athbdg=L1300",
+        "price": 7199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos con cancelación de ruido Bose QuietComfort White",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-con-cancelacion-de-ruido-bose-quietcomfort-white/00019222326228",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos con cancelación de ruido Bose QuietComfort",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-con-cancelacion-de-ruido-bose-quietcomfort/00019222326313?athbdg=L1300",
+        "price": 9679.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bose QuietComfort con cancelación activa de ruido y 8,5 h de batería",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bose-quietcomfort-con-cancelacion-activa-de-ruido-y-8-5-h-de-bateria/00019222330351?athbdg=L1300",
+        "price": 4869.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Inalambricos BOSE QuietComfort Over-Ear Bluetooth compatibles con Apple Android 24Hr de bateria",
+        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-bose-quietcomfort-over-ear-bluetooth-compatibles-con-apple-android-24hr-de-bateria/00001781785459?athbdg=L1300",
+        "price": 10167.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bose QuietComfort Ultra con cancelación de ruido de segunda generación",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bose-quietcomfort-ultra-con-cancelacion-de-ruido-de-segunda-generacion/00019222327333?athbdg=L1300",
+        "price": 6969.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos QuietComfort de Bose con cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-quietcomfort-de-bose-con-cancelacion-de-ruido/00019222327261?athbdg=L1300",
+        "price": 6459.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bose QuietComfort Ultra 2.ª generación, auriculares inalámbricos con cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/bose-quietcomfort-ultra-2-generacion-auriculares-inalambricos-con-cancelacion-de-ruido/00019222327353?athbdg=L1300",
+        "price": 12069.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bose New QuietComfort Ultra audífonos Bluetooth inalámbricos (2.ª gen), audífonos inalámbricos con c",
+        "url": "https://www.walmart.com.mx/ip/bose-new-quietcomfort-ultra-audifonos-bluetooth-inalambricos-2-gen-audifonos-inalambricos-con-c/00019222327370",
+        "price": 7659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bose QuietComfort Ultra de segunda generación, cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bose-quietcomfort-ultra-de-segunda-generacion-cancelacion-de-ruido/00019222327332?athbdg=L1300",
+        "price": 7159.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Bose QuietComfort Ultra de segunda generación, cancelación de ruido",
+        "url": "https://www.walmart.com.mx/ip/auriculares-inalambricos-bose-quietcomfort-ultra-de-segunda-generacion-cancelacion-de-ruido/00019222327334?athbdg=L1300",
+        "price": 6959.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|QUIETCOMFORTINALAMBRICOSCANCELACIONBLUETOOTH": {
+    "ts": "2026-08-13T03:55:37.432013+00:00",
+    "items": []
+  },
+  "walmart|128GB": {
+    "ts": "2026-08-13T03:56:20.016024+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Tarjeta MicroSD 128GB, resistente al agua, UHS-I, V30, compatible con cámara, drone, smartphone y tableta, gran capacidad",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-microsd-128gb-resistente-al-agua-uhs-i-v30-compatible-con-camara-drone-smartphone-y-tableta-gran-capacidad/00088737172420",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Memoria Sandisk Ultra MicroSDXC UHS-I U1 Clase 10 de 128GB Sandisk SDSQUA4-128G-GN6MA",
+        "url": "https://www.walmart.com.mx/ip/memoria-sandisk-ultra-microsdxc-uhs-i-u1-clase-10-de-128gb-sandisk-sdsqua4-128g-gn6ma/00061965918323?athbdg=L6000",
+        "price": 3195.0,
+        "model": "SDSQUA4-128G-GN6MA"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta MicroSD 128GB de Gran Almacenamiento, Perfecta para Dispositivos Digitales como Cámaras, Drones y Smartphones - Diseño Dorado",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-microsd-128gb-de-gran-almacenamiento-perfecta-para-dispositivos-digitales-como-camaras-drones-y-smartphones-diseno-dorado/00088737172425",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria SanDisk 128GB microSD Class 10 para tablets Fire",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-128gb-microsd-class-10-para-tablets-fire/00061965913950?athbdg=L1300",
+        "price": 819.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria 128GB Micro SDXC, alta velocidad U3 V30, transflash duradera para almacenamiento en dispositivos móviles",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-128gb-micro-sdxc-alta-velocidad-u3-v30-transflash-duradera-para-almacenamiento-en-dispositivos-moviles/00088737172421",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria MicroSD 128GB, TF card SDXC, clase U3 V30, rápida y duradera, para dispositivos móviles y cámaras",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-microsd-128gb-tf-card-sdxc-clase-u3-v30-rapida-y-duradera-para-dispositivos-moviles-y-camaras/00088737172418",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria MicroSD 128GB, TF card SDXC, clase U3 V30, rápida y duradera, para dispositivos móviles y cámaras",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-microsd-128gb-tf-card-sdxc-clase-u3-v30-rapida-y-duradera-para-dispositivos-moviles-y-camaras/00088737172419",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria SanDisk Micro SDXC 128GB Extreme V30 A2 4K UHD",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-micro-sdxc-128gb-extreme-v30-a2-4k-uhd/00081013306232?athbdg=L1300",
+        "price": 1229.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Memoria Micro SD SanDisk  128GB SANIDISK Extreme PRO Camara Accion A2 V30 U3 SDSQXCY-128G-GN6MA",
+        "url": "https://www.walmart.com.mx/ip/memoria-micro-sd-sandisk-128gb-sanidisk-extreme-pro-camara-accion-a2-v30-u3-sdsqxcy-128g-gn6ma/00061965916981?athbdg=L6000",
+        "price": 5010.0,
+        "model": "SDSQXCY-128G-GN6MA"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta MicroSD 128GB de Gran Capacidad, Rápida y Segura para Cámaras, Tablets, Teléfonos y Computadoras - Memory Card 128 GB",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-microsd-128gb-de-gran-capacidad-rapida-y-segura-para-camaras-tablets-telefonos-y-computadoras-memory-card-128-gb/00088737172428",
+        "price": 199.99,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria SanDisk High Endurance 128GB UHS-I microSDXC",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-sandisk-high-endurance-128gb-uhs-i-microsdxc/00061965917355",
+        "price": 1949.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Tarjeta de memoria PNY Elite microSDXC 128GB Class 10 U1 - 100MB/s",
+        "url": "https://www.walmart.com.mx/ip/tarjeta-de-memoria-pny-elite-microsdxc-128gb-class-10-u1-100mb-s/00075149266103?athbdg=L1300",
+        "price": 1299.0,
+        "model": "100MB/s"
+      }
+    ]
+  },
+  "walmart|MEDIANOCHEMACBOOKNUCLEOSAPPLE": {
+    "ts": "2026-08-13T03:56:33.513434+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 15.3 Pulgadas 16 GB 512 GB Azul Medianoche",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-15-3-pulgadas-16-gb-512-gb-azul-medianoche/00019594984232?athbdg=L1300",
+        "price": 32985.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13.6 Pulgadas 16 GB 512 GB Azul Medianoche",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-13-6-pulgadas-16-gb-512-gb-azul-medianoche/00019594988964?athbdg=L1300",
+        "price": 33232.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 14149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 512 GB y color rosa",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-512-gb-y-color-rosa/00019595085415?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Pro de 14 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 18 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-pro-de-14-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-18-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071867?athbdg=L1300",
+        "price": 40999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MEDIANOCHEMACBOOKNUCLEOSAPPLE": {
+    "ts": "2026-08-13T03:56:38.142799+00:00",
+    "items": []
+  },
+  "walmart|COMPATIBLEADAPTADORMACBOOKPUERTOS": {
+    "ts": "2026-08-13T03:56:52.947368+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer Thunderobot RS16 Intel Core I9 13900HX RTX 5060 16'' QHD 240Hz 32GB RAM 1TB SSD Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-thunderobot-rs16-intel-core-i9-13900hx-rtx-5060-16-qhd-240hz-32gb-ram-1tb-ssd-negro/00697451179507",
+        "price": 32199.0,
+        "model": "13900HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador USB C Select Sound a HDMI 3 en 1 Tipo C Multipuerto Hub Con Puerto de Salida HDMI 4K Puerto USB 3.0 y Puerto de Carga PD Compatible Con MacBook Pro/MacBook Air/Mini/iMac",
+        "url": "https://www.walmart.com.mx/ip/adaptador-usb-c-select-sound-a-hdmi-3-en-1-tipo-c-multipuerto-hub-con-puerto-de-salida-hdmi-4k-puerto-usb-3-0-y-puerto-de-carga-pd-compatible-con-macbook-pro-macbook-air-mini-imac/00750303033234?athbdg=L1300",
+        "price": 532.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "USB C Hub 4K HDMI, Adaptador USB C HDMI 3 en 1 Gopala, USB Tipo C Hub con HDMI, Puerto de Datos USB 3.0, 100W PD, Adaptador Multipuerto para MacBook Pro/Air M1, iPad Pro, XPS, Laptop y Más",
+        "url": "https://www.walmart.com.mx/ip/usb-c-hub-4k-hdmi-adaptador-usb-c-hdmi-3-en-1-gopala-usb-tipo-c-hub-con-hdmi-puerto-de-datos-usb-3-0-100w-pd-adaptador-multipuerto-para-macbook-pro-air-m1-ipad-pro-xps-laptop-y-mas/00068339149218",
+        "price": 212.02,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer Thunderobot RS16 Intel Core I9 13900HX RTX 5070 16'' QHD 240Hz 32GB RAM 1TB SSD Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-thunderobot-rs16-intel-core-i9-13900hx-rtx-5070-16-qhd-240hz-32gb-ram-1tb-ssd-negro/00697451179506",
+        "price": 36099.0,
+        "model": "13900HX"
+      },
+      {
+        "store": "walmart",
+        "name": "M Buder Hub USB C Adaptador de 4 Puertos a 5Gbps Portátil para MacBook Pro Laptop y Tablet",
+        "url": "https://www.walmart.com.mx/ip/m-buder-hub-usb-c-adaptador-de-4-puertos-a-5gbps-portatil-para-macbook-pro-laptop-y-tablet/00062703368517",
+        "price": 114.85,
+        "model": "5Gbps"
+      },
+      {
+        "store": "walmart",
+        "name": "Estación de Acoplamiento 8 en 1 USB C Hub con Pantalla Digital Inteligente, HDMI 4K@60Hz, Puertos USB 3.1 10Gbps, Lector de Tarjetas SD/TF, Adaptador Multipuerto Tipo C para MacBook Pro, iPad y Lapto",
+        "url": "https://www.walmart.com.mx/ip/estacion-de-acoplamiento-8-en-1-usb-c-hub-con-pantalla-digital-inteligente-hdmi-4k-60hz-puertos-usb-3-1-10gbps-lector-de-tarjetas-sd-tf-adaptador-multipuerto-tipo-c-para-macbook-pro-ipad-y-lapto/00078689650307",
+        "price": 1059.12,
+        "model": "10Gbps"
+      },
+      {
+        "store": "walmart",
+        "name": "inspiron 16 Laptop Dell Pantalla Táctil para - Intel Core 7 150U Supera Al i7-1355U - 16\" FHD+ Táctil - 32GB RAM - 1TB SSD - Windows 11 Pro Office 365 - Teclado Retroiluminado - Copilot PC Laptop",
+        "url": "https://www.walmart.com.mx/ip/inspiron-16-laptop-dell-pantalla-tactil-para-intel-core-7-150u-supera-al-i7-1355u-16-fhd-tactil-32gb-ram-1tb-ssd-windows-11-pro-office-365-teclado-retroiluminado-copilot-pc-laptop/00088411624488",
+        "price": 27515.3,
+        "model": "i7-1355U"
+      },
+      {
+        "store": "walmart",
+        "name": "Hub USB C portátil 5 en 1 PD de carga rápida con múltiples puertos de expansión, adaptador USB C para MacBooks y tabletas, color plateado",
+        "url": "https://www.walmart.com.mx/ip/hub-usb-c-portatil-5-en-1-pd-de-carga-rapida-con-multiples-puertos-de-expansion-adaptador-usb-c-para-macbooks-y-tabletas-color-plateado/00901388836854?athbdg=L1300",
+        "price": 348.88,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Usb USB C Hub Portátil 5 En 1 PD Carga Rápida Multi Puerto Expansión USB C Adaptador Para MacBooks Para Tableta",
+        "url": "https://www.walmart.com.mx/ip/usb-usb-c-hub-portatil-5-en-1-pd-carga-rapida-multi-puerto-expansion-usb-c-adaptador-para-macbooks-para-tableta/00659683265482",
+        "price": 316.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS-TUF F16 Gaming-Laptop RTX 4050 - Intel Core 5 210H Beat AMD Ryzen 7 7435HS - Pantalla FHD+ de 16\" 144Hz - 16GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - G-Sync - Portatil Gamer PC - Wind",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-f16-gaming-laptop-rtx-4050-intel-core-5-210h-beat-amd-ryzen-7-7435hs-pantalla-fhd-de-16-144hz-16gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-g-sync-portatil-gamer-pc-wind/00019710588137",
+        "price": 25543.79,
+        "model": "7435HS"
+      },
+      {
+        "store": "walmart",
+        "name": "BALoFI Bloque Charger USB C de 530W, Estación de Carga USB C GaN IV de 8 Puertos, Adaptador Charger Rápido para Laptop de 100W, Esenciales de Viaje para MacBook Pro/Air, Dell, iPad, Samsung Galaxy",
+        "url": "https://www.walmart.com.mx/ip/balofi-bloque-charger-usb-c-de-530w-estacion-de-carga-usb-c-gan-iv-de-8-puertos-adaptador-charger-rapido-para-laptop-de-100w-esenciales-de-viaje-para-macbook-pro-air-dell-ipad-samsung-galaxy/01072541434699",
+        "price": 689.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF Gaming Laptop i7-14650HX Beat AMD Ryzen 9 8945H - RTX 5060 - Pantalla IPS FHD de 15.6 - 64GB de RAM/ 2TB SSD - Teclado Retroiluminado RGB - Windows 11 - G-SYNC - Portatil Gamer PC",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-i7-14650hx-beat-amd-ryzen-9-8945h-rtx-5060-pantalla-ips-fhd-de-15-6-64gb-de-ram-2tb-ssd-teclado-retroiluminado-rgb-windows-11-g-sync-portatil-gamer-pc/00019710544545",
+        "price": 44319.99,
+        "model": "i7-14650HX"
+      }
+    ]
+  },
+  "sams|COMPATIBLEADAPTADORMACBOOKPUERTOS": {
+    "ts": "2026-08-13T03:56:55.984262+00:00",
+    "items": []
+  },
+  "walmart|NINTENDOGRATISSWITCHWONDER": {
+    "ts": "2026-08-13T03:57:29.342074+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Consola Nintendo Switch 32 GB más Super Mario Bros Wonder y 3 Meses de suscripción Online",
+        "url": "https://www.walmart.com.mx/ip/consola-nintendo-switch-32-gb-mas-super-mario-bros-wonder-y-3-meses-de-suscripcion-online/00004549688537",
+        "price": 6290.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Super Mario Bros Wonder Standard Edition Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/super-mario-bros-wonder-standard-edition-nintendo-switch/00490237055175",
+        "price": 1020.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Wonder Boy Collection Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/wonder-boy-collection-nintendo-switch/00085001075850",
+        "price": 1229.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Consola Nintendo Switch 32 GB más Super Mario Bros Wonder y 3 Meses de suscripción Online",
+        "url": "https://www.walmart.com.mx/ip/consola-nintendo-switch-32-gb-mas-super-mario-bros-wonder-y-3-meses-de-suscripcion-online/00004549688537?athbdg=L1300",
+        "price": 6290.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Consola Nintendo Switch OLED 64 GB más Super Mario Bros Wonder y 3 Meses de suscripción Online",
+        "url": "https://www.walmart.com.mx/ip/consola-nintendo-switch-oled-64-gb-mas-super-mario-bros-wonder-y-3-meses-de-suscripcion-online/00004549688548?athbdg=L1300",
+        "price": 7390.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Super Mario Bros. Wonder Nintendo Switch Físico",
+        "url": "https://www.walmart.com.mx/ip/super-mario-bros-wonder-nintendo-switch-fisico/00004549659959?athbdg=L1300",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Super Mario Bros. Wonder - Nintendo Switch Físico",
+        "url": "https://www.walmart.com.mx/ip/super-mario-bros-wonder-nintendo-switch-fisico/00019816810088",
+        "price": 1230.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Super Mario Bros. Wonder para Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/super-mario-bros-wonder-para-nintendo-switch/00085000112573",
+        "price": 1799.23,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Wonder Boy - Asha in Monster World Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/wonder-boy-asha-in-monster-world-nintendo-switch/00085001075824",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Balan Wonderworld Nintendo Juego",
+        "url": "https://www.walmart.com.mx/ip/balan-wonderworld-nintendo-juego/00066224892467",
+        "price": 1219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Super Mario Bros Wonder Nintendo para Nintendo Switch",
+        "url": "https://www.walmart.com.mx/ip/super-mario-bros-wonder-nintendo-para-nintendo-switch/00004549659957",
+        "price": 1020.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NINTENDOGRATISSWITCHWONDER": {
+    "ts": "2026-08-13T03:57:30.363718+00:00",
+    "items": []
+  },
+  "walmart|PREINSTALADOSINALAMBRICOSMULTIJUGADORVIDEOJUEGOS": {
+    "ts": "2026-08-13T03:57:39.149258+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Video Retro Video Gaming Stick HD Display 128G Portátil M8 Inalámbrico Retro Consola De Videojuegos TV Stick Para El Hogar",
+        "url": "https://www.walmart.com.mx/ip/video-retro-video-gaming-stick-hd-display-128g-portatil-m8-inalambrico-retro-consola-de-videojuegos-tv-stick-para-el-hogar/00609454730022",
+        "price": 743.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Adaptador de controladores inalámbricos Bluetooth multijugador, Controladores inalámbricos Bluetooth multijugador Adaptador inalámbrico Bluetooth para P Controlador inalámbrico Bluetooth multijuga",
+        "url": "https://www.walmart.com.mx/ip/adaptador-de-controladores-inalambricos-bluetooth-multijugador-controladores-inalambricos-bluetooth-multijugador-adaptador-inalambrico-bluetooth-para-p-controlador-inalambrico-bluetooth-multijuga/00645237340232?athbdg=L1300",
+        "price": 694.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Controlador de videojuegos MSI FORCE GC300 inalámbrico blanco 600 mAh",
+        "url": "https://www.walmart.com.mx/ip/controlador-de-videojuegos-msi-force-gc300-inalambrico-blanco-600-mah/00082414238649?athbdg=L1300",
+        "price": 1069.0,
+        "model": "GC300"
+      },
+      {
+        "store": "walmart",
+        "name": "Controlador para Videojuegos NACON Revolution X Unlimited con Cable e Inalámbrico",
+        "url": "https://www.walmart.com.mx/ip/controlador-para-videojuegos-nacon-revolution-x-unlimited-con-cable-e-inalambrico/00085003614482?athbdg=L1300",
+        "price": 5319.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Seitruly Convertidor de controlador de consola de juegos inalámbrico, adaptador compatible con Bluetooth, repuesto de vídeo conmutable para ordenador Videojuegos y accesorios Negro",
+        "url": "https://www.walmart.com.mx/ip/seitruly-convertidor-de-controlador-de-consola-de-juegos-inalambrico-adaptador-compatible-con-bluetooth-repuesto-de-video-conmutable-para-ordenador-videojuegos-y-accesorios-negro/00945193887488",
+        "price": 597.35,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Transmisor Y Receptor Inalámbrico, Interfaz Multimedia Portátil De Alta Definición, Conector Tipo C, Kit De Transmisor De Transmisión De Video Para Consola De Juegos",
+        "url": "https://www.walmart.com.mx/ip/transmisor-y-receptor-inalambrico-interfaz-multimedia-portatil-de-alta-definicion-conector-tipo-c-kit-de-transmisor-de-transmision-de-video-para-consola-de-juegos/00628086408413",
+        "price": 2533.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Seitruly Convertidor de controlador de consola de juegos inalámbrico, adaptador compatible con Bluetooth, repuesto de vídeo conmutable para ordenador Videojuegos y accesorios Blanco",
+        "url": "https://www.walmart.com.mx/ip/seitruly-convertidor-de-controlador-de-consola-de-juegos-inalambrico-adaptador-compatible-con-bluetooth-repuesto-de-video-conmutable-para-ordenador-videojuegos-y-accesorios-blanco/00931675018174",
+        "price": 601.52,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares de Juegos, Auriculares inalámbricos livianos para al aire libre para video",
+        "url": "https://www.walmart.com.mx/ip/auriculares-de-juegos-auriculares-inalambricos-livianos-para-al-aire-libre-para-video/00686243102987?athbdg=L1500",
+        "price": 710.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Seitruly Convertidor de controlador de consola de juegos inalámbrico, adaptador compatible con Bluetooth, repuesto de vídeo conmutable para ordenador Videojuegos y accesorios Blanco",
+        "url": "https://www.walmart.com.mx/ip/seitruly-convertidor-de-controlador-de-consola-de-juegos-inalambrico-adaptador-compatible-con-bluetooth-repuesto-de-video-conmutable-para-ordenador-videojuegos-y-accesorios-blanco/00943436574029",
+        "price": 601.52,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control remoto Inalámbrico Bearachild ARC470A1 ARC469A5 Videojuegos",
+        "url": "https://www.walmart.com.mx/ip/control-remoto-inalambrico-bearachild-arc470a1-arc469a5-videojuegos/00905110835970",
+        "price": 270.46,
+        "model": "ARC470A1"
+      },
+      {
+        "store": "walmart",
+        "name": "Consola Sony PlayStation 5 Slim (1TB, Disco) con Videojuego Marvel Spider-Man 2 y Control Inalámbrico DualSense Extra (Blanco)",
+        "url": "https://www.walmart.com.mx/ip/consola-sony-playstation-5-slim-1tb-disco-con-videojuego-marvel-spider-man-2-y-control-inalambrico-dualsense-extra-blanco-/00066918501936?athbdg=L1300",
+        "price": 14499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Controlador inalámbrico Seitruly de control remoto multipropósito para Videojuegos y accesorios",
+        "url": "https://www.walmart.com.mx/ip/controlador-inalambrico-seitruly-de-control-remoto-multiproposito-para-videojuegos-y-accesorios/00912800396730",
+        "price": 279.48,
+        "model": null
+      }
+    ]
+  },
+  "sams|PREINSTALADOSINALAMBRICOSMULTIJUGADORVIDEOJUEGOS": {
+    "ts": "2026-08-13T03:57:40.911528+00:00",
+    "items": []
+  },
+  "amazon|14FP0054LA": {
+    "ts": "2026-08-13T03:58:05.365317+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop OmniBook 5 Flip 14-fp0054la, 2-en-1, Intel Core i5, 16 GB RAM, 512 GB SSD, 14\", 2K (1920x1200), Pantalla Táctil, Lápiz Recargable, Windows 11 Home, Garantía Mexico, Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FPPSJ36P",
+        "price": 15173.4,
+        "model": "14-fp0054la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fd1340la, Intel Core 3, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR2PK79C",
+        "price": 7499.0,
+        "model": "15-fd1340la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
+        "price": 12999.0,
+        "model": "15-fc0372la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0080la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6, HD, Windows 11 Home, Teclado en Español, Garantía México, Plateado | Microsoft 365 Personal 12 Meses + Curso Multilenguajes",
+        "url": "https://www.amazon.com.mx/dp/B0DHHNXCSP",
+        "price": 14549.0,
+        "model": "15-fc0080la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Latest Stream 14\" Portátil HD de 14 pulgadas, procesador Intel Celeron, memoria de 16 GB, almacenamiento eMMC de 64 GB, carga rápida, HDMI, hasta 11 horas de duración de la batería, Office 365 1",
+        "url": "https://www.amazon.com.mx/dp/B0C5S76PBK",
+        "price": 7499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP 2023 14 pulgadas FHD Pavilion x360 portátiles táctiles convertibles para estudiantes y negocios, Intel 12ª generación Core i5-1235U (10 núcleos), 32 GB de RAM | SSD de 1 TB, huella digital, Wi-Fi6,",
+        "url": "https://www.amazon.com.mx/dp/B0CPLJ8LQ4",
+        "price": 33150.0,
+        "model": "i5-1235U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Flagship - Portátil con visualización táctil IPS de 14 pulgadas, procesador Ryzen-3 de 4 núcleos de hasta 3,79 GHz, DDR4 de 12 GB, SSD NVME de 256 GB, WiFi de 6ª generación, HDMI, Bluetooth,",
+        "url": "https://www.amazon.com.mx/dp/B0CRCB753M",
+        "price": 5479.25,
+        "model": "Ryzen-3"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Pavilion - Portátil IPS FHD de 14 pulgadas (modelo 2022), Intel Core i3-1125G4 (Beats i7-1065G7), 16 GB de RAM, 512 GB SSD, lector de huellas dactilares, batería de larga duración, cámara web,",
+        "url": "https://www.amazon.com.mx/dp/B09RG3PCD8",
+        "price": 18399.0,
+        "model": "i3-1125G4"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Flagship - Portátil con visualización táctil de 15.6 pulgadas, Intel Core i5-1155G7 (Beat i7-1065G7), 16 GB de RAM - 1 TB PCie SSD, Intel Iris Xe Graphics, Almohadilla numérica, Bluetooth 5, Windows 11 Home, color plateado",
+        "url": "https://www.amazon.com.mx/dp/B0C2HBLXGW",
+        "price": 25790.0,
+        "model": "i5-1155G7"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Pavilion x360 - Portátil de 14 pulgadas, visualización táctil FHD, Intel Core i5-1335U de 13ª generación, 8 GB de RAM, SSD de 512 GB, gráficos Intel Iris Xe, Windows 11 Home, 14-ek1655nr (2024)",
+        "url": "https://www.amazon.com.mx/dp/B0CZTSQW5N",
+        "price": 31450.0,
+        "model": "14-ek1655nr"
+      },
+      {
+        "store": "amazon",
+        "name": "Dell Latitude 5455 Snapdragon X Plus X1P-42-100 - 14\" - 16GB - 512GB - Windows 11 Pro - Portátil",
+        "url": "https://www.amazon.com.mx/dp/B0B5HSJQP3",
+        "price": 47590.0,
+        "model": "X1P-42-100"
+      }
+    ]
+  },
+  "sams|14FP0054LA": {
+    "ts": "2026-08-13T03:58:06.921889+00:00",
+    "items": []
+  },
+  "amazon|LMDX3123HBAB0": {
+    "ts": "2026-08-13T03:58:13.276649+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Midea Lavadora Doble Tina 17 kg Blanca Twin Force",
+        "url": "https://www.amazon.com.mx/dp/B0G6HJKYCM",
+        "price": 5119.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|LMDX3123HBAB0": {
+    "ts": "2026-08-13T03:58:16.178731+00:00",
+    "items": []
+  },
+  "amazon|SMSUNNIMIXREFRIGERADORCONGELADORPORTATILSUNNIMIX": {
+    "ts": "2026-08-13T03:58:47.913226+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "EUHOMY - Refrigerador de 12 voltios, congelador portátil de 19 cuartos (18 l), enfriador eléctrico -20 °C ~ 20 °C, puerta reversible de 12 V, congelador portátil de 12 V CC y 100-240 V CA para camping",
+        "url": "https://www.amazon.com.mx/dp/B0D2WCHVBV",
+        "price": 4482.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BougeRV - Refrigerador de 12 V para coche, 22 litros, congelador portátil, con compresor 12/24 V CC, 110-240 V CA, para camiones, cámpers, SUV, botes, viajes, campamentos, de -21 °C a 10 °C (negro)",
+        "url": "https://www.amazon.com.mx/dp/B0BPM6XDH2",
+        "price": 4230.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BougeRV Refrigerador de 12 voltios Nevera de coche 12v enfriadero de compresor congelador portátil de 23 cuartos 12 / 24V DC 110~240 Voltios AC para camión Van RV Camper SUV Barco Camping",
+        "url": "https://www.amazon.com.mx/dp/B08G1BBBQW",
+        "price": 4031.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BougeRV - Refrigerador congelador portátil de 12 V para coche, nevera portátil de 42 cuartos de galón, 12 V/24 V CC, 110~240 V CA, para caravana, camioneta, camioneta, furgoneta, barco",
+        "url": "https://www.amazon.com.mx/dp/B08JJ47V19",
+        "price": 6781.38,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Alpicool Congelador-nevera para auto C15. Compresor C15 corriente continua 12 V 24 V 110 V -20º C. Para auto y hogar. 15 litros",
+        "url": "https://www.amazon.com.mx/dp/B073WYS3TR",
+        "price": 4217.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VEVOR 10 cuartos de galón, 12 voltios, mini congelador portátil para refrigerador de coche",
+        "url": "https://www.amazon.com.mx/dp/B09Y235LR5",
+        "price": 3863.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oumefar Mini Refrigerador USB Portátil, Congelador, Refrigerador, Calentador para el Hogar, Oficina, Viaje en Coche, Mantiene las Bebidas Frías y Calientes, Plástico ABS 12,5 X 8,3 X 24,8 cm",
+        "url": "https://www.amazon.com.mx/dp/B0GJ3DVH27",
+        "price": 779.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "AstroAI Mini Refrigerador, Nevera 6L, Mini Frigobar 12V/110V, AC/DC | Refigerador Pequeña para Auto, Habitación, Viaje, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DLZP6HVX",
+        "price": 1099.0,
+        "model": "12V/110V"
+      },
+      {
+        "store": "amazon",
+        "name": "Feelfunn Refrigerador de 12 voltios - Congelador portátil de 21 QT (20 L), enfriador eléctrico para coche, camión, autocaravana, furgoneta, camping y viaje por carretera, refrigerador de enfriamiento",
+        "url": "https://www.amazon.com.mx/dp/B0FVFM5K4T",
+        "price": 6003.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "EUHOMY Refrigerador de 12 voltios, compresor eléctrico de 11 cuartos (10 l), control de aplicación, refrigerador de coche de 12/24 V CC y 100-240 V CA, refrigerador de coche -55 °F ~46 °F, congelador",
+        "url": "https://www.amazon.com.mx/dp/B0DWSTPL1K",
+        "price": 3271.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BougeRV Refrigerador de 12 voltios, CRPRO 21 cuartos de galón y 12 V, congelador portátil (-30 °F ~22 °F), refrigerador de compresor con 12 V/24 DC, 110-240 AC para acampar al aire última",
+        "url": "https://www.amazon.com.mx/dp/B0B9S73LRW",
+        "price": 5230.04,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "EUHOMY - Refrigerador de 12 voltios, refrigerador congelador portátil de 30 litros (32 qt), refrigerador de coche con 12/24 V CC y 110-240 V CA, compresor eléctrico para camping, viajes, RV, camión, uso en exteriores o en el hogar",
+        "url": "https://www.amazon.com.mx/dp/B0BBT73CXY",
+        "price": 5333.92,
+        "model": null
+      }
+    ]
+  },
+  "sams|SMSUNNIMIXREFRIGERADORCONGELADORPORTATILSUNNIMIX": {
+    "ts": "2026-08-13T03:58:48.761695+00:00",
+    "items": []
+  },
+  "amazon|WHB53EBTWJ": {
+    "ts": "2026-08-13T03:58:54.206936+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Congelador Horizontal Whirlpool de 534 litros Dual cooling Blanco modelo WHB53EBTWJ",
+        "url": "https://www.amazon.com.mx/dp/B0CTJ21W3D",
+        "price": 13216.14,
+        "model": "WHB53EBTWJ"
+      }
+    ]
+  },
+  "walmart|WHB53EBTWJ": {
+    "ts": "2026-08-13T03:58:59.494955+00:00",
+    "items": []
+  },
+  "amazon|RME360FDMRM0": {
+    "ts": "2026-08-13T03:59:13.487354+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mabe - Refrigerador 360 L (14 pies), Matte Inox - RME360FDMRM0",
+        "url": "https://www.amazon.com.mx/dp/B0CH1JV5YN",
+        "price": 8573.72,
+        "model": "RME360FDMRM0"
+      },
+      {
+        "store": "amazon",
+        "name": "Anaquel Puerta Compatible Con Refrigerador Mabe Ge 225d6727p001",
+        "url": "https://www.amazon.com.mx/dp/B0FBJQLYN6",
+        "price": 560.0,
+        "model": "225d6727p001"
+      }
+    ]
+  },
+  "walmart|RME360FDMRM0": {
+    "ts": "2026-08-13T03:59:18.061439+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Automático 360 L Inox Mate Mabe - RME360FDMRM0",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-automatico-360-l-inox-mate-mabe-rme360fdmrm0/00075763837835?athbdg=L1300",
+        "price": 9999.0,
+        "model": "RME360FDMRM0"
+      }
+    ]
+  },
+  "amazon|WD5600S": {
+    "ts": "2026-08-13T03:59:21.354580+00:00",
+    "items": []
+  },
+  "walmart|WD5600S": {
+    "ts": "2026-08-13T03:59:28.861398+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Side by Side 25 p³ Acero Inoxidable WD5600S",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-side-by-side-25-p-acero-inoxidable-wd5600s/00750154558793?athbdg=L1300",
+        "price": 24499.0,
+        "model": "WD5600S"
+      }
+    ]
+  },
+  "amazon|SEMIAUTOMATICAPORCELANIZADOLAVADORABLANCA": {
+    "ts": "2026-08-13T03:59:37.075802+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1102PCN1-Lavadora doble tina,Semiautomática, 11 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado, Lámpara UV, Smart Fuzzy Logic Control,Lavado rápido, 84x63x111cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B09ZKGRGQ6",
+        "price": 2990.0,
+        "model": "WSA1102PCN1-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Lavadora doble tina WSA1604P, Semiautomática, 16 Kg, Temporizador de Lavado y Centrifugado, 88x52x99cm(AnchoxLargoxAlto), Blanco/Azul | Temporizador de Lavado y Centrifugado, Diseño de Vanguardia, Secado Con Aire, Filtro Mágico, 88x52x99cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0BWKXFV7H",
+        "price": 4544.0,
+        "model": "88x52x99cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Acros Lavadora 22kg Dos tinas Semiautomática MaxSpin Dry Blanca",
+        "url": "https://www.amazon.com.mx/dp/B0GZQ7RGBM",
+        "price": 6899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Semi-Automática 11 kg Blanca Mabe - LMDX1123HBAB0",
+        "url": "https://www.amazon.com.mx/dp/B0CW8187HP",
+        "price": 3460.74,
+        "model": "LMDX1123HBAB0"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSFF1501-Lavadora, Semiautomática, 15 Kg, Blanco/Gris | Temporizador de Lavado, Mayor capacidad, Cómodo panel de control, 55x52x91cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B09QPL1JC2",
+        "price": 2928.0,
+        "model": "WSFF1501-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1304P-Lavadora doble tina, Semiautomática, 13 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado, Diseño de Vanguardia, Secado Con Aire, Filtro Mágico,80x47x98cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B08DMTC63M",
+        "price": 3999.0,
+        "model": "WSA1304P-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1804P-Lavadora doble tina, Semiautomática, 18 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado,Diseño de Vanguardia, Secado Con Aire, Filtro Mágico, 89x54x104cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0F1XHVCZH",
+        "price": 5744.0,
+        "model": "WSA1804P-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Acros Lavadora una tina 16kg ALF1651EB Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FMDHPZMX",
+        "price": 3899.0,
+        "model": "ALF1651EB"
+      },
+      {
+        "store": "amazon",
+        "name": "Koblenz Lavadora Compacta Semiautomática de 6 Kg con Timer y Paro Automático, 2 Velocidades, Sistema de Impulsor Reversible, Perilla Selectora, Fácil de Limpiar y Mover, Blanca LCK-60",
+        "url": "https://www.amazon.com.mx/dp/B073TZNBNB",
+        "price": 2399.0,
+        "model": "LCK-60"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Midea Semiautomática Dos Tinas 13Kg Twin Force Pulsator Blanca; MT100W130/W-MX; Impulsor De Doble Fuerza",
+        "url": "https://www.amazon.com.mx/dp/B0CCK9FRVK",
+        "price": 4128.95,
+        "model": "MT100W130/W-MX"
+      },
+      {
+        "store": "amazon",
+        "name": "Acros Lavadora Semiautomática de Dos Tinas 24 kg MaxSpin Dry Blanca",
+        "url": "https://www.amazon.com.mx/dp/B0C53BHWPN",
+        "price": 8361.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Acros de 19kg Dos tinas Semiautomática MaxSpin Dry Blanca modelo ALD-1945JE",
+        "url": "https://www.amazon.com.mx/dp/B08BNDRGKV",
+        "price": 5935.0,
+        "model": "ALD-1945JE"
+      }
+    ]
+  },
+  "walmart|SEMIAUTOMATICAPORCELANIZADOLAVADORABLANCA": {
+    "ts": "2026-08-13T03:59:58.823838+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora MIDEA Semiautomática Doble Tina 13 Kg Blanca MT100W130/WB-MX",
+        "url": "https://www.walmart.com.mx/ip/lavadora-midea-semiautomatica-doble-tina-13-kg-blanca-mt100w130-wb-mx/00694587835014?athbdg=L1300",
+        "price": 2990.0,
+        "model": "MT100W130/WB-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática Midea Dos Tinas 13Kg Twin Force Pulsator Blanca Midea MT100W130/W-MX",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-dos-tinas-13kg-twin-force-pulsator-blanca-midea-mt100w130-w-mx/00694587833913?athbdg=L1300",
+        "price": 3299.0,
+        "model": "MT100W130/W-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática Midea Doble Tina 17kg Twin Force Blanca MT100W170/W-MX",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-doble-tina-17kg-twin-force-blanca-mt100w170-w-mx/00694587835165?athbdg=L1300",
+        "price": 5119.0,
+        "model": "MT100W170/W-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática Midea Dos Tinas 15Kg Twin Force Pulsator Blanca Midea MT100W150/W-MX",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-dos-tinas-15kg-twin-force-pulsator-blanca-midea-mt100w150-w-mx/00694587833914?athbdg=L1300",
+        "price": 4299.0,
+        "model": "MT100W150/W-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática White-Westinghouse 11 kg WWXCTT11703BK",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-white-westinghouse-11-kg-wwxctt11703bk/00084184810283?athbdg=L1300",
+        "price": 3899.0,
+        "model": "WWXCTT11703BK"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomatica 2 Tinas 15 Kg AWTT15WXXAT Aucma Blanco",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-2-tinas-15-kg-awtt15wxxat-aucma-blanco/00750305083097?athbdg=L1300",
+        "price": 4369.0,
+        "model": "AWTT15WXXAT"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Atvio Semiautomática de Carga Superior 11 Kg Blanca",
+        "url": "https://www.walmart.com.mx/ip/lavadora-atvio-semiautomatica-de-carga-superior-11-kg-blanca/00694587834621?athbdg=L1300",
+        "price": 2690.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomatica Midea Doble Tina 15kg Blanca Triple Función Air Flux MTG01W15W",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-doble-tina-15kg-blanca-triple-funcion-air-flux-mtg01w15w/00694587832086",
+        "price": 7000.0,
+        "model": "MTG01W15W"
+      },
+      {
+        "store": "walmart",
+        "name": "LAVADORA SEMIAUTOMATICA DOBLE TINA HISENSE 16 KILOS BLANCO WSA1604P",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-doble-tina-hisense-16-kilos-blanco-wsa1604p/00060567128077?athbdg=L1300",
+        "price": 7259.0,
+        "model": "WSA1604P"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática de doble tina White Westinghouse 19 kg WWXCTT301408Q",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-de-doble-tina-white-westinghouse-19-kg-wwxctt301408q/00084184810287?athbdg=L1300",
+        "price": 5599.0,
+        "model": "WWXCTT301408Q"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática de doble tina White Westinghouse 13 kg WWXCTT23905QB",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-de-doble-tina-white-westinghouse-13-kg-wwxctt23905qb/00084184810284?athbdg=L1300",
+        "price": 4799.0,
+        "model": "WWXCTT23905QB"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática White-Westinghouse 15 kg WWXCTT251006Q",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-white-westinghouse-15-kg-wwxctt251006q/00084184810285?athbdg=L6000",
+        "price": 12980.0,
+        "model": "WWXCTT251006Q"
+      }
+    ]
+  },
+  "sams|SEMIAUTOMATICAPORCELANIZADOLAVADORABLANCA": {
+    "ts": "2026-08-13T03:59:59.598969+00:00",
+    "items": []
+  },
+  "amazon|14DQ6012DX": {
+    "ts": "2026-08-13T04:00:42.216181+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Laptop HP 14\" dq6013dx Intel N150 4GB 128GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0F8DXMJTS",
+        "price": 4199.0,
+        "model": "dq6013dx"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
+        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
+        "price": 9408.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
+        "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
+        "price": 12399.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop antirreflejos HD de 14 pulgadas, procesador Intel N200, LPDDR5 de 4 GB, almacenamiento de 288 GB (128 GB eMMC+160 GB de estación de acoplamiento), gráficos Intel UHD, Wi-Fi 6, cámara web,",
+        "url": "https://www.amazon.com.mx/dp/B0DTY9G25D",
+        "price": 4752.55,
+        "model": "eMMC+160"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop con Microsoft Office y almacenamiento en la nube de 1 TB (1 año) | Computadora HD de 14 pulgadas | 4 GB de RAM | UFS de 128 GB | CPU Intel de 4 núcleos (Beat i3-10110U) | Windows 11 Home en",
+        "url": "https://www.amazon.com.mx/dp/B0FLCHZZ5C",
+        "price": 8989.33,
+        "model": "i3-10110U"
+      },
+      {
+        "store": "amazon",
+        "name": "DELL 14 Plus Laptop DB14250-14 16:10 2.5K (2560 x 1600), Intel Core Ultra 7-256V, RAM LPDDR5X de 16 GB, SSD de 1 TB, gráficos Intel ARC Graphics, Teclado retroiluminado de la Llave copiloto",
+        "url": "https://www.amazon.com.mx/dp/B0F2K5DYNK",
+        "price": 17609.79,
+        "model": "DB14250-14"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop con Microsoft Office y almacenamiento en la nube de 1 TB (1 año) | Computadora HD de 14 pulgadas | 16 GB de RAM | UFS de 128 GB | CPU Intel de 4 núcleos (Beat i3-10110U) | Cámara web | USB-C",
+        "url": "https://www.amazon.com.mx/dp/B0G3ZS9JSH",
+        "price": 9927.91,
+        "model": "i3-10110U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 12GB SSD 512GB 14\" Teclado Español Mochila Mouse Estudio y Trabajo Profesional",
+        "url": "https://www.amazon.com.mx/dp/B0GN3BG778",
+        "price": 12999.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 24GB SSD 512GB 14\" FHD Teclado Español Mouse DXT Ideal para Estudio y Multitarea",
+        "url": "https://www.amazon.com.mx/dp/B0DB8V1N91",
+        "price": 14499.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop HD de 14 pulgadas alimentado por IA con Microsoft Office y almacenamiento en la nube de 1 TB incluido para 1 año | 8 GB de RAM | SSD de 128 GB | CPU Intel de 4 núcleos | Cámara web | Ultra",
+        "url": "https://www.amazon.com.mx/dp/B0F4X5HZ4N",
+        "price": 11708.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop HD de 14 pulgadas con Microsoft Office y almacenamiento en la nube de 1 TB (1 año) | 4 GB de RAM| SSD de 128 GB y SSD portátil de 128 GB | CPU Intel de 4 núcleos (Beat i3-10110U) | Ultra",
+        "url": "https://www.amazon.com.mx/dp/B0FLDKF8NT",
+        "price": 11708.65,
+        "model": "i3-10110U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop HD de 14 pulgadas alimentado por IA con Microsoft Office y almacenamiento en la nube de 1 TB incluido para 1 año, 4 GB de RAM, SSD de 128 GB, CPU Intel de 4 núcleos, cámara web, Wi-Fi",
+        "url": "https://www.amazon.com.mx/dp/B0G4J9QTJ9",
+        "price": 9208.54,
+        "model": null
+      }
+    ]
+  },
+  "walmart|14DQ6012DX": {
+    "ts": "2026-08-13T04:00:58.221550+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop HP 14\" Celeron 4GB 128GB 14\" Dorado",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-14-celeron-4gb-128gb-14-dorado/00065273357433",
+        "price": 4189.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Hp 14\" Intel Celeron 4GB 128GB Azul 14-dq6012dx",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-14-intel-celeron-4gb-128gb-azul-14-dq6012dx/00019899042491?athbdg=L1300",
+        "price": 4379.0,
+        "model": "14-dq6012dx"
+      }
+    ]
+  },
+  "sams|14DQ6012DX": {
+    "ts": "2026-08-13T04:01:00.249177+00:00",
+    "items": []
+  },
+  "amazon|DISTRIBUIDORAUTORIZADOMEDIANOCHEIPHONE": {
+    "ts": "2026-08-13T04:01:04.613196+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Adaptador de parada automática – Separador de potencia físico inteligente para protección de batería, cargador de desconexión automática tipo C compatible con iPhone 17/16/15 Pro Max",
+        "url": "https://www.amazon.com.mx/dp/B0H44N62LZ",
+        "price": 411.62,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "URBAN ARMOR GEAR - Funda a Prueba de Golpes Compatible con iPhone 14 Pro MAX (6.7) 2022, Pathfinder SE, Camuflaje Medianoche [Distribuidor Autorizado de Japón] UAG-IPH22LB-MC",
+        "url": "https://www.amazon.com.mx/dp/B0BDLK8GMF",
+        "price": 961.16,
+        "model": "UAG-IPH22LB-MC"
+      }
+    ]
+  },
+  "walmart|DISTRIBUIDORAUTORIZADOMEDIANOCHEIPHONE": {
+    "ts": "2026-08-13T04:01:30.852793+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPhone SE 3rd Gen A2595 Totalmente desbloqueado 64GB Medianoche Grado A",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a/00065982168336?athbdg=L6000",
+        "price": 6340.32,
+        "model": "A2595"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 256GB Reacondicionado de Grado A y Desbloqueado de Fábrica - Medianoche",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-256gb-reacondicionado-de-grado-a-y-desbloqueado-de-fabrica-medianoche/00046249978008?athbdg=L1300",
+        "price": 9999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1300",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda magnética TOCOL para iPhone 15 de 6.1 pulgadas, color morado medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-magnetica-tocol-para-iphone-15-de-6-1-pulgadas-color-morado-medianoche/00046292998820?athbdg=L1300",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para iPhone 13 de Villanas de Disney, Protectora, Siluetas de Medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-para-iphone-13-de-villanas-de-disney-protectora-siluetas-de-medianoche/00046013748802?athbdg=L1300",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para iPhone 13 Pro Disney Villanos Siluetas de Medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-para-iphone-13-pro-disney-villanos-siluetas-de-medianoche/00046028045382?athbdg=L1300",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda magnética TOCOL para iPhone 15 Pro de 6.1 pulgadas, color morado medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-magnetica-tocol-para-iphone-15-pro-de-6-1-pulgadas-color-morado-medianoche/00046168773684?athbdg=L1300",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPhone SE (3rd Gen) A2595 (Totalmente desbloqueado) 64GB Medianoche (Grado A)",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a-/00065747745825?athbdg=L6000",
+        "price": 6340.32,
+        "model": "A2595"
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para iPhone 12 Disney Villanos Siluetas de Medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-para-iphone-12-disney-villanos-siluetas-de-medianoche/00046616461775?athbdg=L1300",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda magnética TOCOL para iPhone 14 Pro de 6.1 pulgadas, color morado medianoche",
+        "url": "https://www.walmart.com.mx/ip/funda-magnetica-tocol-para-iphone-14-pro-de-6-1-pulgadas-color-morado-medianoche/00046109730753?athbdg=L1300",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Funda de Silicona para iPhone XS Max - Azul Medianoche",
+        "url": "https://www.walmart.com.mx/ip/apple-funda-de-silicona-para-iphone-xs-max-azul-medianoche/00019019876326?athbdg=L1300",
+        "price": 549.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|DISTRIBUIDORAUTORIZADOMEDIANOCHEIPHONE": {
+    "ts": "2026-08-13T04:01:39.514788+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pan para Hot Dog Bimbo Medias Noches 16 pzas",
+        "url": "https://www.sams.com.mx/ip/pan-para-hot-dog-bimbo-medias-noches-16-pzas/000001104",
+        "price": 105.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Salchicha de Pavo San Rafael  2 Kg",
+        "url": "https://www.sams.com.mx/ip/salchicha-de-pavo-san-rafael-2-kg/000804220",
+        "price": 219.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pan para Hot Dogs Member's Mark  24 pzas",
+        "url": "https://www.sams.com.mx/ip/pan-para-hot-dogs-member-s-mark-24-pzas/000046538",
+        "price": 91.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pan para Hot Dog Member's Mark  600 g",
+        "url": "https://www.sams.com.mx/ip/pan-para-hot-dog-member-s-mark-600-g/980015141",
+        "price": 80.81,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SAMSUNGGALAXYBUDSCORE": {
+    "ts": "2026-08-13T04:01:45.827908+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HUAWEI FreeBuds Pro 5 Audífonos inalámbricos, Arena | Cancelación de Ruido IA de Doble Motor para Negocios y Oficina, Ajuste Seguro Sonido Inmersivo, Llamadas Estables",
+        "url": "https://www.amazon.com.mx/dp/B0GL1QZMRW",
+        "price": 2799.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "QWYJ for Samsung Galaxy Buds Core/Buds Pro/2/2 Pro/Live/Buds FE Case Protectora de Silicona, Carga Portátil con Mosquetón Llavero Anti-perdida (Rosa)",
+        "url": "https://www.amazon.com.mx/dp/B0B2PWP6NM",
+        "price": 139.0,
+        "model": "Pro/2/2"
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS Air6 HS Audífonos Inalámbricos Semi-in-Ear Hi-Res LDAC | Graves Potentes Driver Dinámico de 13mm con Triple Imán Hasta 45 Horas de Autonomía ENC para Llamadas Claras IPX5 con App",
+        "url": "https://www.amazon.com.mx/dp/B0H692DJVS",
+        "price": 824.24,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "QWYJ for Samsung Galaxy Buds Core y Buds FE Case Protectora de Silicona, para Samsung Galaxy Buds FE Funda con Mosquetón Llavero Anti-perdida (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0CLLQZY3H",
+        "price": 122.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds Core SM-R410 (2025) | Stock Latinoamericano | Bluetooth 5.4 | Cancelación Activa de Ruido | hasta 35h de Reproducción Continua de Música en Negro - (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FNRXZV67",
+        "price": 834.0,
+        "model": "SM-R410"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds Core SM-R410 (2025) | Stock Latinoamericano | Bluetooth 5.4 | Cancelación Activa de Ruido | hasta 35h de Reproducción Continua de Música en Negro - (Blanco)",
+        "url": "https://www.amazon.com.mx/dp/B0FNRW2LKL",
+        "price": 999.0,
+        "model": "SM-R410"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds Core True Auriculares Bluetooth inalámbricos, cancelación Activa del Ruido, Ajuste Seguro con Punta de ala, emparejamiento fácil, conmutación automática, Control táctil, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FCS5SLLZ",
+        "price": 979.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Buds Core SM-R410 (2025) | Stock latinoamericano | Bluetooth 5.4 | Cancelación activa de ruido | Reproducción continua de música de hasta 35 h - Negro (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0G2YZSY99",
+        "price": 1065.47,
+        "model": "SM-R410"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Samsung Galaxy Buds Core / 2 Pro/FE/Live/Pro/Buds 2 Case Uso Rudo Carcasa con Llavero Soporte de Carga Inalámbrica YXJ (Gris Oscuro)",
+        "url": "https://www.amazon.com.mx/dp/B0CTBW83ZS",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Samsung Galaxy Buds Core y FE y Galaxy Buds (2/2pro/pro/Live), patrón de Fibra de Carbono, Bloqueo de Seguridad, Protege contra caídas, con Llavero y Kit de Limpieza",
+        "url": "https://www.amazon.com.mx/dp/B0FH9Y152R",
+        "price": 179.1,
+        "model": "2/2pro/pro/Live"
+      },
+      {
+        "store": "amazon",
+        "name": "QWYJ for Samsung Galaxy Buds Core/Buds Pro/2/2 Pro/Live/Buds FE Case Protectora de Silicona, Carga Portátil con Mosquetón Llavero Anti-perdida (Azul)",
+        "url": "https://www.amazon.com.mx/dp/B0B2PVXWC7",
+        "price": 132.05,
+        "model": "Pro/2/2"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Samsung Galaxy Buds Core y FE y Galaxy Buds (2/2pro/pro/Live), Funda Transparente de Fibra de Carbono, Bloqueo de Seguridad, Protege contra caídas, con mosquetón y Kit de Limpieza",
+        "url": "https://www.amazon.com.mx/dp/B0FY6C6SVT",
+        "price": 179.1,
+        "model": "2/2pro/pro/Live"
+      }
+    ]
+  },
+  "walmart|SAMSUNGGALAXYBUDSCORE": {
+    "ts": "2026-08-13T04:02:01.923120+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Audifonos Samsung Galaxy Buds Core Negros",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-Samsung-Galaxy-Buds-Core-Negros/00880609734995?athbdg=L1300",
+        "price": 678.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audifonos Samsung Galaxy Buds Core Blancos",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-Samsung-Galaxy-Buds-Core-Blancos/00880609734993?athbdg=L1300",
+        "price": 678.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Auriculares Galaxy Buds CORE (2025) - Nuevos / con Tecnología Galaxy AI y Cancelación Activa de Ruido (Versión Internacional)",
+        "url": "https://www.walmart.com.mx/ip/Samsung-Auriculares-Galaxy-Buds-CORE-2025-Nuevos-con-Tecnologia-Galaxy-AI-y-Cancelacion-Activa-de-Ruido-Version-Internacional/00880609734994",
+        "price": 1098.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy Buds 3 R530 Plata",
+        "url": "https://www.walmart.com.mx/ip/Samsung-Galaxy-Buds-3-R530-Plata/00750231643578",
+        "price": 2099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos Inalámbricos Samsung Galaxy Buds 3 Pro Bluetooth Blanco",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-Inalambricos-Samsung-Galaxy-Buds-3-Pro-Bluetooth-Blanco/00880609565833",
+        "price": 4750.39,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Auriculares inalámbricos Samsung Galaxy Buds FE Grafito",
+        "url": "https://www.walmart.com.mx/ip/Auriculares-inalambricos-Samsung-Galaxy-Buds-FE-Grafito/00088727679181?athbdg=L1300",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SAMSUNG Galaxy Buds 3 Pro AI True Auriculares Bluetooth inalámbricos, cancelación de Ruido, optimización de Sonido, intérprete en Tiempo Real, Ajuste cómodo rediseñado, Plateado versión",
+        "url": "https://www.walmart.com.mx/ip/SAMSUNG-Galaxy-Buds-3-Pro-AI-True-Auriculares-Bluetooth-inalambricos-cancelacion-de-Ruido-optimizacion-de-Sonido-interprete-en-Tiempo-Real-Ajuste-comodo-redisenado-Plateado-version/00088727691080?athbdg=L1300",
+        "price": 6069.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Plata SM-R530NZAAMXO",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-In-Ear-Samsung-Galaxy-Buds-3-Plata-SM-R530NZAAMXO/00880609565191",
+        "price": 2795.0,
+        "model": "SM-R530NZAAMXO"
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Pro Plata SM-R630NZAAMXO",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-In-Ear-Samsung-Galaxy-Buds-3-Pro-Plata-SM-R630NZAAMXO/00880609565168",
+        "price": 3999.0,
+        "model": "SM-R630NZAAMXO"
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Auriculares Bluetooth SAMSUNG Galaxy Buds 3 Open Fit plateados",
+        "url": "https://www.walmart.com.mx/ip/Reacondicionado-Auriculares-Bluetooth-SAMSUNG-Galaxy-Buds-3-Open-Fit-plateados/00383195418200?athbdg=L1300",
+        "price": 2649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Audífonos In Ear Samsung Galaxy Buds 3 Blanco SM-R530NZWAMXO",
+        "url": "https://www.walmart.com.mx/ip/Audifonos-In-Ear-Samsung-Galaxy-Buds-3-Blanco-SM-R530NZWAMXO/00880609565189",
+        "price": 2899.0,
+        "model": "SM-R530NZWAMXO"
+      }
+    ]
+  },
+  "sams|SAMSUNGGALAXYBUDSCORE": {
+    "ts": "2026-08-13T04:02:04.042262+00:00",
     "items": []
   }
 }
