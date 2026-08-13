@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-13 16:14 UTC
+# Errores/chollos de precio — 2026-08-13 16:15 UTC
 
-- Productos revisados: **2887**
+- Productos revisados: **1580**
 - Umbral de diferencia: **20%**
 - Hallazgos: **61**
 
@@ -60,10 +60,4 @@
 | -23% | $600 | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear, Sound by…](https://www.amazon.com.mx/dp/B0H153K79Y) | $2,000 | Confirmado vs competencia | $2,000 en amazon vs mercado -> -23% bajo la competencia |
 | -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |
 | -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
-| -32% | $341 | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $716 | Confirmado vs competencia | $716 en amazon vs mercado -> -32% bajo la competencia |
-| -21% | $306 | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | Confirmado vs competencia | $1,146 en amazon vs mercado -> -21% bajo la competencia |
-| -20% | $300 | amazon | [Star Fox Switch 2](https://www.amazon.com.mx/dp/B0H133MSYK) | $1,199 | Confirmado vs competencia | $1,199 en amazon vs mercado -> -20% bajo la competencia |
-| -31% | $266 | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $604 | Confirmado vs competencia | $604 en amazon vs mercado -> -31% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
-| -23% | $221 | amazon | [Guess Loven Zapatillas para Mujer](https://www.amazon.com.mx/dp/B09NLBWH3K) | $750 | Confirmado vs competencia | $750 en amazon vs mercado -> -23% bajo la competencia |
-| -22% | $131 | amazon | [Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstala…](https://www.amazon.com.mx/dp/B0FVTZ67ZF) | $468 | Confirmado vs competencia | $468 en amazon vs mercado -> -22% bajo la competencia |

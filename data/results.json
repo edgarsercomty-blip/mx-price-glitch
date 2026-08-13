@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13 16:14 UTC",
-  "products_scanned": 2887,
+  "generated_at": "2026-08-13 16:15 UTC",
+  "products_scanned": 1580,
   "threshold_pct": 20.0,
   "count": 61,
   "findings": [
@@ -235,106 +235,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$4,499 en mercadolibre vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2395.0,
-      "store": "mercadolibre",
-      "name": "Pantalla Smart Tv Roku 43 PuLG. Jvc",
-      "url": "https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473",
-      "price": 4499.0,
-      "list_price": 4499.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM20656473"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.0,
-      "detail": "$1,990 en walmart vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1000.0,
-      "store": "walmart",
-      "name": "TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C",
-      "url": "https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510",
-      "price": 1990.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": "32PFL6654/F8C",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00005381854165"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.9,
-      "detail": "$716 en amazon vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 340.84,
-      "store": "amazon",
-      "name": "Calvin Klein Carlla Zapatillas para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0BTTQVSM6",
-      "price": 716.35,
-      "list_price": 1553.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BTTQVSM6"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.8,
-      "detail": "$23,998 en sams vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11193.19,
-      "store": "sams",
-      "name": "Refrigerador General Electric  French Door 25 Pies Cúbicos PFF25LERCDS Black Slate",
-      "url": "https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731",
-      "price": 23998.0,
-      "list_price": 35191.19,
-      "ean": null,
-      "model": "PFF25LERCDS",
-      "brand": "General Electric",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981029731"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.0,
-      "detail": "$604 en amazon vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 266.19,
-      "store": "amazon",
-      "name": "Nautica - Tenis deportivos de moda para mujer, con cordones, para correr, casual, con amortiguación máxima",
-      "url": "https://www.amazon.com.mx/dp/B0DBWJ6LXF",
-      "price": 604.29,
-      "list_price": 794.74,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0DBWJ6LXF"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 33.4,
       "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -498,66 +398,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 21.6,
-      "detail": "$4,468 en mercadolibre vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1581.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Semiautomática Acros de 22 kg con Tina de Acero Porcelanizado Blanca",
-      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-acros-de-22-kg-con-tina-de-acero-porcelanizado-blanca/p/MLM15810415",
-      "price": 4468.0,
-      "list_price": 5699.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM15810415"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.0,
-      "detail": "$22,699 en sams vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7989.96,
-      "store": "sams",
-      "name": "Mini Proyector Hisense  Láser C2",
-      "url": "https://www.sams.com.mx/ip/mini-proyector-hisense-laser-c2/981033488",
-      "price": 22699.0,
-      "list_price": 30688.96,
-      "ean": null,
-      "model": null,
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981033488"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$19,999 en amazon vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6956.0,
-      "store": "amazon",
-      "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-      "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-      "price": 19999.0,
-      "list_price": 2029.89,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0H2X99YX1"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -617,26 +457,6 @@
       "extra": {
         "id": "43294637",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$5,249 en amazon vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1749.98,
-      "store": "amazon",
-      "name": "Bose Audífonos inalámbricos con cancelación de Ruido QuietComfort, audífonos externos Bluetooth con hasta 24 Horas de duración de la batería, Azul Atardecer",
-      "url": "https://www.amazon.com.mx/dp/B0D4Z9BZV2",
-      "price": 5249.0,
-      "list_price": 6999.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0D4Z9BZV2"
       }
     },
     {
