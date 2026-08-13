@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-13 17:14 UTC",
-  "products_scanned": 1581,
+  "generated_at": "2026-08-13 18:08 UTC",
+  "products_scanned": 1620,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 34,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 68.4,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -170,6 +191,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
