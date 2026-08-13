@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-13 20:09 UTC",
-  "products_scanned": 1584,
+  "generated_at": "2026-08-13 21:06 UTC",
+  "products_scanned": 1623,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 34,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 68.4,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -319,27 +340,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4497.5,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 2499.75,
@@ -355,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45641563",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4497.5,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },
@@ -439,6 +460,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366538",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
         "outlet": false
       }
     },
@@ -592,27 +634,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 740.0,
-      "store": "liverpool",
-      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
-      "price": 2959.0,
-      "list_price": 7398.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1189090401",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
       "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 89.9,
@@ -649,6 +670,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5999.8,
+      "store": "palacio",
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45260351",
         "outlet": false
       }
     },

@@ -2288,670 +2288,9 @@
     "ts": "2026-08-12T15:34:51.467043+00:00",
     "items": []
   },
-  "amazon|MABELAVADORASECADORA": {
-    "ts": "2026-08-11T20:24:12.960296+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Mabe - Lavadora Aqua Saver Green Automática 20 kg Blanca - LMA70214CBAB0",
-        "url": "https://www.amazon.com.mx/dp/B0CGBZX76B",
-        "price": 8399.0,
-        "model": "LMA70214CBAB0"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense WSA1102PCN1-Lavadora doble tina,Semiautomática, 11 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado, Lámpara UV, Smart Fuzzy Logic Control,Lavado rápido, 84x63x111cm(AnchoxLargoxAlto)",
-        "url": "https://www.amazon.com.mx/dp/B09ZKGRGQ6",
-        "price": 2990.0,
-        "model": "WSA1102PCN1-Lavadora"
-      },
-      {
-        "store": "amazon",
-        "name": "Lavadora Semi-Automática 11 kg Blanca Mabe - LMDX1123HBAB0",
-        "url": "https://www.amazon.com.mx/dp/B0CW8187HP",
-        "price": 3460.74,
-        "model": "LMDX1123HBAB0"
-      },
-      {
-        "store": "amazon",
-        "name": "Centro de Lavado Mabe 24 Kilos, Gas LP, Color Blanco, Modelo MCL2440PSBB0",
-        "url": "https://www.amazon.com.mx/dp/B0FZLYWGJC",
-        "price": 21990.0,
-        "model": "MCL2440PSBB0"
-      },
-      {
-        "store": "amazon",
-        "name": "Funda Lavadora Cubre Lavadora, Protector Impermeable Anti-UV y Resistencia al Polvo y Al Agua Cubierta para Lavadora Carga Superior de Tamaño Ajustable Funda Secadora",
-        "url": "https://www.amazon.com.mx/dp/B0DK9XKP71",
-        "price": 179.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Mabe - Lavadora Automática 21 kg, Blanco - LMA71214VBAB0",
-        "url": "https://www.amazon.com.mx/dp/B07581FH9K",
-        "price": 8644.0,
-        "model": "LMA71214VBAB0"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Lavadora doble tina WSA1604P, Semiautomática, 16 Kg, Temporizador de Lavado y Centrifugado, 88x52x99cm(AnchoxLargoxAlto), Blanco/Azul | Temporizador de Lavado y Centrifugado, Diseño de Vanguardia, Secado Con Aire, Filtro Mágico, 88x52x99cm(AnchoxLargoxAlto)",
-        "url": "https://www.amazon.com.mx/dp/B0BWKXFV7H",
-        "price": 4544.0,
-        "model": "88x52x99cm"
-      },
-      {
-        "store": "amazon",
-        "name": "Koblenz Lavadora Dos Tinas de 22 Kg y 3 Velocidades con Secado Rápido y Lavado por Impulsor, Desagüe Manual, Timer de Lavado y Secado, Estructura de Plástico de Alta Resistencia, Blanca LDM-22B",
-        "url": "https://www.amazon.com.mx/dp/B0C6FTH3PR",
-        "price": 7599.0,
-        "model": "LDM-22B"
-      },
-      {
-        "store": "amazon",
-        "name": "TOPINCN Reemplazo de Perilla de Control de Lavadora Secadora Universal, WE01X30638 Perilla Central de Lavandería Perilla Central de Control de Secadora ABS Piezas de Repuesto de Perilla",
-        "url": "https://www.amazon.com.mx/dp/B0DV5S485F",
-        "price": 552.0,
-        "model": "WE01X30638"
-      },
-      {
-        "store": "amazon",
-        "name": "Midea - Lavadora Una Tina 10.1 kg Blanca Dual Force",
-        "url": "https://www.amazon.com.mx/dp/B096KKQM7L",
-        "price": 2061.36,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Mabe - Secadora Gas 7.2 Cuft, color Blanco - SMG47N8MSBAB0",
-        "url": "https://www.amazon.com.mx/dp/B01MRWS489",
-        "price": 9798.33,
-        "model": "SMG47N8MSBAB0"
-      },
-      {
-        "store": "amazon",
-        "name": "Perilla Compatible Con Secadora Lavadora Mabe Easy Kraken Original",
-        "url": "https://www.amazon.com.mx/dp/B0F1H2CN9H",
-        "price": 269.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MABELAVADORASECADORA": {
-    "ts": "2026-08-11T20:24:18.934401+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe LMA72215WBAB1 22 kg Automática Blanca",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lma72215wbab1-22-kg-automatica-blanca/00075763838976?athbdg=L1300",
-        "price": 10290.0,
-        "model": "LMA72215WBAB1"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe 22 kg Blanca LMH72205CBAB0 Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-22-kg-blanca-lmh72205cbab0-carga-superior/00075763838154?athbdg=L1300",
-        "price": 8990.0,
-        "model": "LMH72205CBAB0"
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora Mabe 20  kg Blanca",
-        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca/00075763897119?athbdg=L1600",
-        "price": 8027.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Secadora Mabe 20 kg Blanca SME26N5MNBBT0 Eléctrica Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/secadora-mabe-20-kg-blanca-sme26n5mnbbt0-electrica-carga-superior/00075763842752?athbdg=L1300",
-        "price": 8690.0,
-        "model": "SME26N5MNBBT0"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe 21 Kg Blanca",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-21-kg-blanca/00075763897247?athbdg=L1300",
-        "price": 8590.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe Automática 18 kg Blanca",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-automatica-18-kg-blanca/00075763837265?athbdg=L1300",
-        "price": 7190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora automática Mabe LMA72215WDAB0 22 kg Diamond Gray",
-        "url": "https://www.walmart.com.mx/ip/lavadora-automatica-mabe-lma72215wdab0-22-kg-diamond-gray/00075763838170?athbdg=L1300",
-        "price": 10690.0,
-        "model": "LMA72215WDAB0"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe LMA74215WDAB1 Automática High Efficiency 24 kg Diamond Gray LMA74215WDAB1",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-lma74215wdab1-automatica-high-efficiency-24-kg-diamond-gray-lma74215wdab1/00075763838979?athbdg=L1300",
-        "price": 13599.0,
-        "model": "LMA74215WDAB1"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe 16 Kg LMDX6124HBAB0  Blanca",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-lmdx6124hbab0-blanca/00075763838989?athbdg=L1300",
-        "price": 4390.0,
-        "model": "LMDX6124HBAB0"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe Doble Tina 18 kg Blanca LMDX8124HBAB0",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-doble-tina-18-kg-blanca-lmdx8124hbab0/00075763838990?athbdg=L1300",
-        "price": 5390.0,
-        "model": "LMDX8124HBAB0"
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe  22 kg Semiautomática Blanca",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-22-kg-semiautomatica-blanca/00075763838991?athbdg=L1300",
-        "price": 6190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior",
-        "url": "https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300",
-        "price": 7299.0,
-        "model": "LMA78112CBAB0"
-      }
-    ]
-  },
-  "sams|MABELAVADORASECADORA": {
-    "ts": "2026-08-11T20:24:25.659622+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Centro de Lavado Mabe  23 kg Gas Diamond Gray MCL2340PSDG0",
-        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-23-kg-gas-diamond-gray-mcl2340psdg0/981024864",
-        "price": 25573.98,
-        "model": "MCL2340PSDG0"
-      },
-      {
-        "store": "sams",
-        "name": "Centro de Lavado Mabe  Eléctrico Premium 24 kg Diamond Gray MCL2440EPDG0",
-        "url": "https://www.sams.com.mx/ip/centro-de-lavado-mabe-electrico-premium-24-kg-diamond-gray-mcl2440epdg0/981024865",
-        "price": 32632.68,
-        "model": "MCL2440EPDG0"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Lavadora y Secadora de Gas LG 20 kg Blanco",
-        "url": "https://www.sams.com.mx/ip/combo-de-lavadora-y-secadora-de-gas-lg-20-kg-blanco/980027571",
-        "price": 26595.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
-        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
-        "price": 35803.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora LG  Inverter Carga Frontal 12 kg Lavado/7 kg Secado WD12VVC4S6S",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-inverter-carga-frontal-12-kg-lavado-7-kg-secado-wd12vvc4s6s/980018037",
-        "price": 14770.07,
-        "model": "WD12VVC4S6S"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg WF22C6400AP/AX",
-        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-wf22c6400ap-ax/981011469",
-        "price": 29664.95,
-        "model": "WF22C6400AP/AX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
-        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
-        "price": 36110.94,
-        "model": "F-WF22DV246V"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Lavadora y Secadora Samsung Bespoke Carga Frontal Lavado 26 kg / Secado 24 kg F-WD90F26AUDSP",
-        "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-bespoke-carga-frontal-lavado-26-kg-secado-24-kg-f-wd90f26audsp/981052265",
-        "price": 52785.75,
-        "model": "F-WD90F26AUDSP"
-      },
-      {
-        "store": "sams",
-        "name": "Lavadora Whirlpool  Carga Superior Xpert System 22 kg",
-        "url": "https://www.sams.com.mx/ip/lavadora-whirlpool-carga-superior-xpert-system-22-kg/980017566",
-        "price": 13707.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora LG  20 kg Lavado/11 kg Secado Carga Frontal WD20VV2S6R",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-lg-20-kg-lavado-11-kg-secado-carga-frontal-wd20vv2s6r/981000504",
-        "price": 22197.05,
-        "model": "WD20VV2S6R"
-      },
-      {
-        "store": "sams",
-        "name": "Lavasecadora Eléctrica Samsung  Carga Frontal 22 kg Lavado/13 kg Secado WD22T6300GP/AX",
-        "url": "https://www.sams.com.mx/ip/lavasecadora-electrica-samsung-carga-frontal-22-kg-lavado-13-kg-secado-wd22t6300gp-ax/980040059",
-        "price": 22088.62,
-        "model": "WD22T6300GP/AX"
-      }
-    ]
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
-    "ts": "2026-08-11T20:24:41.315335+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Pixie Titán con Aeroccino 3 y Termo | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0FL4DC8S4",
-        "price": 3421.41,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso De'Longhi Pixie EN127.S - Cafetera de cápsulas de café, dos teclas de selección directa, modo ECO, diseño compacto, sistema de presión de 19 bares, 1260 W, color plateado y negro",
-        "url": "https://www.amazon.com.mx/dp/B0CQPN4ZT3",
-        "price": 2999.0,
-        "model": "EN127"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso, Cafetera, Citiz Platinum, Sistema Original, Color Titan (Incluye Café de Regalo)",
-        "url": "https://www.amazon.com.mx/dp/B0CTS5X6B8",
-        "price": 5290.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Pixie Original Espresso Machine by Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B01NAW5CYK",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
-        "price": 2590.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
-        "price": 1895.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 3490.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Cafetera y espresso de edición limitada de De'Longhi, amarillo pastel",
-        "url": "https://www.amazon.com.mx/dp/B0DZH3VRT7",
-        "price": 2042.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville con espumador de leche, 1500 vatios, Titan",
-        "url": "https://www.amazon.com.mx/dp/B0C5ZP2RR5",
-        "price": 3699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Rejilla de goteo para máquinas de café Pixie compatible con máquinas Krups, Delonghi y Nespresso Pixie, rejilla para bandeja de goteo de café, mantiene la encimera limpia y evita manchas y daños,",
-        "url": "https://www.amazon.com.mx/dp/B0D7BN5L8X",
-        "price": 389.05,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
-    "ts": "2026-08-11T20:24:49.273019+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera De′Longhi Nespresso Pixie EN127.S Silver 19 Bar",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-longhi-nespresso-pixie-en127-s-silver-19-bar/00800439902875?athbdg=L1300",
-        "price": 4499.0,
-        "model": "EN127"
-      }
-    ]
-  },
-  "sams|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
-    "ts": "2026-08-11T20:24:58.463718+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
-        "price": 3774.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 4141.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 4237.25,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      }
-    ]
-  },
-  "amazon|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-11T20:22:06.847953+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 5949.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3978.85,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
-        "price": 2717.71,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
-        "price": 3589.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4990.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Pixie Titán con Aeroccino 3 y Termo | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0FL4DC8S4",
-        "price": 3421.41,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso - Cafetera Vertuo Pop + Paquete de 30 cápsulas de Sistema Vertuo Melozio",
-        "url": "https://www.amazon.com.mx/dp/B0CJKCW7ZS",
-        "price": 2510.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
-        "price": 1875.18,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Up Cafetera y Espresso de DeLonghi, color blanco con espumador de leche Aeroccino",
-        "url": "https://www.amazon.com.mx/dp/B0GLFQ3TLC",
-        "price": 5483.61,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-11T20:22:11.049654+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
-        "price": 3899.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3859.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville Red",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville-red/00002161480798?athbdg=L1300",
-        "price": 2849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, Amarillo Mango",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-de-de-longhi-con-aeroccino-amarillo-mango/00004438700923?athbdg=L1300",
-        "price": 3879.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
-        "price": 4219.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
-        "price": 3099.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-11T20:22:23.247203+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
-        "price": 3774.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 4237.25,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 4141.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
-        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 5011.66,
-        "model": null
-      }
-    ]
-  },
   "amazon|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-11T20:22:43.122357+00:00",
+    "ts": "2026-08-13T21:05:28.461388+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Bicicleta de Balance para Niños, Coche de Equilibrio Infantil con Pedales y Ruedas Neumáticas Amortiguadoras 12 Pulgadas, Asiento Ajustable y Manillar Completo, Edades de 2 a 5 Años",
-        "url": "https://www.amazon.com.mx/dp/B0FR58M2JN",
-        "price": 1079.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Benotto Bicicleta Cross Giselle R20 1V Niña Ruedas 20 Pulgadas, Frenos Contrapedal, Acero Crema/Verde Claro",
-        "url": "https://www.amazon.com.mx/dp/B09F8Y33BF",
-        "price": 2955.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Turbo Bicicleta R20 Princess Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C9BK9RC5",
-        "price": 3734.21,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bicicleta para niños, 12 Pulgadas Bicicleta Entrenadora Bicicleta para Niños Ruedas con Ruedas auxiliares Bicicleta Deportiva Infantil con Espuma para niños pequeños",
-        "url": "https://www.amazon.com.mx/dp/B0FQVZ62R9",
-        "price": 1249.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "VELOCI Bicicleta Heart Beat Rodada 12 Lila Infantil",
@@ -2975,9 +2314,23 @@
       },
       {
         "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
+        "price": 3119.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "VELOCI Bicicleta Princess Rodada 12 Rosa Intantil",
         "url": "https://www.amazon.com.mx/dp/B0G26X46TM",
         "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Speedup Rodada 16 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0FBX8K2Q8",
+        "price": 2399.0,
         "model": null
       },
       {
@@ -3007,186 +2360,115 @@
         "url": "https://www.amazon.com.mx/dp/B0G27G9G2V",
         "price": 3695.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Speed Up BMX Rodada 16 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1VBCVV5",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Heroes Rodada 16 Azul Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0DWV6HRMC",
+        "price": 2879.0,
+        "model": null
       }
     ]
   },
   "walmart|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-11T20:23:03.997417+00:00",
+    "ts": "2026-08-13T21:05:46.255212+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Mädel BMX Rodada 16 Turqueza Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Madel-BMX-Rodada-16-Turqueza-Infantil/00750305544783?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-madel-bmx-rodada-16-turqueza-infantil/00750305544783?athbdg=L1300",
         "price": 2719.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Madchen BMX Rodada 16 Rosa Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Madchen-BMX-Rodada-16-Rosa-Infantil/00750305544782?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-madchen-bmx-rodada-16-rosa-infantil/00750305544782?athbdg=L1300",
         "price": 2399.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Heart Beat Rodada 12 Lila Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Heart-Beat-Rodada-12-Lila-Infantil/00750305544772?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-heart-beat-rodada-12-lila-infantil/00750305544772?athbdg=L1300",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Riot Rodada 20 Rojo Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Riot-Rodada-20-Rojo-Infantil/00750305544795?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-20-rojo-infantil/00750305544795?athbdg=L1300",
         "price": 3119.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Dino Rodada 12 Azul Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Dino-Rodada-12-Azul-Infantil/00750305544770?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-dino-rodada-12-azul-infantil/00750305544770?athbdg=L1300",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Lithium Rodada 12 Naranja Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Lithium-Rodada-12-Naranja-Infantil/00750305357666?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-lithium-rodada-12-naranja-infantil/00750305357666?athbdg=L1300",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Speedup Rodada 16 Rojo Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Speedup-Rodada-16-Rojo-Infantil/00750305544714?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-speedup-rodada-16-rojo-infantil/00750305544714?athbdg=L1300",
         "price": 2399.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Speed Up BMX Rodada 16 Rojo Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Speed-Up-BMX-Rodada-16-Rojo-Infantil/00750305544787?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-speed-up-bmx-rodada-16-rojo-infantil/00750305544787?athbdg=L1300",
         "price": 2399.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Amore Rodada 12 Rosa Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Amore-Rodada-12-Rosa-Infantil/00750305544769?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amore-rodada-12-rosa-infantil/00750305544769?athbdg=L1300",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Riot Rodada 16 Rojo Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Riot-Rodada-16-Rojo-Infantil/00750305544785?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-16-rojo-infantil/00750305544785?athbdg=L1300",
         "price": 2719.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Heart Beat Rodada 12 Violeta Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Heart-Beat-Rodada-12-Violeta-Infantil/00750305544771?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-heart-beat-rodada-12-violeta-infantil/00750305544771?athbdg=L1300",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Bicicleta Veloci Amore BMX Rodada 16 Rosa Infantil",
-        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Amore-BMX-Rodada-16-Rosa-Infantil/00750305544776?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-amore-bmx-rodada-16-rosa-infantil/00750305544776?athbdg=L1300",
         "price": 2719.0,
         "model": null
       }
     ]
   },
   "sams|VELOCIBICICLETAINFANTILRODADAVELOCI": {
-    "ts": "2026-08-11T20:23:13.812301+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Razzer Hyper Sport 330 Rojo 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-hyper-sport-330-rojo-2026/981043295",
-        "price": 42964.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Black Hawk RT2 200cc Negro 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-black-hawk-rt2-200cc-negro-2026/981043297",
-        "price": 29665.96,
-        "model": "200cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Snake GT Trail Edition 250 Gris 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250-gris-2026/981043301",
-        "price": 32734.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Rubak EVO Ssport 220 Naranja 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-rubak-evo-ssport-220-naranja-2026/981043306",
-        "price": 23527.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta Veloci  Dark Thunder Hyper Scrambler Negro 2026",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-dark-thunder-hyper-scrambler-negro-2026/981043285",
-        "price": 40918.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Snake GT Trail Edition 250cc 2027 Gris",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-snake-gt-trail-edition-250cc-2027-gris/981054209",
-        "price": 33757.98,
-        "model": "250cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Boxter RT3 220cc 2027 Negro",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-boxter-rt3-220cc-2027-negro/981054200",
-        "price": 20458.98,
-        "model": "220cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Xeverus 330cc 2027 Gris",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-330cc-2027-gris/981054211",
-        "price": 42964.98,
-        "model": "330cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Drako RT 220cc 2027 Plata",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-drako-rt-220cc-2027-plata/981055276",
-        "price": 19947.48,
-        "model": "220cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Xeverus 330cc 2027 Rojo",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-330cc-2027-rojo/981054212",
-        "price": 42964.98,
-        "model": "330cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Xeverus Evo Cross 330cc 2027 Amarillo",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-xeverus-evo-cross-330cc-2027-amarillo/981055321",
-        "price": 43987.98,
-        "model": "330cc"
-      },
-      {
-        "store": "sams",
-        "name": "Motocicleta VELOCI  Razzer GTR 220cc 2027",
-        "url": "https://www.sams.com.mx/ip/motocicleta-veloci-razzer-gtr-220cc-2027/981054206",
-        "price": 31711.98,
-        "model": "220cc"
-      }
-    ]
+    "ts": "2026-08-13T21:05:47.828460+00:00",
+    "items": []
   },
   "amazon|LENOVOIDEAPADLAPTOPRADEONABYSS": {
     "ts": "2026-08-11T21:29:30.118362+00:00",
@@ -4401,238 +3683,6 @@
   "sams|APPLEESTRELLATELCELIPHONE128": {
     "ts": "2026-08-13T20:09:09.919733+00:00",
     "items": []
-  },
-  "amazon|HPGAMINGLAPTOPNVIDIAHYPERX": {
-    "ts": "2026-08-11T20:23:24.451587+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming HyperX OMEN 15-ga0007la, Intel Core i5, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 5050 (8GB), 15.3\", 2K (1920x1200), Windows 11 Home, Teclado en Español, Garantía Mexico, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H4J69XZJ",
-        "price": 39999.0,
-        "model": "15-ga0007la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Victus Laptop para juegos, Intel i7-13620H, 16 GB DDR5 RAM, 1 TB SSD PCIe, pantalla FHD de 15,6\" (1920x1080) 144Hz, Nvidia G-Force RTX 5060, Teclado numérico retroiluminado, W11 Home, color plata",
-        "url": "https://www.amazon.com.mx/dp/B0FM4GK7NK",
-        "price": 26429.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming Victus 15-fa2017la, Intel Core i5, 16 GB RAM, 512 GB SSD, 15.6\", FHD, NVIDIA GeForce RTX 5050 (8GB), Windows 11 Home, Teclado en Español, Garantía México, Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FPTCMDN2",
-        "price": 21504.15,
-        "model": "15-fa2017la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming OMEN 16-am0015la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5050(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FPSX848X",
-        "price": 27299.0,
-        "model": "16-am0015la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP HyperX OMEN Laptop para juegos, visualización WQXGA de 15.3 pulgadas 2.5K 180Hz, AMD Ryzen 7 260, gráficos AMD Radeon 780M, NVIDIA GeForce RTX 5060, 16GB DDR5 RAM, 1TB SSD, Wi-Fi 7, teclado",
-        "url": "https://www.amazon.com.mx/dp/B0H992GJ6X",
-        "price": 35788.76,
-        "model": "180Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "MSI Laptop Gaming Cyborg 15 NVIDIA RTX 5060 Procesador Intel® Core™ 7 240H 16GB RAM 1TB SSD 15.6\" FHD 144Hz/Teclado en español/2 años de garantía + Incluye Mouse",
-        "url": "https://www.amazon.com.mx/dp/B0FSJYDMLW",
-        "price": 25697.0,
-        "model": "144Hz/Teclado"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
-        "price": 32432.67,
-        "model": "16-am0014la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Victus 15.6\" Full HD 144Hz Laptop Gamer Intel Core i5-13420H 8GB RAM NVIDIA GeForce RTX 3050 512GB SSD Azul",
-        "url": "https://www.amazon.com.mx/dp/B0C4YX39T7",
-        "price": 14299.0,
-        "model": "i5-13420H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0FH429674",
-        "price": 18499.0,
-        "model": "144Hz/Wi-Fi"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gamer Victus NVIDIA GeForce RTX 4050 Intel Core i5 13420H 32GB 760GB SSD 15.6\" Full HD 144Hz W11 Teclado Ingles Mouse DXT Gaming y Edicion de Video",
-        "url": "https://www.amazon.com.mx/dp/B0GCTPL2CR",
-        "price": 20999.0,
-        "model": "13420H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
-        "price": 26999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
-        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
-        "price": 12999.0,
-        "model": "15-fc0372la"
-      }
-    ]
-  },
-  "walmart|HPGAMINGLAPTOPNVIDIAHYPERX": {
-    "ts": "2026-08-11T20:23:29.184700+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
-        "price": 15996.0,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming HP 15-fa2029la Intel Core i7 10 nucleos 24 GB NVIDIA® GEFORCE RTX ™ 5050 1 TB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-gaming-hp-15-fa2029la-intel-core-i7-10-nucleos-24-gb-nvidia-geforce-rtx-5050-1-tb-ssd-plata/00019948530470?athbdg=L1300",
-        "price": 24996.0,
-        "model": "15-fa2029la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop IA Gamer HP Omen Nvidia GeForce RTX 5060 8GB AMD Ryzen 9 8940HX 32GB DDR5 1TB SSD 16\" IPS FHD+ 144Hz Teclado Ingles W11H Copilot Optimizada por IA Gaming Creación y Productividad",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-hp-omen-nvidia-geforce-rtx-5060-8gb-amd-ryzen-9-8940hx-32gb-ddr5-1tb-ssd-16-ips-fhd-144hz-teclado-ingles-w11h-copilot-optimizada-por-ia-gaming-creacion-y-productividad/00019925137365?athbdg=L6000",
-        "price": 38999.0,
-        "model": "8940HX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578",
-        "price": 20996.0,
-        "model": "16-af1073la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Omen Nvidia GeForce RTX 5060 8GB DLSS 4 Intel Core i7 14650HX 32GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles W11H League of Legends Gamer Competitivo Streaming en Vivo",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-omen-nvidia-geforce-rtx-5060-8gb-dlss-4-intel-core-i7-14650hx-32gb-ddr5-1tb-ssd-pantalla-16-ips-fhd-165hz-teclado-ingles-w11h-league-of-legends-gamer-competitivo-streaming-en-vivo/00019925175876?athbdg=L1300",
-        "price": 36999.0,
-        "model": "14650HX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 16GB DDR5, 1TB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-amd-ryzen-7-7445hs-16gb-ddr5-1tb-ssd-pcie-gen4-nvidia-geforce-rtx-3050-6gb-wi-fi-6-windows-11-home-teclado-retroiluminado-espanol-/00046045713565?athbdg=L1300",
-        "price": 23599.0,
-        "model": "7445HS"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming MSI Cyborg 15 AI A1VEK NVIDIA GeForce RTX 4050 Intel Core Ultra 5-125H 16GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-gaming-msi-cyborg-15-ai-a1vek-nvidia-geforce-rtx-4050-intel-core-ultra-5-125h-16gb-ram-512gb-ssd/00082414241311",
-        "price": 20697.0,
-        "model": "5-125H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 13420H 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-nvidia-geforce-rtx-3050-intel-core-i5-13420h-8gb-ram-512gb-ssd-15-6-windows-11-home-teclado-en-ingles/00019899067746?athbdg=L1300",
-        "price": 14829.0,
-        "model": "13420H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus Intel Core i5 13th 8GB RAM 512GB SSD Nvidia GeForce RTX3050",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-intel-core-i5-13th-8gb-ram-512gb-ssd-nvidia-geforce-rtx3050/00075976331919?athbdg=L1300",
-        "price": 13298.0,
-        "model": "RTX3050"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming HP 15-fa2029la Intel Core i7 10 nucleos 24 GB NVIDIA® GEFORCE RTX ™ 5050 1 TB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-gaming-hp-15-fa2029la-intel-core-i7-10-nucleos-24-gb-nvidia-geforce-rtx-5050-1-tb-ssd-plata/00019948530470",
-        "price": 24996.0,
-        "model": "15-fa2029la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 8GB RAM 512GB SSD Windows 11",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-hp-victus-nvidia-geforce-rtx-3050-intel-core-i5-8gb-ram-512gb-ssd-windows-11/00019749718313?athbdg=L1300",
-        "price": 15449.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming MSI Cyborg 15 NVIDIA GeForce RTX 5050 Intel Core 7 240H 16GB RAM 512GB SSD 15.6\" FHD 144Hz Negro",
-        "url": "https://www.walmart.com.mx/ip/laptop-gaming-msi-cyborg-15-nvidia-geforce-rtx-5050-intel-core-7-240h-16gb-ram-512gb-ssd-15-6-fhd-144hz-negro/00082414244603",
-        "price": 22697.0,
-        "model": "512GB"
-      }
-    ]
-  },
-  "sams|HPGAMINGLAPTOPNVIDIAHYPERX": {
-    "ts": "2026-08-11T20:23:40.773511+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
-        "price": 21481.98,
-        "model": "15-FB3011LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate Xbox Negro 6L366AA",
-        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-xbox-negro-6l366aa/981047114",
-        "price": 612.78,
-        "model": "6L366AA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD 15-fb2002la + Audífonos HyperX Stinger Core 2",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-15-fb2002la-audifonos-hyperx-stinger-core-2/981023807",
-        "price": 12271.91,
-        "model": "15-fb2002la"
-      },
-      {
-        "store": "sams",
-        "name": "Mouse Gaming Inalámbrico HyperX  Pulsefire Haste 2 Mini Black 7D388AA",
-        "url": "https://www.sams.com.mx/ip/mouse-gaming-inalambrico-hyperx-pulsefire-haste-2-mini-black-7d388aa/981047109",
-        "price": 1533.48,
-        "model": "7D388AA"
-      },
-      {
-        "store": "sams",
-        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate RGB Xbox Claro 7D6H2AA",
-        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-rgb-xbox-claro-7d6h2aa/981047113",
-        "price": 612.78,
-        "model": "7D6H2AA"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
-        "price": 23527.98,
-        "model": "15-fb3021la"
-      }
-    ]
   },
   "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
     "ts": "2026-08-11T21:27:22.415387+00:00",
@@ -32367,6 +31417,314 @@
   },
   "sams|APPLECELULARCANELABUMPERIPHONE": {
     "ts": "2026-08-13T20:08:20.705002+00:00",
+    "items": []
+  },
+  "amazon|STERENSTANDARDPORTATILMONITORSTEREN": {
+    "ts": "2026-08-13T21:06:01.273195+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "STEREN Monitor portátil Touch de 15.6” HDR para Laptop",
+        "url": "https://www.amazon.com.mx/dp/B0D67HMCRC",
+        "price": 2490.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "STEREN Monitor portátil HDR de 15.6” para Laptop",
+        "url": "https://www.amazon.com.mx/dp/B0CN3TDRZ5",
+        "price": 1990.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "STEREN Monitor portátil HDR de 18.5” para Laptop",
+        "url": "https://www.amazon.com.mx/dp/B0CZF7JQ99",
+        "price": 2691.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MAGICRAVEN Monitor Portátil, Extensor de Segunda Pantalla para Laptop, Monitor Gaming USB-C HDMI, de Viaje para PC, Celular, PS5, Xbox, Switch - 15.6\"（Sin bocinas integradas）",
+        "url": "https://www.amazon.com.mx/dp/B0FJFD1LPF",
+        "price": 1099.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Monitor Portátil, 15.6 Pulgadas FHD IPS 1080P USB Type-C Monitor de Viaje Ultra Delgado, con USB/C HDMI, Built-in Dual Speakers, para PC,PS4/5,Laptop,Xbox,Phone, Switch",
+        "url": "https://www.amazon.com.mx/dp/B0GD6KS4D3",
+        "price": 1129.99,
+        "model": "1080P"
+      },
+      {
+        "store": "amazon",
+        "name": "Viewsonic VA1655 Pantalla portátil 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B09237LL5Q",
+        "price": 2348.09,
+        "model": "VA1655"
+      },
+      {
+        "store": "amazon",
+        "name": "STEREN Monitor de 24\" MNT-024",
+        "url": "https://www.amazon.com.mx/dp/B0FZX5JLCC",
+        "price": 1890.0,
+        "model": "MNT-024"
+      },
+      {
+        "store": "amazon",
+        "name": "Anyuse - Monitor portátil de 15.6 pulgadas 1080P USB-C HDMI ultradelgado de viaje con soporte, para laptop, PC, Mac Phone, PS, Xbox, Swich IPS ultra delgado de marco cero para juegos",
+        "url": "https://www.amazon.com.mx/dp/B0D44QFCPQ",
+        "price": 1155.42,
+        "model": "1080P"
+      },
+      {
+        "store": "amazon",
+        "name": "UPERFECT Monitor Portátil 24\" FHD 120Hz Gaming FreeSync | Pantalla Grande con HDMI y USB-C | Soporte Ajustable 180° | VESA | Segunda Pantalla para Laptop, PC y Consolas",
+        "url": "https://www.amazon.com.mx/dp/B0DHCW52VS",
+        "price": 4654.99,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "STEREN Monitor de 27\" MNT-027",
+        "url": "https://www.amazon.com.mx/dp/B0FZX6Q86P",
+        "price": 2490.0,
+        "model": "MNT-027"
+      },
+      {
+        "store": "amazon",
+        "name": "UPERFECT Monitor Portátil Táctil 15.6\" FHD 125% sRGB | Pantalla Touch de 10 Puntos | Soporte Integrado | Altavoz | USB-C HDMI | VESA | Segunda Pantalla para Laptop, Mac y Consolas",
+        "url": "https://www.amazon.com.mx/dp/B0GDCTKCWT",
+        "price": 2499.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UPERFECT Monitor Portátil QLED 18.5\" 4K UHD 145% sRGB | 3840x2160 | 400 Nits | Pantalla Ultra Delgada | USB-C y HDMI | VESA y Funda | Segunda Pantalla para Laptop, PC y Consolas",
+        "url": "https://www.amazon.com.mx/dp/B0GX68ZC5T",
+        "price": 7599.0,
+        "model": "3840x2160"
+      }
+    ]
+  },
+  "walmart|STERENSTANDARDPORTATILMONITORSTEREN": {
+    "ts": "2026-08-13T21:06:11.116338+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Monitor Steren 15.6 pulgadas portátil HDR DIS-116",
+        "url": "https://www.walmart.com.mx/ip/monitor-steren-15-6-pulgadas-portatil-hdr-dis-116/00750625096546?athbdg=L1300",
+        "price": 1572.0,
+        "model": "DIS-116"
+      },
+      {
+        "store": "walmart",
+        "name": "Monitor portátil Touch 15.6 HDR para laptop Steren negro",
+        "url": "https://www.walmart.com.mx/ip/monitor-portatil-touch-15-6-hdr-para-laptop-steren-negro/00750625097123",
+        "price": 2490.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Monitor Steren 18.5 pulgadas portátil HDR DIS-118",
+        "url": "https://www.walmart.com.mx/ip/monitor-steren-18-5-pulgadas-portatil-hdr-dis-118/00750625097015?athbdg=L1300",
+        "price": 2691.0,
+        "model": "DIS-118"
+      },
+      {
+        "store": "walmart",
+        "name": "Monitor portátil VIVO STAND-PM01M de 15,6 pulgadas con soporte para portátil",
+        "url": "https://www.walmart.com.mx/ip/monitor-portatil-vivo-stand-pm01m-de-15-6-pulgadas-con-soporte-para-portatil/00084040880169?athbdg=L1300",
+        "price": 2779.0,
+        "model": "STAND-PM01M"
+      }
+    ]
+  },
+  "sams|STERENSTANDARDPORTATILMONITORSTEREN": {
+    "ts": "2026-08-13T21:06:12.707994+00:00",
+    "items": []
+  },
+  "amazon|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-13T21:06:17.833955+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
+        "price": 14399.0,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
+        "price": 5779.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
+        "price": 7999.0,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15.6\" FHD Touch Laptop, AMD Ryzen 5 7520U, 8GB DDR5 RAM, 512 SSD, Windows 11 Home, AMD Radeon 610M, Copilot AI, Artic Grey, 82XQ00RSUS",
+        "url": "https://www.amazon.com.mx/dp/B0GC538VWR",
+        "price": 15902.42,
+        "model": "82XQ00RSUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
+        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
+        "price": 6179.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
+        "price": 12979.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
+        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
+        "price": 8799.0,
+        "model": "i7-1165G7"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M | Gris | Retroiluminado | 8GB RAM DDR5 | 512GB SSD | Windows 11 Home | Paquete con lápiz táctil",
+        "url": "https://www.amazon.com.mx/dp/B0G8YR6FJ9",
+        "price": 14643.13,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 Windows 11 - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
+        "price": 8539.0,
+        "model": "256gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
+        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
+        "price": 13500.0,
+        "model": "300nits"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
+        "price": 8402.16,
+        "model": "82KT-Renovado"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
+        "price": 9771.35,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-13T21:06:38.591848+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
+        "price": 9519.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
+        "price": 13609.0,
+        "model": "83k700axlm"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
+        "price": 8589.0,
+        "model": "15AMN7"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
+        "price": 26599.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 512GB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
+        "price": 21499.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
+        "price": 6899.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
+        "price": 13779.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.3\" WUXGA Touch AMD Ryzen 7 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-touch-amd-ryzen-7-16gb-ram-512gb-ssd/00019927392295?athbdg=L1300",
+        "price": 13419.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
+        "price": 7999.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
+        "price": 12849.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "walmart",
+        "name": "LENOVO IDEAPAD SLIM 3 (83K700TUUS) 15.3\" 2K TOUCH RYZEN 7 16GB 512GB SSD W11 GRIS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-83k700tuus-15-3-2k-touch-ryzen-7-16gb-512gb-ssd-w11-gris/00750232957123?athbdg=L1300",
+        "price": 12729.0,
+        "model": "83K700TUUS"
+      }
+    ]
+  },
+  "sams|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-13T21:06:43.422288+00:00",
     "items": []
   }
 }
