@@ -1,4 +1,4 @@
-# Productos en vigilancia (642)
+# Productos en vigilancia (636)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -640,9 +640,3 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 …](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | -38% |
 | 🟢 disponible | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  AMD Ry…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | -36% |
 | 🟢 disponible | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | -35% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643) | $11,242 | -45% |
-| 🟢 disponible | sams | [Mini Proyector Hisense  Láser C2](https://www.sams.com.mx/ip/mini-proyector-hisense-laser-c2/981033488) | $22,699 | -26% |
-| 🟢 disponible | sams | [Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871) | $28,131 | -22% |
-| 🟢 disponible | sams | [Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Secado C…](https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322) | $11,937 | -21% |
-| 🟢 disponible | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | -21% |
-| 🟢 disponible | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $4,999 | -21% |
