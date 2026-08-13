@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-13 09:05 UTC
+# Errores/chollos de precio — 2026-08-13 10:30 UTC
 
-- Productos revisados: **1506**
+- Productos revisados: **1565**
 - Umbral de diferencia: **20%**
 - Hallazgos: **30**
 
@@ -34,5 +34,5 @@
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $740 | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | Confirmado vs competencia | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
-| -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
+| -50% | $68 | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | Confirmado vs competencia | $68 en liverpool vs mercado -> -50% bajo la competencia |

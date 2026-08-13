@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-13 09:05 UTC",
-  "products_scanned": 1506,
+  "generated_at": "2026-08-13 10:30 UTC",
+  "products_scanned": 1565,
   "threshold_pct": 20.0,
   "count": 30,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 68.4,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -195,27 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 33.4,
-      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 349.0,
-      "store": "liverpool",
-      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
-      "price": 799.0,
-      "list_price": 1199.0,
-      "ean": null,
-      "model": null,
-      "brand": "FLAVORSTONE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178603252",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -339,27 +339,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4497.5,
-      "store": "palacio",
-      "name": "Cafetera Creatista Plus Origins",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
-      "price": 13492.5,
-      "list_price": 17990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "41273412",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -376,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4497.5,
+      "store": "palacio",
+      "name": "Cafetera Creatista Plus Origins",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html",
+      "price": 13492.5,
+      "list_price": 17990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "41273412",
         "outlet": false
       }
     },

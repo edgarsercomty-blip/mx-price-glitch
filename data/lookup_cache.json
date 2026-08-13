@@ -787,27 +787,185 @@
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-11T09:15:30.116875+00:00",
-    "items": []
+    "ts": "2026-08-13T10:29:42.061741+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch GT 6 Smartwatch 46mm Reloj Inteligente Hombre, Negro | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, iOS y Android, Correa de fluoroelastómero",
+        "url": "https://www.amazon.com.mx/dp/B0FPG9431G",
+        "price": 2819.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch GT 6 Pro Smartwatch 46mm Reloj Inteligente Hombre, Negro | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0FPG8KLS8",
+        "price": 3759.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 11 Smartwatch Caja de Polímeros Durables, Negro | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
+        "url": "https://www.amazon.com.mx/dp/B0GKRGHNQ1",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Rosa Polimero",
+        "url": "https://www.amazon.com.mx/dp/B0DWFPS6W6",
+        "price": 679.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Negro Polimero",
+        "url": "https://www.amazon.com.mx/dp/B0DWFQCY3V",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
+        "url": "https://www.amazon.com.mx/dp/B0GKRPMMR1",
+        "price": 859.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, iOS & Android, Negro | Pantalla de 1.82\", Hasta 10 días de Batería, 100+ Modos Deportivos, Rastreador de fitness con SpO₂, Bienestar Emocional",
+        "url": "https://www.amazon.com.mx/dp/B0F32PTQD3",
+        "price": 2204.37,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 11 Smartwatch Caja de Polímeros Durables, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
+        "url": "https://www.amazon.com.mx/dp/B0GKRDB22X",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch GT 6 Smartwatch 46mm Reloj Inteligente Hombre, Gris | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, iOS y Android, Correa de cuero compuesto",
+        "url": "https://www.amazon.com.mx/dp/B0FPG955QJ",
+        "price": 2982.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
+        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Negro | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
+        "price": 2462.51,
+        "model": null
+      }
+    ]
   },
   "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-11T09:15:31.829597+00:00",
-    "items": []
+    "ts": "2026-08-13T10:29:52.122963+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "HUAWEI WATCH FIT 3, Negro Carbón, Pantalla AMOLED de 1.82, Diseño Ultradelgado, Monitoreo Integral del Ejercicio, Gestión Integral de la Salud, Batería de 10 Días, Compatible con iOS y Android",
+        "url": "https://www.walmart.com.mx/ip/HUAWEI-WATCH-FIT-3-Negro-Carbon-Pantalla-AMOLED-de-1-82-Diseno-Ultradelgado-Monitoreo-Integral-del-Ejercicio-Gestion-Integral-de-la-Salud-Bateria-de-10-Dias-Compatible-con-iOS-y-Android/00694210311853",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Band 9",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Band-9/00694210311808",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Fit 4 AMOLED 1.82” GPS 5ATM negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Fit-4-AMOLED-1-82-GPS-5ATM-negro/00694210315534",
+        "price": 2389.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/HUAWEI-Watch-GT-5-41mm-Smartwatch-GPS-hasta-7-Dias-de-BaterIa-Sharp-Edged-Design-Seguimiento-de-la-Salud-Resistente-al-Agua-Compatible-con-iOS-y-Android-Negro-Mate/00019457000223?athbdg=L1300",
+        "price": 5395.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Nueva experiencia de carrera y bicicleta, Sharp-Edged Design, Seguimiento de la salud, Compatible con iOS y Android, Azul",
+        "url": "https://www.walmart.com.mx/ip/HUAWEI-Watch-GT-5-41mm-Smartwatch-GPS-hasta-7-Dias-de-BaterIa-Nueva-experiencia-de-carrera-y-bicicleta-Sharp-Edged-Design-Seguimiento-de-la-salud-Compatible-con-iOS-y-Android-Azul/00019457000224?athbdg=L1300",
+        "price": 6334.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Gt 6 46mm Reloj Inteligente Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Gt-6-46mm-Reloj-Inteligente-Color-Negro/00694210316871",
+        "price": 4390.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Morado",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-HUAWEI-Watch-Fit-4-Pantalla-Touch-AMOLED-1-82-Bluetooth-5-2-Android-iOS-Morado/00070452118691?athbdg=L1300",
+        "price": 3399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-HUAWEI-Watch-Fit-4-Pantalla-Touch-AMOLED-1-82-Bluetooth-5-2-Android-iOS-Negro/00070452118690?athbdg=L1300",
+        "price": 3399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-GT-6-41mm-Reloj-Inteligente-Color-Negro/00694210316959?athbdg=L6000",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit 5 42.9 Mm Con Gps Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Fit-5-42-9-Mm-Con-Gps-Negro/00694210319085?athbdg=L6000",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Blanco",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-GT-6-41mm-Reloj-Inteligente-Color-Blanco/00694210316962?athbdg=L6000",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit 5 - Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Fit-5-Negro/00955568795608?athbdg=L1300",
+        "price": 2299.0,
+        "model": null
+      }
+    ]
   },
   "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-11T09:15:36.552437+00:00",
-    "items": []
-  },
-  "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-11T09:15:50.927194+00:00",
-    "items": []
-  },
-  "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-11T09:15:52.138758+00:00",
-    "items": []
-  },
-  "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-11T09:15:53.773192+00:00",
+    "ts": "2026-08-13T10:29:54.099714+00:00",
     "items": []
   },
   "amazon|HR2244": {
@@ -2717,18 +2875,6 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
     "ts": "2026-08-12T15:34:51.467043+00:00",
-    "items": []
-  },
-  "amazon|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-11T09:15:54.846984+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-11T09:15:56.134598+00:00",
-    "items": []
-  },
-  "sams|APPLEIPHONETELCEL128": {
-    "ts": "2026-08-11T09:15:57.502802+00:00",
     "items": []
   },
   "amazon|MABELAVADORASECADORA": {
@@ -4710,18 +4856,6 @@
   },
   "mercadolibre|100QNED85BS": {
     "ts": "2026-08-13T03:47:46.168546+00:00",
-    "items": []
-  },
-  "amazon|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-11T09:15:43.119867+00:00",
-    "items": []
-  },
-  "walmart|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-11T09:15:46.300204+00:00",
-    "items": []
-  },
-  "sams|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
-    "ts": "2026-08-11T09:15:49.730261+00:00",
     "items": []
   },
   "amazon|HPHYPERXGAMINGLAPTOPNVIDIA": {
@@ -30975,6 +31109,188 @@
   },
   "sams|ASUSGEFORCELAPTOPGAMINGNVIDIA": {
     "ts": "2026-08-13T09:05:25.494280+00:00",
+    "items": []
+  },
+  "amazon|ASUSGEFORCENVIDIALAPTOPGAMING": {
+    "ts": "2026-08-13T10:30:20.872502+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
+        "price": 22999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
+        "price": 14997.0,
+        "model": "13TOPS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop LOQ 15IAX9E | NVIDIA GeForce RTX 3050 6 GB | 15.6\" FHD | Intel Core i5 | 16GB RAM 512GB SSD | Impulsado por IA | Windows 11",
+        "url": "https://www.amazon.com.mx/dp/B0F1WWLZBK",
+        "price": 16317.97,
+        "model": "15IAX9E"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
+        "price": 32430.94,
+        "model": "16-am0014la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FH429674",
+        "price": 18499.0,
+        "model": "144Hz/Wi-Fi"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 23499.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
+        "price": 26999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16 Laptop IA Gamer Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU Rendimiento Total 38 Tops 32GB 1TB Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles Copilot Gaming Proxima Generacion",
+        "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
+        "price": 38899.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Gamer TUF Gaming A18 NVIDIA GeForce RTX 5060 AMD Ryzen 7 260 16GB DDR5 SSD 1TB 18\" WUXGA 144Hz Teclado Ingles Gaming Competitivo y Creacion de Contenido",
+        "url": "https://www.amazon.com.mx/dp/B0GLHF42BM",
+        "price": 32999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
+        "price": 24424.89,
+        "model": "13450HX"
+      }
+    ]
+  },
+  "walmart|ASUSGEFORCENVIDIALAPTOPGAMING": {
+    "ts": "2026-08-13T10:30:38.313685+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
+        "price": 38999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
+        "price": 44999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF Gaming Laptop A18 Pulgadas - NVIDIA RTX 5060 - AMD Ryzen 7 260 Beat i9-13905H - Pantalla WUXGA de 18\" 144Hz - 32GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - Thunderbolt 4 - Cámara FH",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-a18-pulgadas-nvidia-rtx-5060-amd-ryzen-7-260-beat-i9-13905h-pantalla-wuxga-de-18-144hz-32gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-thunderbolt-4-camara-fh/00019710551608?athbdg=L1300",
+        "price": 41050.61,
+        "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-v16-ultra-7-240h-memoria-de-32gb-ddr5-ssd-de-1tb-pantalla-de-16-led-wuxga-1920-x-1200-video-nvidia-geforce-rtx-5060-s-o-windows-11-home-/00019710590587?athbdg=L1300",
+        "price": 29229.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a18-pulgadas-gaming-laptop-amd-ryzen-7-260-beat-i9-13905h-nvidia-rtx-5060-pantalla-wuxga-de-18-32gb-de-ram-1tb-ssd-teclado-retroiluminado-rgb-camara-fhd-laptop-para-gamer/00019710542309",
+        "price": 47340.7,
+        "model": "i9-13905H"
+      }
+    ]
+  },
+  "sams|ASUSGEFORCENVIDIALAPTOPGAMING": {
+    "ts": "2026-08-13T10:30:41.914308+00:00",
     "items": []
   }
 }
