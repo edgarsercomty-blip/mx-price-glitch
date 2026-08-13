@@ -1304,219 +1304,9 @@
     "ts": "2026-08-13T19:29:03.853850+00:00",
     "items": []
   },
-  "amazon|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-11T19:41:23.484311+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Gaming 15.6\" Ryzen 5 8GB 256GB 82K201XCUS",
-        "url": "https://www.amazon.com.mx/dp/B0BKQW8WN5",
-        "price": 13599.0,
-        "model": "82K201XCUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo ThinkPad X13 G1 Laptop, Ryzen 5 Pro 4650U, 32GB RAM(reacondicionado) | 13.3\" FHD Notebook, 256GB SSD, Windows 11 Pro",
-        "url": "https://www.amazon.com.mx/dp/B0GG3X2DM3",
-        "price": 6699.0,
-        "model": "4650U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo ThinkPad X13 G1 Laptop, 13.3\" FHD Notebook, AMD Ryzen 5 Pro 4650U, 32GB RAM, 512GB SSD, Windows 11 Pro (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GG3VBQHR",
-        "price": 7999.0,
-        "model": "4650U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Thinkpad T14 (Gen 1) 14'' Laptop, i5 10310U 1.7Ghz, 16GB DDR4, 256GB NVMe SSD, 1080p Full HD, Thunderbolt 3, HDMI, cámara Web, Windows 11 Pro (reacondicionado) Negro",
-        "url": "https://www.amazon.com.mx/dp/B0BDGB3NX1",
-        "price": 6499.0,
-        "model": "10310U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
-        "price": 14369.0,
-        "model": "7735HS"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
-        "price": 5779.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
-        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
-        "price": 7999.0,
-        "model": "i7-1255U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3 15.6\" FHD Touch Laptop, AMD Ryzen 5 7520U, 8GB DDR5 RAM, 512 SSD, Windows 11 Home, AMD Radeon 610M, Copilot AI, Artic Grey, 82XQ00RSUS",
-        "url": "https://www.amazon.com.mx/dp/B0GC538VWR",
-        "price": 16029.08,
-        "model": "82XQ00RSUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
-        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
-        "price": 6179.0,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo 82VG00WXUS 15.6\" Ryzen 5 8GB 256GB Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GGDKX67X",
-        "price": 7989.45,
-        "model": "82VG00WXUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
-        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
-        "price": 8799.0,
-        "model": "i7-1165G7"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
-        "price": 12979.0,
-        "model": "83K700TUUS"
-      }
-    ]
-  },
-  "walmart|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-11T19:43:00.371038+00:00",
-    "items": []
-  },
-  "sams|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-11T19:43:12.495544+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
-        "price": 13907.69,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
-        "price": 34776.89,
-        "model": "RAM/1"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
-        "price": 17897.39,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad 1 AMD Ryzen 7/16 GB RAM/512 GB SDD + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-1-amd-ryzen-7-16-gb-ram-512-gb-sdd-mochila-mouse/981022913",
-        "price": 10225.91,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Flex 5 Ryzen 5/8 GB RAM/512 GB 14A + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-flex-5-ryzen-5-8-gb-ram-512-gb-14a-mochila-mouse/981008318",
-        "price": 19433.91,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3/Ryzen 7/16 GB RAM/1 TB IPSLIM3-AXLM + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-ryzen-7-16-gb-ram-1-tb-ipslim3-axlm-mochila/981044391",
-        "price": 10225.91,
-        "model": "IPSLIM3-AXLM"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 5/8 GB RAM/512 GB SSD MJLM + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-amd-ryzen-5-8-gb-ram-512-gb-ssd-mjlm-mochila/981035506",
-        "price": 8178.89,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
-        "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
-        "price": 20966.39,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
-        "price": 16876.43,
-        "model": "gen/8"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
-        "price": 12467.27,
-        "model": "RAM/256"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/8 GB RAM/512 GB SSD 6VLM + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-8-gb-ram-512-gb-ssd-6vlm-mochila-mouse/981038992",
-        "price": 8178.89,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
-        "price": 29354.99,
-        "model": "3-1ALM"
-      }
-    ]
-  },
   "amazon|KRUPSINOXIDABLEAUTOMATICACAFETERACOFFEE": {
-    "ts": "2026-08-11T19:44:31.959218+00:00",
+    "ts": "2026-08-13T20:09:26.907180+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "KRUPS Cafetera de Filtro Permanente Simply Brew Family Inoxidable, capacidad para preparar 10 tazas de café, incluye filtro permanente y cuchara dosificadora, 900 W, KM203D50",
-        "url": "https://www.amazon.com.mx/dp/B08PP1H7QK",
-        "price": 1318.38,
-        "model": "KM203D50"
-      },
-      {
-        "store": "amazon",
-        "name": "HIBREW H10 Cafetera Espresso Semiautomática con Cabezal Comercial 58mm | Extracción Ajustable, Vaporizador Potente, Liberación Automática de Presión, Acero Inoxidable para Casa y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0GWZ8KSKZ",
-        "price": 4758.81,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HIBREW H10B Máquina de Espresso Programable con Pantalla LED y Manómetro | Cafetera Compacta de Acero Inoxidable 20 Bares con Espumador de Leche, Portafiltro de 51 mm para Cappuccino y Latte",
-        "url": "https://www.amazon.com.mx/dp/B0DLP26373",
-        "price": 3268.91,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
-        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
-        "price": 5999.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Krups Coffee Crush Black SA4039U1 | Diseño ultracompacto, resultados de calidad barista, compatible con café de grano y molido",
@@ -1535,7 +1325,7 @@
         "store": "amazon",
         "name": "Krups Cafetera Superautomática Quattro Force EA815050 | Molino de café integrado, pantalla LCD intuitiva, tecnología Quattro Force, 1.8L",
         "url": "https://www.amazon.com.mx/dp/B01DC6N1OA",
-        "price": 7554.29,
+        "price": 7631.77,
         "model": "EA815050"
       },
       {
@@ -1554,13 +1344,6 @@
       },
       {
         "store": "amazon",
-        "name": "Krups Cafetera de Filtro Aroma Partner KM761DMX | Dosificación automática, jarra de acero inox para 10 tazas, tecnología hermética",
-        "url": "https://www.amazon.com.mx/dp/B0CJS14V17",
-        "price": 2449.3,
-        "model": "KM761DMX"
-      },
-      {
-        "store": "amazon",
         "name": "Krups Cafetera de Goteo Essential Brewer KM911AU0 | Certificación SCA, tecnología de floración, capacidad 8 tazas, fácil limpieza",
         "url": "https://www.amazon.com.mx/dp/B0DV7CTD6C",
         "price": 2924.35,
@@ -1568,22 +1351,57 @@
       },
       {
         "store": "amazon",
+        "name": "Krups Cafetera de Filtro Aroma Partner KM761DMX | Dosificación automática, jarra de acero inox para 10 tazas, tecnología hermética",
+        "url": "https://www.amazon.com.mx/dp/B0CJS14V17",
+        "price": 2449.3,
+        "model": "KM761DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips Cafetera Superautomática Serie 5500 LatteGo, Molinillo Integrado | Café Caliente y Frío – 20 preajustes con inicio rápido y sistema SilentBrew (EP5544/90)",
+        "url": "https://www.amazon.com.mx/dp/B0G7K6SD4S",
+        "price": 12767.8,
+        "model": "EP5544/90"
+      },
+      {
+        "store": "amazon",
         "name": "Krups Cafetera Superautomática Evidence Hot & Cold EA898GX0 | Tecnología Cold Brew Aroma, 18 recetas calientes y frías, molino de café integrado",
         "url": "https://www.amazon.com.mx/dp/B0GFFD18SY",
         "price": 13299.0,
         "model": "EA898GX0"
+      },
+      {
+        "store": "amazon",
+        "name": "KRUPS Cafetera de Filtro Permanente Simply Brew Family Inoxidable, capacidad para preparar 10 tazas de café, incluye filtro permanente y cuchara dosificadora, 900 W, KM203D50",
+        "url": "https://www.amazon.com.mx/dp/B08PP1H7QK",
+        "price": 1302.98,
+        "model": "KM203D50"
+      },
+      {
+        "store": "amazon",
+        "name": "KRUPS Espressería Manual Divine Acero Inoxidable, boquilla de vapor, con sistema Thermoblock, compacta, moderna y fácil de usar, capacidad de 1 L, disfruta de un delicioso sabor a café, XP444C50",
+        "url": "https://www.amazon.com.mx/dp/B0CJS1LWH9",
+        "price": 2999.5,
+        "model": "XP444C50"
+      },
+      {
+        "store": "amazon",
+        "name": "Krups Cafetera de Filtro Simply Brew Digital KM205D50 | Capacidad 10 tazas, filtro permanente, sistema antigoteo, cuchara dosificadora",
+        "url": "https://www.amazon.com.mx/dp/B099Y93R2Y",
+        "price": 1529.0,
+        "model": "KM205D50"
       }
     ]
   },
   "walmart|KRUPSINOXIDABLEAUTOMATICACAFETERACOFFEE": {
-    "ts": "2026-08-11T19:44:38.564235+00:00",
+    "ts": "2026-08-13T20:09:35.584805+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Molino de Café KITCHEN AID  Onix BCG111OB",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-kitchen-aid-onix-bcg111ob/00088304921635",
-        "price": 951.03,
-        "model": "BCG111OB"
+        "name": "Cafetera Espresso Con Molino Integrado Ola Casa, Espumador De Leche, 15 Bares Y Depósito De 2.3 L",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-con-molino-integrado-ola-casa-espumador-de-leche-15-bares-y-deposito-de-2-3-l/00750064803343",
+        "price": 3949.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -1601,9 +1419,9 @@
       },
       {
         "store": "walmart",
-        "name": "Cafetera Espresso Con Molino Integrado Ola Casa, Espumador De Leche, 15 Bares Y Depósito De 2.3 L",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-con-molino-integrado-ola-casa-espumador-de-leche-15-bares-y-deposito-de-2-3-l/00750064803343",
-        "price": 3949.0,
+        "name": "Cafetera Electrica 15 Bar Expresso Capuchino 1 taza Ola Casa OC-MCPEC",
+        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-15-bar-expresso-capuchino-1-taza-ola-casa-oc-mcpec/00750064801567",
+        "price": 1799.0,
         "model": null
       },
       {
@@ -1622,9 +1440,9 @@
       },
       {
         "store": "walmart",
-        "name": "Cafetera Electrica 15 Bar Expresso Capuchino 1 taza Ola Casa OC-MCPEC",
-        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-15-bar-expresso-capuchino-1-taza-ola-casa-oc-mcpec/00750064801567",
-        "price": 1799.0,
+        "name": "Cafetera Espresso Ola Casa de 4 Tazas con Espumador de Leche, Filtro Permanente y Bandeja Precalentadora",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-ola-casa-de-4-tazas-con-espumador-de-leche-filtro-permanente-y-bandeja-precalentadora/00750064802552",
+        "price": 1079.0,
         "model": null
       },
       {
@@ -1636,20 +1454,6 @@
       },
       {
         "store": "walmart",
-        "name": "Espressería Automática Krups EA81 Arábica, EA8178MX",
-        "url": "https://www.walmart.com.mx/ip/espresseria-automatica-krups-ea81-arabica-ea8178mx/00001094222818?athbdg=L1300",
-        "price": 12749.0,
-        "model": "EA8178MX"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Ola Casa de 4 Tazas con Espumador de Leche, Filtro Permanente y Bandeja Precalentadora",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-ola-casa-de-4-tazas-con-espumador-de-leche-filtro-permanente-y-bandeja-precalentadora/00750064802552",
-        "price": 1079.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Cafetera Espresso Krups Authentic+ Negra con Sistema Thermoblock y Espumador de Leche",
         "url": "https://www.walmart.com.mx/ip/cafetera-espresso-krups-authentic-negra-con-sistema-thermoblock-y-espumador-de-leche/00001094222901",
         "price": 4528.9,
@@ -1657,24 +1461,30 @@
       },
       {
         "store": "walmart",
-        "name": "KRUPS Cafetera de filtro permanente con Molino Krups Aroma Grind and Brew, 14 tazas, Programable, KM",
-        "url": "https://www.walmart.com.mx/ip/krups-cafetera-de-filtro-permanente-con-molino-krups-aroma-grind-and-brew-14-tazas-programable-km/00001094222867",
-        "price": 6505.9,
+        "name": "Cafetera de goteo Krups Simply Brew Km205d50",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-krups-simply-brew-km205d50/00001094222770?athbdg=L1300",
+        "price": 1529.0,
+        "model": "Km205d50"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Espressería Krups EA815050 Negro Krups EA815050",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresseria-krups-ea815050-negro-krups-ea815050/00001094221956",
+        "price": 13660.9,
+        "model": "EA815050"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera KRUPS Simply Brew de Acero Inoxidable para 5 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-krups-simply-brew-de-acero-inoxidable-para-5-tazas/00046347503715?athbdg=L1300",
+        "price": 6229.0,
         "model": null
       }
     ]
   },
   "sams|KRUPSINOXIDABLEAUTOMATICACAFETERACOFFEE": {
-    "ts": "2026-08-11T19:44:44.867618+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2344.71,
-        "model": "KP440EMX"
-      }
-    ]
+    "ts": "2026-08-13T20:09:36.175174+00:00",
+    "items": []
   },
   "amazon|VELOCIBICICLETAINFANTILVELOCIRODADA": {
     "ts": "2026-08-11T21:28:05.694673+00:00",
@@ -4459,253 +4269,21 @@
     "ts": "2026-08-13T03:47:46.168546+00:00",
     "items": []
   },
-  "amazon|HPLAPTOPHYPERXGAMINGNVIDIA": {
-    "ts": "2026-08-11T19:43:25.446576+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming HyperX OMEN 15-ga0007la, Intel Core i5, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 5050 (8GB), 15.3\", 2K (1920x1200), Windows 11 Home, Teclado en Español, Garantía Mexico, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H4J69XZJ",
-        "price": 39999.0,
-        "model": "15-ga0007la"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
-        "price": 23499.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "HP HyperX OMEN Laptop para juegos, visualización WQXGA de 15.3 pulgadas 2.5K 180Hz, AMD Ryzen 7 260, gráficos AMD Radeon 780M, NVIDIA GeForce RTX 5060, 16GB DDR5 RAM, 1TB SSD, Wi-Fi 7, teclado",
-        "url": "https://www.amazon.com.mx/dp/B0H992GJ6X",
-        "price": 35788.76,
-        "model": "180Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming Victus 15-fa2017la, Intel Core i5, 16 GB RAM, 512 GB SSD, 15.6\", FHD, NVIDIA GeForce RTX 5050 (8GB), Windows 11 Home, Teclado en Español, Garantía México, Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FPTCMDN2",
-        "price": 21504.15,
-        "model": "15-fa2017la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Victus Laptop para juegos, Intel i7-13620H, 16 GB DDR5 RAM, 1 TB SSD PCIe, pantalla FHD de 15,6\" (1920x1080) 144Hz, Nvidia G-Force RTX 5060, Teclado numérico retroiluminado, W11 Home, color plata",
-        "url": "https://www.amazon.com.mx/dp/B0FM4GK7NK",
-        "price": 26429.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming OMEN 16-am0015la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5050(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FPSX848X",
-        "price": 27299.0,
-        "model": "16-am0015la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop AI PC Gamer Omen Nvidia GeForce RTX 5060 8GB DLSS Intel Core Ultra 7 255H NPU 16GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 144Hz Teclado Ingles W11H AI Boost Gaming y Creacion de Contenido",
-        "url": "https://www.amazon.com.mx/dp/B0GZ4ZCWYC",
-        "price": 33999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0FH429674",
-        "price": 18499.0,
-        "model": "144Hz/Wi-Fi"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Victus 15.6\" Full HD 144Hz Laptop Gamer Intel Core i5-13420H 8GB RAM NVIDIA GeForce RTX 3050 512GB SSD Azul",
-        "url": "https://www.amazon.com.mx/dp/B0C4YX39T7",
-        "price": 14299.0,
-        "model": "i5-13420H"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gamer Victus NVIDIA GeForce RTX 4050 Intel Core i5 13420H 32GB 760GB SSD 15.6\" Full HD 144Hz W11 Teclado Ingles Mouse DXT Gaming y Edicion de Video",
-        "url": "https://www.amazon.com.mx/dp/B0GCTPL2CR",
-        "price": 20999.0,
-        "model": "13420H"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
-        "price": 32432.67,
-        "model": "16-am0014la"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
-        "price": 26999.0,
-        "model": "144Hz"
-      }
-    ]
-  },
-  "walmart|HPLAPTOPHYPERXGAMINGNVIDIA": {
-    "ts": "2026-08-11T19:43:35.809706+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop HP 14-ep1050la Intel Core Ultra 5 14 nucleos 16GB RAM 512GB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/Laptop-HP-14-ep1050la-Intel-Core-Ultra-5-14-nucleos-16GB-RAM-512GB-SSD-Plata/00019964275514",
-        "price": 14850.0,
-        "model": "14-ep1050la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming HP 15-fa2029la Intel Core i7 10 nucleos 24 GB NVIDIA® GEFORCE RTX ™ 5050 1 TB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gaming-HP-15-fa2029la-Intel-Core-i7-10-nucleos-24-GB-NVIDIA-GEFORCE-RTX-5050-1-TB-SSD-Plata/00019948530470?athbdg=L1300",
-        "price": 24996.0,
-        "model": "15-fa2029la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Omen Nvidia GeForce RTX 5060 8GB DLSS 4 Intel Core i7 14650HX 32GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles W11H League of Legends Gamer Competitivo Streaming en Vivo",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Omen-Nvidia-GeForce-RTX-5060-8GB-DLSS-4-Intel-Core-i7-14650HX-32GB-DDR5-1TB-SSD-Pantalla-16-IPS-FHD-165Hz-Teclado-Ingles-W11H-League-of-Legends-Gamer-Competitivo-Streaming-en-Vivo/00019925175876?athbdg=L1300",
-        "price": 36999.0,
-        "model": "14650HX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 13420H 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Ingles",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-13420H-8GB-RAM-512GB-SSD-15-6-Windows-11-Home-Teclado-en-Ingles/00019899067746?athbdg=L1300",
-        "price": 14829.0,
-        "model": "13420H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 16GB DDR5, 1TB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-AMD-Ryzen-7-7445HS-16GB-DDR5-1TB-SSD-PCIe-Gen4-NVIDIA-GeForce-RTX-3050-6GB-Wi-Fi-6-Windows-11-Home-Teclado-Retroiluminado-Espanol/00046045713565?athbdg=L1300",
-        "price": 23599.0,
-        "model": "7445HS"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus NVIDIA GeForce RTX 3050 Intel Core i5 8GB RAM 512GB SSD Windows 11",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-NVIDIA-GeForce-RTX-3050-Intel-Core-i5-8GB-RAM-512GB-SSD-Windows-11/00019749718313?athbdg=L1300",
-        "price": 15449.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus 15-fa1001a NVIDIA GeForce RTX 4050 Intel Core i5 16GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-15-fa1001a-NVIDIA-GeForce-RTX-4050-Intel-Core-i5-16GB-RAM-512GB-SSD/00019749731274?athbdg=L1300",
-        "price": 19996.0,
-        "model": "15-fa1001a"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Victus Gaming 15-fa0021la,15.6, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050, FHD, Windows 11 Home, Azul metalizado brillante",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Victus-Gaming-15-fa0021la-15-6-Intel-Core-i5-8GB-RAM-512GB-SSD-NVIDIA-GeForce-RTX-3050-FHD-Windows-11-Home-Azul-metalizado-brillante/00019812271824?athbdg=L6000",
-        "price": 19133.0,
-        "model": "15-fa0021la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gaming OMEN 16-am0021la, Intel Core i7, 16 GB RAM, GPU NVIDIA GeForce RTX 5060 , 1 TB SSD, 16\" a 240 Hz, Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gaming-OMEN-16-am0021la-Intel-Core-i7-16-GB-RAM-GPU-NVIDIA-GeForce-RTX-5060-1-TB-SSD-16-a-240-Hz-Windows-11-Home/00019948569008?athbdg=L1300",
-        "price": 39999.0,
-        "model": "16-am0021la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus 15.6\" Full HD; 16GB RAM 1TB SSD; Intel Core i7-13620H; NVIDIA GeForce RTX 5060",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-15-6-Full-HD-16GB-RAM-1TB-SSD-Intel-Core-i7-13620H-NVIDIA-GeForce-RTX-5060/00063791327141?athbdg=L1300",
-        "price": 28699.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 24GB DDR5, 1TB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-AMD-Ryzen-7-7445HS-24GB-DDR5-1TB-SSD-PCIe-Gen4-NVIDIA-GeForce-RTX-3050-6GB-Wi-Fi-6-Windows-11-Home-Teclado-Retroiluminado-Espanol/00046882769006?athbdg=L1300",
-        "price": 24999.0,
-        "model": "7445HS"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer HP Victus , AMD Ryzen 7 7445HS, 8GB DDR5, 512GB SSD PCIe Gen4, NVIDIA GeForce RTX 3050 6GB, Wi-Fi 6, Windows 11 Home, Teclado Retroiluminado Español.",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-HP-Victus-AMD-Ryzen-7-7445HS-8GB-DDR5-512GB-SSD-PCIe-Gen4-NVIDIA-GeForce-RTX-3050-6GB-Wi-Fi-6-Windows-11-Home-Teclado-Retroiluminado-Espanol/00045011595622?athbdg=L1300",
-        "price": 18799.0,
-        "model": "7445HS"
-      }
-    ]
-  },
-  "sams|HPLAPTOPHYPERXGAMINGNVIDIA": {
-    "ts": "2026-08-11T19:43:42.881151+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
-        "price": 21481.98,
-        "model": "15-FB3011LA"
-      },
-      {
-        "store": "sams",
-        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate Xbox Negro 6L366AA",
-        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-xbox-negro-6l366aa/981047114",
-        "price": 612.78,
-        "model": "6L366AA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD 15-fb2002la + Audífonos HyperX Stinger Core 2",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-15-fb2002la-audifonos-hyperx-stinger-core-2/981023807",
-        "price": 12271.91,
-        "model": "15-fb2002la"
-      },
-      {
-        "store": "sams",
-        "name": "Mouse Gaming Inalámbrico HyperX  Pulsefire Haste 2 Mini Black 7D388AA",
-        "url": "https://www.sams.com.mx/ip/mouse-gaming-inalambrico-hyperx-pulsefire-haste-2-mini-black-7d388aa/981047109",
-        "price": 1533.48,
-        "model": "7D388AA"
-      },
-      {
-        "store": "sams",
-        "name": "Control Gaming Alámbrico HyperX  Clutch Gladiate RGB Xbox Claro 7D6H2AA",
-        "url": "https://www.sams.com.mx/ip/control-gaming-alambrico-hyperx-clutch-gladiate-rgb-xbox-claro-7d6h2aa/981047113",
-        "price": 612.78,
-        "model": "7D6H2AA"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
-        "price": 23527.98,
-        "model": "15-fb3021la"
-      }
-    ]
-  },
   "amazon|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-11T19:43:51.648101+00:00",
+    "ts": "2026-08-13T20:08:53.851626+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Apple iPhone 14 Plus 128 GB Blanco Estelar",
         "url": "https://www.amazon.com.mx/dp/B0BDJN394T",
         "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13 Pro (1 TB) - Azul Sierra",
+        "url": "https://www.amazon.com.mx/dp/B09G95TGCS",
+        "price": 16539.12,
         "model": null
       },
       {
@@ -4717,78 +4295,71 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 17e (256 GB) - Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0GQVQWZ4X",
-        "price": 14559.0,
+        "name": "iPhone Air 256 GB: El iPhone más Delgado hasta Ahora,Pantalla de 6.5 Pulgadas con Promotion de hasta 120 Hz, Potente Chip A19 Pro, cámara Frontal Center Stage, Solo eSIM;Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FQFWLX8N",
+        "price": 22499.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
-        "price": 18299.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
-        "price": 5139.26,
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5912.57,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Verde (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNZDM7L",
-        "price": 5229.36,
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8099.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 12 Mini, 128GB, Negro - Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNKN4J7",
-        "price": 4199.0,
+        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
+        "price": 5898.03,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 12 Mini, 128GB, Azul - (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNMBYZ4",
-        "price": 4629.36,
+        "name": "Apple iPhone 13 Mini, 128GB, Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LKW2R37",
+        "price": 5399.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone XR, 128GB, Azul- Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07PBYL71Z",
-        "price": 8051.45,
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5599.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Z Flip8 Rosa 512GB | FlexCam, now brief, photo assist, flex window, batería de 4300 mAh, memoria 12 GB",
-        "url": "https://www.amazon.com.mx/dp/B0H76VVSFG",
-        "price": 30499.0,
-        "model": "Flip8"
+        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
+        "price": 6199.0,
+        "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB, Blanco con FreeBuds Pro 5 Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0H9ZY7ZKJ",
-        "price": 15999.0,
-        "model": "12+256GB"
+        "name": "Apple Iphone 16e, 128GB, Blanco (Reacondicionado Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0H2B6HXXR",
+        "price": 7939.15,
+        "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 13 Pro (1 TB) - Azul Sierra",
-        "url": "https://www.amazon.com.mx/dp/B09G95TGCS",
-        "price": 16539.12,
-        "model": null
+        "name": "Apple iPhone 14 128GB Morado Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLT3B8C",
+        "price": 5969.0,
+        "model": "128GB"
       }
     ]
   },
   "walmart|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-11T19:44:06.683774+00:00",
+    "ts": "2026-08-13T20:09:08.434392+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4813,13 +4384,6 @@
       },
       {
         "store": "walmart",
-        "name": "iPhone 16 Apple 128 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-negro-telcel/00750622735694?athbdg=L6000",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
         "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
         "price": 17499.0,
@@ -4828,100 +4392,15 @@
       {
         "store": "walmart",
         "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L6000",
-        "price": 14997.0,
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
         "model": "128GB"
       }
     ]
   },
   "sams|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-11T19:44:17.323862+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
-        "price": 11762.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
-        "price": 13092.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 14 Apple 128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
-        "price": 11762.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
-        "price": 10227.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
-        "price": 10227.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
-        "price": 13092.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
-        "price": 20458.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
-        "price": 17901.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
-        "price": 20458.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB 5G Blanco Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-blanco-telcel/981028992",
-        "price": 17901.46,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-13T20:09:09.919733+00:00",
+    "items": []
   },
   "amazon|HPGAMINGLAPTOPNVIDIAHYPERX": {
     "ts": "2026-08-11T20:23:24.451587+00:00",
@@ -32783,6 +32262,111 @@
   },
   "sams|STERENPORTATILSTANDARDMONITORSTEREN": {
     "ts": "2026-08-13T19:28:20.385759+00:00",
+    "items": []
+  },
+  "amazon|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-13T20:08:05.438238+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Correa Cruzada – Color Canela ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0FQF34YM8",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "RhinoShield Funda Compatible con [iPhone 17] Modelo NX: Funda modular sin parte trasera, diseño minimalista, anti-choques que supera los estándares militares de protección – Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FJXQVS5L",
+        "price": 584.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone 16 Case Transparente Uso Rudo Acrílico PC, Borde Flexible TPU Cover, Protectora de Cámara Lente Shockproof Rigido Carcasa Bumper DF",
+        "url": "https://www.amazon.com.mx/dp/B0DG337Z1W",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17e – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQW96C4L",
+        "price": 967.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVFHF7H",
+        "price": 1098.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con iPhone 6, 6S Funda, Anillo Metálico Sujeción Soporte Antichoque Rígido Caja (Funciona con el Montaje de Coche Magnético) Doble Capa Sólido Case Carcasa para Apple iPhone 6, iPhone 6S (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B07JJFV4LD",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UGREEN Funda para iPhone 16 MagSafe | Magnético Anti-Amarillo con Protección de la Lente y contra Caídas, Case Antidesgaste, Carcasa 6.1 Pulgadas, Transparente",
+        "url": "https://www.amazon.com.mx/dp/B0D83JY3LF",
+        "price": 269.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Marco de aluminio de metal para iPhone 14, carcasa rígida delgada con marco de metal con parachoques interior suave, protección de borde elevado (rojo, iPhone 14 de 6.1 pulgadas)",
+        "url": "https://www.amazon.com.mx/dp/B0BHZBRZWT",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone XR Protectora Case Uso Rudo, Reforzada en Las Esquinas, Antideslizante, Resistente a caídas, Borde TPU y Panel Trasero PC Gris Esmerilado",
+        "url": "https://www.amazon.com.mx/dp/B0FCYRLG5G",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Lavanda eléctrico ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVC7SNR",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Vainilla ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVDC1V5",
+        "price": 1098.98,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-13T20:08:14.667150+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/Funda-para-telefono-Apple-iPhone-Air-Bumper-Tan/00019595075141?athbdg=L1300",
+        "price": 809.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-13T20:08:20.705002+00:00",
     "items": []
   }
 }
