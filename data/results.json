@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13 12:29 UTC",
-  "products_scanned": 1533,
+  "generated_at": "2026-08-13 14:13 UTC",
+  "products_scanned": 1615,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -65,6 +65,27 @@
       "extra": {
         "productId": "1200279162",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
+        "outlet": false
       }
     },
     {
@@ -174,44 +195,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
       "ean": null,
       "model": null,
-      "brand": "Smeg",
+      "brand": "FLAVORSTONE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000830",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000829",
-        "outlet": false
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
@@ -297,6 +297,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2529.77,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
+      "price": 7149.35,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45421529",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -361,6 +382,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
+      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3761.78,
+      "store": "palacio",
+      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
+      "price": 11627.32,
+      "list_price": 17099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
       "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 11021.78,
@@ -376,6 +418,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 804.77,
+      "store": "palacio",
+      "name": "Smartwach Kids 4 Pro Nina",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
+      "price": 2519.28,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44123334",
         "outlet": false
       }
     },
@@ -465,6 +528,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 22.0,
+      "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4949.78,
+      "store": "palacio",
+      "name": "Laptop IdeaPad Slim 3, 15.6\", AMD Radeon, AMD Ryzen 7, RAM 16 GB, SSD 1 TB, Abyss Blue",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html",
+      "price": 17549.22,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44472014",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -528,6 +612,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 900.0,
+      "store": "palacio",
+      "name": "Licuadora Osterizer MAX, 2 Velocidades, Gris",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html",
+      "price": 3499.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -550,6 +655,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -565,48 +691,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$33,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8399.86,
-      "store": "palacio",
-      "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html",
-      "price": 33599.44,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": "85QM7L",
-      "brand": "Tcl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45368711",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
         "outlet": false
       }
     },
