@@ -2719,18 +2719,6 @@
     "ts": "2026-08-12T15:34:51.467043+00:00",
     "items": []
   },
-  "amazon|APPLETELCELIPHONE128": {
-    "ts": "2026-08-11T08:04:38.092308+00:00",
-    "items": []
-  },
-  "walmart|APPLETELCELIPHONE128": {
-    "ts": "2026-08-11T08:04:39.889253+00:00",
-    "items": []
-  },
-  "sams|APPLETELCELIPHONE128": {
-    "ts": "2026-08-11T08:04:41.822860+00:00",
-    "items": []
-  },
   "amazon|APPLEIPHONETELCEL128": {
     "ts": "2026-08-11T09:15:54.846984+00:00",
     "items": []
@@ -4722,30 +4710,6 @@
   },
   "mercadolibre|100QNED85BS": {
     "ts": "2026-08-13T03:47:46.168546+00:00",
-    "items": []
-  },
-  "amazon|85QNED81BSG": {
-    "ts": "2026-08-11T08:04:24.555244+00:00",
-    "items": []
-  },
-  "walmart|85QNED81BSG": {
-    "ts": "2026-08-11T08:04:30.718315+00:00",
-    "items": []
-  },
-  "sams|85QNED81BSG": {
-    "ts": "2026-08-11T08:04:32.420094+00:00",
-    "items": []
-  },
-  "amazon|RMB520IWMRP1": {
-    "ts": "2026-08-11T08:04:33.667340+00:00",
-    "items": []
-  },
-  "walmart|RMB520IWMRP1": {
-    "ts": "2026-08-11T08:04:35.171315+00:00",
-    "items": []
-  },
-  "sams|RMB520IWMRP1": {
-    "ts": "2026-08-11T08:04:36.735157+00:00",
     "items": []
   },
   "amazon|FLAVORSTONEFLAVORSTONEVELOCIDADESLICUADORASAPPHIRE": {
@@ -30801,6 +30765,216 @@
   },
   "sams|FA607NUQRL038W": {
     "ts": "2026-08-13T07:58:38.690031+00:00",
+    "items": []
+  },
+  "amazon|AH121CK": {
+    "ts": "2026-08-13T09:04:15.888119+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense Aire Acondicionado split AH121CK, capacidad de enfriamiento 12000 Btu, 1 toneladas115V, 1440W, Fácil de limpiar,Modo Inteligente, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DP5Z3432",
+        "price": 6098.0,
+        "model": "toneladas115V"
+      }
+    ]
+  },
+  "walmart|AH121CK": {
+    "ts": "2026-08-13T09:04:36.444483+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Minisplit Hisense 1 Tonelada 115 V Frío y Calor AH121CK",
+        "url": "https://www.walmart.com.mx/ip/minisplit-hisense-1-tonelada-115-v-frio-y-calor-ah121ck/00692659776135?athbdg=L1300",
+        "price": 6490.0,
+        "model": "AH121CK"
+      }
+    ]
+  },
+  "sams|AH121CK": {
+    "ts": "2026-08-13T09:04:40.344344+00:00",
+    "items": []
+  },
+  "amazon|ASUSGEFORCELAPTOPGAMINGNVIDIA": {
+    "ts": "2026-08-13T09:05:09.413218+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
+        "price": 22999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
+        "price": 14997.0,
+        "model": "13TOPS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop LOQ 15IAX9E | NVIDIA GeForce RTX 3050 6 GB | 15.6\" FHD | Intel Core i5 | 16GB RAM 512GB SSD | Impulsado por IA | Windows 11",
+        "url": "https://www.amazon.com.mx/dp/B0F1WWLZBK",
+        "price": 16317.97,
+        "model": "15IAX9E"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
+        "price": 32430.94,
+        "model": "16-am0014la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FH429674",
+        "price": 18499.0,
+        "model": "144Hz/Wi-Fi"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 23499.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
+        "price": 26999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
+        "price": 24424.89,
+        "model": "13450HX"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16 Laptop IA Gamer Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU Rendimiento Total 38 Tops 32GB 1TB Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles Copilot Gaming Proxima Generacion",
+        "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
+        "price": 38899.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
+        "price": 22999.0,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|ASUSGEFORCELAPTOPGAMINGNVIDIA": {
+    "ts": "2026-08-13T09:05:23.748100+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
+        "price": 38999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
+        "price": 44999.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-v16-ultra-7-240h-memoria-de-32gb-ddr5-ssd-de-1tb-pantalla-de-16-led-wuxga-1920-x-1200-video-nvidia-geforce-rtx-5060-s-o-windows-11-home-/00019710590587?athbdg=L1300",
+        "price": 29229.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ROG Strix G16 GeForce RTX 5070 Ryzen 9 8940HX 16GB DDR5 SSD 1TB 16\" Teclado Ingles Gaming Competitivo",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-strix-g16-geforce-rtx-5070-ryzen-9-8940hx-16gb-ddr5-ssd-1tb-16-teclado-ingles-gaming-competitivo/00019929113346?athbdg=L1300",
+        "price": 41899.0,
+        "model": "8940HX"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a18-pulgadas-gaming-laptop-amd-ryzen-7-260-beat-i9-13905h-nvidia-rtx-5060-pantalla-wuxga-de-18-32gb-de-ram-1tb-ssd-teclado-retroiluminado-rgb-camara-fhd-laptop-para-gamer/00019710542309",
+        "price": 47340.7,
+        "model": "i9-13905H"
+      }
+    ]
+  },
+  "sams|ASUSGEFORCELAPTOPGAMINGNVIDIA": {
+    "ts": "2026-08-13T09:05:25.494280+00:00",
     "items": []
   }
 }
