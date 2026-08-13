@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (748)
+# Historial de ofertas encontradas (749)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-13 23:05 | -20% | amazon | [Piezas de repuesto originales OEM compatibles con licua…](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $541 | $541 en amazon vs amazon $676, amazon $1,620, amazon $2,033 -> -20% bajo la competencia |
 | 2026-08-13 16:14 | -21% | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | $1,146 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-13 16:14 | -21% | sams | [Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Sec…](https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322) | $11,937 | $11,937 en sams vs mercado -> -21% bajo la competencia |
 | 2026-08-13 16:14 | -22% | sams | [Combo Lavadora y Secadora Whirlpool  Carga Frontal Lava…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871) | $28,131 | $28,131 en sams vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 18:57 | -25% | palacio | [Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verd…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-16 12:55 | -26% | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | $147 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-16 09:32 | -35% | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | $292 en palacio vs mercado -> -35% bajo la competencia |
