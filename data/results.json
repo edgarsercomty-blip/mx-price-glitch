@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13 18:08 UTC",
-  "products_scanned": 1620,
+  "generated_at": "2026-08-13 19:29 UTC",
+  "products_scanned": 1576,
   "threshold_pct": 20.0,
   "count": 34,
   "findings": [
@@ -318,22 +318,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs walmart $4,199, walmart $4,219 -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2499.75,
+      "savings": 898.0,
       "store": "palacio",
-      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
-      "price": 7499.25,
-      "list_price": 9999.0,
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
       "ean": null,
       "model": null,
-      "brand": "Krups",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45641563",
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -360,22 +360,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$7,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 898.0,
+      "savings": 2499.75,
       "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
+      "name": "Cafetera automática Coffee Crush Negra, acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html",
+      "price": 7499.25,
+      "list_price": 9999.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "Krups",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43294637",
+        "id": "45641563",
         "outlet": false
       }
     },
@@ -655,6 +655,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -670,27 +691,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
         "outlet": false
       }
     },
