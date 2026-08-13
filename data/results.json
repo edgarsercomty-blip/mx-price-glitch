@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12 23:59 UTC",
-  "products_scanned": 1580,
+  "generated_at": "2026-08-13 02:06 UTC",
+  "products_scanned": 1576,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -107,6 +107,26 @@
       "extra": {
         "productId": "1172657709",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 16.1,
+      "detail": "$4,699 en walmart vs palacio $7,149 -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2450.35,
+      "store": "walmart",
+      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "price": 4699.0,
+      "list_price": 5599.0,
+      "ean": null,
+      "model": "256Gb+8Gb",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00084002328756"
       }
     },
     {
@@ -252,27 +272,6 @@
       "available": true,
       "currency": "MXN",
       "extra": {}
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2529.77,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 7149.35,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
-        "outlet": false
-      }
     },
     {
       "kind": "cross_confirmed",
@@ -503,27 +502,6 @@
       "extra": {
         "id": "44472014",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$11,999 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3299.84,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876",
-      "price": 11999.4,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": "Vx182H4",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1149564876",
-        "marketplace": null
       }
     },
     {

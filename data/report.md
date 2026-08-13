@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-12 23:59 UTC
+# Errores/chollos de precio — 2026-08-13 02:06 UTC
 
-- Productos revisados: **1580**
+- Productos revisados: **1576**
 - Umbral de diferencia: **20%**
-- Hallazgos: **33**
+- Hallazgos: **32**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -16,10 +16,9 @@
 | -25% | $4,498 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $13,492 | Confirmado vs competencia | $13,492 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
-| -22% | $3,300 | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $11,999 | Confirmado vs competencia | $11,999 en liverpool vs mercado -> -22% bajo la competencia |
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |
-| -26% | $2,530 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | Confirmado vs competencia | $7,149 en palacio vs mercado -> -26% bajo la competencia |
 | -25% | $2,500 | palacio | [Cafetera automática Coffee Crush Negra, acero inoxidable](https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html) | $7,499 | Confirmado vs competencia | $7,499 en palacio vs mercado -> -25% bajo la competencia |
+| -34% | $2,450 | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | Confirmado vs competencia | $4,699 en walmart vs palacio $7,149 -> -34% bajo la competencia |
 | -40% | $2,200 | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | Confirmado vs competencia | $3,299 en palacio vs mercado -> -40% bajo la competencia |
 | -21% | $2,090 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,809 | Confirmado vs competencia | $7,809 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
