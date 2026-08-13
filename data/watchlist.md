@@ -1,4 +1,4 @@
-# Productos en vigilancia (632)
+# Productos en vigilancia (633)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -636,3 +636,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Nintendo Switch + Super Mario Bros Wonder + 3 meses gratis d…](https://www.amazon.com.mx/dp/B0FM1RC8RR) | $4,899 | -22% |
 | 🟢 disponible | amazon | [Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Multicolo…](https://www.amazon.com.mx/dp/B0BVRBNZZ2) | $227 | -21% |
 | 🟢 disponible | walmart | [TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM…](https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300) | $5,990 | -20% |
+| 🟢 disponible | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | -40% |

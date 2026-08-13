@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (738)
+# Historial de ofertas encontradas (739)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-13 04:21 | -40% | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | $4,799 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-08-13 04:02 | -22% | sams | [Refrigerador Whirlpool 25 Pies Cúbicos Duplex WD5600S](https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529) | $18,587 | $18,587 en sams vs walmart $24,499 -> -22% bajo la competencia |
 | 2026-08-13 04:02 | -24% | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido Qu…](https://www.amazon.com.mx/dp/B0D4Z9HG1X) | $5,249 | $5,249 en amazon vs mercado -> -24% bajo la competencia |
 | 2026-08-13 04:02 | -26% | amazon | [Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24…](https://www.amazon.com.mx/dp/B0H2X99YX1) | $19,999 | $19,999 en amazon vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 01:47 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756771) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-15 23:52 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978226057) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-15 23:52 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/99978289038) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |
-| 2026-07-15 23:52 | -25% | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132844999) | $376 | $376 en liverpool vs mercado -> -25% bajo la competencia |

@@ -29808,5 +29808,187 @@
   "sams|SAMSUNGGALAXYBUDSCORE": {
     "ts": "2026-08-13T04:02:04.042262+00:00",
     "items": []
+  },
+  "amazon|MOTOROLAMOTOROLAEXTREMEAMOLEDTELCEL": {
+    "ts": "2026-08-13T04:21:33.631527+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Cafe (4GB RAM/256GB), Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FWF1MRWR",
+        "price": 2099.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G67 4+256GB Pantone Nile (Lima)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6FGRH3",
+        "price": 4249.0,
+        "model": "4+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
+        "price": 4699.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone G17 4/256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GLQSFS2K",
+        "price": 3699.0,
+        "model": "4/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone G17 4/256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GLQT3C2M",
+        "price": 3499.0,
+        "model": "4/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Turquesa, Compatible con Todas Las Redes",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWP4YC",
+        "price": 5159.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone Edge 70 Verde Olivo | Ultrarresistente",
+        "url": "https://www.amazon.com.mx/dp/B0G4NGTFXK",
+        "price": 8799.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G56 8/256GB, Negro, Desbloqueado, Garantia",
+        "url": "https://www.amazon.com.mx/dp/B0F8R5K5SZ",
+        "price": 4909.0,
+        "model": "8/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G55 Verde (8GB RAM/256GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DR48Q2BM",
+        "price": 3729.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G77 8+256GB Esmeralda",
+        "url": "https://www.amazon.com.mx/dp/B0GTRYQKGN",
+        "price": 6680.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G35 Gris (4GB RAM/128GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DM6PTJP3",
+        "price": 2622.0,
+        "model": "RAM/128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 50 Neo Naranja (8GB RAM/256GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DDNPYFQ3",
+        "price": 5029.0,
+        "model": "RAM/256GB"
+      }
+    ]
+  },
+  "walmart|MOTOROLAMOTOROLAEXTREMEAMOLEDTELCEL": {
+    "ts": "2026-08-13T04:21:37.530342+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G15 256GB Gris Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g15-256gb-gris-telcel/00750622735755?athbdg=L1300",
+        "price": 3399.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G77 256GB Cafe Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g77-256gb-cafe-telcel/00750622736273?athbdg=L1300",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G77 256GB Esmeralda Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g77-256gb-esmeralda-telcel/00750622736274?athbdg=L1300",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G G55 5G 256 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g-g55-5g-256-gb-negro-telcel/00750622735624",
+        "price": 4299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 256GB Rosa Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g17-256gb-rosa-telcel/00750622736271?athbdg=L1300",
+        "price": 4699.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G51 128 GB Azul Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g51-128-gb-azul-telcel/00750622734308",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 256GB Arándano Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g17-256gb-arandano-telcel/00750622736270",
+        "price": 3349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola G51 4/128gb Dorado Telcel (5g)",
+        "url": "https://www.walmart.com.mx/ip/motorola-g51-4-128gb-dorado-telcel-5g-/00750622734309",
+        "price": 2499.0,
+        "model": "4/128gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G G55 5G 256 GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g-g55-5g-256-gb-verde-telcel/00750622735625",
+        "price": 4299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Moto G06 64gb Azul Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-moto-g06-64gb-azul-telcel/00750622736027?athbdg=L1510",
+        "price": 2249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G06 Naranja 4GB, 128GB Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-g06-naranja-4gb-128gb-dual-sim-desbloqueado/00084049360232",
+        "price": 2800.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Moto G06 128GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-moto-g06-128gb-verde-telcel/00750622736029?athbdg=L6000",
+        "price": 2999.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|MOTOROLAMOTOROLAEXTREMEAMOLEDTELCEL": {
+    "ts": "2026-08-13T04:21:38.244064+00:00",
+    "items": []
   }
 }
