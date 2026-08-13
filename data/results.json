@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13 15:19 UTC",
-  "products_scanned": 1578,
+  "generated_at": "2026-08-13 16:14 UTC",
+  "products_scanned": 2887,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 61,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1200279162",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$11,242 en liverpool vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9258.42,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643",
+      "price": 11241.58,
+      "list_price": 22942.0,
+      "ean": null,
+      "model": "F6800H",
+      "brand": "FRIKKO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "57683643",
         "marketplace": null
       }
     },
@@ -111,6 +132,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 39.5,
+      "detail": "$12,991 en sams vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8490.88,
+      "store": "sams",
+      "name": "Refrigerador Midea  20 Pies Cúbicos Side By Side Plus Inverter Bru Steel MDRS710FGM46",
+      "url": "https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735",
+      "price": 12991.08,
+      "list_price": 21481.96,
+      "ean": null,
+      "model": "MDRS710FGM46",
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981036735"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 39.2,
+      "detail": "$13,999 en sams vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9017.46,
+      "store": "sams",
+      "name": "Refrigerador Midea  French Door 19 Pies Cúbicos MDRF700FGM45",
+      "url": "https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254",
+      "price": 13999.0,
+      "list_price": 23016.46,
+      "ean": null,
+      "model": "MDRF700FGM45",
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981052254"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
       "likely_typo": false,
@@ -170,6 +231,127 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$4,499 en mercadolibre vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2395.0,
+      "store": "mercadolibre",
+      "name": "Pantalla Smart Tv Roku 43 PuLG. Jvc",
+      "url": "https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473",
+      "price": 4499.0,
+      "list_price": 4499.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM20656473"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.0,
+      "detail": "$1,990 en walmart vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1000.0,
+      "store": "walmart",
+      "name": "TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C",
+      "url": "https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510",
+      "price": 1990.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": "32PFL6654/F8C",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00005381854165"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.9,
+      "detail": "$716 en amazon vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 340.84,
+      "store": "amazon",
+      "name": "Calvin Klein Carlla Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0BTTQVSM6",
+      "price": 716.35,
+      "list_price": 1553.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BTTQVSM6"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.8,
+      "detail": "$23,998 en sams vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11193.19,
+      "store": "sams",
+      "name": "Refrigerador General Electric  French Door 25 Pies Cúbicos PFF25LERCDS Black Slate",
+      "url": "https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731",
+      "price": 23998.0,
+      "list_price": 35191.19,
+      "ean": null,
+      "model": "PFF25LERCDS",
+      "brand": "General Electric",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981029731"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 24.0,
+      "detail": "$604 en amazon vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 266.19,
+      "store": "amazon",
+      "name": "Nautica - Tenis deportivos de moda para mujer, con cordones, para correr, casual, con amortiguación máxima",
+      "url": "https://www.amazon.com.mx/dp/B0DBWJ6LXF",
+      "price": 604.29,
+      "list_price": 794.74,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DBWJ6LXF"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.4,
+      "detail": "$799 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 349.0,
+      "store": "liverpool",
+      "name": "Licuadora Flavorstone Sapphire 4 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252",
+      "price": 799.0,
+      "list_price": 1199.0,
+      "ean": null,
+      "model": null,
+      "brand": "FLAVORSTONE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178603252",
+        "marketplace": null
       }
     },
     {
@@ -237,6 +419,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,507 en mercadolibre vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 983.0,
+      "store": "mercadolibre",
+      "name": "Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Televisión 32\" Bluetooth Hdmi Wi-fi Negro Con Dolby Audio",
+      "url": "https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159",
+      "price": 2507.0,
+      "list_price": 2507.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM27346159"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.4,
+      "detail": "$2,049 en walmart vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 800.0,
+      "store": "walmart",
+      "name": "Refrigerador Portátil Sunnimix 12V con Congelador",
+      "url": "https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300",
+      "price": 2049.0,
+      "list_price": 2057.18,
+      "ean": null,
+      "model": null,
+      "brand": "Sm Sunnimix",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075535817203"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia",
       "likely_typo": false,
@@ -276,23 +498,62 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 21.6,
+      "detail": "$4,468 en mercadolibre vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
+      "savings": 1581.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Semiautomática Acros de 22 kg con Tina de Acero Porcelanizado Blanca",
+      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-acros-de-22-kg-con-tina-de-acero-porcelanizado-blanca/p/MLM15810415",
+      "price": 4468.0,
+      "list_price": 5699.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": null,
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43294637",
-        "outlet": false
+        "mlm": "MLM15810415"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.0,
+      "detail": "$22,699 en sams vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7989.96,
+      "store": "sams",
+      "name": "Mini Proyector Hisense  Láser C2",
+      "url": "https://www.sams.com.mx/ip/mini-proyector-hisense-laser-c2/981033488",
+      "price": 22699.0,
+      "list_price": 30688.96,
+      "ean": null,
+      "model": null,
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981033488"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$19,999 en amazon vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6956.0,
+      "store": "amazon",
+      "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+      "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+      "price": 19999.0,
+      "list_price": 2029.89,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H2X99YX1"
       }
     },
     {
@@ -335,6 +596,47 @@
       "extra": {
         "id": "41273412",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$5,249 en amazon vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1749.98,
+      "store": "amazon",
+      "name": "Bose Audífonos inalámbricos con cancelación de Ruido QuietComfort, audífonos externos Bluetooth con hasta 24 Horas de duración de la batería, Azul Atardecer",
+      "url": "https://www.amazon.com.mx/dp/B0D4Z9BZV2",
+      "price": 5249.0,
+      "list_price": 6999.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0D4Z9BZV2"
       }
     },
     {
@@ -423,6 +725,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.1,
+      "detail": "$2,000 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 600.0,
+      "store": "amazon",
+      "name": "Baseus Inspire XC1 Audífonos Inalámbricos Open Ear, Sound by Bose | Dolby Audio, Hi-Res Wireless, LDAC, Driver Híbrido de 2 Vías, 4 Micrófonos, IP66, Hasta 40 Horas de Batería",
+      "url": "https://www.amazon.com.mx/dp/B0H153K79Y",
+      "price": 1999.99,
+      "list_price": 2599.99,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H153K79Y"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -465,6 +787,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.3,
+      "detail": "$750 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 220.73,
+      "store": "amazon",
+      "name": "Guess Loven Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B09NLBWH3K",
+      "price": 749.72,
+      "list_price": 1299.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B09NLBWH3K"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.7,
+      "detail": "$18,587 en sams vs walmart $24,499 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5350.29,
+      "store": "sams",
+      "name": "Refrigerador Whirlpool 25 Pies Cúbicos Duplex WD5600S",
+      "url": "https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529",
+      "price": 18586.89,
+      "list_price": 27210.77,
+      "ean": null,
+      "model": "WD5600S",
+      "brand": "Whirlpool",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "980042529"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$2,520 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -482,6 +844,26 @@
       "extra": {
         "id": "45130972",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$28,131 en sams vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7979.4,
+      "store": "sams",
+      "name": "Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21 kg/Secado 23 kg CWD_7MWFW5605MC",
+      "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871",
+      "price": 28131.48,
+      "list_price": 40918.97,
+      "ean": null,
+      "model": null,
+      "brand": "Whirlpool",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981036871"
       }
     },
     {
@@ -507,6 +889,66 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 21.9,
+      "detail": "$468 en amazon vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 130.95,
+      "store": "amazon",
+      "name": "Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstalados, HDMI Plug & Play 4K para TV, 2 Controles/Mandos Inalámbricos, Multijugador, Consola de Videojuegos Familiar, Juegos 3D, Regalo Ideal",
+      "url": "https://www.amazon.com.mx/dp/B0FVTZ67ZF",
+      "price": 468.05,
+      "list_price": 599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0FVTZ67ZF"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$32,734 en sams vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9201.37,
+      "store": "sams",
+      "name": "Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15 kg Secado con AI WD26DB8995BZAX",
+      "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524",
+      "price": 32733.95,
+      "list_price": 49102.96,
+      "ean": null,
+      "model": "WD26DB8995BZAX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981024524"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$3,899 en mercadolibre vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1091.0,
+      "store": "mercadolibre",
+      "name": "Hisense Lavadora Semiautomática Doble Tina Wsa1104p | Capacidad De Lavado 11 Kg Centrifugado 5.5 Kg | Motores Independientes | Cubierta Antioxidante De Plástico | 3 Perillas De Control",
+      "url": "https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070",
+      "price": 3899.0,
+      "list_price": null,
+      "ean": null,
+      "model": "Wsa1104p",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM67475070"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -528,6 +970,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 27.8,
+      "detail": "$4,289 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1155.0,
+      "store": "amazon",
+      "name": "Bose Auriculares Ultra Abiertos con Audio inmersivo, Auriculares inalámbricos con Clip para Mayor Comodidad, OpenAudio para Conciencia, hasta 48 Horas de duración de la batería, Negro",
+      "url": "https://www.amazon.com.mx/dp/B0CPFV77W4",
+      "price": 4289.0,
+      "list_price": 5939.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CPFV77W4"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.2,
+      "detail": "$11,937 en sams vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3201.99,
+      "store": "sams",
+      "name": "Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Secado CHAC2186NXGG0",
+      "url": "https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322",
+      "price": 11937.39,
+      "list_price": 18412.96,
+      "ean": null,
+      "model": "CHAC2186NXGG0",
+      "brand": "Haier",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981040322"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 29.0,
       "detail": "$7,809 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -545,6 +1027,66 @@
       "extra": {
         "id": "45345508",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.7,
+      "detail": "$1,146 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 306.16,
+      "store": "amazon",
+      "name": "Skechers MAX Cushion Endeavour Canova para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CZ91W3MX",
+      "price": 1145.87,
+      "list_price": 1809.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CZ91W3MX"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.6,
+      "detail": "$7,667 en sams vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1994.85,
+      "store": "sams",
+      "name": "Pantalla Samsung  58\" UHD 4K Smart TV UN58U8200FFXZX",
+      "url": "https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374",
+      "price": 7667.39,
+      "list_price": 10740.46,
+      "ean": null,
+      "model": "UN58U8200FFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981034374"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1300.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
+      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
+      "price": 4999.0,
+      "list_price": null,
+      "ean": null,
+      "model": "Lrk-2311a",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM46517919"
       }
     },
     {
@@ -591,6 +1133,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$5,490 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1400.0,
+      "store": "walmart",
+      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
+      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165",
+      "price": 5490.0,
+      "list_price": 9799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750940184165"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$5,990 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1509.25,
+      "store": "walmart",
+      "name": "TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM5K",
+      "url": "https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300",
+      "price": 5990.0,
+      "list_price": 12599.0,
+      "ean": null,
+      "model": "55QM5K",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00084046404537"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -608,27 +1190,6 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
-        "outlet": false
       }
     },
     {
@@ -671,6 +1232,26 @@
       "extra": {
         "id": "43135869",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$1,199 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 300.0,
+      "store": "amazon",
+      "name": "Star Fox Switch 2",
+      "url": "https://www.amazon.com.mx/dp/B0H133MSYK",
+      "price": 1199.0,
+      "list_price": 1499.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H133MSYK"
       }
     }
   ]

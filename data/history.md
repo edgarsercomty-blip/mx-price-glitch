@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (742)
+# Historial de ofertas encontradas (748)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-13 16:14 | -21% | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | $1,146 en amazon vs mercado -> -21% bajo la competencia |
+| 2026-08-13 16:14 | -21% | sams | [Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Sec…](https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322) | $11,937 | $11,937 en sams vs mercado -> -21% bajo la competencia |
+| 2026-08-13 16:14 | -22% | sams | [Combo Lavadora y Secadora Whirlpool  Carga Frontal Lava…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871) | $28,131 | $28,131 en sams vs mercado -> -22% bajo la competencia |
+| 2026-08-13 16:14 | -26% | sams | [Mini Proyector Hisense  Láser C2](https://www.sams.com.mx/ip/mini-proyector-hisense-laser-c2/981033488) | $22,699 | $22,699 en sams vs mercado -> -26% bajo la competencia |
+| 2026-08-13 16:14 | -32% | amazon | [Calvin Klein Carlla Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $716 | $716 en amazon vs mercado -> -32% bajo la competencia |
+| 2026-08-13 16:14 | -45% | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F6800H 10…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643) | $11,242 | $11,242 en liverpool vs mercado -> -45% bajo la competencia |
 | 2026-08-13 07:58 | -35% | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16…](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | $21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia |
 | 2026-08-13 07:58 | -36% | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  A…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | $23,487 en palacio vs mercado -> -36% bajo la competencia |
 | 2026-08-13 07:58 | -38% | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Ser…](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | $10,999 en amazon vs palacio $17,791 -> -38% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 12:55 | -26% | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | $147 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-16 09:32 | -35% | palacio | [Funda para Celular Galaxy A36, Verde Claro](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a36-verde-claro-44563904.html) | $292 | $292 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-16 09:32 | -36% | palacio | [Funda para Celular Galaxy A56 Transparente](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-a56-transparente-44563913.html) | $191 | $191 en palacio vs mercado -> -36% bajo la competencia |
-| 2026-07-16 07:17 | -22% | liverpool | [Motorola Moto G15 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g15-lcd-6-7-pulgadas-telcel/1173028393) | $2,339 | $2,339 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-07-16 07:17 | -39% | liverpool | [Laptop Hp 14 Procesador Intel N150 Natural Silver 14 Dq…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-procesador-intel-n150-natural-silver-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $4,369 | $4,369 en liverpool vs mercado -> -39% bajo la competencia |
-| 2026-07-16 07:17 | -62% | liverpool | [Cafetera Espresso Smeg 50 S Style Ecf02](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-smeg-50-s-style-ecf02/1163021863) | $6,599 | $6,599 en liverpool vs mercado -> -62% bajo la competencia |
-| 2026-07-16 03:58 | -21% | liverpool | [Cubot Cubot Kingkong Es Lcd 6 5 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-cubot-kingkong-es-lcd-6-5-pulgadas/1170123197) | $2,879 | $2,879 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-16 01:47 | -20% | liverpool | [Cubot Kingkong 11 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/cubot-kingkong-11-lcd-6-7-pulgadas/1189562892) | $5,819 | $5,819 en liverpool vs mercado -> -20% bajo la competencia |
