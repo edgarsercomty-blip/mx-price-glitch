@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13 11:23 UTC",
-  "products_scanned": 1566,
+  "generated_at": "2026-08-13 12:29 UTC",
+  "products_scanned": 1533,
   "threshold_pct": 20.0,
   "count": 30,
   "findings": [
@@ -180,7 +180,7 @@
       "savings": 2780.0,
       "store": "palacio",
       "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
       "price": 5560.0,
       "list_price": 13900.0,
       "ean": null,
@@ -189,7 +189,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000829",
+        "id": "45000830",
         "outlet": false
       }
     },
@@ -201,7 +201,7 @@
       "savings": 2780.0,
       "store": "palacio",
       "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html",
       "price": 5560.0,
       "list_price": 13900.0,
       "ean": null,
@@ -210,7 +210,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000830",
+        "id": "45000829",
         "outlet": false
       }
     },
@@ -232,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.0,
-      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9569.71,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
-      "price": 23429.29,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44444419",
         "outlet": false
       }
     },
@@ -339,27 +318,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$13,492 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -376,6 +334,27 @@
       "currency": "MXN",
       "extra": {
         "id": "41273412",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -586,6 +565,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$33,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8399.86,
+      "store": "palacio",
+      "name": "Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html",
+      "price": 33599.44,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": "85QM7L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45368711",
         "outlet": false
       }
     },
