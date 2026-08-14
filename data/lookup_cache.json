@@ -3416,49 +3416,14 @@
     "items": []
   },
   "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-11T23:20:59.191716+00:00",
+    "ts": "2026-08-14T00:01:11.896848+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "KAIGERR 16\" Laptop Gamer RX16, Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD, WiFi 6, USB-C, Teclado en Español, Carcasa de Metal, Win 11 Pro, Garantía 2 años",
-        "url": "https://www.amazon.com.mx/dp/B0H7RDDRGF",
-        "price": 15999.99,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Gamer 16\" 16:10,Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD Extensiones 4TB, WiFi 6, USB-C, Teclado Español Retroiluminado, Carcasa de Metal,Win11Pro Laptop",
-        "url": "https://www.amazon.com.mx/dp/B0GFWL358B",
-        "price": 12860.52,
-        "model": "Win11Pro"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 24 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHW4H6B",
-        "price": 50039.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KAIGERR 16\" Laptop Gamer TX16PRO, AMD Ryzen 7 7730U (8 Núcleos/16 Hilos, 4.5GHz), 16GB RAM 512GB SSD, Win 11 Pro, Teclado Español, Radeon RX Vega 8, WiFi 6, Caja Metálica",
-        "url": "https://www.amazon.com.mx/dp/B0FX83P7F6",
-        "price": 11399.98,
-        "model": "TX16PRO"
-      },
       {
         "store": "amazon",
         "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
         "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
-        "price": 14389.0,
+        "price": 14399.0,
         "model": "7735HS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
-        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
-        "price": 7999.0,
-        "model": "i7-1255U"
       },
       {
         "store": "amazon",
@@ -3469,9 +3434,16 @@
       },
       {
         "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
+        "price": 7999.0,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
         "name": "Lenovo IdeaPad Slim 3 15.6\" FHD Touch Laptop, AMD Ryzen 5 7520U, 8GB DDR5 RAM, 512 SSD, Windows 11 Home, AMD Radeon 610M, Copilot AI, Artic Grey, 82XQ00RSUS",
         "url": "https://www.amazon.com.mx/dp/B0GC538VWR",
-        "price": 16029.08,
+        "price": 15902.42,
         "model": "82XQ00RSUS"
       },
       {
@@ -3483,13 +3455,6 @@
       },
       {
         "store": "amazon",
-        "name": "Laptop Lenovo 82VG00WXUS 15.6\" Ryzen 5 8GB 256GB Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GGDKX67X",
-        "price": 7989.45,
-        "model": "82VG00WXUS"
-      },
-      {
-        "store": "amazon",
         "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
         "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
         "price": 12979.0,
@@ -3497,22 +3462,57 @@
       },
       {
         "store": "amazon",
+        "name": "Lenovo IdeaPad - Ordenador portátil de 15,6 pulgadas, FHD (1920 x 1080) TN 220 nits, AMD Ryzen 5 7520U, 8 GB de RAM LPDDR5, 512 GB SSD, tarjeta gráfica AMD Radeon 610M, Windows 11 Home, azul abismo",
+        "url": "https://www.amazon.com.mx/dp/B0G64BM7Z3",
+        "price": 9501.11,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
         "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
         "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
         "price": 8799.0,
         "model": "i7-1165G7"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M | Gris | Retroiluminado | 8GB RAM DDR5 | 512GB SSD | Windows 11 Home | Paquete con lápiz táctil",
+        "url": "https://www.amazon.com.mx/dp/B0G8YR6FJ9",
+        "price": 14643.13,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
+        "price": 8402.16,
+        "model": "82KT-Renovado"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
+        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
+        "price": 13500.0,
+        "model": "300nits"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 Windows 11 - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
+        "price": 8539.0,
+        "model": "256gb"
       }
     ]
   },
   "walmart|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-11T23:21:09.045849+00:00",
+    "ts": "2026-08-14T00:01:17.784727+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "LENOVO 83N3003GUS IdeaPad Slim 3 15Q8X10 15.3\" WUXGA Snapdragon X X1-26-100 2.8GHz Qualcomm Adreno GPU 16GB RAM 512GB SSD Win 11 Home Luna Grey",
-        "url": "https://www.walmart.com.mx/ip/lenovo-83n3003gus-ideapad-slim-3-15q8x10-15-3-wuxga-snapdragon-x-x1-26-100-2-8ghz-qualcomm-adreno-gpu-16gb-ram-512gb-ssd-win-11-home-luna-grey/00019927116805",
-        "price": 13419.99,
-        "model": "83N3003GUS"
+        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
+        "price": 9519.0,
+        "model": "i7-13620H"
       },
       {
         "store": "walmart",
@@ -3530,13 +3530,6 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
-        "price": 9519.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
         "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
         "price": 26599.0,
@@ -3548,6 +3541,13 @@
         "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
         "price": 21499.0,
         "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
+        "price": 13779.0,
+        "model": "512gb"
       },
       {
         "store": "walmart",
@@ -3581,7 +3581,7 @@
         "store": "walmart",
         "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
         "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
-        "price": 12849.0,
+        "price": 11579.0,
         "model": "83K700TUUS"
       },
       {
@@ -3594,27 +3594,27 @@
     ]
   },
   "sams|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-11T23:21:15.197610+00:00",
+    "ts": "2026-08-14T00:01:24.542095+00:00",
     "items": [
       {
         "store": "sams",
         "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
         "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
-        "price": 13907.69,
+        "price": 11251.98,
         "model": "RAM/512"
       },
       {
         "store": "sams",
         "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
         "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
-        "price": 34776.89,
+        "price": 30688.98,
         "model": "RAM/1"
       },
       {
         "store": "sams",
         "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
         "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
-        "price": 17897.39,
+        "price": 15342.95,
         "model": "RAM/512"
       },
       {
@@ -3649,15 +3649,8 @@
         "store": "sams",
         "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
         "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
-        "price": 20966.39,
+        "price": 17388.95,
         "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
-        "price": 16876.43,
-        "model": "gen/8"
       },
       {
         "store": "sams",
@@ -3665,6 +3658,13 @@
         "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
         "price": 12467.27,
         "model": "RAM/256"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
+        "price": 16876.43,
+        "model": "gen/8"
       },
       {
         "store": "sams",
@@ -3677,170 +3677,8 @@
         "store": "sams",
         "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
         "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
-        "price": 29354.99,
+        "price": 24549.95,
         "model": "3-1ALM"
-      }
-    ]
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-11T23:21:17.642522+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Pixie Titán con Aeroccino 3 y Termo | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0FL4DC8S4",
-        "price": 3421.41,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso, Cafetera, Citiz Platinum, Sistema Original, Color Titan (Incluye Café de Regalo)",
-        "url": "https://www.amazon.com.mx/dp/B0CTS5X6B8",
-        "price": 5290.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso De'Longhi Pixie EN127.S - Cafetera de cápsulas de café, dos teclas de selección directa, modo ECO, diseño compacto, sistema de presión de 19 bares, 1260 W, color plateado y negro",
-        "url": "https://www.amazon.com.mx/dp/B0CQPN4ZT3",
-        "price": 2999.0,
-        "model": "EN127"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Pixie Original Espresso Machine by Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B01NAW5CYK",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 3490.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bandeja De Agua, Compatible Con Nespresso, Compatible Con Nestlé, Cafetera De Cápsulas Pixie C61/C60, Depósito De Agua, Bandeja De Agua, Tapa, Accesorios EN125(Cup holder)",
-        "url": "https://www.amazon.com.mx/dp/B0G2GP5MX5",
-        "price": 455.63,
-        "model": "C61/C60"
-      },
-      {
-        "store": "amazon",
-        "name": "Rejilla de goteo para máquinas de café Pixie compatible con máquinas Krups, Delonghi y Nespresso Pixie, rejilla para bandeja de goteo de café, mantiene la encimera limpia y evita manchas y daños,",
-        "url": "https://www.amazon.com.mx/dp/B0D7BN5L8X",
-        "price": 389.05,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Nespresso tanque agua tapa máquina café Esencia Mini XN110",
-        "url": "https://www.amazon.com.mx/dp/B0979DHKBP",
-        "price": 623.28,
-        "model": "XN110"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Pixie Máquina espresso de De'Longhi, azul oscuro",
-        "url": "https://www.amazon.com.mx/dp/B0DJG16Y9S",
-        "price": 4031.59,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Anakel Home ANAKEL HOME MS-624403 - Cafetera de repuesto para depósito de agua, compatible con cafetera Nespresso INISSIA, incluye tapa, 0,7 l, no compatible con otros modelos",
-        "url": "https://www.amazon.com.mx/dp/B09PZ4B29D",
-        "price": 699.99,
-        "model": "MS-624403"
-      },
-      {
-        "store": "amazon",
-        "name": "Mini máquina de café espresso para cápsulas compatible con la máquina Nespresso OriginalL, cafetera espresso de servicio único, cápsulas de café Bestpresso Peet's Espresso más (negro)",
-        "url": "https://www.amazon.com.mx/dp/B0CBWT7ST3",
-        "price": 2624.16,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Pixie Máquina de café espresso de una sola porción por De'Longhi, aluminio",
-        "url": "https://www.amazon.com.mx/dp/B0D971QH6N",
-        "price": 4903.74,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-11T23:21:24.932362+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera De′Longhi Nespresso Pixie EN127.S Silver 19 Bar",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-longhi-nespresso-pixie-en127-s-silver-19-bar/00800439902875?athbdg=L1300",
-        "price": 4599.0,
-        "model": "EN127"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Nespresso Pixie de Aluminio por De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-nespresso-pixie-de-aluminio-por-de-longhi/00004438701270",
-        "price": 6499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-deluxe-de-breville-con-espumador-de-leche-titan/00002161480805?athbdg=L1300",
-        "price": 4219.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
-    "ts": "2026-08-11T23:21:32.327509+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
-        "price": 3774.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 4141.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 4237.25,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
       }
     ]
   },
@@ -30378,5 +30216,391 @@
   "sams|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
     "ts": "2026-08-13T23:05:02.846239+00:00",
     "items": []
+  },
+  "amazon|APPLECELULARIPHONEBUMPERCANELA": {
+    "ts": "2026-08-14T00:00:33.332591+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple Bumper para el iPhone Air - Negro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0FQFHQVMN",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Correa Cruzada – Color Canela ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0FQF34YM8",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda magnética para iPhone 17 compatible con MagSafe [protección completa de la cámara] [protector de pantalla] Carcasa de silicona a prueba de golpes para iPhone 17 de 6,3 pulgadas, color",
+        "url": "https://www.amazon.com.mx/dp/B0FH6BBPWD",
+        "price": 342.83,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone 16 Case Transparente Uso Rudo Acrílico PC, Borde Flexible TPU Cover, Protectora de Cámara Lente Shockproof Rigido Carcasa Bumper DF",
+        "url": "https://www.amazon.com.mx/dp/B0DG337Z1W",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17e – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQW96C4L",
+        "price": 967.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Case para iPhone 17 Pro MAX Silicona Tacto Sedoso (Naranja) | Tacto suave y sedoso. Forro interior de microfibra para evitar rayones. Borde elevado protege cámara y pantalla. Antigolpes",
+        "url": "https://www.amazon.com.mx/dp/B0GYDTYCHZ",
+        "price": 189.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVFHF7H",
+        "price": 1098.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con iPhone 6, 6S Funda, Anillo Metálico Sujeción Soporte Antichoque Rígido Caja (Funciona con el Montaje de Coche Magnético) Doble Capa Sólido Case Carcasa para Apple iPhone 6, iPhone 6S (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B07JJFV4LD",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con iPhone 5, 5S, SE Funda, Anillo Metálico Sujeción Soporte Antichoque Rígido Caja (Funciona con el Montaje de Coche Magnético) Doble Capa Sólido Case Carcasa para Apple iPhone 5, iPhone 5S, iPhone SE (Azul Marino)",
+        "url": "https://www.amazon.com.mx/dp/B07JWKV6RM",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Wildflower Fundas - Compatible con Apple iPhone 13/14 | Bumper protector negro, certificado a prueba de caídas de 1.2 m, pequeña empresa propiedad de mujeres | Red Meow - Estampado de leopardo, guepar",
+        "url": "https://www.amazon.com.mx/dp/B0DXMP61H6",
+        "price": 692.48,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Crossbody Strap - Bright Guava ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVHBK2N",
+        "price": 1399.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLECELULARIPHONEBUMPERCANELA": {
+    "ts": "2026-08-14T00:00:42.383995+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141?athbdg=L1300",
+        "price": 789.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Bumper Apple iPhone Air Gris Claro",
+        "url": "https://www.walmart.com.mx/ip/funda-bumper-apple-iphone-air-gris-claro/00019595075139?athbdg=L1300",
+        "price": 949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper, azul claro",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-azul-claro/00019595075140?athbdg=L1300",
+        "price": 679.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARIPHONEBUMPERCANELA": {
+    "ts": "2026-08-14T00:00:44.670384+00:00",
+    "items": []
+  },
+  "amazon|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-14T00:00:54.869354+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
+        "price": 23999.0,
+        "model": "TOPS/24GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Edición Ceraluminum Ryzen AI 9 465/50 TOPS/16 3K OLED /32GB /1TB SSD/+ Funda/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQJTC2RZ",
+        "price": 36999.0,
+        "model": "TOPS/16"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 Laptop, pantalla táctil OLED WUXGA de 14\", AMD Ryzen 7 8840HS de 8 núcleos, gráficos AMD Radeon, 16GB LPDDR5, 512GB SSD, teclado retroiluminado, Wi-Fi 6E, cámara 1080p, Win11 Home, USB",
+        "url": "https://www.amazon.com.mx/dp/B0D2NXV7X5",
+        "price": 23227.98,
+        "model": "8840HS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 Laptop - AMD Ryzen 5-8GB RAM - NVIDIA GEFORCE MX350-256GB SSD - Win 10, gris claro",
+        "url": "https://www.amazon.com.mx/dp/B08C81JT39",
+        "price": 14975.65,
+        "model": "MX350-256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 15 Business Slim Laptop, 15.6\" FHD 100% sRGB, AMD Ryzen 5 7535U, teclado retroiluminado, Wi-Fi 6E, USB C, Windows 11 Home, con paño (16 GB LPDDR5 RAM | 2 TB SSD)",
+        "url": "https://www.amazon.com.mx/dp/B0DP9NKV3T",
+        "price": 21419.99,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
+        "price": 13527.24,
+        "model": "7-7730U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
+        "price": 26999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
+        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
+        "price": 26134.49,
+        "model": "M5406WA-AH94"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, 16\" 3K visualización táctil (2880x1800), AMD Radeon 880M, W11 Home, Teclado QWERTY Estadounidense",
+        "url": "https://www.amazon.com.mx/dp/B0DJH4XLBS",
+        "price": 40499.0,
+        "model": "2880x1800"
+      }
+    ]
+  },
+  "walmart|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-14T00:01:00.455322+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Zenbook UM3406KA-QD096W AMD Ryzen AI 5 340 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-zenbook-um3406ka-qd096w-amd-ryzen-ai-5-340-16gb-512gb/00019710588042?athbdg=L1300",
+        "price": 19497.0,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-e1404fa-eb923w-r5-16gb-512gb/00019929140091",
+        "price": 11997.0,
+        "model": "E1404FA-EB923W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-amd-ryzen-5-150-8gb-ddr5-ssd-512gb-pantalla-15-6-ips-fhd-windows-11-teclado-espanol/00070452118646",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
+        "price": 64350.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L1300",
+        "price": 32025.23,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1407KA-LY147W R AI5 16GB 1TB Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1407ka-ly147w-r-ai5-16gb-1tb-azul/00019929116770",
+        "price": 15997.0,
+        "model": "M1407KA-LY147W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook X1607CA-MB155W CU5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1607ca-mb155w-cu5-16gb-512gb/00019710589103",
+        "price": 14997.0,
+        "model": "X1607CA-MB155W"
+      }
+    ]
+  },
+  "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-14T00:01:06.748303+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Zenbook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD UM3406KA-QD096W + Funda",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-zenbook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-um3406ka-qd096w-funda/981035880",
+        "price": 18412.98,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 18412.98,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 15343.98,
+        "model": "M1605NAQ-MB231W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 26085.48,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 14320.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2658.78,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
+        "price": 12274.98,
+        "model": "D1605YA-MB470W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
+        "price": 7876.08,
+        "model": "E1404FA-NK341W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
+        "price": 10228.98,
+        "model": "E1504FA-BQ5166W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
+        "price": 14730.18,
+        "model": "M1407KA-LY137W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+        "price": 23118.78,
+        "model": "FA506NCQ-HN058W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fc0377la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fc0377la/981050997",
+        "price": 12999.0,
+        "model": "15-fc0377la"
+      }
+    ]
   }
 }
