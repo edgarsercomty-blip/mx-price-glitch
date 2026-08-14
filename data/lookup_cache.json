@@ -22137,5 +22137,272 @@
   "sams|RMA250PVMRP1": {
     "ts": "2026-08-14T21:26:33.679265+00:00",
     "items": []
+  },
+  "amazon|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
+    "ts": "2026-08-14T22:42:28.222712+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2229.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2329.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 2369.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 3106.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
+        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
+        "price": 2798.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
+        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
+        "price": 3867.0,
+        "model": "7KSB4027MPA"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Porcelain White",
+        "url": "https://www.amazon.com.mx/dp/B09R4N69C6",
+        "price": 2369.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Paquete de expansión para licuadora personal de 16 onzas para licuadoras KitchenAid K150 y K400",
+        "url": "https://www.amazon.com.mx/dp/B085FY9K8J",
+        "price": 1419.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power KitchenAid Black Mate 1.8 L c Jarra de Vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3NPQZ",
+        "price": 2798.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
+    "ts": "2026-08-14T22:42:40.486975+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
+        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
+        "price": 1078.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
+        "price": 2229.0,
+        "model": "7KSB2078MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3049.0,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
+        "price": 2789.0,
+        "model": "7KSB1330MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 1999.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora 1.7 Litros KitchenAid 7KSB4027MBM Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/licuadora-1-7-litros-kitchenaid-7ksb4027mbm-negro-mate/00088304953389?athbdg=L1300",
+        "price": 5269.0,
+        "model": "7KSB4027MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541?athbdg=L1300",
+        "price": 1999.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Personal NutriBullet ProPlus 32 Oz de Acero Inoxidable con Cuchilla Extraíble 1200W Reacondicionada",
+        "url": "https://www.walmart.com.mx/ip/licuadora-personal-nutribullet-proplus-32-oz-de-acero-inoxidable-con-cuchilla-extraible-1200w-reacondicionada/00046039587980",
+        "price": 1489.0,
+        "model": "1200W"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
+        "price": 5409.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Empire Red 7KSB2078MER",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-empire-red-7ksb2078mer/00088304993176",
+        "price": 2699.0,
+        "model": "7KSB2078MER"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORANEGRAVASOSCOMBO": {
+    "ts": "2026-08-14T22:42:44.934648+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
+        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
+        "price": 858.3,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Turbo Max Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
+        "price": 1533.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
+        "price": 1599.0,
+        "model": "1200W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Backpack Cool Capital  Portalaptop Negro + Funda para Laptop",
+        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-negro-funda-para-laptop/981053139",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Audífonos Inalámbricos STF  1 On Ear y 1 TWS Negro",
+        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-1-on-ear-y-1-tws-negro/981045217",
+        "price": 611.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Realme  C75 256 GB Bait Negro + Bocina",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-realme-c75-256-gb-bait-negro-bocina/981036399",
+        "price": 7159.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Teclado Inalámbrico Logitech  + Mouse Inalámbrico MK 540 Advanced Negro ",
+        "url": "https://www.sams.com.mx/ip/combo-teclado-inalambrico-logitech-mouse-inalambrico-mk-540-advanced-negro/981045923",
+        "price": 1369.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Audífonos Inalámbricos STF Kit All in One Negro + Smartwatch + Crossbody",
+        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
+        "price": 673.13,
+        "model": null
+      }
+    ]
   }
 }
