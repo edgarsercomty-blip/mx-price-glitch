@@ -22144,5 +22144,25 @@
         "model": null
       }
     ]
+  },
+  "amazon|RMA250PVMRP1": {
+    "ts": "2026-08-14T21:26:17.087612+00:00",
+    "items": []
+  },
+  "walmart|RMA250PVMRP1": {
+    "ts": "2026-08-14T21:26:29.203455+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Mabe Top Mount 10 Pies Negro RMA250PVMRP1",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-10-pies-negro-rma250pvmrp1/00075763844161?athbdg=L6000",
+        "price": 9990.0,
+        "model": "RMA250PVMRP1"
+      }
+    ]
+  },
+  "sams|RMA250PVMRP1": {
+    "ts": "2026-08-14T21:26:33.679265+00:00",
+    "items": []
   }
 }

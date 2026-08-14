@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (763)
+# Historial de ofertas encontradas (764)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-14 21:26 | -20% | liverpool | [Refrigerador Mabe Home Energy Saver Rma250Pvmrp1](https://www.liverpool.com.mx/tienda/pdp/refrigerador-mabe-home-energy-saver-rma250pvmrp1/1205210136) | $7,951 | $7,951 en liverpool vs walmart $9,990 -> -20% bajo la competencia |
 | 2026-08-14 20:25 | -20% | liverpool | [Smartwatch Xiaomi Redmi Watch 6 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-redmi-watch-6-unisex-con-gps/1200687902) | $1,679 | $1,679 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-14 17:47 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Invert…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv13-110-v/1153833857) | $5,960 | $5,960 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-14 16:42 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Invert…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873) | $5,960 | $5,960 en liverpool vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -50% | palacio | [Licuadora Pure Power 10 velocidades roja](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html) | $1,974 | $1,974 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-07-17 08:37 | -50% | palacio | [Torre Gaming Lenovo Legion, Intel Core i5-14400F, 16 GB…](https://www.elpalaciodehierro.com/lenovo-torre-gaming-lenovo-legion-intel-core-i5-14400f-16-gb-ram1-tb-ssd-geforce-rtx-4060-8-gb-windows-11-home-44472024.html) | $23,000 | $23,000 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-07-17 08:37 | -50% | palacio | [Laptop Zenbook S 13 OLED, 13.3", Intel Core Ultra 7, 32…](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-13-oled-13.3-intel-core-ultra-7-32-gb-1tb-ssd-gris-43740349.html) | $17,250 | $17,250 en palacio vs mercado -> -50% bajo la competencia |
-| 2026-07-17 08:37 | -50% | liverpool | [Pantalla Smart Tv Lg Uhd De 75 Pulgadas 4K Uhd 75Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-75-pulgadas-4k-uhd-75nu850bpsa-con-webos/1200202381) | $13,499 | $13,499 en liverpool vs mercado -> -50% bajo la competencia |
