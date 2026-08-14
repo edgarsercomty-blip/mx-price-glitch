@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14 19:42 UTC",
-  "products_scanned": 1639,
+  "generated_at": "2026-08-14 20:25 UTC",
+  "products_scanned": 1640,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,27 +23,6 @@
       "extra": {
         "productId": "1172986773",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1745.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43394466",
-        "outlet": false
       }
     },
     {
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs sams $2,556, walmart $2,799, sams $3,061 -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 811.48,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
         "outlet": false
       }
     },
@@ -671,6 +671,27 @@
       "extra": {
         "id": "44004165",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$1,679 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 419.8,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Redmi Watch 6 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-redmi-watch-6-unisex-con-gps/1200687902",
+      "price": 1679.2,
+      "list_price": 2099.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200687902",
+        "marketplace": null
       }
     },
     {

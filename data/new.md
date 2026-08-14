@@ -1,5 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-14 19:42 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-14 20:25 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **1**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -20% | $420 | liverpool | [Smartwatch Xiaomi Redmi Watch 6 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-redmi-watch-6-unisex-con-gps/1200687902) | $1,679 | Confirmado vs competencia | $1,679 en liverpool vs mercado -> -20% bajo la competencia |

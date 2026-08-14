@@ -1,4 +1,4 @@
-# Productos en vigilancia (648)
+# Productos en vigilancia (649)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -420,7 +420,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $7,144 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | -47% |
-| 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,985 | -28% |
+| 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,983 | -28% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $10,762 | -28% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | -24% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,199 | -22% |
@@ -552,7 +552,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
-| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
+| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -32% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
@@ -652,3 +652,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Laptop HP 15-fd0274la Intel Core i7 10 nucleos 16GB RAM 512G…](https://www.walmart.com.mx/ip/laptop-hp-15-fd0274la-intel-core-i7-10-nucleos-16gb-ram-512gb-ssd/00019899078759) | $18,996 | -21% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Fr…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873) | $5,960 | -24% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Fr…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv13-110-v/1153833857) | $5,960 | -24% |
+| 🟢 disponible | liverpool | [Smartwatch Xiaomi Redmi Watch 6 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-redmi-watch-6-unisex-con-gps/1200687902) | $1,679 | -20% |
