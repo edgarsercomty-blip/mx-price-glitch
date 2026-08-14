@@ -2130,28 +2130,56 @@
     "items": []
   },
   "amazon|55QNED81BSC": {
-    "ts": "2026-08-12T14:03:51.372395+00:00",
-    "items": []
-  },
-  "walmart|55QNED81BSC": {
-    "ts": "2026-08-12T14:03:57.200385+00:00",
-    "items": []
-  },
-  "sams|55QNED81BSC": {
-    "ts": "2026-08-12T14:04:10.933796+00:00",
+    "ts": "2026-08-14T14:51:26.389146+00:00",
     "items": [
       {
-        "store": "sams",
-        "name": "Pantalla LG  55\" QNED Smart TV 55QNED81BSG",
-        "url": "https://www.sams.com.mx/ip/pantalla-lg-55-qned-smart-tv-55qned81bsg/981055082",
-        "price": 10024.38,
-        "model": "55QNED81BSG"
+        "store": "amazon",
+        "name": "LG Pantalla 55 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0GYZRN8KW",
+        "price": 9999.0,
+        "model": "QNED81"
       }
     ]
   },
+  "walmart|55QNED81BSC": {
+    "ts": "2026-08-14T14:51:30.887373+00:00",
+    "items": []
+  },
+  "sams|55QNED81BSC": {
+    "ts": "2026-08-14T14:51:33.025087+00:00",
+    "items": []
+  },
   "amazon|75QNED73ASC": {
-    "ts": "2026-08-12T14:04:38.091782+00:00",
+    "ts": "2026-08-14T14:51:46.624230+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 55“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRBBMXF",
+        "price": 9399.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television U7QG (Modelo 2025) Pantalla 100 Pulgadas,Mini-LED Smart Google TV UHD 4K,Modo de Juego Pro de 144 Hz,Hi-View AI Engine,Subwoofer Incorporado",
+        "url": "https://www.amazon.com.mx/dp/B0GKPFCTSQ",
+        "price": 34053.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
+        "price": 12499.0,
+        "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense televisión UR9S Pantalla 65“ Pulgadas，RGB Mini-LED 4K AI Smart TV，180Hz Nativos，Procesador RGB Hi-View AI，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GS9CD9R3",
+        "price": 29990.0,
+        "model": "180Hz"
+      },
       {
         "store": "amazon",
         "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
@@ -2182,24 +2210,10 @@
       },
       {
         "store": "amazon",
-        "name": "TCL Smart TV Pantalla 65\" 65QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
-        "url": "https://www.amazon.com.mx/dp/B0DYSJ4Y6T",
-        "price": 12300.0,
-        "model": "VisionHDR10"
-      },
-      {
-        "store": "amazon",
         "name": "LG Pantalla 65 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
         "url": "https://www.amazon.com.mx/dp/B0G87FL6SZ",
         "price": 11899.0,
         "model": "QNED73"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD8S Pantalla 65“ Pulgadas,Mini-LED 4K Smart TV，Dolby Vision·Atmos，AI 4K Upscaler，Modo de Protección Ocular，Game Mode Plus，Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GZ5Z8F19",
-        "price": 10999.0,
-        "model": null
       },
       {
         "store": "amazon",
@@ -2210,40 +2224,26 @@
       },
       {
         "store": "amazon",
+        "name": "Hisense televisión QD8S Pantalla 65“ Pulgadas,Mini-LED 4K Smart TV，Dolby Vision·Atmos，AI 4K Upscaler，Modo de Protección Ocular，Game Mode Plus，Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GZ5Z8F19",
+        "price": 10199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
         "price": 12729.0,
         "model": "Q72dd"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 75 Pulgadas UHD AI UA8050 4K Smart TV 2025",
-        "url": "https://www.amazon.com.mx/dp/B0F7TKJMCR",
-        "price": 11995.0,
-        "model": "UA8050"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Smart TV 4K Ultra HD de 65\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
-        "url": "https://www.amazon.com.mx/dp/B0FMBXT5X3",
-        "price": 9599.0,
-        "model": "UA7700"
-      },
-      {
-        "store": "amazon",
-        "name": "Juego de 2 fundas de silicona para control remoto LG Magic Remote, funda protectora ligera con cordón",
-        "url": "https://www.amazon.com.mx/dp/B08HQKVDTL",
-        "price": 276.62,
-        "model": null
       }
     ]
   },
   "walmart|75QNED73ASC": {
-    "ts": "2026-08-12T14:04:43.035739+00:00",
+    "ts": "2026-08-14T14:51:56.514108+00:00",
     "items": []
   },
   "sams|75QNED73ASC": {
-    "ts": "2026-08-12T14:05:00.942504+00:00",
+    "ts": "2026-08-14T14:52:00.102231+00:00",
     "items": []
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
@@ -3761,311 +3761,9 @@
     "ts": "2026-08-14T10:38:09.923267+00:00",
     "items": []
   },
-  "amazon|APPLEESPACIALMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:05:07.857756+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2020 Apple MacBook Air con Apple M1 Chip (13-pulgadas, 16GB RAM, 1TB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CMVTJNDL",
-        "price": 13457.96,
-        "model": "13-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "2020 Apple MacBook Air con Chip M1 (13.3 Pulgadas, 8 GB de RAM, 128 GB de SSD) (QWERTY Inglés) Plata (Reacondicionado) | Plata, renovado",
-        "url": "https://www.amazon.com.mx/dp/B09WJHLWHG",
-        "price": 7998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air 2022 con chip Apple M2, 13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD - Gris espacial (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B0BLYG2JBR",
-        "price": 14320.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "CARYWON M.2 NVME SSD Convertidor Adaptador para MacBook Air Pro Retina Mediados de 2013_2017, NVME/AHCI SSD Kit actualizado para A1465 A1466 A1398 A1502(Black)",
-        "url": "https://www.amazon.com.mx/dp/B08LL44B4S",
-        "price": 199.0,
-        "model": "A1465"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
-        "price": 17711.94,
-        "model": "13-Pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Enclosure Case SSD portátil para MacBook Air/Pro 2013-2017, USB 3.2 Tipo C a Mac SSD para Flash SSD 12+16 Pin, Compatible con M.2 Nvme SSD (10Gbps)",
-        "url": "https://www.amazon.com.mx/dp/B0CP2KLQKN",
-        "price": 1484.73,
-        "model": "10Gbps"
-      },
-      {
-        "store": "amazon",
-        "name": "2019 Apple MacBook Pro con 2.4GHz Intel Core i9 (16-pulgadas, 32GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CN871VWH",
-        "price": 10023.04,
-        "model": "16-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
-        "price": 9335.51,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEESPACIALMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:05:31.064215+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
-        "price": 21349.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Air de 13 pulgadas con chip M5, 16 GB de memoria, SSD de 1 TB y color gris espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-air-de-13-pulgadas-con-chip-m5-16-gb-de-memoria-ssd-de-1-tb-y-color-gris-espacial/00019595069208?athbdg=L6000",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
-        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Macbook Air Chip M2 13 Pulgadas 24GB SSD 512 GB",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-chip-m2-13-pulgadas-24gb-ssd-512-gb/00019595077225",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Starlight Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-starlight-teclado-retroiluminado-touch-id/00019595068879?athbdg=L1300",
-        "price": 26839.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 13 Pulgadas 16 GB Ssd 512 GB Plata",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-13-pulgadas-16-gb-ssd-512-gb-plata/00019594983660?athbdg=L1300",
-        "price": 28487.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Port?til Apple MacBook Air, pantalla Retina de 13,6\", Apple M2, SSD de 256 GB, macOS Monterey, MLXW3LL/A Manzana MLXW3LL/A",
-        "url": "https://www.walmart.com.mx/ip/port-til-apple-macbook-air-pantalla-retina-de-13-6-apple-m2-ssd-de-256-gb-macos-monterey-mlxw3ll-a-manzana-mlxw3ll-a/00019425308041?athbdg=L6000",
-        "price": 35000.0,
-        "model": "MLXW3LL/A"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Pro de 14 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 18 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-pro-de-14-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-18-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071867?athbdg=L1300",
-        "price": 40999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13 pulgadas Chip M5 16 GB RAM 512 GB - Blanco estelar",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-blanco-estelar/00893307510094?athbdg=L1300",
-        "price": 27999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEESPACIALMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:05:49.506155+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
-  },
   "amazon|14IAH10": {
-    "ts": "2026-08-12T14:06:16.429047+00:00",
+    "ts": "2026-08-14T14:52:16.612757+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo Yoga Book 9 | Doble Pantalla Touch 14\" OLED WQXGA | Intel Core Ultra 7 | 16 GB RAM 1 TB SSD | PC con IA | Incluye: Mouse + Soporte Tipo Libro + Teclado",
-        "url": "https://www.amazon.com.mx/dp/B0FVZRKRP6",
-        "price": 35844.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YINOVEEN - Protector de visualización de vidrio templado para Lenovo Yoga Book 9i (2 unidades) | Dual (14IAH10) 2 en 1, portátil de 14 pulgadas, 2025 nuevo, dureza 9H, antiarañazos",
-        "url": "https://www.amazon.com.mx/dp/B0G1LVQT2D",
-        "price": 429.93,
-        "model": "14IAH10"
-      },
-      {
-        "store": "amazon",
-        "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i de 2025 con visualización táctil dual de 14 pulgadas (modelos: 14IAH10), 2 juegos – pantallas",
-        "url": "https://www.amazon.com.mx/dp/B0FX1WD6PY",
-        "price": 286.4,
-        "model": "14IAH10"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo, Yoga Book 9 | 32GB RAM 1TB SSD | Intel Core Ultra 7 | 2 Pantallas 14\" Touch OLED WQXGA | Incluye Lapiz Digital | PC con IA",
-        "url": "https://www.amazon.com.mx/dp/B0GSC6XLZN",
-        "price": 51999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de 2 protectores de visualización para Lenovo Yoga Book 9i Dual (14IAH10) 2 en 1 de 14 pulgadas (1 juego - pantallas primarias y secundarias) ultra transparentes, dureza 9H, antiarañazos",
-        "url": "https://www.amazon.com.mx/dp/B0FVWWQZRZ",
-        "price": 385.57,
-        "model": "14IAH10"
-      },
       {
         "store": "amazon",
         "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i 2 en 1 de 14 pulgadas con visualización dual OLED Touch Laptop (14IAH10 丨83KJ), no apto para Yoga 9i",
@@ -4075,16 +3773,65 @@
       },
       {
         "store": "amazon",
-        "name": "Funda de teclado para Lenovo Yoga Pro 7 14AHP9 14ASP9 14IMH9 14AKP10 14ASP10 14IAH10 14.5 pulgadas, Yoga Slim 7X 14Q8X9 14.5 pulgadas, Yoga Slim 7 15ILL9 15.6 pulgadas, transparente",
-        "url": "https://www.amazon.com.mx/dp/B0FQJ27QN7",
-        "price": 220.32,
-        "model": "14AKP10"
+        "name": "YINOVEEN - Protector de visualización de vidrio templado para Lenovo Yoga Book 9i (2 unidades) | Dual (14IAH10) 2 en 1, portátil de 14 pulgadas, 2025 nuevo, dureza 9H, antiarañazos",
+        "url": "https://www.amazon.com.mx/dp/B0G1LVQT2D",
+        "price": 428.36,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i de 2025 con visualización táctil dual de 14 pulgadas (modelos: 14IAH10), 2 juegos – pantallas",
+        "url": "https://www.amazon.com.mx/dp/B0FX1WD6PY",
+        "price": 285.86,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "Paquete de 2 protectores de visualización para Lenovo Yoga Book 9i Dual (14IAH10) 2 en 1 de 14 pulgadas (1 juego - pantallas primarias y secundarias) ultra transparentes, dureza 9H, antiarañazos",
+        "url": "https://www.amazon.com.mx/dp/B0FVWWQZRZ",
+        "price": 384.89,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "KEANBOLL - Paquete de 2 protectores de visualización antiluz azul para Lenovo Yoga Book 9i Dual de 14 pulgadas (modelos: 14IAH10), bloqueo de luz azul antideslumbrante y antihuellas dactilares (mate)",
+        "url": "https://www.amazon.com.mx/dp/B0H5BBYZYT",
+        "price": 451.67,
+        "model": "14IAH10"
       },
       {
         "store": "amazon",
         "name": "Juego de 2 protectores de visualización de vidrio templado para Lenovo Yoga Book 9i (14IAH10) de 2025 con visualización táctil de 14 pulgadas, 9H resistente a los arañazos, película antiroturas",
         "url": "https://www.amazon.com.mx/dp/B0FY4T2S6M",
-        "price": 403.7,
+        "price": 404.45,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de teclado para Lenovo Yoga Pro 7 14AHP9 14ASP9 14IMH9 14AKP10 14ASP10 14IAH10 14.5 pulgadas, Yoga Slim 7X 14Q8X9 14.5 pulgadas, Yoga Slim 7 15ILL9 15.6 pulgadas, transparente",
+        "url": "https://www.amazon.com.mx/dp/B0FQJ27QN7",
+        "price": 219.81,
+        "model": "14AKP10"
+      },
+      {
+        "store": "amazon",
+        "name": "Zahara Kit de tornillos para portátil Lenovo Yoga Book 9 14IAH10 83KJ 5S10S35770 | 20HG004J 20HG004L 20HG004K",
+        "url": "https://www.amazon.com.mx/dp/B0H35BQGVJ",
+        "price": 519.98,
+        "model": "5S10S35770"
+      },
+      {
+        "store": "amazon",
+        "name": "Paquete de 2 protectores de visualización antirreflejos para Lenovo Yoga Book 9i 14 pulgadas (14IAH10) | 2023.86 pulgadas, visualización táctil para laptop, antiarañazos, protección ocular y antideslumbrante",
+        "url": "https://www.amazon.com.mx/dp/B0FR4JD5H4",
+        "price": 265.28,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "i-Tensodo - Paquete de 2 protectores de visualización de vidrio templado de 14 pulgadas para Lenovo Yoga Book 9i (14IAH10) 2025, visualización táctil para laptop, 2.5D, HD Clear, 9H, antiarañazos",
+        "url": "https://www.amazon.com.mx/dp/B0GCYCCWGJ",
+        "price": 408.6,
         "model": "14IAH10"
       },
       {
@@ -4096,318 +3843,29 @@
       },
       {
         "store": "amazon",
-        "name": "KEANBOLL - Paquete de 2 protectores de visualización antiluz azul para Lenovo Yoga Book 9i Dual de 14 pulgadas (modelos: 14IAH10), bloqueo de luz azul antideslumbrante y antihuellas dactilares (mate)",
-        "url": "https://www.amazon.com.mx/dp/B0H5BBYZYT",
-        "price": 451.67,
-        "model": "14IAH10"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop HP 14\" dq6011dx Celeron 4GB 128GB Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FG25B7Q4",
-        "price": 4372.51,
-        "model": "dq6011dx"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Portátil 14\" HD IPS Laptop, procesador Intel Celeron N hasta 3.59GHz, 4GB DDR4, 128GB SSD, HDMI, cámara web, 1 año de Office 365, Bluetooth, Windows 11, Rosa Pastel",
-        "url": "https://www.amazon.com.mx/dp/B0FZM93VX2",
-        "price": 4885.55,
-        "model": "59GHz"
+        "name": "Gintai Conector Puerto de Carga USB-C Jack para Lenovo ThinkBook Z13 Z16 | Z13/Z16 Gen 1 Gen 2 ,IdeaPad Pro 5 14IAH10 83JK IdeaPad Pro 5 14AKP10 83JL IdeaPad Pro 5 14ASP10 83LR Type c jack",
+        "url": "https://www.amazon.com.mx/dp/B0HBVZVGFY",
+        "price": 299.62,
+        "model": "Z13/Z16"
       }
     ]
   },
   "walmart|14IAH10": {
-    "ts": "2026-08-12T14:06:23.566084+00:00",
+    "ts": "2026-08-14T14:52:20.890422+00:00",
     "items": []
   },
   "sams|14IAH10": {
-    "ts": "2026-08-12T14:06:40.170603+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/16 GB RAM/1 TB SSD 15IRH10-04DLM + Audífonos",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-16-gb-ram-1-tb-ssd-15irh10-04dlm-audifonos/981050109",
-        "price": 15999.0,
-        "model": "15IRH10-04DLM"
-      }
-    ]
-  },
-  "amazon|APPLEMEDIANOCHEMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:07:09.447762+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2023 Apple MacBook Air con Apple M2 Chip (15-pulgadas, 8GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CFT39XJZ",
-        "price": 16489.03,
-        "model": "15-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Apple MacBook Air 2022 con chip Apple M2 (13.6 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) medianoche (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B0BHC15G32",
-        "price": 14199.69,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 256GB SSD de Memoria) Blanco Estrella (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FB57GXYP",
-        "price": 19999.0,
-        "model": "13-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
-        "price": 17711.94,
-        "model": "13-Pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1CCNRK",
-        "price": 35788.83,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2020 Apple MacBook Air con Chip M1 (13.3 Pulgadas, 8 GB de RAM, 128 GB de SSD) (QWERTY Inglés) Plata (Reacondicionado) | Plata, renovado",
-        "url": "https://www.amazon.com.mx/dp/B09WJHLWHG",
-        "price": 7998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
-        "price": 9335.51,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEMEDIANOCHEMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:07:26.872536+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-2025-13-6-M4-10-Core-16GB-RAM-256GB-SSD-Liquid-Retina-Midnight-teclado-Retroiluminado-macOS/00019594983813?athbdg=L1300",
-        "price": 21349.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Apple-MacBook-Air-2025-M4-13-6-Liquid-Retina-16GB-RAM-256GB-SSD-Sky-Blue-Teclado-Retroiluminado/00019594989026?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-2026-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Sky-Blue-Teclado-Retroiluminado-Touch-ID/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-Apple-M4-RAM-16GB-SSD-256GB-Pantalla-13-6-macOS-Sequoia/00019594983719?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-Apple-M4-RAM-16GB-SSD-256GB-Pantalla-13-6-macOS-Sequoia/00019594983625?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Starlight Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Starlight-Teclado-Retroiluminado-Touch-ID/00019595068879?athbdg=L1300",
-        "price": 26839.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Air de 13 pulgadas con chip M5, 16 GB de memoria, SSD de 1 TB y color gris espacial",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Air-de-13-pulgadas-con-chip-M5-16-GB-de-memoria-SSD-de-1-TB-y-color-gris-espacial/00019595069208?athbdg=L6000",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Macbook Air Chip M2 13 Pulgadas 24GB SSD 512 GB",
-        "url": "https://www.walmart.com.mx/ip/Apple-Macbook-Air-Chip-M2-13-Pulgadas-24GB-SSD-512-GB/00019595077225",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 15.3 Pulgadas 16 GB 512 GB Azul Medianoche",
-        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-15-3-Pulgadas-16-GB-512-GB-Azul-Medianoche/00019594984232?athbdg=L1300",
-        "price": 32985.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 13 Pulgadas 16 GB Ssd 512 GB Plata",
-        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-Pulgadas-16-GB-Ssd-512-GB-Plata/00019594983660?athbdg=L1300",
-        "price": 28487.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 13.6 Pulgadas 16 GB 512 GB Azul Medianoche",
-        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M4-13-6-Pulgadas-16-GB-512-GB-Azul-Medianoche/00019594988964?athbdg=L1300",
-        "price": 33232.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Port?til Apple MacBook Air, pantalla Retina de 13,6\", Apple M2, SSD de 256 GB, macOS Monterey, MLXW3LL/A Manzana MLXW3LL/A",
-        "url": "https://www.walmart.com.mx/ip/Port-til-Apple-MacBook-Air-pantalla-Retina-de-13-6-Apple-M2-SSD-de-256-GB-macOS-Monterey-MLXW3LL-A-Manzana-MLXW3LL-A/00019425308041?athbdg=L6000",
-        "price": 35000.0,
-        "model": "MLXW3LL/A"
-      }
-    ]
-  },
-  "sams|APPLEMEDIANOCHEMACBOOKAIRSSD": {
-    "ts": "2026-08-12T14:07:43.750582+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035029",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035030",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/8C GPU/16GB/256GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-8c-gpu-16gb-256gb-ssd-azul-medianoche/981035015",
-        "price": 24998.99,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
+    "ts": "2026-08-14T14:52:22.216105+00:00",
+    "items": []
   },
   "amazon|EDGE70": {
-    "ts": "2026-08-12T14:07:58.665509+00:00",
+    "ts": "2026-08-14T14:52:40.495598+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Motorola Smartphone Edge 70 Gris | Ultrarresistente",
         "url": "https://www.amazon.com.mx/dp/B0G4NFD21Z",
-        "price": 9396.26,
+        "price": 9014.63,
         "model": null
       },
       {
@@ -4423,13 +3881,6 @@
         "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
         "price": 7999.0,
         "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
-        "price": 12499.0,
-        "model": null
       },
       {
         "store": "amazon",
@@ -4454,6 +3905,13 @@
       },
       {
         "store": "amazon",
+        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
+        "price": 12499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
         "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
         "price": 4699.0,
@@ -4468,10 +3926,17 @@
       },
       {
         "store": "amazon",
-        "name": "Smartphone Moto Edge 70 Fusion 8GB 256GB Silhouette Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0GRN2NQGZ",
-        "price": 7494.0,
-        "model": "256GB"
+        "name": "Motorola Edge 70 Fusion Plus",
+        "url": "https://www.amazon.com.mx/dp/B0GQ63CSGH",
+        "price": 11874.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "QUIETIP - Funda magnética para Motorola Edge 70 con Protector de visualización, Compatible con MagSafe, Funda translúcida Mate de protección contra caídas, Color Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F4PNN9QB",
+        "price": 326.25,
+        "model": null
       },
       {
         "store": "amazon",
@@ -4479,18 +3944,11 @@
         "url": "https://www.amazon.com.mx/dp/B0GVTDY84Z",
         "price": 198.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
-        "price": 18999.0,
-        "model": "512GB"
       }
     ]
   },
   "walmart|EDGE70": {
-    "ts": "2026-08-12T14:08:16.690963+00:00",
+    "ts": "2026-08-14T14:53:02.632921+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4498,6 +3956,13 @@
         "url": "https://www.walmart.com.mx/ip/motorola-edge-70-5g-8-256gb-gris/00084049360344?athbdg=L1300",
         "price": 7799.0,
         "model": "8/256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Edge 70 / 512 GB Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-verde-desbloqueado/00084049360332?athbdg=L1300",
+        "price": 10999.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -4533,13 +3998,6 @@
         "url": "https://www.walmart.com.mx/ip/motorola-edge-70-by-swarovski-512gb-12gb-cloud-dancer/00084049361713",
         "price": 11399.0,
         "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion 5G 6.78\" 8/256GB Orient Blue",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-5g-6-78-8-256gb-orient-blue/00803377908529?athbdg=L1300",
-        "price": 6699.0,
-        "model": "8/256GB"
       },
       {
         "store": "walmart",
@@ -4579,269 +4037,8 @@
     ]
   },
   "sams|EDGE70": {
-    "ts": "2026-08-12T14:08:26.461140+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 70 Fusion 256 GB FIFA World Cup 2026 Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-fifa-world-cup-2026-azul-desbloqueado/981051351",
-        "price": 11249.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Motorola Moto Edge 70 Fusion 256 GB Azul Telcel + Audífonos",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-motorola-moto-edge-70-fusion-256-gb-azul-telcel-audifonos/981052262",
-        "price": 7998.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Motorola Moto Edge 70 Fusion 256 GB Celeste Telcel + Audífonos Moto Buds",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-motorola-moto-edge-70-fusion-256-gb-celeste-telcel-audifonos-moto-buds/981055156",
-        "price": 7998.84,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-12T14:08:31.163964+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
-        "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
-        "price": 2099.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1827.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora BLST4108, 1.25 Litros, 800W, 10 Velocidades, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C4812MS5",
-        "price": 733.0,
-        "model": "BLST4108"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
-        "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
-        "price": 198.48,
-        "model": "BLSTAJ4954"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Cube Completo Compatible Con Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DSLVPT5L",
-        "price": 379.48,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 3499.0,
-        "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1425.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
-        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
-        "price": 1290.0,
-        "model": "BLST4126013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 825.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Clásico Completo Sirve Para Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DTS5RL6Z",
-        "price": 369.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-12T14:08:50.059916+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1510",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
-        "price": 4375.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1300",
-        "price": 2290.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500",
-        "price": 3242.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
-        "price": 719.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad Silver",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
-        "price": 1190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
-        "price": 1458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-licuadora-de-10-velocidades-cuchillas-acero-869-16g/00003426400153?athbdg=L1300",
-        "price": 779.0,
-        "model": "869-16G"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
-        "price": 598.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-12T14:09:08.592597+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Max Power Cherry",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
-        "price": 817.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 1533.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1277.73,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 1707.39,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-14T14:53:06.078630+00:00",
+    "items": []
   },
   "amazon|APPLEMEDIANOCHEMACBOOKSSD256": {
     "ts": "2026-08-12T15:30:11.091768+00:00",
