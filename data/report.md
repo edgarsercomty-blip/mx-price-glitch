@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-14 00:01 UTC
+# Errores/chollos de precio — 2026-08-14 02:17 UTC
 
-- Productos revisados: **1586**
+- Productos revisados: **1584**
 - Umbral de diferencia: **20%**
-- Hallazgos: **33**
+- Hallazgos: **31**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -15,27 +15,25 @@
 | -25% | $4,498 | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $13,492 | Confirmado vs competencia | $13,492 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
-| -40% | $3,200 | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | Confirmado vs competencia | $4,799 en liverpool vs mercado -> -40% bajo la competencia |
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |
 | -26% | $2,530 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | Confirmado vs competencia | $7,149 en palacio vs mercado -> -26% bajo la competencia |
-| -25% | $2,500 | palacio | [Cafetera automática Coffee Crush Negra, acero inoxidable](https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html) | $7,499 | Confirmado vs competencia | $7,499 en palacio vs mercado -> -25% bajo la competencia |
 | -21% | $2,090 | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,809 | Confirmado vs competencia | $7,809 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -28% | $1,780 | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | Confirmado vs competencia | $4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,700 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| -25% | $1,600 | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | Confirmado vs competencia | $4,799 en liverpool vs mercado -> -25% bajo la competencia |
 | -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -40% | $1,600 | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | Confirmado vs competencia | $2,399 en palacio vs mercado -> -40% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
 | -29% | $998 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -29% bajo la competencia |
 | -20% | $900 | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | Confirmado vs competencia | $3,499 en palacio vs mercado -> -20% bajo la competencia |
+| -60% | $900 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -60% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -20% | $740 | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | Confirmado vs competencia | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
-| -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |
-| -30% | $349 | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |

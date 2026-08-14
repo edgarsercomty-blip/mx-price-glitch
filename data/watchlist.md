@@ -486,7 +486,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | -37% |
 | 🟢 disponible | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | -30% |
-| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -43% |
+| 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -60% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QNED 4K 65QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-4k-65qned81bsg-45505427.html) | $12,540 | -32% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Alomia](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086) | $399 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html) | $8,252 | -20% |
@@ -636,7 +636,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Nintendo Switch + Super Mario Bros Wonder + 3 meses gratis d…](https://www.amazon.com.mx/dp/B0FM1RC8RR) | $4,899 | -22% |
 | 🟢 disponible | amazon | [Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Multicolo…](https://www.amazon.com.mx/dp/B0BVRBNZZ2) | $227 | -21% |
 | 🟢 disponible | walmart | [TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM…](https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300) | $5,990 | -20% |
-| 🟢 disponible | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | -40% |
+| 🟢 disponible | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | -25% |
 | 🟢 disponible | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 …](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | -38% |
 | 🟢 disponible | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  AMD Ry…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | -36% |
 | 🟢 disponible | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | -35% |
