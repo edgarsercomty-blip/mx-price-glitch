@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (760)
+# Historial de ofertas encontradas (761)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-14 16:42 | -24% | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Invert…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873) | $5,960 | $5,960 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-14 16:08 | -21% | walmart | [Laptop HP 15-fd0274la Intel Core i7 10 nucleos 16GB RAM…](https://www.walmart.com.mx/ip/laptop-hp-15-fd0274la-intel-core-i7-10-nucleos-16gb-ram-512gb-ssd/00019899078759) | $18,996 | $18,996 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-08-14 16:08 | -24% | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/Fragancia-Nautica-200ml/00361422883403) | $265 | $265 en walmart vs amazon $2,419, amazon $2,462 -> -24% bajo la competencia |
 | 2026-08-14 16:08 | -32% | amazon | [Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Appl…](https://www.amazon.com.mx/dp/B0CX2512LK) | $22,499 | $22,499 en amazon vs mercado -> -32% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -50% | liverpool | [Pantalla Smart Tv Lg Uhd De 75 Pulgadas 4K Uhd 75Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-75-pulgadas-4k-uhd-75nu850bpsa-con-webos/1200202381) | $13,499 | $13,499 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-07-17 08:37 | -50% | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu85…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $9,999 | $9,999 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-07-17 08:37 | -53% | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50N…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $6,999 | $6,999 en liverpool vs mercado -> -53% bajo la competencia |
-| 2026-07-17 08:37 | -70% | palacio | [Correa deportiva para Apple Watch 42 mm Verde lago](https://www.elpalaciodehierro.com/apple-correa-deportiva-para-apple-watch-42-mm-verde-lago-44272712.html) | $330 | $330 en palacio vs mercado -> -70% bajo la competencia |

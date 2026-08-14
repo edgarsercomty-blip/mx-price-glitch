@@ -1,4 +1,4 @@
-# Productos en vigilancia (646)
+# Productos en vigilancia (647)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -552,7 +552,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
-| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -32% |
+| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
@@ -650,3 +650,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con…](https://www.amazon.com.mx/dp/B0CX2512LK) | $22,499 | -32% |
 | 🟢 disponible | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/Fragancia-Nautica-200ml/00361422883403) | $265 | -24% |
 | 🟢 disponible | walmart | [Laptop HP 15-fd0274la Intel Core i7 10 nucleos 16GB RAM 512G…](https://www.walmart.com.mx/ip/laptop-hp-15-fd0274la-intel-core-i7-10-nucleos-16gb-ram-512gb-ssd/00019899078759) | $18,996 | -21% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Fr…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873) | $5,960 | -24% |
