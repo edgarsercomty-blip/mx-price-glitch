@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (749)
+# Historial de ofertas encontradas (752)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-14 03:36 | -20% | amazon | [Skechers - Zapatillas de Deporte Skechers Bobs Squad Ch…](https://www.amazon.com.mx/dp/B0CSG9XKHT) | $966 | $966 en amazon vs mercado -> -20% bajo la competencia |
+| 2026-08-14 03:36 | -29% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $177 | $177 en amazon vs mercado -> -29% bajo la competencia |
+| 2026-08-14 03:36 | -45% | walmart | [Laptop HP AI 15-fd2353la 15.6" Windows 11 Home Intel Co…](https://www.walmart.com.mx/ip/laptop-hp-ai-15-fd2353la-15-6-windows-11-home-intel-core-ultra-5-24gb-ram-512gb-ssd-fhd-plateado-natural/00019989633109) | $15,349 | $15,349 en walmart vs mercado -> -45% bajo la competencia |
 | 2026-08-13 23:05 | -20% | amazon | [Piezas de repuesto originales OEM compatibles con licua…](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $541 | $541 en amazon vs amazon $676, amazon $1,620, amazon $2,033 -> -20% bajo la competencia |
 | 2026-08-13 16:14 | -21% | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | $1,146 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-13 16:14 | -21% | sams | [Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Sec…](https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322) | $11,937 | $11,937 en sams vs mercado -> -21% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-16 19:59 | -32% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $302 | $302 en liverpool vs mercado -> -32% bajo la competencia |
-| 2026-07-16 18:57 | -25% | palacio | [Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verd…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html) | $6,749 | $6,749 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-16 12:55 | -26% | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | $147 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-16 09:32 | -26% | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
