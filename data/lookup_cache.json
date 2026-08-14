@@ -21195,5 +21195,214 @@
   "sams|ASUSZENBOOKLAPTOPRYZENSSD": {
     "ts": "2026-08-14T05:50:31.261725+00:00",
     "items": []
+  },
+  "amazon|50QD6SFM": {
+    "ts": "2026-08-14T07:10:37.704529+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense televisión QD6S Pantalla 50“ Pulgadas, Hi-QLED 4K Smart TV，AI 4K Upscaler,Dolby Vision·Atmos，Modo de Protección Ocular，Game Mode Plus，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
+        "url": "https://www.amazon.com.mx/dp/B0GSRP64JX",
+        "price": 5899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XUNDEFINED Pantalla 50 Pulgadas QLED 4K UHD, Pantalla con HDR10+ y Dolby Audio, Whale OS, Control por Voz, Duplicación de Pantalla, WiFi, Bluetooth 5.0, 3 HDMI y 2 USB.",
+        "url": "https://www.amazon.com.mx/dp/B0FY4YM112",
+        "price": 5299.0,
+        "model": "HDR10"
+      }
+    ]
+  },
+  "walmart|50QD6SFM": {
+    "ts": "2026-08-14T07:10:57.220721+00:00",
+    "items": []
+  },
+  "sams|50QD6SFM": {
+    "ts": "2026-08-14T07:11:00.318340+00:00",
+    "items": []
+  },
+  "amazon|ASUSLAPTOPPROARTRYZENASUS": {
+    "ts": "2026-08-14T07:11:15.863544+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
+        "price": 12999.0,
+        "model": "15-fc0372la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ROG Strix G18 G815 Laptop para juegos AI de 18\" WUXGA 144Hz (100% sRGB) Intel 24-core i9-14900HX 32GB RAM 1TB SSD GeForce RTX 5070 GDDR7 (hasta 798 AI TOPS) RGB retroiluminado WiFi7 Thunderbolt",
+        "url": "https://www.amazon.com.mx/dp/B0GS2J8W9T",
+        "price": 54990.0,
+        "model": "i9-14900HX"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ROG Strix G18 RTX 5070 Pro Laptop para juegos, pantalla ROG Nebula de 18\" 2.5K 240Hz/3ms, AMD Ryzen 9 8940HX, NVIDIA RTX 5070 con ROG Boost, 32GB DDR5, 1TB SSD, teclado RGB, enfriamiento ROG",
+        "url": "https://www.amazon.com.mx/dp/B0FDXD7123",
+        "price": 57990.0,
+        "model": "240Hz/3ms"
+      },
+      {
+        "store": "amazon",
+        "name": "msi Katana 15 HX Laptop para juegos, visualización QHD 165Hz de 15.6 pulgadas, Intel Core i7-14650HX, NVIDIA Geforce RTX 5070, 16GB DDR5 RAM, 1TB SSD, Wi-Fi 6E, RGB retroiluminado, Cooler Boost 5, Win",
+        "url": "https://www.amazon.com.mx/dp/B0H1R27WSS",
+        "price": 39900.0,
+        "model": "i7-14650HX"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 AMD Ryzen™ AI 9 HX 370/ NVIDIA® GeForce RTX™ 5070/18 Tops/ 4K OLED 16:10: 60Hz/ 64GB/ 2TB SSD/Wi-Fi 7; Bluetooth® 5.4/ Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0FL9WF437",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 Ryzen AI 9 HX 370/RTX 5070 (8GB GDDR7)/50 Tops/Pantalla 16\" 3K OLED Touch/64GB RAM/2TB SSD/Mochila y Adaptador USB-A a RJ45 /Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6QMKSR",
+        "price": 58799.02,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 / 16\" 3K OLED/AMD Ryzen AI 9 HX 370 /NVIDIA RTX 5060/32GB /1TB SSD/DialPad/Incluye Mochila y Adaptador/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BXLDV",
+        "price": 47599.32,
+        "model": "5060/32GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 Go Pro/Ryzen AI MAX+ 388/AMD Radeon Graphics/50 Tops/Pantalla 13\" 3K OLED Touch/32GB RAM/1TB SSD/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ78ZQGF",
+        "price": 42999.0,
+        "model": "Graphics/50"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 /, Ryzen AI 9 HX 370/RTX 5090/50 Tops/Pantalla 16\" 4K OLED Touch/64GB RAM/2TB SSD/Mochila/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5J6NJ7",
+        "price": 90287.24,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 AI Gaming Laptop 2 en 1 visualización táctil AMOLED 2.8K visualización (AMD Ryzen AI 9 HX 370, 32GB LPDDR5X, 1TB SSD, KB retroiluminado, Win 11 Home) con Microsoft 365 Personal, DKZ",
+        "url": "https://www.amazon.com.mx/dp/B0DLBRXBPZ",
+        "price": 58890.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Expertbook P1/Ryzen 5/ 8G RAM / 512SSD/ Wi-Fi 6 + Bluetooth 5.4/ Diseñada para Seguridad empresarial/Mochila + Mouse (Servicio y garantía con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FWG8334L",
+        "price": 9899.0,
+        "model": "P1/Ryzen"
+      }
+    ]
+  },
+  "walmart|ASUSLAPTOPPROARTRYZENASUS": {
+    "ts": "2026-08-14T07:11:33.646330+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
+        "price": 17999.0,
+        "model": "13900H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
+        "price": 64350.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919510943?athbdg=L1300",
+        "price": 13999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 8GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-8gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919490696?athbdg=L1300",
+        "price": 11999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ROG Zephyrus G14 14” OLED 3K 120Hz Gaming AMD Ryzen 9 270 16GB LPDDR5X GeForce RTX 5060 1TB SSD Platinum White",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-zephyrus-g14-14-oled-3k-120hz-gaming-amd-ryzen-9-270-16gb-lpddr5x-geforce-rtx-5060-1tb-ssd-platinum-white/00019710586144?athbdg=L6000",
+        "price": 70419.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 2TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-2tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155453?athbdg=L1300",
+        "price": 41393.08,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-e1404fa-eb923w-r5-16gb-512gb/00019929140091",
+        "price": 11997.0,
+        "model": "E1404FA-EB923W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 1TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-1tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155451?athbdg=L1300",
+        "price": 37144.78,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      }
+    ]
+  },
+  "sams|ASUSLAPTOPPROARTRYZENASUS": {
+    "ts": "2026-08-14T07:11:34.382773+00:00",
+    "items": []
   }
 }

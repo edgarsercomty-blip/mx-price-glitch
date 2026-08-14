@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (752)
+# Historial de ofertas encontradas (753)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-14 07:11 | -21% | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $5,529 | $5,529 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-14 03:36 | -20% | amazon | [Skechers - Zapatillas de Deporte Skechers Bobs Squad Ch…](https://www.amazon.com.mx/dp/B0CSG9XKHT) | $966 | $966 en amazon vs mercado -> -20% bajo la competencia |
 | 2026-08-14 03:36 | -29% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $177 | $177 en amazon vs mercado -> -29% bajo la competencia |
 | 2026-08-14 03:36 | -45% | walmart | [Laptop HP AI 15-fd2353la 15.6" Windows 11 Home Intel Co…](https://www.walmart.com.mx/ip/laptop-hp-ai-15-fd2353la-15-6-windows-11-home-intel-core-ultra-5-24gb-ram-512gb-ssd-fhd-plateado-natural/00019989633109) | $15,349 | $15,349 en walmart vs mercado -> -45% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402) | $42,499 | $42,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
-| 2026-07-16 19:59 | -32% | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $302 | $302 en liverpool vs mercado -> -32% bajo la competencia |
