@@ -1,16 +1,14 @@
-# Productos en vigilancia (642)
+# Productos en vigilancia (646)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
 | Estado | Tienda | Producto | Precio | Desc. |
 |--------|--------|----------|-------:|------:|
 | 🔴 agotado | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | -70% |
-| 🔴 agotado | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $9,999 | -32% |
 | 🔴 agotado | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | -37% |
 | 🔴 agotado | walmart | [BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BE…](https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300) | $6,599 | -31% |
 | 🔴 agotado | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | -21% |
 | 🔴 agotado | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | -21% |
-| 🔴 agotado | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación Activ…](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,799 | -21% |
 | 🔴 agotado | liverpool | [Apple MacBook Air 13.6" M3 8GB/256GB (ERROR precio ~75%)](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-6-pulgadas-m3-8-gb-ram-256-gb-ssd-plateado/1153206542) | $5,684 | -75% |
 | 🔴 agotado | walmart | [Pantalla 43 pulgadas Samsung Crystal U8200H 4K Smart TV (202…](https://www.walmart.com.mx/ip/pantalla-43-pulgadas-samsung-crystal-u8200h-4k-smart-tv-2026-/00750940184218) | $4,290 | -28% |
 | 🟢 disponible | liverpool | [Refrigerador French door Whirlpool 20 pies tecnología no fro…](https://liverpool.com.mx/tienda/pdp/Refrigerador-French-door-Whirlpool-20-pies-tecnolog%C3%ADa-no-frost-MWRF220SEHM/1077266981) | $24,641 | -24% |
@@ -44,6 +42,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBAB0 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | -59% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $12,544 | -45% |
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Boci…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $20,499 | -45% |
+| 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $9,999 | -32% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $14,159 | -25% |
 | 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $16,183 | -24% |
 | 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $9,204 | -23% |
@@ -151,18 +150,18 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $46,199 | -23% |
 | 🟢 disponible | amazon | [Hisense Television QD65QV(Modelo 2025) Pantalla 65 Pulgadas,…](https://www.amazon.com.mx/dp/B0GHYFZHYM) | $7,827 | -35% |
 | 🟢 disponible | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | -29% |
-| 🟢 disponible | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $767 | -25% |
+| 🟢 disponible | amazon | [Calvin Klein Charie - Tenis para Mujer](https://www.amazon.com.mx/dp/B0F6Q3M46D) | $768 | -25% |
 | 🟢 disponible | walmart | [Aire Minisplit 220v Mirage LIFE 12 + Solo Frío 1 tonelada 12…](https://www.walmart.com.mx/ip/aire-minisplit-220v-mirage-life-12-solo-frio-1-tonelada-12000-btu/00046551816049?athbdg=L1300) | $5,299 | -21% |
 | 🟢 disponible | walmart | [Secadora  de Cabello Revlon Essentials Control de Frizz](https://www.walmart.com.mx/ip/secadora-de-cabello-revlon-essentials-control-de-frizz/00076131812773?athbdg=L1510) | $556 | -40% |
 | 🟢 disponible | amazon | [Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 Horas …](https://www.amazon.com.mx/dp/B0D3JCYKG4) | $1,262 | -29% |
 | 🟢 disponible | sams | [Refrigerador Hisense  16 Pies Cúbicos Top Mount Negro RT16N6…](https://www.sams.com.mx/ip/refrigerador-hisense-16-pies-cubicos-top-mount-negro-rt16n6bdx/981037023) | $10,222 | -28% |
-| 🟢 disponible | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $7,299 | -21% |
+| 🟢 disponible | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1300) | $6,990 | -21% |
 | 🟢 disponible | walmart | [Auriculares Bluetooth Lenovo TA410 Bluetooth 5.4 con micrófo…](https://www.walmart.com.mx/ip/auriculares-bluetooth-lenovo-ta410-bluetooth-5-4-con-microfono/00046876091952?athbdg=L1300) | $349 | -43% |
 | 🟢 disponible | amazon | [UGREEN USB C Hub, 5 en 1 Adaptador USB C Multipuerto Alumini…](https://www.amazon.com.mx/dp/B0BR3M8XHK) | $348 | -30% |
 | 🟢 disponible | amazon | [TCL Smart TV Pantalla 98" 98QM6K Google TV QLED - MiniLED 4K…](https://www.amazon.com.mx/dp/B0DZN8SX9J) | $29,998 | -22% |
 | 🟢 disponible | sams | [Pantalla Samsung  55" QLED Smart TV QN55Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-55-qled-smart-tv-qn55q7faafxzx/981033909) | $7,157 | -21% |
-| 🟢 disponible | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $604 | -31% |
-| 🟢 disponible | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $1,889 | -68% |
+| 🟢 disponible | amazon | [Nautica - Tenis deportivos de moda para mujer, con cordones,…](https://www.amazon.com.mx/dp/B0DBWJ6LXF) | $822 | -31% |
+| 🟢 disponible | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $619 | -43% |
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- NEGRO](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,879 | -26% |
 | 🟢 disponible | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 128 Gb 6 Gb Color …](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-128-gb-6-gb-color-negro/p/MLM54097181) | $3,920 | -40% |
 | 🟢 disponible | amazon | [XuanPad 【Compatible with Netflix】 Plateado Mini Proyector Po…](https://www.amazon.com.mx/dp/B0G3WGXKRK) | $2,500 | -24% |
@@ -172,6 +171,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Licuadora Oster Pro 1200 Jarra Vidrio+ Vaso Batidos Color Pl…](https://www.mercadolibre.com.mx/licuadora-oster-pro-1200-jarra-vidrio-vaso-batidos-color-plateado/p/MLM28082169) | $3,500 | -38% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $61,379 | -20% |
 | 🟢 disponible | walmart | [Kingston USB Flash Drive DataTraveler Exodia, 128GB, data st…](https://www.walmart.com.mx/ip/kingston-usb-flash-drive-datatraveler-exodia-128gb-data-storage-/00535121648420) | $689 | -65% |
+| 🟢 disponible | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación Activ…](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $4,499 | -21% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | -47% |
 | 🟢 disponible | amazon | [Scotch-Brite Fibra Esponja Multiuso, La Original Verde-Amari…](https://www.amazon.com.mx/dp/B00A7494TM) | $10 | -40% |
 | 🟢 disponible | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corre…](https://www.amazon.com.mx/dp/B08D47L4VB) | $285 | -33% |
@@ -552,7 +552,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
-| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
+| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -32% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
@@ -578,7 +578,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Bose Auriculares Ultra Abiertos con Audio inmersivo, Auricul…](https://www.amazon.com.mx/dp/B0CPFV77W4) | $4,289 | -21% |
 | 🟢 disponible | sams | [Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.…](https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739) | $999 | -35% |
 | 🟢 disponible | sams | [Refrigerador Midea  20 Pies Cúbicos Side By Side Plus Invert…](https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735) | $12,991 | -40% |
-| 🟢 disponible | mercadolibre | [Pantalla Smart Tv Roku 43 PuLG. Jvc](https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473) | $4,499 | -35% |
+| 🟢 disponible | mercadolibre | [Pantalla Smart Tv Roku 43 PuLG. Jvc](https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473) | $4,499 | -21% |
 | 🟢 disponible | sams | [Combo T-fal  Freidora + Licuadora + Cafetera ](https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797) | $1,942 | -34% |
 | 🟢 disponible | walmart | [Procesador de Alimentos Hamilton Beach 4 Tazas Negro](https://www.walmart.com.mx/ip/procesador-de-alimentos-hamilton-beach-4-tazas-negro/00004009470510?athbdg=L1300) | $759 | -34% |
 | 🟢 disponible | sams | [Licuadora Turmix  Max Power Cherry](https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232) | $817 | -33% |
@@ -588,7 +588,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Celular Samsung Galaxy A16 128 GB 4 GB de RAM 6.7" Gris](https://www.mercadolibre.com.mx/celular-samsung-galaxy-a16-128-gb-4-gb-de-ram-67-gris/p/MLM44113908) | $3,437 | -31% |
 | 🟢 disponible | sams | [Batidora de Pedestal Daewoo Blanco](https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847) | $1,533 | -29% |
 | 🟢 disponible | walmart | [Refrigerador Portátil Sunnimix 12V con Congelador](https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300) | $2,049 | -28% |
-| 🟢 disponible | mercadolibre | [Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Te…](https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159) | $2,507 | -28% |
+| 🟢 disponible | mercadolibre | [Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Te…](https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159) | $2,503 | -28% |
 | 🟢 disponible | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $32,734 | -22% |
 | 🟢 disponible | sams | [Refrigerador GE Profile  26 Pies Cúbicos Dúplex Black Steel …](https://www.sams.com.mx/ip/refrigerador-ge-profile-26-pies-cubicos-duplex-black-steel-pnm26pgtfps/981036222) | $25,799 | -23% |
 | 🟢 disponible | amazon | [Samsung Galaxy A17 6+128GB Azul Claro](https://www.amazon.com.mx/dp/B0FSF35HP1) | $3,700 | -26% |
@@ -630,7 +630,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Lavadora Semiautomática Acros de 22 kg con Tina de Acero Por…](https://www.mercadolibre.com.mx/lavadora-semiautomatica-acros-de-22-kg-con-tina-de-acero-porcelanizado-blanca/p/MLM15810415) | $4,468 | -26% |
 | 🟢 disponible | walmart | [Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0](https://www.walmart.com.mx/ip/lavadora-mabe-doble-tina-13-kg-blanca-lmdx3123hbab0/00075763838988?athbdg=L1300) | $3,490 | -26% |
 | 🟢 disponible | amazon | [Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB R…](https://www.amazon.com.mx/dp/B0H2X99YX1) | $19,999 | -26% |
-| 🟢 disponible | amazon | [Guess Loven Zapatillas para Mujer](https://www.amazon.com.mx/dp/B09NLBWH3K) | $750 | -23% |
+| 🟢 disponible | amazon | [Guess Loven Zapatillas para Mujer](https://www.amazon.com.mx/dp/B09NLBWH3K) | $750 | -20% |
 | 🟢 disponible | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido QuietCo…](https://www.amazon.com.mx/dp/B0D4Z9HG1X) | $5,249 | -24% |
 | 🟢 disponible | sams | [Refrigerador Whirlpool 25 Pies Cúbicos Duplex WD5600S](https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529) | $18,587 | -22% |
 | 🟢 disponible | amazon | [Nintendo Switch + Super Mario Bros Wonder + 3 meses gratis d…](https://www.amazon.com.mx/dp/B0FM1RC8RR) | $4,899 | -22% |
@@ -643,6 +643,10 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Piezas de repuesto originales OEM compatibles con licuadora …](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $541 | -20% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643) | $11,242 | -45% |
 | 🟢 disponible | walmart | [Laptop HP AI 15-fd2353la 15.6" Windows 11 Home Intel Core Ul…](https://www.walmart.com.mx/ip/laptop-hp-ai-15-fd2353la-15-6-windows-11-home-intel-core-ultra-5-24gb-ram-512gb-ssd-fhd-plateado-natural/00019989633109) | $15,349 | -45% |
-| 🟢 disponible | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette para …](https://www.amazon.com.mx/dp/B000P22TIY) | $177 | -29% |
+| 🟢 disponible | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette para …](https://www.amazon.com.mx/dp/B000P22TIY) | $229 | -29% |
 | 🟢 disponible | amazon | [Skechers MAX Cushion Endeavour Canova para Mujer](https://www.amazon.com.mx/dp/B0CZ91W3MX) | $1,146 | -21% |
 | 🟢 disponible | amazon | [Skechers - Zapatillas de Deporte Skechers Bobs Squad Chaos p…](https://www.amazon.com.mx/dp/B0CSG9XKHT) | $966 | -20% |
+| 🟢 disponible | amazon | [Tarjeta de Control para Lavadora 8mwtw2231wjb, Sistema Smart…](https://www.amazon.com.mx/dp/B0G5YBVXFN) | $2,788 | -72% |
+| 🟢 disponible | amazon | [Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con…](https://www.amazon.com.mx/dp/B0CX2512LK) | $22,499 | -32% |
+| 🟢 disponible | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/Fragancia-Nautica-200ml/00361422883403) | $265 | -24% |
+| 🟢 disponible | walmart | [Laptop HP 15-fd0274la Intel Core i7 10 nucleos 16GB RAM 512G…](https://www.walmart.com.mx/ip/laptop-hp-15-fd0274la-intel-core-i7-10-nucleos-16gb-ram-512gb-ssd/00019899078759) | $18,996 | -21% |

@@ -1,9 +1,16 @@
-# Historial de ofertas encontradas (753)
+# Historial de ofertas encontradas (760)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-14 16:08 | -21% | walmart | [Laptop HP 15-fd0274la Intel Core i7 10 nucleos 16GB RAM…](https://www.walmart.com.mx/ip/laptop-hp-15-fd0274la-intel-core-i7-10-nucleos-16gb-ram-512gb-ssd/00019899078759) | $18,996 | $18,996 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-08-14 16:08 | -24% | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/Fragancia-Nautica-200ml/00361422883403) | $265 | $265 en walmart vs amazon $2,419, amazon $2,462 -> -24% bajo la competencia |
+| 2026-08-14 16:08 | -32% | amazon | [Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Appl…](https://www.amazon.com.mx/dp/B0CX2512LK) | $22,499 | $22,499 en amazon vs mercado -> -32% bajo la competencia |
+| 2026-08-14 16:08 | -43% | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2…](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $619 | $619 en walmart vs mercado -> -43% bajo la competencia |
+| 2026-08-14 16:08 | -72% | amazon | [Tarjeta de Control para Lavadora 8mwtw2231wjb, Sistema …](https://www.amazon.com.mx/dp/B0G5YBVXFN) | $2,788 | $2,788 en amazon vs walmart $9,899, amazon $12,799 -> -72% bajo la competencia |
+| 2026-08-14 16:08 | -21% | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación …](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
+| 2026-08-14 16:08 | -32% | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/Lavadora-Whirlpool-Carga-Superior-21-Kg-Negra/00770822805142) | $9,999 | 🔁 DE NUEVO DISPONIBLE en walmart: $9,999 (estaba agotado) |
 | 2026-08-14 07:11 | -21% | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $5,529 | $5,529 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-14 03:36 | -20% | amazon | [Skechers - Zapatillas de Deporte Skechers Bobs Squad Ch…](https://www.amazon.com.mx/dp/B0CSG9XKHT) | $966 | $966 en amazon vs mercado -> -20% bajo la competencia |
 | 2026-08-14 03:36 | -29% | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette …](https://www.amazon.com.mx/dp/B000P22TIY) | $177 | $177 en amazon vs mercado -> -29% bajo la competencia |
@@ -397,10 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -50% | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu85…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $9,999 | $9,999 en liverpool vs mercado -> -50% bajo la competencia |
 | 2026-07-17 08:37 | -53% | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50N…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $6,999 | $6,999 en liverpool vs mercado -> -53% bajo la competencia |
 | 2026-07-17 08:37 | -70% | palacio | [Correa deportiva para Apple Watch 42 mm Verde lago](https://www.elpalaciodehierro.com/apple-correa-deportiva-para-apple-watch-42-mm-verde-lago-44272712.html) | $330 | $330 en palacio vs mercado -> -70% bajo la competencia |
-| 2026-07-17 00:14 | -67% | liverpool | [Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272) | $2,183 | $2,183 en liverpool vs mercado -> -67% bajo la competencia |
-| 2026-07-16 21:03 | -37% | liverpool | [Cafetera Espresso Oster 212196](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-212196/1110425665) | $2,393 | $2,393 en liverpool vs mercado -> -37% bajo la competencia |
-| 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Me…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $47,499 | $47,499 en liverpool vs mercado -> -46% bajo la competencia |
-| 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466) | $42,499 | $42,499 en liverpool vs mercado -> -46% bajo la competencia |
-| 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ss…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402) | $42,499 | $42,499 en liverpool vs mercado -> -46% bajo la competencia |
-| 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
-| 2026-07-16 21:03 | -46% | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb …](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | $34,999 en liverpool vs mercado -> -46% bajo la competencia |
