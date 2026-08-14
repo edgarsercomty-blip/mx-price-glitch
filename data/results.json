@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14 14:53 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-14 15:43 UTC",
+  "products_scanned": 1570,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
@@ -148,6 +148,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9569.71,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
+      "price": 23429.29,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44444419",
         "outlet": false
       }
     },
@@ -587,27 +608,6 @@
       "extra": {
         "productId": "1189090401",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
-        "outlet": false
       }
     },
     {
