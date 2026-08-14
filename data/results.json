@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-14 20:25 UTC",
-  "products_scanned": 1640,
+  "generated_at": "2026-08-14 21:01 UTC",
+  "products_scanned": 1584,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
-      "savings": 68.4,
-      "store": "liverpool",
-      "name": "Funda Para Almohada Ribbed",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
-      "price": 68.4,
-      "list_price": 228.0,
+      "savings": 1745.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
       "ean": null,
       "model": null,
-      "brand": "WEST ELM",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1172986773",
-        "marketplace": null
+        "id": "43394466",
+        "outlet": false
       }
     },
     {
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs sams $2,556, walmart $2,799, sams $3,061 -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 811.48,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43394466",
         "outlet": false
       }
     },
@@ -566,27 +545,6 @@
       "extra": {
         "id": "45345508",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 53.5,
-      "detail": "$5,529 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1470.3,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50Qd6Sfm Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044",
-      "price": 5529.0,
-      "list_price": 11899.0,
-      "ean": null,
-      "model": "50Qd6Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197753044",
-        "marketplace": null
       }
     },
     {
