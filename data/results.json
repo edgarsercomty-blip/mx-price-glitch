@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14 23:13 UTC",
-  "products_scanned": 1581,
+  "generated_at": "2026-08-14 23:38 UTC",
+  "products_scanned": 1575,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "45522776",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1429.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Combo Blender Nut Grise",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709",
-      "price": 2400.0,
-      "list_price": 4000.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172657709",
-        "marketplace": null
       }
     },
     {
