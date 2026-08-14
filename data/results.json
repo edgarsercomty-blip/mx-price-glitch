@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14 12:26 UTC",
-  "products_scanned": 1624,
+  "generated_at": "2026-08-14 13:59 UTC",
+  "products_scanned": 1622,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.0,
-      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9569.71,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
-      "price": 23429.29,
-      "list_price": 32999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44444419",
         "outlet": false
       }
     },
