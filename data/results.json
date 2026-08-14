@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14 23:38 UTC",
-  "products_scanned": 1575,
+  "generated_at": "2026-08-14 23:56 UTC",
+  "products_scanned": 1582,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -566,27 +566,6 @@
       "extra": {
         "id": "43216481",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$7,951 en liverpool vs walmart $9,990 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2038.56,
-      "store": "liverpool",
-      "name": "Refrigerador Mabe Home Energy Saver Rma250Pvmrp1",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-mabe-home-energy-saver-rma250pvmrp1/1205210136",
-      "price": 7951.44,
-      "list_price": 14199.0,
-      "ean": null,
-      "model": "Rma250Pvmrp1",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1205210136",
-        "marketplace": null
       }
     },
     {
