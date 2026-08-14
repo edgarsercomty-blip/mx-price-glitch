@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-14 16:42 UTC",
-  "products_scanned": 1611,
+  "generated_at": "2026-08-14 17:47 UTC",
+  "products_scanned": 1584,
   "threshold_pct": 20.0,
   "count": 33,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$68 en liverpool vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 68.4,
-      "store": "liverpool",
-      "name": "Funda Para Almohada Ribbed",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
-      "price": 68.4,
-      "list_price": 228.0,
-      "ean": null,
-      "model": null,
-      "brand": "WEST ELM",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172986773",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -419,6 +398,27 @@
       "extra": {
         "id": "45366538",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.5,
+      "detail": "$5,960 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1833.86,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Frio Y Calor 12000 Btu S12P Ehv13 110 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv13-110-v/1153833857",
+      "price": 5960.05,
+      "list_price": 13099.0,
+      "ean": null,
+      "model": "Ehv13",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1153833857",
+        "marketplace": null
       }
     },
     {

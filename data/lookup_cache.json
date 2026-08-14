@@ -3712,370 +3712,6 @@
     "ts": "2026-08-14T14:53:06.078630+00:00",
     "items": []
   },
-  "amazon|APPLEMEDIANOCHEMACBOOKRAM256": {
-    "ts": "2026-08-12T17:13:53.689518+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 21999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 256GB SSD de Memoria) Blanco Estrella (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FB57GXYP",
-        "price": 19999.0,
-        "model": "13-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Apple MacBook Air 2022 con chip Apple M2 (13.6 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) medianoche (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B0BHC15G32",
-        "price": 14199.69,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air con chip Apple M1 (13 pulgadas, 8 GB de RAM, 256 GB de almacenamiento SSD) – dorado (modelo más reciente) (renovado)",
-        "url": "https://www.amazon.com.mx/dp/B08Q78RLMB",
-        "price": 9335.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2023 Apple MacBook Air con Apple M2 Chip (15-pulgadas, 8GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CFT39XJZ",
-        "price": 16489.03,
-        "model": "15-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "2022 Apple MacBook Pro with M2 Chip (13-Pulgadas, 8GB RAM, 256GB SSD Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BGQJ7LDN",
-        "price": 13920.94,
-        "model": "13-Pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-Pulgadas, 16GB Memoria Unificada, 256GB SSD de Almacenamiento) (QWERTY English) Azul Cielo (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0F518SXRM",
-        "price": 17711.94,
-        "model": "13-Pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air 13.3pulgadas MQD32LL/A, Intel Core i5-5350U 1.8Ghz, 8GB RAM, 256GB SSD, Plata (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07XQJ5BB9",
-        "price": 4199.0,
-        "model": "3pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2019 MacBook Pro con 2.6GHz Intel Core i7 (15-pulgadas, 16GB RAM, 256GB SSD) (QWERTY English) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0849W8JK7",
-        "price": 9267.34,
-        "model": "15-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MNYF2LL/A 12in MacBook, Retina, 1.2GHz Intel Core m3 Dual Core Processor, 8GB RAM, 256GB SSD, Space Gray (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07JF3DKQ8",
-        "price": 6102.17,
-        "model": "MNYF2LL/A"
-      }
-    ]
-  },
-  "walmart|APPLEMEDIANOCHEMACBOOKRAM256": {
-    "ts": "2026-08-12T17:14:46.646602+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
-        "price": 21349.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
-        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983719?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Neo 13\" 256 GB Índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-indigo/00893336968316?athbdg=L1300",
-        "price": 14279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Neo 13\" 256 GB Plata",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-neo-13-256-gb-plata/00893388451210?athbdg=L1300",
-        "price": 14279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Air Apple Chip M1 8-Core GPU 8GB 256GB Plata Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-chip-m1-8-core-gpu-8gb-256gb-plata-reacondicionado/00750046568421?athbdg=L1300",
-        "price": 9371.0,
-        "model": "8-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m1-8-core-gpu-8gb-256gb-plata/00019425205617?athbdg=L1300",
-        "price": 13643.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Plata Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-plata-reacondicionado/00076404678004?athbdg=L1500",
-        "price": 7689.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air 2020 13.3\" Core i3 8GB 256GB Gris Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-2020-13-3-core-i3-8gb-256gb-gris-reacondicionado/00076404677995?athbdg=L1500",
-        "price": 7689.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Macbook Air 13\" M1 8GB 256GB Gris Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/laptop-macbook-air-13-m1-8gb-256gb-gris-reacondicionado/00076404678017?athbdg=L1500",
-        "price": 10249.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Starlight Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-starlight-teclado-retroiluminado-touch-id/00019595068879?athbdg=L1300",
-        "price": 26839.0,
-        "model": "10-Core"
-      }
-    ]
-  },
-  "sams|APPLEMEDIANOCHEMACBOOKRAM256": {
-    "ts": "2026-08-12T17:14:51.985914+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-12T17:14:57.939617+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 5949.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3978.85,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
-        "price": 2717.71,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
-        "price": 1875.18,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4990.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow",
-        "url": "https://www.amazon.com.mx/dp/B0FJZC1Z61",
-        "price": 2790.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-12T17:15:13.856596+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Next Coffee & Nespresso BNV550GRY1BUC1Nespresso",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-next-coffee-nespresso-bnv550gry1buc1nespresso/00002161480207?athbdg=L1300",
-        "price": 6892.0,
-        "model": "BNV550GRY1BUC1Nespresso"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712022",
-        "price": 3448.85,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville Red",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville-red/00002161480798?athbdg=L1300",
-        "price": 2819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Next ENV120GYAE Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-env120gyae-reacondicionado/00004438701205?athbdg=L1300",
-        "price": 4059.0,
-        "model": "ENV120GYAE"
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3919.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y Espresso Nespresso Vertuo Next de De'Longhi con e Nespresso Nespresso",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-de-de-longhi-con-e-nespresso-nespresso/00004438701206?athbdg=L1300",
-        "price": 4759.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-12T17:15:14.951098+00:00",
-    "items": []
-  },
   "amazon|APPLEESPACIALMACBOOKSSDRAM": {
     "ts": "2026-08-12T18:08:14.084294+00:00",
     "items": [
@@ -21596,6 +21232,595 @@
   },
   "sams|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
     "ts": "2026-08-14T16:42:28.168083+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
+        "price": 1599.0,
+        "model": "1200W"
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Clásica 1.25L Gris",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Max Power Cherry",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
+        "price": 817.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Turbo Max Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
+        "price": 1533.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
+        "price": 2555.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
+        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
+        "price": 1277.73,
+        "model": "BL7019-0MPLA"
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
+        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
+        "price": 1707.39,
+        "model": null
+      }
+    ]
+  },
+  "amazon|EHV13": {
+    "ts": "2026-08-14T17:45:32.535108+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Headpho de Conducción de Huesos con 5.3, Pantalla LED, Auriculares Sport IPX5, Música Liviana para E Active E",
+        "url": "https://www.amazon.com.mx/dp/B0DWBYN7R2",
+        "price": 469.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS C30 Audífonos Inalámbricos In-Ear ANC -52dB | Graves Potentes Hasta 52 Horas de Reproducción Drivers Dinámicos Duales de 12mm 6 Micrófonos con IA Hi-Res LDAC Carga Rápida",
+        "url": "https://www.amazon.com.mx/dp/B0FW3XQ7WB",
+        "price": 678.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GOWENIC Auriculares Inalámbricos con Pantalla Táctil HD, Auriculares Inalámbricos Estéreo HiFi de Graves Profundos, Auriculares Deportivos con Estuche de Carga, Auriculares Intrauditivos",
+        "url": "https://www.amazon.com.mx/dp/B0DNN5JC2R",
+        "price": 1317.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beyamis LP40 TWS Auriculares Bluetooth 5.0 True Wireless Control táctil Auriculares Deportivos Resistentes al Sudor Auriculares intrauditivos con micrófono Funda de Carga de 230mAh",
+        "url": "https://www.amazon.com.mx/dp/B0BNKWRK67",
+        "price": 239.0,
+        "model": "230mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "Sendowtek Auriculares de Conducción de Aire Inalámbricos Audífonos Inalámbricos Bluetooth 5.2 Auriculares Inalámbricos Impermeables IPX5 Open-Ear Headphones para Carrera, Deportes y Ejercicio (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0C9363PQ2",
+        "price": 239.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UGREEN ClipBuds Audífonos Inalámbricos Bluetooth 6.0 con 4 Micrófonos 30H | Audífonos Open Ear 12 mm Diafragma, Control por App, IPX5 para Deportes al Aire Libre y Fitness, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F94D64P3",
+        "price": 599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UGREEN HiTune S3 Air Audífonos Inalámbricos In Ear 35 H con 2 AI Micrófonos | Audífonos Open Ear Bluetooth 6.0 12 mm Diafragma, Control por App, IPX5 para Deportes al Aire Libre y Fitness, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0GL72TTHL",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI FreeBuds SE 2 Auriculares 40 Horas de Batería, Protección IP54 contra el Polvo y Las Salpicaduras, Bluetooth 5.3, iOS y Android, Audifonos Inalambricos",
+        "url": "https://www.amazon.com.mx/dp/B0DPQGH1XD",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "DEWALT Auriculares inalámbricos Bluetooth con Banda para el Cuello - Auriculares con Banda para el Cuello con 15 Horas de autonomía - Auriculares inalámbricos con Aislamiento del Ruido",
+        "url": "https://www.amazon.com.mx/dp/B09ZK2QWD1",
+        "price": 826.67,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS Q40HD Audífonos Deportivos Hi-Res LDAC Drivers Duales 11mm IP67 | Diseño Magnético AI ENC Llamadas Claras Bluetooth 6.0 Audio Espacial 360° Baja Latencia App 20Horas de Batería Carga Rápida",
+        "url": "https://www.amazon.com.mx/dp/B0FBVR6PVL",
+        "price": 749.21,
+        "model": "20Horas"
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS Q3 Pro Audífonos Inalámbricos In-Ear ANC -38dB Graves Potentes | Hasta 42 Horas de Reproducción Driver Dinámico de 13mm 4 Micrófonos IA Carga Rápida IP55 App para iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GSVK57Z8",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI FreeBuds Pro 5 Audífonos inalámbricos, Arena | Cancelación de Ruido IA de Doble Motor para Negocios y Oficina, Ajuste Seguro Sonido Inmersivo, Llamadas Estables",
+        "url": "https://www.amazon.com.mx/dp/B0GL1QZMRW",
+        "price": 2799.3,
+        "model": null
+      }
+    ]
+  },
+  "walmart|EHV13": {
+    "ts": "2026-08-14T17:45:45.152017+00:00",
+    "items": []
+  },
+  "sams|EHV13": {
+    "ts": "2026-08-14T17:45:52.345022+00:00",
+    "items": []
+  },
+  "amazon|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-14T17:45:55.873386+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora Profesional 1000W, 2.1L, 4 Velocidades + Pulso | 1000W con Jarra 2.1L | Total Crushing Tritura Hielo en Nieve | 4 vel + pulso | Apto lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B07ZZM1TQP",
+        "price": 1639.0,
+        "model": "1000W"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora Profesional Plus DUO 1400W, Jarra 2.1L + 2 Vasos | Pro Extractor Blades para Extracciones | Jarra 2.1L + 2 vasos | 3 Auto-IQ | Apto lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B0BMGSZMW9",
+        "price": 2406.62,
+        "model": "1400W"
+      },
+      {
+        "store": "amazon",
+        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
+        "price": 2899.0,
+        "model": "2000W"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
+        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
+        "price": 2229.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
+        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
+        "price": 2327.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Kitchen Aid Diamond Jar Original modelo KSB560. Capacidad: 56 onzas Número de parte WPW10555711 Reemplaza los números de parte 9708904, W10390812 y W10555711",
+        "url": "https://www.amazon.com.mx/dp/B074X6DHGR",
+        "price": 1367.49,
+        "model": "WPW10555711"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
+        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
+        "price": 2329.0,
+        "model": "500ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de cristal para batidora K400 (1,4 L)",
+        "url": "https://www.amazon.com.mx/dp/B085ZFG431",
+        "price": 3160.59,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VASO PARA LICUADORA KITCHENAID ORIGINAL",
+        "url": "https://www.amazon.com.mx/dp/B07CSBVCVM",
+        "price": 1419.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
+        "price": 3106.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
+        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
+        "price": 2369.4,
+        "model": null
+      }
+    ]
+  },
+  "walmart|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-14T17:46:04.800717+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3049.0,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
+        "price": 2229.0,
+        "model": "7KSB2078MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
+        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
+        "price": 2789.0,
+        "model": "7KSB1330MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
+        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora 1.7 Litros KitchenAid 7KSB4027MBM Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/licuadora-1-7-litros-kitchenaid-7ksb4027mbm-negro-mate/00088304953389?athbdg=L1300",
+        "price": 5269.0,
+        "model": "7KSB4027MBM"
+      },
+      {
+        "store": "walmart",
+        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Porcelain White",
+        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-porcelain-white/00088304992572?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
+        "price": 5409.0,
+        "model": "KSB2078"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos/00088304993150?athbdg=L1300",
+        "price": 6119.0,
+        "model": "KSB2078"
+      }
+    ]
+  },
+  "sams|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
+    "ts": "2026-08-14T17:46:29.861904+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
+        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
+        "price": 858.3,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Turbo Max Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
+        "price": 1533.48,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
+        "price": 1599.0,
+        "model": "1200W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Backpack Cool Capital  Portalaptop Negro + Funda para Laptop",
+        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-negro-funda-para-laptop/981053139",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Audífonos Inalámbricos STF  1 On Ear y 1 TWS Negro",
+        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-1-on-ear-y-1-tws-negro/981045217",
+        "price": 611.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Realme  C75 256 GB Bait Negro + Bocina",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-realme-c75-256-gb-bait-negro-bocina/981036399",
+        "price": 7159.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Teclado Inalámbrico Logitech  + Mouse Inalámbrico MK 540 Advanced Negro ",
+        "url": "https://www.sams.com.mx/ip/combo-teclado-inalambrico-logitech-mouse-inalambrico-mk-540-advanced-negro/981045923",
+        "price": 1369.8,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Audífonos Inalámbricos STF Kit All in One Negro + Smartwatch + Crossbody",
+        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
+        "price": 673.13,
+        "model": null
+      }
+    ]
+  },
+  "amazon|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
+    "ts": "2026-08-14T17:46:37.555282+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Licuadora clásica Oster reversible cromada vaso de vidrio BLSTBESTE013",
+        "url": "https://www.amazon.com.mx/dp/B08V5RN8D9",
+        "price": 1525.0,
+        "model": "BLSTBESTE013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
+        "price": 598.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora 800 W con Vaso de Vidrio de 1.5 L y 2 Velocidades + Pulso | Para recetas frías y calientes, jugos y salsas, cuchilla trituradora de hielo, acople metálico, botones, negro, BLSTKAG-BPB",
+        "url": "https://www.amazon.com.mx/dp/B08DPX1PPZ",
+        "price": 675.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
+        "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
+        "price": 2099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
+        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
+        "price": 1827.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Galaxy 10 Vel Vaso plástico Almendra 869-16",
+        "url": "https://www.amazon.com.mx/dp/B009B7OBIU",
+        "price": 777.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora BLST4108, 1.25 Litros, 800W, 10 Velocidades, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0C4812MS5",
+        "price": 733.0,
+        "model": "BLST4108"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
+        "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
+        "price": 198.48,
+        "model": "BLSTAJ4954"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
+        "price": 1487.0,
+        "model": "BLSTBESTE-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 825.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
+    "ts": "2026-08-14T17:47:43.315013+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1510",
+        "price": 774.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
+        "price": 4375.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3049.0,
+        "model": "10-En-1"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
+        "price": 2190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster 10 Velocidades Blanco",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
+        "price": 719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
+        "price": 669.0,
+        "model": "EW-H801"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster 1 Velocidad Silver",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
+        "price": 1190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
+        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
+        "price": 5767.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-licuadora-de-10-velocidades-cuchillas-acero-869-16g/00003426400153?athbdg=L1300",
+        "price": 779.0,
+        "model": "869-16G"
+      },
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 1999.0,
+        "model": "7KHBV83MPA"
+      }
+    ]
+  },
+  "sams|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
+    "ts": "2026-08-14T17:47:47.692156+00:00",
     "items": [
       {
         "store": "sams",
