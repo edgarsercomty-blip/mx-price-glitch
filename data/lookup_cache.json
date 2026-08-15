@@ -33640,5 +33640,102 @@
         "model": "GPU/16GB/512GB"
       }
     ]
+  },
+  "amazon|VX182H4": {
+    "ts": "2026-08-15T17:35:52.410527+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hella - Foco H4-100 de alta potencia de 100/80 vatios",
+        "url": "https://www.amazon.com.mx/dp/B000COBLKW",
+        "price": 80.0,
+        "model": "H4-100"
+      },
+      {
+        "store": "amazon",
+        "name": "Hella H4 24V HD Juego de Focos Halógenos Resistentes 75/70 W",
+        "url": "https://www.amazon.com.mx/dp/B01FXS2UO2",
+        "price": 156.27,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hella Juego de Focos Halógenos de Alta Potencia H4 130/90W, Individual",
+        "url": "https://www.amazon.com.mx/dp/B000VUB4CW",
+        "price": 93.33,
+        "model": "130/90W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hella H4 35/35wtb bombillas halógenas estándar, 12 V | Twin Blister, luz blanca, reemplazo en pares, instalación con guantes",
+        "url": "https://www.amazon.com.mx/dp/B078SGSQ6Q",
+        "price": 228.77,
+        "model": "35/35wtb"
+      },
+      {
+        "store": "amazon",
+        "name": "Hella H4 YL Foco Halogénico Amarillo H4 12 V 60/55 W, Paquete de 2",
+        "url": "https://www.amazon.com.mx/dp/B079TX26BB",
+        "price": 464.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Greluma 2 unidades de cerámica H4 casquillo acodado H4 9003 HB2 arnés de cableado para faros delanteros para coche, camión, barco, faro antiniebla",
+        "url": "https://www.amazon.com.mx/dp/B09P8KY9R4",
+        "price": 182.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hella - Foco H4 24V 100/90W de Alta Potencia 100/90 vatios",
+        "url": "https://www.amazon.com.mx/dp/B000H0QRYG",
+        "price": 196.5,
+        "model": "100/90W"
+      },
+      {
+        "store": "amazon",
+        "name": "Philips WhiteVision Ultra H4 - Bombilla para faros delanteros (4200 K, blíster único, 35489830)",
+        "url": "https://www.amazon.com.mx/dp/B07HS3HTBC",
+        "price": 569.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "H4/9003 - Kit de reequipamiento de lentes de proyector bi-LED, 70 W, 20 000 lm, 6000 K, haz de alta calidad blanco con corte en forma de Z, sin deslumbramiento, mejora tus faros con haz de",
+        "url": "https://www.amazon.com.mx/dp/B0H1R8GD36",
+        "price": 797.45,
+        "model": "H4/9003"
+      },
+      {
+        "store": "amazon",
+        "name": "HELLA Bombilla halógena H4 – High Wattage solo para aplicaciones fuera de carretera – 12 V – 100/90 W – Casquillo de la bombilla: P43t-38 – Caja – Cantidad: 1 – 8GJ 002 525-203, color blanco",
+        "url": "https://www.amazon.com.mx/dp/B00BNYMA32",
+        "price": 405.23,
+        "model": "P43t-38"
+      },
+      {
+        "store": "amazon",
+        "name": "Greluma - 2 mazos de cables H4 9003 HB2 para faros delanteros y faros delanteros de cerámica resistente para coche, camión, barco, retrofit",
+        "url": "https://www.amazon.com.mx/dp/B09WMW8Y9F",
+        "price": 353.61,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HELLA 2850811 Kit de Lámpara 5 3/4\" 135mm H4 12V ECE, Multi, Una Talla",
+        "url": "https://www.amazon.com.mx/dp/B001G7A9YS",
+        "price": 1502.76,
+        "model": "135mm"
+      }
+    ]
+  },
+  "walmart|VX182H4": {
+    "ts": "2026-08-15T17:36:08.694742+00:00",
+    "items": []
+  },
+  "sams|VX182H4": {
+    "ts": "2026-08-15T17:36:11.999974+00:00",
+    "items": []
   }
 }

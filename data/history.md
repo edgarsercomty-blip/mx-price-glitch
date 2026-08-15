@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (788)
+# Historial de ofertas encontradas (789)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-15 17:36 | -31% | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | $10,499 en liverpool vs mercado -> -31% bajo la competencia |
 | 2026-08-15 15:38 | -21% | amazon | [Samsung Tab S10 Lite Coral Red 128GB, Pantalla 10.9''](https://www.amazon.com.mx/dp/B0FKCT4MHL) | $5,114 | $5,114 en amazon vs sams $19,947, sams $19,947 -> -21% bajo la competencia |
 | 2026-08-15 15:38 | -24% | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $4,191 | $4,191 en sams vs mercado -> -24% bajo la competencia |
 | 2026-08-15 15:38 | -24% | sams | [Smartphone Samsung Galaxy A57 256 GB Violet Desbloquead…](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991) | $8,386 | $8,386 en sams vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -25% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,599 | $3,599 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | $14,662 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | $2,474 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $4,499 | $4,499 en palacio vs mercado -> -25% bajo la competencia |
