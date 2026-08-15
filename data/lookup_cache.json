@@ -1777,174 +1777,6 @@
     "ts": "2026-08-14T15:43:01.048666+00:00",
     "items": []
   },
-  "amazon|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
-    "ts": "2026-08-13T23:04:50.894939+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
-        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
-        "price": 2327.03,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
-        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
-        "price": 2229.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
-        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
-        "price": 2329.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet Combo de batidora de tamaño completo 1200W – Negro mate",
-        "url": "https://www.amazon.com.mx/dp/B0BZQNYJQT",
-        "price": 2051.5,
-        "model": "1200W"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
-        "price": 2369.4,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
-        "price": 3106.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
-        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
-        "price": 2798.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
-        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
-        "price": 3867.0,
-        "model": "7KSB4027MPA"
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de expansión para licuadora personal de 16 onzas para licuadoras KitchenAid K150 y K400",
-        "url": "https://www.amazon.com.mx/dp/B085FY9K8J",
-        "price": 1419.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
-        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
-        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
-        "price": 3049.0,
-        "model": "500ml"
-      }
-    ]
-  },
-  "walmart|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
-    "ts": "2026-08-13T23:04:54.219739+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora Portátil HoninJoy Personal de 650W con Vaso Molinillo Y 2 Vasos Portátiles",
-        "url": "https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003299",
-        "price": 1078.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
-        "price": 2229.0,
-        "model": "7KSB2078MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3049.0,
-        "model": "10-En-1"
-      },
-      {
-        "store": "walmart",
-        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
-        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
-        "price": 4999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
-        "price": 2789.0,
-        "model": "7KSB1330MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
-        "price": 1999.0,
-        "model": "7KHBV83MPA"
-      },
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Porcelain White",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-porcelain-white/00088304992572?athbdg=L1300",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
-        "price": 5439.0,
-        "model": "KSB2078"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos/00088304993150?athbdg=L1300",
-        "price": 4989.0,
-        "model": "KSB2078"
-      }
-    ]
-  },
-  "sams|KITCHENAIDLICUADORACOMBOVASOSNEGRA": {
-    "ts": "2026-08-13T23:04:56.385533+00:00",
-    "items": []
-  },
   "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
     "ts": "2026-08-14T00:01:11.896848+00:00",
     "items": [
@@ -5285,601 +5117,6 @@
         "model": "RAM/512"
       }
     ]
-  },
-  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-13T23:04:13.370423+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 5949.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4241.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 2792.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
-        "price": 2590.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Nespresso Vertuo Pop, con Espumador de Leche + Paquete de 30 cápsulas de Nespresso Colombia Tecnología Vertuo",
-        "url": "https://www.amazon.com.mx/dp/B0CJKN17GJ",
-        "price": 3233.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-13T23:04:26.106302+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Summer-Limited-Edition/00002161481499?athbdg=L1300",
-        "price": 2759.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Next-Deluxe-cromo-puro-con-espumador-de-leche-Aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7249.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Amarilla-con-Aeroccino3/00004438751922?athbdg=L1300",
-        "price": 3989.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Deluxe de De'Longhi con Aeroccino, Plata",
-        "url": "https://www.walmart.com.mx/ip/Nespresso-Vertuo-Pop-Deluxe-de-De-Longhi-con-Aeroccino-Plata/00004438700951?athbdg=L1300",
-        "price": 4139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-cafetera-espresso-Nespresso-Vertuo-Pop-Deluxe/00002161481379?athbdg=L1300",
-        "price": 4099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Up-de-DeLonghi-Blanca/00004438712001?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/Maquina-de-cafe-y-espresso-Nespresso-Vertuo-Next-De-Longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y Máquina de Espresso Nespresso Vertuo Up DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-Maquina-de-Espresso-Nespresso-Vertuo-Up-DeLonghi-Blanca/00004438722002?athbdg=L1300",
-        "price": 6489.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville Red",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-cafetera-espresso-Nespresso-Vertuo-Pop-Breville-Red/00002161480798",
-        "price": 3009.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next 1.1L",
-        "url": "https://www.walmart.com.mx/ip/Maquina-de-cafe-y-espresso-Nespresso-Vertuo-Next-1-1L/00002161480206?athbdg=L1300",
-        "price": 5889.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Up-de-DeLonghi-Grafito/00004438732003?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y Espresso Nespresso Vertuo Breville Chrome",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-Espresso-Nespresso-Vertuo-Breville-Chrome/00002161499982?athbdg=L1300",
-        "price": 5629.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-13T23:04:27.090683+00:00",
-    "items": []
-  },
-  "amazon|APPLECELULARBUMPERIPHONECANELA": {
-    "ts": "2026-08-13T23:04:29.726912+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple Bumper para el iPhone Air - Azul Claro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0FQF5NZCG",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Bumper para el iPhone Air - Negro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0FQFHQVMN",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "OATSBASF - Funda protectora para iPhone Air Bumper sin diseño trasero, marco de aluminio, ajuste delgado, compatible con MagSafe, protección a prueba de golpes de 4 esquinas para iPhone 17 Air, color",
-        "url": "https://www.amazon.com.mx/dp/B0FK53NC71",
-        "price": 569.31,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
-        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
-        "price": 230.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda delgada con marco de aluminio con parachoques interior suave y protección de borde elevado, parachoques a prueba de golpes con protector de visualización de vidrio templado HD para iPhone 16 de",
-        "url": "https://www.amazon.com.mx/dp/B0DHLBF8WJ",
-        "price": 367.07,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Carcasa Rígida Delgada con Marco de Aluminio para iPhone 12 Pro MAX, Color Plata Oscuro para 6,7 Pulgadas, Armadura de Marco de Metal con Parachoques Interior Suave, Protección de Borde Elevado",
-        "url": "https://www.amazon.com.mx/dp/B08RS17GFC",
-        "price": 369.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Ultra Delgado Chapado Sin Marco Caso para Apple iPhone 13 12 11 Pro XS MAX Mini XR X 8 7 Plus PC Duro Transparente Cámara Proteger Cubierta Trasera Shell (Black,iPhone 12 Mini)",
-        "url": "https://www.amazon.com.mx/dp/B09TW4KR7Y",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda de metal para iPhone, sin diseño trasero compatible con MagSafe, aleación de aluminio + marco de parachoques de TPU, ajuste delgado, excelente disipación de calor, 4 esquinas elevadas a",
-        "url": "https://www.amazon.com.mx/dp/B0FR4KQ7DH",
-        "price": 386.98,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Ultra Delgado Chapado Sin Marco Caso para Apple iPhone 13 12 11 Pro XS MAX Mini XR X 8 7 Plus PC Duro Transparente Cámara Proteger Cubierta Trasera Shell (Blue,iPhone X XS)",
-        "url": "https://www.amazon.com.mx/dp/B09TW4WNFC",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "para iPhone, funda magnética de metal de lujo con acabado brillante y mate, ultradelgada, sin marco, compatible con Magsafe, funda protectora delgada y dura de PC, a prueba de golpes (Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DL9ZTCX8",
-        "price": 347.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda sin marco para iPhone 14 con protector de lente de cámara, protección contra caídas con parachoques, funda protectora delgada de TPU suave, funda minimalista con esquina a prueba de golpes (rojo",
-        "url": "https://www.amazon.com.mx/dp/B0C333W2DL",
-        "price": 306.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Candy Color Sin Marco Mate Caso para iPhone 13 12 11 Pro XS MAX Mini XR X SE 2022 2020 Slim PC Duro A Prueba De Golpes Cubierta De Parachoques (Black,iPhone 13 Pro MAX)",
-        "url": "https://www.amazon.com.mx/dp/B0B4S8TNK4",
-        "price": 189.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLECELULARBUMPERIPHONECANELA": {
-    "ts": "2026-08-13T23:04:37.723585+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
-        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141",
-        "price": 939.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Bumper Apple iPhone Air Gris Claro",
-        "url": "https://www.walmart.com.mx/ip/funda-bumper-apple-iphone-air-gris-claro/00019595075139?athbdg=L1300",
-        "price": 949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda para teléfono Apple iPhone Air Bumper, azul claro",
-        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-azul-claro/00019595075140?athbdg=L1300",
-        "price": 679.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLECELULARBUMPERIPHONECANELA": {
-    "ts": "2026-08-13T23:04:38.267000+00:00",
-    "items": []
-  },
-  "amazon|CO905KS": {
-    "ts": "2026-08-13T23:04:40.340403+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Ninja CO905KS Deluxe Kitchen System, Potencia 1600W, Procesador con Licuadora, Jarra 86oz, 2 Vasos 24oz, Tecnología Auto-IQ, Sistema de Cocina Profesional Multifuncional, Color Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0D9WV919N",
-        "price": 2679.0,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Detect Pro Sistema de Cocina, BlendSense, 1800W, Plata | BlendSense™ Ajusta Velocidad Solo | Jarra + procesador + vaso personal | 1800W | 1 toque",
-        "url": "https://www.amazon.com.mx/dp/B0F35QN76L",
-        "price": 4199.0,
-        "model": "1800W"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Ninja Deluxe 1600W Sistema de Cocina 3 en 1 – Procesador de Alimentos 9 Tazas, Jarra 2.6 L, 2 Vasos Portátiles 700 ml.",
-        "url": "https://www.amazon.com.mx/dp/B0FXJHFH41",
-        "price": 5599.0,
-        "model": "1600W"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (jarra 88 onzas)",
-        "url": "https://www.amazon.com.mx/dp/B0GG63FKFL",
-        "price": 2033.02,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (Recipiente 72 oz / 2.1 L)",
-        "url": "https://www.amazon.com.mx/dp/B0GG5XXQLG",
-        "price": 2052.54,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja CO351B SS351 Foodi Potente sistema de licuadora para batidos, 4 en 1 + procesador de alimentos, una sola porción, 1400 WP, smartTORQUE, 6 programas predeterminados Auto-iQ (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09RQDDYNH",
-        "price": 2379.0,
-        "model": "CO351B"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
-        "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
-        "price": 541.08,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Ninja Costco CO905KS Deluxe (Eje)",
-        "url": "https://www.amazon.com.mx/dp/B0GSYBTLG4",
-        "price": 676.46,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "OSOJI OM6 Robot Inteligente de Cocina, Pantalla Táctil, WiFi, 30 funciones",
-        "url": "https://www.amazon.com.mx/dp/B0BJ888HQ5",
-        "price": 16197.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Base de motor original de repuesto de 1600 vatios compatible con Ninja Costco CO905KS Deluxe Blender",
-        "url": "https://www.amazon.com.mx/dp/B0H351DFVK",
-        "price": 1620.2,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja BN701C, Licuadora profesional Plus con jarra de 88 onzas y preajustes Auto-iQ, negro/gris, 1400 W (versión canadiense)",
-        "url": "https://www.amazon.com.mx/dp/B08HR3BBQY",
-        "price": 4593.59,
-        "model": "BN701C"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Nutri-Blender Pro 1000W, 2 Auto-iQ, Pro Extractor, Plata",
-        "url": "https://www.amazon.com.mx/dp/B08QXJ31WR",
-        "price": 1814.87,
-        "model": "1000W"
-      }
-    ]
-  },
-  "walmart|CO905KS": {
-    "ts": "2026-08-13T23:04:42.839635+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "LICUADORA PROCESADORA PROFESIONAL NINJA CO905KS 7 PROGRAMAS",
-        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-profesional-ninja-co905ks-7-programas/00062235663503?athbdg=L6000",
-        "price": 7798.0,
-        "model": "CO905KS"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Procesadora Ninja 7 Programas CO905KS Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-ninja-7-programas-co905ks-negro/00073238802721?athbdg=L1300",
-        "price": 2839.0,
-        "model": "CO905KS"
-      }
-    ]
-  },
-  "sams|CO905KS": {
-    "ts": "2026-08-13T23:04:43.639652+00:00",
-    "items": []
-  },
-  "amazon|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
-    "ts": "2026-08-13T23:04:59.159738+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Krups Coffee Crush Black SA4039U1 | Diseño ultracompacto, resultados de calidad barista, compatible con café de grano y molido",
-        "url": "https://www.amazon.com.mx/dp/B0H3CMPBYM",
-        "price": 7499.0,
-        "model": "SA4039U1"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Maquina de Espresso Super Automática Sensation Milk, con Molino de café integrado, Panel intuitivo, con un Deposito de Leche para preparar capuchinos y espressos fácil y rápido, EA912HMX",
-        "url": "https://www.amazon.com.mx/dp/B0FPDN22HY",
-        "price": 10199.4,
-        "model": "EA912HMX"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera Superautomática Quattro Force EA815050 | Molino de café integrado, pantalla LCD intuitiva, tecnología Quattro Force, 1.8L",
-        "url": "https://www.amazon.com.mx/dp/B01DC6N1OA",
-        "price": 7727.17,
-        "model": "EA815050"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera Superautomática Evidence Hot & Cold EA898GX0 | Tecnología Cold Brew Aroma, 18 recetas calientes y frías, molino de café integrado",
-        "url": "https://www.amazon.com.mx/dp/B0GFFD18SY",
-        "price": 13299.0,
-        "model": "EA898GX0"
-      },
-      {
-        "store": "amazon",
-        "name": "KRUPS Evidence One Cafetera automática de espresso y café, incluye Tecnología Quattro Force, con ajustes personalizados para 12 bebidas diferentes, 3 opciones de intensidad y uso intuitivo, EA895EMX",
-        "url": "https://www.amazon.com.mx/dp/B0889CCYY4",
-        "price": 10999.0,
-        "model": "EA895EMX"
-      },
-      {
-        "store": "amazon",
-        "name": "Redlemon Molino de Café Eléctrico con Interruptor de Seguridad (50 g), Moledora con Cuchillas de Acero Inoxidable, para Prensa Francesa, Cafetera de Goteo y Espresso. Molino para Especias y Hierbas",
-        "url": "https://www.amazon.com.mx/dp/B09K4M54SV",
-        "price": 295.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera de Filtro Simply Brew Thermal KM209D50 | Jarra térmica de acero inox, 14 tazas, filtro permanente, programable",
-        "url": "https://www.amazon.com.mx/dp/B0CCJZC4TM",
-        "price": 2449.3,
-        "model": "KM209D50"
-      },
-      {
-        "store": "amazon",
-        "name": "KRUPS Cafetera de Filtro Permanente Simply Brew Family Inoxidable, capacidad para preparar 10 tazas de café, incluye filtro permanente y cuchara dosificadora, 900 W, KM203D50",
-        "url": "https://www.amazon.com.mx/dp/B08PP1H7QK",
-        "price": 1302.98,
-        "model": "KM203D50"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera de Filtro Simply Brew Digital KM205D50 | Capacidad 10 tazas, filtro permanente, sistema antigoteo, cuchara dosificadora",
-        "url": "https://www.amazon.com.mx/dp/B099Y93R2Y",
-        "price": 1529.0,
-        "model": "KM205D50"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera Superautomática Intuition EA875EMX | Pantalla táctil color Smart Touch, alertas con luces LED, molino de café integrado",
-        "url": "https://www.amazon.com.mx/dp/B0CSM3CQ9P",
-        "price": 17999.0,
-        "model": "EA875EMX"
-      },
-      {
-        "store": "amazon",
-        "name": "Krups Cafetera de Filtro Aroma Partner KM761DMX | Dosificación automática, jarra de acero inox para 10 tazas, tecnología hermética",
-        "url": "https://www.amazon.com.mx/dp/B0CJS14V17",
-        "price": 2449.3,
-        "model": "KM761DMX"
-      },
-      {
-        "store": "amazon",
-        "name": "KRUPS Espressería Manual Divine Acero Inoxidable, boquilla de vapor, con sistema Thermoblock, compacta, moderna y fácil de usar, capacidad de 1 L, disfruta de un delicioso sabor a café, XP444C50",
-        "url": "https://www.amazon.com.mx/dp/B0CJS1LWH9",
-        "price": 2999.5,
-        "model": "XP444C50"
-      }
-    ]
-  },
-  "walmart|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
-    "ts": "2026-08-13T23:05:02.295878+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Con Molino Integrado Ola Casa, Espumador De Leche, 15 Bares Y Depósito De 2.3 L",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-con-molino-integrado-ola-casa-espumador-de-leche-15-bares-y-deposito-de-2-3-l/00750064803343",
-        "price": 3949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espressería KRUPS Acero Inoxidable Thermoblock Compacta",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresseria-krups-acero-inoxidable-thermoblock-compacta/00001094222827",
-        "price": 5796.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "KRUPS Cafetera de 14 Tazas, Simply Brew, Acero Inoxidable, Programable con Pantalla Digital, Apta para Lavavajillas, Cafetera Sin Goteo, Negro y Plata",
-        "url": "https://www.walmart.com.mx/ip/krups-cafetera-de-14-tazas-simply-brew-acero-inoxidable-programable-con-pantalla-digital-apta-para-lavavajillas-cafetera-sin-goteo-negro-y-plata/00001094222825",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Ola Casa de 4 Tazas con Espumador de Leche, Filtro Permanente y Bandeja Precalentadora",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-ola-casa-de-4-tazas-con-espumador-de-leche-filtro-permanente-y-bandeja-precalentadora/00750064802552",
-        "price": 1079.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera KRUPS Simply Brew de acero inoxidable, 650 W, 2 tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-krups-simply-brew-de-acero-inoxidable-650-w-2-tazas/00001094222792",
-        "price": 1258.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "KRUPS Simply Brew 5 Cup Coffee Maker, Cold Brew, Drip Free & Keep Warm Functions, Stainless Steel Coffee Maker Silver and Black",
-        "url": "https://www.walmart.com.mx/ip/krups-simply-brew-5-cup-coffee-maker-cold-brew-drip-free-keep-warm-functions-stainless-steel-coffee-maker-silver-and-black/00001094222655",
-        "price": 1434.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Electrica 15 Bar Expresso Capuchino 1 taza Ola Casa OC-MCPEC",
-        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-15-bar-expresso-capuchino-1-taza-ola-casa-oc-mcpec/00750064801567",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Krups Cafetera de Filtro Krups Aroma Partner, Acero Inoxidable, Jarra de 10 tazas que preserva fresc",
-        "url": "https://www.walmart.com.mx/ip/krups-cafetera-de-filtro-krups-aroma-partner-acero-inoxidable-jarra-de-10-tazas-que-preserva-fresc/00001094222819",
-        "price": 4139.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Espressería Automática Krups EA81 Arábica, EA8178MX",
-        "url": "https://www.walmart.com.mx/ip/espresseria-automatica-krups-ea81-arabica-ea8178mx/00001094222818?athbdg=L1300",
-        "price": 12749.0,
-        "model": "EA8178MX"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Dolcetti Milano con Espumador de Leche, Tanque Desmontable de 1.2 L y Calentador de Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-dolcetti-milano-con-espumador-de-leche-tanque-desmontable-de-1-2-l-y-calentador-de-tazas/00750064803299",
-        "price": 1529.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Genio S Plus Cápsulas Dolce Gusto Automática Krups KRUPS GENIO S PLUS",
-        "url": "https://www.walmart.com.mx/ip/cafetera-genio-s-plus-capsulas-dolce-gusto-automatica-krups-krups-genio-s-plus/00001094222776?athbdg=L1300",
-        "price": 1649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|KRUPSAUTOMATICAINOXIDABLECAFETERACOFFEE": {
-    "ts": "2026-08-13T23:05:02.846239+00:00",
-    "items": []
   },
   "amazon|APPLECELULARIPHONEBUMPERCANELA": {
     "ts": "2026-08-14T00:00:33.332591+00:00",
@@ -33562,6 +32799,181 @@
   },
   "sams|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
     "ts": "2026-08-15T22:55:33.231611+00:00",
+    "items": []
+  },
+  "amazon|APPLENUCLEOSMACBOOKRAMSSD": {
+    "ts": "2026-08-15T23:11:49.357444+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
+        "price": 29999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air de Finales de 2020 con Chip Apple M1 (13 Pulgadas, 8 GB de RAM, 256 GB SSD) Plata (reacondicionado) | SSD de 256 GB, renovado, 8 GB de RAM, chip M1",
+        "url": "https://www.amazon.com.mx/dp/B08PV4GYCL",
+        "price": 8861.49,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
+        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
+        "price": 9499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2020 Apple MacBook Air con Chip M1 (13.3 Pulgadas, 8 GB de RAM, 128 GB de SSD) (QWERTY Inglés) Plata (Reacondicionado) | Plata, renovado",
+        "url": "https://www.amazon.com.mx/dp/B09WJHLWHG",
+        "price": 7998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
+        "price": 28313.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
+        "price": 49999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 16 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FWDTGNT6",
+        "price": 44999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLENUCLEOSMACBOOKRAMSSD": {
+    "ts": "2026-08-15T23:12:07.709225+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
+        "price": 21349.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Silver",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-neo-13-a18-pro-256gb-ssd-8gb-ram-mac-os-silver/00019595085086?athbdg=L6000",
+        "price": 15999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Citrus",
+        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-neo-13-a18-pro-256gb-ssd-8gb-ram-mac-os-citrus/00019595085180?athbdg=L1300",
+        "price": 13149.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
+        "price": 21349.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro 2015 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-2015-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321890?athbdg=L1500",
+        "price": 8999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Apple M2 16 GB RAM 256 GB SSD Media noche",
+        "url": "https://www.walmart.com.mx/ip/macbook-apple-m2-16-gb-ram-256-gb-ssd-media-noche/00019594990027?athbdg=L6000",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro 2017 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-2017-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321891?athbdg=L1500",
+        "price": 9999.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLENUCLEOSMACBOOKRAMSSD": {
+    "ts": "2026-08-15T23:12:08.555410+00:00",
     "items": []
   }
 }
