@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15 08:18 UTC",
-  "products_scanned": 1617,
+  "generated_at": "2026-08-15 08:47 UTC",
+  "products_scanned": 1564,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -481,6 +481,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Blanco Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44639312",
         "outlet": false
       }
     },
