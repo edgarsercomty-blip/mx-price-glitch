@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15 09:43 UTC",
-  "products_scanned": 1614,
+  "generated_at": "2026-08-15 10:14 UTC",
+  "products_scanned": 1605,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -340,27 +340,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3761.78,
-      "store": "palacio",
-      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
-      "price": 11627.32,
-      "list_price": 17099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 11021.78,
@@ -376,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3761.78,
+      "store": "palacio",
+      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
+      "price": 11627.32,
+      "list_price": 17099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369608",
         "outlet": false
       }
     },
@@ -628,27 +628,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
         "outlet": false
       }
     },

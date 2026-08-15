@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-15 09:43 UTC
+# Errores/chollos de precio — 2026-08-15 10:14 UTC
 
-- Productos revisados: **1614**
+- Productos revisados: **1605**
 - Umbral de diferencia: **20%**
-- Hallazgos: **34**
+- Hallazgos: **33**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -38,5 +38,4 @@
 | -20% | $640 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,559 | Confirmado vs competencia | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | -60% | $450 | liverpool | [Tenis Gold Care Gold Care Unisex](https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107) | $299 | Confirmado vs competencia | $299 en liverpool vs mercado -> -60% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
 | -33% | $34 | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | Confirmado vs competencia | $68 en liverpool vs mercado -> -33% bajo la competencia |
