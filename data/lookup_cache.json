@@ -919,21 +919,42 @@
     ]
   },
   "amazon|HR2242": {
-    "ts": "2026-08-13T19:27:17.010879+00:00",
+    "ts": "2026-08-15T19:36:42.456131+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
+        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
+        "price": 1699.0,
+        "model": "9500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach - Licuadora Miltifunción 54221/14 velocidades/ 700 watts de potencia/ 3 años de garantía/Vaso de Vidrio de 1.18 L",
+        "url": "https://www.amazon.com.mx/dp/B0081PTLGU",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
+        "price": 2899.0,
+        "model": "2000W"
+      },
+      {
+        "store": "amazon",
+        "name": "Cookify Licuadora Profesional de Alto Poder con Pantalla Digital y Temporizador, Uso Rudo, Vaso 1.6 Lts. (PB005)",
+        "url": "https://www.amazon.com.mx/dp/B0DFJS4BL6",
+        "price": 2079.2,
+        "model": "PB005"
+      },
       {
         "store": "amazon",
         "name": "Philips Licuadora Serie 5000 1200W, Jarra de Vidrio 2L, 12 Velocidades | Cuchillas Desmontables – acero inoxidable con tecnología ProBlend 6 para triturar sin esfuerzo (HR2242/91)",
         "url": "https://www.amazon.com.mx/dp/B0BSK6NL8F",
-        "price": 1147.0,
+        "price": 1661.91,
         "model": "HR2242/91"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja® TWISTi™, Licuadora DUO DE ALTA VELOCIDAD 3 Programas Auto-iQ® Preestablecidos, 34 oz. Mod. SS150 RENOVADA (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BXB9DRYQ",
-        "price": 1579.0,
-        "model": "SS150"
       },
       {
         "store": "amazon",
@@ -951,29 +972,36 @@
       },
       {
         "store": "amazon",
-        "name": "Jarra Mezcladora De Vaso De Licuadora, Compatible Con Philips HR2024 HR2021 HR2027 HR2028, Repuesto De Piezas De Mezclador Exprimidor",
-        "url": "https://www.amazon.com.mx/dp/B0GHP1N285",
-        "price": 1455.11,
-        "model": "HR2024"
+        "name": "MOKKOM - Máquina exprimidora de prensa en frío con canal de alimentación grande para frutas y verduras enteras, gran capacidad de 64 onzas, extractor de masticaje lento, motor de CA, fácil de limpiar",
+        "url": "https://www.amazon.com.mx/dp/B0FS765JKP",
+        "price": 1885.43,
+        "model": null
       },
       {
         "store": "amazon",
-        "name": "Philips HR2041/41 - Batidora de vaso y smoothie maker (450 W, recipiente de 1,9 litros, aplicación de recetas, 1 velocidad + función de impulso, ProBlend, función de trituración de hielo y botella de agua móvil)",
-        "url": "https://www.amazon.com.mx/dp/B09CTX6BFC",
-        "price": 1666.96,
-        "model": "HR2041/41"
+        "name": "Ninja® TWISTi™, Licuadora DUO DE ALTA VELOCIDAD 3 Programas Auto-iQ® Preestablecidos, 34 oz. Mod. SS150 RENOVADA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BXB9DRYQ",
+        "price": 1579.0,
+        "model": "SS150"
       },
       {
         "store": "amazon",
-        "name": "Philips HR2041/00 Batidora de vaso, 450 W, 1,9 litros, cuchillas de acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B09GPL6H1M",
-        "price": 1415.33,
-        "model": "HR2041/00"
+        "name": "Greenote Licuadora Profesional 1800w, Vaso 2 L Sin Bpa, 6 Cuchillas De Acero Inoxidable 304, Control De Velocidad Variable Y Pulso, Tritura Hielo, Frutas Y Nueces, Apta Para Lavavajillas, Rojo",
+        "url": "https://www.amazon.com.mx/dp/B0GD6MFNF7",
+        "price": 851.44,
+        "model": "1800w"
+      },
+      {
+        "store": "amazon",
+        "name": "Cookify Licuadora Profesional de Alto Poder, Trituración Total Uso Rudo, Vaso 2 Lts. (PB004)",
+        "url": "https://www.amazon.com.mx/dp/B0DFFB7NH1",
+        "price": 1439.2,
+        "model": "PB004"
       }
     ]
   },
   "walmart|HR2242": {
-    "ts": "2026-08-13T19:27:25.424541+00:00",
+    "ts": "2026-08-15T19:36:44.932885+00:00",
     "items": [
       {
         "store": "walmart",
@@ -992,45 +1020,80 @@
     ]
   },
   "sams|HR2242": {
-    "ts": "2026-08-13T19:27:27.130942+00:00",
+    "ts": "2026-08-15T19:36:45.503128+00:00",
     "items": []
   },
   "amazon|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-13T19:28:29.214785+00:00",
+    "ts": "2026-08-15T19:36:36.556444+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6459.85,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Fold8 Crema 512GB | Forma totalmente nueva, pantalla adaptada para contenido, batería de 4800 mAh, 12 GB de memoria, cámara 50 MP",
+        "url": "https://www.amazon.com.mx/dp/B0H76XJTG2",
+        "price": 45999.0,
+        "model": "Fold8"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128 GB Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0BDJN394T",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Fold8 Ultra Violeta Techno 512GB | Procesador adaptado, batería de 5000 mAh, vista multitasking, 12 GB de memoria, cámara de 200 MP, now nudge, photo assist",
+        "url": "https://www.amazon.com.mx/dp/B0H773PLWP",
+        "price": 50999.0,
+        "model": "Fold8"
+      },
       {
         "store": "amazon",
         "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
         "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
-        "price": 5912.57,
+        "price": 5885.58,
         "model": "128GB"
       },
       {
         "store": "amazon",
         "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5599.0,
+        "price": 5399.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
         "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
         "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
-        "price": 6469.76,
+        "price": 6459.85,
         "model": "128GB"
       },
       {
         "store": "amazon",
         "name": "Apple iPhone 13 Mini, 128GB, Medianoche (Reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B09LKTXKXQ",
-        "price": 4885.0,
+        "price": 5399.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Azul - (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNX6KQS",
-        "price": 5548.03,
+        "name": "Apple iPhone 14 Plus, 128GB, Medianoche - Desbloqueado (Reacondicionado Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0BYH9S5MT",
+        "price": 7005.34,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
+        "price": 5899.0,
         "model": "128GB"
       },
       {
@@ -1042,50 +1105,15 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
-        "price": 4937.36,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone SE 3rd Gen, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0BDY36F33",
-        "price": 3699.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Verde (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNZDM7L",
-        "price": 4987.36,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 128GB, Grafito (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PCDP3LM",
-        "price": 5099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Mini, 128GB, Negro - Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNKN4J7",
-        "price": 4199.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone XR, 128GB, Azul- Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07PBYL71Z",
-        "price": 8051.45,
+        "name": "Apple iPhone 12, 128GB, Azul (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNXVB6B",
+        "price": 4499.0,
         "model": "128GB"
       }
     ]
   },
   "walmart|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-13T19:28:45.971409+00:00",
+    "ts": "2026-08-15T19:36:40.026571+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1103,24 +1131,10 @@
       },
       {
         "store": "walmart",
-        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
-        "price": 9999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
         "name": "Apple iPhone 13 256GB Reacondicionado de Grado A y Desbloqueado de Fábrica - Medianoche",
         "url": "https://www.walmart.com.mx/ip/apple-iphone-13-256gb-reacondicionado-de-grado-a-y-desbloqueado-de-fabrica-medianoche/00046249978008?athbdg=L1300",
         "price": 9999.0,
         "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 128 GB Blanco Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-blanco-reacondicionado/00085369895438?athbdg=L1500",
-        "price": 6199.0,
-        "model": null
       },
       {
         "store": "walmart",
@@ -1138,6 +1152,20 @@
       },
       {
         "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-blanco-reacondicionado/00085369895438?athbdg=L1500",
+        "price": 5299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Reacondicionado Apple iPhone SE (3rd Gen) A2595 (Totalmente desbloqueado) 64GB Medianoche (Grado A)",
         "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a-/00065747745825?athbdg=L6000",
         "price": 6340.32,
@@ -1146,12 +1174,40 @@
     ]
   },
   "sams|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-13T19:28:49.463294+00:00",
+    "ts": "2026-08-15T19:36:40.499345+00:00",
     "items": []
   },
   "amazon|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-13T19:29:10.318337+00:00",
+    "ts": "2026-08-15T19:36:56.192604+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Negra con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LPC1L",
+        "price": 1740.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
+        "price": 3589.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
+        "price": 4241.5,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "De'Longhi Nespresso Lattissima One - Cafetera de cápsulas con espumador de leche automático, función capuchino, 19 bar, calentamiento rápido, diseño compacto, Dark Sage (EN510.GR)",
@@ -1161,16 +1217,23 @@
       },
       {
         "store": "amazon",
+        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
+        "price": 3589.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Nespresso Vertuo Lattissima Cafetera y espresso de De'Longhi, blanco mate y brillante",
         "url": "https://www.amazon.com.mx/dp/B0C5KP15DK",
-        "price": 8800.23,
+        "price": 8774.36,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Nespresso Gran Lattissima de De'Longhi, blanco",
         "url": "https://www.amazon.com.mx/dp/B0CMZ874N2",
-        "price": 14151.95,
+        "price": 14222.3,
         "model": null
       },
       {
@@ -1182,24 +1245,10 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 2792.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Depósito de leche, jarra de leche, jarra de leche, jarra de leche, compatible con cafeteras automáticas DeLonghi Nespresso Gran Lattissima EN650.B F531BK 7313263953",
         "url": "https://www.amazon.com.mx/dp/B0DNJVP3PX",
-        "price": 1468.41,
+        "price": 1451.1,
         "model": "F531BK"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Gran Lattissima de De'Longhi, negro",
-        "url": "https://www.amazon.com.mx/dp/B0CMZ9Q6SR",
-        "price": 14476.39,
-        "model": null
       },
       {
         "store": "amazon",
@@ -1214,49 +1263,77 @@
         "url": "https://www.amazon.com.mx/dp/B0B9T438KJ",
         "price": 498.08,
         "model": "EN650"
-      },
-      {
-        "store": "amazon",
-        "name": "Contenedor de cápsulas compatible con/pieza de repuesto para DeLonghi 5313267411 EN 650.W Gran Lattissima Nespresso Cápsula",
-        "url": "https://www.amazon.com.mx/dp/B0C7KNQG84",
-        "price": 625.45,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Recipiente de leche compatible con/pieza de repuesto para DeLonghi 7313257901 7313263953 EN 650.B NESPRESSO GRAN LATTISSIMA",
-        "url": "https://www.amazon.com.mx/dp/B0BC8N95PZ",
-        "price": 1413.97,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso, Cafetera, Citiz Platinum, Sistema Original, Color Titan (Incluye Café de Regalo)",
-        "url": "https://www.amazon.com.mx/dp/B0CTS5X6B8",
-        "price": 5290.0,
-        "model": null
       }
     ]
   },
   "walmart|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-13T19:29:26.372975+00:00",
+    "ts": "2026-08-15T19:37:12.585655+00:00",
     "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Gran Lattissima De'Longhi White",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-white/00004438710640?athbdg=L1300",
+        "price": 12789.0,
+        "model": null
+      },
       {
         "store": "walmart",
         "name": "Cafetera Nespresso Gran Lattissima De'Longhi Black",
         "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-black/00004438721640?athbdg=L1300",
-        "price": 12809.0,
+        "price": 12729.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-13T19:29:27.171415+00:00",
+    "ts": "2026-08-15T19:37:13.278465+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-13T19:28:52.359968+00:00",
+    "ts": "2026-08-15T19:36:49.061270+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Kit de Descripción Incluye 2 Unidades de Nueva Versión, Nuevo",
+        "url": "https://www.amazon.com.mx/dp/B07H6MTPYQ",
+        "price": 329.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo variedad 30 cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5099.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
+        "price": 4241.5,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
@@ -1273,16 +1350,16 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
         "model": null
       },
       {
@@ -1294,16 +1371,9 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
-        "price": 2717.71,
+        "name": "Nespresso Barista Creations Vertuo 30 cápsulas | Compatible con máquinas vertuo",
+        "url": "https://www.amazon.com.mx/dp/B09CC8QTHL",
+        "price": 539.0,
         "model": null
       },
       {
@@ -1312,39 +1382,11 @@
         "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
         "price": 2792.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
-        "price": 1875.18,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por Breville, blanco coco",
-        "url": "https://www.amazon.com.mx/dp/B0CS71J3GP",
-        "price": 2227.48,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Paquete de valor añadido frío con vaso de café helado de De'Longhi, color negro regaliz",
-        "url": "https://www.amazon.com.mx/dp/B0F18HWKKY",
-        "price": 2962.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera y expreso Nespresso Vertuo Next de DeLonghi, Blanco Cremoso con Oro",
-        "url": "https://www.amazon.com.mx/dp/B0GLFSV2XD",
-        "price": 3668.92,
-        "model": null
       }
     ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-13T19:29:02.281605+00:00",
+    "ts": "2026-08-15T19:36:51.871109+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1357,7 +1399,7 @@
         "store": "walmart",
         "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7249.0,
+        "price": 7209.0,
         "model": null
       },
       {
@@ -1371,69 +1413,69 @@
         "store": "walmart",
         "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
         "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3919.0,
+        "price": 3849.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
-        "price": 3029.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
-        "price": 4219.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
-        "price": 4039.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-cold-con-vaso-helado/00004438730924?athbdg=L1300",
-        "price": 3829.0,
+        "price": 3009.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-deluxe-de-breville-con-espumador-de-leche-titan/00002161480805?athbdg=L1300",
-        "price": 4219.0,
+        "price": 4099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "DeLonghi Cafetera y cafetera espresso DeLonghi Nespresso Vertuo Next Premium - Oro rosa negro",
+        "url": "https://www.walmart.com.mx/ip/delonghi-cafetera-y-cafetera-espresso-delonghi-nespresso-vertuo-next-premium-oro-rosa-negro/00004438701200?athbdg=L1300",
+        "price": 3189.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
+        "price": 3919.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ con espumador de leche rosa",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-con-espumador-de-leche-rosa/00004438710927?athbdg=L1300",
+        "price": 4169.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-cold-con-vaso-helado/00004438730924?athbdg=L1300",
+        "price": 3809.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de De'Longhi, negro mate con cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-de-longhi-negro-mate-con-cromo-oscuro/00004438720921?athbdg=L1300",
+        "price": 3219.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y cafetera Nespresso Vertuo Next de Breville, color azul marino",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-nespresso-vertuo-next-de-breville-color-azul-marino/00002161480454?athbdg=L1300",
-        "price": 3789.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480802?athbdg=L1300",
-        "price": 4199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
-        "price": 2769.0,
+        "price": 3769.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-13T19:29:03.853850+00:00",
+    "ts": "2026-08-15T19:36:52.169027+00:00",
     "items": []
   },
   "amazon|KRUPSINOXIDABLEAUTOMATICACAFETERACOFFEE": {
@@ -6104,251 +6146,6 @@
         "model": "RAM/512"
       }
     ]
-  },
-  "amazon|APPLECELULARBUMPERCANELAIPHONE": {
-    "ts": "2026-08-13T19:27:32.590121+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
-        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
-        "price": 230.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Azul Ancla ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0FQFHYDPW",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Carcasa Rígida Delgada con Marco de Aluminio para iPhone 12 Pro MAX, Color Plata Oscuro para 6,7 Pulgadas, Armadura de Marco de Metal con Parachoques Interior Suave, Protección de Borde Elevado",
-        "url": "https://www.amazon.com.mx/dp/B08RS17GFC",
-        "price": 369.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Carcasa Rígida Delgada con Marco de Aluminio para iPhone 12/ iPhone 12 Pro , Color Azul Oscuro para 6.1 Pulgadas, Armadura de Marco de Metal con Parachoques Interior Suave, Protección de Borde Elevado",
-        "url": "https://www.amazon.com.mx/dp/B08PB7S198",
-        "price": 389.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Genérico Magnetic Charging Aluminum Metal Bumper Matte Shell for iPhone, Fully Wrapped Mobile Phone Case Anti-Collision Matte Protective Case, for iPhone 16/15/14/13 (Gold,For iPhone15Pro)",
-        "url": "https://www.amazon.com.mx/dp/B0DY5C666L",
-        "price": 300.0,
-        "model": "iPhone15Pro"
-      },
-      {
-        "store": "amazon",
-        "name": "Genérico Magnetic Charging Aluminum Metal Bumper Matte Shell for iPhone, Fully Wrapped Mobile Phone Case Anti-Collision Matte Protective Case, for iPhone 16/15/14/13 (Gold,For iPhone14Pro)",
-        "url": "https://www.amazon.com.mx/dp/B0DY5CVZZM",
-        "price": 300.0,
-        "model": "iPhone14Pro"
-      },
-      {
-        "store": "amazon",
-        "name": "Genérico Magnetic Charging Aluminum Metal Bumper Matte Shell for iPhone, Fully Wrapped Mobile Phone Case Anti-Collision Matte Protective Case, for iPhone 16/15/14/13 (Gold,For iPhone15Promax)",
-        "url": "https://www.amazon.com.mx/dp/B0DY5C9145",
-        "price": 300.0,
-        "model": "iPhone15Promax"
-      },
-      {
-        "store": "amazon",
-        "name": "Genérico Magnetic Charging Aluminum Metal Bumper Matte Shell for iPhone, Fully Wrapped Mobile Phone Case Anti-Collision Matte Protective Case, for iPhone 16/15/14/13 (Gold,For iPhone14Promax)",
-        "url": "https://www.amazon.com.mx/dp/B0DY5BTF4K",
-        "price": 300.0,
-        "model": "iPhone14Promax"
-      },
-      {
-        "store": "amazon",
-        "name": "Magnetic Charging Aluminum Metal Bumper Matte Shell for iPhone, Fully Wrapped Mobile Phone Case Anti-collision Matte Protective Case, for iPhone 16/15/14/13 (Desert Gold,For iPhone16 Pro Max)",
-        "url": "https://www.amazon.com.mx/dp/B0DY5F8MKJ",
-        "price": 300.0,
-        "model": "iPhone16"
-      },
-      {
-        "store": "amazon",
-        "name": "Genérico Frameless Matte Ultra Thin Magnetic Slim Case for iPhone 16 Pro MAX, 16/15/14/13, Hard Pc Slim Case Compatible with Magsafe, Minimalist (for iPhone 12 Pro,Naranja)",
-        "url": "https://www.amazon.com.mx/dp/B0DKXPKVPW",
-        "price": 125.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Vooii Compatible con iPhone 17e/iPhone 16e Funda, Silicona Líquida Mejorada [Revestimiento de Microfibra Suave Antiarañazos] Funda de Teléfono a Prueba de Golpes 6.1'' - Naranja Brillante",
-        "url": "https://www.amazon.com.mx/dp/B0DT6Q93Q1",
-        "price": 369.99,
-        "model": "17e/iPhone"
-      },
-      {
-        "store": "amazon",
-        "name": "Funda para iPhone 16, Sweet Life transparente con diseño de Apple rojo, funda protectora transparente para iPhone 15PROMAX/14PRO/13 (iphone14promax)",
-        "url": "https://www.amazon.com.mx/dp/B0DZ75P54W",
-        "price": 280.38,
-        "model": "15PROMAX/14PRO/13"
-      }
-    ]
-  },
-  "walmart|APPLECELULARBUMPERCANELAIPHONE": {
-    "ts": "2026-08-13T19:27:35.019427+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
-        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141?athbdg=L1300",
-        "price": 809.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Bumper Apple iPhone Air Gris Claro",
-        "url": "https://www.walmart.com.mx/ip/funda-bumper-apple-iphone-air-gris-claro/00019595075139?athbdg=L1300",
-        "price": 949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda para teléfono Apple iPhone Air Bumper, azul claro",
-        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-azul-claro/00019595075140?athbdg=L1300",
-        "price": 679.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLECELULARBUMPERCANELAIPHONE": {
-    "ts": "2026-08-13T19:27:38.614961+00:00",
-    "items": []
-  },
-  "amazon|STERENPORTATILSTANDARDMONITORSTEREN": {
-    "ts": "2026-08-13T19:27:58.605396+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Szory Monitor Portátil, 15.6\" FHD 1080P IPS Extensor de Pantalla para Laptop con Soporte Ajustable, Pantalla Portátil USB-C HDMI, Monitor Portátil para Laptop Mac PC Teléfono Xbox PS4/5 Switch",
-        "url": "https://www.amazon.com.mx/dp/B0FKMK8C76",
-        "price": 1804.98,
-        "model": "1080P"
-      },
-      {
-        "store": "amazon",
-        "name": "ARZOPA Monitor portátil para Juegos de 16,1'' 144Hz, Monitor portátil con Soporte FHD y 106% sRGB 1080P con HDR Segunda Pantalla Externa para portátil, PC, PS5, Mac, Xbox, Switch - Z1FC",
-        "url": "https://www.amazon.com.mx/dp/B0CH9WTW56",
-        "price": 2099.99,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "YUUTY Monitor Portatil 1080P IPS, 15.6 Pulgadas Full HD Pantalla Portatil, Soporte USB/Altavoces Duales Incorporados, Monitor Portátil para Laptop para PS4, Mac, Phone, Xbox, Switch",
-        "url": "https://www.amazon.com.mx/dp/B0DFBWVKN8",
-        "price": 949.99,
-        "model": "1080P"
-      },
-      {
-        "store": "amazon",
-        "name": "AOC Monitor Portátil 16T20, 15.6” FHD 1920x1080, Pantalla IPS, Bocinas Integradas, 2X USB Tipo C, 1x Mini HDMI, Funda Inteligente Premium, Compatible con Consolas de Videojuegos.",
-        "url": "https://www.amazon.com.mx/dp/B0F3MMK1J4",
-        "price": 1479.94,
-        "model": "1920x1080"
-      },
-      {
-        "store": "amazon",
-        "name": "STEREN Monitor portátil Touch de 15.6” HDR para Laptop",
-        "url": "https://www.amazon.com.mx/dp/B0D67HMCRC",
-        "price": 2490.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "STEREN Monitor portátil HDR de 18.5” para Laptop",
-        "url": "https://www.amazon.com.mx/dp/B0CZF7JQ99",
-        "price": 2691.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "STEREN Monitor portátil HDR de 15.6” para Laptop",
-        "url": "https://www.amazon.com.mx/dp/B0CN3TDRZ5",
-        "price": 1990.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Szory Monitor Portátil, 15.6\" FHD 1080P IPS Extensor de Pantalla para Laptop con Soporte Ajustable, Pantalla Portátil USB-C HDMI, Monitor Portátil para Laptop Mac PC Teléfono Xbox PS4/5 Switch",
-        "url": "https://www.amazon.com.mx/dp/B0FKMK8C76",
-        "price": 1804.98,
-        "model": "1080P"
-      },
-      {
-        "store": "amazon",
-        "name": "Yodoit Monitor Portátil 15.6 Pulgadas, IPS FHD 1080P USB Type-C Pantalla para Laptop, Monitor Portable de Juego 100% SRGB HDR con HDMI/USB C para MacBook PC Xbox PS4/5 Nintendo Switch Teléfono",
-        "url": "https://www.amazon.com.mx/dp/B0BYJ79PHH",
-        "price": 1399.07,
-        "model": "1080P"
-      },
-      {
-        "store": "amazon",
-        "name": "Acer PM1 PM161QT bmiuuux Monitor Portátil de 15.6 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0FJS8675G",
-        "price": 2443.0,
-        "model": "PM161QT"
-      },
-      {
-        "store": "amazon",
-        "name": "Monitor Portátil, 15.6 Pulgadas FHD IPS 1080P USB Type-C Monitor de Viaje Ultra Delgado, con USB/C HDMI, Built-in Dual Speakers, para PC,PS4/5,Laptop,Xbox,Phone, Switch",
-        "url": "https://www.amazon.com.mx/dp/B0GD6KS4D3",
-        "price": 1129.99,
-        "model": "1080P"
-      },
-      {
-        "store": "amazon",
-        "name": "ARZOPA Monitor Portátil 15.6'' FHD 1080P Kickstand Monitor Portátil IPS Pantalla Externa USB C HDMI para PC Mac Teléfono Xbox PS5 - A1",
-        "url": "https://www.amazon.com.mx/dp/B0CH9XW8RK",
-        "price": 1999.99,
-        "model": "1080P"
-      }
-    ]
-  },
-  "walmart|STERENPORTATILSTANDARDMONITORSTEREN": {
-    "ts": "2026-08-13T19:28:19.823523+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Monitor Steren 18.5 pulgadas portátil HDR DIS-118",
-        "url": "https://www.walmart.com.mx/ip/monitor-steren-18-5-pulgadas-portatil-hdr-dis-118/00750625097015?athbdg=L1300",
-        "price": 2691.0,
-        "model": "DIS-118"
-      },
-      {
-        "store": "walmart",
-        "name": "Monitor portátil Touch 15.6 HDR para laptop Steren negro",
-        "url": "https://www.walmart.com.mx/ip/monitor-portatil-touch-15-6-hdr-para-laptop-steren-negro/00750625097123",
-        "price": 2490.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Monitor Steren 15.6 pulgadas portátil HDR DIS-116",
-        "url": "https://www.walmart.com.mx/ip/monitor-steren-15-6-pulgadas-portatil-hdr-dis-116/00750625096546",
-        "price": 1990.0,
-        "model": "DIS-116"
-      },
-      {
-        "store": "walmart",
-        "name": "Monitor portátil VIVO STAND-PM01M de 15,6 pulgadas con soporte para portátil",
-        "url": "https://www.walmart.com.mx/ip/monitor-portatil-vivo-stand-pm01m-de-15-6-pulgadas-con-soporte-para-portatil/00084040880169?athbdg=L1300",
-        "price": 2779.0,
-        "model": "STAND-PM01M"
-      }
-    ]
-  },
-  "sams|STERENPORTATILSTANDARDMONITORSTEREN": {
-    "ts": "2026-08-13T19:28:20.385759+00:00",
-    "items": []
   },
   "amazon|APPLECELULARCANELABUMPERIPHONE": {
     "ts": "2026-08-13T20:08:05.438238+00:00",
@@ -34065,6 +33862,139 @@
   },
   "sams|APPLEMACBOOKNUCLEOSSSD512": {
     "ts": "2026-08-15T18:49:33.104601+00:00",
+    "items": []
+  },
+  "amazon|APPLENUCLEOSMACBOOKSSDGPU": {
+    "ts": "2026-08-15T19:36:28.574654+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
+        "price": 49999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air de Finales de 2020 con Chip Apple M1 (13 Pulgadas, 8 GB de RAM, 256 GB SSD) Plata (reacondicionado) | SSD de 256 GB, renovado, 8 GB de RAM, chip M1",
+        "url": "https://www.amazon.com.mx/dp/B08PV4GYCL",
+        "price": 8861.49,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
+        "price": 44999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Sintech NGFF M.2 nVME Tarjeta Adaptador SSD para MacBook Air (año 2013-2016) y MacBook Pro (Finales de 2013-2015) (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B07FYY3H5F",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR1J9F22",
+        "price": 47499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 16 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FWDTGNT6",
+        "price": 44999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 24 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FWF123DM",
+        "price": 49999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLENUCLEOSMACBOOKSSDGPU": {
+    "ts": "2026-08-15T19:36:32.032505+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 13148.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLENUCLEOSMACBOOKSSDGPU": {
+    "ts": "2026-08-15T19:36:33.312446+00:00",
     "items": []
   }
 }
