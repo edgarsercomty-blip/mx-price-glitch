@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-15 11:51 UTC",
-  "products_scanned": 1564,
+  "generated_at": "2026-08-15 12:19 UTC",
+  "products_scanned": 1605,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 33,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 77.8,
+      "detail": "$299 en liverpool vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 450.0,
+      "store": "liverpool",
+      "name": "Tenis Gold Care Gold Care Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107",
+      "price": 299.0,
+      "list_price": 1349.0,
+      "ean": null,
+      "model": null,
+      "brand": "GOLD CARE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1114902107",
+        "marketplace": null
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -65,6 +86,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$68 en liverpool vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 34.2,
+      "store": "liverpool",
+      "name": "Funda Para Almohada Ribbed",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
+      "price": 68.4,
+      "list_price": 228.0,
+      "ean": null,
+      "model": null,
+      "brand": "WEST ELM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1172986773",
+        "marketplace": null
       }
     },
     {
@@ -298,27 +340,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11021.78,
-      "store": "palacio",
-      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
-      "price": 34067.32,
-      "list_price": 50099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 3761.78,
@@ -334,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11021.78,
+      "store": "palacio",
+      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
+      "price": 34067.32,
+      "list_price": 50099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369614",
         "outlet": false
       }
     },
