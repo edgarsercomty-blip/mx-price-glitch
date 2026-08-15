@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (776)
+# Historial de ofertas encontradas (777)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-15 03:07 | -60% | liverpool | [Tenis Gold Care Gold Care Unisex](https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107) | $299 | $299 en liverpool vs mercado -> -60% bajo la competencia |
 | 2026-08-15 02:42 | -21% | liverpool | [Porta Audifonos In Ear Gear4](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-gear4/1156218941) | $199 | $199 en liverpool vs amazon $251, amazon $271 -> -21% bajo la competencia |
 | 2026-08-15 02:42 | -22% | sams | [Smartphone Samsung Galaxy A36 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a36-128-gb-negro/981033455) | $5,013 | $5,013 en sams vs walmart $6,999 -> -22% bajo la competencia |
 | 2026-08-15 02:42 | -24% | sams | [Smartphone Samsung Galaxy A26 128 GB Verde](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-verde/981035903) | $4,191 | $4,191 en sams vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -30% | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html) | $23,449 | $23,449 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-17 08:37 | -32% | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desblo…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $6,599 | $6,599 en palacio vs mercado -> -32% bajo la competencia |
 | 2026-07-17 08:37 | -33% | palacio | [Computadora gaming de escritorio ROG Strix G16CHR Nvidi…](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-strix-g16chr-nvidia-rtx-4060-intel-core-i5-8-gb-ram-512-gb-ssd-45046845.html) | $18,759 | $18,759 en palacio vs mercado -> -33% bajo la competencia |
-| 2026-07-17 08:37 | -33% | palacio | [Maquina de Cafe Espresso Semiautomatica con Moledora de…](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-semiautomatica-con-moledora-de-cafe-44064062.html) | $9,250 | $9,250 en palacio vs mercado -> -33% bajo la competencia |
