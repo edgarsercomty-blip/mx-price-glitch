@@ -1,9 +1,16 @@
-# Historial de ofertas encontradas (781)
+# Historial de ofertas encontradas (788)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-15 15:38 | -21% | amazon | [Samsung Tab S10 Lite Coral Red 128GB, Pantalla 10.9''](https://www.amazon.com.mx/dp/B0FKCT4MHL) | $5,114 | $5,114 en amazon vs sams $19,947, sams $19,947 -> -21% bajo la competencia |
+| 2026-08-15 15:38 | -24% | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $4,191 | $4,191 en sams vs mercado -> -24% bajo la competencia |
+| 2026-08-15 15:38 | -24% | sams | [Smartphone Samsung Galaxy A57 256 GB Violet Desbloquead…](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991) | $8,386 | $8,386 en sams vs mercado -> -24% bajo la competencia |
+| 2026-08-15 15:38 | -30% | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 1…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $9,206 | $9,206 en sams vs mercado -> -30% bajo la competencia |
+| 2026-08-15 15:38 | -31% | sams | [Smartphone Samsung Galaxy A56 256 GB Gris](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-gris/981033460) | $6,956 | $6,956 en sams vs mercado -> -31% bajo la competencia |
+| 2026-08-15 15:38 | -33% | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqu…](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $6,136 | $6,136 en sams vs mercado -> -33% bajo la competencia |
+| 2026-08-15 15:38 | -46% | amazon | [Keds WH61626 Tenis de piel para Dama](https://www.amazon.com.mx/dp/B0CNV44WCH) | $626 | $626 en amazon vs mercado -> -46% bajo la competencia |
 | 2026-08-15 08:18 | -25% | liverpool | [Smartwatch Garmin Vivoactive 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-vivoactive-5-unisex-con-gps/1142099678) | $3,974 | $3,974 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-15 07:47 | -20% | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-15 07:47 | -25% | palacio | [MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcle…](https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html) | $28,799 | $28,799 en palacio vs mercado -> -25% bajo la competencia |
@@ -397,10 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -25% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | $14,662 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | $2,474 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $4,499 | $4,499 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Secadora a Gas con Pedestal 23 Kg Carga Frontal CP_7MMG…](https://www.elpalaciodehierro.com/maytag-secadora-a-gas-con-pedestal-23-kg-carga-frontal-cp_7mmgd7020ru-44892324.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -26% | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $25,999 | $25,999 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-17 08:37 | -26% | palacio | [Mica protectora antirreflejante para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-17 08:37 | -29% | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $5,650 | $5,650 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-07-17 08:37 | -30% | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | $27,930 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-17 08:37 | -30% | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $27,713 | $27,713 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-17 08:37 | -30% | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | $2,099 en palacio vs mercado -> -30% bajo la competencia |
