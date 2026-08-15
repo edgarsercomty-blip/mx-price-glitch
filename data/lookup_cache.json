@@ -33996,5 +33996,131 @@
   "sams|APPLENUCLEOSMACBOOKSSDGPU": {
     "ts": "2026-08-15T19:36:33.312446+00:00",
     "items": []
+  },
+  "amazon|APPLEMACBOOKNUCLEOS512CPU": {
+    "ts": "2026-08-15T19:51:06.038914+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
+        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0CX2512LK",
+        "price": 22499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
+        "price": 28313.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 MAX de Apple con CPU de 18 núcleos y GPU de 40 núcleos, 48GB Memoria unificada, 2 TB) - Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0GR1L19B9",
+        "price": 114999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR6PXSTQ",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
+        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
+        "price": 28313.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0CX2512LK",
+        "price": 22499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
+        "price": 34999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMACBOOKNUCLEOS512CPU": {
+    "ts": "2026-08-15T19:51:10.486661+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 13148.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEMACBOOKNUCLEOS512CPU": {
+    "ts": "2026-08-15T19:51:11.928673+00:00",
+    "items": []
   }
 }
