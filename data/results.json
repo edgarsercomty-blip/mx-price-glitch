@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15 17:36 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-08-15 17:52 UTC",
+  "products_scanned": 1581,
   "threshold_pct": 20.0,
   "count": 33,
   "findings": [
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172986773",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.5,
-      "detail": "$10,499 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4799.76,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876",
-      "price": 10499.48,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": "Vx182H4",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1149564876",
         "marketplace": null
       }
     },
@@ -440,6 +419,27 @@
       "extra": {
         "id": "45366538",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.5,
+      "detail": "$10,499 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3149.84,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876",
+      "price": 10499.48,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": "Vx182H4",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1149564876",
+        "marketplace": null
       }
     },
     {

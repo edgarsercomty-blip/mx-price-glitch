@@ -622,7 +622,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | -51% |
 | 🟢 disponible | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | -40% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Des…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html) | $23,429 | -29% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | -31% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | -23% |
 | 🟢 disponible | amazon | [UGREEN HUB USB C 7 en 1 Adaptador a HDMI 4K a 30Hz, Lector T…](https://www.amazon.com.mx/dp/B0BLNDNBG1) | $459 | -21% |
 | 🟢 disponible | walmart | [TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C](https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510) | $1,990 | -20% |
 | 🟢 disponible | mercadolibre | [Samsung Galaxy Buds Core Negro](https://www.mercadolibre.com.mx/samsung-galaxy-buds-core-negro/p/MLM52056865) | $678 | -32% |
