@@ -652,7 +652,7 @@
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-13T10:29:42.061741+00:00",
+    "ts": "2026-08-15T10:41:21.283951+00:00",
     "items": [
       {
         "store": "amazon",
@@ -666,6 +666,13 @@
         "name": "HUAWEI Watch GT 6 Pro Smartwatch 46mm Reloj Inteligente Hombre, Negro | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android",
         "url": "https://www.amazon.com.mx/dp/B0FPG8KLS8",
         "price": 3759.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch GT 6 Smartwatch 46mm Reloj Inteligente Hombre, Gris | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, iOS y Android, Correa de cuero compuesto",
+        "url": "https://www.amazon.com.mx/dp/B0FPG955QJ",
+        "price": 2982.53,
         "model": null
       },
       {
@@ -691,16 +698,16 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
-        "price": 2699.0,
+        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
+        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
+        "price": 2299.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GKRPMMR1",
-        "price": 859.0,
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
+        "price": 2699.0,
         "model": null
       },
       {
@@ -712,6 +719,13 @@
       },
       {
         "store": "amazon",
+        "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
+        "url": "https://www.amazon.com.mx/dp/B0GKRPMMR1",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "HUAWEI Band 11 Smartwatch Caja de Polímeros Durables, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
         "url": "https://www.amazon.com.mx/dp/B0GKRDB22X",
         "price": 799.0,
@@ -719,119 +733,190 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch GT 6 Smartwatch 46mm Reloj Inteligente Hombre, Gris | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, iOS y Android, Correa de cuero compuesto",
-        "url": "https://www.amazon.com.mx/dp/B0FPG955QJ",
-        "price": 2982.53,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
-        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Negro | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
-        "price": 2462.51,
+        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
+        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
+        "price": 619.99,
         "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-13T10:29:52.122963+00:00",
+    "ts": "2026-08-15T10:41:25.210717+00:00",
     "items": [
       {
         "store": "walmart",
+        "name": "Infinix Smartwatch Pantalla TFT 2.04\", Reloj Inteligente Ligero, Batería de 10 Días (300mAh), Monitor de Salud, Compatible con iOS y Android",
+        "url": "https://www.walmart.com.mx/ip/infinix-smartwatch-pantalla-tft-2-04-reloj-inteligente-ligero-bateria-de-10-dias-300mah-monitor-de-salud-compatible-con-ios-y-android/00489494707005",
+        "price": 549.0,
+        "model": "300mAh"
+      },
+      {
+        "store": "walmart",
         "name": "HUAWEI WATCH FIT 3, Negro Carbón, Pantalla AMOLED de 1.82, Diseño Ultradelgado, Monitoreo Integral del Ejercicio, Gestión Integral de la Salud, Batería de 10 Días, Compatible con iOS y Android",
-        "url": "https://www.walmart.com.mx/ip/HUAWEI-WATCH-FIT-3-Negro-Carbon-Pantalla-AMOLED-de-1-82-Diseno-Ultradelgado-Monitoreo-Integral-del-Ejercicio-Gestion-Integral-de-la-Salud-Bateria-de-10-Dias-Compatible-con-iOS-y-Android/00694210311853",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-fit-3-negro-carbon-pantalla-amoled-de-1-82-diseno-ultradelgado-monitoreo-integral-del-ejercicio-gestion-integral-de-la-salud-bateria-de-10-dias-compatible-con-ios-y-android/00694210311853",
         "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Huawei Band 9",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Band-9/00694210311808",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smartwatch Huawei Fit 4 AMOLED 1.82” GPS 5ATM negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Fit-4-AMOLED-1-82-GPS-5ATM-negro/00694210315534",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-fit-4-amoled-1-82-gps-5atm-negro/00694210315534",
         "price": 2389.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
-        "url": "https://www.walmart.com.mx/ip/HUAWEI-Watch-GT-5-41mm-Smartwatch-GPS-hasta-7-Dias-de-BaterIa-Sharp-Edged-Design-Seguimiento-de-la-Salud-Resistente-al-Agua-Compatible-con-iOS-y-Android-Negro-Mate/00019457000223?athbdg=L1300",
-        "price": 5395.0,
-        "model": null
+        "name": "Infinix XWatch 3 GT Smartwatch Deportivo, Pantalla HD IPS, Batería de Larga Duración 15 Días (500mAh), Monitor de Actividad, Compatible con iOS y Android",
+        "url": "https://www.walmart.com.mx/ip/infinix-xwatch-3-gt-smartwatch-deportivo-pantalla-hd-ips-bateria-de-larga-duracion-15-dias-500mah-monitor-de-actividad-compatible-con-ios-y-android/00489494702402",
+        "price": 950.0,
+        "model": "500mAh"
       },
       {
         "store": "walmart",
-        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Nueva experiencia de carrera y bicicleta, Sharp-Edged Design, Seguimiento de la salud, Compatible con iOS y Android, Azul",
-        "url": "https://www.walmart.com.mx/ip/HUAWEI-Watch-GT-5-41mm-Smartwatch-GPS-hasta-7-Dias-de-BaterIa-Nueva-experiencia-de-carrera-y-bicicleta-Sharp-Edged-Design-Seguimiento-de-la-salud-Compatible-con-iOS-y-Android-Azul/00019457000224?athbdg=L1300",
-        "price": 6334.0,
+        "name": "HUAWEI Watch 5, Smartwatch con eSIM & GPS, Tecnología Multi-Sensing X-Tap, Medicion de Oxígeno en Sangre en Yema del Dedo, Panorama de Salud, Compatible con iOS y Android, 42mm Beige Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-5-smartwatch-con-esim-gps-tecnologia-multi-sensing-x-tap-medicion-de-oxigeno-en-sangre-en-yema-del-dedo-panorama-de-salud-compatible-con-ios-y-android-42mm-beige-acero-inoxidable/00694210315464?athbdg=L1300",
+        "price": 8691.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartwatch Huawei Watch Gt 6 46mm Reloj Inteligente Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Gt-6-46mm-Reloj-Inteligente-Color-Negro/00694210316871",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-46mm-reloj-inteligente-color-negro/00694210316871",
         "price": 4390.0,
         "model": null
       },
       {
         "store": "walmart",
+        "name": "HUAWEI Watch 5, Smartwatch con eSIM & GPS, Tecnología Multi-Sensing X-Tap, Medición de Oxígeno en Sangre en la Yema del Dedo, Panorama de Salud, iOS y Android, 42mm Verde Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-5-smartwatch-con-esim-gps-tecnologia-multi-sensing-x-tap-medicion-de-oxigeno-en-sangre-en-la-yema-del-dedo-panorama-de-salud-ios-y-android-42mm-verde-acero-inoxidable/00694210315465?athbdg=L1300",
+        "price": 8217.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-sharp-edged-design-seguimiento-de-la-salud-resistente-al-agua-compatible-con-ios-y-android-negro-mate/00019457000223?athbdg=L1300",
+        "price": 5395.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-negro/00694148723310",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Nueva experiencia de carrera y bicicleta, Sharp-Edged Design, Seguimiento de la salud, Compatible con iOS y Android, Azul",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-nueva-experiencia-de-carrera-y-bicicleta-sharp-edged-design-seguimiento-de-la-salud-compatible-con-ios-y-android-azul/00019457000224?athbdg=L1300",
+        "price": 6334.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Morado",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-HUAWEI-Watch-Fit-4-Pantalla-Touch-AMOLED-1-82-Bluetooth-5-2-Android-iOS-Morado/00070452118691?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-morado/00070452118691?athbdg=L1300",
         "price": 3399.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-HUAWEI-Watch-Fit-4-Pantalla-Touch-AMOLED-1-82-Bluetooth-5-2-Android-iOS-Negro/00070452118690?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-negro/00070452118690?athbdg=L1300",
         "price": 3399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-GT-6-41mm-Reloj-Inteligente-Color-Negro/00694210316959?athbdg=L6000",
-        "price": 4199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit 5 42.9 Mm Con Gps Negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Fit-5-42-9-Mm-Con-Gps-Negro/00694210319085?athbdg=L6000",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Blanco",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-GT-6-41mm-Reloj-Inteligente-Color-Blanco/00694210316962?athbdg=L6000",
-        "price": 4199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit 5 - Negro",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Huawei-Watch-Fit-5-Negro/00955568795608?athbdg=L1300",
-        "price": 2299.0,
         "model": null
       }
     ]
   },
   "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-13T10:29:54.099714+00:00",
-    "items": []
+    "ts": "2026-08-15T10:41:33.151818+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
+        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
+        "price": 5112.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
+        "price": 3500.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Instinct 3 con GPS Amoled 50 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-instinct-3-con-gps-amoled-50-mm/981042296",
+        "price": 9134.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Gris 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-gris-22-mm/981042769",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  Kronos AI Chat Negro",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-ai-chat-negro/981053789",
+        "price": 1298.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 570 con GPS 47 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-47-mm/981042768",
+        "price": 11498.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Negro 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-negro-22-mm/981042770",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Mini Correa 21 mm Rosa",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-mini-correa-21-mm-rosa/981028529",
+        "price": 715.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Correa 23 mm Negro",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-correa-23-mm-negro/981028531",
+        "price": 715.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  1.43\" Gris",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-1-43-gris/981053786",
+        "price": 561.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  1.4\" Beige",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-1-4-beige/981053788",
+        "price": 561.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  Negro 1.3\"",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-negro-1-3/981053790",
+        "price": 715.08,
+        "model": null
+      }
+    ]
   },
   "amazon|HR2242": {
     "ts": "2026-08-13T19:27:17.010879+00:00",
@@ -5190,188 +5275,6 @@
         "model": "NL16-71G-74WV"
       }
     ]
-  },
-  "amazon|ASUSGEFORCENVIDIALAPTOPGAMING": {
-    "ts": "2026-08-13T10:30:20.872502+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
-        "price": 22999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
-        "price": 14997.0,
-        "model": "13TOPS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop LOQ 15IAX9E | NVIDIA GeForce RTX 3050 6 GB | 15.6\" FHD | Intel Core i5 | 16GB RAM 512GB SSD | Impulsado por IA | Windows 11",
-        "url": "https://www.amazon.com.mx/dp/B0F1WWLZBK",
-        "price": 16317.97,
-        "model": "15IAX9E"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
-        "price": 32430.94,
-        "model": "16-am0014la"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0FH429674",
-        "price": 18499.0,
-        "model": "144Hz/Wi-Fi"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
-        "price": 23499.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
-        "price": 26999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
-        "price": 25999.0,
-        "model": "260/NPU"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16 Laptop IA Gamer Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU Rendimiento Total 38 Tops 32GB 1TB Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles Copilot Gaming Proxima Generacion",
-        "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
-        "price": 38899.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop Gamer TUF Gaming A18 NVIDIA GeForce RTX 5060 AMD Ryzen 7 260 16GB DDR5 SSD 1TB 18\" WUXGA 144Hz Teclado Ingles Gaming Competitivo y Creacion de Contenido",
-        "url": "https://www.amazon.com.mx/dp/B0GLHF42BM",
-        "price": 32999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
-        "price": 24424.89,
-        "model": "13450HX"
-      }
-    ]
-  },
-  "walmart|ASUSGEFORCENVIDIALAPTOPGAMING": {
-    "ts": "2026-08-13T10:30:38.313685+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
-        "price": 29997.0,
-        "model": "V3607VM-RP033W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
-        "price": 15497.0,
-        "model": "FX607VJ-RL022W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
-        "price": 14997.0,
-        "model": "FX607VJ-RL805W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
-        "price": 23997.0,
-        "model": "FX608JHR-RV147W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
-        "price": 38999.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
-        "price": 59999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
-        "price": 14997.0,
-        "model": "FX607VJ-RL805W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
-        "price": 44999.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS TUF Gaming Laptop A18 Pulgadas - NVIDIA RTX 5060 - AMD Ryzen 7 260 Beat i9-13905H - Pantalla WUXGA de 18\" 144Hz - 32GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - Thunderbolt 4 - Cámara FH",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-a18-pulgadas-nvidia-rtx-5060-amd-ryzen-7-260-beat-i9-13905h-pantalla-wuxga-de-18-144hz-32gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-thunderbolt-4-camara-fh/00019710551608?athbdg=L1300",
-        "price": 41050.61,
-        "model": "i9-13905H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
-        "price": 15497.0,
-        "model": "FX607VJ-RL022W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-v16-ultra-7-240h-memoria-de-32gb-ddr5-ssd-de-1tb-pantalla-de-16-led-wuxga-1920-x-1200-video-nvidia-geforce-rtx-5060-s-o-windows-11-home-/00019710590587?athbdg=L1300",
-        "price": 29229.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-a18-pulgadas-gaming-laptop-amd-ryzen-7-260-beat-i9-13905h-nvidia-rtx-5060-pantalla-wuxga-de-18-32gb-de-ram-1tb-ssd-teclado-retroiluminado-rgb-camara-fhd-laptop-para-gamer/00019710542309",
-        "price": 47340.7,
-        "model": "i9-13905H"
-      }
-    ]
-  },
-  "sams|ASUSGEFORCENVIDIALAPTOPGAMING": {
-    "ts": "2026-08-13T10:30:41.914308+00:00",
-    "items": []
   },
   "amazon|ASUSGEFORCEGAMINGNVIDIALAPTOP": {
     "ts": "2026-08-13T12:29:27.065367+00:00",
@@ -31598,6 +31501,491 @@
         "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035029",
         "price": 31497.0,
         "model": "GPU/24GB/512GB"
+      }
+    ]
+  },
+  "amazon|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-15T10:41:36.969918+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
+        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
+        "price": 44999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
+        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1K6W6T",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Pro (de 14 Pulgadas, Chip M5 Pro de Apple con CPU de 15 núcleos y GPU de 16 núcleos, 24GB Memoria unificada, 2 TB) - Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B1ZN4",
+        "price": 67499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial con AppleCare+",
+        "url": "https://www.amazon.com.mx/dp/B0D4BXJ4D8",
+        "price": 27498.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 Pro de Apple con CPU de 18 núcleos y GPU de 20 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR1N2XPV",
+        "price": 67999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-15T10:41:39.775728+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 13148.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEMACBOOKNUCLEOSGPUCPU": {
+    "ts": "2026-08-15T10:41:42.851163+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
+        "price": 31497.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
+        "price": 26997.0,
+        "model": "GPU/16GB/256GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      }
+    ]
+  },
+  "amazon|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-15T10:41:46.893347+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
+        "url": "https://www.amazon.com.mx/dp/B0CDSNXDJT",
+        "price": 1241.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLFJD2T2",
+        "price": 1181.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable con estilo distintivo para un aspecto personalizado",
+        "url": "https://www.amazon.com.mx/dp/B0DYG9TF16",
+        "price": 1094.91,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach - Apple Straps - Correa Apple Watch para Mujer 14700244 - Acero Inoxidable Multicolor - Compatible 38/40/41 mm",
+        "url": "https://www.amazon.com.mx/dp/B0D244R42M",
+        "price": 1899.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
+        "url": "https://www.amazon.com.mx/dp/B0CWS71NTV",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLG65S12",
+        "price": 2753.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "APPLE WATCH® - Correa de 38 mm, 40 mm, 41 mm y 42 mm",
+        "url": "https://www.amazon.com.mx/dp/B0F3LNTQ6J",
+        "price": 1099.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, crea tu estilo único",
+        "url": "https://www.amazon.com.mx/dp/B0D23X7Z2L",
+        "price": 2659.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DR9F71NL",
+        "price": 2199.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kate Spade New York, Pulsera de reloj intercambiable KSS0067, mujeres, Borde festoneado/tono dorado rubor, Una talla",
+        "url": "https://www.amazon.com.mx/dp/B08DHNDDBL",
+        "price": 2792.2,
+        "model": "KSS0067"
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
+        "url": "https://www.amazon.com.mx/dp/B0BNTQ3KWQ",
+        "price": 529.99,
+        "model": "Ultra3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Magnética Para Apple Watch 40mm 42mm 41mm 38mm,Starlight | Milanesa Pulsera de Repuesto de Acero Inoxidable Loop para Series 11 10 9 8 7 6 5 4 3 2 1 SE3/2/1 para Mujer y Hombre",
+        "url": "https://www.amazon.com.mx/dp/B0D9S1NY22",
+        "price": 399.99,
+        "model": "SE3/2/1"
+      }
+    ]
+  },
+  "walmart|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-15T10:41:50.018351+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple Watch Serie 7 GPS Caja De Acero Inoxidable Grafito 41 mm Correa Milanesa Grafito MKHK3LL/A",
+        "url": "https://www.walmart.com.mx/ip/apple-watch-serie-7-gps-caja-de-acero-inoxidable-grafito-41-mm-correa-milanesa-grafito-mkhk3ll-a/00019425256662",
+        "price": 16429.71,
+        "model": "MKHK3LL/A"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Watch Strap Coach de acero inoxidable para 38 mm a 41 mm",
+        "url": "https://www.walmart.com.mx/ip/apple-watch-strap-coach-de-acero-inoxidable-para-38-mm-a-41-mm/00088599746055?athbdg=L1300",
+        "price": 4699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Acero Inoxidable, Eslabones/Cadenas Para Apple Watch Series 1/2/3/4/5/6/7/8/9/10",
+        "url": "https://www.walmart.com.mx/ip/correa-acero-inoxidable-eslabones-cadenas-para-apple-watch-series-1-2-3-4-5-6-7-8-9-10/00750306072813?athbdg=L1300",
+        "price": 502.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015442?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015464?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Milanese Loop para Apple Watch, Acero Inoxidable, Compatible con Series 1,2,3,4,5,6,7,8,9,10,11,SE,ULTRA",
+        "url": "https://www.walmart.com.mx/ip/correa-milanese-loop-para-apple-watch-acero-inoxidable-compatible-con-series-1-2-3-4-5-6-7-8-9-10-11-se-ultra/00750306129373?athbdg=L1300",
+        "price": 609.39,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa De Cerámica Acero Inoxidable Premium Para Applewatch 42/44/45mm",
+        "url": "https://www.walmart.com.mx/ip/correa-de-ceramica-acero-inoxidable-premium-para-applewatch-42-44-45mm/00750304440369?athbdg=L1300",
+        "price": 538.92,
+        "model": "42/44/45mm"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015492?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015449?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015483?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Apple Watch 42/44mm Eslabon Acero Inoxidable Negro Genérica Compatible Apple Watch 42/44mm",
+        "url": "https://www.walmart.com.mx/ip/correa-apple-watch-42-44mm-eslabon-acero-inoxidable-negro-generica-compatible-apple-watch-42-44mm/00060060321713",
+        "price": 937.0,
+        "model": "42/44mm"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015439?athbdg=L1300",
+        "price": 242.14,
+        "model": null
+      }
+    ]
+  },
+  "sams|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-15T10:41:53.360628+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-para-dama-90-ml/981014135",
+        "price": 868.68,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  Dreams Sunset para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-dreams-sunset-para-dama-90-ml/981026656",
+        "price": 781.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  New York Wild Rose para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-new-york-wild-rose-para-dama-90-ml/981022831",
+        "price": 912.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  New York Green para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-new-york-green-para-caballero-100-ml/981022827",
+        "price": 940.34,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  Open Road para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-open-road-para-caballero-100-ml/981043867",
+        "price": 912.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  New York Love para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-new-york-love-para-dama-90-ml/981028986",
+        "price": 1216.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  Man Blue para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-man-blue-para-caballero-100-ml/981039403",
+        "price": 955.64,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  New York for Men para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-new-york-for-men-para-caballero-100-ml/981022828",
+        "price": 938.24,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa de Acero Member's Mark  1 pza",
+        "url": "https://www.sams.com.mx/ip/mesa-de-acero-member-s-mark-1-pza/980025068",
+        "price": 1358.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Volquete de Acero CAT  Steel",
+        "url": "https://www.sams.com.mx/ip/volquete-de-acero-cat-steel/981005790",
+        "price": 1122.22,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Silla de Acero Member's Mark  de Malla",
+        "url": "https://www.sams.com.mx/ip/silla-de-acero-member-s-mark-de-malla/980025069",
+        "price": 919.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuchillos de Acero Cuisinart  con Bloque de Madera ",
+        "url": "https://www.sams.com.mx/ip/cuchillos-de-acero-cuisinart-con-bloque-de-madera/981050197",
+        "price": 816.35,
+        "model": null
       }
     ]
   }

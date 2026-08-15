@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15 10:14 UTC",
-  "products_scanned": 1605,
+  "generated_at": "2026-08-15 10:41 UTC",
+  "products_scanned": 1553,
   "threshold_pct": 20.0,
   "count": 33,
   "findings": [
@@ -340,27 +340,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11021.78,
-      "store": "palacio",
-      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
-      "price": 34067.32,
-      "list_price": 50099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 3761.78,
@@ -376,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11021.78,
+      "store": "palacio",
+      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
+      "price": 34067.32,
+      "list_price": 50099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369614",
         "outlet": false
       }
     },
@@ -470,27 +470,6 @@
       "likely_typo": false,
       "savings": 2989.77,
       "store": "palacio",
-      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
       "name": "iPhone 13 128 GB Blanco Telcel",
       "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
       "price": 10009.23,
@@ -502,6 +481,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44639312",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42077608",
         "outlet": false
       }
     },
