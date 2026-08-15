@@ -1,5 +1,18 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-15 02:09 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-15 02:42 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **12**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -40% | $4,269 | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F3800H 100 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f3800h-100-v/57683546) | $6,299 | Confirmado vs competencia | $6,299 en liverpool vs walmart $10,568 -> -40% bajo la competencia |
+| -30% | $3,918 | sams | [Batidora de Pedestal Cuisinart  Digital Negra CSM-D175BKES](https://www.sams.com.mx/ip/batidora-de-pedestal-cuisinart-digital-negra-csm-d175bkes/981040717) | $9,380 | Confirmado vs competencia | $9,380 en sams vs mercado -> -30% bajo la competencia |
+| -26% | $1,901 | walmart | [Smartphone Motorola Edge 60 5G / 512GB Verde Desbloqueado](https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-5g-512gb-verde-desbloqueado/00084002328705?athbdg=L1300) | $5,498 | Confirmado vs competencia | $5,498 en walmart vs walmart $7,399, walmart $7,399, walmart $8,429 -> -26% bajo la competencia |
+| -26% | $1,841 | sams | [Licuadora Cuisinart  Hurricane 3.5 HP CBT-2000ES](https://www.sams.com.mx/ip/licuadora-cuisinart-hurricane-3-5-hp-cbt-2000es/981040735) | $5,114 | Confirmado vs competencia | $5,114 en sams vs mercado -> -26% bajo la competencia |
+| -22% | $1,431 | sams | [Smartphone Samsung Galaxy A36 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a36-128-gb-negro/981033455) | $5,013 | Confirmado vs competencia | $5,013 en sams vs walmart $6,999 -> -22% bajo la competencia |
+| -24% | $1,332 | sams | [Smartphone Samsung Galaxy A26 128 GB Blanco](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904) | $4,191 | Confirmado vs competencia | $4,191 en sams vs mercado -> -24% bajo la competencia |
+| -24% | $1,332 | sams | [Smartphone Samsung Galaxy A26 128 GB Verde](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-verde/981035903) | $4,191 | Confirmado vs competencia | $4,191 en sams vs mercado -> -24% bajo la competencia |
+| -24% | $838 | mercadolibre | [Celular Xiaomi Poco C71 Dual Sim 128 Gb Negro 4 Gb Ram](https://www.mercadolibre.com.mx/celular-xiaomi-poco-c71-dual-sim-128-gb-negro-4-gb-ram/p/MLM48958762) | $2,597 | Confirmado vs competencia | $2,597 en mercadolibre vs mercado -> -24% bajo la competencia |
+| -44% | $697 | amazon | [AUDISHAKO 1200W Amplificador para Auto 4 Canales Clase AB, 1…](https://www.amazon.com.mx/dp/B0DWSYTS4T) | $902 | Confirmado vs competencia | $902 en amazon vs sams $1,599, amazon $1,599, walmart $1,857 -> -44% bajo la competencia |
+| -44% | $675 | sams | [Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.…](https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739) | $858 | Confirmado vs competencia | $858 en sams vs mercado -> -44% bajo la competencia |
+| -46% | $320 | amazon | [1800w Regulador de Voltaje para Refrigerador, Protector De V…](https://www.amazon.com.mx/dp/B0FWBVP656) | $379 | Confirmado vs competencia | $379 en amazon vs amazon $699, walmart $849, sams $1,499 -> -46% bajo la competencia |
+| -21% | $52 | liverpool | [Porta Audifonos In Ear Gear4](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-gear4/1156218941) | $199 | Confirmado vs competencia | $199 en liverpool vs amazon $251, amazon $271 -> -21% bajo la competencia |
