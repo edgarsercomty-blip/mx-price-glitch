@@ -33381,5 +33381,187 @@
   "sams|NESPRESSONESPRESSOCAFETERAPIXIETITAN": {
     "ts": "2026-08-15T22:39:09.678775+00:00",
     "items": []
+  },
+  "amazon|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-15T22:55:27.939722+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
+        "price": 14399.0,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
+        "price": 7999.0,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
+        "price": 5779.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
+        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
+        "price": 6179.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M | Gris | Retroiluminado | 8GB RAM DDR5 | 512GB SSD | Windows 11 Home | Paquete con lápiz táctil",
+        "url": "https://www.amazon.com.mx/dp/B0G8YR6FJ9",
+        "price": 14643.13,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
+        "price": 12979.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
+        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
+        "price": 8799.0,
+        "model": "i7-1165G7"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
+        "price": 8539.0,
+        "model": "256gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
+        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
+        "price": 13500.0,
+        "model": "300nits"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
+        "price": 8402.16,
+        "model": "82KT-Renovado"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15AMN7 15.6\" Laptop AMD Ryzen 3 7320U 8GB RAM 256GB SSD PCIe NVMe Wi-Fi 6 Lector de Huellas Dactilares Abyss Blue Windows 11 Home en Modo S (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLT3S7WB",
+        "price": 6812.75,
+        "model": "15AMN7"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
+        "price": 9767.08,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-15T22:55:31.915898+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
+        "price": 9519.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
+        "price": 8589.0,
+        "model": "15AMN7"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
+        "price": 26599.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 512GB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
+        "price": 21499.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
+        "price": 13609.0,
+        "model": "83k700axlm"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
+        "price": 6899.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
+        "price": 13779.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.3\" WUXGA Touch AMD Ryzen 7 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-touch-amd-ryzen-7-16gb-ram-512gb-ssd/00019927392295?athbdg=L1300",
+        "price": 13419.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
+        "price": 7999.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
+        "price": 12849.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "walmart",
+        "name": "LENOVO IDEAPAD SLIM 3 (83K700TUUS) 15.3\" 2K TOUCH RYZEN 7 16GB 512GB SSD W11 GRIS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-83k700tuus-15-3-2k-touch-ryzen-7-16gb-512gb-ssd-w11-gris/00750232957123?athbdg=L1300",
+        "price": 12729.0,
+        "model": "83K700TUUS"
+      }
+    ]
+  },
+  "sams|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-15T22:55:33.231611+00:00",
+    "items": []
   }
 }
