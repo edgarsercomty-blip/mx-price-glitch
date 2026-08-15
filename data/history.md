@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (778)
+# Historial de ofertas encontradas (780)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-15 07:47 | -20% | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-15 07:47 | -25% | palacio | [MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcle…](https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html) | $28,799 | $28,799 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-15 07:09 | -25% | liverpool | [Smartwatch Garmin Forerunner 965 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681) | $9,524 | $9,524 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-15 03:07 | -60% | liverpool | [Tenis Gold Care Gold Care Unisex](https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107) | $299 | $299 en liverpool vs mercado -> -60% bajo la competencia |
 | 2026-08-15 02:42 | -21% | liverpool | [Porta Audifonos In Ear Gear4](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-gear4/1156218941) | $199 | $199 en liverpool vs amazon $251, amazon $271 -> -21% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -30% | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $27,713 | $27,713 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-17 08:37 | -30% | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | $2,099 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-17 08:37 | -30% | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | $1,399 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-17 08:37 | -30% | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-azul-desbloqueado-45273247.html) | $23,449 | $23,449 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-17 08:37 | -32% | palacio | [Celular edge 70 fusion 5G 256 GB, RAM 8 GB, azul desblo…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-azul-desbloqueado-45345503.html) | $6,599 | $6,599 en palacio vs mercado -> -32% bajo la competencia |
