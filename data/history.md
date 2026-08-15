@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (780)
+# Historial de ofertas encontradas (781)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-15 08:18 | -25% | liverpool | [Smartwatch Garmin Vivoactive 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-vivoactive-5-unisex-con-gps/1142099678) | $3,974 | $3,974 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-15 07:47 | -20% | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-15 07:47 | -25% | palacio | [MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcle…](https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html) | $28,799 | $28,799 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-15 07:09 | -25% | liverpool | [Smartwatch Garmin Forerunner 965 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681) | $9,524 | $9,524 en liverpool vs mercado -> -25% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -30% | palacio | [Cafetera semi automática Porsche para 6 tazas](https://www.elpalaciodehierro.com/smeg-cafetera-semi-automatica-porsche-para-6-tazas-45000828.html) | $27,930 | $27,930 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-17 08:37 | -30% | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $27,713 | $27,713 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-17 08:37 | -30% | palacio | [Licuadora personal, 1 Velocidad, Blanco Mate](https://www.elpalaciodehierro.com/nutribullet-licuadora-personal-1-velocidad-blanco-mate-43806632.html) | $2,099 | $2,099 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-17 08:37 | -30% | palacio | [Licuadora portátil Flip, 1 Velocidad, Acero inoxidable](https://www.elpalaciodehierro.com/nutribullet-licuadora-portatil-flip-1-velocidad-acero-inoxidable-44650469.html) | $1,399 | $1,399 en palacio vs mercado -> -30% bajo la competencia |
