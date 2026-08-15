@@ -33919,5 +33919,152 @@
   "sams|ASUSGEFORCELAPTOPNVIDIAGAMING": {
     "ts": "2026-08-15T18:15:23.784596+00:00",
     "items": []
+  },
+  "amazon|APPLEMACBOOKNUCLEOSSSD512": {
+    "ts": "2026-08-15T18:49:29.677773+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
+        "price": 28313.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
+        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
+        "price": 29999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 512GB SSD de Memoria) Azul Cielo (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FB55G725",
+        "price": 18851.63,
+        "model": "13-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Fin de 2021 Apple MacBook Pro con Chip Apple M1 Pro (16-pulgadas,16GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09P43P66P",
+        "price": 17802.94,
+        "model": "16-pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air de Finales de 2020 con Chip Apple M1 (13 Pulgadas, 8 GB de RAM, 256 GB SSD) Plata (reacondicionado) | SSD de 256 GB, renovado, 8 GB de RAM, chip M1",
+        "url": "https://www.amazon.com.mx/dp/B08PV4GYCL",
+        "price": 8861.49,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Late 2019 Apple MacBook Pro with 2.6GHz Intel Core i7 (16 inch, 16GB RAM, 512GB) Gris Espacial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B082P8N4KJ",
+        "price": 8999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
+        "price": 34999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMACBOOKNUCLEOSSSD512": {
+    "ts": "2026-08-15T18:49:31.997595+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Pro 14\" Computadora portátil Chip Apple M1 Pro 16 GB 512 GB SSD (último modelo) - Gris espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-pro-14-computadora-portatil-chip-apple-m1-pro-16-gb-512-gb-ssd-ultimo-modelo-gris-espacial/00019425255104?athbdg=L1500",
+        "price": 16299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Macbook Air Chip M2 13 Pulgadas 24GB SSD 512 GB",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-chip-m2-13-pulgadas-24gb-ssd-512-gb/00019595077225",
+        "price": 20999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13 Pulgadas 16 GB Ssd 512 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-13-pulgadas-16-gb-ssd-512-gb-plata/00019594983660?athbdg=L1300",
+        "price": 28487.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 13148.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Macbook Air Apple M4 13 Pulgadas 24 GB 512 GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-13-pulgadas-24-gb-512-gb-plata/00019594988870?athbdg=L1300",
+        "price": 33237.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEMACBOOKNUCLEOSSSD512": {
+    "ts": "2026-08-15T18:49:33.104601+00:00",
+    "items": []
   }
 }
