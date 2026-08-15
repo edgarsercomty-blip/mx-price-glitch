@@ -4260,200 +4260,6 @@
       }
     ]
   },
-  "amazon|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-12T23:59:25.933287+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad (A16) – Blanco ​​​​​​​ | Incluye Apple Smart Folio y 1 año de garantía limitada para protección, visualización y almacenamiento",
-        "url": "https://www.amazon.com.mx/dp/B0DZ74Y7G5",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
-        "price": 1798.98,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Gris carbón ​​​​​​​ | Protección de tablet y visualización ajustable con perfil delgado y fijación magnética",
-        "url": "https://www.amazon.com.mx/dp/B0DK3WBL4P",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Funda Smart Folio (para el 12.9-Inch iPad Pro - cuarta generación) - Azul Marino Oscuro",
-        "url": "https://www.amazon.com.mx/dp/B08J5WVTQB",
-        "price": 840.74,
-        "model": "9-Inch"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Color Salvia ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J5ZKXZ",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad (A16) – Color Limonada ​​​​​​​ | Folio magnético para iPad de 10.9 pulgadas de décima generación para leer, ver y llamadas FaceTime",
-        "url": "https://www.amazon.com.mx/dp/B0DZ75HZJV",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
-        "price": 2299.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-12T23:59:30.762632+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
-        "price": 1189.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
-        "price": 2539.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
-        "price": 2379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
-        "price": 2059.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio para iPad Pro de 12,9\" blanco",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-12-9-blanco/00019425243859?athbdg=L1300",
-        "price": 1339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Smart Folio de Apple para iPad Pro de 11\" blanca",
-        "url": "https://www.walmart.com.mx/ip/funda-smart-folio-de-apple-para-ipad-pro-de-11-blanca/00019425243844?athbdg=L1300",
-        "price": 2449.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio Para Ipad Pro De 13 Pulgadas (M4) - Mezclilla",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-13-pulgadas-m4-mezclilla/00019594943880?athbdg=L1300",
-        "price": 2349.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
-        "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
-        "price": 875.82,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
-        "price": 1039.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
-        "price": 2379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio para iPad Mini (A17 Pro) - Gris carbón",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-mini-a17-pro-gris-carbon/00019594991279?athbdg=L1300",
-        "price": 1669.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
-        "price": 2789.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-12T23:59:34.651402+00:00",
-    "items": []
-  },
-  "amazon|VX182H4": {
-    "ts": "2026-08-12T23:59:37.408453+00:00",
-    "items": []
-  },
-  "walmart|VX182H4": {
-    "ts": "2026-08-12T23:59:50.487236+00:00",
-    "items": []
-  },
-  "sams|VX182H4": {
-    "ts": "2026-08-12T23:59:51.348697+00:00",
-    "items": []
-  },
   "liverpool|UN98DU9000FXZX": {
     "ts": "2026-08-13T03:36:32.357598+00:00",
     "items": []
@@ -22122,6 +21928,315 @@
         "name": "Combo Audífonos Inalámbricos STF Kit All in One Negro + Smartwatch + Crossbody",
         "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
         "price": 673.13,
+        "model": null
+      }
+    ]
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-08-15T00:52:52.484451+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0H1P7Z2GT",
+        "price": 12499.0,
+        "model": "QNED81"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 65 Pulgadas QNED EVO AI Mini LED QNED71 4K Smart TV webOS 2026",
+        "url": "https://www.amazon.com.mx/dp/B0H1P6JXZ1",
+        "price": 11699.0,
+        "model": "QNED71"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Control Remoto Original Magic IA Mr26ga 2026 Akb30086801 | Modelo MR26GA, AKB30086801, Magic IA, Original LG, 2026",
+        "url": "https://www.amazon.com.mx/dp/B0H8NJJQRH",
+        "price": 550.0,
+        "model": "Akb30086801"
+      }
+    ]
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-08-15T00:52:56.489759+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-08-15T00:53:00.250393+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  65\" QNED Smart TV AI 4K 65QNED82ASG",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-qned-smart-tv-ai-4k-65qned82asg/981038745",
+        "price": 13296.95,
+        "model": "65QNED82ASG"
+      }
+    ]
+  },
+  "amazon|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-15T00:53:02.882527+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Color Salvia ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J5ZKXZ",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Gris carbón ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J5BGCB",
+        "price": 2004.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Morado Claro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6WJSW",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7X4QV",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio (para iPad Pro de 11 Pulgadas), Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B07K25B9DD",
+        "price": 818.24,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-15T00:53:14.198672+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
+        "price": 1169.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
+        "price": 2369.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio para iPad Pro de 12,9\" blanco",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-12-9-blanco/00019425243859?athbdg=L1300",
+        "price": 1409.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
+        "price": 2019.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Smart Folio de Apple para iPad Pro de 11\" blanca",
+        "url": "https://www.walmart.com.mx/ip/funda-smart-folio-de-apple-para-ipad-pro-de-11-blanca/00019425243844?athbdg=L1300",
+        "price": 2379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio Para Ipad Pro De 13 Pulgadas (M4) - Mezclilla",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-13-pulgadas-m4-mezclilla/00019594943880?athbdg=L1300",
+        "price": 2339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
+        "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
+        "price": 875.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
+        "price": 2339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "n4A For iPad Pro 11 (2024) Leather Case Tree Pattern Folio Stand d7M Smart Tablet Cover -",
+        "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
+        "price": 672.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
+        "price": 1039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
+        "price": 2769.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEIPADPROSMARTFOLIO": {
+    "ts": "2026-08-15T00:53:18.282985+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-azul/981034971",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-azul/981034970",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Amarillo",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-amarillo/981034973",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-rosa/981034976",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Amarillo",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-amarillo/981034972",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 512 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-512-gb-rosa/981034975",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Plata",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-plata/981034978",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Plata",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-plata/981034977",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-rosa/981034974",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad Air Apple  13\" M3 128 GB WiFi Morado",
+        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-128-gb-wifi-morado/981035003",
+        "price": 17997.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad Air Apple  13\" M3 512 GB WiFi Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-512-gb-wifi-azul/981035007",
+        "price": 24747.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-azul/981034981",
+        "price": 13497.0,
         "model": null
       }
     ]
