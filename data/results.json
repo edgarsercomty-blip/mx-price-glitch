@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-15 21:12 UTC",
-  "products_scanned": 1618,
+  "generated_at": "2026-08-15 21:36 UTC",
+  "products_scanned": 1579,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 30,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 77.8,
-      "detail": "$299 en liverpool vs mercado -> -60% bajo la competencia",
-      "likely_typo": false,
-      "savings": 450.0,
-      "store": "liverpool",
-      "name": "Tenis Gold Care Gold Care Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107",
-      "price": 299.0,
-      "list_price": 1349.0,
-      "ean": null,
-      "model": null,
-      "brand": "GOLD CARE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1114902107",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -86,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$68 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 34.2,
-      "store": "liverpool",
-      "name": "Funda Para Almohada Ribbed",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
-      "price": 68.4,
-      "list_price": 228.0,
-      "ean": null,
-      "model": null,
-      "brand": "WEST ELM",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172986773",
-        "marketplace": null
       }
     },
     {
@@ -440,27 +398,6 @@
       "extra": {
         "productId": "1149564876",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
-        "outlet": false
       }
     },
     {
