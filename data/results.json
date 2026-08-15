@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15 13:45 UTC",
-  "products_scanned": 1559,
+  "generated_at": "2026-08-15 14:14 UTC",
+  "products_scanned": 1555,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -292,27 +292,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44319571",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$35,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11999.8,
-      "store": "palacio",
-      "name": "MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcleos, RAM 24 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html",
-      "price": 35999.4,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44319564",
         "outlet": false
       }
     },
