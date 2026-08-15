@@ -5277,8 +5277,43 @@
     ]
   },
   "amazon|ASUSGEFORCEGAMINGNVIDIALAPTOP": {
-    "ts": "2026-08-13T12:29:27.065367+00:00",
+    "ts": "2026-08-15T13:02:29.265651+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
+        "price": 23527.98,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR6HB8C4",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
+        "price": 32430.38,
+        "model": "16-am0014la"
+      },
+      {
+        "store": "amazon",
+        "name": "Acer Nitro V 15 ANV15-41-R2ZD Laptop Gaming de 15.6 Pulgadas | FHD 144 Hz, Ryzen 5 7535HS, 8 GB RAM, SSD 512 GB, GeForce RTX 3050, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0D936J37H",
+        "price": 15499.0,
+        "model": "ANV15-41-R2ZD"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
       {
         "store": "amazon",
         "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
@@ -5290,14 +5325,7 @@
         "store": "amazon",
         "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
         "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
-        "price": 23499.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
+        "price": 20599.0,
         "model": "144Hz"
       },
       {
@@ -5316,17 +5344,17 @@
       },
       {
         "store": "amazon",
-        "name": "MSI Laptop Gaming Cyborg 15 NVIDIA RTX 5060 Procesador Intel® Core™ 7 240H 16GB RAM 1TB SSD 15.6\" FHD 144Hz/Teclado en español/2 años de garantía + Incluye Mouse",
-        "url": "https://www.amazon.com.mx/dp/B0FSJYDMLW",
-        "price": 25669.99,
-        "model": "144Hz/Teclado"
+        "name": "ASUS TUF Gaming F15 Laptop Gamer 15.6\" FHD 144Hz, Intel Core i5-11400H 2.7GHz, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB, Windows 11 Home, Negro Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0CCGDQZ1M",
+        "price": 15290.73,
+        "model": "i5-11400H"
       },
       {
         "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
-        "price": 24424.89,
-        "model": "13450HX"
+        "name": "Laptop Gaming Lenovo LOQ | AMD Ryzen 7 7735HS | 16GB RAM 512GB SSD | 15,6\" FHD | NVIDIA GeForce RTX 4050 | con AI | Windows 11 (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0H2X6BJM1",
+        "price": 22499.0,
+        "model": "7735HS"
       },
       {
         "store": "amazon",
@@ -5334,129 +5362,186 @@
         "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
         "price": 38899.0,
         "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F15 Laptop Gamer 15.6\" FHD 144Hz, Intel Core i5-11400H 2.7GHz, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB, Windows 11 Home, Negro Grafito",
-        "url": "https://www.amazon.com.mx/dp/B0CCGDQZ1M",
-        "price": 15320.85,
-        "model": "i5-11400H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS - TUF Gaming F16 (2025) Laptop de juegos, pantalla de 16 pulgadas FHD+ 165Hz 16:10, procesador Intel® Core™ i5 13450HX, NVIDIA® GeForce RTX™ 5050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6E, Win 11",
-        "url": "https://www.amazon.com.mx/dp/B0FFDDFW47",
-        "price": 34348.15,
-        "model": "13450HX"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop Gamer TUF Gaming A18 NVIDIA GeForce RTX 5060 AMD Ryzen 7 260 16GB DDR5 SSD 1TB 18\" WUXGA 144Hz Teclado Ingles Gaming Competitivo y Creacion de Contenido",
-        "url": "https://www.amazon.com.mx/dp/B0GLHF42BM",
-        "price": 32999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop ASUS TUF Gaming 16\" Ryzen 7 16GB 512GB Negro FA607NUQ-WS73",
-        "url": "https://www.amazon.com.mx/dp/B0H967X8J5",
-        "price": 20739.0,
-        "model": "FA607NUQ-WS73"
       }
     ]
   },
   "walmart|ASUSGEFORCEGAMINGNVIDIALAPTOP": {
-    "ts": "2026-08-13T12:29:31.541325+00:00",
+    "ts": "2026-08-15T13:02:34.705300+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
-        "price": 29997.0,
-        "model": "V3607VM-RP033W"
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-TUF-Gaming-FX607VJ-RL022W-NVIDIA-GeForce-RTX-3050-Intel-Core-5-210H-8GB-512GB/00019710599592",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
       },
       {
         "store": "walmart",
         "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-TUF-Gaming-FX607VJ-RL022W-NVIDIA-GeForce-RTX-3050-Intel-Core-5-210H-8GB-512GB/00019710599592?athbdg=L1300",
         "price": 15497.0,
         "model": "FX607VJ-RL022W"
       },
       {
         "store": "walmart",
         "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-TUF-Gaming-FX607VJ-RL805W-NVIDIA-GeForce-RTX-3050-C5-8G-512G/00019929107605?athbdg=L1300",
         "price": 14997.0,
         "model": "FX607VJ-RL805W"
       },
       {
         "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
-        "price": 23997.0,
-        "model": "FX608JHR-RV147W"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
-        "price": 38999.0,
+        "url": "https://www.walmart.com.mx/ip/Laptop-IA-Gamer-ASUS-TUF-Gaming-A16-Nvidia-GeForce-RTX-5060-8GB-DLSS-Ryzen-7-260-NPU-32GB-1TB-16-IPS-FHD-165Hz-Teclado-Ingles/00070452118570?athbdg=L1300",
+        "price": 35999.0,
         "model": "165Hz"
       },
       {
         "store": "walmart",
         "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-IA-Gamer-ASUS-TUF-Gaming-A16-Nvidia-GeForce-RTX-5060-8GB-DLSS-Ryzen-7-260-NPU-64GB-1TB-16-IPS-FHD-165Hz-Teclado-Ingles/00070452118585?athbdg=L1300",
         "price": 44999.0,
         "model": "165Hz"
       },
       {
         "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
-        "price": 14997.0,
-        "model": "FX607VJ-RL805W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
-        "price": 59999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
-        "price": 64350.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
-        "price": 15497.0,
-        "model": "FX607VJ-RL022W"
-      },
-      {
-        "store": "walmart",
         "name": "ASUS TUF Gaming Laptop A18 Pulgadas - NVIDIA RTX 5060 - AMD Ryzen 7 260 Beat i9-13905H - Pantalla WUXGA de 18\" 144Hz - 32GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - Thunderbolt 4 - Cámara FH",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-a18-pulgadas-nvidia-rtx-5060-amd-ryzen-7-260-beat-i9-13905h-pantalla-wuxga-de-18-144hz-32gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-thunderbolt-4-camara-fh/00019710551608?athbdg=L1300",
-        "price": 41050.61,
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-Gaming-Laptop-A18-Pulgadas-NVIDIA-RTX-5060-AMD-Ryzen-7-260-Beat-i9-13905H-Pantalla-WUXGA-de-18-144Hz-32GB-RAM-1TB-PCIe-SSD-Teclado-Retroiluminado-Rgb-Thunderbolt-4-Camara-FH/00019710551608?athbdg=L1300",
+        "price": 41049.11,
         "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-ASUS-V16-Ultra-7-240H-Memoria-de-32GB-DDR5-SSD-de-1TB-Pantalla-de-16-LED-WUXGA-1920-x-1200-Video-NVIDIA-GeForce-RTX-5060-S-O-Windows-11-Home/00019710590587?athbdg=L1300",
+        "price": 29229.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ROG Strix G16 GeForce RTX 5070 8GB DLSS 4.5 Ryzen 9 8940HX 64GB DDR5 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-ASUS-ROG-Strix-G16-GeForce-RTX-5070-8GB-DLSS-4-5-Ryzen-9-8940HX-64GB-DDR5-1TB-16-IPS-FHD-165Hz-Teclado-Ingles/00070452118545?athbdg=L1300",
+        "price": 55899.0,
+        "model": "8940HX"
       },
       {
         "store": "walmart",
         "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-a18-pulgadas-gaming-laptop-amd-ryzen-7-260-beat-i9-13905h-nvidia-rtx-5060-pantalla-wuxga-de-18-32gb-de-ram-1tb-ssd-teclado-retroiluminado-rgb-camara-fhd-laptop-para-gamer/00019710542309",
-        "price": 47340.7,
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A18-Pulgadas-Gaming-Laptop-AMD-Ryzen-7-260-Beat-i9-13905H-NVIDIA-RTX-5060-Pantalla-WUXGA-de-18-32GB-de-RAM-1TB-SSD-Teclado-Retroiluminado-RGB-Camara-FHD-Laptop-para-Gamer/00019710542309?athbdg=L1300",
+        "price": 39504.79,
         "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 2TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer PC",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A18-Pulgadas-Gaming-Laptop-AMD-Ryzen-7-260-Beat-i9-13905H-NVIDIA-RTX-5060-Pantalla-WUXGA-de-18-32GB-de-RAM-2TB-SSD-Teclado-Retroiluminado-RGB-Camara-FHD-Laptop-para-Gamer-PC/00019710542310?athbdg=L1300",
+        "price": 36719.0,
+        "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ROG Strix G16 NVIDIA GeForce RTX 5060 Intel Core i9 14900HX 16GB RAM 1TB SSD 16\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Gamer-ASUS-ROG-Strix-G16-NVIDIA-GeForce-RTX-5060-Intel-Core-i9-14900HX-16GB-RAM-1TB-SSD-16-Windows-11-Home-Teclado-en-Ingles/00019710588176?athbdg=L6000",
+        "price": 67429.0,
+        "model": "14900HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop IA Gamer ASUS TUF Gaming A16 GeForce RTX 5060 8GB Ryzen 7 260 NPU 16GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 165Hz Windows 11 Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/Laptop-IA-Gamer-ASUS-TUF-Gaming-A16-GeForce-RTX-5060-8GB-Ryzen-7-260-NPU-16GB-DDR5-1TB-SSD-Pantalla-16-IPS-FHD-165Hz-Windows-11-Teclado-Ingles/00070452118661?athbdg=L1300",
+        "price": 32899.0,
+        "model": "165Hz"
       }
     ]
   },
   "sams|ASUSGEFORCEGAMINGNVIDIALAPTOP": {
-    "ts": "2026-08-13T12:29:32.937430+00:00",
-    "items": []
+    "ts": "2026-08-15T13:02:45.085278+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
+        "price": 17999.0,
+        "model": "15-FB3011LA"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
+        "price": 23527.98,
+        "model": "15-fb3021la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
+        "price": 12786.48,
+        "model": "15-fa2009la"
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2658.78,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+        "price": 23118.78,
+        "model": "FA506NCQ-HN058W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming Asus  F16 Core i5/8 GB RAM/512 GB SSD FX607VJ-RL039W",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-asus-f16-core-i5-8-gb-ram-512-gb-ssd-fx607vj-rl039w/981039333",
+        "price": 14730.18,
+        "model": "FX607VJ-RL039W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 26085.48,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 18412.98,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD 15-fb2002la + Audífonos HyperX Stinger Core 2",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-15-fb2002la-audifonos-hyperx-stinger-core-2/981023807",
+        "price": 12271.91,
+        "model": "15-fb2002la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming Lenovo LOQ AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP9",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-lenovo-loq-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp9/981042884",
+        "price": 20454.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo LOQ Ryzen 7 7435HS/24 GB RAM/512 GB",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-loq-ryzen-7-7435hs-24-gb-ram-512-gb/981027251",
+        "price": 22500.89,
+        "model": "7435HS/24"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Acer  Intel Core i7/16 GB RAM/512 GB SSD NL16-71G-74WV",
+        "url": "https://www.sams.com.mx/ip/laptop-acer-intel-core-i7-16-gb-ram-512-gb-ssd-nl16-71g-74wv/981039258",
+        "price": 29665.96,
+        "model": "NL16-71G-74WV"
+      }
+    ]
   },
   "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
     "ts": "2026-08-13T14:04:52.695964+00:00",
@@ -33652,6 +33737,245 @@
         "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
         "price": 35997.0,
         "model": "GPU/24GB/512GB"
+      }
+    ]
+  },
+  "amazon|APPLEMACBOOKNUCLEOSCPURAM": {
+    "ts": "2026-08-15T13:02:50.472441+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
+        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 MAX de Apple con CPU de 18 núcleos y GPU de 40 núcleos, 48GB Memoria unificada, 2 TB) - Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0GR1L19B9",
+        "price": 114999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Timetec 16GB KIT (2x8GB) Compatible con Apple DDR3L 1600MHz para Mac Book Pro (principios / finales de 2011, mediados de 2012), iMac (mediados de 2011, finales de 2012, principios / finales de 2013, finales de 2014, mediados de 2015), Mac Mini (mediados de 2011 , Finales de 2012) SODIMM MAC Memoria MAC RAM Módulo",
+        "url": "https://www.amazon.com.mx/dp/B00SNSKH7M",
+        "price": 779.99,
+        "model": "1600MHz"
+      },
+      {
+        "store": "amazon",
+        "name": "Timetec 8GB Compatible con Apple DDR3L 1600MHz PC3L-12800 para Mac Book Pro (principios / finales de 2011, mediados de 2012), iMac (mediados de 2011, finales de 2012, principios / finales de 2013, finales de 2014, mediados de 2015), Mac Mini (mediados de 2011, Finales de 2012) SODIMM MAC Memoria MAC RAM Módulo",
+        "url": "https://www.amazon.com.mx/dp/B00SNSKH7W",
+        "price": 479.99,
+        "model": "PC3L-12800"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
+        "price": 29998.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0CX2512LK",
+        "price": 22499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
+        "price": 34999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
+        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
+        "price": 42499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Azul Medianoche",
+        "url": "https://www.amazon.com.mx/dp/B0GR1CCNRK",
+        "price": 35681.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
+        "price": 44999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEMACBOOKNUCLEOSCPURAM": {
+    "ts": "2026-08-15T13:02:53.174572+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
+        "price": 36099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
+        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
+        "price": 29999.0,
+        "model": "10-Core"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
+        "price": 13148.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
+        "price": 13949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Air Apple M1 8 core GPU 8GB 256GB Plata",
+        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m1-8-core-gpu-8gb-256gb-plata/00019425205617?athbdg=L1300",
+        "price": 13643.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
+        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
+        "price": 52499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro 2015 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-2015-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321890?athbdg=L1500",
+        "price": 8999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "MacBook Pro 2017 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/macbook-pro-2017-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321891?athbdg=L1500",
+        "price": 9999.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLEMACBOOKNUCLEOSCPURAM": {
+    "ts": "2026-08-15T13:02:57.003822+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
+        "price": 28098.73,
+        "model": "M2/512"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
+        "price": 23323.37,
+        "model": "M1/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
+        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
+        "price": 12998.22,
+        "model": "Pro/256"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
+        "price": 31497.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
+        "price": 26997.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
+        "price": 35997.0,
+        "model": "GPU/24GB/512GB"
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
+        "price": 31497.0,
+        "model": "GPU/16GB/512GB"
       }
     ]
   }
