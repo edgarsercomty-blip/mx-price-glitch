@@ -1,10 +1,95 @@
 {
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-13T02:05:56.752043+00:00",
-    "items": []
+    "ts": "2026-08-15T02:09:49.456895+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
+        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
+        "price": 4360.0,
+        "model": "8GB-256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
+        "price": 8715.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
+        "price": 4699.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Combo Edge 50 Neo 8+256gb + Buds Bass",
+        "url": "https://www.amazon.com.mx/dp/B0GRWSP7NC",
+        "price": 5399.0,
+        "model": "8+256gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
+        "price": 5537.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
+        "price": 5319.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6305.87,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone Edge 70 Gris | Ultrarresistente",
+        "url": "https://www.amazon.com.mx/dp/B0G4NFD21Z",
+        "price": 9014.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 50 Peach Fuzz (12GB RAM/512GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DM6NC2TC",
+        "price": 5167.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 50 Fusión 8+256GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FXNDMTVQ",
+        "price": 4216.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Silhouette (Azul) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ758H1R",
+        "price": 7999.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
+        "price": 18999.0,
+        "model": "512GB"
+      }
+    ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-13T02:06:31.542626+00:00",
+    "ts": "2026-08-15T02:09:52.975075+00:00",
     "items": [
       {
         "store": "walmart",
@@ -57,16 +142,16 @@
       },
       {
         "store": "walmart",
-        "name": "Smartphone Moto Edge 70 Fusion 8GB 256GB Silhouette Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-moto-edge-70-fusion-8gb-256gb-silhouette-desbloqueado/00084049361779?athbdg=L1300",
-        "price": 6290.0,
-        "model": "256GB"
+        "name": "Smartphone Motorola Edge 70 Fusion 256 GB Azul FIFA World Cup 2026 Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-azul-fifa-world-cup-2026-desbloqueado/00084049361979?athbdg=L1300",
+        "price": 7999.0,
+        "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartphone Motorola Edge 50 Fusion 5G Dual Sim 256GB Verde Azulado 8GB Ram + Moto Buds",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-50-fusion-5g-dual-sim-256gb-verde-azulado-8gb-ram-moto-buds/00084002326673?athbdg=L1300",
-        "price": 4699.0,
+        "name": "Smartphone Moto Edge 70 Fusion 8GB 256GB Silhouette Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-moto-edge-70-fusion-8gb-256gb-silhouette-desbloqueado/00084049361779?athbdg=L1300",
+        "price": 6290.0,
         "model": "256GB"
       },
       {
@@ -93,7 +178,7 @@
     ]
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-13T02:06:48.092938+00:00",
+    "ts": "2026-08-15T02:09:56.191644+00:00",
     "items": [
       {
         "store": "sams",
@@ -160,15 +245,15 @@
       },
       {
         "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Cobalto Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-cobalto-desbloqueado/981038688",
+        "name": "Smartphone Motorola Edge 60 Pro 512 GB Gris Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-gris-desbloqueado/981038682",
         "price": 10329.23,
         "model": null
       },
       {
         "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Gris Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-gris-desbloqueado/981038682",
+        "name": "Smartphone Motorola Edge 60 Pro 512 GB Cobalto Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-cobalto-desbloqueado/981038688",
         "price": 10329.23,
         "model": null
       },
@@ -330,27 +415,135 @@
     ]
   },
   "amazon|UN50M70HAFXZX": {
-    "ts": "2026-08-13T02:05:39.147287+00:00",
-    "items": []
+    "ts": "2026-08-15T02:09:40.820163+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Televisor Inteligente UN50U7900FFXZA de 50 Pulgadas, Serie U7900, Ultra HD 4K, Tizen TV, MetalStream, HDR, Sinfonía Q (2025)",
+        "url": "https://www.amazon.com.mx/dp/B0FXHFYR2Y",
+        "price": 6399.0,
+        "model": "UN50U7900FFXZA"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (65\")",
+        "url": "https://www.amazon.com.mx/dp/B0DTQC9XTX",
+        "price": 8879.0,
+        "model": "Q60DD"
+      }
+    ]
   },
   "walmart|UN50M70HAFXZX": {
-    "ts": "2026-08-13T02:05:50.776499+00:00",
+    "ts": "2026-08-15T02:09:43.564107+00:00",
     "items": []
   },
   "sams|UN50M70HAFXZX": {
-    "ts": "2026-08-13T02:05:52.325956+00:00",
-    "items": []
+    "ts": "2026-08-15T02:09:46.657353+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Samsung  50\" UHD Mini LED Smart TV UN50M75HAFXZX",
+        "url": "https://www.sams.com.mx/ip/pantalla-samsung-50-uhd-mini-led-smart-tv-un50m75hafxzx/981052400",
+        "price": 6263.83,
+        "model": "UN50M75HAFXZX"
+      }
+    ]
   },
   "amazon|UN43M70HAFXZX": {
-    "ts": "2026-08-13T02:05:13.808976+00:00",
-    "items": []
+    "ts": "2026-08-15T02:09:18.699165+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Smart TV VIZIO 65\" Pulgadas Clase V-Series 4K 2160p Ultra HD LED HDR Dolby Vision, HDR10+, HDR10, HLG | V4K65C-0804",
+        "url": "https://www.amazon.com.mx/dp/B0DSR148WY",
+        "price": 9499.0,
+        "model": "V4K65C-0804"
+      },
+      {
+        "store": "amazon",
+        "name": "LG 32 Smart TV de 32\" Pulgadas Clase HD 720p Procesador de Inteligencia Artificial Alpha a5 Gen6 (2025) - 32LR600BZUC",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3SDWBB",
+        "price": 3299.0,
+        "model": "32LR600BZUC"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Pantalla Smart TV 4k 50 50r6e Led (Renewed/Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07NW1HKQS",
+        "price": 5699.0,
+        "model": "50r6e"
+      },
+      {
+        "store": "amazon",
+        "name": "XUNDEFINED Pantalla 50 Pulgadas QLED 4K UHD, Pantalla con HDR10+ y Dolby Audio, Whale OS, Control por Voz, Duplicación de Pantalla, WiFi, Bluetooth 5.0, 3 HDMI y 2 USB.",
+        "url": "https://www.amazon.com.mx/dp/B0FY4YM112",
+        "price": 5299.0,
+        "model": "HDR10"
+      },
+      {
+        "store": "amazon",
+        "name": "Westinghouse Smat TV de 43\" Pulgadas EX Series Full HD 1080p Sin Bordes LED Roku HDTV | WR43EX2300 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FDH5Q9SP",
+        "price": 3398.0,
+        "model": "WR43EX2300"
+      },
+      {
+        "store": "amazon",
+        "name": "Westinghouse Television de 32 Pulgadas Resolución 720p HD Combo TV con DVD Control Parental HDMI USB Frecuencia de Actualización de 60Hz LED WD32HX5201 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CTD36JVR",
+        "price": 1902.9,
+        "model": "WD32HX5201"
+      },
+      {
+        "store": "amazon",
+        "name": "Westinghouse WD32HX1201 Televisor LED HD de 32 Pulgadas 60Hz 720p (Renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0BKTX8Y58",
+        "price": 2091.99,
+        "model": "WD32HX1201"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Television de 50 Pulgadas Serie R Class 4K Ultra HD 2160P, Pantalla LED Smart Roku TV con HDR Modo de Juego Funciona con Asistente Google y Alexa 50R6E4",
+        "url": "https://www.amazon.com.mx/dp/B0DFX6GQQW",
+        "price": 6499.99,
+        "model": "50R6E4"
+      },
+      {
+        "store": "amazon",
+        "name": "TCL Television de 32 Pulgadas Serie 4 Class 720p LED Smart TV Frecuencia de Actualización 60Hz Compatible con Alexa y Google Assistant (Sin Bases) + Soporte de Pared (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BYTJ1HJ2",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV de 43\" Pulgadas Serie UA7100 LED 4K Ultra HD (2025), HDR10 Pro, WebOS, Alpha 7 AI Gen8, Precision HDR Master Pro, HDR10 Pro, Filmmaker Mode (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GRWVPHF2",
+        "price": 3989.0,
+        "model": "UA7100"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV 4K Ultra HD de 55\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0FKQ51H34",
+        "price": 5889.0,
+        "model": "UA7700"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV 4K Ultra HD de 65\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0FMBXT5X3",
+        "price": 8199.0,
+        "model": "UA7700"
+      }
+    ]
   },
   "walmart|UN43M70HAFXZX": {
-    "ts": "2026-08-13T02:05:19.911749+00:00",
+    "ts": "2026-08-15T02:09:33.683881+00:00",
     "items": []
   },
   "sams|UN43M70HAFXZX": {
-    "ts": "2026-08-13T02:05:25.945335+00:00",
+    "ts": "2026-08-15T02:09:37.493454+00:00",
     "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
@@ -22236,6 +22429,273 @@
         "store": "sams",
         "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Azul",
         "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-azul/981034981",
+        "price": 13497.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-15T02:09:06.189863+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad (A16) – Color Cielo ​​​​​​​ | Folio magnético con encendido automático y apagado para leer, ver y escribir",
+        "url": "https://www.amazon.com.mx/dp/B0DZ75GR1G",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad (A16) – Blanco ​​​​​​​ | Incluye Apple Smart Folio y 1 año de garantía limitada para protección, visualización y almacenamiento",
+        "url": "https://www.amazon.com.mx/dp/B0DZ74Y7G5",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Gris carbón ​​​​​​​ | Protección de tablet y visualización ajustable con perfil delgado y fijación magnética",
+        "url": "https://www.amazon.com.mx/dp/B0DK3WBL4P",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda Smart Folio (para el 12.9-Inch iPad Pro - cuarta generación) - Azul Marino Oscuro",
+        "url": "https://www.amazon.com.mx/dp/B08J5WVTQB",
+        "price": 840.74,
+        "model": "9-Inch"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Color Salvia ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J5ZKXZ",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad (A16) – Color Limonada ​​​​​​​ | Folio magnético para iPad de 10.9 pulgadas de décima generación para leer, ver y llamadas FaceTime",
+        "url": "https://www.amazon.com.mx/dp/B0DZ75HZJV",
+        "price": 1799.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-15T02:09:12.166164+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
+        "price": 2339.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio para iPad Mini (A17 Pro) - Gris carbón",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-mini-a17-pro-gris-carbon/00019594991279?athbdg=L1300",
+        "price": 1639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
+        "price": 2769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "n4A For iPad Pro 11 (2024) Leather Case Tree Pattern Folio Stand d7M Smart Tablet Cover -",
+        "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
+        "price": 672.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
+        "price": 1039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio para iPad Air de 10,9 pulgadas (cuarta y quinta generación), color rosa",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-air-de-10-9-pulgadas-cuarta-y-quinta-generacion-color-rosa/00019425208742",
+        "price": 739.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda con Teclado Magnético Desmontable con Retroiluminación Arcoíris de 7 Colores para iPad Pro 11\" M4 2024 / M5 2025, Funda Tipo Folio Delgada Tipo Caramelo con Ranura para Apple Pencil, Rosa",
+        "url": "https://www.walmart.com.mx/ip/funda-con-teclado-magnetico-desmontable-con-retroiluminacion-arcoiris-de-7-colores-para-ipad-pro-11-m4-2024-m5-2025-funda-tipo-folio-delgada-tipo-caramelo-con-ranura-para-apple-pencil-rosa/00077788620066",
+        "price": 875.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad 6.ª generación de 9,7 pulgadas, color gris antracita",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-6-generacion-de-9-7-pulgadas-color-gris-antracita/00019019931589",
+        "price": 1149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
+        "price": 1169.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
+        "price": 2369.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
+        "price": 2019.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEIPADPROFOLIOSMART": {
+    "ts": "2026-08-15T02:09:16.633689+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-azul/981034971",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-azul/981034970",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Amarillo",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-amarillo/981034973",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-rosa/981034976",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Amarillo",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-amarillo/981034972",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 512 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-512-gb-rosa/981034975",
+        "price": 13999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Plata",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-plata/981034978",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 128 GB Rosa",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-rosa/981034974",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi Apple  11\" A16 256 GB Plata",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-plata/981034977",
+        "price": 9899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad Air Apple  13\" M3 512 GB WiFi Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-512-gb-wifi-azul/981035007",
+        "price": 24747.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Azul",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-azul/981034981",
+        "price": 13497.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Plata",
+        "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-plata/981034979",
         "price": 13497.0,
         "model": null
       }
