@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15 10:41 UTC",
-  "products_scanned": 1553,
+  "generated_at": "2026-08-15 11:12 UTC",
+  "products_scanned": 1562,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -502,27 +502,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Medianoche Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824645",
         "outlet": false
       }
     },
