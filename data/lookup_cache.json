@@ -1778,7 +1778,7 @@
     "items": []
   },
   "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-14T10:38:04.831287+00:00",
+    "ts": "2026-08-16T10:41:54.386994+00:00",
     "items": [
       {
         "store": "amazon",
@@ -1796,6 +1796,13 @@
       },
       {
         "store": "amazon",
+        "name": "ASUS Vivobook S16 / AMD Ryzen 9 270/ NPU 16 TOPS/16GB - 512GB SSD/Carga Rápida USB-C 65W/Cámara con Rconocimiento Facial/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FKMCBKFM",
+        "price": 19297.0,
+        "model": "TOPS/16GB"
+      },
+      {
+        "store": "amazon",
         "name": "ASUS Vivobook Go 14/ AMD Ryzen 5 40 / Radeon Graphics/ 14\" FHD/8GB / 512GB SSD/Incluye Mochila y Mouse/Garantía y Servicio con la Marca en México (Modelo 2026)",
         "url": "https://www.amazon.com.mx/dp/B0GQVQV6NG",
         "price": 8799.0,
@@ -1803,10 +1810,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Vivobook S16 / AMD Ryzen 9 270/ NPU 16 TOPS/16GB - 512GB SSD/Carga Rápida USB-C 65W/Cámara con Rconocimiento Facial/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0FKMCBKFM",
-        "price": 18155.32,
-        "model": "TOPS/16GB"
+        "name": "ASUS Vivobook 16 Laptop, visualización LED FHD IPS de 16 pulgadas (1920 x 1200), AMD Ryzen AI 5 330, Copilot+ PC, 16 GB DDR5 RAM, 512 GB SSD, HDMI, azul silencioso, Windows 11 Home, TWE Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0GXVY9Z2V",
+        "price": 15105.6,
+        "model": null
       },
       {
         "store": "amazon",
@@ -1819,22 +1826,8 @@
         "store": "amazon",
         "name": "ASUS Laptop Vivobook Go 14/E1404FA-NK480W/AMD Ryzen 5-7520U 4 núcleos/8GB RAM/512GB SSD/Plata/Windows 11/Mouse y Mochila/Teclado en Español(Grantía y Servicio en México) + Hub USB-C 5",
         "url": "https://www.amazon.com.mx/dp/B0FB6SC3D4",
-        "price": 9963.6,
+        "price": 9963.5,
         "model": "14/E1404FA-NK480W/AMD"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook - Computadora portátil de 14 pulgadas - Intel Core i7-1355U o AMD Ryzen 7 4700U - 12GB de RAM - SSD de 512GB - Windows 11 - Office 365 por un año - Computadora para negocios, estudiantes",
-        "url": "https://www.amazon.com.mx/dp/B0FZ9YVV7W",
-        "price": 13958.69,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
-        "model": "144Hz"
       },
       {
         "store": "amazon",
@@ -1845,10 +1838,24 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
-        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
-        "price": 9408.0,
-        "model": "1334U"
+        "name": "ASUS Vivobook - Computadora portátil de 14 pulgadas - Intel Core i7-1355U o AMD Ryzen 7 4700U - 12GB de RAM - SSD de 512GB - Windows 11 - Office 365 por un año - Computadora para negocios, estudiantes",
+        "url": "https://www.amazon.com.mx/dp/B0FZ9YVV7W",
+        "price": 13958.69,
+        "model": "i7-1355U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14 Laptop, PC Copilot+, visualización WUXGA de 60Hz de 14 Pulgadas, AMD Ryzen AI 7 350 con NPU XDNA, AMD Radeon Graphics, 16 GB de RAM, SSD de 512 GB, Oro Platino, M1407KA-PS74",
+        "url": "https://www.amazon.com.mx/dp/B0F22H6BL8",
+        "price": 19876.37,
+        "model": "M1407KA-PS74"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
       },
       {
         "store": "amazon",
@@ -1856,107 +1863,100 @@
         "url": "https://www.amazon.com.mx/dp/B0D6P47B38",
         "price": 9599.0,
         "model": "5-7520U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16 Laptop: Ryzen AI 5 330, RAM DDR5 de 16 GBD, SSD de 512 GB, visualización Full HD+ IPS de 16 pulgadas, Windows 11",
-        "url": "https://www.amazon.com.mx/dp/B0G4QJVBWB",
-        "price": 18950.0,
-        "model": null
       }
     ]
   },
   "walmart|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-14T10:38:09.117173+00:00",
+    "ts": "2026-08-16T10:41:58.889998+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-E1404FA-EB923W-R5-16GB-512GB/00019929140091",
-        "price": 11997.0,
-        "model": "E1404FA-EB923W"
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
+        "price": 17999.0,
+        "model": "13900H"
       },
       {
         "store": "walmart",
         "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-Go-15-Laptop-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-Windows-11-AMD-Radeon-WiFi-Bluetooth/00019929131680?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
         "price": 8489.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
         "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Vivobook-15-AMD-Ryzen-5-150-8GB-DDR5-SSD-512GB-Pantalla-15-6-IPS-FHD-Windows-11-Teclado-Espanol/00070452118646",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-amd-ryzen-5-150-8gb-ddr5-ssd-512gb-pantalla-15-6-ips-fhd-windows-11-teclado-espanol/00070452118646",
         "price": 19999.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
         "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-15-6-Fhd-Amd-Ryzen-5-8gb-Ram-512gb-Ssd-Negra/00065796826744?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
         "price": 9129.0,
         "model": "512gb"
       },
       {
         "store": "walmart",
         "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-VivoBook-Go-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-W11-Negro/00065396995296?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
         "price": 8629.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
         "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-VivoBook-D413UA-AMD-Ryzen-7-5700U-RAM-8GB-SSD-512GB-Pantalla-14-LED-Windows-11-Home-Asus-D413UA-R78G512/00019555353315",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
         "price": 13786.26,
         "model": "D413UA-R78G512"
       },
       {
         "store": "walmart",
         "name": "Laptop ASUS VivoBook Go 15.6\" FHD Ryzen 5 7520U 8GB RAM 512GB SSD Windows 11 Color Cool Silver",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-VivoBook-Go-15-6-FHD-Ryzen-5-7520U-8GB-RAM-512GB-SSD-Windows-11-Color-Cool-Silver/00019710545735?athbdg=L6000",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-ryzen-5-7520u-8gb-ram-512gb-ssd-windows-11-color-cool-silver/00019710545735?athbdg=L6000",
         "price": 21180.0,
         "model": "7520U"
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS Vivobook Go 14 AMD Ryzen 5 7520U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español + Mouse DXT",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Vivobook-Go-14-AMD-Ryzen-5-7520U-8GB-RAM-512GB-SSD-14-Windows-11-Home-Teclado-en-Espanol-Mouse-DXT/00070452118389?athbdg=L6000",
-        "price": 19798.0,
-        "model": "7520U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Expertbook BM1 14” Ryzen 5 8GB RAM 512 SSD W11",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Expertbook-BM1-14-Ryzen-5-8GB-RAM-512-SSD-W11/00019929124452",
-        "price": 12999.0,
-        "model": null
+        "name": "Laptop Asus ROG G614PH-RV040W NVIDIA GeForce RTX 5050 R9 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-g614ph-rv040w-nvidia-geforce-rtx-5050-r9-16gb-512gb/00019929102100",
+        "price": 30997.0,
+        "model": "G614PH-RV040W"
       },
       {
         "store": "walmart",
         "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-S16-Laptop-OLED-de-16-Intel-Core-Ultra-9-285H-Supera-a-AMD-Ryzen-9-8945HS-32GB-RAM-1TB-SSD-2880x1800-DCI-P3-100-Ketboard-Retroiluminado-RGB-Windows-11-Business-AI-Copilot-PC/00019710535553?athbdg=L1300",
-        "price": 26634.65,
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L1300",
+        "price": 32025.23,
         "model": "2880x1800"
       },
       {
         "store": "walmart",
-        "name": "ASUS VIVOBOOK GO 15 NEGRO E1504F/15in/AMD RYZEN 3 7320U/8GB/SSD/128GB/Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/ASUS-VIVOBOOK-GO-15-NEGRO-E1504F-15in-AMD-RYZEN-3-7320U-8GB-SSD-128GB-Windows-11-Home/00019710517089?athbdg=L6000",
-        "price": 20131.0,
-        "model": "7320U/8GB/SSD/128GB/Windows"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook D1502YA-NJ584W AMD Ryzen 7 5825U 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-D1502YA-NJ584W-AMD-Ryzen-7-5825U-16GB-512GB/00019710589093?athbdg=L1300",
-        "price": 11999.0,
-        "model": "D1502YA-NJ584W"
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
       }
     ]
   },
   "sams|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-14T10:38:09.923267+00:00",
+    "ts": "2026-08-16T10:41:59.766114+00:00",
     "items": []
   },
   "amazon|14IAH10": {

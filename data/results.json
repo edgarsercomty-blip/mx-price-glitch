@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 10:15 UTC",
-  "products_scanned": 1610,
+  "generated_at": "2026-08-16 10:42 UTC",
+  "products_scanned": 1613,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -235,27 +235,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11021.78,
-      "store": "palacio",
-      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
-      "price": 34067.32,
-      "list_price": 50099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 3761.78,
@@ -271,6 +250,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11021.78,
+      "store": "palacio",
+      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
+      "price": 34067.32,
+      "list_price": 50099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369614",
         "outlet": false
       }
     },
@@ -376,6 +376,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44011027",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
         "outlet": false
       }
     },
