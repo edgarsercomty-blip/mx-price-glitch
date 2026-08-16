@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (792)
+# Historial de ofertas encontradas (798)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-16 15:33 | -21% | amazon | [Skechers Skechers Hands Free Slip-ins Squad Chaos - Str…](https://www.amazon.com.mx/dp/B0CXJNJTNY) | $964 | $964 en amazon vs mercado -> -21% bajo la competencia |
+| 2026-08-16 15:33 | -22% | amazon | [On Cloud X 4 - Tenis para Mujer \| Zapatos de entrenamie…](https://www.amazon.com.mx/dp/B0DM2KZCCL) | $2,525 | $2,525 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-08-16 15:33 | -26% | palacio | [Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg…](https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html) | $40,480 | $40,480 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-08-16 15:33 | -33% | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2…](https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300) | $719 | $719 en walmart vs mercado -> -33% bajo la competencia |
+| 2026-08-16 15:33 | -38% | mercadolibre | [Mezcladora Analógica Tklbls V4 Bluetooth 4 Canales USB …](https://www.mercadolibre.com.mx/mezcladora-analogica-tklbls-v4-bluetooth-4-canales-usb-xlr-rca/p/MLM51527435) | $435 | $435 en mercadolibre vs mercado -> -38% bajo la competencia |
+| 2026-08-16 15:33 | -39% | liverpool | [Refrigerador Top Mount Midea 17 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-17-pies-cubicos-inverter-y-no-frost-con-fabrica-de-hielo-mdrt645mtm46wd/1186067378) | $10,800 | $10,800 en liverpool vs mercado -> -39% bajo la competencia |
 | 2026-08-16 02:36 | -21% | walmart | [Estufa  de Piso Midea con Capelo 30" MASTER COOK Silver](https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300) | $6,290 | $6,290 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-08-16 02:36 | -28% | amazon | [Piezas de repuesto OEM genuinas compatibles con licuado…](https://www.amazon.com.mx/dp/B0GSXY99RP) | $389 | $389 en amazon vs amazon $540, amazon $542, amazon $613 -> -28% bajo la competencia |
 | 2026-08-16 02:36 | -29% | mercadolibre | [Lavadora Semiautomática White-Westinghouse de 13 kg y D…](https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221) | $4,699 | $4,699 en mercadolibre vs mercado -> -29% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -20% | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | $10,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | $9,599 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-17 08:37 | -20% | palacio | [Cafetera Vertuo Pop negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-pop-negro-43295135.html) | $2,094 | $2,094 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-17 08:37 | -22% | palacio | [Celular Moto edge 70 fusion, 256 GB, RAM 8 GB, azul des…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-fusion-256-gb-ram-8-gb-azul-desbloqueado-45345508.html) | $7,699 | $7,699 en palacio vs mercado -> -22% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,599 | $3,599 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $674 | $674 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | $1,319 en palacio vs mercado -> -25% bajo la competencia |
