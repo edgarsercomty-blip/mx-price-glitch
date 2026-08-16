@@ -34356,5 +34356,75 @@
   "sams|ASUSLAPTOPPROARTRYZENASUS": {
     "ts": "2026-08-16T09:18:37.640238+00:00",
     "items": []
+  },
+  "amazon|APPLEESTRELLAIPHONETELCEL128": {
+    "ts": "2026-08-16T10:15:03.852639+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 4937.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Azul (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNXVB6B",
+        "price": 4499.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "walmart|APPLEESTRELLAIPHONETELCEL128": {
+    "ts": "2026-08-16T10:15:07.235079+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-blanco-telcel/00750622734821?athbdg=L1300",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
+        "price": 11920.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "APPLE IPHONE 16 128GB TEAL",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00019595019412?athbdg=L1300",
+        "price": 15929.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLEESTRELLAIPHONETELCEL128": {
+    "ts": "2026-08-16T10:15:09.375290+00:00",
+    "items": []
   }
 }
