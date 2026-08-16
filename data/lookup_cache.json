@@ -1595,7 +1595,7 @@
     "items": []
   },
   "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-14T20:23:20.624204+00:00",
+    "ts": "2026-08-16T20:40:05.562623+00:00",
     "items": [
       {
         "store": "amazon",
@@ -1627,22 +1627,15 @@
       },
       {
         "store": "amazon",
-        "name": "Manguera de Drenaje Material PE Super Flexible y Anti-envejecimiento para Lavadora Semiautomática Color Azul de 1.6 Metros para Baño y Cocina",
-        "url": "https://www.amazon.com.mx/dp/B0DBKVNB56",
-        "price": 122.69,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Manguera de Drenaje Pe Azul para Lavadora Semiautomática 1.6 M | Diámetro Interno 16mm, Espesor Reforzado, Clip Incluido, Uso en Lavandería y Cocina",
         "url": "https://www.amazon.com.mx/dp/B0D319J7QL",
-        "price": 116.59,
+        "price": 133.79,
         "model": null
       }
     ]
   },
   "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-14T20:23:40.781325+00:00",
+    "ts": "2026-08-16T20:40:08.446956+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1654,7 +1647,7 @@
     ]
   },
   "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-14T20:23:50.812656+00:00",
+    "ts": "2026-08-16T20:40:10.590505+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
@@ -4359,276 +4352,37 @@
     "ts": "2026-08-16T17:51:22.966332+00:00",
     "items": []
   },
-  "amazon|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
-    "ts": "2026-08-14T20:22:54.803355+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
-        "price": 815.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Azul | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLMGTTS",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
-        "price": 625.52,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Plata | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFHFM1X9",
-        "price": 646.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Negro | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
-        "url": "https://www.amazon.com.mx/dp/B08N64F336",
-        "price": 3099.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "3 Piezas Correas para Xiaomi Redmi Watch 5 Active para Mujer Hombre, Correas de Silicona, Deportiva Impermeable Pulseras de Repuesto para Redmi Watch 5 Active",
-        "url": "https://www.amazon.com.mx/dp/B0F5HBG2Q6",
-        "price": 151.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Watch 5 Active Midnight Black",
-        "url": "https://www.amazon.com.mx/dp/B0DDY6KWB2",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Correas de Reloj Trenzadas Magnéticas para Xiaomi Redmi Watch 6/5/4, Correa Elástica Suave de Nailon Deportivo para Xiaomi Band 8/9 Pro Correa",
-        "url": "https://www.amazon.com.mx/dp/B0H44B1R8F",
-        "price": 229.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "3 Piezas Correas Compatible con Xiaomi Redmi Watch 4/5, Extensible Banda de Silicona para Xiaomi Band 8/9 Pro, Pulseras de Repuesto para Redmi Watch 5 Bandas Mujeres Hombres",
-        "url": "https://www.amazon.com.mx/dp/B0FP91D3LP",
-        "price": 208.05,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "WolliLe 22mm Correa Trenzada Compatible con Xiaomi Redmi Watch 5 Active/5 Lite/Garmin Venu 4 45mm/Venu 3/Venu 2/Vivoactive 4/Samsung Galaxy Watch 3 45mm, Correa Repuesto de Nailon Ajustable para Huawei GT5/GT4/GT3/GT2/GT 46mm",
-        "url": "https://www.amazon.com.mx/dp/B0GJ5GQ6YH",
-        "price": 192.72,
-        "model": "GT5/GT4/GT3/GT2/GT"
-      }
-    ]
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
-    "ts": "2026-08-14T20:23:03.957139+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
-        "price": 1199.0,
-        "model": "watch3"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
-        "price": 998.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
-        "price": 1031.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
-        "price": 1579.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Xiaomi Redmi Watch 3 Active Gris",
-        "url": "https://www.walmart.com.mx/ip/reloj-xiaomi-redmi-watch-3-active-gris/00694181272645",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154",
-        "price": 793.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00063790280930",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
-        "price": 959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-smart-band-9-active-beige/00694181270631",
-        "price": 595.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
-    "ts": "2026-08-14T20:23:08.221114+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
-        "price": 3485.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A7 64 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a7-64-gb-negro-bait/981050961",
-        "price": 3067.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
-        "price": 6955.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
-        "price": 5088.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A5 64 GB Azul Océano AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-64-gb-azul-oceano-at-t/981039226",
-        "price": 2044.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 14 Pro 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-bait/981036400",
-        "price": 5523.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  Redmi Note 15T 512 GB Bait + Audífonos Buds 8 Lite",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15t-512-gb-bait-audifonos-buds-8-lite/981050290",
-        "price": 12321.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  15T Pro 512 GB Moca Bait + Tablet Redmi Pad 2",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-15t-pro-512-gb-moca-bait-tablet-redmi-pad-2/981050291",
-        "price": 19435.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 5G 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-5g-256-gb-negro-telcel/981033049",
-        "price": 8339.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
-        "price": 1772.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-azul-telcel/981033046",
-        "price": 6463.31,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Negro AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-at-t/981032917",
-        "price": 8182.96,
-        "model": null
-      }
-    ]
-  },
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-08-14T20:24:11.492800+00:00",
+    "ts": "2026-08-16T20:40:14.601814+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Fold8 Crema 512GB | Forma totalmente nueva, pantalla adaptada para contenido, batería de 4800 mAh, 12 GB de memoria, cámara 50 MP",
+        "url": "https://www.amazon.com.mx/dp/B0H76XJTG2",
+        "price": 45999.0,
+        "model": "Fold8"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto G56 8/256GB, Azul, Desbloqueado, Garantia",
+        "url": "https://www.amazon.com.mx/dp/B0F8R49SYY",
+        "price": 5999.0,
+        "model": "8/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Fold8 Ultra Violeta Techno 512GB | Procesador adaptado, batería de 5000 mAh, vista multitasking, 12 GB de memoria, cámara de 200 MP, now nudge, photo assist",
+        "url": "https://www.amazon.com.mx/dp/B0H773PLWP",
+        "price": 50999.0,
+        "model": "Fold8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Flip8 Rosa 512GB | FlexCam, now brief, photo assist, flex window, batería de 4300 mAh, memoria 12 GB",
+        "url": "https://www.amazon.com.mx/dp/B0H76VVSFG",
+        "price": 30499.0,
+        "model": "Flip8"
+      },
       {
         "store": "amazon",
         "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
@@ -4638,17 +4392,17 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
-        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
-        "price": 5537.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
         "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
         "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
         "price": 5319.0,
         "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
+        "price": 5533.0,
+        "model": "256GB"
       },
       {
         "store": "amazon",
@@ -4661,7 +4415,14 @@
         "store": "amazon",
         "name": "Motorola Moto Edge 70 Fusión 8+256GB Country Air (Celeste) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
         "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
-        "price": 7999.0,
+        "price": 7949.0,
+        "model": "8+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Moto Edge 50 Fusión 8+256GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FXNDMTVQ",
+        "price": 4216.0,
         "model": "8+256GB"
       },
       {
@@ -4673,56 +4434,28 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
-        "price": 6545.29,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FFDKFZN1",
-        "price": 7797.0,
-        "model": "12/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Cel Moto G06 4GB+8GB(Boost)+64GB Tapestry (Azul)(4g Lte) | 4GB RAM, 8GB Boost, 4G LTE, 6.88\" pantalla, Helio G81",
-        "url": "https://www.amazon.com.mx/dp/B0GLF2LKH7",
-        "price": 1882.0,
-        "model": "4GB+8GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, Sony Lytia Cámara con AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve Screen 120Hz, 68W CHGR Azul.",
-        "url": "https://www.amazon.com.mx/dp/B0F4RHMM5G",
-        "price": 5594.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 60 Fusion, 8GB, 256GB, Rosa, Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0GLHQYJH5",
-        "price": 5252.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto G67 4+256GB Pantone Nile (Lima)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ6FGRH3",
-        "price": 4479.0,
-        "model": "4+256GB"
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
+        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
+        "price": 5997.0,
+        "model": "RAM/256GB"
       }
     ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-08-14T20:24:14.699612+00:00",
+    "ts": "2026-08-16T20:40:19.395155+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Turquesa Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-fusion-5g-256gb-turquesa-desbloqueado/00084002328739?athbdg=L1300",
-        "price": 5198.0,
+        "name": "Smartphone Motorola Edge 50 Fusion 5G Dual Sim 256GB Verde Azulado 8GB Ram + Moto Buds",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-50-fusion-5g-dual-sim-256gb-verde-azulado-8gb-ram-moto-buds/00084002326673?athbdg=L1300",
+        "price": 4699.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Motorola Edge 50 Fusion 8GB RAM + 256GB de Almacenamiento Liberado Nuevo Mashmallos Blue",
+        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-50-fusion-8gb-ram-256gb-de-almacenamiento-liberado-nuevo-mashmallos-blue/00084002327390?athbdg=L1300",
+        "price": 4429.0,
         "model": "256GB"
       },
       {
@@ -4742,15 +4475,8 @@
       {
         "store": "walmart",
         "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019663085013?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019702146653?athbdg=L1300",
         "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 50 Fusion 5G Dual Sim 256GB Verde Azulado 8GB Ram + Moto Buds",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-50-fusion-5g-dual-sim-256gb-verde-azulado-8gb-ram-moto-buds/00084002326673?athbdg=L1300",
-        "price": 4699.0,
         "model": "256GB"
       },
       {
@@ -4762,13 +4488,6 @@
       },
       {
         "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00750304110536?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram Azul",
         "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-fusion-5g-dual-sim-256gb-8ram-azul/00084002326276?athbdg=L1300",
         "price": 4429.0,
@@ -4776,166 +4495,53 @@
       },
       {
         "store": "walmart",
-        "name": "MOTOROLA MOTO EDGE 60 FUSION 12GB RAM 256GB ROM PANTONE MYKONOS BLUE",
-        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-60-fusion-12gb-ram-256gb-rom-pantone-mykonos-blue/00084002328585?athbdg=L1300",
-        "price": 5689.0,
+        "name": "Smartphone Motorola Moto Edge 60 Fusion 12GB + 256GB Dual SIM Verde",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-60-fusion-12gb-256gb-dual-sim-verde/00084002329844?athbdg=L1300",
+        "price": 5594.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
-        "name": "Motorola Moto Edge 50 Fusion 8GB RAM 256GB ROM Forest Green Versión Europea",
-        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-50-fusion-8gb-ram-256gb-rom-forest-green-version-europea/00843177503343?athbdg=L6000",
-        "price": 4799.0,
+        "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram TIDAL",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-fusion-5g-dual-sim-256gb-8ram-tidal/00084002326274?athbdg=L1300",
+        "price": 4429.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Rosa Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-fusion-5g-256gb-rosa-desbloqueado/00084002328740?athbdg=L1300",
+        "price": 5198.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
-        "name": "MOTOROLA MOTO EDGE 60 FUSION 12GB RAM 256GB ROM Pantone Zephyr",
-        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-60-fusion-12gb-ram-256gb-rom-pantone-zephyr/00084002328586?athbdg=L1300",
-        "price": 5689.0,
+        "name": "MOTOROLA MOTO EDGE 70 FUSION 8GB RAM 256GB ROM PANTONE ORIENT BLUE",
+        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-70-fusion-8gb-ram-256gb-rom-pantone-orient-blue/00084049362199?athbdg=L1300",
+        "price": 6290.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 Fusion 256 GB Azul FIFA World Cup 2026 Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-azul-fifa-world-cup-2026-desbloqueado/00084049361979?athbdg=L1300",
-        "price": 7999.0,
-        "model": null
+        "name": "Smartphone Motorola Moto Bait MOTO G55 de 256GB Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-bait-moto-g55-de-256gb-verde-desbloqueado/00084002327477?athbdg=L1300",
+        "price": 3199.0,
+        "model": "256GB"
       }
     ]
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMOTO": {
-    "ts": "2026-08-14T20:24:22.152447+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-morado-desbloqueado/981038965",
-        "price": 2249.56,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G17 Power Azul 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g17-power-azul-256-gb-desbloqueado/981050100",
-        "price": 5008.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G35 5G 256 GB Naranja Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g35-5g-256-gb-naranja-desbloqueado/981029049",
-        "price": 4599.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto Edge 60 Fusion 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-edge-60-fusion-256-gb-azul-telcel/981034105",
-        "price": 9205.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto G 86 5G 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g-86-5g-256-gb-azul-desbloqueado/981038676",
-        "price": 7159.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687",
-        "price": 6135.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Motorola Moto Edge 70 Fusion 256 GB Azul Telcel + Audífonos",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-motorola-moto-edge-70-fusion-256-gb-azul-telcel-audifonos/981052262",
-        "price": 7998.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto G 86 5 G 256 GB Lila Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g-86-5-g-256-gb-lila-desbloqueado/981038679",
-        "price": 4960.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Motorola Moto Edge 70 Fusion 256 GB Celeste Telcel + Audífonos Moto Buds",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-motorola-moto-edge-70-fusion-256-gb-celeste-telcel-audifonos-moto-buds/981055156",
-        "price": 7998.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 70 Fusion 256 GB FIFA World Cup 2026 Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-fifa-world-cup-2026-azul-desbloqueado/981051351",
-        "price": 11249.8,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-16T20:40:20.183928+00:00",
+    "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-14T20:24:40.149689+00:00",
+    "ts": "2026-08-16T20:40:23.395204+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2694.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
         "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 5949.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 2149.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
         "model": null
       },
       {
@@ -4954,49 +4560,77 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo variedad 30 cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
-        "price": 529.0,
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 5746.53,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
-        "price": 2717.71,
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
-        "price": 1875.18,
+        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
+        "price": 1895.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4241.5,
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5033.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 5746.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 2149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
         "model": null
       }
     ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-14T20:24:48.403260+00:00",
+    "ts": "2026-08-16T20:40:26.594760+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712022",
-        "price": 3448.85,
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
         "model": null
       },
       {
@@ -5008,23 +4642,58 @@
       },
       {
         "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Next 1.1L",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-1-1l/00002161480206?athbdg=L1300",
+        "price": 5889.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
+        "price": 4079.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
+        "price": 5269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Cafetera Nespresso Vertuo Next ENV120GYAE Reacondicionado",
         "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-env120gyae-reacondicionado/00004438701205?athbdg=L1300",
-        "price": 4069.0,
+        "price": 3969.0,
         "model": "ENV120GYAE"
       },
       {
         "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
+        "price": 3589.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y Espresso Nespresso Vertuo Next de De'Longhi con e Nespresso Nespresso",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-de-de-longhi-con-e-nespresso-nespresso/00004438701206?athbdg=L1300",
-        "price": 4759.0,
+        "price": 4729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y Espresso Nespresso Vertuo Breville Chrome",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-breville-chrome/00002161499982?athbdg=L1300",
+        "price": 5629.0,
         "model": null
       },
       {
@@ -5036,87 +4705,16 @@
       },
       {
         "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo 1597ml De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-1597ml-de-longhi/00004438700135?athbdg=L1300",
-        "price": 6369.0,
-        "model": "1597ml"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
-        "price": 3919.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
-        "price": 4099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-de-longhi/00004438702135?athbdg=L1300",
-        "price": 6119.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7209.0,
+        "name": "Máquina de café espresso Nespresso Vertuo 1,6 L Titan",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-nespresso-vertuo-1-6-l-titan/00004438709135?athbdg=L1300",
+        "price": 8089.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-14T20:25:01.845077+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
-        "price": 3774.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 2556.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 3060.82,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
-        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 4183.05,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-16T20:40:27.410667+00:00",
+    "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
     "ts": "2026-08-14T20:59:41.213377+00:00",
