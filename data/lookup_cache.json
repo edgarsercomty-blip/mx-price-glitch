@@ -1594,224 +1594,6 @@
     "ts": "2026-08-16T15:12:46.423106+00:00",
     "items": []
   },
-  "amazon|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-14T18:41:05.697840+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
-        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
-        "price": 2229.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
-        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
-        "price": 2327.03,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
-        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
-        "price": 2329.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
-        "price": 2369.4,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
-        "price": 3106.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Deep Gray",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQZ35",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power KitchenAid Porcelain 1.8 L c Jarra de Vidrio",
-        "url": "https://www.amazon.com.mx/dp/B0GSXMMDT1",
-        "price": 2798.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid 7KSB4027MPA - Andromeda Blender - 56oz Jar, Passion Red",
-        "url": "https://www.amazon.com.mx/dp/B093NBSC4F",
-        "price": 3867.0,
-        "model": "7KSB4027MPA"
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de expansión para licuadora personal de 16 onzas para licuadoras KitchenAid K150 y K400",
-        "url": "https://www.amazon.com.mx/dp/B085FY9K8J",
-        "price": 1419.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Roja",
-        "url": "https://www.amazon.com.mx/dp/B09R4MJMXR",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "T-FAL Licuadora Infiny Force XL 14 velocidades negra | Tritura todo sin dejar trozos, 6 cuchillas de acero inoxidable, 3 veces más eficiente. Capacidad de 2.2 L, 550W. LN8248NX",
-        "url": "https://www.amazon.com.mx/dp/B0CH1N115M",
-        "price": 899.0,
-        "model": "LN8248NX"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Gris 2L + 2 Vasos Personales 500ml",
-        "url": "https://www.amazon.com.mx/dp/B09SGBPMNY",
-        "price": 3049.0,
-        "model": "500ml"
-      }
-    ]
-  },
-  "walmart|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-14T18:41:09.345126+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
-        "price": 2229.0,
-        "model": "7KSB2078MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
-        "price": 2789.0,
-        "model": "7KSB1330MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
-        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
-        "price": 4999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
-        "price": 5409.0,
-        "model": "KSB2078"
-      }
-    ]
-  },
-  "sams|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
-    "ts": "2026-08-14T18:41:23.479098+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
-        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-        "price": 1941.65,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
-        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
-        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
-        "price": 858.3,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 1533.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Backpack Cool Capital  Portalaptop Negro + Funda para Laptop",
-        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-negro-funda-para-laptop/981053139",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Audífonos Inalámbricos STF  1 On Ear y 1 TWS Negro",
-        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-1-on-ear-y-1-tws-negro/981045217",
-        "price": 611.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Realme  C75 256 GB Bait Negro + Bocina",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-realme-c75-256-gb-bait-negro-bocina/981036399",
-        "price": 7159.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Teclado Inalámbrico Logitech  + Mouse Inalámbrico MK 540 Advanced Negro ",
-        "url": "https://www.sams.com.mx/ip/combo-teclado-inalambrico-logitech-mouse-inalambrico-mk-540-advanced-negro/981045923",
-        "price": 1369.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Audífonos Inalámbricos STF Kit All in One Negro + Smartwatch + Crossbody",
-        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
-        "price": 673.13,
-        "model": null
-      }
-    ]
-  },
   "amazon|MLTS101M2SGDW": {
     "ts": "2026-08-14T20:23:20.624204+00:00",
     "items": [
@@ -31936,5 +31718,454 @@
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
     "ts": "2026-08-16T17:12:13.503522+00:00",
     "items": []
+  },
+  "amazon|ASUSVIVOBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-16T18:48:35.810601+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
+        "price": 12999.0,
+        "model": "15-fc0372la"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Color Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GR6HB8C4",
+        "price": 14999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 MAX de Apple con CPU de 18 núcleos y GPU de 40 núcleos, 48GB Memoria unificada, 2 TB) - Negro Espacial",
+        "url": "https://www.amazon.com.mx/dp/B0GR1L19B9",
+        "price": 114999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Laptop de 15 pulgadas - Intel Core i5 120U Beat AMD Ryzen 7 4800U - 24GB RAM -1TB SSD -Pantalla FHD de 15.6- Windows 11 Office365 incluido - Computadora Portátil - Estudiantes",
+        "url": "https://www.amazon.com.mx/dp/B0FYDVR9D4",
+        "price": 15231.99,
+        "model": "Office365"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
+        "price": 13499.0,
+        "model": "7-7730U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S16 / AMD Ryzen 9 270/ NPU 16 TOPS/16GB - 512GB SSD/Carga Rápida USB-C 65W/Cámara con Rconocimiento Facial/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FKMCBKFM",
+        "price": 19297.0,
+        "model": "TOPS/16GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Laptop de 15 pulgadas - Intel Core i5 120U Beat AMD Ryzen 7 4800U - 24GB RAM -1TB SSD -Pantalla FHD de 15.6- Windows 11 Office365 incluido - Computadora Portátil - Estudiantes",
+        "url": "https://www.amazon.com.mx/dp/B0FYDVR9D4",
+        "price": 15231.99,
+        "model": "Office365"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 14 (2025)/ Ryzen 3 7320U/ AMD Radeon Graphics/ 8GB - 512GB SSD/Wi-Fi 5 + Bluetooth 5.1/ Teclado en Español (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
+        "price": 7399.0,
+        "model": "7320U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 14/ AMD Ryzen 5 40 / Radeon Graphics/ 14\" FHD/8GB / 512GB SSD/Incluye Mochila y Mouse/Garantía y Servicio con la Marca en México (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQVQV6NG",
+        "price": 8799.0,
+        "model": "FHD/8GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
+        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
+        "price": 26134.49,
+        "model": "M5406WA-AH94"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Laptop, visualización LED FHD IPS de 16 pulgadas (1920 x 1200), AMD Ryzen AI 5 330, Copilot+ PC, 16 GB DDR5 RAM, 512 GB SSD, HDMI, azul silencioso, Windows 11 Home, TWE Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0GXVY9Z2V",
+        "price": 15105.6,
+        "model": null
+      }
+    ]
+  },
+  "walmart|ASUSVIVOBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-16T18:48:40.036274+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-amd-ryzen-5-150-8gb-ddr5-ssd-512gb-pantalla-15-6-ips-fhd-windows-11-teclado-espanol/00070452118646",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus ROG G614PH-RV040W NVIDIA GeForce RTX 5050 R9 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-g614ph-rv040w-nvidia-geforce-rtx-5050-r9-16gb-512gb/00019929102100",
+        "price": 30997.0,
+        "model": "G614PH-RV040W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L1300",
+        "price": 32025.23,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
+        "price": 13786.26,
+        "model": "D413UA-R78G512"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1407KA-LY147W R AI5 16GB 1TB Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1407ka-ly147w-r-ai5-16gb-1tb-azul/00019929116770",
+        "price": 15997.0,
+        "model": "M1407KA-LY147W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS VIVOBOOK GO 15 NEGRO E1504F/15in/AMD RYZEN 3 7320U/8GB/SSD/128GB/Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-negro-e1504f-15in-amd-ryzen-3-7320u-8gb-ssd-128gb-windows-11-home/00019710517089?athbdg=L6000",
+        "price": 20131.0,
+        "model": "7320U/8GB/SSD/128GB/Windows"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook X1607CA-MB155W CU5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1607ca-mb155w-cu5-16gb-512gb/00019710589103",
+        "price": 14997.0,
+        "model": "X1607CA-MB155W"
+      }
+    ]
+  },
+  "sams|ASUSVIVOBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-16T18:48:40.797807+00:00",
+    "items": []
+  },
+  "amazon|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-16T18:48:42.992428+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 Ryzen AI 9 HX 370/RTX 5070 (8GB GDDR7)/50 Tops/Pantalla 16\" 3K OLED Touch/64GB RAM/2TB SSD/Mochila y Adaptador USB-A a RJ45 /Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6QMKSR",
+        "price": 58799.02,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 AMD Ryzen™ AI 9 HX 370/ NVIDIA® GeForce RTX™ 5070/18 Tops/ 4K OLED 16:10: 60Hz/ 64GB/ 2TB SSD/Wi-Fi 7; Bluetooth® 5.4/ Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0FL9WF437",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 / 16\" 3K OLED/AMD Ryzen AI 9 HX 370 /NVIDIA RTX 5060/32GB /1TB SSD/DialPad/Incluye Mochila y Adaptador/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GR1BXLDV",
+        "price": 47599.32,
+        "model": "5060/32GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 Go Pro/Ryzen AI MAX+ 388/AMD Radeon Graphics/50 Tops/Pantalla 13\" 3K OLED Touch/32GB RAM/1TB SSD/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ78ZQGF",
+        "price": 42999.0,
+        "model": "Graphics/50"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16/ 16\" 4K OLED Touch/AMD Ryzen AI 9 / RTX 5080 (GDDR7) | 64GB RAM/ 2TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Mochila)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3PPSJF",
+        "price": 83599.24,
+        "model": "GDDR7"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt P16 /, Ryzen AI 9 HX 370/RTX 5090/50 Tops/Pantalla 16\" 4K OLED Touch/64GB RAM/2TB SSD/Mochila/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5J6NJ7",
+        "price": 90287.24,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 AI Gaming Laptop 2 en 1 visualización táctil AMOLED 2.8K visualización (AMD Ryzen AI 9 HX 370, 32GB LPDDR5X, 1TB SSD, KB retroiluminado, Win 11 Home) con Microsoft 365 Personal, DKZ",
+        "url": "https://www.amazon.com.mx/dp/B0DLBRXBPZ",
+        "price": 58890.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 2 en 1 AI Creator Laptop 13.3 pulgadas Touch OLED 3K 500 nits (Ryzen AI 9 HX 370, 32GB LPDDR5X, 2TB SSD, KYB retroiluminado, WiFi 7, BT 5.4, Win11P) w/AI Copilot, DKZ USB Port",
+        "url": "https://www.amazon.com.mx/dp/B0DL7VN8Q7",
+        "price": 73099.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PX13 (Reemplaza P16) Laptop AI 2 en 1 de 13.3\" Pantalla Táctil OLED 3K 500 nits (Ryzen AI 9 HX 370, RTX 4050, 32GB LPDDR5X, 1TB SSD, Teclado Retroiluminado, WiFi 7, BT 5.4, Win11P) con",
+        "url": "https://www.amazon.com.mx/dp/B0DL7XB4HM",
+        "price": 59350.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS ProArt PZ13 2 en 1 AI Creator Laptop 13.3 pulgadas Touch OLED 3K visualización desmontable (Qualcomm Snapdragon X Plus X1P-42-100, 16GB LPDDR5X, 1TB SSD, KB retroiluminado, WiFi 7, Win 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0GWQZFLQD",
+        "price": 25536.72,
+        "model": "X1P-42-100"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Expertbook P1/Ryzen 5/ 8G RAM / 512SSD/ Wi-Fi 6 + Bluetooth 5.4/ Diseñada para Seguridad empresarial/Mochila + Mouse (Servicio y garantía con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FWG8334L",
+        "price": 9899.0,
+        "model": "P1/Ryzen"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
+        "price": 25999.0,
+        "model": "260/NPU"
+      }
+    ]
+  },
+  "walmart|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-16T18:48:46.352198+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FA607NU-RL062W NVIDIA GeForce RTX 4050 AMD Ryzen 5 7535HS 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fa607nu-rl062w-nvidia-geforce-rtx-4050-amd-ryzen-5-7535hs-8gb-512gb/00019710588583",
+        "price": 23999.0,
+        "model": "FA607NU-RL062W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
+        "price": 64350.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 8GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-8gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919490696?athbdg=L1300",
+        "price": 11999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919510943?athbdg=L1300",
+        "price": 13999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
+        "price": 16699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus ROG G614PH-RV040W NVIDIA GeForce RTX 5050 R9 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-g614ph-rv040w-nvidia-geforce-rtx-5050-r9-16gb-512gb/00019929102100",
+        "price": 30997.0,
+        "model": "G614PH-RV040W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ROG Zephyrus G14 14” OLED 3K 120Hz Gaming AMD Ryzen 9 270 16GB LPDDR5X GeForce RTX 5060 1TB SSD Platinum White",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-zephyrus-g14-14-oled-3k-120hz-gaming-amd-ryzen-9-270-16gb-lpddr5x-geforce-rtx-5060-1tb-ssd-platinum-white/00019710586144?athbdg=L6000",
+        "price": 70419.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 2TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-2tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155453?athbdg=L1300",
+        "price": 41393.08,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 1TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-1tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155451?athbdg=L1300",
+        "price": 37144.78,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      }
+    ]
+  },
+  "sams|ASUSPROARTLAPTOPRYZENASUS": {
+    "ts": "2026-08-16T18:48:50.010477+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2658.78,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 18412.98,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 14320.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 15343.98,
+        "model": "M1605NAQ-MB231W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming Asus  F16 Core i5/8 GB RAM/512 GB SSD FX607VJ-RL039W",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-asus-f16-core-i5-8-gb-ram-512-gb-ssd-fx607vj-rl039w/981039333",
+        "price": 14730.18,
+        "model": "FX607VJ-RL039W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
+        "price": 7876.08,
+        "model": "E1404FA-NK341W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
+        "price": 10638.18,
+        "model": "X1504VA-NJ2530W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
+        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
+        "price": 13093.38,
+        "model": "X1504MA-BQ353W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 26085.48,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
+        "price": 14730.18,
+        "model": "M1407KA-LY137W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
+        "price": 12274.98,
+        "model": "D1605YA-MB470W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+        "price": 23118.78,
+        "model": "FA506NCQ-HN058W"
+      }
+    ]
   }
 }
