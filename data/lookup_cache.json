@@ -34244,5 +34244,187 @@
   "sams|ECF02WHUS": {
     "ts": "2026-08-16T07:12:51.796116+00:00",
     "items": []
+  },
+  "amazon|RENO13": {
+    "ts": "2026-08-16T07:47:11.835775+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "OPPO Reno14F 5G Azul Ópalo 256GB + 12GB, Pantalla 6.5 AMOLED Cámara 50MP + 8MP + 32MP, Flash IA, Livephoto & Editor IA 2.0, Snapdragon 6, Carga Rápida 45W + Buds 3 De Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0FZN5T4JQ",
+        "price": 8599.0,
+        "model": "Reno14F"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno16F 5G Violeta Crepúsculo 8GB+256GB, Pantalla AMOLED 120Hz, Cámara Selfie Ultra Gran Angular 50MP, Incluye Enco Buds3 de Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0H6122XNP",
+        "price": 13999.0,
+        "model": "8GB+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno16 Pro 5G Blanco Cósmico 12GB + 256GB, Pantalla AMOLED 144Hz, Cámara IA Zoom Retrato 50MP",
+        "url": "https://www.amazon.com.mx/dp/B0H614KPBN",
+        "price": 18499.0,
+        "model": "Reno16"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno16 5G Blanco Cósmico 8GB + 256GB, Pantalla AMOLED 144Hz, Cámara IA Zoom Retrato 50MP",
+        "url": "https://www.amazon.com.mx/dp/B0H5ZNWPCH",
+        "price": 16999.0,
+        "model": "Reno16"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para OPPO Reno 13 5G Uso Rudo Case Acrílico Anti-Amarillo Carcasa Bumper Antiarañazos Respaldo Antigolpes Cover Transparente XC",
+        "url": "https://www.amazon.com.mx/dp/B0F5MMNP3L",
+        "price": 128.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para OPPO Reno13 5G, Ultrafina Flexible Suave TPU Silicona Púrpura Carcasa con Flores Dibujos, Antigolpes Anti-arañazos Protectora Case para OPPO Reno 13 5G",
+        "url": "https://www.amazon.com.mx/dp/B0F5GDP76X",
+        "price": 159.2,
+        "model": "Reno13"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno 16F 5G Blanco Cósmico 8GB +256GB, Pantalla AMOLED 120Hz, Cámara Selfie Ultra Gran Angular 50MP, Incluye Enco Buds3 de Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0H6123FQG",
+        "price": 13999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno 16F 5G Blanco Cósmico 8GB +128GB, Dual SIM, Pantalla AMOLED 120Hz, Cámara Selfie Ultra Gran Angular 50MP, Incluye Enco Buds3 + Funda Pingu Edición Limitada",
+        "url": "https://www.amazon.com.mx/dp/B0H5ZYPFXK",
+        "price": 11499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para OPPO Reno13 5G, Ultrafina Flexible Suave TPU Silicona Negro Carcasa con Corazón Blanco Simple Dibujos, Antigolpes Anti-arañazos Protectora Case para OPPO Reno 13 5G",
+        "url": "https://www.amazon.com.mx/dp/B0F5B9VPTK",
+        "price": 159.2,
+        "model": "Reno13"
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno14 5G Blanco Ópalo 512GB + 12GB, Pantalla 6.5 AMOLED 1.5K 120Hz, Cámara 50MP + 8MP + 50MP, Flash IA, Livephoto & Editor IA 2.0, Dimensity 8350, Carga Rápida 80W + 1 Accesorio De Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0FNGJ3KRT",
+        "price": 11999.0,
+        "model": "Reno14"
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Protectora Militar Resistente para OPPO Reno 13 5G, Protección contra Caídas Uso Rudo Panel PC con Bisel TPU, Soporte de Anillo, Airbags en Esquinas, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FJNM7342",
+        "price": 238.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno14F 5G Azul Ópalo 256GB + 12GB, Pantalla 6.5 AMOLED Cámara 50MP + 8MP + 32MP, Flash IA, Livephoto & Editor IA 2.0, Snapdragon 6, Carga Rápida 45W + Buds 3 De Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0FZN5T4JQ",
+        "price": 8599.0,
+        "model": "Reno14F"
+      }
+    ]
+  },
+  "walmart|RENO13": {
+    "ts": "2026-08-16T07:47:24.592710+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Case Wallet Leather Stand Protective Phone Cover - Black",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-case-wallet-leather-stand-protective-phone-cover-black/00498359197172",
+        "price": 541.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Screen Protector 0.3mm Ultra Clear Tempered Glass Film",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-screen-protector-0-3mm-ultra-clear-tempered-glass-film/00834333049415",
+        "price": 507.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Screen Protector ENKAY HAT PRINCE 9H Hardness High Aluminum-Silicon Glas",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-screen-protector-enkay-hat-prince-9h-hardness-high-aluminum-silicon-glas/00834333049693",
+        "price": 507.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 F 4G Screen Protector 0.3mm Ultra Clear Tempered Glass Film",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-f-4g-screen-protector-0-3mm-ultra-clear-tempered-glass-film/00834333049422",
+        "price": 507.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Leather Case Wallet Stand Solid Color Anti Drop Phone Cover - Green",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-leather-case-wallet-stand-solid-color-anti-drop-phone-cover-green/00311405929063",
+        "price": 519.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Wallet Case Rhombus Imprinted Leather Phone Cover - Black",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-rhombus-imprinted-leather-phone-cover-black/00571373495022",
+        "price": 525.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Wallet Case with Shoulder Strap Leather Phone Cover - Black",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-with-shoulder-strap-leather-phone-cover-black/00416355399751",
+        "price": 700.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 F 5G Reno13 F 4G Case Mirror Wallet Leather Phone Cover with Chain Shoulder Strap -",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-f-5g-reno13-f-4g-case-mirror-wallet-leather-phone-cover-with-chain-shoulder-strap-/00416355399957",
+        "price": 700.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Stand Case Dazzling Flower Leather Phone Cover - Grey",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-stand-case-dazzling-flower-leather-phone-cover-grey/00498359197299",
+        "price": 541.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Case Imprinted Lines Leather Phone Cover with Stand - Green",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-case-imprinted-lines-leather-phone-cover-with-stand-green/00311405928864",
+        "price": 519.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Cases Wallet Stand Retro Texture Leather Phone Cover with Lanyard - Grey",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-cases-wallet-stand-retro-texture-leather-phone-cover-with-lanyard-grey/00311405929563",
+        "price": 519.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 F 5G Retro PU Leather Back Cover with RFID Blocking Card Holder - Green",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-f-5g-retro-pu-leather-back-cover-with-rfid-blocking-card-holder-green/00571373497825",
+        "price": 503.0,
+        "model": "Reno13"
+      }
+    ]
+  },
+  "sams|RENO13": {
+    "ts": "2026-08-16T07:47:25.913144+00:00",
+    "items": []
   }
 }
