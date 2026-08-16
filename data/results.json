@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16 17:12 UTC",
-  "products_scanned": 1604,
+  "generated_at": "2026-08-16 17:35 UTC",
+  "products_scanned": 1605,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs walmart $4,269 -> -50% bajo la competencia",
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
       "savings": 1745.0,
       "store": "palacio",
@@ -187,27 +187,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1142099678",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$9,524 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3175.0,
-      "store": "liverpool",
-      "name": "Smartwatch Garmin Forerunner 965 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681",
-      "price": 9524.0,
-      "list_price": 12699.0,
-      "ean": null,
-      "model": null,
-      "brand": "GARMIN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1134529681",
         "marketplace": null
       }
     },
