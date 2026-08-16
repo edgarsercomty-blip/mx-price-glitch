@@ -4716,276 +4716,37 @@
     "ts": "2026-08-16T20:40:27.410667+00:00",
     "items": []
   },
-  "amazon|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-08-14T20:59:41.213377+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
-        "price": 871.54,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Negro | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
-        "url": "https://www.amazon.com.mx/dp/B0DSGLPKCC",
-        "price": 2829.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Band 10 Smartwatch, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 1.72\", Hasta 21 días de Batería, 150+ Modos Deportivos, Gestión de Sueño Optimizado y Heart Rate",
-        "url": "https://www.amazon.com.mx/dp/B0DYF82545",
-        "price": 932.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Band 9 Active, 5ATM, Rosa | Rosa, Pantalla TFT de 1.74\", Cuerpo ultrafino, Monitoreo de Frecuencia cardíaca, 50+ Modos Deportivos, 5 ATM",
-        "url": "https://www.amazon.com.mx/dp/B0DK6ZZFL9",
-        "price": 625.83,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
-        "price": 815.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
-        "price": 625.52,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
-        "price": 871.54,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Azul | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLMGTTS",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Plata | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFHFM1X9",
-        "price": 646.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Negro | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
-        "url": "https://www.amazon.com.mx/dp/B08N64F336",
-        "price": 3099.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-08-14T20:59:53.444379+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
-        "price": 1199.0,
-        "model": "watch3"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
-        "price": 998.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
-        "price": 1031.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
-        "price": 1579.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Xiaomi Redmi Watch 3 Active Gris",
-        "url": "https://www.walmart.com.mx/ip/reloj-xiaomi-redmi-watch-3-active-gris/00694181272645",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154",
-        "price": 793.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00063790280930",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
-        "price": 959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI Watch S4 Smartwatch Rainbow – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-rainbow-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181271166?athbdg=L1300",
-        "price": 4478.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIREDMIWATCH": {
-    "ts": "2026-08-14T21:00:04.766496+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A7 64 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a7-64-gb-negro-bait/981050961",
-        "price": 3067.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
-        "price": 3485.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A5 64 GB Azul Océano AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-64-gb-azul-oceano-at-t/981039226",
-        "price": 2044.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
-        "price": 6955.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
-        "price": 5088.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 14 Pro 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-bait/981036400",
-        "price": 5523.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 5G 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-5g-256-gb-negro-telcel/981033049",
-        "price": 8339.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
-        "price": 1772.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  Redmi Note 15T 512 GB Bait + Audífonos Buds 8 Lite",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15t-512-gb-bait-audifonos-buds-8-lite/981050290",
-        "price": 12321.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  15T Pro 512 GB Moca Bait + Tablet Redmi Pad 2",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-15t-pro-512-gb-moca-bait-tablet-redmi-pad-2/981050291",
-        "price": 19435.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Negro AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-at-t/981032917",
-        "price": 8182.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-azul-telcel/981033046",
-        "price": 6463.31,
-        "model": null
-      }
-    ]
-  },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-14T21:00:45.839426+00:00",
+    "ts": "2026-08-16T21:13:31.555649+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Banda magnética de titanio para Samsung Galaxy Watch Ultra 7 47 mm Correa de lujo para hombres para samsung GALAXY WATCH 47 ultra No Gaps Pulsera Correas de reloj",
+        "url": "https://www.amazon.com.mx/dp/B0FFMGN2HW",
+        "price": 2168.87,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correa de goma para Samsung Galaxy Watch 7 Ultra 47mm, pulsera de silicona para Galaxy Watch Ultra 47mm, pulsera deportiva",
+        "url": "https://www.amazon.com.mx/dp/B0F9P6BNCD",
+        "price": 1503.81,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XMKT Para Samsung Galaxy Watch Ultra 47 mm Caja de reloj de metal",
+        "url": "https://www.amazon.com.mx/dp/B0F31VD4YW",
+        "price": 710.61,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda protectora de Metal para Samsung Galaxy Watch Ultra, cubierta de aleación de aluminio de 47mm para SAMSUNG ULTRA 7, accesorios protectores de pantalla",
+        "url": "https://www.amazon.com.mx/dp/B0DZ5GCFFP",
+        "price": 564.26,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "Samsung Galaxy Watch Ultra 47mm Titanio Gris",
@@ -5002,6 +4763,13 @@
       },
       {
         "store": "amazon",
+        "name": "Samsung Galaxy Watch Ultra Bespoke Edition 47mm LTE AI Smartwatch Energy Score, Wellness Tips, Heart Rate, Sleep Monitor, Fitness Tracker, 2024, Titanium Silver (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0DTSH17YK",
+        "price": 6507.67,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Spigen Thin Fit 360 Funda para Galaxy Watch Ultra 2 (2026) de PC con Protector de Pantalla de Vidrio Templado Sensible al Tacto, Delgada, Ligera, Protectora y Resistente a Rayones - Negro",
         "url": "https://www.amazon.com.mx/dp/B0GXCMVTJP",
         "price": 599.99,
@@ -5009,16 +4777,16 @@
       },
       {
         "store": "amazon",
-        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
-        "price": 12052.76,
+        "name": "Samsung Galaxy Watch Ultra 47mm Blanco, AI, Nacional con Garantía",
+        "url": "https://www.amazon.com.mx/dp/B0D7K7C1S7",
+        "price": 6999.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Spigen Rugged Armor Funda para Galaxy Watch Ultra 2 (2026) de TPU Duradera Protectora Flexible Resistente a Rayones y Golpes - Negro Mate",
-        "url": "https://www.amazon.com.mx/dp/B0GXCC5F7C",
-        "price": 499.99,
+        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
+        "price": 12054.2,
         "model": null
       },
       {
@@ -5030,50 +4798,15 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Watch Ultra 47mm Blanco, AI, Nacional con Garantía",
-        "url": "https://www.amazon.com.mx/dp/B0D7K7C1S7",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy Watch Ultra (2025) Titanio Azul, LTE, 47 mm, Smartwatch, Carcasa de titanio duradera, Diseño acolchado, Botón rápido, Monitoreo de salud impulsado por IA (Versión internacional)",
-        "url": "https://www.amazon.com.mx/dp/B0FHBWDFDP",
-        "price": 8209.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Spigen Liquid Air Funda para Galaxy Watch Ultra 2 (2026) de TPU Ligera Flexible Delgada Resistente a Rayones y Golpes - Negro Mate",
-        "url": "https://www.amazon.com.mx/dp/B0GXC8CBLB",
+        "name": "Spigen Rugged Armor Funda para Galaxy Watch Ultra 2 (2026) de TPU Duradera Protectora Flexible Resistente a Rayones y Golpes - Negro Mate",
+        "url": "https://www.amazon.com.mx/dp/B0GXCC5F7C",
         "price": 499.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Suoman 4-Pack para Samsung Galaxy Watch Ultra 2 47mm Protector Pantalla | 2.5D 9H Vidrio Templado Reloj Inteligente Programa de Protección",
-        "url": "https://www.amazon.com.mx/dp/B0H7WMS69L",
-        "price": 209.99,
-        "model": "4-Pack"
-      },
-      {
-        "store": "amazon",
-        "name": "Extensible Correa Compatible con Samsung Galaxy Watch Ultra 47mm,Pulsera Banda de Silicona Oceánica para Galaxy Watch Ultra 47mm",
-        "url": "https://www.amazon.com.mx/dp/B0FHBLL849",
-        "price": 199.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Suitisbest - Carcasa de metal para Samsung Galaxy Watch Ultra 47mm, de acero inoxidable, protector resistente, parachoques delgado con cubierta trasera tipo cerámica para Galaxy Watch Ultra 47mm para",
-        "url": "https://www.amazon.com.mx/dp/B0DXPB749H",
-        "price": 510.82,
         "model": null
       }
     ]
   },
   "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-14T21:01:05.899119+00:00",
+    "ts": "2026-08-16T21:13:34.740427+00:00",
     "items": [
       {
         "store": "walmart",
@@ -5105,23 +4838,9 @@
       },
       {
         "store": "walmart",
-        "name": "Reloj inteligente Samsung Galaxy Watch Ultra (2025) LTE de 47 mm reacondicionado, carcasa de titanio",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-samsung-galaxy-watch-ultra-2025-lte-de-47-mm-reacondicionado-carcasa-de-titanio/00072843401590?athbdg=L1300",
-        "price": 8759.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Reloj Samsung Galaxy Watch Ultra 7ma Gen 47mm. Plata",
         "url": "https://www.walmart.com.mx/ip/reloj-samsung-galaxy-watch-ultra-7ma-gen-47mm-plata/00076404677992?athbdg=L6000",
         "price": 7259.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-gris/00880609760415",
-        "price": 7199.0,
         "model": null
       },
       {
@@ -5133,6 +4852,13 @@
       },
       {
         "store": "walmart",
+        "name": "Reloj inteligente Samsung Galaxy Watch Ultra (2025) LTE de 47 mm reacondicionado, carcasa de titanio",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-samsung-galaxy-watch-ultra-2025-lte-de-47-mm-reacondicionado-carcasa-de-titanio/00072843401590?athbdg=L1300",
+        "price": 8759.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "SAMSUNG Galaxy Watch Ultra 47 mm GPS Cellular 2024 REACONDICIONADO",
         "url": "https://www.walmart.com.mx/ip/samsung-galaxy-watch-ultra-47-mm-gps-cellular-2024-reacondicionado/00383196411215?athbdg=L1300",
         "price": 9009.0,
@@ -5140,9 +4866,16 @@
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch 8 Classic Blanco",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-blanco/00880609748599",
-        "price": 6499.0,
+        "name": "Correa de repuesto para reloj inteligente SAMSUNG Galaxy Watch Ultra",
+        "url": "https://www.walmart.com.mx/ip/correa-de-repuesto-para-reloj-inteligente-samsung-galaxy-watch-ultra/00008872768613?athbdg=L1300",
+        "price": 1729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa de repuesto para reloj inteligente SAMSUNG Galaxy Watch Ultra",
+        "url": "https://www.walmart.com.mx/ip/correa-de-repuesto-para-reloj-inteligente-samsung-galaxy-watch-ultra/00088727686162?athbdg=L1300",
+        "price": 2499.0,
         "model": null
       },
       {
@@ -5154,101 +4887,16 @@
       },
       {
         "store": "walmart",
-        "name": "Pulsera BOVIPO de titanio para Samsung Galaxy Watch 7 Ultra",
-        "url": "https://www.walmart.com.mx/ip/pulsera-bovipo-de-titanio-para-samsung-galaxy-watch-7-ultra/00071729892188?athbdg=L1300",
-        "price": 909.0,
+        "name": "Correa de repuesto para reloj inteligente SAMSUNG Galaxy Watch Ultra",
+        "url": "https://www.walmart.com.mx/ip/correa-de-repuesto-para-reloj-inteligente-samsung-galaxy-watch-ultra/00088727686140?athbdg=L1300",
+        "price": 1969.0,
         "model": null
       }
     ]
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-14T21:01:12.847718+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Samsung Galaxy Watch8 Classic Negro 46 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-negro-46-mm/981039183",
-        "price": 5973.3,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Samsung Galaxy Watch8 Classic Blanco 46 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-blanco-46-mm/981039184",
-        "price": 5973.3,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Silver Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-silver-desbloqueado/981037722",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Jet Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-jet-black-desbloqueado/981037721",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Icy Blue Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-icy-blue-desbloqueado/981037720",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Samsung Galaxy M55 256 GB 5G Negro Desbloqueado + Smartwatch Actor + Adaptador ",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-256-gb-5g-negro-desbloqueado-smartwatch-actor-adaptador/981036409",
-        "price": 10945.06,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Samsung Galaxy M55 5G 256 GB Verde + Smartwatch Actor Negro + Adaptador",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-5g-256-gb-verde-smartwatch-actor-negro-adaptador/981036410",
-        "price": 11242.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tablet Samsung Galaxy Tab S11 Ultra 256 GB Silver",
-        "url": "https://www.sams.com.mx/ip/tablet-samsung-galaxy-tab-s11-ultra-256-gb-silver/981042164",
-        "price": 18822.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Ultra 512 GB Blanco Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-512-gb-blanco-bait/981055415",
-        "price": 36826.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Ultra 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-512-gb-azul-desbloqueado/981040320",
-        "price": 20866.13,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S26 Ultra 512 GB Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-512-gb-black-desbloqueado/981050320",
-        "price": 29663.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Ultra 1 TB Gris Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1-tb-gris-desbloqueado/981040316",
-        "price": 27619.97,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-16T21:13:36.098630+00:00",
+    "items": []
   },
   "amazon|RMA250PVMRP1": {
     "ts": "2026-08-14T21:26:17.087612+00:00",
