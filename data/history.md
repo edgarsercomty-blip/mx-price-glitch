@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (798)
+# Historial de ofertas encontradas (799)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-16 22:54 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,444 | $2,444 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-16 15:33 | -21% | amazon | [Skechers Skechers Hands Free Slip-ins Squad Chaos - Str…](https://www.amazon.com.mx/dp/B0CXJNJTNY) | $964 | $964 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-16 15:33 | -22% | amazon | [On Cloud X 4 - Tenis para Mujer \| Zapatos de entrenamie…](https://www.amazon.com.mx/dp/B0DM2KZCCL) | $2,525 | $2,525 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-16 15:33 | -26% | palacio | [Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg…](https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html) | $40,480 | $40,480 en palacio vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 10:25 | -29% | palacio | [Máquina de Café Espresso Crema](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-crema-44964885.html) | $6,650 | $6,650 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Krups Expresseria Intuition](https://www.elpalaciodehierro.com/krups-krups-expresseria-intuition-43484884.html) | $17,999 | $17,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-17 08:37 | -20% | palacio | [Máquina de café Espressería Automática Sensation Milk](https://www.elpalaciodehierro.com/krups-maquina-de-cafe-espresseria-automatica-sensation-milk-44911677.html) | $10,199 | $10,199 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-17 08:37 | -20% | palacio | [ESPRESSERIA KRUPS FULL AUTO SENSATION](https://www.elpalaciodehierro.com/krups-espresseria-krups-full-auto-sensation-44170253.html) | $9,599 | $9,599 en palacio vs mercado -> -20% bajo la competencia |
