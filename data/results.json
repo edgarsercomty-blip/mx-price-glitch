@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 15:53 UTC",
-  "products_scanned": 1545,
+  "generated_at": "2026-08-16 16:13 UTC",
+  "products_scanned": 1549,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -111,6 +111,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$19,795 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7918.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$4,699 en walmart vs palacio $6,479, walmart $6,899 -> -28% bajo la competencia",
       "likely_typo": false,
@@ -188,6 +209,27 @@
       "extra": {
         "productId": "1134529681",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
+        "outlet": false
       }
     },
     {
