@@ -4395,387 +4395,9 @@
     "ts": "2026-08-16T16:43:40.667742+00:00",
     "items": []
   },
-  "amazon|EHV13": {
-    "ts": "2026-08-14T17:45:32.535108+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Headpho de Conducción de Huesos con 5.3, Pantalla LED, Auriculares Sport IPX5, Música Liviana para E Active E",
-        "url": "https://www.amazon.com.mx/dp/B0DWBYN7R2",
-        "price": 469.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SoundPEATS C30 Audífonos Inalámbricos In-Ear ANC -52dB | Graves Potentes Hasta 52 Horas de Reproducción Drivers Dinámicos Duales de 12mm 6 Micrófonos con IA Hi-Res LDAC Carga Rápida",
-        "url": "https://www.amazon.com.mx/dp/B0FW3XQ7WB",
-        "price": 678.13,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "GOWENIC Auriculares Inalámbricos con Pantalla Táctil HD, Auriculares Inalámbricos Estéreo HiFi de Graves Profundos, Auriculares Deportivos con Estuche de Carga, Auriculares Intrauditivos",
-        "url": "https://www.amazon.com.mx/dp/B0DNN5JC2R",
-        "price": 1317.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beyamis LP40 TWS Auriculares Bluetooth 5.0 True Wireless Control táctil Auriculares Deportivos Resistentes al Sudor Auriculares intrauditivos con micrófono Funda de Carga de 230mAh",
-        "url": "https://www.amazon.com.mx/dp/B0BNKWRK67",
-        "price": 239.0,
-        "model": "230mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Sendowtek Auriculares de Conducción de Aire Inalámbricos Audífonos Inalámbricos Bluetooth 5.2 Auriculares Inalámbricos Impermeables IPX5 Open-Ear Headphones para Carrera, Deportes y Ejercicio (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0C9363PQ2",
-        "price": 239.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "UGREEN ClipBuds Audífonos Inalámbricos Bluetooth 6.0 con 4 Micrófonos 30H | Audífonos Open Ear 12 mm Diafragma, Control por App, IPX5 para Deportes al Aire Libre y Fitness, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0F94D64P3",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "UGREEN HiTune S3 Air Audífonos Inalámbricos In Ear 35 H con 2 AI Micrófonos | Audífonos Open Ear Bluetooth 6.0 12 mm Diafragma, Control por App, IPX5 para Deportes al Aire Libre y Fitness, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0GL72TTHL",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI FreeBuds SE 2 Auriculares 40 Horas de Batería, Protección IP54 contra el Polvo y Las Salpicaduras, Bluetooth 5.3, iOS y Android, Audifonos Inalambricos",
-        "url": "https://www.amazon.com.mx/dp/B0DPQGH1XD",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "DEWALT Auriculares inalámbricos Bluetooth con Banda para el Cuello - Auriculares con Banda para el Cuello con 15 Horas de autonomía - Auriculares inalámbricos con Aislamiento del Ruido",
-        "url": "https://www.amazon.com.mx/dp/B09ZK2QWD1",
-        "price": 826.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SoundPEATS Q40HD Audífonos Deportivos Hi-Res LDAC Drivers Duales 11mm IP67 | Diseño Magnético AI ENC Llamadas Claras Bluetooth 6.0 Audio Espacial 360° Baja Latencia App 20Horas de Batería Carga Rápida",
-        "url": "https://www.amazon.com.mx/dp/B0FBVR6PVL",
-        "price": 749.21,
-        "model": "20Horas"
-      },
-      {
-        "store": "amazon",
-        "name": "SoundPEATS Q3 Pro Audífonos Inalámbricos In-Ear ANC -38dB Graves Potentes | Hasta 42 Horas de Reproducción Driver Dinámico de 13mm 4 Micrófonos IA Carga Rápida IP55 App para iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GSVK57Z8",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI FreeBuds Pro 5 Audífonos inalámbricos, Arena | Cancelación de Ruido IA de Doble Motor para Negocios y Oficina, Ajuste Seguro Sonido Inmersivo, Llamadas Estables",
-        "url": "https://www.amazon.com.mx/dp/B0GL1QZMRW",
-        "price": 2799.3,
-        "model": null
-      }
-    ]
-  },
-  "walmart|EHV13": {
-    "ts": "2026-08-14T17:45:45.152017+00:00",
-    "items": []
-  },
-  "sams|EHV13": {
-    "ts": "2026-08-14T17:45:52.345022+00:00",
-    "items": []
-  },
-  "amazon|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-14T17:45:55.873386+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Ninja Licuadora Profesional 1000W, 2.1L, 4 Velocidades + Pulso | 1000W con Jarra 2.1L | Total Crushing Tritura Hielo en Nieve | 4 vel + pulso | Apto lavavajillas",
-        "url": "https://www.amazon.com.mx/dp/B07ZZM1TQP",
-        "price": 1639.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Licuadora Profesional Plus DUO 1400W, Jarra 2.1L + 2 Vasos | Pro Extractor Blades para Extracciones | Jarra 2.1L + 2 vasos | 3 Auto-IQ | Apto lavavajillas",
-        "url": "https://www.amazon.com.mx/dp/B0BMGSZMW9",
-        "price": 2406.62,
-        "model": "1400W"
-      },
-      {
-        "store": "amazon",
-        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
-        "price": 2899.0,
-        "model": "2000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Negra 2L + 2 Vasos Personales 500ml cu",
-        "url": "https://www.amazon.com.mx/dp/B09SGCDR3D",
-        "price": 2229.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Black Mate",
-        "url": "https://www.amazon.com.mx/dp/B09R4MZB94",
-        "price": 2327.03,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Kitchen Aid Diamond Jar Original modelo KSB560. Capacidad: 56 onzas Número de parte WPW10555711 Reemplaza los números de parte 9708904, W10390812 y W10555711",
-        "url": "https://www.amazon.com.mx/dp/B074X6DHGR",
-        "price": 1367.49,
-        "model": "WPW10555711"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Pure Power Roja 2L + 2 Vasos Personales 500ml",
-        "url": "https://www.amazon.com.mx/dp/B09SGCLTT5",
-        "price": 2329.0,
-        "model": "500ml"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de cristal para batidora K400 (1,4 L)",
-        "url": "https://www.amazon.com.mx/dp/B085ZFG431",
-        "price": 3160.59,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "VASO PARA LICUADORA KITCHENAID ORIGINAL",
-        "url": "https://www.amazon.com.mx/dp/B07CSBVCVM",
-        "price": 1419.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power Dúo con 2 vasos, Tritán y Vidrio Porcelain",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQ1ZQ",
-        "price": 3106.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KitchenAid Licuadora Pure Power 2 Litros, Color Gris Carbón",
-        "url": "https://www.amazon.com.mx/dp/B09R4PQBVF",
-        "price": 2369.4,
-        "model": null
-      }
-    ]
-  },
-  "walmart|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-14T17:46:04.800717+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3049.0,
-        "model": "10-En-1"
-      },
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Black Matte",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-black-matte/00088304992571?athbdg=L1300",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Pure Power 2 L + 2 Vasos Personales Black Matte  7KSB2078MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-pure-power-2-l-2-vasos-personales-black-matte-7ksb2078mbm/00088304993174?athbdg=L1300",
-        "price": 2229.0,
-        "model": "7KSB2078MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora K150 1.4 L con vaso individual Matte Black -7KSB1330MBM",
-        "url": "https://www.walmart.com.mx/ip/licuadora-k150-1-4-l-con-vaso-individual-matte-black-7ksb1330mbm/00088304953234?athbdg=L1300",
-        "price": 2789.0,
-        "model": "7KSB1330MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Set KitchenAid Matte Black: Licuadora K400 + Tostadora + Cafetera",
-        "url": "https://www.walmart.com.mx/ip/set-kitchenaid-matte-black-licuadora-k400-tostadora-cafetera/00750154559467?athbdg=L1300",
-        "price": 4999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora 1.7 Litros KitchenAid 7KSB4027MBM Negro Mate",
-        "url": "https://www.walmart.com.mx/ip/licuadora-1-7-litros-kitchenaid-7ksb4027mbm-negro-mate/00088304953389?athbdg=L1300",
-        "price": 5269.0,
-        "model": "7KSB4027MBM"
-      },
-      {
-        "store": "walmart",
-        "name": "Set Licuadora Pure Power KitchenAid Duo Jar 2 L y 1.8 L Porcelain White",
-        "url": "https://www.walmart.com.mx/ip/set-licuadora-pure-power-kitchenaid-duo-jar-2-l-y-1-8-l-porcelain-white/00088304992572?athbdg=L1300",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid KSB2078 1700W con 2 vasos personales",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-ksb2078-1700w-con-2-vasos-personales/00088304993141?athbdg=L1300",
-        "price": 5409.0,
-        "model": "KSB2078"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora KitchenAid Pure Power KSB2078 1700 W con 2 vasos",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-pure-power-ksb2078-1700-w-con-2-vasos/00088304993150?athbdg=L1300",
-        "price": 6119.0,
-        "model": "KSB2078"
-      }
-    ]
-  },
-  "sams|KITCHENAIDLICUADORANEGRACOMBOVASOS": {
-    "ts": "2026-08-14T17:46:29.861904+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
-        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-        "price": 1941.65,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
-        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Hamilton Beach  Sound Shield con Vaso de Vidrio 1.53 L",
-        "url": "https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739",
-        "price": 858.3,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 1533.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Backpack Cool Capital  Portalaptop Negro + Funda para Laptop",
-        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-negro-funda-para-laptop/981053139",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Audífonos Inalámbricos STF  1 On Ear y 1 TWS Negro",
-        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-1-on-ear-y-1-tws-negro/981045217",
-        "price": 611.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Realme  C75 256 GB Bait Negro + Bocina",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-realme-c75-256-gb-bait-negro-bocina/981036399",
-        "price": 7159.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Teclado Inalámbrico Logitech  + Mouse Inalámbrico MK 540 Advanced Negro ",
-        "url": "https://www.sams.com.mx/ip/combo-teclado-inalambrico-logitech-mouse-inalambrico-mk-540-advanced-negro/981045923",
-        "price": 1369.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Audífonos Inalámbricos STF Kit All in One Negro + Smartwatch + Crossbody",
-        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-kit-all-in-one-negro-smartwatch-crossbody/981042673",
-        "price": 673.13,
-        "model": null
-      }
-    ]
-  },
   "amazon|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-14T17:46:37.555282+00:00",
+    "ts": "2026-08-16T17:51:15.718728+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Licuadora clásica Oster reversible cromada vaso de vidrio BLSTBESTE013",
-        "url": "https://www.amazon.com.mx/dp/B08V5RN8D9",
-        "price": 1525.0,
-        "model": "BLSTBESTE013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
-        "price": 598.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora 800 W con Vaso de Vidrio de 1.5 L y 2 Velocidades + Pulso | Para recetas frías y calientes, jugos y salsas, cuchilla trituradora de hielo, acople metálico, botones, negro, BLSTKAG-BPB",
-        "url": "https://www.amazon.com.mx/dp/B08DPX1PPZ",
-        "price": 675.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
@@ -4794,7 +4416,7 @@
         "store": "amazon",
         "name": "Oster Licuadora Galaxy 10 Vel Vaso plástico Almendra 869-16",
         "url": "https://www.amazon.com.mx/dp/B009B7OBIU",
-        "price": 777.53,
+        "price": 775.0,
         "model": null
       },
       {
@@ -4813,10 +4435,17 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
+        "name": "Vaso Vidrio Cube Completo Compatible Con Oster Osterizer",
+        "url": "https://www.amazon.com.mx/dp/B0DSLVPT5L",
+        "price": 375.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
+        "price": 2669.0,
+        "model": "1500W"
       },
       {
         "store": "amazon",
@@ -4827,15 +4456,36 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 825.0,
+        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
+        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
+        "price": 1290.0,
+        "model": "BLST4126013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
+        "price": 598.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Licuadora Oster Osterizer Original Vidrio Completo",
+        "url": "https://www.amazon.com.mx/dp/B09Z4KMJCD",
+        "price": 497.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1425.0,
+        "model": "BLST4127"
       }
     ]
   },
   "walmart|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-14T17:47:43.315013+00:00",
+    "ts": "2026-08-16T17:51:22.028366+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4853,6 +4503,20 @@
       },
       {
         "store": "walmart",
+        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1510",
+        "price": 2104.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
         "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
         "price": 4375.9,
@@ -4860,37 +4524,16 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3049.0,
-        "model": "10-En-1"
-      },
-      {
-        "store": "walmart",
         "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2190.0,
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500",
+        "price": 3242.9,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
-        "price": 719.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
-        "price": 669.0,
-        "model": "EW-H801"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad Silver",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
-        "price": 1190.0,
+        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
+        "price": 1999.0,
         "model": null
       },
       {
@@ -4902,87 +4545,37 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
-        "price": 2599.0,
+        "name": "Licuadora Oster Tecnología reversible 2 programas automáticos 3 velocidades más pulso",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-tecnologia-reversible-2-programas-automaticos-3-velocidades-mas-pulso/00005389116851?athbdg=L1300",
+        "price": 1390.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-licuadora-de-10-velocidades-cuchillas-acero-869-16g/00003426400153?athbdg=L1300",
-        "price": 779.0,
-        "model": "869-16G"
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
+        "price": 1458.0,
+        "model": null
       },
       {
         "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
-        "price": 1999.0,
-        "model": "7KHBV83MPA"
+        "name": "Licuadora Oster Vaso de Vidrio y 6 Velocidades más Pulso Roja",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-vaso-de-vidrio-y-6-velocidades-mas-pulso-roja/00005389116845?athbdg=L1300",
+        "price": 949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
+        "price": 598.0,
+        "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-14T17:47:47.692156+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Max Power Cherry",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
-        "price": 817.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 1533.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1277.73,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 1707.39,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-16T17:51:22.966332+00:00",
+    "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCHREDMI": {
     "ts": "2026-08-14T20:22:54.803355+00:00",
