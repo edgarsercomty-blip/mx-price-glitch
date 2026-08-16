@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 06:23 UTC",
-  "products_scanned": 1565,
+  "generated_at": "2026-08-16 07:12 UTC",
+  "products_scanned": 1569,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$19,795 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7918.0,
+      "store": "palacio",
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44302743",
         "outlet": false
       }
     },
@@ -334,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45481963",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs amazon $11,380 -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02WHUS Blanco",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02WHUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011027",
         "outlet": false
       }
     },
