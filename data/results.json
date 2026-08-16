@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 23:34 UTC",
-  "products_scanned": 1579,
+  "generated_at": "2026-08-16 23:51 UTC",
+  "products_scanned": 1560,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -208,48 +208,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1134529681",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,774 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 924.75,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934",
-      "price": 2774.25,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185267934",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,444 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 814.75,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802",
-      "price": 2444.25,
-      "list_price": 3259.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185265802",
         "marketplace": null
       }
     },
