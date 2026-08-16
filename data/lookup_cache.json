@@ -32161,5 +32161,187 @@
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
     "ts": "2026-08-16T16:13:58.522454+00:00",
     "items": []
+  },
+  "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
+    "ts": "2026-08-16T17:12:08.499535+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
+        "price": 1895.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 2717.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 1875.18,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Standalone by Breville, Lila",
+        "url": "https://www.amazon.com.mx/dp/B0FSNT1FX1",
+        "price": 1899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por Breville, blanco coco",
+        "url": "https://www.amazon.com.mx/dp/B0CS71J3GP",
+        "price": 2246.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Cafetera y espresso de edición limitada de De'Longhi, amarillo pastel",
+        "url": "https://www.amazon.com.mx/dp/B0DZH3VRT7",
+        "price": 2042.06,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow Aeroccino3 espumador de leche",
+        "url": "https://www.amazon.com.mx/dp/B0FJZ2G6QJ",
+        "price": 3131.97,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5033.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
+        "price": 2495.57,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
+    "ts": "2026-08-16T17:12:12.421371+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Café Nescafé Dolce Gusto KitKat 10 cápsulas",
+        "url": "https://www.walmart.com.mx/ip/cafe-nescafe-dolce-gusto-kitkat-10-capsulas/00789100040526",
+        "price": 109.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de De'Longhi, negro mate con cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-de-longhi-negro-mate-con-cromo-oscuro/00004438720921?athbdg=L1300",
+        "price": 3219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera de espresso y café con espumador de leche",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140?athbdg=L1300",
+        "price": 4129.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas de chocolate Nescafé Dolce Gusto chococino 16 pzas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-de-chocolate-nescafe-dolce-gusto-chococino-16-pzas/00761303569750",
+        "price": 171.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Pack Lila",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-pack-lila/00002161481500?athbdg=L1300",
+        "price": 4269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas Starbucks Nespresso Smooth Caramel 10 cápsulas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-starbucks-nespresso-smooth-caramel-10-capsulas/00844529015412",
+        "price": 170.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de Breville con espumador de leche, rojo picante",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-breville-con-espumador-de-leche-rojo-picante/00002161480803?athbdg=L1300",
+        "price": 3849.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
+        "price": 3009.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas de café y leche Starbucks by Nescafé Dolce Gusto caramel macchiato 12 pzas",
+        "url": "https://www.walmart.com.mx/ip/capsulas-de-cafe-y-leche-starbucks-by-nescafe-dolce-gusto-caramel-macchiato-12-pzas/00761303694270",
+        "price": 116.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, Amarillo Mango",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-de-de-longhi-con-aeroccino-amarillo-mango/00004438700923?athbdg=L1300",
+        "price": 3809.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cápsulas para preparar bebida Starbucks mocha sabor chocolate blanco 123 g",
+        "url": "https://www.walmart.com.mx/ip/capsulas-para-preparar-bebida-starbucks-mocha-sabor-chocolate-blanco-123-g/00844529072588",
+        "price": 129.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
+    "ts": "2026-08-16T17:12:13.503522+00:00",
+    "items": []
   }
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16 16:43 UTC",
-  "products_scanned": 1594,
+  "generated_at": "2026-08-16 17:12 UTC",
+  "products_scanned": 1604,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "detail": "$1,745 en palacio vs walmart $4,269 -> -50% bajo la competencia",
       "likely_typo": false,
       "savings": 1745.0,
       "store": "palacio",
@@ -23,6 +23,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 77.8,
+      "detail": "$299 en liverpool vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 225.0,
+      "store": "liverpool",
+      "name": "Tenis Gold Care Gold Care Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107",
+      "price": 299.0,
+      "list_price": 1349.0,
+      "ean": null,
+      "model": null,
+      "brand": "GOLD CARE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1114902107",
+        "marketplace": null
       }
     },
     {
