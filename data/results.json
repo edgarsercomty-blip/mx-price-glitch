@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16 13:04 UTC",
-  "products_scanned": 1595,
+  "generated_at": "2026-08-16 13:46 UTC",
+  "products_scanned": 1583,
   "threshold_pct": 20.0,
   "count": 27,
   "findings": [
@@ -255,27 +255,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.5,
-      "detail": "$5,960 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1899.35,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Frio Y Calor 12000 Btu S12P Ehv23 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873",
-      "price": 5960.05,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "Ehv23",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153833873",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -439,6 +418,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45650689",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 22.0,
+      "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4949.78,
+      "store": "palacio",
+      "name": "Laptop IdeaPad Slim 3, 15.6\", AMD Radeon, AMD Ryzen 7, RAM 16 GB, SSD 1 TB, Abyss Blue",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html",
+      "price": 17549.22,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44472014",
         "outlet": false
       }
     },
