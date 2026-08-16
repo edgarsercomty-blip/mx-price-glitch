@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 02:16 UTC",
-  "products_scanned": 1571,
+  "generated_at": "2026-08-16 02:36 UTC",
+  "products_scanned": 2609,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,68 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$11,242 en liverpool vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9258.42,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643",
+      "price": 11241.58,
+      "list_price": 22942.0,
+      "ean": null,
+      "model": "F6800H",
+      "brand": "FRIKKO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "57683643",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 18.7,
+      "detail": "$619 en walmart vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 460.0,
+      "store": "walmart",
+      "name": "Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A",
+      "url": "https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300",
+      "price": 619.0,
+      "list_price": 761.0,
+      "ean": null,
+      "model": "MR8U2AM/A",
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019019865940"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$6,299 en liverpool vs walmart $10,568 -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4269.33,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Frikko F3800H 100 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f3800h-100-v/57683546",
+      "price": 6298.67,
+      "list_price": 12854.42,
+      "ean": null,
+      "model": "F3800H",
+      "brand": "FRIKKO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "57683546",
+        "marketplace": null
       }
     },
     {
@@ -69,6 +131,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,699 en mercadolibre vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1941.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Semiautomática White-Westinghouse de 13 kg y Doble Tina con Centrifugado",
+      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221",
+      "price": 4699.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM47040221"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -86,6 +168,46 @@
       "extra": {
         "id": "45241138",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.4,
+      "detail": "$2,049 en walmart vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 800.0,
+      "store": "walmart",
+      "name": "Refrigerador Portátil Sunnimix 12V con Congelador",
+      "url": "https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300",
+      "price": 2049.0,
+      "list_price": 2057.18,
+      "ean": null,
+      "model": null,
+      "brand": "Sm Sunnimix",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00075535817203"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$389 en amazon vs amazon $540, amazon $542, amazon $613 -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 151.94,
+      "store": "amazon",
+      "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
+      "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
+      "price": 388.52,
+      "list_price": 129.5,
+      "ean": null,
+      "model": "CO905KS",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0GSXY99RP"
       }
     },
     {
@@ -125,6 +247,26 @@
       "extra": {
         "id": "45421529",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$19,999 en amazon vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6956.0,
+      "store": "amazon",
+      "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+      "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+      "price": 19999.0,
+      "list_price": 2029.89,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H2X99YX1"
       }
     },
     {
@@ -318,6 +460,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 43.1,
+      "detail": "$265 en walmart vs amazon $2,419, amazon $2,462 -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 79.0,
+      "store": "walmart",
+      "name": "Fragancia Nautica 200ml.",
+      "url": "https://www.walmart.com.mx/ip/fragancia-nautica-200ml-/00361422883403?athbdg=L1300",
+      "price": 265.0,
+      "list_price": 466.0,
+      "ean": null,
+      "model": "200ml",
+      "brand": "Nautica",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00361422883403"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -465,6 +627,66 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 21.9,
+      "detail": "$468 en amazon vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 130.95,
+      "store": "amazon",
+      "name": "Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstalados, HDMI Plug & Play 4K para TV, 2 Controles/Mandos Inalámbricos, Multijugador, Consola de Videojuegos Familiar, Juegos 3D, Regalo Ideal",
+      "url": "https://www.amazon.com.mx/dp/B0FVTZ67ZF",
+      "price": 468.05,
+      "list_price": 599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0FVTZ67ZF"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$3,899 en mercadolibre vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1091.0,
+      "store": "mercadolibre",
+      "name": "Hisense Lavadora Semiautomática Doble Tina Wsa1104p | Capacidad De Lavado 11 Kg Centrifugado 5.5 Kg | Motores Independientes | Cubierta Antioxidante De Plástico | 3 Perillas De Control",
+      "url": "https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070",
+      "price": 3899.0,
+      "list_price": null,
+      "ean": null,
+      "model": "Wsa1104p",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM67475070"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1709.0,
+      "store": "walmart",
+      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
+      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
+      "price": 6290.0,
+      "list_price": 9990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694427168676"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -482,6 +704,26 @@
       "extra": {
         "id": "45366544",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.3,
+      "detail": "$459 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 120.0,
+      "store": "amazon",
+      "name": "UGREEN HUB USB C 7 en 1 Adaptador a HDMI 4K a 30Hz, Lector Tarjeta SD TF | USB C Puertos, 2 USB A 3.0, 100W PD, USB C Hub Compatible con Macbook Neo Air M2 M1 iPad iPhone 17 Pro MAX Switch Galaxy",
+      "url": "https://www.amazon.com.mx/dp/B0BLNDNBG1",
+      "price": 459.0,
+      "list_price": 699.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BLNDNBG1"
       }
     },
     {
@@ -524,6 +766,106 @@
       "extra": {
         "id": "43216481",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 11.7,
+      "detail": "$966 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 248.5,
+      "store": "amazon",
+      "name": "Skechers - Zapatillas de Deporte Skechers Bobs Squad Chaos para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CSG9XKHT",
+      "price": 966.34,
+      "list_price": 1094.12,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CSG9XKHT"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.3,
+      "detail": "$750 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 192.18,
+      "store": "amazon",
+      "name": "Guess Loven Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B09NLBWH3K",
+      "price": 749.72,
+      "list_price": 1299.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B09NLBWH3K"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$5,490 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1400.0,
+      "store": "walmart",
+      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
+      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300",
+      "price": 5490.0,
+      "list_price": 9799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750940184165"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$5,990 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1509.25,
+      "store": "walmart",
+      "name": "TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM5K",
+      "url": "https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300",
+      "price": 5990.0,
+      "list_price": 12599.0,
+      "ean": null,
+      "model": "55QM5K",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00084046404537"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.0,
+      "detail": "$1,990 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 500.0,
+      "store": "walmart",
+      "name": "TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C",
+      "url": "https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510",
+      "price": 1990.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": "32PFL6654/F8C",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00005381854165"
       }
     },
     {
@@ -608,6 +950,26 @@
       "extra": {
         "id": "42825376",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$1,199 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 300.0,
+      "store": "amazon",
+      "name": "Star Fox Switch 2",
+      "url": "https://www.amazon.com.mx/dp/B0H133MSYK",
+      "price": 1199.0,
+      "list_price": 1499.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H133MSYK"
       }
     }
   ]

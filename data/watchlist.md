@@ -1,4 +1,4 @@
-# Productos en vigilancia (670)
+# Productos en vigilancia (673)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -605,7 +605,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Sony WI-C310 Intraaural Banda para cuello Negro - Auriculare…](https://www.amazon.com.mx/dp/B07R37BSZ6) | $814 | -22% |
 | 🟢 disponible | amazon | [Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstala…](https://www.amazon.com.mx/dp/B0FVTZ67ZF) | $468 | -22% |
 | 🟢 disponible | sams | [Smartphone Samsung Galaxy  S25 Ultra 256 GB Azul Titanio](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945) | $15,956 | -21% |
-| 🟢 disponible | amazon | [Bose Auriculares Bluetooth Ultra Abiertos, Verdaderos Auricu…](https://www.amazon.com.mx/dp/B0FDKR4RVP) | $6,913 | -21% |
+| 🟢 disponible | amazon | [Bose Auriculares Bluetooth Ultra Abiertos, Verdaderos Auricu…](https://www.amazon.com.mx/dp/B0FDKR4RVP) | $6,320 | -21% |
 | 🟢 disponible | walmart | [Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300) | $5,490 | -20% |
 | 🟢 disponible | sams | [Pantalla Samsung  58" UHD 4K Smart TV UN58U8200FFXZX](https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374) | $7,667 | -21% |
 | 🟢 disponible | mercadolibre | [Apple iPhone 13 128 GB Medianoche - Distribuidor Autorizado](https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844) | $10,344 | -20% |
@@ -625,7 +625,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | -23% |
 | 🟢 disponible | amazon | [UGREEN HUB USB C 7 en 1 Adaptador a HDMI 4K a 30Hz, Lector T…](https://www.amazon.com.mx/dp/B0BLNDNBG1) | $459 | -21% |
 | 🟢 disponible | walmart | [TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C](https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510) | $1,990 | -20% |
-| 🟢 disponible | mercadolibre | [Samsung Galaxy Buds Core Negro](https://www.mercadolibre.com.mx/samsung-galaxy-buds-core-negro/p/MLM52056865) | $678 | -32% |
+| 🟢 disponible | mercadolibre | [Samsung Galaxy Buds Core Negro](https://www.mercadolibre.com.mx/samsung-galaxy-buds-core-negro/p/MLM52056865) | $999 | -32% |
 | 🟢 disponible | amazon | [UGREEN Audífonos Open Ear con ANC Cancelación Adaptativa 32H…](https://www.amazon.com.mx/dp/B0DZX8G1ZB) | $899 | -30% |
 | 🟢 disponible | mercadolibre | [Lavadora Semiautomática Acros de 22 kg con Tina de Acero Por…](https://www.mercadolibre.com.mx/lavadora-semiautomatica-acros-de-22-kg-con-tina-de-acero-porcelanizado-blanca/p/MLM15810415) | $5,699 | -26% |
 | 🟢 disponible | walmart | [Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0](https://www.walmart.com.mx/ip/lavadora-mabe-doble-tina-13-kg-blanca-lmdx3123hbab0/00075763838988?athbdg=L1300) | $3,490 | -26% |
@@ -668,9 +668,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Combo Lavadora y Secadora Whirlpool  Carga Frontal Lavado 21…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871) | $28,131 | -22% |
 | 🟢 disponible | sams | [Lavasecadora Haier  Carga Frontal 12 kg Lavado/8 kg Secado C…](https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322) | $11,937 | -21% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Gear4](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-gear4/1156218941) | $199 | -21% |
-| 🟢 disponible | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $4,999 | -21% |
+| 🟢 disponible | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $6,299 | -21% |
 | 🟢 disponible | liverpool | [Tenis Gold Care Gold Care Unisex](https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107) | $299 | -60% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Forerunner 965 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681) | $9,524 | -25% |
 | 🟢 disponible | palacio | [MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcleos, R…](https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html) | $28,799 | -20% |
 | 🟢 disponible | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,559 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Vivoactive 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-vivoactive-5-unisex-con-gps/1142099678) | $3,974 | -25% |
+| 🟢 disponible | mercadolibre | [Lavadora Semiautomática White-Westinghouse de 13 kg y Doble …](https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221) | $4,699 | -29% |
+| 🟢 disponible | amazon | [Piezas de repuesto OEM genuinas compatibles con licuadora De…](https://www.amazon.com.mx/dp/B0GSXY99RP) | $389 | -28% |
+| 🟢 disponible | walmart | [Estufa  de Piso Midea con Capelo 30" MASTER COOK Silver](https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300) | $6,290 | -21% |

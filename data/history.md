@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (789)
+# Historial de ofertas encontradas (792)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-16 02:36 | -21% | walmart | [Estufa  de Piso Midea con Capelo 30" MASTER COOK Silver](https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300) | $6,290 | $6,290 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-08-16 02:36 | -28% | amazon | [Piezas de repuesto OEM genuinas compatibles con licuado…](https://www.amazon.com.mx/dp/B0GSXY99RP) | $389 | $389 en amazon vs amazon $540, amazon $542, amazon $613 -> -28% bajo la competencia |
+| 2026-08-16 02:36 | -29% | mercadolibre | [Lavadora Semiautomática White-Westinghouse de 13 kg y D…](https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221) | $4,699 | $4,699 en mercadolibre vs mercado -> -29% bajo la competencia |
 | 2026-08-15 17:36 | -31% | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | $10,499 en liverpool vs mercado -> -31% bajo la competencia |
 | 2026-08-15 15:38 | -21% | amazon | [Samsung Tab S10 Lite Coral Red 128GB, Pantalla 10.9''](https://www.amazon.com.mx/dp/B0FKCT4MHL) | $5,114 | $5,114 en amazon vs sams $19,947, sams $19,947 -> -21% bajo la competencia |
 | 2026-08-15 15:38 | -24% | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $4,191 | $4,191 en sams vs mercado -> -24% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 08:37 | -25% | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $674 | $674 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 08:37 | -25% | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | $1,319 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,599 | $3,599 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $14,662 | $14,662 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 08:37 | -25% | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | $2,474 en palacio vs mercado -> -25% bajo la competencia |
