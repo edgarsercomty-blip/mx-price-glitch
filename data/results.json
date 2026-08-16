@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 22:54 UTC",
-  "products_scanned": 1576,
+  "generated_at": "2026-08-16 23:11 UTC",
+  "products_scanned": 1578,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -208,6 +208,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1134529681",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,774 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 924.75,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934",
+      "price": 2774.25,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1185267934",
         "marketplace": null
       }
     },
@@ -587,6 +608,27 @@
       "extra": {
         "id": "44004165",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,999 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.8,
+      "store": "liverpool",
+      "name": "Xiaomi Redmi Note 15 Pro 5G Kit Amoled Crystalres 6 8 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-kit-amoled-crystalres-6-8-pulgadas/1190568774",
+      "price": 7999.2,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1190568774",
+        "marketplace": null
       }
     },
     {
