@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-16 00:43 UTC",
-  "products_scanned": 1563,
+  "generated_at": "2026-08-16 02:16 UTC",
+  "products_scanned": 1571,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 29,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 77.8,
-      "detail": "$299 en liverpool vs mercado -> -60% bajo la competencia",
-      "likely_typo": false,
-      "savings": 450.0,
-      "store": "liverpool",
-      "name": "Tenis Gold Care Gold Care Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107",
-      "price": 299.0,
-      "list_price": 1349.0,
-      "ean": null,
-      "model": null,
-      "brand": "GOLD CARE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1114902107",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -49,27 +28,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 36.0,
-      "detail": "$23,487 en palacio vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13211.64,
-      "store": "palacio",
-      "name": "Laptop Gaming TUF A16, 16\", NVIDIA GeForce RTX 5050,  AMD Ryzen 7, RAM 16 GB, 512 GB SSD",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html",
-      "price": 23487.36,
-      "list_price": 36699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45650689",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.0,
       "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
       "likely_typo": false,
       "savings": 11623.64,
@@ -86,27 +44,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$68 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 34.2,
-      "store": "liverpool",
-      "name": "Funda Para Almohada Ribbed",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773",
-      "price": 68.4,
-      "list_price": 228.0,
-      "ean": null,
-      "model": null,
-      "brand": "WEST ELM",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172986773",
-        "marketplace": null
       }
     },
     {
@@ -171,27 +108,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,399 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.78,
-      "store": "palacio",
-      "name": "Combo Licuadora Negra con 2 Vasos",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html",
-      "price": 2399.4,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45522776",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -208,27 +124,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45421529",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$2,495 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 873.25,
-      "store": "palacio",
-      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
-      "price": 2495.0,
-      "list_price": 4990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45481963",
         "outlet": false
       }
     },
@@ -272,27 +167,6 @@
       "extra": {
         "productId": "1142099678",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$28,799 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9599.8,
-      "store": "palacio",
-      "name": "MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcleos, RAM 24 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html",
-      "price": 28799.4,
-      "list_price": 47999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44319571",
-        "outlet": false
       }
     },
     {
@@ -423,6 +297,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 748.5,
+      "store": "palacio",
+      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
+      "price": 2495.0,
+      "list_price": 4990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45481963",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 23.0,
       "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -528,6 +423,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$23,487 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6605.82,
+      "store": "palacio",
+      "name": "Laptop Gaming TUF A16, 16\", NVIDIA GeForce RTX 5050,  AMD Ryzen 7, RAM 16 GB, 512 GB SSD",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html",
+      "price": 23487.36,
+      "list_price": 36699.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45650689",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 22.0,
       "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -628,6 +544,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$28,799 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7199.85,
+      "store": "palacio",
+      "name": "MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcleos, RAM 24 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html",
+      "price": 28799.4,
+      "list_price": 47999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44319571",
         "outlet": false
       }
     },
