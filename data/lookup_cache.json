@@ -1373,57 +1373,9 @@
     "ts": "2026-08-15T19:36:52.169027+00:00",
     "items": []
   },
-  "amazon|55QNED81BSC": {
-    "ts": "2026-08-14T14:51:26.389146+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 55 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0GYZRN8KW",
-        "price": 9999.0,
-        "model": "QNED81"
-      }
-    ]
-  },
-  "walmart|55QNED81BSC": {
-    "ts": "2026-08-14T14:51:30.887373+00:00",
-    "items": []
-  },
-  "sams|55QNED81BSC": {
-    "ts": "2026-08-14T14:51:33.025087+00:00",
-    "items": []
-  },
   "amazon|75QNED73ASC": {
-    "ts": "2026-08-14T14:51:46.624230+00:00",
+    "ts": "2026-08-16T15:12:32.915844+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD8S Pantalla 55“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRBBMXF",
-        "price": 9399.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Television U7QG (Modelo 2025) Pantalla 100 Pulgadas,Mini-LED Smart Google TV UHD 4K,Modo de Juego Pro de 144 Hz,Hi-View AI Engine,Subwoofer Incorporado",
-        "url": "https://www.amazon.com.mx/dp/B0GKPFCTSQ",
-        "price": 34053.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U7S Pantalla 55“ Pulgadas，Mini-LED Pro 4K AI Smart TV，165Hz Nativos，Procesador Hi-View AI Pro，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9214YL",
-        "price": 12499.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión UR9S Pantalla 65“ Pulgadas，RGB Mini-LED 4K AI Smart TV，180Hz Nativos，Procesador RGB Hi-View AI，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9CD9R3",
-        "price": 29990.0,
-        "model": "180Hz"
-      },
       {
         "store": "amazon",
         "name": "LG Pantalla 75 Pulgadas QNED AI QNED73 4K Smart TV webOS 2025",
@@ -1440,17 +1392,17 @@
       },
       {
         "store": "amazon",
-        "name": "LG Pantalla 75\" QNED AI QNED73 4K Smart TV webOS 2025 + 65\"",
-        "url": "https://www.amazon.com.mx/dp/B0H6YCPGXR",
-        "price": 24398.2,
-        "model": "QNED73"
-      },
-      {
-        "store": "amazon",
         "name": "Hisense Televisión U7S 75\" | Mini-LED Pro 4K, Smart TV, 165Hz Nativos, Procesador Hi-View AI Pro, Dolby Vision Atmos, IMAX Enhanced, Google",
         "url": "https://www.amazon.com.mx/dp/B0GS9F17HK",
         "price": 19999.0,
         "model": "165Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Pantalla 75\" QNED AI QNED73 4K Smart TV webOS 2025 + 65\"",
+        "url": "https://www.amazon.com.mx/dp/B0H6YCPGXR",
+        "price": 24398.2,
+        "model": "QNED73"
       },
       {
         "store": "amazon",
@@ -1475,19 +1427,40 @@
       },
       {
         "store": "amazon",
+        "name": "LG Pantalla 75 Pulgadas UHD AI UA8050 4K Smart TV 2025",
+        "url": "https://www.amazon.com.mx/dp/B0F7TKJMCR",
+        "price": 11995.0,
+        "model": "UA8050"
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
-        "price": 12729.0,
+        "price": 14199.0,
         "model": "Q72dd"
+      },
+      {
+        "store": "amazon",
+        "name": "LG Smart TV 4K Ultra HD de 65\" Pulgadas Serie UA7700 con webOS 24, Procesador α5 Gen7 AI y Sonido AI Pro (Reacondicionada)",
+        "url": "https://www.amazon.com.mx/dp/B0FMBXT5X3",
+        "price": 7999.0,
+        "model": "UA7700"
+      },
+      {
+        "store": "amazon",
+        "name": "Juego de 2 fundas de silicona para control remoto LG Magic Remote, funda protectora ligera con cordón",
+        "url": "https://www.amazon.com.mx/dp/B08HQKVDTL",
+        "price": 276.62,
+        "model": null
       }
     ]
   },
   "walmart|75QNED73ASC": {
-    "ts": "2026-08-14T14:51:56.514108+00:00",
+    "ts": "2026-08-16T15:12:35.187955+00:00",
     "items": []
   },
   "sams|75QNED73ASC": {
-    "ts": "2026-08-14T14:52:00.102231+00:00",
+    "ts": "2026-08-16T15:12:35.988756+00:00",
     "items": []
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
@@ -1855,41 +1828,41 @@
     "items": []
   },
   "amazon|14IAH10": {
-    "ts": "2026-08-14T14:52:16.612757+00:00",
+    "ts": "2026-08-16T15:12:38.984525+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i 2 en 1 de 14 pulgadas con visualización dual OLED Touch Laptop (14IAH10 丨83KJ), no apto para Yoga 9i",
-        "url": "https://www.amazon.com.mx/dp/B0H5BKYPDH",
-        "price": 368.47,
-        "model": "14IAH10"
-      },
       {
         "store": "amazon",
         "name": "YINOVEEN - Protector de visualización de vidrio templado para Lenovo Yoga Book 9i (2 unidades) | Dual (14IAH10) 2 en 1, portátil de 14 pulgadas, 2025 nuevo, dureza 9H, antiarañazos",
         "url": "https://www.amazon.com.mx/dp/B0G1LVQT2D",
-        "price": 428.36,
+        "price": 429.63,
         "model": "14IAH10"
       },
       {
         "store": "amazon",
         "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i de 2025 con visualización táctil dual de 14 pulgadas (modelos: 14IAH10), 2 juegos – pantallas",
         "url": "https://www.amazon.com.mx/dp/B0FX1WD6PY",
-        "price": 285.86,
+        "price": 286.17,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
+        "name": "KEANBOLL - Paquete de 4 protectores de visualización antirreflejos (mate) para Lenovo Yoga Book 9i 2 en 1 de 14 pulgadas con visualización dual OLED Touch Laptop (14IAH10 丨83KJ), no apto para Yoga 9i",
+        "url": "https://www.amazon.com.mx/dp/B0H5BKYPDH",
+        "price": 368.13,
         "model": "14IAH10"
       },
       {
         "store": "amazon",
         "name": "Paquete de 2 protectores de visualización para Lenovo Yoga Book 9i Dual (14IAH10) 2 en 1 de 14 pulgadas (1 juego - pantallas primarias y secundarias) ultra transparentes, dureza 9H, antiarañazos",
         "url": "https://www.amazon.com.mx/dp/B0FVWWQZRZ",
-        "price": 384.89,
+        "price": 384.57,
         "model": "14IAH10"
       },
       {
         "store": "amazon",
         "name": "KEANBOLL - Paquete de 2 protectores de visualización antiluz azul para Lenovo Yoga Book 9i Dual de 14 pulgadas (modelos: 14IAH10), bloqueo de luz azul antideslumbrante y antihuellas dactilares (mate)",
         "url": "https://www.amazon.com.mx/dp/B0H5BBYZYT",
-        "price": 451.67,
+        "price": 451.18,
         "model": "14IAH10"
       },
       {
@@ -1910,21 +1883,14 @@
         "store": "amazon",
         "name": "Zahara Kit de tornillos para portátil Lenovo Yoga Book 9 14IAH10 83KJ 5S10S35770 | 20HG004J 20HG004L 20HG004K",
         "url": "https://www.amazon.com.mx/dp/B0H35BQGVJ",
-        "price": 519.98,
+        "price": 513.48,
         "model": "5S10S35770"
       },
       {
         "store": "amazon",
         "name": "Paquete de 2 protectores de visualización antirreflejos para Lenovo Yoga Book 9i 14 pulgadas (14IAH10) | 2023.86 pulgadas, visualización táctil para laptop, antiarañazos, protección ocular y antideslumbrante",
         "url": "https://www.amazon.com.mx/dp/B0FR4JD5H4",
-        "price": 265.28,
-        "model": "14IAH10"
-      },
-      {
-        "store": "amazon",
-        "name": "i-Tensodo - Paquete de 2 protectores de visualización de vidrio templado de 14 pulgadas para Lenovo Yoga Book 9i (14IAH10) 2025, visualización táctil para laptop, 2.5D, HD Clear, 9H, antiarañazos",
-        "url": "https://www.amazon.com.mx/dp/B0GCYCCWGJ",
-        "price": 408.6,
+        "price": 265.02,
         "model": "14IAH10"
       },
       {
@@ -1936,6 +1902,13 @@
       },
       {
         "store": "amazon",
+        "name": "i-Tensodo - Paquete de 2 protectores de visualización de vidrio templado de 14 pulgadas para Lenovo Yoga Book 9i (14IAH10) 2025, visualización táctil para laptop, 2.5D, HD Clear, 9H, antiarañazos",
+        "url": "https://www.amazon.com.mx/dp/B0GCYCCWGJ",
+        "price": 407.98,
+        "model": "14IAH10"
+      },
+      {
+        "store": "amazon",
         "name": "Gintai Conector Puerto de Carga USB-C Jack para Lenovo ThinkBook Z13 Z16 | Z13/Z16 Gen 1 Gen 2 ,IdeaPad Pro 5 14IAH10 83JK IdeaPad Pro 5 14AKP10 83JL IdeaPad Pro 5 14ASP10 83LR Type c jack",
         "url": "https://www.amazon.com.mx/dp/B0HBVZVGFY",
         "price": 299.62,
@@ -1944,193 +1917,11 @@
     ]
   },
   "walmart|14IAH10": {
-    "ts": "2026-08-14T14:52:20.890422+00:00",
+    "ts": "2026-08-16T15:12:45.427267+00:00",
     "items": []
   },
   "sams|14IAH10": {
-    "ts": "2026-08-14T14:52:22.216105+00:00",
-    "items": []
-  },
-  "amazon|EDGE70": {
-    "ts": "2026-08-14T14:52:40.495598+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Motorola Smartphone Edge 70 Gris | Ultrarresistente",
-        "url": "https://www.amazon.com.mx/dp/B0G4NFD21Z",
-        "price": 9014.63,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Smartphone Edge 70 Verde Olivo | Ultrarresistente",
-        "url": "https://www.amazon.com.mx/dp/B0G4NGTFXK",
-        "price": 8799.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Country Air (Celeste) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
-        "price": 7999.0,
-        "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Ibywind Mica para Motorola Edge 70 5G,2 Piezas Dureza 9H Cristal Templado y Protector de Lente de Cámara,Fácil de Instalar,Compatible Detector Huellas,Anti Arañazos,Sin Burbujas",
-        "url": "https://www.amazon.com.mx/dp/B0G4PSF6W8",
-        "price": 269.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Silhouette (Azul) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ758H1R",
-        "price": 7999.0,
-        "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Sporting Green (Verde) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ72GKV2",
-        "price": 7999.0,
-        "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
-        "price": 12499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
-        "price": 4699.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "LS Case para Motorola Moto Edge 70 Funda Protector TPU Suave Durable Silicon Cover Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H2YY4RS6",
-        "price": 128.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus",
-        "url": "https://www.amazon.com.mx/dp/B0GQ63CSGH",
-        "price": 11874.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "QUIETIP - Funda magnética para Motorola Edge 70 con Protector de visualización, Compatible con MagSafe, Funda translúcida Mate de protección contra caídas, Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0F4PNN9QB",
-        "price": 326.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA Funda Mica para Motorola Moto Edge 70 Fusion/Edge 70 Fusion Plus 5G Case Acrílico Uso Rudo Cover 360 Carcasa Screen Protector de Pantalla cámara Accesorios Transparente",
-        "url": "https://www.amazon.com.mx/dp/B0GVTDY84Z",
-        "price": 198.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|EDGE70": {
-    "ts": "2026-08-14T14:53:02.632921+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 5G (8/256GB) Gris",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-5g-8-256gb-gris/00084049360344?athbdg=L1300",
-        "price": 7799.0,
-        "model": "8/256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-verde-desbloqueado/00084049360332?athbdg=L1300",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-gris-desbloqueado/00084049360331?athbdg=L1300",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusión 5G (8/256GB) Azul (Silhouette)",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-5g-8-256gb-azul-silhouette-/00084049361830?athbdg=L1300",
-        "price": 6699.0,
-        "model": "8/256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA MOTO EDGE 70 FUSION 8GB RAM 256GB ROM PANTONE ORIENT BLUE",
-        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-70-fusion-8gb-ram-256gb-rom-pantone-orient-blue/00084049362199?athbdg=L1300",
-        "price": 6290.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion 5G (12/256GB) Azul",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-5g-12-256gb-azul/00084049361141?athbdg=L1300",
-        "price": 8799.0,
-        "model": "12/256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 by Swarovski 512GB 12GB Cloud Dancer",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-by-swarovski-512gb-12gb-cloud-dancer/00084049361713",
-        "price": 11399.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion +Moto Buds 256 GB 8 GB Negro",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-moto-buds-256-gb-8-gb-negro/00872132237088",
-        "price": 9399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion +Moto Buds 256 GB 8 GB Morado",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-moto-buds-256-gb-8-gb-morado/00872132237038",
-        "price": 9399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion 5G (8/256GB) Celeste (Country Air)",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-5g-8-256gb-celeste-country-air-/00084049361781?athbdg=L1300",
-        "price": 6290.0,
-        "model": "8/256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion +Moto Buds 256 GB 8 GB Verde",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-moto-buds-256-gb-8-gb-verde/00872132237085",
-        "price": 9399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion 5G (8/256GB) Verde (Blue Surf)",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-5g-8-256gb-verde-blue-surf-/00084049361780?athbdg=L1300",
-        "price": 6291.0,
-        "model": "8/256GB"
-      }
-    ]
-  },
-  "sams|EDGE70": {
-    "ts": "2026-08-14T14:53:06.078630+00:00",
+    "ts": "2026-08-16T15:12:46.423106+00:00",
     "items": []
   },
   "amazon|KITCHENAIDLICUADORAVASOSCOMBONEGRA": {
