@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 14:14 UTC",
-  "products_scanned": 1574,
+  "generated_at": "2026-08-16 14:40 UTC",
+  "products_scanned": 1575,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$26,460 en palacio vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13769.74,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html",
-      "price": 26459.51,
-      "list_price": 53999.0,
-      "ean": null,
-      "model": "85QNED81BSG",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45505430",
         "outlet": false
       }
     },
