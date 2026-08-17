@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 14:05 UTC",
-  "products_scanned": 1576,
+  "generated_at": "2026-08-17 14:47 UTC",
+  "products_scanned": 1606,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,118 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1140.65,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802",
+      "price": 2118.35,
+      "list_price": 3259.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1185265802",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -133,6 +154,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 959.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Coach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42825376",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$3,702 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1586.7,
@@ -169,27 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44353770",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs walmart $3,179 -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 939.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2239.3,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
         "outlet": false
       }
     },

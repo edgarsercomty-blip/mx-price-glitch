@@ -1430,36 +1430,8 @@
     "items": []
   },
   "amazon|CX1405CTA": {
-    "ts": "2026-08-15T14:13:34.808830+00:00",
+    "ts": "2026-08-17T14:46:44.351355+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Laptop Gamer 16\" 16:10,Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD Extensiones 4TB, WiFi 6, USB-C, Teclado Español Retroiluminado, Carcasa de Metal,Win11Pro Laptop",
-        "url": "https://www.amazon.com.mx/dp/B0GFWL358B",
-        "price": 12860.52,
-        "model": "Win11Pro"
-      },
-      {
-        "store": "amazon",
-        "name": "DELL Latitude 3420 14\" Laptop, Core i5-11th, 16GB, 256GB (reacondicionado) | Core i5-1135G7 (2,6 GHz, 4 núcleos), 16 GB RAM, 256 GB SSD, 1920 x 1080p, Windows 11 Professional",
-        "url": "https://www.amazon.com.mx/dp/B0C9L9G9R4",
-        "price": 5999.0,
-        "model": "i5-1135G7"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo ThinkPad X13 Yoga Gen2 Touchscreen Laptop, 2 en 1 Laptop, 13.3\" FHD (1920 x 1080), Intel i5-1145G7 2.6GHz, 16GB RAM, 512GB SSD, Teclado retroiluminado, Win11 Pro (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0G4CSJW4H",
-        "price": 7999.0,
-        "model": "i5-1145G7"
-      },
-      {
-        "store": "amazon",
-        "name": "KAIGERR Laptop Gamer 15.6\" FHD, Ryzen 5 7430U (hasta 4.3GHz), 16GB RAM 512GB SSD, Win 11 Pro Laptop, WiFi 6 + BT5.2,HDMI, Teclado en Español | Larga Duración | Portátil para Gaming, Oficina y Estudio",
-        "url": "https://www.amazon.com.mx/dp/B0FXWDFG59",
-        "price": 9499.99,
-        "model": "7430U"
-      },
       {
         "store": "amazon",
         "name": "ASUS Ordenador portátil Chromebook CX14 CX1405CTA | 14\" FHD 16:9 IPS Pantalla | Intel N50 | 4 GB de RAM | 128 GB eMMC | Intel UHD | ChromeOS | QWERTZ | Quiet Blue (Adaptador AC Sold Separately)",
@@ -1471,20 +1443,20 @@
         "store": "amazon",
         "name": "Protector de visualización antiluz azul para ASUS ChromeBook CM1 CX1 CX3 CX9 CM14 CX14 CX34/ChromeBook 14 CM1400 CM1402CM2A CX1400 CX1400CKA CX3400 CX3401 CX3401 CXX 444 444 CX1405 CX1405CTA (no",
         "url": "https://www.amazon.com.mx/dp/B0F671D243",
-        "price": 487.17,
+        "price": 331.82,
         "model": "CX34/ChromeBook"
       },
       {
         "store": "amazon",
         "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
-        "url": "https://www.amazon.com.mx/dp/B0HDSNF7Q4",
+        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
         "price": 337.07,
         "model": "CX1405CKA"
       },
       {
         "store": "amazon",
         "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
-        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
+        "url": "https://www.amazon.com.mx/dp/B0HDSNF7Q4",
         "price": 337.07,
         "model": "CX1405CKA"
       },
@@ -1506,20 +1478,48 @@
         "store": "amazon",
         "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.5",
         "url": "https://www.amazon.com.mx/dp/B0H6MXSJTZ",
-        "price": 621.12,
+        "price": 613.79,
         "model": "CX1405CKA"
       },
       {
         "store": "amazon",
         "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.15",
         "url": "https://www.amazon.com.mx/dp/B0H6MPCCBJ",
-        "price": 663.11,
+        "price": 655.28,
+        "model": "CX1405CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "Gintai Conector USB-C para ASUS Chromebook CX1405 CX1405CKA CX1405CTA | Adaptador USB C Jack USB C Tipo C Port Jack Dock Plug",
+        "url": "https://www.amazon.com.mx/dp/B0HCCFVYRT",
+        "price": 712.84,
+        "model": "CX1405CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "45W Cargador para ASUS ZenBook 13 UX325 UX325JA 3 Deluxe UX3490U UX3490UA Flip 13 UX363 UX363EA UX363JA Flip S UX371 Chromebook CX15 CX1505 CX1505CKA CX1405 CX1405CKA CX1405CTA",
+        "url": "https://www.amazon.com.mx/dp/B0FQJWV281",
+        "price": 620.99,
+        "model": "CX1505CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "Gintai Base para Ordenador portátil ASUS Chromebook CX1405 CX1505 (Gruesa) | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
+        "url": "https://www.amazon.com.mx/dp/B0H6MN28BX",
+        "price": 621.12,
+        "model": "CX1405CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "Gintai Base para Ordenador portátil ASUS Chromebook CX1405 CX1505 (Delgada) | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
+        "url": "https://www.amazon.com.mx/dp/B0H6MLXYG9",
+        "price": 663.91,
         "model": "CX1405CKA"
       }
     ]
   },
   "walmart|CX1405CTA": {
-    "ts": "2026-08-15T14:13:37.324335+00:00",
+    "ts": "2026-08-17T14:46:51.938990+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1531,12 +1531,40 @@
     ]
   },
   "sams|CX1405CTA": {
-    "ts": "2026-08-15T14:13:51.789096+00:00",
+    "ts": "2026-08-17T14:46:52.971885+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-15T14:14:09.645357+00:00",
+    "ts": "2026-08-17T14:46:57.366394+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Huawei Watch Kids X1 Pro Smartwatch Negro | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
+        "url": "https://www.amazon.com.mx/dp/B0GWJDWNVW",
+        "price": 5599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MOKAST 4G Reloj Inteligente para Niños y Niñas, Smartwatch for Kids con GPS, SOS, videollamada, Chat de Voz, Modo Escuela, Podómetro,Despertador, Regalos para niñas de 4-12 años (4G Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0H5QG88FW",
+        "price": 1172.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0CS323FFP",
+        "price": 1499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "PTHTECHUS Reloj Inteligente para niños 4G, Kids Smart Watch con Pantalla táctil HD y conversación bidireccional Llamada SOS Cámara Música, Regalos de cumpleaños para niños y niñas de 4 a 12 (Rosa)",
+        "url": "https://www.amazon.com.mx/dp/B0H5PX9MGY",
+        "price": 935.1,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
@@ -1553,15 +1581,22 @@
       },
       {
         "store": "amazon",
-        "name": "Huawei Watch Kids X1 Pro Smartwatch Morado | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
-        "url": "https://www.amazon.com.mx/dp/B0H6Q4JRHT",
+        "name": "Huawei Watch Kids X1 Pro Smartwatch Negro | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
+        "url": "https://www.amazon.com.mx/dp/B0GWJDWNVW",
         "price": 5599.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Huawei Watch Kids X1 Pro Smartwatch Negro | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
-        "url": "https://www.amazon.com.mx/dp/B0GWJDWNVW",
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Verde | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GX24SNTH",
+        "price": 2413.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Watch Kids X1 Pro Smartwatch Morado | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
+        "url": "https://www.amazon.com.mx/dp/B0H6Q4JRHT",
         "price": 5599.0,
         "model": null
       },
@@ -1581,148 +1616,28 @@
       },
       {
         "store": "amazon",
-        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Morado",
-        "url": "https://www.amazon.com.mx/dp/B0H67RKZML",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "MOKAST 4G Reloj Inteligente para Niños y Niñas, Smartwatch for Kids con GPS, SOS, videollamada, Chat de Voz, Modo Escuela, Podómetro,Despertador, Regalos para niñas de 4-12 años (4G Azul)",
         "url": "https://www.amazon.com.mx/dp/B0H2PL378M",
         "price": 1172.39,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Suoman 2 Piezas Funda para Huawei Watch Kids 4 Pro, [No Protector Pantalla] Cubierta Protectora del Parachoques Integral TPU Funda Protectora para Huawei Watch Kids 4 Pro (Azul+Transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0CYL822RX",
-        "price": 189.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa Compatible con Huawei Watch Kids 4 Pro, Correa Elástica Ajustable para Reloj Huawei, Extensible Pulsera Banda de Nylon para Huawei Watch 4 Kids Pro",
-        "url": "https://www.amazon.com.mx/dp/B0FL7X4XJK",
-        "price": 149.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Transparente",
-        "url": "https://www.amazon.com.mx/dp/B0H67C1RTB",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0H67GT1T3",
-        "price": 199.0,
         "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-15T14:14:13.123078+00:00",
+    "ts": "2026-08-17T14:46:59.871503+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Reloj Inteligente Huawei Watch Kids 4 Pro Azul",
-        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Huawei-Watch-Kids-4-Pro-Azul/00694148724058",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-huawei-watch-kids-4-pro-azul/00694148724058",
         "price": 3799.0,
         "model": null
       }
     ]
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-15T14:14:16.720871+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
-        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
-        "price": 5112.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
-        "price": 3500.71,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Edredón Refrescante Individual Chill Kids  Arcoíris 1 pza",
-        "url": "https://www.sams.com.mx/ip/edredon-refrescante-individual-chill-kids-arcoiris-1-pza/981030912",
-        "price": 919.67,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Organizador de Juguetes Kids House Princesas",
-        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-princesas/981013426",
-        "price": 1328.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jugo del Valle Kids Surtido Tetrapack 40 pzas de 200 ml c/u",
-        "url": "https://www.sams.com.mx/ip/jugo-del-valle-kids-surtido-tetrapack-40-pzas-de-200-ml-c-u/000356520",
-        "price": 224.04,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Agua Bonafont Kids Surtidos 24 pzas de 300ml",
-        "url": "https://www.sams.com.mx/ip/agua-bonafont-kids-surtidos-24-pzas-de-300ml/000208453",
-        "price": 170.84,
-        "model": "300ml"
-      },
-      {
-        "store": "sams",
-        "name": "Set de Lápices de Colores Bic Kids con 40 pzas",
-        "url": "https://www.sams.com.mx/ip/set-de-lapices-de-colores-bic-kids-con-40-pzas/981037902",
-        "price": 207.66,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Organizador de Juguetes Kids House Frozen",
-        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-frozen/981013428",
-        "price": 1328.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set Primaria Bic Kids con 41 pzas",
-        "url": "https://www.sams.com.mx/ip/set-primaria-bic-kids-con-41-pzas/981036157",
-        "price": 357.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Mesa Infantil Kids House Mickey",
-        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-mickey/981013425",
-        "price": 1727.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Mesa Infantil Kids House Princesas",
-        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-princesas/981013424",
-        "price": 1727.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Shampoo L'Oréal Kids 3 pzas de 265 ml c/u",
-        "url": "https://www.sams.com.mx/ip/shampoo-l-oreal-kids-3-pzas-de-265-ml-c-u/980029166",
-        "price": 179.01,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-17T14:47:01.008708+00:00",
+    "items": []
   },
   "amazon|ASUSGEFORCEGAMINGLAPTOPNVIDIA": {
     "ts": "2026-08-15T15:39:22.866823+00:00",
@@ -3907,414 +3822,6 @@
   "sams|COACHCORREAAPPLEACEROWATCH": {
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
-  },
-  "amazon|APPLENUCLEOSMACBOOK512RAM": {
-    "ts": "2026-08-15T14:13:54.293764+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR6PXSTQ",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
-        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air de Finales de 2020 con Chip Apple M1 (13 Pulgadas, 8 GB de RAM, 256 GB SSD) Plata (reacondicionado) | SSD de 256 GB, renovado, 8 GB de RAM, chip M1",
-        "url": "https://www.amazon.com.mx/dp/B08PV4GYCL",
-        "price": 8861.49,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Late 2019 Apple MacBook Pro with 2.6GHz Intel Core i7 (16 inch, 16GB RAM, 512GB) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B082P8N4KJ",
-        "price": 8999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2025 MacBook Pro (de 14 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata con AppleCare+ (3 años)",
-        "url": "https://www.amazon.com.mx/dp/B0FWH7DP12",
-        "price": 56498.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOK512RAM": {
-    "ts": "2026-08-15T14:14:01.306329+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color Indigo",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-Indigo/00019595085321?athbdg=L6000",
-        "price": 16499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13 pulgadas Chip M5 16 GB RAM 512 GB -Azul Cielo",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-pulgadas-Chip-M5-16-GB-RAM-512-GB-Azul-Cielo/00893830999756?athbdg=L1300",
-        "price": 27999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13 pulgadas Chip M5 16 GB RAM 512 GB - Blanco estelar",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-pulgadas-Chip-M5-16-GB-RAM-512-GB-Blanco-estelar/00893307510094?athbdg=L1300",
-        "price": 27999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M2 13.6 Pulgadas 8GB RAM 512 GB ROM Plata",
-        "url": "https://www.walmart.com.mx/ip/Macbook-Air-Apple-M2-13-6-Pulgadas-8GB-RAM-512-GB-ROM-Plata/00019425319099?athbdg=L6000",
-        "price": 21999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOK512RAM": {
-    "ts": "2026-08-15T14:14:05.331255+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 512 GB Rosa",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-512-gb-rosa/981034975",
-        "price": 13999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/8C GPU/16GB/256GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-8c-gpu-16gb-256gb-ssd-azul-medianoche/981035015",
-        "price": 24998.99,
-        "model": "GPU/16GB/256GB"
-      }
-    ]
-  },
-  "amazon|APPLENUCLEOSMACBOOKGPUCPU": {
-    "ts": "2026-08-15T14:41:06.084100+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
-        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
-        "price": 14999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Pro (de 14 Pulgadas, Chip M5 Pro de Apple con CPU de 15 núcleos y GPU de 16 núcleos, 24GB Memoria unificada, 1 TB) - Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0GR11Q4JW",
-        "price": 54999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 Pro de Apple con CPU de 18 núcleos y GPU de 20 núcleos, 24GB Memoria unificada, 1 TB) - Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0GR1KTPH9",
-        "price": 67999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 14.2 Pulgadas,24 GB de Memoria unificada, 1TB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHQ59F1",
-        "price": 57999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1J9F22",
-        "price": 47499.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOKGPUCPU": {
-    "ts": "2026-08-15T14:41:10.369332+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOKGPUCPU": {
-    "ts": "2026-08-15T14:41:16.093715+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
   },
   "amazon|COACHCORREAAPPLEWATCHACERO": {
     "ts": "2026-08-15T15:11:26.061174+00:00",
@@ -27929,5 +27436,306 @@
         "model": null
       }
     ]
+  },
+  "amazon|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-17T14:46:25.012399+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Carcasa magnética para iPhone 17, color café | Compatible con MagSafe, bonito diseño de leopardo de guepardo ámbar estético, TPU y policarbonato a prueba de golpes",
+        "url": "https://www.amazon.com.mx/dp/B0FZPWXLK1",
+        "price": 219.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Genérico Frameless Matte Ultra Thin Magnetic Slim Case for iPhone 16 Pro MAX, 16/15/14/13, Hard Pc Slim Case Compatible with Magsafe, Minimalist (for iPhone 12 Pro MAX,Naranja)",
+        "url": "https://www.amazon.com.mx/dp/B0DKWY1NPT",
+        "price": 125.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda con diseño de dibujos animados para Apple iPhone 8 Plus/iPhone 7 Plus, absorción de golpes, antiarañazos, diseño divertido de dibujos animados de anime para niños, adolescentes, niñas y",
+        "url": "https://www.amazon.com.mx/dp/B0DS29VNG7",
+        "price": 444.43,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vooii Compatible con iPhone 17e/iPhone 16e Funda, Silicona Líquida Mejorada [Revestimiento de Microfibra Suave Antiarañazos] Funda de Teléfono a Prueba de Golpes 6.1'' - Caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0DT6P76CW",
+        "price": 369.99,
+        "model": "17e/iPhone"
+      },
+      {
+        "store": "amazon",
+        "name": "Vooii Compatible con iPhone 17e/iPhone 16e Funda, Silicona Líquida Mejorada [Revestimiento de Microfibra Suave Antiarañazos] Funda de Teléfono a Prueba de Golpes 6.1'' - Marrón Claro",
+        "url": "https://www.amazon.com.mx/dp/B0DT6QR8LW",
+        "price": 369.99,
+        "model": "17e/iPhone"
+      },
+      {
+        "store": "amazon",
+        "name": "Vooii Compatible con iPhone 14 Funda, [Toque Sedoso Silicona Líquida Premium] [Revestimiento de Microfibra Suave Antiarañazos], Ultra Delgada a Prueba de Golpes Protectora Funda - Caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0C9T19Q9T",
+        "price": 369.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "vnnink - Funda para iPhone 14 Plus y iPhone 15 Plus, color blanco envejecido | Compatible con Magsafe, protección contra caídas de grado militar, cubierta magnética mate translúcida a prueba de golpes",
+        "url": "https://www.amazon.com.mx/dp/B0FXG2YYGY",
+        "price": 367.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vooii Compatible con iPhone 13 Funda, Silicona Líquida Actualizada [Revestimiento de Microfibra Suave Antiarañazos] Funda de Teléfono a Prueba de Golpes 6.1'' - Caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0CKT57BW5",
+        "price": 369.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "AOTESIER - Funda compatible con Phone Pro, mejora de silicona [protección de cámara trasera plana] [borde de arco] funda protectora a prueba de golpes, 6.3 pulgadas, color chocolate",
+        "url": "https://www.amazon.com.mx/dp/B0FHWFXPCX",
+        "price": 284.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vooii Compatible con iPhone 14 Funda, [Toque Sedoso Silicona Líquida Premium] [Revestimiento de Microfibra Suave Antiarañazos], Ultra Delgada a Prueba de Golpes Protectora Funda - Cantalupo",
+        "url": "https://www.amazon.com.mx/dp/B0C9SYTVXH",
+        "price": 369.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "vnnink - Funda para iPhone 12/iPhone 12 Pro, color café | Compatible con Magsafe, protección contra caídas de grado militar, cubierta magnética mate translúcida a prueba de golpes",
+        "url": "https://www.amazon.com.mx/dp/B0FXG1BD6N",
+        "price": 412.06,
+        "model": "12/iPhone"
+      }
+    ]
+  },
+  "walmart|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-17T14:46:36.605722+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141?athbdg=L1300",
+        "price": 789.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Bumper Apple iPhone Air Gris Claro",
+        "url": "https://www.walmart.com.mx/ip/funda-bumper-apple-iphone-air-gris-claro/00019595075139?athbdg=L1300",
+        "price": 1019.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper, azul claro",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-azul-claro/00019595075140",
+        "price": 719.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-17T14:46:38.506749+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-08-17T14:47:17.749780+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
+        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
+        "price": 1543.55,
+        "model": "CM2035B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-08-17T14:47:32.059291+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 371.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Análoga 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L1300",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 4253.48,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAACEROTOUCHTAZAS": {
+    "ts": "2026-08-17T14:47:32.782000+00:00",
+    "items": []
   }
 }

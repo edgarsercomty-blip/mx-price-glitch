@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (820)
+# Historial de ofertas encontradas (821)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 14:47 | -35% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,118 | $2,118 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-17 12:24 | -43% | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,234 | $1,234 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-17 11:54 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-17 11:01 | -21% | liverpool | [Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381) | $11,999 | $11,999 en liverpool vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-20 16:22 | -26% | palacio | [Funda magnética transparente para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-20 15:22 | -20% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | $2,095 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-20 13:02 | -24% | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | $7,573 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-20 13:02 | -26% | palacio | [Galaxy SmartTag2 blanco](https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
