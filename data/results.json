@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17 03:14 UTC",
-  "products_scanned": 1566,
+  "generated_at": "2026-08-17 04:04 UTC",
+  "products_scanned": 1600,
   "threshold_pct": 20.0,
   "count": 25,
   "findings": [
@@ -90,26 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 16.1,
-      "detail": "$4,699 en walmart vs palacio $7,149 -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2450.35,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": 5599.0,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00084002328756"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -147,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$7,149 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2529.77,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
+      "price": 7149.35,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45421529",
         "outlet": false
       }
     },
