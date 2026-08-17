@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-17 10:31 UTC
+# Errores/chollos de precio — 2026-08-17 11:01 UTC
 
-- Productos revisados: **1521**
+- Productos revisados: **1509**
 - Umbral de diferencia: **20%**
-- Hallazgos: **34**
+- Hallazgos: **36**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -14,6 +14,7 @@
 | -20% | $6,000 | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | Confirmado vs competencia | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $4,950 | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | Confirmado vs competencia | $17,549 en palacio vs mercado -> -22% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
+| -21% | $3,200 | liverpool | [Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381) | $11,999 | Confirmado vs competencia | $11,999 en liverpool vs mercado -> -21% bajo la competencia |
 | -25% | $3,000 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |
 | -33% | $2,780 | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | Confirmado vs competencia | $5,560 en palacio vs mercado -> -33% bajo la competencia |
@@ -37,6 +38,7 @@
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
 | -20% | $560 | liverpool | [Smartwatch Amazfit Active 2 Premium Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411) | $2,239 | Confirmado vs competencia | $2,239 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $550 | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -20% bajo la competencia |
+| -43% | $450 | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | Confirmado vs competencia | $600 en palacio vs mercado -> -43% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |

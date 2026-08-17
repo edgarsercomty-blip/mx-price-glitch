@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (817)
+# Historial de ofertas encontradas (818)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 11:01 | -21% | liverpool | [Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381) | $11,999 | $11,999 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-17 09:03 | -20% | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | $2,199 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-17 09:03 | -20% | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | $799 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-17 08:04 | -20% | liverpool | [Smartwatch Amazfit Active 2 Premium Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411) | $2,239 | $2,239 en liverpool vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-20 13:02 | -26% | palacio | [Galaxy SmartTag2 blanco](https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-blanco-43520788.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-19 12:57 | -40% | palacio | [Pantalla 65 pulgadas plana LG OLED AI B5 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-lg-oled-ai-b5-4k-smart-tv-2025-44638189.html) | $32,999 | $32,999 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-07-19 10:47 | -26% | palacio | [Funda Magnética Galaxy S26 rojo coral lisa](https://www.elpalaciodehierro.com/samsung-funda-magnetica-galaxy-s26-rojo-coral-lisa-45272474.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-19 09:20 | -22% | palacio | [Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html) | $7,699 | $7,699 en palacio vs mercado -> -22% bajo la competencia |
