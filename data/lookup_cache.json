@@ -3556,442 +3556,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKNUCLEOSCPUGPU": {
-    "ts": "2026-08-15T15:51:52.750431+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
-        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
-        "price": 14999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Pro (de 14 Pulgadas, Chip M5 Pro de Apple con CPU de 15 núcleos y GPU de 16 núcleos, 24GB Memoria unificada, 1 TB) - Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0GR11Q4JW",
-        "price": 54999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 14.2 Pulgadas,24 GB de Memoria unificada, 1TB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHQ59F1",
-        "price": 57999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 MAX de Apple con CPU de 18 núcleos y GPU de 40 núcleos, 48GB Memoria unificada, 2 TB) - Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0GR1L19B9",
-        "price": 114999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 256 GB) - Rosa Rubor",
-        "url": "https://www.amazon.com.mx/dp/B0GR6FV9TF",
-        "price": 14999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 24 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FWF123DM",
-        "price": 49999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEMACBOOKNUCLEOSCPUGPU": {
-    "ts": "2026-08-15T15:51:55.851952+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEMACBOOKNUCLEOSCPUGPU": {
-    "ts": "2026-08-15T15:51:59.637905+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
-  },
-  "amazon|APPLEMACBOOKNUCLEOSRAMCPU": {
-    "ts": "2026-08-15T16:13:18.937345+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1CCNRK",
-        "price": 35681.97,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1J9F22",
-        "price": 47499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1KXZGJ",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEMACBOOKNUCLEOSRAMCPU": {
-    "ts": "2026-08-15T16:13:21.737030+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEMACBOOKNUCLEOSRAMCPU": {
-    "ts": "2026-08-15T16:13:25.716758+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      }
-    ]
-  },
   "amazon|APPLENUCLEOSMACBOOKCPURAM": {
     "ts": "2026-08-15T17:12:58.271909+00:00",
     "items": [
@@ -29362,6 +28926,398 @@
   },
   "sams|OSTERCAFETERATOUCHTAZASPANEL": {
     "ts": "2026-08-17T15:43:39.824421+00:00",
+    "items": []
+  },
+  "amazon|AH121CK": {
+    "ts": "2026-08-17T16:16:11.368009+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Hisense Aire acondicionado portátil, SACC 8.000 BTU, doble manguera, 4 modos (frío, calor, ventilador, deshumidificador) WiFi, control remoto hasta 51 m2., AP55023HR1GD, blanco (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D1GYY1Q8",
+        "price": 4499.0,
+        "model": "AP55023HR1GD"
+      },
+      {
+        "store": "amazon",
+        "name": "Aire Acondicionado Portatil, Aire Acondicionado Frio Recargable, Ventilador De Refrigeración Alimentado Por USB - 6 Niveles De Humedad Y Velocidades Para El Hogar/recámara/oficina, type 1",
+        "url": "https://www.amazon.com.mx/dp/B0CY2P2JLQ",
+        "price": 571.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Toshiba RAC-PD1013CWRU Aire Acondicionado Portátil Smart 300 Pies Cuadrados 3 en 1 (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09X27TM34",
+        "price": 3359.18,
+        "model": "RAC-PD1013CWRU"
+      },
+      {
+        "store": "amazon",
+        "name": "BATERIA Recargable 12V/18AH Genesis (YUASA) NP 18-12",
+        "url": "https://www.amazon.com.mx/dp/B0BYH4MV6D",
+        "price": 1415.0,
+        "model": "12V/18AH"
+      },
+      {
+        "store": "amazon",
+        "name": "Batería LiFePO4 de 12 V 100 Ah Grupo 31 con BMS integrado de 100 A, 15000 ciclos profundos, batería de litio recargable perfecta para sistema solar, vehículos recreativos, uso marino, furgonetas",
+        "url": "https://www.amazon.com.mx/dp/B0DH1W967C",
+        "price": 4023.91,
+        "model": "LiFePO4"
+      },
+      {
+        "store": "amazon",
+        "name": "Dyness - Batería Bluetooth LiFePO4 de 12 V 100 Ah, ciclo profundo, baterías de litio 31, BMS incorporadas de 100 A con protección a baja temperatura, batería de litio de 12.8 voltios para camping de",
+        "url": "https://www.amazon.com.mx/dp/B0FPL1QNFY",
+        "price": 5046.28,
+        "model": "LiFePO4"
+      },
+      {
+        "store": "amazon",
+        "name": "JHETA Batería 12V 9Ah AGM Sellada VRLA Recargable para UPS, Alarmas y CCTV | Libre de Mantenimiento CS12-9",
+        "url": "https://www.amazon.com.mx/dp/B0GXLHN7PL",
+        "price": 509.0,
+        "model": "CS12-9"
+      },
+      {
+        "store": "amazon",
+        "name": "Batería LiFePO4 de 12 V 100 Ah Grupo 31 con BMS integrado de 100 A, 15000 ciclos profundos, batería de litio recargable prefecta para sistema solar, caravanas, marina, furgonetas, remolques",
+        "url": "https://www.amazon.com.mx/dp/B0FJLZ12PY",
+        "price": 5390.67,
+        "model": "LiFePO4"
+      },
+      {
+        "store": "amazon",
+        "name": "Kinetik KHC1200 - Celda de alimentación de 1200 W y 12 V",
+        "url": "https://www.amazon.com.mx/dp/B001JT1LC2",
+        "price": 4434.03,
+        "model": "KHC1200"
+      },
+      {
+        "store": "amazon",
+        "name": "12V 100Ah LiFePO4 Battery, Built-in 120A BMS, 15000 Deep Cycles, Group 31, Lightweight Lithium Iron Phosphate Battery for Home Energy, RV, Trolling Motor, Marine, Solar, Off-Grid",
+        "url": "https://www.amazon.com.mx/dp/B0F1TLL48V",
+        "price": 4436.29,
+        "model": "LiFePO4"
+      },
+      {
+        "store": "amazon",
+        "name": "FORKIS FFB1248EHE FFB1248EHE-4B77 12CM 12038 48V 0.75A ventilador de clóset inversor 3wire lead out",
+        "url": "https://www.amazon.com.mx/dp/B0BZNP7QQ3",
+        "price": 498.86,
+        "model": "FFB1248EHE-4B77"
+      },
+      {
+        "store": "amazon",
+        "name": "AFB1212HHE Ventilador de refrigeración con doble rodamiento de bolas de 120 mm, 12 cm, 12038, 120 x 120 x 38 mm, 4 cables, 12 V, 4 pines",
+        "url": "https://www.amazon.com.mx/dp/B0HDRH5P6H",
+        "price": 2100.18,
+        "model": "AFB1212HHE"
+      }
+    ]
+  },
+  "walmart|AH121CK": {
+    "ts": "2026-08-17T16:16:15.509584+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Minisplit Hisense 1 Tonelada 115 V Frío y Calor AH121CK",
+        "url": "https://www.walmart.com.mx/ip/minisplit-hisense-1-tonelada-115-v-frio-y-calor-ah121ck/00692659776135?athbdg=L1300",
+        "price": 6490.0,
+        "model": "AH121CK"
+      }
+    ]
+  },
+  "sams|AH121CK": {
+    "ts": "2026-08-17T16:16:16.418728+00:00",
+    "items": []
+  },
+  "amazon|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-17T16:16:19.220960+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple Bumper para el iPhone Air - Negro ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0FQFHQVMN",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Parachoques de Metal Delgada Compatible con iPhone 12 12 Pro, Funda Parachoques de Metal con Interior de TPU Suave [Sin Interferencia de Señal][Compatible con Carga Inalámbrica",
+        "url": "https://www.amazon.com.mx/dp/B08MKYL6JR",
+        "price": 350.67,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UGREEN Funda para iPhone 16 MagSafe | Magnético Anti-Amarillo con Protección de la Lente y contra Caídas, Case Antidesgaste, Carcasa 6.1 Pulgadas, Transparente",
+        "url": "https://www.amazon.com.mx/dp/B0D83JY3LF",
+        "price": 183.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OATSBASF Funda Minimalista para Teléfono para iPhone 17, Soporte Giratorio de 360° Diseño de Marco de Metal de Aluminio sin Bordes Bumper Funda Z, Funda Protectora de Grado Anti-Impacto Naranja",
+        "url": "https://www.amazon.com.mx/dp/B0FK4Z1DLF",
+        "price": 692.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "RhinoShield - Funda Protectora para Parachoques Compatible con [iPhone 16] | CrashGuard - Funda Protectora de protección contra caídas de 3,5 m / 3,4 m, Color Negro | Funda con tapa trasera sin placa trasera, diseño ultradelgado, estilo minimalista, protección contra caídas estándar militar",
+        "url": "https://www.amazon.com.mx/dp/B0DB78TXKB",
+        "price": 622.68,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVFHF7H",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17e – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQW96C4L",
+        "price": 978.11,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Lavanda eléctrico ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVC7SNR",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "RhinoShield Funda Compatible con [iPhone 17] Modelo NX: Funda modular sin parte trasera, diseño minimalista, anti-choques que supera los estándares militares de protección – Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FJXQVS5L",
+        "price": 584.95,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone XR Protectora Case Uso Rudo, Reforzada en Las Esquinas, Antideslizante, Resistente a caídas, Borde TPU y Panel Trasero PC Gris Esmerilado",
+        "url": "https://www.amazon.com.mx/dp/B0FCYRLG5G",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Vainilla ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVDC1V5",
+        "price": 1099.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-17T16:16:23.532830+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141?athbdg=L1300",
+        "price": 789.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARCANELAIPHONEBUMPER": {
+    "ts": "2026-08-17T16:16:24.631800+00:00",
+    "items": []
+  },
+  "amazon|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
+    "ts": "2026-08-17T16:16:27.567973+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Laptop de 14 pulgadas FHD, procesador Intel Core i3-1315U, 8 GB RAM, SSD de 128 GB, Windows 11 Home, Intel UHD Graphics, Wi-Fi, Bluetooth, Quiet Blue, X1404VA-I38128",
+        "url": "https://www.amazon.com.mx/dp/B0FF4LGG9D",
+        "price": 6279.0,
+        "model": "X1404VA-I38128"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
+        "price": 7599.0,
+        "model": "1215U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14\" Fhd Display Laptop, Intel Core 5 120U Graphics, 8GB Ddr4, 256GB Ssd, Wi-fi 6, Bluetooth, Copilot Ai, Windows 11 Home en Modo S, Azul | 14\" FHD, Intel Core 5 120U, 8GB DDR4, 256GB SSD, Wi-Fi 6, Windows 11 Home en modo S, azul silencioso",
+        "url": "https://www.amazon.com.mx/dp/B0G1H9GYNJ",
+        "price": 8049.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook Go 15 15.6\" FHD 60Hz Laptop con procesador Intel N150, Intel UHD Graphics, 8GB RAM, 128GB SSD, Plata fría",
+        "url": "https://www.amazon.com.mx/dp/B0GPSX4BWX",
+        "price": 7496.01,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED (1920 x 1200), Video UHD Graphics, S.O. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0FP98S86K",
+        "price": 18799.0,
+        "model": "13900H"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
+        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
+        "price": 9408.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
+        "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
+        "price": 12389.0,
+        "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16X 16 WUXGA (1920x1200) IPS Laptop 2025 Nuevo | Intel i9-13900H de 14 núcleos | Intel Iris Xe Graphics | Teclado retroiluminado | Huella Dactilar | Wi-Fi 6E | 16GB DDR4 1TB SSD | Win10",
+        "url": "https://www.amazon.com.mx/dp/B0FYPJWY9T",
+        "price": 18239.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
+        "price": 10999.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS 2024 Vivobook Go 11.6\" HD Laptop, Intel Celeron N4500, Intel Graphics, 4GB, 128GB, Windows 11 Home en modo S, negro estrella, L210KA-ES04 (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D9QYVL3W",
+        "price": 4324.23,
+        "model": "L210KA-ES04"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS 2025 Laptop | Vivobook 14 | 14 pulgadas 1920 x 1080 | Intel-10 Core i5-1334U | Intel Iris Xe Graphics | 12GB DDR4 | 512GB SSD | Windows 11 Home | Wi-Fi 5 - Bluetooth 5 - Cámara HD 720p - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0FHHJN6DD",
+        "price": 12732.99,
+        "model": "Intel-10"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14\" FHD Laptop, Intel Core 13th 1315U, 12GB RAM, 640GB SSD (512GB PCIe + 128GB Disco Duro Portátil, Cámara Web 720p, Win11, con Mouse Inalámbrico) (12GB RAM | 640GB SSD)",
+        "url": "https://www.amazon.com.mx/dp/B0FNWJHY7Z",
+        "price": 8805.99,
+        "model": "1315U"
+      }
+    ]
+  },
+  "walmart|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
+    "ts": "2026-08-17T16:16:35.617963+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
+        "price": 17999.0,
+        "model": "13900H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046373228812?athbdg=L1300",
+        "price": 10579.0,
+        "model": "i5-1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 14: Procesador Intel Core i5 1334U (hasta 4.6 Ghz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 14\" LED Full HD (1920 x 1080), S.O. Windows 11 Pro.",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-procesador-intel-core-i5-1334u-hasta-4-6-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-14-led-full-hd-1920-x-1080-s-o-windows-11-pro-/00060336939790?athbdg=L1300",
+        "price": 12269.0,
+        "model": "1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046113099307?athbdg=L1300",
+        "price": 12499.0,
+        "model": "i5-1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 14 Intel Core i7 1355U 12GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i7-1355u-12gb-ram-512gb-ssd-14-windows-11-home-teclado-en-ingles/00019710587618?athbdg=L1300",
+        "price": 11349.0,
+        "model": "1355U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L1300",
+        "price": 32025.23,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 8GB RAM 128GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-8gb-ram-128gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046045033850?athbdg=L1300",
+        "price": 8499.0,
+        "model": "i3-1315U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus ROG G614PH-RV040W NVIDIA GeForce RTX 5050 R9 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-g614ph-rv040w-nvidia-geforce-rtx-5050-r9-16gb-512gb/00019929102100",
+        "price": 30997.0,
+        "model": "G614PH-RV040W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807?athbdg=L1300",
+        "price": 17999.0,
+        "model": "13900H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook X1504VA-E85362W C5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1504va-e85362w-c5-16gb-512gb/00019929138370",
+        "price": 14997.0,
+        "model": "X1504VA-E85362W"
+      }
+    ]
+  },
+  "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
+    "ts": "2026-08-17T16:16:36.240080+00:00",
     "items": []
   }
 }
