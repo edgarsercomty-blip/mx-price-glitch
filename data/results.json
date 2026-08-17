@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 22:16 UTC",
+  "generated_at": "2026-08-17 22:43 UTC",
   "products_scanned": 1623,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614837",
         "outlet": false
       }
     },
@@ -568,6 +547,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44011025",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Medianoche Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824645",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Blanco Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44639312",
         "outlet": false
       }
     },
