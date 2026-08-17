@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (810)
+# Historial de ofertas encontradas (812)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 07:19 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo,…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | $35,399 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-08-17 07:19 | -25% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-17 05:01 | -25% | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | $3,089 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-17 05:01 | -30% | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | $2,946 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-08-17 05:01 | -30% | palacio | [Correa para Apple Watch en acero inoxidable y silicón p…](https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html) | $3,702 | $3,702 en palacio vs mercado -> -30% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-18 10:56 | -26% | palacio | [Galaxy S26+ Silicone Magnet Case](https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-18 09:48 | -24% | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, …](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,479 | $7,479 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-18 08:13 | -25% | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | $1,012 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-18 08:13 | -25% | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | $13,020 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-18 08:13 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
