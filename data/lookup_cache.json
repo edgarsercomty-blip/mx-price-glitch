@@ -3556,103 +3556,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|VX182H4": {
-    "ts": "2026-08-15T17:35:52.410527+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hella - Foco H4-100 de alta potencia de 100/80 vatios",
-        "url": "https://www.amazon.com.mx/dp/B000COBLKW",
-        "price": 80.0,
-        "model": "H4-100"
-      },
-      {
-        "store": "amazon",
-        "name": "Hella H4 24V HD Juego de Focos Halógenos Resistentes 75/70 W",
-        "url": "https://www.amazon.com.mx/dp/B01FXS2UO2",
-        "price": 156.27,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hella Juego de Focos Halógenos de Alta Potencia H4 130/90W, Individual",
-        "url": "https://www.amazon.com.mx/dp/B000VUB4CW",
-        "price": 93.33,
-        "model": "130/90W"
-      },
-      {
-        "store": "amazon",
-        "name": "Hella H4 35/35wtb bombillas halógenas estándar, 12 V | Twin Blister, luz blanca, reemplazo en pares, instalación con guantes",
-        "url": "https://www.amazon.com.mx/dp/B078SGSQ6Q",
-        "price": 228.77,
-        "model": "35/35wtb"
-      },
-      {
-        "store": "amazon",
-        "name": "Hella H4 YL Foco Halogénico Amarillo H4 12 V 60/55 W, Paquete de 2",
-        "url": "https://www.amazon.com.mx/dp/B079TX26BB",
-        "price": 464.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Greluma 2 unidades de cerámica H4 casquillo acodado H4 9003 HB2 arnés de cableado para faros delanteros para coche, camión, barco, faro antiniebla",
-        "url": "https://www.amazon.com.mx/dp/B09P8KY9R4",
-        "price": 182.03,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hella - Foco H4 24V 100/90W de Alta Potencia 100/90 vatios",
-        "url": "https://www.amazon.com.mx/dp/B000H0QRYG",
-        "price": 196.5,
-        "model": "100/90W"
-      },
-      {
-        "store": "amazon",
-        "name": "Philips WhiteVision Ultra H4 - Bombilla para faros delanteros (4200 K, blíster único, 35489830)",
-        "url": "https://www.amazon.com.mx/dp/B07HS3HTBC",
-        "price": 569.64,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "H4/9003 - Kit de reequipamiento de lentes de proyector bi-LED, 70 W, 20 000 lm, 6000 K, haz de alta calidad blanco con corte en forma de Z, sin deslumbramiento, mejora tus faros con haz de",
-        "url": "https://www.amazon.com.mx/dp/B0H1R8GD36",
-        "price": 797.45,
-        "model": "H4/9003"
-      },
-      {
-        "store": "amazon",
-        "name": "HELLA Bombilla halógena H4 – High Wattage solo para aplicaciones fuera de carretera – 12 V – 100/90 W – Casquillo de la bombilla: P43t-38 – Caja – Cantidad: 1 – 8GJ 002 525-203, color blanco",
-        "url": "https://www.amazon.com.mx/dp/B00BNYMA32",
-        "price": 405.23,
-        "model": "P43t-38"
-      },
-      {
-        "store": "amazon",
-        "name": "Greluma - 2 mazos de cables H4 9003 HB2 para faros delanteros y faros delanteros de cerámica resistente para coche, camión, barco, retrofit",
-        "url": "https://www.amazon.com.mx/dp/B09WMW8Y9F",
-        "price": 353.61,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HELLA 2850811 Kit de Lámpara 5 3/4\" 135mm H4 12V ECE, Multi, Una Talla",
-        "url": "https://www.amazon.com.mx/dp/B001G7A9YS",
-        "price": 1502.76,
-        "model": "135mm"
-      }
-    ]
-  },
-  "walmart|VX182H4": {
-    "ts": "2026-08-15T17:36:08.694742+00:00",
-    "items": []
-  },
-  "sams|VX182H4": {
-    "ts": "2026-08-15T17:36:11.999974+00:00",
-    "items": []
-  },
   "amazon|ASUSGEFORCELAPTOPNVIDIAGAMING": {
     "ts": "2026-08-15T18:15:17.562650+00:00",
     "items": [
@@ -29394,6 +29297,153 @@
   },
   "sams|OSTERCAFETERATAZASTOUCHPANEL": {
     "ts": "2026-08-17T17:18:44.702053+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-17T17:48:14.379380+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
+        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
+        "price": 4259.0,
+        "model": "BVSTEM6801M"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
+        "price": 2983.17,
+        "model": "BVSTEM6604SS"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
+        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
+        "price": 2386.1,
+        "model": "BVSTDC4411-013ris"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-17T17:48:19.096237+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Espresso y Capuchino Chefman Panel Touch Acero Inoxidable 1.8 Litros RJ54-I-SV-MX",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-y-capuchino-chefman-panel-touch-acero-inoxidable-1-8-litros-rj54-i-sv-mx/00081008784646",
+        "price": 2599.0,
+        "model": "RJ54-I-SV-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 4253.48,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
+    "ts": "2026-08-17T17:48:20.337556+00:00",
     "items": []
   }
 }

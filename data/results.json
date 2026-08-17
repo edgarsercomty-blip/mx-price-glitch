@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 17:18 UTC",
-  "products_scanned": 1579,
+  "generated_at": "2026-08-17 17:48 UTC",
+  "products_scanned": 1635,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
         "outlet": false
       }
     },
