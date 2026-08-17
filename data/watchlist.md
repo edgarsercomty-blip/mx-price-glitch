@@ -417,7 +417,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | -25% |
 | 🟢 disponible | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $5,399 | -24% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | -23% |
-| 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $7,144 | -23% |
+| 🟢 disponible | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | -23% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | -47% |
 | 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,983 | -28% |
@@ -562,7 +562,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcleos, R…](https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html) | $35,999 | -25% |
 | 🟢 disponible | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | -20% |
 | 🟢 disponible | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | -20% |
-| 🟢 disponible | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,399 | -20% |
+| 🟢 disponible | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,999 | -20% |
 | 🟢 disponible | palacio | [Laptop, Vivobook 16, 16", AMD Ryzen 7, RAM 16 GB, SSD 512 GB…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html) | $13,527 | -24% |
 | 🟢 disponible | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | -20% |
 | 🟢 disponible | liverpool | [Motorola Edge 70 Fusion Fifa Poled 6 78 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-edge-70-fusion-fifa-poled-6-78-pulgadas-telcel/1197641921) | $5,599 | -32% |

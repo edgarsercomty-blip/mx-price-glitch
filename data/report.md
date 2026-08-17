@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-17 21:43 UTC
+# Errores/chollos de precio — 2026-08-17 22:16 UTC
 
-- Productos revisados: **1616**
+- Productos revisados: **1623**
 - Umbral de diferencia: **20%**
 - Hallazgos: **41**
 
@@ -26,6 +26,7 @@
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs amazon $10,296 -> -23% bajo la competencia |
 | -30% | $1,587 | palacio | [Correa para Apple Watch en acero inoxidable y silicón platea…](https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html) | $3,702 | Confirmado vs competencia | $3,702 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $1,500 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $4,499 | Confirmado vs competencia | $4,499 en palacio vs mercado -> -25% bajo la competencia |
 | -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
@@ -46,4 +47,3 @@
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
-| -20% | $90 | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | Confirmado vs competencia | $360 en palacio vs mercado -> -20% bajo la competencia |
