@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 11:29 UTC",
-  "products_scanned": 1461,
+  "generated_at": "2026-08-17 11:54 UTC",
+  "products_scanned": 1473,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -426,6 +426,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -573,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.8,
+      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3200.0,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
+      "price": 11999.2,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "ASUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175126381",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -610,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44004165",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262437",
         "outlet": false
       }
     },
@@ -694,27 +757,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45260351",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262437",
         "outlet": false
       }
     },
