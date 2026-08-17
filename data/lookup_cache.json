@@ -3882,363 +3882,6 @@
       }
     ]
   },
-  "amazon|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-15T22:55:27.939722+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
-        "price": 14399.0,
-        "model": "7735HS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
-        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
-        "price": 7999.0,
-        "model": "i7-1255U"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
-        "price": 5779.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
-        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
-        "price": 6179.0,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M | Gris | Retroiluminado | 8GB RAM DDR5 | 512GB SSD | Windows 11 Home | Paquete con lápiz táctil",
-        "url": "https://www.amazon.com.mx/dp/B0G8YR6FJ9",
-        "price": 14643.13,
-        "model": "i7-1255U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
-        "price": 12979.0,
-        "model": "83K700TUUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
-        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
-        "price": 8799.0,
-        "model": "i7-1165G7"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
-        "price": 8539.0,
-        "model": "256gb"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
-        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
-        "price": 13500.0,
-        "model": "300nits"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
-        "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
-        "price": 8402.16,
-        "model": "82KT-Renovado"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad 1 15AMN7 15.6\" Laptop AMD Ryzen 3 7320U 8GB RAM 256GB SSD PCIe NVMe Wi-Fi 6 Lector de Huellas Dactilares Abyss Blue Windows 11 Home en Modo S (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CLT3S7WB",
-        "price": 6812.75,
-        "model": "15AMN7"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
-        "price": 9767.08,
-        "model": "512GB"
-      }
-    ]
-  },
-  "walmart|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-15T22:55:31.915898+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
-        "price": 9519.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
-        "price": 8589.0,
-        "model": "15AMN7"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
-        "price": 26599.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 512GB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
-        "price": 21499.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
-        "price": 13609.0,
-        "model": "83k700axlm"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
-        "price": 6899.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
-        "price": 13779.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
-        "price": 8629.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad Slim 3 15.3\" WUXGA Touch AMD Ryzen 7 16GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-touch-amd-ryzen-7-16gb-ram-512gb-ssd/00019927392295?athbdg=L1300",
-        "price": 13419.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
-        "price": 7999.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
-        "price": 12849.0,
-        "model": "83K700TUUS"
-      },
-      {
-        "store": "walmart",
-        "name": "LENOVO IDEAPAD SLIM 3 (83K700TUUS) 15.3\" 2K TOUCH RYZEN 7 16GB 512GB SSD W11 GRIS",
-        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-83k700tuus-15-3-2k-touch-ryzen-7-16gb-512gb-ssd-w11-gris/00750232957123?athbdg=L1300",
-        "price": 12729.0,
-        "model": "83K700TUUS"
-      }
-    ]
-  },
-  "sams|LENOVOIDEAPADLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-15T22:55:33.231611+00:00",
-    "items": []
-  },
-  "amazon|APPLENUCLEOSMACBOOKRAMSSD": {
-    "ts": "2026-08-15T23:11:49.357444+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air de Finales de 2020 con Chip Apple M1 (13 Pulgadas, 8 GB de RAM, 256 GB SSD) Plata (reacondicionado) | SSD de 256 GB, renovado, 8 GB de RAM, chip M1",
-        "url": "https://www.amazon.com.mx/dp/B08PV4GYCL",
-        "price": 8861.49,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2020 Apple MacBook Air con Chip M1 (13.3 Pulgadas, 8 GB de RAM, 128 GB de SSD) (QWERTY Inglés) Plata (Reacondicionado) | Plata, renovado",
-        "url": "https://www.amazon.com.mx/dp/B09WJHLWHG",
-        "price": 7998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
-        "price": 49999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 16 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FWDTGNT6",
-        "price": 44999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOKRAMSSD": {
-    "ts": "2026-08-15T23:12:07.709225+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 2025 13.6\" M4 10-Core 16GB RAM 256GB SSD Liquid Retina Midnight teclado Retroiluminado macOS",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-2025-13-6-m4-10-core-16gb-ram-256gb-ssd-liquid-retina-midnight-teclado-retroiluminado-macos/00019594983813?athbdg=L1300",
-        "price": 21349.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Air 2025 M4 13.6\" Liquid Retina 16GB RAM 256GB SSD Sky Blue Teclado Retroiluminado",
-        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-air-2025-m4-13-6-liquid-retina-16gb-ram-256gb-ssd-sky-blue-teclado-retroiluminado/00019594989026?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Silver",
-        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-neo-13-a18-pro-256gb-ssd-8gb-ram-mac-os-silver/00019595085086?athbdg=L6000",
-        "price": 15999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Apple MacBook Neo 13\" A18 Pro 256GB SSD 8GB RAM Mac OS Citrus",
-        "url": "https://www.walmart.com.mx/ip/laptop-apple-macbook-neo-13-a18-pro-256gb-ssd-8gb-ram-mac-os-citrus/00019595085180?athbdg=L1300",
-        "price": 13149.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13: Apple M4, RAM 16GB, SSD 256GB, Pantalla 13.6\", macOS Sequoia",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-apple-m4-ram-16gb-ssd-256gb-pantalla-13-6-macos-sequoia/00019594983625?athbdg=L1300",
-        "price": 21349.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Pro 2015 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-2015-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321890?athbdg=L1500",
-        "price": 8999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Apple M2 16 GB RAM 256 GB SSD Media noche",
-        "url": "https://www.walmart.com.mx/ip/macbook-apple-m2-16-gb-ram-256-gb-ssd-media-noche/00019594990027?athbdg=L6000",
-        "price": 22999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Pro 2017 Apple Core i5 8GB RAM 128GB SSD Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-2017-apple-core-i5-8gb-ram-128gb-ssd-reacondicionado/00075976321891?athbdg=L1500",
-        "price": 9999.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOKRAMSSD": {
-    "ts": "2026-08-15T23:12:08.555410+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
     "ts": "2026-08-15T23:35:21.009272+00:00",
     "items": [
@@ -31508,6 +31151,245 @@
         "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
         "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
         "price": 1424.02,
+        "model": null
+      }
+    ]
+  },
+  "amazon|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-17T23:14:40.669059+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
+        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
+        "price": 4259.0,
+        "model": "BVSTEM6801M"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
+        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
+        "price": 479.0,
+        "model": "49970-MX"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Individual con Termo 16 oz y Filtro Permanente, CM618 | Cesta de filtro extraíble, apagado automático y piezas aptas para lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B008YS1WXE",
+        "price": 451.82,
+        "model": "CM618"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
+        "price": 359.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS MEDEA 2000 | Cafetera personal | Taza de cerámica incluida | Negra | Filtro lavable y reutilizable | Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B0D163BP7Z",
+        "price": 283.38,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JadeCook Cafetera Programable de Goteo 12 Tazas, 1.8 L, Panel Touch, Sistema Antigoteo, Jarra de Cristal, Color Plateado C0545-00",
+        "url": "https://www.amazon.com.mx/dp/B0GG67J6FL",
+        "price": 695.0,
+        "model": "C0545-00"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-17T23:14:44.255211+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-programable-de-5-tazas-de-capacidad-con-filtro-reutilizable-funcion-pausa-y-servir-apagado-automatico-pantalla-led-jarra-con-medidas-color-negro-bvstdcp51/00046309775269?athbdg=L1300",
+        "price": 1760.0,
+        "model": "BVSTDCP51"
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-17T23:14:49.793626+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
+        "price": 715.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
+        "price": 2044.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
+        "price": 561.61,
+        "model": "46299J-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
+        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
+        "price": 912.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
+        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
+        "price": 3241.89,
+        "model": "DGB-800ES"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
+        "price": 2037.82,
+        "model": "KP440EMX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
+        "price": 1424.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
+        "price": 602.55,
+        "model": "46310-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1020.95,
+        "model": "TEKM-1500"
+      },
+      {
+        "store": "sams",
+        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
+        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
+        "price": 91.03,
         "model": null
       }
     ]
