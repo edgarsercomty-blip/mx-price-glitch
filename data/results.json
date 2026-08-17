@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 09:59 UTC",
-  "products_scanned": 1519,
+  "generated_at": "2026-08-17 10:31 UTC",
+  "products_scanned": 1521,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$1,336 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 572.7,
-      "store": "palacio",
-      "name": "Correa The Single T Jelly para Apple Watch en silicona",
-      "url": "https://www.elpalaciodehierro.com/tory-burch-correa-the-single-t-jelly-para-apple-watch-en-silicona-45479315.html",
-      "price": 1336.3,
-      "list_price": 1909.0,
-      "ean": null,
-      "model": null,
-      "brand": "Tory Burch",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45479314",
         "outlet": false
       }
     },

@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-17 09:59 UTC
+# Errores/chollos de precio — 2026-08-17 10:31 UTC
 
-- Productos revisados: **1519**
+- Productos revisados: **1521**
 - Umbral de diferencia: **20%**
-- Hallazgos: **35**
+- Hallazgos: **34**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -35,7 +35,6 @@
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $748 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -23% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
-| -30% | $573 | palacio | [Correa The Single T Jelly para Apple Watch en silicona](https://www.elpalaciodehierro.com/tory-burch-correa-the-single-t-jelly-para-apple-watch-en-silicona-45479315.html) | $1,336 | Confirmado vs competencia | $1,336 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $560 | liverpool | [Smartwatch Amazfit Active 2 Premium Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411) | $2,239 | Confirmado vs competencia | $2,239 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $550 | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -20% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |

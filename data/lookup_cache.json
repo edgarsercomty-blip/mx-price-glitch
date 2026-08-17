@@ -4260,758 +4260,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|GARMINSMARTWATCHFORERUNNERGARMINGPS": {
-    "ts": "2026-08-15T10:13:16.653777+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 55 Negro",
-        "url": "https://www.amazon.com.mx/dp/B092RCLKHN",
-        "price": 2811.48,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 965, Amp Yellow",
-        "url": "https://www.amazon.com.mx/dp/B0BS1TP8TJ",
-        "price": 9524.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 265 Music Black, 46 mm | visualización táctil amoleada de 46 mm, GPS multibanda integrado, métricas de entrenamiento e información de recuperación",
-        "url": "https://www.amazon.com.mx/dp/B0BS1T9J4Y",
-        "price": 7599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 165 Music Black/Slate Grey",
-        "url": "https://www.amazon.com.mx/dp/B0CWB662HK",
-        "price": 5038.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin® Forerunner® 970, Reloj Inteligente de triatlón y GPS de Alta Calidad, visualización AMOLED, Linterna LED integrada, Titanio Black/Amp Yellow | Reloj inteligente premium con GPS para correr y triathlong, pantalla AMOLED, linterna integrada, navegación mejorada",
-        "url": "https://www.amazon.com.mx/dp/B0F8QZ7233",
-        "price": 15698.93,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin® Forerunner® 970, Reloj Inteligente de triatlón y GPS de Alta Calidad, visualización AMOLED, Linterna LED integrada, Titanio Whitestone/Amp Yellow | Reloj inteligente premium con GPS para correr y triathlong, visualización AMOLED, linterna integrada, navegación mejorada",
-        "url": "https://www.amazon.com.mx/dp/B0F8QWPVNK",
-        "price": 15372.34,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 965, Black",
-        "url": "https://www.amazon.com.mx/dp/B0BS1XZY7T",
-        "price": 9524.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Forerunner 265S Music White, 42mm",
-        "url": "https://www.amazon.com.mx/dp/B0BS2F6DJ3",
-        "price": 7599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin® Forerunner® 970, Reloj Inteligente de triatlón y GPS de Alta Calidad, visualización AMOLED, Linterna LED integrada, Titanio French Gray/Indigo | Reloj inteligente con GPS de alta calidad y triatlón, pantalla AMOLED, linterna integrada, navegación mejorada",
-        "url": "https://www.amazon.com.mx/dp/B0F8QYMD74",
-        "price": 15444.76,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Reloj Forerunner 70 Black",
-        "url": "https://www.amazon.com.mx/dp/B0H1FBRQD9",
-        "price": 5098.98,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Reloj, Forerunner 170 Music, Whitestone/Cloud Blue",
-        "url": "https://www.amazon.com.mx/dp/B0H1FDHVPG",
-        "price": 7099.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin vívoactive® 6, Reloj Inteligente GPS de Salud y Fitness, visualización AMOLED, hasta 11 días de batería | visualización táctil Amoled • GPS incorporado • Batería de hasta 11 días • Funda de 42 mm • Banda de silicona ósea",
-        "url": "https://www.amazon.com.mx/dp/B0F38FCHD2",
-        "price": 5353.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|GARMINSMARTWATCHFORERUNNERGARMINGPS": {
-    "ts": "2026-08-15T10:13:44.590946+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartwatch Garmin Forerunner 170 GPS con Correa Whitestone",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-garmin-forerunner-170-gps-con-correa-whitestone/00075375936830?athbdg=L6000",
-        "price": 6099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmim Monitor Deportivo, Forerunner 165, Black Garmin 010-02863-20",
-        "url": "https://www.walmart.com.mx/ip/garmim-monitor-deportivo-forerunner-165-black-garmin-010-02863-20/00075375932659?athbdg=L1300",
-        "price": 6229.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Garmin Forerunner 570 de 42 mm con GPS y AMOLED, paquete",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-garmin-forerunner-570-de-42-mm-con-gps-y-amoled-paquete/00046609358148?athbdg=L1300",
-        "price": 15769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj GPS Garmin Forerunner 570 AMOLED (42mm) Negro negro 42mm",
-        "url": "https://www.walmart.com.mx/ip/reloj-gps-garmin-forerunner-570-amoled-42mm-negro-negro-42mm/00075375934980?athbdg=L6000",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente GPS Garmin Forerunner 570 47mm AMOLED Slate",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-gps-garmin-forerunner-570-47mm-amoled-slate/00081013245740?athbdg=L1300",
-        "price": 15489.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Garmin Forerunner 570 de 42 mm con GPS para running, paquete",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-garmin-forerunner-570-de-42-mm-con-gps-para-running-paquete/00019627113842?athbdg=L1300",
-        "price": 15499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Garmin Forerunner 165 GPS Running negro/gris pizarra",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-garmin-forerunner-165-gps-running-negro-gris-pizarra/00081014343843?athbdg=L1300",
-        "price": 6759.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Wearable4U Garmin Forerunner 265S 42mm Reloj GPS para Correr con Pantalla AMOLED",
-        "url": "https://www.walmart.com.mx/ip/wearable4u-garmin-forerunner-265s-42mm-reloj-gps-para-correr-con-pantalla-amoled/00081013245021?athbdg=L1300",
-        "price": 12119.0,
-        "model": "Wearable4U"
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Garmin Forerunner 170 Music con GPS para correr",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-garmin-forerunner-170-music-con-gps-para-correr/00075375936832?athbdg=L1300",
-        "price": 9629.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Wearable4U Garmin Forerunner 265S Reloj GPS AMOLED 42 mm",
-        "url": "https://www.walmart.com.mx/ip/wearable4u-garmin-forerunner-265s-reloj-gps-amoled-42-mm/00081013245014?athbdg=L1300",
-        "price": 12119.0,
-        "model": "Wearable4U"
-      },
-      {
-        "store": "walmart",
-        "name": "Wearable4U Garmin Forerunner 265S Reloj GPS AMOLED de 42 mm",
-        "url": "https://www.walmart.com.mx/ip/wearable4u-garmin-forerunner-265s-reloj-gps-amoled-de-42-mm/00081013245004?athbdg=L1300",
-        "price": 11989.0,
-        "model": "Wearable4U"
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Garmin Forerunner 70 GPS para correr color lavanda",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-garmin-forerunner-70-gps-para-correr-color-lavanda/00075375936838?athbdg=L1300",
-        "price": 6939.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|GARMINSMARTWATCHFORERUNNERGARMINGPS": {
-    "ts": "2026-08-15T10:13:47.630003+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 570 con GPS 42 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-42-mm/981042767",
-        "price": 11498.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 570 con GPS 47 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-47-mm/981042768",
-        "price": 11498.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 970 con GPS Gris 22 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-gris-22-mm/981042769",
-        "price": 15698.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 970 con GPS Negro 22 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-negro-22-mm/981042770",
-        "price": 15698.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente de Carrera Garmin  con GPS Forerunner 265s",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-de-carrera-garmin-con-gps-forerunner-265s/981029646",
-        "price": 9498.54,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente de Carrera y Triatlón Garmin  Premium con GPS Forerunner 965",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-de-carrera-y-triatlon-garmin-premium-con-gps-forerunner-965/981029648",
-        "price": 12698.49,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Instinct 3 con GPS Amoled 50 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-instinct-3-con-gps-amoled-50-mm/981042296",
-        "price": 9134.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Venu X1",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-venu-x1/981042771",
-        "price": 14598.19,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Dispositivo GPS Garmin  eTrex 32x",
-        "url": "https://www.sams.com.mx/ip/dispositivo-gps-garmin-etrex-32x/981029665",
-        "price": 5998.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Dispositivo de Mano Garmin  GPS MAP67",
-        "url": "https://www.sams.com.mx/ip/dispositivo-de-mano-garmin-gps-map67/981029666",
-        "price": 9998.79,
-        "model": "MAP67"
-      },
-      {
-        "store": "sams",
-        "name": "Dispositivo de Mano Garmin  GPS MAP65s",
-        "url": "https://www.sams.com.mx/ip/dispositivo-de-mano-garmin-gps-map65s/981029667",
-        "price": 8398.82,
-        "model": "MAP65s"
-      },
-      {
-        "store": "sams",
-        "name": "Reloj para Golf con GPS Garmin  Approach S70 42 mm",
-        "url": "https://www.sams.com.mx/ip/reloj-para-golf-con-gps-garmin-approach-s70-42-mm/981029655",
-        "price": 13598.73,
-        "model": null
-      }
-    ]
-  },
-  "amazon|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
-    "ts": "2026-08-15T10:13:50.164312+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0FH429674",
-        "price": 18499.0,
-        "model": "144Hz/Wi-Fi"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
-        "price": 20599.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
-        "price": 26999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF A16/ NVIDIA GeForce RTX 5050/ Ryzen 7 260/NPU dedicada para IA, más de 16 Tops/ 16 GB -512 SSD/Teclado en Español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0FDPD78ZX",
-        "price": 25999.0,
-        "model": "260/NPU"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Gaming Lenovo LOQ | AMD Ryzen 7 7735HS | 16GB RAM 512GB SSD | 15,6\" FHD | NVIDIA GeForce RTX 4050 | con AI | Windows 11 (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0H2X6BJM1",
-        "price": 22499.0,
-        "model": "7735HS"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F15 Laptop Gamer 15.6\" FHD 144Hz, Intel Core i5-11400H 2.7GHz, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB, Windows 11 Home, Negro Grafito",
-        "url": "https://www.amazon.com.mx/dp/B0CCGDQZ1M",
-        "price": 15290.73,
-        "model": "i5-11400H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16 Laptop IA Gamer Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU Rendimiento Total 38 Tops 32GB 1TB Pantalla 16\" IPS FHD+ 165Hz Teclado Ingles Copilot Gaming Proxima Generacion",
-        "url": "https://www.amazon.com.mx/dp/B0GVPSJH5B",
-        "price": 38899.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop Gamer TUF Gaming A18 NVIDIA GeForce RTX 5060 AMD Ryzen 7 260 16GB DDR5 SSD 1TB 18\" WUXGA 144Hz Teclado Ingles Gaming Competitivo y Creacion de Contenido",
-        "url": "https://www.amazon.com.mx/dp/B0GLHF42BM",
-        "price": 32999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS ROG Strix G16 AMD Ryzen™ 9 8940HX/NVIDIA® GeForce RTX™ 5050/ 16GB/ 512GB SSD/Teclado Retroiluminado de 4 Zonas/Garantia con la Marca en Mexico",
-        "url": "https://www.amazon.com.mx/dp/B0FLF9YSGF",
-        "price": 29699.0,
-        "model": "8940HX/NVIDIA"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop ASUS TUF Gaming 16\" Ryzen 7 16GB 512GB Negro FA607NUQ-WS73",
-        "url": "https://www.amazon.com.mx/dp/B0H967X8J5",
-        "price": 20739.0,
-        "model": "FA607NUQ-WS73"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16 Laptop, visualización FHD de 16 pulgadas + 165Hz 16:10, procesador Intel i5 13450HX, NVIDIA GeForce RTX 5050, 16 GB DDR5, 512 GB SSD, Thunderbolt 4, Wi-Fi 6E, gris, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0H8HX53GV",
-        "price": 24424.89,
-        "model": "13450HX"
-      }
-    ]
-  },
-  "walmart|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
-    "ts": "2026-08-15T10:13:53.706316+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
-        "price": 29997.0,
-        "model": "V3607VM-RP033W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1300",
-        "price": 15497.0,
-        "model": "FX607VJ-RL022W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
-        "price": 14997.0,
-        "model": "FX607VJ-RL805W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
-        "price": 23997.0,
-        "model": "FX608JHR-RV147W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 32GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-32gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118570?athbdg=L1300",
-        "price": 35999.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop IA Gamer ASUS TUF Gaming A16 Nvidia GeForce RTX 5060 8GB DLSS Ryzen 7 260 NPU 64GB 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-nvidia-geforce-rtx-5060-8gb-dlss-ryzen-7-260-npu-64gb-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118585?athbdg=L1300",
-        "price": 44999.0,
-        "model": "165Hz"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
-        "price": 14997.0,
-        "model": "FX607VJ-RL805W"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS TUF Gaming Laptop A18 Pulgadas - NVIDIA RTX 5060 - AMD Ryzen 7 260 Beat i9-13905H - Pantalla WUXGA de 18\" 144Hz - 32GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - Thunderbolt 4 - Cámara FH",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-gaming-laptop-a18-pulgadas-nvidia-rtx-5060-amd-ryzen-7-260-beat-i9-13905h-pantalla-wuxga-de-18-144hz-32gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-thunderbolt-4-camara-fh/00019710551608?athbdg=L1300",
-        "price": 41050.61,
-        "model": "i9-13905H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS V16:  Ultra 7 240H, Memoria de 32GB DDR5, SSD de 1TB, Pantalla de 16\" LED WUXGA (1920 x 1200), Video NVIDIA GeForce RTX 5060, S.O. Windows 11 Home.",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-v16-ultra-7-240h-memoria-de-32gb-ddr5-ssd-de-1tb-pantalla-de-16-led-wuxga-1920-x-1200-video-nvidia-geforce-rtx-5060-s-o-windows-11-home-/00019710590587?athbdg=L1300",
-        "price": 29229.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
-        "price": 15497.0,
-        "model": "FX607VJ-RL022W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS ROG Strix G16 GeForce RTX 5070 Ryzen 9 8940HX 16GB DDR5 SSD 1TB 16\" Teclado Ingles Gaming Competitivo",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-strix-g16-geforce-rtx-5070-ryzen-9-8940hx-16gb-ddr5-ssd-1tb-16-teclado-ingles-gaming-competitivo/00019929113346?athbdg=L1300",
-        "price": 41899.0,
-        "model": "8940HX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Gamer ASUS ROG Strix G16 GeForce RTX 5070 8GB DLSS 4.5 Ryzen 9 8940HX 64GB DDR5 1TB 16\" IPS FHD+ 165Hz Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-strix-g16-geforce-rtx-5070-8gb-dlss-4-5-ryzen-9-8940hx-64gb-ddr5-1tb-16-ips-fhd-165hz-teclado-ingles/00070452118545?athbdg=L1300",
-        "price": 55899.0,
-        "model": "8940HX"
-      }
-    ]
-  },
-  "sams|ASUSGEFORCENVIDIAGAMINGLAPTOP": {
-    "ts": "2026-08-15T10:13:56.887063+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD RTX 4050 15-FB3011LA + Mouse Gaming Hyperx HP",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-rtx-4050-15-fb3011la-mouse-gaming-hyperx-hp/981039414",
-        "price": 17999.0,
-        "model": "15-FB3011LA"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
-        "price": 23527.98,
-        "model": "15-fb3021la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 12786.48,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Monitor Portátil Asus  MB16AHVE",
-        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
-        "price": 2658.78,
-        "model": "MB16AHVE"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
-        "price": 23118.78,
-        "model": "FA506NCQ-HN058W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming Asus  F16 Core i5/8 GB RAM/512 GB SSD FX607VJ-RL039W",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-asus-f16-core-i5-8-gb-ram-512-gb-ssd-fx607vj-rl039w/981039333",
-        "price": 14730.18,
-        "model": "FX607VJ-RL039W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
-        "price": 26085.48,
-        "model": "FA607NUQ-RL044W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
-        "price": 18412.98,
-        "model": "FA607NU-RL110W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus AMD Ryzen 5/8 GB RAM/512 GB SSD 15-fb2002la + Audífonos HyperX Stinger Core 2",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-amd-ryzen-5-8-gb-ram-512-gb-ssd-15-fb2002la-audifonos-hyperx-stinger-core-2/981023807",
-        "price": 12271.91,
-        "model": "15-fb2002la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming Lenovo LOQ AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP9",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-lenovo-loq-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp9/981042884",
-        "price": 20454.89,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming Lenovo LOQ Ryzen 5/8 GB RAM/512 GB SSD",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-lenovo-loq-ryzen-5-8-gb-ram-512-gb-ssd/981027262",
-        "price": 14318.93,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Acer  Intel Core i7/16 GB RAM/512 GB SSD NL16-71G-74WV",
-        "url": "https://www.sams.com.mx/ip/laptop-acer-intel-core-i7-16-gb-ram-512-gb-ssd-nl16-71g-74wv/981039258",
-        "price": 29665.96,
-        "model": "NL16-71G-74WV"
-      }
-    ]
-  },
-  "amazon|APPLENUCLEOSMACBOOK512GPU": {
-    "ts": "2026-08-15T10:14:00.505974+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR6PXSTQ",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR6PXSTQ",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
-        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0CX2512LK",
-        "price": 22499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOK512GPU": {
-    "ts": "2026-08-15T10:14:03.377535+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/MacBook-Pro-de-Apple-2025-con-chip-M5-CPU-de-10-nucleos-y-GPU-de-10-nucleos-Disenado-para-la-inteligencia-de-Apple-pantalla-Liquid-Retina-XDR-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-SSD-de-256-GB-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Pro-de-16-pulgadas-con-chip-M5-Pro-CPU-de-12-nucleos-y-GPU-de-20-nucleos-24-GB-de-memoria-SSD-de-1-TB-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color Indigo",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-Indigo/00019595085321?athbdg=L6000",
-        "price": 16499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOK512GPU": {
-    "ts": "2026-08-15T10:14:08.191707+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035023",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-blanco-estelar/981035033",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-blanco-estelar/981035022",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-medianoche/981035027",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-medianoche/981035029",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
-  },
   "amazon|APPLEMACBOOKNUCLEOSGPUCPU": {
     "ts": "2026-08-15T10:41:36.969918+00:00",
     "items": [
@@ -27639,6 +26887,125 @@
   },
   "sams|COACHCORREAWATCHAPPLEACERO": {
     "ts": "2026-08-17T09:59:28.167129+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-08-17T10:31:07.314403+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1759.0,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "SANGKEE Cafetera de Goteo 6 Tazas, Molinillo Integrado, 850 ml, Táctil | 2 intensidades, filtro permanente, mantiene caliente, fácil limpieza, para granos, café molido, casa u oficina, DPS-G2",
+        "url": "https://www.amazon.com.mx/dp/B0G1H8N4WQ",
+        "price": 1579.0,
+        "model": "DPS-G2"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cecotec Cafetera de Goteo Coffee 56 Time 1000W Acero Inoxidable Pantalla LCD 1,3L",
+        "url": "https://www.amazon.com.mx/dp/B0GV1PTTW7",
+        "price": 1053.0,
+        "model": "1000W"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-08-17T10:31:10.531350+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
+    "ts": "2026-08-17T10:31:11.613614+00:00",
     "items": []
   }
 }
