@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 16:16 UTC",
-  "products_scanned": 1583,
+  "generated_at": "2026-08-17 16:48 UTC",
+  "products_scanned": 1581,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -679,27 +679,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
       "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 230.0,
@@ -757,27 +736,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1201359151",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,239 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 559.8,
-      "store": "liverpool",
-      "name": "Smartwatch Amazfit Active 2 Premium Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411",
-      "price": 2239.2,
-      "list_price": 2799.0,
-      "ean": null,
-      "model": null,
-      "brand": "AMAZFIT",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1189975411",
         "marketplace": null
       }
     },
