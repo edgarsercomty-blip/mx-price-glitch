@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 19:45 UTC",
-  "products_scanned": 1577,
+  "generated_at": "2026-08-17 20:16 UTC",
+  "products_scanned": 1610,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,6 +44,27 @@
       "extra": {
         "id": "42614838",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$14,399 en liverpool vs mercado -> -36% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8099.8,
+      "store": "liverpool",
+      "name": "Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768",
+      "price": 14399.2,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1191395768",
+        "marketplace": null
       }
     },
     {
@@ -363,6 +384,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -615,6 +657,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.8,
+      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3200.0,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
+      "price": 11999.2,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "ASUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175126381",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -694,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196432023",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 5.0,
+      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.65,
+      "store": "liverpool",
+      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
+      "price": 12799.35,
+      "list_price": 13473.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173032684",
         "marketplace": null
       }
     },

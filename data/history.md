@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (825)
+# Historial de ofertas encontradas (826)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 20:16 | -20% | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-17 15:34 | -27% | walmart | [Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pant…](https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469) | $499 | $499 en walmart vs amazon $685 -> -27% bajo la competencia |
 | 2026-08-17 15:34 | -34% | walmart | [Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led](https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984) | $999 | $999 en walmart vs amazon $1,521, amazon $1,521 -> -34% bajo la competencia |
 | 2026-08-17 15:34 | -50% | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vas…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-rojo/p/MLM41822619) | $498 | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-20 21:56 | -56% | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $149 | $149 en liverpool vs mercado -> -56% bajo la competencia |
 | 2026-07-20 19:09 | -20% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,377 | $3,377 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-20 19:09 | -48% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
-| 2026-07-20 19:09 | -48% | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | $15,929 en palacio vs mercado -> -48% bajo la competencia |
