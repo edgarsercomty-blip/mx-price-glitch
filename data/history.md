@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (821)
+# Historial de ofertas encontradas (825)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 15:34 | -27% | walmart | [Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pant…](https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469) | $499 | $499 en walmart vs amazon $685 -> -27% bajo la competencia |
+| 2026-08-17 15:34 | -34% | walmart | [Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led](https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984) | $999 | $999 en walmart vs amazon $1,521, amazon $1,521 -> -34% bajo la competencia |
+| 2026-08-17 15:34 | -50% | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vas…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-rojo/p/MLM41822619) | $498 | $498 en mercadolibre vs mercado -> -50% bajo la competencia |
+| 2026-08-17 15:34 | -69% | mercadolibre | [Audífonos In-ear Inalámbricos Lenovo Livepods Lp40 Thin…](https://www.mercadolibre.com.mx/audifonos-in-ear-inalambricos-lenovo-livepods-lp40-thinkplus-blanco/p/MLM23127293) | $147 | $147 en mercadolibre vs mercado -> -69% bajo la competencia |
 | 2026-08-17 14:47 | -35% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,118 | $2,118 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-17 12:24 | -43% | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,234 | $1,234 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-17 11:54 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | $35,399 en palacio vs mercado -> -23% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-20 19:09 | -20% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,377 | $3,377 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-20 19:09 | -48% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
 | 2026-07-20 19:09 | -48% | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $15,929 | $15,929 en palacio vs mercado -> -48% bajo la competencia |
-| 2026-07-20 17:06 | -26% | liverpool | [Cafetera De Goteo Oster Bvstdc12B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdc12b/1153472749) | $460 | $460 en liverpool vs mercado -> -26% bajo la competencia |
-| 2026-07-20 16:22 | -26% | palacio | [Funda magnética transparente para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-transparente-para-galaxy-s26-plus-45272462.html) | $591 | $591 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-20 15:22 | -20% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $2,095 | $2,095 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-20 13:02 | -24% | liverpool | [Congelador Aurus Afc11W Horizontal 11 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-aurus-afc11w-horizontal-11-pies-cubicos/1142280082) | $7,573 | $7,573 en liverpool vs mercado -> -24% bajo la competencia |
