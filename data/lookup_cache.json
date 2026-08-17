@@ -4631,50 +4631,8 @@
     "ts": "2026-08-16T21:13:36.098630+00:00",
     "items": []
   },
-  "amazon|65QNED81BSG": {
-    "ts": "2026-08-15T00:52:52.484451+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas QNED EVO AI Mini LED QNED81 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0H1P7Z2GT",
-        "price": 12499.0,
-        "model": "QNED81"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Pantalla 65 Pulgadas QNED EVO AI Mini LED QNED71 4K Smart TV webOS 2026",
-        "url": "https://www.amazon.com.mx/dp/B0H1P6JXZ1",
-        "price": 11699.0,
-        "model": "QNED71"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Original Magic IA Mr26ga 2026 Akb30086801 | Modelo MR26GA, AKB30086801, Magic IA, Original LG, 2026",
-        "url": "https://www.amazon.com.mx/dp/B0H8NJJQRH",
-        "price": 550.0,
-        "model": "Akb30086801"
-      }
-    ]
-  },
-  "walmart|65QNED81BSG": {
-    "ts": "2026-08-15T00:52:56.489759+00:00",
-    "items": []
-  },
-  "sams|65QNED81BSG": {
-    "ts": "2026-08-15T00:53:00.250393+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Pantalla LG  65\" QNED Smart TV AI 4K 65QNED82ASG",
-        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-qned-smart-tv-ai-4k-65qned82asg/981038745",
-        "price": 13296.95,
-        "model": "65QNED82ASG"
-      }
-    ]
-  },
   "amazon|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-15T00:53:02.882527+00:00",
+    "ts": "2026-08-17T02:14:58.406620+00:00",
     "items": [
       {
         "store": "amazon",
@@ -4699,22 +4657,8 @@
       },
       {
         "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
         "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
         "price": 1799.0,
         "model": null
       },
@@ -4727,9 +4671,16 @@
       },
       {
         "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
-        "price": 2299.0,
+        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
+        "price": 1299.0,
         "model": null
       },
       {
@@ -4741,42 +4692,49 @@
       },
       {
         "store": "amazon",
+        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JETech Funda Magnética para iPad Pro 12.9\" 6/5/4/3, Negro | Para 2022/2021/2020/2018 Modelo, Diseño Inteligente Slim, Pencil 2.ª Carga, Activación/Reposo Automático, Carcasa Ligera",
+        "url": "https://www.amazon.com.mx/dp/B07MX9LSNN",
+        "price": 449.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Smart Keyboard Folio (para iPad Pro 11 pulgadas, inglés de EE. UU.) (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B07RC814V3",
+        "price": 2081.34,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Morado Claro ​​​​​​​",
         "url": "https://www.amazon.com.mx/dp/B0D3J6WJSW",
         "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7X4QV",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio (para iPad Pro de 11 Pulgadas), Color Blanco",
-        "url": "https://www.amazon.com.mx/dp/B07K25B9DD",
-        "price": 818.24,
         "model": null
       }
     ]
   },
   "walmart|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-15T00:53:14.198672+00:00",
+    "ts": "2026-08-17T02:15:01.204949+00:00",
     "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
-        "price": 1169.0,
-        "model": null
-      },
       {
         "store": "walmart",
         "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
         "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
         "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
+        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
+        "price": 1169.0,
         "model": null
       },
       {
@@ -4816,9 +4774,23 @@
       },
       {
         "store": "walmart",
+        "name": "Smart Folio para iPad Pro de 12,9 Pulgadas (Quinta Generación) - Gris Carbón",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-para-ipad-pro-de-12-9-pulgadas-quinta-generacion-gris-carbon/00019019876382?athbdg=L6000",
+        "price": 4047.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
         "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
         "price": 875.82,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
+        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
+        "price": 1039.0,
         "model": null
       },
       {
@@ -4834,111 +4806,12 @@
         "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
         "price": 672.0,
         "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
-        "price": 1039.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
-        "price": 2769.0,
-        "model": null
       }
     ]
   },
   "sams|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-15T00:53:18.282985+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-azul/981034971",
-        "price": 9899.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-azul/981034970",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Amarillo",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-amarillo/981034973",
-        "price": 9899.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Rosa",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-rosa/981034976",
-        "price": 9899.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Amarillo",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-amarillo/981034972",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 512 GB Rosa",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-512-gb-rosa/981034975",
-        "price": 13999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Plata",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-plata/981034978",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Plata",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-plata/981034977",
-        "price": 9899.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Rosa",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-rosa/981034974",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  13\" M3 128 GB WiFi Morado",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-128-gb-wifi-morado/981035003",
-        "price": 17997.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  13\" M3 512 GB WiFi Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-512-gb-wifi-azul/981035007",
-        "price": 24747.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-azul/981034981",
-        "price": 13497.0,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-17T02:15:01.779453+00:00",
+    "items": []
   },
   "palacio|GEAR4": {
     "ts": "2026-08-15T02:22:12.772294+00:00",
@@ -31432,6 +31305,300 @@
   },
   "sams|XIAOMICRYSTALRESAMOLEDXIAOMIREDMI": {
     "ts": "2026-08-16T23:51:35.273108+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-17T02:14:47.070051+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung RAF36DB3P0 - Panel de refrigerador de 3 puertas francesas a medida, panel inferior, vidrio rosa",
+        "url": "https://www.amazon.com.mx/dp/B0C4R11T8Y",
+        "price": 4065.1,
+        "model": "RAF36DB3P0"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung RAF36DB4QL Panel de refrigerador de 4 puertas francesas a medida, panel inferior, acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0BDMW3RXT",
+        "price": 5613.7,
+        "model": "RAF36DB4QL"
+      },
+      {
+        "store": "amazon",
+        "name": "Refrigerador Top Mount 12 pies cúbicos, Fábrica de hielos, Acero elegante RT35DG5724S9",
+        "url": "https://www.amazon.com.mx/dp/B0D3B7FZ5N",
+        "price": 9616.33,
+        "model": "RT35DG5724S9"
+      },
+      {
+        "store": "amazon",
+        "name": "Cajón Vegetales Superior Refrigerador Da97-08693b",
+        "url": "https://www.amazon.com.mx/dp/B0FPTP931F",
+        "price": 1400.0,
+        "model": "Da97-08693b"
+      },
+      {
+        "store": "amazon",
+        "name": "DA97-12935A - Papelera para puerta de refrigerador (para ambos lados izquierdo y derecho) Compatible con refrigeradores Samsung RF220NCTASG, RF220NCTAWW, RF220NCTASP, RF221NCTASP, RF221NCTASR",
+        "url": "https://www.amazon.com.mx/dp/B0FL7GZP1D",
+        "price": 440.59,
+        "model": "DA97-12935A"
+      },
+      {
+        "store": "amazon",
+        "name": "Tablero De Control, Compatible Con Samsung, Piezas De Refrigerador | Tablero de control for DA92-00279A DA41-00797A refrigerador tablero de computadora congelador",
+        "url": "https://www.amazon.com.mx/dp/B0HCNBKPYF",
+        "price": 800.8,
+        "model": "DA92-00279A"
+      },
+      {
+        "store": "amazon",
+        "name": "Mejorado DA97-20988A - Organizador para puerta de refrigerador para estantes de puerta derecha para refrigeradores Samsung RF27T5501SR, RF27T5501SG, RF28T5F01SR, RF28T5F01SG",
+        "url": "https://www.amazon.com.mx/dp/B0D9W2553H",
+        "price": 1267.88,
+        "model": "DA97-20988A"
+      },
+      {
+        "store": "amazon",
+        "name": "Placa de Control Refrigerador, Compatible con Samsung DA92-00849A | Compatible con Samsung DA92-00849F DA92-00849P; Placa de Control Refrigerador(DA92-00849A)",
+        "url": "https://www.amazon.com.mx/dp/B0HDNW7DWH",
+        "price": 1762.01,
+        "model": "DA92-00849A"
+      },
+      {
+        "store": "amazon",
+        "name": "Calentador De Descongelación De Refrigerador A78E-DA47-00244U, Compatible Con Samsung, Reemplaza Piezas PS9603659 AP5914487 3955643",
+        "url": "https://www.amazon.com.mx/dp/B0H6VG7THL",
+        "price": 965.99,
+        "model": "A78E-DA47-00244U"
+      },
+      {
+        "store": "amazon",
+        "name": "Soporte para botellas (294933-10887) para frigorífico, congelador DA63-08118A, DA63-07345A SAMSUNG",
+        "url": "https://www.amazon.com.mx/dp/B08N6C166G",
+        "price": 450.0,
+        "model": "DA63-08118A"
+      },
+      {
+        "store": "amazon",
+        "name": "Placa Principal Del Panel De Control, Compatible Con Refrigerador Samsung, DA41-00552J",
+        "url": "https://www.amazon.com.mx/dp/B0HDN7TP1Y",
+        "price": 2663.9,
+        "model": "DA41-00552J"
+      },
+      {
+        "store": "amazon",
+        "name": "Tablero de computadora, compatible con Samsung, refrigerador | DA41-00585A DA41-00614D Placa base",
+        "url": "https://www.amazon.com.mx/dp/B0HD6ZCCK2",
+        "price": 1949.31,
+        "model": "DA41-00585A"
+      }
+    ]
+  },
+  "walmart|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-17T02:14:53.777318+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Refrigerador Top Mount 12 pies cúbicos, Despachador de agua, Acero elegante - Acero Acero",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-top-mount-12-pies-cubicos-despachador-de-agua-acero-elegante-acero-acero/00880609536313",
+        "price": 11498.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung French Door 22 Pies RF22A4110S9EM Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-french-door-22-pies-rf22a4110s9em-inox/00929397001633?athbdg=L1300",
+        "price": 17990.0,
+        "model": "RF22A4110S9EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung French Door 32 Pies RF32CG5N10S9EM Inox",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-french-door-32-pies-rf32cg5n10s9em-inox/00929397001634?athbdg=L1300",
+        "price": 18990.0,
+        "model": "RF32CG5N10S9EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung French Door 32 Pies RF32CG5N10B1EM Negro",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-french-door-32-pies-rf32cg5n10b1em-negro/00929397001632?athbdg=L1300",
+        "price": 18990.0,
+        "model": "RF32CG5N10B1EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung French Door 31.5 Pies Silver Matt",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-french-door-31-5-pies-silver-matt/00880609505779?athbdg=L1510",
+        "price": 19205.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung 22 Pies French Door RF22A4010S9 EM",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-22-pies-french-door-rf22a4010s9-em/00880609250885?athbdg=L1300",
+        "price": 16990.0,
+        "model": "RF22A4010S9"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Samsung 25 Pies French Door RF25C5551S9/EM Silver",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-samsung-25-pies-french-door-rf25c5551s9-em-silver/00880609470743?athbdg=L1300",
+        "price": 21490.0,
+        "model": "RF25C5551S9/EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador 27 pies Samsung 2 puertas con Despachador RS27T5200S9/EM",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-27-pies-samsung-2-puertas-con-despachador-rs27t5200s9-em/00880609014716?athbdg=L1300",
+        "price": 22199.0,
+        "model": "RS27T5200S9/EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador French Door 31 pies cúbicos Samsung Despachador Exterior negro",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-french-door-31-pies-cubicos-samsung-despachador-exterior-negro/00880609505770?athbdg=L1300",
+        "price": 27999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador French Door 22 cu.ft Samsung RF22A4110S9/EM",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-french-door-22-cu-ft-samsung-rf22a4110s9-em/00880609251243?athbdg=L6000",
+        "price": 33500.0,
+        "model": "RF22A4110S9/EM"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Refrigerador Side by Side 22 cu.ft RS5300T con Family Hub",
+        "url": "https://www.walmart.com.mx/ip/samsung-refrigerador-side-by-side-22-cu-ft-rs5300t-con-family-hub/00880609074296?athbdg=L6000",
+        "price": 43400.0,
+        "model": "RS5300T"
+      },
+      {
+        "store": "walmart",
+        "name": "Refrigerador Side By Side 22 Pies Samsung Family Hub RS22T5561S9/EM Side By Side Family Hub Silver",
+        "url": "https://www.walmart.com.mx/ip/refrigerador-side-by-side-22-pies-samsung-family-hub-rs22t5561s9-em-side-by-side-family-hub-silver/00880609074297?athbdg=L1300",
+        "price": 28399.0,
+        "model": "RS22T5561S9/EM"
+      }
+    ]
+  },
+  "sams|SAMSUNGREFRIGERADORPANELDOORONE": {
+    "ts": "2026-08-17T02:14:55.552056+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGSAMSUNGDYNAMICAMOLEDGALAXY": {
+    "ts": "2026-08-17T02:15:04.505335+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 AI Phone, 256 GB de almacenamiento, 12 GB de RAM, azul marino, teléfono inteligente Android, cámara de 50 MP, batería de larga duración, garantía de 1 año/Versión local",
+        "url": "https://www.amazon.com.mx/dp/B0DSLTZFXN",
+        "price": 12349.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S26+ 256 Gb, 12 Gb Ram, Sky Blue | Celular, pantalla QHD+ Dynamic AMOLED 2X, procesador Exynos 2600, batería 4900 mAh, Galaxy AI integrada",
+        "url": "https://www.amazon.com.mx/dp/B0GR4K54J5",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 44mm (BT) Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0FCNPYS3X",
+        "price": 3899.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S23 128GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C5B736X3",
+        "price": 5317.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25+ 256GB 12GB Azul Marino",
+        "url": "https://www.amazon.com.mx/dp/B0DPGBSKR2",
+        "price": 14653.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Watch8 40mm (LTE)",
+        "url": "https://www.amazon.com.mx/dp/B0FCNRJ5KB",
+        "price": 3699.0,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S22 Ultra 12 Ram 256GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BQGMXQJX",
+        "price": 7084.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Renewed Samsung Galaxy S25 Ultra 12GB Ram 1TB Titanio Negro | Celular Inalmbrico (Reacondicionado), Desbloqueado Telfono",
+        "url": "https://www.amazon.com.mx/dp/B0G8VW5Y94",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy Z Fold 5 256GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CYR8P77J",
+        "price": 9499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S23 Ultra 256GB Grafito Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C5KR2V8P",
+        "price": 9199.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Plus 12GB Ram 256GB Marmól Gris Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D3658SHD",
+        "price": 9402.72,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Dynamic AMOLED LCD Screen for Galaxy S20 4G with Digitizer Full Assembly (Black) (Black)",
+        "url": "https://www.amazon.com.mx/dp/B0HDC9L9JQ",
+        "price": 1873.73,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SAMSUNGSAMSUNGDYNAMICAMOLEDGALAXY": {
+    "ts": "2026-08-17T02:15:10.259210+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy S24 FE 5G Reacondicionado con Galaxy AI (2024), 128 GB + 8 GB de RAM, Pantalla AMOLED Dinámica de 6,7\" y 120 Hz, GSM, Desbloqueado, Color Azul .",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-s24-fe-5g-reacondicionado-con-galaxy-ai-2024-128-gb-8-gb-de-ram-pantalla-amoled-dinamica-de-6-7-y-120-hz-gsm-desbloqueado-color-azul-/00065256943181?athbdg=L1500",
+        "price": 8990.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A16 4G 128 GB, 4 GB de RAM | Pantalla AMOLED de 6,7\" y 90 Hz | Smartphone Android GSM Desbloqueado, Versión Internacional, con Doble SIM (Nuevo)",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a16-4g-128-gb-4-gb-de-ram-pantalla-amoled-de-6-7-y-90-hz-smartphone-android-gsm-desbloqueado-version-internacional-con-doble-sim-nuevo-/00035614617702",
+        "price": 2799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SAMSUNGSAMSUNGDYNAMICAMOLEDGALAXY": {
+    "ts": "2026-08-17T02:15:10.886449+00:00",
     "items": []
   }
 }
