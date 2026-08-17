@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17 17:48 UTC",
-  "products_scanned": 1635,
+  "generated_at": "2026-08-17 18:24 UTC",
+  "products_scanned": 1568,
   "threshold_pct": 20.0,
   "count": 38,
   "findings": [
@@ -636,27 +636,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.8,
-      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3200.0,
-      "store": "liverpool",
-      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
-      "price": 11999.2,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "ASUS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1175126381",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -694,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
         "outlet": false
       }
     },
