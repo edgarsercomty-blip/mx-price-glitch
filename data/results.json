@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 19:10 UTC",
-  "products_scanned": 1643,
+  "generated_at": "2026-08-17 19:45 UTC",
+  "products_scanned": 1577,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -358,27 +358,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43926491",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
         "outlet": false
       }
     },
