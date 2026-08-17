@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-17 11:54 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-17 12:24 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
+| -43% | $932 | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,234 | Confirmado vs competencia | $1,234 en liverpool vs mercado -> -43% bajo la competencia |

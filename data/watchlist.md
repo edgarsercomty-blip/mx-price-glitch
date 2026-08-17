@@ -1,4 +1,4 @@
-# Productos en vigilancia (691)
+# Productos en vigilancia (692)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -86,7 +86,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Máquina de café espresso KitchenAid KES6403 semiautomática 1…](https://www.walmart.com.mx/ip/maquina-de-cafe-espresso-kitchenaid-kes6403-semiautomatica-1-4l/00088304952662?athbdg=L1300) | $9,539 | -31% |
 | 🟢 disponible | palacio | [Frigobar 4 p3 RMF0411PYMX0R](https://www.elpalaciodehierro.com/mabe-frigobar-4-p3-rmf0411pymx0r-45253852.html) | $3,574 | -29% |
 | 🟢 disponible | palacio | [Secadora a Gas 22 Kg Energy Saver Green Carga Frontal Blanca](https://www.elpalaciodehierro.com/mabe-secadora-a-gas-22-kg-energy-saver-green-carga-frontal-blanca-40283500.html) | $11,032 | -26% |
-| 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JYWCFS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html) | $22,364 | -25% |
+| 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JYWCFS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jywcfs-44964262.html) | $18,459 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $2,369 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $2,369 | -25% |
 | 🟢 disponible | palacio | [Combo Licuadora Porcelain con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html) | $2,399 | -25% |
@@ -100,9 +100,9 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Top Mount 10 p3 RMA250FYMRX0](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html) | $8,377 | -23% |
 | 🟢 disponible | palacio | [Refrigerador Top Mount 510 L RMS510ICMRX0 Plateado](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-510-l-rms510icmrx0-plateado-39961562.html) | $15,499 | -22% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 520 L](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-520-l-42886432.html) | $18,351 | -20% |
-| 🟢 disponible | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964254.html) | $14,104 | -20% |
+| 🟢 disponible | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964254.html) | $14,321 | -20% |
 | 🟢 disponible | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blanco](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $30,799 | -20% |
-| 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $37,190 | -20% |
+| 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | -20% |
 | 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,499 | -52% |
 | 🟢 disponible | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | -22% |
@@ -117,7 +117,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Cámara Digital de 64 MP, Pantalla de 3 Pulgadas, Vídeo 4K, Z…](https://www.amazon.com.mx/dp/B0D5R1YT8P) | $500 | -29% |
 | 🟢 disponible | palacio | [LICUADORA SERIE 400 5 VEL 56 OZ NEGRO MA](https://www.elpalaciodehierro.com/kitchenaid-licuadora-serie-400-5-vel-56-oz-negro-ma-42345796.html) | $4,674 | -25% |
 | 🟢 disponible | palacio | [Centro de lavado Premium a Gas LP de carga superior 24 Kg](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-a-gas-lp-de-carga-superior-24-kg-44064324.html) | $21,500 | -25% |
-| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $25,024 | -33% |
+| 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,559 | -33% |
 | 🟢 disponible | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | -30% |
 | 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $399 | -26% |
 | 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
@@ -695,3 +695,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | -20% |
 | 🟢 disponible | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | -20% |
 | 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381) | $11,999 | -21% |
+| 🟢 disponible | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,234 | -43% |
