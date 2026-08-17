@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-17 09:03 UTC
+# Errores/chollos de precio — 2026-08-17 09:59 UTC
 
-- Productos revisados: **1599**
+- Productos revisados: **1519**
 - Umbral de diferencia: **20%**
-- Hallazgos: **36**
+- Hallazgos: **35**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -10,7 +10,6 @@
 | -35% | $11,624 | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | Confirmado vs competencia | $21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia |
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
-| -36% | $8,100 | liverpool | [Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768) | $14,399 | Confirmado vs competencia | $14,399 en liverpool vs mercado -> -36% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $6,000 | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | Confirmado vs competencia | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $4,950 | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | Confirmado vs competencia | $17,549 en palacio vs mercado -> -22% bajo la competencia |
@@ -30,7 +29,7 @@
 | -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,263 | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | Confirmado vs competencia | $2,946 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
-| -30% | $940 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | Confirmado vs competencia | $2,239 en palacio vs walmart $3,179 -> -30% bajo la competencia |
+| -30% | $960 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | Confirmado vs competencia | $2,239 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $900 | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | Confirmado vs competencia | $3,499 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |

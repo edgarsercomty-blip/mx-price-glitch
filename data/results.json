@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 09:03 UTC",
-  "products_scanned": 1599,
+  "generated_at": "2026-08-17 09:59 UTC",
+  "products_scanned": 1519,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$14,399 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8099.8,
-      "store": "liverpool",
-      "name": "Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768",
-      "price": 14399.2,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1191395768",
-        "marketplace": null
       }
     },
     {
@@ -133,6 +112,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 959.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Coach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42825376",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$3,702 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1586.7,
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44353770",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs walmart $3,179 -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 939.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2239.3,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
         "outlet": false
       }
     },
