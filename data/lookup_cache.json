@@ -3883,27 +3883,13 @@
     ]
   },
   "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-15T23:35:21.009272+00:00",
+    "ts": "2026-08-17T23:38:24.850102+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
         "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 2792.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 5949.17,
         "model": null
       },
       {
@@ -3922,23 +3908,16 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
         "price": 6999.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4241.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5099.12,
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
         "model": null
       },
       {
@@ -3950,6 +3929,13 @@
       },
       {
         "store": "amazon",
+        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
+        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
+        "price": 4241.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
         "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
         "price": 5999.0,
@@ -3957,22 +3943,36 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Plus Deluxe Cafetera y Espresso de Breville, Titan con espumador de leche Aeroccino",
-        "url": "https://www.amazon.com.mx/dp/B01N36UGGE",
-        "price": 6263.49,
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5999.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Plus Deluxe Cafetera y Espresso de De'Longhi, negro mate con espumador de leche Aeroccino",
-        "url": "https://www.amazon.com.mx/dp/B07GQ68ZDJ",
-        "price": 7233.49,
+        "name": "Nespresso Cafetera Vertuo Pop Blanca con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVK4QM9",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Nespresso Vertuo Pop, con Espumador de Leche + Paquete de 30 cápsulas de Nespresso Colombia Tecnología Vertuo",
+        "url": "https://www.amazon.com.mx/dp/B0CJKN17GJ",
+        "price": 3233.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
+        "price": 2495.57,
         "model": null
       }
     ]
   },
   "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-15T23:35:24.157613+00:00",
+    "ts": "2026-08-17T23:38:33.765504+00:00",
     "items": [
       {
         "store": "walmart",
@@ -3990,30 +3990,16 @@
       },
       {
         "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
+        "name": "Cafetera Nespresso Vertuo Next con espumador Aeroccino",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-con-espumador-aeroccino/00002161481535",
+        "price": 8099.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
-        "price": 4079.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3589.0,
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
+        "price": 5269.0,
         "model": null
       },
       {
@@ -4025,6 +4011,13 @@
       },
       {
         "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Deluxe de De'Longhi con Aeroccino, Plata",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-deluxe-de-de-longhi-con-aeroccino-plata/00004438700951?athbdg=L1300",
+        "price": 4139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Máquina de café y espresso Nespresso Vertuo Next 1.1L",
         "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-1-1l/00002161480206?athbdg=L1300",
         "price": 5889.0,
@@ -4032,16 +4025,16 @@
       },
       {
         "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
-        "price": 5269.0,
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
+        "price": 3049.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
-        "price": 3049.0,
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
+        "price": 5269.0,
         "model": null
       },
       {
@@ -4057,173 +4050,62 @@
         "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480804?athbdg=L1300",
         "price": 4169.0,
         "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-cold-con-vaso-helado/00004438730924?athbdg=L1300",
+        "price": 3809.0,
+        "model": null
       }
     ]
   },
   "sams|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-15T23:35:26.524048+00:00",
-    "items": []
-  },
-  "amazon|APPLEMACBOOKNUCLEOS512RAM": {
-    "ts": "2026-08-15T23:35:29.113506+00:00",
+    "ts": "2026-08-17T23:38:38.062808+00:00",
     "items": [
       {
-        "store": "amazon",
-        "name": "Laptop para Windows11, Pantalla IPS de Resolución 2K de 15,6 Pulgadas, 16 GB de RAM (LPDDR4), Procesador N5095, 4 Núcleos y 4 Subprocesos, Portátil Ultradelgada con Teclado Retroiluminado(16+1 TB)",
-        "url": "https://www.amazon.com.mx/dp/B0BXLKH4XD",
-        "price": 10781.15,
-        "model": "Windows11"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 3774.85,
         "model": null
       },
       {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 3060.82,
         "model": null
       },
       {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 2556.48,
         "model": null
       },
       {
-        "store": "amazon",
-        "name": "Fin de 2021 Apple MacBook Pro con Chip Apple M1 Pro (16-pulgadas,16GB RAM, 512GB SSD de Almacenamiento) (QWERTY English) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09P43P66P",
-        "price": 17802.94,
-        "model": "16-pulgadas"
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
       },
       {
-        "store": "amazon",
-        "name": "Late 2019 Apple MacBook Pro with 2.6GHz Intel Core i7 (16 inch, 16GB RAM, 512GB) Gris Espacial (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B082P8N4KJ",
-        "price": 8999.0,
-        "model": "512GB"
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
       },
       {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2025 Apple MacBook Air con Apple M4 Chip (13-pulgadas, 16GB RAM, 512GB SSD de Memoria) Azul Cielo (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FB55G725",
-        "price": 18851.63,
-        "model": "13-pulgadas"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Neo (de 13 Pulgadas, Chip A16 Pro de Apple con CPU de 6 núcleos y GPU de 5 núcleos, 8GB Memoria unificada, 512 GB) - Índigo",
-        "url": "https://www.amazon.com.mx/dp/B0GR6DG3RJ",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
+        "store": "sams",
+        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
+        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
+        "price": 4183.05,
         "model": null
       }
     ]
-  },
-  "walmart|APPLEMACBOOKNUCLEOS512RAM": {
-    "ts": "2026-08-15T23:35:32.120798+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Macbook Air Chip M2 13 Pulgadas 24GB SSD 512 GB",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-chip-m2-13-pulgadas-24gb-ssd-512-gb/00019595077225",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 15.3 Pulgadas 16 GB 512 GB Azul Medianoche",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-15-3-pulgadas-16-gb-512-gb-azul-medianoche/00019594984232?athbdg=L1300",
-        "price": 32985.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13 pulgadas Chip M5 16 GB RAM 512 GB - Blanco estelar",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-blanco-estelar/00893307510094?athbdg=L1300",
-        "price": 27999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 15.3 Pulgadas 16GB 512GB Blanco Estelar",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-15-3-pulgadas-16gb-512gb-blanco-estelar/00019594984138?athbdg=L1300",
-        "price": 32985.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 15 Pulgadas 24GB 512GB Azul Cielo",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-15-pulgadas-24gb-512gb-azul-cielo/00019594989398?athbdg=L1300",
-        "price": 37588.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M4 13 Pulgadas 24 GB 512 GB Plata",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m4-13-pulgadas-24-gb-512-gb-plata/00019594988870?athbdg=L1300",
-        "price": 33237.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13 pulgadas Chip M5 16 GB RAM 512 GB -Azul Cielo",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-512-gb-azul-cielo/00893830999756?athbdg=L1300",
-        "price": 27999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Macbook Air Apple M2 13.6 Pulgadas 8GB RAM 512 GB ROM Plata",
-        "url": "https://www.walmart.com.mx/ip/macbook-air-apple-m2-13-6-pulgadas-8gb-ram-512-gb-rom-plata/00019425319099?athbdg=L6000",
-        "price": 24999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEMACBOOKNUCLEOS512RAM": {
-    "ts": "2026-08-15T23:35:32.894663+00:00",
-    "items": []
   },
   "amazon|LENOVOIDEAPADLAPTOPRADEONABYSS": {
     "ts": "2026-08-16T02:16:19.485801+00:00",
@@ -31390,6 +31272,674 @@
         "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
         "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
         "price": 91.03,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:40.423706+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5809.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5289.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6468.81,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
+        "price": 5889.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
+        "price": 5919.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13 Mini, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LKTXKXQ",
+        "price": 4885.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8284.33,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
+        "price": 6433.63,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 4937.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Morado Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLT8BMX",
+        "price": 6499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLN4B613",
+        "price": 8999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Pro 128GB Titanio Azul Desbloqueado - Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLPNY48J",
+        "price": 10499.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "walmart|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:44.868046+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 128 Gb Azul Medianoche Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-128-gb-azul-medianoche-reacondicionado/00072014053382?athbdg=L1500",
+        "price": 5249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
+        "price": 11920.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:49.417054+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
+        "price": 10998.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 Apple 128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Azul Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
+        "price": 17901.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
+        "price": 20458.97,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:51.747842+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 4937.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5809.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
+        "price": 7449.0,
+        "model": "128GBNegroDesbloqueado"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
+        "price": 5889.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5289.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
+        "price": 5898.03,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
+        "price": 5919.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8284.33,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Azul - (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNX6KQS",
+        "price": 5434.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6468.81,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Negro (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNCYYVZ",
+        "price": 4966.82,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Verde (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNZDM7L",
+        "price": 4987.36,
+        "model": "128GB"
+      }
+    ]
+  },
+  "walmart|APPLETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:54.803067+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Azul Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-azul-telcel/00750622735241?athbdg=L1510",
+        "price": 11920.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-blanco-telcel/00750622734821?athbdg=L1300",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Plus Apple 128 GB eSIM Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-plus-apple-128-gb-esim-negro-reacondicionado/00085369892766?athbdg=L1500",
+        "price": 5499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 17 Apple 256 GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-17-apple-256-gb-blanco-telcel/00750622736185?athbdg=L1510",
+        "price": 17999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Verde Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-verde-reacondicionado/00085369895441?athbdg=L1500",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Plus Apple 128 GB eSIM Morado Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-plus-apple-128-gb-esim-morado-reacondicionado/00085369892762?athbdg=L1500",
+        "price": 5499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Blanco Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-blanco-reacondicionado/00085369895438?athbdg=L1500",
+        "price": 5699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Apple iPhone 15 128 GB Blue Apple IPHONE 15 128GB BLUE",
+        "url": "https://www.walmart.com.mx/ip/smartphone-apple-iphone-15-128-gb-blue-apple-iphone-15-128gb-blue/00019594903660",
+        "price": 15699.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128 GB Negro Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-negro-reacondicionado/00085369895437?athbdg=L1500",
+        "price": 4999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLETELCELIPHONE128": {
+    "ts": "2026-08-17T23:38:57.855084+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 Apple 128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Azul Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
+        "price": 17901.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Blanco Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-blanco-telcel/981028992",
+        "price": 17901.46,
+        "model": null
+      }
+    ]
+  },
+  "amazon|APPLEESTRELLATELCELIPHONE128": {
+    "ts": "2026-08-17T23:39:01.608750+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 4937.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Azul (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNXVB6B",
+        "price": 4499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Verde (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNZDM7L",
+        "price": 4987.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Negro (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNCYYVZ",
+        "price": 4966.82,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, (Producto) Color Rojo: Totalmente Desbloqueado (renovado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVXZKW",
+        "price": 6392.71,
+        "model": "128GB"
+      }
+    ]
+  },
+  "walmart|APPLEESTRELLATELCELIPHONE128": {
+    "ts": "2026-08-17T23:39:05.331123+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "iPhone 14 Apple 128 GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-blanco-telcel/00750622734821?athbdg=L1300",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
+        "price": 17499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
+        "price": 9999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 16e Apple 128GB Blanco Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
+        "price": 12799.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "iPhone 15 Apple 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
+        "price": 11920.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "APPLE IPHONE 16 128GB TEAL",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00019595019412?athbdg=L1300",
+        "price": 15929.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|APPLEESTRELLATELCELIPHONE128": {
+    "ts": "2026-08-17T23:39:10.957856+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 Apple 128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
+        "price": 11169.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
+        "price": 12682.13,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
+        "price": 9203.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Azul Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
+        "price": 17901.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Blanco Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-blanco-telcel/981028992",
+        "price": 17901.46,
         "model": null
       }
     ]
