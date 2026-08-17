@@ -3727,364 +3727,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|APPLENUCLEOSMACBOOKRAMCPU": {
-    "ts": "2026-08-15T21:36:01.572726+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1CCNRK",
-        "price": 35681.97,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2024 MacBook Air (de 15 Pulgadas, Chip M3 de Apple con CPU de 8 núcleos y GPU de 10 núcleos, 8GB Memoria unificada, 512 GB) - Gris Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0CX2512LK",
-        "price": 22499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
-        "price": 49999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1K6W6T",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOKRAMCPU": {
-    "ts": "2026-08-15T21:36:06.062548+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOKRAMCPU": {
-    "ts": "2026-08-15T21:36:13.564485+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      }
-    ]
-  },
-  "amazon|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-15T21:36:16.157438+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
-        "price": 5899.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
-        "price": 5885.58,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Iphone 16e, 128GB, Blanco (Reacondicionado Premium)",
-        "url": "https://www.amazon.com.mx/dp/B0H2B6HXXR",
-        "price": 7939.15,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
-        "price": 5899.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
-        "price": 8099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
-        "price": 5799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
-        "price": 6199.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5399.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
-        "price": 7729.07,
-        "model": "128GBNegroDesbloqueado"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
-        "price": 6319.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLN4B613",
-        "price": 8999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16 128GB Verde Azulado Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0DHJCYNS7",
-        "price": 11699.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "walmart|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-15T21:36:19.246478+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-blanco-telcel/00750622734821?athbdg=L1300",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
-        "price": 11920.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
-        "price": 9999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "APPLE IPHONE 16 128GB TEAL",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00019595019412?athbdg=L1300",
-        "price": 15929.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|APPLEESTRELLATELCELIPHONE128": {
-    "ts": "2026-08-15T21:36:21.128473+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
     "ts": "2026-08-15T22:38:58.065955+00:00",
     "items": [
@@ -30312,6 +29954,245 @@
         "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
         "price": 1424.02,
         "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
+        "price": 602.55,
+        "model": "46310-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1020.95,
+        "model": "TEKM-1500"
+      },
+      {
+        "store": "sams",
+        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
+        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
+        "price": 91.03,
+        "model": null
+      }
+    ]
+  },
+  "amazon|OSTERCAFETERATAZASACEROPANEL": {
+    "ts": "2026-08-17T21:43:34.687231+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
+        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
+        "price": 2386.1,
+        "model": "BVSTDC4411-013ris"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COLUMBA | Cafetera Percoladora 40 Tazas 4.5L de Acero Inoxidable | Mantiene Café Caliente | Dispensador con Una Mano | Filtro Reutilizable | Ideal para Eventos, Oficina y Negocio",
+        "url": "https://www.amazon.com.mx/dp/B01K35QTOM",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COFFEE STATION 60 | Cafetera percoladora para 60 tazas | Filtro de canastillo lavable | Cuerpo de acero inoxidable, Color Plata, Modelo COFESTATION60",
+        "url": "https://www.amazon.com.mx/dp/B0D15Q7RWQ",
+        "price": 1339.0,
+        "model": "COFESTATION60"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATAZASACEROPANEL": {
+    "ts": "2026-08-17T21:43:44.111041+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Análoga 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L1300",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Digital Programable de 12 Tazas con Jarra Térmica de Acero Inoxidable, Panel Digital, Sistema de Extracción Vortex, Mantiene el Café Caliente para Hogar y Oficina",
+        "url": "https://www.walmart.com.mx/ip/cafetera-digital-programable-de-12-tazas-con-jarra-termica-de-acero-inoxidable-panel-digital-sistema-de-extraccion-vortex-mantiene-el-cafe-caliente-para-hogar-y-oficina/00063642464514?athbdg=L6000",
+        "price": 4099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Tipo Urna De Acero Inoxidable 50 Tazas Con 2 Dispensadores Avera CAF05",
+        "url": "https://www.walmart.com.mx/ip/cafetera-tipo-urna-de-acero-inoxidable-50-tazas-con-2-dispensadores-avera-caf05/00750083600856",
+        "price": 2127.9,
+        "model": "CAF05"
+      },
+      {
+        "store": "walmart",
+        "name": "Bonavita Enthusiast - Cafetera de goteo de 8 tazas, con jarra térmica, panel de acero inoxidable, de",
+        "url": "https://www.walmart.com.mx/ip/bonavita-enthusiast-cafetera-de-goteo-de-8-tazas-con-jarra-termica-panel-de-acero-inoxidable-de/00081006050079?athbdg=L1300",
+        "price": 6279.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATAZASACEROPANEL": {
+    "ts": "2026-08-17T21:43:48.027508+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
+        "price": 1424.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
+        "price": 715.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
+        "price": 2044.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
+        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
+        "price": 912.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
+        "price": 561.61,
+        "model": "46299J-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
+        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
+        "price": 3241.89,
+        "model": "DGB-800ES"
       },
       {
         "store": "sams",
