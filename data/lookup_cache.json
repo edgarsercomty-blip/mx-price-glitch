@@ -3908,224 +3908,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|APPLEMACBOOKNUCLEOSCPUSSD": {
-    "ts": "2026-08-15T13:44:36.159658+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
-        "price": 49999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 16 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FWDTGNT6",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1J9F22",
-        "price": 47499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEMACBOOKNUCLEOSCPUSSD": {
-    "ts": "2026-08-15T13:44:55.894727+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEMACBOOKNUCLEOSCPUSSD": {
-    "ts": "2026-08-15T13:44:59.989460+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035032",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/8C GPU/16GB/256GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-8c-gpu-16gb-256gb-ssd-azul-medianoche/981035015",
-        "price": 24998.99,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-azul-cielo/981035031",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      }
-    ]
-  },
   "amazon|APPLENUCLEOSMACBOOK512RAM": {
     "ts": "2026-08-15T14:13:54.293764+00:00",
     "items": [
@@ -27530,5 +27312,622 @@
   "sams|OSTERCAFETERATOUCHPANELTAZAS": {
     "ts": "2026-08-17T13:25:12.164097+00:00",
     "items": []
+  },
+  "amazon|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-17T14:03:43.919988+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Correa Cruzada – Color Canela ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0FQF34YM8",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda magnética para iPhone 17 compatible con MagSafe [protección completa de la cámara] [protector de pantalla] Carcasa de silicona a prueba de golpes para iPhone 17 de 6,3 pulgadas, color",
+        "url": "https://www.amazon.com.mx/dp/B0FH6BBPWD",
+        "price": 366.45,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "RhinoShield Funda Compatible con [iPhone 17] Modelo NX: Funda modular sin parte trasera, diseño minimalista, anti-choques que supera los estándares militares de protección – Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FJXQVS5L",
+        "price": 584.95,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone XR Protectora Case Uso Rudo, Reforzada en Las Esquinas, Antideslizante, Resistente a caídas, Borde TPU y Panel Trasero PC Gris Esmerilado",
+        "url": "https://www.amazon.com.mx/dp/B0FCYRLG5G",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "UGREEN Funda para iPhone 16 MagSafe | Magnético Anti-Amarillo con Protección de la Lente y contra Caídas, Case Antidesgaste, Carcasa 6.1 Pulgadas, Transparente",
+        "url": "https://www.amazon.com.mx/dp/B0D83JY3LF",
+        "price": 183.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Apple iPhone 16 Case Transparente Uso Rudo Acrílico PC, Borde Flexible TPU Cover, Protectora de Cámara Lente Shockproof Rigido Carcasa Bumper DF",
+        "url": "https://www.amazon.com.mx/dp/B0DG337Z1W",
+        "price": 115.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17 – Color Guayaba Brillante ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVFHF7H",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con iPhone 6, 6S Funda, Anillo Metálico Sujeción Soporte Antichoque Rígido Caja (Funciona con el Montaje de Coche Magnético) Doble Capa Sólido Case Carcasa para Apple iPhone 6, iPhone 6S (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B07JJFV4LD",
+        "price": 179.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fundas Wildflower - On Pointe, Compatible con Apple iPhone 16 | Lazos Rosa y Blanco Estética Niña Ballet Linda Popular - Protector Bumper Negro, Certificado de Prueba de Caída de 4 Pies, Negocio",
+        "url": "https://www.amazon.com.mx/dp/B0DDVSMJK4",
+        "price": 680.94,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple Funda de silicón con MagSafe para el iPhone 17e – Azul Ancla ​​​​​​​",
+        "url": "https://www.amazon.com.mx/dp/B0GQVH5YZT",
+        "price": 1098.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Wildflower Cases - Compatible con Apple iPhone 17 | Protector con Bumper Negro, Certificado de Prueba de Caída de 1.2m, Pequeña Empresa | Estampado Animal de Leopardo Guepardo Delicado Lindo Moderno |",
+        "url": "https://www.amazon.com.mx/dp/B0FR6ZJHGB",
+        "price": 691.37,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-17T14:03:48.166111+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/funda-para-telefono-apple-iphone-air-bumper-tan/00019595075141",
+        "price": 939.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARCANELABUMPERIPHONE": {
+    "ts": "2026-08-17T14:03:50.292438+00:00",
+    "items": []
+  },
+  "amazon|B2RWEKG": {
+    "ts": "2026-08-17T14:03:57.030091+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "MSI Laptop Gamer Cyborg 15 B2RWEKG 15.6 FHD 144Hz Intel Core 7 240H hasta 5.2 GHz DDR5 16GB (2 * 8GB) 512GB SSD NVIDIA RTX 5050 GDDR7 8GB Win 11 Home Incluye Backpack",
+        "url": "https://www.amazon.com.mx/dp/B0GXWYGH3K",
+        "price": 23499.0,
+        "model": "B2RWEKG"
+      },
+      {
+        "store": "amazon",
+        "name": "JINTAI Tornillos Inferiores para MS-15Q3 Cyborg15 B2RWEKG/B2RWFKG | B13WEKG/B13WGKG/B13WFKG, Venture A15 AI A2HMG, AI+ A3HMG Tornillos para Reparación de Portátiles",
+        "url": "https://www.amazon.com.mx/dp/B0H87Q5C1Y",
+        "price": 613.79,
+        "model": "B13WEKG/B13WGKG/B13WFKG"
+      },
+      {
+        "store": "amazon",
+        "name": "msi Cyborg 15 B2RWEKG-257US 15.6\" Full HD 144Hz Laptop para juegos, Intel Core 7 240H 2.5GHz, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB, Windows 11 Home, negro translúcido",
+        "url": "https://www.amazon.com.mx/dp/B0G276LG5X",
+        "price": 44090.0,
+        "model": "B2RWEKG-257US"
+      },
+      {
+        "store": "amazon",
+        "name": "Traje de Baño de Una Pieza para Mujer, con Control de Abdomen y Efecto Lifting de Cadera, Vestido de Baño con Nudo En La Parte Delantera.",
+        "url": "https://www.amazon.com.mx/dp/B0GVJ5558K",
+        "price": 249.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smismivo - Mameluco de natación de talla grande para mujer, modesto de una pieza, traje de baño de cobertura completa con bolsillos, traje de baño 2025",
+        "url": "https://www.amazon.com.mx/dp/B0FGQ593LC",
+        "price": 729.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity - Traje de baño de malla de una pieza para mujer, con control de barriga, traje de baño sexy para adelgazar",
+        "url": "https://www.amazon.com.mx/dp/B0G34W19F3",
+        "price": 721.95,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity Tankini Swimsuits for Women Tummy Control Two Piece Bathing Suit High Waisted Wrap Swim Suit with Bottom Swimwear | Conjunto de tankini de 2 piezas, parte superior de tankini de torso largo, parte delantera torcida, cordón lateral",
+        "url": "https://www.amazon.com.mx/dp/B0DS2C2MZ9",
+        "price": 738.2,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity - Traje de baño tankini para mujer, con control de abdomen, parte superior de malla fluida, parte inferior de cintura alta, traje de baño modesto de dos",
+        "url": "https://www.amazon.com.mx/dp/B0FX2T8RL6",
+        "price": 752.99,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity - Traje de baño de una pieza para mujer, retro, cuello cuadrado, control de abdomen, fruncido, modesto, cobertura completa | Cuello cuadrado retro, detalles fruncidos, correas anchas, amarre en la espalda, modesto",
+        "url": "https://www.amazon.com.mx/dp/B0DSC5KRQN",
+        "price": 720.53,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity - Traje de baño tankini halter para mujer, con control de abdomen, dos piezas, cuello en V y pantalones cortos",
+        "url": "https://www.amazon.com.mx/dp/B0GD157XGW",
+        "price": 458.97,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity - Traje de baño tankini para mujer, falda floral modesta con | Diseño de falda fluida, lazo ajustable, copas extraíbles suaves para playa, piscina y día festivo",
+        "url": "https://www.amazon.com.mx/dp/B0F1TDCGWF",
+        "price": 756.4,
+        "model": "B2prity"
+      },
+      {
+        "store": "amazon",
+        "name": "B2prity Traje de Baño Enterizo para Mujer, Escote Cuadrado, Control de Abdomen, Cobertura Total, Fruncido.",
+        "url": "https://www.amazon.com.mx/dp/B0FJSDTVL7",
+        "price": 651.31,
+        "model": "B2prity"
+      }
+    ]
+  },
+  "walmart|B2RWEKG": {
+    "ts": "2026-08-17T14:04:02.290592+00:00",
+    "items": []
+  },
+  "sams|B2RWEKG": {
+    "ts": "2026-08-17T14:04:03.063235+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-08-17T14:04:17.841449+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
+        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
+        "price": 7799.0,
+        "model": "BVSTEM7301"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Espresso Perfect Brew Máxima con Bomba Italiana 15 bar | 2 Bombas de Presión, Espresso, Latte, Incluye Accesorios Profesionales, Acero Inoxidable, BVSTEM7400",
+        "url": "https://www.amazon.com.mx/dp/B0CW77H121",
+        "price": 11528.9,
+        "model": "BVSTEM7400"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
+        "price": 5500.0,
+        "model": "BVSTEM7201-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "JadeCook Cafetera Programable de Goteo 12 Tazas, 1.8 L, Panel Touch, Sistema Antigoteo, Jarra de Cristal, Color Plateado C0545-00",
+        "url": "https://www.amazon.com.mx/dp/B0GG67J6FL",
+        "price": 695.0,
+        "model": "C0545-00"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-08-17T14:04:23.173133+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Gris con Panel Táctil y Funciones Automáticas para Espresso, Cappuccino y Latte Oster NA",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-gris-con-panel-tactil-y-funciones-automaticas-para-espresso-cappuccino-y-latte-oster-na/00005389116886",
+        "price": 8240.9,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAGOTEOTOUCHPANEL": {
+    "ts": "2026-08-17T14:04:33.204168+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
+        "price": 2037.82,
+        "model": "KP440EMX"
+      }
+    ]
+  },
+  "amazon|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-17T14:04:40.209960+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
+        "url": "https://www.amazon.com.mx/dp/B0CDSNXDJT",
+        "price": 1241.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLFJD2T2",
+        "price": 1171.37,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach - Apple Straps - Correa Apple Watch para Mujer 14700244 - Acero Inoxidable Multicolor - Compatible 38/40/41 mm",
+        "url": "https://www.amazon.com.mx/dp/B0D244R42M",
+        "price": 1899.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
+        "url": "https://www.amazon.com.mx/dp/B0CWS71NTV",
+        "price": 1759.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable con estilo distintivo para un aspecto personalizado",
+        "url": "https://www.amazon.com.mx/dp/B0DYG9TF16",
+        "price": 1094.91,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLFR669C",
+        "price": 1099.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, crea tu estilo único",
+        "url": "https://www.amazon.com.mx/dp/B0D23X7Z2L",
+        "price": 2659.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
+        "url": "https://www.amazon.com.mx/dp/B07F1LKYFS",
+        "price": 511.19,
+        "model": "Ultra3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLFZSWYX",
+        "price": 1099.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLG65S12",
+        "price": 2753.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Clásico Correa de Acero, Inoxidable para Apple Watch de 42mm 44mm 45mm 46mm 49mm Unisex, Compatible para Apple Watch Series SE 10 9 8 7 6 5 4 3 2 1 Ultra, para la Oficina Informal",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRSYPD",
+        "price": 113.97,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach - Apple Straps - Correa Para Mujer 14700059 - Lona Arena con Firma - Compatible 38/40/41 mm - Diseño Elegante y Moderno",
+        "url": "https://www.amazon.com.mx/dp/B0CDSNKG88",
+        "price": 1539.3,
+        "model": null
+      }
+    ]
+  },
+  "walmart|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-17T14:04:51.140088+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Correa de reloj Coach para Apple Watch de 38 mm y 40 mm de acero inoxidable",
+        "url": "https://www.walmart.com.mx/ip/Correa-de-reloj-Coach-para-Apple-Watch-de-38-mm-y-40-mm-de-acero-inoxidable/00088599740919?athbdg=L1300",
+        "price": 3179.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple Watch Strap Coach de acero inoxidable para 38 mm a 41 mm",
+        "url": "https://www.walmart.com.mx/ip/Apple-Watch-Strap-Coach-de-acero-inoxidable-para-38-mm-a-41-mm/00088599746055?athbdg=L1300",
+        "price": 4699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Acero Inoxidable, Eslabones/Cadenas Para Apple Watch Series 1/2/3/4/5/6/7/8/9/10",
+        "url": "https://www.walmart.com.mx/ip/Correa-Acero-Inoxidable-Eslabones-Cadenas-Para-Apple-Watch-Series-1-2-3-4-5-6-7-8-9-10/00750306072813?athbdg=L1300",
+        "price": 502.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa de caucho rosa para Apple Watch Coach de 38 mm, 40 mm y 41 mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-de-caucho-rosa-para-Apple-Watch-Coach-de-38-mm-40-mm-y-41-mm/00088599740922?athbdg=L1300",
+        "price": 2419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa de silicona Coach Signature para Apple Watch de 42 mm/44 mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-de-silicona-Coach-Signature-para-Apple-Watch-de-42-mm-44-mm/00088599742991?athbdg=L1300",
+        "price": 2189.0,
+        "model": "mm/44"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa de silicona Coach Signature para Apple Watch de 42 mm/44 mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-de-silicona-Coach-Signature-para-Apple-Watch-de-42-mm-44-mm/00088599742997?athbdg=L1300",
+        "price": 2419.0,
+        "model": "mm/44"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Milanese Loop para Apple Watch, Acero Inoxidable, Compatible con Series 1,2,3,4,5,6,7,8,9,10,11,SE,ULTRA",
+        "url": "https://www.walmart.com.mx/ip/Correa-Milanese-Loop-para-Apple-Watch-Acero-Inoxidable-Compatible-con-Series-1-2-3-4-5-6-7-8-9-10-11-SE-ULTRA/00750306129373?athbdg=L1300",
+        "price": 609.39,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa para Apple Watch Coach Elevate Look, malla en oro rosa, 38-41 mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-para-Apple-Watch-Coach-Elevate-Look-malla-en-oro-rosa-38-41-mm/00088599742983?athbdg=L1300",
+        "price": 3419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa De Cerámica Acero Inoxidable Premium Para Applewatch 42/44/45mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-De-Ceramica-Acero-Inoxidable-Premium-Para-Applewatch-42-44-45mm/00750304440369?athbdg=L1300",
+        "price": 538.92,
+        "model": "42/44/45mm"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa para Apple Watch Coach Elevate Look, silicona blanca, 38/40/41 mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-para-Apple-Watch-Coach-Elevate-Look-silicona-blanca-38-40-41-mm/00088599751740?athbdg=L1300",
+        "price": 2189.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Apple Watch 42/44mm Eslabon Acero Inoxidable Negro Genérica Compatible Apple Watch 42/44mm",
+        "url": "https://www.walmart.com.mx/ip/Correa-Apple-Watch-42-44mm-Eslabon-Acero-Inoxidable-Negro-Generica-Compatible-Apple-Watch-42-44mm/00060060321713",
+        "price": 937.0,
+        "model": "42/44mm"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Apple Watch, Acero Inoxidable, Hebilla con Funda",
+        "url": "https://www.walmart.com.mx/ip/Correa-Para-Apple-Watch-Acero-Inoxidable-Hebilla-con-Funda/00750306139527?athbdg=L1300",
+        "price": 360.68,
+        "model": null
+      }
+    ]
+  },
+  "sams|COACHCORREAWATCHACEROAPPLE": {
+    "ts": "2026-08-17T14:05:07.111467+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  Dreams Sunset para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-dreams-sunset-para-dama-90-ml/981026656",
+        "price": 781.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-para-dama-90-ml/981014135",
+        "price": 868.68,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  New York Wild Rose para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-new-york-wild-rose-para-dama-90-ml/981022831",
+        "price": 912.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  New York for Men para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-new-york-for-men-para-caballero-100-ml/981022828",
+        "price": 938.24,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  New York Green para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-new-york-green-para-caballero-100-ml/981022827",
+        "price": 940.34,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  Open Road para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-open-road-para-caballero-100-ml/981043867",
+        "price": 912.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Toilette Coach  Man Blue para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-toilette-coach-man-blue-para-caballero-100-ml/981039403",
+        "price": 955.64,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Coach  New York Love para Dama 90 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-coach-new-york-love-para-dama-90-ml/981028986",
+        "price": 1216.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Rack de Acero Muscle Rack  6 Repisas",
+        "url": "https://www.sams.com.mx/ip/rack-de-acero-muscle-rack-6-repisas/000220417",
+        "price": 2132.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cuchillos de Acero Cuisinart  con Bloque de Madera ",
+        "url": "https://www.sams.com.mx/ip/cuchillos-de-acero-cuisinart-con-bloque-de-madera/981050197",
+        "price": 816.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Silla de Acero Member's Mark  de Malla",
+        "url": "https://www.sams.com.mx/ip/silla-de-acero-member-s-mark-de-malla/980025069",
+        "price": 919.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Mesa de Acero Member's Mark  1 pza",
+        "url": "https://www.sams.com.mx/ip/mesa-de-acero-member-s-mark-1-pza/980025068",
+        "price": 1358.53,
+        "model": null
+      }
+    ]
   }
 }
