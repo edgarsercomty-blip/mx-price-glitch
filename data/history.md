@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (804)
+# Historial de ofertas encontradas (810)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 05:01 | -25% | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | $3,089 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-08-17 05:01 | -30% | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | $2,946 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-17 05:01 | -30% | palacio | [Correa para Apple Watch en acero inoxidable y silicón p…](https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html) | $3,702 | $3,702 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-17 05:01 | -30% | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | $2,239 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-17 05:01 | -30% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | $13,684 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-17 05:01 | -41% | amazon | [12Tazas Jarra de Repuesto Cafetera, Compatible Modelos …](https://www.amazon.com.mx/dp/B0H1WNYLW1) | $398 | $398 en amazon vs palacio $674 -> -41% bajo la competencia |
 | 2026-08-17 02:30 | -22% | amazon | [Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24…](https://www.amazon.com.mx/dp/B0H2X99YX1) | $20,999 | $20,999 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-17 02:30 | -30% | amazon | [PUMA FlexFocus Lite Modern Wns](https://www.amazon.com.mx/dp/B0G75HFGLQ) | $979 | $979 en amazon vs mercado -> -30% bajo la competencia |
 | 2026-08-17 02:15 | -36% | liverpool | [Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768) | $14,399 | $14,399 en liverpool vs mercado -> -36% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-18 08:13 | -25% | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | $1,012 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-18 08:13 | -25% | palacio | [Pantalla 65 pulgadas Plana QNED AI QNED82 4K SMART TV 2…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-ai-qned82-4k-smart-tv-2025-44777572.html) | $13,020 | $13,020 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-18 08:13 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520801.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-18 08:13 | -28% | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $6,719 | $6,719 en palacio vs mercado -> -28% bajo la competencia |
-| 2026-07-18 08:13 | -70% | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | $36,428 en palacio vs mercado -> -70% bajo la competencia |
-| 2026-07-18 06:20 | -50% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | $349 en liverpool vs mercado -> -50% bajo la competencia |
-| 2026-07-17 16:12 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-17 13:08 | -25% | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-17 11:55 | -20% | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | $15,039 en palacio vs mercado -> -20% bajo la competencia |

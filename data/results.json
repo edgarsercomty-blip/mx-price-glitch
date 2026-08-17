@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 04:04 UTC",
-  "products_scanned": 1600,
+  "generated_at": "2026-08-17 05:01 UTC",
+  "products_scanned": 1566,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,23 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "discount_pct": null,
+      "detail": "$398 en amazon vs palacio $674 -> -41% bajo la competencia",
       "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
+      "savings": 276.25,
+      "store": "amazon",
+      "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
+      "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
+      "price": 398.0,
+      "list_price": 40.39,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "12Tazas",
+      "brand": null,
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42614838",
-        "outlet": false
+        "asin": "B0H1WNYLW1"
       }
     },
     {
@@ -90,6 +89,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -111,6 +131,90 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$13,684 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5864.7,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 13684.3,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 959.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Coach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42825376",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$3,702 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1586.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero inoxidable y silicón plateado con rosa",
+      "url": "https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html",
+      "price": 3702.3,
+      "list_price": 5289.0,
+      "ean": null,
+      "model": null,
+      "brand": "Tory Burch",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45276480",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1262.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en Acero Inoxidable Tricolor",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html",
+      "price": 2946.3,
+      "list_price": 4209.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44353770",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +231,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3012.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -174,6 +299,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,089 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1029.75,
+      "store": "palacio",
+      "name": "Licuadora Xtreme Mix, 3 velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
+      "price": 3089.25,
+      "list_price": 4119.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -190,6 +336,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43294637",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 439.75,
+      "store": "palacio",
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1319.25,
+      "list_price": 1759.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$8,999 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.75,
+      "store": "palacio",
+      "name": "Cafetera Espresso Perfect Brew para 2 Tazas",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html",
+      "price": 8999.25,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45021110",
         "outlet": false
       }
     },
@@ -258,27 +446,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 804.77,
-      "store": "palacio",
-      "name": "Smartwach Kids 4 Pro Nina",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
-      "price": 2519.28,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123334",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -295,27 +462,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45481963",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,495 en palacio vs amazon $11,380 -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1648.5,
-      "store": "palacio",
-      "name": "Cafetera Expreso ECF02WHUS Blanco",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html",
-      "price": 5495.0,
-      "list_price": 10990.0,
-      "ean": null,
-      "model": "ECF02WHUS",
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44011027",
         "outlet": false
       }
     },
@@ -490,42 +636,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1798.0,
+      "savings": 5999.8,
       "store": "palacio",
-      "name": "Cafetera Gran Lattissima Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
-      "price": 7192.0,
-      "list_price": 8990.0,
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "Motorola",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43135869",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$2,559 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 639.8,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2559.2,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
+        "id": "45260351",
         "outlet": false
       }
     }

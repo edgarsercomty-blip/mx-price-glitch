@@ -26660,5 +26660,1581 @@
   "sams|IEREX15C": {
     "ts": "2026-08-17T02:30:22.242822+00:00",
     "items": []
+  },
+  "amazon|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-17T04:59:35.381869+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Smeg Hervidor Electrico color Negro, Pequeño, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0784716VV",
+        "price": 3862.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor de agua con 7 tazas (champaña mate)",
+        "url": "https://www.amazon.com.mx/dp/B094YNT135",
+        "price": 4736.55,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor de té de acero inoxidable con diseño icónico y silbato de cocina de primera calidad, color rosa",
+        "url": "https://www.amazon.com.mx/dp/B0G6GCXYG6",
+        "price": 3705.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (negro)",
+        "url": "https://www.amazon.com.mx/dp/B09D3WX82S",
+        "price": 3999.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg KLF03SSUS Hervidor Electrico, color Plata/Cromo, Pequeño",
+        "url": "https://www.amazon.com.mx/dp/B077PMHCC3",
+        "price": 5425.62,
+        "model": "KLF03SSUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg Hervidor Electrico color Rojo, Pequeño, Rojo",
+        "url": "https://www.amazon.com.mx/dp/B077PMH82M",
+        "price": 3835.74,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (verde pastel)",
+        "url": "https://www.amazon.com.mx/dp/B09PFC48BN",
+        "price": 3210.11,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (azul pastel)",
+        "url": "https://www.amazon.com.mx/dp/B09D3YPBR8",
+        "price": 3705.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg Mini hervidor de agua eléctrico estilo retro de los años 50, 3 tazas con base antideslizante de doble pared e indicador de nivel de agua (color crema)",
+        "url": "https://www.amazon.com.mx/dp/B09D3Y8XKN",
+        "price": 4269.86,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (rosa)",
+        "url": "https://www.amazon.com.mx/dp/B09D3YSWZ2",
+        "price": 3380.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg KLF03PGUS Hervidor Electrico, color Verde Pastel, Pequeño",
+        "url": "https://www.amazon.com.mx/dp/B07846QYBP",
+        "price": 4082.68,
+        "model": "KLF03PGUS"
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor eléctrico de temperatura variable de 7 tazas, estético de estilo retro con tecnología avanzada, acero inoxidable, 1400 W, 120 V, base giratoria de 360 °, función de mantener el calor",
+        "url": "https://www.amazon.com.mx/dp/B0793G8TT3",
+        "price": 5353.56,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-17T04:59:39.110494+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de agua Smeg 50's Retro Style KLF03NBUS - Azul marino",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-smeg-50-s-retro-style-klf03nbus-azul-marino/00081289502250?athbdg=L1300",
+        "price": 4639.0,
+        "model": "KLF03NBUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de agua Smeg 50's Retro Style 1.7L Jade Green",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-smeg-50-s-retro-style-1-7l-jade-green/00081289502412?athbdg=L1300",
+        "price": 6149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg eléctrico de 1.7 Lt color Gris",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-lt-color-gris/00081289502187?athbdg=L1300",
+        "price": 5139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico SMEG 800 ml color Negro",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-smeg-800-ml-color-negro/00081289502240?athbdg=L1300",
+        "price": 4179.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de agua Smeg 50's Retro Style KLF03BLMUS Black",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-smeg-50-s-retro-style-klf03blmus-black/00081289502182?athbdg=L1300",
+        "price": 4889.0,
+        "model": "KLF03BLMUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico Smeg Retro para estufa, 2,4 L, color rojo",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-smeg-retro-para-estufa-2-4-l-color-rojo/00081289502546?athbdg=L1300",
+        "price": 5269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de agua Smeg 50's Retro Style KLF03PBUS Blue",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-smeg-50-s-retro-style-klf03pbus-blue/00060157783516?athbdg=L1300",
+        "price": 6149.0,
+        "model": "KLF03PBUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg Eléctrico de 1.7 Litros Cromo",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-litros-cromo/00081289502065?athbdg=L1300",
+        "price": 6149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg Eléctrico de 1.7 Litros Verde Pastel",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-litros-verde-pastel/00081289502062?athbdg=L1300",
+        "price": 4359.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico SMEG 800 ml color Beige",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-smeg-800-ml-color-beige/00081289502238?athbdg=L1300",
+        "price": 4819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg Eléctrico de 1.7 Litros Crema",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-litros-crema/00081289502060?athbdg=L1300",
+        "price": 6039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg Eléctrico de 1.7 Litros Rosa",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-litros-rosa/00081289502063?athbdg=L1300",
+        "price": 4719.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-17T04:59:39.926897+00:00",
+    "items": []
+  },
+  "amazon|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-17T04:59:43.425300+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Smeg Hervidor Electrico color Negro, Pequeño, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0784716VV",
+        "price": 3862.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Hervidor eléctrico de estilo retro con apagado automático, 1.7 litros, azul marino",
+        "url": "https://www.amazon.com.mx/dp/B0C8PGBDTB",
+        "price": 3820.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor de agua con 7 tazas (champaña mate)",
+        "url": "https://www.amazon.com.mx/dp/B094YNT135",
+        "price": 4736.55,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (azul pastel)",
+        "url": "https://www.amazon.com.mx/dp/B09D3YPBR8",
+        "price": 3705.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (verde pastel)",
+        "url": "https://www.amazon.com.mx/dp/B09PFC48BN",
+        "price": 3210.11,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Hervidor Eléctrico Compacto 0.8L Diseño Retro 50's Style con Materiales Premium",
+        "url": "https://www.amazon.com.mx/dp/B0GH345RRP",
+        "price": 3134.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Mini 50's - Hervidor eléctrico de 3 tazas estilo retro con base antideslizante de doble pared e indicador de nivel de agua (negro)",
+        "url": "https://www.amazon.com.mx/dp/B09D3WX82S",
+        "price": 3999.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hervidor Eléctrico de Doble Pared Soho™ 1 L",
+        "url": "https://www.amazon.com.mx/dp/B0DD5FH26S",
+        "price": 684.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor eléctrico de temperatura variable de 7 tazas, estético de estilo retro con tecnología avanzada, acero inoxidable, 1400 W, 120 V, base giratoria de 360 °, función de mantener el calor",
+        "url": "https://www.amazon.com.mx/dp/B0793G8TT3",
+        "price": 5353.56,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg - Hervidor eléctrico, 29,7 x 26,4 x 23,1 cm, color azul pastel",
+        "url": "https://www.amazon.com.mx/dp/B07937JHZ7",
+        "price": 6039.57,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Vidrio Eléctrica De 1,7, Tetera Pequeño Electrodoméstico Cocina, Negro (Black), 1.7 Litros",
+        "url": "https://www.amazon.com.mx/dp/B00CXMO01I",
+        "price": 479.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG 50's - Hervidor de agua eléctrico de estilo retro con apagado automático, base extraíble e indicador de agua, KLF03BLMUS, negro mate",
+        "url": "https://www.amazon.com.mx/dp/B094YNLQCF",
+        "price": 4735.72,
+        "model": "KLF03BLMUS"
+      }
+    ]
+  },
+  "walmart|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-17T04:59:47.534009+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico de agua Smeg 50's Retro Style KLF03PBUS Blue",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-de-agua-smeg-50-s-retro-style-klf03pbus-blue/00060157783516?athbdg=L1300",
+        "price": 6149.0,
+        "model": "KLF03PBUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico SMEG 800 ml color Azul",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-smeg-800-ml-color-azul/00081289502241?athbdg=L1300",
+        "price": 4889.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor eléctrico SMEG 800 ml color Negro",
+        "url": "https://www.walmart.com.mx/ip/hervidor-electrico-smeg-800-ml-color-negro/00081289502240?athbdg=L1300",
+        "price": 4179.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg eléctrico de 1.7 Lt color Gris",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-lt-color-gris/00081289502187?athbdg=L1300",
+        "price": 5139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Hervidor Smeg Eléctrico de 1.7 Litros Verde Pastel",
+        "url": "https://www.walmart.com.mx/ip/hervidor-smeg-electrico-de-1-7-litros-verde-pastel/00081289502062?athbdg=L1300",
+        "price": 4359.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-17T04:59:48.222196+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
+    "ts": "2026-08-17T04:59:51.329656+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Olivo | Lujo en cada detalle",
+        "url": "https://www.amazon.com.mx/dp/B0GLDHY8W7",
+        "price": 21999.0,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Negro | Lujo en cada detalle",
+        "url": "https://www.amazon.com.mx/dp/B0GLBK4C3L",
+        "price": 21469.68,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Signature 16GB/1TB, Desbloqueado, Color Negro Signature 16GB/1TB, Desbloqueado, Color Olivo+++",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y4M9W5",
+        "price": 43598.28,
+        "model": "16GB/1TB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2372.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Cel Moto G06 4GB+8GB(Boost)+64GB Tapestry (Azul)(4g Lte) | 4GB RAM, 8GB Boost, 4G LTE, 6.88\" pantalla, Helio G81",
+        "url": "https://www.amazon.com.mx/dp/B0GLF2LKH7",
+        "price": 1854.0,
+        "model": "4GB+8GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6305.87,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Smartphone Edge 70 Verde Olivo | Ultrarresistente",
+        "url": "https://www.amazon.com.mx/dp/B0G4NGTFXK",
+        "price": 8799.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
+        "price": 8715.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Cafe (4GB RAM/256GB), Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FWF1MRWR",
+        "price": 3499.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
+        "price": 4699.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Verde",
+        "url": "https://www.amazon.com.mx/dp/B0F3HQ8MPY",
+        "price": 6129.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
+        "price": 5188.0,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
+    "ts": "2026-08-17T04:59:53.817883+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola G17 Power 256 GB Celeste Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-g17-power-256-gb-celeste-desbloqueado/00084049361503?athbdg=L1300",
+        "price": 4999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MOTOROLADESBLOQUEADOSIGNATURECELULAROLIVO": {
+    "ts": "2026-08-17T04:59:54.814358+00:00",
+    "items": []
+  },
+  "amazon|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
+    "ts": "2026-08-17T04:59:57.435195+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
+        "price": 2669.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Extreme Mix Blender, licuadora de alta velocidad de 1500 vatios con hoja de 10 puntos, 64 onzas con programas automáticos",
+        "url": "https://www.amazon.com.mx/dp/B0D9MT9Q9N",
+        "price": 2735.79,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora XTREME MIX 1500W + Freidora Aire Digital 7.5L (Bundle)",
+        "url": "https://www.amazon.com.mx/dp/B0FGX5927C",
+        "price": 3853.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
+        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
+        "price": 1827.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster - Licuadora Pro 1200 con tarro de vidrio, taza de batido de 710 ml, níquel cepillado",
+        "url": "https://www.amazon.com.mx/dp/B00XHXN54K",
+        "price": 2190.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
+        "price": 1487.0,
+        "model": "BLSTBESTE-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1425.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Batidora fuente de soda, 2 Velocidades, Capacidad de 750 ML, Verde Aqua B00WN15RIY",
+        "url": "https://www.amazon.com.mx/dp/B00WN15RIY",
+        "price": 2099.0,
+        "model": "B00WN15RIY"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora 800 W con Vaso de Vidrio de 1.5 L, 6 Velocidades + Pulso | Prepara bebidas, sopas, tritura hielo y muele granos, cuchilla de acero quirúrgico y acople metálico, botones, BLSTPEG-NPB",
+        "url": "https://www.amazon.com.mx/dp/B0BZX357SQ",
+        "price": 1031.4,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
+        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
+        "price": 1290.0,
+        "model": "BLST4126013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 825.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
+    "ts": "2026-08-17T05:00:06.691569+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
+        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
+        "price": 1999.0,
+        "model": "7KHBV83MPA"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1510",
+        "price": 2104.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
+        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
+        "price": 5767.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Extremo Mix Blender, 1500 Vatios de Alta Velocidad Blender con Hoja de 10 Puntos, Cocina de 8 Tazas Blender con Programas Automáticos",
+        "url": "https://www.walmart.com.mx/ip/oster-extremo-mix-blender-1500-vatios-de-alta-velocidad-blender-con-hoja-de-10-puntos-cocina-de-8-tazas-blender-con-programas-automaticos/00005389117665?athbdg=L1300",
+        "price": 3329.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
+    "ts": "2026-08-17T05:00:07.446093+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERA2217257TAZAS": {
+    "ts": "2026-08-17T05:00:10.851631+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
+        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Genérico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripción.",
+        "url": "https://www.amazon.com.mx/dp/B0FMBLSGSJ",
+        "price": 365.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "cafetera Oster 12 tazas (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0D6XDWNR6",
+        "price": 459.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de repuesto para cafetera de 5 tazas, Cristal, Negro. Oster",
+        "url": "https://www.amazon.com.mx/dp/B0BMQ24YSV",
+        "price": 349.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1759.0,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
+        "price": 398.0,
+        "model": "12Tazas"
+      },
+      {
+        "store": "amazon",
+        "name": "Univen - Cafetera de vidrio de 4 tazas compatible con cafetera Oster modelo 3301 y 4287",
+        "url": "https://www.amazon.com.mx/dp/B0DFDST5ZP",
+        "price": 748.02,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERA2217257TAZAS": {
+    "ts": "2026-08-17T05:00:40.356075+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L6000",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-programable-de-5-tazas-de-capacidad-con-filtro-reutilizable-funcion-pausa-y-servir-apagado-automatico-pantalla-led-jarra-con-medidas-color-negro-bvstdcp51/00046309775269?athbdg=L1300",
+        "price": 1760.0,
+        "model": "BVSTDCP51"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Capacidad, con Filtro Permanente, Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-capacidad-con-filtro-permanente-negro/00005389114703?athbdg=L6000",
+        "price": 639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L1300",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Análoga 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "CAFETERA ELECTRICA OSTER PROGRAMABLE 12 TAZAS NEGRA",
+        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-oster-programable-12-tazas-negra/00005389117867?athbdg=L1300",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      }
+    ]
+  },
+  "sams|OSTERCAFETERA2217257TAZAS": {
+    "ts": "2026-08-17T05:00:49.218518+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
+        "price": 2044.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
+        "price": 715.08,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
+        "price": 561.61,
+        "model": "46299J-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
+        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
+        "price": 912.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
+        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
+        "price": 3241.89,
+        "model": "DGB-800ES"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
+        "price": 1424.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
+        "price": 602.55,
+        "model": "46310-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1020.95,
+        "model": "TEKM-1500"
+      },
+      {
+        "store": "sams",
+        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
+        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
+        "price": 91.03,
+        "model": null
+      }
+    ]
+  },
+  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-17T05:00:55.503624+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1759.0,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 5299.85,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1451.61,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-17T05:00:59.036045+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-PrimaLatte-2-Touch-Panel-Tactil-19-Bares-de-Presion-Compatibe-con-capsulas-Roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-17T05:01:01.403033+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-17T05:01:04.565598+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
+        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
+        "price": 7799.0,
+        "model": "BVSTEM7301"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
+        "price": 5500.0,
+        "model": "BVSTEM7201-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera para Espresso y Cappuccino con Jarra de Vidrio | Tubo de vapor para espumar leche, con perilla de control, incluye cuchara medidora/aplanador, BVSTEM330",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ5KFB",
+        "price": 918.0,
+        "model": "BVSTEM330"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Color Negro, BVSTEM6604BK",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3136F1",
+        "price": 3740.0,
+        "model": "BVSTEM6604BK"
+      },
+      {
+        "store": "amazon",
+        "name": "IMUSA USA gau-18199 jarra cafetera de espresso en caja de regalo, transparente",
+        "url": "https://www.amazon.com.mx/dp/B00NPZHX5M",
+        "price": 216.45,
+        "model": "gau-18199"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
+        "price": 2983.17,
+        "model": "BVSTEM6604SS"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molino Integrado y 15 Bar",
+        "url": "https://www.amazon.com.mx/dp/B07WG2ZQDG",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de café de vidrio de 4 tazas de repuesto para espresso - Accesorios de espresso compatibles con IMUSA, Hamilton Beach, Mr. Coffee, Breville, UNIVEN Máquina de espresso, mango negro",
+        "url": "https://www.amazon.com.mx/dp/B0CNCT94XF",
+        "price": 380.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
+        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
+        "price": 299.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-17T05:01:16.713888+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L6000",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Análoga 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L1300",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Compacta de Espresso",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-compacta-de-espresso/00005389117290?athbdg=L1300",
+        "price": 4249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negra/00005389112603?athbdg=L6000",
+        "price": 1033.62,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Gran capacidad para eventos y catering - Cafetera industrial eléctrica de acero inoxidable - Doble pared, dispensador rápido y seguro, fácil de usar y limpiar - Capacidad 12L",
+        "url": "https://www.walmart.com.mx/ip/gran-capacidad-para-eventos-y-catering-cafetera-industrial-electrica-de-acero-inoxidable-doble-pared-dispensador-rapido-y-seguro-facil-de-usar-y-limpiar-capacidad-12l/00088162832722",
+        "price": 3470.94,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Ideal para hostelería y oficinas - Cafetera urna comercial eléctrica de acero inoxidable con doble pared",
+        "url": "https://www.walmart.com.mx/ip/ideal-para-hosteleria-y-oficinas-cafetera-urna-comercial-electrica-de-acero-inoxidable-con-doble-pared/00088162832724",
+        "price": 2314.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-17T05:01:17.465726+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPERFECTMAXIMABREW": {
+    "ts": "2026-08-17T05:01:22.391344+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Espresso Perfect Brew Máxima con Bomba Italiana 15 bar | 2 Bombas de Presión, Espresso, Latte, Incluye Accesorios Profesionales, Acero Inoxidable, BVSTEM7400",
+        "url": "https://www.amazon.com.mx/dp/B0CW77H121",
+        "price": 11528.9,
+        "model": "BVSTEM7400"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
+        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
+        "price": 7799.0,
+        "model": "BVSTEM7301"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 40715 Cafetera Espresso, 2 Tazas, Cappuccino, Mocha y Latte, 15 Bares, Negro y Plata",
+        "url": "https://www.amazon.com.mx/dp/B003D66TXA",
+        "price": 1558.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "De'Longhi Cafetera Tipo Barista para Espresso EC260BK Stilosa",
+        "url": "https://www.amazon.com.mx/dp/B08C96BG9H",
+        "price": 2564.88,
+        "model": "EC260BK"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molino Integrado y 15 Bar",
+        "url": "https://www.amazon.com.mx/dp/B07WG2ZQDG",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Breville BES870XL Máquina espresso - Cafetera (Máquina espresso) | Crea chupitos de café expreso, café con leche y capuchinos en casa con esta cafetera manual con molinillo integrado",
+        "url": "https://www.amazon.com.mx/dp/B00CH9QWOU",
+        "price": 12249.0,
+        "model": "BES870XL"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1759.0,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart Cafetera Grind & Brew con Molinillo de Café, 8/10/12 oz, Compatible con Cápsulas, 40 oz",
+        "url": "https://www.amazon.com.mx/dp/B0C1Q4V3J3",
+        "price": 3681.89,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPERFECTMAXIMABREW": {
+    "ts": "2026-08-17T05:01:25.273257+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Mr. Coffee 12T Programable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-mr-coffee-12t-programable/00007217923550",
+        "price": 2000.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPERFECTMAXIMABREW": {
+    "ts": "2026-08-17T05:01:26.078781+00:00",
+    "items": []
+  },
+  "amazon|TORYBURCHINOXIDABLESILICONCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:29.027701+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
+        "url": "https://www.amazon.com.mx/dp/B0GY5X3C4S",
+        "price": 2227.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0118)",
+        "url": "https://www.amazon.com.mx/dp/B0DYF865RM",
+        "price": 2836.68,
+        "model": "TBS0118"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch Kira - Correa de piel para Apple Watch® (Modelo: TBS0107E)",
+        "url": "https://www.amazon.com.mx/dp/B0DJ1K5S6Y",
+        "price": 2508.43,
+        "model": "TBS0107E"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
+        "url": "https://www.amazon.com.mx/dp/B0GY5RTB7W",
+        "price": 2227.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch Kira - Correa de piel café para Apple Watch® (Modelo: TBS0092)",
+        "url": "https://www.amazon.com.mx/dp/B0D9LDK2H5",
+        "price": 4074.15,
+        "model": "TBS0092"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0117)",
+        "url": "https://www.amazon.com.mx/dp/B0DYFCW4DR",
+        "price": 2509.37,
+        "model": "TBS0117"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
+        "url": "https://www.amazon.com.mx/dp/B0GY5WVP44",
+        "price": 2227.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch - Correa Kira para Apple Watch®, piel (modelo: TBS0109E), Blanco, Una talla, The Kira",
+        "url": "https://www.amazon.com.mx/dp/B0F7ZY4TSM",
+        "price": 4074.15,
+        "model": "TBS0109E"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch Kira - Correa para Apple Watch para mujer (Modelo: TBS0133E)",
+        "url": "https://www.amazon.com.mx/dp/B0GFXZT3LH",
+        "price": 4736.75,
+        "model": "TBS0133E"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch Kira - Correa para Apple Watch para mujer (modelo: TBS0132E)",
+        "url": "https://www.amazon.com.mx/dp/B0GFY1ZW7J",
+        "price": 3089.18,
+        "model": "TBS0132E"
+      },
+      {
+        "store": "amazon",
+        "name": "Tory Burch Kira - Correa de acero inoxidable para Apple Watch® (Modelo: TBS0127E)",
+        "url": "https://www.amazon.com.mx/dp/B0FFTQRST2",
+        "price": 6191.67,
+        "model": "TBS0127E"
+      },
+      {
+        "store": "amazon",
+        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
+        "url": "https://www.amazon.com.mx/dp/B0DLFJD2T2",
+        "price": 1171.37,
+        "model": null
+      }
+    ]
+  },
+  "walmart|TORYBURCHINOXIDABLESILICONCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:32.774565+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062561",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062509",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082937?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062555",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082796?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082847?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082828?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062534",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062516",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Deportiva de Silicón para Apple Watch, Hebilla Magnética, Compatible con Todas las Series",
+        "url": "https://www.walmart.com.mx/ip/correa-deportiva-de-silicon-para-apple-watch-hebilla-magnetica-compatible-con-todas-las-series/00750306062543",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082733?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Sport Para Apple Watch Silicon Transpirable Premium Compatible con Series 1,2,3,4,5,6,7,8,9,10",
+        "url": "https://www.walmart.com.mx/ip/correa-sport-para-apple-watch-silicon-transpirable-premium-compatible-con-series-1-2-3-4-5-6-7-8-9-10/00750306082868?athbdg=L1300",
+        "price": 119.4,
+        "model": null
+      }
+    ]
+  },
+  "sams|TORYBURCHINOXIDABLESILICONCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:33.469299+00:00",
+    "items": []
+  },
+  "amazon|MICHAELKORSINOXIDABLETRICOLORCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:36.464959+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Michael Kors Women's Apple Strap PVC Apple Strap, Color: Pink (Model: MKS8004)",
+        "url": "https://www.amazon.com.mx/dp/B08QM4J73N",
+        "price": 1865.48,
+        "model": "MKS8004"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Damenarmband aus Leder oder PVC, kompatibel mit 38mm/40mm/41mm Apple Watch®",
+        "url": "https://www.amazon.com.mx/dp/B0CKSZJ328",
+        "price": 1570.53,
+        "model": "38mm/40mm/41mm"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Access Women's Apple Strap Leather, Color: Brown (Café) Model: MKS8003",
+        "url": "https://www.amazon.com.mx/dp/B08QMRJ6TQ",
+        "price": 2085.58,
+        "model": "MKS8003"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Correa de reloj intercambiable compatible con tu Apple Watch de 38 mm/40 mm/41 mm, correas para uso con Apple Watch Series 1, 2, 3, 4, 5, 6, 7, SE",
+        "url": "https://www.amazon.com.mx/dp/B0BG6BKZ2T",
+        "price": 4050.39,
+        "model": "mm/40"
+      },
+      {
+        "store": "amazon",
+        "name": "Magnética Correas para Apple Watch 40mm 41mm 42mm 44mm 45mm 46mm 49mm 38mm series 11 10 9 8 7 6 5 4 3 2 SE Ultra Mujer, Acero Inoxidable Milanese Metal Correa para iWatch",
+        "url": "https://www.amazon.com.mx/dp/B0F6NBVMLT",
+        "price": 359.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
+        "url": "https://www.amazon.com.mx/dp/B0CDSNXDJT",
+        "price": 1241.21,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pulsera de acero inoxidable dorado plateado compatible con Apple Watch Starlight para mujer, delgada de 38 mm, 40 mm, 41 mm, 42 mm, 44 mm, 45 mm, 49 mm, pulsera de metal fino de oro rosa con abalorio",
+        "url": "https://www.amazon.com.mx/dp/B0C7HHD79H",
+        "price": 420.93,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
+        "url": "https://www.amazon.com.mx/dp/B07F1RRQXQ",
+        "price": 409.99,
+        "model": "Ultra3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "Lamshaw - Correas de repuesto de metal de acero inoxidable de liberación rápida compatibles con Michael Kors Gen 6 Bradshaw Smartwatch/MK Gen 6 Bradshaw 2021",
+        "url": "https://www.amazon.com.mx/dp/B09GYBMC74",
+        "price": 375.67,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
+        "url": "https://www.amazon.com.mx/dp/B09XTXWKTJ",
+        "price": 639.99,
+        "model": "Ultra3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "Tarcisio Nueva Correa de Metal de Acero Inoxidable Compatible con apple watch ultra para Hombres y Mujeres de 49, 45, 44, 42mm. Correa resistente para Modelos Watch Ultra Series SE 9-1. Color Titanio.",
+        "url": "https://www.amazon.com.mx/dp/B0CSQQZ3WS",
+        "price": 449.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GEAK Compatible con Correa Apple Watch 45mm 46mm 44mm 42mm 49mm 41mm 40mm 38mm hombres y mujeres, Metal de Acero Inoxidable Correas para Apple Watch Ultra iWatch Series 11 10 9 8 7 6 5 4 3 2 1 SE",
+        "url": "https://www.amazon.com.mx/dp/B0C9C94XLL",
+        "price": 378.39,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:46.926762+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Michael Kors Bolso Bandolera Extrapequeño con Logo Vincent y Tarjetero 35F4G2VC0B-847",
+        "url": "https://www.walmart.com.mx/ip/michael-kors-bolso-bandolera-extrapequeno-con-logo-vincent-y-tarjetero-35f4g2vc0b-847/00019785307995?athbdg=L1300",
+        "price": 2331.79,
+        "model": "35F4G2VC0B-847"
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa Michael Kors Crossbody Jet Set Travel Dome Crema Michael Kors Jet Set",
+        "url": "https://www.walmart.com.mx/ip/bolsa-michael-kors-crossbody-jet-set-travel-dome-crema-michael-kors-jet-set/00019490065635",
+        "price": 1636.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cartera Michael Kors Jet Set Travel Continental para mujer, color vainilla",
+        "url": "https://www.walmart.com.mx/ip/cartera-michael-kors-jet-set-travel-continental-para-mujer-color-vainilla/00019490073658",
+        "price": 1402.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mono Estampado De Leopardo Michael Kors Para Mujer Marrón 2",
+        "url": "https://www.walmart.com.mx/ip/mono-estampado-de-leopardo-michael-kors-para-mujer-marron-2/00019359943151",
+        "price": 3165.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
+        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
+        "price": 3329.48,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bandolera Michael Kors Mercer de piel extrapequeña",
+        "url": "https://www.walmart.com.mx/ip/bandolera-michael-kors-mercer-de-piel-extrapequena/00019490048706?athbdg=L1300",
+        "price": 2283.73,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Jet Set Item Large Crossbody 35F8GTTC3B Michael Kors 35F8GTTC3B",
+        "url": "https://www.walmart.com.mx/ip/jet-set-item-large-crossbody-35f8gttc3b-michael-kors-35f8gttc3b/00019287793824?athbdg=L1300",
+        "price": 1860.0,
+        "model": "35F8GTTC3B"
+      },
+      {
+        "store": "walmart",
+        "name": "Michael Kors 35S2Gnms8L Carmen Bolso Mediano de Piel Sintética con Cinturón Negro",
+        "url": "https://www.walmart.com.mx/ip/michael-kors-35s2gnms8l-carmen-bolso-mediano-de-piel-sintetica-con-cinturon-negro/00019616308126?athbdg=L1300",
+        "price": 4251.78,
+        "model": "35S2Gnms8L"
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa Monograma Michael Kors beige Michael Kors  35F1GTVC2B",
+        "url": "https://www.walmart.com.mx/ip/bolsa-monograma-michael-kors-beige-michael-kors-35f1gtvc2b/00019490065578",
+        "price": 1519.83,
+        "model": "35F1GTVC2B"
+      },
+      {
+        "store": "walmart",
+        "name": "Michael Kors Womens Striped Pencil Skirt blackmulti 2",
+        "url": "https://www.walmart.com.mx/ip/michael-kors-womens-striped-pencil-skirt-blackmulti-2/00088915471861",
+        "price": 1476.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Double Zip Wristlet Michael Kors 35F8GTVW0B",
+        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8gtvw0b/00019287793864",
+        "price": 1402.83,
+        "model": "35F8GTVW0B"
+      },
+      {
+        "store": "walmart",
+        "name": "Michael Kors Leggings Casuales con Estampado de Serpiente para Mujer lila 12x28",
+        "url": "https://www.walmart.com.mx/ip/michael-kors-leggings-casuales-con-estampado-de-serpiente-para-mujer-lila-12x28/00088049212073",
+        "price": 1448.0,
+        "model": "12x28"
+      }
+    ]
+  },
+  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAAPPLE": {
+    "ts": "2026-08-17T05:01:48.258283+00:00",
+    "items": []
   }
 }
