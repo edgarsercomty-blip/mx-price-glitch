@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (812)
+# Historial de ofertas encontradas (815)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 08:04 | -20% | liverpool | [Smartwatch Amazfit Active 2 Premium Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411) | $2,239 | $2,239 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-08-17 08:04 | -30% | palacio | [Correa The Single T Jelly para Apple Watch en silicona](https://www.elpalaciodehierro.com/tory-burch-correa-the-single-t-jelly-para-apple-watch-en-silicona-45479315.html) | $1,336 | $1,336 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-17 08:04 | -35% | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | $1,364 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-17 07:19 | -23% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo,…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-17 07:19 | -25% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-17 05:01 | -25% | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | $3,089 en palacio vs mercado -> -25% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-19 09:20 | -22% | palacio | [Celular Edge 70 Fusion 256 GB 8 GB RAM Celeste Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-256-gb-8-gb-ram-celeste-desbloqueado-45345509.html) | $7,699 | $7,699 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-07-19 09:20 | -26% | palacio | [Funda Galaxy A37 Rugged Negra rayas](https://www.elpalaciodehierro.com/samsung-funda-galaxy-a37-rugged-negra-rayas-45347604.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-18 14:17 | -26% | palacio | [Mica protectora antirreflejante para Galaxy S26](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-45272436.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-18 10:56 | -26% | palacio | [Galaxy S26+ Silicone Magnet Case](https://www.elpalaciodehierro.com/samsung-galaxy-s26-silicone-magnet-case-45272463.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-18 09:48 | -24% | palacio | [Celular Moto Edge70 Fusion FIFA, 5G, 256 GB, RAM 8 GB, …](https://www.elpalaciodehierro.com/motorola-celular-moto-edge70-fusion-fifa-5g-256-gb-ram-8-gb-telcel-45363417.html) | $7,479 | $7,479 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-07-18 08:13 | -25% | palacio | [Funda Magnética Resistente para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-funda-magnetica-resistente-para-galaxy-s26-ultra-45272481.html) | $1,012 | $1,012 en palacio vs mercado -> -25% bajo la competencia |

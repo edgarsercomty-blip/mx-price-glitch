@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 07:19 UTC",
-  "products_scanned": 1447,
+  "generated_at": "2026-08-17 08:04 UTC",
+  "products_scanned": 1536,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
         "outlet": false
       }
     },
@@ -90,6 +69,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 47.9,
+      "detail": "$1,364 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 730.85,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
+      "price": 1364.35,
+      "list_price": 2619.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165916841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45555104",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$1,336 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 572.7,
+      "store": "palacio",
+      "name": "Correa The Single T Jelly para Apple Watch en silicona",
+      "url": "https://www.elpalaciodehierro.com/tory-burch-correa-the-single-t-jelly-para-apple-watch-en-silicona-45479315.html",
+      "price": 1336.3,
+      "list_price": 1909.0,
+      "ean": null,
+      "model": null,
+      "brand": "Tory Burch",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45479314",
         "outlet": false
       }
     },
@@ -253,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44519347",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2599.8,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262439",
         "outlet": false
       }
     },
@@ -594,6 +594,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -637,6 +658,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$2,239 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 559.8,
+      "store": "liverpool",
+      "name": "Smartwatch Amazfit Active 2 Premium Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411",
+      "price": 2239.2,
+      "list_price": 2799.0,
+      "ean": null,
+      "model": null,
+      "brand": "AMAZFIT",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189975411",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 5999.8,
@@ -652,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45260351",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262437",
         "outlet": false
       }
     },
