@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 08:04 UTC",
-  "products_scanned": 1536,
+  "generated_at": "2026-08-17 09:03 UTC",
+  "products_scanned": 1599,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -65,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.9,
-      "detail": "$1,364 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 730.85,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 1364.35,
-      "list_price": 2619.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165916841",
-        "marketplace": null
       }
     },
     {
@@ -154,27 +133,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 959.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2239.3,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$3,702 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1586.7,
@@ -211,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44353770",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs walmart $3,179 -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 939.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Coach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42825376",
         "outlet": false
       }
     },
@@ -653,6 +632,48 @@
       "extra": {
         "id": "44004165",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 199.8,
+      "store": "liverpool",
+      "name": "Smartband Reebok Rbk",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023",
+      "price": 799.2,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "REEBOK",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196432023",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$2,199 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 549.8,
+      "store": "liverpool",
+      "name": "Estacion De Carga 3 En 1 Ugreen 65901 25 W",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151",
+      "price": 2199.2,
+      "list_price": 2749.0,
+      "ean": null,
+      "model": null,
+      "brand": "UGREEN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1201359151",
+        "marketplace": null
       }
     },
     {

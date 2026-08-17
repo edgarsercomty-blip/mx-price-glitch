@@ -1,4 +1,4 @@
-# Productos en vigilancia (688)
+# Productos en vigilancia (690)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -206,7 +206,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Wt6Hkna](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21wt6hkna/1202655056) | $12,599 | -24% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1189055567) | $387 | -23% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Cco905Ks 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-cco905ks-5-velocidades/1160618660) | $7,996 | -60% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $11,785 | -36% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 65 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-65-pulgadas-4k-uhd-un65u8500hfxzx-con-tizen/1197292454) | $10,999 | -36% |
 | 🟢 disponible | liverpool | [Lavasecadora Lg Electrica 22 Kg 13 Kg Wd22Vv2S6R](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-electrica-22-kg-13-kg-wd22vv2s6r/1100637941) | $28,379 | -24% |
 | 🟢 disponible | palacio | [Refrigerador French Door 31 p3 RF32CG5411B1EM Negro](https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-rf32cg5411b1em-negro-43388828.html) | $28,727 | -24% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 180…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-18000-btu-mmi18hdbwca32m2/1174006080) | $10,888 | -24% |
@@ -227,7 +227,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $8,399 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $30,819 | -25% |
 | 🟢 disponible | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $929 | -41% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $13,392 | -36% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $12,499 | -36% |
 | 🟢 disponible | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $2,549 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | -25% |
@@ -245,7 +245,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Razr 60 Ultra, 1 TB, 16 GB RAM, café, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-razr-60-ultra-1-tb-16-gb-ram-cafe-desbloqueado-44600338.html) | $24,749 | -20% |
 | 🟢 disponible | palacio | [Celular Pura 80 Pro, 512 GB, RAM 12 GB, Negro, Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-pura-80-pro-512-gb-ram-12-gb-negro-desbloqueado-44928183.html) | $20,999 | -29% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $8,624 | -25% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $34,713 | -52% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $32,399 | -52% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $5,319 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Venu 3S Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,579 | -48% |
@@ -256,7 +256,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,599 | -20% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | -20% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $6,963 | -62% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $6,499 | -62% |
 | 🟢 disponible | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | -40% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265 Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265-music-para-correr-43074173.html) | $7,599 | -20% |
@@ -300,7 +300,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mousse d…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $7,199 | -20% |
 | 🟢 disponible | liverpool | [Refrigerador French Door Whirlpool Bismarck 30 Pies Cubicos …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-whirlpool-bismarck-30-pies-cubicos-fabrica-de-hielo-wrff3536sv/1185462303) | $25,496 | -24% |
 | 🟢 disponible | liverpool | [Set Regalo Moscow Mule](https://www.liverpool.com.mx/tienda/pdp/set-regalo-moscow-mule/1137579509) | $335 | -23% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $37,499 | -30% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 13 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196168741) | $31,874 | -30% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756780) | $376 | -25% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 11 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-11-pies-cubicos-tecnologia-no-frost-rma300fzmrx0/1110895328) | $6,530 | -40% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132844999) | $376 | -25% |
@@ -317,16 +317,16 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Funda para celular Galaxy Z Flip 7, Navy](https://www.elpalaciodehierro.com/samsung-funda-para-celular-galaxy-z-flip-7-navy-44815304.html) | $591 | -26% |
 | 🟢 disponible | palacio | [Cable de Carga tipo C](https://www.elpalaciodehierro.com/samsung-cable-de-carga-tipo-c-41564840.html) | $147 | -26% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60 Fusion, 5G, 256 GB, 8 GB RAM, Verde, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-5g-256-gb-8-gb-ram-verde-desbloqueado-44600340.html) | $7,199 | -25% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd P…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $34,999 | -30% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd A…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341) | $34,999 | -30% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402) | $42,499 | -30% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Bla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466) | $42,499 | -46% |
-| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Mediano…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $47,499 | -30% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Sdd P…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-sdd-plateado/1196176604) | $29,749 | -30% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 512 Gb Ssd A…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-512-gb-ssd-azul-cielo/1196183341) | $29,749 | -30% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Pla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-plateado/1196178402) | $36,124 | -30% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 16 Gb Ram 1 Tb Ssd Bla…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-16-gb-ram-1-tb-ssd-blanco-estelar/1196180466) | $36,124 | -46% |
+| 🟢 disponible | liverpool | [Apple Macbook Air 15 Pulgadas Chip M5 24 Gb 1 Tb Ssd Mediano…](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-15-pulgadas-chip-m5-24-gb-1-tb-ssd-medianoche/1196182841) | $40,374 | -30% |
 | 🟢 disponible | liverpool | [Cafetera Espresso Oster 212196](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-212196/1110425665) | $2,393 | -37% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch 2 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-2-unisex-con-gps/1165812272) | $6,950 | -67% |
 | 🟢 disponible | palacio | [Correa deportiva para Apple Watch 42 mm Verde lago](https://www.elpalaciodehierro.com/apple-correa-deportiva-para-apple-watch-42-mm-verde-lago-44272712.html) | $330 | -70% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $8,035 | -50% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $11,249 | -48% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $7,499 | -50% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $10,499 | -48% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 75 Pulgadas 4K Uhd 75Nu850Bpsa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-75-pulgadas-4k-uhd-75nu850bpsa-con-webos/1200202381) | $13,499 | -50% |
 | 🟢 disponible | palacio | [Laptop Zenbook S 13 OLED, 13.3", Intel Core Ultra 7, 32 GB, …](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-13-oled-13.3-intel-core-ultra-7-32-gb-1tb-ssd-gris-43740349.html) | $17,250 | -50% |
 | 🟢 disponible | palacio | [Torre Gaming Lenovo Legion, Intel Core i5-14400F, 16 GB RAM,…](https://www.elpalaciodehierro.com/lenovo-torre-gaming-lenovo-legion-intel-core-i5-14400f-16-gb-ram1-tb-ssd-geforce-rtx-4060-8-gb-windows-11-home-44472024.html) | $23,000 | -50% |
@@ -409,7 +409,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $3,199 | -25% |
 | 🟢 disponible | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $3,999 | -25% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $424 | -20% |
-| 🟢 disponible | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $552 | -20% |
+| 🟢 disponible | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | -20% |
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | -20% |
 | 🟢 disponible | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $4,499 | -29% |
 | 🟢 disponible | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | -25% |
@@ -439,12 +439,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | -20% |
 | 🟢 disponible | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Led De 85 Pulgadas 4K Uhd 85A65Nv …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-led-de-85-pulgadas-4k-uhd-85a65nv-con-ai-sports-mode/1183307602) | $18,642 | -21% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482) | $21,428 | -20% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482) | $19,999 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $6,219 | -24% |
 | 🟢 disponible | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $2,872 | -34% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $38,570 | -51% |
 | 🟢 disponible | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | -23% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $13,392 | -38% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | -38% |
 | 🟢 disponible | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,899 | -35% |
 | 🟢 disponible | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | -30% |
 | 🟢 disponible | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $5,950 | -55% |
@@ -500,13 +500,13 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | -21% |
 | 🟢 disponible | liverpool | [Licuadora Hamilton Beach 53521Fg 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266) | $889 | -39% |
 | 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | -21% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $14,356 | -59% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $13,399 | -59% |
 | 🟢 disponible | liverpool | [Television Hisense Qled De 4K Uhd 75Qd6Sfm Con Fire Os Con A…](https://www.liverpool.com.mx/tienda/pdp/television-hisense-qled-de-4k-uhd-75qd6sfm-con-fire-os-con-ai-picture/1197715665) | $13,928 | -52% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367) | $9,106 | -48% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367) | $8,499 | -48% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Uhd De 65 Pulgadas 4K Uhd 65A65Nv …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-uhd-de-65-pulgadas-4k-uhd-65a65nv-con-ai-sports-mode/1178739405) | $9,320 | -47% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 65 Pulgadas 4K Uhd 65Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-65-pulgadas-4k-uhd-65q6k-con-google-tv/1173699375) | $11,249 | -46% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 55 Pulgadas 4K Uhd 55Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-55-pulgadas-4k-uhd-55qd6sfm-con-fire-os-con-ai-smooth-motion/1197517707) | $8,570 | -44% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 85 Pulgadas 4K Uhd 85Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-85-pulgadas-4k-uhd-85qd6sfm-con-fire-os-con-ai-smooth-motion/1197517481) | $20,785 | -43% |
+| 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 85 Pulgadas 4K Uhd 85Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-85-pulgadas-4k-uhd-85qd6sfm-con-fire-os-con-ai-smooth-motion/1197517481) | $19,399 | -43% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled 65 Pulgadas 4K Uhd 65Qd6Sfm C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-65-pulgadas-4k-uhd-65qd6sfm-con-ai-smooth-motion/1197753036) | $10,713 | -43% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50Qd6Sf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $5,529 | -21% |
 | 🟢 disponible | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | -22% |
@@ -692,3 +692,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | -30% |
 | 🟢 disponible | palacio | [Correa The Single T Jelly para Apple Watch en silicona](https://www.elpalaciodehierro.com/tory-burch-correa-the-single-t-jelly-para-apple-watch-en-silicona-45479315.html) | $1,336 | -30% |
 | 🟢 disponible | liverpool | [Smartwatch Amazfit Active 2 Premium Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-amazfit-active-2-premium-unisex-con-gps/1189975411) | $2,239 | -20% |
+| 🟢 disponible | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | -20% |
+| 🟢 disponible | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | -20% |
