@@ -3556,224 +3556,6 @@
     "ts": "2026-08-17T09:03:58.275856+00:00",
     "items": []
   },
-  "amazon|APPLENUCLEOSMACBOOKCPURAM": {
-    "ts": "2026-08-15T17:12:58.271909+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Timetec 8GB Kit(2x4GB) Compatible for Apple DDR3 1067MHz / 1066MHz PC3-8500 CL7 for Mac Book, Book Pro, iMac, Mini (Late 2008, Early/Mid/Late 2009, Mid 2010) SODIMM Memory RAM Upgrade",
-        "url": "https://www.amazon.com.mx/dp/B01N35UIYR",
-        "price": 469.99,
-        "model": "PC3-8500"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro 2024 de Apple con Chip M4 Pro, CPU de 14 núcleos y GPU de 20 núcleos : Diseñada para Apple Intelligence, Pantalla de 16.2 Pulgadas, 48 GB de Memoria unificada, 512 GB - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0DLHSYK4J",
-        "price": 66213.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Timetec 16GB KIT (2x8GB) Compatible con Apple DDR3 1333MHz PC3-10600 CL9 para Mac Book Pro (principios / finales de 2011 13/15/17 pulgadas), iMac (mediados de 2010, mediados / finales de 2011 21,5 / 27 pulgadas), Mac Mini ( Mediados de 2011) SODIMM MAC Memoria MAC RAM Módulo",
-        "url": "https://www.amazon.com.mx/dp/B00SNM1LHS",
-        "price": 779.99,
-        "model": "PC3-10600"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple - MacBook Air de finales de 2020 con chip Apple M1 (13.3 pulgadas, 8 GB de RAM, SSD de 256 GB) gris espacial (reacondicionado) | Gris espacial, renovado",
-        "url": "https://www.amazon.com.mx/dp/B08PNQTYV2",
-        "price": 9499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JHLNC",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B721R",
-        "price": 42499.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOKCPURAM": {
-    "ts": "2026-08-15T17:13:39.264827+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/macbook-pro-de-apple-2025-con-chip-m5-cpu-de-10-nucleos-y-gpu-de-10-nucleos-disenado-para-la-inteligencia-de-apple-pantalla-liquid-retina-xdr-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-ssd-de-256-gb-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 13148.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/apple-macbook-air-13-m5-2026-10-core-cpu-8-core-gpu-16gb-ram-512gb-ssd-macos-sky-blue-teclado-retroiluminado-touch-id/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-neo-de-13-pulgadas-con-chip-a18-pro-cpu-de-6-nucleos-y-gpu-de-5-nucleos-8-gb-de-memoria-y-ssd-de-512-gb-color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/apple-portatil-macbook-pro-de-16-pulgadas-con-chip-m5-pro-cpu-de-12-nucleos-y-gpu-de-20-nucleos-24-gb-de-memoria-ssd-de-1-tb-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOKCPURAM": {
-    "ts": "2026-08-15T17:13:43.820674+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Índigo",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-indigo/981050877",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-plata/981050882",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
-        "price": 28098.73,
-        "model": "M2/512"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M1/256 GB SSD Gris Espacial",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m1-256-gb-ssd-gris-espacial/980031218",
-        "price": 23323.37,
-        "model": "M1/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035020",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Neo Apple  13\"/Chip A18 Pro/256 GB SSD Amarillo Cítrico",
-        "url": "https://www.sams.com.mx/ip/macbook-neo-apple-13-chip-a18-pro-256-gb-ssd-amarillo-citrico/981050880",
-        "price": 12998.22,
-        "model": "Pro/256"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035013",
-        "price": 31497.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-plata/981035019",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/24GB/512GB SSD Plata",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-24gb-512gb-ssd-plata/981035014",
-        "price": 35997.0,
-        "model": "GPU/24GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  13\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035024",
-        "price": 26997.0,
-        "model": "GPU/16GB/512GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/256GB SSD Blanco Estelar",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-256gb-ssd-blanco-estelar/981035028",
-        "price": 26997.0,
-        "model": "GPU/16GB/256GB"
-      },
-      {
-        "store": "sams",
-        "name": "MacBook Air Apple  15\"/Chip M4/10C GPU/16GB/512GB SSD Azul Cielo",
-        "url": "https://www.sams.com.mx/ip/macbook-air-apple-15-chip-m4-10c-gpu-16gb-512gb-ssd-azul-cielo/981035025",
-        "price": 31497.0,
-        "model": "GPU/16GB/512GB"
-      }
-    ]
-  },
   "amazon|VX182H4": {
     "ts": "2026-08-15T17:35:52.410527+00:00",
     "items": [
@@ -29444,6 +29226,174 @@
   },
   "sams|OSTERCAFETERATOUCHPANELACERO": {
     "ts": "2026-08-17T16:48:19.632179+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASTOUCHPANEL": {
+    "ts": "2026-08-17T17:18:39.577317+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "TAURUS COLUMBA | Cafetera Percoladora 40 Tazas 4.5L de Acero Inoxidable | Mantiene Café Caliente | Dispensador con Una Mano | Filtro Reutilizable | Ideal para Eventos, Oficina y Negocio",
+        "url": "https://www.amazon.com.mx/dp/B01K35QTOM",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tyenaza Cafetera de Sifón de 3 Tazas, Cafétera de Sifon de Vidrio, Cafeteras Clásica a Mano Sifon Japonesa de Café, Aspiradora Gotero de Café Transparente Caféteras de Vertido, para Familia Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0CGV5GH97",
+        "price": 1198.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Moka Express de Aluminio con Capacidad para 6 Tazas de 300ML, Cafetera Espresso para Estufa, Cafetera Italiana Moka, Suministros para el Hogar Y la Oficina(1#)",
+        "url": "https://www.amazon.com.mx/dp/B09X2CHYKC",
+        "price": 260.0,
+        "model": "300ML"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Moka de 2 Tazas, Cafetera Mocka de Acero Inoxidable de Doble Tubo, Cafetera Duradera Antideslizante, Cafetera Stovestop Itlain, Fácil de Limpiar, Transportar Y Usar (100ML)",
+        "url": "https://www.amazon.com.mx/dp/B0BY5168WN",
+        "price": 559.0,
+        "model": "100ML"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
+        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
+        "price": 4259.0,
+        "model": "BVSTEM6801M"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATAZASTOUCHPANEL": {
+    "ts": "2026-08-17T17:18:43.467517+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-de-8-tazas-en-Acero-Inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
+        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-Programable-de-5-Tazas-de-Capacidad-con-Filtro-Reutilizable-Funcion-Pausa-y-Servir-Apagado-Automatico-Pantalla-LED-Jarra-con-Medidas-Color-Negro-BVSTDCP51/00046309775269?athbdg=L1300",
+        "price": 1760.0,
+        "model": "BVSTDCP51"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Capacidad-de-5-Tazas-Filtro-Permanente-Color-Negro-Modelo-BVSTDCS51B-NE/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-10-Tazas-Cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-12-Tazas-Negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/Oster-reg-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-PrimaLatte-2-Touch-Panel-Tactil-19-Bares-de-Presion-Compatibe-con-capsulas-Roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATAZASTOUCHPANEL": {
+    "ts": "2026-08-17T17:18:44.702053+00:00",
     "items": []
   }
 }
