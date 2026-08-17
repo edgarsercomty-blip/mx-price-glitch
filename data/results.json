@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 18:24 UTC",
-  "products_scanned": 1568,
+  "generated_at": "2026-08-17 19:10 UTC",
+  "products_scanned": 1643,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -673,27 +673,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
         "outlet": false
       }
     },
