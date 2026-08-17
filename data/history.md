@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (802)
+# Historial de ofertas encontradas (804)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-17 02:30 | -22% | amazon | [Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24…](https://www.amazon.com.mx/dp/B0H2X99YX1) | $20,999 | $20,999 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-08-17 02:30 | -30% | amazon | [PUMA FlexFocus Lite Modern Wns](https://www.amazon.com.mx/dp/B0G75HFGLQ) | $979 | $979 en amazon vs mercado -> -30% bajo la competencia |
 | 2026-08-17 02:15 | -36% | liverpool | [Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768) | $14,399 | $14,399 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-08-16 23:11 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro 5G Kit Amoled Crystalres 6 8 P…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-kit-amoled-crystalres-6-8-pulgadas/1190568774) | $7,999 | $7,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-16 23:11 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex C…](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934) | $2,774 | $2,774 en liverpool vs mercado -> -25% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-17 16:12 | -26% | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | $295 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-07-17 13:08 | -25% | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,374 | $21,374 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-17 11:55 | -20% | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,039 | $15,039 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-17 11:55 | -26% | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | $739 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-07-17 10:25 | -23% | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | $383 en liverpool vs mercado -> -23% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17 02:15 UTC",
-  "products_scanned": 1559,
+  "generated_at": "2026-08-17 02:30 UTC",
+  "products_scanned": 2797,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,6 +27,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$11,242 en liverpool vs mercado -> -45% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9258.42,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643",
+      "price": 11241.58,
+      "list_price": 22942.0,
+      "ean": null,
+      "model": "F6800H",
+      "brand": "FRIKKO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "57683643",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 70.0,
       "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
       "likely_typo": false,
@@ -44,6 +65,48 @@
       "extra": {
         "id": "42614838",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.0,
+      "detail": "$6,299 en liverpool vs walmart $10,568 -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4269.33,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Frikko F3800H 100 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f3800h-100-v/57683546",
+      "price": 6298.67,
+      "list_price": 12854.42,
+      "ean": null,
+      "model": "F3800H",
+      "brand": "FRIKKO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "57683546",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$10,800 en liverpool vs mercado -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7009.48,
+      "store": "liverpool",
+      "name": "Refrigerador Top Mount Midea 17 Pies Cubicos Inverter Y No Frost Con Fabrica De Hielo Mdrt645Mtm46Wd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-17-pies-cubicos-inverter-y-no-frost-con-fabrica-de-hielo-mdrt645mtm46wd/1186067378",
+      "price": 10799.52,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": "Mdrt645Mtm46Wd",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1186067378",
+        "marketplace": null
       }
     },
     {
@@ -90,6 +153,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 5.5,
+      "detail": "$719 en walmart vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 360.0,
+      "store": "walmart",
+      "name": "Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2AM/A",
+      "url": "https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300",
+      "price": 719.0,
+      "list_price": 761.0,
+      "ean": null,
+      "model": "MR8U2AM/A",
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00019019865940"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,143 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -111,6 +194,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$979 en amazon vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 419.7,
+      "store": "amazon",
+      "name": "PUMA FlexFocus Lite Modern Wns",
+      "url": "https://www.amazon.com.mx/dp/B0G75HFGLQ",
+      "price": 979.3,
+      "list_price": 1399.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0G75HFGLQ"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +230,47 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,503 en mercadolibre vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 987.0,
+      "store": "mercadolibre",
+      "name": "Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Televisión 32\" Bluetooth Hdmi Wi-fi Negro Con Dolby Audio",
+      "url": "https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159",
+      "price": 2503.0,
+      "list_price": 2503.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM27346159"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 54.0,
+      "detail": "$40,480 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 14599.78,
+      "store": "palacio",
+      "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
+      "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
+      "price": 40479.54,
+      "list_price": 87999.0,
+      "ean": null,
+      "model": "WM25BFXS",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44968794",
         "outlet": false
       }
     },
@@ -191,6 +335,26 @@
       "extra": {
         "id": "43294637",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 53.9,
+      "detail": "$716 en amazon vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 234.53,
+      "store": "amazon",
+      "name": "Calvin Klein Carlla Zapatillas para Mujer | Zapatos casuales",
+      "url": "https://www.amazon.com.mx/dp/B0BTTQVSM6",
+      "price": 716.35,
+      "list_price": 1553.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BTTQVSM6"
       }
     },
     {
@@ -300,6 +464,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$435 en mercadolibre vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 131.5,
+      "store": "mercadolibre",
+      "name": "Mezcladora Analógica Tklbls V4 Bluetooth 4 Canales USB XLR RCA",
+      "url": "https://www.mercadolibre.com.mx/mezcladora-analogica-tklbls-v4-bluetooth-4-canales-usb-xlr-rca/p/MLM51527435",
+      "price": 435.0,
+      "list_price": 435.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM51527435"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -405,6 +589,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$20,999 en amazon vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5956.0,
+      "store": "amazon",
+      "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
+      "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
+      "price": 20999.0,
+      "list_price": 2131.39,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H2X99YX1"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 22.0,
       "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -426,6 +630,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 21.9,
+      "detail": "$468 en amazon vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 130.95,
+      "store": "amazon",
+      "name": "Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstalados, HDMI Plug & Play 4K para TV, 2 Controles/Mandos Inalámbricos, Multijugador, Consola de Videojuegos Familiar, Juegos 3D, Regalo Ideal",
+      "url": "https://www.amazon.com.mx/dp/B0FVTZ67ZF",
+      "price": 468.05,
+      "list_price": 599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0FVTZ67ZF"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1709.0,
+      "store": "walmart",
+      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
+      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
+      "price": 6290.0,
+      "list_price": 9990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694427168676"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -443,6 +687,66 @@
       "extra": {
         "id": "45366544",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.7,
+      "detail": "$1,146 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 306.16,
+      "store": "amazon",
+      "name": "Skechers MAX Cushion Endeavour Canova para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CZ91W3MX",
+      "price": 1145.87,
+      "list_price": 1809.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CZ91W3MX"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$964 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 252.2,
+      "store": "amazon",
+      "name": "Skechers Skechers Hands Free Slip-ins Squad Chaos - Stroke of Luck Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CXJNJTNY",
+      "price": 964.29,
+      "list_price": 321.43,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CXJNJTNY"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 19.1,
+      "detail": "$2,575 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 667.2,
+      "store": "amazon",
+      "name": "On Cloud X 4 - Tenis para Mujer | Zapatos de entrenamiento cruzado",
+      "url": "https://www.amazon.com.mx/dp/B0DM2KZCCL",
+      "price": 2574.73,
+      "list_price": 3181.38,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DM2KZCCL"
       }
     },
     {
@@ -485,6 +789,106 @@
       "extra": {
         "id": "43216481",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 11.7,
+      "detail": "$966 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 248.5,
+      "store": "amazon",
+      "name": "Skechers - Zapatillas de Deporte Skechers Bobs Squad Chaos para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0CSG9XKHT",
+      "price": 966.34,
+      "list_price": 1094.12,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CSG9XKHT"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 42.3,
+      "detail": "$750 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 192.18,
+      "store": "amazon",
+      "name": "Guess Loven Zapatillas para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B09NLBWH3K",
+      "price": 749.72,
+      "list_price": 1299.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B09NLBWH3K"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$10,345 en mercadolibre vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2654.0,
+      "store": "mercadolibre",
+      "name": "Apple iPhone 13 128 GB Medianoche - Distribuidor Autorizado",
+      "url": "https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844",
+      "price": 10345.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM1018500844"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$5,490 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1400.0,
+      "store": "walmart",
+      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
+      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300",
+      "price": 5490.0,
+      "list_price": 9799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00750940184165"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$5,990 en walmart vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1509.25,
+      "store": "walmart",
+      "name": "TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM5K",
+      "url": "https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300",
+      "price": 5990.0,
+      "list_price": 12599.0,
+      "ean": null,
+      "model": "55QM5K",
+      "brand": "TCL",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00084046404537"
       }
     },
     {
