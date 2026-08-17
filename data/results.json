@@ -1,89 +1,9 @@
 {
-  "generated_at": "2026-08-17 15:34 UTC",
-  "products_scanned": 2748,
+  "generated_at": "2026-08-17 15:43 UTC",
+  "products_scanned": 1589,
   "threshold_pct": 20.0,
-  "count": 54,
+  "count": 39,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$2,788 en amazon vs walmart $9,999, amazon $12,245 -> -72% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7211.0,
-      "store": "amazon",
-      "name": "Tarjeta de Control para Lavadora 8mwtw2231wjb, Sistema Smart Load",
-      "url": "https://www.amazon.com.mx/dp/B0G5YBVXFN",
-      "price": 2788.0,
-      "list_price": 282.98,
-      "ean": null,
-      "model": "8mwtw2231wjb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0G5YBVXFN"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$147 en mercadolibre vs mercado -> -69% bajo la competencia",
-      "likely_typo": false,
-      "savings": 328.0,
-      "store": "mercadolibre",
-      "name": "Audífonos In-ear Inalámbricos Lenovo Livepods Lp40 Thinkplus Blanco",
-      "url": "https://www.mercadolibre.com.mx/audifonos-in-ear-inalambricos-lenovo-livepods-lp40-thinkplus-blanco/p/MLM23127293",
-      "price": 147.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM23127293"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$76 en amazon vs amazon $180, walmart $265 -> -58% bajo la competencia",
-      "likely_typo": false,
-      "savings": 103.63,
-      "store": "amazon",
-      "name": "NIVEA Creme (200ml), crema humectante de larga duración para el cuerpo, el rostro y las manos con Vitamina E",
-      "url": "https://www.amazon.com.mx/dp/B00558FIBS",
-      "price": 76.36,
-      "list_price": 0.38,
-      "ean": null,
-      "model": "200ml",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B00558FIBS"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$498 en mercadolibre vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 501.0,
-      "store": "mercadolibre",
-      "name": "Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt Color Rojo",
-      "url": "https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-rojo/p/MLM41822619",
-      "price": 498.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM41822619"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -107,27 +27,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 51.0,
-      "detail": "$11,242 en liverpool vs mercado -> -45% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9258.42,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643",
-      "price": 11241.58,
-      "list_price": 22942.0,
-      "ean": null,
-      "model": "F6800H",
-      "brand": "FRIKKO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "57683643",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$1,234 en liverpool vs mercado -> -43% bajo la competencia",
       "likely_typo": false,
@@ -144,48 +43,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1133854726",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 70.0,
-      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.77,
-      "store": "palacio",
-      "name": "Panel para refrigerador One Door 11 p3",
-      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
-      "price": 599.7,
-      "list_price": 1999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42614838",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$10,800 en liverpool vs mercado -> -39% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7009.48,
-      "store": "liverpool",
-      "name": "Refrigerador Top Mount Midea 17 Pies Cubicos Inverter Y No Frost Con Fabrica De Hielo Mdrt645Mtm46Wd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-17-pies-cubicos-inverter-y-no-frost-con-fabrica-de-hielo-mdrt645mtm46wd/1186067378",
-      "price": 10799.52,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": "Mdrt645Mtm46Wd",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1186067378",
         "marketplace": null
       }
     },
@@ -233,22 +90,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 56.5,
-      "detail": "$999 en walmart vs amazon $1,521, amazon $1,521 -> -34% bajo la competencia",
+      "discount_pct": 47.9,
+      "detail": "$1,364 en liverpool vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 521.99,
-      "store": "walmart",
-      "name": "Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led",
-      "url": "https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984",
-      "price": 999.0,
-      "list_price": 2299.0,
+      "savings": 730.85,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
+      "price": 1364.35,
+      "list_price": 2619.0,
       "ean": null,
-      "model": "1500W",
-      "brand": "Prettycare",
+      "model": null,
+      "brand": "XIAOMI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "usItemId": "00858168936984"
+        "productId": "1165916841",
+        "marketplace": null
       }
     },
     {
@@ -374,47 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45241138",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 82.1,
-      "detail": "$499 en walmart vs amazon $685 -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 185.99,
-      "store": "walmart",
-      "name": "Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pantalla Táctil, Tarjeta TF, 60H, ENC, EQ, IPX7",
-      "url": "https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469",
-      "price": 499.0,
-      "list_price": 2795.0,
-      "ean": null,
-      "model": "Bluetooth5",
-      "brand": "Veat00l",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00931344898469"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 54.0,
-      "detail": "$40,480 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 14599.78,
-      "store": "palacio",
-      "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-      "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-      "price": 40479.54,
-      "list_price": 87999.0,
-      "ean": null,
-      "model": "WM25BFXS",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44968794",
         "outlet": false
       }
     },
@@ -756,26 +573,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$10,009 en mercadolibre vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2990.0,
-      "store": "mercadolibre",
-      "name": "Apple iPhone 13 128 GB Medianoche - Distribuidor Autorizado",
-      "url": "https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844",
-      "price": 10009.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM1018500844"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$2,520 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -793,26 +590,6 @@
       "extra": {
         "id": "45130972",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$20,999 en amazon vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5956.0,
-      "store": "amazon",
-      "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-      "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-      "price": 20999.0,
-      "list_price": 2131.39,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0H2X99YX1"
       }
     },
     {
@@ -838,26 +615,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1709.0,
-      "store": "walmart",
-      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
-      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
-      "price": 6290.0,
-      "list_price": 9990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00694427168676"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -879,22 +636,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.7,
-      "detail": "$1,146 en amazon vs mercado -> -21% bajo la competencia",
+      "discount_pct": 36.8,
+      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 304.2,
-      "store": "amazon",
-      "name": "Skechers MAX Cushion Endeavour Canova para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0CZ91W3MX",
-      "price": 1145.87,
-      "list_price": 1809.0,
+      "savings": 3200.0,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
+      "price": 11999.2,
+      "list_price": 18999.0,
       "ean": null,
       "model": null,
-      "brand": null,
+      "brand": "ASUS",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "asin": "B0CZ91W3MX"
+        "productId": "1175126381",
+        "marketplace": null
       }
     },
     {
@@ -937,66 +695,6 @@
       "extra": {
         "id": "43216481",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 11.7,
-      "detail": "$966 en amazon vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 248.5,
-      "store": "amazon",
-      "name": "Skechers - Zapatillas de Deporte Skechers Bobs Squad Chaos para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0CSG9XKHT",
-      "price": 966.34,
-      "list_price": 1094.12,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0CSG9XKHT"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,499 en mercadolibre vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 639.5,
-      "store": "mercadolibre",
-      "name": "Celular Xiaomi Poco C71 Dual Sim 128 Gb Negro 4 Gb Ram",
-      "url": "https://www.mercadolibre.com.mx/celular-xiaomi-poco-c71-dual-sim-128-gb-negro-4-gb-ram/p/MLM48958762",
-      "price": 2499.0,
-      "list_price": 2499.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM48958762"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$5,490 en walmart vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1400.0,
-      "store": "walmart",
-      "name": "Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)",
-      "url": "https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165",
-      "price": 5490.0,
-      "list_price": 9799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750940184165"
       }
     },
     {
