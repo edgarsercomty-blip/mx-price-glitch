@@ -4647,146 +4647,6 @@
       }
     ]
   },
-  "amazon|APPLENUCLEOSMACBOOKSSDCPU": {
-    "ts": "2026-08-16T06:23:29.517050+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple MacBook Air (13.6 Pulgadas, 2022) con Chip M2, 24 GB RAM, 512 GB SSD, CPU de 8 núcleos/GPU de 10 núcleos - Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0H2X99YX1",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop MacBook Pro con Chip M5 de Apple (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,24 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWFBGYQ8",
-        "price": 49999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FYN65",
-        "price": 28313.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos:Pantalla Liquid Retina XDR de 14.2 Pulgadas,16 GB de Memoria unificada, Almacenamiento SSD de 1TB; Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0FWDK5MNN",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1BGHNS",
-        "price": 29999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Blanco Estelar",
-        "url": "https://www.amazon.com.mx/dp/B0GR1FG58Z",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR1NRBJC",
-        "price": 42499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Cielo",
-        "url": "https://www.amazon.com.mx/dp/B0GR12XN4K",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 24GB Memoria unificada, 1 TB) - Color Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GR1J9F22",
-        "price": 47499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 15 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 10 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1B2HY7",
-        "price": 34999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Laptop MacBook Pro con Chip M5 (2025), CPU de 10 núcleos y GPU de 10 núcleos: Pantalla Liquid Retina XDR de 14.2 Pulgadas, 16 GB de Memoria unificada, Almacenamiento SSD de 1 TB; Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FWDTGNT6",
-        "price": 44999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLENUCLEOSMACBOOKSSDCPU": {
-    "ts": "2026-08-16T06:23:32.991198+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria, SSD de 256 GB y color índigo",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-SSD-de-256-GB-y-color-indigo/00019595085274?athbdg=L1300",
-        "price": 14149.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple MacBook Air 13” M5 2026 10-Core CPU 8-Core GPU 16GB RAM 512GB SSD macOS Sky Blue Teclado Retroiluminado Touch ID",
-        "url": "https://www.walmart.com.mx/ip/Apple-MacBook-Air-13-M5-2026-10-Core-CPU-8-Core-GPU-16GB-RAM-512GB-SSD-macOS-Sky-Blue-Teclado-Retroiluminado-Touch-ID/00019595069161?athbdg=L6000",
-        "price": 29999.0,
-        "model": "10-Core"
-      },
-      {
-        "store": "walmart",
-        "name": "MacBook Pro de Apple (2025) con chip M5, CPU de 10 núcleos y GPU de 10 núcleos: Diseñado para la inteligencia de Apple, pantalla Liquid Retina XDR de 14,2 pulgadas, 16",
-        "url": "https://www.walmart.com.mx/ip/MacBook-Pro-de-Apple-2025-con-chip-M5-CPU-de-10-nucleos-y-GPU-de-10-nucleos-Disenado-para-la-inteligencia-de-Apple-pantalla-Liquid-Retina-XDR-de-14-2-pulgadas-16/00019595048946?athbdg=L1300",
-        "price": 36099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Pro de 16 pulgadas con chip M5 Pro, CPU de 12 núcleos y GPU de 20 núcleos, 24 GB de memoria, SSD de 1 TB y color negro espacial",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Pro-de-16-pulgadas-con-chip-M5-Pro-CPU-de-12-nucleos-y-GPU-de-20-nucleos-24-GB-de-memoria-SSD-de-1-TB-y-color-negro-espacial/00019595071474?athbdg=L6000",
-        "price": 52499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color Indigo",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-Indigo/00019595085321?athbdg=L6000",
-        "price": 16499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Portátil MacBook Neo de 13 pulgadas con chip A18 Pro, CPU de 6 núcleos y GPU de 5 núcleos, 8 GB de memoria y SSD de 512 GB Color plata",
-        "url": "https://www.walmart.com.mx/ip/Apple-Portatil-MacBook-Neo-de-13-pulgadas-con-chip-A18-Pro-CPU-de-6-nucleos-y-GPU-de-5-nucleos-8-GB-de-memoria-y-SSD-de-512-GB-Color-plata/00019595085133?athbdg=L1300",
-        "price": 13949.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLENUCLEOSMACBOOKSSDCPU": {
-    "ts": "2026-08-16T06:23:33.806444+00:00",
-    "items": []
-  },
   "amazon|SMEGCAFETERASMEG": {
     "ts": "2026-08-16T07:12:41.530650+00:00",
     "items": [
@@ -37463,6 +37323,414 @@
         "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
         "price": 91.03,
         "model": null
+      }
+    ]
+  },
+  "amazon|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-18T06:26:26.092076+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
+        "price": 14499.0,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
+        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
+        "price": 6179.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 3 Laptop de 14 pulgadas, FHD de 14 pulgadas (1920 x 1080) AMD Ryzen 5 3500U 8GB DDR4 RAM, 256GB SSD, AMD Radeon Vega 8 Graphics Windows 10, 81W0003QUS, Abyss Blue (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08F73QRPP",
+        "price": 12618.43,
+        "model": "81W0003QUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15AMN7 15.6\" Laptop AMD Ryzen 3 7320U 8GB RAM 256GB SSD PCIe NVMe Wi-Fi 6 Lector de Huellas Dactilares Abyss Blue Windows 11 Home en Modo S (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLT3S7WB",
+        "price": 6608.18,
+        "model": "15AMN7"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
+        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
+        "price": 7999.0,
+        "model": "i7-1255U"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
+        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
+        "price": 13500.0,
+        "model": "300nits"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3|15,3\" WUXGA |Intel Core i5| 24GB RAM 1TB SSD | Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FHJDFBGQ",
+        "price": 15999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
+        "price": 5779.0,
+        "model": "82VG00R2US"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo Ideapad Slim 3 15Q8X10| 15.3\" Snapdragon X| 24GB RAM 512GB SSD| Copilot+ PC",
+        "url": "https://www.amazon.com.mx/dp/B0FD1B5DTX",
+        "price": 12933.07,
+        "model": "15Q8X10"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
+        "price": 8999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, 512GB de almacenamiento, AMD Radeon Graphics, HDMI, Windows 11, HDMI, Abyss",
+        "url": "https://www.amazon.com.mx/dp/B0D8Y9J2J3",
+        "price": 16150.0,
+        "model": "300nits"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
+        "price": 8539.0,
+        "model": "256gb"
+      }
+    ]
+  },
+  "walmart|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-18T06:26:32.893965+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 Laptop con Pantalla Táctil de 15.3\", AMD Ryzen 7 170, 16GB DDR5, 1TB SSD, Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-laptop-con-pantalla-tactil-de-15-3-amd-ryzen-7-170-16gb-ddr5-1tb-ssd-windows-11-home/00019927542765",
+        "price": 17119.91,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
+        "price": 8589.0,
+        "model": "15AMN7"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 Pantalla Touch, Intel Core i5-1335U 13va generación, 8GB Ram, 512GB SSD, Windows 11 Home 64-bit, 15IRU8 15.6 Full HD.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-pantalla-touch-intel-core-i5-1335u-13va-generacion-8gb-ram-512gb-ssd-windows-11-home-64-bit-15iru8-15-6-full-hd-/00019680403946?athbdg=L6000",
+        "price": 11499.0,
+        "model": "i5-1335U"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 Laptop con Pantalla Táctil FHD de 15.6\", AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-laptop-con-pantalla-tactil-fhd-de-15-6-amd-ryzen-7-5825u-16gb-ram-512gb-ssd-windows-11-home/00019815597629",
+        "price": 14156.81,
+        "model": "5825U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15IRH10 15.3” WUXGA IPS Touch, Intel Core i5-13420H 24GB DDR5 1.5TB SSD Wi-Fi 6 Windows 11 (Español) Luna Grey + Audífonos E310 + Mouse WL310",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15irh10-15-3-wuxga-ips-touch-intel-core-i5-13420h-24gb-ddr5-1-5tb-ssd-wi-fi-6-windows-11-espanol-luna-grey-audifonos-e310-mouse-wl310/00046218448678?athbdg=L1300",
+        "price": 20999.0,
+        "model": "i5-13420H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
+        "price": 26599.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 32GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-32gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346583",
+        "price": 32923.11,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 5 16IMH9 | 16\" WUXGA IPS | Intel Core Ultra 7 155H | 16GB RAM | 512GB SSD | Intel Arc Graphics | Windows 11 Home | Azul Abyss | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-5-16imh9-16-wuxga-ips-intel-core-ultra-7-155h-16gb-ram-512gb-ssd-intel-arc-graphics-windows-11-home-azul-abyss-teclado-en-espanol/00046521022908?athbdg=L1300",
+        "price": 19169.0,
+        "model": "16IMH9"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 16GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-16gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346587",
+        "price": 25021.51,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Lenovo IdeaPad Slim 3 15IRH10 | Intel Core i7-13620H 13Va Gen| Pantalla 15.3” WUXGA IPS | 24GB RAM DDR5 | 512GB SSD PCIe 4.0 | Wi-Fi 6 | Windows 11 Home | Color Polar Blue | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15irh10-intel-core-i7-13620h-13va-gen-pantalla-15-3-wuxga-ips-24gb-ram-ddr5-512gb-ssd-pcie-4-0-wi-fi-6-windows-11-home-color-polar-blue-teclado-en-espanol/00046113102610?athbdg=L1300",
+        "price": 22999.0,
+        "model": "i7-13620H"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo V15 Portátil Empresarial Windows, Pantalla FHD de 15,6\", AMD Ryzen 5 5500U, 16GB RAM 512GB SSD, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-v15-portatil-empresarial-windows-pantalla-fhd-de-15-6-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-negro/00019753088456",
+        "price": 10699.86,
+        "model": "5500U"
+      }
+    ]
+  },
+  "sams|LENOVOIDEAPADRADEONLAPTOPABYSS": {
+    "ts": "2026-08-18T06:26:36.935124+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
+        "price": 16361.86,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
+        "price": 33242.38,
+        "model": "3-1ALM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/8 GB RAM/512 GB SSD 6VLM + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-8-gb-ram-512-gb-ssd-6vlm-mochila-mouse/981038992",
+        "price": 8178.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
+        "price": 12467.27,
+        "model": "RAM/256"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
+        "price": 16876.43,
+        "model": "gen/8"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
+        "price": 34776.89,
+        "model": "RAM/1"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Core i3 13a Gen/8 GB RAM/512 GB Slim 3 + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-core-i3-13a-gen-8-gb-ram-512-gb-slim-3-mochila/981008882",
+        "price": 16191.02,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop LENOVO IdeaPad Core i7 13a Gen/16 GB RAM/512 GB SSD Slim 3",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i7-13a-gen-16-gb-ram-512-gb-ssd-slim-3/981031166",
+        "price": 25899.29,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad 1 AMD Ryzen 7/16 GB RAM/512 GB SDD + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-1-amd-ryzen-7-16-gb-ram-512-gb-sdd-mochila-mouse/981022913",
+        "price": 10225.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Intel Core Ultra 5/16 GB RAM/512 SSD 2 en 1 4FLM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-intel-core-ultra-5-16-gb-ram-512-ssd-2-en-1-4flm/981051346",
+        "price": 18715.79,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
+        "price": 20968.42,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3/Ryzen 7/16 GB RAM/1 TB IPSLIM3-AXLM + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-ryzen-7-16-gb-ram-1-tb-ipslim3-axlm-mochila/981044391",
+        "price": 10225.91,
+        "model": "IPSLIM3-AXLM"
+      }
+    ]
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-18T06:26:39.397909+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "JadeCook Cafetera Programable de Goteo 12 Tazas, 1.8 L, Panel Touch, Sistema Antigoteo, Jarra de Cristal, Color Plateado C0545-00",
+        "url": "https://www.amazon.com.mx/dp/B0GG67J6FL",
+        "price": 695.0,
+        "model": "C0545-00"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 718.05,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-18T06:26:51.402788+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-18T06:26:54.432643+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
+        "price": 2344.71,
+        "model": "KP440EMX"
       }
     ]
   }
