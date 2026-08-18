@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (831)
+# Historial de ofertas encontradas (832)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-18 05:06 | -27% | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $12,749 | $12,749 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-18 02:40 | -21% | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | $396 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-18 02:40 | -22% | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $10,445 | $10,445 en mercadolibre vs mercado -> -22% bajo la competencia |
 | 2026-08-18 02:40 | -35% | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clas…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | $1,721 en walmart vs walmart $2,639, walmart $2,709, walmart $3,319 -> -35% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-22 10:06 | -35% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | $9,749 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-22 07:37 | -41% | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | $21,829 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-21 10:18 | -20% | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-21 07:43 | -25% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | $24,299 en palacio vs mercado -> -25% bajo la competencia |

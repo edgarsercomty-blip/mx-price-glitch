@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-18 04:36 UTC
+# Errores/chollos de precio — 2026-08-18 05:06 UTC
 
-- Productos revisados: **1629**
+- Productos revisados: **1562**
 - Umbral de diferencia: **20%**
-- Hallazgos: **38**
+- Hallazgos: **39**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -13,6 +13,7 @@
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
 | -30% | $5,865 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | Confirmado vs competencia | $13,684 en palacio vs mercado -> -30% bajo la competencia |
 | -22% | $4,950 | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | Confirmado vs competencia | $17,549 en palacio vs mercado -> -22% bajo la competencia |
+| -27% | $4,750 | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $12,749 | Confirmado vs competencia | $12,749 en liverpool vs mercado -> -27% bajo la competencia |
 | -22% | $4,050 | liverpool | [Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768) | $14,399 | Confirmado vs competencia | $14,399 en liverpool vs mercado -> -22% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
