@@ -274,7 +274,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,779 | -49% |
 | 🟢 disponible | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,256 | -22% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | -25% |
-| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $9,199 | -20% |
+| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $11,499 | -20% |
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $21,000 | -37% |
 | 🟢 disponible | liverpool | [Smartwatch Samsung Galaxy Watch 7 44Mm Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482) | $3,184 | -35% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 45 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-45-mm-casual-44965113.html) | $8,624 | -25% |
@@ -552,7 +552,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
-| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -32% |
+| 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | -50% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
