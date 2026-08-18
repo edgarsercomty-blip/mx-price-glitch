@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 22:43 UTC",
-  "products_scanned": 1621,
+  "generated_at": "2026-08-18 23:14 UTC",
+  "products_scanned": 1671,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,6 +44,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.2,
+      "detail": "$2,124 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 912.85,
+      "store": "liverpool",
+      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462",
+      "price": 2124.15,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200691462",
+        "marketplace": null
       }
     },
     {
@@ -631,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262439",
         "outlet": false
       }
     },

@@ -5438,13 +5438,13 @@
     ]
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-08-16T22:54:35.384166+00:00",
+    "ts": "2026-08-18T23:13:33.059433+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "XIAOMI Watch S4 41mm con GPS, iOS & Android, Negro | Pantalla AMOLED de 41mm, Hasta 8 días de Batería, 150+ Modos Deportivos, Ciclo Menstrual, Correa Fluororubber",
         "url": "https://www.amazon.com.mx/dp/B0FHWQ4SZP",
-        "price": 2444.25,
+        "price": 2118.35,
         "model": null
       },
       {
@@ -5465,7 +5465,7 @@
         "store": "amazon",
         "name": "4 Pack Mica Smartwatch para Xiaomi Watch S4 41mm, Soft Film Screen Protector Pantalla Pet reloj Inteligente Accessories",
         "url": "https://www.amazon.com.mx/dp/B0H2Z61FNY",
-        "price": 128.0,
+        "price": 115.2,
         "model": null
       },
       {
@@ -5479,21 +5479,14 @@
         "store": "amazon",
         "name": "18mm Correa Compatible con Huawei Watch 5 42mm,GT6 GT5 GT4 41mm,GT5 Pro 42mm,Extensible Pulsera Banda de Nylon para Xiaomi Watch S4 41mm,Huawei Watch GT 6 5 4 41mm",
         "url": "https://www.amazon.com.mx/dp/B0G6KFJL6L",
-        "price": 269.99,
+        "price": 237.59,
         "model": null
       },
       {
         "store": "amazon",
         "name": "QWYJ Funda para Mi Xiaomi Watch S4 41mm Case Protector de Pantalla, Marco Resistente Rasguños Suave Ligero Shockproof (2 Unidades) (Transparente+Transparente)",
         "url": "https://www.amazon.com.mx/dp/B0FL6XC1SD",
-        "price": 139.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "18mm Correa Compatible con Huawei Watch 5 42mm,GT6 GT5 GT4 41mm,GT5 Pro 42mm,Extensible Pulsera Banda de Nylon para Xiaomi Watch S4 41mm,Huawei Watch GT 6 5 4 41mm",
-        "url": "https://www.amazon.com.mx/dp/B0G6KPF8XM",
-        "price": 269.99,
+        "price": 132.05,
         "model": null
       },
       {
@@ -5519,15 +5512,22 @@
       },
       {
         "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
+        "price": 815.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "18mm Magnético Correa Compatible con Huawei Watch 5 42mm,GT6 GT5 GT4 41mm,GT5 Pro 42mm,Extensible Pulsera Banda para Xiaomi Watch S4 41mm,Huawei Watch GT 6 5 4 41mm",
         "url": "https://www.amazon.com.mx/dp/B0CKQDKLTV",
-        "price": 339.99,
+        "price": 299.19,
         "model": null
       }
     ]
   },
   "walmart|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-08-16T22:54:40.853806+00:00",
+    "ts": "2026-08-18T23:13:37.600081+00:00",
     "items": [
       {
         "store": "walmart",
@@ -5538,9 +5538,9 @@
       },
       {
         "store": "walmart",
-        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
-        "price": 1999.0,
+        "name": "XIAOMI Watch S4 Smartwatch Rainbow – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-rainbow-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181271166?athbdg=L1300",
+        "price": 4478.0,
         "model": null
       },
       {
@@ -5548,13 +5548,6 @@
         "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
         "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
         "price": 1031.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154?athbdg=L6000",
-        "price": 985.0,
         "model": null
       },
       {
@@ -5573,6 +5566,13 @@
       },
       {
         "store": "walmart",
+        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
         "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
         "price": 729.0,
@@ -5580,16 +5580,9 @@
       },
       {
         "store": "walmart",
-        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
-        "price": 959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
-        "price": 1099.0,
+        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154?athbdg=L6000",
+        "price": 985.0,
         "model": null
       },
       {
@@ -5601,289 +5594,9 @@
       },
       {
         "store": "walmart",
-        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-smart-band-9-active-beige/00694181270631",
-        "price": 595.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI Watch S4 Smartwatch Rainbow – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-rainbow-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181271166?athbdg=L1300",
-        "price": 4478.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
-    "ts": "2026-08-16T22:54:41.807257+00:00",
-    "items": []
-  },
-  "amazon|XIAOMICRYSTALRESXIAOMIAMOLEDREDMI": {
-    "ts": "2026-08-16T23:11:17.792796+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "2 Piezas Mica Protector de Pantalla para Xiaomi Redmi Note 14 | Cristal Vidrio Templado, Antiarañazos, Sin Burbujas",
-        "url": "https://www.amazon.com.mx/dp/B0F9FNRQYF",
-        "price": 168.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Cristal Templado Compatible para Xiaomi Redmi Note 10/ Note 10S 6.43\", Protector de Pantalla Premium Cristal Vidrio Templado Protector Compatible con Redmi Note 10 Bubble Free/HD Clear",
-        "url": "https://www.amazon.com.mx/dp/B092ZFPPNQ",
-        "price": 113.24,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda Mica para Redmi A7 Pro y para Xiaomi Poco C81 Pro Case Uso Rudo Acrílico Carcasa + 2 Piezas Protector de Pantalla Cristal Templado Screen Cover SJ(Negro+ 2 Mica)",
-        "url": "https://www.amazon.com.mx/dp/B0H86FKRY5",
-        "price": 218.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Protector de Pantalla para Xiaomi Redmi Note 14 Pro 5G | Mica de Cristal Vidrio Templado, Cobertura Total (3D Curvo) Compatible con Funda",
-        "url": "https://www.amazon.com.mx/dp/B0GH7MDBP8",
-        "price": 208.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YAPANIZCEL MICA DE PRIVACIDAD CERAMICA PARA XIAOMI REDMI NOTE 13 4G, 2 UNIDADES, MICA CRISTAL TEMPLADO Anti Espía Matte Cristal Vidrio Templado (2 Micas) …",
-        "url": "https://www.amazon.com.mx/dp/B0D23WT942",
-        "price": 121.38,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Mica Protector de Pantalla para Xiaomi Redmi Note 13 | Cristal Vidrio Templado, Antiarañazos, Sin Burbujas",
-        "url": "https://www.amazon.com.mx/dp/B0CY8DFJZK",
-        "price": 148.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Mica Protector de pantalla para Xiaomi Redmi Note 11/11S 4G | Cristal Vidrio Templado, Antiarañazos, Sin Burbujas",
-        "url": "https://www.amazon.com.mx/dp/B0B12J1XTJ",
-        "price": 168.0,
-        "model": "11/11S"
-      },
-      {
-        "store": "amazon",
-        "name": "Ibywind Mica para Xiaomi Redmi Note 15 Pro+ 5G/Poco M8 Pro 5G,2 Piezas Protector de Pantalla y Protector de Lente de Cámara,Fácil de Instalar,Compatible Detector Huellas,Anti Arañazos",
-        "url": "https://www.amazon.com.mx/dp/B0GGLLT5J1",
-        "price": 269.99,
-        "model": "5G/Poco"
-      },
-      {
-        "store": "amazon",
-        "name": "SEEPO Mica para Xiaomi Redmi 15a, Vidrio Cristal Templado Protector Pantalla para Xiaomi Redmi A7 Pro (2 Piezas)",
-        "url": "https://www.amazon.com.mx/dp/B0GWQ5DTPW",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2Pcs Cristal Templado Compatible para Xiaomi Redmi Note 11 Pro 6.67\", Protector de Pantalla Premium Vidrio Templado Compatible con Redmi Note 11 Pro 5G Bubble Free/HD Clear",
-        "url": "https://www.amazon.com.mx/dp/B0B6H9Y3ZZ",
-        "price": 111.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Protector de Pantalla Compatible para Xiaomi Redmi Pad SE Cristal Templado, Alta Definicion, Cristal Templado Film Compatible con Redmi Pad SE 11'' Protector Pantalla",
-        "url": "https://www.amazon.com.mx/dp/B0CHY61TRB",
-        "price": 69.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda Mica para Xiaomi Poco C75 y Redmi 14C 4G Case Uso Rudo Acrílico Carcasa + 2 Piezas Protector de Pantalla Cristal Templado Screen Cover SJ(Negro+ 2 Mica)",
-        "url": "https://www.amazon.com.mx/dp/B0DK125NZJ",
-        "price": 138.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMICRYSTALRESXIAOMIAMOLEDREDMI": {
-    "ts": "2026-08-16T23:11:21.570651+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro Plus 5G 8GB RAM 256GB Sand Gold | Cámara 200 MP | Pantalla AMOLED | Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-plus-5g-8gb-ram-256gb-sand-gold-camara-200-mp-pantalla-amoled-desbloqueado/00693255444664?athbdg=L6000",
-        "price": 7799.0,
-        "model": "256GB"
-      }
-    ]
-  },
-  "sams|XIAOMICRYSTALRESXIAOMIAMOLEDREDMI": {
-    "ts": "2026-08-16T23:11:22.656308+00:00",
-    "items": []
-  },
-  "amazon|XIAOMISMARTWATCHLEATHERXIAOMIWATCH": {
-    "ts": "2026-08-16T23:11:25.560717+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Correas compatibles con Xiaomi Smart Band 9 Active Correa,Pulsera de Cuero de Repuesto con Marco de Metal Para el Redmi Band 3 Mujer Hombre",
-        "url": "https://www.amazon.com.mx/dp/B0DY4238Z5",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa compatible con Xiaomi Redmi Watch 3 Active,Pulsera de Cuero de Repuesto con Marco de Metal Para el Redmi Watch 3 Active",
-        "url": "https://www.amazon.com.mx/dp/B0CHHV64NL",
-        "price": 275.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "GIOPUEY Pulsera compatible con Xiaomi Watch S4 41 mm, correa de piel auténtica [resistente al desgaste] [transpirable] correa de repuesto, für Xiaomi Watch S4 41mm",
-        "url": "https://www.amazon.com.mx/dp/B0FL7JG861",
-        "price": 500.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Senter leather Watch Bands for Xiaomi Watch S4 SPORT,22mm Soft Genuine Leather with Silicone Sweatproof Wrist Strap for Xiaomi Watch 2 Smart Watch",
-        "url": "https://www.amazon.com.mx/dp/B0DKJDDLC1",
-        "price": 337.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "WolliLe 22mm Correa Trenzada Compatible con Xiaomi Redmi Watch 5 Active/5 Lite/Garmin Venu 4 45mm/Venu 3/Venu 2/Vivoactive 4/Samsung Galaxy Watch 3 45mm, Correa Repuesto de Nailon Ajustable para Huawei GT5/GT4/GT3/GT2/GT 46mm",
-        "url": "https://www.amazon.com.mx/dp/B0GJ5GQ6YH",
-        "price": 192.72,
-        "model": "GT5/GT4/GT3/GT2/GT"
-      },
-      {
-        "store": "amazon",
-        "name": "2 Piezas Correas de Reloj Trenzadas Magnéticas para Xiaomi Redmi Watch 6/5/4, Correa Elástica Suave de Nailon Deportivo para Xiaomi Band 8/9 Pro Correa",
-        "url": "https://www.amazon.com.mx/dp/B0H44LQS55",
-        "price": 229.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Leather Straps with Integrated Quick Release Spring Bars - Standard Length fits Wrists 5\" to 8\"- 20mm & 22mm Watch Bands - Choose Strap Color & Width",
-        "url": "https://www.amazon.com.mx/dp/B0F7R6RH4H",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "3 Piezas Correas para Xiaomi Redmi Watch 5 Active para Mujer Hombre, Correas de Silicona, Deportiva Impermeable Pulseras de Repuesto para Redmi Watch 5 Active",
-        "url": "https://www.amazon.com.mx/dp/B0F5HBG2Q6",
-        "price": 151.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "3 Piezas Correas Compatible con Xiaomi Redmi Watch 4/5, Extensible Banda de Silicona para Xiaomi Band 8/9 Pro, Pulseras de Repuesto para Redmi Watch 5 Bandas Mujeres Hombres",
-        "url": "https://www.amazon.com.mx/dp/B0FP91D3LP",
-        "price": 208.05,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "IEOVIEE 2 Piezas Correa Compatible con Redmi Watch 5 4, Xiaomi Smart Band 9 8 Pro,Extensible Pulsera Banda para Xiaomi Mi Band 8 9 Pro y Redmi Watch 5 4",
-        "url": "https://www.amazon.com.mx/dp/B0FM2VMLTG",
-        "price": 151.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
-        "price": 815.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de 2 Correa Compatible con Xiaomi Watch 2 Correas Reloj de Acero inoxidable Band Malla de Lazo Deportivo de Repuesto para Hombre y Mujer Pulsera para Xiaomi Watch 2",
-        "url": "https://www.amazon.com.mx/dp/B0G5YM6728",
-        "price": 227.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMISMARTWATCHLEATHERXIAOMIWATCH": {
-    "ts": "2026-08-16T23:11:29.816746+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
-        "price": 1031.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
-        "price": 998.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
-        "price": 1579.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
-        "price": 1199.0,
-        "model": "watch3"
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
-        "price": 1099.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154?athbdg=L6000",
-        "price": 985.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-smart-band-9-active-beige/00694181270631",
-        "price": 595.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Xiaomi Redmi Watch 3 Active Gris",
-        "url": "https://www.walmart.com.mx/ip/reloj-xiaomi-redmi-watch-3-active-gris/00694181272645",
-        "price": 999.0,
+        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-41mm-reloj-inteligente-color-negro/00694210316959?athbdg=L6000",
+        "price": 4199.0,
         "model": null
       },
       {
@@ -5895,15 +5608,15 @@
       },
       {
         "store": "walmart",
-        "name": "Mi watch Xiaomi Xiaomi Mi watch",
-        "url": "https://www.walmart.com.mx/ip/mi-watch-xiaomi-xiaomi-mi-watch/00693417772305",
-        "price": 3299.0,
+        "name": "Reloj Xiaomi Redmi Watch 3 Active Gris",
+        "url": "https://www.walmart.com.mx/ip/reloj-xiaomi-redmi-watch-3-active-gris/00694181272645",
+        "price": 999.0,
         "model": null
       }
     ]
   },
-  "sams|XIAOMISMARTWATCHLEATHERXIAOMIWATCH": {
-    "ts": "2026-08-16T23:11:30.801843+00:00",
+  "sams|XIAOMISMARTWATCHXIAOMIWATCH41MM": {
+    "ts": "2026-08-18T23:13:38.141412+00:00",
     "items": []
   },
   "amazon|XIAOMICRYSTALRESAMOLEDXIAOMIREDMI": {
@@ -42885,6 +42598,370 @@
   },
   "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
     "ts": "2026-08-18T21:56:21.392627+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGSAMSUNGGALAXYLCDA07": {
+    "ts": "2026-08-18T23:13:26.240235+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 visualización de repuesto para Samsung A07 visualización LCD SM-A075B SM-A075F SM-A075M Digitalizador LCD Touch Asamblea Reparación",
+        "url": "https://www.amazon.com.mx/dp/B0GD6KFQQJ",
+        "price": 385.25,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "SRJTEK - Reemplazo de pantalla LCD para Samsung Galaxy A07 4G de 6.7 pulgadas, HD + digitalizador de pantalla completa (negro) compatible con SM-A075F + kit completo de herramientas de reparación",
+        "url": "https://www.amazon.com.mx/dp/B0GFL6L4G8",
+        "price": 403.17,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 - visualización de repuesto para Samsung A07 LCD SM-A075B SM-A075F SM-A075M LCD digitalizador táctil piezas de reparación con marco",
+        "url": "https://www.amazon.com.mx/dp/B0GD69CYVV",
+        "price": 441.66,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD táctil digitalizador con marco de repuesto para Samsung Galaxy A07 4G SM-A075F, SM-A075F/DS, SM-A075M, SM-A075M/DS A075 6.7 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0GKT3917S",
+        "price": 668.37,
+        "model": "SM-A075F/DS"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD táctil digitalizador de repuesto para Samsung Galaxy A07 4G SM-A075F, SM-A075F/DS, SM-A075M, SM-A075M/DS A075 6.7 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0G3WH38LC",
+        "price": 608.84,
+        "model": "SM-A075F/DS"
+      },
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 visualización de repuesto para Samsung A07 visualización LCD SM-A075B SM-A075F SM-A075M Digitalizador LCD visualización táctil Piezas de reparación de montaje",
+        "url": "https://www.amazon.com.mx/dp/B0H8CN3CD8",
+        "price": 418.8,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "For Galaxy A07 4G SM-A075F LCD Screen with Digitizer Full Assembly",
+        "url": "https://www.amazon.com.mx/dp/B0HD6MJGK5",
+        "price": 302.27,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD táctil digitalizador de reparación con marco para Samsung Galaxy A07 4G SM-A075F SM-A075M/DS A075 6.7 pulgadas + herramientas | Viene con carcasa de marco preinstalada",
+        "url": "https://www.amazon.com.mx/dp/B0H5R12NTS",
+        "price": 412.06,
+        "model": "SM-A075M/DS"
+      },
+      {
+        "store": "amazon",
+        "name": "For Galaxy A07 5G SM-A076B LCD Screen with Digitizer Full Assembly",
+        "url": "https://www.amazon.com.mx/dp/B0HD6TP4W3",
+        "price": 306.7,
+        "model": "SM-A076B"
+      },
+      {
+        "store": "amazon",
+        "name": "SM-A075F SM-A075M - visualización LCD original para Samsung Galaxy A07 reemplazo de visualización táctil digitalizador con marco con juego de herramientas, SM-A075F SM-A075M",
+        "url": "https://www.amazon.com.mx/dp/B0GS16RGVZ",
+        "price": 442.11,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD compatible con Samsung Galaxy A07 4G SM-A075,17 cm | Conjunto digitalizador de visualización táctil LCD, con kit de herramientas de reparación",
+        "url": "https://www.amazon.com.mx/dp/B0H7HQT7FP",
+        "price": 419.18,
+        "model": "SM-A075"
+      },
+      {
+        "store": "amazon",
+        "name": "For Galaxy A07 4G SM-A075F LCD Screen Digitizer Full Assembly with Frame",
+        "url": "https://www.amazon.com.mx/dp/B0HD6JWV97",
+        "price": 346.89,
+        "model": "SM-A075F"
+      }
+    ]
+  },
+  "walmart|SAMSUNGSAMSUNGGALAXYLCDA07": {
+    "ts": "2026-08-18T23:13:29.116851+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 dual 128GB 4RAM Negro",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-dual-128gb-4ram-negro/00880609766148?athbdg=L1300",
+        "price": 2316.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-negro-desbloqueado/00880609764998?athbdg=L1300",
+        "price": 2316.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A07 4GB 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a07-4gb-128gb-negro-desbloqueado/00880609765220?athbdg=L1300",
+        "price": 2315.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Violeta Claro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-violeta-claro-desbloqueado/00880609765000",
+        "price": 2372.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 64GB 4GB RAM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-64gb-4gb-ram-negro-desbloqueado/00691427987285",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-verde-desbloqueado/00880609764997",
+        "price": 2372.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Galaxy A07 Morado 64 GB 4 RAM con Smartwatch - Cargador - Audífonos",
+        "url": "https://www.walmart.com.mx/ip/galaxy-a07-morado-64-gb-4-ram-con-smartwatch-cargador-audifonos/00506022019907",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Violeta Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-violeta-telcel/00750622736452?athbdg=L1300",
+        "price": 2499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-verde-telcel/00750622736453?athbdg=L1300",
+        "price": 2499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 Negro 64GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-negro-64gb-desbloqueado/00880609764996",
+        "price": 2249.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A07 4GB 128GB Negro",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a07-4gb-128gb-negro/00750232638497",
+        "price": 2699.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 64GB 4GB RAM Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-64gb-4gb-ram-verde-desbloqueado/00691427874911",
+        "price": 2699.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SAMSUNGSAMSUNGGALAXYLCDA07": {
+    "ts": "2026-08-18T23:13:30.006152+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROGOTEOTAZAS": {
+    "ts": "2026-08-18T23:13:41.312387+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Individual con Termo 16 oz y Filtro Permanente, CM618 | Cesta de filtro extraíble, apagado automático y piezas aptas para lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B008YS1WXE",
+        "price": 451.82,
+        "model": "CM618"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
+        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
+        "price": 479.0,
+        "model": "49970-MX"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
+        "price": 359.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Redlemon Molino de Café Eléctrico con Interruptor de Seguridad (50 g), Moledora con Cuchillas de Acero Inoxidable, para Prensa Francesa, Cafetera de Goteo y Espresso. Molino para Especias y Hierbas",
+        "url": "https://www.amazon.com.mx/dp/B09K4M54SV",
+        "price": 294.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS MEDEA 2000 | Cafetera personal | Taza de cerámica incluida | Negra | Filtro lavable y reutilizable | Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B0D163BP7Z",
+        "price": 283.38,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAACEROGOTEOTAZAS": {
+    "ts": "2026-08-18T23:14:13.031557+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
+        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
+        "price": 635.0,
+        "model": "BVST/DC05-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 4253.48,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAACEROGOTEOTAZAS": {
+    "ts": "2026-08-18T23:14:13.524482+00:00",
     "items": []
   }
 }
