@@ -464,8 +464,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | -20% |
 | 🟢 disponible | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,808 | -25% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | -20% |
-| 🟢 disponible | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P-42-1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $18,719 | -41% |
-| 🟢 disponible | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 GB SSD…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $28,879 | -23% |
+| 🟢 disponible | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P-42-1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $21,239 | -41% |
+| 🟢 disponible | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 GB SSD…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $34,199 | -23% |
 | 🟢 disponible | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, SSD 51…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $16,719 | -21% |
 | 🟢 disponible | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | -29% |
 | 🟢 disponible | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | -32% |
@@ -539,7 +539,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html) | $19,313 | -21% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | -23% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | -23% |
-| 🟢 disponible | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $17,549 | -22% |
+| 🟢 disponible | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $19,889 | -22% |
 | 🟢 disponible | palacio | [Laptop ProArt PX13, 13.3", AMD Ryzen AI MAX+, RAM 128 GB, SS…](https://www.elpalaciodehierro.com/asus-laptop-proart-px13-13.3-amd-ryzen-ai-max-ram-128-gb-ssd-1-tb-45244300.html) | $53,439 | -21% |
 | 🟢 disponible | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | -20% |
 | 🟢 disponible | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $7,899 | -21% |
@@ -547,7 +547,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $3,349 | -20% |
 | 🟢 disponible | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $873 | -29% |
 | 🟢 disponible | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | -33% |
-| 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | -26% |
+| 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $44,554 | -26% |
 | 🟢 disponible | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | -25% |
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
 | 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |

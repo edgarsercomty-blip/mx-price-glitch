@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 13:27 UTC",
-  "products_scanned": 1644,
+  "generated_at": "2026-08-18 14:09 UTC",
+  "products_scanned": 1633,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -91,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1262.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en Acero Inoxidable Tricolor",
-      "url": "https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html",
-      "price": 2946.3,
-      "list_price": 4209.0,
-      "ean": null,
-      "model": null,
-      "brand": "Michael Kors",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44353770",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 959.7,
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42825376",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1262.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en Acero Inoxidable Tricolor",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html",
+      "price": 2946.3,
+      "list_price": 4209.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44353770",
         "outlet": false
       }
     },
@@ -569,27 +569,6 @@
       "extra": {
         "productId": "1191395768",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 22.0,
-      "detail": "$17,549 en palacio vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4949.78,
-      "store": "palacio",
-      "name": "Laptop IdeaPad Slim 3, 15.6\", AMD Radeon, AMD Ryzen 7, RAM 16 GB, SSD 1 TB, Abyss Blue",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html",
-      "price": 17549.22,
-      "list_price": 22499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44472014",
-        "outlet": false
       }
     },
     {
