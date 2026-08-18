@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 03:09 UTC",
+  "generated_at": "2026-08-18 03:59 UTC",
   "products_scanned": 1625,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.9,
-      "detail": "$1,364 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 730.85,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 1364.35,
-      "list_price": 2619.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165916841",
-        "marketplace": null
       }
     },
     {
@@ -678,27 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.8,
-      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3200.0,
-      "store": "liverpool",
-      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
-      "price": 11999.2,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "ASUS",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1175126381",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -800,6 +758,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5999.8,
+      "store": "palacio",
+      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
+      "price": 23999.2,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45260351",
+        "outlet": false
       }
     },
     {

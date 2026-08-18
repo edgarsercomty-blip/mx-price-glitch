@@ -3938,13 +3938,13 @@
     "items": []
   },
   "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-16T03:14:07.900650+00:00",
+    "ts": "2026-08-18T03:59:27.778200+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
         "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
-        "price": 14399.0,
+        "price": 14499.0,
         "model": "7735HS"
       },
       {
@@ -3970,10 +3970,17 @@
       },
       {
         "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
-        "price": 12979.0,
-        "model": "83K700TUUS"
+        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
+        "price": 8539.0,
+        "model": "256gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo IdeaPad 1 15AMN7 15.6\" Laptop AMD Ryzen 3 7320U 8GB RAM 256GB SSD PCIe NVMe Wi-Fi 6 Lector de Huellas Dactilares Abyss Blue Windows 11 Home en Modo S (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLT3S7WB",
+        "price": 6608.18,
+        "model": "15AMN7"
       },
       {
         "store": "amazon",
@@ -3984,17 +3991,17 @@
       },
       {
         "store": "amazon",
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
+        "price": 12903.0,
+        "model": "83K700TUUS"
+      },
+      {
+        "store": "amazon",
         "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
         "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
         "price": 8402.16,
         "model": "82KT-Renovado"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
-        "price": 8539.0,
-        "model": "256gb"
       },
       {
         "store": "amazon",
@@ -4014,20 +4021,13 @@
         "store": "amazon",
         "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
         "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
-        "price": 9767.08,
+        "price": 8999.0,
         "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop V14 G4 AMN: Procesador AMD Ryzen 5 7520U, RAM 16GB LPDDR5, SSD 512GB, Pantalla 14\", Radeon 610M, Teclado en Español, Windows 11 Home. Incluye 3 años de Garantía",
-        "url": "https://www.amazon.com.mx/dp/B0H3528ZFG",
-        "price": 11599.0,
-        "model": "LPDDR5"
       }
     ]
   },
   "walmart|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-16T03:14:13.396625+00:00",
+    "ts": "2026-08-18T03:59:30.853525+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4059,13 +4059,6 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
-        "price": 6899.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
         "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
         "price": 13779.0,
@@ -4087,6 +4080,13 @@
       },
       {
         "store": "walmart",
+        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
+        "price": 13609.0,
+        "model": "83k700axlm"
+      },
+      {
+        "store": "walmart",
         "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
         "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
         "price": 7999.0,
@@ -4094,10 +4094,10 @@
       },
       {
         "store": "walmart",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
-        "price": 12849.0,
-        "model": "83K700TUUS"
+        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
+        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
+        "price": 5999.0,
+        "model": "82VG00R2US"
       },
       {
         "store": "walmart",
@@ -4108,16 +4108,101 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
-        "price": 13609.0,
-        "model": "83k700axlm"
+        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
+        "price": 12849.0,
+        "model": "83K700TUUS"
       }
     ]
   },
   "sams|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-16T03:14:14.231189+00:00",
-    "items": []
+    "ts": "2026-08-18T03:59:35.327420+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
+        "price": 11251.98,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
+        "price": 30688.98,
+        "model": "RAM/1"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
+        "price": 15342.95,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad 1 AMD Ryzen 7/16 GB RAM/512 GB SDD + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-1-amd-ryzen-7-16-gb-ram-512-gb-sdd-mochila-mouse/981022913",
+        "price": 10225.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Flex 5 Ryzen 5/8 GB RAM/512 GB 14A + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-flex-5-ryzen-5-8-gb-ram-512-gb-14a-mochila-mouse/981008318",
+        "price": 19433.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3/Ryzen 7/16 GB RAM/1 TB IPSLIM3-AXLM + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-ryzen-7-16-gb-ram-1-tb-ipslim3-axlm-mochila/981044391",
+        "price": 10225.91,
+        "model": "IPSLIM3-AXLM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 5/8 GB RAM/512 GB SSD MJLM + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-amd-ryzen-5-8-gb-ram-512-gb-ssd-mjlm-mochila/981035506",
+        "price": 8178.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
+        "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
+        "price": 17388.95,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
+        "price": 16876.43,
+        "model": "gen/8"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
+        "price": 12467.27,
+        "model": "RAM/256"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
+        "price": 24549.95,
+        "model": "3-1ALM"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/8 GB RAM/512 GB SSD 6VLM + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-8-gb-ram-512-gb-ssd-6vlm-mochila-mouse/981038992",
+        "price": 8178.89,
+        "model": "RAM/512"
+      }
+    ]
   },
   "amazon|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
     "ts": "2026-08-16T04:51:17.325258+00:00",
