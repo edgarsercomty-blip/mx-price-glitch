@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 11:43 UTC",
-  "products_scanned": 1610,
+  "generated_at": "2026-08-18 12:25 UTC",
+  "products_scanned": 1644,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -91,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 959.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2239.3,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1262.7,
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44353770",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 959.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Coach",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42825376",
         "outlet": false
       }
     },
@@ -279,27 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -316,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -405,6 +405,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -421,48 +442,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45481963",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Medianoche Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824645",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
-      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2989.77,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Blanco Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
-      "price": 10009.23,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44639312",
         "outlet": false
       }
     },
@@ -505,6 +484,48 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2989.77,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Blanco Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html",
+      "price": 10009.23,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44639312",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Medianoche Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824645",
         "outlet": false
       }
     },
@@ -589,6 +610,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366544",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
         "outlet": false
       }
     },
@@ -695,27 +737,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
-        "outlet": false
       }
     },
     {

@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (832)
+# Historial de ofertas encontradas (833)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-18 12:25 | -21% | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-18 05:06 | -27% | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $12,749 | $12,749 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-18 02:40 | -21% | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | $396 en amazon vs mercado -> -21% bajo la competencia |
 | 2026-08-18 02:40 | -22% | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $10,445 | $10,445 en mercadolibre vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-22 10:06 | -25% | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-22 10:06 | -35% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | $9,749 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-22 07:37 | -41% | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | $21,829 en palacio vs mercado -> -41% bajo la competencia |
-| 2026-07-21 10:18 | -20% | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
