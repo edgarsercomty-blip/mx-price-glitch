@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (833)
+# Historial de ofertas encontradas (839)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-18 15:40 | -22% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -22% bajo la competencia |
+| 2026-08-18 15:40 | -23% | amazon | [UGREEN USB C Hub para MacBook Pro, Adaptador USB Tipo C…](https://www.amazon.com.mx/dp/B087TSQR6X) | $538 | $538 en amazon vs mercado -> -23% bajo la competencia |
+| 2026-08-18 15:40 | -24% | liverpool | [Refrigerador Duplex Whirlpool 18 Pies Cubicos Inverter …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-whirlpool-18-pies-cubicos-inverter-no-frost-wd1600s/1139411460) | $16,280 | $16,280 en liverpool vs sams $23,016 -> -24% bajo la competencia |
+| 2026-08-18 15:40 | -26% | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B0BTTQHHMY) | $825 | $825 en amazon vs mercado -> -26% bajo la competencia |
+| 2026-08-18 15:40 | -44% | mercadolibre | [Pantalla Ips Portátil Para Juegos Retro R36s  64 G](https://www.mercadolibre.com.mx/pantalla-ips-portatil-para-juegos-retro-r36s-pro-64-g/p/MLM2082326449) | $828 | $828 en mercadolibre vs mercado -> -44% bajo la competencia |
+| 2026-08-18 15:40 | -69% | sams | [Kit de Impresora Canon Ivy Mini Portátil Blanca + Paque…](https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145) | $1,022 | $1,022 en sams vs mercado -> -69% bajo la competencia |
 | 2026-08-18 12:25 | -21% | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-18 05:06 | -27% | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $12,749 | $12,749 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-18 02:40 | -21% | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | $396 en amazon vs mercado -> -21% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-22 22:38 | -25% | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | $3,899 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 16:18 | -20% | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 16:06 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | $2,607 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-22 14:24 | -25% | palacio | [Case para Buds4 y Buds4 Pro Clip Negro liso](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-clip-negro-liso-45272450.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-22 14:24 | -25% | liverpool | [Smartwatch Xiaomi Xiaomi Redmi Watch 5 Lite Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-redmi-watch-5-lite-unisex-con-gps/1167053921) | $879 | $879 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-22 10:06 | -24% | palacio | [Smartwatch Galaxy Watch8 Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch8-unisex-44824184.html) | $4,939 | $4,939 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-07-22 10:06 | -25% | palacio | [Case para Buds4 y Buds4 Pro Foodcan estampada](https://www.elpalaciodehierro.com/samsung-case-para-buds4-y-buds4-pro-foodcan-estampada-45272448.html) | $412 | $412 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-22 10:06 | -35% | palacio | [Celular Moto Edge 60 Pro 512 GB, RAM 12 GB Uva Desbloqu…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-pro-512-gb-ram-12-gb-uva-desbloqueado-44781018.html) | $9,749 | $9,749 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-22 07:37 | -41% | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | $21,829 en palacio vs mercado -> -41% bajo la competencia |
