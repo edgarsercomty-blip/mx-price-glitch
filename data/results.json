@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 08:05 UTC",
-  "products_scanned": 1565,
+  "generated_at": "2026-08-18 08:54 UTC",
+  "products_scanned": 1569,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1185265802",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 15.0,
-      "detail": "$12,749 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4749.85,
-      "store": "liverpool",
-      "name": "Apple Macbook Neo 13 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436",
-      "price": 12749.15,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196338436",
         "marketplace": null
       }
     },
@@ -594,27 +573,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 54.5,
-      "detail": "$5,960 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1653.75,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Frio Y Calor 12000 Btu S12P Ehv23 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873",
-      "price": 5960.05,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "Ehv23",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153833873",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -695,6 +653,27 @@
       "extra": {
         "id": "44004165",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 199.8,
+      "store": "liverpool",
+      "name": "Smartband Reebok Rbk",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023",
+      "price": 799.2,
+      "list_price": 999.0,
+      "ean": null,
+      "model": null,
+      "brand": "REEBOK",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1196432023",
+        "marketplace": null
       }
     },
     {
