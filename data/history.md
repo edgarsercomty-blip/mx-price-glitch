@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (839)
+# Historial de ofertas encontradas (840)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-18 17:01 | -20% | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | $19,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-18 15:40 | -22% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -22% bajo la competencia |
 | 2026-08-18 15:40 | -23% | amazon | [UGREEN USB C Hub para MacBook Pro, Adaptador USB Tipo C…](https://www.amazon.com.mx/dp/B087TSQR6X) | $538 | $538 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-08-18 15:40 | -24% | liverpool | [Refrigerador Duplex Whirlpool 18 Pies Cubicos Inverter …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-whirlpool-18-pies-cubicos-inverter-no-frost-wd1600s/1139411460) | $16,280 | $16,280 en liverpool vs sams $23,016 -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-22 22:38 | -20% | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-22 22:38 | -25% | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | $3,899 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-22 16:18 | -20% | liverpool | [Vivo Y19S Lcd 6 6 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/vivo-y19s-lcd-6-6-pulgadas-telcel/1176916109) | $3,999 | $3,999 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-22 16:06 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,607 | $2,607 en liverpool vs mercado -> -20% bajo la competencia |

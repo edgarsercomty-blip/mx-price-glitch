@@ -1442,60 +1442,32 @@
     "items": []
   },
   "amazon|EHV23": {
-    "ts": "2026-08-16T16:43:30.619495+00:00",
+    "ts": "2026-08-18T17:01:14.673098+00:00",
     "items": []
   },
   "walmart|EHV23": {
-    "ts": "2026-08-16T16:43:32.280575+00:00",
+    "ts": "2026-08-18T17:01:17.720082+00:00",
     "items": []
   },
   "sams|EHV23": {
-    "ts": "2026-08-16T16:43:33.145514+00:00",
+    "ts": "2026-08-18T17:01:25.162764+00:00",
     "items": []
   },
   "amazon|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-16T16:43:36.016189+00:00",
+    "ts": "2026-08-18T17:01:45.281752+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500 W, Vaso de Vidrio 2 L, iBlend | Tecnología Reversible, 3 Programas Automáticos: Smoothie, Triturar, Procesar, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
-        "price": 2104.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Licuadora Profesional 1000W, 2.1L, 4 Velocidades + Pulso | 1000W con Jarra 2.1L | Total Crushing Tritura Hielo en Nieve | 4 vel + pulso | Apto lavavajillas",
-        "url": "https://www.amazon.com.mx/dp/B07ZZM1TQP",
-        "price": 1639.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Licuadora y Procesador Auto-iQ 1400W, 5 Programas, 2.1L | Motor de 1400 vatios de pico, jarra de 70 onzas, procesador de 64 onzas, 2 tazas to-Go de 24 onzas, 5 presets auto Iq",
-        "url": "https://www.amazon.com.mx/dp/B08559K7CN",
-        "price": 3711.0,
-        "model": "1400W"
-      },
-      {
-        "store": "amazon",
-        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
-        "price": 2899.0,
-        "model": "2000W"
-      },
       {
         "store": "amazon",
         "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
         "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
-        "price": 2099.0,
+        "price": 1999.0,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
         "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1827.25,
+        "price": 1778.87,
         "model": null
       },
       {
@@ -1514,16 +1486,30 @@
       },
       {
         "store": "amazon",
+        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
+        "price": 1487.0,
+        "model": "BLSTBESTE-013"
+      },
+      {
+        "store": "amazon",
         "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
         "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
-        "price": 198.48,
+        "price": 300.0,
         "model": "BLSTAJ4954"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
+        "price": 598.0,
+        "model": null
       },
       {
         "store": "amazon",
         "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
         "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 2669.0,
+        "price": 2590.0,
         "model": "1500W"
       },
       {
@@ -1535,105 +1521,176 @@
       },
       {
         "store": "amazon",
-        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
-        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
-        "price": 1290.0,
-        "model": "BLST4126013"
+        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
+        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
+        "price": 892.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1489.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "Vaso Vidrio Clásico Completo Sirve Para Oster Osterizer",
+        "url": "https://www.amazon.com.mx/dp/B0DTS5RL6Z",
+        "price": 369.0,
+        "model": null
       }
     ]
   },
   "walmart|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-16T16:43:40.101859+00:00",
+    "ts": "2026-08-18T17:01:50.626384+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Profesional-XTREME-MIX-con-iBLEND-y-MAX-CRUSH-Vaso-de-Vidrio-Gris/00005389117568?athbdg=L1510",
-        "price": 2104.0,
+        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
+        "price": 2399.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-con-Vaso-de-Vidrio-y-6-Velocidades-mas-Pulso-Gris/00005389116839?athbdg=L1510",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
         "price": 774.0,
         "model": null
       },
       {
         "store": "walmart",
+        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
+        "price": 2104.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
+        "price": 649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Osterizer-Max-con-2-Caballos-de-Fuerza-Perilla-y-Vaso-de-Vidrio-Plateada/00005389116986",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
         "price": 4375.9,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
-        "url": "https://www.walmart.com.mx/ip/Oster-Licuadora-Profesional-XTREME-MIX-con-iBLEND-y-MAX-CRUSH-1500-W-2-L-Jarra-de-Vidrio-Boroclas/00005389117570?athbdg=L1300",
-        "price": 5767.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-1-Velocidad-Pulso-2-Caballos-de-Fuerza-Plata/00005389115500?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
         "price": 2190.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster Tecnología reversible 2 programas automáticos 3 velocidades más pulso",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Tecnologia-reversible-2-programas-automaticos-3-velocidades-mas-pulso/00005389116851?athbdg=L1300",
-        "price": 1390.0,
+        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
+        "price": 1999.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-10-Velocidades-Blanco/00005389116978?athbdg=L1300",
-        "price": 719.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad Silver",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-1-Velocidad-Silver/00750109525010?athbdg=L1300",
-        "price": 1190.0,
+        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
+        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
+        "price": 5767.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster Pro 1200 con 7 Velocidades, 3 Programas Automáticos, Vaso BlendNGo, Plata",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Pro-1200-con-7-Velocidades-3-Programas-Automaticos-Vaso-BlendNGo-Plata/00003426447918",
-        "price": 5067.9,
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-pro-1200-con-7-velocidades-3-programas-automaticos-vaso-blendngo-plata/00003426447918?athbdg=L1300",
+        "price": 5232.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Licuadora-de-10-velocidades-cuchillas-acero-869-16G/00003426400153?athbdg=L1300",
-        "price": 779.0,
-        "model": "869-16G"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 6 Velocidades con Pulso Vaso de Vidrio 800 W Mod. BLSTPEG-NPB Plata",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-6-Velocidades-con-Pulso-Vaso-de-Vidrio-800-W-Mod-BLSTPEG-NPB-Plata/00005389116847",
-        "price": 1738.9,
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
+        "price": 1458.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora 2 velocidades Oster  Licuadora 2 Velocidades Oster V/Vidrio Blanco BLSTKAG-WRD-013",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-2-velocidades-Oster-Licuadora-2-Velocidades-Oster-V-Vidrio-Blanco-BLSTKAG-WRD-013/00005389113837",
-        "price": 682.0,
-        "model": "BLSTKAG-WRD-013"
+        "name": "Licuadora Oster 1 Velocidad Silver",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
+        "price": 1190.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
+        "price": 598.0,
+        "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-16T16:43:40.667742+00:00",
-    "items": []
+    "ts": "2026-08-18T17:01:59.046869+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
+        "price": 2249.56,
+        "model": "1200W"
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Clásica 1.25L Gris",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Turbo Max Negro",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
+        "price": 2249.58,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Turmix  Max Power Cherry",
+        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
+        "price": 1021.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
+        "price": 2555.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
+        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
+        "price": 1533.47,
+        "model": "BL7019-0MPLA"
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
+        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
+        "price": 2043.94,
+        "model": null
+      }
+    ]
   },
   "amazon|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
     "ts": "2026-08-16T17:51:15.718728+00:00",
@@ -41579,6 +41636,224 @@
         "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
         "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
         "price": 91.03,
+        "model": null
+      }
+    ]
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
+    "ts": "2026-08-18T17:01:29.659858+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "COOSPO Monitor de frecuencia cardíaca con correa para el pecho, sensor de frecuencia cardíaca Bluetooth ANT+ con batería de 400H, HRM funciona con Strava/Wahoo Fitness/Polar Beat/Peloton/DDP Yoga App",
+        "url": "https://www.amazon.com.mx/dp/B07JPD924Y",
+        "price": 478.52,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin HRM-200",
+        "url": "https://www.amazon.com.mx/dp/B0DQ9KDKT2",
+        "price": 1376.49,
+        "model": "HRM-200"
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin, Soporte de Bicicleta para Forerunner y Fenix, Negro",
+        "url": "https://www.amazon.com.mx/dp/B000VK5BMQ",
+        "price": 319.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Fenix 7 Pro Solar, Gris Pizarra/Negro 47 mm",
+        "url": "https://www.amazon.com.mx/dp/B0BYFD4QBJ",
+        "price": 15069.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Fenix 7X Pro Zafiro Solar, Gris Carbon/Negro 51 mm | Linterna integrada, capacidad de carga solar",
+        "url": "https://www.amazon.com.mx/dp/B0BYFCW2GR",
+        "price": 9506.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Adaptador de Cargador USB-C para Garmin Watch Cargador, Cable Convertidor Tipo C y Micro USB para Garmin Fenix 8 7 7S 7X 6 6S 6X Pro Plus, Epix 2, Venu, Forerunner 935 945, Approach S10 S40 S60",
+        "url": "https://www.amazon.com.mx/dp/B0H3K38Y5M",
+        "price": 149.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Paquete de 4 Adaptador Cargador USB C para Garmin, Cable Convertidor Tipo C para Garmin Fenix 8 7 7S 7X 6 6S 6X Pro Plus, Forerunner 945/935, Approach S60, Instinct (Gris Plateado, L-Shaped)",
+        "url": "https://www.amazon.com.mx/dp/B0H3JZDH4S",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Fēnix E, 47 mm, Pantalla AMOLED de 1,3 Pulgadas, táctil y Botones, 90+ Aplicaciones para el Deporte, Entrenamiento Readiness, mapas, RoundTrip dinámico, Pago, autonomía de 16 días (Stainless | Extensivas características de salud y entrenamiento, reloj de aventura con hasta 16 días de vida de la batería",
+        "url": "https://www.amazon.com.mx/dp/B0DC71N29H",
+        "price": 9976.52,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Index Sleep Monitor",
+        "url": "https://www.amazon.com.mx/dp/B0FCMW5K7P",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Polar H10 - Correa de Pecho para Monitor de frecuencia cardíaca, Ant + Bluetooth, Sensor HR Impermeable para Hombres y Mujeres",
+        "url": "https://www.amazon.com.mx/dp/B07PM54P4N",
+        "price": 1886.01,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Access, HRM 600, M-XL",
+        "url": "https://www.amazon.com.mx/dp/B0F7ZGDDCX",
+        "price": 3290.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "kwmobile Carcasa Compatible con Garmin Fenix 8 51mm Funda - 2X Protector Pantalla Completo - Ultrafino y antigolpes - Negro/Transparente",
+        "url": "https://www.amazon.com.mx/dp/B0DKNPBX8N",
+        "price": 262.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORFENIX": {
+    "ts": "2026-08-18T17:01:33.565214+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar, Carbon Gray",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-carbon-gray/00075375933932?athbdg=L1300",
+        "price": 19548.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Glass, Slate Gray",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-glass-slate-gray/00075375933806?athbdg=L6000",
+        "price": 20999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Sapphire soft Gold",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-sapphire-soft-gold/00075375933798?athbdg=L1300",
+        "price": 19548.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Glass, Slate Gray",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-glass-slate-gray/00075375933815?athbdg=L1300",
+        "price": 19548.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Sapphire, Orange",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-sapphire-orange/00075375933816?athbdg=L1300",
+        "price": 21248.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Whitestone",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-whitestone/00075375933797?athbdg=L6000",
+        "price": 20999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Sapphire Orange",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-sapphire-orange/00075375933807?athbdg=L1300",
+        "price": 19548.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar Graphite",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-graphite/00075375933935?athbdg=L1300",
+        "price": 19548.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin, monitor deportivo, fenix 8, 51mm, Sapphire Solar, Carbon Gray",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-sapphire-solar-carbon-gray/00075375933938?athbdg=L1300",
+        "price": 21248.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin Monitor Deportivo, Vivoactive 6",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-vivoactive-6/00075375934283?athbdg=L1300",
+        "price": 5353.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin Monitor Deportivo, Descent G2, Paloma",
+        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-descent-g2-paloma/00075375935108?athbdg=L6000",
+        "price": 13139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa QuickFit 26mm Garmin Fenix 7X Rojo Flama",
+        "url": "https://www.walmart.com.mx/ip/correa-quickfit-26mm-garmin-fenix-7x-rojo-flama/00075375927858",
+        "price": 2153.9,
+        "model": null
+      }
+    ]
+  },
+  "sams|GARMINENTRENAMIENTOMONITORFENIX": {
+    "ts": "2026-08-18T17:01:41.585786+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch Multideporte Garmin  Fenix 8 43 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-multideporte-garmin-fenix-8-43-mm/981029652",
+        "price": 19549.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Fenix 8 Solar 51 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-fenix-8-solar-51-mm/981042772",
+        "price": 21249.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
+        "price": 8398.82,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Multideporte Premium Garmin  con GPS Fenix 8 51 mm",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-premium-garmin-con-gps-fenix-8-51-mm/981029654",
+        "price": 21249.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Reloj Inteligente Multideporte Garmin  Premium con GPS Fenix 8 Zafiro Solar 47mm",
+        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-garmin-premium-con-gps-fenix-8-zafiro-solar-47mm/981029653",
+        "price": 19549.0,
         "model": null
       }
     ]

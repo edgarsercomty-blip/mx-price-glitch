@@ -1,5 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-18 16:35 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-18 17:01 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **1**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -20% | $5,000 | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | Confirmado vs competencia | $19,999 en palacio vs mercado -> -20% bajo la competencia |
