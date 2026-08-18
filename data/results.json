@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 17:01 UTC",
-  "products_scanned": 1631,
+  "generated_at": "2026-08-18 17:45 UTC",
+  "products_scanned": 1642,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -196,27 +196,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1499.75,
@@ -232,6 +211,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45281005",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1249.75,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3749.25,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -400,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44123334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
         "outlet": false
       }
     },
@@ -594,6 +615,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -715,27 +757,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110959",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
         "outlet": false
       }
     },

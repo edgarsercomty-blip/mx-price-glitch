@@ -103,7 +103,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Lavadora automática 22 kg carga superior](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-carga-superior-44964254.html) | $14,321 | -20% |
 | 🟢 disponible | palacio | [Centro de Lavado Electrico de Carga Superior 24 Kg Blanco](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-electrico-de-carga-superior-24-kg-blanco-44064322.html) | $30,799 | -20% |
 | 🟢 disponible | palacio | [Centro de lavado Premium Electrico de Carga Superior 24 Kg N…](https://www.elpalaciodehierro.com/mabe-centro-de-lavado-premium-electrico-de-carga-superior-24-kg-negro-44064325.html) | $35,573 | -20% |
-| 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $5,631 | -20% |
+| 🟢 disponible | palacio | [Reloj para Mujer Harlowe Casual Oro rosa](https://www.elpalaciodehierro.com/michael-kors-reloj-para-mujer-harlowe-casual-oro-rosa-43011643.html) | $4,927 | -20% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QNED 4K 55QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-qned-4k-55qned81bsg-45505429.html) | $10,499 | -52% |
 | 🟢 disponible | walmart | [Estufa Mabe Piso 20 pulgadas  Mercury EM5035CSIS1 Plata  con…](https://www.walmart.com.mx/ip/estufa-mabe-piso-20-pulgadas-mercury-em5035csis1-plata-con-capelo-de-cristal-templado/00075763840437?athbdg=L1300) | $6,699 | -22% |
 | 🟢 disponible | palacio | [Combo Lavadora y Secadora 24 Kg](https://www.elpalaciodehierro.com/mabe-combo-lavadora-y-secadora-24-kg-44172333.html) | $18,719 | -20% |
