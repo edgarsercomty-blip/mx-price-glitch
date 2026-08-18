@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18 21:39 UTC",
-  "products_scanned": 1681,
+  "generated_at": "2026-08-18 21:56 UTC",
+  "products_scanned": 1675,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.9,
-      "detail": "$1,364 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 730.85,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 1364.35,
-      "list_price": 2619.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165916841",
-        "marketplace": null
       }
     },
     {
@@ -217,27 +196,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$4,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1499.75,
@@ -253,6 +211,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45281005",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1249.75,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3749.25,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
         "outlet": false
       }
     },

@@ -42704,5 +42704,187 @@
   "sams|OSTERCAFETERAPANELTOUCHTAZAS": {
     "ts": "2026-08-18T21:14:36.984325+00:00",
     "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-08-18T21:56:08.687290+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
+        "price": 359.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
+        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-08-18T21:56:20.715670+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Ideal para hostelería y oficinas - Cafetera urna comercial eléctrica de acero inoxidable con doble pared",
+        "url": "https://www.walmart.com.mx/ip/ideal-para-hosteleria-y-oficinas-cafetera-urna-comercial-electrica-de-acero-inoxidable-con-doble-pared/00088162832724",
+        "price": 2314.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAGOTEOTOUCHTAZAS": {
+    "ts": "2026-08-18T21:56:21.392627+00:00",
+    "items": []
   }
 }
