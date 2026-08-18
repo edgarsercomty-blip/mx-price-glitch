@@ -4648,34 +4648,13 @@
     ]
   },
   "amazon|SMEGCAFETERASMEG": {
-    "ts": "2026-08-16T07:12:41.530650+00:00",
+    "ts": "2026-08-18T07:22:23.352641+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "SMEG Máquina de café espresso totalmente automática con molinillo integrado, blanco mate",
-        "url": "https://www.amazon.com.mx/dp/B0DFRX8W2Q",
-        "price": 23999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Espresso Portátil, Cafetera Eléctrica MINI, Máquina de Café de Mano con Infusión en Frío y Calentamiento 4-6 Minutos Auto, Máquina Espresso con Café Molido y Cápsulas NS, Fácil de Limpiar",
-        "url": "https://www.amazon.com.mx/dp/B0FLPFYBL5",
-        "price": 629.09,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
-        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman Máquina de espresso Chefman CraftBrew, cafetera digital con bomba de 15 bares con varilla de vapor para café con leche y capuchino, compacta con depósito de agua extraíble de 1.8L",
-        "url": "https://www.amazon.com.mx/dp/B0DMQMC4CD",
-        "price": 1699.32,
+        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
+        "price": 16994.25,
         "model": null
       },
       {
@@ -4687,16 +4666,16 @@
       },
       {
         "store": "amazon",
-        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
-        "price": 15861.3,
+        "name": "Smeg 50's - Cafetera estética de goteo de estilo retro con jarra de vidrio de 10 tazas, función de inicio automático, placa de mantenimiento caliente y dos ajustes de fuerza de café (negro mate)",
+        "url": "https://www.amazon.com.mx/dp/B0GRD5YKRL",
+        "price": 5353.56,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Smeg 50's - Cafetera estética de goteo de estilo retro con jarra de vidrio de 10 tazas, función de inicio automático, placa de mantenimiento caliente y dos ajustes de fuerza de café (negro mate)",
-        "url": "https://www.amazon.com.mx/dp/B0GRD5YKRL",
-        "price": 5353.56,
+        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
+        "price": 4264.0,
         "model": null
       },
       {
@@ -4705,13 +4684,6 @@
         "url": "https://www.amazon.com.mx/dp/B07YP1MZ9B",
         "price": 1267.15,
         "model": "DCGC01"
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
-        "price": 4264.0,
-        "model": null
       },
       {
         "store": "amazon",
@@ -4733,11 +4705,39 @@
         "url": "https://www.amazon.com.mx/dp/B0DK4Q1DBG",
         "price": 606.93,
         "model": "DCGC01"
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg DCF02WHUK Cafetera de Goteo, Modo de Arranque Automático, Filtro Reutilizable, Pantalla Digital, Sistema Antigoteo, Opción de Intensidad de Aroma, Tanque de 1.4 Litros, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B07VRDLLV8",
+        "price": 5599.0,
+        "model": "DCF02WHUK"
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro de Café Reutilizable para SMEG DCF02, Filtro Permanente de Acero Inoxidable de Grado Alimenticio, Cartucho Reemplazable Ecológico y Anti-Fugas para Cafetera SMEG",
+        "url": "https://www.amazon.com.mx/dp/B0GLF6PWZJ",
+        "price": 780.0,
+        "model": "DCF02"
+      },
+      {
+        "store": "amazon",
+        "name": "PHILIPS Máquina de espresso Super automática serie 1200 - Espumador de leche clásico, 2 variedades de café, pantalla táctil intuitiva, molinillo 100% de cerámica, filtro AquaClean, negro (EP1220/04)",
+        "url": "https://www.amazon.com.mx/dp/B07Z2X25SY",
+        "price": 5521.72,
+        "model": "EP1220/04"
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg ECF02 Máquina de café espresso italiana – Cafetera manual de 15 barras, fabricada en Italia – Diseño retro con varita de vapor (crema)",
+        "url": "https://www.amazon.com.mx/dp/B0DCV21G9G",
+        "price": 9999.0,
+        "model": "ECF02"
       }
     ]
   },
   "walmart|SMEGCAFETERASMEG": {
-    "ts": "2026-08-16T07:12:45.474809+00:00",
+    "ts": "2026-08-18T07:22:27.138894+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4750,7 +4750,7 @@
         "store": "walmart",
         "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
         "url": "https://www.walmart.com.mx/ip/smeg-cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-italia/00081289502534?athbdg=L1300",
-        "price": 16196.0,
+        "price": 15808.0,
         "model": null
       },
       {
@@ -4826,35 +4826,93 @@
     ]
   },
   "sams|SMEGCAFETERASMEG": {
-    "ts": "2026-08-16T07:12:46.262143+00:00",
-    "items": []
-  },
-  "amazon|ECF02WHUS": {
-    "ts": "2026-08-16T07:12:47.848739+00:00",
+    "ts": "2026-08-18T07:22:32.427686+00:00",
     "items": [
       {
-        "store": "amazon",
-        "name": "Cafetera espresso manual SMEG 15 bar estilo 50's blanca",
-        "url": "https://www.amazon.com.mx/dp/B0FPBWGJJG",
-        "price": 6599.4,
+        "store": "sams",
+        "name": "Parrilla Eléctrica Chefman  RJ23-SM-V3-MX Antiadherente Color Negro",
+        "url": "https://www.sams.com.mx/ip/parrilla-electrica-chefman-rj23-sm-v3-mx-antiadherente-color-negro/981053287",
+        "price": 551.37,
+        "model": "RJ23-SM-V3-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla EG",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg/981046298",
+        "price": 948.15,
         "model": null
       },
       {
-        "store": "amazon",
-        "name": "Smeg 50's Retro Style Máquina de café expreso manual, 4 bebidas, sistema de calefacción termobloque, blanco, ECF02WHUS",
-        "url": "https://www.amazon.com.mx/dp/B0DCV22FWS",
-        "price": 11380.31,
-        "model": "ECF02WHUS"
+        "store": "sams",
+        "name": "Bikini Nautica  Navy Talla EG",
+        "url": "https://www.sams.com.mx/ip/bikini-nautica-navy-talla-eg/981044735",
+        "price": 408.18,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chaleco Ligero Wheaterproof  Talla EG Plata",
+        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-plata/981028223",
+        "price": 50.12,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Gris talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-gris-talla-eg/981045190",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Negro talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-negro-talla-eg/981045186",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Azul talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-azul-talla-eg/981045194",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Beige Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-beige-talla-eg/981048487",
+        "price": 613.79,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chaleco Ligero Wheaterproof  Talla EG Rojo",
+        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-rojo/981028215",
+        "price": 612.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla EG Negro",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg-negro/981046302",
+        "price": 948.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Verde Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-verde-talla-eg/981048488",
+        "price": 613.79,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Marino Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-marino-talla-eg/981048489",
+        "price": 613.79,
+        "model": null
       }
     ]
-  },
-  "walmart|ECF02WHUS": {
-    "ts": "2026-08-16T07:12:51.096042+00:00",
-    "items": []
-  },
-  "sams|ECF02WHUS": {
-    "ts": "2026-08-16T07:12:51.796116+00:00",
-    "items": []
   },
   "amazon|RENO13": {
     "ts": "2026-08-16T07:47:11.835775+00:00",
