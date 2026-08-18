@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (826)
+# Historial de ofertas encontradas (831)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-18 02:40 | -21% | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | $396 en amazon vs mercado -> -21% bajo la competencia |
+| 2026-08-18 02:40 | -22% | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $10,445 | $10,445 en mercadolibre vs mercado -> -22% bajo la competencia |
+| 2026-08-18 02:40 | -35% | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clas…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | $1,721 en walmart vs walmart $2,639, walmart $2,709, walmart $3,319 -> -35% bajo la competencia |
+| 2026-08-18 02:40 | -58% | amazon | [HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chr…](https://www.amazon.com.mx/dp/B0FNX81ZQH) | $9,999 | $9,999 en amazon vs mercado -> -58% bajo la competencia |
+| 2026-08-18 02:40 | -76% | walmart | [Estuche de Carga Inalámbrica Apple AirPods Blanco MR8U2…](https://www.walmart.com.mx/ip/Estuche-de-Carga-Inalambrica-Apple-AirPods-Blanco-MR8U2AM-A/00019019865940?athbdg=L1300) | $719 | $719 en walmart vs sams $2,967 -> -76% bajo la competencia |
 | 2026-08-17 20:16 | -20% | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-17 15:34 | -27% | walmart | [Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pant…](https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469) | $499 | $499 en walmart vs amazon $685 -> -27% bajo la competencia |
 | 2026-08-17 15:34 | -34% | walmart | [Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led](https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984) | $999 | $999 en walmart vs amazon $1,521, amazon $1,521 -> -34% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-22 07:37 | -41% | palacio | [Pantalla 85 Pulgadas Plana NanoCell 4K 85NU850BPSA](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-nanocell-4k-85nu850bpsa-45505423.html) | $21,829 | $21,829 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-21 10:18 | -20% | palacio | [Monitor para entrenamiento Fénix 8](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-8-44110960.html) | $18,399 | $18,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-21 07:43 | -25% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $24,299 | $24,299 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-21 05:12 | -20% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S5 46Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s5-46mm-unisex-con-gps/1200266257) | $2,879 | $2,879 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-21 05:12 | -20% | liverpool | [Smartwatch Xiaomi Watch 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-5-unisex-con-gps/1196970540) | $5,199 | $5,199 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-20 21:56 | -56% | liverpool | [Funda Cojin Mariposa](https://www.liverpool.com.mx/tienda/pdp/funda-cojin-mariposa/1171148278) | $149 | $149 en liverpool vs mercado -> -56% bajo la competencia |
-| 2026-07-20 19:09 | -20% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,377 | $3,377 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-20 19:09 | -48% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned81Bsc…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned81bsc-con-webos/1200279162) | $10,499 | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
