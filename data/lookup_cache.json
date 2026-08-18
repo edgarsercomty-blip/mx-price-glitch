@@ -5619,111 +5619,6 @@
     "ts": "2026-08-18T23:13:38.141412+00:00",
     "items": []
   },
-  "amazon|XIAOMICRYSTALRESAMOLEDXIAOMIREDMI": {
-    "ts": "2026-08-16T23:51:13.333425+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "UNO' [3 unidades] Protector de Pantalla Cristal Templado para Redmi 15 4G/5G (6.9 pulgadas), Ultra Resistente, Dureza 9H, Alta Transparencia, Sin Burbujas, Antihuellas, Fácil Instalación, Compatible",
-        "url": "https://www.amazon.com.mx/dp/B0FT3H64X1",
-        "price": 157.66,
-        "model": "4G/5G"
-      },
-      {
-        "store": "amazon",
-        "name": "AMOLED - Conjunto de visualización para Xiaomi Redmi Note 13 Pro+ 23090RA98C 6.67",
-        "url": "https://www.amazon.com.mx/dp/B0FHJ3MC9J",
-        "price": 1310.2,
-        "model": "23090RA98C"
-      },
-      {
-        "store": "amazon",
-        "name": "AMOLED - Conjunto de visualización para Xiaomi Redmi Note 13 Pro 5G Poco X6 6.67",
-        "url": "https://www.amazon.com.mx/dp/B0FHKKGFQ6",
-        "price": 1154.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "AMOLED - Conjunto de visualización para Xiaomi Redmi Note 14 Pro+ 5G Note 14 Pro 5G 6.6 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0FHKMF21F",
-        "price": 1310.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Atwist Pantalla para Xiaomi Redmi 13C LCD Display - para Redmi 13C LCD Touch Digitizer para Redmi 13C 6.74\" Pantalla de Repuesto 23100RN82L 23106RN0DA 23108RN04Y Cristal Montaje con Marco",
-        "url": "https://www.amazon.com.mx/dp/B0DSH2KH4M",
-        "price": 849.62,
-        "model": "23100RN82L"
-      },
-      {
-        "store": "amazon",
-        "name": "Atwist LCD para Xiaomi 11T 5G / Xiaomi 11T Pro 5G - Reemplazo para Xiaomi 11T 5G Pantalla LCD Touch para Xiaomi 2107113SG 21081111RG 21091116AI Cristal Digitizer Assembly Tools (no para 4G)",
-        "url": "https://www.amazon.com.mx/dp/B0DSH5QXNR",
-        "price": 866.8,
-        "model": "21081111RG"
-      },
-      {
-        "store": "amazon",
-        "name": "Holilo Protector de cámara para Xiaomi Redmi Note 15 Pro 5G /Note 15 Pro Plus/Pro+ 5G para protector de cámara de cristal blindado, 2 unidades, antiarañazos, dureza 9H, sin burbujas, protector de",
-        "url": "https://www.amazon.com.mx/dp/B0H1J2BR37",
-        "price": 353.61,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI REDMI Note 15 Celular 8G RAM+256G ROM Negro Cámara de 108 MP | Batería 6000 mAh, Cámara 108 MP, Pantalla AMOLED FHD+ 6,77'', MediaTek Helio G100-Ultra, Resistencia IP64",
-        "url": "https://www.amazon.com.mx/dp/B0G8D3P12C",
-        "price": 4688.0,
-        "model": "G100-Ultra"
-      },
-      {
-        "store": "amazon",
-        "name": "Reemplazo de pantalla AMOLED LCD para Xiaomi Redmi K50 Ultra / 12T / 12T Pro digitalizador completo con reparación de marco",
-        "url": "https://www.amazon.com.mx/dp/B0H4F2GZRN",
-        "price": 2029.19,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI REDMI Note 15 Celular 8G RAM+256G ROM Morado Cámara de 108 MP | Batería 6000 mAh, Cámara 108 MP, Pantalla AMOLED FHD+ 6,77\", MediaTek Helio G100-Ultra, Resistencia IP64",
-        "url": "https://www.amazon.com.mx/dp/B0G7YW2BM9",
-        "price": 5399.0,
-        "model": "G100-Ultra"
-      },
-      {
-        "store": "amazon",
-        "name": "Kit del teléfono Celular Material AMOLED Pantalla LCD y digitalizador Conjunto Completo para Xiaomi Redmi K30 Ultra M2006J10C Pantalla Conjunto Global",
-        "url": "https://www.amazon.com.mx/dp/B08Y5LXR71",
-        "price": 6071.92,
-        "model": "M2006J10C"
-      },
-      {
-        "store": "amazon",
-        "name": "Kit del teléfono Celular Material Original AMOLED Pantalla LCD y digitalizador Asamblea Completa for Xiaomi MI 10 Lite 5G / 5G redmi 10X Pro/redmi 10X 5G Pantalla Conjunto Global",
-        "url": "https://www.amazon.com.mx/dp/B08HL5MMTV",
-        "price": 5957.41,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMICRYSTALRESAMOLEDXIAOMIREDMI": {
-    "ts": "2026-08-16T23:51:34.247735+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro Plus 5G 8GB RAM 256GB Sand Gold | Cámara 200 MP | Pantalla AMOLED | Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-plus-5g-8gb-ram-256gb-sand-gold-camara-200-mp-pantalla-amoled-desbloqueado/00693255444664?athbdg=L6000",
-        "price": 7799.0,
-        "model": "256GB"
-      }
-    ]
-  },
-  "sams|XIAOMICRYSTALRESAMOLEDXIAOMIREDMI": {
-    "ts": "2026-08-16T23:51:35.273108+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGREFRIGERADORPANELDOORONE": {
     "ts": "2026-08-17T02:14:47.070051+00:00",
     "items": [
@@ -43144,6 +43039,153 @@
   },
   "sams|SAMSUNGSAMSUNGGALAXYA07LCD": {
     "ts": "2026-08-18T23:38:54.350156+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-08-18T23:54:53.378237+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro para Cafetera, 8-12 Taza Cápsulas Filtro de Café Acero Inoxidable, Reutilizable Cápsulas Filtro Cafetera, Apto Para Cafeteras y Cerveceros",
+        "url": "https://www.amazon.com.mx/dp/B0FXGNS5S5",
+        "price": 199.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NEOUZA Estación de Apisonado 51mm 7 en 1 para De'Longhi CASABREWS | Altura Ajustable, Madera Sapeli, Panel Acero Inoxidable, Patas Antideslizantes, Base Antirrayaduras, Home Barista",
+        "url": "https://www.amazon.com.mx/dp/B0G86SF2D4",
+        "price": 1378.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Agatige Cesta De Filtro Portátil De 51 Mm, 1 Taza Canasta De Filtro Presurizado De Doble Capa De Acero Inoxidable Reutilizable Filtro De Café Accesorios De Cafetera De Espresso (Single Cup)",
+        "url": "https://www.amazon.com.mx/dp/B08TW6G8YM",
+        "price": 119.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
+        "price": 2983.17,
+        "model": "BVSTEM6604SS"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-08-18T23:54:56.637765+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Espresso y Capuchino Chefman Panel Touch Acero Inoxidable 1.8 Litros RJ54-I-SV-MX",
+        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-y-capuchino-chefman-panel-touch-acero-inoxidable-1-8-litros-rj54-i-sv-mx/00081008784646",
+        "price": 2599.0,
+        "model": "RJ54-I-SV-MX"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 4253.48,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELACEROTOUCH": {
+    "ts": "2026-08-18T23:54:57.547596+00:00",
     "items": []
   }
 }
