@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 11:16 UTC",
-  "products_scanned": 1676,
+  "generated_at": "2026-08-18 11:43 UTC",
+  "products_scanned": 1610,
   "threshold_pct": 20.0,
   "count": 35,
   "findings": [
@@ -469,6 +469,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 2989.77,
@@ -610,27 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
         "outlet": false
       }
     },
