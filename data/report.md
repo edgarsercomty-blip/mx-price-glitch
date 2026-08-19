@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-19 08:55 UTC
+# Errores/chollos de precio — 2026-08-19 09:26 UTC
 
-- Productos revisados: **1611**
+- Productos revisados: **1610**
 - Umbral de diferencia: **20%**
 - Hallazgos: **37**
 
@@ -13,6 +13,7 @@
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
 | -30% | $5,865 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | Confirmado vs competencia | $13,684 en palacio vs mercado -> -30% bajo la competencia |
+| -20% | $5,000 | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | Confirmado vs competencia | $19,999 en palacio vs mercado -> -20% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
@@ -32,7 +33,6 @@
 | -30% | $1,263 | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | Confirmado vs competencia | $2,946 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
-| -30% | $907 | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $2,124 | Confirmado vs competencia | $2,124 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $900 | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | Confirmado vs competencia | $3,499 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |

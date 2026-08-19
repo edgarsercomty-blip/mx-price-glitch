@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19 08:55 UTC",
-  "products_scanned": 1611,
+  "generated_at": "2026-08-19 09:26 UTC",
+  "products_scanned": 1610,
   "threshold_pct": 20.0,
   "count": 37,
   "findings": [
@@ -128,27 +128,6 @@
       "extra": {
         "id": "44353770",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.2,
-      "detail": "$2,124 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 906.85,
-      "store": "liverpool",
-      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462",
-      "price": 2124.15,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200691462",
-        "marketplace": null
       }
     },
     {
@@ -758,6 +737,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4999.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
+      "price": 19999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110959",
+        "outlet": false
       }
     },
     {
