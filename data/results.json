@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 19:55 UTC",
-  "products_scanned": 1658,
+  "generated_at": "2026-08-19 20:17 UTC",
+  "products_scanned": 1656,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -322,7 +322,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs walmart $3,919, walmart $4,169 -> -25% bajo la competencia",
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 898.0,
       "store": "palacio",
@@ -720,6 +720,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 89.9,
+      "store": "palacio",
+      "name": "Funda Bumper para celular iPhone Air, Canela",
+      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
+      "price": 359.6,
+      "list_price": 899.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45003623",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -736,6 +757,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196432023",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 5.0,
+      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.65,
+      "store": "liverpool",
+      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
+      "price": 12799.35,
+      "list_price": 13473.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173032684",
         "marketplace": null
       }
     },
