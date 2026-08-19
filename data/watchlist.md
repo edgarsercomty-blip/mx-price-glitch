@@ -1,4 +1,4 @@
-# Productos en vigilancia (722)
+# Productos en vigilancia (723)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -525,7 +525,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | -40% |
 | 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | -25% |
 | 🟢 disponible | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | -27% |
-| 🟢 disponible | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | -32% |
+| 🟢 disponible | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel Core…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $29,049 | -32% |
 | 🟢 disponible | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | -31% |
 | 🟢 disponible | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | -30% |
 | 🟢 disponible | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | -23% |
@@ -726,3 +726,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 256 Gb 8 Gb Color …](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-256-gb-8-gb-color-negro/p/MLM54068750) | $2,921 | -26% |
 | 🟢 disponible | walmart | [Licuadora T-fal InfinyForce XL 12 Velocidades Rojo LN8225MX](https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-12-velocidades-rojo-ln8225mx/00770207308225?athbdg=L1300) | $699 | -25% |
 | 🟢 disponible | mercadolibre | [Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM](https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984) | $4,526 | -22% |
+| 🟢 disponible | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | -25% |

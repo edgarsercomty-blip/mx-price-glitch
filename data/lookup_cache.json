@@ -6133,8 +6133,15 @@
     "items": []
   },
   "amazon|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-17T07:17:37.306865+00:00",
+    "ts": "2026-08-19T07:31:07.572823+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DXKW79Y1",
+        "price": 35399.41,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Rojo",
@@ -6144,45 +6151,10 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DXKW79Y1",
-        "price": 45999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Dorado",
-        "url": "https://www.amazon.com.mx/dp/B0FNX52WTR",
-        "price": 11990.0,
+        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FNX81ZQH",
+        "price": 9999.0,
         "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro MAX 12+512GB | Pantalla LTPO OLED 6.9\" 1-120Hz, Cámara 200MP Teleobjetivo + 50MP Principal, Batería 6000 mAh, 100W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XS2GKN",
-        "price": 22999.0,
-        "model": "12+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
-        "price": 15999.0,
-        "model": "12+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XT1587",
-        "price": 15999.0,
-        "model": "12+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XS5VNF",
-        "price": 15999.0,
-        "model": "12+256GB"
       },
       {
         "store": "amazon",
@@ -6193,43 +6165,71 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XK4P8D",
-        "price": 18999.0,
-        "model": "12+512GB"
+        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FNX55ZBV",
+        "price": 11990.0,
+        "model": "12+256G"
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XLBB48",
-        "price": 15999.0,
-        "model": "12+256GB"
+        "name": "HUAWEI Pura 80 Pro Smartphone 12GB+512GB, Cámara Ultra Chroma de 1 Pulgada, Cámara Macro Telefoto de Ultra Iluminación, Cancelación de Ruido con IA, Batería 5170 mAh y Supercharge Dual, Celular Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FDKNBCQ8",
+        "price": 20998.0,
+        "model": "12GB+512GB"
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro MAX 12+512GB | Pantalla LTPO OLED 6.9\" 1-120Hz, Cámara 200MP Teleobjetivo + 50MP Principal, Batería 6000 mAh, 100W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XK25HL",
-        "price": 22999.0,
-        "model": "12+512GB"
+        "name": "HUAWEI Mate X7 Celular 16+512GB, Pantalla Plegable LTPO de 8\" y 120Hz, Ultra Delgado y Durable, Kunlun Glass, Batería de Doble celda (1850 mAh + 3750 mAh), Rojo",
+        "url": "https://www.amazon.com.mx/dp/B0G75TNMQ4",
+        "price": 29399.4,
+        "model": "16+512GB"
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
-        "price": 7999.0,
+        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
+        "price": 9999.0,
+        "model": "12G+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Mate X6, 12+512G, Smartphone Plegable, Ultra Fino y Duradero, Cámara Ultra Chroma, 2ª Cristal Kunlun Glass, Doble Pantalla X-True™ y la Multitarea innovadora, Celular Rojo+Regalo GT 4",
+        "url": "https://www.amazon.com.mx/dp/B0DNRB7TRW",
+        "price": 41644.79,
         "model": "12+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch Ultimate Smartwatch Edición Golf, Metal Líquido con Base de Circonio, Resistencia al Agua a 100 Metros, 2 Semanas de Batería, GPS, Llamadas Bluetooth, Compatible con iOS & Android, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0DDL8F562",
+        "price": 13912.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Mate 80 Pro Celular 16+512G, Pantalla LTPO OLED Plana de 6,75\", 120 Hz 3000 nits, Cámara True-to-Colour, Kunlun Glass, Batería de 5750 mAh y Supercharge de 100W, Dorado",
+        "url": "https://www.amazon.com.mx/dp/B0GVRS6RB2",
+        "price": 21999.0,
+        "model": "16+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Mate X3 Negro, 12+512, Dual SIM, Diseño Plegable Quad-Curve, Delgado y Ligero, Vidrio Durable Kunlun Glass, Cámara Ultra Vision XMAGE con Zoom 5X óptico",
+        "url": "https://www.amazon.com.mx/dp/B0CK29L411",
+        "price": 35999.0,
+        "model": null
       }
     ]
   },
   "walmart|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-17T07:17:40.998226+00:00",
+    "ts": "2026-08-19T07:31:11.807854+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 16999.0,
-        "model": "256GB"
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
+        "model": "128GB"
       },
       {
         "store": "walmart",
@@ -6247,31 +6247,17 @@
       },
       {
         "store": "walmart",
-        "name": "Teléfono celular con botón grande, teléfono celular para personas mayores desbloqueado Teléfono móvil con botón grande G Teléfono celular retro elaborado por expertos",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-con-boton-grande-telefono-celular-para-personas-mayores-desbloqueado-telefono-movil-con-boton-grande-g-telefono-celular-retro-elaborado-por-expertos/00645237346184?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 Negro 6GB 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-negro-6gb-128gb-desbloqueado/00693255444505",
-        "price": 4399.0,
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "price": 11499.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Nubia Music Multicolor 128 GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-nubia-music-multicolor-128-gb-desbloqueado/00690217611567?athbdg=L6000",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S25 Ultra 12GB RAM 512GB ROM Azul Titanio Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-12gb-ram-512gb-rom-azul-titanio-desbloqueado/00880609588236?athbdg=L1300",
-        "price": 30605.0,
-        "model": "512GB"
+        "name": "Celular Honor X7d 256GB 8GB RAM Plata Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/celular-honor-x7d-256gb-8gb-ram-plata-desbloqueado/00693652087753",
+        "price": 4599.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
@@ -6282,6 +6268,34 @@
       },
       {
         "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Teléfono celular con botón grande, teléfono celular para personas mayores desbloqueado Teléfono móvil con botón grande G Teléfono celular retro elaborado por expertos",
+        "url": "https://www.walmart.com.mx/ip/telefono-celular-con-boton-grande-telefono-celular-para-personas-mayores-desbloqueado-telefono-movil-con-boton-grande-g-telefono-celular-retro-elaborado-por-expertos/00645237346184?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 Negro 6GB 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-negro-6gb-128gb-desbloqueado/00693255444505?athbdg=L1300",
+        "price": 4399.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Oppo Reno14 F 5G AI PHONE 12gb Ram 256gb Rom Ultra-thin Dual-drive Ai Cooling System Pantalla 6.57 120hz 6000mah Carga De 45w Ip69 Nfc Azul",
+        "url": "https://www.walmart.com.mx/ip/celular-oppo-reno14-f-5g-ai-phone-12gb-ram-256gb-rom-ultra-thin-dual-drive-ai-cooling-system-pantalla-6-57-120hz-6000mah-carga-de-45w-ip69-nfc-azul/00693216937691",
+        "price": 7499.0,
+        "model": "6000mah"
+      },
+      {
+        "store": "walmart",
         "name": "Smartphone Xiaomi Redmi Go 1 16GB Desbloqueado Azul",
         "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-go-1-16gb-desbloqueado-azul/00694105962367",
         "price": 1826.0,
@@ -6289,194 +6303,89 @@
       },
       {
         "store": "walmart",
-        "name": "Celular Soho | Dual Sim | Desbloqueado | 16gb | Android | Con Funda",
-        "url": "https://www.walmart.com.mx/ip/celular-soho-dual-sim-desbloqueado-16gb-android-con-funda/00884378713190",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Hisense E50 Lite 32 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-hisense-e50-lite-32-gb-verde-desbloqueado/00694178571930",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Honor Magic 7 LITE 8+512 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-honor-magic-7-lite-8-512-gb-verde-desbloqueado/00750665821135?athbdg=L1300",
-        "price": 5559.0,
-        "model": null
+        "name": "Celular Honor X8d Desbloqueado 256GB 8GB ram Azul",
+        "url": "https://www.walmart.com.mx/ip/celular-honor-x8d-desbloqueado-256gb-8gb-ram-azul/00693652088725?athbdg=L1300",
+        "price": 6294.0,
+        "model": "256GB"
       }
     ]
   },
   "sams|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-17T07:17:41.896027+00:00",
-    "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
-    "ts": "2026-08-17T07:17:45.472548+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0DNLLZDPG",
-        "price": 5999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0DNKPS4NK",
-        "price": 5999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
-        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
-        "price": 2368.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
-        "price": 7599.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
-        "price": 7999.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
-        "price": 9999.0,
-        "model": "12G+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "Celular Realme C85 | 8 GB RAM + 256 GB | Dual SIM | Snapdragon 685 | Batería 7000mAh | Carga Rápida 45W | Pantalla 6.8\" 144Hz | Cámara 50 MP | IP69 | Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H1JVPRZ1",
-        "price": 3719.0,
-        "model": "7000mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
-        "price": 9999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI REDMI Note 15 Celular 8G RAM+256G ROM Negro Cámara de 108 MP | Batería 6000 mAh, Cámara 108 MP, Pantalla AMOLED FHD+ 6,77'', MediaTek Helio G100-Ultra, Resistencia IP64",
-        "url": "https://www.amazon.com.mx/dp/B0G8D3P12C",
-        "price": 4684.0,
-        "model": "G100-Ultra"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Celular Poco M8s 5G Versión Global, Snapdragon 6S Gen 3, Batería 7000mAh(typ), Pantalla 6.9'' FHD, Cámara 50MP, Carga Rápida 33W (Negro, 256, GB, GB, 8)",
-        "url": "https://www.amazon.com.mx/dp/B0GYD98554",
-        "price": 4440.0,
-        "model": "7000mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 14 Pro Smartphone 12G+512G, Cámara Selfie Dual Ultra Retrato de 50 MP, Gestos en el Aire con IA, Batería de 5500 mAh, Supercharge, Pantalla Flawless Quad-Curved de 6.78\", Celular Negro",
-        "url": "https://www.amazon.com.mx/dp/B0G75QYMW5",
-        "price": 9499.0,
-        "model": "12G+512G"
-      }
-    ]
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
-    "ts": "2026-08-17T07:17:48.194878+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-12GB-RAM-256GB-ROM-Negro-Onix-Desbloqueado/00880609533830",
-        "price": 16999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Y5P-32GB-Dual-Sim-2GB-Ram-Huawei-Verde-Esmeralda-Desbloqueado/00690144339895",
-        "price": 1639.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
-    "ts": "2026-08-17T07:17:48.959280+00:00",
+    "ts": "2026-08-19T07:31:12.212610+00:00",
     "items": []
   },
   "amazon|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-17T07:17:53.019026+00:00",
+    "ts": "2026-08-19T07:31:19.536458+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Oster Licuadora Profesional Titan 2200 W, Vaso de Vidrio 2.5 L (máx 2 L) | 4 Programas: Salsa, Recetas Calientes, Smoothie y Malteada, Tecnología Reversible, Vaso Portátil, Fácil Limpieza, BLSTXT-XG",
         "url": "https://www.amazon.com.mx/dp/B0G45GJK5V",
-        "price": 4199.0,
+        "price": 4169.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "ULTRACHEF Licuadora Profesional 2000W de Alto Rendimiento, Vaso de Tritán 1.8L Libre de BPA, Trituradora de Hielo para Frappés y Smoothies, Velocidad Ajustable",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500 W, Vaso de Vidrio 2 L, iBlend | Tecnología Reversible, 3 Programas Automáticos: Smoothie, Triturar, Procesar, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
+        "price": 2071.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ULTRACHEF Licuadora Profesional 2000W, Vaso Tritán Resistente 1.8L | Trituradora de Hielo | Ideal para Smoothies, Jugos y Salsas, Velocidad Ajustable + Pulso, Libre de BPA, Negro",
         "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
         "price": 2899.0,
         "model": "2000W"
       },
       {
         "store": "amazon",
-        "name": "Licuadora Taurus Haley 500W | Vaso 1.65L Máx / 1.25L Útil | 4 Velocidades + Pulso | Sistema Easy Fit | Cuchillas de Acero Inoxidable | Compacta, Segura y Práctica para Smoothies y Salsas",
-        "url": "https://www.amazon.com.mx/dp/B078MRW92D",
-        "price": 377.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora portátil, mini licuadoras de tamaño personal, compactas de 1,2 l, cuchillas de acero inoxidable de alta velocidad, diseño dual, ideal para viajeros, atletas y",
-        "url": "https://www.amazon.com.mx/dp/B0DHQT2F66",
-        "price": 685.66,
-        "model": null
+        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
+        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
+        "price": 1699.0,
+        "model": "9500W"
       },
       {
         "store": "amazon",
         "name": "Oster Licuadora Profesional Titan 2200 W, Vaso de Vidrio 2.5 L (máx 2 L) | 4 Programas: Salsa, Recetas Calientes, Smoothie y Malteada, Tecnología Reversible, Vaso Portátil, Fácil Limpieza, BLSTXT-XG",
         "url": "https://www.amazon.com.mx/dp/B0G45GJK5V",
-        "price": 4199.0,
+        "price": 4169.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1489.0,
+        "model": "BLST4127"
       },
       {
         "store": "amazon",
         "name": "Oster Titan Licuadora de rendimiento",
         "url": "https://www.amazon.com.mx/dp/B0GP33J4M4",
-        "price": 6795.99,
+        "price": 5534.14,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
+        "name": "Oster Licuadora Clásica 1000 W con Vaso de Vidrio 1.25 L y 3 Velocidades | Prepara recetas frías y calientes, cuchilla trituradora de hielo, perilla ergonómica y acople metálico, BLST4128-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5LXDZZ",
+        "price": 1278.0,
+        "model": "BLST4128-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
+        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
+        "price": 1290.0,
+        "model": "BLST4126013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Clásica 1000 W con Vaso de Vidrio de 1.25 L, 3 velocidades | 3 Velocidades para preparar sopas, bebidas y tritura hielo, acople metálico, perilla, roja, BLST4126R",
+        "url": "https://www.amazon.com.mx/dp/B08V5KWPQG",
+        "price": 1290.0,
+        "model": "BLST4126R"
       },
       {
         "store": "amazon",
@@ -6491,66 +6400,52 @@
         "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
         "price": 2590.0,
         "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora 800 W con Vaso de Vidrio de 1.5 L, 6 Velocidades + Pulso | Prepara bebidas, sopas, tritura hielo y muele granos, cuchilla de acero quirúrgico y acople metálico, botones, BLSTPEG-NPB",
-        "url": "https://www.amazon.com.mx/dp/B0BZX357SQ",
-        "price": 1031.4,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 825.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1425.0,
-        "model": "BLST4127"
       }
     ]
   },
   "walmart|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-17T07:18:10.378144+00:00",
+    "ts": "2026-08-19T07:31:25.690714+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Licuadora de Alimentos Oster Titan Jarra de Vidrio 2.5L 2200W 5 Velocidades",
-        "url": "https://www.walmart.com.mx/ip/licuadora-de-alimentos-oster-titan-jarra-de-vidrio-2-5l-2200w-5-velocidades/00005389117942?athbdg=L1300",
-        "price": 9859.0,
-        "model": "2200W"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
-        "price": 719.0,
+        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
+        "price": 774.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500",
-        "price": 3242.9,
+        "name": "Licuadora Oster 2 Velocidades 1.25L 800 W Perilla Color Roja",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-2-velocidades-1-25l-800-w-perilla-color-roja/00005389113840?athbdg=L1300",
+        "price": 598.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 Litros 3 Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-litros-3-velocidades/00005389114020?athbdg=L1300",
+        "price": 1290.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster Pro 1200 con 7 Velocidades, 3 Programas Automáticos, Vaso BlendNGo, Plata",
         "url": "https://www.walmart.com.mx/ip/licuadora-oster-pro-1200-con-7-velocidades-3-programas-automaticos-vaso-blendngo-plata/00003426447918?athbdg=L1300",
-        "price": 5336.0,
+        "price": 5232.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster Xpert Series 9 Programas y 4 Velocidades 8 Tazas 1500 W Color Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-9-programas-y-4-velocidades-8-tazas-1500-w-color-gris/00005389114546?athbdg=L1300",
-        "price": 1939.0,
+        "name": "Licuadora Oster Tecnología reversible 2 programas automáticos 3 velocidades más pulso",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-tecnologia-reversible-2-programas-automaticos-3-velocidades-mas-pulso/00005389116851?athbdg=L1300",
+        "price": 1390.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Clásica con Perilla Ergonómica de Tres Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-con-perilla-ergonomica-de-tres-velocidades/00005389114029",
+        "price": 1699.0,
         "model": null
       },
       {
@@ -6562,54 +6457,47 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 2 Velocidades 1.25L 800 W Perilla Color Roja",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-2-velocidades-1-25l-800-w-perilla-color-roja/00005389113840?athbdg=L1300",
-        "price": 598.0,
+        "name": "Licuadora Oster 10 Velocidades Blanco",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
+        "price": 749.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad Silver",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
-        "price": 1190.0,
+        "name": "Licuadora Oster Vaso de Vidrio y 6 Velocidades más Pulso Roja",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-vaso-de-vidrio-y-6-velocidades-mas-pulso-roja/00005389116845?athbdg=L1300",
+        "price": 949.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora 2 velocidades Oster  Licuadora 2 Velocidades Oster V/Vidrio Blanco BLSTKAG-WRD-013",
-        "url": "https://www.walmart.com.mx/ip/licuadora-2-velocidades-oster-licuadora-2-velocidades-oster-v-vidrio-blanco-blstkag-wrd-013/00005389113837",
-        "price": 682.0,
-        "model": "BLSTKAG-WRD-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 2 Velocidades 1.25L 800 W Perilla Color Blanca",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-2-velocidades-1-25l-800-w-perilla-color-blanca/00005389113841?athbdg=L1300",
-        "price": 879.0,
+        "name": "Licuadora Oster Clásica con Perilla Ergonómica 3 Velocidades Rosa Cobre",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-con-perilla-ergonomica-3-velocidades-rosa-cobre/00005389114050?athbdg=L1600",
+        "price": 1278.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 700 W, 5 velocidades, color negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-700-w-5-velocidades-color-negro/00005389115507",
-        "price": 1329.0,
+        "name": "Licuadora Oster con Vaso de Vidrio y 6 velocidades más pulso Roja",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-roja/00005389116842?athbdg=L1510",
+        "price": 774.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 6 Velocidades con Pulso Vaso de Vidrio 800 W Mod. BLSTPEG-NPB Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-de-vidrio-800-w-mod-blstpeg-npb-plata/00005389116847",
-        "price": 1738.9,
+        "name": "Licuadora Oster con Vaso de Plástico 2 Velocidades Azul",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-plastico-2-velocidades-azul/00005389117503?athbdg=L1300",
+        "price": 630.0,
         "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-17T07:18:11.604290+00:00",
+    "ts": "2026-08-19T07:31:26.365311+00:00",
     "items": []
   },
   "amazon|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-17T07:18:16.481573+00:00",
+    "ts": "2026-08-19T07:31:28.611454+00:00",
     "items": [
       {
         "store": "amazon",
@@ -6634,23 +6522,9 @@
       },
       {
         "store": "amazon",
-        "name": "6 Piezas Repuesto de Licuadora para Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
-        "url": "https://www.amazon.com.mx/dp/B0H155GJ2W",
-        "price": 468.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "2 Juegos Aspas Licuadora Pro 1200 Xpert, 6 Zletas Blender Blade Piezas de Repuesto Compatibles New Master Series, Con Base de Cuchilla y Anillo de Goma",
         "url": "https://www.amazon.com.mx/dp/B0D476JWMW",
         "price": 498.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "H + R Vaso Vidrio Compatible Oster Modelo Tecnología Reversible y Xpert Con Tapa",
-        "url": "https://www.amazon.com.mx/dp/B0D1Z67QMT",
-        "price": 380.0,
         "model": null
       },
       {
@@ -6662,6 +6536,41 @@
       },
       {
         "store": "amazon",
+        "name": "6 Piezas Repuesto de Licuadora para, Cuchillas para Licuadoras Pro 1200 Xpert Series, Aspas Licuadora para con la Nueva Serie Master, con 3 Cuchillas Licuadora, 3 Anillos de Goma.",
+        "url": "https://www.amazon.com.mx/dp/B0G447MLRY",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1489.0,
+        "model": "BLST4127"
+      },
+      {
+        "store": "amazon",
+        "name": "6 Piezas Repuesto de Licuadora para Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
+        "url": "https://www.amazon.com.mx/dp/B0H155GJ2W",
+        "price": 468.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "H+R Vaso de vidrio 2 litros compatible Oster Xpert Series (Boroclass)",
+        "url": "https://www.amazon.com.mx/dp/B0CV8NTTWP",
+        "price": 1280.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500 W, Vaso de Vidrio 2 L, iBlend | Tecnología Reversible, 3 Programas Automáticos: Smoothie, Triturar, Procesar, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
+        "price": 2071.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Repuesto Vaso de Vidrio de 2 litros (Boroclass) para licuadora Oster Xpert Series Original",
         "url": "https://www.amazon.com.mx/dp/B08VFF73BK",
         "price": 1380.0,
@@ -6669,43 +6578,22 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 825.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1425.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1827.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "6 Piezas Repuesto de Licuadora para, Cuchillas para Licuadoras Pro 1200 Xpert Series, Aspas Licuadora para con la Nueva Serie Master, con 3 Cuchillas Licuadora, 3 Anillos de Goma.",
-        "url": "https://www.amazon.com.mx/dp/B0G447MLRY",
-        "price": 458.0,
+        "name": "3 Piezas Repuesto Aspas Licuadora Oster, 6 Cuchillas Zletas | Compatible con Licuadora Oster Accesorios y Repuestos Pro 1200 Baseand 4.25 in de New Master Series",
+        "url": "https://www.amazon.com.mx/dp/B0FRS8Y81V",
+        "price": 369.0,
         "model": null
       }
     ]
   },
   "walmart|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-17T07:18:33.241870+00:00",
+    "ts": "2026-08-19T07:31:32.025100+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
+        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
+        "price": 3049.0,
+        "model": "10-En-1"
       },
       {
         "store": "walmart",
@@ -6723,10 +6611,17 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3049.0,
-        "model": "10-En-1"
+        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
+        "price": 669.0,
+        "model": "EW-H801"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Oster Control de Textura Xpert Series y Vaso de Vidrio, Niquelada",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-control-de-textura-xpert-series-y-vaso-de-vidrio-niquelada/00005389114303?athbdg=L1300",
+        "price": 6551.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -6737,38 +6632,31 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster Control de Textura Xpert Series y Vaso de Vidrio, Niquelada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-control-de-textura-xpert-series-y-vaso-de-vidrio-niquelada/00005389114303",
-        "price": 6419.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Profesional Brandless de 9 Velocidades con Motor de 2 HP sin BPA de 64 onzas Original Sell",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-brandless-de-9-velocidades-con-motor-de-2-hp-sin-bpa-de-64-onzas-original-sell/00081797402792",
-        "price": 1307.0,
+        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148410",
+        "price": 479.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
         "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
-        "price": 2104.0,
+        "price": 2071.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500",
-        "price": 3242.9,
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
+        "price": 2190.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
-        "price": 669.0,
-        "model": "EW-H801"
+        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
+        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
+        "price": 2599.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -6779,48 +6667,20 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148410",
-        "price": 479.0,
+        "name": "Repuesto Vaso de Vidrio de 2 litros (Boroclass) para licuadora Oster Xpert Series Original",
+        "url": "https://www.walmart.com.mx/ip/repuesto-vaso-de-vidrio-de-2-litros-boroclass-para-licuadora-oster-xpert-series-original/00003426447728",
+        "price": 2087.9,
         "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-17T07:18:34.594419+00:00",
+    "ts": "2026-08-19T07:31:32.592620+00:00",
     "items": []
   },
   "amazon|BLST4125": {
-    "ts": "2026-08-17T07:18:37.102031+00:00",
+    "ts": "2026-08-19T07:31:35.016960+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Cookify Licuadora Profesional de Alto Poder, Trituración Total Uso Rudo, Vaso 2 Lts. (PB004)",
-        "url": "https://www.amazon.com.mx/dp/B0DFFB7NH1",
-        "price": 1439.2,
-        "model": "PB004"
-      },
-      {
-        "store": "amazon",
-        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
-        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
-        "price": 1699.0,
-        "model": "9500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Taurus Haley 500W | Vaso 1.65L Máx / 1.25L Útil | 4 Velocidades + Pulso | Sistema Easy Fit | Cuchillas de Acero Inoxidable | Compacta, Segura y Práctica para Smoothies y Salsas",
-        "url": "https://www.amazon.com.mx/dp/B078MRW92D",
-        "price": 377.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Greenote Licuadora Profesional 1800w, Vaso 2 L Sin Bpa, 6 Cuchillas De Acero Inoxidable 304, Control De Velocidad Variable Y Pulso, Tritura Hielo, Frutas Y Nueces, Apta Para Lavavajillas, Rojo",
-        "url": "https://www.amazon.com.mx/dp/B0GD6MFNF7",
-        "price": 851.44,
-        "model": "1800w"
-      },
       {
         "store": "amazon",
         "name": "Oster® Licuadora Clásica, con Interruptor de Palanca, y Vaso de Vidrio, Acero Inoxidable",
@@ -6831,543 +6691,11 @@
     ]
   },
   "walmart|BLST4125": {
-    "ts": "2026-08-17T07:18:43.433127+00:00",
+    "ts": "2026-08-19T07:31:37.155930+00:00",
     "items": []
   },
   "sams|BLST4125": {
-    "ts": "2026-08-17T07:18:44.438691+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASGOTEOPANEL": {
-    "ts": "2026-08-17T07:18:47.484736+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1759.0,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Genérico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripción.",
-        "url": "https://www.amazon.com.mx/dp/B0FMBLSGSJ",
-        "price": 365.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
-        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
-        "price": 670.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
-        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATAZASGOTEOPANEL": {
-    "ts": "2026-08-17T07:18:50.807340+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
-        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
-        "price": 635.0,
-        "model": "BVST/DC05-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Bonavita Enthusiast - Cafetera de goteo de 8 tazas, con jarra térmica, panel de acero inoxidable, de",
-        "url": "https://www.walmart.com.mx/ip/bonavita-enthusiast-cafetera-de-goteo-de-8-tazas-con-jarra-termica-panel-de-acero-inoxidable-de/00081006050079?athbdg=L1300",
-        "price": 6279.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATAZASGOTEOPANEL": {
-    "ts": "2026-08-17T07:18:51.955349+00:00",
-    "items": []
-  },
-  "amazon|TORYBURCHINOXIDABLESILICONCORREAWATCH": {
-    "ts": "2026-08-17T07:18:55.047186+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0118)",
-        "url": "https://www.amazon.com.mx/dp/B0DYF865RM",
-        "price": 2836.68,
-        "model": "TBS0118"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5X3C4S",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5RTB7W",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa de Metal Compatible con Apple Watch | Correa Acero Inoxidable Para iWatch Ultra 3/2 SE 3/2 Series 11 10 9 8 7 6 5 4 ,Elegante con Acabado Bicolor Pulido y Mate",
-        "url": "https://www.amazon.com.mx/dp/B0F7WW484C",
-        "price": 299.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0117)",
-        "url": "https://www.amazon.com.mx/dp/B0DYFCW4DR",
-        "price": 3280.08,
-        "model": "TBS0117"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa de piel café para Apple Watch® (Modelo: TBS0092)",
-        "url": "https://www.amazon.com.mx/dp/B0D9LDK2H5",
-        "price": 4074.15,
-        "model": "TBS0092"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa de piel para Apple Watch® (Modelo: TBS0107E)",
-        "url": "https://www.amazon.com.mx/dp/B0DJ1K5S6Y",
-        "price": 2508.43,
-        "model": "TBS0107E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5WVP44",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa para Apple Watch para mujer (Modelo: TBS0133E)",
-        "url": "https://www.amazon.com.mx/dp/B0GFXZT3LH",
-        "price": 4736.75,
-        "model": "TBS0133E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa de acero inoxidable para Apple Watch® (Modelo: TBS0127E)",
-        "url": "https://www.amazon.com.mx/dp/B0FFTQRST2",
-        "price": 6191.67,
-        "model": "TBS0127E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa Kira para Apple Watch®, piel (modelo: TBS0109E), Blanco, Una talla, The Kira",
-        "url": "https://www.amazon.com.mx/dp/B0F7ZY4TSM",
-        "price": 4074.15,
-        "model": "TBS0109E"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURI Correa Silicona con Rodillos Innovadores Conector Metálico de Acero Inoxidable Compatible con Apple Watch Ultra 3/2/1 49mm, iWatch Series 11/10/9/8/7/6/SE/5/4 46mm/45mm/44mm - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0D99QSYVP",
-        "price": 430.32,
-        "model": "11/10/9/8/7/6/SE/5/4"
-      }
-    ]
-  },
-  "walmart|TORYBURCHINOXIDABLESILICONCORREAWATCH": {
-    "ts": "2026-08-17T07:18:58.710015+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Set de 4 postes de acero inoxidable con cuerdas de terciopelo rojo y alfombra de 8 m - Barrera decorativa para entradas y jardines - Base hueca ideal para exteriores - Paquete de 4 unidades",
-        "url": "https://www.walmart.com.mx/ip/set-de-4-postes-de-acero-inoxidable-con-cuerdas-de-terciopelo-rojo-y-alfombra-de-8-m-barrera-decorativa-para-entradas-y-jardines-base-hueca-ideal-para-exteriores-paquete-de-4-unidades/00088162832778",
-        "price": 2143.05,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible De Silicona Unisex Sport Ultra  M / L  42 / 44 / 45 / 49 mm Para Apple Watch Serie Se 2 3 4 5 6 7 8 ",
-        "url": "https://www.walmart.com.mx/ip/correa-extensible-de-silicona-unisex-sport-ultra-m-l-42-44-45-49-mm-para-apple-watch-serie-se-2-3-4-5-6-7-8-/00750304457299",
-        "price": 103.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible De Silicona Unisex Sport Ultra  M / L  42 / 44 / 45 / 49 mm Para Apple Watch Serie Se 2 3 4 5 6 7 8 ",
-        "url": "https://www.walmart.com.mx/ip/correa-extensible-de-silicona-unisex-sport-ultra-m-l-42-44-45-49-mm-para-apple-watch-serie-se-2-3-4-5-6-7-8-/00750304457297",
-        "price": 103.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Silicono + Case Unisex M /L 42 / 44 / 45 mm Para Apple Watch Sport Camuflaje Army Compatible Con Series 8 / 7 /6 / 5 / 4 / 3 / 2 / SE",
-        "url": "https://www.walmart.com.mx/ip/correa-de-silicono-case-unisex-m-l-42-44-45-mm-para-apple-watch-sport-camuflaje-army-compatible-con-series-8-7-6-5-4-3-2-se/00750304449906",
-        "price": 294.45,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Silicono + Case Unisex M /L 42 / 44 / 45 mm Para Apple Watch Sport Camuflaje Army Compatible Con Series 8 / 7 /6 / 5 / 4 / 3 / 2 / SE",
-        "url": "https://www.walmart.com.mx/ip/correa-de-silicono-case-unisex-m-l-42-44-45-mm-para-apple-watch-sport-camuflaje-army-compatible-con-series-8-7-6-5-4-3-2-se/00750304449912",
-        "price": 294.45,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Watch Nine West para mujer de piel sintética azul claro",
-        "url": "https://www.walmart.com.mx/ip/correa-watch-nine-west-para-mujer-de-piel-sintetica-azul-claro/00008670269379?athbdg=L1300",
-        "price": 1449.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa de acero inoxidable compatible con Samsung Galaxy Watch 8 Classic, 40 mm, 44 mm, 46 mm, GOLDTOLUCK",
-        "url": "https://www.walmart.com.mx/ip/correa-de-acero-inoxidable-compatible-con-samsung-galaxy-watch-8-classic-40-mm-44-mm-46-mm-goldtoluck/00046099360878?athbdg=L1300",
-        "price": 609.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "IDEANATEGRATE 1Ud Femenino De Con Correa De Inoxidable Y Sofisticado Rosa Dorado",
-        "url": "https://www.walmart.com.mx/ip/ideanategrate-1ud-femenino-de-con-correa-de-inoxidable-y-sofisticado-rosa-dorado/00765204376468?athbdg=L6000",
-        "price": 140.17,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Eslabon De Acero Inoxidable + Case Unisex Para Apple Watch Ultra 45 mm",
-        "url": "https://www.walmart.com.mx/ip/correa-eslabon-de-acero-inoxidable-case-unisex-para-apple-watch-ultra-45-mm/00750305228622",
-        "price": 314.4,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible Sport Unisex M / L 38 / 40 / 41 mm Para Apple Watch Ultra Compatible Con Serie 1 / 2 / 3 / 4 / 5 / 6 / 7 / 13",
-        "url": "https://www.walmart.com.mx/ip/correa-extensible-sport-unisex-m-l-38-40-41-mm-para-apple-watch-ultra-compatible-con-serie-1-2-3-4-5-6-7-13/00750305228626",
-        "price": 114.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Hytrove 1Ud Para Mujer Con Correa De Inoxidable Color Negro Uso Diario Y De Negocios",
-        "url": "https://www.walmart.com.mx/ip/hytrove-1ud-para-mujer-con-correa-de-inoxidable-color-negro-uso-diario-y-de-negocios/00481423502154?athbdg=L6000",
-        "price": 138.35,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Nylon Alpine Unisex M / L 42 / 44 / 45 / 49 mm Para Apple Watch Ultra Compatible Con Serie 8 / 7 / 6 / 5 / 4 / 12",
-        "url": "https://www.walmart.com.mx/ip/correa-de-nylon-alpine-unisex-m-l-42-44-45-49-mm-para-apple-watch-ultra-compatible-con-serie-8-7-6-5-4-12/00750304453410",
-        "price": 99.6,
-        "model": null
-      }
-    ]
-  },
-  "sams|TORYBURCHINOXIDABLESILICONCORREAWATCH": {
-    "ts": "2026-08-17T07:18:59.687603+00:00",
-    "items": []
-  },
-  "amazon|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
-    "ts": "2026-08-17T07:19:02.913678+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Michael Kors Women's Apple Strap PVC Apple Strap, Color: Pink (Model: MKS8004)",
-        "url": "https://www.amazon.com.mx/dp/B08QM4J73N",
-        "price": 1865.48,
-        "model": "MKS8004"
-      },
-      {
-        "store": "amazon",
-        "name": "Michael Kors Access Women's Apple Strap Leather, Color: Brown (Café) Model: MKS8003",
-        "url": "https://www.amazon.com.mx/dp/B08QMRJ6TQ",
-        "price": 2085.58,
-        "model": "MKS8003"
-      },
-      {
-        "store": "amazon",
-        "name": "Lamshaw - Correas de repuesto de metal de acero inoxidable de liberación rápida compatibles con Michael Kors Gen 6 Bradshaw Smartwatch/MK Gen 6 Bradshaw 2021",
-        "url": "https://www.amazon.com.mx/dp/B09GYBMC74",
-        "price": 375.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj compatible con correa de acero inoxidable Michael Kors de 20 mm con hebilla de repuesto para hombres y mujeres",
-        "url": "https://www.amazon.com.mx/dp/B0D9NKCNVV",
-        "price": 530.8,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
-        "url": "https://www.amazon.com.mx/dp/B07F1RRQXQ",
-        "price": 389.49,
-        "model": "Ultra3/2/1"
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj con muesca de acero inoxidable de 20x12mm Compatible con MK Michael Kors MK2277 MK2425 MK5896 MK5354",
-        "url": "https://www.amazon.com.mx/dp/B0GRFPJY1T",
-        "price": 933.53,
-        "model": "20x12mm"
-      },
-      {
-        "store": "amazon",
-        "name": "Michael Kors Damenarmband aus Leder oder PVC, kompatibel mit 38mm/40mm/41mm Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0CKSZJ328",
-        "price": 1570.53,
-        "model": "38mm/40mm/41mm"
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa Acero Inoxidable Para Reloj | Banda Metal de Liberación Rápida con Eslabones Extraíbles,Incluye Barras de Resorte y Herramienta para Hombres y Mujeres",
-        "url": "https://www.amazon.com.mx/dp/B07F27H2KN",
-        "price": 367.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Michael Kors Correa de reloj intercambiable compatible con tu Apple Watch de 38 mm/40 mm/41 mm, correas para uso con Apple Watch Series 1, 2, 3, 4, 5, 6, 7, SE",
-        "url": "https://www.amazon.com.mx/dp/B0BG6BKZ2T",
-        "price": 4050.39,
-        "model": "mm/40"
-      },
-      {
-        "store": "amazon",
-        "name": "XIW - Correa de repuesto para reloj de goma compatible con Michael Kors MK8152 MK8295 MK8356 MK8380 MK9020 de 13 mm x 29 mm para hombre",
-        "url": "https://www.amazon.com.mx/dp/B0D4YSV3W4",
-        "price": 230.0,
-        "model": "MK8152"
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de silicona para hombre compatible con Michael Kors Correa de reloj de goma para mujer hebilla",
-        "url": "https://www.amazon.com.mx/dp/B0FBLYVF44",
-        "price": 367.22,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 5 Access Bradshaw 2 Correa de repuesto de piel sintética",
-        "url": "https://www.amazon.com.mx/dp/B0CK6HD41Z",
-        "price": 216.62,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
-    "ts": "2026-08-17T07:19:09.514234+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Double Zip Wristlet Michael Kors 35F8STVW0B Michael Kors 35F8STVW0B",
-        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8stvw0b-michael-kors-35f8stvw0b/00019231778386",
-        "price": 1402.83,
-        "model": "35F8STVW0B"
-      },
-      {
-        "store": "walmart",
-        "name": "Michael Kors Bolso Bandolera Extrapequeño con Logo Vincent y Tarjetero 35F4G2VC0B-847",
-        "url": "https://www.walmart.com.mx/ip/michael-kors-bolso-bandolera-extrapequeno-con-logo-vincent-y-tarjetero-35f4g2vc0b-847/00019785307995?athbdg=L1300",
-        "price": 2331.79,
-        "model": "35F4G2VC0B-847"
-      },
-      {
-        "store": "walmart",
-        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
-        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
-        "price": 3329.48,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cartera Michael Kors Original Doble Cierre Vainilla Rosa",
-        "url": "https://www.walmart.com.mx/ip/cartera-michael-kors-original-doble-cierre-vainilla-rosa/00019490006572?athbdg=L6000",
-        "price": 2480.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cartera Michael Kors Jet Set Travel Continental para mujer, color vainilla",
-        "url": "https://www.walmart.com.mx/ip/cartera-michael-kors-jet-set-travel-continental-para-mujer-color-vainilla/00019490073658",
-        "price": 1402.83,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bandolera Michael Kors Mercer de piel extrapequeña",
-        "url": "https://www.walmart.com.mx/ip/bandolera-michael-kors-mercer-de-piel-extrapequena/00019490048706?athbdg=L1300",
-        "price": 2283.73,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
-        "price": 3199.0,
-        "model": "MK2102"
-      },
-      {
-        "store": "walmart",
-        "name": "Mono Estampado De Leopardo Michael Kors Para Mujer Marrón 2",
-        "url": "https://www.walmart.com.mx/ip/mono-estampado-de-leopardo-michael-kors-para-mujer-marron-2/00019359943151",
-        "price": 3165.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS MK1018 11475D 56MM",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1018-11475d-56mm/00074420333697",
-        "price": 3199.0,
-        "model": "MK1018"
-      },
-      {
-        "store": "walmart",
-        "name": "Lentes de Sol Michael Kors EMPIRE SQUARE 4 MK2193U 300673",
-        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-michael-kors-empire-square-4-mk2193u-300673/00074420333691",
-        "price": 3199.0,
-        "model": "MK2193U"
-      },
-      {
-        "store": "walmart",
-        "name": "ARMAZÓN MICHAEL KORS MK4073U 3332",
-        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-mk4073u-3332/00074420333683",
-        "price": 3049.0,
-        "model": "MK4073U"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS ANGELICA MKS844 227 57MM CAREY",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-angelica-mks844-227-57mm-carey/00074420333704",
-        "price": 3199.0,
-        "model": "MKS844"
-      }
-    ]
-  },
-  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
-    "ts": "2026-08-17T07:19:10.665431+00:00",
+    "ts": "2026-08-19T07:31:37.726764+00:00",
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
@@ -40990,6 +40318,600 @@
   },
   "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
     "ts": "2026-08-19T06:00:06.819521+00:00",
+    "items": []
+  },
+  "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-19T07:31:00.264018+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop OmniBook 3 16-bu0030la, Intel Core 3, 8GB RAM, 512 TB SSD, 16\", Pantalla 2K (1920x1200), Windows 11 Home, Garantía México, Plata",
+        "url": "https://www.amazon.com.mx/dp/B0GMLQQT9P",
+        "price": 10999.0,
+        "model": "16-bu0030la"
+      },
+      {
+        "store": "amazon",
+        "name": "Hp Omnibook X Flip 16-as0023dx Laptop Ai Pc Core Ultra 7 256V 16GB Lpddr5x | 1TB Ssd Pantalla 16\" Touch Ips Fhd+ Copilot+ Npu 47 Tops Windows 11 Teclado Ingles",
+        "url": "https://www.amazon.com.mx/dp/B0H4MXQ58X",
+        "price": 25999.0,
+        "model": "16-as0023dx"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Omni Book 5 16\" WUXGA IPS Laptop, Intel Core Ultra 7 255U 12 núcleos, Intel Graphics16GB LPDDR5-1TB NVMe SSD, W11H, teclado retroiluminado -1080p FHD - Wi-Fi 6 - Bluetooth 5.4",
+        "url": "https://www.amazon.com.mx/dp/B0FCSCK8R5",
+        "price": 21000.0,
+        "model": "Graphics16GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 5 Laptop, Intel Ultra 9-285H, 32 GB LPDDR5x RAM, 1 TB PCIe SSD, visualización táctil 2K (1920x1200), gráficos Intel Arc 140T, teclado numérico retroiluminado, W11 Pro, color plateado",
+        "url": "https://www.amazon.com.mx/dp/B0FN81F6C5",
+        "price": 36799.0,
+        "model": "1920x1200"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop HP Omnibook 3 Touch 16\" Ultra 5 8GB 512GB Plata 16-BU0305DX",
+        "url": "https://www.amazon.com.mx/dp/B0H6WSQWHR",
+        "price": 12937.0,
+        "model": "16-BU0305DX"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop HP 2025 | OmniBook 5 | 16\" 1920 x 1200 Touch IPS | Intel 12 Core Ultra 7 255U | 16GB LPDDR5 | 1TB SSD | Windows 11 Home | Wi-Fi 6 - BT 5.4 - Teclado retroiluminado - 1080p + Cámara IR - Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FRFB5P75",
+        "price": 19590.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16 pulgadas - Memoria DDR5 de 16 GB - SSD de 512 GB - Teclado retroiluminado - Llave Copilot AI - Obturador de",
+        "url": "https://www.amazon.com.mx/dp/B0GVCLYGPN",
+        "price": 21707.27,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 4 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
+        "url": "https://www.amazon.com.mx/dp/B0GVCK7DM1",
+        "price": 26816.73,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 1 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
+        "url": "https://www.amazon.com.mx/dp/B0GVD8BYZY",
+        "price": 24633.51,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fd1340la, Intel Core 3, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR2PK79C",
+        "price": 7499.0,
+        "model": "15-fd1340la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook X - Portátil 2 en 1, visualización táctil de 16 pulgadas 2K 400Nits, Intel Core Ultra 7 256V (Beats Ultra 7 155U), GPU Arc 140V, Copilot+ PC, 16GB LPDDR5 RAM 1TB SSD, Thunderbolt 4, Win 11",
+        "url": "https://www.amazon.com.mx/dp/B0GQLCPFH1",
+        "price": 19544.24,
+        "model": "400Nits"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 5 2025 Laptop, Procesador Intel Core Ultra 7 255U de 12 núcleos, pantalla IPS WUXGA de 16\", Gráficos Intel, 16GB LPDDR5 1TB SSD, Teclado retroiluminado, Wi-Fi 6, Win11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0F9NQYFLL",
+        "price": 21599.0,
+        "model": "LPDDR5"
+      }
+    ]
+  },
+  "walmart|HPOMNIBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-19T07:31:03.402626+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
+        "price": 15996.0,
+        "model": "14-fp0054la"
+      },
+      {
+        "store": "walmart",
+        "name": "HP OmniBook 7 Laptop con Pantalla Táctil -Intel Core 9 270H Supera i7-13650HX -16\" 2K OLED 120Hz -32GB RAM -1TB SSD -Windows 11 Pro-teclado Retroiluminado-edición de Video Negocios Computadora Laptop",
+        "url": "https://www.walmart.com.mx/ip/hp-omnibook-7-laptop-con-pantalla-tactil-intel-core-9-270h-supera-i7-13650hx-16-2k-oled-120hz-32gb-ram-1tb-ssd-windows-11-pro-teclado-retroiluminado-edicion-de-video-negocios-computadora-laptop/00019899052582?athbdg=L1300",
+        "price": 34992.31,
+        "model": "i7-13650HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578?athbdg=L1300",
+        "price": 20996.0,
+        "model": "16-af1073la"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 16GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-16gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346587",
+        "price": 25021.51,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300",
+        "price": 15996.0,
+        "model": "14-fp0054la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP Omnibook 16\" 2k Touchscreen Intel Core Ultra 5 8gb Ram 512gb Ssd Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-16-2k-touchscreen-intel-core-ultra-5-8gb-ram-512gb-ssd-plata/00082184431450?athbdg=L1300",
+        "price": 12499.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 32GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-32gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346583",
+        "price": 32923.11,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Hp OmniBook 2 en 1 Touch 2K 14\" Core i5 8GB 512GB Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-2-en-1-touch-2k-14-core-i5-8gb-512gb-plata/00019899014544?athbdg=L1300",
+        "price": 11339.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "HP OmniBook 7 Laptop con Pantalla Táctil OLED de 16\", 2K 120Hz, Intel Evo Ultra 7 255H, RTX 4050, 32GB RAM/ 1TB SSD -Copilot AI PC, Teclado Retroiluminado, Windows11 Office 365, Negocios Universidad",
+        "url": "https://www.walmart.com.mx/ip/hp-omnibook-7-laptop-con-pantalla-tactil-oled-de-16-2k-120hz-intel-evo-ultra-7-255h-rtx-4050-32gb-ram-1tb-ssd-copilot-ai-pc-teclado-retroiluminado-windows11-office-365-negocios-universidad/00019899040551?athbdg=L1300",
+        "price": 40260.2,
+        "model": "Windows11"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
+        "price": 8049.0,
+        "model": "X1404VAP-V14"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP 250 G10 Intel Core i5-1334U (13Va Gen) 16GB RAM 1TB SSD Windows 11 Home 15.6 Full HD Teclado Español Plateado",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-250-g10-intel-core-i5-1334u-13va-gen-16gb-ram-1tb-ssd-windows-11-home-15-6-full-hd-teclado-espanol-plateado/00046258295719?athbdg=L1300",
+        "price": 12699.0,
+        "model": "i5-1334U"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Dell Latitude 7300 13.3\" FHD Intel i5 8GB 256GB SSD (REACONDICIONADA)",
+        "url": "https://www.walmart.com.mx/ip/laptop-dell-latitude-7300-13-3-fhd-intel-i5-8gb-256gb-ssd-reacondicionada-/00071475249972",
+        "price": 4199.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|HPOMNIBOOKLAPTOPINTELCORE": {
+    "ts": "2026-08-19T07:31:04.224696+00:00",
+    "items": []
+  },
+  "amazon|15FD0161LA": {
+    "ts": "2026-08-19T07:31:14.121539+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "NIMO Nueva-Computadora Portátil 15.6-Pulgadas, IPS FHD, Quad Core I3-1215U, 16GB RAM 512GB SSD, con Tipo C de 65W, Teclado Retroiluminado, Huella Digital, para Hogar y Negocios (Plata)",
+        "url": "https://www.amazon.com.mx/dp/B0G1YCQ2H6",
+        "price": 9799.0,
+        "model": "6-Pulgadas"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OMEN MAX - Portátil para juegos de 16 pulgadas, Windows 11, Intel Core Ultra 9, 32 GB de RAM, 1 TB SSD, NVIDIA GeForce RTX 5080, WQXGA, Shadow Black",
+        "url": "https://www.amazon.com.mx/dp/B0F17BHVV1",
+        "price": 59990.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Gamer 16\" 16:10,Ryzen 7 H255 (Zen 4) hasta 4.9GHz, Radeon 780M Gráficos, 24GB DDR5 RAM 512GB SSD Extensiones 4TB, WiFi 6, USB-C, Teclado Español Retroiluminado, Carcasa de Metal,Win11Pro Laptop",
+        "url": "https://www.amazon.com.mx/dp/B0GFWL358B",
+        "price": 12860.52,
+        "model": "Win11Pro"
+      },
+      {
+        "store": "amazon",
+        "name": "Lenovo ThinkPad X13 FHD Laptop Computer Windows 11 Pro, AMD Ryzen 5 PRO 4650U, 32 GB de RAM, 256 GB SSD, HDMI, Thunderbolt, Ryzen Notebook Win 11 (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0GF7WBR43",
+        "price": 6662.81,
+        "model": "4650U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fd0161la, Intel Core i5, 8 GB, 256 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plata/Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GV144F79",
+        "price": 9199.0,
+        "model": "15-fd0161la"
+      }
+    ]
+  },
+  "walmart|15FD0161LA": {
+    "ts": "2026-08-19T07:31:16.171335+00:00",
+    "items": []
+  },
+  "sams|15FD0161LA": {
+    "ts": "2026-08-19T07:31:16.701378+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-19T07:31:42.022144+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro para Cafetera, 8-12 Taza Cápsulas Filtro de Café Acero Inoxidable, Reutilizable Cápsulas Filtro Cafetera, Apto Para Cafeteras y Cerveceros",
+        "url": "https://www.amazon.com.mx/dp/B0FXGNS5S5",
+        "price": 199.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
+        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "600ML Cafetera de Goteo, Cafetera de Vidrio Resistente a Altas Temperaturas, con Filtro Reutilizable de Acero Inoxidable, Mango cómodo y vidrio borosilicato, suficiente para preparar 3 tazas.",
+        "url": "https://www.amazon.com.mx/dp/B0H1WQ9318",
+        "price": 369.0,
+        "model": "600ML"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-19T07:31:55.405399+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2206.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera c/Temporizador Programable De Goteo 12 Tazas Acero Inox Bogner Bogner BDCM012",
+        "url": "https://www.walmart.com.mx/ip/cafetera-c-temporizador-programable-de-goteo-12-tazas-acero-inox-bogner-bogner-bdcm012/00750303914322?athbdg=L1300",
+        "price": 629.0,
+        "model": "BDCM012"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Portátil de Acero Inoxidable para Goteo, Taza Térmica Aislada con Filtro, 490 Ml (16.5 Oz), Color Negro, para Una Sola Porción, Ideal para El Hogar y La Oficina.",
+        "url": "https://www.walmart.com.mx/ip/cafetera-portatil-de-acero-inoxidable-para-goteo-taza-termica-aislada-con-filtro-490-ml-16-5-oz-color-negro-para-una-sola-porcion-ideal-para-el-hogar-y-la-oficina-/00571119589280?athbdg=L6000",
+        "price": 302.04,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-19T07:31:56.008806+00:00",
+    "items": []
+  },
+  "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-19T07:32:00.786160+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
+        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
+        "price": 7799.0,
+        "model": "BVSTEM7301"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
+        "price": 5500.0,
+        "model": "BVSTEM7201-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera para Espresso y Cappuccino con Jarra de Vidrio | Tubo de vapor para espumar leche, con perilla de control, incluye cuchara medidora/aplanador, BVSTEM330",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ5KFB",
+        "price": 918.0,
+        "model": "BVSTEM330"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molino Integrado y 15 Bar",
+        "url": "https://www.amazon.com.mx/dp/B07WG2ZQDG",
+        "price": 11999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "IMUSA USA gau-18199 jarra cafetera de espresso en caja de regalo, transparente",
+        "url": "https://www.amazon.com.mx/dp/B00NPZHX5M",
+        "price": 216.45,
+        "model": "gau-18199"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
+        "price": 2983.17,
+        "model": "BVSTEM6604SS"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Color Negro, BVSTEM6604BK",
+        "url": "https://www.amazon.com.mx/dp/B0FJ3136F1",
+        "price": 3740.0,
+        "model": "BVSTEM6604BK"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster ESPRESSO MAKER PB SLIM OS | Prepara espresso, cappuccino y latte, sistema de preinfusión e incluye accesorios profesionales, BVSTEM7200",
+        "url": "https://www.amazon.com.mx/dp/B0BY3N2M7S",
+        "price": 3269.0,
+        "model": "BVSTEM7200"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de café de vidrio de 4 tazas de repuesto para espresso - Accesorios de espresso compatibles con IMUSA, Hamilton Beach, Mr. Coffee, Breville, UNIVEN Máquina de espresso, mango negro",
+        "url": "https://www.amazon.com.mx/dp/B0CNCT94XF",
+        "price": 380.78,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-19T07:32:26.166488+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Café en Grano 500g Veracruz, Tueste Medio-Oscuro, 100% Arábica, Sabor Balanceado y Aromático, Café Gourmet, Gogó Café",
+        "url": "https://www.walmart.com.mx/ip/cafe-en-grano-500g-veracruz-tueste-medio-oscuro-100-arabica-sabor-balanceado-y-aromatico-cafe-gourmet-gogo-cafe/00750046541090",
+        "price": 240.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2206.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Análoga 12 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster para Espresso y Cappuccino Plata con Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-para-espresso-y-cappuccino-plata-con-negro/00005389117514?athbdg=L1510",
+        "price": 918.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Café en Grano 500g Veracruz, Tueste Intenso, 100% Arábica, Sabor Fuerte y Cuerpo Alto, Ideal para Espresso, Gogó Café",
+        "url": "https://www.walmart.com.mx/ip/cafe-en-grano-500g-veracruz-tueste-intenso-100-arabica-sabor-fuerte-y-cuerpo-alto-ideal-para-espresso-gogo-cafe/00750046541091",
+        "price": 240.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
+    "ts": "2026-08-19T07:32:27.074779+00:00",
     "items": []
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 06:47 UTC",
-  "products_scanned": 1629,
+  "generated_at": "2026-08-19 07:32 UTC",
+  "products_scanned": 1583,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -190,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45421529",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$10,982 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3734.05,
+      "store": "palacio",
+      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
+      "price": 10982.5,
+      "list_price": 21965.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45384039",
         "outlet": false
       }
     },
