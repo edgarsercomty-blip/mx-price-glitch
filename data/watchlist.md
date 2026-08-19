@@ -1,10 +1,9 @@
-# Productos en vigilancia (727)
+# Productos en vigilancia (726)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
 | Estado | Tienda | Producto | Precio | Desc. |
 |--------|--------|----------|-------:|------:|
-| 🔴 agotado | palacio | [iMac 24" Chip M4, 16 GB RAM, 512 GB SSD plata](https://www.elpalaciodehierro.com/apple-imac-24-chip-m4-16-gb-ram-512-gb-ssd-plata-44318698.html) | $12,600 | -70% |
 | 🔴 agotado | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | -37% |
 | 🔴 agotado | walmart | [BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BE…](https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300) | $6,599 | -31% |
 | 🔴 agotado | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - MABE](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434?athbdg=L1300) | $4,499 | -21% |
