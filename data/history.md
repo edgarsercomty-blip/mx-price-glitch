@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (852)
+# Historial de ofertas encontradas (853)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 10:48 | -35% | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373) | $2,124 | $2,124 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-19 07:32 | -25% | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 51…](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | $10,982 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-19 02:24 | -22% | mercadolibre | [Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM](https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984) | $4,526 | $4,526 en mercadolibre vs mercado -> -22% bajo la competencia |
 | 2026-08-19 02:24 | -25% | walmart | [Licuadora T-fal InfinyForce XL 12 Velocidades Rojo LN82…](https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-12-velocidades-rojo-ln8225mx/00770207308225?athbdg=L1300) | $699 | $699 en walmart vs mercado -> -25% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -35% | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | $2,144 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | $3,899 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -38% | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | $3,000 en palacio vs mercado -> -38% bajo la competencia |
-| 2026-07-23 13:10 | -50% | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | $19,795 en palacio vs mercado -> -50% bajo la competencia |

@@ -6880,125 +6880,6 @@
     "ts": "2026-08-19T09:25:43.119934+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-08-17T10:31:07.314403+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1759.0,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
-        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
-        "price": 4899.0,
-        "model": "BVSTEM680R"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "SANGKEE Cafetera de Goteo 6 Tazas, Molinillo Integrado, 850 ml, Táctil | 2 intensidades, filtro permanente, mantiene caliente, fácil limpieza, para granos, café molido, casa u oficina, DPS-G2",
-        "url": "https://www.amazon.com.mx/dp/B0G1H8N4WQ",
-        "price": 1579.0,
-        "model": "DPS-G2"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cecotec Cafetera de Goteo Coffee 56 Time 1000W Acero Inoxidable Pantalla LCD 1,3L",
-        "url": "https://www.amazon.com.mx/dp/B0GV1PTTW7",
-        "price": 1053.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-08-17T10:31:10.531350+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
-        "price": 10555.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAGOTEOPANELTOUCH": {
-    "ts": "2026-08-17T10:31:11.613614+00:00",
-    "items": []
-  },
   "amazon|ASUSGRAPHICSVIVOBOOKLAPTOPWUXGA": {
     "ts": "2026-08-17T11:00:48.836713+00:00",
     "items": [
@@ -38840,6 +38721,370 @@
   },
   "sams|OSTERCAFETERAPANELGOTEOACERO": {
     "ts": "2026-08-19T09:26:07.260429+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATAZASTOUCHACERO": {
+    "ts": "2026-08-19T10:47:45.014058+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Mr. Coffee Cafetera programable de 10 tazas, jarra térmica aislada, selección de fuerza de preparación, cerveza ahora o más tarde, acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B08MX4XG97",
+        "price": 1979.43,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATAZASTOUCHACERO": {
+    "ts": "2026-08-19T10:47:59.223346+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2206.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 371.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATAZASTOUCHACERO": {
+    "ts": "2026-08-19T10:48:00.071086+00:00",
+    "items": []
+  },
+  "amazon|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
+    "ts": "2026-08-19T10:48:03.880284+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Michael Kors Women's Apple Strap PVC Apple Strap, Color: Pink (Model: MKS8004)",
+        "url": "https://www.amazon.com.mx/dp/B08QM4J73N",
+        "price": 1801.33,
+        "model": "MKS8004"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Access Women's Apple Strap Leather, Color: Brown (Café) Model: MKS8003",
+        "url": "https://www.amazon.com.mx/dp/B08QMRJ6TQ",
+        "price": 2085.58,
+        "model": "MKS8003"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Correa de reloj intercambiable compatible con tu Apple Watch de 38 mm/40 mm/41 mm, correas para uso con Apple Watch Series 1, 2, 3, 4, 5, 6, 7, SE",
+        "url": "https://www.amazon.com.mx/dp/B0BG6BKZ2T",
+        "price": 4050.39,
+        "model": "mm/40"
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
+        "url": "https://www.amazon.com.mx/dp/B07F1RRQXQ",
+        "price": 409.99,
+        "model": "Ultra3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "Michael Kors Damenarmband aus Leder oder PVC, kompatibel mit 38mm/40mm/41mm Apple Watch®",
+        "url": "https://www.amazon.com.mx/dp/B0CKSZJ328",
+        "price": 1552.02,
+        "model": "38mm/40mm/41mm"
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Acero Inoxidable Para Reloj | Banda Metal de Liberación Rápida con Eslabones Extraíbles,Incluye Barras de Resorte y Herramienta para Hombres y Mujeres",
+        "url": "https://www.amazon.com.mx/dp/B07F27H2KN",
+        "price": 312.79,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lamshaw - Correas de repuesto de metal de acero inoxidable de liberación rápida compatibles con Michael Kors Gen 6 Bradshaw Smartwatch/MK Gen 6 Bradshaw 2021",
+        "url": "https://www.amazon.com.mx/dp/B09GYBMC74",
+        "price": 375.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "3pcs Magnética Correa Compatible con Apple Watch 42mm 41mm 40mm 38mm, Correa para Apple Watch de malla de Acero Inoxidable, Acero Inoxidable Milanese Loop para iWatch Ultra 2/1 Series 10 9 8 7 6 5 4 3 2 1 SE",
+        "url": "https://www.amazon.com.mx/dp/B0FBRF8BRK",
+        "price": 186.29,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GEAK Correas Compatible con Apple Watch Correa 40mm 38mm 41mm 42mm 44mm 45mm 46mm 49mm, Clásica Correa de Metal de Acero Inoxidable para iWatch SE Series 11 10 9 8 7 6 5 4 Ultra 3 2 1",
+        "url": "https://www.amazon.com.mx/dp/B0C99HVYB2",
+        "price": 309.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Magnética Para Apple Watch 40mm 42mm 41mm 38mm,Oro | Milanesa Pulsera de Repuesto de Acero Inoxidable Loop para Series 11 10 9 8 7 6 5 4 3 2 1 SE3/2/1 para Mujer y Hombre",
+        "url": "https://www.amazon.com.mx/dp/B0CP58V54W",
+        "price": 359.99,
+        "model": "SE3/2/1"
+      },
+      {
+        "store": "amazon",
+        "name": "GEAK Correas Compatible con Apple Watch Correa 40mm 38mm 41mm 42mm 44mm 45mm 46mm 49mm, Clásica Correa de Metal de Acero Inoxidable para iWatch SE Series 11 10 9 8 7 6 5 4 Ultra 3 2 1",
+        "url": "https://www.amazon.com.mx/dp/B0C99FGZX2",
+        "price": 299.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 5 Access Bradshaw 2 Correa de repuesto de piel sintética",
+        "url": "https://www.amazon.com.mx/dp/B0CK6HD41Z",
+        "price": 216.62,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
+    "ts": "2026-08-19T10:48:08.827978+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "ARMAZÓN MICHAEL KORS ARMAZÓN MK4048 3293",
+        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-armazon-mk4048-3293/00074420333682",
+        "price": 3049.0,
+        "model": "MK4048"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS LON MK1021 11166G 53MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-lon-mk1021-11166g-53mm/00074420333707",
+        "price": 3199.0,
+        "model": "MK1021"
+      },
+      {
+        "store": "walmart",
+        "name": "Double Zip Wristlet Michael Kors 35F8STVW0B Michael Kors 35F8STVW0B",
+        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8stvw0b-michael-kors-35f8stvw0b/00019231778386",
+        "price": 1402.83,
+        "model": "35F8STVW0B"
+      },
+      {
+        "store": "walmart",
+        "name": "BOLSA MICHAEL KORS ORIGINAL JET SET DOME MEDIUM LEATHER BLACK",
+        "url": "https://www.walmart.com.mx/ip/bolsa-michael-kors-original-jet-set-dome-medium-leather-black/00019490065660",
+        "price": 1636.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
+        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
+        "price": 3329.48,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "LENTES DE SOL MICHAEL KORS MK2007 303148 57MM",
+        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-michael-kors-mk2007-303148-57mm/00074420333705",
+        "price": 3199.0,
+        "model": "MK2007"
+      },
+      {
+        "store": "walmart",
+        "name": "Coinpouch with ID 35H9STVP1B Michael Kors 35H9STVP1B",
+        "url": "https://www.walmart.com.mx/ip/coinpouch-with-id-35h9stvp1b-michael-kors-35h9stvp1b/00019359922272?athbdg=L6000",
+        "price": 2997.0,
+        "model": "35H9STVP1B"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
+        "price": 3199.0,
+        "model": "MK2102"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1018 11438H 56MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1018-11438h-56mm/00074420333698",
+        "price": 3199.0,
+        "model": "MK1018"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS KONA MK1089 10197C 59-14-140",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-kona-mk1089-10197c-59-14-140/00074420333694",
+        "price": 3199.0,
+        "model": "MK1089"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS LAI MK1024 11944X",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-lai-mk1024-11944x/00074420333686",
+        "price": 3199.0,
+        "model": "MK1024"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1019 11645A 59MM DORADO",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-11645a-59mm-dorado/00074420333696",
+        "price": 3199.0,
+        "model": "MK1019"
+      }
+    ]
+  },
+  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
+    "ts": "2026-08-19T10:48:09.617641+00:00",
     "items": []
   }
 }
