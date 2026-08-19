@@ -7062,153 +7062,6 @@
     "ts": "2026-08-19T12:25:55.017963+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-08-17T17:48:14.379380+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
-        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
-        "price": 4259.0,
-        "model": "BVSTEM6801M"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
-        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
-        "price": 1971.0,
-        "model": "BVSTEM5502"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
-        "price": 2983.17,
-        "model": "BVSTEM6604SS"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
-        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
-        "price": 2386.1,
-        "model": "BVSTDC4411-013ris"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-08-17T17:48:19.096237+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
-        "price": 10555.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso y Capuchino Chefman Panel Touch Acero Inoxidable 1.8 Litros RJ54-I-SV-MX",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-y-capuchino-chefman-panel-touch-acero-inoxidable-1-8-litros-rj54-i-sv-mx/00081008784646",
-        "price": 2599.0,
-        "model": "RJ54-I-SV-MX"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
-        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
-        "price": 4253.48,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAACEROTOUCHPANEL": {
-    "ts": "2026-08-17T17:48:20.337556+00:00",
-    "items": []
-  },
   "amazon|APPLECELULARIPHONECANELABUMPER": {
     "ts": "2026-08-17T18:24:41.184849+00:00",
     "items": [
@@ -37461,6 +37314,125 @@
   },
   "sams|OSTERCAFETERAPANELTOUCHACERO": {
     "ts": "2026-08-19T17:45:02.576204+00:00",
+    "items": []
+  },
+  "amazon|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-19T18:20:15.439215+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Funda de metal sin marco compatible con iPhone Air, diseño minimalista sin marco, personalidad extremadamente destacada.",
+        "url": "https://www.amazon.com.mx/dp/B0FLPTF5K6",
+        "price": 230.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro 6.3” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGPQ6W7",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro MAX 6.9” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGQ4S8R",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda Compatible con iPhone 11, Absorción de Golpes Anti-Arañazos Funda Bumper, Lindo Divertido Diseño de Dibujos Animados Cinnamon para Niños, Adolescentes, Niñas y Mujeres",
+        "url": "https://www.amazon.com.mx/dp/B0CPC1Z61W",
+        "price": 445.81,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro MAX 6.9” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Marrón Claro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGQD1TT",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro 6.3” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Naranja)",
+        "url": "https://www.amazon.com.mx/dp/B0FY6MD8SR",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro MAX 6.9” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Naranja)",
+        "url": "https://www.amazon.com.mx/dp/B0FY6PHHNL",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda de Piel Compatible con iPhone Air 6.5\" 2025 – Piel auténtica Compatible con MagSafe, Carcasa Fina (Marrón Claro)",
+        "url": "https://www.amazon.com.mx/dp/B0FC32ZMF7",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro 6.3” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Marrón Claro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGRRZFW",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda de Piel Compatible con iPhone Air 6.5\" 2025 – Piel auténtica Compatible con MagSafe, Carcasa Fina (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FC326XGP",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro 6.3” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Marrón Oscuro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGT7WC4",
+        "price": 412.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TORRO Funda Compatible con iPhone 17 Pro MAX 6.9” 2025 – Funda Bumper Fina de Cuero Premium, Compatible con MagSafe (Marrón Oscuro)",
+        "url": "https://www.amazon.com.mx/dp/B0FBGQWNVF",
+        "price": 412.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-19T18:20:26.862413+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper Tan",
+        "url": "https://www.walmart.com.mx/ip/Funda-para-telefono-Apple-iPhone-Air-Bumper-Tan/00019595075141?athbdg=L1300",
+        "price": 789.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda para teléfono Apple iPhone Air Bumper, azul claro",
+        "url": "https://www.walmart.com.mx/ip/Funda-para-telefono-Apple-iPhone-Air-Bumper-azul-claro/00019595075140?athbdg=L1300",
+        "price": 669.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Funda Bumper Apple iPhone Air Gris Claro",
+        "url": "https://www.walmart.com.mx/ip/Funda-Bumper-Apple-iPhone-Air-Gris-Claro/00019595075139?athbdg=L1300",
+        "price": 1019.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLECELULARBUMPERIPHONECANELA": {
+    "ts": "2026-08-19T18:20:27.765979+00:00",
     "items": []
   }
 }
