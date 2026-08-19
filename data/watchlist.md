@@ -1,4 +1,4 @@
-# Productos en vigilancia (726)
+# Productos en vigilancia (727)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -730,3 +730,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai 5 34…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984) | $11,895 | -30% |
 | 🟢 disponible | liverpool | [Cafetera Multicapsulas Nespresso A3Kgdv1 Us](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-a3kgdv1-us/1110219933) | $2,009 | -25% |
 | 🟢 disponible | walmart | [Licuadora Portátil HoninJoy Personal de 650W con Vaso Molini…](https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003298) | $1,100 | -56% |
+| 🟢 disponible | liverpool | [Colchon En Caja Heuman Brand Volans Advanced](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863) | $7,200 | -47% |

@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (859)
+# Historial de ofertas encontradas (860)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 22:15 | -47% | liverpool | [Colchon En Caja Heuman Brand Volans Advanced](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863) | $7,200 | $7,200 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-08-19 15:37 | -32% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,664 | $8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia |
 | 2026-08-19 15:37 | -38% | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Bat…](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | $312 en amazon vs mercado -> -38% bajo la competencia |
 | 2026-08-19 15:37 | -56% | walmart | [Licuadora Portátil HoninJoy Personal de 650W con Vaso M…](https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003298) | $1,100 | $1,100 en walmart vs mercado -> -56% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | $7,799 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | $1,143 en palacio vs mercado -> -35% bajo la competencia |

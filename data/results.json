@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 21:43 UTC",
-  "products_scanned": 1587,
+  "generated_at": "2026-08-19 22:15 UTC",
+  "products_scanned": 1621,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,6 +27,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$7,200 en liverpool vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6480.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Heuman Brand Volans Advanced",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863",
+      "price": 7199.55,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "HEUMAN BRAND",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1121352863",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
       "likely_typo": false,
@@ -44,6 +65,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
       }
     },
     {
@@ -631,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
         "outlet": false
       }
     },
