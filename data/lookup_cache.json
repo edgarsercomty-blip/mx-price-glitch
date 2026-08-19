@@ -1725,13 +1725,13 @@
     "items": []
   },
   "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-17T23:38:24.850102+00:00",
+    "ts": "2026-08-19T23:38:43.312069+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2694.0,
+        "price": 2690.0,
         "model": null
       },
       {
@@ -1743,9 +1743,9 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
         "model": null
       },
       {
@@ -1757,64 +1757,43 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
+        "name": "Nespresso Vertuo Pop+ - Cafetera y espresso de edición limitada de De'Longhi, amarillo pastel",
+        "url": "https://www.amazon.com.mx/dp/B0DZH3VRT7",
+        "price": 2882.2,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
+        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, 1500 vatios, Amarillo Mango",
+        "url": "https://www.amazon.com.mx/dp/B0D46QTZ4V",
+        "price": 4745.41,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4241.5,
+        "name": "Nespresso Cafe Sweet Vainilla, Sistema Vertuo (10 capsulas), Taza 230 ml",
+        "url": "https://www.amazon.com.mx/dp/B0H4BCQFK2",
+        "price": 259.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
+        "name": "Nespresso Batidor para espumador de leche Aeroccino 3 de repuesto",
+        "url": "https://www.amazon.com.mx/dp/B0113ROUMW",
+        "price": 179.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Blanca con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVK4QM9",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Nespresso Vertuo Pop, con Espumador de Leche + Paquete de 30 cápsulas de Nespresso Colombia Tecnología Vertuo",
-        "url": "https://www.amazon.com.mx/dp/B0CJKN17GJ",
-        "price": 3233.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
-        "price": 2495.57,
-        "model": null
+        "name": "Nespresso Parts MS-623523 Mousseur à Lait",
+        "url": "https://www.amazon.com.mx/dp/B07SZ8TV1L",
+        "price": 269.0,
+        "model": "MS-623523"
       }
     ]
   },
   "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-17T23:38:33.765504+00:00",
+    "ts": "2026-08-19T23:38:46.064189+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1869,7 +1848,7 @@
         "store": "walmart",
         "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
-        "price": 3049.0,
+        "price": 3769.0,
         "model": null
       },
       {
@@ -1883,14 +1862,14 @@
         "store": "walmart",
         "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480802?athbdg=L1300",
-        "price": 4169.0,
+        "price": 5569.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480804?athbdg=L1300",
-        "price": 4169.0,
+        "price": 5569.0,
         "model": null
       },
       {
@@ -1903,7 +1882,7 @@
     ]
   },
   "sams|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-17T23:38:38.062808+00:00",
+    "ts": "2026-08-19T23:38:50.236086+00:00",
     "items": [
       {
         "store": "sams",
@@ -1916,14 +1895,14 @@
         "store": "sams",
         "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
         "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 3060.82,
+        "price": 4237.25,
         "model": null
       },
       {
         "store": "sams",
         "name": "Cafetera Nespresso  Vertuo Pop Titan",
         "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 2556.48,
+        "price": 1964.16,
         "model": null
       },
       {
@@ -1944,7 +1923,7 @@
         "store": "sams",
         "name": "Cafetera Nesspresso  Vertuo Pop Beige",
         "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 4183.05,
+        "price": 5011.66,
         "model": null
       }
     ]
@@ -6791,231 +6770,6 @@
   "sams|APPLERETINAIPHONESUPERAPPLE": {
     "ts": "2026-08-19T20:16:51.825742+00:00",
     "items": []
-  },
-  "amazon|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-08-17T23:38:40.423706+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
-        "price": 5809.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5289.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
-        "price": 6468.81,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
-        "price": 5889.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
-        "price": 5919.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13 Mini, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LKTXKXQ",
-        "price": 4885.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
-        "price": 8284.33,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
-        "price": 6433.63,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
-        "price": 4937.36,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 Plus 128GB Morado Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLT8BMX",
-        "price": 6499.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLN4B613",
-        "price": 8999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 Pro 128GB Titanio Azul Desbloqueado - Esim (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CLPNY48J",
-        "price": 10499.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "walmart|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-08-17T23:38:44.868046+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
-        "price": 9999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 13 128 Gb Azul Medianoche Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-128-gb-azul-medianoche-reacondicionado/00072014053382?athbdg=L1500",
-        "price": 5249.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
-        "price": 11920.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-08-17T23:38:49.417054+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
-        "price": 10998.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
-        "price": 11169.11,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
-        "price": 12682.13,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
-        "price": 9203.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 14 Apple 128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
-        "price": 11169.11,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
-        "price": 12682.13,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
-        "price": 9203.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
-        "price": 20458.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
-        "price": 17901.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
-        "price": 20458.97,
-        "model": null
-      }
-    ]
   },
   "amazon|APPLETELCELIPHONE128": {
     "ts": "2026-08-17T23:38:51.747842+00:00",
