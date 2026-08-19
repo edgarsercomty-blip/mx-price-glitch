@@ -1,9 +1,19 @@
-# Historial de ofertas encontradas (841)
+# Historial de ofertas encontradas (851)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 02:24 | -22% | mercadolibre | [Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM](https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984) | $4,526 | $4,526 en mercadolibre vs mercado -> -22% bajo la competencia |
+| 2026-08-19 02:24 | -25% | walmart | [Licuadora T-fal InfinyForce XL 12 Velocidades Rojo LN82…](https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-12-velocidades-rojo-ln8225mx/00770207308225?athbdg=L1300) | $699 | $699 en walmart vs mercado -> -25% bajo la competencia |
+| 2026-08-19 02:24 | -26% | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 256 Gb 8 Gb C…](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-256-gb-8-gb-color-negro/p/MLM54068750) | $2,921 | $2,921 en mercadolibre vs mercado -> -26% bajo la competencia |
+| 2026-08-19 02:24 | -28% | mercadolibre | [Pantalla Smart Tv 32 Pulgadas VEDD Led Hd ,Wifi,Android…](https://www.mercadolibre.com.mx/pantalla-smart-tv-32-pulgadas-vedd-led-hd-wifiandroid-14-tv-bluetooth-dolby-audio2hdmi-2usb/p/MLM44957135) | $2,507 | $2,507 en mercadolibre vs walmart $4,035 -> -28% bajo la competencia |
+| 2026-08-19 02:24 | -30% | walmart | [Refrigerador Midea 19 pies FrenchDoor Inox](https://www.walmart.com.mx/ip/refrigerador-midea-19-pies-frenchdoor-inox/00695490381639?athbdg=L1300) | $12,990 | $12,990 en walmart vs mercado -> -30% bajo la competencia |
+| 2026-08-19 02:24 | -34% | mercadolibre | [Consola Nintendo Switch 2](https://www.mercadolibre.com.mx/consola-nintendo-switch-2/p/MLM48921521) | $8,992 | $8,992 en mercadolibre vs mercado -> -34% bajo la competencia |
+| 2026-08-19 02:24 | -34% | mercadolibre | [Pantalla Lcd De Repuesto Para Multiusos De 3.0 Pulgadas](https://www.mercadolibre.com.mx/pantalla-lcd-superior-superior-para-lite-ndsl/p/MLM2039943132) | $338 | $338 en mercadolibre vs mercado -> -34% bajo la competencia |
+| 2026-08-19 02:24 | -39% | walmart | [Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0](https://www.walmart.com.mx/ip/Lavadora-Mabe-Doble-Tina-13-kg-Blanca-LMDX3123HBAB0/00075763838988?athbdg=L1300) | $3,490 | $3,490 en walmart vs mercado -> -39% bajo la competencia |
+| 2026-08-19 02:24 | -63% | amazon | [Mustela Maternidad Aceite Prevención Estrías Corporal, …](https://www.amazon.com.mx/dp/B01CGE66TG) | $130 | $130 en amazon vs mercadolibre $350, amazon $444 -> -63% bajo la competencia |
+| 2026-08-19 02:24 | -73% | amazon | [Vaso De Vidrio Para Licuadora Compatible InfinyForce LN…](https://www.amazon.com.mx/dp/B0F3444GH7) | $215 | $215 en amazon vs amazon $789, liverpool $989 -> -73% bajo la competencia |
 | 2026-08-18 23:14 | -30% | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $2,124 | $2,124 en liverpool vs mercado -> -30% bajo la competencia |
 | 2026-08-18 17:01 | -20% | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | $19,999 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-18 15:40 | -22% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -22% bajo la competencia |
@@ -394,13 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -38% | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $3,000 | $3,000 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-23 13:10 | -50% | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | $19,795 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-07-23 11:30 | -20% | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 …](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-23 11:30 | -52% | liverpool | [Licuadora Oster Blstpegcrt 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpegcrt-3-velocidades/1133854092) | $1,259 | $1,259 en liverpool vs mercado -> -52% bajo la competencia |
-| 2026-07-23 09:39 | -20% | liverpool | [Funda Spigen Urban Fit](https://www.liverpool.com.mx/tienda/pdp/funda-spigen-urban-fit/1160052844) | $519 | $519 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-23 09:39 | -20% | liverpool | [Porta Audifonos In Ear Karl Lagerfeld](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-karl-lagerfeld/1128184305) | $399 | $399 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-23 09:39 | -25% | palacio | [Licuadora Ninja Detect Power Pro, 10 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-detect-power-pro-10-velocidades-44567926.html) | $2,999 | $2,999 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-23 09:39 | -25% | palacio | [Licuadora Ninja Dúo Twisti SS151, 5 Velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-ninja-duo-twisti-ss151-5-velocidades-45397419.html) | $2,399 | $2,399 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-23 09:39 | -30% | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $12,593 | $12,593 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-23 07:13 | -47% | liverpool | [Espejo Retrovisor Tv Ofertas](https://www.liverpool.com.mx/tienda/pdp/espejo-retrovisor-tv-ofertas/1152285660) | $287 | $287 en liverpool vs mercado -> -47% bajo la competencia |
-| 2026-07-23 07:13 | -49% | liverpool | [Cepillo Telescopico Tv Ofertas De Cerdas Naturales](https://www.liverpool.com.mx/tienda/pdp/cepillo-telescopico-tv-ofertas-de-cerdas-naturales/1158548573) | $1,007 | $1,007 en liverpool vs mercado -> -49% bajo la competencia |
-| 2026-07-22 22:38 | -20% | liverpool | [Xiaomi Redmi A5 Lcd 6 8 Pulgadas At T](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-a5-lcd-6-8-pulgadas-at-t/1175813560) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-22 22:38 | -25% | liverpool | [Smartwatch Garmin Forerunner 165 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-165-unisex-con-gps/1149294891) | $3,899 | $3,899 en liverpool vs mercado -> -25% bajo la competencia |
