@@ -151,15 +151,8 @@
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-17T11:00:38.831171+00:00",
+    "ts": "2026-08-19T11:16:40.464957+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch GT 6 Pro Smartwatch 46mm Reloj Inteligente Hombre, Negro | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0FPG8KLS8",
-        "price": 3759.53,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Rosa Polimero",
@@ -169,23 +162,16 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
         "url": "https://www.amazon.com.mx/dp/B0GKRPMMR1",
-        "price": 859.0,
+        "price": 819.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Negro Polimero",
-        "url": "https://www.amazon.com.mx/dp/B0DWFQCY3V",
-        "price": 699.0,
+        "name": "HUAWEI Watch GT 6 Pro Smartwatch 46mm Reloj Inteligente Hombre, Negro | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0FPG8KLS8",
+        "price": 3759.53,
         "model": null
       },
       {
@@ -197,9 +183,23 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, iOS & Android, Negro | Pantalla de 1.82\", Hasta 10 días de Batería, 100+ Modos Deportivos, Rastreador de fitness con SpO₂, Bienestar Emocional",
-        "url": "https://www.amazon.com.mx/dp/B0F32PTQD3",
-        "price": 2204.37,
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Negro | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
+        "price": 2365.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Negro Polimero",
+        "url": "https://www.amazon.com.mx/dp/B0DWFQCY3V",
+        "price": 699.0,
         "model": null
       },
       {
@@ -211,9 +211,9 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Negro | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
-        "price": 2413.26,
+        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, iOS & Android, Negro | Pantalla de 1.82\", Hasta 10 días de Batería, 100+ Modos Deportivos, Rastreador de fitness con SpO₂, Bienestar Emocional",
+        "url": "https://www.amazon.com.mx/dp/B0F32PTQD3",
+        "price": 2204.37,
         "model": null
       },
       {
@@ -227,20 +227,20 @@
         "store": "amazon",
         "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
         "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
-        "price": 629.99,
+        "price": 619.99,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch D2, Smartwatch Monitoreo de la Presión Arterial, Negro | Pantalla AMOLED de 1.82\", ECG, Exhaustiva del Sueño, SpO2, Asistencia Sanitaria Familiar, Llamadas, GPS, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0DDL4N8V2",
-        "price": 5099.32,
+        "name": "HUAWEI Watch GT 6 Smartwatch 46mm Reloj Inteligente Hombre, Verde | 1.47''AMOLED Pantalla, 21 Días de Batería, Ciclismo, GPS, NFC, ECG, SpO2, Compatible con iOS y Android, Correa Tejida",
+        "url": "https://www.amazon.com.mx/dp/B0FPQ8W464",
+        "price": 3999.0,
         "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-17T11:00:42.901228+00:00",
+    "ts": "2026-08-19T11:16:44.981380+00:00",
     "items": [
       {
         "store": "walmart",
@@ -251,16 +251,16 @@
       },
       {
         "store": "walmart",
-        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
-        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-sharp-edged-design-seguimiento-de-la-salud-resistente-al-agua-compatible-con-ios-y-android-negro-mate/00019457000223?athbdg=L1300",
-        "price": 5395.0,
+        "name": "Smartwatch Huawei Watch Gt 6 46mm Reloj Inteligente Color Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-46mm-reloj-inteligente-color-negro/00694210316871",
+        "price": 4390.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Huawei Band 9",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-band-9/00694210311808",
-        "price": 1099.0,
+        "name": "Smartwatch Huawei Fit 4 AMOLED 1.82” GPS 5ATM negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-fit-4-amoled-1-82-gps-5atm-negro/00694210315534",
+        "price": 2389.0,
         "model": null
       },
       {
@@ -272,16 +272,16 @@
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Huawei Fit 4 AMOLED 1.82” GPS 5ATM negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-fit-4-amoled-1-82-gps-5atm-negro/00694210315534",
-        "price": 2389.0,
+        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-negro/00070452118690?athbdg=L1300",
+        "price": 3399.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-negro/00694148723310",
-        "price": 3299.0,
+        "name": "Smartwatch Huawei Watch Fit 5 - Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-negro/00955568795608?athbdg=L1300",
+        "price": 2199.0,
         "model": null
       },
       {
@@ -293,6 +293,20 @@
       },
       {
         "store": "walmart",
+        "name": "Smartwatch Huawei Band 9",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-band-9/00694210311808",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
+        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-sharp-edged-design-seguimiento-de-la-salud-resistente-al-agua-compatible-con-ios-y-android-negro-mate/00019457000223?athbdg=L1300",
+        "price": 5395.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Smartwatch Huawei Watch GT 6 46mm Reloj Inteligente Color Verde",
         "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-46mm-reloj-inteligente-color-verde/00694210316873",
         "price": 4099.0,
@@ -300,23 +314,9 @@
       },
       {
         "store": "walmart",
-        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-negro/00070452118690?athbdg=L1300",
-        "price": 3399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch GT 6 41mm Reloj Inteligente Color Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-41mm-reloj-inteligente-color-negro/00694210316959?athbdg=L6000",
-        "price": 4199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Gt 6 46mm Reloj Inteligente Color Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-46mm-reloj-inteligente-color-negro/00694210316871",
-        "price": 4390.0,
+        "name": "Smartwatch Huawei Watch Fit Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-negro/00694148723310",
+        "price": 3299.0,
         "model": null
       },
       {
@@ -329,7 +329,7 @@
     ]
   },
   "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-17T11:00:44.349505+00:00",
+    "ts": "2026-08-19T11:16:49.417850+00:00",
     "items": []
   },
   "amazon|HR2242": {
@@ -6878,349 +6878,6 @@
   },
   "sams|REEBOKSMARTBANDREEBOKRBK": {
     "ts": "2026-08-19T09:25:43.119934+00:00",
-    "items": []
-  },
-  "amazon|ASUSGRAPHICSVIVOBOOKLAPTOPWUXGA": {
-    "ts": "2026-08-17T11:00:48.836713+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14 Flip Laptop Copilot+ PC, pantalla táctil OLED WUXGA de 14”, 8 núcleos AI Intel Core Ultra 5 226V, gráficos Intel Arc, 16 GB RAM 1 TB SSD, Win 11 H, gris mate, TP3407SA-ES54T, con",
-        "url": "https://www.amazon.com.mx/dp/B0FM715566",
-        "price": 24989.99,
-        "model": "TP3407SA-ES54T"
-      },
-      {
-        "store": "amazon",
-        "name": "Smatree Funda de Protección Rígida en EVA Compatible con Laptop ASUS Vivobook 17 de 17,3\", estuche Rígido Impermeable para Laptop ASUS Vivobook 17X de 17,3 Pulgadas (X8312)",
-        "url": "https://www.amazon.com.mx/dp/B0CR41M7NG",
-        "price": 1281.51,
-        "model": "X8312"
-      },
-      {
-        "store": "amazon",
-        "name": "Smatree Funda protectora anti-choque para laptop de 14 pulgadas, hecha a medida para ASUS Vivobook 14X OLED K3405, ASUS Vivobook 14, ASUS L410, Chromebook Plus CX34 CX3402, Chromebook Flip CX3 CX3400",
-        "url": "https://www.amazon.com.mx/dp/B0DJPCLV4L",
-        "price": 1124.19,
-        "model": "CX3402"
-      },
-      {
-        "store": "amazon",
-        "name": "Smatree - Funda para portátil ASUS Zenbook Duo 2024 UX8406 de 14\" | Para ASUS Vivobook 14 Flip TP3407/S 14 S5406/S 14 OLED M5406 Copilot + PC, 14 pulgadas Zenbook 14/14 OLED/14 Flip OLED (E413)",
-        "url": "https://www.amazon.com.mx/dp/B0DHXY2Y1V",
-        "price": 1124.99,
-        "model": "TP3407/S"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14 Laptop, PC Copilot+, visualización WUXGA de 60Hz de 14 Pulgadas, AMD Ryzen AI 7 350 con NPU XDNA, AMD Radeon Graphics, 16 GB de RAM, SSD de 512 GB, Oro Platino, M1407KA-PS74",
-        "url": "https://www.amazon.com.mx/dp/B0F22H6BL8",
-        "price": 19876.37,
-        "model": "M1407KA-PS74"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 18 Laptop, visualización WUXGA de 18 Pulgadas de 144 Hz, AMD Ryzen 7 260 con NPU XDNA, AMD Radeon Graphics, 32 GB de RAM, 1 TB SSD, Azul silencioso, M1807HA-DB79",
-        "url": "https://www.amazon.com.mx/dp/B0FFQG56LC",
-        "price": 21900.12,
-        "model": "M1807HA-DB79"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16X 16 WUXGA (1920x1200) IPS Laptop 2025 Nuevo | Intel i9-13900H de 14 núcleos | Intel Iris Xe Graphics | Teclado retroiluminado | Huella Dactilar | Wi-Fi 6E | 16GB DDR4 1TB SSD | Win10",
-        "url": "https://www.amazon.com.mx/dp/B0FYPJWY9T",
-        "price": 18239.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
-        "price": 14599.0,
-        "model": "7-7730U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED (1920 x 1200), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0FP98S86K",
-        "price": 18799.0,
-        "model": "13900H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 2 in 1 Core Ultra 7 256v 1tb Ssd 16gb Ram Pantalla Táctil Wuxga 1920x1200 Intel ARC Gr Laptop Gamer con Regalo",
-        "url": "https://www.amazon.com.mx/dp/B0GS3GQW8B",
-        "price": 17211.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
-        "price": 22999.0,
-        "model": "TOPS/24GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 14 (2025)/ Ryzen 3 7320U/ AMD Radeon Graphics/ 8GB - 512GB SSD/Wi-Fi 5 + Bluetooth 5.1/ Teclado en Español (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
-        "price": 7399.0,
-        "model": "7320U"
-      }
-    ]
-  },
-  "walmart|ASUSGRAPHICSVIVOBOOKLAPTOPWUXGA": {
-    "ts": "2026-08-17T11:00:52.371791+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807?athbdg=L1300",
-        "price": 17999.0,
-        "model": "13900H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook: ntel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-ntel-core-i3-1215u-hasta-4-4-ghz-memoria-de-8gb-ddr4-ssd-de-512gb-pantalla-de-15-6-led-full-hd-1920-x-1080-video-uhd-graphics-s-o-windows-11-home-/00019929121395?athbdg=L6000",
-        "price": 21732.0,
-        "model": "1215U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook Go E1404FA-NK209W R5 16GB 512GB Negro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-e1404fa-nk209w-r5-16gb-512gb-negro/00019710545446?athbdg=L1600",
-        "price": 10499.0,
-        "model": "E1404FA-NK209W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook X1404VA-EB1247W Ci5 8GB 512GB Azul + Backpack + Mouse",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1404va-eb1247w-ci5-8gb-512gb-azul-backpack-mouse/00019929105493?athbdg=L1300",
-        "price": 9447.0,
-        "model": "X1404VA-EB1247W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook 15.6\" Celeron 4GB 64GB Negro ‎L510MA-AS02",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-celeron-4gb-64gb-negro-l510ma-as02/00019555368448?athbdg=L1300",
-        "price": 6819.0,
-        "model": "L510MA-AS02"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook Laptop de 14\" - FHD (1920 X 1080) - Intel Core i7-1355U - 10 Núcleos - Intel UHD Graphics - Copilot - Cámara de Privacidad - Windows 11 Home - con Mouse Inalámbrico (24GB DDR4 RAM / 1TB",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-laptop-de-14-fhd-1920-x-1080-intel-core-i7-1355u-10-nucleos-intel-uhd-graphics-copilot-camara-de-privacidad-windows-11-home-con-mouse-inalambrico-24gb-ddr4-ram-1tb/00019710516556?athbdg=L1300",
-        "price": 16716.43,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook X1405VA-LY611W Intel Core i7 13620H 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1405va-ly611w-intel-core-i7-13620h-16gb-512gb/00019710589097?athbdg=L1300",
-        "price": 15997.0,
-        "model": "X1405VA-LY611W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook D1502YA-NJ584W AMD Ryzen 7 5825U 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d1502ya-nj584w-amd-ryzen-7-5825u-16gb-512gb/00019710589093?athbdg=L1600",
-        "price": 11999.0,
-        "model": "D1502YA-NJ584W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook Go E1404FA-NK341W AMD Ryzen 5 7th 8GB 512GB Negro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-e1404fa-nk341w-amd-ryzen-5-7th-8gb-512gb-negro/00019710557052?athbdg=L1300",
-        "price": 8997.0,
-        "model": "E1404FA-NK341W"
-      }
-    ]
-  },
-  "sams|ASUSGRAPHICSVIVOBOOKLAPTOPWUXGA": {
-    "ts": "2026-08-17T11:00:54.508804+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-17T11:00:56.860409+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1759.0,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de Repuesto para Cafetera, 12 Tazas, 16.1 cm de Altura, Compatible con Modelos Oster BVSTRC12, BVSTDC12X, BVSTDCP12X",
-        "url": "https://www.amazon.com.mx/dp/B0FWGQ6KCC",
-        "price": 465.0,
-        "model": "BVSTDCP12X"
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
-        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
-        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
-        "price": 2386.1,
-        "model": "BVSTDC4411-013ris"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1543.55,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Repuesto Para Cafetera De 12 Tazas Compatible Con Cafetera Oster (Reivisar modelos compatibles)",
-        "url": "https://www.amazon.com.mx/dp/B0CH1P2SQ3",
-        "price": 312.55,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-17T11:01:14.303105+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera 12 tazas Hamilton Beach 49316",
-        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
-        "price": 419.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Análoga 12 Tazas Negra",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L6000",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
-        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
-        "price": 4253.48,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-17T11:01:15.049115+00:00",
     "items": []
   },
   "amazon|85X11L": {
@@ -39085,6 +38742,300 @@
   },
   "sams|MICHAELKORSINOXIDABLETRICOLORCORREAWATCH": {
     "ts": "2026-08-19T10:48:09.617641+00:00",
+    "items": []
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-19T11:17:02.896753+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DNLLZDPG",
+        "price": 5999.0,
+        "model": "12+256G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0DNKPS4NK",
+        "price": 5779.0,
+        "model": "12+256G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
+        "price": 7599.0,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2372.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
+        "price": 7999.0,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 11i, (8+3)+128, 16MP Cámara Frontal, 40W, Negro, Dual SIM (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CC8FZBPN",
+        "price": 4053.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
+        "price": 9999.0,
+        "model": "12G+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
+        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
+        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Celular Realme C85 | 8 GB RAM + 256 GB | Dual SIM | Snapdragon 685 | Batería 7000mAh | Carga Rápida 45W | Pantalla 6.8\" 144Hz | Cámara 50 MP | IP69 | Negro",
+        "url": "https://www.amazon.com.mx/dp/B0H1JVPRZ1",
+        "price": 3990.0,
+        "model": "7000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512GB, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DNRF8HWW",
+        "price": 11499.0,
+        "model": "12+512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 14 Pro Smartphone 12G+512G, Cámara Selfie Dual Ultra Retrato de 50 MP, Gestos en el Aire con IA, Batería de 5500 mAh, Supercharge, Pantalla Flawless Quad-Curved de 6.78\", Celular Negro",
+        "url": "https://www.amazon.com.mx/dp/B0G75QYMW5",
+        "price": 8990.0,
+        "model": "12G+512G"
+      }
+    ]
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-19T11:17:05.785797+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
+        "price": 1639.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
+    "ts": "2026-08-19T11:17:06.388493+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-19T11:17:10.538096+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "800ml New Juego de cafetera Pour Over, jarra de vidrio sin papel con filtro de acero inoxidable 304, cafetera de vidrio reutilizable, goteador de café manual, goteo",
+        "url": "https://www.amazon.com.mx/dp/B09ZRMS7VR",
+        "price": 303.54,
+        "model": "800ml"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Wacaco Pipamoka, cafetera portátil todo en uno con presión de vacío, taza de viaje aislada, cafetera manual y de presión, extracción rápida, termo taza de acero inoxidable, 10 fl oz",
+        "url": "https://www.amazon.com.mx/dp/B083FSGH45",
+        "price": 1190.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
+        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
+        "price": 2386.1,
+        "model": "BVSTDC4411-013ris"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera automática PrimaLatte con 19 bares, en acero inoxidable con paneles de fibra de carbono",
+        "url": "https://www.amazon.com.mx/dp/B01N24I6CT",
+        "price": 7500.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-19T11:17:23.967530+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2206.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
+        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
+        "price": 635.0,
+        "model": "BVST/DC05-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-19T11:17:25.191722+00:00",
     "items": []
   }
 }
