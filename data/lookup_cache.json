@@ -6880,846 +6880,6 @@
     "ts": "2026-08-19T09:25:43.119934+00:00",
     "items": []
   },
-  "amazon|85X11L": {
-    "ts": "2026-08-17T11:29:07.801259+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "TCL 85X11L Pantalla 85\" SQD-MiniLED 4K Smart TV | HDR 10,000 Nits | 144Hz VRR | Dolby Vision IQ HDR 10+ |Dolby Atmos | Sistema de Audio Bang and Olufsen 380W | Compatible con Alexa",
-        "url": "https://www.amazon.com.mx/dp/B0GWSCF8X3",
-        "price": 90159.44,
-        "model": "85X11L"
-      },
-      {
-        "store": "amazon",
-        "name": "TRUEWERK Men’s Work Shorts - T1 Werkshorts, Moisture Wicking, Multi-Pocket Cargo Shorts with 4-Way Stretch | Secado rápido en 8 minutos, entrepierna reforzada, 9 bolsillos con bolsillo con cierre para teléfono",
-        "url": "https://www.amazon.com.mx/dp/B093XBQJBY",
-        "price": 1668.07,
-        "model": "4-Way"
-      }
-    ]
-  },
-  "walmart|85X11L": {
-    "ts": "2026-08-17T11:29:12.138895+00:00",
-    "items": []
-  },
-  "sams|85X11L": {
-    "ts": "2026-08-17T11:29:13.198255+00:00",
-    "items": []
-  },
-  "amazon|ASUSGRAPHICSVIVOBOOKLAPTOPINTEL": {
-    "ts": "2026-08-17T11:29:16.626065+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Laptop de 14 pulgadas FHD, procesador Intel Core i3-1315U, 8 GB RAM, SSD de 128 GB, Windows 11 Home, Intel UHD Graphics, Wi-Fi, Bluetooth, Quiet Blue, X1404VA-I38128",
-        "url": "https://www.amazon.com.mx/dp/B0FF4LGG9D",
-        "price": 6279.0,
-        "model": "X1404VA-I38128"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
-        "price": 7599.0,
-        "model": "1215U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14\" Fhd Display Laptop, Intel Core 5 120U Graphics, 8GB Ddr4, 256GB Ssd, Wi-fi 6, Bluetooth, Copilot Ai, Windows 11 Home en Modo S, Azul | 14\" FHD, Intel Core 5 120U, 8GB DDR4, 256GB SSD, Wi-Fi 6, Windows 11 Home en modo S, azul silencioso",
-        "url": "https://www.amazon.com.mx/dp/B0G1H9GYNJ",
-        "price": 8049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED (1920 x 1200), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0FP98S86K",
-        "price": 18799.0,
-        "model": "13900H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 15 15.6\" FHD 60Hz Laptop con procesador Intel N150, Intel UHD Graphics, 8GB RAM, 128GB SSD, Plata fría",
-        "url": "https://www.amazon.com.mx/dp/B0GPSX4BWX",
-        "price": 7496.01,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
-        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
-        "price": 9408.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS 2025 Laptop | Vivobook 14 | 14 pulgadas 1920 x 1080 | Intel-10 Core i5-1334U | Intel Iris Xe Graphics | 12GB DDR4 | 512GB SSD | Windows 11 Home | Wi-Fi 5 - Bluetooth 5 - Cámara HD 720p - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0FHHJN6DD",
-        "price": 12732.99,
-        "model": "Intel-10"
-      },
-      {
-        "store": "amazon",
-        "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
-        "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
-        "price": 12389.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS 2024 Vivobook Go 11.6\" HD Laptop, Intel Celeron N4500, Intel Graphics, 4GB, 128GB, Windows 11 Home en modo S, negro estrella, L210KA-ES04 (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0D9QYVL3W",
-        "price": 4324.23,
-        "model": "L210KA-ES04"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16X 16 WUXGA (1920x1200) IPS Laptop 2025 Nuevo | Intel i9-13900H de 14 núcleos | Intel Iris Xe Graphics | Teclado retroiluminado | Huella Dactilar | Wi-Fi 6E | 16GB DDR4 1TB SSD | Win10",
-        "url": "https://www.amazon.com.mx/dp/B0FYPJWY9T",
-        "price": 18239.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14\" FHD Laptop, Intel Core 13th 1315U, 12GB RAM, 640GB SSD (512GB PCIe + 128GB Disco Duro Portátil, Cámara Web 720p, Win11, con Mouse Inalámbrico) (12GB RAM | 640GB SSD)",
-        "url": "https://www.amazon.com.mx/dp/B0FNWJHY7Z",
-        "price": 8805.99,
-        "model": "1315U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
-        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
-        "price": 10999.0,
-        "model": "RAM/512GB"
-      }
-    ]
-  },
-  "walmart|ASUSGRAPHICSVIVOBOOKLAPTOPINTEL": {
-    "ts": "2026-08-17T11:29:21.074869+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
-        "price": 17999.0,
-        "model": "13900H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046373228812?athbdg=L1300",
-        "price": 10579.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046113099307?athbdg=L1300",
-        "price": 12499.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook 14\" (Intel Core 5-120U) (8/256GB SSD) Win11 Blue (X1404VAP-V14.C58256)",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-14-intel-core-5-120u-8-256gb-ssd-win11-blue-x1404vap-v14-c58256-/00019929116522",
-        "price": 8049.0,
-        "model": "X1404VAP-V14"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 Intel Core i7 1355U 12GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i7-1355u-12gb-ram-512gb-ssd-14-windows-11-home-teclado-en-ingles/00019710587618?athbdg=L1300",
-        "price": 11349.0,
-        "model": "1355U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 8GB RAM 128GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-8gb-ram-128gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046045033850?athbdg=L1300",
-        "price": 8499.0,
-        "model": "i3-1315U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
-        "price": 25999.0,
-        "model": "FX607"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 15 Intel Core i3 1315U 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-intel-core-i3-1315u-8gb-ram-512gb-ssd-15-6-windows-11-home-teclado-en-espanol/00019710590862?athbdg=L1300",
-        "price": 8999.0,
-        "model": "1315U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook F1404VA-NK1055X: Intel Core i5 1334U, RAM 8GB DDR4, SSD 512GB, Pantalla 14\", Windows 11 Pro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-f1404va-nk1055x-intel-core-i5-1334u-ram-8gb-ddr4-ssd-512gb-pantalla-14-windows-11-pro/00019710590859?athbdg=L1300",
-        "price": 10099.0,
-        "model": "F1404VA-NK1055X"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus ROG G614PH-RV040W NVIDIA GeForce RTX 5050 R9 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-rog-g614ph-rv040w-nvidia-geforce-rtx-5050-r9-16gb-512gb/00019929102100",
-        "price": 30997.0,
-        "model": "G614PH-RV040W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 512GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-512gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230309449?athbdg=L1300",
-        "price": 10199.0,
-        "model": "i3-1315U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook X1504VA-E85362W C5 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1504va-e85362w-c5-16gb-512gb/00019929138370",
-        "price": 14997.0,
-        "model": "X1504VA-E85362W"
-      }
-    ]
-  },
-  "sams|ASUSGRAPHICSVIVOBOOKLAPTOPINTEL": {
-    "ts": "2026-08-17T11:29:22.392817+00:00",
-    "items": []
-  },
-  "amazon|COACHCORREAACEROAPPLEWATCH": {
-    "ts": "2026-08-17T11:29:25.571361+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
-        "url": "https://www.amazon.com.mx/dp/B0CDSNXDJT",
-        "price": 1241.21,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DLFJD2T2",
-        "price": 1171.37,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DLFR669C",
-        "price": 1099.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
-        "url": "https://www.amazon.com.mx/dp/B0CWS71NTV",
-        "price": 1759.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable con estilo distintivo para un aspecto personalizado",
-        "url": "https://www.amazon.com.mx/dp/B0DYG9TF16",
-        "price": 1094.91,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach - Apple Straps - Correa Apple Watch para Mujer 14700244 - Acero Inoxidable Multicolor - Compatible 38/40/41 mm",
-        "url": "https://www.amazon.com.mx/dp/B0D244R42M",
-        "price": 1899.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DLG65S12",
-        "price": 2753.63,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, crea tu estilo único",
-        "url": "https://www.amazon.com.mx/dp/B0D23X7Z2L",
-        "price": 2659.3,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "APPLE WATCH® - Correa de 38 mm, 40 mm, 41 mm y 42 mm",
-        "url": "https://www.amazon.com.mx/dp/B0F3LNTQ6J",
-        "price": 1099.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa Acero inox.​ para Apple Watch 46mm/49mm, Cierre Mariposa, Ti-Gris | MaKTech, Cierre Premium 316L, Superficie Cepillada, Pulsera Eslabones, para Apple Watch 11/10 46mm, 45mm, Ultra 49mm, SE 44mm",
-        "url": "https://www.amazon.com.mx/dp/B0BL85X88S",
-        "price": 593.0,
-        "model": "46mm/49mm"
-      },
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DR9F71NL",
-        "price": 2199.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Kate Spade New York, Pulsera de reloj intercambiable KSS0067, mujeres, Borde festoneado/tono dorado rubor, Una talla",
-        "url": "https://www.amazon.com.mx/dp/B08DHNDDBL",
-        "price": 2793.44,
-        "model": "KSS0067"
-      }
-    ]
-  },
-  "walmart|COACHCORREAACEROAPPLEWATCH": {
-    "ts": "2026-08-17T11:29:34.655456+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple Watch Serie 7 GPS Caja De Acero Inoxidable Grafito 41 mm Correa Milanesa Grafito MKHK3LL/A",
-        "url": "https://www.walmart.com.mx/ip/apple-watch-serie-7-gps-caja-de-acero-inoxidable-grafito-41-mm-correa-milanesa-grafito-mkhk3ll-a/00019425256662",
-        "price": 16429.71,
-        "model": "MKHK3LL/A"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Milanese Loop para Apple Watch, Acero Inoxidable, Compatible con Series 1,2,3,4,5,6,7,8,9,10,11,SE,ULTRA",
-        "url": "https://www.walmart.com.mx/ip/correa-milanese-loop-para-apple-watch-acero-inoxidable-compatible-con-series-1-2-3-4-5-6-7-8-9-10-11-se-ultra/00750306129373?athbdg=L1300",
-        "price": 609.39,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Acero Inoxidable, Eslabones/Cadenas Para Apple Watch Series 1/2/3/4/5/6/7/8/9/10",
-        "url": "https://www.walmart.com.mx/ip/correa-acero-inoxidable-eslabones-cadenas-para-apple-watch-series-1-2-3-4-5-6-7-8-9-10/00750306072815?athbdg=L1300",
-        "price": 502.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Cerámica Acero Inoxidable Premium Para Applewatch 42/44/45mm",
-        "url": "https://www.walmart.com.mx/ip/correa-de-ceramica-acero-inoxidable-premium-para-applewatch-42-44-45mm/00750304440369?athbdg=L1300",
-        "price": 538.92,
-        "model": "42/44/45mm"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015449?athbdg=L1300",
-        "price": 242.14,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Apple Watch 42/44mm Eslabon Acero Inoxidable Negro Genérica Compatible Apple Watch 42/44mm",
-        "url": "https://www.walmart.com.mx/ip/correa-apple-watch-42-44mm-eslabon-acero-inoxidable-negro-generica-compatible-apple-watch-42-44mm/00060060321713",
-        "price": 937.0,
-        "model": "42/44mm"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Milanesa de Acero Inoxidable Para Apple Watch, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-milanesa-de-acero-inoxidable-para-apple-watch-compatible-con-todas-las-series/00750306177077?athbdg=L1300",
-        "price": 478.8,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015492?athbdg=L1300",
-        "price": 242.14,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015464?athbdg=L1300",
-        "price": 242.14,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015442?athbdg=L1300",
-        "price": 242.14,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Para Apple Watch, Eslabones de Acero Inoxidable con Case de Vidrio, Compatible con Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-para-apple-watch-eslabones-de-acero-inoxidable-con-case-de-vidrio-compatible-con-todas-las-series/00750306015483?athbdg=L1300",
-        "price": 242.14,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa compatible con Apple Watch, Acero Inoxidable, Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/correa-compatible-con-apple-watch-acero-inoxidable-todas-las-series/00750306140992?athbdg=L1300",
-        "price": 373.2,
-        "model": null
-      }
-    ]
-  },
-  "sams|COACHCORREAACEROAPPLEWATCH": {
-    "ts": "2026-08-17T11:29:35.551100+00:00",
-    "items": []
-  },
-  "amazon|TORYBURCHINOXIDABLESILICONCORREAACERO": {
-    "ts": "2026-08-17T11:29:38.572694+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Tory Burch",
-        "url": "https://www.amazon.com.mx/dp/B0FFTQRST2",
-        "price": 6191.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch",
-        "url": "https://www.amazon.com.mx/dp/B0FFTQVLQB",
-        "price": 5397.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch",
-        "url": "https://www.amazon.com.mx/dp/B0FFTRD685",
-        "price": 5397.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ZJchao",
-        "url": "https://www.amazon.com.mx/dp/B0DRFQLMKZ",
-        "price": 107.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch",
-        "url": "https://www.amazon.com.mx/dp/B0GFXSDNKM",
-        "price": 4320.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "DEALELE",
-        "url": "https://www.amazon.com.mx/dp/B0B1BJ585R",
-        "price": 558.48,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "WOCCI",
-        "url": "https://www.amazon.com.mx/dp/B0DG27BPBW",
-        "price": 576.95,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "GREENOLIVE",
-        "url": "https://www.amazon.com.mx/dp/B0CXXCLDH6",
-        "price": 280.14,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TStrap",
-        "url": "https://www.amazon.com.mx/dp/B0DPZ59KQN",
-        "price": 282.56,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Archer Watch Straps",
-        "url": "https://www.amazon.com.mx/dp/B01N9OM5DD",
-        "price": 364.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "18 mm 20 mm 22 mm 24 mm eslabones de acero inoxidable banda de reloj muñeca pulsera correa de repuesto doble cierre de bloqueo",
-        "url": "https://www.amazon.com.mx/dp/B0GYW74YTW",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Archer Watch Straps",
-        "url": "https://www.amazon.com.mx/dp/B0FXNKVJHR",
-        "price": 784.31,
-        "model": null
-      }
-    ]
-  },
-  "walmart|TORYBURCHINOXIDABLESILICONCORREAACERO": {
-    "ts": "2026-08-17T11:29:43.124006+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bolsa Crossbody Tory  Burch color negro con doble asa desmontable y ajustable",
-        "url": "https://www.walmart.com.mx/ip/bolsa-crossbody-tory-burch-color-negro-con-doble-asa-desmontable-y-ajustable/00750305199934?athbdg=L1300",
-        "price": 4201.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lentes de Sol Tory Burch TY 7143U 172813 Marrón Oscuro Carey",
-        "url": "https://www.walmart.com.mx/ip/lentes-de-sol-tory-burch-ty-7143u-172813-marron-oscuro-carey/00072512508412?athbdg=L1300",
-        "price": 5719.0,
-        "model": "7143U"
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa Tote Tory   BurchPerry Grande Monogram color azul marino",
-        "url": "https://www.walmart.com.mx/ip/bolsa-tote-tory-burchperry-grande-monogram-color-azul-marino/00750305626169?athbdg=L1300",
-        "price": 5401.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa Crossbody Tory  burch Kira color negro con doble asa dorada",
-        "url": "https://www.walmart.com.mx/ip/bolsa-crossbody-tory-burch-kira-color-negro-con-doble-asa-dorada/00750305583581?athbdg=L1300",
-        "price": 10801.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Smartwatch Del Silicón, Correa De Reloj Del Silicón Diseño Poroso Liberación Rápida Respirable Para Actualizar",
-        "url": "https://www.walmart.com.mx/ip/correa-de-smartwatch-del-silicon-correa-de-reloj-del-silicon-diseno-poroso-liberacion-rapida-respirable-para-actualizar/00678127324691",
-        "price": 182.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa Tory  monogram Hobo Jacquard Mini",
-        "url": "https://www.walmart.com.mx/ip/bolsa-tory-monogram-hobo-jacquard-mini/00750305626150?athbdg=L1300",
-        "price": 4135.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Limpiador de acero inoxidable Dr Beckmann 250 ml",
-        "url": "https://www.walmart.com.mx/ip/limpiador-de-acero-inoxidable-dr-beckmann-250-ml/00400845542391?athbdg=L1510",
-        "price": 84.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa crossbody Tory Burch color negro piel",
-        "url": "https://www.walmart.com.mx/ip/bolsa-crossbody-tory-burch-color-negro-piel/00750304688466?athbdg=L6000",
-        "price": 6799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Reloj Del Silicón, Correa Elegante Del Silicón Smartwatch Suave Respirable Para Actualizar",
-        "url": "https://www.walmart.com.mx/ip/correa-de-reloj-del-silicon-correa-elegante-del-silicon-smartwatch-suave-respirable-para-actualizar/00628086896654",
-        "price": 151.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa Tote  Tory   Burch Perry Mini Monogram color azul marino",
-        "url": "https://www.walmart.com.mx/ip/bolsa-tote-tory-burch-perry-mini-monogram-color-azul-marino/00750305626168?athbdg=L1300",
-        "price": 4495.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Perfume Tory Burch Knock On Wood 7 ml EDP para mujer",
-        "url": "https://www.walmart.com.mx/ip/perfume-tory-burch-knock-on-wood-7-ml-edp-para-mujer/00019510600142?athbdg=L1300",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Termo De Acero Inoxidable Vencort Silicon Rosa 350 ml",
-        "url": "https://www.walmart.com.mx/ip/termo-de-acero-inoxidable-vencort-silicon-rosa-350-ml/00789052012074",
-        "price": 415.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|TORYBURCHINOXIDABLESILICONCORREAACERO": {
-    "ts": "2026-08-17T11:29:45.574193+00:00",
-    "items": []
-  },
-  "amazon|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
-    "ts": "2026-08-17T11:29:47.491853+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lamshaw",
-        "url": "https://www.amazon.com.mx/dp/B09GYBMC74",
-        "price": 375.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Lamshaw",
-        "url": "https://www.amazon.com.mx/dp/B09GYCCL12",
-        "price": 376.47,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Lamshaw",
-        "url": "https://www.amazon.com.mx/dp/B09GYDHNGV",
-        "price": 375.67,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Lamshaw",
-        "url": "https://www.amazon.com.mx/dp/B09GYCK3H1",
-        "price": 375.57,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj con muesca de acero inoxidable de 20x12mm Compatible con MK Michael Kors MK2277 MK2425 MK5896 MK5354",
-        "url": "https://www.amazon.com.mx/dp/B0GRG475K1",
-        "price": 933.53,
-        "model": "20x12mm"
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj compatible con correa de acero inoxidable Michael Kors de 20 mm con hebilla de repuesto para hombres y mujeres",
-        "url": "https://www.amazon.com.mx/dp/B0D9NKCNVV",
-        "price": 527.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 4 Runway de acero inoxidable con acabado brillante (oro rosa)",
-        "url": "https://www.amazon.com.mx/dp/B0BHLJXNX3",
-        "price": 341.38,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj con muesca de acero inoxidable de 20x12mm Compatible con MK Michael Kors MK2277 MK2425 MK5896 MK5354",
-        "url": "https://www.amazon.com.mx/dp/B0GRFPJY1T",
-        "price": 933.53,
-        "model": "20x12mm"
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de goma compatible con correa de reloj de silicona Michael Kors MK8152 MK8295 MK8356 MK8380 MK9020 de 13 mm x 29 mm, hebilla naranja plateada",
-        "url": "https://www.amazon.com.mx/dp/B0D2VSXRJG",
-        "price": 340.0,
-        "model": "MK8152"
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 5 Access Bradshaw 2 Correa de reloj de repuesto de silicona con hebilla monótona (rosa rubor)",
-        "url": "https://www.amazon.com.mx/dp/B0F6VMKNRX",
-        "price": 220.93,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 5 Access Bradshaw 2 Correa de repuesto ajustable de acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0F6VX9GFQ",
-        "price": 289.76,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Correa de reloj de liberación rápida compatible con Michael Kors Gen 5 Access Bradshaw 2 Correa de repuesto ajustable de acero inoxidable (oro rosa)",
-        "url": "https://www.amazon.com.mx/dp/B0F6VVBV34",
-        "price": 289.76,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
-    "ts": "2026-08-17T11:29:51.757114+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
-        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
-        "price": 3329.48,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Michael Kors Bolso Bandolera Extrapequeño con Logo Vincent y Tarjetero 35F4G2VC0B-847",
-        "url": "https://www.walmart.com.mx/ip/michael-kors-bolso-bandolera-extrapequeno-con-logo-vincent-y-tarjetero-35f4g2vc0b-847/00019785307995?athbdg=L1300",
-        "price": 2331.79,
-        "model": "35F4G2VC0B-847"
-      },
-      {
-        "store": "walmart",
-        "name": "Double Zip Wristlet Michael Kors 35F8STVW0B Michael Kors 35F8STVW0B",
-        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8stvw0b-michael-kors-35f8stvw0b/00019231778386",
-        "price": 1402.83,
-        "model": "35F8STVW0B"
-      },
-      {
-        "store": "walmart",
-        "name": "Cartera Michael Kors Original Doble Cierre Vainilla Rosa",
-        "url": "https://www.walmart.com.mx/ip/cartera-michael-kors-original-doble-cierre-vainilla-rosa/00019490006572?athbdg=L6000",
-        "price": 2480.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bandolera Michael Kors Mercer de piel extrapequeña",
-        "url": "https://www.walmart.com.mx/ip/bandolera-michael-kors-mercer-de-piel-extrapequena/00019490048706?athbdg=L1300",
-        "price": 2283.73,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Michael Kors 35S2Gnms8L Carmen Bolso Mediano de Piel Sintética con Cinturón Negro",
-        "url": "https://www.walmart.com.mx/ip/michael-kors-35s2gnms8l-carmen-bolso-mediano-de-piel-sintetica-con-cinturon-negro/00019616308126?athbdg=L1300",
-        "price": 4251.78,
-        "model": "35S2Gnms8L"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
-        "price": 3199.0,
-        "model": "MK2102"
-      },
-      {
-        "store": "walmart",
-        "name": "Mono Estampado De Leopardo Michael Kors Para Mujer Marrón 2",
-        "url": "https://www.walmart.com.mx/ip/mono-estampado-de-leopardo-michael-kors-para-mujer-marron-2/00019359943151",
-        "price": 3165.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS MK1018 11475D 56MM",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1018-11475d-56mm/00074420333697",
-        "price": 3199.0,
-        "model": "MK1018"
-      },
-      {
-        "store": "walmart",
-        "name": "Michael Kors Womens Striped Pencil Skirt blackmulti 2",
-        "url": "https://www.walmart.com.mx/ip/michael-kors-womens-striped-pencil-skirt-blackmulti-2/00088915471861",
-        "price": 1476.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS ANGELICA MKS844 227 57MM CAREY",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-angelica-mks844-227-57mm-carey/00074420333704",
-        "price": 3199.0,
-        "model": "MKS844"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS ADRIANNA 1 MK1010 1103R1",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-adrianna-1-mk1010-1103r1/00074420333690",
-        "price": 3199.0,
-        "model": "MK1010"
-      }
-    ]
-  },
-  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
-    "ts": "2026-08-17T11:29:58.256564+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Eau De Parfum Spray Vaporisateur Michael Kors  Gorgeous para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-spray-vaporisateur-michael-kors-gorgeous-para-dama-100-ml/981031791",
-        "price": 981.26,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Michael Kors  Pour Femme para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pour-femme-para-dama-100-ml/981040614",
-        "price": 1216.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum  MICHAEL KORS  Pur Homme para Caballero 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pur-homme-para-caballero-100-ml/981040613",
-        "price": 1216.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sartén de Acero Inoxidable Member's Mark  3 Capas 10\"",
-        "url": "https://www.sams.com.mx/ip/sarten-de-acero-inoxidable-member-s-mark-3-capas-10/981039085",
-        "price": 556.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
-        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
-        "price": 748.99,
-        "model": "MX86037"
-      },
-      {
-        "store": "sams",
-        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
-        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
-        "price": 3373.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Olla de Acero Inoxidable Member's Mark  con Tapa 17 L",
-        "url": "https://www.sams.com.mx/ip/olla-de-acero-inoxidable-member-s-mark-con-tapa-17-l/981035093",
-        "price": 1237.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Bufetera Jocca  de Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
-        "price": 3129.34,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Molino de Café Daewoo Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
-        "price": 305.88,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tetera MEMBERS MARK  de Acero Inoxidable Negra",
-        "url": "https://www.sams.com.mx/ip/tetera-members-mark-de-acero-inoxidable-negra/981043026",
-        "price": 382.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Estante de Almacenamiento Seville  de Acero Inoxidable con Ruedas",
-        "url": "https://www.sams.com.mx/ip/estante-de-almacenamiento-seville-de-acero-inoxidable-con-ruedas/981041367",
-        "price": 1493.58,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jarra Térmica Technoware  Acero Inoxidable 2 Pzas",
-        "url": "https://www.sams.com.mx/ip/jarra-termica-technoware-acero-inoxidable-2-pzas/000234556",
-        "price": 643.46,
-        "model": null
-      }
-    ]
-  },
   "amazon|ASUSVIVOBOOKGRAPHICSLAPTOPWUXGA": {
     "ts": "2026-08-17T11:54:16.007522+00:00",
     "items": [
@@ -39036,6 +38196,125 @@
   },
   "sams|OSTERCAFETERAPANELTAZASACERO": {
     "ts": "2026-08-19T11:17:25.191722+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-19T11:42:56.247834+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Cecotec Cafetera de Goteo Coffee 56 Time 1000W Acero Inoxidable Pantalla LCD 1,3L",
+        "url": "https://www.amazon.com.mx/dp/B0GV1PTTW7",
+        "price": 1049.0,
+        "model": "1000W"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-19T11:43:00.620693+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
+    "ts": "2026-08-19T11:43:01.410676+00:00",
     "items": []
   }
 }
