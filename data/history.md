@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (856)
+# Historial de ofertas encontradas (859)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 15:37 | -32% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,664 | $8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia |
+| 2026-08-19 15:37 | -38% | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Bat…](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | $312 en amazon vs mercado -> -38% bajo la competencia |
+| 2026-08-19 15:37 | -56% | walmart | [Licuadora Portátil HoninJoy Personal de 650W con Vaso M…](https://www.walmart.com.mx/ip/licuadora-portatil-honinjoy-personal-de-650w-con-vaso-molinillo-y-2-vasos-portatiles/00061723003298) | $1,100 | $1,100 en walmart vs mercado -> -56% bajo la competencia |
 | 2026-08-19 15:23 | -25% | liverpool | [Cafetera Multicapsulas Nespresso A3Kgdv1 Us](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-a3kgdv1-us/1110219933) | $2,009 | $2,009 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-19 14:09 | -30% | liverpool | [Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984) | $11,895 | $11,895 en liverpool vs mercado -> -30% bajo la competencia |
 | 2026-08-19 13:29 | -31% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $16,148 | $16,148 en liverpool vs mercado -> -31% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -35% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | $12,707 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,143 | $1,143 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Cafetera 2217257 para 12 tazas](https://www.elpalaciodehierro.com/oster-cafetera-2217257-para-12-tazas-45162351.html) | $584 | $584 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | $2,677 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | $3,249 en palacio vs mercado -> -35% bajo la competencia |
