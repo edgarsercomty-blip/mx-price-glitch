@@ -1,19 +1,12 @@
 {
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-17T03:14:34.220104+00:00",
+    "ts": "2026-08-19T04:00:37.167833+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
         "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
         "price": 4699.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
-        "price": 5319.0,
         "model": "RAM/256GB"
       },
       {
@@ -25,24 +18,38 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
-        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
-        "price": 4360.0,
-        "model": "8GB-256GB"
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
+        "price": 5106.0,
+        "model": "RAM/256GB"
       },
       {
         "store": "amazon",
         "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
         "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
-        "price": 5537.0,
+        "price": 5533.0,
         "model": "256GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Moto Edge 50 Fusión 8+256GB Verde",
-        "url": "https://www.amazon.com.mx/dp/B0FXNDMTVQ",
-        "price": 4216.0,
-        "model": "8+256GB"
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul - Versión Internacional",
+        "url": "https://www.amazon.com.mx/dp/B0F1NB5BTK",
+        "price": 6019.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
+        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
+        "price": 6019.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6305.87,
+        "model": "RAM/512GB"
       },
       {
         "store": "amazon",
@@ -53,171 +60,72 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Verde",
-        "url": "https://www.amazon.com.mx/dp/B0F3HQ8MPY",
-        "price": 6129.0,
-        "model": "RAM/512GB"
+        "name": "Motorola Edge 70 Fusion FIFA | Detalles en oro",
+        "url": "https://www.amazon.com.mx/dp/B0GQ72SFWR",
+        "price": 7159.0,
+        "model": null
       },
       {
         "store": "amazon",
-        "name": "Motorola Combo Edge 50 Neo 8+256gb + Buds Bass",
-        "url": "https://www.amazon.com.mx/dp/B0GRWSP7NC",
-        "price": 5399.0,
-        "model": "8+256gb"
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Sporting Green (Verde) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ72GKV2",
+        "price": 7999.0,
+        "model": "8+256GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NB5BTK",
-        "price": 5999.0,
-        "model": "RAM/256GB"
+        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
+        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
+        "price": 4360.0,
+        "model": "8GB-256GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
-        "price": 5997.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
-        "price": 5189.0,
-        "model": "512GB"
+        "name": "Motorola Moto Edge 70 Fusión 8+256GB Country Air (Celeste) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
+        "price": 7949.0,
+        "model": "8+256GB"
       }
     ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-17T03:14:38.391727+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Turquesa Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-fusion-5g-256gb-turquesa-desbloqueado/00084002328739?athbdg=L1300",
-        "price": 5198.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Marron Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-marron-desbloqueado/00750622735965",
-        "price": 6899.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019702146653?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 50 Fusion 8GB RAM 256GB Almacenamiento Liberado Nuevo Forest Blue",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-50-fusion-8gb-ram-256gb-almacenamiento-liberado-nuevo-forest-blue/00084002327388?athbdg=L1300",
-        "price": 4398.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019663085013?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 50 Fusion 5G Dual Sim 256GB Verde Azulado 8GB Ram + Moto Buds",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-50-fusion-5g-dual-sim-256gb-verde-azulado-8gb-ram-moto-buds/00084002326673?athbdg=L1300",
-        "price": 4699.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00750304110536?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727?athbdg=L1300",
-        "price": 4690.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Moto Edge 70 Fusion 8GB 256GB Silhouette Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-moto-edge-70-fusion-8gb-256gb-silhouette-desbloqueado/00084049361779?athbdg=L1300",
-        "price": 6290.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB AZULADO más motorola MOTO BUDS BASS PANTONE BLUE JEWEL",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-50-fusion-8gb-ram-256-gb-azulado-mas-motorola-moto-buds-bass-pantone-blue-jewel/00046022564579?athbdg=L1300",
-        "price": 4678.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram Azul",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-fusion-5g-dual-sim-256gb-8ram-azul/00084002326276?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256gb"
-      }
-    ]
+    "ts": "2026-08-19T04:01:16.404471+00:00",
+    "items": []
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-17T03:14:38.966791+00:00",
+    "ts": "2026-08-19T04:01:17.213708+00:00",
     "items": []
   },
   "amazon|UN50M70HAFXZX": {
-    "ts": "2026-08-17T03:14:13.621146+00:00",
+    "ts": "2026-08-19T04:00:31.653669+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (65\")",
+        "url": "https://www.amazon.com.mx/dp/B0DTQC9XTX",
+        "price": 8869.0,
+        "model": "Q60DD"
+      },
       {
         "store": "amazon",
         "name": "Televisor Inteligente UN50U7900FFXZA de 50 Pulgadas, Serie U7900, Ultra HD 4K, Tizen TV, MetalStream, HDR, Sinfonía Q (2025)",
         "url": "https://www.amazon.com.mx/dp/B0FXHFYR2Y",
         "price": 6399.0,
         "model": "UN50U7900FFXZA"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (65\")",
-        "url": "https://www.amazon.com.mx/dp/B0DTQC9XTX",
-        "price": 8879.0,
-        "model": "Q60DD"
       }
     ]
   },
   "walmart|UN50M70HAFXZX": {
-    "ts": "2026-08-17T03:14:16.487162+00:00",
+    "ts": "2026-08-19T04:00:33.767032+00:00",
     "items": []
   },
   "sams|UN50M70HAFXZX": {
-    "ts": "2026-08-17T03:14:18.432291+00:00",
+    "ts": "2026-08-19T04:00:34.591222+00:00",
     "items": []
   },
   "amazon|UN43M70HAFXZX": {
-    "ts": "2026-08-17T03:14:21.380203+00:00",
+    "ts": "2026-08-19T04:00:23.762581+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Samsung Smart TV 43\" Mini LED UN43M70HAFXZX",
-        "url": "https://www.amazon.com.mx/dp/B0GXGJVCMV",
-        "price": 4490.0,
-        "model": "UN43M70HAFXZX"
-      },
       {
         "store": "amazon",
         "name": "TCL Smart TV Pantalla 98\" 98QM6K Google TV QLED - MiniLED 4K Google Assistant | Hands Free Voice Control | Alexa | VisionHDR10+| AiPQ™ | Micro Dimming | NITS1500 | Panel 288 Hz | Dolby Atmos Virtual X",
@@ -235,11 +143,11 @@
     ]
   },
   "walmart|UN43M70HAFXZX": {
-    "ts": "2026-08-17T03:14:30.798184+00:00",
+    "ts": "2026-08-19T04:00:28.411515+00:00",
     "items": []
   },
   "sams|UN43M70HAFXZX": {
-    "ts": "2026-08-17T03:14:31.437723+00:00",
+    "ts": "2026-08-19T04:00:29.192749+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
@@ -2041,188 +1949,6 @@
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
     "ts": "2026-08-18T21:14:27.368438+00:00",
-    "items": []
-  },
-  "amazon|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-17T03:13:53.565481+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad (A16) – Color Cielo ​​​​​​​ | Folio magnético con encendido automático y apagado para leer, ver y escribir",
-        "url": "https://www.amazon.com.mx/dp/B0DZ75GR1G",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad (A16) – Blanco ​​​​​​​ | Incluye Apple Smart Folio y 1 año de garantía limitada para protección, visualización y almacenamiento",
-        "url": "https://www.amazon.com.mx/dp/B0DZ74Y7G5",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Gris carbón ​​​​​​​ | Protección de tablet y visualización ajustable con perfil delgado y fijación magnética",
-        "url": "https://www.amazon.com.mx/dp/B0DK3WBL4P",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad (A16) – Color Limonada ​​​​​​​ | Folio magnético para iPad de 10.9 pulgadas de décima generación para leer, ver y llamadas FaceTime",
-        "url": "https://www.amazon.com.mx/dp/B0DZ75HZJV",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Funda Smart Folio (para el 12.9-Inch iPad Pro - cuarta generación) - Azul Marino Oscuro",
-        "url": "https://www.amazon.com.mx/dp/B08J5WVTQB",
-        "price": 840.74,
-        "model": "9-Inch"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Morado Claro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6WJSW",
-        "price": 2299.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-17T03:14:09.739826+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
-        "price": 2369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
-        "price": 1169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
-        "price": 2019.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio para iPad Pro de 12,9\" blanco",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-12-9-blanco/00019425243859?athbdg=L1300",
-        "price": 1409.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Smart Folio de Apple para iPad Pro de 11\" blanca",
-        "url": "https://www.walmart.com.mx/ip/funda-smart-folio-de-apple-para-ipad-pro-de-11-blanca/00019425243844?athbdg=L1300",
-        "price": 2379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio Para Ipad Pro De 13 Pulgadas (M4) - Mezclilla",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-13-pulgadas-m4-mezclilla/00019594943880?athbdg=L1300",
-        "price": 2339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
-        "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
-        "price": 875.82,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 10,9 pulgadas (5.ª y 4.ª generación)",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-10-9-pulgadas-5-y-4-generacion-/00019425310936",
-        "price": 1039.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
-        "price": 2339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2) - Violeta claro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-violeta-claro/00019594943904?athbdg=L1300",
-        "price": 2769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "n4A For iPad Pro 11 (2024) Leather Case Tree Pattern Folio Stand d7M Smart Tablet Cover -",
-        "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
-        "price": 672.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEIPADPROFOLIOSMART": {
-    "ts": "2026-08-17T03:14:11.506563+00:00",
     "items": []
   },
   "amazon|COACHCORREAAPPLEACEROWATCH": {
@@ -42448,6 +42174,118 @@
   },
   "sams|OSTERCAFETERAPANELACEROGOTEO": {
     "ts": "2026-08-19T03:12:13.764001+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-19T04:01:19.669035+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 749.0,
+        "model": "BVSTDCP121M"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
+        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
+        "price": 670.7,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-19T04:01:21.837156+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-PrimaLatte-2-Touch-Panel-Tactil-19-Bares-de-Presion-Compatibe-con-capsulas-Roja/00005389116966?athbdg=L1300",
+        "price": 2341.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELGOTEOTOUCH": {
+    "ts": "2026-08-19T04:01:22.533844+00:00",
     "items": []
   }
 }
