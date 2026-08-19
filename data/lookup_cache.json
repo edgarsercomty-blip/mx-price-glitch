@@ -6699,62 +6699,13 @@
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-17T08:03:02.848435+00:00",
+    "ts": "2026-08-19T08:06:09.547250+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
-        "price": 815.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
-        "price": 871.54,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Azul | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLMGTTS",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Rainbow | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
-        "url": "https://www.amazon.com.mx/dp/B0DSGN7ZGH",
+        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Negro | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
+        "url": "https://www.amazon.com.mx/dp/B0DSGLPKCC",
         "price": 2829.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Plata | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
-        "url": "https://www.amazon.com.mx/dp/B08N65WJVL",
-        "price": 3039.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S4 41mm con GPS, iOS & Android, Negro | Pantalla AMOLED de 41mm, Hasta 8 días de Batería, 150+ Modos Deportivos, Ciclo Menstrual, Correa Fluororubber",
-        "url": "https://www.amazon.com.mx/dp/B0FHWQ4SZP",
-        "price": 2444.25,
         "model": null
       },
       {
@@ -6766,37 +6717,79 @@
       },
       {
         "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
+        "price": 871.54,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Band 10 Smartwatch, iOS & Android, 5ATM, Rosa | Pantalla AMOLED de 1.72\", Hasta 21 días de Batería, 150+ Modos Deportivos, Gestión de Sueño Optimizado y Heart Rate",
+        "url": "https://www.amazon.com.mx/dp/B0DYF64BV2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
+        "price": 815.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
+        "price": 871.54,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Negro | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
+        "url": "https://www.amazon.com.mx/dp/B08N64F336",
+        "price": 3099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Plata | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
+        "url": "https://www.amazon.com.mx/dp/B08N65WJVL",
+        "price": 3039.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Azul | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQLMGTTS",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "XIAOMI Watch 5 Smartwatch 47mm con GPS & NFC, Solo para Android, Negro | Pantalla ultra-grande de 1.54\", Hasta 6 días de Batería, 150+ Modos Deportivos, Seguimiento Fitness, Controles gestual",
         "url": "https://www.amazon.com.mx/dp/B0G5PXKTVZ",
         "price": 5399.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Plata | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
-        "url": "https://www.amazon.com.mx/dp/B0DSJMB91W",
-        "price": 2788.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch Kids 4 Pro (GPS) (Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Azul",
-        "url": "https://www.amazon.com.mx/dp/B09MKZVDH1",
-        "price": 2299.0,
         "model": null
       }
     ]
   },
   "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-17T08:03:07.096613+00:00",
+    "ts": "2026-08-19T08:06:40.704196+00:00",
     "items": [
-      {
-        "store": "walmart",
-        "name": "XIAOMI Watch S4 Smartwatch Plata – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-plata-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181270743?athbdg=L1300",
-        "price": 4384.0,
-        "model": null
-      },
       {
         "store": "walmart",
         "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
@@ -6806,9 +6799,51 @@
       },
       {
         "store": "walmart",
+        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
+        "price": 998.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
+        "price": 1199.0,
+        "model": "watch3"
+      },
+      {
+        "store": "walmart",
         "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
         "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
         "price": 959.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca, Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca-color-rosa/00693255441984",
+        "price": 949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-smart-band-9-active-beige/00694181270631",
+        "price": 595.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
+        "price": 1579.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00063790280930",
+        "price": 729.0,
         "model": null
       },
       {
@@ -6834,890 +6869,15 @@
       },
       {
         "store": "walmart",
-        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca, Color Rosa",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca-color-rosa/00693255441984",
-        "price": 949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
-        "price": 1579.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI REDMI WATCH 4 NEGRO.",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-watch-4-negro-/00694181275620",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
-        "price": 998.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
-        "price": 1199.0,
-        "model": "watch3"
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-smart-band-9-active-beige/00694181270631",
-        "price": 595.0,
+        "name": "XIAOMI Watch S4 Smartwatch Rainbow – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-rainbow-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181271166?athbdg=L1300",
+        "price": 4478.0,
         "model": null
       }
     ]
   },
   "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-17T08:03:07.820664+00:00",
-    "items": []
-  },
-  "amazon|AMAZFITSMARTWATCHPREMIUMAMAZFITACTIVE": {
-    "ts": "2026-08-17T08:03:13.949287+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Amazfit Active MAX Reloj Inteligente GPS, Pantalla AMOLED 1.5\", Batería 25 Días, Mapas Offline, 4GB, 170+ Deportes, 5 ATM, Monitor Ritmo Cardíaco y Sueño, Android y iPhone",
-        "url": "https://www.amazon.com.mx/dp/B0G4F6ZCSV",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
-        "price": 871.54,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Zeta Smart Watch Fitness y Notificaciones Full Round con Pantalla Touch Rosa",
-        "url": "https://www.amazon.com.mx/dp/B08NCZWX5R",
-        "price": 439.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Parsonver Reloj Inteligente, 5ATM Impermeable Fitness Tracker para Natación con 100+ Modos de Deporte Ritmo Cardíaco, Oxígeno en Sangre, Monitor de Sueño, 1.8\" Pantalla Táctil Smartwatch Fitness Watch",
-        "url": "https://www.amazon.com.mx/dp/B0CP3MTP78",
-        "price": 1000.34,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active 3 Premium - Reloj Inteligente GPS para Correr, Pantalla de Zafiro AMOLED de 1,32 Pulgadas, batería de 12 días, 4 GB, NFC, Tarjetas sin conexión, 170 Modos de Entrenamiento, 5 ATM",
-        "url": "https://www.amazon.com.mx/dp/B0GM29C6PW",
-        "price": 3500.87,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active 2 Smart Watch 44 mm, batería de 10 días, monitor de fitness, monitor de sueño, mapas GPS, más de 160 modos deportivos, resistente al agua, para iPhone Android y Apple, vidrio de zafiro,",
-        "url": "https://www.amazon.com.mx/dp/B0DT3YMDMZ",
-        "price": 2677.08,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active 3 Premium - Reloj Inteligente GPS para Correr, Pantalla de Zafiro AMOLED de 1,32 Pulgadas, batería de 12 días, 4 GB, NFC, Tarjetas sin conexión, 170 Modos de Entrenamiento, 5 ATM",
-        "url": "https://www.amazon.com.mx/dp/B0GK2F8137",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active 2 Reloj Inteligente de Alta Calidad para Android y iPhone, batería de 10 días, Resistente al Agua, mapas GPS, Monitor de corazón y sueño, Modo HYROX, Vidrio de Zafiro, Piel + Correa",
-        "url": "https://www.amazon.com.mx/dp/B0F94KYCQX",
-        "price": 2199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active MAX Reloj Inteligente GPS, Pantalla AMOLED 1.5\", Batería 25 Días, Mapas Offline, 4GB, 170+ Deportes, 5 ATM, Monitor Ritmo Cardíaco y Sueño, Android y iPhone",
-        "url": "https://www.amazon.com.mx/dp/B0G4F6ZCSV",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Bip 6 Reloj Inteligente de 46 mm, batería de 14 días, visualización AMOLED de 1.9 Pulgadas, GPS y mapas gratuitos, AI, Llamadas y Texto Bluetooth, rastreador de Salud, Fitness y sueño, más de",
-        "url": "https://www.amazon.com.mx/dp/B0DYJKTHYF",
-        "price": 1561.23,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Amazfit Active 3 Premium - Reloj Inteligente GPS para Correr, Pantalla de Zafiro AMOLED de 1,32 Pulgadas, batería de 12 días, 4 GB, NFC, Tarjetas sin conexión, 170 Modos de Entrenamiento, 5 ATM",
-        "url": "https://www.amazon.com.mx/dp/B0GJZH9V76",
-        "price": 3758.53,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "4 Piezas Funda con Protector Pantalla Compatible con Amazfit Active 3 Premium 45mm, PC Carcasa HD Cristal Templado Protector Ultra-Thin Anti-Rasguños, Transparente, Negro, Plateado, Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H1MH77RW",
-        "price": 168.88,
-        "model": null
-      }
-    ]
-  },
-  "walmart|AMAZFITSMARTWATCHPREMIUMAMAZFITACTIVE": {
-    "ts": "2026-08-17T08:03:17.663489+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Infinix XWatch 3 GT Smartwatch Deportivo, Pantalla HD IPS, Batería de Larga Duración 15 Días (500mAh), Monitor de Actividad, Compatible con iOS y Android",
-        "url": "https://www.walmart.com.mx/ip/infinix-xwatch-3-gt-smartwatch-deportivo-pantalla-hd-ips-bateria-de-larga-duracion-15-dias-500mah-monitor-de-actividad-compatible-con-ios-y-android/00489494702402",
-        "price": 950.0,
-        "model": "500mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Amazfit Active 2 Cuadrado Premium Negro",
-        "url": "https://www.walmart.com.mx/ip/amazfit-active-2-cuadrado-premium-negro/00750232638141?athbdg=L6000",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Monitor de actividad física Smart Watch Amazfit Active 2 Premium",
-        "url": "https://www.walmart.com.mx/ip/monitor-de-actividad-fisica-smart-watch-amazfit-active-2-premium/00085007161833?athbdg=L1300",
-        "price": 3639.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Amazfit Active 3 Premium Aero Blanco",
-        "url": "https://www.walmart.com.mx/ip/amazfit-active-3-premium-aero-blanco/00750232862745?athbdg=L6000",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Amazfit Active Max pantalla AMOLED 1.5 pulgadas GPS 4GB 170 modos deportivos",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-amazfit-active-max-pantalla-amoled-1-5-pulgadas-gps-4gb-170-modos-deportivos/00085007161876?athbdg=L1300",
-        "price": 3189.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Amazfit Active Edge con GPS Autonomía de 16 Días, Verde.",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-amazfit-active-edge-con-gps-autonomia-de-16-dias-verde-/00085005148229?athbdg=L6000",
-        "price": 5273.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Amazfit Active 2 con GPS, 44 mm, rastreador de actividad física, rojo",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-amazfit-active-2-con-gps-44-mm-rastreador-de-actividad-fisica-rojo/00085005899492?athbdg=L1300",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Amazfit Active Max Negro",
-        "url": "https://www.walmart.com.mx/ip/amazfit-active-max-negro/00750232638658?athbdg=L6000",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Deportivo Amazfit Gris, Autonomía de 14 Días",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-deportivo-amazfit-gris-autonomia-de-14-dias/00085005148200",
-        "price": 4499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Amazfit Bip Max Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-amazfit-bip-max-gris/00750232957089?athbdg=L6000",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Amazfit Active 2 Premium, rastreador de actividad física, reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-amazfit-active-2-premium-rastreador-de-actividad-fisica-reacondicionado/00072843403514?athbdg=L1300",
-        "price": 2939.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Deportivo Autonomía de 14 Días, Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-deportivo-autonomia-de-14-dias-negro/00085004386999",
-        "price": 6099.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|AMAZFITSMARTWATCHPREMIUMAMAZFITACTIVE": {
-    "ts": "2026-08-17T08:03:19.379057+00:00",
-    "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
-    "ts": "2026-08-17T08:03:22.193940+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FNX81ZQH",
-        "price": 9999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate X7 Celular 16+512GB, Pantalla Plegable LTPO de 8\" y 120Hz, Ultra Delgado y Durable, Kunlun Glass, Batería de Doble celda (1850 mAh + 3750 mAh) de Gran Capacidad, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0G76143NM",
-        "price": 29999.0,
-        "model": "16+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate X6, 12+512G, Smartphone Plegable, Ultra Fino y Duradero, Cámara Ultra Chroma, 2ª Cristal Kunlun Glass, Doble Pantalla X-True™ y la Multitarea innovadora, Celular Gris+Regalo GT 4",
-        "url": "https://www.amazon.com.mx/dp/B0DN93TMZM",
-        "price": 26488.83,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Rojo",
-        "url": "https://www.amazon.com.mx/dp/B0DXKVSX1H",
-        "price": 44999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Dorado",
-        "url": "https://www.amazon.com.mx/dp/B0FNX52WTR",
-        "price": 11990.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DXKW79Y1",
-        "price": 45999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate X7 Celular 16+512GB, Pantalla Plegable LTPO de 8\" y 120Hz, Ultra Delgado y Durable, Kunlun Glass, Batería de Doble celda (1850 mAh + 3750 mAh), Rojo",
-        "url": "https://www.amazon.com.mx/dp/B0G75TNMQ4",
-        "price": 34999.0,
-        "model": "16+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FNX55ZBV",
-        "price": 11990.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XK4P8D",
-        "price": 18999.0,
-        "model": "12+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
-        "price": 15999.0,
-        "model": "12+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro MAX 12+512GB | Pantalla LTPO OLED 6.9\" 1-120Hz, Cámara 200MP Teleobjetivo + 50MP Principal, Batería 6000 mAh, 100W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XLQVNQ",
-        "price": 22999.0,
-        "model": "12+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro MAX 12+512GB | Pantalla LTPO OLED 6.9\" 1-120Hz, Cámara 200MP Teleobjetivo + 50MP Principal, Batería 6000 mAh, 100W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XS2GKN",
-        "price": 22999.0,
-        "model": "12+512GB"
-      }
-    ]
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
-    "ts": "2026-08-17T08:03:25.275260+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 16999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
-        "price": 1639.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
-    "ts": "2026-08-17T08:03:26.089371+00:00",
-    "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-17T08:03:30.436350+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Yoidesu Teléfono para Adultos Mayores 2G, 16800mAh, Botones Grandes y SOS | Pantalla 2.6\", SOS emergencia, linterna dual LED，altavoz potente, batería radio, carga USB, diseño resistente",
-        "url": "https://www.amazon.com.mx/dp/B0BK9YM1TC",
-        "price": 699.99,
-        "model": "16800mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "iPhone 14 Pro MAX 512 GB Color Oro",
-        "url": "https://www.amazon.com.mx/dp/B0BDJJ5QQG",
-        "price": 36999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Teléfono Inteligente para Phone13 Pro MAX, 6.1 Pulgadas HD Pantalla Completa 3GB 32GB Teléfono Celular Dual SIM, 5MP 8MP 2800mAh Sensor de Doble Núcleo para Andro(Dorado)",
-        "url": "https://www.amazon.com.mx/dp/B0BSH4CR3V",
-        "price": 1717.88,
-        "model": "Phone13"
-      },
-      {
-        "store": "amazon",
-        "name": "Teléfono inteligente desbloqueado 5G de 6,4 pulgadas con memoria integrada de 64 GB, 1960 x 1080 píxeles, pantalla curva totalmente laminada, procesador de 12 Nm, batería de larga duración, batería de(EE.UU)",
-        "url": "https://www.amazon.com.mx/dp/B0BQ3DM3KF",
-        "price": 2425.72,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0DNKPS4NK",
-        "price": 5999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0DNLLZDPG",
-        "price": 5999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
-        "price": 7999.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
-        "price": 7599.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
-        "price": 9999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
-        "price": 9999.0,
-        "model": "12G+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HONOR X8C 8GB 512GB Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FN5ZJGF9",
-        "price": 4672.0,
-        "model": "512GB"
-      }
-    ]
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-17T08:03:46.394172+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Huawei Nova 12S 8+256 Pantalla OLED 6.7\" 50MP",
-        "url": "https://www.walmart.com.mx/ip/huawei-nova-12s-8-256-pantalla-oled-6-7-50mp/00694210311830",
-        "price": 4999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Huawei Nova 12S 8+256 Pantalla OLED 6.7\" 50MP Blanco",
-        "url": "https://www.walmart.com.mx/ip/huawei-nova-12s-8-256-pantalla-oled-6-7-50mp-blanco/00694210311829",
-        "price": 5290.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
-        "price": 1639.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Huawei Nova 9 128GB Azul Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/huawei-nova-9-128gb-azul-reacondicionado/00061726141888?athbdg=L1500",
-        "price": 8199.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco M8 Pro 5G 512GB Negro Desbloqueado + Audífonos",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-pro-5g-512gb-negro-desbloqueado-audifonos/00750665822103?athbdg=L6000",
-        "price": 7999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Moto Edge 50 Neo 12GB 512GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-moto-edge-50-neo-12gb-512gb-gris-desbloqueado/00084002326807?athbdg=L6000",
-        "price": 21244.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco M8 Pro 5G 12+512 GB Plata+Audifonos Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-pro-5g-12-512-gb-plata-audifonos-desbloqueado/00750665822104?athbdg=L6000",
-        "price": 7999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Samsung Galaxy S24+ (Versión Estadounidense de 512 GB), Smartphone Android Desbloqueado con Cámara de 50 MP, Video 8K y Batería de Larga Duración (Violeta Cobalto).",
-        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-s24-version-estadounidense-de-512-gb-smartphone-android-desbloqueado-con-camara-de-50-mp-video-8k-y-bateria-de-larga-duracion-violeta-cobalto-/00088727680063?athbdg=L1300",
-        "price": 17979.46,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Hyundai, Hyline Plus Smartphone, Pantalla Digital 6.56, Android 13, Celular Con Sensor De Huella, Almacenamiento 64GB (Azul)",
-        "url": "https://www.walmart.com.mx/ip/hyundai-hyline-plus-smartphone-pantalla-digital-6-56-android-13-celular-con-sensor-de-huella-almacenamiento-64gb-azul-/00081012726080?athbdg=L6000",
-        "price": 2997.5,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Honor X8b 512 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-honor-x8b-512-gb-verde-desbloqueado/00693652083549?athbdg=L1300",
-        "price": 3559.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Poco M8 Pro 5G 12+512 GB Verde+Audifonos Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-pro-5g-12-512-gb-verde-audifonos-desbloqueado/00750665822105?athbdg=L6000",
-        "price": 7999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 5G / 512GB Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-5g-512gb-azul-desbloqueado/00084002328704?athbdg=L1600",
-        "price": 5496.0,
-        "model": "512GB"
-      }
-    ]
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-17T08:03:47.256230+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-17T08:03:50.442035+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
-        "price": 5500.0,
-        "model": "BVSTEM7201-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Espresso Perfect Brew Máxima con Bomba Italiana 15 bar | 2 Bombas de Presión, Espresso, Latte, Incluye Accesorios Profesionales, Acero Inoxidable, BVSTEM7400",
-        "url": "https://www.amazon.com.mx/dp/B0CW77H121",
-        "price": 11528.9,
-        "model": "BVSTEM7400"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS EUFORIA Cafetera para Espresso, Cappuccino, Latte y Americano | 20 Bares | Espumador de Leche | Acero Inoxidable | Control de Función y Vapor | Indicador Luminoso | Fácil de Usar | Durable",
-        "url": "https://www.amazon.com.mx/dp/B0DJHHKF5V",
-        "price": 1166.43,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica de Goteo Individual de 700W, para 4 tazas (0.42L), con Taza Portátil y Filtro Permanente - Aigostar",
-        "url": "https://www.amazon.com.mx/dp/B0GS9N9B13",
-        "price": 495.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1759.0,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-17T08:04:10.467957+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera 12 tazas Hamilton Beach 49316",
-        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
-        "price": 419.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Portátil de Acero Inoxidable para Goteo, Taza Térmica Aislada con Filtro, 490 Ml (16.5 Oz), Color Negro, para Una Sola Porción, Ideal para El Hogar y La Oficina.",
-        "url": "https://www.walmart.com.mx/ip/cafetera-portatil-de-acero-inoxidable-para-goteo-taza-termica-aislada-con-filtro-490-ml-16-5-oz-color-negro-para-una-sola-porcion-ideal-para-el-hogar-y-la-oficina-/00571119589280?athbdg=L6000",
-        "price": 302.04,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Análoga 12 Tazas Negra",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-analoga-12-tazas-negra/00005389114278",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
-        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
-        "price": 4253.48,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-17T08:04:11.219527+00:00",
-    "items": []
-  },
-  "amazon|TORYBURCHSILICONASINGLECORREAWATCH": {
-    "ts": "2026-08-17T08:04:14.367823+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0118)",
-        "url": "https://www.amazon.com.mx/dp/B0DYF865RM",
-        "price": 2836.68,
-        "model": "TBS0118"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5X3C4S",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5RTB7W",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de silicona para Apple Watch® (modelo TBS0117)",
-        "url": "https://www.amazon.com.mx/dp/B0DYFCW4DR",
-        "price": 3280.08,
-        "model": "TBS0117"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa de piel café para Apple Watch® (Modelo: TBS0092)",
-        "url": "https://www.amazon.com.mx/dp/B0D9LDK2H5",
-        "price": 4074.15,
-        "model": "TBS0092"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa de piel para Apple Watch® (Modelo: TBS0107E)",
-        "url": "https://www.amazon.com.mx/dp/B0DJ1K5S6Y",
-        "price": 2508.43,
-        "model": "TBS0107E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de gelatina para Apple Watch®",
-        "url": "https://www.amazon.com.mx/dp/B0GY5WVP44",
-        "price": 2227.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa Kira para Apple Watch®, piel (modelo: TBS0109E), Blanco, Una talla, The Kira",
-        "url": "https://www.amazon.com.mx/dp/B0F7ZY4TSM",
-        "price": 4074.15,
-        "model": "TBS0109E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa para Apple Watch para mujer (modelo: TBS0132E)",
-        "url": "https://www.amazon.com.mx/dp/B0GFY1ZW7J",
-        "price": 3089.18,
-        "model": "TBS0132E"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch Kira - Correa para Apple Watch para mujer (Modelo: TBS0133E)",
-        "url": "https://www.amazon.com.mx/dp/B0GFXZT3LH",
-        "price": 4736.75,
-        "model": "TBS0133E"
-      },
-      {
-        "store": "amazon",
-        "name": "Kate Spade New York Interchangeable Silicone Band Compatible with Your 38/40MM Apple Watch- Straps for use with Apple Watch Series 1,2,3,4,5,6",
-        "url": "https://www.amazon.com.mx/dp/B078HXSYSY",
-        "price": 1376.69,
-        "model": "38/40MM"
-      },
-      {
-        "store": "amazon",
-        "name": "Tory Burch - Correa de piel para Apple Watch® (Modelo: TBS0128E)",
-        "url": "https://www.amazon.com.mx/dp/B0FFTTJXF7",
-        "price": 4074.15,
-        "model": "TBS0128E"
-      }
-    ]
-  },
-  "walmart|TORYBURCHSILICONASINGLECORREAWATCH": {
-    "ts": "2026-08-17T08:04:30.351504+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Correa De Silicono + Case Unisex M /L 42 / 44 / 45 mm Para Apple Watch Sport Camuflaje Army Compatible Con Series 8 / 7 /6 / 5 / 4 / 3 / 2 / SE",
-        "url": "https://www.walmart.com.mx/ip/Correa-De-Silicono-Case-Unisex-M-L-42-44-45-mm-Para-Apple-Watch-Sport-Camuflaje-Army-Compatible-Con-Series-8-7-6-5-4-3-2-SE/00750304449906",
-        "price": 294.45,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible De Silicona Unisex Sport Ultra  M / L  42 / 44 / 45 / 49 mm Para Apple Watch Serie Se 2 3 4 5 6 7 8 ",
-        "url": "https://www.walmart.com.mx/ip/Correa-Extensible-De-Silicona-Unisex-Sport-Ultra-M-L-42-44-45-49-mm-Para-Apple-Watch-Serie-Se-2-3-4-5-6-7-8/00750304457297",
-        "price": 103.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible De Silicona Unisex Sport Ultra  M / L  42 / 44 / 45 / 49 mm Para Apple Watch Serie Se 2 3 4 5 6 7 8 ",
-        "url": "https://www.walmart.com.mx/ip/Correa-Extensible-De-Silicona-Unisex-Sport-Ultra-M-L-42-44-45-49-mm-Para-Apple-Watch-Serie-Se-2-3-4-5-6-7-8/00750304457299",
-        "price": 103.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Watch Nine West para mujer de piel sintética azul claro",
-        "url": "https://www.walmart.com.mx/ip/Correa-Watch-Nine-West-para-mujer-de-piel-sintetica-azul-claro/00008670269379?athbdg=L1300",
-        "price": 1449.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Extensible Sport Unisex M / L 38 / 40 / 41 mm Para Apple Watch Ultra Compatible Con Serie 1 / 2 / 3 / 4 / 5 / 6 / 7 / 29",
-        "url": "https://www.walmart.com.mx/ip/Correa-Extensible-Sport-Unisex-M-L-38-40-41-mm-Para-Apple-Watch-Ultra-Compatible-Con-Serie-1-2-3-4-5-6-7-29/00750305228643",
-        "price": 114.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa para Apple Watch Serie 7 / 6 / 5 / 4 /Se 44mm Laut Impkt Negro Laut Impkt /Negro",
-        "url": "https://www.walmart.com.mx/ip/Correa-para-Apple-Watch-Serie-7-6-5-4-Se-44mm-Laut-Impkt-Negro-Laut-Impkt-Negro/00489520691658?athbdg=L6000",
-        "price": 254.15,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa para Apple Watch de Silicon, compatible con 38 mm / 40 mm / 41 mm. Modelo Ocean (Color Liso).",
-        "url": "https://www.walmart.com.mx/ip/Correa-para-Apple-Watch-de-Silicon-compatible-con-38-mm-40-mm-41-mm-Modelo-Ocean-Color-Liso/00750231798263",
-        "price": 129.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Nylon Alpine Unisex M / L 38 / 40 / 41 mm Para Apple Watch Ultra Compatible Con Serie 8 / 7 / 6 / 5 / 4 / 3",
-        "url": "https://www.walmart.com.mx/ip/Correa-De-Nylon-Alpine-Unisex-M-L-38-40-41-mm-Para-Apple-Watch-Ultra-Compatible-Con-Serie-8-7-6-5-4-3/00750304449995",
-        "price": 99.6,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lady Quartz Watch Reloj de pulsera elegante con correa Reloj de mujer de moda para niña",
-        "url": "https://www.walmart.com.mx/ip/Lady-Quartz-Watch-Reloj-de-pulsera-elegante-con-correa-Reloj-de-mujer-de-moda-para-nina/00462103664966",
-        "price": 147.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Lady Quartz Watch Reloj de pulsera elegante con correa Reloj de mujer de moda para niña",
-        "url": "https://www.walmart.com.mx/ip/Lady-Quartz-Watch-Reloj-de-pulsera-elegante-con-correa-Reloj-de-mujer-de-moda-para-nina/00462103664967?athbdg=L1300",
-        "price": 123.24,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "TABLZONE Ladies Watch Con Correa PU Y Casual Para Uso",
-        "url": "https://www.walmart.com.mx/ip/TABLZONE-Ladies-Watch-Con-Correa-PU-Y-Casual-Para-Uso/00734275512300?athbdg=L6000",
-        "price": 141.58,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Watch Nine West para mujer, esfera floral, caja de 38 mm y correa rosa",
-        "url": "https://www.walmart.com.mx/ip/Watch-Nine-West-para-mujer-esfera-floral-caja-de-38-mm-y-correa-rosa/00008670260578?athbdg=L1300",
-        "price": 689.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|TORYBURCHSILICONASINGLECORREAWATCH": {
-    "ts": "2026-08-17T08:04:33.541357+00:00",
+    "ts": "2026-08-19T08:06:41.681467+00:00",
     "items": []
   },
   "amazon|REEBOKSMARTBANDREEBOKRBK": {

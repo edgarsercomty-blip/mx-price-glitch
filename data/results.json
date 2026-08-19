@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 07:32 UTC",
-  "products_scanned": 1583,
+  "generated_at": "2026-08-19 08:06 UTC",
+  "products_scanned": 1609,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -490,21 +490,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
+      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 748.5,
+      "savings": 5938.5,
       "store": "palacio",
-      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
-      "price": 2495.0,
-      "list_price": 4990.0,
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45481963",
+        "id": "44302743",
         "outlet": false
       }
     },
@@ -758,27 +758,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4999.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
-      "price": 19999.2,
-      "list_price": 24999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110959",
-        "outlet": false
       }
     },
     {
