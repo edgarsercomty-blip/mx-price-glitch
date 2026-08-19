@@ -1,16 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-19 02:24 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-19 03:12 UTC
 
-- Hallazgos: **10**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -30% | $5,649 | walmart | [Refrigerador Midea 19 pies FrenchDoor Inox](https://www.walmart.com.mx/ip/refrigerador-midea-19-pies-frenchdoor-inox/00695490381639?athbdg=L1300) | $12,990 | Confirmado vs competencia | $12,990 en walmart vs mercado -> -30% bajo la competencia |
-| -34% | $4,607 | mercadolibre | [Consola Nintendo Switch 2](https://www.mercadolibre.com.mx/consola-nintendo-switch-2/p/MLM48921521) | $8,992 | Confirmado vs competencia | $8,992 en mercadolibre vs mercado -> -34% bajo la competencia |
-| -39% | $2,269 | walmart | [Lavadora Mabe Doble Tina 13 kg Blanca LMDX3123HBAB0](https://www.walmart.com.mx/ip/Lavadora-Mabe-Doble-Tina-13-kg-Blanca-LMDX3123HBAB0/00075763838988?athbdg=L1300) | $3,490 | Confirmado vs competencia | $3,490 en walmart vs mercado -> -39% bajo la competencia |
-| -22% | $1,242 | mercadolibre | [Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM](https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984) | $4,526 | Confirmado vs competencia | $4,526 en mercadolibre vs mercado -> -22% bajo la competencia |
-| -26% | $1,027 | mercadolibre | [Xiaomi Pocophone Xiaomi Poco C85 Dual Sim 256 Gb 8 Gb Color …](https://www.mercadolibre.com.mx/xiaomi-pocophone-xiaomi-poco-c85-dual-sim-256-gb-8-gb-color-negro/p/MLM54068750) | $2,921 | Confirmado vs competencia | $2,921 en mercadolibre vs mercado -> -26% bajo la competencia |
-| -28% | $973 | mercadolibre | [Pantalla Smart Tv 32 Pulgadas VEDD Led Hd ,Wifi,Android 14 T…](https://www.mercadolibre.com.mx/pantalla-smart-tv-32-pulgadas-vedd-led-hd-wifiandroid-14-tv-bluetooth-dolby-audio2hdmi-2usb/p/MLM44957135) | $2,507 | Confirmado vs competencia | $2,507 en mercadolibre vs walmart $4,035 -> -28% bajo la competencia |
-| -73% | $574 | amazon | [Vaso De Vidrio Para Licuadora Compatible InfinyForce LN8148M…](https://www.amazon.com.mx/dp/B0F3444GH7) | $215 | Confirmado vs competencia | $215 en amazon vs amazon $789, liverpool $989 -> -73% bajo la competencia |
-| -25% | $230 | walmart | [Licuadora T-fal InfinyForce XL 12 Velocidades Rojo LN8225MX](https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-12-velocidades-rojo-ln8225mx/00770207308225?athbdg=L1300) | $699 | Confirmado vs competencia | $699 en walmart vs mercado -> -25% bajo la competencia |
-| -63% | $220 | amazon | [Mustela Maternidad Aceite Prevención Estrías Corporal, 105ml](https://www.amazon.com.mx/dp/B01CGE66TG) | $130 | Confirmado vs competencia | $130 en amazon vs mercadolibre $350, amazon $444 -> -63% bajo la competencia |
-| -34% | $176 | mercadolibre | [Pantalla Lcd De Repuesto Para Multiusos De 3.0 Pulgadas](https://www.mercadolibre.com.mx/pantalla-lcd-superior-superior-para-lite-ndsl/p/MLM2039943132) | $338 | Confirmado vs competencia | $338 en mercadolibre vs mercado -> -34% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
