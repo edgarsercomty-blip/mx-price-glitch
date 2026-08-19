@@ -562,7 +562,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [MacBook Pro, 16, M4, CPU de 14 núcleos, GPU de 20 núcleos, R…](https://www.elpalaciodehierro.com/apple-macbook-pro-16-m4-cpu-de-14-nucleos-gpu-de-20-nucleos-ram-24-gb-ssd-512-gb-44319564.html) | $35,999 | -25% |
 | 🟢 disponible | palacio | [MacBook Air, 13, Chip M4, RAM 16 GB, SSD 512 GB, Silver](https://www.elpalaciodehierro.com/apple-macbook-air-13-chip-m4-ram-16-gb-ssd-512-gb-silver-44557436.html) | $23,999 | -20% |
 | 🟢 disponible | palacio | [Cajón Refrigerador Monogram ZIDS240NSS](https://www.elpalaciodehierro.com/monogram-cajon-refrigerador-monogram-zids240nss-45664272.html) | $103,645 | -20% |
-| 🟢 disponible | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,999 | -20% |
+| 🟢 disponible | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,199 | -20% |
 | 🟢 disponible | palacio | [Laptop, Vivobook 16, 16", AMD Ryzen 7, RAM 16 GB, SSD 512 GB…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-16-amd-ryzen-7-ram-16-gb-ssd-512-gb-plata-43740346.html) | $13,527 | -24% |
 | 🟢 disponible | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | -20% |
 | 🟢 disponible | liverpool | [Motorola Edge 70 Fusion Fifa Poled 6 78 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-edge-70-fusion-fifa-poled-6-78-pulgadas-telcel/1197641921) | $5,599 | -32% |
@@ -672,7 +672,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Tenis Gold Care Gold Care Unisex](https://www.liverpool.com.mx/tienda/pdp/tenis-gold-care-gold-care-unisex/1114902107) | $299 | -43% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Forerunner 965 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681) | $9,524 | -25% |
 | 🟢 disponible | palacio | [MacBook Pro, 14, M4, CPU de 12 núcleos, GPU de 16 núcleos, R…](https://www.elpalaciodehierro.com/apple-macbook-pro-14-m4-cpu-de-12-nucleos-gpu-de-16-nucleos-ram-24-gb-ssd-512-gb-44319571.html) | $28,799 | -20% |
-| 🟢 disponible | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | -30% |
+| 🟢 disponible | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | -22% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Vivoactive 5 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-vivoactive-5-unisex-con-gps/1142099678) | $5,299 | -25% |
 | 🟢 disponible | mercadolibre | [Lavadora Semiautomática White-Westinghouse de 13 kg y Doble …](https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221) | $4,699 | -29% |
 | 🟢 disponible | amazon | [Piezas de repuesto OEM genuinas compatibles con licuadora De…](https://www.amazon.com.mx/dp/B0GSXY99RP) | $389 | -28% |

@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-19 00:41 UTC
+# Errores/chollos de precio — 2026-08-19 02:13 UTC
 
-- Productos revisados: **1593**
+- Productos revisados: **1615**
 - Umbral de diferencia: **20%**
-- Hallazgos: **40**
+- Hallazgos: **35**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -10,10 +10,8 @@
 | -35% | $11,624 | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | Confirmado vs competencia | $21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia |
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
-| -20% | $6,000 | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | Confirmado vs competencia | $23,999 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $5,865 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | Confirmado vs competencia | $13,684 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $5,000 | palacio | [Monitor para entrenamiento Fénix](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html) | $19,999 | Confirmado vs competencia | $19,999 en palacio vs mercado -> -20% bajo la competencia |
-| -22% | $4,050 | liverpool | [Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768) | $14,399 | Confirmado vs competencia | $14,399 en liverpool vs mercado -> -22% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $3,450 | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
@@ -28,21 +26,18 @@
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
-| -22% | $1,654 | liverpool | [Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Fr…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873) | $5,960 | Confirmado vs competencia | $5,960 en liverpool vs mercado -> -22% bajo la competencia |
 | -25% | $1,500 | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $4,499 | Confirmado vs competencia | $4,499 en palacio vs mercado -> -25% bajo la competencia |
 | -30% | $1,347 | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | Confirmado vs competencia | $3,143 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,263 | palacio | [Correa para Apple Watch en Acero Inoxidable Tricolor](https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html) | $2,946 | Confirmado vs competencia | $2,946 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
-| -30% | $960 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | Confirmado vs competencia | $2,239 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $907 | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $2,124 | Confirmado vs competencia | $2,124 en liverpool vs mercado -> -30% bajo la competencia |
 | -20% | $900 | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | Confirmado vs competencia | $3,499 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $825 | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,474 | Confirmado vs competencia | $2,474 en palacio vs mercado -> -25% bajo la competencia |
-| -28% | $815 | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802) | $2,118 | Confirmado vs competencia | $2,118 en liverpool vs mercado -> -28% bajo la competencia |
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $748 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -23% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
-| -20% | $550 | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -20% bajo la competencia |
+| -22% | $640 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | Confirmado vs competencia | $2,239 en palacio vs mercado -> -22% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |

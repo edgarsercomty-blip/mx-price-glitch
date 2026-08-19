@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 00:41 UTC",
-  "products_scanned": 1593,
+  "generated_at": "2026-08-19 02:13 UTC",
+  "products_scanned": 1615,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -91,27 +91,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 959.7,
-      "store": "palacio",
-      "name": "Correa para Apple Watch en acero",
-      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
-      "price": 2239.3,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Coach",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42825376",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1262.7,
@@ -170,27 +149,6 @@
       "extra": {
         "id": "45241138",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$2,118 en liverpool vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 814.75,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-unisex-con-gps/1185265802",
-      "price": 2118.35,
-      "list_price": 3259.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185265802",
-        "marketplace": null
       }
     },
     {
@@ -573,44 +531,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$14,399 en liverpool vs mercado -> -22% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$2,239 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
-      "savings": 4049.9,
-      "store": "liverpool",
-      "name": "Samsung Galaxy S26 Dynamic Amoled 2X 6 2 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s26-dynamic-amoled-2x-6-2-pulgadas/1191395768",
-      "price": 14399.2,
-      "list_price": 22499.0,
+      "savings": 639.8,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en acero",
+      "url": "https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html",
+      "price": 2239.3,
+      "list_price": 3199.0,
       "ean": null,
       "model": null,
-      "brand": "SAMSUNG",
+      "brand": "Coach",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1191395768",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 54.5,
-      "detail": "$5,960 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1653.75,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Tcl Elite Inverter Frio Y Calor 12000 Btu S12P Ehv23 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-tcl-elite-inverter-frio-y-calor-12000-btu-s12p-ehv23-220-v/1153833873",
-      "price": 5960.05,
-      "list_price": 13099.0,
-      "ean": null,
-      "model": "Ehv23",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1153833873",
-        "marketplace": null
+        "id": "42825376",
+        "outlet": false
       }
     },
     {
@@ -763,27 +700,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$2,199 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 549.8,
-      "store": "liverpool",
-      "name": "Estacion De Carga 3 En 1 Ugreen 65901 25 W",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151",
-      "price": 2199.2,
-      "list_price": 2749.0,
-      "ean": null,
-      "model": null,
-      "brand": "UGREEN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1201359151",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4999.8,
@@ -799,27 +715,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44110959",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$23,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.8,
-      "store": "palacio",
-      "name": "Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html",
-      "price": 23999.2,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45260351",
         "outlet": false
       }
     },

@@ -43206,5 +43206,61 @@
         "model": "CO905KS"
       }
     ]
+  },
+  "amazon|MLTS101M2SGDW": {
+    "ts": "2026-08-19T02:12:54.301102+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Mini lavadora y secadora, lavadora compacta de montaje en pared para lavandería doméstica, lavado de alta temperatura, panel táctil LED, múltiples modos",
+        "url": "https://www.amazon.com.mx/dp/B0GSPDPGKH",
+        "price": 10252.06,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Midea - Lavadora Una Tina 10.1 kg Blanca Dual Force",
+        "url": "https://www.amazon.com.mx/dp/B096KKQM7L",
+        "price": 2061.36,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Midea. MLTS101M2SGDW Lavadora Semiautomatica Una Tina 101 kg Dual Force Blanca + MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
+        "url": "https://www.amazon.com.mx/dp/B0F6GW5SSY",
+        "price": 6745.71,
+        "model": "MLTS101M2SGDW"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Ultrasónica Portátil USB Mini para Viaje y Hogar, Máquina de Limpieza Automática Multifuncional Turbo, Ideal para Joyas y Gafas, Verde",
+        "url": "https://www.amazon.com.mx/dp/B07P62MFTW",
+        "price": 245.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Manguera de Drenaje Pe Azul para Lavadora Semiautomática 1.6 M | Diámetro Interno 16mm, Espesor Reforzado, Clip Incluido, Uso en Lavandería y Cocina",
+        "url": "https://www.amazon.com.mx/dp/B0D319J7QL",
+        "price": 133.79,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MLTS101M2SGDW": {
+    "ts": "2026-08-19T02:12:57.420385+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática Midea Mlts101m2sgd Blanca 10.1kg 127 V",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-mlts101m2sgd-blanca-10-1kg-127-v/00694587831604?athbdg=L1300",
+        "price": 2399.0,
+        "model": "Mlts101m2sgd"
+      }
+    ]
+  },
+  "sams|MLTS101M2SGDW": {
+    "ts": "2026-08-19T02:12:59.801970+00:00",
+    "items": []
   }
 }
