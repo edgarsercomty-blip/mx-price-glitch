@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (854)
+# Historial de ofertas encontradas (855)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 14:09 | -30% | liverpool | [Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984) | $11,895 | $11,895 en liverpool vs mercado -> -30% bajo la competencia |
 | 2026-08-19 13:29 | -31% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $16,148 | $16,148 en liverpool vs mercado -> -31% bajo la competencia |
 | 2026-08-19 10:48 | -35% | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373) | $2,124 | $2,124 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-19 07:32 | -25% | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 51…](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | $10,982 en palacio vs mercado -> -25% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -35% | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $2,677 | $2,677 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,249 | $3,249 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $2,144 | $2,144 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $3,899 | $3,899 en palacio vs mercado -> -35% bajo la competencia |
