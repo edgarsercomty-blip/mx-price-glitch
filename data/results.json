@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 14:09 UTC",
-  "products_scanned": 1608,
+  "generated_at": "2026-08-19 14:54 UTC",
+  "products_scanned": 1606,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -658,7 +658,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs mercado -> -22% bajo la competencia",
+      "detail": "$2,239 en palacio vs walmart $3,179 -> -22% bajo la competencia",
       "likely_typo": false,
       "savings": 639.8,
       "store": "palacio",
@@ -694,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366544",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262439",
         "outlet": false
       }
     },
