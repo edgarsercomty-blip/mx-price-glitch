@@ -37350,5 +37350,117 @@
         "model": "15-fc0000la"
       }
     ]
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-08-19T17:44:53.100471+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Individual con Termo 16 oz y Filtro Permanente, CM618 | Cesta de filtro extraíble, apagado automático y piezas aptas para lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B008YS1WXE",
+        "price": 446.41,
+        "model": "CM618"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
+        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
+        "price": 359.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Redlemon Prensa Francesa de Vidrio 1 L, Cafetera con Tapa y Mango de Bambú | Émbolo y Filtro de Acero Inoxidable, Cierre Hermético, Resistente al Calor, para Café Molido, Té e Infusiones, Fácil de Lavar",
+        "url": "https://www.amazon.com.mx/dp/B09CF1FBTJ",
+        "price": 295.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Color Crema, BVSTEM6604W",
+        "url": "https://www.amazon.com.mx/dp/B0FJ335CF2",
+        "price": 2899.0,
+        "model": "BVSTEM6604W"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
+        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
+        "price": 1971.0,
+        "model": "BVSTEM5502"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-08-19T17:45:01.798593+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-de-8-tazas-en-Acero-Inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTOUCHACERO": {
+    "ts": "2026-08-19T17:45:02.576204+00:00",
+    "items": []
   }
 }

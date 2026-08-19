@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 17:19 UTC",
-  "products_scanned": 1587,
+  "generated_at": "2026-08-19 17:45 UTC",
+  "products_scanned": 1629,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.9,
-      "detail": "$1,364 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 665.37,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 1364.35,
-      "list_price": 2619.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165916841",
-        "marketplace": null
       }
     },
     {
@@ -574,27 +553,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 23.0,
-      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3449.77,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 11549.23,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 23.0,
       "detail": "$10,009 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 2989.77,
@@ -610,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44639312",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
         "outlet": false
       }
     },
@@ -694,27 +673,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45366544",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262439",
         "outlet": false
       }
     },
