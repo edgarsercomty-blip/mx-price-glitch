@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 22:15 UTC",
-  "products_scanned": 1621,
+  "generated_at": "2026-08-19 22:43 UTC",
+  "products_scanned": 1629,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,22 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$7,200 en liverpool vs mercado -> -47% bajo la competencia",
+      "discount_pct": 37.6,
+      "detail": "$3,119 en liverpool vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 6480.0,
+      "savings": 1879.65,
       "store": "liverpool",
-      "name": "Colchon En Caja Heuman Brand Volans Advanced",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863",
-      "price": 7199.55,
-      "list_price": 15999.0,
+      "name": "Nubia V80 Pro Ips 6 75 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/nubia-v80-pro-ips-6-75-pulgadas-telcel/1193471321",
+      "price": 3119.35,
+      "list_price": 4999.0,
       "ean": null,
       "model": null,
-      "brand": "HEUMAN BRAND",
+      "brand": "NUBIA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1121352863",
+        "productId": "1193471321",
         "marketplace": null
       }
     },
@@ -65,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.6,
-      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7251.1,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 16148.0,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
-        "marketplace": null
       }
     },
     {

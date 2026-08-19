@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (860)
+# Historial de ofertas encontradas (861)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-19 22:43 | -38% | liverpool | [Nubia V80 Pro Ips 6 75 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/nubia-v80-pro-ips-6-75-pulgadas-telcel/1193471321) | $3,119 | $3,119 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-08-19 22:15 | -47% | liverpool | [Colchon En Caja Heuman Brand Volans Advanced](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863) | $7,200 | $7,200 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-08-19 15:37 | -32% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,664 | $8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia |
 | 2026-08-19 15:37 | -38% | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Bat…](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | $312 en amazon vs mercado -> -38% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | $3,119 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | $7,799 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-07-23 13:10 | -35% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | $12,707 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021105.html) | $3,119 | $3,119 en palacio vs mercado -> -35% bajo la competencia |
