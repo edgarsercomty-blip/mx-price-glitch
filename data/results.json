@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 19:20 UTC",
+  "generated_at": "2026-08-19 19:55 UTC",
   "products_scanned": 1658,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,27 +44,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.9,
-      "detail": "$1,364 en liverpool vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 665.37,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
-      "price": 1364.35,
-      "list_price": 2619.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1165916841",
-        "marketplace": null
       }
     },
     {
@@ -343,7 +322,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$2,694 en palacio vs walmart $3,919, walmart $4,169 -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 898.0,
       "store": "palacio",
@@ -736,27 +715,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 89.9,
-      "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45003623",
         "outlet": false
       }
     },
