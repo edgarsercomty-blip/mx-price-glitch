@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-18 23:54 UTC
+# Errores/chollos de precio — 2026-08-19 00:41 UTC
 
-- Productos revisados: **1636**
+- Productos revisados: **1593**
 - Umbral de diferencia: **20%**
-- Hallazgos: **39**
+- Hallazgos: **40**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -43,5 +43,6 @@
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $748 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -23% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
+| -20% | $550 | liverpool | [Estacion De Carga 3 En 1 Ugreen 65901 25 W](https://www.liverpool.com.mx/tienda/pdp/estacion-de-carga-3-en-1-ugreen-65901-25-w/1201359151) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -20% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |

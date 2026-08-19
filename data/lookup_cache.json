@@ -43187,5 +43187,24 @@
   "sams|OSTERCAFETERAPANELACEROTOUCH": {
     "ts": "2026-08-18T23:54:57.547596+00:00",
     "items": []
+  },
+  "walmart|CO905KS": {
+    "ts": "2026-08-19T00:41:24.532728+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "LICUADORA PROCESADORA PROFESIONAL NINJA CO905KS 7 PROGRAMAS",
+        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-profesional-ninja-co905ks-7-programas/00062235663503?athbdg=L6000",
+        "price": 7798.0,
+        "model": "CO905KS"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Procesadora Ninja 7 Programas CO905KS Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-ninja-7-programas-co905ks-negro/00073238802721?athbdg=L1300",
+        "price": 2839.0,
+        "model": "CO905KS"
+      }
+    ]
   }
 }
