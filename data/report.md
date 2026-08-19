@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-19 23:38 UTC
+# Errores/chollos de precio — 2026-08-19 23:55 UTC
 
-- Productos revisados: **1631**
+- Productos revisados: **1595**
 - Umbral de diferencia: **20%**
-- Hallazgos: **39**
+- Hallazgos: **40**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -11,11 +11,11 @@
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
+| -31% | $7,251 | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $16,148 | Confirmado vs competencia | $16,148 en liverpool vs mercado -> -31% bajo la competencia |
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
 | -30% | $5,865 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | Confirmado vs competencia | $13,684 en palacio vs mercado -> -30% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
-| -23% | $3,450 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $11,549 | Confirmado vs competencia | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | -20% | $3,200 | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | Confirmado vs competencia | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | -25% | $3,000 | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $8,999 | Confirmado vs competencia | $8,999 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $2,990 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $10,009 | Confirmado vs competencia | $10,009 en palacio vs mercado -> -23% bajo la competencia |
@@ -41,6 +41,7 @@
 | -23% | $748 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -23% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
 | -25% | $670 | liverpool | [Cafetera Multicapsulas Nespresso A3Kgdv1 Us](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-a3kgdv1-us/1110219933) | $2,009 | Confirmado vs competencia | $2,009 en liverpool vs mercado -> -25% bajo la competencia |
+| -33% | $665 | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | Confirmado vs competencia | $1,364 en liverpool vs mercado -> -33% bajo la competencia |
 | -22% | $640 | palacio | [Correa para Apple Watch en acero](https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html) | $2,239 | Confirmado vs competencia | $2,239 en palacio vs mercado -> -22% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
