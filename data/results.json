@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19 14:54 UTC",
-  "products_scanned": 1606,
+  "generated_at": "2026-08-19 15:23 UTC",
+  "products_scanned": 1572,
   "threshold_pct": 20.0,
   "count": 39,
   "findings": [
@@ -23,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.2,
-      "detail": "$2,124 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1161.85,
-      "store": "liverpool",
-      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373",
-      "price": 2124.15,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200691373",
-        "marketplace": null
       }
     },
     {
@@ -233,6 +212,27 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,009 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 669.8,
+      "store": "liverpool",
+      "name": "Cafetera Multicapsulas Nespresso A3Kgdv1 Us",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-a3kgdv1-us/1110219933",
+      "price": 2009.4,
+      "list_price": 3349.0,
+      "ean": null,
+      "model": "A3Kgdv1",
+      "brand": "NESPRESSO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1110219933",
+        "marketplace": null
       }
     },
     {
@@ -658,7 +658,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$2,239 en palacio vs walmart $3,179 -> -22% bajo la competencia",
+      "detail": "$2,239 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
       "savings": 639.8,
       "store": "palacio",

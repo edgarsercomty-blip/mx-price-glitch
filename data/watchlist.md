@@ -1,4 +1,4 @@
-# Productos en vigilancia (725)
+# Productos en vigilancia (726)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -716,7 +716,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $10,229 | -22% |
 | 🟢 disponible | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | -22% |
 | 🟢 disponible | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SS…](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $14,321 | -20% |
-| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $2,124 | -30% |
+| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $3,274 | -30% |
 | 🟢 disponible | amazon | [Vaso De Vidrio Para Licuadora Compatible InfinyForce LN8148M…](https://www.amazon.com.mx/dp/B0F3444GH7) | $215 | -73% |
 | 🟢 disponible | amazon | [Mustela Maternidad Aceite Prevención Estrías Corporal, 105ml](https://www.amazon.com.mx/dp/B01CGE66TG) | $130 | -63% |
 | 🟢 disponible | mercadolibre | [Pantalla Lcd De Repuesto Para Multiusos De 3.0 Pulgadas](https://www.mercadolibre.com.mx/pantalla-lcd-superior-superior-para-lite-ndsl/p/MLM2039943132) | $338 | -34% |
@@ -727,5 +727,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Licuadora T-fal InfinyForce XL 12 Velocidades Rojo LN8225MX](https://www.walmart.com.mx/ip/licuadora-t-fal-infinyforce-xl-12-velocidades-rojo-ln8225mx/00770207308225?athbdg=L1300) | $699 | -25% |
 | 🟢 disponible | mercadolibre | [Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM](https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984) | $4,526 | -22% |
 | 🟢 disponible | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | -25% |
-| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373) | $2,124 | -35% |
+| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373) | $3,285 | -35% |
 | 🟢 disponible | liverpool | [Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai 5 34…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984) | $11,895 | -30% |
+| 🟢 disponible | liverpool | [Cafetera Multicapsulas Nespresso A3Kgdv1 Us](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-a3kgdv1-us/1110219933) | $2,009 | -25% |
