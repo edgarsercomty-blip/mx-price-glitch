@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 12:26 UTC",
-  "products_scanned": 1678,
+  "generated_at": "2026-08-19 13:29 UTC",
+  "products_scanned": 1613,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.1,
-      "detail": "$10,999 en amazon vs palacio $17,791 -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6792.36,
-      "store": "amazon",
-      "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
-      "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
-      "price": 10999.0,
-      "list_price": 14499.0,
-      "ean": null,
-      "model": "RAM/512GB",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0GZJ5VFKS"
       }
     },
     {
@@ -85,6 +65,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
       }
     },
     {
@@ -483,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600329",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 748.5,
+      "store": "palacio",
+      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
+      "price": 2495.0,
+      "list_price": 4990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45481963",
         "outlet": false
       }
     },
