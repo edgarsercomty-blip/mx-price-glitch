@@ -5987,168 +5987,6 @@
     "ts": "2026-08-20T02:23:39.738768+00:00",
     "items": []
   },
-  "amazon|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-18T11:16:39.997977+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNCYYVZ",
-        "price": 4973.22,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 11, Totalmente Desbloqueado, 128 GB, Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07ZPKR714",
-        "price": 5406.79,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Mini, 128GB, Azul - (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNMBYZ4",
-        "price": 4497.25,
-        "model": "128GB"
-      }
-    ]
-  },
-  "walmart|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-18T11:16:44.274092+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L1510",
-        "price": 11920.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-blanco-telcel/00750622734821?athbdg=L1300",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 13 Apple 128GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128gb-medianoche-telcel/00750622734345?athbdg=L1300",
-        "price": 9999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16 Apple 128 GB Ultra Marino Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/00750622735690?athbdg=L6000",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "APPLE IPHONE 16 128GB TEAL",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00019595019412?athbdg=L1300",
-        "price": 15929.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-18T11:16:49.487869+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
-        "price": 11762.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
-        "price": 16571.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16e Apple  128 GB Blanco Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-blanco-telcel/981042932",
-        "price": 16571.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
-        "price": 13297.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 14 Apple 128 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-negro-telcel/981001677",
-        "price": 11762.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 15 Apple  128 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-telcel/981014407",
-        "price": 15138.35,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
-        "price": 13297.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
-        "price": 20458.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB Ultra Marino Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-ultra-marino-telcel/981028994",
-        "price": 20458.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
-        "price": 17901.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 16 Apple  128 GB 5G Blanco Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-blanco-telcel/981028992",
-        "price": 17901.46,
-        "model": null
-      }
-    ]
-  },
   "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
     "ts": "2026-08-18T13:26:37.320057+00:00",
     "items": [
@@ -32174,6 +32012,26 @@
         "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
         "price": 91.03,
         "model": null
+      }
+    ]
+  },
+  "amazon|MMI12HABWCA32M2": {
+    "ts": "2026-08-20T11:18:18.367843+00:00",
+    "items": []
+  },
+  "walmart|MMI12HABWCA32M2": {
+    "ts": "2026-08-20T11:18:34.785004+00:00",
+    "items": []
+  },
+  "sams|MMI12HABWCA32M2": {
+    "ts": "2026-08-20T11:18:38.935026+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Aire Acondicionado Mabe  MMI12HDBWCA32ME Inverter Frío/Calor 12,000 BTU 220V 1Ton",
+        "url": "https://www.sams.com.mx/ip/aire-acondicionado-mabe-mmi12hdbwca32me-inverter-frio-calor-12-000-btu-220v-1ton/981021665",
+        "price": 9042.45,
+        "model": "MMI12HDBWCA32ME"
       }
     ]
   }

@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-20 10:49 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-20 11:18 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -49% | $2,762 | sams | [Tableta Interactiva COMPAQ  10.1" 6 RAM+128 GB ROM+ Teclado …](https://www.sams.com.mx/ip/tableta-interactiva-compaq-10-1-6-ram-128-gb-rom-teclado-pogo-pin/981029735) | $2,863 | Confirmado vs competencia | $2,863 en sams vs sams $5,625, liverpool $8,799 -> -49% bajo la competencia |
+| -38% | $4,225 | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calor 120…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-12000-btu-mmi12habwca32m2-115-v/1174112416) | $6,824 | Confirmado vs competencia | $6,824 en liverpool vs mercado -> -38% bajo la competencia |

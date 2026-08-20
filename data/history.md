@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (871)
+# Historial de ofertas encontradas (872)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 11:18 | -38% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calo…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-12000-btu-mmi12habwca32m2-115-v/1174112416) | $6,824 | $6,824 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-08-20 10:49 | -49% | sams | [Tableta Interactiva COMPAQ  10.1" 6 RAM+128 GB ROM+ Tec…](https://www.sams.com.mx/ip/tableta-interactiva-compaq-10-1-6-ram-128-gb-rom-teclado-pogo-pin/981029735) | $2,863 | $2,863 en sams vs sams $5,625, liverpool $8,799 -> -49% bajo la competencia |
 | 2026-08-20 08:10 | -20% | liverpool | [Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011) | $4,800 | $4,800 en liverpool vs amazon $5,999, amazon $5,999 -> -20% bajo la competencia |
 | 2026-08-20 08:10 | -26% | liverpool | [Congelador Midea Mfcd09P2Nabw Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mfcd09p2nabw-horizontal-9-pies-cubicos/1110040357) | $6,199 | $6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-24 08:47 | -24% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | $8,122 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-07-24 08:47 | -28% | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $11,326 | $11,326 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-07-24 08:47 | -28% | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 …](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,985 | $11,985 en liverpool vs mercado -> -28% bajo la competencia |
