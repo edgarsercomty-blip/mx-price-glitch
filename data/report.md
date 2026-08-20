@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-20 21:48 UTC
+# Errores/chollos de precio — 2026-08-20 22:16 UTC
 
-- Productos revisados: **1635**
+- Productos revisados: **1569**
 - Umbral de diferencia: **20%**
 - Hallazgos: **46**
 
@@ -25,7 +25,7 @@
 | -30% | $2,860 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,819 | Confirmado vs competencia | $6,819 en palacio vs mercado -> -30% bajo la competencia |
 | -33% | $2,780 | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | Confirmado vs competencia | $5,560 en palacio vs mercado -> -33% bajo la competencia |
 | -26% | $2,205 | liverpool | [Congelador Midea Mfcd09P2Nabw Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mfcd09p2nabw-horizontal-9-pies-cubicos/1110040357) | $6,199 | Confirmado vs competencia | $6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia |
-| -31% | $2,120 | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | Confirmado vs competencia | $4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia |
+| -31% | $2,120 | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300) | $4,699 | Confirmado vs competencia | $4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
