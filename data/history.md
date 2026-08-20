@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (867)
+# Historial de ofertas encontradas (868)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 07:26 | -24% | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | $11,589 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-08-20 06:28 | -20% | liverpool | [Xiaomi Redmi 15 Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15-lcd-6-9-pulgadas-telcel/1184984571) | $3,599 | $3,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-20 05:49 | -22% | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior L…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-20 05:49 | -45% | sams | [Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel](https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814) | $1,974 | $1,974 en sams vs liverpool $3,599 -> -45% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-24 04:10 | -56% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $9,999 | $9,999 en liverpool vs mercado -> -56% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
