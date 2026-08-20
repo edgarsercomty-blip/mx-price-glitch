@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-20 20:19 UTC",
-  "products_scanned": 1634,
+  "generated_at": "2026-08-20 20:51 UTC",
+  "products_scanned": 1672,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,400 en liverpool vs mercado -> -41% bajo la competencia",
       "likely_typo": false,
-      "savings": 1745.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
+      "savings": 1662.99,
+      "store": "liverpool",
+      "name": "Set Licuadora Combo Blender Nut Grise",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709",
+      "price": 2400.0,
+      "list_price": 4000.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "NUTRIBULLET",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43394466",
-        "outlet": false
+        "productId": "1172657709",
+        "marketplace": null
       }
     },
     {
@@ -44,6 +44,26 @@
       "extra": {
         "productId": "1174112416",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$384 en amazon vs amazon $616, amazon $735, amazon $1,053 -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 232.44,
+      "store": "amazon",
+      "name": "Piezas de repuesto para licuadora Ninja Foodi Ultimate SS400 SS401 CO401B (disco de rallado)",
+      "url": "https://www.amazon.com.mx/dp/B0CW3T2PD2",
+      "price": 383.51,
+      "list_price": 127.83,
+      "ean": null,
+      "model": "CO401B",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CW3T2PD2"
       }
     },
     {
@@ -112,12 +132,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -739,7 +759,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2039.83,
       "store": "palacio",
