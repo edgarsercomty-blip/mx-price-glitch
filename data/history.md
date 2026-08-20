@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (861)
+# Historial de ofertas encontradas (864)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 02:25 | -22% | amazon | [On Cloud X 4 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0DM2MVDN1) | $3,047 | $3,047 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-08-20 02:25 | -27% | liverpool | [Frigobar Hisense Rr43D6Agx1 4 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/frigobar-hisense-rr43d6agx1-4-pies-cubicos/1126618243) | $3,600 | $3,600 en liverpool vs mercado -> -27% bajo la competencia |
+| 2026-08-20 02:25 | -31% | mercadolibre | [Teléfono celular Samsung Galaxy A16 128 GB 4 GB de RAM …](https://www.mercadolibre.com.mx/telefono-celular-samsung-galaxy-a16-128-gb-4-gb-de-ram-nfc-verde-claro/p/MLM44113911) | $3,421 | $3,421 en mercadolibre vs mercado -> -31% bajo la competencia |
 | 2026-08-19 22:43 | -38% | liverpool | [Nubia V80 Pro Ips 6 75 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/nubia-v80-pro-ips-6-75-pulgadas-telcel/1193471321) | $3,119 | $3,119 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-08-19 22:15 | -47% | liverpool | [Colchon En Caja Heuman Brand Volans Advanced](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-heuman-brand-volans-advanced/1121352863) | $7,200 | $7,200 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-08-19 15:37 | -32% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,664 | $8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -24% | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | $3,899 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-07-23 13:10 | -25% | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-07-23 13:10 | -29% | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | $7,530 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Prima Latte para 1 Taza](https://www.elpalaciodehierro.com/oster-cafetera-espresso-prima-latte-para-1-taza-45021106.html) | $3,119 | $3,119 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [Cafetera Espresso Perfect Brew para 2 Tazas](https://www.elpalaciodehierro.com/oster-cafetera-espresso-perfect-brew-para-2-tazas-45021110.html) | $7,799 | $7,799 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-07-23 13:10 | -35% | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $12,707 | $12,707 en palacio vs mercado -> -35% bajo la competencia |
