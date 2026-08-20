@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (872)
+# Historial de ofertas encontradas (876)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 14:21 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-20 14:21 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-20 14:21 | -30% | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | $9,099 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-20 14:21 | -33% | palacio | [Celular Y19S 256 GB 6 GB Plata Telcel](https://www.elpalaciodehierro.com/vivo-celular-y19s-256-gb-6-gb-plata-telcel-44747549.html) | $2,999 | $2,999 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-20 11:18 | -38% | liverpool | [Aire Acondicionado Mini Split Inverter Mabe Frio Y Calo…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mabe-frio-y-calor-12000-btu-mmi12habwca32m2-115-v/1174112416) | $6,824 | $6,824 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-08-20 10:49 | -49% | sams | [Tableta Interactiva COMPAQ  10.1" 6 RAM+128 GB ROM+ Tec…](https://www.sams.com.mx/ip/tableta-interactiva-compaq-10-1-6-ram-128-gb-rom-teclado-pogo-pin/981029735) | $2,863 | $2,863 en sams vs sams $5,625, liverpool $8,799 -> -49% bajo la competencia |
 | 2026-08-20 08:10 | -20% | liverpool | [Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011) | $4,800 | $4,800 en liverpool vs amazon $5,999, amazon $5,999 -> -20% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-25 09:21 | -21% | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | $30,249 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-24 21:57 | -22% | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | $749 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-24 10:54 | -44% | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | $9,839 en liverpool vs mercado -> -44% bajo la competencia |
-| 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | $10,859 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-07-24 08:47 | -22% | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,079 | $10,079 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-07-24 08:47 | -24% | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,122 | $8,122 en liverpool vs mercado -> -24% bajo la competencia |
-| 2026-07-24 08:47 | -28% | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $11,326 | $11,326 en liverpool vs mercado -> -28% bajo la competencia |
