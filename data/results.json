@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 16:03 UTC",
-  "products_scanned": 1591,
+  "generated_at": "2026-08-20 16:53 UTC",
+  "products_scanned": 1638,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,12 +112,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -126,27 +126,6 @@
       "available": true,
       "currency": "MXN",
       "extra": {}
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.6,
-      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7251.1,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 16148.0,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
-        "marketplace": null
-      }
     },
     {
       "kind": "cross_confirmed",
