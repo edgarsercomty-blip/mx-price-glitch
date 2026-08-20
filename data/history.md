@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (864)
+# Historial de ofertas encontradas (866)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 05:49 | -22% | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior L…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
+| 2026-08-20 05:49 | -45% | sams | [Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel](https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814) | $1,974 | $1,974 en sams vs liverpool $3,599 -> -45% bajo la competencia |
 | 2026-08-20 02:25 | -22% | amazon | [On Cloud X 4 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0DM2MVDN1) | $3,047 | $3,047 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-20 02:25 | -27% | liverpool | [Frigobar Hisense Rr43D6Agx1 4 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/frigobar-hisense-rr43d6agx1-4-pies-cubicos/1126618243) | $3,600 | $3,600 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-20 02:25 | -31% | mercadolibre | [Teléfono celular Samsung Galaxy A16 128 GB 4 GB de RAM …](https://www.mercadolibre.com.mx/telefono-celular-samsung-galaxy-a16-128-gb-4-gb-de-ram-nfc-verde-claro/p/MLM44113911) | $3,421 | $3,421 en mercadolibre vs mercado -> -31% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -24% | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | $3,899 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-07-23 13:10 | -25% | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | $3,899 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-07-23 13:10 | -29% | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | $7,530 en palacio vs mercado -> -29% bajo la competencia |

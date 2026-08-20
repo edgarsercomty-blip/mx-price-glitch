@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 05:08 UTC",
-  "products_scanned": 1679,
+  "generated_at": "2026-08-20 05:49 UTC",
+  "products_scanned": 1616,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,23 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 29.2,
-      "detail": "$2,124 en liverpool vs mercado -> -35% bajo la competencia",
+      "discount_pct": 3.5,
+      "detail": "$1,974 en sams vs liverpool $3,599 -> -45% bajo la competencia",
       "likely_typo": false,
-      "savings": 1157.85,
-      "store": "liverpool",
-      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373",
-      "price": 2124.15,
-      "list_price": 2999.0,
+      "savings": 1624.81,
+      "store": "sams",
+      "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
+      "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
+      "price": 1974.39,
+      "list_price": 2044.96,
       "ean": null,
       "model": null,
-      "brand": "SAMSUNG",
+      "brand": "Xiaomi",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1200691373",
-        "marketplace": null
+        "usItemId": "981035814"
       }
     },
     {
@@ -531,6 +530,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2876.09,
+      "store": "liverpool",
+      "name": "Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq73214Vbab0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248",
+      "price": 9911.44,
+      "list_price": 17699.0,
+      "ean": null,
+      "model": "Lmq73214Vbab0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1201664248",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$2,520 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -657,22 +677,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 29.1,
-      "detail": "$2,479 en liverpool vs walmart $3,099, walmart $3,099, walmart $3,099 -> -20% bajo la competencia",
+      "discount_pct": 44.0,
+      "detail": "$7,951 en liverpool vs walmart $9,990 -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 619.8,
+      "savings": 2038.56,
       "store": "liverpool",
-      "name": "Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538",
-      "price": 2479.2,
-      "list_price": 3499.0,
+      "name": "Refrigerador Mabe Home Energy Saver Rma250Pvmrp1",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-mabe-home-energy-saver-rma250pvmrp1/1205210136",
+      "price": 7951.44,
+      "list_price": 14199.0,
       "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
+      "model": "Rma250Pvmrp1",
+      "brand": "MABE",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1184984538",
+        "productId": "1205210136",
         "marketplace": null
       }
     },
