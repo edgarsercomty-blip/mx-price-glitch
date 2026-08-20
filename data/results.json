@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 15:53 UTC",
-  "products_scanned": 3127,
+  "generated_at": "2026-08-20 15:55 UTC",
+  "products_scanned": 1588,
   "threshold_pct": 20.0,
-  "count": 74,
+  "count": 49,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -1263,22 +1263,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.9,
-      "detail": "$14,321 en sams vs walmart $17,996 -> -20% bajo la competencia",
+      "discount_pct": 15.0,
+      "detail": "$540 en amazon vs amazon $675, amazon $1,612, amazon $2,022 -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3675.02,
-      "store": "sams",
-      "name": "Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SSD 14-he0000la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728",
-      "price": 14320.98,
-      "list_price": 21993.47,
+      "savings": 135.89,
+      "store": "amazon",
+      "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
+      "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
+      "price": 539.6,
+      "list_price": 635.02,
       "ean": null,
-      "model": "14-he0000la",
-      "brand": "HP",
+      "model": "CO905KS",
+      "brand": null,
       "available": true,
       "currency": "MXN",
       "extra": {
-        "usItemId": "981043728"
+        "asin": "B0GSYDK6DW"
       }
     },
     {

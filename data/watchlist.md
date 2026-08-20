@@ -639,7 +639,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 …](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | -38% |
 | 🟢 disponible | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  AMD Ry…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | -22% |
 | 🟢 disponible | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | -35% |
-| 🟢 disponible | amazon | [Piezas de repuesto originales OEM compatibles con licuadora …](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $541 | -20% |
+| 🟢 disponible | amazon | [Piezas de repuesto originales OEM compatibles con licuadora …](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $540 | -20% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643) | $11,242 | -45% |
 | 🟢 disponible | walmart | [Laptop HP AI 15-fd2353la 15.6" Windows 11 Home Intel Core Ul…](https://www.walmart.com.mx/ip/laptop-hp-ai-15-fd2353la-15-6-windows-11-home-intel-core-ultra-5-24gb-ram-512gb-ssd-fhd-plateado-natural/00019989633109) | $15,349 | -32% |
 | 🟢 disponible | amazon | [NÁUTICA, Fragancia para Hombre, Voyage Eau de Toilette para …](https://www.amazon.com.mx/dp/B000P22TIY) | $229 | -29% |

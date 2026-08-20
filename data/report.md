@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-20 15:53 UTC
+# Errores/chollos de precio — 2026-08-20 15:55 UTC
 
-- Productos revisados: **3127**
+- Productos revisados: **1588**
 - Umbral de diferencia: **20%**
-- Hallazgos: **74**
+- Hallazgos: **49**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -78,5 +78,4 @@
 | -20% | $256 | sams | [Licuadora Oster  Clásica 1.25L Gris](https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698) | $1,021 | Confirmado vs competencia | $1,021 en sams vs mercado -> -20% bajo la competencia |
 | -20% | $230 | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | Confirmado vs competencia | $920 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
-| -38% | $187 | amazon | [UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería …](https://www.amazon.com.mx/dp/B0F94D2JB6) | $312 | Confirmado vs competencia | $312 en amazon vs mercado -> -38% bajo la competencia |
-| -22% | $82 | amazon | [1800w Protector de Voltaje para Refrigerador 2 Piezas,Supres…](https://www.amazon.com.mx/dp/B0DPR2ZP79) | $297 | Confirmado vs competencia | $297 en amazon vs amazon $379, amazon $699, walmart $849 -> -22% bajo la competencia |
+| -20% | $136 | amazon | [Piezas de repuesto originales OEM compatibles con licuadora …](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $540 | Confirmado vs competencia | $540 en amazon vs amazon $675, amazon $1,612, amazon $2,022 -> -20% bajo la competencia |
