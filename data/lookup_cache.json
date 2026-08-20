@@ -1066,257 +1066,6 @@
     "ts": "2026-08-19T14:54:34.662289+00:00",
     "items": []
   },
-  "amazon|EHV23": {
-    "ts": "2026-08-18T17:01:14.673098+00:00",
-    "items": []
-  },
-  "walmart|EHV23": {
-    "ts": "2026-08-18T17:01:17.720082+00:00",
-    "items": []
-  },
-  "sams|EHV23": {
-    "ts": "2026-08-18T17:01:25.162764+00:00",
-    "items": []
-  },
-  "amazon|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-18T17:01:45.281752+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
-        "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1778.87,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Galaxy 10 Vel Vaso plástico Almendra 869-16",
-        "url": "https://www.amazon.com.mx/dp/B009B7OBIU",
-        "price": 777.53,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora BLST4108, 1.25 Litros, 800W, 10 Velocidades, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C4812MS5",
-        "price": 733.0,
-        "model": "BLST4108"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
-        "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
-        "price": 300.0,
-        "model": "BLSTAJ4954"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
-        "price": 598.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 2590.0,
-        "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 892.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Clásico Completo Sirve Para Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DTS5RL6Z",
-        "price": 369.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-18T17:01:50.626384+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
-        "price": 2104.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Lite 2 Velocidades Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-lite-2-velocidades-negro/00005389113833",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
-        "price": 4375.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
-        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
-        "price": 5767.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Pro 1200 con 7 Velocidades, 3 Programas Automáticos, Vaso BlendNGo, Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-pro-1200-con-7-velocidades-3-programas-automaticos-vaso-blendngo-plata/00003426447918?athbdg=L1300",
-        "price": 5232.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
-        "price": 1458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad Silver",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-silver/00750109525010?athbdg=L1300",
-        "price": 1190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
-        "price": 598.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-18T17:01:59.046869+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 2249.56,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 2249.58,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Max Power Cherry",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
-        "price": 1021.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
-        "model": null
-      }
-    ]
-  },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-08-18T20:42:32.657259+00:00",
     "items": [
@@ -5408,224 +5157,6 @@
   "sams|CO905KS": {
     "ts": "2026-08-20T15:55:01.888588+00:00",
     "items": []
-  },
-  "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-18T17:01:29.659858+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "COOSPO Monitor de frecuencia cardíaca con correa para el pecho, sensor de frecuencia cardíaca Bluetooth ANT+ con batería de 400H, HRM funciona con Strava/Wahoo Fitness/Polar Beat/Peloton/DDP Yoga App",
-        "url": "https://www.amazon.com.mx/dp/B07JPD924Y",
-        "price": 478.52,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin HRM-200",
-        "url": "https://www.amazon.com.mx/dp/B0DQ9KDKT2",
-        "price": 1376.49,
-        "model": "HRM-200"
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Soporte de Bicicleta para Forerunner y Fenix, Negro",
-        "url": "https://www.amazon.com.mx/dp/B000VK5BMQ",
-        "price": 319.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Fenix 7 Pro Solar, Gris Pizarra/Negro 47 mm",
-        "url": "https://www.amazon.com.mx/dp/B0BYFD4QBJ",
-        "price": 15069.92,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Fenix 7X Pro Zafiro Solar, Gris Carbon/Negro 51 mm | Linterna integrada, capacidad de carga solar",
-        "url": "https://www.amazon.com.mx/dp/B0BYFCW2GR",
-        "price": 9506.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Adaptador de Cargador USB-C para Garmin Watch Cargador, Cable Convertidor Tipo C y Micro USB para Garmin Fenix 8 7 7S 7X 6 6S 6X Pro Plus, Epix 2, Venu, Forerunner 935 945, Approach S10 S40 S60",
-        "url": "https://www.amazon.com.mx/dp/B0H3K38Y5M",
-        "price": 149.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Paquete de 4 Adaptador Cargador USB C para Garmin, Cable Convertidor Tipo C para Garmin Fenix 8 7 7S 7X 6 6S 6X Pro Plus, Forerunner 945/935, Approach S60, Instinct (Gris Plateado, L-Shaped)",
-        "url": "https://www.amazon.com.mx/dp/B0H3JZDH4S",
-        "price": 199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Fēnix E, 47 mm, Pantalla AMOLED de 1,3 Pulgadas, táctil y Botones, 90+ Aplicaciones para el Deporte, Entrenamiento Readiness, mapas, RoundTrip dinámico, Pago, autonomía de 16 días (Stainless | Extensivas características de salud y entrenamiento, reloj de aventura con hasta 16 días de vida de la batería",
-        "url": "https://www.amazon.com.mx/dp/B0DC71N29H",
-        "price": 9976.52,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Index Sleep Monitor",
-        "url": "https://www.amazon.com.mx/dp/B0FCMW5K7P",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Polar H10 - Correa de Pecho para Monitor de frecuencia cardíaca, Ant + Bluetooth, Sensor HR Impermeable para Hombres y Mujeres",
-        "url": "https://www.amazon.com.mx/dp/B07PM54P4N",
-        "price": 1886.01,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Access, HRM 600, M-XL",
-        "url": "https://www.amazon.com.mx/dp/B0F7ZGDDCX",
-        "price": 3290.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "kwmobile Carcasa Compatible con Garmin Fenix 8 51mm Funda - 2X Protector Pantalla Completo - Ultrafino y antigolpes - Negro/Transparente",
-        "url": "https://www.amazon.com.mx/dp/B0DKNPBX8N",
-        "price": 262.99,
-        "model": null
-      }
-    ]
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-18T17:01:33.565214+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar, Carbon Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-carbon-gray/00075375933932?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Glass, Slate Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-glass-slate-gray/00075375933806?athbdg=L6000",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Sapphire soft Gold",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-sapphire-soft-gold/00075375933798?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Glass, Slate Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-glass-slate-gray/00075375933815?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Sapphire, Orange",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-sapphire-orange/00075375933816?athbdg=L1300",
-        "price": 21248.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Whitestone",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-whitestone/00075375933797?athbdg=L6000",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Sapphire Orange",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-sapphire-orange/00075375933807?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar Graphite",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-graphite/00075375933935?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, Sapphire Solar, Carbon Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-sapphire-solar-carbon-gray/00075375933938?athbdg=L1300",
-        "price": 21248.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor Deportivo, Vivoactive 6",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-vivoactive-6/00075375934283?athbdg=L1300",
-        "price": 5353.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor Deportivo, Descent G2, Paloma",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-descent-g2-paloma/00075375935108?athbdg=L6000",
-        "price": 13139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa QuickFit 26mm Garmin Fenix 7X Rojo Flama",
-        "url": "https://www.walmart.com.mx/ip/correa-quickfit-26mm-garmin-fenix-7x-rojo-flama/00075375927858",
-        "price": 2153.9,
-        "model": null
-      }
-    ]
-  },
-  "sams|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-18T17:01:41.585786+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Multideporte Garmin  Fenix 8 43 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-multideporte-garmin-fenix-8-43-mm/981029652",
-        "price": 19549.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Fenix 8 Solar 51 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-fenix-8-solar-51-mm/981042772",
-        "price": 21249.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
-        "price": 8398.82,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Multideporte Premium Garmin  con GPS Fenix 8 51 mm",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-premium-garmin-con-gps-fenix-8-51-mm/981029654",
-        "price": 21249.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Multideporte Garmin  Premium con GPS Fenix 8 Zafiro Solar 47mm",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-garmin-premium-con-gps-fenix-8-zafiro-solar-47mm/981029653",
-        "price": 19549.0,
-        "model": null
-      }
-    ]
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
     "ts": "2026-08-18T17:45:19.352194+00:00",
@@ -30169,6 +29700,252 @@
         "name": "Audífonos Inalámbricos Apple  AirPods Max Blanco Estelar ​​​​​​​",
         "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-blanco-estelar/981035972",
         "price": 10998.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-20T17:20:15.122550+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
+        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
+        "price": 4259.0,
+        "model": "BVSTEM6801M"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
+        "price": 889.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
+        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster - Cafetera de 12 Tazas Oster Negra Sistema Programable con Reloj Digital BVSTDCP12B013 | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDCP12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9JP3ML",
+        "price": 1022.0,
+        "model": "BVSTDCP12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "JadeCook Cafetera Programable de Goteo 12 Tazas, 1.8 L, Panel Touch, Sistema Antigoteo, Jarra de Cristal, Color Plateado C0545-00",
+        "url": "https://www.amazon.com.mx/dp/B0GG67J6FL",
+        "price": 695.0,
+        "model": "C0545-00"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-20T17:20:32.625124+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-programable-de-5-tazas-de-capacidad-con-filtro-reutilizable-funcion-pausa-y-servir-apagado-automatico-pantalla-led-jarra-con-medidas-color-negro-bvstdcp51/00046309775269?athbdg=L1300",
+        "price": 1760.0,
+        "model": "BVSTDCP51"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera 12 tazas Hamilton Beach 49316",
+        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
+        "price": 419.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTAZASTOUCH": {
+    "ts": "2026-08-20T17:20:36.189958+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
+        "price": 2127.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
+        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
+        "price": 1798.43,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
+        "price": 561.61,
+        "model": "46299J-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
+        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
+        "price": 820.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
+        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
+        "price": 3799.0,
+        "model": "DGB-800ES"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
+        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
+        "price": 1424.02,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
+        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
+        "price": 2109.43,
+        "model": "KP440EMX"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
+        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
+        "price": 698.0,
+        "model": "46310-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1324.79,
+        "model": "TEKM-1500"
+      },
+      {
+        "store": "sams",
+        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
+        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
+        "price": 91.03,
         "model": null
       }
     ]
