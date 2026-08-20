@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20 22:47 UTC",
-  "products_scanned": 1671,
+  "generated_at": "2026-08-20 23:18 UTC",
+  "products_scanned": 1640,
   "threshold_pct": 20.0,
   "count": 46,
   "findings": [
@@ -133,12 +133,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
