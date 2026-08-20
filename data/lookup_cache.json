@@ -2212,7 +2212,7 @@
     ]
   },
   "amazon|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-08-18T19:09:09.994746+00:00",
+    "ts": "2026-08-20T19:16:46.349855+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2237,17 +2237,17 @@
       },
       {
         "store": "amazon",
+        "name": "ASUS ProArt P16 /, Ryzen AI 9 HX 370/RTX 5090/50 Tops/Pantalla 16\" 4K OLED Touch/64GB RAM/2TB SSD/Mochila/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5J6NJ7",
+        "price": 90287.24,
+        "model": "Touch/64GB"
+      },
+      {
+        "store": "amazon",
         "name": "ASUS ProArt PX13 Go Pro/Ryzen AI MAX+ 388/AMD Radeon Graphics/50 Tops/Pantalla 13\" 3K OLED Touch/32GB RAM/1TB SSD/Garantía y Servicio con la Marca en México",
         "url": "https://www.amazon.com.mx/dp/B0GQ78ZQGF",
         "price": 42999.0,
         "model": "Graphics/50"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS ProArt P16 /, Ryzen AI 9 HX 370/RTX 5090/50 Tops/Pantalla 16\" 4K OLED Touch/64GB RAM/2TB SSD/Mochila/Garantía y Servicio con la Marca en México",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5J6NJ7",
-        "price": 95039.2,
-        "model": "Touch/64GB"
       },
       {
         "store": "amazon",
@@ -2301,7 +2301,7 @@
     ]
   },
   "walmart|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-08-18T19:09:15.886648+00:00",
+    "ts": "2026-08-20T19:16:59.832205+00:00",
     "items": [
       {
         "store": "walmart",
@@ -2312,17 +2312,17 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Gamer ASUS TUF A16:  Ryzen 7 170 (hasta 4.75 GHz), Memoria de 16GB DDR5, SSD de 512GB, Pantalla de 16\" LED (1920 x 1200), GeForce RTX 4050, Windows 11 Home.",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-a16-ryzen-7-170-hasta-4-75-ghz-memoria-de-16gb-ddr5-ssd-de-512gb-pantalla-de-16-led-1920-x-1200-geforce-rtx-4050-windows-11-home-/00019929140666?athbdg=L1300",
-        "price": 18839.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop Gamer ASUS ProArt P16 16\" Táctil, AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 4060, 32GB, 1TB SSD",
         "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-proart-p16-16-tactil-amd-ryzen-ai-9-hx-370-nvidia-geforce-rtx-4060-32gb-1tb-ssd/00019710571813?athbdg=L6000",
         "price": 64350.0,
         "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919510943?athbdg=L1300",
+        "price": 13999.0,
+        "model": "512GB"
       },
       {
         "store": "walmart",
@@ -2333,10 +2333,10 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Gamer ASUS TUF Gaming A15 15.6\" FHD 144Hz Ryzen 7 7445HS 16GB 512GB RTX 3050 sin S.O - Teclado Español..",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a15-15-6-fhd-144hz-ryzen-7-7445hs-16gb-512gb-rtx-3050-sin-s-o-teclado-espanol-/00046945613998?athbdg=L1300",
-        "price": 16729.0,
-        "model": "7445HS"
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
       },
       {
         "store": "walmart",
@@ -2354,17 +2354,17 @@
       },
       {
         "store": "walmart",
-        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
-        "price": 8489.0,
-        "model": "512GB"
+        "name": "Laptop Gamer ASUS TUF Gaming A15 15.6 FHD 144Hz Ryzen 7 7445HS 24GB RAM 1.5TB SSD RTX 3050 Windows 11 Home - Teclado Español..",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a15-15-6-fhd-144hz-ryzen-7-7445hs-24gb-ram-1-5tb-ssd-rtx-3050-windows-11-home-teclado-espanol-/00046966823373?athbdg=L1300",
+        "price": 24999.0,
+        "model": "7445HS"
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919510943?athbdg=L1300",
-        "price": 13999.0,
-        "model": "512GB"
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
+        "price": 16699.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -2375,10 +2375,10 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
-        "price": 16699.0,
-        "model": null
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
       },
       {
         "store": "walmart",
@@ -2390,7 +2390,7 @@
     ]
   },
   "sams|ASUSPROARTLAPTOPRYZENASUS": {
-    "ts": "2026-08-18T19:09:19.799738+00:00",
+    "ts": "2026-08-20T19:17:06.277802+00:00",
     "items": [
       {
         "store": "sams",
@@ -2401,13 +2401,6 @@
       },
       {
         "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      },
-      {
-        "store": "sams",
         "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
         "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
         "price": 23016.48,
@@ -2415,10 +2408,10 @@
       },
       {
         "store": "sams",
-        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
-        "price": 21788.86,
-        "model": "M1605NAQ-MB231W"
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 17389.98,
+        "model": "M1605NAQ-MB107W"
       },
       {
         "store": "sams",
@@ -2426,6 +2419,13 @@
         "url": "https://www.sams.com.mx/ip/laptop-gaming-asus-f16-core-i5-8-gb-ram-512-gb-ssd-fx607vj-rl039w/981039333",
         "price": 23527.97,
         "model": "FX607VJ-RL039W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 21788.86,
+        "model": "M1605NAQ-MB231W"
       },
       {
         "store": "sams",
@@ -2457,10 +2457,10 @@
       },
       {
         "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
-        "price": 18412.98,
-        "model": "M1407KA-LY137W"
+        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
+        "price": 8899.08,
+        "model": "E1404GA-NK136W"
       },
       {
         "store": "sams",
@@ -2471,10 +2471,10 @@
       },
       {
         "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
-        "price": 14627.87,
-        "model": "E1504FA-BQ5166W"
+        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+        "price": 28640.91,
+        "model": "FA506NCQ-HN058W"
       }
     ]
   },
@@ -5639,245 +5639,6 @@
         "name": "Cafetera Nesspresso  Vertuo Pop Beige",
         "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
         "price": 3999.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-18T19:09:23.091305+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
-        "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1778.87,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Galaxy 10 Vel Vaso plástico Almendra 869-16",
-        "url": "https://www.amazon.com.mx/dp/B009B7OBIU",
-        "price": 777.53,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora BLST4108, 1.25 Litros, 800W, 10 Velocidades, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C4812MS5",
-        "price": 733.0,
-        "model": "BLST4108"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 2590.0,
-        "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
-        "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
-        "price": 198.48,
-        "model": "BLSTAJ4954"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
-        "price": 598.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Cube Completo Compatible Con Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DSLVPT5L",
-        "price": 375.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 892.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-18T19:09:27.566688+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
-        "price": 2104.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3049.0,
-        "model": "10-En-1"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
-        "price": 4375.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
-        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
-        "price": 5767.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
-        "price": 669.0,
-        "model": "EW-H801"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Vaso de Vidrio y 6 Velocidades más Pulso Roja",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-vaso-de-vidrio-y-6-velocidades-mas-pulso-roja/00005389116845?athbdg=L1300",
-        "price": 949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Profesional para Uso Rudo con Panel Digital y Tamper, Alta Potencia. Cookify (Gris, 1.6 Lt)",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-para-uso-rudo-con-panel-digital-y-tamper-alta-potencia-cookify-gris-1-6-lt-/00082855590440",
-        "price": 2599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Pro 1200 con 7 Velocidades, 3 Programas Automáticos, Vaso BlendNGo, Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-pro-1200-con-7-velocidades-3-programas-automaticos-vaso-blendngo-plata/00003426447918?athbdg=L1300",
-        "price": 5232.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/kitchenaid-7khbv83mpa-licuadora-de-inmersion-kit-accesorios/00088304969541",
-        "price": 1999.0,
-        "model": "7KHBV83MPA"
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
-    "ts": "2026-08-18T19:09:30.705111+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 2249.56,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 2249.58,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Max Power Cherry",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
-        "price": 1021.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
         "model": null
       }
     ]

@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-20 18:24 UTC",
-  "products_scanned": 1667,
+  "generated_at": "2026-08-20 19:17 UTC",
+  "products_scanned": 1594,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 46,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1745.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 47.5,
@@ -91,12 +112,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -718,7 +739,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 2039.83,
       "store": "palacio",
