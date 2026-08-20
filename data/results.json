@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 11:47 UTC",
-  "products_scanned": 1555,
+  "generated_at": "2026-08-20 12:28 UTC",
+  "products_scanned": 1550,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -84,6 +84,27 @@
       "available": true,
       "currency": "MXN",
       "extra": {}
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
+      }
     },
     {
       "kind": "cross_confirmed",
@@ -713,6 +734,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4999.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
+      "price": 19999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110959",
+        "outlet": false
       }
     },
     {
