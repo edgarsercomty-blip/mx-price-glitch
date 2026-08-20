@@ -1928,273 +1928,6 @@
       }
     ]
   },
-  "amazon|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-18T03:59:27.778200+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3: Procesador Amd Ryzen 7 7735HS (Hasta 4.75 Ghz), Memoria de 16GB Ddr5, Ssd de 1TB, Pantalla de 15.3\" Led, Video Radeon 680M, S.o. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0H139FMG1",
-        "price": 14499.0,
-        "model": "7735HS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M|Gris|Retroiluminado| 8GB RAM DDR5 | 512GB SSD | Windows 11 Pro | Paquete con Office 2021",
-        "url": "https://www.amazon.com.mx/dp/B0G8XRW1NL",
-        "price": 7999.0,
-        "model": "i7-1255U"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.amazon.com.mx/dp/B0DWJGXYM5",
-        "price": 5779.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad 1 15.6\" FHD Laptop, AMD Ryzen 3 7320U, AMD Radeon Graphics, 4GB LPDDR5 RAM, 128GB SSD, HDMI, Windows 11 Home, WiFi 6, Dolby Audio, Copilot, Abyss Blue",
-        "url": "https://www.amazon.com.mx/dp/B0DPZPD1GZ",
-        "price": 6179.0,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Laptop Ideapad Slim 3 15,6 Pulgadas Fhd 256gb / 8gb Ram Ryzen 5 40 | Windows 11 - Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H4J1VHP4",
-        "price": 8539.0,
-        "model": "256gb"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad 1 15AMN7 15.6\" Laptop AMD Ryzen 3 7320U 8GB RAM 256GB SSD PCIe NVMe Wi-Fi 6 Lector de Huellas Dactilares Abyss Blue Windows 11 Home en Modo S (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0CLT3S7WB",
-        "price": 6608.18,
-        "model": "15AMN7"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3i 15.6\" FHD Touch Laptop | AMD Ryzen 5 7520U (Beat i7-1255U) | AMD Radeon 610M | Gris | Retroiluminado | 8GB RAM DDR5 | 512GB SSD | Windows 11 Home | Paquete con lápiz táctil",
-        "url": "https://www.amazon.com.mx/dp/B0G8YR6FJ9",
-        "price": 14643.13,
-        "model": "i7-1255U"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.amazon.com.mx/dp/B0H1T5L1XS",
-        "price": 12903.0,
-        "model": "83K700TUUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Idea Pad 3 Laptop Ryzen 7 14\" 8GB RAM 512GB SSD W11 (82KT-Renovado)",
-        "url": "https://www.amazon.com.mx/dp/B0D4F5QDY4",
-        "price": 8402.16,
-        "model": "82KT-Renovado"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Ideapad 1 15.6\" FHD portátil con visualización táctil | AMD Ryzen 5 7520U (Beat i7-1165G7) | Gráficos AMD Radeon | WiFi| Batería de larga duración | 8GB RAM DDR5 | SSD de 256GB | Windows 11 S |",
-        "url": "https://www.amazon.com.mx/dp/B0DG238KR7",
-        "price": 8799.0,
-        "model": "i7-1165G7"
-      },
-      {
-        "store": "amazon",
-        "name": "Lenovo Ideapad 1 Laptop, 15.6\" FHD (1920 x 1080) IPS 300nits visualización antirreflejos, táctil, Ryzen 5 7520U, 8GB RAM, Almacenamiento de 256GB, gráficos AMD Radeon, HDMI, Windows 11, HDMI, Abyss",
-        "url": "https://www.amazon.com.mx/dp/B0D8Y8KBJR",
-        "price": 13500.0,
-        "model": "300nits"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop Lenovo Ideapad Slim 3 | Intel Core i3 | 8 GB RAM 512GB SSD | Lector SD | Windows 11 Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GT73YX5N",
-        "price": 8999.0,
-        "model": "512GB"
-      }
-    ]
-  },
-  "walmart|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-18T03:59:30.853525+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo V14 G4 14\" Full HD; Intel Core i7-13620H; 8GB RAM, 256GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-v14-g4-14-full-hd-intel-core-i7-13620h-8gb-ram-256gb-ssd/00063809758232",
-        "price": 9519.0,
-        "model": "i7-13620H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 7520U 8GB 256GB SSD 15.6\" FHD Touch Windows 11 Home Azul Abyss",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-8gb-256gb-ssd-15-6-fhd-touch-windows-11-home-azul-abyss/00019815577766?athbdg=L1300",
-        "price": 8589.0,
-        "model": "15AMN7"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 1TB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-1tb-ssd-windows-11-home-espanol-laptop-2-en-1-/00046993354919?athbdg=L1300",
-        "price": 26599.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 5 14AKP10, 14\" 1920x1200 WUXGA Táctil, AMD Ryzen AI 7 350, 16GB, 512GB SSD, Windows 11 Home, Español - Laptop 2 en 1.",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-5-14akp10-14-1920x1200-wuxga-tactil-amd-ryzen-ai-7-350-16gb-512gb-ssd-windows-11-home-espanol-laptop-2-en-1-/00019815739914?athbdg=L1300",
-        "price": 21499.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 3 15.3\" Wuxga Amd Ryzen 7 170 16gb Ram 512gb Ssd Gris",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-amd-ryzen-7-170-16gb-ram-512gb-ssd-gris/00065796828465?athbdg=L1300",
-        "price": 13779.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad Slim 3 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd/00019927353760?athbdg=L1300",
-        "price": 8629.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad Slim 3 15.3\" WUXGA Touch AMD Ryzen 7 16GB RAM 512GB SSD",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-15-3-wuxga-touch-amd-ryzen-7-16gb-ram-512gb-ssd/00019927392295?athbdg=L1300",
-        "price": 13419.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 3 83k700axlm Amd Ryzen 7 16 Gb Ssd 1 Tb 15 3 Pulgadas Ips Wuxga Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-3-83k700axlm-amd-ryzen-7-16-gb-ssd-1-tb-15-3-pulgadas-ips-wuxga-windows-11-home/00019927212192?athbdg=L1300",
-        "price": 13609.0,
-        "model": "83k700axlm"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo Ideapad Slim 15.6 Fhd Amd Ryzen 5 8gb Ram 256gb Ssd Azul",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-slim-15-6-fhd-amd-ryzen-5-8gb-ram-256gb-ssd-azul/00019927353759?athbdg=L1300",
-        "price": 7999.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Lenovo IdeaPad 1 15.6\" Ryzen 3 4GB 128GB Azul 82VG00R2US",
-        "url": "https://www.walmart.com.mx/ip/laptop-lenovo-ideapad-1-15-6-ryzen-3-4gb-128gb-azul-82vg00r2us/00019815472720?athbdg=L1300",
-        "price": 5999.0,
-        "model": "82VG00R2US"
-      },
-      {
-        "store": "walmart",
-        "name": "LENOVO IDEAPAD SLIM 3 (83K700TUUS) 15.3\" 2K TOUCH RYZEN 7 16GB 512GB SSD W11 GRIS",
-        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-83k700tuus-15-3-2k-touch-ryzen-7-16gb-512gb-ssd-w11-gris/00750232957123?athbdg=L1300",
-        "price": 12729.0,
-        "model": "83K700TUUS"
-      },
-      {
-        "store": "walmart",
-        "name": "Lenovo IdeaPad Slim 3 15,3\" Touch Ryzen 7 16GB 512GB Gris 83K700TUUS",
-        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-15-3-touch-ryzen-7-16gb-512gb-gris-83k700tuus/00019927524025?athbdg=L1300",
-        "price": 12849.0,
-        "model": "83K700TUUS"
-      }
-    ]
-  },
-  "sams|LENOVOIDEAPADRADEONLAPTOPRYZEN": {
-    "ts": "2026-08-18T03:59:35.327420+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
-        "price": 11251.98,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Yoga Pro 7 Ryzen 9/32 GB RAM/1 TB SSD 01SLM",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-yoga-pro-7-ryzen-9-32-gb-ram-1-tb-ssd-01slm/981038709",
-        "price": 30688.98,
-        "model": "RAM/1"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 7/16 GB RAM/512 GB SSD 15ARP10",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-amd-ryzen-7-16-gb-ram-512-gb-ssd-15arp10/981053143",
-        "price": 15342.95,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad 1 AMD Ryzen 7/16 GB RAM/512 GB SDD + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-1-amd-ryzen-7-16-gb-ram-512-gb-sdd-mochila-mouse/981022913",
-        "price": 10225.91,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Flex 5 Ryzen 5/8 GB RAM/512 GB 14A + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-flex-5-ryzen-5-8-gb-ram-512-gb-14a-mochila-mouse/981008318",
-        "price": 19433.91,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3/Ryzen 7/16 GB RAM/1 TB IPSLIM3-AXLM + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-ryzen-7-16-gb-ram-1-tb-ipslim3-axlm-mochila/981044391",
-        "price": 10225.91,
-        "model": "IPSLIM3-AXLM"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3 AMD Ryzen 5/8 GB RAM/512 GB SSD MJLM + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-amd-ryzen-5-8-gb-ram-512-gb-ssd-mjlm-mochila/981035506",
-        "price": 8178.89,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
-        "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
-        "price": 17388.95,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
-        "price": 16876.43,
-        "model": "gen/8"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
-        "price": 12467.27,
-        "model": "RAM/256"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Intel Core Ultra 7/24 GB RAM/1 TB SSD 3-1ALM + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-intel-core-ultra-7-24-gb-ram-1-tb-ssd-3-1alm-mouse/981051359",
-        "price": 24549.95,
-        "model": "3-1ALM"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/8 GB RAM/512 GB SSD 6VLM + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-8-gb-ram-512-gb-ssd-6vlm-mochila-mouse/981038992",
-        "price": 8178.89,
-        "model": "RAM/512"
-      }
-    ]
-  },
   "amazon|NESPRESSONESPRESSOCAFETERATITANPIXIE": {
     "ts": "2026-08-18T05:06:04.125480+00:00",
     "items": [
@@ -30003,6 +29736,273 @@
         "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904",
         "price": 4191.23,
         "model": null
+      }
+    ]
+  },
+  "amazon|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-20T03:59:33.569161+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
+        "price": 22999.0,
+        "model": "TOPS/24GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 Laptop, pantalla táctil OLED WUXGA de 14\", AMD Ryzen 7 8840HS de 8 núcleos, gráficos AMD Radeon, 16GB LPDDR5, 512GB SSD, teclado retroiluminado, Wi-Fi 6E, cámara 1080p, Win11 Home, USB",
+        "url": "https://www.amazon.com.mx/dp/B0D2NXV7X5",
+        "price": 23227.98,
+        "model": "8840HS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Edición Ceraluminum Ryzen AI 9 465/50 TOPS/16 3K OLED /32GB /1TB SSD/+ Funda/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQJTC2RZ",
+        "price": 36999.0,
+        "model": "TOPS/16"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 Laptop - AMD Ryzen 5-8GB RAM - NVIDIA GEFORCE MX350-256GB SSD - Win 10, gris claro",
+        "url": "https://www.amazon.com.mx/dp/B08C81JT39",
+        "price": 14853.11,
+        "model": "MX350-256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 15 Business Slim Laptop, 15.6\" FHD 100% sRGB, AMD Ryzen 5 7535U, teclado retroiluminado, Wi-Fi 6E, USB C, Windows 11 Home, con paño (16 GB LPDDR5 RAM | 2 TB SSD)",
+        "url": "https://www.amazon.com.mx/dp/B0DP9NKV3T",
+        "price": 21419.99,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
+        "price": 13499.0,
+        "model": "7-7730U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
+        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
+        "price": 26134.49,
+        "model": "M5406WA-AH94"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, 16\" 3K visualización táctil (2880x1800), AMD Radeon 880M, W11 Home, Teclado QWERTY Estadounidense",
+        "url": "https://www.amazon.com.mx/dp/B0DJH4XLBS",
+        "price": 52309.76,
+        "model": "2880x1800"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 AI Laptop | visualización táctil WUXGA OLED de 14 pulgadas | AMD Ryzen AI 7 350 (hasta 50 NPU) | SSD DDR5 de 32 GB de 1 TB | para Creator Business Professional Win11 Pro con accesorio",
+        "url": "https://www.amazon.com.mx/dp/B0G5YG6H5Q",
+        "price": 36950.0,
+        "model": "Win11"
+      }
+    ]
+  },
+  "walmart|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-20T03:59:37.658851+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Zenbook UM3406KA-QD096W AMD Ryzen AI 5 340 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Zenbook-UM3406KA-QD096W-AMD-Ryzen-AI-5-340-16GB-512GB/00019710588042?athbdg=L1300",
+        "price": 19497.0,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-Go-15-Laptop-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-Windows-11-AMD-Radeon-WiFi-Bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Vivobook-15-AMD-Ryzen-5-150-8GB-DDR5-SSD-512GB-Pantalla-15-6-IPS-FHD-Windows-11-Teclado-Espanol/00070452118646",
+        "price": 19999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-S16-Laptop-OLED-de-16-Intel-Core-Ultra-9-285H-Supera-a-AMD-Ryzen-9-8945HS-32GB-RAM-1TB-SSD-2880x1800-DCI-P3-100-Ketboard-Retroiluminado-RGB-Windows-11-Business-AI-Copilot-PC/00019710535553?athbdg=L6000",
+        "price": 26634.01,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-15-6-Fhd-Amd-Ryzen-5-8gb-Ram-512gb-Ssd-Negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-VivoBook-Go-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-W11-Negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS ROG Zephyrus G14 14” OLED 3K 120Hz Gaming AMD Ryzen 9 270 16GB LPDDR5X GeForce RTX 5060 1TB SSD Platinum White",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-ROG-Zephyrus-G14-14-OLED-3K-120Hz-Gaming-AMD-Ryzen-9-270-16GB-LPDDR5X-GeForce-RTX-5060-1TB-SSD-Platinum-White/00019710586144?athbdg=L6000",
+        "price": 70419.0,
+        "model": "LPDDR5X"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 2TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-AMD-Ryzen-7-7445HS-Beat-i7-12650H-RTX-4050-Teclado-Retroiluminado-RGB-16-WUXGA-144Hz-32GB-DDR5-RAM-2TB-PCIe-SSD-Windows-11-Portatil-Gamer-PC-Copilot-2025/00019929155453?athbdg=L6000",
+        "price": 35892.02,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 1TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-AMD-Ryzen-7-7445HS-Beat-i7-12650H-RTX-4050-Teclado-Retroiluminado-RGB-16-WUXGA-144Hz-32GB-DDR5-RAM-1TB-PCIe-SSD-Windows-11-Portatil-Gamer-PC-Copilot-2025/00019929155451?athbdg=L6000",
+        "price": 32365.9,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop RTX 5070 MUX Switch - AMD Ryzen 9 270 Beat i9-12950HX -16“ Pantalla FHD+ G-SYNC -32GB RAM -2TB SSD -teclado Retroiluminado RGB -cámara Web -2025 Laptop PC Gamer Copilot",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-RTX-5070-MUX-Switch-AMD-Ryzen-9-270-Beat-i9-12950HX-16-Pantalla-FHD-G-SYNC-32GB-RAM-2TB-SSD-teclado-Retroiluminado-RGB-camara-Web-2025-Laptop-PC-Gamer-Copilot/00019710578335?athbdg=L6000",
+        "price": 50397.18,
+        "model": "i9-12950HX"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 1TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A18-Pulgadas-Gaming-Laptop-AMD-Ryzen-7-260-Beat-i9-13905H-NVIDIA-RTX-5060-Pantalla-WUXGA-de-18-32GB-de-RAM-1TB-SSD-Teclado-Retroiluminado-RGB-Camara-FHD-Laptop-para-Gamer/00019710542309?athbdg=L1300",
+        "price": 38670.43,
+        "model": "i9-13905H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A18 Pulgadas Gaming Laptop - AMD Ryzen 7 260 Beat i9-13905H - NVIDIA RTX 5060 - Pantalla WUXGA de 18\" - 32GB de RAM - 2TB SSD - Teclado Retroiluminado RGB - Cámara FHD - Laptop para Gamer PC",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A18-Pulgadas-Gaming-Laptop-AMD-Ryzen-7-260-Beat-i9-13905H-NVIDIA-RTX-5060-Pantalla-WUXGA-de-18-32GB-de-RAM-2TB-SSD-Teclado-Retroiluminado-RGB-Camara-FHD-Laptop-para-Gamer-PC/00019710542310?athbdg=L1300",
+        "price": 41886.53,
+        "model": "i9-13905H"
+      }
+    ]
+  },
+  "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-20T03:59:43.949541+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Zenbook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD UM3406KA-QD096W + Funda",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-zenbook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-um3406ka-qd096w-funda/981035880",
+        "price": 23016.48,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 23016.48,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 21788.86,
+        "model": "M1605NAQ-MB231W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 30688.95,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 17389.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2454.18,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
+        "price": 15343.98,
+        "model": "D1605YA-MB470W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
+        "price": 9819.78,
+        "model": "E1404FA-NK341W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
+        "price": 14627.87,
+        "model": "E1504FA-BQ5166W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
+        "price": 18412.98,
+        "model": "M1407KA-LY137W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+        "price": 28640.91,
+        "model": "FA506NCQ-HN058W"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1657-GRYS",
+        "url": "https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197",
+        "price": 9299.0,
+        "model": "GWNR5B1657-GRYS"
       }
     ]
   }
