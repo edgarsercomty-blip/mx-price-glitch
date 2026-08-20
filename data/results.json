@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 03:59 UTC",
-  "products_scanned": 1694,
+  "generated_at": "2026-08-20 04:38 UTC",
+  "products_scanned": 1653,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.2,
+      "detail": "$2,124 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1157.85,
+      "store": "liverpool",
+      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373",
+      "price": 2124.15,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200691373",
+        "marketplace": null
       }
     },
     {
