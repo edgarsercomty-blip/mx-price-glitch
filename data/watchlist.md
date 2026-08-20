@@ -1,4 +1,4 @@
-# Productos en vigilancia (735)
+# Productos en vigilancia (736)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -739,3 +739,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [On Cloud X 4 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0DM2MVDN1) | $3,047 | -22% |
 | 🟢 disponible | sams | [Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel](https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814) | $1,974 | -45% |
 | 🟢 disponible | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | -22% |
+| 🟢 disponible | liverpool | [Xiaomi Redmi 15 Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15-lcd-6-9-pulgadas-telcel/1184984571) | $3,599 | -20% |

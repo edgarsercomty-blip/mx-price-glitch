@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (866)
+# Historial de ofertas encontradas (867)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 06:28 | -20% | liverpool | [Xiaomi Redmi 15 Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15-lcd-6-9-pulgadas-telcel/1184984571) | $3,599 | $3,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-20 05:49 | -22% | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior L…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-20 05:49 | -45% | sams | [Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel](https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814) | $1,974 | $1,974 en sams vs liverpool $3,599 -> -45% bajo la competencia |
 | 2026-08-20 02:25 | -22% | amazon | [On Cloud X 4 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0DM2MVDN1) | $3,047 | $3,047 en amazon vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-23 13:10 | -23% | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | $5,495 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-07-23 13:10 | -24% | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $3,899 | $3,899 en palacio vs mercado -> -24% bajo la competencia |

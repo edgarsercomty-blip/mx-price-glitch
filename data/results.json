@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 05:49 UTC",
-  "products_scanned": 1616,
+  "generated_at": "2026-08-20 06:28 UTC",
+  "products_scanned": 1584,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 3.5,
-      "detail": "$1,974 en sams vs liverpool $3,599 -> -45% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1624.81,
-      "store": "sams",
-      "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
-      "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
-      "price": 1974.39,
-      "list_price": 2044.96,
-      "ean": null,
-      "model": null,
-      "brand": "Xiaomi",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981035814"
       }
     },
     {
@@ -85,6 +65,27 @@
       "extra": {
         "id": "45000830",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
       }
     },
     {
@@ -677,22 +678,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$7,951 en liverpool vs walmart $9,990 -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$3,599 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2038.56,
+      "savings": 899.8,
       "store": "liverpool",
-      "name": "Refrigerador Mabe Home Energy Saver Rma250Pvmrp1",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-mabe-home-energy-saver-rma250pvmrp1/1205210136",
-      "price": 7951.44,
-      "list_price": 14199.0,
+      "name": "Xiaomi Redmi 15 Lcd 6 9 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15-lcd-6-9-pulgadas-telcel/1184984571",
+      "price": 3599.2,
+      "list_price": 4499.0,
       "ean": null,
-      "model": "Rma250Pvmrp1",
-      "brand": "MABE",
+      "model": null,
+      "brand": "XIAOMI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1205210136",
+        "productId": "1184984571",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.1,
+      "detail": "$2,479 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 619.8,
+      "store": "liverpool",
+      "name": "Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538",
+      "price": 2479.2,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184984538",
         "marketplace": null
       }
     },
