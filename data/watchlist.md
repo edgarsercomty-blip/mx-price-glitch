@@ -1,4 +1,4 @@
-# Productos en vigilancia (748)
+# Productos en vigilancia (744)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -748,7 +748,3 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | -20% |
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | -20% |
-| 🟢 disponible | mercadolibre | [Celular motorola G17 256 GB Cámara 50 Mpx Azul](https://www.mercadolibre.com.mx/celular-motorola-g17-256-gb-camara-50-mpx-azul/p/MLM65041663) | $3,194 | -31% |
-| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | -26% |
-| 🟢 disponible | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | -22% |
-| 🟢 disponible | amazon | [1800w Protector de Voltaje para Refrigerador 2 Piezas,Supres…](https://www.amazon.com.mx/dp/B0DPR2ZP79) | $297 | -22% |

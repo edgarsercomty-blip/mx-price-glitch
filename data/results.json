@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-08-20 15:55 UTC",
-  "products_scanned": 1588,
+  "generated_at": "2026-08-20 16:03 UTC",
+  "products_scanned": 1591,
   "threshold_pct": 20.0,
-  "count": 49,
+  "count": 47,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$2,788 en amazon vs walmart $9,999, amazon $12,237 -> -72% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7211.0,
-      "store": "amazon",
-      "name": "Tarjeta de Control para Lavadora 8mwtw2231wjb, Sistema Smart Load",
-      "url": "https://www.amazon.com.mx/dp/B0G5YBVXFN",
-      "price": 2788.0,
-      "list_price": 282.98,
-      "ean": null,
-      "model": "8mwtw2231wjb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0G5YBVXFN"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 68.8,
-      "detail": "$1,022 en sams vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1125.29,
-      "store": "sams",
-      "name": "Kit de Impresora Canon Ivy Mini Portátil Blanca + Paquete de Papel",
-      "url": "https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145",
-      "price": 1021.98,
-      "list_price": 3272.56,
-      "ean": null,
-      "model": null,
-      "brand": "Canon",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043145"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -63,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.7,
-      "detail": "$444 en sams vs mercado -> -46% bajo la competencia",
-      "likely_typo": false,
-      "savings": 373.38,
-      "store": "sams",
-      "name": "Licuadora Personal Koblenz  MSKM-600 2PS",
-      "url": "https://www.sams.com.mx/ip/licuadora-personal-koblenz-mskm-600-2ps/981039640",
-      "price": 444.0,
-      "list_price": 817.38,
-      "ean": null,
-      "model": "MSKM-600",
-      "brand": "Koblenz",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981039640"
       }
     },
     {
@@ -108,26 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$312 en amazon vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 187.0,
-      "store": "amazon",
-      "name": "UGREEN Audífonos Inalámbricos In Ear Bluetooth 6.0, Batería hasta 32 Horas | Driver de 10mm Hi-Fi Calida de Sonido, Reducción de Ruido AI para Llamadas, Admite App y Encuentra Audifonos y 8 EQ Efectos",
-      "url": "https://www.amazon.com.mx/dp/B0F94D2JB6",
-      "price": 312.0,
-      "list_price": 104.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0F94D2JB6"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
       "likely_typo": false,
@@ -145,26 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.5,
-      "detail": "$1,942 en sams vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1023.0,
-      "store": "sams",
-      "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-      "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-      "price": 1941.65,
-      "list_price": 2964.65,
-      "ean": null,
-      "model": null,
-      "brand": "T-fal",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050797"
       }
     },
     {
@@ -190,26 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$9,207 en sams vs walmart $15,499, walmart $15,499 -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4602.48,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy S24+ 256 GB Gris Marmol",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601",
-      "price": 9207.0,
-      "list_price": 18412.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981017601"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,999 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -227,26 +107,6 @@
       "extra": {
         "id": "44747549",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,207 en sams vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4602.48,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy S24+ 256 GB Negro Onyx",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-negro-onyx/981017603",
-      "price": 9207.0,
-      "list_price": 15343.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981017603"
       }
     },
     {
@@ -286,46 +146,6 @@
       "extra": {
         "productId": "1180419841",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.6,
-      "detail": "$3,194 en mercadolibre vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1405.0,
-      "store": "mercadolibre",
-      "name": "Celular motorola G17 256 GB Cámara 50 Mpx Azul",
-      "url": "https://www.mercadolibre.com.mx/celular-motorola-g17-256-gb-camara-50-mpx-azul/p/MLM65041663",
-      "price": 3194.0,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM65041663"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.8,
-      "detail": "$12,990 en walmart vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5649.0,
-      "store": "walmart",
-      "name": "Refrigerador Midea 19 pies FrenchDoor Inox",
-      "url": "https://www.walmart.com.mx/ip/Refrigerador-Midea-19-pies-FrenchDoor-Inox/00695490381639?athbdg=L1300",
-      "price": 12990.0,
-      "list_price": 20890.0,
-      "ean": null,
-      "model": null,
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00695490381639"
       }
     },
     {
@@ -456,88 +276,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.6,
-      "detail": "$1,533 en sams vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 613.78,
-      "store": "sams",
-      "name": "Batidora de Pedestal Daewoo Blanco",
-      "url": "https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847",
-      "price": 1533.48,
-      "list_price": 2147.26,
-      "ean": null,
-      "model": null,
-      "brand": "Daewoo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981010847"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.5,
-      "detail": "$10,229 en sams vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4070.02,
-      "store": "sams",
-      "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-      "price": 10228.98,
-      "list_price": 19129.06,
-      "ean": null,
-      "model": "15-eg2523la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981030009"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 54.0,
-      "detail": "$40,480 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 14599.78,
-      "store": "palacio",
-      "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-      "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-      "price": 40479.54,
-      "list_price": 87999.0,
-      "ean": null,
-      "model": "WM25BFXS",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44968794",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$23,597 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8401.54,
-      "store": "palacio",
-      "name": "Refrigerador French Door Xpert Inverter 31p3",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html",
-      "price": 23597.46,
-      "list_price": 43699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Whirlpool",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45040174",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -555,26 +293,6 @@
       "extra": {
         "productId": "1110040357",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.9,
-      "detail": "$825 en amazon vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 288.8,
-      "store": "amazon",
-      "name": "Calvin Klein Tenis para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0BTTQHHMY",
-      "price": 824.83,
-      "list_price": 1113.85,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BTTQHHMY"
       }
     },
     {
@@ -747,26 +465,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$920 en sams vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 306.89,
-      "store": "sams",
-      "name": "Licuadora Daewoo con Molino 1.5L",
-      "url": "https://www.sams.com.mx/ip/licuadora-daewoo-con-molino-1-5l/981010849",
-      "price": 919.68,
-      "list_price": 1226.57,
-      "ean": null,
-      "model": null,
-      "brand": "Daewoo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981010849"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -826,66 +524,6 @@
       "extra": {
         "id": "44123334",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$8,386 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2661.85,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A57 256 GB Dark Blue Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-dark-blue-desbloqueado/981050990",
-      "price": 8385.53,
-      "list_price": 12274.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050990"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$4,191 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1331.95,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A26 128 GB Blanco",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904",
-      "price": 4191.23,
-      "list_price": 6136.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981035904"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$4,191 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1331.95,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A26 128 GB Verde",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-verde/981035903",
-      "price": 4191.23,
-      "list_price": 6136.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981035903"
       }
     },
     {
@@ -1037,26 +675,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 22.4,
-      "detail": "$8,990 en walmart vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2600.0,
-      "store": "walmart",
-      "name": "Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra",
-      "url": "https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300",
-      "price": 8990.0,
-      "list_price": 11590.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00694427167560"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$2,520 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -1074,86 +692,6 @@
       "extra": {
         "id": "45130972",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 38.7,
-      "detail": "$5,013 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1431.18,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A36 128 GB Negro",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a36-128-gb-negro/981033455",
-      "price": 5012.7,
-      "list_price": 8182.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981033455"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$4,502 en mercadolibre vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1259.0,
-      "store": "mercadolibre",
-      "name": "Motorola Moto G75 5g Dual Sim 256 Gb Negro 8 Gb RAM",
-      "url": "https://www.mercadolibre.com.mx/motorola-moto-g75-5g-dual-sim-256-gb-negro-8-gb-ram/p/MLM45512984",
-      "price": 4502.0,
-      "list_price": 4502.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM45512984"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$297 en amazon vs amazon $379, amazon $699, walmart $849 -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 82.05,
-      "store": "amazon",
-      "name": "1800w Protector de Voltaje para Refrigerador 2 Piezas,Supresor de Transientes,Regulador de Voltaje para TV y Refrigerador,Enchufe Americano 120v,Regulador de para Microondas y Lavadora",
-      "url": "https://www.amazon.com.mx/dp/B0DPR2ZP79",
-      "price": 297.0,
-      "list_price": 30.14,
-      "ean": null,
-      "model": "1800w",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0DPR2ZP79"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1709.0,
-      "store": "walmart",
-      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
-      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
-      "price": 6290.0,
-      "list_price": 9990.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00694427168676"
       }
     },
     {
@@ -1259,26 +797,6 @@
       "extra": {
         "id": "43216481",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 15.0,
-      "detail": "$540 en amazon vs amazon $675, amazon $1,612, amazon $2,022 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 135.89,
-      "store": "amazon",
-      "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
-      "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
-      "price": 539.6,
-      "list_price": 635.02,
-      "ean": null,
-      "model": "CO905KS",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0GSYDK6DW"
       }
     },
     {
@@ -1468,66 +986,6 @@
       "extra": {
         "id": "45001063",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$1,021 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 255.75,
-      "store": "sams",
-      "name": "Licuadora Oster  Clásica 1.25L Gris",
-      "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-      "price": 1020.95,
-      "list_price": 1634.74,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "980028698"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$7,363 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1843.45,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
-      "price": 7362.53,
-      "list_price": 10229.09,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043317"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$7,363 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1843.45,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A37 256 GB Light Violet Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-light-violet-desbloqueado/981050720",
-      "price": 7362.53,
-      "list_price": 10228.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050720"
       }
     }
   ]
