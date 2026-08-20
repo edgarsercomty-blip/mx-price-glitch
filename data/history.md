@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (878)
+# Historial de ofertas encontradas (884)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 15:53 | -22% | amazon | [1800w Protector de Voltaje para Refrigerador 2 Piezas,S…](https://www.amazon.com.mx/dp/B0DPR2ZP79) | $297 | $297 en amazon vs amazon $379, amazon $699, walmart $849 -> -22% bajo la competencia |
+| 2026-08-20 15:53 | -22% | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | $8,990 en walmart vs mercado -> -22% bajo la competencia |
+| 2026-08-20 15:53 | -26% | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | $23,597 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-08-20 15:53 | -30% | walmart | [Refrigerador Midea 19 pies FrenchDoor Inox](https://www.walmart.com.mx/ip/Refrigerador-Midea-19-pies-FrenchDoor-Inox/00695490381639?athbdg=L1300) | $12,990 | $12,990 en walmart vs mercado -> -30% bajo la competencia |
+| 2026-08-20 15:53 | -31% | mercadolibre | [Celular motorola G17 256 GB Cámara 50 Mpx Azul](https://www.mercadolibre.com.mx/celular-motorola-g17-256-gb-camara-50-mpx-azul/p/MLM65041663) | $3,194 | $3,194 en mercadolibre vs mercado -> -31% bajo la competencia |
+| 2026-08-20 15:53 | -20% | walmart | [TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C](https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510) | $1,990 | 🔁 DE NUEVO DISPONIBLE en walmart: $1,990 (estaba agotado) |
 | 2026-08-20 14:58 | -20% | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | $3,679 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-20 14:58 | -30% | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-08-20 14:21 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-27 07:55 | -25% | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $5,999 | $5,999 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-27 07:55 | -30% | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $41,999 | $41,999 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-27 04:04 | -33% | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $2,445 | $2,445 en liverpool vs mercado -> -33% bajo la competencia |
-| 2026-07-26 13:01 | -20% | liverpool | [Playmobil Naruto Shippuden Kabuto 71568](https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364) | $55 | $55 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-26 13:01 | -25% | liverpool | [Smartwatch Stf Insignia Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-stf-insignia-unisex/1176671432) | $299 | $299 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-26 10:45 | -37% | palacio | [Pantalla 65 pulgadas Plana 4K K65XR70M2](https://www.elpalaciodehierro.com/sony-pantalla-65-pulgadas-plana-4k-k65xr70m2-45500060.html) | $35,153 | $35,153 en palacio vs mercado -> -37% bajo la competencia |
-| 2026-07-25 22:12 | -21% | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automat…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | $38,542 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-25 09:21 | -20% | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | $43,086 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-25 09:21 | -21% | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | $30,249 en palacio vs mercado -> -21% bajo la competencia |
