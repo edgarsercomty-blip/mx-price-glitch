@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 14:21 UTC",
-  "products_scanned": 1538,
+  "generated_at": "2026-08-20 14:58 UTC",
+  "products_scanned": 1654,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 48,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,12 +112,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -146,6 +146,27 @@
       "extra": {
         "productId": "1180419841",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
+        "outlet": false
       }
     },
     {
@@ -187,6 +208,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926489",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,946 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1262.7,
+      "store": "palacio",
+      "name": "Correa para Apple Watch en Acero Inoxidable Tricolor",
+      "url": "https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html",
+      "price": 2946.3,
+      "list_price": 4209.0,
+      "ean": null,
+      "model": null,
+      "brand": "Michael Kors",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44353770",
         "outlet": false
       }
     },
@@ -313,6 +355,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,474 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 824.75,
+      "store": "palacio",
+      "name": "Licuadora Clásica BLST4125 de 1 velocidad",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html",
+      "price": 2474.25,
+      "list_price": 3299.0,
+      "ean": null,
+      "model": "BLST4125",
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43216476",
         "outlet": false
       }
     },
@@ -717,22 +780,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$360 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": null,
+      "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 89.9,
+      "savings": 900.0,
       "store": "palacio",
-      "name": "Funda Bumper para celular iPhone Air, Canela",
-      "url": "https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html",
-      "price": 359.6,
-      "list_price": 899.0,
+      "name": "Licuadora Osterizer MAX, 2 Velocidades, Gris",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html",
+      "price": 3499.0,
+      "list_price": null,
       "ean": null,
       "model": null,
-      "brand": "Apple",
+      "brand": "Oster",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45003623",
+        "id": "43216481",
         "outlet": false
       }
     },
@@ -860,6 +923,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {

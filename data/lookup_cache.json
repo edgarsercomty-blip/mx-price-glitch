@@ -5987,182 +5987,6 @@
     "ts": "2026-08-20T02:23:39.738768+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-08-18T14:54:07.867844+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart DCC-3400 - Cafetera térmica programable (12 tazas, acero inoxidable) | Cafetera diaria con programabilidad 24 horas, ajuste de 1-4 tazas, opciones de fuerza y pausa de preparación, DCC-3400NAS",
-        "url": "https://www.amazon.com.mx/dp/B01N6T5QNO",
-        "price": 2775.84,
-        "model": "DCC-3400NAS"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "SIGNA Cafetera Automática De Goteo Con Jarra De Vidrio De 650 ML Acabado En Negro Y Acero Inoxidable Cafetera Precoladora Cuenta Con Un Filtro",
-        "url": "https://www.amazon.com.mx/dp/B0FPS64VHC",
-        "price": 259.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster ESPRESSO MAKER PB SLIM OS | Prepara espresso, cappuccino y latte, sistema de preinfusión e incluye accesorios profesionales, BVSTEM7200",
-        "url": "https://www.amazon.com.mx/dp/B0BY3N2M7S",
-        "price": 3269.0,
-        "model": "BVSTEM7200"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 729.0,
-        "model": "BVSTDCS12B013"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-08-18T14:54:17.935104+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de goteo de acero inoxidable, cafetera de goteo manual, tetera, cafetera Oro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-de-acero-inoxidable-cafetera-de-goteo-manual-tetera-cafetera-oro/00078671130106?athbdg=L1300",
-        "price": 789.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de goteo de acero inoxidable, cafetera de goteo manual, tetera, cafetera Argén",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-de-acero-inoxidable-cafetera-de-goteo-manual-tetera-cafetera-argen/00078671130971?athbdg=L1300",
-        "price": 519.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAGOTEOTOUCHACERO": {
-    "ts": "2026-08-18T14:54:23.463146+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2344.71,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      }
-    ]
-  },
   "amazon|ASUSVIVOBOOKLAPTOPRYZENSSD": {
     "ts": "2026-08-18T15:22:32.713472+00:00",
     "items": [
@@ -33915,6 +33739,273 @@
         "name": "Airpods Apple  con Estuche de Carga Blanco",
         "url": "https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208",
         "price": 3374.88,
+        "model": null
+      }
+    ]
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-08-20T14:58:16.831981+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A57 Azul Marino 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKL2R28",
+        "price": 7173.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S26 Ultra Negro 512GB (Versión Nacional)",
+        "url": "https://www.amazon.com.mx/dp/B0G4B54DR1",
+        "price": 19998.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S22 Ultra 12 Ram 256GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0BQGMXQJX",
+        "price": 7099.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A36 5G Smartphone, 8GB RAM, 256GB Storage, Gris, Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0F1HGHMJV",
+        "price": 5977.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A54 5G 6GB Ram 128GB Asombroso Grafito Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C4BFVH4W",
+        "price": 3499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 4G, 256GB, 8GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, 5000mAh, Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FRYP55LB",
+        "price": 4808.0,
+        "model": "5000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Ultra 12GB RAM 512GB Titanium Amarillo Desbloqueado Tel?fono Celular Inal?mbrico (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D4RB1187",
+        "price": 14999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Smartphone Samsung Galaxy A26 6GB 128GB Negro Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DZHPR6CS",
+        "price": 4286.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 AI Phone, 256 GB de almacenamiento, 12 GB de RAM, azul marino, teléfono inteligente Android, cámara de 50 MP, batería de larga duración, garantía de 1 año/Versión local",
+        "url": "https://www.amazon.com.mx/dp/B0DSLTZFXN",
+        "price": 12349.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SAMSUNG Galaxy A56 12GB 256GB 5G Negro | 5G",
+        "url": "https://www.amazon.com.mx/dp/B0F493SPV4",
+        "price": 7947.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S24 Plus 12GB Ram 512GB Cobalto Violeta Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D2RTZDH7",
+        "price": 10200.31,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A37 5G Lavanda 256GB",
+        "url": "https://www.amazon.com.mx/dp/B0GMKY5LG8",
+        "price": 5999.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-08-20T14:58:33.305304+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A56 8GB RAM 256GB ROM Rosa Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a56-8gb-ram-256gb-rom-rosa-desbloqueado/00880609704753?athbdg=L1300",
+        "price": 6729.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Lavanda Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-lavanda-desbloqueado/00880609708869?athbdg=L1300",
+        "price": 4819.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
+        "price": 13999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-gris-desbloqueado/00880609708868?athbdg=L1510",
+        "price": 5387.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-verde-desbloqueado/00880609708872?athbdg=L1300",
+        "price": 4819.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-negro-desbloqueado/00880609708866?athbdg=L1300",
+        "price": 4819.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Gris",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-dual-sim-desbloqueado-128gb-4gb-ram-gris/00880609765123?athbdg=L6000",
+        "price": 3499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Black 128GB , 6GB RAM Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-black-128gb-6gb-ram-dual-sim-desbloqueado/00880609766722?athbdg=L1300",
+        "price": 3549.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "price": 11499.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
+    "ts": "2026-08-20T14:58:39.870018+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A56 256 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-negro-desbloqueado/981033457",
+        "price": 6956.4,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
+        "price": 16613.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A17 128 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-black-desbloqueado/981041127",
+        "price": 3065.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
+        "price": 2288.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
+        "price": 7362.53,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A07 128 GB Violeta Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-violeta-desbloqueado/981053649",
+        "price": 2288.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228",
+        "price": 5009.63,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
+        "price": 1913.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S26 256 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-256-gb-black-desbloqueado/981050355",
+        "price": 17387.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A56 256 GB Rosa Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-rosa-desbloqueado/981033464",
+        "price": 6956.4,
         "model": null
       }
     ]

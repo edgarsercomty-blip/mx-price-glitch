@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (876)
+# Historial de ofertas encontradas (878)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-20 14:58 | -20% | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | $3,679 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-20 14:58 | -30% | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-08-20 14:21 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-20 14:21 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-20 14:21 | -30% | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | $9,099 en palacio vs mercado -> -30% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-25 22:12 | -21% | liverpool | [Refrigerador Refrigerador Samsung French Door Y Automat…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-refrigerador-samsung-french-door-y-automatica-rf80h30cdtem/1200106811) | $38,542 | $38,542 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-07-25 09:21 | -20% | palacio | [Cava de vinos KUWR214KSB para 46 botellas](https://www.elpalaciodehierro.com/kitchenaid-cava-de-vinos-kuwr214ksb-para-46-botellas-42176789.html) | $43,086 | $43,086 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-25 09:21 | -21% | palacio | [Pantalla 75 Pulgadas Plana OLED 4K 75MRGB86BSA](https://www.elpalaciodehierro.com/lg-pantalla-75-pulgadas-plana-oled-4k-75mrgb86bsa-45505426.html) | $30,249 | $30,249 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-07-24 21:57 | -22% | liverpool | [Combo Licuadora Blendjet Bj2Bl Ecbna 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-blendjet-bj2bl-ecbna-1-velocidad/1178436101) | $749 | $749 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-07-24 10:54 | -44% | liverpool | [Refrigerador Top Mount Whirlpool 11 Pies Cubicos Xpert …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-whirlpool-11-pies-cubicos-xpert-energy-saver-wt1143k/1119021924) | $9,839 | $9,839 en liverpool vs mercado -> -44% bajo la competencia |
