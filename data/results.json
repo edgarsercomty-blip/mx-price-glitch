@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20 08:10 UTC",
-  "products_scanned": 1601,
+  "generated_at": "2026-08-20 08:57 UTC",
+  "products_scanned": 1563,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,7 +48,7 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 16.1,
+      "discount_pct": null,
       "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
@@ -56,36 +56,13 @@
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
       "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
-      "list_price": 5599.0,
+      "list_price": null,
       "ean": null,
       "model": "256Gb+8Gb",
-      "brand": "Motorola",
+      "brand": null,
       "available": true,
       "currency": "MXN",
-      "extra": {
-        "usItemId": "00084002328756"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.6,
-      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7251.1,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 16148.0,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
-        "marketplace": null
-      }
+      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -615,48 +592,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$3,599 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.8,
-      "store": "liverpool",
-      "name": "Xiaomi Redmi 15 Lcd 6 9 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15-lcd-6-9-pulgadas-telcel/1184984571",
-      "price": 3599.2,
-      "list_price": 4499.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1184984571",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.1,
-      "detail": "$2,479 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 619.8,
-      "store": "liverpool",
-      "name": "Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538",
-      "price": 2479.2,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1184984538",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 199.8,
@@ -715,27 +650,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4999.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
-      "price": 19999.2,
-      "list_price": 24999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110959",
-        "outlet": false
       }
     },
     {
