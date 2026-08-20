@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19 23:55 UTC",
-  "products_scanned": 1595,
+  "generated_at": "2026-08-20 00:41 UTC",
+  "products_scanned": 1634,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.6,
-      "detail": "$3,119 en liverpool vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1879.65,
-      "store": "liverpool",
-      "name": "Nubia V80 Pro Ips 6 75 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/nubia-v80-pro-ips-6-75-pulgadas-telcel/1193471321",
-      "price": 3119.35,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUBIA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1193471321",
-        "marketplace": null
       }
     },
     {
@@ -106,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1165916841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.6,
-      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7251.1,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 16148.0,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
         "marketplace": null
       }
     },
@@ -589,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 23.0,
+      "detail": "$11,549 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.77,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 11549.23,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
         "outlet": false
       }
     },
