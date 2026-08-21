@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (897)
+# Historial de ofertas encontradas (900)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-21 15:37 | -24% | walmart | [Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto…](https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285) | $85 | $85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia |
+| 2026-08-21 15:37 | -26% | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | $23,597 en palacio vs mercado -> -26% bajo la competencia |
+| 2026-08-21 15:37 | -31% | mercadolibre | [Consolas Sonido 4 Canales Usb Mezcladora Mixer Bt 48v A…](https://www.mercadolibre.com.mx/consolas-sonido-4-canales-usb-mezcladora-mixer-bt-48v-aelora/p/MLM62370061) | $599 | $599 en mercadolibre vs mercado -> -31% bajo la competencia |
 | 2026-08-21 14:56 | -25% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco De…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $10,199 | $10,199 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-21 09:18 | -25% | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $22,499 | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-21 08:40 | -25% | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | $4,266 en liverpool vs mercado -> -25% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-29 00:11 | -36% | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 23:17 | -36% | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Cele…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | $4,471 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 08:03 | -30% | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | $40,249 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-07-28 03:59 | -42% | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,699 | $8,699 en liverpool vs mercado -> -42% bajo la competencia |
-| 2026-07-27 19:19 | -38% | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | $12,499 en liverpool vs mercado -> -38% bajo la competencia |
-| 2026-07-27 16:10 | -23% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
