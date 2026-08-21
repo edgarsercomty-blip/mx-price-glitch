@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 12:28 UTC",
-  "products_scanned": 1534,
+  "generated_at": "2026-08-21 13:29 UTC",
+  "products_scanned": 1597,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 24.1,
-      "detail": "$10,999 en amazon vs palacio $17,791, sams $19,436, sams $22,914 -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6792.36,
-      "store": "amazon",
-      "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
-      "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
-      "price": 10999.0,
-      "list_price": 14499.0,
-      "ean": null,
-      "model": "RAM/512GB",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0GZJ5VFKS"
       }
     },
     {
@@ -84,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000830",
         "outlet": false
       }
     },
@@ -165,6 +124,27 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$13,684 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5864.7,
+      "store": "palacio",
+      "name": "CAFETERA PERFECT BREW MAXIMA",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
+      "price": 13684.3,
+      "list_price": 19549.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926489",
         "outlet": false
       }
     },
@@ -401,6 +381,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,319 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 439.75,
+      "store": "palacio",
+      "name": "Cafetera de goteo Panel Touch para 8 Tazas, Acero",
+      "url": "https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html",
+      "price": 1319.25,
+      "list_price": 1759.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43926488",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -553,6 +554,27 @@
       "likely_typo": false,
       "savings": 10799.82,
       "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600329",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
       "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
       "price": 35399.41,
@@ -570,42 +592,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$5,495 en palacio vs amazon $10,296 -> -23% bajo la competencia",
+      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 1648.5,
+      "savings": 5938.5,
       "store": "palacio",
-      "name": "Cafetera Expreso ECF02BLUS Negra",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
-      "price": 5495.0,
-      "list_price": 10990.0,
-      "ean": null,
-      "model": "ECF02BLUS",
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44011025",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
       "ean": null,
       "model": null,
       "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44519347",
+        "id": "44302743",
         "outlet": false
       }
     },
@@ -700,27 +701,6 @@
       "likely_typo": false,
       "savings": 2079.84,
       "store": "palacio",
-      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
       "name": "Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado",
       "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html",
       "price": 7799.4,
@@ -732,6 +712,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
         "outlet": false
       }
     },
@@ -880,27 +881,6 @@
       "extra": {
         "productId": "9957691086",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4999.8,
-      "store": "palacio",
-      "name": "Monitor para entrenamiento Fénix",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
-      "price": 19999.2,
-      "list_price": 24999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44110959",
-        "outlet": false
       }
     },
     {
