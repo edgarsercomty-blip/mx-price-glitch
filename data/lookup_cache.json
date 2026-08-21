@@ -7314,42 +7314,49 @@
     "items": []
   },
   "amazon|APPLEIPHONERETINAAPPLESUPER": {
-    "ts": "2026-08-19T21:16:53.974544+00:00",
+    "ts": "2026-08-21T21:41:24.422432+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Pro 128GB, Titanio Blanco (Reacondicionado Premium)",
+        "url": "https://www.amazon.com.mx/dp/B0CRHY86N9",
+        "price": 12844.88,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim | Aluminio",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
+        "price": 5898.03,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTRVT9",
+        "price": 6536.78,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Plus 256GB Negro Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLN4ZFGF",
+        "price": 9728.69,
+        "model": "256GB"
+      },
       {
         "store": "amazon",
         "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
         "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
-        "price": 5789.23,
+        "price": 5699.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
-        "price": 5809.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
-        "price": 8052.05,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
-        "price": 5919.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 256GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLR1LW2",
-        "price": 7799.0,
-        "model": "256GB"
+        "name": "Apple iPhone 14 Pro 1TB Plata Desbloqueado (Reacondicionado) Esim | 6.1\" Super Retina XDR OLED",
+        "url": "https://www.amazon.com.mx/dp/B0BNLT9HT5",
+        "price": 11599.0,
+        "model": null
       },
       {
         "store": "amazon",
@@ -7360,6 +7367,13 @@
       },
       {
         "store": "amazon",
+        "name": "Apple iPhone 15 256GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLN4BKMW",
+        "price": 10279.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
         "name": "iPhone 16e 128 GB: Diseñado para Apple Intelligence, Chip A18, superbatería, cámara Fusion de 48 MP, Pantalla Super Retina XDR de 6.1 Pulgadas, Blanco",
         "url": "https://www.amazon.com.mx/dp/B0DXQHQW12",
         "price": 12799.0,
@@ -7367,43 +7381,29 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 16 Pro Max 256GB Titanio del Desierto Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0DHJ9SCJ4",
-        "price": 15999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
         "name": "Apple iPhone 15 Pro MAX 256GB Titanio Natural Desbloqueado (Reacondicionado) Esim",
         "url": "https://www.amazon.com.mx/dp/B0CLQ1YNMV",
-        "price": 13479.0,
+        "price": 12799.0,
         "model": "256GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
-        "price": 6326.0,
-        "model": "128GB"
+        "name": "Apple iPhone 14 512GB Morado Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTXJ7T",
+        "price": 7637.11,
+        "model": "512GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
-        "price": 5899.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 Pro 256GB Oro Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTHZTP",
-        "price": 9599.0,
+        "name": "Apple iPhone 16 Pro Max 256GB Titanio del Desierto Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0DHJ9SCJ4",
+        "price": 15899.0,
         "model": "256GB"
       }
     ]
   },
   "walmart|APPLEIPHONERETINAAPPLESUPER": {
-    "ts": "2026-08-19T21:16:56.211432+00:00",
+    "ts": "2026-08-21T21:41:29.374257+00:00",
     "items": [
       {
         "store": "walmart",
@@ -7422,8 +7422,93 @@
     ]
   },
   "sams|APPLEIPHONERETINAAPPLESUPER": {
-    "ts": "2026-08-19T21:16:56.911569+00:00",
-    "items": []
+    "ts": "2026-08-21T21:41:35.822809+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple 128GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128gb-negro-desbloqueado/981018495",
+        "price": 19947.46,
+        "model": "128GB"
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Negro AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-negro-at-t/981032198",
+        "price": 39752.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
+        "price": 17901.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 17 Apple  256 GB Azul Neblina Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-17-apple-256-gb-azul-neblina-telcel/981042924",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11762.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Apple  128 GB Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-azul-at-t/981015025",
+        "price": 13603.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 17 Pro Apple  256 GB Azul Oscuro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-17-pro-apple-256-gb-azul-oscuro-telcel/981042916",
+        "price": 29153.44,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Black AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-black-at-t/981034474",
+        "price": 15343.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
+        "price": 13092.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-azul-at-t/981032199",
+        "price": 33757.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      }
+    ]
   },
   "amazon|HEUMANBRANDADVANCEDCOLCHONHEUMANVOLANS": {
     "ts": "2026-08-19T22:15:00.355295+00:00",
