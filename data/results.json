@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 05:25 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-21 06:02 UTC",
+  "products_scanned": 1559,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$398 en amazon vs palacio $674 -> -41% bajo la competencia",
-      "likely_typo": false,
-      "savings": 276.25,
-      "store": "amazon",
-      "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
-      "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
-      "price": 398.0,
-      "list_price": 40.39,
-      "ean": null,
-      "model": "12Tazas",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0H1WNYLW1"
       }
     },
     {
@@ -591,27 +571,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$5,495 en palacio vs amazon $10,296 -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1648.5,
-      "store": "palacio",
-      "name": "Cafetera Expreso ECF02BLUS Negra",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
-      "price": 5495.0,
-      "list_price": 10990.0,
-      "ean": null,
-      "model": "ECF02BLUS",
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44011025",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 5938.5,
@@ -732,6 +691,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },
