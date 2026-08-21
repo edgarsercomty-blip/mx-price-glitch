@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 03:18 UTC",
+  "generated_at": "2026-08-21 04:05 UTC",
   "products_scanned": 1597,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -86,6 +86,26 @@
       "extra": {
         "id": "45000830",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 16.1,
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2120.38,
+      "store": "walmart",
+      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "price": 4699.0,
+      "list_price": 5599.0,
+      "ean": null,
+      "model": "256Gb+8Gb",
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00084002328756"
       }
     },
     {
@@ -187,27 +207,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44353770",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 38.0,
-      "detail": "$6,819 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2859.74,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 6819.38,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
         "outlet": false
       }
     },
@@ -507,27 +506,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1599.78,
-      "store": "palacio",
-      "name": "Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html",
-      "price": 5142.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "UN43M70HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45366538",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 47.5,
       "detail": "$6,824 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -738,6 +716,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$3,499 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -754,27 +753,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43216481",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$920 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 230.0,
-      "store": "palacio",
-      "name": "Smart Folio para iPadPro de 13 pulgadas M4 Blanco",
-      "url": "https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html",
-      "price": 920.0,
-      "list_price": 2300.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44004165",
         "outlet": false
       }
     },
@@ -860,27 +838,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
