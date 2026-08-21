@@ -1150,15 +1150,8 @@
     ]
   },
   "amazon|CX1405CTA": {
-    "ts": "2026-08-19T14:54:22.802200+00:00",
+    "ts": "2026-08-21T14:54:55.622755+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Ordenador portátil Chromebook CX14 CX1405CTA | 14\" FHD 16:9 IPS Pantalla | Intel N50 | 4 GB de RAM | 128 GB eMMC | Intel UHD | ChromeOS | QWERTZ | Quiet Blue (Adaptador AC Sold Separately)",
-        "url": "https://www.amazon.com.mx/dp/B0GJS5QSN6",
-        "price": 8014.91,
-        "model": "CX1405CTA"
-      },
       {
         "store": "amazon",
         "name": "Protector de visualización antiluz azul para ASUS ChromeBook CM1 CX1 CX3 CX9 CM14 CX14 CX34/ChromeBook 14 CM1400 CM1402CM2A CX1400 CX1400CKA CX3400 CX3401 CX3401 CXX 444 444 CX1405 CX1405CTA (no",
@@ -1168,10 +1161,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Chromebook Plus CX 14 pulgadas con visualización táctil, procesador Intel Core 3, FHD 1920 x 1080, 8 GB de RAM, almacenamiento de 256 GB, sistema operativo cromado, CX1405CTA-IS386PT",
-        "url": "https://www.amazon.com.mx/dp/B0G5LKLYHB",
-        "price": 14884.19,
-        "model": "CX1405CTA-IS386PT"
+        "name": "ASUS Ordenador portátil Chromebook CX14 CX1405CTA | 14\" FHD 16:9 IPS Pantalla | Intel N50 | 4 GB de RAM | 128 GB eMMC | Intel UHD | ChromeOS | QWERTZ | Quiet Blue (Adaptador AC Sold Separately)",
+        "url": "https://www.amazon.com.mx/dp/B0GJS5QSN6",
+        "price": 7915.09,
+        "model": "CX1405CTA"
       },
       {
         "store": "amazon",
@@ -1189,16 +1182,9 @@
       },
       {
         "store": "amazon",
-        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras finas de goma para ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
-        "url": "https://www.amazon.com.mx/dp/B0H6ZLM1LP",
-        "price": 525.77,
-        "model": "CX1405CKA"
-      },
-      {
-        "store": "amazon",
-        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras gruesas de goma para pies ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
-        "url": "https://www.amazon.com.mx/dp/B0H6XBYWKP",
-        "price": 525.77,
+        "name": "Gintai Conector USB-C para ASUS Chromebook CX1405 CX1405CKA CX1405CTA | Adaptador USB C Jack USB C Tipo C Port Jack Dock Plug",
+        "url": "https://www.amazon.com.mx/dp/B0HCCFVYRT",
+        "price": 712.84,
         "model": "CX1405CKA"
       },
       {
@@ -1217,9 +1203,16 @@
       },
       {
         "store": "amazon",
-        "name": "Gintai Conector USB-C para ASUS Chromebook CX1405 CX1405CKA CX1405CTA | Adaptador USB C Jack USB C Tipo C Port Jack Dock Plug",
-        "url": "https://www.amazon.com.mx/dp/B0HCCFVYRT",
-        "price": 712.84,
+        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras finas de goma para ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
+        "url": "https://www.amazon.com.mx/dp/B0H6ZLM1LP",
+        "price": 525.77,
+        "model": "CX1405CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras gruesas de goma para pies ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
+        "url": "https://www.amazon.com.mx/dp/B0H6XBYWKP",
+        "price": 520.24,
         "model": "CX1405CKA"
       },
       {
@@ -1235,11 +1228,18 @@
         "url": "https://www.amazon.com.mx/dp/B0H6MLXYG9",
         "price": 663.91,
         "model": "CX1405CKA"
+      },
+      {
+        "store": "amazon",
+        "name": "Gintai Base Gruesa y Fina para Ordenador portátil ASUS Chromebook CX1405 CX1505 | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
+        "url": "https://www.amazon.com.mx/dp/B0H6M65D4V",
+        "price": 753.57,
+        "model": "CX1405CKA"
       }
     ]
   },
   "walmart|CX1405CTA": {
-    "ts": "2026-08-19T14:54:24.984852+00:00",
+    "ts": "2026-08-21T14:54:59.154551+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1251,12 +1251,40 @@
     ]
   },
   "sams|CX1405CTA": {
-    "ts": "2026-08-19T14:54:25.887084+00:00",
+    "ts": "2026-08-21T14:55:07.528474+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-19T14:54:29.274525+00:00",
+    "ts": "2026-08-21T14:55:10.808257+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Huawei Watch Kids X1 Smartwatch Azul | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
+        "url": "https://www.amazon.com.mx/dp/B0H5KCVHGV",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "PTHTECHUS 4G Reloj Inteligente para niños, Smartwatch for Kids con GPS y teléfono, SOS, videollamada, Chat de Voz Modo Escuela Podómetro Despertador Cámara Regalos para niñas de 4 a 12 años（Morado）",
+        "url": "https://www.amazon.com.mx/dp/B0FHV99B7M",
+        "price": 1268.01,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "PTHTECHUS 4G Reloj Inteligente para niños, Smartwatch teléfonos con una Llamada SOS Camera de Video Música 8 Juegos, Pantalla táctil HD,Reloj para niños Regalos para niños",
+        "url": "https://www.amazon.com.mx/dp/B0D5MH9HD1",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Azul)",
+        "url": "https://www.amazon.com.mx/dp/B0CS33HCCY",
+        "price": 1499.0,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
@@ -1280,23 +1308,9 @@
       },
       {
         "store": "amazon",
-        "name": "Huawei Watch Kids X1 Pro Smartwatch Morado | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
-        "url": "https://www.amazon.com.mx/dp/B0H6Q4JRHT",
-        "price": 5599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Huawei Watch Kids X1 Smartwatch Rosa | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
         "url": "https://www.amazon.com.mx/dp/B0H5KGFLJH",
         "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Azul)",
-        "url": "https://www.amazon.com.mx/dp/B0CS33HCCY",
-        "price": 1499.0,
         "model": null
       },
       {
@@ -1308,16 +1322,16 @@
       },
       {
         "store": "amazon",
-        "name": "Reloj Inteligente para Niños y Niñas - Smartwatch Kids con Llamadas, Cámara HD, SOS, Reproductor MP3, Podómetro, 19 Juegos, ABC Card, El Mejor Regalo para Niños de 4 a 12 Años Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H5PYP8H8",
-        "price": 664.98,
+        "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Azul)",
+        "url": "https://www.amazon.com.mx/dp/B0CS33HCCY",
+        "price": 1499.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Reloj Inteligente para niños, Reloj Inteligente con función de Llamada para niños, 19 Juegos, Tarjetas educativas, Ideal como Regalo de Fiesta para niños Negro (Morado)",
-        "url": "https://www.amazon.com.mx/dp/B0H3Z3NX6P",
-        "price": 664.04,
+        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Blanco | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
+        "url": "https://www.amazon.com.mx/dp/B0GWMJ3VC5",
+        "price": 2645.02,
         "model": null
       },
       {
@@ -1326,38 +1340,109 @@
         "url": "https://www.amazon.com.mx/dp/B0DFW58SWH",
         "price": 199.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "EASYTAO Reloj Inteligente Niños,Detección de Actividad,no Requiere Celular | Smartwatch niños, Contador de Pasos, Monitor de Frecuencia Cardíaca, Monitoreo del Sueño, 80 Modos de Ejercicio",
-        "url": "https://www.amazon.com.mx/dp/B0GY7K3SVH",
-        "price": 594.15,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Morado",
-        "url": "https://www.amazon.com.mx/dp/B0H67RKZML",
-        "price": 199.0,
-        "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-19T14:54:33.749999+00:00",
+    "ts": "2026-08-21T14:55:19.107710+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Reloj Inteligente Huawei Watch Kids 4 Pro Azul",
-        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Huawei-Watch-Kids-4-Pro-Azul/00694148724058",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-huawei-watch-kids-4-pro-azul/00694148724058",
         "price": 3799.0,
         "model": null
       }
     ]
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-19T14:54:34.662289+00:00",
-    "items": []
+    "ts": "2026-08-21T14:55:22.881472+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
+        "price": 3500.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
+        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
+        "price": 5930.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Edredón Refrescante Individual Chill Kids  Arcoíris 1 pza",
+        "url": "https://www.sams.com.mx/ip/edredon-refrescante-individual-chill-kids-arcoiris-1-pza/981030912",
+        "price": 919.67,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jugo del Valle Kids Surtido Tetrapack 40 pzas de 200 ml c/u",
+        "url": "https://www.sams.com.mx/ip/jugo-del-valle-kids-surtido-tetrapack-40-pzas-de-200-ml-c-u/000356520",
+        "price": 224.04,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Agua Bonafont Kids Surtidos 24 pzas de 300ml",
+        "url": "https://www.sams.com.mx/ip/agua-bonafont-kids-surtidos-24-pzas-de-300ml/000208453",
+        "price": 170.84,
+        "model": "300ml"
+      },
+      {
+        "store": "sams",
+        "name": "Organizador de Juguetes Kids House Princesas",
+        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-princesas/981013426",
+        "price": 1328.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Lápices de Colores Bic Kids con 40 pzas",
+        "url": "https://www.sams.com.mx/ip/set-de-lapices-de-colores-bic-kids-con-40-pzas/981037902",
+        "price": 207.66,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set Primaria Bic Kids con 41 pzas",
+        "url": "https://www.sams.com.mx/ip/set-primaria-bic-kids-con-41-pzas/981036157",
+        "price": 357.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Organizador de Juguetes Kids House Frozen",
+        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-frozen/981013428",
+        "price": 1328.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Mesa Infantil Kids House Princesas",
+        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-princesas/981013424",
+        "price": 1727.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Mesa Infantil Kids House Frozen",
+        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-frozen/981013422",
+        "price": 1727.84,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Set de Mesa Infantil Kids House Mickey",
+        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-mickey/981013425",
+        "price": 1727.84,
+        "model": null
+      }
+    ]
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-08-20T20:51:21.372115+00:00",
@@ -7191,370 +7276,6 @@
         "model": null
       }
     ]
-  },
-  "amazon|HPOMNIBOOKLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-19T14:54:11.592909+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
-        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
-        "price": 12999.0,
-        "model": "15-fc0372la"
-      },
-      {
-        "store": "amazon",
-        "name": "Hp Omnibook 5 Laptop Ai Pc Amd Ryzen 7 350 Npu Motor de Ia Dedicado 50 | Tops 16GB Lpddr5x 512GB Ssd Pantalla 16\" Ips Fhd+ Teclado Ingles W11h Copilot+ Bateria Larga Duracion Carga Rapida",
-        "url": "https://www.amazon.com.mx/dp/B0GZ4S9887",
-        "price": 16999.0,
-        "model": "Lpddr5x"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop HP Omnibook 3 Touch 16\" Ryzen 5 8GB 256GB Plata 16-BY0015DX",
-        "url": "https://www.amazon.com.mx/dp/B0H71QNC56",
-        "price": 10479.0,
-        "model": "16-BY0015DX"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop 255R G10, Procesador AMD Ryzen 5 7535U, Pantalla 15.6 Pulgadas Full HD, 16GB RAM DDR5, SSD 512GB, Windows 11 Home, Gráficos AMD Radeon",
-        "url": "https://www.amazon.com.mx/dp/B0HDFYTFWL",
-        "price": 13199.0,
-        "model": "7535U"
-      },
-      {
-        "store": "amazon",
-        "name": "HP 2026 AI Omnibook, portátil IPS 2K de 16 pulgadas, procesador AMD Ryzen 7 350 hasta 5 GHz, DDR5 de 16 GB, SSD de 512 GB, HDMI, teclado retroiluminado, wifi ultrarrápido de 6ª generación, sistema",
-        "url": "https://www.amazon.com.mx/dp/B0GW9P7ZXT",
-        "price": 12962.56,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HP OmniBook 3 Laptop de 16\", Pantalla Táctil 2K, AMD Ryzen 3 30, 8 GB RAM, 256 GB SSD, GPU AMD Radeon 610M, Windows 11 Home, Plata Mica",
-        "url": "https://www.amazon.com.mx/dp/B0GQB1C381",
-        "price": 14522.58,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HP OmniBook 5 Business Laptop, 16\" WUXGA 60Hz, AMD Ryzen AI 7 350 8-Core, AMD Radeon 860M Graphics, 16GB RAM - 512GB SSD, W11H - Wi-Fi 6E - Bluetooth 5.4-1080p FHD + cámara IR - Glacier Silver",
-        "url": "https://www.amazon.com.mx/dp/B0B7B97CWJ",
-        "price": 19399.0,
-        "model": "4-1080p"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Omnibook AMD Ryzen AI 7 350 16GB RAM DDR5 1TB SSD Laptop 16 WUXGA Touchscreen Gamer",
-        "url": "https://www.amazon.com.mx/dp/B0F91PF5Z3",
-        "price": 16607.57,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop ProBook 4 AIG1a, Pantalla de 16\" 1920x1200 WUXGA, AMD Ryzen 7 250, 24GB DDR5 RAM, 512GB SSD, Windows 11 Pro, Español (CH0N6LT), Color Plata, Garantía y Servicio en México",
-        "url": "https://www.amazon.com.mx/dp/B0GYKM2VXB",
-        "price": 17574.05,
-        "model": "1920x1200"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop 15-fc0265la, AMD Ryzen 5, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
-        "url": "https://www.amazon.com.mx/dp/B0GH9PDZGN",
-        "price": 9999.0,
-        "model": "15-fc0265la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop 255R: Procesador AMD Ryzen 5 7520U (hasta 4.3 GHz), Memoria de 16GB LPDDR5, SSD de 512GB, Pantalla de 15.6\" LED, Video Radeon Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0H37NZRWN",
-        "price": 10999.0,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop 245 G10, Procesador AMD Ryzen 3 7330U, Pantalla de 14 Pulgadas HD, 16GB RAM DDR4, SSD de 1TB, Windows 11 Home, Gráficos AMD Radeon Integrados",
-        "url": "https://www.amazon.com.mx/dp/B0HDQV9WGC",
-        "price": 11999.0,
-        "model": "7330U"
-      }
-    ]
-  },
-  "walmart|HPOMNIBOOKLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-19T14:54:18.390573+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
-        "price": 15996.0,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP Ominibook 5: Procesador AMD Ryzen AI 7 350 (hasta 5.0 GHz), Memoria de 16GB DDR5, SSD de 512GB, Pantalla de 16\" LED, Video Radeon Graphics, S.O. Windows 11 Home. Teclado Versión en Inglés.",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-ominibook-5-procesador-amd-ryzen-ai-7-350-hasta-5-0-ghz-memoria-de-16gb-ddr5-ssd-de-512gb-pantalla-de-16-led-video-radeon-graphics-s-o-windows-11-home-teclado-version-en-ingles-/00019899010957?athbdg=L1300",
-        "price": 17649.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Notebook HP Omnibook Ryzen AI 7 350 1TB SSD 16GB RAM 16 WUXGA",
-        "url": "https://www.walmart.com.mx/ip/notebook-hp-omnibook-ryzen-ai-7-350-1tb-ssd-16gb-ram-16-wuxga/00019899071071?athbdg=L6000",
-        "price": 18905.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
-        "price": 25999.0,
-        "model": "FX607"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop AI PC HP OmniBook 3 15-fn0505nr Ryzen AI 5 340 16GB DDR5 512GB SSD Pantalla 15.6\" Touch IPS FHD Copilot+ PC NPU 50 TOP Windows 11 Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ai-pc-hp-omnibook-3-15-fn0505nr-ryzen-ai-5-340-16gb-ddr5-512gb-ssd-pantalla-15-6-touch-ips-fhd-copilot-pc-npu-50-top-windows-11-teclado-ingles/00070452118637?athbdg=L1300",
-        "price": 17899.0,
-        "model": "15-fn0505nr"
-      },
-      {
-        "store": "walmart",
-        "name": "HP Omnibook 5 16 inch Laptop AMD Ryzen 5-8540U AI PC 8GB RAM 512GB SSD WIN 11 Glacier Silver 16-BC1052WM",
-        "url": "https://www.walmart.com.mx/ip/hp-omnibook-5-16-inch-laptop-amd-ryzen-5-8540u-ai-pc-8gb-ram-512gb-ssd-win-11-glacier-silver-16-bc1052wm/00019899010959?athbdg=L6000",
-        "price": 11999.0,
-        "model": "16-BC1052WM"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
-        "price": 13997.0,
-        "model": "M1605NAQ-MB087W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Hp Omnibook 3 Touch 16\" Ryzen 5 8GB 256GB Plata 16-BY0015DX",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-3-touch-16-ryzen-5-8gb-256gb-plata-16-by0015dx/00082184431452?athbdg=L1300",
-        "price": 9089.0,
-        "model": "16-BY0015DX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP 255 G10 15.6” FHD AMD Ryzen™ 3 7335U | 8GB DDR5 | SSD 512GB NVMe | Radeon 660M | Windows 11 Home | Wi-Fi 6 | Teclado Retroiluminado en Español.",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-255-g10-15-6-fhd-amd-ryzen-3-7335u-8gb-ddr5-ssd-512gb-nvme-radeon-660m-windows-11-home-wi-fi-6-teclado-retroiluminado-en-espanol-/00046374417101?athbdg=L1300",
-        "price": 8049.0,
-        "model": "7335U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook X1504VA-E85362W C5 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-x1504va-e85362w-c5-16gb-512gb/00019929138370",
-        "price": 14997.0,
-        "model": "X1504VA-E85362W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP 255 G10 15.6” FHD AMD Ryzen™ 3 7335U | 16GB DDR5 | SSD 512GB NVMe | Radeon 660M | Windows 11 Pro | Wi-Fi 6 | Teclado Retroiluminado en Español.",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-255-g10-15-6-fhd-amd-ryzen-3-7335u-16gb-ddr5-ssd-512gb-nvme-radeon-660m-windows-11-pro-wi-fi-6-teclado-retroiluminado-en-espanol-/00046527875093?athbdg=L1300",
-        "price": 12299.0,
-        "model": "7335U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Toshiba Dynabook X40-J I5 11th, 240GB SSD M.2, 16GB RAM DDR4 Touch",
-        "url": "https://www.walmart.com.mx/ip/laptop-toshiba-dynabook-x40-j-i5-11th-240gb-ssd-m-2-16gb-ram-ddr4-touch/00406250710720",
-        "price": 6288.3,
-        "model": "X40-J"
-      }
-    ]
-  },
-  "sams|HPOMNIBOOKLAPTOPRADEONRYZEN": {
-    "ts": "2026-08-19T14:54:20.178205+00:00",
-    "items": []
-  },
-  "amazon|COACHCORREAWATCHACEROAPPLE": {
-    "ts": "2026-08-19T14:54:37.708969+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa de silicona intercambiable, aspecto elegante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DLFJD2T2",
-        "price": 1171.3,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Apple Watch用ストラップ Apple Watch 38mm 40mm 41mm 42mm 44mm 45mmに対応 交換可能なバンド ユニークなスタイルを作り出しましょう",
-        "url": "https://www.amazon.com.mx/dp/B0CDSNXDJT",
-        "price": 1599.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa de Metal Compatible con Apple Watch | Correa Acero Inoxidable Para iWatch Ultra 3/2 SE 3/2 Series 11 10 9 8 7 6 5 4 ,Elegante con Acabado Bicolor Pulido y Mate",
-        "url": "https://www.amazon.com.mx/dp/B0F7WW484C",
-        "price": 299.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach - Apple Straps - Correa Apple Watch para Mujer 14700244 - Acero Inoxidable Multicolor - Compatible 38/40/41 mm",
-        "url": "https://www.amazon.com.mx/dp/B0D244R42M",
-        "price": 1899.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
-        "url": "https://www.amazon.com.mx/dp/B0BNSZ8DMP",
-        "price": 455.99,
-        "model": "Ultra3/2/1"
-      },
-      {
-        "store": "amazon",
-        "name": "COACH Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, diseño de vidrio para un aspecto deslumbrante, personaliza tu estilo",
-        "url": "https://www.amazon.com.mx/dp/B0DLG65S12",
-        "price": 2753.63,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable con estilo distintivo para un aspecto personalizado",
-        "url": "https://www.amazon.com.mx/dp/B0DYG9TF16",
-        "price": 1094.91,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach Correa para Apple Watch, compatible con Apple Watch de 38 mm, 40 mm, 41 mm, correa intercambiable, crea tu estilo único",
-        "url": "https://www.amazon.com.mx/dp/B0D23X7Z2L",
-        "price": 2659.3,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa Metálica Para Apple Watch 44mm 46mm 45mm 49mm 40mm 42mm | Pulsera Acero Inoxidable con Case Para iWatch Ultra3/2/1 SE3/2/1 Series 11/10/9/8/7/6/5/4/3/2/1",
-        "url": "https://www.amazon.com.mx/dp/B07F1RRQXQ",
-        "price": 409.99,
-        "model": "Ultra3/2/1"
-      },
-      {
-        "store": "amazon",
-        "name": "Fullmosa Correa Magnética Para Apple Watch 40mm 42mm 41mm 38mm,Starlight | Milanesa Pulsera de Repuesto de Acero Inoxidable Loop para Series 11 10 9 8 7 6 5 4 3 2 1 SE3/2/1 para Mujer y Hombre",
-        "url": "https://www.amazon.com.mx/dp/B0D9S1NY22",
-        "price": 399.99,
-        "model": "SE3/2/1"
-      },
-      {
-        "store": "amazon",
-        "name": "GEAK Correas Magnéticas Compatibles con Correa Apple Watch 40mm 38mm 41mm 45mm 44mm 42mm 46mm 49mm, Pulseras de acero inoxidable Milanese Mesh Loop para iWatch Series 11 10 9 8 7 6 5 4 3 2 1 SE Ultra",
-        "url": "https://www.amazon.com.mx/dp/B0DFLYYC2B",
-        "price": 329.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Coach - Apple Straps - Correa Para Mujer 14700059 - Lona Arena con Firma - Compatible 38/40/41 mm - Diseño Elegante y Moderno",
-        "url": "https://www.amazon.com.mx/dp/B0CDSNKG88",
-        "price": 1435.15,
-        "model": null
-      }
-    ]
-  },
-  "walmart|COACHCORREAWATCHACEROAPPLE": {
-    "ts": "2026-08-19T14:54:52.962930+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Correa de reloj Coach para Apple Watch de 38 mm y 40 mm de acero inoxidable",
-        "url": "https://www.walmart.com.mx/ip/Correa-de-reloj-Coach-para-Apple-Watch-de-38-mm-y-40-mm-de-acero-inoxidable/00088599740919?athbdg=L1300",
-        "price": 3179.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Watch Strap Coach de acero inoxidable para 38 mm a 41 mm",
-        "url": "https://www.walmart.com.mx/ip/Apple-Watch-Strap-Coach-de-acero-inoxidable-para-38-mm-a-41-mm/00088599746055?athbdg=L1300",
-        "price": 4699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Acero Inoxidable, Eslabones/Cadenas Para Apple Watch Series 1/2/3/4/5/6/7/8/9/10",
-        "url": "https://www.walmart.com.mx/ip/Correa-Acero-Inoxidable-Eslabones-Cadenas-Para-Apple-Watch-Series-1-2-3-4-5-6-7-8-9-10/00750306072813?athbdg=L1300",
-        "price": 502.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa de caucho rosa para Apple Watch Coach de 38 mm, 40 mm y 41 mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-de-caucho-rosa-para-Apple-Watch-Coach-de-38-mm-40-mm-y-41-mm/00088599740922?athbdg=L1300",
-        "price": 2419.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa de silicona Coach Signature para Apple Watch de 42 mm/44 mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-de-silicona-Coach-Signature-para-Apple-Watch-de-42-mm-44-mm/00088599742991?athbdg=L1300",
-        "price": 2189.0,
-        "model": "mm/44"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa de silicona Coach Signature para Apple Watch de 42 mm/44 mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-de-silicona-Coach-Signature-para-Apple-Watch-de-42-mm-44-mm/00088599742997?athbdg=L1300",
-        "price": 2419.0,
-        "model": "mm/44"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Milanese Loop para Apple Watch, Acero Inoxidable, Compatible con Series 1,2,3,4,5,6,7,8,9,10,11,SE,ULTRA",
-        "url": "https://www.walmart.com.mx/ip/Correa-Milanese-Loop-para-Apple-Watch-Acero-Inoxidable-Compatible-con-Series-1-2-3-4-5-6-7-8-9-10-11-SE-ULTRA/00750306129373?athbdg=L1300",
-        "price": 609.39,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa para Apple Watch Coach Elevate Look, malla en oro rosa, 38-41 mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-para-Apple-Watch-Coach-Elevate-Look-malla-en-oro-rosa-38-41-mm/00088599742983?athbdg=L1300",
-        "price": 3419.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa De Cerámica Acero Inoxidable Premium Para Applewatch 42/44/45mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-De-Ceramica-Acero-Inoxidable-Premium-Para-Applewatch-42-44-45mm/00750304440369?athbdg=L1300",
-        "price": 538.92,
-        "model": "42/44/45mm"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Apple Watch 42/44mm Eslabon Acero Inoxidable Negro Genérica Compatible Apple Watch 42/44mm",
-        "url": "https://www.walmart.com.mx/ip/Correa-Apple-Watch-42-44mm-Eslabon-Acero-Inoxidable-Negro-Generica-Compatible-Apple-Watch-42-44mm/00060060321713",
-        "price": 937.0,
-        "model": "42/44mm"
-      },
-      {
-        "store": "walmart",
-        "name": "Correa Compatible con Apple Watch, Eslabones de Acero Inoxidable Premium con Funda, Estilo Deportivo, Resistente al Agua",
-        "url": "https://www.walmart.com.mx/ip/Correa-Compatible-con-Apple-Watch-Eslabones-de-Acero-Inoxidable-Premium-con-Funda-Estilo-Deportivo-Resistente-al-Agua/00750306015405?athbdg=L1300",
-        "price": 559.2,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Correa compatible con Apple Watch, Acero Inoxidable, Todas las Series",
-        "url": "https://www.walmart.com.mx/ip/Correa-compatible-con-Apple-Watch-Acero-Inoxidable-Todas-las-Series/00750306140986?athbdg=L1300",
-        "price": 373.2,
-        "model": null
-      }
-    ]
-  },
-  "sams|COACHCORREAWATCHACEROAPPLE": {
-    "ts": "2026-08-19T14:54:53.982085+00:00",
-    "items": []
   },
   "amazon|A3KGDV1": {
     "ts": "2026-08-19T15:22:04.016288+00:00",
@@ -36329,6 +36050,395 @@
         "name": "Eau de Parfum Michael Kors  Pour Femme para Dama 100 ml",
         "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pour-femme-para-dama-100-ml/981040614",
         "price": 1144.94,
+        "model": null
+      }
+    ]
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-08-21T14:55:25.753951+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DNLLZDPG",
+        "price": 5999.0,
+        "model": "12+256G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
+        "price": 7599.0,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0DNKPS4NK",
+        "price": 5779.0,
+        "model": "12+256G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
+        "price": 7999.0,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2371.98,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 14 Pro Smartphone 12G+512G, Cámara Selfie Dual Ultra Retrato de 50 MP, Gestos en el Aire con IA, Batería de 5500 mAh, Supercharge, Pantalla Flawless Quad-Curved de 6.78\", Celular Negro",
+        "url": "https://www.amazon.com.mx/dp/B0G75QYMW5",
+        "price": 8990.0,
+        "model": "12G+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Dorado",
+        "url": "https://www.amazon.com.mx/dp/B0FNX52WTR",
+        "price": 11990.0,
+        "model": "12+256G"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
+        "price": 15999.0,
+        "model": "12+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
+        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
+        "price": 9999.0,
+        "model": "12G+512G"
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
+        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XS5VNF",
+        "price": 15999.0,
+        "model": "12+256GB"
+      }
+    ]
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-08-21T14:55:43.196024+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
+        "price": 1639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Huawei Nova 9 128GB Azul Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/huawei-nova-9-128gb-azul-reacondicionado/00061726141888?athbdg=L1500",
+        "price": 8199.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-08-21T14:55:48.343407+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
+        "price": 3500.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
+        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
+        "price": 5930.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Honor  X8b 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-plata-desbloqueado/981018271",
+        "price": 7671.47,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Honor  X8b 512 GB Verde Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-verde-desbloqueado/981018260",
+        "price": 8129.86,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
+        "price": 2288.45,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A56 256 GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-negro-desbloqueado/981033457",
+        "price": 6956.4,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
+        "price": 2246.5,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Oppo Reno 12 Pro 512GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-oppo-reno-12-pro-512gb-plata-desbloqueado/981029685",
+        "price": 13297.95,
+        "model": "512GB"
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
+        "price": 16613.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
+        "price": 24920.28,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
+        "price": 1913.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
+        "price": 3579.46,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
+    "ts": "2026-08-21T14:55:53.351544+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Double Zip Wristlet Michael Kors 35F8STVW0B Michael Kors 35F8STVW0B",
+        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8stvw0b-michael-kors-35f8stvw0b/00019231778386",
+        "price": 1402.83,
+        "model": "35F8STVW0B"
+      },
+      {
+        "store": "walmart",
+        "name": "ARMAZÓN MICHAEL KORS MK4073U 3332",
+        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-mk4073u-3332/00074420333683",
+        "price": 3049.0,
+        "model": "MK4073U"
+      },
+      {
+        "store": "walmart",
+        "name": "BOLSA MICHAEL KORS ORIGINAL JET SET DOME MEDIUM LEATHER BLACK",
+        "url": "https://www.walmart.com.mx/ip/bolsa-michael-kors-original-jet-set-dome-medium-leather-black/00019490065660",
+        "price": 1636.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
+        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
+        "price": 3329.48,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS KONA MK1089 10197C 59-14-140",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-kona-mk1089-10197c-59-14-140/00074420333694",
+        "price": 3199.0,
+        "model": "MK1089"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
+        "price": 3199.0,
+        "model": "MK2102"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS CHELSEA MK5004 11588H 59MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-chelsea-mk5004-11588h-59mm/00074420333712",
+        "price": 3199.0,
+        "model": "MK5004"
+      },
+      {
+        "store": "walmart",
+        "name": "ARMAZÓN MICHAEL KORS ARMAZÓN MK4048 3293",
+        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-armazon-mk4048-3293/00074420333682",
+        "price": 3049.0,
+        "model": "MK4048"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1019 116371 59MM CAREY",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-116371-59mm-carey/00074420333689",
+        "price": 3199.0,
+        "model": "MK1019"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1018 11475D 56MM",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1018-11475d-56mm/00074420333697",
+        "price": 3199.0,
+        "model": "MK1018"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS MK1019 11645A 59MM DORADO",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-11645a-59mm-dorado/00074420333696",
+        "price": 3199.0,
+        "model": "MK1019"
+      },
+      {
+        "store": "walmart",
+        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 303413",
+        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-303413/00074420333681",
+        "price": 3199.0,
+        "model": "MK2050"
+      }
+    ]
+  },
+  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
+    "ts": "2026-08-21T14:55:59.545683+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Eau De Parfum Spray Vaporisateur Michael Kors  Gorgeous para Dama 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-spray-vaporisateur-michael-kors-gorgeous-para-dama-100-ml/981031791",
+        "price": 981.26,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Michael Kors  Wonderlust para Dama 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-wonderlust-para-dama-100-ml/981018528",
+        "price": 1226.57,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum Michael Kors  Pour Femme para Dama 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pour-femme-para-dama-100-ml/981040614",
+        "price": 1144.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Eau de Parfum  MICHAEL KORS  Pur Homme para Caballero 100 ml",
+        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pur-homme-para-caballero-100-ml/981040613",
+        "price": 1144.94,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Sartén de Acero Inoxidable Member's Mark  3 Capas 10\"",
+        "url": "https://www.sams.com.mx/ip/sarten-de-acero-inoxidable-member-s-mark-3-capas-10/981039085",
+        "price": 556.51,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
+        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
+        "price": 3373.85,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Olla de Acero Inoxidable Member's Mark  con Tapa 17 L",
+        "url": "https://www.sams.com.mx/ip/olla-de-acero-inoxidable-member-s-mark-con-tapa-17-l/981035093",
+        "price": 1237.23,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
+        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
+        "price": 748.99,
+        "model": "MX86037"
+      },
+      {
+        "store": "sams",
+        "name": "Bufetera Jocca  de Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
+        "price": 3129.34,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Molino de Café Daewoo Acero Inoxidable",
+        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jarra Térmica Technoware  Acero Inoxidable 2 Pzas",
+        "url": "https://www.sams.com.mx/ip/jarra-termica-technoware-acero-inoxidable-2-pzas/000234556",
+        "price": 643.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cucharas para Té Tramontina  Acero Inoxidable 36 pzas",
+        "url": "https://www.sams.com.mx/ip/cucharas-para-te-tramontina-acero-inoxidable-36-pzas/000599748",
+        "price": 346.78,
         "model": null
       }
     ]
