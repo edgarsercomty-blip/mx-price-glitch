@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 09:18 UTC",
+  "generated_at": "2026-08-21 09:55 UTC",
   "products_scanned": 1581,
   "threshold_pct": 20.0,
-  "count": 47,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -91,12 +91,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -733,27 +733,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },
