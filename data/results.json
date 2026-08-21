@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 04:55 UTC",
-  "products_scanned": 1589,
+  "generated_at": "2026-08-21 05:25 UTC",
+  "products_scanned": 1623,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,26 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$398 en amazon vs palacio $674 -> -41% bajo la competencia",
+      "likely_typo": false,
+      "savings": 276.25,
+      "store": "amazon",
+      "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
+      "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
+      "price": 398.0,
+      "list_price": 40.39,
+      "ean": null,
+      "model": "12Tazas",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H1WNYLW1"
       }
     },
     {
@@ -91,12 +111,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
