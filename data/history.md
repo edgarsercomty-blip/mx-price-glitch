@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (893)
+# Historial de ofertas encontradas (894)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-21 08:01 | -25% | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-21 02:45 | -22% | amazon | [Raganet, Juego de Cubiertos de Acero Inoxidable con 24 …](https://www.amazon.com.mx/dp/B0CJWR9QZW) | $141 | $141 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-21 02:45 | -22% | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | $8,990 en walmart vs mercado -> -22% bajo la competencia |
 | 2026-08-21 02:45 | -23% | walmart | [TV Philips 55 Pulgadas Roku 4K Ultra HD LED 55PUL6653/F…](https://www.walmart.com.mx/ip/tv-philips-55-pulgadas-roku-4k-ultra-hd-led-55pul6653-f8/00005381854170?athbdg=L1510) | $4,990 | $4,990 en walmart vs mercado -> -23% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-27 16:10 | -51% | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $33,428 | $33,428 en liverpool vs mercado -> -51% bajo la competencia |
 | 2026-07-27 13:48 | -28% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-07-27 13:48 | -34% | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $1,899 | $1,899 en liverpool vs mercado -> -34% bajo la competencia |
-| 2026-07-27 11:13 | -26% | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Haf…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $4,999 | $4,999 en liverpool vs mercado -> -26% bajo la competencia |
