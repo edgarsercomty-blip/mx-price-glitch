@@ -5559,15 +5559,8 @@
     ]
   },
   "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-19T02:12:54.301102+00:00",
+    "ts": "2026-08-21T02:18:27.487051+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Mini lavadora y secadora, lavadora compacta de montaje en pared para lavandería doméstica, lavado de alta temperatura, panel táctil LED, múltiples modos",
-        "url": "https://www.amazon.com.mx/dp/B0GSPDPGKH",
-        "price": 10252.06,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Midea - Lavadora Una Tina 10.1 kg Blanca Dual Force",
@@ -5586,7 +5579,7 @@
         "store": "amazon",
         "name": "Lavadora Ultrasónica Portátil USB Mini para Viaje y Hogar, Máquina de Limpieza Automática Multifuncional Turbo, Ideal para Joyas y Gafas, Verde",
         "url": "https://www.amazon.com.mx/dp/B07P62MFTW",
-        "price": 245.0,
+        "price": 238.0,
         "model": null
       },
       {
@@ -5599,7 +5592,7 @@
     ]
   },
   "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-19T02:12:57.420385+00:00",
+    "ts": "2026-08-21T02:19:24.752955+00:00",
     "items": [
       {
         "store": "walmart",
@@ -5611,7 +5604,7 @@
     ]
   },
   "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-19T02:12:59.801970+00:00",
+    "ts": "2026-08-21T02:19:29.092286+00:00",
     "items": []
   },
   "palacio|RS20P3GBN": {
