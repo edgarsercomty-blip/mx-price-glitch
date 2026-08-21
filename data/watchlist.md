@@ -617,7 +617,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoche](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html) | $11,999 | -40% |
 | 🟢 disponible | amazon | [Funda de teclado para Lenovo Yoga Pro 7 14AHP9 14ASP9 14IMH9…](https://www.amazon.com.mx/dp/B0FQJ27QN7) | $220 | -23% |
 | 🟢 disponible | palacio | [Licuadora Osterizer MAX, 2 Velocidades, Gris](https://www.elpalaciodehierro.com/oster-licuadora-osterizer-max-2-velocidades-gris-43216481.html) | $3,499 | -20% |
-| 🟢 disponible | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300) | $4,699 | -31% |
+| 🟢 disponible | walmart | [Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloque…](https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300) | $4,699 | -31% |
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | -51% |
 | 🟢 disponible | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | -40% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Des…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html) | $23,429 | -29% |
