@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-21 15:37 UTC",
-  "products_scanned": 3113,
+  "generated_at": "2026-08-21 16:02 UTC",
+  "products_scanned": 1658,
   "threshold_pct": 20.0,
-  "count": 67,
+  "count": 44,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 69.2,
-      "detail": "$408 en sams vs mercado -> -74% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1191.82,
-      "store": "sams",
-      "name": "Consola Retro de Videojuego Portátil My Arcade Sega Sonic The Hedgehog DGUNL-7157",
-      "url": "https://www.sams.com.mx/ip/consola-retro-de-videojuego-portatil-my-arcade-sega-sonic-the-hedgehog-dgunl-7157/981046326",
-      "price": 408.18,
-      "list_price": 1326.82,
-      "ean": null,
-      "model": "DGUNL-7157",
-      "brand": "My Arcade",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981046326"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -43,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$719 en mercadolibre vs mercado -> -44% bajo la competencia",
-      "likely_typo": false,
-      "savings": 553.5,
-      "store": "mercadolibre",
-      "name": "Controles Del Reproductor De Consola #x8 | Inalambricos",
-      "url": "https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168",
-      "price": 719.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM2047274168"
       }
     },
     {
@@ -109,86 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.5,
-      "detail": "$1,942 en sams vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1023.0,
-      "store": "sams",
-      "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-      "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-      "price": 1941.65,
-      "list_price": 2964.65,
-      "ean": null,
-      "model": null,
-      "brand": "T-fal",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050797"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$9,207 en sams vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4602.48,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy S24+ 256 GB Gris Marmol",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601",
-      "price": 9207.0,
-      "list_price": 18412.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981017601"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,207 en sams vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4602.48,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy S24+ 256 GB Negro Onyx",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-negro-onyx/981017603",
-      "price": 9207.0,
-      "list_price": 15343.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981017603"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 38.2,
-      "detail": "$6,956 en sams vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3170.28,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A56 256 GB Gris",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-gris/981033460",
-      "price": 6956.4,
-      "list_price": 11251.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981033460"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": null,
       "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
@@ -204,46 +84,6 @@
       "available": true,
       "currency": "MXN",
       "extra": {}
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$599 en mercadolibre vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 270.0,
-      "store": "mercadolibre",
-      "name": "Consolas Sonido 4 Canales Usb Mezcladora Mixer Bt 48v Aelora",
-      "url": "https://www.mercadolibre.com.mx/consolas-sonido-4-canales-usb-mezcladora-mixer-bt-48v-aelora/p/MLM62370061",
-      "price": 599.0,
-      "list_price": 599.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM62370061"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.8,
-      "detail": "$12,990 en walmart vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5649.0,
-      "store": "walmart",
-      "name": "Refrigerador Midea 19 pies FrenchDoor Inox",
-      "url": "https://www.walmart.com.mx/ip/refrigerador-midea-19-pies-frenchdoor-inox/00695490381639?athbdg=L1300",
-      "price": 12990.0,
-      "list_price": 20890.0,
-      "ean": null,
-      "model": null,
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00695490381639"
-      }
     },
     {
       "kind": "cross_confirmed",
@@ -394,47 +234,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 46.5,
-      "detail": "$10,229 en sams vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4070.02,
-      "store": "sams",
-      "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-      "price": 10228.98,
-      "list_price": 19129.06,
-      "ean": null,
-      "model": "15-eg2523la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981030009"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$23,597 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8401.54,
-      "store": "palacio",
-      "name": "Refrigerador French Door Xpert Inverter 31p3",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html",
-      "price": 23597.46,
-      "list_price": 43699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Whirlpool",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45040174",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -452,26 +251,6 @@
       "extra": {
         "productId": "1110040357",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.9,
-      "detail": "$825 en amazon vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 288.8,
-      "store": "amazon",
-      "name": "Calvin Klein Tenis para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0BTTQHHMY",
-      "price": 824.83,
-      "list_price": 1113.85,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BTTQHHMY"
       }
     },
     {
@@ -707,27 +486,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 56.0,
-      "detail": "$16,280 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5200.37,
-      "store": "liverpool",
-      "name": "Refrigerador Duplex Whirlpool 18 Pies Cubicos Inverter No Frost Wd1600S",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-whirlpool-18-pies-cubicos-inverter-no-frost-wd1600s/1139411460",
-      "price": 16279.56,
-      "list_price": 36999.0,
-      "ean": null,
-      "model": "Wd1600S",
-      "brand": "WHIRLPOOL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1139411460",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 28.0,
       "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -745,86 +503,6 @@
       "extra": {
         "id": "44123334",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 27.25,
-      "store": "walmart",
-      "name": "Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto Cell Combo Cargador Turbo Iphone",
-      "url": "https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285",
-      "price": 85.25,
-      "list_price": null,
-      "ean": null,
-      "model": "1Hora",
-      "brand": "1hora",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750303254285"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$8,386 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2661.85,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A57 256 GB Violet Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991",
-      "price": 8385.53,
-      "list_price": 12274.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050991"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$8,386 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2661.85,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A57 256 GB Dark Blue Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-dark-blue-desbloqueado/981050990",
-      "price": 8385.53,
-      "list_price": 12274.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050990"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$4,191 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1331.95,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A26 128 GB Blanco",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904",
-      "price": 4191.23,
-      "list_price": 6136.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981035904"
       }
     },
     {
@@ -934,26 +612,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 41.2,
-      "detail": "$4,990 en walmart vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1500.0,
-      "store": "walmart",
-      "name": "TV Philips 55 Pulgadas Roku 4K Ultra HD LED 55PUL6653/F8",
-      "url": "https://www.walmart.com.mx/ip/tv-philips-55-pulgadas-roku-4k-ultra-hd-led-55pul6653-f8/00005381854170?athbdg=L1510",
-      "price": 4990.0,
-      "list_price": 8490.0,
-      "ean": null,
-      "model": "55PUL6653/F8",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00005381854170"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -992,26 +650,6 @@
       "extra": {
         "id": "45130972",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1709.0,
-      "store": "walmart",
-      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
-      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
-      "price": 6290.0,
-      "list_price": 9990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00694427168676"
       }
     },
     {
@@ -1079,42 +717,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.4,
-      "detail": "$8,917 en mercadolibre vs mercado -> -21% bajo la competencia",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2381.5,
-      "store": "mercadolibre",
-      "name": "Consola Nintendo Switch 2",
-      "url": "https://www.mercadolibre.com.mx/consola-nintendo-switch-2/p/MLM48921521",
-      "price": 8917.0,
-      "list_price": 13599.0,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
       "ean": null,
       "model": null,
-      "brand": null,
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "mlm": "MLM48921521"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.3,
-      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1439.0,
-      "store": "walmart",
-      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
-      "url": "https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600",
-      "price": 5490.0,
-      "list_price": 7990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00692172704679"
+        "id": "44824190",
+        "outlet": false
       }
     },
     {
@@ -1136,26 +755,6 @@
       "extra": {
         "id": "43216481",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.9,
-      "detail": "$14,321 en sams vs walmart $17,996 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3675.02,
-      "store": "sams",
-      "name": "Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SSD 14-he0000la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728",
-      "price": 14320.98,
-      "list_price": 21993.47,
-      "ean": null,
-      "model": "14-he0000la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043728"
       }
     },
     {
@@ -1324,66 +923,6 @@
       "extra": {
         "id": "45001063",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$7,363 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1843.45,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
-      "price": 7362.53,
-      "list_price": 10229.09,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043317"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$7,363 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1843.45,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A37 256 GB Light Violet Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-light-violet-desbloqueado/981050720",
-      "price": 7362.53,
-      "list_price": 10228.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050720"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.3,
-      "detail": "$6,136 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1533.47,
-      "store": "sams",
-      "name": "Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687",
-      "price": 6135.95,
-      "list_price": 9205.96,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981036687"
       }
     }
   ]
