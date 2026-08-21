@@ -1,4 +1,4 @@
-# Productos en vigilancia (751)
+# Productos en vigilancia (752)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -412,7 +412,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo Milan Para Apple Watch 38 40 41 Mm](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-milan-para-apple-watch-38-40-41-mm/1136430528) | $183 | -20% |
 | 🟢 disponible | palacio | [Krups Espresseria Divine](https://www.elpalaciodehierro.com/krups-krups-espresseria-divine-43484891.html) | $4,499 | -29% |
 | 🟢 disponible | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | -25% |
-| 🟢 disponible | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | -26% |
+| 🟢 disponible | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | -23% |
 | 🟢 disponible | palacio | [Funda con teclado iPad Pro 11"](https://www.elpalaciodehierro.com/logitech-funda-con-teclado-ipad-pro-11-45053113.html) | $3,899 | -25% |
 | 🟢 disponible | palacio | [Cafetera Automática Dedica Dúo Gris en Acero Inoxidable](https://www.elpalaciodehierro.com/delonghi-cafetera-automatica-dedica-duo-gris-en-acero-inoxidable-45387349.html) | $5,399 | -24% |
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02WHUS Blanco](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02whus-blanco-44011027.html) | $5,495 | -23% |
@@ -755,3 +755,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | -22% |
 | 🟢 disponible | amazon | [Raganet, Juego de Cubiertos de Acero Inoxidable con 24 pieza…](https://www.amazon.com.mx/dp/B0CJWR9QZW) | $141 | -22% |
 | 🟢 disponible | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | -25% |
+| 🟢 disponible | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | -25% |

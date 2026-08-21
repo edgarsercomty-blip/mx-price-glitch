@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 08:01 UTC",
-  "products_scanned": 1538,
+  "generated_at": "2026-08-21 08:40 UTC",
+  "products_scanned": 1536,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -256,22 +256,43 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -26% bajo la competencia",
+      "detail": "$10,982 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 2635.5,
+      "savings": 3734.05,
       "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
+      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
+      "price": 10982.5,
+      "list_price": 21965.0,
       "ean": null,
       "model": null,
-      "brand": "Smeg",
+      "brand": "Hp",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44519347",
+        "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1421.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Luuna Basics1 10",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
+      "price": 4266.15,
+      "list_price": 12189.0,
+      "ean": null,
+      "model": "Basics1",
+      "brand": "LUUNA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178927540",
+        "marketplace": null
       }
     },
     {
@@ -549,6 +570,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2259.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -802,6 +844,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
+      "detail": "$399 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 100.0,
+      "store": "liverpool",
+      "name": "Porta Audifonos In Ear Alomia",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-alomia/9957691086",
+      "price": 399.0,
+      "list_price": 499.0,
+      "ean": null,
+      "model": null,
+      "brand": "ALOMIA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "9957691086",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
       "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 4999.8,
@@ -817,6 +880,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44110959",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
         "outlet": false
       }
     },

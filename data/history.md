@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (894)
+# Historial de ofertas encontradas (895)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-21 08:40 | -25% | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | $4,266 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-21 08:01 | -25% | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-21 02:45 | -22% | amazon | [Raganet, Juego de Cubiertos de Acero Inoxidable con 24 …](https://www.amazon.com.mx/dp/B0CJWR9QZW) | $141 | $141 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-21 02:45 | -22% | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | $8,990 en walmart vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-27 16:10 | -23% | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $17,999 | $17,999 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-07-27 16:10 | -51% | liverpool | [Pantalla Smart Tv Lg Oled De 65 Pulgadas 4K Oled65G5Psa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-65-pulgadas-4k-oled65g5psa-con-evo-ai/1175150273) | $33,428 | $33,428 en liverpool vs mercado -> -51% bajo la competencia |
 | 2026-07-27 13:48 | -28% | liverpool | [Cafetera Espresso Oster Prima Latte Ii Bvstem6801R](https://www.liverpool.com.mx/tienda/pdp/cafetera-espresso-oster-prima-latte-ii-bvstem6801r/1133853576) | $3,035 | $3,035 en liverpool vs mercado -> -28% bajo la competencia |
-| 2026-07-27 13:48 | -34% | liverpool | [Smartwatch Mibro Lite 3 Pro Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-mibro-lite-3-pro-unisex-con-gps/99981212224) | $1,899 | $1,899 en liverpool vs mercado -> -34% bajo la competencia |
