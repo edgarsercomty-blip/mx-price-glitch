@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (900)
+# Historial de ofertas encontradas (901)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-21 20:16 | -27% | sams | [Cafetera Nespresso  Vertuo Pop Titan](https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781) | $1,964 | $1,964 en sams vs palacio $2,694, sams $3,474 -> -27% bajo la competencia |
 | 2026-08-21 15:37 | -24% | walmart | [Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto…](https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285) | $85 | $85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia |
 | 2026-08-21 15:37 | -26% | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | $23,597 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-08-21 15:37 | -31% | mercadolibre | [Consolas Sonido 4 Canales Usb Mezcladora Mixer Bt 48v A…](https://www.mercadolibre.com.mx/consolas-sonido-4-canales-usb-mezcladora-mixer-bt-48v-aelora/p/MLM62370061) | $599 | $599 en mercadolibre vs mercado -> -31% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-29 09:25 | -40% | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-07-29 00:11 | -36% | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
 | 2026-07-28 23:17 | -36% | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Cele…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | $4,471 en liverpool vs mercado -> -36% bajo la competencia |
-| 2026-07-28 08:03 | -30% | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $40,249 | $40,249 en palacio vs mercado -> -30% bajo la competencia |

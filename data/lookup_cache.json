@@ -602,105 +602,56 @@
       }
     ]
   },
-  "amazon|HR2242": {
-    "ts": "2026-08-19T19:54:53.567930+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Philips Licuadora Serie 5000 1200W, Jarra de Vidrio 2L, 12 Velocidades | Cuchillas Desmontables – acero inoxidable con tecnología ProBlend 6 para triturar sin esfuerzo (HR2242/91)",
-        "url": "https://www.amazon.com.mx/dp/B0BSK6NL8F",
-        "price": 1346.15,
-        "model": "HR2242/91"
-      },
-      {
-        "store": "amazon",
-        "name": "Philips Batidora de vaso serie 5000, plata, 800 W | HR2764/00 - Batidora de batidos (0,7 L, 1 velocidad, prensa y giro, incluye tapa To-Go)",
-        "url": "https://www.amazon.com.mx/dp/B0CP9RWLJR",
-        "price": 1662.03,
-        "model": "HR2764/00"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas De Repuesto For Licuadora De Jarra De Vidrio, Compatibles Con PHILIPS HR2090 HR2094 HR2096, Accesorios For Jarra Mezcladora",
-        "url": "https://www.amazon.com.mx/dp/B0GHF6PMWV",
-        "price": 2843.74,
-        "model": "HR2090"
-      }
-    ]
-  },
-  "walmart|HR2242": {
-    "ts": "2026-08-19T19:55:05.165716+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Philips Licuadora 1200W Vaso Vidrio HR2242/91",
-        "url": "https://www.walmart.com.mx/ip/Philips-Licuadora-1200W-Vaso-Vidrio-HR2242-91/00871010395256",
-        "price": 1799.0,
-        "model": "HR2242/91"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Philips Serie 5000 de 1200 W con Jarra de Tritan - HR2242/93",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Philips-Serie-5000-de-1200-W-con-Jarra-de-Tritan-HR2242-93/00872038904456",
-        "price": 1000.0,
-        "model": "HR2242/93"
-      }
-    ]
-  },
-  "sams|HR2242": {
-    "ts": "2026-08-19T19:55:06.594012+00:00",
-    "items": []
-  },
   "amazon|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-19T19:55:09.982720+00:00",
+    "ts": "2026-08-21T20:14:58.370805+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
-        "price": 5739.23,
+        "name": "Apple iPhone 14 Plus 128 GB Blanco Estelar",
+        "url": "https://www.amazon.com.mx/dp/B0BDJN394T",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Plus 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTG9DF",
+        "price": 6435.45,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
-        "price": 6328.37,
+        "name": "Apple iPhone 15 Plus 128GB Negro Desbloqueado -Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLN8GRGR",
+        "price": 8363.01,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Pro 128GB Titanio Azul Desbloqueado - Esim (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CLPNY48J",
+        "price": 10764.84,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5699.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
         "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5259.0,
+        "price": 5209.0,
         "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Apple Iphone 16e 128GB Negro Desbloqueado (Reacondicionado Premium) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0GZLKVF6W",
-        "price": 8351.65,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
-        "price": 5919.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
-        "price": 7399.0,
-        "model": "128GBNegroDesbloqueado"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
-        "price": 5881.45,
+        "name": "Apple iPhone 14 Plus 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLVMP9H",
+        "price": 6278.27,
         "model": "128GB"
       },
       {
@@ -712,20 +663,6 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 16e 128GB Blanco Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4XRSWTJ",
-        "price": 7625.02,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
-        "price": 6389.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
         "name": "Apple iPhone 14 256GB Medianoche Desbloqueado (Reacondicionado) Esim",
         "url": "https://www.amazon.com.mx/dp/B0BNLR1LW2",
         "price": 7799.0,
@@ -733,35 +670,42 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 14 Pro 128GB Plata Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTPVQ7",
-        "price": 8789.02,
+        "name": "Apple iPhone 12, 128GB, Negro (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNCYYVZ",
+        "price": 4837.36,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Blanco Estrella (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNKXBRJ",
+        "price": 5549.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 12, 128GB, Blanco (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08PNVY4MB",
+        "price": 4777.36,
         "model": "128GB"
       }
     ]
   },
   "walmart|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-19T19:55:24.425705+00:00",
+    "ts": "2026-08-21T20:15:04.542159+00:00",
     "items": [
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 13 256GB Reacondicionado de Grado A y Desbloqueado de Fábrica - Medianoche",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-256gb-reacondicionado-de-grado-a-y-desbloqueado-de-fabrica-medianoche/00046249978008?athbdg=L1300",
-        "price": 9999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Apple iPhone 13 128 Gb Azul Medianoche Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-128-gb-azul-medianoche-reacondicionado/00072014053382?athbdg=L1500",
-        "price": 5249.0,
-        "model": null
-      },
       {
         "store": "walmart",
         "name": "Apple iPhone 16 Reacondicionado, Desbloqueado , 128 GB, Color Rosa",
         "url": "https://www.walmart.com.mx/ip/apple-iphone-16-reacondicionado-desbloqueado-128-gb-color-rosa/00078495673646?athbdg=L1300",
         "price": 11649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 13 128 Gb Azul Medianoche Reacondicionado",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-128-gb-azul-medianoche-reacondicionado/00072014053382?athbdg=L1500",
+        "price": 4998.0,
         "model": null
       },
       {
@@ -773,17 +717,10 @@
       },
       {
         "store": "walmart",
-        "name": "iPhone 13 Apple 128 GB Blanco Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/iphone-13-apple-128-gb-blanco-reacondicionado/00085369895438?athbdg=L1500",
-        "price": 5699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reacondicionado Apple iPhone SE 3rd Gen A2595 Totalmente desbloqueado 64GB Medianoche Grado A",
-        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a/00065982168336?athbdg=L6000",
-        "price": 6340.32,
-        "model": "A2595"
+        "name": "Apple iPhone 13 256GB Reacondicionado de Grado A y Desbloqueado de Fábrica - Medianoche",
+        "url": "https://www.walmart.com.mx/ip/apple-iphone-13-256gb-reacondicionado-de-grado-a-y-desbloqueado-de-fabrica-medianoche/00046249978008?athbdg=L1300",
+        "price": 9999.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
@@ -798,15 +735,107 @@
         "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a-/00065747745825?athbdg=L6000",
         "price": 6340.32,
         "model": "A2595"
+      },
+      {
+        "store": "walmart",
+        "name": "Reacondicionado Apple iPhone SE 3rd Gen A2595 Totalmente desbloqueado 64GB Medianoche Grado A",
+        "url": "https://www.walmart.com.mx/ip/reacondicionado-apple-iphone-se-3rd-gen-a2595-totalmente-desbloqueado-64gb-medianoche-grado-a/00065982168336?athbdg=L6000",
+        "price": 6340.32,
+        "model": "A2595"
       }
     ]
   },
   "sams|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-08-19T19:55:26.775016+00:00",
-    "items": []
+    "ts": "2026-08-21T20:15:16.890143+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
+        "price": 10998.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "MacBook Air Apple  13\"/Chip M2/512 GB SSD Azul Medianoche",
+        "url": "https://www.sams.com.mx/ip/macbook-air-apple-13-chip-m2-512-gb-ssd-azul-medianoche/981045789",
+        "price": 28098.73,
+        "model": "M2/512"
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 17 Pro Apple  256 GB Azul Oscuro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-17-pro-apple-256-gb-azul-oscuro-telcel/981042916",
+        "price": 29153.44,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Negro AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-negro-at-t/981032198",
+        "price": 39752.59,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Black AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-black-at-t/981034474",
+        "price": 15343.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16e Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16e-apple-128-gb-negro-telcel/981042931",
+        "price": 13092.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 15 Pro Max Apple  512 GB Titanio Azul AT&T",
+        "url": "https://www.sams.com.mx/ip/iphone-15-pro-max-apple-512-gb-titanio-azul-at-t/981032199",
+        "price": 33757.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple  128 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128-gb-negro-telcel/981014405",
+        "price": 15138.35,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 15 Apple 128GB Negro Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/iphone-15-apple-128gb-negro-desbloqueado/981018495",
+        "price": 19947.46,
+        "model": "128GB"
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 16 Apple  128 GB 5G Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-negro-telcel/981028845",
+        "price": 17901.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Iphone 16 Apple  128 GB 5G Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-16-apple-128-gb-5g-rosa-telcel/981028993",
+        "price": 20458.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "iPhone 14 APPLE  128 GB Starlight Telcel",
+        "url": "https://www.sams.com.mx/ip/iphone-14-apple-128-gb-starlight-telcel/981001676",
+        "price": 11762.45,
+        "model": null
+      }
+    ]
   },
   "amazon|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-19T19:55:29.411378+00:00",
+    "ts": "2026-08-21T20:15:20.049372+00:00",
     "items": [
       {
         "store": "amazon",
@@ -826,14 +855,14 @@
         "store": "amazon",
         "name": "Nespresso Gran Lattissima de De'Longhi, blanco",
         "url": "https://www.amazon.com.mx/dp/B0CMZ874N2",
-        "price": 11581.1,
+        "price": 11423.3,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Nespresso Vertuo Lattissima Cafetera y espresso de De'Longhi, blanco mate y brillante",
         "url": "https://www.amazon.com.mx/dp/B0C5KP15DK",
-        "price": 11127.0,
+        "price": 11062.0,
         "model": null
       },
       {
@@ -847,29 +876,29 @@
         "store": "amazon",
         "name": "Nespresso Lattissima One - Máquina de café espresso original con espumador de leche por De'Longhi, color blanco sedoso",
         "url": "https://www.amazon.com.mx/dp/B08VTGBCBH",
-        "price": 9448.45,
+        "price": 9041.81,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Depósito de leche, jarra de leche, jarra de leche, jarra de leche, compatible con cafeteras automáticas DeLonghi Nespresso Gran Lattissima EN650.B F531BK 7313263953",
         "url": "https://www.amazon.com.mx/dp/B0DNJVP3PX",
-        "price": 1451.1,
+        "price": 1386.6,
         "model": "F531BK"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Gran Lattissima de De'Longhi, negro",
-        "url": "https://www.amazon.com.mx/dp/B0CMZ9Q6SR",
-        "price": 12847.88,
-        "model": null
       },
       {
         "store": "amazon",
         "name": "Recambio para máquina de café con leche de doble tubo Delonghi Nespresso Gran Lattissima EN650 F531",
         "url": "https://www.amazon.com.mx/dp/B0B9T438KJ",
-        "price": 498.08,
+        "price": 492.84,
         "model": "EN650"
+      },
+      {
+        "store": "amazon",
+        "name": "Contenedor de cápsulas compatible con/pieza de repuesto para DeLonghi 5313267411 EN 650.W Gran Lattissima Nespresso Cápsula",
+        "url": "https://www.amazon.com.mx/dp/B0C7KNQG84",
+        "price": 618.21,
+        "model": null
       },
       {
         "store": "amazon",
@@ -880,10 +909,10 @@
       },
       {
         "store": "amazon",
-        "name": "Contenedor de cápsulas compatible con/pieza de repuesto para DeLonghi 5313267411 EN 650.W Gran Lattissima Nespresso Cápsula",
-        "url": "https://www.amazon.com.mx/dp/B0C7KNQG84",
-        "price": 618.08,
-        "model": null
+        "name": "Recipiente de leche compatible con/pieza de repuesto para DeLonghi 7313293444 EN640.B Gran Lattissima Nespresso",
+        "url": "https://www.amazon.com.mx/dp/B0DN66TWTM",
+        "price": 1280.87,
+        "model": "EN640"
       },
       {
         "store": "amazon",
@@ -895,43 +924,86 @@
     ]
   },
   "walmart|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-19T19:55:32.271095+00:00",
+    "ts": "2026-08-21T20:15:47.320707+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/Maquina-de-Espresso-Automatica-con-Tanque-de-Leche-Masterchef-by-Huken/00750303997351",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
         "price": 2659.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera Nespresso Gran Lattissima De'Longhi Black",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Gran-Lattissima-De-Longhi-Black/00004438721640?athbdg=L1300",
-        "price": 12729.0,
+        "name": "Cafetera Nespresso Gran Lattissima De'Longhi White",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-white/00004438710640?athbdg=L1300",
+        "price": 12719.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera Nespresso Gran Lattissima De'Longhi White",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Gran-Lattissima-De-Longhi-White/00004438710640?athbdg=L1300",
-        "price": 12719.0,
+        "name": "Cafetera Nespresso Gran Lattissima De'Longhi Black",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-gran-lattissima-de-longhi-black/00004438721640?athbdg=L1300",
+        "price": 13419.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-08-19T19:55:32.905413+00:00",
-    "items": []
+    "ts": "2026-08-21T20:15:52.213811+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 2899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 1964.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 3474.11,
+        "model": null
+      }
+    ]
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-19T19:55:36.446650+00:00",
+    "ts": "2026-08-21T20:15:59.896476+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
         "price": 1895.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 6299.1,
         "model": null
       },
       {
@@ -943,37 +1015,9 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo variedad 30 cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
-        "price": 529.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 2792.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Double Espresso Scuro Vertuo 30 cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B084HX6L8P",
-        "price": 509.0,
+        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
+        "price": 5999.0,
         "model": null
       },
       {
@@ -985,126 +1029,218 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5999.0,
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso México 30 cápsulas Vertuo | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX1ZC2",
-        "price": 539.0,
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso, Café Melozio, Paquete De 30 Cápsulas de Sistema Vertuo. Tamaño de taza Mug 230 ml",
-        "url": "https://www.amazon.com.mx/dp/B084HWTKK8",
-        "price": 519.0,
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Colombia 30 cápsulas Vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX27GB",
-        "price": 539.0,
+        "name": "Nespresso Cafetera Vertuo Pop Blanca con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVK4QM9",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo variedad 30 cápsulas | Compatible con máquinas vertuo",
+        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
+        "price": 635.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 3211.79,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 2628.77,
         "model": null
       }
     ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-19T19:55:45.059384+00:00",
+    "ts": "2026-08-21T20:16:15.625898+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Next-Deluxe-cromo-puro-con-espumador-de-leche-Aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7209.0,
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Cafetera de espresso y café con espumador de leche",
-        "url": "https://www.walmart.com.mx/ip/Nespresso-Vertuo-Pop-Cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140?athbdg=L1300",
-        "price": 4129.0,
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7599.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/Nespresso-Vertuo-Pop-Cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3849.0,
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3929.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Pop-de-edicion-limitada-de-Breville-oro-negro-mate/00002161481377?athbdg=L1300",
-        "price": 5662.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Pop-Deluxe-de-Breville-con-espumador-de-leche-Titan/00002161480805?athbdg=L1300",
-        "price": 4099.0,
+        "name": "Nespresso Vertuo Pop+ Cafetera de espresso y café con espumador de leche",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140?athbdg=L1300",
+        "price": 4129.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "DeLonghi Cafetera y cafetera espresso DeLonghi Nespresso Vertuo Next Premium - Oro rosa negro",
-        "url": "https://www.walmart.com.mx/ip/DeLonghi-Cafetera-y-cafetera-espresso-DeLonghi-Nespresso-Vertuo-Next-Premium-Oro-rosa-negro/00004438701200?athbdg=L1300",
-        "price": 3189.0,
+        "url": "https://www.walmart.com.mx/ip/delonghi-cafetera-y-cafetera-espresso-delonghi-nespresso-vertuo-next-premium-oro-rosa-negro/00004438701200?athbdg=L1300",
+        "price": 3519.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ Deluxe de Breville con espumador de leche, Titan",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-deluxe-de-breville-con-espumador-de-leche-titan/00002161480805?athbdg=L1300",
+        "price": 5119.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y Máquina de Espresso Nespresso Vertuo Up DeLonghi Blanca",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-maquina-de-espresso-nespresso-vertuo-up-delonghi-blanca/00004438722002?athbdg=L1300",
+        "price": 6489.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de Breville con espumador de leche, rojo picante",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-breville-con-espumador-de-leche-rojo-picante/00002161480803?athbdg=L1300",
+        "price": 5409.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
+        "price": 3799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Amarillo pastel",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-amarillo-pastel/00004438731922?athbdg=L1300",
+        "price": 4069.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Amarilla-con-Aeroccino3/00004438751922?athbdg=L1300",
-        "price": 3919.0,
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
+        "price": 4079.0,
         "model": "Aeroccino3"
       },
       {
         "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ con espumador de leche rosa",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-con-espumador-de-leche-rosa/00004438710927?athbdg=L1300",
-        "price": 4169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Cold-con-vaso-helado/00004438730924?athbdg=L1300",
-        "price": 3809.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de De'Longhi, negro mate con cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Pop-de-edicion-limitada-de-De-Longhi-negro-mate-con-cromo-oscuro/00004438720921?athbdg=L1300",
-        "price": 3219.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera Nespresso Vertuo Next de Breville, color azul marino",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-cafetera-Nespresso-Vertuo-Next-de-Breville-color-azul-marino/00002161480454?athbdg=L1300",
-        "price": 3769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Plus Deluxe",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-cafetera-espresso-Nespresso-Vertuo-Plus-Deluxe/00002161499991?athbdg=L1300",
-        "price": 6979.0,
+        "name": "Cafetera Nespresso Vertuo Next con espumador Aeroccino",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-con-espumador-aeroccino/00002161481535",
+        "price": 8059.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-08-19T19:55:46.045985+00:00",
-    "items": []
+    "ts": "2026-08-21T20:16:22.406649+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Máquina de Café Nespresso  Vertuo Pop Blue + Aeroccino 3 + Travel Mug",
+        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-nespresso-vertuo-pop-blue-aeroccino-3-travel-mug/981013624",
+        "price": 2899.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Titan",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
+        "price": 1964.16,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
+        "price": 3998.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
+        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
+        "price": 3474.11,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
+        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
+        "price": 8799.0,
+        "model": "GDV5-MX-BK-NE"
+      },
+      {
+        "store": "sams",
+        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
+        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Paquete Combo Desayuno Daewoo  Cafetera + Extractor de Jugo + Parrilla Panini",
+        "url": "https://www.sams.com.mx/ip/paquete-combo-desayuno-daewoo-cafetera-extractor-de-jugo-parrilla-panini/981043213",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
+        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
+        "price": 1324.79,
+        "model": "TEKM-1500"
+      }
+    ]
   },
   "amazon|FA607NUQRL038W": {
     "ts": "2026-08-21T09:54:14.451269+00:00",
