@@ -1799,15 +1799,8 @@
     ]
   },
   "amazon|ASUSZENBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-20T05:48:43.054634+00:00",
+    "ts": "2026-08-22T06:23:18.059728+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
-        "price": 16499.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
@@ -1817,9 +1810,16 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
-        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
-        "price": 23999.0,
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook Duo (2026) / Doble Pantalla OLED 14\" FHD Touch/Intel Core Ultra 7 255H / 32GB RAM + 1TB SSD/Incluye Stylus (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0H2JL483M",
+        "price": 35149.0,
         "model": null
       },
       {
@@ -1845,225 +1845,140 @@
       },
       {
         "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "ASUS Zenbook 14 Laptop - AMD Ryzen 5-8GB RAM - NVIDIA GEFORCE MX350-256GB SSD - Win 10, gris claro",
         "url": "https://www.amazon.com.mx/dp/B08C81JT39",
-        "price": 14853.11,
+        "price": 13907.79,
         "model": "MX350-256GB"
       },
       {
         "store": "amazon",
         "name": "ASUS Zenbook 14 Laptop, pantalla táctil OLED WUXGA de 14\", AMD Ryzen 7 8840HS de 8 núcleos, gráficos AMD Radeon, 16GB LPDDR5, 512GB SSD, teclado retroiluminado, Wi-Fi 6E, cámara 1080p, Win11 Home, USB",
         "url": "https://www.amazon.com.mx/dp/B0D2NXV7X5",
-        "price": 23227.98,
+        "price": 22984.24,
         "model": "8840HS"
       },
       {
         "store": "amazon",
-        "name": "ASUS Zenbook Duo (2026) / Doble Pantalla OLED 14\" FHD Touch/Intel Core Ultra 7 255H / 32GB RAM + 1TB SSD/Incluye Stylus (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0H2JL483M",
-        "price": 35149.0,
-        "model": null
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 20599.0,
+        "model": "144Hz"
       },
       {
         "store": "amazon",
-        "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, pantalla táctil de 16” 3K (2880x1800), AMD Radeon 880M, W11 Pro",
-        "url": "https://www.amazon.com.mx/dp/B0DSLHKSQX",
-        "price": 44090.0,
-        "model": "2880x1800"
+        "name": "ASUS Zenbook S 16 Edición Ceraluminum Ryzen AI 9 465/50 TOPS/16 3K OLED /32GB /1TB SSD/+ Funda/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQJTC2RZ",
+        "price": 36999.0,
+        "model": "TOPS/16"
       },
       {
         "store": "amazon",
         "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, 16\" 3K visualización táctil (2880x1800), AMD Radeon 880M, W11 Home, Teclado QWERTY Estadounidense",
         "url": "https://www.amazon.com.mx/dp/B0DJH4XLBS",
-        "price": 52309.76,
+        "price": 43336.71,
         "model": "2880x1800"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
-        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
-        "price": 26134.49,
-        "model": "M5406WA-AH94"
       }
     ]
   },
   "walmart|ASUSZENBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-20T05:49:05.529766+00:00",
+    "ts": "2026-08-22T06:23:21.414482+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Laptop Asus Zenbook UM3406KA-QD096W AMD Ryzen AI 5 340 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-zenbook-um3406ka-qd096w-amd-ryzen-ai-5-340-16gb-512gb/00019710588042?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Zenbook-UM3406KA-QD096W-AMD-Ryzen-AI-5-340-16GB-512GB/00019710588042?athbdg=L1300",
         "price": 19497.0,
         "model": "UM3406KA-QD096W"
       },
       {
         "store": "walmart",
         "name": "Laptop ASUS Zenbook 14: Intel Core Ultra 5 125H, RAM 8GB LPDDR5, SSD 1TB, Pantalla 14\" LED Multi-Touch, Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-zenbook-14-intel-core-ultra-5-125h-ram-8gb-lpddr5-ssd-1tb-pantalla-14-led-multi-touch-windows-11-home/00073538025051?athbdg=L1300",
-        "price": 21199.0,
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Zenbook-14-Intel-Core-Ultra-5-125H-RAM-8GB-LPDDR5-SSD-1TB-Pantalla-14-LED-Multi-Touch-Windows-11-Home/00073538025051?athbdg=L1300",
+        "price": 20499.0,
         "model": "LPDDR5"
       },
       {
         "store": "walmart",
-        "name": "Laptop Gamer ASUS TUF Gaming A15 15.6 FHD 144Hz Ryzen 7 7445HS 24GB RAM 1.5TB SSD RTX 3050 Windows 11 Home - Teclado Español..",
-        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a15-15-6-fhd-144hz-ryzen-7-7445hs-24gb-ram-1-5tb-ssd-rtx-3050-windows-11-home-teclado-espanol-/00046966823373?athbdg=L1300",
-        "price": 24999.0,
-        "model": "7445HS"
+        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Vivobook-15-AMD-Ryzen-5-150-8GB-DDR5-SSD-512GB-Pantalla-15-6-IPS-FHD-Windows-11-Teclado-Espanol/00070452118646",
+        "price": 19999.0,
+        "model": "512GB"
       },
       {
         "store": "walmart",
         "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-15-6-Fhd-Amd-Ryzen-5-8gb-Ram-512gb-Ssd-Negra/00065796826744?athbdg=L1300",
         "price": 9129.0,
         "model": "512gb"
       },
       {
         "store": "walmart",
-        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
-        "price": 8489.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
-        "price": 13786.26,
-        "model": "D413UA-R78G512"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook Go 15.6\" FHD Ryzen 5 7520U 8GB RAM 512GB SSD Windows 11 Color Cool Silver",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-ryzen-5-7520u-8gb-ram-512gb-ssd-windows-11-color-cool-silver/00019710545735?athbdg=L6000",
-        "price": 21180.0,
-        "model": "7520U"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
-        "price": 26634.65,
-        "model": "2880x1800"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
-        "price": 8629.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 8GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-8gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919490696?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-ExpertBook-P1-14-FHD-Ryzen-5-150-8GB-512GB-SSD-Windows-11-Pro-Wi-Fi-6-Misty-Grey-Espanol/00046919490696?athbdg=L1300",
         "price": 11999.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
+        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-ExpertBook-P1-14-FHD-Ryzen-5-150-16GB-512GB-SSD-Windows-11-Pro-Wi-Fi-6-Misty-Grey-Espanol/00046919510943?athbdg=L1300",
+        "price": 13999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
         "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-ExpertBook-P1-14-FHD-Ryzen-5-150-16GB-1TB-SSD-Windows-11-Pro-Wi-Fi-6-Misty-Grey-Espanol/00046919488876?athbdg=L1300",
         "price": 16699.0,
         "model": null
       },
       {
         "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-S16-Laptop-OLED-de-16-Intel-Core-Ultra-9-285H-Supera-a-AMD-Ryzen-9-8945HS-32GB-RAM-1TB-SSD-2880x1800-DCI-P3-100-Ketboard-Retroiluminado-RGB-Windows-11-Business-AI-Copilot-PC/00019710535553?athbdg=L6000",
+        "price": 26634.01,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
+        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-VivoBook-D413UA-AMD-Ryzen-7-5700U-RAM-8GB-SSD-512GB-Pantalla-14-LED-Windows-11-Home-Asus-D413UA-R78G512/00019555353315",
+        "price": 13786.26,
+        "model": "D413UA-R78G512"
+      },
+      {
+        "store": "walmart",
         "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 1TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
-        "url": "https://www.walmart.com.mx/ip/asus-tuf-a16-gaming-laptop-amd-ryzen-7-7445hs-beat-i7-12650h-rtx-4050-teclado-retroiluminado-rgb-16-wuxga-144hz-32gb-ddr5-ram-1tb-pcie-ssd-windows-11-portatil-gamer-pc-copilot-2025/00019929155451?athbdg=L6000",
-        "price": 32364.79,
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-AMD-Ryzen-7-7445HS-Beat-i7-12650H-RTX-4050-Teclado-Retroiluminado-RGB-16-WUXGA-144Hz-32GB-DDR5-RAM-1TB-PCIe-SSD-Windows-11-Portatil-Gamer-PC-Copilot-2025/00019929155451?athbdg=L1300",
+        "price": 36953.69,
         "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop - AMD Ryzen 7 7445HS Beat i7-12650H - RTX 4050 - Teclado Retroiluminado RGB - 16\" WUXGA 144Hz - 32GB DDR5 RAM - 2TB PCIe SSD - Windows 11 - Portatil Gamer PC Copilot - 2025",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-AMD-Ryzen-7-7445HS-Beat-i7-12650H-RTX-4050-Teclado-Retroiluminado-RGB-16-WUXGA-144Hz-32GB-DDR5-RAM-2TB-PCIe-SSD-Windows-11-Portatil-Gamer-PC-Copilot-2025/00019929155453?athbdg=L6000",
+        "price": 35933.91,
+        "model": "i7-12650H"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF A16 Gaming Laptop RTX 5070 MUX Switch - AMD Ryzen 9 270 Beat i9-12950HX -16“ Pantalla FHD+ G-SYNC -32GB RAM -2TB SSD -teclado Retroiluminado RGB -cámara Web -2025 Laptop PC Gamer Copilot",
+        "url": "https://www.walmart.com.mx/ip/ASUS-TUF-A16-Gaming-Laptop-RTX-5070-MUX-Switch-AMD-Ryzen-9-270-Beat-i9-12950HX-16-Pantalla-FHD-G-SYNC-32GB-RAM-2TB-SSD-teclado-Retroiluminado-RGB-camara-Web-2025-Laptop-PC-Gamer-Copilot/00019710578335?athbdg=L6000",
+        "price": 50397.18,
+        "model": "i9-12950HX"
       }
     ]
   },
   "sams|ASUSZENBOOKLAPTOPRYZENRAM": {
-    "ts": "2026-08-20T05:49:10.030493+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Zenbook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD UM3406KA-QD096W + Funda",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-zenbook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-um3406ka-qd096w-funda/981035880",
-        "price": 23016.48,
-        "model": "UM3406KA-QD096W"
-      },
-      {
-        "store": "sams",
-        "name": "Monitor Portátil Asus  MB16AHVE",
-        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
-        "price": 2454.18,
-        "model": "MB16AHVE"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
-        "price": 21788.86,
-        "model": "M1605NAQ-MB231W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
-        "price": 23016.48,
-        "model": "FA607NU-RL110W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
-        "price": 30688.95,
-        "model": "FA607NUQ-RL044W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
-        "price": 15343.98,
-        "model": "D1605YA-MB470W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
-        "price": 14627.87,
-        "model": "E1504FA-BQ5166W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
-        "price": 18412.98,
-        "model": "M1407KA-LY137W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
-        "price": 28640.91,
-        "model": "FA506NCQ-HN058W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Lenovo LOQ Ryzen 7 7435HS/24 GB RAM/512 GB",
-        "url": "https://www.sams.com.mx/ip/laptop-lenovo-loq-ryzen-7-7435hs-24-gb-ram-512-gb/981027251",
-        "price": 22500.89,
-        "model": "7435HS/24"
-      }
-    ]
+    "ts": "2026-08-22T06:23:22.357590+00:00",
+    "items": []
   },
   "amazon|SMEGCAFETERASMEG": {
     "ts": "2026-08-20T07:25:57.842645+00:00",
@@ -7178,293 +7093,20 @@
       }
     ]
   },
-  "amazon|RMA250PVMRP1": {
-    "ts": "2026-08-20T05:47:56.136051+00:00",
-    "items": []
-  },
-  "walmart|RMA250PVMRP1": {
-    "ts": "2026-08-20T05:47:58.780803+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Refrigerador Mabe Top Mount 10 Pies Negro RMA250PVMRP1",
-        "url": "https://www.walmart.com.mx/ip/refrigerador-mabe-top-mount-10-pies-negro-rma250pvmrp1/00075763844161?athbdg=L6000",
-        "price": 9990.0,
-        "model": "RMA250PVMRP1"
-      }
-    ]
-  },
-  "sams|RMA250PVMRP1": {
-    "ts": "2026-08-20T05:48:02.881001+00:00",
-    "items": []
-  },
   "amazon|LMQ73214VBAB0": {
-    "ts": "2026-08-20T05:48:06.747061+00:00",
+    "ts": "2026-08-22T06:23:04.265780+00:00",
     "items": []
   },
   "walmart|LMQ73214VBAB0": {
-    "ts": "2026-08-20T05:48:09.705222+00:00",
+    "ts": "2026-08-22T06:23:06.850699+00:00",
     "items": []
   },
   "sams|LMQ73214VBAB0": {
-    "ts": "2026-08-20T05:48:15.883912+00:00",
+    "ts": "2026-08-22T06:23:07.599017+00:00",
     "items": []
   },
-  "amazon|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-20T05:48:19.055211+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "RongZy Pantalla LCD para Xiaomi Redmi 13C 23100RN82 (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0CW1MNWFS",
-        "price": 818.84,
-        "model": "23100RN82"
-      },
-      {
-        "store": "amazon",
-        "name": "IPS Pantalla LCD de repuesto para Xiaomi Redmi 13C 5G 13C con montaje de marco negro 6.7 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F3VKN3J9",
-        "price": 406.93,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Duotipa - visualización LCD de 6.7 pulgadas para Xiaomi Poco C65/Redmi 13C LCD de visualización táctil digitalizador de repuesto con juegos de herramientas, color negro",
-        "url": "https://www.amazon.com.mx/dp/B0DSW3LG4K",
-        "price": 395.35,
-        "model": "C65/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "Sustitución de teléfonos móviles Pantalla LCD TFT para para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
-        "url": "https://www.amazon.com.mx/dp/B0FD36J575",
-        "price": 449.97,
-        "model": "10C/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla LCD IPS de repuesto para Xiaomi Redmi 14C con montaje de marco negro de 6.9 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F3VHXY7H",
-        "price": 423.96,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla Digital LCD de Repuesto Compatible con Xiaomi Poco C75 / Redmi 14C (Negro con Marco) Pantalla LCD táctil digitalizador Montaje con Herramienta de reparación de 6,88 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F1FVSYGK",
-        "price": 547.17,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TFT LCD Screen For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 with Digitizer Full Assembly For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 Recambio",
-        "url": "https://www.amazon.com.mx/dp/B0HDB2SNHX",
-        "price": 337.35,
-        "model": "10C/para"
-      },
-      {
-        "store": "amazon",
-        "name": "Reemplazo para Xiaomi Redmi 10c visualización LCD con marco para redmi 220333QAG 220333QBI 220333QNY 220333QL LCD panel de visualización táctil digitalizador conjunto con kit de reparación",
-        "url": "https://www.amazon.com.mx/dp/B0DY67N78L",
-        "price": 474.93,
-        "model": "220333QAG"
-      },
-      {
-        "store": "amazon",
-        "name": "Reemplazo para Xiaomi Redmi 10c | Poco C40 LCD para redmi 220333QAG 220333QBI 220333QNY 220333QL 220333QPG LCD visualización táctil panel digitalizador conjunto con kit de reparación",
-        "url": "https://www.amazon.com.mx/dp/B0DY67BLFY",
-        "price": 446.06,
-        "model": "220333QAG"
-      },
-      {
-        "store": "amazon",
-        "name": "A-MIND para Xiaomi Redmi 13C 4G/5G 6.7 pulgadas visualización LCD de repuesto de visualización táctil digitalizador con herramientas de reparación",
-        "url": "https://www.amazon.com.mx/dp/B0DYJD98HT",
-        "price": 477.67,
-        "model": "4G/5G"
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla LCD del teléfono Celular Pantalla LCD TFT para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
-        "url": "https://www.amazon.com.mx/dp/B0BLH5C1G2",
-        "price": 393.72,
-        "model": "10C/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "TFT LCD Screen For Xiaomi Redmi 10C/Redmi 10 India/Poco C40 with Digitizer Full Assembly For Xiaomi Redmi 10C/Redmi 10 India/Poco C40",
-        "url": "https://www.amazon.com.mx/dp/B0HCSV3D7Q",
-        "price": 337.77,
-        "model": "10C/Redmi"
-      }
-    ]
-  },
-  "walmart|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-20T05:48:24.192655+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-negro-telcel/00750622736044",
-        "price": 3099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500",
-        "price": 4499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-128-gb-negro-telcel/00750622735649?athbdg=L1500",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Azul Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-azul-telcel/00750622736045",
-        "price": 3099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 256gb Dual SIM 4gb RAM Negro",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-256gb-dual-sim-4gb-ram-negro/00693255444481",
-        "price": 3199.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-8gb-ram-256gb-midnight-black/00693255444480",
-        "price": 3175.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Redmi 14C de 128 GB Negro Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-redmi-14c-de-128-gb-negro-desbloqueado/00694181279831",
-        "price": 2997.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Verde Claro",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-8gb-ram-256gb-verde-claro/00693255445614",
-        "price": 3175.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-verde-telcel/00750622736046",
-        "price": 3099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "XIAOMI REDMI 15C 8GB RAM 256GB MIDNIGHT BLACK",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-8gb-ram-256gb-midnight-black/00693255444719",
-        "price": 18619.61,
-        "model": "256GB"
-      }
-    ]
-  },
-  "sams|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-20T05:48:27.946614+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
-        "price": 1974.39,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 5G 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-5g-256-gb-negro-telcel/981033049",
-        "price": 8339.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-azul-telcel/981033046",
-        "price": 6463.31,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi Redmi Note 15 Pro 512 GB Negro Telcel + Buds 6 Active + Smart Band 9 Active",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15-pro-512-gb-negro-telcel-buds-6-active-smart-band-9-active/981050377",
-        "price": 10228.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A7 64 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a7-64-gb-negro-bait/981050961",
-        "price": 3067.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A5 64 GB Azul Océano AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-64-gb-azul-oceano-at-t/981039226",
-        "price": 2044.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
-        "price": 3485.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 14 Pro 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-bait/981036400",
-        "price": 6042.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone XIAOMI  14C 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-14c-256-gb-negro-telcel/981031041",
-        "price": 2911.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  15C 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-15c-256-gb-azul-telcel/981041118",
-        "price": 3013.76,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
-        "price": 6955.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
-        "price": 5088.4,
-        "model": null
-      }
-    ]
-  },
   "amazon|XIAOMIXIAOMITELCELREDMILCD": {
-    "ts": "2026-08-20T05:48:30.615323+00:00",
+    "ts": "2026-08-22T06:23:10.624923+00:00",
     "items": [
       {
         "store": "amazon",
@@ -7477,14 +7119,21 @@
         "store": "amazon",
         "name": "INCELL - visualización LCD para Xiaomi Redmi Note 11 de repuesto para visualización LCD 2201117TG 2201117TI, 2201117TY, 2201117TL LCD digitalizador de visualización táctil Kit de reparación de montaje",
         "url": "https://www.amazon.com.mx/dp/B0D5R6CNBP",
-        "price": 493.03,
+        "price": 490.71,
         "model": "2201117TG"
       },
       {
         "store": "amazon",
-        "name": "IPS Pantalla LCD de repuesto para Xiaomi Redmi 13C 5G 13C con montaje de marco negro 6.7 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F3VKN3J9",
-        "price": 406.93,
+        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
+        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
+        "price": 609.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Yodoit Pantalla para Xiaomi Redmi Note 7 / Redmi Note 7 Pro Display Negro, LCD Pantalla y Digitalizador Pantalla Táctil de Cristal Reemplazo con Herramienta 6.3 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B09J2C42WV",
+        "price": 499.0,
         "model": null
       },
       {
@@ -7496,17 +7145,17 @@
       },
       {
         "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
-        "price": 619.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Duotipa - visualización LCD de 6.7 pulgadas para Xiaomi Poco C65/Redmi 13C LCD de visualización táctil digitalizador de repuesto con juegos de herramientas, color negro",
         "url": "https://www.amazon.com.mx/dp/B0DSW3LG4K",
         "price": 395.35,
         "model": "C65/Redmi"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Plata | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
+        "url": "https://www.amazon.com.mx/dp/B0DFHFM1X9",
+        "price": 646.0,
+        "model": null
       },
       {
         "store": "amazon",
@@ -7524,13 +7173,6 @@
       },
       {
         "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Plata | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFHFM1X9",
-        "price": 646.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Sustitución de teléfonos móviles Pantalla LCD TFT para para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
         "url": "https://www.amazon.com.mx/dp/B0FD36J575",
         "price": 449.97,
@@ -7538,22 +7180,22 @@
       },
       {
         "store": "amazon",
-        "name": "Pantalla LCD IPS de repuesto para Xiaomi Redmi 14C con montaje de marco negro de 6.9 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F3VHXY7H",
-        "price": 423.96,
+        "name": "Pantalla Digital LCD de Repuesto Compatible con Xiaomi Poco C75 / Redmi 14C (Negro con Marco) Pantalla LCD táctil digitalizador Montaje con Herramienta de reparación de 6,88 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F1FVSYGK",
+        "price": 544.91,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Pantalla Digital LCD de Repuesto Compatible con Xiaomi Poco C75 / Redmi 14C (Negro con Marco) Pantalla LCD táctil digitalizador Montaje con Herramienta de reparación de 6,88 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F1FVSYGK",
-        "price": 547.17,
+        "name": "Pantalla LCD IPS de repuesto para Xiaomi Redmi 14C con montaje de marco negro de 6.9 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F3VHXY7H",
+        "price": 423.96,
         "model": null
       }
     ]
   },
   "walmart|XIAOMIXIAOMITELCELREDMILCD": {
-    "ts": "2026-08-20T05:48:36.210049+00:00",
+    "ts": "2026-08-22T06:23:14.598197+00:00",
     "items": [
       {
         "store": "walmart",
@@ -7561,6 +7203,34 @@
         "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-a5-negro-telcel/00750622735931?athbdg=L1300",
         "price": 1797.0,
         "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-256-gb-negro-telcel/00750622735685?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-256gb-negro-telcel/00750622736047?athbdg=L1300",
+        "price": 2789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-256-gb-verde-telcel/00750622735686?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-256gb-dorado-telcel/00750622736052?athbdg=L1300",
+        "price": 4049.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
@@ -7578,27 +7248,6 @@
       },
       {
         "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-256gb-dorado-telcel/00750622736052?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-negro-telcel/00750622736044?athbdg=L1300",
-        "price": 2519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-256-gb-negro-telcel/00750622735685?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Xiaomi Redmi A5 Dorado Telcel",
         "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-a5-dorado-telcel/00750622735933?athbdg=L1300",
         "price": 1797.0,
@@ -7613,16 +7262,16 @@
       },
       {
         "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-256-gb-verde-telcel/00750622735686?athbdg=L6000",
-        "price": 3797.0,
+        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-128-gb-negro-telcel/00750622735649?athbdg=L6000",
+        "price": 3496.99,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Azul Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-azul-telcel/00750622736045",
-        "price": 3099.0,
+        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-negro-telcel/00750622736044?athbdg=L1300",
+        "price": 2519.0,
         "model": "128GB"
       },
       {
@@ -7631,336 +7280,12 @@
         "url": "https://www.walmart.com.mx/ip/smartphone-redmi-a5-128gb-negro-telcel/00750622735999?athbdg=L1300",
         "price": 2159.0,
         "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 256gb Dual SIM 4gb RAM Negro",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-256gb-dual-sim-4gb-ram-negro/00693255444481",
-        "price": 3199.0,
-        "model": "256gb"
       }
     ]
   },
   "sams|XIAOMIXIAOMITELCELREDMILCD": {
-    "ts": "2026-08-20T05:48:40.068043+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814",
-        "price": 1974.39,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 5G 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-5g-256-gb-negro-telcel/981033049",
-        "price": 8339.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi Redmi Note 14 Pro 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-azul-telcel/981033046",
-        "price": 6463.31,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi Redmi Note 15 Pro 512 GB Negro Telcel + Buds 6 Active + Smart Band 9 Active",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15-pro-512-gb-negro-telcel-buds-6-active-smart-band-9-active/981050377",
-        "price": 10228.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A7 64 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a7-64-gb-negro-bait/981050961",
-        "price": 3067.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
-        "price": 3485.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi A5 64 GB Azul Océano AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-64-gb-azul-oceano-at-t/981039226",
-        "price": 2044.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
-        "price": 6955.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
-        "price": 5088.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 14 Pro 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-14-pro-256-gb-negro-bait/981036400",
-        "price": 6042.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone XIAOMI  14C 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-14c-256-gb-negro-telcel/981031041",
-        "price": 2911.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  15C 256 GB Azul Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-15c-256-gb-azul-telcel/981041118",
-        "price": 3013.76,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-08-20T05:49:20.320364+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
-        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
-        "price": 670.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1475.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
-        "price": 305.35,
-        "model": "CM321DMX"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
-        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
-        "price": 359.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-08-20T05:49:24.347236+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-5-Tazas-de-Goteo-Switch-Color-Negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Oster-12-Tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Capacidad-de-5-Tazas-Filtro-Permanente-Color-Negro-Modelo-BVSTDCS51B-NE/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Analoga-5-Tazas-Oster-Color-Negra-BVST-DC05-013/00060567128327?athbdg=L1300",
-        "price": 635.0,
-        "model": "BVST/DC05-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/Oster-reg-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046425652021",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Bonavita Enthusiast - Cafetera de goteo de 8 tazas, con jarra térmica, panel de acero inoxidable, de",
-        "url": "https://www.walmart.com.mx/ip/Bonavita-Enthusiast-Cafetera-de-goteo-de-8-tazas-con-jarra-termica-panel-de-acero-inoxidable-de/00081006050079?athbdg=L1300",
-        "price": 6279.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATAZASPANELGOTEO": {
-    "ts": "2026-08-20T05:49:29.247120+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 715.08,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 912.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 868.52,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-22T06:23:15.315834+00:00",
+    "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERACAPSULAVERTUO": {
     "ts": "2026-08-20T07:25:38.009309+00:00",
@@ -35328,6 +34653,103 @@
   },
   "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
     "ts": "2026-08-22T05:18:56.205609+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-08-22T06:23:26.322781+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
+        "price": 5500.0,
+        "model": "BVSTEM7201-013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de Repuesto para Cafetera, 12 Tazas, 16.1 cm de Altura, Compatible con Modelos Oster BVSTRC12, BVSTDC12X, BVSTDCP12X",
+        "url": "https://www.amazon.com.mx/dp/B0FWGQ6KCC",
+        "price": 465.0,
+        "model": "BVSTDCP12X"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
+        "price": 398.0,
+        "model": "12Tazas"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
+        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
+        "price": 2799.0,
+        "model": "BVSTDC4411-013ris"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-08-22T06:23:45.890335+00:00",
+    "items": []
+  },
+  "sams|OSTERCAFETERAACEROPANELTAZAS": {
+    "ts": "2026-08-22T06:23:46.671217+00:00",
     "items": []
   }
 }
