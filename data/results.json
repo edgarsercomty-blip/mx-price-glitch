@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 05:18 UTC",
-  "products_scanned": 1672,
+  "generated_at": "2026-08-22 05:46 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -760,48 +760,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Trippy",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430552",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$119 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Mobo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579",
-      "price": 119.2,
-      "list_price": 149.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430579",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
       "savings": 199.8,
@@ -860,6 +818,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {
