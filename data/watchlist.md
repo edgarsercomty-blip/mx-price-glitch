@@ -1,4 +1,4 @@
-# Productos en vigilancia (762)
+# Productos en vigilancia (764)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -754,7 +754,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra](https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300) | $8,990 | -22% |
 | 🟢 disponible | amazon | [Raganet, Juego de Cubiertos de Acero Inoxidable con 24 pieza…](https://www.amazon.com.mx/dp/B0CJWR9QZW) | $141 | -22% |
 | 🟢 disponible | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | -25% |
-| 🟢 disponible | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $5,687 | -25% |
+| 🟢 disponible | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | -25% |
 | 🟢 disponible | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $22,499 | -25% |
 | 🟢 disponible | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $10,199 | -25% |
 | 🟢 disponible | mercadolibre | [Consolas Sonido 4 Canales Usb Mezcladora Mixer Bt 48v Aelora](https://www.mercadolibre.com.mx/consolas-sonido-4-canales-usb-mezcladora-mixer-bt-48v-aelora/p/MLM62370061) | $599 | -31% |
@@ -766,3 +766,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Calvin Klein Charie para Mujer](https://www.amazon.com.mx/dp/B0DJ9KYKCJ) | $754 | -27% |
 | 🟢 disponible | mercadolibre | [Consola Microsoft Xbox Series X 2TB Galaxy Black Edición Esp…](https://www.mercadolibre.com.mx/consola-microsoft-xbox-series-x-2tb-galaxy-black-edicion-especial-con-control-inalambrico-negro-y-wi-fi/p/MLM54551840) | $21,998 | -27% |
 | 🟢 disponible | amazon | [Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutiliz…](https://www.amazon.com.mx/dp/B0F8KF41L9) | $298 | -25% |
+| 🟢 disponible | palacio | [Combo de Cafetera, Tostador y Exprimidor de crítricos](https://www.elpalaciodehierro.com/smeg-combo-de-cafetera-tostador-y-exprimidor-de-critricos-44923017.html) | $6,400 | -50% |
+| 🟢 disponible | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,290 | -21% |

@@ -1981,34 +1981,41 @@
     "items": []
   },
   "amazon|SMEGCAFETERASMEG": {
-    "ts": "2026-08-20T07:25:57.842645+00:00",
+    "ts": "2026-08-22T07:48:23.963054+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "SMEG - Cafetera totalmente automática con vapor, negro BCC02BLMUS, grande",
-        "url": "https://www.amazon.com.mx/dp/B09GYP1SXD",
-        "price": 25297.0,
-        "model": "BCC02BLMUS"
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG Máquina de café espresso totalmente automática con molinillo integrado, blanco mate",
-        "url": "https://www.amazon.com.mx/dp/B0DFRX8W2Q",
-        "price": 23999.0,
+        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino de cuchillas integrado, Programable 24 horas, Función Grind OFF para café molido, Apagado automático",
+        "url": "https://www.amazon.com.mx/dp/B08DCK4MPV",
+        "price": 2659.26,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Chefman Crema Supreme - Máquina de café expreso de 15 barras con espumador de leche, barra de vapor Barista, cafetera profesional con molinillo de café, 30 ajustes de molienda, tanque de agua",
-        "url": "https://www.amazon.com.mx/dp/B0DGQWMJM6",
-        "price": 5999.0,
+        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino profesional integradro, Jarra de vidrio 12 tazas, Tolva para almacenar 250 g sellada, Programable 24 horas",
+        "url": "https://www.amazon.com.mx/dp/B079NM2ZYN",
+        "price": 3799.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Chefman Máquina de espresso Chefman CraftBrew, cafetera digital con bomba de 15 bares con varilla de vapor para café con leche y capuchino, compacta con depósito de agua extraíble de 1.8L",
-        "url": "https://www.amazon.com.mx/dp/B0DMQMC4CD",
-        "price": 1699.32,
+        "name": "Cuisinart Cafetera Coffee Center 4 en 1 SS-4N1ES con Barista Bar | Prepara 12 tazas o una sola. Compatible con K-Cup y Nespresso original line. Varilla para espumar. Espresso sencillo o doble",
+        "url": "https://www.amazon.com.mx/dp/B0BWSMV57F",
+        "price": 5662.6,
+        "model": "SS-4N1ES"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
+        "price": 4264.0,
         "model": null
       },
       {
@@ -2022,21 +2029,21 @@
         "store": "amazon",
         "name": "Smeg DCGC01 Jarra para cafetera de desbordamiento DCF02 DCG01, vidrio",
         "url": "https://www.amazon.com.mx/dp/B07YP1MZ9B",
-        "price": 1275.65,
+        "price": 1262.24,
         "model": "DCGC01"
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
-        "price": 4264.0,
-        "model": null
       },
       {
         "store": "amazon",
         "name": "Smeg 50's - Cafetera estética de goteo de estilo retro con jarra de vidrio de 10 tazas, función de inicio automático, placa de mantenimiento caliente y dos ajustes de fuerza de café (negro mate)",
         "url": "https://www.amazon.com.mx/dp/B0GRD5YKRL",
-        "price": 5353.56,
+        "price": 5297.29,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
+        "price": 16994.25,
         "model": null
       },
       {
@@ -2048,204 +2055,112 @@
       },
       {
         "store": "amazon",
-        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
-        "price": 16994.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Filtro De Café En Polvo Compatible Con SMEG DCF02 Cafeteras, Accesorios De Filtro De Acero Inoxidable, Filtro De Repuesto, Ajuste Preciso, A Prueba De Fugas.",
         "url": "https://www.amazon.com.mx/dp/B0FXXD2VNH",
-        "price": 452.52,
+        "price": 459.0,
         "model": "DCF02"
       },
       {
         "store": "amazon",
         "name": "Jarra de reemplazo para cafetera de 10 tazas Compatible con DCGC01 Cafetera con desbordamiento DCF02 DCG01",
         "url": "https://www.amazon.com.mx/dp/B0DK4Q1DBG",
-        "price": 605.55,
+        "price": 632.75,
         "model": "DCGC01"
       }
     ]
   },
   "walmart|SMEGCAFETERASMEG": {
-    "ts": "2026-08-20T07:26:04.633001+00:00",
+    "ts": "2026-08-22T07:48:51.439857+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
-        "url": "https://www.walmart.com.mx/ip/smeg-cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-italia/00081289502534?athbdg=L1300",
-        "price": 15808.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Plata",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-plata/00081289502162",
-        "price": 13235.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2206.68,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smeg DCF02PBUK - Máquina de café por goteo, modo de arranque automático, filtro reutilizable, visual",
-        "url": "https://www.walmart.com.mx/ip/smeg-dcf02pbuk-maquina-de-cafe-por-goteo-modo-de-arranque-automatico-filtro-reutilizable-visual/00801770928066",
-        "price": 13102.9,
-        "model": "DCF02PBUK"
-      },
-      {
-        "store": "walmart",
-        "name": "Smeg - Smeg - Coffee Machine - 11+ - Filter Coffee Machine - White",
-        "url": "https://www.walmart.com.mx/ip/smeg-smeg-coffee-machine-11-filter-coffee-machine-white/00801770928055",
-        "price": 16196.81,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
+        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502534",
+        "price": 15433.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera de Goteo Smeg 10 Tazas Negra",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-negra/00081289502157",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Negra/00081289502157",
         "price": 5799.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Azul Pastel",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-azul-pastel/00081289502159",
-        "price": 5395.17,
+        "name": "Cafetera de Goteo Smeg 10 Tazas Verde Pastel",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Verde-Pastel/00081289502160",
+        "price": 7469.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
+        "name": "Cafetera de Goteo Smeg 10 Tazas Plata",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Plata/00081289502162",
+        "price": 13235.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Smeg 10 Tazas Roja",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Roja/00081289502161",
+        "price": 7469.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera de Goteo Smeg 10 Tazas Crema",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-crema/00081289502158",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Crema/00081289502158",
         "price": 6799.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera 12 tazas Hamilton Beach 49316",
-        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
-        "price": 419.0,
+        "name": "Cafetera de Goteo Smeg 10 Tazas Azul Pastel",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Azul-Pastel/00081289502159",
+        "price": 5395.17,
         "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smeg DCF02PBUK - Máquina de café por goteo, modo de arranque automático, filtro reutilizable, visual",
+        "url": "https://www.walmart.com.mx/ip/Smeg-DCF02PBUK-Maquina-de-cafe-por-goteo-modo-de-arranque-automatico-filtro-reutilizable-visual/00801770928066",
+        "price": 13102.9,
+        "model": "DCF02PBUK"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Smeg estilo retro de los 50, 10 tazas, negro mate",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Smeg-estilo-retro-de-los-50-10-tazas-negro-mate/00081289502394",
+        "price": 7469.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smeg - Smeg - Coffee Machine - 11+ - Filter Coffee Machine - White",
+        "url": "https://www.walmart.com.mx/ip/Smeg-Smeg-Coffee-Machine-11-Filter-Coffee-Machine-White/00801770928055",
+        "price": 16196.81,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SMEG Máquina de café totalmente automática con molinillo integrado y varita de vapor BCC02RDMUS, roj",
+        "url": "https://www.walmart.com.mx/ip/SMEG-Maquina-de-cafe-totalmente-automatica-con-molinillo-integrado-y-varita-de-vapor-BCC02RDMUS-roj/00081289502227",
+        "price": 29935.9,
+        "model": "BCC02RDMUS"
       }
     ]
   },
   "sams|SMEGCAFETERASMEG": {
-    "ts": "2026-08-20T07:26:12.895731+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Parrilla Eléctrica Chefman  RJ23-SM-V3-MX Antiadherente Color Negro",
-        "url": "https://www.sams.com.mx/ip/parrilla-electrica-chefman-rj23-sm-v3-mx-antiadherente-color-negro/981053287",
-        "price": 551.37,
-        "model": "RJ23-SM-V3-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Bikini Nautica  Navy Talla EG",
-        "url": "https://www.sams.com.mx/ip/bikini-nautica-navy-talla-eg/981044735",
-        "price": 408.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Faja Cinturilla BellaForm  Talla EG",
-        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg/981046298",
-        "price": 948.15,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Chaleco Ligero Wheaterproof  Talla EG Plata",
-        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-plata/981028223",
-        "price": 50.12,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Pijama para Dama Dkny  Azul talla EG",
-        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-azul-talla-eg/981045194",
-        "price": 561.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Pijama para Dama Dkny  Negro talla EG",
-        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-negro-talla-eg/981045186",
-        "price": 561.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jogger para Caballero Hurley  Beige Talla EG",
-        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-beige-talla-eg/981048487",
-        "price": 613.79,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Pijama para Dama Dkny  Gris talla EG",
-        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-gris-talla-eg/981045190",
-        "price": 561.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Chaleco Ligero Wheaterproof  Talla EG Rojo",
-        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-rojo/981028215",
-        "price": 612.76,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Faja Cinturilla BellaForm  Talla EG Negro",
-        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg-negro/981046302",
-        "price": 948.15,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Pijama para Dama Dkny  Rosa talla EG",
-        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-rosa-talla-eg/981045198",
-        "price": 561.61,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jogger para Caballero Hurley  Negro Talla EG",
-        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-negro-talla-eg/981048486",
-        "price": 613.79,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-22T07:48:52.477871+00:00",
+    "items": []
   },
   "amazon|ASUSPROARTLAPTOPRYZENASUS": {
     "ts": "2026-08-20T19:16:46.349855+00:00",
@@ -7287,239 +7202,42 @@
     "ts": "2026-08-22T06:23:15.315834+00:00",
     "items": []
   },
-  "amazon|NESPRESSONESPRESSOCAFETERACAPSULAVERTUO": {
-    "ts": "2026-08-20T07:25:38.009309+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo variedad 30 cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
-        "price": 529.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
-        "price": 1895.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso, Vanilla Custard Pie, 375 gramos",
-        "url": "https://www.amazon.com.mx/dp/B08DJPMG5N",
-        "price": 539.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Barista Creations Vertuo 30 cápsulas | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B09CC8QTHL",
-        "price": 539.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Starbucks by Nespresso, Café Variety 50 cápsulas Original | Compatible con máquinas original",
-        "url": "https://www.amazon.com.mx/dp/B08JJ23Z7K",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso México 30 cápsulas Vertuo | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX1ZC2",
-        "price": 539.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Starbucks by Nespresso Vertuo Coffee Capsules Compatible Vertuo Machines | Aluminum Coffee Pods 8 Count Pack ? C?psulas de Caf? Compatibles con Nespresso Vertuo Paquete de 8 (Cinnamon Dolce)",
-        "url": "https://www.amazon.com.mx/dp/B0GVRZ7M4Z",
-        "price": 475.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
-        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
-        "price": 2677.08,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERACAPSULAVERTUO": {
-    "ts": "2026-08-20T07:25:41.266367+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cápsulas de café Starbucks by Nespresso caffé Verona 10 pzas",
-        "url": "https://www.walmart.com.mx/ip/capsulas-de-cafe-starbucks-by-nespresso-caffe-verona-10-pzas/00761303695894",
-        "price": 170.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cápsulas de café Starbucks by Nespresso single origin coffee Colombia 10 pzas",
-        "url": "https://www.walmart.com.mx/ip/capsulas-de-cafe-starbucks-by-nespresso-single-origin-coffee-colombia-10-pzas/00761303696144",
-        "price": 170.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Taza de filtro de cápsula de café de 230ml con accesorio de papel de aluminio desechable para Nespresso Vertuo",
-        "url": "https://www.walmart.com.mx/ip/taza-de-filtro-de-capsula-de-cafe-de-230ml-con-accesorio-de-papel-de-aluminio-desechable-para-nespresso-vertuo/00750368460736",
-        "price": 198.42,
-        "model": "230ml"
-      },
-      {
-        "store": "walmart",
-        "name": "30-3 uds filtros recargables para cafetera Nespresso cápsulas reutilizables con cuchara y cepillo para cápsulas de café",
-        "url": "https://www.walmart.com.mx/ip/30-3-uds-filtros-recargables-para-cafetera-nespresso-capsulas-reutilizables-con-cuchara-y-cepillo-para-capsulas-de-cafe/00416165440138",
-        "price": 496.46,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Taza de filtro de cápsula de café de 230ml con accesorio de papel de aluminio desechable para Nespresso Vertuo",
-        "url": "https://www.walmart.com.mx/ip/taza-de-filtro-de-capsula-de-cafe-de-230ml-con-accesorio-de-papel-de-aluminio-desechable-para-nespresso-vertuo/00914879427458?athbdg=L1300",
-        "price": 250.06,
-        "model": "230ml"
-      },
-      {
-        "store": "walmart",
-        "name": "Tapa de CáPsula de Café Reutilizable para CáPsula de Café Vertuoline, Tapa de Silicona de Grado Alimenticio para CáPsula Recargable Nespresso Vertuo",
-        "url": "https://www.walmart.com.mx/ip/tapa-de-capsula-de-cafe-reutilizable-para-capsula-de-cafe-vertuoline-tapa-de-silicona-de-grado-alimenticio-para-capsula-recargable-nespresso-vertuo/00613222303410",
-        "price": 213.99,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "30-3 uds filtros recargables para cafetera Nespresso cápsulas reutilizables con cuchara y cepillo para cápsulas de café",
-        "url": "https://www.walmart.com.mx/ip/30-3-uds-filtros-recargables-para-cafetera-nespresso-capsulas-reutilizables-con-cuchara-y-cepillo-para-capsulas-de-cafe/00416165440192",
-        "price": 444.34,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "30-3 uds filtros recargables para cafetera Nespresso cápsulas reutilizables con cuchara y cepillo para cápsulas de café",
-        "url": "https://www.walmart.com.mx/ip/30-3-uds-filtros-recargables-para-cafetera-nespresso-capsulas-reutilizables-con-cuchara-y-cepillo-para-capsulas-de-cafe/00416165440155",
-        "price": 454.52,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "30-3 uds filtros recargables para cafetera Nespresso cápsulas reutilizables con cuchara y cepillo para cápsulas de café",
-        "url": "https://www.walmart.com.mx/ip/30-3-uds-filtros-recargables-para-cafetera-nespresso-capsulas-reutilizables-con-cuchara-y-cepillo-para-capsulas-de-cafe/00416165440220",
-        "price": 496.46,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "30-3 uds filtros recargables para cafetera Nespresso cápsulas reutilizables con cuchara y cepillo para cápsulas de café",
-        "url": "https://www.walmart.com.mx/ip/30-3-uds-filtros-recargables-para-cafetera-nespresso-capsulas-reutilizables-con-cuchara-y-cepillo-para-capsulas-de-cafe/00416165440237",
-        "price": 444.34,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSONESPRESSOCAFETERACAPSULAVERTUO": {
-    "ts": "2026-08-20T07:25:51.000932+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 1964.16,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 4237.25,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
-        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 5011.66,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2344.71,
-        "model": "KP440EMX"
-      }
-    ]
-  },
   "amazon|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-20T07:26:17.356629+00:00",
+    "ts": "2026-08-22T07:49:29.462371+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
+        "price": 19999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
+        "price": 5485.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 17e (512 GB) - Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GQVG2JNK",
+        "price": 19199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 17 Pro 512GB:Pantalla 6.3 Pulgadas con Promotion de hasta 120 Hz,Chip A19 Pro,Extraordinaria duración de la batería,Sistema de cámaras Pro Fusion con cámara Frontal CenterStage;Naranja cósmico",
+        "url": "https://www.amazon.com.mx/dp/B0FQFTXGNG",
+        "price": 33498.9,
+        "model": "512GB"
+      },
       {
         "store": "amazon",
         "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
         "url": "https://www.amazon.com.mx/dp/B0F3HN22XQ",
-        "price": 12199.0,
+        "price": 11589.39,
         "model": "RAM/512GB"
       },
       {
@@ -7538,17 +7256,17 @@
       },
       {
         "store": "amazon",
+        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
+        "price": 15299.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
         "name": "Motorola Celular RAZR 70 512 GB Verde",
         "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
         "price": 19999.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
-        "price": 6305.87,
-        "model": "RAM/512GB"
       },
       {
         "store": "amazon",
@@ -7559,731 +7277,112 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
-        "price": 8549.43,
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6294.0,
         "model": "RAM/512GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
-        "price": 16999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus",
-        "url": "https://www.amazon.com.mx/dp/B0GQ63CSGH",
-        "price": 11874.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
-        "price": 5182.0,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto G15 4+512GB Celeste",
-        "url": "https://www.amazon.com.mx/dp/B0FLS2NB7C",
-        "price": 3239.0,
-        "model": "4+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 50 Ultra Peach Fuzz (12GB RAM/512GB), 50MP, Celular Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0FCX5D1HW",
-        "price": 19999.0,
+        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
+        "price": 8496.0,
         "model": "RAM/512GB"
       }
     ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-20T07:26:22.572701+00:00",
+    "ts": "2026-08-22T07:49:32.717032+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-60-Fusion-5G-DUAL-SIM-8GB-RAM-256GB-Almacenamiento-Nuevo-Liberado/00084002328727",
-        "price": 4690.0,
-        "model": "256GB"
+        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756",
+        "price": 4699.0,
+        "model": "256Gb+8Gb"
       },
       {
         "store": "walmart",
         "name": "Smartphone Motorola Razr 60 5G / 512GB Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Razr-60-5G-512GB-Azul-Desbloqueado/00084002329101?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-razr-60-5g-512gb-azul-desbloqueado/00084002329101?athbdg=L1300",
         "price": 14999.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
-        "url": "https://www.walmart.com.mx/ip/Motorola-RAZR-60-Ultra-5G-512GB-ROM-16GB-RAM-Dual-SIM-GSM-Unlocked-Pantone-Mountain-Trail/00084002329317",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Teléfono Celular Motorola Edge 60 Pro 5G DUAL sim 8GB + 256GB 6000Mah Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Motorola-Edge-60-Pro-5G-DUAL-sim-8GB-256GB-6000Mah-Nuevo-Liberado/00084002328889",
-        "price": 6899.0,
-        "model": "6000Mah"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked -Pantone Cabaret",
-        "url": "https://www.walmart.com.mx/ip/Motorola-RAZR-60-Ultra-5G-512GB-ROM-16GB-RAM-Dual-SIM-GSM-Unlocked-Pantone-Cabaret/00084002329473",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-70-512-GB-Gris-Desbloqueado/00084049360331?athbdg=L1300",
+        "name": "Smartphone Motorola Edge 70 / 512 GB Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-verde-desbloqueado/00084049360332?athbdg=L1300",
         "price": 10999.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartphone Celular Motorola G06 Power 120Ghz 7000 mAh 4GB + 8GB RAM BOST + 64GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Celular-Motorola-G06-Power-120Ghz-7000-mAh-4GB-8GB-RAM-BOST-64GB-Almacenamiento-Nuevo-Liberado/00084049360318",
-        "price": 1869.0,
-        "model": "120Ghz"
+        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727",
+        "price": 4690.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-70-512-GB-Verde-Desbloqueado/00084049360332?athbdg=L1300",
+        "name": "Smartphone Motorola Edge 70 / 512 GB Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-gris-desbloqueado/00084049360331?athbdg=L1300",
         "price": 10999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartphone Motorola Edge 60 Pro 12+512 GB Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-60-Pro-12-512-GB-Cobalto-Desbloqueado/00750665822136?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-pro-12-512-gb-cobalto-desbloqueado/00750665822136?athbdg=L1300",
+        "price": 8499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Teléfono Celular Motorola Edge 60 Pro 5G DUAL sim 8GB + 256GB 6000Mah Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/telefono-celular-motorola-edge-60-pro-5g-dual-sim-8gb-256gb-6000mah-nuevo-liberado/00084002328889",
+        "price": 6899.0,
+        "model": "6000Mah"
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked -Pantone Cabaret",
+        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-cabaret/00084002329473",
+        "price": 45859.37,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
+        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-mountain-trail/00084002329317",
+        "price": 45859.37,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Celular Motorola G06 Power 120Ghz 7000 mAh 4GB + 8GB RAM BOST + 64GB Almacenamiento Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-celular-motorola-g06-power-120ghz-7000-mah-4gb-8gb-ram-bost-64gb-almacenamiento-nuevo-liberado/00084049360318",
+        "price": 1869.0,
+        "model": "120Ghz"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Edge 60 Pro 12+512 GB Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-pro-12-512-gb-gris-desbloqueado/00750665822137?athbdg=L1300",
         "price": 8499.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartphone Motorola Moto Edge 50 Pro Dual sim 512gb 12ram-Azul",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-Edge-50-Pro-Dual-sim-512gb-12ram-Azul/00084002327459",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-pro-dual-sim-512gb-12ram-azul/00084002327459",
         "price": 6729.0,
         "model": "12ram-Azul"
       }
     ]
   },
   "sams|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-20T07:26:27.904361+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-azul-desbloqueado/981036597",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Gris Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-gris-desbloqueado/981038682",
-        "price": 10329.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Cobalto Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-cobalto-desbloqueado/981038688",
-        "price": 10329.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Uva Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-uva-desbloqueado/981038720",
-        "price": 10329.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 50 Pro 512 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-50-pro-512-gb-morado-desbloqueado/981021857",
-        "price": 11251.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr  70 256 GB Gris Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-70-256-gb-gris-telcel/981054346",
-        "price": 18412.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  G17 Power Celeste 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-g17-power-celeste-256-gb-desbloqueado/981050389",
-        "price": 6645.41,
-        "model": null
-      }
-    ]
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARMORADOFUSION": {
-    "ts": "2026-08-20T07:26:32.023618+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Infinix Celular Hot70 128GB+8GB (4+4GB extendible) Sim Dual NFC Dive Blue | AI Helio G100 Ultimate 6nm Batería 5600mAh Cámara 50MP IA Doble Flash Android XOS 16",
-        "url": "https://www.amazon.com.mx/dp/B0H4CVLV9K",
-        "price": 3599.0,
-        "model": "128GB+8GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Teléfono Celular Q1 Altavoces Potentes Pantalla HD de 2,4 Pulgadas Botón SOS Teléfono Celular Q1 Desbloqueado Teclas Grandes Ancianos Uso Al Aire Libre (Enchufe de EE. UU.)",
-        "url": "https://www.amazon.com.mx/dp/B0BRT1B519",
-        "price": 440.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Yoidesu Teléfono Celular para Personas Mayores Desbloqueado 2G, Teléfono Móvil Básico con Botón Grande de 5000 MAh para Personas Mayores, Pantalla de 1,77 Pulgadas Teléfono Resistente",
-        "url": "https://www.amazon.com.mx/dp/B0DT4H9HDG",
-        "price": 631.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Yoidesu Teléfono para Adultos Mayores 2G, 16800mAh, Botones Grandes y SOS | Pantalla 2.6\", SOS emergencia, linterna dual LED，altavoz potente, batería radio, carga USB, diseño resistente",
-        "url": "https://www.amazon.com.mx/dp/B0BK9YM1TC",
-        "price": 659.0,
-        "model": "16800mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
-        "price": 5135.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Turquesa, Compatible con Todas Las Redes",
-        "url": "https://www.amazon.com.mx/dp/B0F2LWP4YC",
-        "price": 5159.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F2LWQX5H",
-        "price": 4999.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
-        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
-        "price": 5533.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Silhouette (Azul) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ758H1R",
-        "price": 7999.0,
-        "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
-        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
-        "price": 4360.0,
-        "model": "8GB-256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
-        "price": 6019.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Country Air (Celeste) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ6VBJ9B",
-        "price": 7949.0,
-        "model": "8+256GB"
-      }
-    ]
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARMORADOFUSION": {
-    "ts": "2026-08-20T07:26:36.459822+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 50 Fusion 8GB RAM + 256GB de Almacenamiento Liberado Nuevo Mashmallos Blue",
-        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-50-Fusion-8GB-RAM-256GB-de-Almacenamiento-Liberado-Nuevo-Mashmallos-Blue/00084002327390?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola Edge 70 Fusion +Moto Buds 256 GB 8 GB Morado",
-        "url": "https://www.walmart.com.mx/ip/Motorola-Edge-70-Fusion-Moto-Buds-256-GB-8-GB-Morado/00872132237038",
-        "price": 9399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-60-Fusion-5G-256GB-Gris-Desbloqueado/00084002328738?athbdg=L1300",
-        "price": 5196.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Marron Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Marron-Desbloqueado/00750622735965",
-        "price": 6899.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00019663085013?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00750304110536?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00019702146653?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB VERDE AZULADO más motorola MOTO BUDS BASS PANTONE DRAK SHADOW",
-        "url": "https://www.walmart.com.mx/ip/MOTOROLA-EDGE-50-FUSION-8GB-RAM-256-GB-VERDE-AZULADO-mas-motorola-MOTO-BUDS-BASS-PANTONE-DRAK-SHADOW/00046022573511?athbdg=L1300",
-        "price": 4677.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram TIDAL",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-Edge-50-Fusion-5G-Dual-sim-256gb-8ram-TIDAL/00084002326274?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-60-Fusion-5G-DUAL-SIM-8GB-RAM-256GB-Almacenamiento-Nuevo-Liberado/00084002328727?athbdg=L1300",
-        "price": 4690.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola G86 5G 8GB 256GB Lila Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Motorola-G86-5G-8GB-256GB-Lila-Desbloqueado/00803377908050?athbdg=L1300",
-        "price": 4397.0,
-        "model": "256GB"
-      }
-    ]
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARMORADOFUSION": {
-    "ts": "2026-08-20T07:26:39.924898+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687",
-        "price": 6135.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-morado-desbloqueado/981038965",
-        "price": 2249.56,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 50 Pro 512 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-50-pro-512-gb-morado-desbloqueado/981021857",
-        "price": 11251.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 70 Fusion 256 GB FIFA World Cup 2026 Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-fifa-world-cup-2026-azul-desbloqueado/981051351",
-        "price": 11249.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-rosa-telcel/981034185",
-        "price": 9205.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Azul AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-at-t/981040143",
-        "price": 9205.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-azul-desbloqueado/981036597",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-08-20T07:26:44.273561+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nuur - Cafetera Multicapsula 3 en 1 Digital (Capsulas y Cafe Molido) Bomba Italiana 15 Bar, Tanque 900ml, Calentamiento Rapido, 7 Niveles de Agua, Panel Multifuncional - CAFECAD",
-        "url": "https://www.amazon.com.mx/dp/B0FBFKBBQZ",
-        "price": 3590.0,
-        "model": "900ml"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Genérico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripción.",
-        "url": "https://www.amazon.com.mx/dp/B0FMBLSGSJ",
-        "price": 365.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-08-20T07:26:53.880616+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
-        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
-        "price": 635.0,
-        "model": "BVST/DC05-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Bonavita Enthusiast - Cafetera de goteo de 8 tazas, con jarra térmica, panel de acero inoxidable, de",
-        "url": "https://www.walmart.com.mx/ip/bonavita-enthusiast-cafetera-de-goteo-de-8-tazas-con-jarra-termica-panel-de-acero-inoxidable-de/00081006050079?athbdg=L1300",
-        "price": 6279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-programable-de-5-tazas-de-capacidad-con-filtro-reutilizable-funcion-pausa-y-servir-apagado-automatico-pantalla-led-jarra-con-medidas-color-negro-bvstdcp51/00046309775269?athbdg=L1300",
-        "price": 1760.0,
-        "model": "BVSTDCP51"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Gris con Panel Táctil y Funciones Automáticas para Espresso, Cappuccino y Latte Oster NA",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-gris-con-panel-tactil-y-funciones-automaticas-para-espresso-cappuccino-y-latte-oster-na/00005389116886",
-        "price": 8240.9,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAGOTEOTAZASPANEL": {
-    "ts": "2026-08-20T07:26:58.232196+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 715.08,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 912.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 868.52,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-22T07:49:33.537789+00:00",
+    "items": []
   },
   "amazon|ECF02BLUS": {
     "ts": "2026-08-20T08:08:32.235000+00:00",
@@ -34750,6 +33849,853 @@
   },
   "sams|OSTERCAFETERAACEROPANELTAZAS": {
     "ts": "2026-08-22T06:23:46.671217+00:00",
+    "items": []
+  },
+  "amazon|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
+    "ts": "2026-08-22T07:48:04.982142+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Caño compatible con/pieza de repuesto para exprimidor Smeg 694250071 CJF01",
+        "url": "https://www.amazon.com.mx/dp/B0CSTD9VHG",
+        "price": 854.17,
+        "model": "CJF01"
+      },
+      {
+        "store": "amazon",
+        "name": "Juego de repuesto de pieza de salida y sello de copa frontal para mantenimiento de exprimidores, para modelos de exprimidor HU9026 de 3ª generación y 19SGM en mantenimiento del hogar",
+        "url": "https://www.amazon.com.mx/dp/B0HDXSKFC9",
+        "price": 245.62,
+        "model": "HU9026"
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg SMTC01 Tagliolini accesorio, Plata",
+        "url": "https://www.amazon.com.mx/dp/B00ZAPU1YK",
+        "price": 2760.55,
+        "model": "SMTC01"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con SMEG accesorios para máquina de café | Reemplazo de la cubierta de la bandeja de goteo, funciona como bandeja for tazas",
+        "url": "https://www.amazon.com.mx/dp/B0GWF824SF",
+        "price": 887.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BJE200XL BJE510XL",
+        "url": "https://www.amazon.com.mx/dp/B0DB1KMSZK",
+        "price": 346.67,
+        "model": "BJE200XL"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto, extractor 7 aletas copa 24 oz | Compatible con IQ BN801 SS101 BL480-30 BL641.",
+        "url": "https://www.amazon.com.mx/dp/B0HDSMDJ7D",
+        "price": 506.6,
+        "model": "BL480-30"
+      },
+      {
+        "store": "amazon",
+        "name": "Pieza mezcladora exprimidora de conjunto de corte de cuchilla | Pieza de montaje de corte de cuchilla apta para licuadoras comerciales HR2095 HR2096 HR2097 HR2194 HR2195 HR2196",
+        "url": "https://www.amazon.com.mx/dp/B0HF8MKD4L",
+        "price": 182.09,
+        "model": "HR2095"
+      },
+      {
+        "store": "amazon",
+        "name": "For piezas de repuesto Extractor 7 aletas taza 24 oz | Compatible con A11R.",
+        "url": "https://www.amazon.com.mx/dp/B0HDS9458T",
+        "price": 770.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "For piezas de repuesto, extractor 7 aletas copa 24 oz",
+        "url": "https://www.amazon.com.mx/dp/B0HDSCK3JY",
+        "price": 719.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "WR02X30247 - Cafetera para nevera original WR01X28779, WR01X26387, WR01X24989, WR01X26292",
+        "url": "https://www.amazon.com.mx/dp/B0D24FF2XW",
+        "price": 2079.0,
+        "model": "WR02X30247"
+      },
+      {
+        "store": "amazon",
+        "name": "Batidor Especial Compatible Con CHEFTRONIC SM-966 SM-1086s SM-983s 1ud | Para SM-1086s/SM-986s/SM-1083s/SM-983s Batidor especial Acero inoxidable Fijación fácil",
+        "url": "https://www.amazon.com.mx/dp/B0HF19TGFV",
+        "price": 374.7,
+        "model": "SM-1086s/SM-986s/SM-1083s/SM-983s"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Commercial 990035800 - Embrague de goma",
+        "url": "https://www.amazon.com.mx/dp/B001E0DXXQ",
+        "price": 600.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
+    "ts": "2026-08-22T07:48:10.140468+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "COMBO CAFETERA + EXPRIMIDOR DE CITRICOS + TOSTADOR",
+        "url": "https://www.walmart.com.mx/ip/COMBO-CAFETERA-EXPRIMIDOR-DE-CITRICOS-TOSTADOR/00005087580552?athbdg=L1300",
+        "price": 1695.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
+        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502534?athbdg=L1300",
+        "price": 15433.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
+        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502537?athbdg=L1300",
+        "price": 15890.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, con crema Tritan Renew CFJ11CRUS",
+        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-con-crema-Tritan-Renew-CFJ11CRUS/00081289502337?athbdg=L1300",
+        "price": 6529.0,
+        "model": "CFJ11CRUS"
+      },
+      {
+        "store": "walmart",
+        "name": "Exprimidor de Citricos Smeg con Boquilla Antigoteo Negro",
+        "url": "https://www.walmart.com.mx/ip/Exprimidor-de-Citricos-Smeg-con-Boquilla-Antigoteo-Negro/00081289502081?athbdg=L1300",
+        "price": 6529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Blanco",
+        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-2-Rebanadas-Interfaz-Multifuncion-Color-Blanco/00081289502087",
+        "price": 7499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Verde Pastel",
+        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Verde-Pastel/00081289502117?athbdg=L1300",
+        "price": 7999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-2-Rebanadas-Interfaz-Multifuncion-Color-Negro/00081289502003?athbdg=L1300",
+        "price": 5059.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, negro",
+        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-negro/00081289502336?athbdg=L1300",
+        "price": 6509.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Crema",
+        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Crema/00081289502113",
+        "price": 7415.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, rojo",
+        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-rojo/00081289502342?athbdg=L1300",
+        "price": 4709.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Negro/00081289502115?athbdg=L1300",
+        "price": 5569.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
+    "ts": "2026-08-22T07:48:11.236210+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
+    "ts": "2026-08-22T07:48:16.816580+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Negra con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LPC1L",
+        "price": 1740.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 6369.09,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66JB886",
+        "price": 2694.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
+        "price": 3493.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
+        "price": 6369.09,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
+        "price": 3589.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
+    "ts": "2026-08-22T07:48:20.213228+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
+        "price": 3929.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
+        "price": 3369.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
+        "price": 4269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
+        "price": 4079.0,
+        "model": "Aeroccino3"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
+        "price": 4959.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
+        "price": 7139.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
+        "price": 3949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
+        "price": 5269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, Amarillo Mango",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-de-de-longhi-con-aeroccino-amarillo-mango/00004438700923?athbdg=L1300",
+        "price": 5379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
+        "price": 4099.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
+    "ts": "2026-08-22T07:48:20.987753+00:00",
+    "items": []
+  },
+  "amazon|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-22T07:48:55.203598+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "RongZy Pantalla LCD para Xiaomi Redmi 13C 23100RN82 (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0CW1MNWFS",
+        "price": 818.84,
+        "model": "23100RN82"
+      },
+      {
+        "store": "amazon",
+        "name": "Yodoit Pantalla para Xiaomi Redmi Note 7 / Redmi Note 7 Pro Display Negro, LCD Pantalla y Digitalizador Pantalla Táctil de Cristal Reemplazo con Herramienta 6.3 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B09J2C42WV",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Duotipa - visualización LCD de 6.7 pulgadas para Xiaomi Poco C65/Redmi 13C LCD de visualización táctil digitalizador de repuesto con juegos de herramientas, color negro",
+        "url": "https://www.amazon.com.mx/dp/B0DSW3LG4K",
+        "price": 395.35,
+        "model": "C65/Redmi"
+      },
+      {
+        "store": "amazon",
+        "name": "Sustitución de teléfonos móviles Pantalla LCD TFT para para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
+        "url": "https://www.amazon.com.mx/dp/B0FD36J575",
+        "price": 449.97,
+        "model": "10C/Redmi"
+      },
+      {
+        "store": "amazon",
+        "name": "Pantalla LCD IPS de repuesto para Xiaomi Redmi 14C con montaje de marco negro de 6.9 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F3VHXY7H",
+        "price": 423.96,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pantalla Digital LCD de Repuesto Compatible con Xiaomi Poco C75 / Redmi 14C (Negro con Marco) Pantalla LCD táctil digitalizador Montaje con Herramienta de reparación de 6,88 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F1FVSYGK",
+        "price": 544.91,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TFT LCD Screen For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 with Digitizer Full Assembly For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 Recambio",
+        "url": "https://www.amazon.com.mx/dp/B0HDB2SNHX",
+        "price": 337.35,
+        "model": "10C/para"
+      },
+      {
+        "store": "amazon",
+        "name": "Reemplazo para Xiaomi Redmi 10c visualización LCD con marco para redmi 220333QAG 220333QBI 220333QNY 220333QL LCD panel de visualización táctil digitalizador conjunto con kit de reparación",
+        "url": "https://www.amazon.com.mx/dp/B0DY67N78L",
+        "price": 474.93,
+        "model": "220333QAG"
+      },
+      {
+        "store": "amazon",
+        "name": "Pantalla LCD del teléfono Celular Pantalla LCD TFT para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
+        "url": "https://www.amazon.com.mx/dp/B0BLH5C1G2",
+        "price": 393.72,
+        "model": "10C/Redmi"
+      },
+      {
+        "store": "amazon",
+        "name": "A-MIND para Xiaomi Redmi 13C 4G/5G 6.7 pulgadas visualización LCD de repuesto de visualización táctil digitalizador con herramientas de reparación",
+        "url": "https://www.amazon.com.mx/dp/B0DYJD98HT",
+        "price": 477.67,
+        "model": "4G/5G"
+      },
+      {
+        "store": "amazon",
+        "name": "TFT LCD Screen For Xiaomi Redmi 10C/Redmi 10 India/Poco C40 with Digitizer Full Assembly For Xiaomi Redmi 10C/Redmi 10 India/Poco C40",
+        "url": "https://www.amazon.com.mx/dp/B0HCSV3D7Q",
+        "price": 337.77,
+        "model": "10C/Redmi"
+      },
+      {
+        "store": "amazon",
+        "name": "Reemplazo para Xiaomi Redmi Note 11 | Note 11s 4G | Poco M4 Pro 4G visualización LCD para Redmi Note11 Note11s 2201117TG 2201117SG 2201117PG visualización LCD táctil digitalizador Asamblea con kit de",
+        "url": "https://www.amazon.com.mx/dp/B0DDQB7FPB",
+        "price": 495.45,
+        "model": "2201117TG"
+      }
+    ]
+  },
+  "walmart|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-22T07:48:58.254588+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi A5 Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Negro-Telcel/00750622735931?athbdg=L1500",
+        "price": 1797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Negro-Telcel/00750622736050?athbdg=L1300",
+        "price": 4049.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 256GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Verde-Telcel/00750622736049?athbdg=L1300",
+        "price": 2789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-128GB-Negro-Telcel/00750622736044?athbdg=L1300",
+        "price": 2519.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Negro-Telcel/00750622735685?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Negro-Telcel/00750622736047?athbdg=L1300",
+        "price": 2789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi A5 Dorado Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Dorado-Telcel/00750622735933?athbdg=L1500",
+        "price": 1797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-128-GB-Negro-Telcel/00750622735649?athbdg=L1500",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Verde-Telcel/00750622735686?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Dorado-Telcel/00750622736052?athbdg=L1300",
+        "price": 4049.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15c-8gb-Ram-256gb-Midnight-Black/00693255444480",
+        "price": 3175.0,
+        "model": "256gb"
+      }
+    ]
+  },
+  "sams|XIAOMITELCELXIAOMIREDMILCD": {
+    "ts": "2026-08-22T07:48:58.966295+00:00",
+    "items": []
+  },
+  "amazon|SHOTGUNBICICLETAASIENTOSHOTGUN": {
+    "ts": "2026-08-22T07:49:02.468060+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Escopeta para niños – Combos de asiento de bicicleta infantil y manubrio – Montaje delantero, para niños de 2 a 5 años, se adapta a la mayoría de bicicletas de montaña modernas para adultos, ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0DXZ58CDX",
+        "price": 7139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kids Ride Shotgun - Combos de Asiento de Bicicleta Infantil y manubrio - Montaje Delantero, para niños de 2 a 5 años, se Adapta a la mayoría de Bicicletas de montaña Modernas para Adultos, Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B08J2F2PKY",
+        "price": 3184.35,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Accesorio para manubrio MTB para niños | Accesorio para el asiento de bicicleta de montaña de escopeta | Fácil montaje y extracción (manubrio de bicicleta para niños)",
+        "url": "https://www.amazon.com.mx/dp/B09T5KQCXT",
+        "price": 1779.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kids Ride Shotgun Accesorio de Manubrio MTB para Niños | Accesorio para el Asiento de Bicicleta de Montaña Shotgun | Fácil Instalación y Remoción (Manubrio de Bicicleta para Niños 2.0)",
+        "url": "https://www.amazon.com.mx/dp/B09TJQ9TBJ",
+        "price": 1066.18,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "FINYQBET Delantero Asiento para Bicicleta de Niños, Ajustable y Seguro con Reposabrazos Desmontable, Ideal para Bicicletas de Montaña y Plegables, Perfecto para Niños de 8 Meses a 6 Años",
+        "url": "https://www.amazon.com.mx/dp/B0D9LVYMRG",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Asiento de Bicicleta para Niños Reemplazo con Manillar, Asiento de Bicicleta Infantil Desmontable Montado en la Parte Delantera con Pedales para Niños de 2~5 Años",
+        "url": "https://www.amazon.com.mx/dp/B0C9GR5C4S",
+        "price": 771.63,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Asiento de bicicleta para niños, montado en la parte delantera y manubrio de bicicleta para niños, desmontable, montado en la parte delantera, asiento de bicicleta para niños, con pedal de barandilla",
+        "url": "https://www.amazon.com.mx/dp/B0GRFM3XRV",
+        "price": 841.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Raganet, Asiento de Bicicleta Comfort Sillín, Cojín Suave, Impermeable, Prostático y Compatible con Bicicletas De Montaña, Urbanas, Carreras y de Ejercicio, Unisex",
+        "url": "https://www.amazon.com.mx/dp/B0B2BNTPDT",
+        "price": 147.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Asiento de bicicleta para niños, montado en la parte delantera y manubrio de bicicleta para niños, asiento de bicicleta desmontable montado en la parte delantera con pedales de pie para niños de 2 a 5",
+        "url": "https://www.amazon.com.mx/dp/B0CYL9N6N9",
+        "price": 671.11,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Repuesto de Asiento de Bicicleta para NiñOs con Manillar, Sillín Frontal Universal Bicicleta para Niños 2-8 Años 35kg-Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F2HPY1V9",
+        "price": 599.99,
+        "model": "35kg-Negro"
+      },
+      {
+        "store": "amazon",
+        "name": "Asiento de bicicleta para niños montado en la parte delantera y manillar Asiento de bicicleta para niños desmontable Asientos de bicicleta para niños montados en la parte delantera Asientos de",
+        "url": "https://www.amazon.com.mx/dp/B0DZ5KHQS6",
+        "price": 707.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "FINYQBET Asiento para Bicicleta Niños Frontal con Reposapiés Abatibles y Reposabrazos Antideslizantes, Compatible con Bicicletas de Montaña y Plegables, Cómodo y Seguro para Bebés y Niños Pequeños",
+        "url": "https://www.amazon.com.mx/dp/B0DL5W2357",
+        "price": 479.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|SHOTGUNBICICLETAASIENTOSHOTGUN": {
+    "ts": "2026-08-22T07:49:24.800335+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Asiento Infantil para Bicicleta SHOTGUN Pro Montado al Frente Ajustable",
+        "url": "https://www.walmart.com.mx/ip/Asiento-Infantil-para-Bicicleta-SHOTGUN-Pro-Montado-al-Frente-Ajustable/00942103607199",
+        "price": 8649.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Asiento de bicicleta SHOTGUN Pro Combo de montaje delantero para niños de 2 a 5 años",
+        "url": "https://www.walmart.com.mx/ip/Asiento-de-bicicleta-SHOTGUN-Pro-Combo-de-montaje-delantero-para-ninos-de-2-a-5-anos/00942103607201",
+        "price": 9859.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Asiento de bicicleta infantil con soporte frontal tipo escopeta para niños de 2 a 5 años",
+        "url": "https://www.walmart.com.mx/ip/Asiento-de-bicicleta-infantil-con-soporte-frontal-tipo-escopeta-para-ninos-de-2-a-5-anos/00942103607083",
+        "price": 7029.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SHOTGUNBICICLETAASIENTOSHOTGUN": {
+    "ts": "2026-08-22T07:49:25.661188+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-22T07:49:37.055092+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera 12 Tazas con Sistema de Goteo Vortex, CM0916B | Filtro permanente con función mantener caliente y dispositivo de interrupción de colado",
+        "url": "https://www.amazon.com.mx/dp/B0CYQL7WXT",
+        "price": 346.0,
+        "model": "CM0916B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1450.58,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
+        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
+        "price": 1527.33,
+        "model": "CM2035B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
+        "price": 419.0,
+        "model": "BVSTDCP51B"
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-22T07:50:17.596856+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
+        "price": 458.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2075.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Eléctrica Automática CM003 de Goteo 1.8L (12 Tazas), Pantalla Táctil Programable, Temporizador 24h, Mantenimiento de Calor 120 Min, Incluye Filtro Permanente, Negro y Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-automatica-cm003-de-goteo-1-8l-12-tazas-pantalla-tactil-programable-temporizador-24h-mantenimiento-de-calor-120-min-incluye-filtro-permanente-negro-y-acero-inoxidable/00076283205603?athbdg=L6000",
+        "price": 1500.0,
+        "model": "CM003"
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Kenmore Cafetera de goteo de 12 tazas Filtro reutilizable Temporizador programable Pantalla digital Control de aroma Jarra de vidrio Filtro de agua de carbón Regular Negrita Acero inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-kenmore-cafetera-de-goteo-de-12-tazas-filtro-reutilizable-temporizador-programable-pantalla-digital-control-de-aroma-jarra-de-vidrio-filtro-de-agua-de-carbon-regular-negrita-acero-inoxidable/00005958664527?athbdg=L1300",
+        "price": 4107.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
+    "ts": "2026-08-22T07:50:18.351228+00:00",
     "items": []
   }
 }
