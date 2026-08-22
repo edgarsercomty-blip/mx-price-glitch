@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-22 04:52 UTC
+# Errores/chollos de precio — 2026-08-22 05:18 UTC
 
-- Productos revisados: **1633**
+- Productos revisados: **1672**
 - Umbral de diferencia: **20%**
-- Hallazgos: **43**
+- Hallazgos: **44**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -48,4 +48,5 @@
 | -20% | $620 | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | Confirmado vs competencia | $2,479 en liverpool vs mercado -> -20% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
-| -25% | $101 | amazon | [Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutiliz…](https://www.amazon.com.mx/dp/B0F8KF41L9) | $298 | Confirmado vs competencia | $298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia |
+| -20% | $46 | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $183 | Confirmado vs competencia | $183 en liverpool vs mercado -> -20% bajo la competencia |
+| -20% | $30 | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | Confirmado vs competencia | $119 en liverpool vs mercado -> -20% bajo la competencia |
