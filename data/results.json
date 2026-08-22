@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 10:14 UTC",
-  "products_scanned": 1577,
+  "generated_at": "2026-08-22 10:41 UTC",
+  "products_scanned": 1579,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,21 +90,24 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 2120.38,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
       "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
+      "model": null,
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
-      "extra": {}
+      "extra": {
+        "id": "42824648",
+        "outlet": false
+      }
     },
     {
       "kind": "cross_confirmed",
@@ -124,27 +127,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.7,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
         "outlet": false
       }
     },
