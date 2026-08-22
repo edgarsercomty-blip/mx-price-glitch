@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 21:13 UTC",
-  "products_scanned": 1651,
+  "generated_at": "2026-08-22 21:38 UTC",
+  "products_scanned": 1678,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,22 +27,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$383 en amazon vs amazon $617, amazon $733, amazon $1,053 -> -38% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
-      "savings": 234.09,
-      "store": "amazon",
-      "name": "Piezas de repuesto para licuadora Ninja Foodi Ultimate SS400 SS401 CO401B (disco de rallado)",
-      "url": "https://www.amazon.com.mx/dp/B0CW3T2PD2",
-      "price": 383.14,
-      "list_price": 127.71,
+      "savings": 1745.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
       "ean": null,
-      "model": "CO401B",
-      "brand": null,
+      "model": null,
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "asin": "B0CW3T2PD2"
+        "id": "43394466",
+        "outlet": false
       }
     },
     {
@@ -774,27 +775,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262439",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },

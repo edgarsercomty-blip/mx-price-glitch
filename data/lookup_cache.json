@@ -8576,533 +8576,6 @@
     "ts": "2026-08-22T21:12:54.697053+00:00",
     "items": []
   },
-  "amazon|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-20T21:19:06.790944+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nutribullet Combo Licuadora 1200W NBF505DG Color Gris Oscuro",
-        "url": "https://www.amazon.com.mx/dp/B0CQ3X16NH",
-        "price": 2799.0,
-        "model": "NBF505DG"
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet SmartSense™ Combo de licuadora - Gris plomizo",
-        "url": "https://www.amazon.com.mx/dp/B0DFDY78XQ",
-        "price": 2713.55,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet Combo Blender",
-        "url": "https://www.amazon.com.mx/dp/B0BRDJ28B7",
-        "price": 2626.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "nutribullet SmartSense Blender Combo, licuadora de 5 velocidades, 1400 vatios Blanco mate",
-        "url": "https://www.amazon.com.mx/dp/B0DHJMHW1G",
-        "price": 2550.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet Licuadora 1200W 64oz Mod. RNBF50500 - NEGRO RENOVADO",
-        "url": "https://www.amazon.com.mx/dp/B0BP9RP5RS",
-        "price": 2250.0,
-        "model": "RNBF50500"
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet® SmartSense Combo, 1400W, jarra de 64 onzas, tazas de 32 onzas y 24 onzas, 5 velocidades, batidos, hielo y frutas congeladas, leche de nueces, sopa, negro mate, NBF50700AK",
-        "url": "https://www.amazon.com.mx/dp/B0DHJHF1YP",
-        "price": 2550.0,
-        "model": "NBF50700AK"
-      },
-      {
-        "store": "amazon",
-        "name": "nutribullet Blender Jarra de 64 onzas",
-        "url": "https://www.amazon.com.mx/dp/B0846L8WZ7",
-        "price": 1178.69,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nutribullet Batidora Ultra Personal NB50500, 32 onzas, gris",
-        "url": "https://www.amazon.com.mx/dp/B0CBWD3PN7",
-        "price": 1740.0,
-        "model": "NB50500"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Nutri-Blender Personal 700W 2 Vasos 590ml Plateado BN300 | 700W Tritura Hielo y Congelados | 2 Vasos 590ml con Tapa para Llevar | Apto Lavavajillas",
-        "url": "https://www.amazon.com.mx/dp/B0828CYW88",
-        "price": 1349.99,
-        "model": "590ml"
-      },
-      {
-        "store": "amazon",
-        "name": "NutriBullet NBR-0601WM 600W Nutrient Extractor, 6pcs, Gray",
-        "url": "https://www.amazon.com.mx/dp/B07CTBHQZK",
-        "price": 1249.0,
-        "model": "NBR-0601WM"
-      },
-      {
-        "store": "amazon",
-        "name": "NutriBullet ZNBF30400Z - Batidora de batidora (1200 W, 1200 W), color gris oscuro",
-        "url": "https://www.amazon.com.mx/dp/B07VLHW2T8",
-        "price": 1879.0,
-        "model": "ZNBF30400Z"
-      },
-      {
-        "store": "amazon",
-        "name": "NutriBullet Special Edition Pro - Licuadora de 900 W (negro mate)",
-        "url": "https://www.amazon.com.mx/dp/B0BZK4TZJ2",
-        "price": 1641.91,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-20T21:19:22.726194+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Nutribullet SmartSense™ Combo de licuadora - Gris plomizo",
-        "url": "https://www.walmart.com.mx/ip/Nutribullet-SmartSense-Combo-de-licuadora-Gris-plomizo/00081009797568?athbdg=L6000",
-        "price": 5299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora NutriBullet NBR-1201 de alta velocidad, 600 W, 12 piezas, gris",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-NutriBullet-NBR-1201-de-alta-velocidad-600-W-12-piezas-gris/00089807800128?athbdg=L6000",
-        "price": 2619.0,
-        "model": "NBR-1201"
-      },
-      {
-        "store": "walmart",
-        "name": "Combo de batidora NutriBullet, cuchilla fácil de girar, 5 li NutriBullet NA",
-        "url": "https://www.walmart.com.mx/ip/Combo-de-batidora-NutriBullet-cuchilla-facil-de-girar-5-li-NutriBullet-NA/00081804902294?athbdg=L1300",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LICUADORA KIT Nutribullet 1200 V",
-        "url": "https://www.walmart.com.mx/ip/LICUADORA-KIT-Nutribullet-1200-V/00046807736038?athbdg=L1300",
-        "price": 2233.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema de licuadora NutriBullet NBR-1201 12 piezas gris 600 vatios",
-        "url": "https://www.walmart.com.mx/ip/Sistema-de-licuadora-NutriBullet-NBR-1201-12-piezas-gris-600-vatios/00750046527724?athbdg=L6000",
-        "price": 3499.0,
-        "model": "NBR-1201"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora NUTRIBULLET 600W gris",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-NUTRIBULLET-600W-gris/00800644700188?athbdg=L1300",
-        "price": 2633.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "NutriBullet Blender Combo Easy Twist Blade.2.3 kg, negro/acero inoxidable",
-        "url": "https://www.walmart.com.mx/ip/NutriBullet-Blender-Combo-Easy-Twist-Blade-2-3-kg-negro-acero-inoxidable/00046350146852?athbdg=L1300",
-        "price": 1692.19,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Sistema de Cocina NutriBullet Ultra Plus+ Licuadora 1200W",
-        "url": "https://www.walmart.com.mx/ip/Sistema-de-Cocina-NutriBullet-Ultra-Plus-Licuadora-1200W/00081009797705?athbdg=L1300",
-        "price": 4969.0,
-        "model": "1200W"
-      },
-      {
-        "store": "walmart",
-        "name": "Nutribullet NBF50700AW Combo Batidora Blanca Blanca",
-        "url": "https://www.walmart.com.mx/ip/Nutribullet-NBF50700AW-Combo-Batidora-Blanca-Blanca/00081009797570?athbdg=L6000",
-        "price": 5129.0,
-        "model": "NBF50700AW"
-      },
-      {
-        "store": "walmart",
-        "name": "NutriBullet Deluxe Upgrade Kit - Taza y Juego de Repuesto de la Cuchilla",
-        "url": "https://www.walmart.com.mx/ip/NutriBullet-Deluxe-Upgrade-Kit-Taza-y-Juego-de-Repuesto-de-la-Cuchilla/00076171016506?athbdg=L1300",
-        "price": 749.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nutribullet Combo de batidora de tamaño completo 1200W – Negro mate",
-        "url": "https://www.walmart.com.mx/ip/Nutribullet-Combo-de-batidora-de-tamano-completo-1200W-Negro-mate/00081009797105?athbdg=L1300",
-        "price": 2149.0,
-        "model": "1200W"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Magic Bullet RMBF10100WM 600W Combo",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Magic-Bullet-RMBF10100WM-600W-Combo/00081009797807",
-        "price": 850.0,
-        "model": "RMBF10100WM"
-      }
-    ]
-  },
-  "sams|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-20T21:19:27.143883+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
-        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
-        "price": 2499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Procesador de Alimentos Nutribullet nutribullet Personal Blender Pro + 1200 Negro",
-        "url": "https://www.sams.com.mx/ip/procesador-de-alimentos-nutribullet-nutribullet-personal-blender-pro-1200-negro/981031172",
-        "price": 1634.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja Smart Blender Profesional 2.1 L",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-smart-blender-profesional-2-1-l/980010912",
-        "price": 1941.65,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-        "price": 1941.65,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
-        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Audífonos Inalámbricos Stf  Hi-Tech On Ear Gris + Smartwatch",
-        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-hi-tech-on-ear-gris-smartwatch/981041404",
-        "price": 1226.57,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Whirlpool  CHWP3040SS Parrilla de 5 Quemadores y Campana Extractora de 76 cm Gris",
-        "url": "https://www.sams.com.mx/ip/combo-whirlpool-chwp3040ss-parrilla-de-5-quemadores-y-campana-extractora-de-76-cm-gris/981053255",
-        "price": 9205.98,
-        "model": "CHWP3040SS"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Armario AG Box  + Cajas Flexibles Gris AG-CW29N+AG-1027N",
-        "url": "https://www.sams.com.mx/ip/combo-armario-ag-box-cajas-flexibles-gris-ag-cw29n-ag-1027n/981041131",
-        "price": 1198.98,
-        "model": "AG-CW29N+AG-1027N"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone ZTE Axon 70 4G 256 GB Gris Telcel + Smartwatch",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-zte-axon-70-4g-256-gb-gris-telcel-smartwatch/981034362",
-        "price": 4090.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Backpack Cool Capital  Portalaptop Gris + Power Bank STF Viva 5000 mAh",
-        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-gris-power-bank-stf-viva-5000-mah/981053804",
-        "price": 953.46,
-        "model": null
-      }
-    ]
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T21:19:31.001016+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
-        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
-        "price": 10999.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
-        "price": 13499.0,
-        "model": "7-7730U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 14/ AMD Ryzen 5 40 / Radeon Graphics/ 14\" FHD/8GB / 512GB SSD/Incluye Mochila y Mouse/Garantía y Servicio con la Marca en México (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQVQV6NG",
-        "price": 8799.0,
-        "model": "FHD/8GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming A16 (2026) 144Hz / AMD Ryzen 7 /RTX 5060 (GDDR7) | 16GB RAM | 1TB SSD/Mochila Incluida/Teclado Español/ (Garantía y Servicio en México)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5HL9XB",
-        "price": 36708.74,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
-        "price": 13499.0,
-        "model": "7-7730U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 14/ AMD Ryzen 5 40 / Radeon Graphics/ 14\" FHD/8GB / 512GB SSD/Incluye Mochila y Mouse/Garantía y Servicio con la Marca en México (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQVQV6NG",
-        "price": 8799.0,
-        "model": "FHD/8GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Laptop de 15 pulgadas - Intel Core i5 120U Beat AMD Ryzen 7 4800U - 24GB RAM -1TB SSD -Pantalla FHD de 15.6- Windows 11 Office365 incluido - Computadora Portátil - Estudiantes",
-        "url": "https://www.amazon.com.mx/dp/B0FYDVR9D4",
-        "price": 15231.99,
-        "model": "Office365"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 15 - Portátil FHD de 15,6 Pulgadas, procesador AMD Ryzen 5 40 (hasta 4,3 GHz), 8 GB de RAM, SSD de 512 GB, gráficos Radeon, Fino y Ligero, Wi-Fi 6E, Bluetooth 5.3, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0GWM4DJ94",
-        "price": 8559.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 14 (2025)/ Ryzen 3 7320U/ AMD Radeon Graphics/ 8GB - 512GB SSD/Wi-Fi 5 + Bluetooth 5.1/ Teclado en Español (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
-        "price": 7399.0,
-        "model": "7320U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
-        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
-        "price": 25859.81,
-        "model": "M5406WA-AH94"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14 pulgadas Computadora Portátil - Intel Core i7-1355U Mejora AMD Ryzen 7 4700U - 24GB RAM - 1TB SSD - Windows 11 - Office 365 Un Año - Computadora Portátil para Estudiantes de Negocios",
-        "url": "https://www.amazon.com.mx/dp/B0FZ9X91H7",
-        "price": 18635.39,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
-        "model": "144Hz"
-      }
-    ]
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T21:19:35.421572+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
-        "price": 8629.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
-        "price": 8489.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
-        "price": 26634.65,
-        "model": "2880x1800"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
-        "price": 9129.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
-        "price": 13786.26,
-        "model": "D413UA-R78G512"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046373228812?athbdg=L1300",
-        "price": 10579.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046113099307?athbdg=L1300",
-        "price": 12499.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook L1404FA-NK286W R3 7320U 4 Nucleos 8G RAM 512G SSD Negra",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-l1404fa-nk286w-r3-7320u-4-nucleos-8g-ram-512g-ssd-negra/00019710524227?athbdg=L1300",
-        "price": 7999.0,
-        "model": "L1404FA-NK286W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook Go 15.6\" FHD Ryzen 5 7520U 8GB RAM 512GB SSD Windows 11 Color Cool Silver",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-ryzen-5-7520u-8gb-ram-512gb-ssd-windows-11-color-cool-silver/00019710545735?athbdg=L6000",
-        "price": 21180.0,
-        "model": "7520U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807?athbdg=L1300",
-        "price": 17999.0,
-        "model": "13900H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-amd-ryzen-5-150-8gb-ddr5-ssd-512gb-pantalla-15-6-ips-fhd-windows-11-teclado-espanol/00070452118646",
-        "price": 19999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop AI PC ASUS Vivobook 16 X1607QA Snapdragon X 16GB LPDDR5X 1TB SSD Pantalla 16\" IPS FHD+ Copilot+ PC NPU 45 TOPS Windows 11 Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ai-pc-asus-vivobook-16-x1607qa-snapdragon-x-16gb-lpddr5x-1tb-ssd-pantalla-16-ips-fhd-copilot-pc-npu-45-tops-windows-11-teclado-ingles/00070452118611?athbdg=L1300",
-        "price": 13499.0,
-        "model": "X1607QA"
-      }
-    ]
-  },
-  "sams|ASUSVIVOBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T21:19:39.160395+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
-        "price": 14627.87,
-        "model": "E1504FA-BQ5166W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
-        "price": 18412.98,
-        "model": "M1407KA-LY137W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
-        "price": 13297.98,
-        "model": "X1504VA-NJ2530W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
-        "price": 19435.96,
-        "model": "X1504MA-BQ353W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
-        "price": 8899.08,
-        "model": "E1404GA-NK136W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
-        "price": 15343.98,
-        "model": "D1605YA-MB470W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 14 Intel Core 7/16 GB RAM/512 GB SSD X1404VA-EB1684W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-14-intel-core-7-16-gb-ram-512-gb-ssd-x1404va-eb1684w/981055739",
-        "price": 22914.16,
-        "model": "X1404VA-EB1684W"
-      },
-      {
-        "store": "sams",
-        "name": "Monitor Portátil Asus  MB16AHVE",
-        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
-        "price": 2454.18,
-        "model": "MB16AHVE"
-      }
-    ]
-  },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
     "ts": "2026-08-20T21:47:47.202230+00:00",
     "items": [
@@ -32424,6 +31897,252 @@
         "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
         "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
         "price": 91.03,
+        "model": null
+      }
+    ]
+  },
+  "amazon|NUTRIBULLETLICUADORABLENDERGRISECOMBO": {
+    "ts": "2026-08-22T21:37:17.124671+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500 W, Vaso de Vidrio 2 L, iBlend | Tecnología Reversible, 3 Programas Automáticos: Smoothie, Triturar, Procesar, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
+        "price": 2071.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ULTRACHEF Licuadora Profesional 2000W, Vaso Tritán Resistente 1.8L | Trituradora de Hielo | Ideal para Smoothies, Jugos y Salsas, Velocidad Ajustable + Pulso, Libre de BPA, Negro",
+        "url": "https://www.amazon.com.mx/dp/B099CMX4GV",
+        "price": 1699.86,
+        "model": "2000W"
+      },
+      {
+        "store": "amazon",
+        "name": "7 Piezas de Repuesto Nutribullet con Aspas Nutribullet Original, Vaso Nutribullet Original 32 Oz y 24 Oz, Juntas de Goma, Sello Flip-Top y TapóN Sellador, Compatibles con Licuadoras 600w/900w.",
+        "url": "https://www.amazon.com.mx/dp/B0D5XMX16F",
+        "price": 539.09,
+        "model": "600w/900w"
+      },
+      {
+        "store": "amazon",
+        "name": "SANGKEE Batidora de Mano 4 en 1, Procesador de Alimentos Modo Turbo, 500 W | Velocidad variable, cuchillas de acero inoxidable, picadora 500 ml, vaso 700 ml, batidor de huevos, HHB1",
+        "url": "https://www.amazon.com.mx/dp/B0DFCCJS9M",
+        "price": 674.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Combo Licuadora 1200W NBF505DG Color Gris Oscuro",
+        "url": "https://www.amazon.com.mx/dp/B0CQ3X16NH",
+        "price": 2239.0,
+        "model": "NBF505DG"
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet SmartSense™ Combo de licuadora - Gris plomizo",
+        "url": "https://www.amazon.com.mx/dp/B0DFDY78XQ",
+        "price": 2824.41,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Licuadora 1200W 64oz Mod. RNBF50500 - NEGRO RENOVADO",
+        "url": "https://www.amazon.com.mx/dp/B0BP9RP5RS",
+        "price": 2250.0,
+        "model": "RNBF50500"
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Combo Blender",
+        "url": "https://www.amazon.com.mx/dp/B0BRDJ28B7",
+        "price": 2626.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Combo de batidora de tamaño completo 1200W – Negro mate",
+        "url": "https://www.amazon.com.mx/dp/B0BZQNYJQT",
+        "price": 2039.86,
+        "model": "1200W"
+      },
+      {
+        "store": "amazon",
+        "name": "nutribullet SmartSense Blender Combo, licuadora de 5 velocidades, 1400 vatios Blanco mate",
+        "url": "https://www.amazon.com.mx/dp/B0DHJMHW1G",
+        "price": 2550.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nutribullet Combo de batidora de tamaño completo 1200W – Blanco mate",
+        "url": "https://www.amazon.com.mx/dp/B0BZQPXV2L",
+        "price": 2268.03,
+        "model": "1200W"
+      },
+      {
+        "store": "amazon",
+        "name": "nutribullet Blender Jarra de 64 onzas",
+        "url": "https://www.amazon.com.mx/dp/B0846L8WZ7",
+        "price": 1214.39,
+        "model": null
+      }
+    ]
+  },
+  "walmart|NUTRIBULLETLICUADORABLENDERGRISECOMBO": {
+    "ts": "2026-08-22T21:38:07.532753+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Licuadora NutriBullet NBR-1201 de alta velocidad, 600 W, 12 piezas, gris",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-NutriBullet-NBR-1201-de-alta-velocidad-600-W-12-piezas-gris/00089807800128?athbdg=L6000",
+        "price": 2619.0,
+        "model": "NBR-1201"
+      },
+      {
+        "store": "walmart",
+        "name": "Combo de batidora NutriBullet, cuchilla fácil de girar, 5 li NutriBullet NA",
+        "url": "https://www.walmart.com.mx/ip/Combo-de-batidora-NutriBullet-cuchilla-facil-de-girar-5-li-NutriBullet-NA/00081804902294?athbdg=L1300",
+        "price": 689.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Sistema de licuadora NutriBullet NBR-1201 12 piezas gris 600 vatios",
+        "url": "https://www.walmart.com.mx/ip/Sistema-de-licuadora-NutriBullet-NBR-1201-12-piezas-gris-600-vatios/00750046527724?athbdg=L6000",
+        "price": 3499.0,
+        "model": "NBR-1201"
+      },
+      {
+        "store": "walmart",
+        "name": "LICUADORA KIT Nutribullet 1200 V",
+        "url": "https://www.walmart.com.mx/ip/LICUADORA-KIT-Nutribullet-1200-V/00046807736038?athbdg=L1300",
+        "price": 2233.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "NutriBullet Blender Combo Easy Twist Blade.2.3 kg, negro/acero inoxidable",
+        "url": "https://www.walmart.com.mx/ip/NutriBullet-Blender-Combo-Easy-Twist-Blade-2-3-kg-negro-acero-inoxidable/00046350146852?athbdg=L1300",
+        "price": 1692.19,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora NUTRIBULLET 600W gris",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-NUTRIBULLET-600W-gris/00800644700188?athbdg=L1300",
+        "price": 2412.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "NutriBullet Deluxe Upgrade Kit - Taza y Juego de Repuesto de la Cuchilla",
+        "url": "https://www.walmart.com.mx/ip/NutriBullet-Deluxe-Upgrade-Kit-Taza-y-Juego-de-Repuesto-de-la-Cuchilla/00076171016506?athbdg=L1300",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nutribullet Combo de batidora de tamaño completo 1200W – Negro mate",
+        "url": "https://www.walmart.com.mx/ip/Nutribullet-Combo-de-batidora-de-tamano-completo-1200W-Negro-mate/00081009797105?athbdg=L1300",
+        "price": 2230.0,
+        "model": "1200W"
+      },
+      {
+        "store": "walmart",
+        "name": "Nutribullet SmartSense™ Combo de licuadora - Gris plomizo",
+        "url": "https://www.walmart.com.mx/ip/Nutribullet-SmartSense-Combo-de-licuadora-Gris-plomizo/00081009797568?athbdg=L6000",
+        "price": 5299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora Magic Bullet RMBF10100WM 600W Combo",
+        "url": "https://www.walmart.com.mx/ip/Licuadora-Magic-Bullet-RMBF10100WM-600W-Combo/00081009797807",
+        "price": 850.0,
+        "model": "RMBF10100WM"
+      }
+    ]
+  },
+  "sams|NUTRIBULLETLICUADORABLENDERGRISECOMBO": {
+    "ts": "2026-08-22T21:38:15.421097+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Licuadora KitchenAid  Pure Power Blender + Jarra de Vidrio",
+        "url": "https://www.sams.com.mx/ip/combo-licuadora-kitchenaid-pure-power-blender-jarra-de-vidrio/981038334",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Procesador de Alimentos Nutribullet nutribullet Personal Blender Pro + 1200 Negro",
+        "url": "https://www.sams.com.mx/ip/procesador-de-alimentos-nutribullet-nutribullet-personal-blender-pro-1200-negro/981031172",
+        "price": 1634.75,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Ninja Smart Blender Profesional 2.1 L",
+        "url": "https://www.sams.com.mx/ip/licuadora-ninja-smart-blender-profesional-2-1-l/980010912",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
+        "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
+        "price": 1941.65,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
+        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Licuadora Oster  Clásica 1.25L Gris",
+        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
+        "price": 1020.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Audífonos Inalámbricos Stf  Hi-Tech On Ear Gris + Smartwatch",
+        "url": "https://www.sams.com.mx/ip/combo-audifonos-inalambricos-stf-hi-tech-on-ear-gris-smartwatch/981041404",
+        "price": 1226.57,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Armario AG Box  + Cajas Flexibles Gris AG-CW29N+AG-1027N",
+        "url": "https://www.sams.com.mx/ip/combo-armario-ag-box-cajas-flexibles-gris-ag-cw29n-ag-1027n/981041131",
+        "price": 1198.98,
+        "model": "AG-CW29N+AG-1027N"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Whirlpool  CHWP3040SS Parrilla de 5 Quemadores y Campana Extractora de 76 cm Gris",
+        "url": "https://www.sams.com.mx/ip/combo-whirlpool-chwp3040ss-parrilla-de-5-quemadores-y-campana-extractora-de-76-cm-gris/981053255",
+        "price": 9205.98,
+        "model": "CHWP3040SS"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone ZTE Axon 70 4G 256 GB Gris Telcel + Smartwatch",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-zte-axon-70-4g-256-gb-gris-telcel-smartwatch/981034362",
+        "price": 4090.97,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Backpack Cool Capital  Portalaptop Gris + Power Bank STF Viva 5000 mAh",
+        "url": "https://www.sams.com.mx/ip/combo-backpack-cool-capital-portalaptop-gris-power-bank-stf-viva-5000-mah/981053804",
+        "price": 953.46,
         "model": null
       }
     ]
