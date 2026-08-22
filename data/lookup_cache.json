@@ -7859,21 +7859,21 @@
     "items": []
   },
   "amazon|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T10:03:39.263716+00:00",
+    "ts": "2026-08-22T10:13:43.294635+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
-        "price": 16499.0,
-        "model": null
+        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
+        "price": 10999.0,
+        "model": "RAM/512GB"
       },
       {
         "store": "amazon",
-        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
-        "price": 22999.0,
-        "model": "TOPS/24GB"
+        "name": "ASUS Expertbook P5/ 14\"/Intel Core Ultra 5/16GB - 512SSD/Lector de Huellas/Teclado retroiluminado en Español con tecla Copilot (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0DLXWNDBW",
+        "price": 24802.0,
+        "model": "512SSD/Lector"
       },
       {
         "store": "amazon",
@@ -7884,17 +7884,24 @@
       },
       {
         "store": "amazon",
+        "name": "ASUS ROG Strix G16 AMD Ryzen™ 9 8940HX/NVIDIA® GeForce RTX™ 5050/ 16GB/ 512GB SSD/Teclado Retroiluminado de 4 Zonas/Garantia con la Marca en Mexico",
+        "url": "https://www.amazon.com.mx/dp/B0FLF9YSGF",
+        "price": 28799.0,
+        "model": "8940HX/NVIDIA"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
+        "price": 22999.0,
+        "model": "TOPS/24GB"
+      },
+      {
+        "store": "amazon",
         "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
         "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
         "price": 18999.0,
         "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook 14 Laptop, pantalla táctil OLED WUXGA de 14\", AMD Ryzen 7 8840HS de 8 núcleos, gráficos AMD Radeon, 16GB LPDDR5, 512GB SSD, teclado retroiluminado, Wi-Fi 6E, cámara 1080p, Win11 Home, USB",
-        "url": "https://www.amazon.com.mx/dp/B0D2NXV7X5",
-        "price": 23227.98,
-        "model": "8840HS"
       },
       {
         "store": "amazon",
@@ -7905,27 +7912,6 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Zenbook S 16 Edición Ceraluminum Ryzen AI 9 465/50 TOPS/16 3K OLED /32GB /1TB SSD/+ Funda/Garantía y Servicio con la Marca en México",
-        "url": "https://www.amazon.com.mx/dp/B0GQJTC2RZ",
-        "price": 36999.0,
-        "model": "TOPS/16"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook 15 Business Slim Laptop, 15.6\" FHD 100% sRGB, AMD Ryzen 5 7535U, teclado retroiluminado, Wi-Fi 6E, USB C, Windows 11 Home, con paño (16 GB LPDDR5 RAM | 2 TB SSD)",
-        "url": "https://www.amazon.com.mx/dp/B0DP9NKV3T",
-        "price": 21419.99,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook 14 Laptop - AMD Ryzen 5-8GB RAM - NVIDIA GEFORCE MX350-256GB SSD - Win 10, gris claro",
-        "url": "https://www.amazon.com.mx/dp/B08C81JT39",
-        "price": 14853.11,
-        "model": "MX350-256GB"
-      },
-      {
-        "store": "amazon",
         "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
         "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
         "price": 13499.0,
@@ -7933,10 +7919,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Vivobook S 14 OLED Slim Laptop AMD Ryzen AI 9 365 (10 núcleos), 24 GB, 1 TB SSD, Teclado RGB Personalizable, Plata fría, M5406WA-AH94",
-        "url": "https://www.amazon.com.mx/dp/B0CX1GF3RF",
-        "price": 26134.49,
-        "model": "M5406WA-AH94"
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16499.0,
+        "model": null
       },
       {
         "store": "amazon",
@@ -7944,11 +7930,25 @@
         "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
         "price": 7399.0,
         "model": "7320U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 20599.0,
+        "model": "144Hz"
       }
     ]
   },
   "walmart|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T10:04:13.991730+00:00",
+    "ts": "2026-08-22T10:13:47.824038+00:00",
     "items": [
       {
         "store": "walmart",
@@ -7959,10 +7959,31 @@
       },
       {
         "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
         "name": "Laptop ASUS Zenbook 14: Intel Core Ultra 5 125H, RAM 8GB LPDDR5, SSD 1TB, Pantalla 14\" LED Multi-Touch, Windows 11 Home",
         "url": "https://www.walmart.com.mx/ip/laptop-asus-zenbook-14-intel-core-ultra-5-125h-ram-8gb-lpddr5-ssd-1tb-pantalla-14-led-multi-touch-windows-11-home/00073538025051?athbdg=L1300",
-        "price": 21199.0,
+        "price": 20499.0,
         "model": "LPDDR5"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
+        "price": 26634.65,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
+        "price": 13786.26,
+        "model": "D413UA-R78G512"
       },
       {
         "store": "walmart",
@@ -7973,9 +7994,9 @@
       },
       {
         "store": "walmart",
-        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
-        "price": 8489.0,
+        "name": "Laptop Gamer ASUS TUF A16:  Ryzen 7 170 (hasta 4.75 GHz), Memoria de 16GB DDR5, SSD de 512GB, Pantalla de 16\" LED (1920 x 1200), GeForce RTX 4050, Windows 11 Home.",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-a16-ryzen-7-170-hasta-4-75-ghz-memoria-de-16gb-ddr5-ssd-de-512gb-pantalla-de-16-led-1920-x-1200-geforce-rtx-4050-windows-11-home-/00019929140666?athbdg=L1300",
+        "price": 18839.0,
         "model": "512GB"
       },
       {
@@ -7987,38 +8008,10 @@
       },
       {
         "store": "walmart",
-        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
-        "price": 26634.65,
-        "model": "2880x1800"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
-        "price": 9129.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
         "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 8GB 512GB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
         "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-8gb-512gb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919490696?athbdg=L1300",
         "price": 11999.0,
         "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS ExpertBook P1 14\" FHD Ryzen 5 150 16GB 1TB SSD Windows 11 Pro Wi-Fi 6 Misty Grey - Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-expertbook-p1-14-fhd-ryzen-5-150-16gb-1tb-ssd-windows-11-pro-wi-fi-6-misty-grey-espanol/00046919488876?athbdg=L1300",
-        "price": 16699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
-        "price": 13786.26,
-        "model": "D413UA-R78G512"
       },
       {
         "store": "walmart",
@@ -8029,101 +8022,23 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop IA Gamer ASUS TUF Gaming A16 GeForce RTX 5060 8GB Ryzen 7 260 NPU 16GB DDR5 1TB SSD Pantalla 16\" IPS FHD+ 165Hz Windows 11 Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ia-gamer-asus-tuf-gaming-a16-geforce-rtx-5060-8gb-ryzen-7-260-npu-16gb-ddr5-1tb-ssd-pantalla-16-ips-fhd-165hz-windows-11-teclado-ingles/00070452118661?athbdg=L1300",
-        "price": 32899.0,
-        "model": "165Hz"
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ROG Strix G16 GeForce RTX 5070 Ryzen 9 8940HX 16GB DDR5 SSD 1TB 16\" Teclado Ingles Gaming Competitivo",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-strix-g16-geforce-rtx-5070-ryzen-9-8940hx-16gb-ddr5-ssd-1tb-16-teclado-ingles-gaming-competitivo/00019929113346?athbdg=L1300",
+        "price": 41899.0,
+        "model": "8940HX"
       }
     ]
   },
   "sams|ASUSZENBOOKLAPTOPRYZENSSD": {
-    "ts": "2026-08-20T10:04:18.160428+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fc0377la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fc0377la/981050997",
-        "price": 14320.98,
-        "model": "15-fc0377la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905",
-        "price": 13297.98,
-        "model": "15-fc0276la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Zenbook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD UM3406KA-QD096W + Funda",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-zenbook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-um3406ka-qd096w-funda/981035880",
-        "price": 23016.48,
-        "model": "UM3406KA-QD096W"
-      },
-      {
-        "store": "sams",
-        "name": "Monitor Portátil Asus  MB16AHVE",
-        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
-        "price": 2454.18,
-        "model": "MB16AHVE"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
-        "price": 23016.48,
-        "model": "FA607NU-RL110W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
-        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
-        "price": 23527.98,
-        "model": "15-fb3021la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
-        "price": 30688.95,
-        "model": "FA607NUQ-RL044W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
-        "price": 13809.48,
-        "model": "15-fc0253la"
-      }
-    ]
+    "ts": "2026-08-22T10:13:48.779526+00:00",
+    "items": []
   },
   "amazon|RAM128": {
     "ts": "2026-08-20T10:49:04.249356+00:00",
@@ -34845,6 +34760,132 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARRAZRRAM": {
     "ts": "2026-08-22T09:46:04.826489+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-22T10:14:07.978207+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino profesional integradro, Jarra de vidrio 12 tazas, Tolva para almacenar 250 g sellada, Programable 24 horas",
+        "url": "https://www.amazon.com.mx/dp/B079NM2ZYN",
+        "price": 3799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino de cuchillas integrado, Programable 24 horas, Función Grind OFF para café molido, Apagado automático",
+        "url": "https://www.amazon.com.mx/dp/B08DCK4MPV",
+        "price": 2659.26,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
+        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
+        "price": 4899.0,
+        "model": "BVSTEM680R"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
+        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
+        "price": 4259.0,
+        "model": "BVSTEM6801M"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
+        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
+        "price": 745.69,
+        "model": "BVSTDCP121M"
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-22T10:14:13.880298+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
+        "price": 10555.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
+        "price": 399.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTOUCHGOTEO": {
+    "ts": "2026-08-22T10:14:14.365601+00:00",
     "items": []
   }
 }
