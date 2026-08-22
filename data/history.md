@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (917)
+# Historial de ofertas encontradas (918)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-22 22:40 | -68% | liverpool | [Licuadora Oster Blstpeg Cpb 6 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpeg-cpb-6-velocidades/1133854084) | $617 | $617 en liverpool vs mercado -> -68% bajo la competencia |
 | 2026-08-22 21:54 | -25% | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 5…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | $7,746 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-22 15:26 | -20% | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata …](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,769 | $4,769 en mercadolibre vs mercado -> -20% bajo la competencia |
 | 2026-08-22 15:26 | -21% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 13:29 | -23% | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 G…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $23,939 | $23,939 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-07-30 13:29 | -41% | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $12,220 | $12,220 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-30 11:47 | -20% | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | $360 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 11:47 | -25% | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
