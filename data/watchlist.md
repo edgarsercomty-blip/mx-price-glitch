@@ -564,7 +564,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Funda Para Almohada Ribbed](https://www.liverpool.com.mx/tienda/pdp/funda-para-almohada-ribbed/1172986773) | $68 | -33% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QNED 4K 85QNED81BSG](https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-4k-85qned81bsg-45505430.html) | $26,460 | -34% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount de 520 Litros Black Stainless RMB5…](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html) | $14,640 | -20% |
-| 🟢 disponible | amazon | [Piezas de repuesto para licuadora Ninja Foodi Ultimate SS400…](https://www.amazon.com.mx/dp/B0CW3T2PD2) | $384 | -38% |
+| 🟢 disponible | amazon | [Piezas de repuesto para licuadora Ninja Foodi Ultimate SS400…](https://www.amazon.com.mx/dp/B0CW3T2PD2) | $383 | -38% |
 | 🟢 disponible | sams | [Consola Retro de Videojuego Portátil My Arcade Sega Sonic Th…](https://www.sams.com.mx/ip/consola-retro-de-videojuego-portatil-my-arcade-sega-sonic-the-hedgehog-dgunl-7157/981046326) | $408 | -74% |
 | 🟢 disponible | amazon | [NIVEA Creme (200ml), crema humectante de larga duración para…](https://www.amazon.com.mx/dp/B00558FIBS) | $76 | -58% |
 | 🟢 disponible | sams | [Licuadora Personal Koblenz  MSKM-600 2PS](https://www.sams.com.mx/ip/licuadora-personal-koblenz-mskm-600-2ps/981039640) | $444 | -46% |
