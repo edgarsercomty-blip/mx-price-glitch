@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (901)
+# Historial de ofertas encontradas (907)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-22 02:23 | -27% | mercadolibre | [Consola Microsoft Xbox Series X 2TB Galaxy Black Edició…](https://www.mercadolibre.com.mx/consola-microsoft-xbox-series-x-2tb-galaxy-black-edicion-especial-con-control-inalambrico-negro-y-wi-fi/p/MLM54551840) | $21,998 | $21,998 en mercadolibre vs mercado -> -27% bajo la competencia |
+| 2026-08-22 02:23 | -27% | amazon | [Calvin Klein Charie para Mujer](https://www.amazon.com.mx/dp/B0DJ9KYKCJ) | $754 | $754 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-08-22 02:23 | -32% | amazon | [Sabritas Churrumais con Limoncito Sabor a Chile y Limón…](https://www.amazon.com.mx/dp/B08JTQZTQ5) | $32 | $32 en amazon vs mercado -> -32% bajo la competencia |
+| 2026-08-22 02:23 | -33% | amazon | [PUMA Pounce Lite](https://www.amazon.com.mx/dp/B0D1YLWQQ1) | $952 | $952 en amazon vs mercado -> -33% bajo la competencia |
+| 2026-08-22 02:23 | -21% | walmart | [Lavadora Mabe 18 kg Blanca LMA78112CBAB0 Carga Superior](https://www.walmart.com.mx/ip/lavadora-mabe-18-kg-blanca-lma78112cbab0-carga-superior/00075763836026?athbdg=L1510) | $6,914 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,914 (estaba agotado) |
+| 2026-08-22 02:23 | -21% | walmart | [Lavadora Mabe 16 Kg Blanca](https://www.walmart.com.mx/ip/lavadora-mabe-16-kg-blanca/00075763896944?athbdg=L1300) | $6,799 | 🔁 DE NUEVO DISPONIBLE en walmart: $6,799 (estaba agotado) |
 | 2026-08-21 20:16 | -27% | sams | [Cafetera Nespresso  Vertuo Pop Titan](https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781) | $1,964 | $1,964 en sams vs palacio $2,694, sams $3,474 -> -27% bajo la competencia |
 | 2026-08-21 15:37 | -24% | walmart | [Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto…](https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285) | $85 | $85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia |
 | 2026-08-21 15:37 | -26% | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | $23,597 en palacio vs mercado -> -26% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 09:48 | -29% | palacio | [Celular Oppo Reno13 F, 256 GB, RAM 12 GB Gris, Desbloqu…](https://www.elpalaciodehierro.com/oppo-celular-oppo-reno13-f-256-gb-ram-12-gb-gris-desbloqueado-44506346.html) | $5,000 | $5,000 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-07-30 09:48 | -60% | palacio | [Pantalla 65 Pulgadas Plana Crystal UHD 4K Tizen Smart T…](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-uhd-4k-tizen-smart-tv-du7010-un65du7010fxzx-44108204.html) | $6,571 | $6,571 en palacio vs mercado -> -60% bajo la competencia |
 | 2026-07-30 03:54 | -21% | liverpool | [Refrigerador Top Mount Samsung 19 Pies Cubicos Inverter…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-samsung-19-pies-cubicos-inverter-y-fabrica-de-hielos-rt53dg6798b1em/1148831471) | $14,107 | $14,107 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-29 15:45 | -21% | liverpool | [Apple Iphone 13 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-13-6-1-pulgadas-super-retina-xdr/1111323971) | $7,499 | $7,499 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-29 13:49 | -25% | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 1…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $28,499 | $28,499 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-29 11:48 | -43% | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 75 Pulgadas 4K…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-75-pulgadas-4k-un75u8200ffxzx/1176864318) | $11,998 | $11,998 en liverpool vs mercado -> -43% bajo la competencia |
-| 2026-07-29 09:25 | -40% | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | $6,329 en liverpool vs mercado -> -40% bajo la competencia |
-| 2026-07-29 00:11 | -36% | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $2,099 | $2,099 en liverpool vs mercado -> -36% bajo la competencia |
-| 2026-07-28 23:17 | -36% | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Cele…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | $4,471 en liverpool vs mercado -> -36% bajo la competencia |
