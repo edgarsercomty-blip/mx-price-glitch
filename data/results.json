@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 20:12 UTC",
-  "products_scanned": 1625,
+  "generated_at": "2026-08-22 20:41 UTC",
+  "products_scanned": 1684,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -108,24 +108,6 @@
         "id": "45650688",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2120.38,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -839,27 +821,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
