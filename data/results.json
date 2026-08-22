@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21 23:57 UTC",
-  "products_scanned": 1637,
+  "generated_at": "2026-08-22 01:01 UTC",
+  "products_scanned": 1631,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -84,6 +84,27 @@
       "available": true,
       "currency": "MXN",
       "extra": {}
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
+        "outlet": false
+      }
     },
     {
       "kind": "cross_confirmed",
