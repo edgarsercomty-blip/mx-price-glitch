@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 15:52 UTC",
-  "products_scanned": 1683,
+  "generated_at": "2026-08-22 16:13 UTC",
+  "products_scanned": 1628,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -108,24 +108,6 @@
         "id": "45650688",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2120.38,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -251,6 +233,26 @@
       "extra": {
         "id": "45241138",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$388 en amazon vs amazon $540, amazon $540, amazon $1,602 -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 151.82,
+      "store": "amazon",
+      "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
+      "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
+      "price": 388.44,
+      "list_price": 129.48,
+      "ean": null,
+      "model": "CO905KS",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0GSXY99RP"
       }
     },
     {
@@ -818,27 +820,6 @@
       "extra": {
         "productId": "1105905200",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
       }
     },
     {

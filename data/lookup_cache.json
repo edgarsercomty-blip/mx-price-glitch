@@ -4595,7 +4595,7 @@
     "items": []
   },
   "amazon|CO905KS": {
-    "ts": "2026-08-20T15:54:56.026426+00:00",
+    "ts": "2026-08-22T16:12:59.925251+00:00",
     "items": [
       {
         "store": "amazon",
@@ -4603,13 +4603,6 @@
         "url": "https://www.amazon.com.mx/dp/B0D9WV919N",
         "price": 2679.0,
         "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Detect Pro Sistema de Cocina BlendSense 1800W Plata TB401LAA | BlendSense Ajusta Velocidad Solo | Jarra + Procesador + Vaso Personal | 1800W | 1 Toque",
-        "url": "https://www.amazon.com.mx/dp/B0F35QN76L",
-        "price": 4199.0,
-        "model": "TB401LAA"
       },
       {
         "store": "amazon",
@@ -4622,22 +4615,22 @@
         "store": "amazon",
         "name": "Ninja Detect Pro Sistema de Cocina BlendSense 1800W Plata TB401LAA | BlendSense Ajusta Velocidad Solo | Jarra + Procesador + Vaso Personal | 1800W | 1 Toque",
         "url": "https://www.amazon.com.mx/dp/B0F35QN76L",
-        "price": 4199.0,
+        "price": 3890.0,
         "model": "TB401LAA"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (jarra 88 onzas)",
+        "url": "https://www.amazon.com.mx/dp/B0GG63FKFL",
+        "price": 2027.26,
+        "model": "CO905KS"
       },
       {
         "store": "amazon",
         "name": "Hukën x MasterChef | Sistema de Cocina Chef Deluxe | 650W de Potencia | Más de 10 Accesorios para Licuar, Triturar, Rebanar y Más | Panel Digital | Acabados de Acero Inoxidable",
         "url": "https://www.amazon.com.mx/dp/B0F14ZXFZQ",
-        "price": 2993.27,
+        "price": 2992.42,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (Recipiente 72 oz / 2.1 L)",
-        "url": "https://www.amazon.com.mx/dp/B0GG5XXQLG",
-        "price": 2052.39,
-        "model": "CO905KS"
       },
       {
         "store": "amazon",
@@ -4648,50 +4641,50 @@
       },
       {
         "store": "amazon",
-        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (jarra 88 onzas)",
-        "url": "https://www.amazon.com.mx/dp/B0GG63FKFL",
-        "price": 2022.5,
+        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
+        "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
+        "price": 388.44,
         "model": "CO905KS"
       },
       {
         "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
-        "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
-        "price": 539.6,
+        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (Recipiente 72 oz / 2.1 L)",
+        "url": "https://www.amazon.com.mx/dp/B0GG5XXQLG",
+        "price": 2047.0,
         "model": "CO905KS"
       },
       {
         "store": "amazon",
         "name": "Base de motor original de repuesto de 1600 vatios compatible con Ninja Costco CO905KS Deluxe Blender",
         "url": "https://www.amazon.com.mx/dp/B0H351DFVK",
-        "price": 1612.06,
+        "price": 1602.03,
         "model": "CO905KS"
       },
       {
         "store": "amazon",
-        "name": "MASTERBLEND Licuadora Profesional Digital Uso Rudo Cocina MBK25DC, 2.2 Caballos/1680W, 24,000 RPM, Vaso 2.5 Litros, Cuchillas Acero Inoxidable, Anti Ruido, Memorias programables, Temporizador.",
-        "url": "https://www.amazon.com.mx/dp/B0D7L343XZ",
-        "price": 9899.0,
-        "model": "Caballos/1680W"
+        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
+        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
+        "price": 1699.0,
+        "model": "9500W"
       },
       {
         "store": "amazon",
-        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Ninja Costco CO905KS Deluxe (Eje)",
-        "url": "https://www.amazon.com.mx/dp/B0GSYBTLG4",
-        "price": 675.49,
+        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
+        "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
+        "price": 540.26,
         "model": "CO905KS"
       },
       {
         "store": "amazon",
-        "name": "Ninja Nutri-Blender Pro 1000W 2 Auto-iQ Pro Extractor Plata BN401 | Pro Extractor Blades Extrae más Nutrientes | 2 Auto-iQ | Boquilla sin Derrames | Recetario Incluido",
-        "url": "https://www.amazon.com.mx/dp/B08QXJ31WR",
-        "price": 1814.87,
-        "model": "1000W"
+        "name": "Repuesto original de 6 cuchillas apiladas compatibles con Ninja Costco CO905KS",
+        "url": "https://www.amazon.com.mx/dp/B0GSXZX6X1",
+        "price": 540.26,
+        "model": "CO905KS"
       }
     ]
   },
   "sams|CO905KS": {
-    "ts": "2026-08-20T15:55:01.888588+00:00",
+    "ts": "2026-08-22T16:13:01.336084+00:00",
     "items": []
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
@@ -8944,275 +8937,8 @@
     "ts": "2026-08-22T15:27:33.779419+00:00",
     "items": []
   },
-  "amazon|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-20T15:54:40.469441+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Gris carbón ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7SQYP",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Negro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6XXYT",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6L543",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Mini (A17 Pro) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0DK3XNMJC",
-        "price": 1299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7243Q",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (M4) - Negro ​​​​​​​ | Folio magnético con soporte ajustable para ver, escribir y proteger",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7M6X3",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 11 Pulgadas (M2) - Color Salvia ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J5ZKXZ",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 13 Pulgadas (M4) - Azul Denim ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J7739F",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Keyboard Folio - Funda para iPad Pro de 11-inch , color negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08HKJVPW9",
-        "price": 2761.43,
-        "model": "11-inch"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Air de 13 Pulgadas (M2) - Morado Claro ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0D3J6WJSW",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JETech Funda Magnética para iPad Pro 12.9\" 6/5/4/3, Negro | Para 2022/2021/2020/2018 Modelo, Diseño Inteligente Slim, Pencil 2.ª Carga, Activación/Reposo Automático, Carcasa Ligera",
-        "url": "https://www.amazon.com.mx/dp/B07MX9LSNN",
-        "price": 449.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Smart Folio para el iPad Pro de 11 Pulgadas (cuarta generación) - Azul mar ​​​​​​​",
-        "url": "https://www.amazon.com.mx/dp/B0BJLJHD3L",
-        "price": 1034.49,
-        "model": null
-      }
-    ]
-  },
-  "walmart|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-20T15:54:47.381367+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 13 pulgadas (M4) - Negro",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-13-pulgadas-m4-negro/00019594943877?athbdg=L1300",
-        "price": 2469.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio (para iPad�Pro de 11 Pulgadas - 2.ª Generación y iPad Air 4.ª Generación) - Rosa Cítrico",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-11-pulgadas-2-generacion-y-ipad-air-4-generacion-rosa-citrico/00019425208724?athbdg=L1300",
-        "price": 1169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio para iPad Pro de 12,9\" blanco",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-12-9-blanco/00019425243859?athbdg=L1300",
-        "price": 1409.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4) - Blanco",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-blanco/00019594943865?athbdg=L1300",
-        "price": 2019.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio Para Ipad Pro De 13 Pulgadas (M4) - Mezclilla",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-pro-de-13-pulgadas-m4-mezclilla/00019594943880?athbdg=L1300",
-        "price": 2339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Pro de 11 pulgadas (M4), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-pro-de-11-pulgadas-m4-color-vaquero/00019594943871?athbdg=L1300",
-        "price": 2369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Smart Folio de Apple para iPad Pro de 11\" blanca",
-        "url": "https://www.walmart.com.mx/ip/funda-smart-folio-de-apple-para-ipad-pro-de-11-blanca/00019425243844?athbdg=L1300",
-        "price": 2379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Funda Tipo Folio con Teclado Inalámbrico Desmontable Magnéticamente, Retroiluminación Arcoíris de 7 Colores, Delgada, con Soporte para Apple Pencil, Compatible con iPad Pro de 11 Pulgadas (M5 2025 /",
-        "url": "https://www.walmart.com.mx/ip/funda-tipo-folio-con-teclado-inalambrico-desmontable-magneticamente-retroiluminacion-arcoiris-de-7-colores-delgada-con-soporte-para-apple-pencil-compatible-con-ipad-pro-de-11-pulgadas-m5-2025-/00077788620516",
-        "price": 875.82,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad (décima generación) Watermelon",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-decima-generacion-watermelon/00019425347761?athbdg=L1300",
-        "price": 1169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "n4A For iPad Pro 11 (2024) Leather Case Tree Pattern Folio Stand d7M Smart Tablet Cover -",
-        "url": "https://www.walmart.com.mx/ip/n4a-for-ipad-pro-11-2024-leather-case-tree-pattern-folio-stand-d7m-smart-tablet-cover-/00322241394319",
-        "price": 672.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smart Folio Apple para iPad Air de 13 pulgadas (M2), color vaquero",
-        "url": "https://www.walmart.com.mx/ip/smart-folio-apple-para-ipad-air-de-13-pulgadas-m2-color-vaquero/00019594943898?athbdg=L1300",
-        "price": 2339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Smart Folio para iPad Air de 10,9 pulgadas (4.ª y 5.ª generación), color verde",
-        "url": "https://www.walmart.com.mx/ip/apple-smart-folio-para-ipad-air-de-10-9-pulgadas-4-y-5-generacion-color-verde/00019425243838?athbdg=L1300",
-        "price": 1349.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEIPADPROSMARTFOLIO": {
-    "ts": "2026-08-20T15:54:52.064353+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-azul/981034971",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Amarillo",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-amarillo/981034972",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 128 GB Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-128-gb-azul/981034970",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Amarillo",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-amarillo/981034973",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi Apple  11\" A16 256 GB Rosa",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-apple-11-a16-256-gb-rosa/981034976",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  13\" M3 512 GB WiFi Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-512-gb-wifi-azul/981035007",
-        "price": 24747.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad WiFi + Cellular Apple  11\" A16 256 GB Plata",
-        "url": "https://www.sams.com.mx/ip/ipad-wifi-cellular-apple-11-a16-256-gb-plata/981034979",
-        "price": 13497.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  11\" M3 128 GB WiFi Azul",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-11-m3-128-gb-wifi-azul/981034996",
-        "price": 13497.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  11\" M3 256 GB WiFi Morado",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-11-m3-256-gb-wifi-morado/981034988",
-        "price": 15747.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  13\" M3 128 GB WiFi Morado",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-128-gb-wifi-morado/981035003",
-        "price": 17997.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  13\" M3 512 GB WiFi Morado",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-13-m3-512-gb-wifi-morado/981035001",
-        "price": 24747.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPad Air Apple  11\" M3 128 GB WiFi Morado",
-        "url": "https://www.sams.com.mx/ip/ipad-air-apple-11-m3-128-gb-wifi-morado/981034991",
-        "price": 13497.0,
-        "model": null
-      }
-    ]
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-20T16:02:43.962790+00:00",
+    "ts": "2026-08-22T16:13:08.455793+00:00",
     "items": [
       {
         "store": "amazon",
@@ -9232,29 +8958,8 @@
         "store": "amazon",
         "name": "Samsung Galaxy A17 4G, 128GB, 4GB Ram, Pantalla Super Amoled 6.7\", Triple C?mara 50MP, 5000mAh, Gris",
         "url": "https://www.amazon.com.mx/dp/B0FRNCQ2CL",
-        "price": 3012.0,
+        "price": 3007.0,
         "model": "5000mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy-A17 Light Blue 128GB",
-        "url": "https://www.amazon.com.mx/dp/B0FLLXBVTW",
-        "price": 2990.0,
-        "model": "Galaxy-A17"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 6+128GB Azul Claro",
-        "url": "https://www.amazon.com.mx/dp/B0FSF35HP1",
-        "price": 3687.0,
-        "model": "6+128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy-A17 Gray 128GB",
-        "url": "https://www.amazon.com.mx/dp/B0FLM3PHDN",
-        "price": 2888.0,
-        "model": "Galaxy-A17"
       },
       {
         "store": "amazon",
@@ -9265,10 +8970,17 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A17 4G, 256GB, 8GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, 5000mAh, Gris",
-        "url": "https://www.amazon.com.mx/dp/B0FRYP55LB",
-        "price": 4808.0,
-        "model": "5000mAh"
+        "name": "Samsung Galaxy-A17 Light Blue 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLLXBVTW",
+        "price": 2990.0,
+        "model": "Galaxy-A17"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy-A17 Gray 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLM3PHDN",
+        "price": 2888.0,
+        "model": "Galaxy-A17"
       },
       {
         "store": "amazon",
@@ -9279,464 +8991,133 @@
       },
       {
         "store": "amazon",
+        "name": "Samsung Galaxy A17 4G, 256GB, 8GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, 5000mAh, Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FRYP55LB",
+        "price": 4808.0,
+        "model": "5000mAh"
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Galaxy A17 4G Dual SIM | 128 GB, 4 GB, resistente a salpicaduras | 6.7 pulgadas 90Hz AMOLED, GSM desbloqueado de fábrica para T-Mobile, Global | Modelo internacional | Paquete SD de 256 GB",
         "url": "https://www.amazon.com.mx/dp/B0FPYV6K68",
-        "price": 3099.0,
+        "price": 3089.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A17 5G - Smartphone, 128 GB, 4 GB de RAM, negro",
-        "url": "https://www.amazon.com.mx/dp/B0H94K9J4Z",
-        "price": 3760.0,
-        "model": null
+        "name": "Samsung Galaxy A17 4G Gris 4GB 128GB Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FT1V5HXP",
+        "price": 2898.0,
+        "model": "128GB"
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A57 Azul Marino 256GB",
-        "url": "https://www.amazon.com.mx/dp/B0GMKL2R28",
-        "price": 7173.0,
-        "model": "256GB"
+        "name": "Samsung Galaxy A17 6+128GB Azul Claro",
+        "url": "https://www.amazon.com.mx/dp/B0FSF35HP1",
+        "price": 3683.0,
+        "model": "6+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, 5000mAh, Azul",
+        "url": "https://www.amazon.com.mx/dp/B0FRN7T6R2",
+        "price": 3397.0,
+        "model": "5000mAh"
       }
     ]
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-20T16:02:47.961448+00:00",
+    "ts": "2026-08-22T16:13:14.074001+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 LTE Gris 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-gris-128gb-desbloqueado/00880609766826?athbdg=L1300",
-        "price": 2888.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Gris",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-dual-sim-desbloqueado-128gb-4gb-ram-gris/00880609765123?athbdg=L6000",
-        "price": 3499.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "name": "Smartphone Samsung Galaxy A26 5G Blanco desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Blanco-desbloqueado-128GB/00880609724418",
         "price": 4599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Gris",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Dual-SIM-Desbloqueado-128GB-4GB-RAM-Gris/00880609765123?athbdg=L6000",
+        "price": 3499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 LTE Negro 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-negro-128gb-desbloqueado/00880609766688?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-LTE-Negro-128GB-Desbloqueado/00880609766688?athbdg=L1300",
         "price": 3098.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 4G Black 128GB , 6GB RAM Dual SIM Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-black-128gb-6gb-ram-dual-sim-desbloqueado/00880609766722?athbdg=L1300",
-        "price": 3549.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
-        "price": 11499.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Samsung Galaxy A17 4G Gris 4GB 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a17-4g-gris-4gb-128gb-desbloqueado/00880609765107?athbdg=L1300",
-        "price": 2898.0,
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Negro-desbloqueado-128GB/00880609709043",
+        "price": 4599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 4G Ligth Blue 128GB , 6GB RAM Dual SIM Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-ligth-blue-128gb-6gb-ram-dual-sim-desbloqueado/00880609766803",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Ligth-Blue-128GB-6GB-RAM-Dual-SIM-Desbloqueado/00880609766803",
         "price": 3599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 LTE 4+128GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-4-128gb-gris-desbloqueado/00750665820968?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-LTE-4-128GB-Gris-Desbloqueado/00750665820968?athbdg=L1300",
         "price": 3399.0,
         "model": "4+128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
-        "price": 13999.0,
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-FE-5G-Azul-Desbloqueado-128GB/00880609574579",
+        "price": 11499.0,
         "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Black",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Dual-SIM-Desbloqueado-128GB-4GB-RAM-Black/00880609765115",
+        "price": 3269.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G/LTE 128GB 4GB RAM Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-LTE-128GB-4GB-RAM-Gris-Desbloqueado/00590310851812",
+        "price": 3049.0,
+        "model": "4G/LTE"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Verde Claro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Verde-Claro-desbloqueado-128GB/00880609724419",
+        "price": 4779.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A17 4G Negro 4GB 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Samsung-Galaxy-A17-4G-Negro-4GB-128GB-Desbloqueado/00076404678023?athbdg=L1300",
+        "price": 2898.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-12GB-RAM-256GB-ROM-Negro-Onix-Desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
       }
     ]
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-20T16:02:54.438269+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A17 128 GB Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-black-desbloqueado/981041127",
-        "price": 3065.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A17 128 GB Light Blue Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-light-blue-desbloqueado/981041097",
-        "price": 3065.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A17 128 GB Gray Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a17-128-gb-gray-desbloqueado/981041096",
-        "price": 3065.93,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
-        "price": 16613.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A56 256 GB Negro Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-negro-desbloqueado/981033457",
-        "price": 6956.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
-        "price": 2288.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
-        "price": 7362.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228",
-        "price": 5009.63,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A07 128 GB Violeta Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-violeta-desbloqueado/981053649",
-        "price": 2288.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
-        "price": 1913.01,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-08-20T16:02:57.588808+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Espresso Perfect Brew Máxima con Bomba Italiana 15 bar | 2 Bombas de Presión, Espresso, Latte, Incluye Accesorios Profesionales, Acero Inoxidable, BVSTEM7400",
-        "url": "https://www.amazon.com.mx/dp/B0CW77H121",
-        "price": 11599.0,
-        "model": "BVSTEM7400"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
-        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
-        "price": 7799.0,
-        "model": "BVSTEM7301"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
-        "price": 5500.0,
-        "model": "BVSTEM7201-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2690.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
-        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
-        "price": 4259.0,
-        "model": "BVSTEM6801M"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
-        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
-        "price": 4899.0,
-        "model": "BVSTEM680R"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-08-20T16:03:02.913839+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2206.68,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 10 Tazas Cromo",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera 12 tazas Hamilton Beach 49316",
-        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
-        "price": 419.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATAZASTOUCHPANEL": {
-    "ts": "2026-08-20T16:03:20.207579+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 698.0,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-22T16:13:14.941188+00:00",
+    "items": []
   },
   "amazon|OSTERCAFETERAGOTEOTAZASTOUCH": {
     "ts": "2026-08-20T16:52:31.964370+00:00",
@@ -34036,6 +33417,188 @@
   },
   "sams|OSTERCAFETERAPANELACEROGOTEO": {
     "ts": "2026-08-22T15:27:56.071152+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-22T16:13:17.803529+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra de Repuesto para Cafetera, 12 Tazas, 16.1 cm de Altura, Compatible con Modelos Oster BVSTRC12, BVSTDC12X, BVSTDCP12X",
+        "url": "https://www.amazon.com.mx/dp/B0FWGQ6KCC",
+        "price": 465.0,
+        "model": "BVSTDCP12X"
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
+        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
+        "price": 2079.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
+        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
+        "price": 2799.0,
+        "model": "BVSTDC4411-013ris"
+      },
+      {
+        "store": "amazon",
+        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
+        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
+        "price": 2099.0,
+        "model": "CM2046S-LA"
+      },
+      {
+        "store": "amazon",
+        "name": "Mr. Coffee Cafetera programable de 10 tazas, jarra térmica aislada, selección de fuerza de preparación, cerveza ahora o más tarde, acero inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B08MX4XG97",
+        "price": 2049.44,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
+        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
+        "price": 1527.33,
+        "model": "CM2035B"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS COLUMBA | Cafetera Percoladora 40 Tazas 4.5L de Acero Inoxidable | Mantiene Café Caliente | Dispensador con Una Mano | Filtro Reutilizable | Ideal para Eventos, Oficina y Negocio",
+        "url": "https://www.amazon.com.mx/dp/B01K35QTOM",
+        "price": 599.25,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
+        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
+        "price": 299.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-22T16:13:22.233648+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
+        "price": 819.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Molino De Café MasterChef 200 gramos Negro",
+        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
+        "price": 769.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
+        "price": 2659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
+        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
+        "price": 635.0,
+        "model": "BVST/DC05-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 4439.77,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERAPANELTAZASACERO": {
+    "ts": "2026-08-22T16:13:22.902686+00:00",
     "items": []
   }
 }
