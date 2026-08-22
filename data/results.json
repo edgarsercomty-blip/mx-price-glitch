@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 04:09 UTC",
-  "products_scanned": 1667,
+  "generated_at": "2026-08-22 04:52 UTC",
+  "products_scanned": 1633,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 43,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,12 +70,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -251,6 +251,26 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 14.6,
+      "detail": "$298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 101.0,
+      "store": "amazon",
+      "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+      "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+      "price": 298.0,
+      "list_price": 349.0,
+      "ean": null,
+      "model": "BVSTDCS51B",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0F8KF41L9"
       }
     },
     {

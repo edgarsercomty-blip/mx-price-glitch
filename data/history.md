@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (908)
+# Historial de ofertas encontradas (909)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-22 04:52 | -25% | amazon | [Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reu…](https://www.amazon.com.mx/dp/B0F8KF41L9) | $298 | $298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia |
 | 2026-08-22 03:23 | -20% | liverpool | [Smartwatch Garmin Forerunner 965 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-forerunner-965-unisex-con-gps/1134529681) | $8,889 | $8,889 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-22 02:23 | -27% | mercadolibre | [Consola Microsoft Xbox Series X 2TB Galaxy Black Edició…](https://www.mercadolibre.com.mx/consola-microsoft-xbox-series-x-2tb-galaxy-black-edicion-especial-con-control-inalambrico-negro-y-wi-fi/p/MLM54551840) | $21,998 | $21,998 en mercadolibre vs mercado -> -27% bajo la competencia |
 | 2026-08-22 02:23 | -27% | amazon | [Calvin Klein Charie para Mujer](https://www.amazon.com.mx/dp/B0DJ9KYKCJ) | $754 | $754 en amazon vs mercado -> -27% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 09:48 | -21% | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | $12,311 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-30 09:48 | -22% | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | $1,900 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-07-30 09:48 | -29% | palacio | [Celular Oppo Reno13 F, 256 GB, RAM 12 GB Gris, Desbloqu…](https://www.elpalaciodehierro.com/oppo-celular-oppo-reno13-f-256-gb-ram-12-gb-gris-desbloqueado-44506346.html) | $5,000 | $5,000 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-07-30 09:48 | -60% | palacio | [Pantalla 65 Pulgadas Plana Crystal UHD 4K Tizen Smart T…](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-uhd-4k-tizen-smart-tv-du7010-un65du7010fxzx-44108204.html) | $6,571 | $6,571 en palacio vs mercado -> -60% bajo la competencia |
