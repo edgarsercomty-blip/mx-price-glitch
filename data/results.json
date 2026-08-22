@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22 22:40 UTC",
-  "products_scanned": 1624,
+  "generated_at": "2026-08-22 22:57 UTC",
+  "products_scanned": 1625,
   "threshold_pct": 20.0,
   "count": 47,
   "findings": [
@@ -65,6 +65,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.5,
+      "detail": "$1,784 en liverpool vs mercado -> -48% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1614.93,
+      "store": "liverpool",
+      "name": "Teclado Conexion Inalambrica Logitech Rugged Folio",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/teclado-conexion-inalambrica-logitech-rugged-folio/1094709365",
+      "price": 1784.07,
+      "list_price": 3399.0,
+      "ean": null,
+      "model": null,
+      "brand": "LOGITECH",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1094709365",
+        "marketplace": null
       }
     },
     {
@@ -902,27 +923,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {

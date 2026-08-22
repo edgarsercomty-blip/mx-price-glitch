@@ -1,4 +1,4 @@
-# Productos en vigilancia (765)
+# Productos en vigilancia (766)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -769,3 +769,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color…](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,769 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8S…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | -25% |
 | 🟢 disponible | liverpool | [Licuadora Oster Blstpeg Cpb 6 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpeg-cpb-6-velocidades/1133854084) | $617 | -68% |
+| 🟢 disponible | liverpool | [Teclado Conexion Inalambrica Logitech Rugged Folio](https://www.liverpool.com.mx/tienda/pdp/teclado-conexion-inalambrica-logitech-rugged-folio/1094709365) | $1,784 | -48% |
