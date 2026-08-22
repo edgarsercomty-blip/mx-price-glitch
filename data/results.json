@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 19:52 UTC",
-  "products_scanned": 1646,
+  "generated_at": "2026-08-22 20:12 UTC",
+  "products_scanned": 1625,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1152344011",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 29.2,
-      "detail": "$2,124 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1153.85,
-      "store": "liverpool",
-      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373",
-      "price": 2124.15,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1200691373",
         "marketplace": null
       }
     },
@@ -655,27 +634,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 748.5,
-      "store": "palacio",
-      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
-      "price": 2495.0,
-      "list_price": 4990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45481963",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 5938.5,
@@ -881,6 +839,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {
