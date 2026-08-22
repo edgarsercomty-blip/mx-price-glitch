@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 15:27 UTC",
-  "products_scanned": 1594,
+  "generated_at": "2026-08-22 15:35 UTC",
+  "products_scanned": 1678,
   "threshold_pct": 20.0,
-  "count": 45,
+  "count": 46,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,26 +44,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$773 en amazon vs walmart $1,259, walmart $1,299, walmart $1,629 -> -39% bajo la competencia",
-      "likely_typo": false,
-      "savings": 486.0,
-      "store": "amazon",
-      "name": "256GB SANDISK Ultra MICROSDXC MEM",
-      "url": "https://www.amazon.com.mx/dp/B08KSL4RNQ",
-      "price": 773.0,
-      "list_price": 78.45,
-      "ean": null,
-      "model": "256GB",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B08KSL4RNQ"
       }
     },
     {
@@ -275,46 +255,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$208 en amazon vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 76.5,
-      "store": "amazon",
-      "name": "Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corrector, 5Ml",
-      "url": "https://www.amazon.com.mx/dp/B08D47L4VB",
-      "price": 208.3,
-      "list_price": 41.66,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B08D47L4VB"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$794 en amazon vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 289.23,
-      "store": "amazon",
-      "name": "Keds WH61626 Tenis de piel para Dama",
-      "url": "https://www.amazon.com.mx/dp/B0CNV44WCH",
-      "price": 794.14,
-      "list_price": 80.6,
-      "ean": null,
-      "model": "WH61626",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0CNV44WCH"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -332,26 +272,6 @@
       "extra": {
         "productId": "1110040357",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.9,
-      "detail": "$825 en amazon vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 285.26,
-      "store": "amazon",
-      "name": "Calvin Klein Tenis para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B0BTTQHHMY",
-      "price": 824.83,
-      "list_price": 1113.85,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BTTQHHMY"
       }
     },
     {
@@ -650,24 +570,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 27.25,
-      "store": "walmart",
-      "name": "Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto Cell Combo Cargador Turbo Iphone",
-      "url": "https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285",
-      "price": 85.25,
-      "list_price": null,
-      "ean": null,
-      "model": "1Hora",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 39.0,
       "detail": "$11,589 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -815,26 +717,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1709.0,
-      "store": "walmart",
-      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
-      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
-      "price": 6290.0,
-      "list_price": 9990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Midea",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00694427168676"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -919,23 +801,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
+      "discount_pct": 0.0,
+      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
+      "savings": 599.0,
+      "store": "liverpool",
+      "name": "Asiento Para Bicicleta Shotgun",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
+      "price": 2290.0,
+      "list_price": 2290.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "SHOTGUN",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44824190",
-        "outlet": false
+        "productId": "1105905200",
+        "marketplace": null
       }
     },
     {
@@ -983,22 +865,43 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
+      "savings": 45.8,
+      "store": "liverpool",
+      "name": "Correa Para Reloj Mobo Trippy",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
+      "price": 183.2,
+      "list_price": 229.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "MOBO",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44951471",
-        "outlet": false
+        "productId": "1136430552",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$119 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 29.8,
+      "store": "liverpool",
+      "name": "Correa Para Smartwatch Mobo",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579",
+      "price": 119.2,
+      "list_price": 149.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOBO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1136430579",
+        "marketplace": null
       }
     },
     {
@@ -1062,26 +965,6 @@
       "extra": {
         "id": "45001062",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$32 en amazon vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7.98,
-      "store": "amazon",
-      "name": "Sabritas Churrumais con Limoncito Sabor a Chile y Limón Botana 185 g",
-      "url": "https://www.amazon.com.mx/dp/B08JTQZTQ5",
-      "price": 31.9,
-      "list_price": 0.17,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B08JTQZTQ5"
       }
     }
   ]
