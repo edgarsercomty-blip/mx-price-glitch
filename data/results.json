@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 15:35 UTC",
-  "products_scanned": 1678,
+  "generated_at": "2026-08-22 15:52 UTC",
+  "products_scanned": 1683,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -822,6 +822,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 29.1,
       "detail": "$2,479 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -859,48 +880,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196432023",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Trippy",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430552",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$119 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Mobo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579",
-      "price": 119.2,
-      "list_price": 149.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430579",
         "marketplace": null
       }
     },
