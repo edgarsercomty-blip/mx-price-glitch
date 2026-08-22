@@ -1,4 +1,4 @@
-# Productos en vigilancia (764)
+# Productos en vigilancia (762)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 

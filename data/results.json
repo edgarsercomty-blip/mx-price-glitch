@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 15:26 UTC",
-  "products_scanned": 2792,
+  "generated_at": "2026-08-22 15:27 UTC",
+  "products_scanned": 1594,
   "threshold_pct": 20.0,
-  "count": 53,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -131,23 +131,21 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.8,
-      "detail": "$12,990 en walmart vs mercado -> -30% bajo la competencia",
+      "discount_pct": null,
+      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
       "likely_typo": false,
-      "savings": 5649.0,
+      "savings": 2120.38,
       "store": "walmart",
-      "name": "Refrigerador Midea 19 pies FrenchDoor Inox",
-      "url": "https://www.walmart.com.mx/ip/refrigerador-midea-19-pies-frenchdoor-inox/00695490381639?athbdg=L1300",
-      "price": 12990.0,
-      "list_price": 20890.0,
+      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
+      "price": 4699.0,
+      "list_price": null,
       "ean": null,
-      "model": null,
-      "brand": "Midea",
+      "model": "256Gb+8Gb",
+      "brand": null,
       "available": true,
       "currency": "MXN",
-      "extra": {
-        "usItemId": "00695490381639"
-      }
+      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -921,62 +919,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 31.3,
-      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs amazon $11,995 -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1439.0,
-      "store": "walmart",
-      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
-      "url": "https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600",
-      "price": 5490.0,
-      "list_price": 7990.0,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
       "ean": null,
       "model": null,
-      "brand": "Hisense",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "usItemId": "00692172704679"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1300.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
-      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
-      "price": 4999.0,
-      "list_price": null,
-      "ean": null,
-      "model": "Lrk-2311a",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM46517919"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$4,769 en mercadolibre vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1230.0,
-      "store": "mercadolibre",
-      "name": "Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color Gris",
-      "url": "https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243",
-      "price": 4769.0,
-      "list_price": 4769.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM26088243"
+        "id": "44824190",
+        "outlet": false
       }
     },
     {
@@ -1019,6 +978,27 @@
       "extra": {
         "productId": "1196432023",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {
