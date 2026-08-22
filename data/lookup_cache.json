@@ -4688,14 +4688,14 @@
     "items": []
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-20T17:50:52.514218+00:00",
+    "ts": "2026-08-22T17:54:06.647686+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Watch Ultra 47mm Titanio Gris",
-        "url": "https://www.amazon.com.mx/dp/B0FCNT2GG1",
-        "price": 5799.0,
-        "model": null
+        "name": "Samsung Galaxy Watch8 Classic Black 46mm",
+        "url": "https://www.amazon.com.mx/dp/B0FCNPJPGH",
+        "price": 3699.0,
+        "model": "Watch8"
       },
       {
         "store": "amazon",
@@ -4706,16 +4706,16 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Watch8 Classic Black 46mm",
-        "url": "https://www.amazon.com.mx/dp/B0FCNPJPGH",
-        "price": 3699.0,
-        "model": "Watch8"
+        "name": "Samsung Galaxy Watch Ultra 47mm Titanio Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FCNT2GG1",
+        "price": 5799.0,
+        "model": null
       },
       {
         "store": "amazon",
         "name": "Samsung Galaxy Watch8 44mm (BT) Grafito",
         "url": "https://www.amazon.com.mx/dp/B0FCNPYS3X",
-        "price": 3899.0,
+        "price": 3654.15,
         "model": "Watch8"
       },
       {
@@ -4736,7 +4736,7 @@
         "store": "amazon",
         "name": "Samsung Galaxy Watch8 40mm (BT) Plata",
         "url": "https://www.amazon.com.mx/dp/B0FCNNNJ5L",
-        "price": 3697.0,
+        "price": 3699.0,
         "model": "Watch8"
       },
       {
@@ -4748,6 +4748,20 @@
       },
       {
         "store": "amazon",
+        "name": "SAMSUNG Galaxy Watch 6 Classic - Smartwatch bluetooth de 47 mm con bisel giratorio, monitor de fitness, entrenamiento del sueño, plateado (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0CVLJSSSK",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
+        "price": 12078.7,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Galaxy Watch Ultra 47mm Blanco, AI, Nacional con Garantía",
         "url": "https://www.amazon.com.mx/dp/B0D7K7C1S7",
         "price": 6999.0,
@@ -4755,204 +4769,105 @@
       },
       {
         "store": "amazon",
-        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
-        "price": 12211.96,
+        "name": "Sin Brecha Un Clic Magnético Correa para Galaxy Watch 7 6 5 4 FE 40mm 44mm Watch 6 4 Classic 47mm 43mm 46mm Watch 5 Pro 45mm, Metálica de Acero Inoxidable Correas Compatible con Samsung Watch",
+        "url": "https://www.amazon.com.mx/dp/B0FCG1BL9B",
+        "price": 254.32,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Watch Ultra2 (V2) Black",
-        "url": "https://www.amazon.com.mx/dp/B0H76VVV2D",
-        "price": 11995.0,
-        "model": "Ultra2"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy Watch8 40mm (BT) Grafito",
-        "url": "https://www.amazon.com.mx/dp/B0FCN9TQ1N",
-        "price": 3699.0,
-        "model": "Watch8"
       }
     ]
   },
   "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-20T17:50:57.263822+00:00",
+    "ts": "2026-08-22T17:54:09.755558+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Fit3 Rosa",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-fit3-rosa/00880609536447",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch Ultra Plata Titanio",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-plata-titanio/00880609571076?athbdg=L6000",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Ultra-Plata-Titanio/00880609571076?athbdg=L6000",
         "price": 9999.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "SAMSUNG Galaxy Watch 5 44 mm Bluetooth Smartwatch con Cuerpo, Salud, Fitness y sueño, batería Mejorada, Vidrio de Zafiro, Seguimiento GPS Mejorado, versión Estadounidense, Gris (reacondicionado)",
-        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-watch-5-44-mm-bluetooth-smartwatch-con-cuerpo-salud-fitness-y-sueno-bateria-mejorada-vidrio-de-zafiro-seguimiento-gps-mejorado-version-estadounidense-gris-reacondicionado-/00065776832194?athbdg=L1300",
-        "price": 2429.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch 8 Classic Blanco",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-blanco/00880609748599",
-        "price": 4999.0,
-        "model": null
+        "name": "Smartwatch Samsung Galaxy Watch Active2 40 mm Aqua Black",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Active2-40-mm-Aqua-Black/00088727637252?athbdg=L1300",
+        "price": 4019.0,
+        "model": "Active2"
       },
       {
         "store": "walmart",
         "name": "Reloj inteligente Samsung Galaxy Watch 8 40 mm Bluetooth 2025 plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-samsung-galaxy-watch-8-40-mm-bluetooth-2025-plateado/00074276130764?athbdg=L1300",
-        "price": 5549.0,
+        "url": "https://www.walmart.com.mx/ip/Reloj-inteligente-Samsung-Galaxy-Watch-8-40-mm-Bluetooth-2025-plateado/00074276130764?athbdg=L1300",
+        "price": 4769.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-gris/00880609760415?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Ultra-Gris/00880609760415?athbdg=L1300",
         "price": 7199.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch8 40 mm Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch8-40-mm-gris/00880609741681",
-        "price": 5599.0,
-        "model": "Watch8"
-      },
-      {
-        "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch8 44 mm Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch8-44-mm-gris/00880609741638?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch8-44-mm-Gris/00880609741638?athbdg=L1300",
         "price": 5739.0,
         "model": "Watch8"
       },
       {
         "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch8 44 mm Plata",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch8-44-mm-plata/00880609741628?athbdg=L1300",
-        "price": 4558.0,
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch8-44-mm-Plata/00880609741628?athbdg=L1300",
+        "price": 4699.0,
         "model": "Watch8"
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-ultra-gris/00880609760415",
-        "price": 7199.0,
+        "name": "Smartwatch Samsung Galaxy Watch Active 40 mm Plata",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Active-40-mm-Plata/00075357523873?athbdg=L1300",
+        "price": 2579.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch 8 Classic Blanco",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-8-classic-blanco/00880609748599?athbdg=L1300",
-        "price": 4999.0,
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-8-Classic-Blanco/00880609748599?athbdg=L1300",
+        "price": 6499.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch Active 40 mm Plata",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-samsung-galaxy-watch-active-40-mm-plata/00075357523873?athbdg=L1300",
-        "price": 2579.0,
+        "name": "Restored Reloj inteligente Samsung Galaxy Watch Active 2 40mm Negro Reacondicionado (Refurbished)",
+        "url": "https://www.walmart.com.mx/ip/Restored-Reloj-inteligente-Samsung-Galaxy-Watch-Active-2-40mm-Negro-Reacondicionado-Refurbished/00071475244742?athbdg=L1500",
+        "price": 2329.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch 3 41mm GPS LTE",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-3-41mm-GPS-LTE/00088727642016?athbdg=L1300",
+        "price": 7739.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Watch Correa Rugged Sport Band S/M - Negro",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Correa-Rugged-Sport-Band-S-M-Negro/00088727674671?athbdg=L1300",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SAMSUNG Electronics Galaxy Watch 4 Classic Reloj Inteligente de 46 mm con rastreador de Monitor ECG para Salud, Correr, ciclos de sueño, GPS, versión de EE. UU, Plateado (renovado)",
+        "url": "https://www.walmart.com.mx/ip/SAMSUNG-Electronics-Galaxy-Watch-4-Classic-Reloj-Inteligente-de-46-mm-con-rastreador-de-Monitor-ECG-para-Salud-Correr-ciclos-de-sueno-GPS-version-de-EE-UU-Plateado-renovado/00070233853613?athbdg=L1300",
+        "price": 2079.0,
         "model": null
       }
     ]
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-20T17:51:02.173323+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Samsung Galaxy Watch8 Classic Negro 46 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-negro-46-mm/981039183",
-        "price": 7159.98,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Samsung Galaxy Watch8 Classic Blanco 46 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-blanco-46-mm/981039184",
-        "price": 7159.98,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Silver Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-silver-desbloqueado/981037722",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Icy Blue Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-icy-blue-desbloqueado/981037720",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 Edge 256 GB Titanium Jet Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-edge-256-gb-titanium-jet-black-desbloqueado/981037721",
-        "price": 19229.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Samsung Galaxy M55 256 GB 5G Negro Desbloqueado + Smartwatch Actor + Adaptador ",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-256-gb-5g-negro-desbloqueado-smartwatch-actor-adaptador/981036409",
-        "price": 10945.06,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Samsung Galaxy M55 5G 256 GB Verde + Smartwatch Actor Negro + Adaptador",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-samsung-galaxy-m55-5g-256-gb-verde-smartwatch-actor-negro-adaptador/981036410",
-        "price": 11242.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Dark Gray",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-dark-gray/981039176",
-        "price": 4909.38,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Silver",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-silver/981039181",
-        "price": 5420.88,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente SAMSUNG  Watch 7 40mm Beige",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-watch-7-40mm-beige/981026915",
-        "price": 3579.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Samsung Galaxy Watch8 44 mm Dark Gray",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-44-mm-dark-gray/981039179",
-        "price": 5113.98,
-        "model": "Watch8"
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Samsung Galaxy Watch8 40 mm Silver",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-samsung-galaxy-watch8-40-mm-silver/981039177",
-        "price": 4909.38,
-        "model": "Watch8"
-      }
-    ]
+    "ts": "2026-08-22T17:54:10.403106+00:00",
+    "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
     "ts": "2026-08-20T18:24:28.723487+00:00",
@@ -9118,512 +9033,6 @@
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
     "ts": "2026-08-22T16:13:14.941188+00:00",
     "items": []
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-20T17:50:35.054337+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
-        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
-        "price": 12999.0,
-        "model": "15-fc0372la"
-      },
-      {
-        "store": "amazon",
-        "name": "Acer TravelMate P2 TMP214-54-37X3 Laptop de 14 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0DN8HGD3Q",
-        "price": 8599.0,
-        "model": "TMP214-54-37X3"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Pro (de 16 Pulgadas, Chip M5 Pro de Apple con CPU de 18 núcleos y GPU de 20 núcleos, 24GB Memoria unificada, 1 TB) - Negro Espacial",
-        "url": "https://www.amazon.com.mx/dp/B0GR1KTPH9",
-        "price": 67999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple 2026 MacBook Air (de 13 Pulgadas, Chip M5 de Apple con CPU de 10 núcleos y GPU de 8 núcleos, 16GB Memoria unificada, 512 GB) - Azul Medianoche",
-        "url": "https://www.amazon.com.mx/dp/B0GR1JYFTW",
-        "price": 29998.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
-        "price": 13499.0,
-        "model": "7-7730U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 14 (2025)/ Ryzen 3 7320U/ AMD Radeon Graphics/ 8GB - 512GB SSD/Wi-Fi 5 + Bluetooth 5.1/ Teclado en Español (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0CWH4YRY3",
-        "price": 7399.0,
-        "model": "7320U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 15 - Portátil FHD de 15,6 Pulgadas, procesador AMD Ryzen 5 40 (hasta 4,3 GHz), 8 GB de RAM, SSD de 512 GB, gráficos Radeon, Fino y Ligero, Wi-Fi 6E, Bluetooth 5.3, Windows 11 Home",
-        "url": "https://www.amazon.com.mx/dp/B0GWM4DJ94",
-        "price": 8559.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
-        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
-        "price": 16499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
-        "price": 18999.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16\" WUXGA Laptop Intel Core i7-1355U, 16 GB RAM, 512 GB SSD, Intel Iris Xe Graphics, Notebook portátil ligero, negro, Windows 11",
-        "url": "https://www.amazon.com.mx/dp/B0G1CNGSX5",
-        "price": 12213.41,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook - Computadora portátil de 14 pulgadas - Intel Core i7-1355U o AMD Ryzen 7 4700U - 12GB de RAM - SSD de 512GB - Windows 11 - Office 365 por un año - Computadora para negocios, estudiantes",
-        "url": "https://www.amazon.com.mx/dp/B0FZ9YVV7W",
-        "price": 13958.69,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14 Laptop, PC Copilot+, visualización WUXGA de 60Hz de 14 Pulgadas, AMD Ryzen AI 7 350 con NPU XDNA, AMD Radeon Graphics, 16 GB de RAM, SSD de 512 GB, Oro Platino, M1407KA-PS74",
-        "url": "https://www.amazon.com.mx/dp/B0F22H6BL8",
-        "price": 19876.37,
-        "model": "M1407KA-PS74"
-      }
-    ]
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-20T17:50:41.643127+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook M1407KA-LY147W R AI5 16GB 1TB Azul",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-M1407KA-LY147W-R-AI5-16GB-1TB-Azul/00019929116770",
-        "price": 14491.0,
-        "model": "M1407KA-LY147W"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-Go-15-Laptop-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-Windows-11-AMD-Radeon-WiFi-Bluetooth/00019929131680?athbdg=L1300",
-        "price": 8489.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 15 AMD Ryzen 5 150 8GB DDR5 SSD 512GB Pantalla 15.6\" IPS FHD Windows 11 Teclado Español",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-Vivobook-15-AMD-Ryzen-5-150-8GB-DDR5-SSD-512GB-Pantalla-15-6-IPS-FHD-Windows-11-Teclado-Espanol/00070452118646",
-        "price": 19999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-E1404FA-EB923W-R5-16GB-512GB/00019929140091",
-        "price": 11997.0,
-        "model": "E1404FA-EB923W"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-15-6-Fhd-Amd-Ryzen-5-8gb-Ram-512gb-Ssd-Negra/00065796826744?athbdg=L1300",
-        "price": 9129.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-VivoBook-Go-15-6-FHD-AMD-Ryzen-5-8GB-RAM-512GB-SSD-W11-Negro/00065396995296?athbdg=L1300",
-        "price": 8629.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-VivoBook-D413UA-AMD-Ryzen-7-5700U-RAM-8GB-SSD-512GB-Pantalla-14-LED-Windows-11-Home-Asus-D413UA-R78G512/00019555353315",
-        "price": 13786.26,
-        "model": "D413UA-R78G512"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook Go 15.6\" FHD Ryzen 5 7520U 8GB RAM 512GB SSD Windows 11 Color Cool Silver",
-        "url": "https://www.walmart.com.mx/ip/Laptop-ASUS-VivoBook-Go-15-6-FHD-Ryzen-5-7520U-8GB-RAM-512GB-SSD-Windows-11-Color-Cool-Silver/00019710545735?athbdg=L6000",
-        "price": 21180.0,
-        "model": "7520U"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/ASUS-Vivobook-S16-Laptop-OLED-de-16-Intel-Core-Ultra-9-285H-Supera-a-AMD-Ryzen-9-8945HS-32GB-RAM-1TB-SSD-2880x1800-DCI-P3-100-Ketboard-Retroiluminado-RGB-Windows-11-Business-AI-Copilot-PC/00019710535553?athbdg=L6000",
-        "price": 26634.01,
-        "model": "2880x1800"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Expertbook BM1 14” Ryzen 5 8GB RAM 512 SSD W11",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Expertbook-BM1-14-Ryzen-5-8GB-RAM-512-SSD-W11/00019929124452",
-        "price": 12999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS VIVOBOOK GO 15 NEGRO E1504F/15in/AMD RYZEN 3 7320U/8GB/SSD/128GB/Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/ASUS-VIVOBOOK-GO-15-NEGRO-E1504F-15in-AMD-RYZEN-3-7320U-8GB-SSD-128GB-Windows-11-Home/00019710517089?athbdg=L6000",
-        "price": 20131.0,
-        "model": "7320U/8GB/SSD/128GB/Windows"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook D1502YA-NJ584W AMD Ryzen 7 5825U 16GB 512GB",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Vivobook-D1502YA-NJ584W-AMD-Ryzen-7-5825U-16GB-512GB/00019710589093?athbdg=L1600",
-        "price": 11999.0,
-        "model": "D1502YA-NJ584W"
-      }
-    ]
-  },
-  "sams|ASUSVIVOBOOKLAPTOPRYZEN512": {
-    "ts": "2026-08-20T17:50:49.326320+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
-        "price": 15343.98,
-        "model": "D1605YA-MB470W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
-        "price": 14627.87,
-        "model": "E1504FA-BQ5166W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
-        "price": 18412.98,
-        "model": "M1407KA-LY137W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
-        "price": 13297.98,
-        "model": "X1504VA-NJ2530W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
-        "price": 19435.96,
-        "model": "X1504MA-BQ353W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
-        "price": 8899.08,
-        "model": "E1404GA-NK136W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 14 Intel Core 7/16 GB RAM/512 GB SSD X1404VA-EB1684W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-14-intel-core-7-16-gb-ram-512-gb-ssd-x1404va-eb1684w/981055739",
-        "price": 22914.16,
-        "model": "X1404VA-EB1684W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
-        "price": 23016.48,
-        "model": "FA607NU-RL110W"
-      }
-    ]
-  },
-  "amazon|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-20T17:51:04.904953+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer® MAX con Vaso de Vidrio de 1,75 L BLSTPBRGR",
-        "url": "https://www.amazon.com.mx/dp/B0C3SZJ45D",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1802.22,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Galaxy 10 Vel Vaso plástico Almendra 869-16",
-        "url": "https://www.amazon.com.mx/dp/B009B7OBIU",
-        "price": 775.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora BLST4108, 1.25 Litros, 800W, 10 Velocidades, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C4812MS5",
-        "price": 733.0,
-        "model": "BLST4108"
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Cube Completo Compatible Con Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DSLVPT5L",
-        "price": 375.06,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1487.0,
-        "model": "BLSTBESTE-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Vaso de Vidrio 1.25 L, Accesorio para Licuadora Clásica Osterizer | Resistente a choques térmicos, perfecto para preparar bebidas frías o calientes, no retiene olores, original, BLSTAJ4954",
-        "url": "https://www.amazon.com.mx/dp/B0C8KTG62D",
-        "price": 279.0,
-        "model": "BLSTAJ4954"
-      },
-      {
-        "store": "amazon",
-        "name": "Vaso Vidrio Clásico Completo Sirve Para Oster Osterizer",
-        "url": "https://www.amazon.com.mx/dp/B0DTS5RL6Z",
-        "price": 369.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 2589.0,
-        "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 774.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-20T17:51:11.056403+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Osterizer Max, con 2 Caballos de Fuerza, Perilla y Vaso de Vidrio, Plateada",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-osterizer-max-con-2-caballos-de-fuerza-perilla-y-vaso-de-vidrio-plateada/00005389116986",
-        "price": 4375.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
-        "price": 1999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
-        "price": 2071.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500",
-        "price": 3242.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
-        "price": 1458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-licuadora-de-10-velocidades-cuchillas-acero-869-16g/00003426400153?athbdg=L1300",
-        "price": 779.0,
-        "model": "869-16G"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
-        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
-        "price": 4456.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
-        "price": 749.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con 700 Watts de Potencia con Interruptor de Palanca",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-700-watts-de-potencia-con-interruptor-de-palanca/00005389114062",
-        "price": 1490.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESOSTERIZERLICUADORAMAX": {
-    "ts": "2026-08-20T17:51:17.396990+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Max Power Cherry",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232",
-        "price": 1021.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Turmix  Turbo Max Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233",
-        "price": 2249.58,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
-        "model": null
-      }
-    ]
   },
   "amazon|OSTERCAFETERATOUCHGOTEOTAZAS": {
     "ts": "2026-08-20T18:24:09.002921+00:00",
