@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 18:16 UTC",
-  "products_scanned": 1679,
+  "generated_at": "2026-08-22 18:51 UTC",
+  "products_scanned": 1690,
   "threshold_pct": 20.0,
-  "count": 46,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -28,7 +28,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "detail": "$1,745 en palacio vs walmart $5,169 -> -50% bajo la competencia",
       "likely_typo": false,
       "savings": 1745.0,
       "store": "palacio",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 29.2,
+      "detail": "$2,124 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1157.85,
+      "store": "liverpool",
+      "name": "Samsung Galaxy A07 Lcd 6 7 Pulgadas",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691373",
+      "price": 2124.15,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1200691373",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
       "likely_typo": false,
@@ -108,24 +129,6 @@
         "id": "45650688",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2120.38,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -881,27 +884,6 @@
       "extra": {
         "productId": "1196432023",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {

@@ -4870,13 +4870,13 @@
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-20T18:24:28.723487+00:00",
+    "ts": "2026-08-22T18:50:52.389549+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C63GQD81",
-        "price": 2690.0,
+        "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
+        "price": 1895.0,
         "model": null
       },
       {
@@ -4895,16 +4895,44 @@
       },
       {
         "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Blanca con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVK4QM9",
+        "price": 1745.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Nespresso Vertuo Pop+ Standalone by Breville, Lila",
         "url": "https://www.amazon.com.mx/dp/B0FSNT1FX1",
-        "price": 1899.0,
+        "price": 2149.0,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
         "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
-        "price": 3211.79,
+        "price": 3213.01,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 2648.95,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo variedad 30 cápsulas | Compatible con máquinas vertuo",
+        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
+        "price": 635.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
+        "price": 2334.24,
         "model": null
       },
       {
@@ -4916,50 +4944,22 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por Breville, blanco coco",
-        "url": "https://www.amazon.com.mx/dp/B0CS71J3GP",
-        "price": 2546.04,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo variedad 30 cápsulas | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
-        "price": 529.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Nespresso - Cafetera Vertuo Pop + Paquete de 30 cápsulas de Sistema Vertuo Melozio",
         "url": "https://www.amazon.com.mx/dp/B0CJKCW7ZS",
-        "price": 2414.0,
+        "price": 2510.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
-        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
-        "price": 2490.0,
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por Breville, blanco coco",
+        "url": "https://www.amazon.com.mx/dp/B0CS71J3GP",
+        "price": 2717.83,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Feekoon Depósito de agua con tapa de repuesto Compatible con Nespresso Vertuo Next, Compatible con cafetera Krups XN910B XN9105 XN910C, Piezas de repuesto para máquinas de café, Transparente",
-        "url": "https://www.amazon.com.mx/dp/B0DZHH29GC",
-        "price": 604.84,
-        "model": "XN910B"
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Vertuo Pop+ Cafetera y espresso por De'Longhi, Samra Origins by The Weeknd Vertuo Buna Yellow Aeroccino3 espumador de leche",
-        "url": "https://www.amazon.com.mx/dp/B0FJZ2G6QJ",
-        "price": 3576.15,
-        "model": "Aeroccino3"
       }
     ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-20T18:24:53.190368+00:00",
+    "ts": "2026-08-22T18:50:56.818690+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4970,122 +4970,86 @@
       },
       {
         "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Candy Pink",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Candy-Pink/00004438710926",
-        "price": 3049.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Amarilla-con-Aeroccino3/00004438751922",
-        "price": 3919.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Samra Origins Amarilla",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Samra-Origins-Amarilla/00004438741924",
-        "price": 2949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Cold con vaso helado",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Cold-con-vaso-helado/00004438730924",
-        "price": 3829.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ con espumador de leche rosa",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-con-espumador-de-leche-rosa/00004438710927",
-        "price": 4169.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/Nespresso-Vertuo-Pop-Cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
         "price": 3929.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Máquina de café y Espresso Nespresso Vertuo POP+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/Maquina-de-cafe-y-Espresso-Nespresso-Vertuo-POP-Deluxe/00004438700950",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Nespresso Vertuo Pop+ Cafetera de espresso y café con espumador de leche",
-        "url": "https://www.walmart.com.mx/ip/Nespresso-Vertuo-Pop-Cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-de-espresso-y-cafe-con-espumador-de-leche/00063791301140?athbdg=L1300",
         "price": 4129.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera Nespresso Vertuo Pop+ Pack Lila",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Nespresso-Vertuo-Pop-Pack-Lila/00002161481500",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-pack-lila/00002161481500?athbdg=L1300",
         "price": 5169.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de De'Longhi, negro mate con cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-espresso-Nespresso-Vertuo-Pop-de-edicion-limitada-de-De-Longhi-negro-mate-con-cromo-oscuro/00004438720921",
-        "price": 3219.0,
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-de-longhi-negro-mate-con-cromo-oscuro/00004438720921?athbdg=L1300",
+        "price": 4779.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville Red",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-y-cafetera-espresso-Nespresso-Vertuo-Pop-Breville-Red/00002161480798",
-        "price": 2339.0,
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
+        "price": 6014.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de Breville con espumador de leche, rojo picante",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-breville-con-espumador-de-leche-rojo-picante/00002161480803?athbdg=L1300",
+        "price": 5409.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Nespresso Vertuo Pop+ Deluxe Coffee and Espresso Maker by Breville, Titan",
+        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-deluxe-coffee-and-espresso-maker-by-breville-titan/00002161480801?athbdg=L1300",
+        "price": 5065.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de Breville, color blanco coco",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-breville-color-blanco-coco/00002161480800?athbdg=L1300",
+        "price": 4992.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo Pop+ De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-pop-de-longhi/00004438700920?athbdg=L1300",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
+        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
+        "price": 5269.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-08-20T18:24:57.296949+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 1964.16,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 3474.11,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
-        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 3999.0,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-22T18:50:59.492113+00:00",
+    "items": []
   },
   "amazon|ASUSVIVOBOOKLAPTOPRYZENAMD": {
     "ts": "2026-08-20T20:18:35.028550+00:00",
@@ -9033,266 +8997,6 @@
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
     "ts": "2026-08-22T16:13:14.941188+00:00",
     "items": []
-  },
-  "amazon|OSTERCAFETERATOUCHGOTEOTAZAS": {
-    "ts": "2026-08-20T18:24:09.002921+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
-        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
-        "price": 7799.0,
-        "model": "BVSTEM7301"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
-        "price": 5500.0,
-        "model": "BVSTEM7201-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Espresso Perfect Brew Máxima con Bomba Italiana 15 bar | 2 Bombas de Presión, Espresso, Latte, Incluye Accesorios Profesionales, Acero Inoxidable, BVSTEM7400",
-        "url": "https://www.amazon.com.mx/dp/B0CW77H121",
-        "price": 11599.0,
-        "model": "BVSTEM7400"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
-        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
-        "price": 1971.0,
-        "model": "BVSTEM5502"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
-        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
-        "price": 489.0,
-        "model": "49970-MX"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
-        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
-        "price": 359.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Genérico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripción.",
-        "url": "https://www.amazon.com.mx/dp/B0FMBLSGSJ",
-        "price": 365.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATOUCHGOTEOTAZAS": {
-    "ts": "2026-08-20T18:24:17.833887+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-Negro/00005389114704",
-        "price": 458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-5-Tazas-de-Goteo-Switch-Color-Negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Oster-12-Tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
-        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-Programable-de-5-Tazas-de-Capacidad-con-Filtro-Reutilizable-Funcion-Pausa-y-Servir-Apagado-Automatico-Pantalla-LED-Jarra-con-Medidas-Color-Negro-BVSTDCP51/00046309775269?athbdg=L1300",
-        "price": 1760.0,
-        "model": "BVSTDCP51"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-de-8-tazas-en-Acero-Inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Capacidad-de-5-Tazas-Filtro-Permanente-Color-Negro-Modelo-BVSTDCS51B-NE/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-12-Tazas-Negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas Programable Negra",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-5-Tazas-Programable-Negra/00005389117862?athbdg=L1300",
-        "price": 912.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Programable Oster 12 Tazas Roja",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Programable-Oster-12-Tazas-Roja/00005389114276",
-        "price": 638.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATOUCHGOTEOTAZAS": {
-    "ts": "2026-08-20T18:24:23.493947+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 698.0,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
   },
   "amazon|OSTERVELOCIDADESLICUADORAOSTERIZERMAX": {
     "ts": "2026-08-20T19:48:03.454024+00:00",
@@ -32795,6 +32499,370 @@
   },
   "sams|OSTERCAFETERAACEROGOTEOTAZAS": {
     "ts": "2026-08-22T18:16:25.324348+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGSAMSUNGGALAXYA07LCD": {
+    "ts": "2026-08-22T18:50:20.056040+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "For for Galaxy A07 4G SM-A075F LCD Screen with Digitizer Full Assembly Recambio",
+        "url": "https://www.amazon.com.mx/dp/B0HDH3GXX7",
+        "price": 326.76,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "For for Galaxy A07 4G SM-A075F LCD Screen Digitizer Full Assembly with Frame Recambio",
+        "url": "https://www.amazon.com.mx/dp/B0HDHD8MPJ",
+        "price": 374.9,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "LS Case para Samsung Galaxy A07 4G Funda Uso Rudo Protector TPU Suave Durable Silicon Cover Carcasa",
+        "url": "https://www.amazon.com.mx/dp/B0FYMJ5MMG",
+        "price": 115.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "USTIYA Funda Mica x2 para Samsung Galaxy A07 Case Matte Acrílico Uso Rudo Carcasa Protectora de cámara Cover Protector de Pantalla Cristal Templado Screen con Correa Cordón Negro FGKM",
+        "url": "https://www.amazon.com.mx/dp/B0FL2QZD7T",
+        "price": 174.24,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 visualización de repuesto para Samsung A07 visualización LCD SM-A075B SM-A075F SM-A075M Digitalizador LCD Touch Asamblea Reparación",
+        "url": "https://www.amazon.com.mx/dp/B0GD6KFQQJ",
+        "price": 384.63,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 - visualización de repuesto para Samsung A07 LCD SM-A075B SM-A075F SM-A075M LCD digitalizador táctil piezas de reparación con marco",
+        "url": "https://www.amazon.com.mx/dp/B0GD69CYVV",
+        "price": 440.57,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD táctil digitalizador con marco de repuesto para Samsung Galaxy A07 4G SM-A075F, SM-A075F/DS, SM-A075M, SM-A075M/DS A075 6.7 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0GKT3917S",
+        "price": 659.12,
+        "model": "SM-A075F/DS"
+      },
+      {
+        "store": "amazon",
+        "name": "visualización LCD táctil digitalizador de repuesto para Samsung Galaxy A07 4G SM-A075F, SM-A075F/DS, SM-A075M, SM-A075M/DS A075 6.7 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0G3WH38LC",
+        "price": 602.44,
+        "model": "SM-A075F/DS"
+      },
+      {
+        "store": "amazon",
+        "name": "For Galaxy A07 5G SM-A076B LCD Screen with Digitizer Full Assembly",
+        "url": "https://www.amazon.com.mx/dp/B0HD6TP4W3",
+        "price": 306.7,
+        "model": "SM-A076B"
+      },
+      {
+        "store": "amazon",
+        "name": "For Galaxy A07 4G SM-A075F LCD Screen with Digitizer Full Assembly",
+        "url": "https://www.amazon.com.mx/dp/B0HD6MJGK5",
+        "price": 302.27,
+        "model": "SM-A075F"
+      },
+      {
+        "store": "amazon",
+        "name": "Original para Samsung Galaxy A07 visualización de repuesto para Samsung A07 visualización LCD SM-A075B SM-A075F SM-A075M Digitalizador LCD visualización táctil Piezas de reparación de montaje",
+        "url": "https://www.amazon.com.mx/dp/B0H8CN3CD8",
+        "price": 436.56,
+        "model": "SM-A075B"
+      },
+      {
+        "store": "amazon",
+        "name": "Reemplazo de visualización para Samsung Galaxy A07 5G original, para Samsung A07 5G / A07 4G SM-A076B, SM-A076B/DS SM-A075 de 6.7 pulgadas, visualización LCD táctil digitalizador de vidrio",
+        "url": "https://www.amazon.com.mx/dp/B0GQSHWT4K",
+        "price": 428.44,
+        "model": "SM-A076B/DS"
+      }
+    ]
+  },
+  "walmart|SAMSUNGSAMSUNGGALAXYA07LCD": {
+    "ts": "2026-08-22T18:50:42.560863+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 dual 128GB 4RAM Negro",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-dual-128gb-4ram-negro/00880609766148?athbdg=L1300",
+        "price": 2316.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-negro-desbloqueado/00880609764998?athbdg=L1300",
+        "price": 2316.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 64GB 4GB RAM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-64gb-4gb-ram-negro-desbloqueado/00691427987285",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Violeta Claro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-violeta-claro-desbloqueado/00880609765000",
+        "price": 2372.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-verde-desbloqueado/00880609764997",
+        "price": 2372.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A07 4GB 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a07-4gb-128gb-negro-desbloqueado/00880609765220?athbdg=L1300",
+        "price": 2315.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Violeta Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-violeta-telcel/00750622736452?athbdg=L1300",
+        "price": 2499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Galaxy A07 Morado 64 GB 4 RAM con Smartwatch - Cargador - Audífonos",
+        "url": "https://www.walmart.com.mx/ip/galaxy-a07-morado-64-gb-4-ram-con-smartwatch-cargador-audifonos/00506022019907",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 Negro 64GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-negro-64gb-desbloqueado/00880609764996?athbdg=L6000",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 64GB 4GB RAM Verde Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-64gb-4gb-ram-verde-desbloqueado/00691427874911",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-verde-telcel/00750622736453?athbdg=L1300",
+        "price": 2499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Galaxy A07 64GB Violeta Telcel",
+        "url": "https://www.walmart.com.mx/ip/smartphone-galaxy-a07-64gb-violeta-telcel/00750622736130?athbdg=L1510",
+        "price": 2057.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SAMSUNGSAMSUNGGALAXYA07LCD": {
+    "ts": "2026-08-22T18:50:43.371551+00:00",
+    "items": []
+  },
+  "amazon|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-08-22T18:51:04.240271+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+        "price": 298.0,
+        "model": "BVSTDCS51B"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
+        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
+        "price": 7799.0,
+        "model": "BVSTEM7301"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
+        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
+        "price": 1319.25,
+        "model": "BVSTDC4404"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
+        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
+        "price": 799.0,
+        "model": "BVSTDC4403"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
+        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
+        "price": 499.0,
+        "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
+        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
+        "price": 298.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
+        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
+        "price": 1474.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
+        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
+        "price": 305.35,
+        "model": "CM321DMX"
+      },
+      {
+        "store": "amazon",
+        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
+        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
+        "price": 298.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-08-22T18:51:08.263390+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas Negro",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-Negro/00005389114704",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-5-Tazas-de-Goteo-Switch-Color-Negro/00005389117859?athbdg=L1300",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864?athbdg=L1600",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Oster 12 Tazas",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Oster-12-Tazas/00003426448464",
+        "price": 1349.9,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
+        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-Programable-de-5-Tazas-de-Capacidad-con-Filtro-Reutilizable-Funcion-Pausa-y-Servir-Apagado-Automatico-Pantalla-LED-Jarra-con-Medidas-Color-Negro-BVSTDCP51/00046309775269?athbdg=L1300",
+        "price": 1760.0,
+        "model": "BVSTDCP51"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046309803270",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Capacidad-de-5-Tazas-Filtro-Permanente-Color-Negro-Modelo-BVSTDCS51B-NE/00046525567063",
+        "price": 800.0,
+        "model": "BVSTDCS51B-NE"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-de-8-tazas-en-Acero-Inoxidable/00005389114124?athbdg=L1300",
+        "price": 593.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Analoga-5-Tazas-Oster-Color-Negra-BVST-DC05-013/00060567128327?athbdg=L1300",
+        "price": 635.0,
+        "model": "BVST/DC05-013"
+      },
+      {
+        "store": "walmart",
+        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
+        "url": "https://www.walmart.com.mx/ip/Oster-reg-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046425652021",
+        "price": 771.0,
+        "model": "BVSTDC05"
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera Oster 10 Tazas Cromo",
+        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-10-Tazas-Cromo/00003426445851",
+        "price": 2799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|OSTERCAFETERATOUCHTAZASGOTEO": {
+    "ts": "2026-08-22T18:51:09.006595+00:00",
     "items": []
   }
 }
