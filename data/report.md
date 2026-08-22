@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-22 16:13 UTC
+# Errores/chollos de precio — 2026-08-22 16:43 UTC
 
-- Productos revisados: **1628**
+- Productos revisados: **1590**
 - Umbral de diferencia: **20%**
-- Hallazgos: **44**
+- Hallazgos: **42**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -46,7 +46,5 @@
 | -23% | $748 | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | Confirmado vs competencia | $2,495 en palacio vs mercado -> -23% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
 | -20% | $620 | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | Confirmado vs competencia | $2,479 en liverpool vs mercado -> -20% bajo la competencia |
-| -21% | $599 | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,290 | Confirmado vs competencia | $2,290 en liverpool vs mercado -> -21% bajo la competencia |
 | -25% | $440 | palacio | [Cafetera de goteo Panel Touch para 8 Tazas, Acero](https://www.elpalaciodehierro.com/oster-cafetera-de-goteo-panel-touch-para-8-tazas-acero-43926488.html) | $1,319 | Confirmado vs competencia | $1,319 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
-| -28% | $152 | amazon | [Piezas de repuesto OEM genuinas compatibles con licuadora De…](https://www.amazon.com.mx/dp/B0GSXY99RP) | $388 | Confirmado vs competencia | $388 en amazon vs amazon $540, amazon $540, amazon $1,602 -> -28% bajo la competencia |

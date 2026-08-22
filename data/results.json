@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 16:13 UTC",
-  "products_scanned": 1628,
+  "generated_at": "2026-08-22 16:43 UTC",
+  "products_scanned": 1590,
   "threshold_pct": 20.0,
-  "count": 44,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -233,26 +233,6 @@
       "extra": {
         "id": "45241138",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$388 en amazon vs amazon $540, amazon $540, amazon $1,602 -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 151.82,
-      "store": "amazon",
-      "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
-      "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
-      "price": 388.44,
-      "list_price": 129.48,
-      "ean": null,
-      "model": "CO905KS",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0GSXY99RP"
       }
     },
     {
@@ -799,27 +779,6 @@
       "extra": {
         "id": "45262439",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.0,
-      "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
-      "ean": null,
-      "model": null,
-      "brand": "SHOTGUN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1105905200",
-        "marketplace": null
       }
     },
     {
