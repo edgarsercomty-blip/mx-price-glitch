@@ -9119,252 +9119,6 @@
     "ts": "2026-08-22T16:13:14.941188+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-08-20T17:20:15.122550+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Gris, BVSTEM6801M",
-        "url": "https://www.amazon.com.mx/dp/B0BY3P81R3",
-        "price": 4259.0,
-        "model": "BVSTEM6801M"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
-        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster - Cafetera de 12 Tazas Oster Negra Sistema Programable con Reloj Digital BVSTDCP12B013 | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDCP12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9JP3ML",
-        "price": 1022.0,
-        "model": "BVSTDCP12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
-        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
-        "price": 4899.0,
-        "model": "BVSTEM680R"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JadeCook Cafetera Programable de Goteo 12 Tazas, 1.8 L, Panel Touch, Sistema Antigoteo, Jarra de Cristal, Color Plateado C0545-00",
-        "url": "https://www.amazon.com.mx/dp/B0GG67J6FL",
-        "price": 695.0,
-        "model": "C0545-00"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-08-20T17:20:32.625124+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
-        "price": 10555.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 10 Tazas Cromo",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster Cafetera, Programable, de 5 Tazas de Capacidad, con Filtro Reutilizable, Función Pausa y Servir, Apagado Automático, Pantalla LED, Jarra con Medidas, Color Negro, BVSTDCP51",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-programable-de-5-tazas-de-capacidad-con-filtro-reutilizable-funcion-pausa-y-servir-apagado-automatico-pantalla-led-jarra-con-medidas-color-negro-bvstdcp51/00046309775269?athbdg=L1300",
-        "price": 1760.0,
-        "model": "BVSTDCP51"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera 12 tazas Hamilton Beach 49316",
-        "url": "https://www.walmart.com.mx/ip/cafetera-12-tazas-hamilton-beach-49316/00004009449316",
-        "price": 419.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAPANELTAZASTOUCH": {
-    "ts": "2026-08-20T17:20:36.189958+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 698.0,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
-  },
   "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
     "ts": "2026-08-20T17:50:35.054337+00:00",
     "items": [
@@ -33324,6 +33078,132 @@
   },
   "sams|OSTERCAFETERATAZASACEROPANEL": {
     "ts": "2026-08-22T16:43:09.606431+00:00",
+    "items": []
+  },
+  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-22T17:37:11.999649+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "truefree B1 Audífonos de Oído Abierto Inalámbricos Bluetooth 5.4 Opean-Ear Graves dinámicos, 4 mics para Llamadas claras, conexión Dual, Ajuste Ligero y Seguro, Ideales para Deportes, Control de App",
+        "url": "https://www.amazon.com.mx/dp/B0DSNZDH28",
+        "price": 395.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS Runfree Lite2 Audífonos Bluetooth Inalámbricos de Conducción de Aire, Audífonos de Oído Abierto Altavoces de 16.2mm Bajos Potentes Llamadas Claras para Deportes con Aplicación",
+        "url": "https://www.amazon.com.mx/dp/B0CYGXLLRN",
+        "price": 730.52,
+        "model": "Lite2"
+      },
+      {
+        "store": "amazon",
+        "name": "QCY Crossky C30 Audífonos de Oído Abierto, Bluetooth 5.4 Audífonos Inalámbricos Deportivos, Conexión Multipunto, Ajuste Seguro, Auriculares con Clip y 4 micrófono ENC para Entrenamientos/Correr",
+        "url": "https://www.amazon.com.mx/dp/B0DCHLDJC2",
+        "price": 506.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "PHOCAR Mini Audifonos Inalambricos, Audifonos Bluetooth Impermeable con Cancelación de Ruido, Buen Sonido y Bajos, Tamaño Cómodo y Batería Durante para iPhone, Samsung, Xiaomi, Huawei, Honor, OPPO",
+        "url": "https://www.amazon.com.mx/dp/B0CCTJSX6Q",
+        "price": 236.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Naranja eléctrico",
+        "url": "https://www.amazon.com.mx/dp/B0DT29FZCP",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Negro Azabache",
+        "url": "https://www.amazon.com.mx/dp/B0DT2LXYPQ",
+        "price": 3971.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Negro Azabache",
+        "url": "https://www.amazon.com.mx/dp/B0FPH55VMK",
+        "price": 3199.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
+        "url": "https://www.amazon.com.mx/dp/B0DT21Q6M9",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Gris Grava",
+        "url": "https://www.amazon.com.mx/dp/B0FPGQGW2K",
+        "price": 3399.14,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro - Auriculares Bluetooth Inalámbricos, Azul Marino (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B084B1HC6T",
+        "price": 3105.78,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para entrenamiento con cancelación de ruido, IPX4, hasta 30 horas de batería con el estuche de carga, compatibles con Apple y Android - Naranja destello",
+        "url": "https://www.amazon.com.mx/dp/B0FPGQ1K9D",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Morado dinámico",
+        "url": "https://www.amazon.com.mx/dp/B0DT1ZV981",
+        "price": 3999.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-22T17:37:15.476609+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
+        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-pro-2-bluetooth-audifonos-inalambricos-cancelacion-de-ruido-ipx4-hasta-45-horas-de-bateria-con-el-estuche-de-carga-compatibles-con-apple-y-android-arena-movediza/00019594959090?athbdg=L1300",
+        "price": 6896.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Auriculares Inalámbricos Bluetooth - Cancelación de Ruido, Monitor de Ritmo Cardíaco, IPX4, Batería de Hasta 45H y Estuche de Carga, Funciona con Apple y Android - Naranja Eléct",
+        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-pro-2-auriculares-inalambricos-bluetooth-cancelacion-de-ruido-monitor-de-ritmo-cardiaco-ipx4-bateria-de-hasta-45h-y-estuche-de-carga-funciona-con-apple-y-android-naranja-elect/00019594959100",
+        "price": 5219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Auriculares Inalámbricos Bluetooth - Cancelación de Ruido, Monitor de Ritmo Cardíaco, IPX4, Batería de Hasta 45H y Estuche de Carga, Funciona con Apple y Android - Negro Azabach",
+        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-pro-2-auriculares-inalambricos-bluetooth-cancelacion-de-ruido-monitor-de-ritmo-cardiaco-ipx4-bateria-de-hasta-45h-y-estuche-de-carga-funciona-con-apple-y-android-negro-azabach/00019594959084?athbdg=L1300",
+        "price": 6017.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats - Powerbeats Fit - Auriculares inalámbricos para entrenamiento con cancelación de ruido con el",
+        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-fit-auriculares-inalambricos-para-entrenamiento-con-cancelacion-de-ruido-con-el/00046491334436?athbdg=L1300",
+        "price": 5039.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-22T17:37:16.573355+00:00",
     "items": []
   }
 }
