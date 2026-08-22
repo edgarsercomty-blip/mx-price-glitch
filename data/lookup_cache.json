@@ -33814,5 +33814,187 @@
   "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
     "ts": "2026-08-22T14:41:48.876909+00:00",
     "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-08-22T14:56:28.929586+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Smartphone Samsung Galaxy A26 6GB 128GB Negro Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DZHPR6CS",
+        "price": 4286.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S20 FE 5G | Teléfono celular Android desbloqueado de fabrica | 128 GB | version de EE. UU. | Camara de grado profesional, zoom espacial 30X, modo nocturno | Cloud Navy (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08L34JQ9C",
+        "price": 3397.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A07 Verde 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0GXCCNCTF",
+        "price": 2199.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S23 128GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C5B736X3",
+        "price": 5277.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S23 128GB Lavanda Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0C5SBB117",
+        "price": 5427.31,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy-A17 Black 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLL9MGZG",
+        "price": 2990.0,
+        "model": "Galaxy-A17"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S20 FE, 128 GB, Cloud Mint - Totalmente desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B08L34NZDM",
+        "price": 3387.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A07 4+128GB Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FT79VQQK",
+        "price": 2119.0,
+        "model": "4+128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S22 Plus 8 Ram 128GB Fantasma Negro Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0B3P43FSM",
+        "price": 4547.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S21 FE 128GB Grafito Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09SHJGLNN",
+        "price": 3587.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S22 Ultra 8 Ram 128GB Vino Burgundy Desbloqueado (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0B6WNSGDK",
+        "price": 6999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, Batería 5000mAh, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FRNCLG2X",
+        "price": 2990.0,
+        "model": "5000mAh"
+      }
+    ]
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-08-22T14:56:54.488719+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
+        "price": 13999.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "price": 11499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 LTE Gris 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-gris-128gb-desbloqueado/00880609766826?athbdg=L1300",
+        "price": 2888.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Black 128GB , 6GB RAM Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-black-128gb-6gb-ram-dual-sim-desbloqueado/00880609766722?athbdg=L1300",
+        "price": 3549.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Ligth Blue 128GB , 6GB RAM Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-ligth-blue-128gb-6gb-ram-dual-sim-desbloqueado/00880609766803",
+        "price": 3599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 LTE 4+128GB Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-4-128gb-gris-desbloqueado/00750665820968?athbdg=L1300",
+        "price": 3399.0,
+        "model": "4+128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Lavanda Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-lavanda-desbloqueado/00880609708869?athbdg=L1300",
+        "price": 4819.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A16 4GB RAM 128GB ROM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4gb-ram-128gb-rom-negro-desbloqueado/00880609582072",
+        "price": 3069.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy S26 Ultra Azul Cielo 1TB 16GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-s26-ultra-azul-cielo-1tb-16gb-desbloqueado/00880609786683",
+        "price": 22999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-08-22T14:56:55.714921+00:00",
+    "items": []
   }
 }

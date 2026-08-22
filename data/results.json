@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 14:42 UTC",
-  "products_scanned": 1628,
+  "generated_at": "2026-08-22 14:56 UTC",
+  "products_scanned": 1597,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -779,27 +779,6 @@
       "extra": {
         "id": "45262439",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.0,
-      "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
-      "ean": null,
-      "model": null,
-      "brand": "SHOTGUN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1105905200",
-        "marketplace": null
       }
     },
     {
