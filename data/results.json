@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 21:38 UTC",
-  "products_scanned": 1678,
+  "generated_at": "2026-08-22 21:54 UTC",
+  "products_scanned": 1656,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -108,24 +108,6 @@
         "id": "45650688",
         "outlet": false
       }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2120.38,
-      "store": "walmart",
-      "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": "256Gb+8Gb",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {}
     },
     {
       "kind": "cross_confirmed",
@@ -507,6 +489,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2522.17,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+      "price": 7746.2,
+      "list_price": 16299.0,
+      "ean": null,
+      "model": "50Qd8Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197752251",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -775,6 +778,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.0,
+      "store": "liverpool",
+      "name": "Asiento Para Bicicleta Shotgun",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
+      "price": 2290.0,
+      "list_price": 2290.0,
+      "ean": null,
+      "model": null,
+      "brand": "SHOTGUN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1105905200",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },

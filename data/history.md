@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (916)
+# Historial de ofertas encontradas (917)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-22 21:54 | -25% | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 5…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | $7,746 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-22 15:26 | -20% | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata …](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,769 | $4,769 en mercadolibre vs mercado -> -20% bajo la competencia |
 | 2026-08-22 15:26 | -21% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-08-22 15:26 | -27% | amazon | [Keds WH61626 Tenis de piel para Dama](https://www.amazon.com.mx/dp/B0CNV44WCH) | $794 | $794 en amazon vs mercado -> -27% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 13:29 | -41% | palacio | [Laptop Ideapad Slim 5, 14" WUXGA, Snapdragon X Plus X1P…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-5-14-wuxga-snapdragon-x-plus-x1p-42-100-ram-16-gb-ssd-512-gb-44573840.html) | $12,220 | $12,220 en palacio vs mercado -> -41% bajo la competencia |
 | 2026-07-30 11:47 | -20% | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | $360 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 11:47 | -25% | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
