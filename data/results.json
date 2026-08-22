@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 06:23 UTC",
-  "products_scanned": 1640,
+  "generated_at": "2026-08-22 07:16 UTC",
+  "products_scanned": 1624,
   "threshold_pct": 20.0,
-  "count": 40,
+  "count": 41,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,12 +70,12 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": null,
-      "detail": "$4,699 en walmart vs palacio $6,819, walmart $6,899 -> -31% bajo la competencia",
+      "detail": "$4,699 en walmart vs palacio $6,819 -> -31% bajo la competencia",
       "likely_typo": false,
       "savings": 2120.38,
       "store": "walmart",
       "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-      "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+      "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
       "price": 4699.0,
       "list_price": null,
       "ean": null,
@@ -713,6 +713,27 @@
       "extra": {
         "id": "45262441",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.1,
+      "detail": "$2,479 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 619.8,
+      "store": "liverpool",
+      "name": "Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538",
+      "price": 2479.2,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1184984538",
+        "marketplace": null
       }
     },
     {
