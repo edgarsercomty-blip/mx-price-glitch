@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22 14:56 UTC",
-  "products_scanned": 1597,
+  "generated_at": "2026-08-22 15:26 UTC",
+  "products_scanned": 2792,
   "threshold_pct": 20.0,
-  "count": 42,
+  "count": 53,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -44,6 +44,26 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$773 en amazon vs walmart $1,259, walmart $1,299, walmart $1,629 -> -39% bajo la competencia",
+      "likely_typo": false,
+      "savings": 486.0,
+      "store": "amazon",
+      "name": "256GB SANDISK Ultra MICROSDXC MEM",
+      "url": "https://www.amazon.com.mx/dp/B08KSL4RNQ",
+      "price": 773.0,
+      "list_price": 78.45,
+      "ean": null,
+      "model": "256GB",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B08KSL4RNQ"
       }
     },
     {
@@ -107,6 +127,26 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.8,
+      "detail": "$12,990 en walmart vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5649.0,
+      "store": "walmart",
+      "name": "Refrigerador Midea 19 pies FrenchDoor Inox",
+      "url": "https://www.walmart.com.mx/ip/refrigerador-midea-19-pies-frenchdoor-inox/00695490381639?athbdg=L1300",
+      "price": 12990.0,
+      "list_price": 20890.0,
+      "ean": null,
+      "model": null,
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00695490381639"
       }
     },
     {
@@ -237,6 +277,46 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$208 en amazon vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 76.5,
+      "store": "amazon",
+      "name": "Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corrector, 5Ml",
+      "url": "https://www.amazon.com.mx/dp/B08D47L4VB",
+      "price": 208.3,
+      "list_price": 41.66,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B08D47L4VB"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$794 en amazon vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 289.23,
+      "store": "amazon",
+      "name": "Keds WH61626 Tenis de piel para Dama",
+      "url": "https://www.amazon.com.mx/dp/B0CNV44WCH",
+      "price": 794.14,
+      "list_price": 80.6,
+      "ean": null,
+      "model": "WH61626",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CNV44WCH"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -254,6 +334,26 @@
       "extra": {
         "productId": "1110040357",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.9,
+      "detail": "$825 en amazon vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 285.26,
+      "store": "amazon",
+      "name": "Calvin Klein Tenis para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0BTTQHHMY",
+      "price": 824.83,
+      "list_price": 1113.85,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0BTTQHHMY"
       }
     },
     {
@@ -552,6 +652,24 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$85 en walmart vs walmart $112, mercadolibre $169 -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 27.25,
+      "store": "walmart",
+      "name": "Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto Cell Combo Cargador Turbo Iphone",
+      "url": "https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285",
+      "price": 85.25,
+      "list_price": null,
+      "ean": null,
+      "model": "1Hora",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {}
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 39.0,
       "detail": "$11,589 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -699,6 +817,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 37.0,
+      "detail": "$6,290 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1709.0,
+      "store": "walmart",
+      "name": "Estufa  de Piso Midea con Capelo 30\" MASTER COOK Silver",
+      "url": "https://www.walmart.com.mx/ip/estufa-de-piso-midea-con-capelo-30-master-cook-silver/00694427168676?athbdg=L1300",
+      "price": 6290.0,
+      "list_price": 9990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694427168676"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -779,6 +917,66 @@
       "extra": {
         "id": "45262439",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1439.0,
+      "store": "walmart",
+      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
+      "url": "https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600",
+      "price": 5490.0,
+      "list_price": 7990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00692172704679"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1300.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
+      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
+      "price": 4999.0,
+      "list_price": null,
+      "ean": null,
+      "model": "Lrk-2311a",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM46517919"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$4,769 en mercadolibre vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1230.0,
+      "store": "mercadolibre",
+      "name": "Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color Gris",
+      "url": "https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243",
+      "price": 4769.0,
+      "list_price": 4769.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM26088243"
       }
     },
     {
@@ -884,6 +1082,26 @@
       "extra": {
         "id": "45001062",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$32 en amazon vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7.98,
+      "store": "amazon",
+      "name": "Sabritas Churrumais con Limoncito Sabor a Chile y Limón Botana 185 g",
+      "url": "https://www.amazon.com.mx/dp/B08JTQZTQ5",
+      "price": 31.9,
+      "list_price": 0.17,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B08JTQZTQ5"
       }
     }
   ]

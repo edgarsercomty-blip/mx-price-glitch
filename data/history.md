@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (911)
+# Historial de ofertas encontradas (916)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-22 15:26 | -20% | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata …](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,769 | $4,769 en mercadolibre vs mercado -> -20% bajo la competencia |
+| 2026-08-22 15:26 | -21% | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600) | $5,490 | $5,490 en walmart vs mercado -> -21% bajo la competencia |
+| 2026-08-22 15:26 | -27% | amazon | [Keds WH61626 Tenis de piel para Dama](https://www.amazon.com.mx/dp/B0CNV44WCH) | $794 | $794 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-08-22 15:26 | -27% | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot …](https://www.amazon.com.mx/dp/B08D47L4VB) | $208 | $208 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-08-22 15:26 | -39% | amazon | [256GB SANDISK Ultra MICROSDXC MEM](https://www.amazon.com.mx/dp/B08KSL4RNQ) | $773 | $773 en amazon vs walmart $1,259, walmart $1,299, walmart $1,629 -> -39% bajo la competencia |
 | 2026-08-22 07:50 | -21% | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,290 | $2,290 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-22 07:50 | -50% | palacio | [Combo de Cafetera, Tostador y Exprimidor de crítricos](https://www.elpalaciodehierro.com/smeg-combo-de-cafetera-tostador-y-exprimidor-de-critricos-44923017.html) | $6,400 | $6,400 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-08-22 04:52 | -25% | amazon | [Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reu…](https://www.amazon.com.mx/dp/B0F8KF41L9) | $298 | $298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 11:47 | -20% | palacio | [Funda Bumper para celular iPhone Air, Negro](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-negro-45003621.html) | $360 | $360 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 11:47 | -25% | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $23,715 | $23,715 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 09:48 | -20% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,199 | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 09:48 | -20% | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | $280 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 09:48 | -20% | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | $440 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 09:48 | -20% | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | $920 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 09:48 | -21% | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $12,311 | $12,311 en palacio vs mercado -> -21% bajo la competencia |
