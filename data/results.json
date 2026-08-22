@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22 11:12 UTC",
-  "products_scanned": 1576,
+  "generated_at": "2026-08-22 11:36 UTC",
+  "products_scanned": 1657,
   "threshold_pct": 20.0,
   "count": 40,
   "findings": [
@@ -272,6 +272,27 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1421.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Luuna Basics1 10",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
+      "price": 4266.15,
+      "list_price": 12189.0,
+      "ean": null,
+      "model": "Basics1",
+      "brand": "LUUNA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178927540",
+        "marketplace": null
       }
     },
     {
@@ -775,27 +796,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1196432023",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 5.0,
-      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3199.65,
-      "store": "liverpool",
-      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
-      "price": 12799.35,
-      "list_price": 13473.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173032684",
         "marketplace": null
       }
     },
