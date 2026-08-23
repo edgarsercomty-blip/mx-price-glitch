@@ -2480,36 +2480,8 @@
     ]
   },
   "amazon|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-21T07:59:07.873744+00:00",
+    "ts": "2026-08-23T08:19:22.274465+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "KELIN 4G Teléfono móvil Plegable para Personas Mayores con botón SOS, Dual Pantalla, batería 1300 mAh, estación de Carga, Bluetooth, cámara, Radio FM y Linterna (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0C9Y6GXJ9",
-        "price": 1089.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Teléfono Fijo Escritorio Multifuncional para Personas Mayores, Hotel y Oficina, Botón Grande sin Batería, Diseño Moderno en Color Naranja",
-        "url": "https://www.amazon.com.mx/dp/B09MKX4KDF",
-        "price": 232.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Dpofirs Teléfono Fijo de Escritorio para Personas Mayores, Teléfono con Cable sin Batería Multifuncional de Botón Grande de Dos Colores para Hotel de Oficina(Rojo)",
-        "url": "https://www.amazon.com.mx/dp/B09MKTG4JZ",
-        "price": 300.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KOSPET Tank T3 Ultra 2 Smartwatch (GPS), Reloj Inteligente con Pantalla AMOLED 1.43\", Brújula/Altímetro/Presión, Unibody Acero Inoxidable, Llamadas Bluetooth, IP69K Impermeable, 170 Modos Deportivos",
-        "url": "https://www.amazon.com.mx/dp/B0DN19HP2Y",
-        "price": 2999.0,
-        "model": "IP69K"
-      },
       {
         "store": "amazon",
         "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Negro",
@@ -2521,15 +2493,15 @@
         "store": "amazon",
         "name": "HUAWEI Mate XT Ultimate Design 16GB + 1TB, Celular con Diseño Triple Súper Delgado, Cámara XMAGE Ultra Aperture, Pantalla Hi-Res X-True de 10.2 Pulgadas, Innovadora Función Multitarea, Rojo",
         "url": "https://www.amazon.com.mx/dp/B0DXKVSX1H",
-        "price": 44999.0,
+        "price": 35399.41,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
-        "price": 15999.0,
-        "model": "12+256GB"
+        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XPJ61L",
+        "price": 18999.0,
+        "model": "12+512GB"
       },
       {
         "store": "amazon",
@@ -2540,10 +2512,10 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FNX55ZBV",
-        "price": 11990.0,
-        "model": "12+256G"
+        "name": "HUAWEI Mate X6, 12+512G, Smartphone Plegable, Ultra Fino y Duradero, Cámara Ultra Chroma, 2ª Cristal Kunlun Glass, Doble Pantalla X-True™ y la Multitarea innovadora, Celular Gris+Regalo GT 4",
+        "url": "https://www.amazon.com.mx/dp/B0DN93TMZM",
+        "price": 23839.95,
+        "model": "12+512G"
       },
       {
         "store": "amazon",
@@ -2554,426 +2526,172 @@
       },
       {
         "store": "amazon",
+        "name": "HUAWEI Y5p 4G 2GB RAM 32GB Dual-SIM Phantom Blue EU",
+        "url": "https://www.amazon.com.mx/dp/B088TVXR44",
+        "price": 2435.75,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XLBB48",
+        "price": 15999.0,
+        "model": "12+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XMWVJK",
+        "price": 18999.0,
+        "model": "12+512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B00ZEQ91VE",
+        "price": 18999.0,
+        "model": "12+512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Mate X6, 12+512G, Smartphone Plegable, Ultra Fino y Duradero, Cámara Ultra Chroma, 2ª Cristal Kunlun Glass, Doble Pantalla X-True™ y la Multitarea innovadora, Celular Rojo+Regalo GT 4",
+        "url": "https://www.amazon.com.mx/dp/B0DNRB7TRW",
+        "price": 41644.74,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
         "name": "HUAWEI Mate X7 Celular 16+512GB, Pantalla Plegable LTPO de 8\" y 120Hz, Ultra Delgado y Durable, Kunlun Glass, Batería de Doble celda (1850 mAh + 3750 mAh) de Gran Capacidad, Negro",
         "url": "https://www.amazon.com.mx/dp/B0G76143NM",
         "price": 29999.0,
         "model": "16+512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Mate X6, 12+512G, Smartphone Plegable, Ultra Fino y Duradero, Cámara Ultra Chroma, 2ª Cristal Kunlun Glass, Doble Pantalla X-True™ y la Multitarea innovadora, Celular Gris+Regalo GT 4",
-        "url": "https://www.amazon.com.mx/dp/B0DN93TMZM",
-        "price": 26488.83,
-        "model": "12+512G"
       }
     ]
   },
   "walmart|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-21T07:59:11.341093+00:00",
+    "ts": "2026-08-23T08:19:34.676728+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 15499.0,
-        "model": "256GB"
+        "name": "Smartphone Samsung Galaxy A26 5G Blanco desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Blanco-desbloqueado-128GB/00880609724418",
+        "price": 4599.0,
+        "model": "128GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Y5P-32GB-Dual-Sim-2GB-Ram-Huawei-Verde-Esmeralda-Desbloqueado/00690144339895",
         "price": 1639.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Hyundai, Hyline Plus Smartphone, Pantalla Digital 6.56, Android 13, Celular Con Sensor De Huella, Almacenamiento 64GB (Azul)",
-        "url": "https://www.walmart.com.mx/ip/hyundai-hyline-plus-smartphone-pantalla-digital-6-56-android-13-celular-con-sensor-de-huella-almacenamiento-64gb-azul-/00081012726080?athbdg=L6000",
+        "url": "https://www.walmart.com.mx/ip/Hyundai-Hyline-Plus-Smartphone-Pantalla-Digital-6-56-Android-13-Celular-Con-Sensor-De-Huella-Almacenamiento-64GB-Azul/00081012726080?athbdg=L6000",
         "price": 2997.5,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Negro-desbloqueado-128GB/00880609709043",
         "price": 4599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
         "name": "Teléfono celular con botón grande, teléfono celular para personas mayores desbloqueado Teléfono móvil con botón grande G Teléfono celular retro elaborado por expertos",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-con-boton-grande-telefono-celular-para-personas-mayores-desbloqueado-telefono-movil-con-boton-grande-g-telefono-celular-retro-elaborado-por-expertos/00645237346184?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Telefono-celular-con-boton-grande-telefono-celular-para-personas-mayores-desbloqueado-Telefono-movil-con-boton-grande-G-Telefono-celular-retro-elaborado-por-expertos/00645237346184?athbdg=L1300",
         "price": 799.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Celular Soho | Dual Sim | Desbloqueado | 16gb | Android | Con Funda",
-        "url": "https://www.walmart.com.mx/ip/celular-soho-dual-sim-desbloqueado-16gb-android-con-funda/00884378713190",
-        "price": 799.0,
+        "name": "Smartphone Xiaomi Redmi Go 1 16GB Desbloqueado Azul",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Go-1-16GB-Desbloqueado-Azul/00694105962367",
+        "price": 1826.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-FE-5G-Azul-Desbloqueado-128GB/00880609574579",
         "price": 11499.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Celular smartphone Vivo V60 Lite 4g Negro 8gb+256gb Nuevo Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-smartphone-vivo-v60-lite-4g-negro-8gb-256gb-nuevo-desbloqueado/00693220452459?athbdg=L1300",
-        "price": 6049.0,
-        "model": "8gb+256gb"
+        "name": "Smartphone Xiaomi Poco M8 Pro 5G 512GB Negro Desbloqueado + Audífonos",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Poco-M8-Pro-5G-512GB-Negro-Desbloqueado-Audifonos/00750665822103?athbdg=L1300",
+        "price": 7099.0,
+        "model": "512GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Nubia Music Multicolor 128 GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-nubia-music-multicolor-128-gb-desbloqueado/00690217611567?athbdg=L6000",
-        "price": 2799.0,
+        "name": "Smartphone TechPad X9 Azul 32 GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-TechPad-X9-Azul-32-GB-Desbloqueado/00072920816448",
+        "price": 1099.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Verde Claro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Verde-Claro-desbloqueado-128GB/00880609724419",
+        "price": 4779.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Soho | Dual Sim | Desbloqueado | 16gb | Android | Con Funda",
+        "url": "https://www.walmart.com.mx/ip/Celular-Soho-Dual-Sim-Desbloqueado-16gb-Android-Con-Funda/00884378713190",
+        "price": 799.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-12GB-RAM-256GB-ROM-Negro-Onix-Desbloqueado/00880609533830",
         "price": 15499.0,
         "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Honor X7d 256GB 8GB RAM Plata Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-honor-x7d-256gb-8gb-ram-plata-desbloqueado/00693652087753",
-        "price": 4599.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
-        "price": 13999.0,
-        "model": "128GB"
       }
     ]
   },
   "sams|HUAWEIDESBLOQUEADOULTIMATECELULARDESIGN": {
-    "ts": "2026-08-21T07:59:15.710538+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-plata-desbloqueado/981018271",
-        "price": 7671.47,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
-        "price": 3500.71,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-verde-desbloqueado/981018260",
-        "price": 8129.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
-        "price": 16613.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  G17 Power Celeste 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-g17-power-celeste-256-gb-desbloqueado/981050389",
-        "price": 6645.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
-        "price": 2288.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A37 256 GB Gray Desbloqueado ",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317",
-        "price": 7362.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A07 128 GB Violeta Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-violeta-desbloqueado/981053649",
-        "price": 2288.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228",
-        "price": 5009.63,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-21T08:00:42.038996+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional Titan 2200 W, Vaso de Vidrio 2.5 L (máx 2 L) | 4 Programas: Salsa, Recetas Calientes, Smoothie y Malteada, Tecnología Reversible, Vaso Portátil, Fácil Limpieza, BLSTXT-XG",
-        "url": "https://www.amazon.com.mx/dp/B0G45GJK5V",
-        "price": 4169.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1452.38,
-        "model": "BLSTBESTE-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
-        "price": 1278.0,
-        "model": "BLST4655-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Titan Licuadora de rendimiento",
-        "url": "https://www.amazon.com.mx/dp/B0GP33J4M4",
-        "price": 6724.57,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Profesional XTREMEMIX 1500W, Vaso Vidrio + Portatil, iBlend | Vaso de Vidrio 2 L + Vaso Portátil, Tecnología Reversible, 3 Programas Automáticos, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
-        "url": "https://www.amazon.com.mx/dp/B0CVXYZ5DT",
-        "price": 2589.0,
-        "model": "1500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora con Vaso de Vidrio y 6 Velocidades más Pulso",
-        "url": "https://www.amazon.com.mx/dp/B0BZX3227Y",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
-        "price": 592.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W con Vaso de Vidrio 1.25 L y 3 Velocidades | Prepara recetas frías y calientes, cuchilla trituradora de hielo, perilla ergonómica y acople metálico, BLST4128-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LXDZZ",
-        "price": 1278.0,
-        "model": "BLST4128-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
-        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
-        "price": 1290.0,
-        "model": "BLST4126013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora De Dos Velocidades Con Pulso Y Vaso De Plástico Blstkapwpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPX25WZ",
-        "price": 576.88,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W con Vaso de Vidrio de 1.25 L, 3 velocidades | 3 Velocidades para preparar sopas, bebidas y tritura hielo, acople metálico, perilla, roja, BLST4126R",
-        "url": "https://www.amazon.com.mx/dp/B08V5KWPQG",
-        "price": 1290.0,
-        "model": "BLST4126R"
-      }
-    ]
-  },
-  "walmart|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-21T08:00:53.923883+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 Velocidades más Pulso Gris",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-gris/00005389116839?athbdg=L1600",
-        "price": 774.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Pro 1200 con 7 Velocidades, 3 Programas Automáticos, Vaso BlendNGo, Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-pro-1200-con-7-velocidades-3-programas-automaticos-vaso-blendngo-plata/00003426447918?athbdg=L1300",
-        "price": 5128.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Tecnología reversible 2 programas automáticos 3 velocidades más pulso",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-tecnologia-reversible-2-programas-automaticos-3-velocidades-mas-pulso/00005389116851?athbdg=L1300",
-        "price": 1390.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Licuadora de 10 velocidades cuchillas acero 869-16G",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-licuadora-de-10-velocidades-cuchillas-acero-869-16g/00003426400153?athbdg=L1300",
-        "price": 779.0,
-        "model": "869-16G"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 Litros 3 Velocidades",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-litros-3-velocidades/00005389114020?athbdg=L1300",
-        "price": 1290.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster Clásica con Perilla Ergonómica de Tres Velocidades",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-con-perilla-ergonomica-de-tres-velocidades/00005389114029",
-        "price": 1699.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 10 Velocidades Blanco",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-10-velocidades-blanco/00005389116978?athbdg=L1300",
-        "price": 749.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 2 Velocidades 1.25L 800 W Perilla Color Roja",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-2-velocidades-1-25l-800-w-perilla-color-roja/00005389113840?athbdg=L1300",
-        "price": 598.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Plástico 2 Velocidades Azul",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-plastico-2-velocidades-azul/00005389117503?athbdg=L1300",
-        "price": 630.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster con Vaso de Vidrio y 6 velocidades más pulso Roja",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-con-vaso-de-vidrio-y-6-velocidades-mas-pulso-roja/00005389116842?athbdg=L1300",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2190.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Oster 3 Velocidades 1200 W 2L Vortex Plus Color Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-3-velocidades-1200-w-2l-vortex-plus-color-negro/00005389118112?athbdg=L6000",
-        "price": 1543.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERVELOCIDADESLICUADORATITAN": {
-    "ts": "2026-08-21T08:01:07.019626+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T08:19:35.810913+00:00",
+    "items": []
   },
   "amazon|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-21T08:01:11.194928+00:00",
+    "ts": "2026-08-23T08:20:23.139486+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Profesional XTREMEMIX 1500 W, Vaso de Vidrio 2 L, iBlend | Tecnología Reversible, 3 Programas Automáticos: Smoothie, Triturar, Procesar, 3 Velocidades + Pulso, Gris, BLSTXPG-BW",
+        "url": "https://www.amazon.com.mx/dp/B0CVXZ7S2R",
+        "price": 2071.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Licuadora Vortex con Motor 800 W, Vaso de Vidrio 1.6 L (máx 1.5 L), 2 Programas iBlend Smoothie y Procesar, Tecnología Reversible, 3 Velocidades con Pulso, Cuchilla de Acero Inoxidable, Crema",
+        "url": "https://www.amazon.com.mx/dp/B0H1DNNBSL",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora y Procesador Auto-iQ 1400W 5 Programas 2.1L BN801 | Licuadora + Procesador + 2 Vasos | 1400W, 5 Auto-iQ | Picar, Amasar y Purés | Apto Lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B08559K7CN",
+        "price": 3711.0,
+        "model": "1400W"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja Licuadora 1100W Jarra 2.1L + 2 Vasos 480ml para Llevar BL660 | Total Crushing Tritura Hielo en Nieve | 1100W, Jarra 2.1L | 2 Vasos 480ml para Llevar | Apto Lavavajillas",
+        "url": "https://www.amazon.com.mx/dp/B00939FV8K",
+        "price": 2299.0,
+        "model": "1100W"
+      },
       {
         "store": "amazon",
         "name": "Oster Licuadora XPERT SERIES 1500 W, 2 Vasos 2 L, 3 Programas Automáticos | Tecnología reversible, 3 Velocidades y pulso, acomple metálico, cuchilla acero, vaso de vidrio + vaso tritán, BLST3B-CAG-013",
@@ -2985,7 +2703,7 @@
         "store": "amazon",
         "name": "H+R Aspa compatible Oster Xpert Series",
         "url": "https://www.amazon.com.mx/dp/B094NWP5PX",
-        "price": 252.97,
+        "price": 299.0,
         "model": null
       },
       {
@@ -2997,10 +2715,10 @@
       },
       {
         "store": "amazon",
-        "name": "6 Piezas Repuesto de Licuadora para Oster, Cuchillas para Licuadoras Oster Pro 1200 Xpert Series, Aspas Licuadora Oster con la Nueva Serie Master, con 3 Cuchillas Licuadora Oster, 3 Anillos de Goma.",
-        "url": "https://www.amazon.com.mx/dp/B0H155GJ2W",
-        "price": 468.0,
-        "model": null
+        "name": "Oster® Licuadora clásica roja 2 velocidades vaso de vidrio BLST4126013",
+        "url": "https://www.amazon.com.mx/dp/B08V5L47ST",
+        "price": 1290.0,
+        "model": "BLST4126013"
       },
       {
         "store": "amazon",
@@ -3011,31 +2729,17 @@
       },
       {
         "store": "amazon",
-        "name": "Repuesto Vaso de Vidrio de 2 litros (Boroclass) para licuadora Oster Xpert Series Original",
-        "url": "https://www.amazon.com.mx/dp/B08VFF73BK",
-        "price": 1380.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
         "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
+        "price": 1425.0,
         "model": "BLST4127"
       },
       {
         "store": "amazon",
-        "name": "H + R Vaso Vidrio Compatible Oster Modelo Tecnología Reversible y Xpert Con Tapa",
-        "url": "https://www.amazon.com.mx/dp/B0D1Z67QMT",
-        "price": 380.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Osterizer Premium Mod. 6878-013 16V,,",
-        "url": "https://www.amazon.com.mx/dp/B001ASMGNU",
-        "price": 1827.25,
-        "model": null
+        "name": "Oster Licuadora Clásica Cromada, con Perilla Ergonómica, de 3 Velocidades, Color Cromo, BLST4655-013",
+        "url": "https://www.amazon.com.mx/dp/B08V5MG875",
+        "price": 1278.0,
+        "model": "BLST4655-013"
       },
       {
         "store": "amazon",
@@ -3043,31 +2747,17 @@
         "url": "https://www.amazon.com.mx/dp/B0G87MWPPM",
         "price": 499.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "H+R Vaso para licuadora compatible Oster Xpert de Vidrio (Boroclass)",
-        "url": "https://www.amazon.com.mx/dp/B08XX3Y99F",
-        "price": 760.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "H+R Vaso de vidrio 2 litros compatible Oster Xpert Series (Boroclass)",
-        "url": "https://www.amazon.com.mx/dp/B0CV8NTTWP",
-        "price": 1280.0,
-        "model": null
       }
     ]
   },
   "walmart|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-21T08:01:17.070882+00:00",
+    "ts": "2026-08-23T08:20:33.696721+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
-        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
-        "price": 2399.0,
+        "name": "Licuadora Oster Xpert Series Vaso Tritan Plata",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-xpert-series-vaso-tritan-plata/00003426448871",
+        "price": 1999.0,
         "model": null
       },
       {
@@ -3086,10 +2776,10 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora EWTTO EW-H801, Jarra de Vidrio 1.25L, 600W, 4 Velocidades, Acero Inoxidable, Cuchillas Desmontables, Función Pulso – Ideal para Hogar, Oficina, Uso Comercial o Campismo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-ewtto-ew-h801-jarra-de-vidrio-1-25l-600w-4-velocidades-acero-inoxidable-cuchillas-desmontables-funcion-pulso-ideal-para-hogar-oficina-uso-comercial-o-campismo/00858170783359",
-        "price": 629.0,
-        "model": "EW-H801"
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con Perilla",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-perilla/00003426402555",
+        "price": 1458.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -3107,10 +2797,10 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora HoninJoy 10-En-1 Procesador Professional 2 Litros 1300 Watts Molinillo Con Vaso Deportivo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-honinjoy-10-en-1-procesador-professional-2-litros-1300-watts-molinillo-con-vaso-deportivo/00061723003275",
-        "price": 3048.99,
-        "model": "10-En-1"
+        "name": "Licuadora Oster Soho Vaso de Vidrio 1.5 L con 550 Watts de Potencia Rojo",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-soho-vaso-de-vidrio-1-5-l-con-550-watts-de-potencia-rojo/00005389115089",
+        "price": 592.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -3121,16 +2811,16 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora Oster 1 Velocidad + Pulso 2 Caballos de Fuerza Plata",
-        "url": "https://www.walmart.com.mx/ip/licuadora-oster-1-velocidad-pulso-2-caballos-de-fuerza-plata/00005389115500?athbdg=L1300",
-        "price": 2190.0,
+        "name": "Repuesto Vaso de Vidrio de 2 litros (Boroclass) para licuadora Oster Xpert Series Original",
+        "url": "https://www.walmart.com.mx/ip/repuesto-vaso-de-vidrio-de-2-litros-boroclass-para-licuadora-oster-xpert-series-original/00003426447728",
+        "price": 2087.9,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora Profesional Moledor 2 En 1 Vaso 2lt 15 Velocidades",
-        "url": "https://www.walmart.com.mx/ip/licuadora-profesional-moledor-2-en-1-vaso-2lt-15-velocidades/00750305148410",
-        "price": 479.0,
+        "name": "Licuadora Oster Clásica Vaso de Vidrio 1.25 L con 700 Watts de Potencia con Interruptor de Palanca",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-clasica-vaso-de-vidrio-1-25-l-con-700-watts-de-potencia-con-interruptor-de-palanca/00005389114062",
+        "price": 1490.0,
         "model": null
       },
       {
@@ -3142,59 +2832,16 @@
       },
       {
         "store": "walmart",
-        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
-        "url": "https://www.walmart.com.mx/ip/licuadora-kitchenaid-10-velocidades-1700-w-2-l-color-rojo/00088304992554",
-        "price": 1799.0,
+        "name": "Licuadora FLAVOSTONE Quartz Cherry Deluxe con 2 sartenes antiadherentes 20 y 24 cm",
+        "url": "https://www.walmart.com.mx/ip/licuadora-flavostone-quartz-cherry-deluxe-con-2-sartenes-antiadherentes-20-y-24-cm/00750227477590",
+        "price": 2399.0,
         "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESLICUADORASERIESXPERT": {
-    "ts": "2026-08-21T08:01:20.913312+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Ninja  1200W 4 Velocidades Color Negro",
-        "url": "https://www.sams.com.mx/ip/licuadora-ninja-1200w-4-velocidades-color-negro/981049934",
-        "price": 1599.0,
-        "model": "1200W"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Clásica 1.25L Gris",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698",
-        "price": 1020.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Oster  Profesional Xtreme Mix Tritán 2L",
-        "url": "https://www.sams.com.mx/ip/licuadora-oster-profesional-xtreme-mix-tritan-2l/981033447",
-        "price": 2555.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
-        "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
-        "model": "BL7019-0MPLA"
-      },
-      {
-        "store": "sams",
-        "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-        "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T08:20:34.775648+00:00",
+    "items": []
   },
   "amazon|REEBOKSMARTBANDREEBOKRBK": {
     "ts": "2026-08-21T09:54:04.216710+00:00",
@@ -4354,38 +4001,10 @@
     "items": []
   },
   "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T07:59:28.294701+00:00",
+    "ts": "2026-08-23T08:19:55.314592+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "HP Laptop ProBook 4 AIG1i, Pantalla de 16\" 1920x1200 WUXGA, Intel Core Ultra 7 255U, 16GB DDR5 RAM, 512GB SSD, Windows 11 Pro, Español (D66V5LT), Color Plata, Garantía y Servicio en México",
-        "url": "https://www.amazon.com.mx/dp/B0HFPJSHKG",
-        "price": 25750.0,
-        "model": "1920x1200"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop OmniBook 5 Flip 14-fp0054la, 2-en-1, Intel Core i5, 16 GB RAM, 512 GB SSD, 14\", 2K (1920x1200), Pantalla Táctil, Lápiz Recargable, Windows 11 Home, Garantía Mexico, Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FPPSJ36P",
-        "price": 15996.0,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Laptop OmniBook 3 16-bu0030la, Intel Core 3, 8GB RAM, 512 TB SSD, 16\", Pantalla 2K (1920x1200), Windows 11 Home, Garantía México, Plata",
-        "url": "https://www.amazon.com.mx/dp/B0GMLQQT9P",
-        "price": 10999.0,
-        "model": "16-bu0030la"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Omnistudio All-in-One 24-cu0031la, Desktop PC, Intel Core 3, 8 GB RAM, 512 GB SSD, FHD, 23.8\", Windows 11 Home, Garantía México, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0GKQNT5F4",
-        "price": 14499.0,
-        "model": "24-cu0031la"
-      },
-      {
-        "store": "amazon",
         "name": "HP Laptop OmniBook 3 16-bu0030la, Intel Core 3, 8GB RAM, 512 TB SSD, 16\", Pantalla 2K (1920x1200), Windows 11 Home, Garantía México, Plata",
         "url": "https://www.amazon.com.mx/dp/B0GMLQQT9P",
         "price": 10999.0,
@@ -4400,31 +4019,10 @@
       },
       {
         "store": "amazon",
-        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 1 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
-        "url": "https://www.amazon.com.mx/dp/B0GVD8BYZY",
-        "price": 24450.81,
-        "model": "120Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Laptop HP 2025 | OmniBook 5 | 16\" 1920 x 1200 Touch IPS | Intel 12 Core Ultra 7 255U | 16GB LPDDR5 | 1TB SSD | Windows 11 Home | Wi-Fi 6 - BT 5.4 - Teclado retroiluminado - 1080p + Cámara IR - Plata",
-        "url": "https://www.amazon.com.mx/dp/B0FRFB5P75",
-        "price": 19590.0,
-        "model": "LPDDR5"
-      },
-      {
-        "store": "amazon",
-        "name": "HP Omni Book 5 16\" WUXGA IPS Laptop, Intel Core Ultra 7 255U 12 núcleos, Intel Graphics16GB LPDDR5-1TB NVMe SSD, W11H, teclado retroiluminado -1080p FHD - Wi-Fi 6 - Bluetooth 5.4",
-        "url": "https://www.amazon.com.mx/dp/B0FCSCK8R5",
-        "price": 21635.9,
-        "model": "Graphics16GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 4 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
-        "url": "https://www.amazon.com.mx/dp/B0GVCK7DM1",
-        "price": 26617.84,
-        "model": "120Hz"
+        "name": "Laptop HP Omnibook 3 Touch 16\" Ultra 5 8GB 512GB Plata 16-BU0305DX",
+        "url": "https://www.amazon.com.mx/dp/B0H6WSQWHR",
+        "price": 12937.0,
+        "model": "16-BU0305DX"
       },
       {
         "store": "amazon",
@@ -4435,64 +4033,71 @@
       },
       {
         "store": "amazon",
-        "name": "Laptop HP Omnibook 3 Touch 16\" Ultra 5 8GB 512GB Plata 16-BU0305DX",
-        "url": "https://www.amazon.com.mx/dp/B0H6WSQWHR",
-        "price": 12999.0,
-        "model": "16-BU0305DX"
+        "name": "HP Omni Book 5 16\" WUXGA IPS Laptop, Intel Core Ultra 7 255U 12 núcleos, Intel Graphics16GB LPDDR5-1TB NVMe SSD, W11H, teclado retroiluminado -1080p FHD - Wi-Fi 6 - Bluetooth 5.4",
+        "url": "https://www.amazon.com.mx/dp/B0FCSCK8R5",
+        "price": 21635.9,
+        "model": "Graphics16GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fd1340la, Intel Core 3, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR2PK79C",
+        "price": 7498.0,
+        "model": "15-fd1340la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook X - Portátil 2 en 1, visualización táctil de 16 pulgadas 2K 400Nits, Intel Core Ultra 7 256V (Beats Ultra 7 155U), GPU Arc 140V, Copilot+ PC, 16GB LPDDR5 RAM 1TB SSD, Thunderbolt 4, Win 11",
+        "url": "https://www.amazon.com.mx/dp/B0GQLCPFH1",
+        "price": 18849.74,
+        "model": "400Nits"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 1 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
+        "url": "https://www.amazon.com.mx/dp/B0GVD8BYZY",
+        "price": 24450.81,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook X Flip 2 en 1 Laptop | 14 pulgadas WUXGA IPS Touch | Intel Core Ultra 5 226V | 16 GB DDR5 512GB SSD | PC AI para creador, diseñador de negocios profesional Win11 con accesorio DLCA",
+        "url": "https://www.amazon.com.mx/dp/B0FMYJ51T5",
+        "price": 26844.99,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop HP 2025 | OmniBook 5 | 16\" 1920 x 1200 Touch IPS | Intel 12 Core Ultra 7 255U | 16GB LPDDR5 | 1TB SSD | Windows 11 Home | Wi-Fi 6 - BT 5.4 - Teclado retroiluminado - 1080p + Cámara IR - Plata",
+        "url": "https://www.amazon.com.mx/dp/B0FRFB5P75",
+        "price": 19590.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 7 16\" Laptop - Intel Core 9 270H - visualización táctil 2K OLED 120Hz de 16\" - Memoria DDR5 de 64 GB - SSD de 4 TB - Teclado retroiluminado - Llave Copilot AI - Obturador de privacidad",
+        "url": "https://www.amazon.com.mx/dp/B0GVCK7DM1",
+        "price": 26617.84,
+        "model": "120Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 5 2025 Laptop, Procesador Intel Core Ultra 7 255U de 12 núcleos, pantalla IPS WUXGA de 16\", Gráficos Intel, 16GB LPDDR5 1TB SSD, Teclado retroiluminado, Wi-Fi 6, Win11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0F9NQYFLL",
+        "price": 21599.0,
+        "model": "LPDDR5"
       }
     ]
   },
   "walmart|HPOMNIBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T07:59:49.010175+00:00",
+    "ts": "2026-08-23T08:20:04.660844+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
-        "price": 15996.0,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300",
-        "price": 15996.0,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "walmart",
-        "name": "HP OmniBook 7 Laptop con Pantalla Táctil -Intel Core 9 270H Supera i7-13650HX -16\" 2K OLED 120Hz -32GB RAM -1TB SSD -Windows 11 Pro-teclado Retroiluminado-edición de Video Negocios Computadora Laptop",
-        "url": "https://www.walmart.com.mx/ip/hp-omnibook-7-laptop-con-pantalla-tactil-intel-core-9-270h-supera-i7-13650hx-16-2k-oled-120hz-32gb-ram-1tb-ssd-windows-11-pro-teclado-retroiluminado-edicion-de-video-negocios-computadora-laptop/00019899052582?athbdg=L6000",
-        "price": 34268.79,
-        "model": "i7-13650HX"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578",
-        "price": 20996.0,
-        "model": "16-af1073la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578?athbdg=L1300",
-        "price": 20996.0,
-        "model": "16-af1073la"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop HP Omnibook 16\" 2k Touchscreen Intel Core Ultra 5 8gb Ram 512gb Ssd Plata",
-        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-16-2k-touchscreen-intel-core-ultra-5-8gb-ram-512gb-ssd-plata/00082184431450?athbdg=L1300",
-        "price": 12498.0,
-        "model": "512gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Acer Aspire Lite 15 AL15-36P 15.6 FHD Intel Core 3 8GB RAM 128GB SSD Windows 11 Silver",
-        "url": "https://www.walmart.com.mx/ip/laptop-acer-aspire-lite-15-al15-36p-15-6-fhd-intel-core-3-8gb-ram-128gb-ssd-windows-11-silver/00019513330508",
-        "price": 7669.0,
-        "model": "AL15-36P"
+        "name": "Laptop HP 14-em0017la AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-14-em0017la-amd-ryzen-5-8gb-ram-512gb-ssd/00019812284399",
+        "price": 10996.0,
+        "model": "14-em0017la"
       },
       {
         "store": "walmart",
@@ -4503,17 +4108,45 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop AI PC HP OmniBook X Flip 16-as0023dx Core Ultra 7 256V 16GB LPDDR5X 1TB SSD Pantalla 16\"Touch IPS FHD+ Copilot+ PC NPU 47 TOPS Windows 11 Teclado Ingles",
-        "url": "https://www.walmart.com.mx/ip/laptop-ai-pc-hp-omnibook-x-flip-16-as0023dx-core-ultra-7-256v-16gb-lpddr5x-1tb-ssd-pantalla-16-touch-ips-fhd-copilot-pc-npu-47-tops-windows-11-teclado-ingles/00070452118613?athbdg=L1300",
-        "price": 24899.0,
-        "model": "16-as0023dx"
+        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687?athbdg=L1300",
+        "price": 15996.0,
+        "model": "14-fp0054la"
       },
       {
         "store": "walmart",
-        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 16GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
-        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-16gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346587",
-        "price": 25021.51,
-        "model": null
+        "name": "Laptop HP Pavilion Aero 13-bg0002la AMD Ryzen 5 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-pavilion-aero-13-bg0002la-amd-ryzen-5-16gb-ram-512gb-ssd/00019812284427",
+        "price": 14996.0,
+        "model": "13-bg0002la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP Omnibook 16\" 2k Touchscreen Intel Core Ultra 5 8gb Ram 512gb Ssd Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-16-2k-touchscreen-intel-core-ultra-5-8gb-ram-512gb-ssd-plata/00063790279859?athbdg=L1300",
+        "price": 14639.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "HP OmniBook 7 Laptop con Pantalla Táctil -Intel Core 9 270H Supera i7-13650HX -16\" 2K OLED 120Hz -32GB RAM -1TB SSD -Windows 11 Pro-teclado Retroiluminado-edición de Video Negocios Computadora Laptop",
+        "url": "https://www.walmart.com.mx/ip/hp-omnibook-7-laptop-con-pantalla-tactil-intel-core-9-270h-supera-i7-13650hx-16-2k-oled-120hz-32gb-ram-1tb-ssd-windows-11-pro-teclado-retroiluminado-edicion-de-video-negocios-computadora-laptop/00019899052582?athbdg=L6000",
+        "price": 34268.79,
+        "model": "i7-13650HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
+        "price": 15996.0,
+        "model": "14-fp0054la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578?athbdg=L1300",
+        "price": 20996.0,
+        "model": "16-af1073la"
       },
       {
         "store": "walmart",
@@ -4524,388 +4157,30 @@
       },
       {
         "store": "walmart",
-        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 32GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
-        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-32gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346583",
-        "price": 32923.11,
+        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578",
+        "price": 20996.0,
+        "model": "16-af1073la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 AI PC 16af1053la Intel Core Ultra 5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-pc-16af1053la-intel-core-ultra-5-16gb-512gb/00019948545109?athbdg=L1300",
+        "price": 23339.0,
+        "model": "16af1053la"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo ThinkPad L16 Laptop Empresarial, Intel Core Ultra 7 255U, 16\" FHD+, 16GB DDR5, 1TB SSD, Windows 11 Pro, Negro",
+        "url": "https://www.walmart.com.mx/ip/lenovo-thinkpad-l16-laptop-empresarial-intel-core-ultra-7-255u-16-fhd-16gb-ddr5-1tb-ssd-windows-11-pro-negro/00019927346587",
+        "price": 25021.51,
         "model": null
       }
     ]
   },
   "sams|HPOMNIBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T07:59:52.691714+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  OmniBook 5 AI Intel Core Ultra 5/16 GB RAM/512 GB SSD 16-af1053la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ai-intel-core-ultra-5-16-gb-ram-512-gb-ssd-16-af1053la/981043907",
-        "price": 16878.48,
-        "model": "16-af1053la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092",
-        "price": 9205.98,
-        "model": "15-fd0331la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  OmniBook 5 Flip Intel Core i5/16 GB RAM/512 GB SSD 14-fp0054la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-flip-intel-core-i5-16-gb-ram-512-gb-ssd-14-fp0054la/981043809",
-        "price": 19435.98,
-        "model": "14-fp0054la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  Intel Core i5/8 GB RAM/512 GB SSD 15-fd0045la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-intel-core-i5-8-gb-ram-512-gb-ssd-15-fd0045la/981023805",
-        "price": 10225.91,
-        "model": "15-fd0045la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  AI Intel Core Ultra 7/24 GB RAM/512 GB SSD 15-fd2377la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ai-intel-core-ultra-7-24-gb-ram-512-gb-ssd-15-fd2377la/981046125",
-        "price": 17901.48,
-        "model": "15-fd2377la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-        "price": 10228.98,
-        "model": "15-eg2523la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  LT Intel Core i3/8 GB RAM/512 GB SSD + Mochila + Office 365",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-lt-intel-core-i3-8-gb-ram-512-gb-ssd-mochila-office-365/981023364",
-        "price": 7156.91,
-        "model": "RAM/512"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  Intel Core i3/8 GB RAM/512 GB SSD 15-fd0231la + Impresora Ink Advantage 2375",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-intel-core-i3-8-gb-ram-512-gb-ssd-15-fd0231la-impresora-ink-advantage-2375/981040237",
-        "price": 11251.98,
-        "model": "15-fd0231la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  Intel Core Ultra 5/16 GB RAM/512 GB SDD 15-fd1255la + Mouse Z3700 + Earbuds",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-intel-core-ultra-5-16-gb-ram-512-gb-sdd-15-fd1255la-mouse-z3700-earbuds/981039591",
-        "price": 14317.91,
-        "model": "15-fd1255la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  Intel Core i5/8 GB RAM/512 GB SSD 15-fd0151la + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-intel-core-i5-8-gb-ram-512-gb-ssd-15-fd0151la-mochila/981039238",
-        "price": 13297.98,
-        "model": "15-fd0151la"
-      }
-    ]
-  },
-  "amazon|15FD0161LA": {
-    "ts": "2026-08-21T07:59:18.406655+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HP Laptop 15-fd0161la, Intel Core i5, 8 GB, 256 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plata/Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GV144F79",
-        "price": 9199.0,
-        "model": "15-fd0161la"
-      }
-    ]
-  },
-  "walmart|15FD0161LA": {
-    "ts": "2026-08-21T07:59:21.138774+00:00",
+    "ts": "2026-08-23T08:20:05.275306+00:00",
     "items": []
-  },
-  "sams|15FD0161LA": {
-    "ts": "2026-08-21T07:59:23.668753+00:00",
-    "items": []
-  },
-  "amazon|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-21T08:01:23.712986+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
-        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
-        "price": 7799.0,
-        "model": "BVSTEM7301"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
-        "price": 5500.0,
-        "model": "BVSTEM7201-013"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera para Espresso y Cappuccino con Jarra de Vidrio | Tubo de vapor para espumar leche, con perilla de control, incluye cuchara medidora/aplanador, BVSTEM330",
-        "url": "https://www.amazon.com.mx/dp/B0CVXZ5KFB",
-        "price": 918.0,
-        "model": "BVSTEM330"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Color Negro, BVSTEM6604BK",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3136F1",
-        "price": 2529.0,
-        "model": "BVSTEM6604BK"
-      },
-      {
-        "store": "amazon",
-        "name": "IMUSA USA gau-18199 jarra cafetera de espresso en caja de regalo, transparente",
-        "url": "https://www.amazon.com.mx/dp/B00NPZHX5M",
-        "price": 216.45,
-        "model": "gau-18199"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de café de vidrio de 4 tazas de repuesto para espresso - Accesorios de espresso compatibles con IMUSA, Hamilton Beach, Mr. Coffee, Breville, UNIVEN Máquina de espresso, mango negro",
-        "url": "https://www.amazon.com.mx/dp/B0CNCT94XF",
-        "price": 379.8,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
-        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
-        "price": 670.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
-        "price": 2983.17,
-        "model": "BVSTEM6604SS"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
-        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
-        "price": 1971.0,
-        "model": "BVSTEM5502"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew con Molino Integrado y 15 Bar",
-        "url": "https://www.amazon.com.mx/dp/B07WG2ZQDG",
-        "price": 11999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster ESPRESSO MAKER PB SLIM OS | Prepara espresso, cappuccino y latte, sistema de preinfusión e incluye accesorios profesionales, BVSTEM7200",
-        "url": "https://www.amazon.com.mx/dp/B0BY3N2M7S",
-        "price": 3269.0,
-        "model": "BVSTEM7200"
-      }
-    ]
-  },
-  "walmart|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-21T08:01:26.874685+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-Negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 10 Tazas Cromo",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-10-Tazas-Cromo/00003426445851",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Café en Grano 500g Veracruz, Tueste Medio-Oscuro, 100% Arábica, Sabor Balanceado y Aromático, Café Gourmet, Gogó Café",
-        "url": "https://www.walmart.com.mx/ip/Cafe-en-Grano-500g-Veracruz-Tueste-Medio-Oscuro-100-Arabica-Sabor-Balanceado-y-Aromatico-Cafe-Gourmet-Gogo-Cafe/00750046541090",
-        "price": 240.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera espresso de acero inoxidable de qimpservices de espresso maker 3 tazas",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-espresso-de-acero-inoxidable-de-qimpservices-de-espresso-maker-3-tazas/00078611266256?athbdg=L1300",
-        "price": 479.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "NUEVA Cafetera Espresso Cafetera Percoladora Cafetera Espresso Latte 450 ml (9 tazas)",
-        "url": "https://www.walmart.com.mx/ip/NUEVA-Cafetera-Espresso-Cafetera-Percoladora-Cafetera-Espresso-Latte-450-ml-9-tazas/00078736480089?athbdg=L1300",
-        "price": 789.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Café Molido 500g Veracruz, Tueste Claro, 100% Arábica, Sabor Suave y Balanceado, Ideal para Cafetera, Gogó Café",
-        "url": "https://www.walmart.com.mx/ip/Cafe-Molido-500g-Veracruz-Tueste-Claro-100-Arabica-Sabor-Suave-y-Balanceado-Ideal-para-Cafetera-Gogo-Cafe/00750046541092",
-        "price": 230.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso Stovetop Coffee Gator para 9 tazas, moka, 450 ml",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Espresso-Stovetop-Coffee-Gator-para-9-tazas-moka-450-ml/00506048291276?athbdg=L1300",
-        "price": 1109.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Análoga 12 Tazas Negra",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Analoga-12-Tazas-Negra/00005389114278",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Café en Grano 1kg Veracruz, Tueste Intenso, 100% Arábica, Sabor Fuerte y Cuerpo Alto, Ideal para Espresso, Gogó Café",
-        "url": "https://www.walmart.com.mx/ip/Cafe-en-Grano-1kg-Veracruz-Tueste-Intenso-100-Arabica-Sabor-Fuerte-y-Cuerpo-Alto-Ideal-para-Espresso-Gogo-Cafe/00750046541095",
-        "price": 480.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-12-Tazas-Negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Café Molido Descafeinado 1kg Veracruz, 100% Arábica, Sabor Suave y Aromático, Sin Cafeína, Ideal para Diario, Gogó Café",
-        "url": "https://www.walmart.com.mx/ip/Cafe-Molido-Descafeinado-1kg-Veracruz-100-Arabica-Sabor-Suave-y-Aromatico-Sin-Cafeina-Ideal-para-Diario-Gogo-Cafe/00750046541097",
-        "price": 440.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERESPRESSOCAFETERAPERFECTTAZAS": {
-    "ts": "2026-08-21T08:01:39.237702+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Máquina de Café Espresso Elle GOURMET 1 L con Espumador Integrado Pantalla Táctil Blanco",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-espresso-elle-gourmet-1-l-con-espumador-integrado-pantalla-tactil-blanco/981051409",
-        "price": 3886.37,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Máquina de Café Espresso Elle GOURMET 1 L con Espumador Integrado Pantalla Táctil",
-        "url": "https://www.sams.com.mx/ip/maquina-de-cafe-espresso-elle-gourmet-1-l-con-espumador-integrado-pantalla-tactil/981051411",
-        "price": 3886.37,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Pure Espreso Daewoo  Máquina de Espresso + Molino de Café",
-        "url": "https://www.sams.com.mx/ip/combo-pure-espreso-daewoo-maquina-de-espresso-molino-de-cafe/981042983",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Espresso Chefman  CraftBrew RJ54-SS-15-D-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-espresso-chefman-craftbrew-rj54-ss-15-d-mx/981042228",
-        "price": 1839.2,
-        "model": "RJ54-SS-15-D-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Eléctrica Cuisinart  Espresso Slim EM-160ES",
-        "url": "https://www.sams.com.mx/ip/cafetera-electrica-cuisinart-espresso-slim-em-160es/981041132",
-        "price": 2499.0,
-        "model": "EM-160ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      }
-    ]
   },
   "amazon|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
     "ts": "2026-08-21T11:17:54.482984+00:00",
@@ -8286,36 +7561,8 @@
     ]
   },
   "amazon|HR2244": {
-    "ts": "2026-08-21T07:58:44.089064+00:00",
+    "ts": "2026-08-23T08:19:06.698763+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Philips Licuadora Serie 5000 1400W, Jarra de Vidrio 2L, 12 Velocidades | Tecnología ProBlend 6 – cuchillas desmontables de acero inoxidable para batidos suaves (HR2244/91)",
-        "url": "https://www.amazon.com.mx/dp/B08TM3ZF2K",
-        "price": 1641.09,
-        "model": "HR2244/91"
-      },
-      {
-        "store": "amazon",
-        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
-        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
-        "price": 1699.0,
-        "model": "9500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Rasuradora y Trimmer Profesional 2 en 1 Inalámbrica con Pantalla LED | Recortadora de Barba para Hombre y Niño, Máquina para Barba, Cuchillas de Acero Inoxidable, Trimmer Profesional",
-        "url": "https://www.amazon.com.mx/dp/B0G34M587J",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Rasuradora 4 en 1 para Hombre con Trimmer, IPX6 y Base de Carga Type-C | Recortadora de Barba, Máquina para Barba y Cuerpo, Pantalla LED, 6800RPM, Inalámbrica, Rasuradora 4 en 1",
-        "url": "https://www.amazon.com.mx/dp/B0G34NG48Q",
-        "price": 799.0,
-        "model": "6800RPM"
-      },
       {
         "store": "amazon",
         "name": "Philips HR2244/91 Licuadora 1400 W",
@@ -8327,104 +7574,27 @@
         "store": "amazon",
         "name": "Philips Licuadora Serie 5000 1400W, Jarra de Vidrio 2L, 12 Velocidades | Tecnología ProBlend 6 – cuchillas desmontables de acero inoxidable para batidos suaves (HR2244/91)",
         "url": "https://www.amazon.com.mx/dp/B08TM3ZF2K",
-        "price": 1641.09,
+        "price": 1476.98,
         "model": "HR2244/91"
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman 4-in-1 Food Prep Kit - Batidora de Inmersión de Velocidad Variable, Procesador de Alimentos de 900 ml, Batidor de Globo y Espumador de Leche",
-        "url": "https://www.amazon.com.mx/dp/B0GLS2VWTS",
-        "price": 799.0,
-        "model": "4-in-1"
-      },
-      {
-        "store": "amazon",
-        "name": "Scttomon Traje De Corte De Pelo Para Hombres Profesionales Juego Para Hombres Recortador De Barba Cortadora De Pelo Para Hombres Navaja Juego Sin Cuerda (bronce)",
-        "url": "https://www.amazon.com.mx/dp/B0DRV68Z55",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Máquina para Cortar Cabello y Barba Clipper VGR V-002, Recortadora Profesional Patillas Bigote, Inalámbrica, Recargable",
-        "url": "https://www.amazon.com.mx/dp/B0FN5F1ZC1",
-        "price": 799.0,
-        "model": "V-002"
-      },
-      {
-        "store": "amazon",
-        "name": "Hatteker Cortadora De Pelo, Afeitadora, Navaja Nasal, Recortadora De Cuchillas T, Kit De Belleza Corporal Impermeable, Afeitadora Masculina, Carga Usb, Cuchilla Súper Frontal 8 en 1",
-        "url": "https://www.amazon.com.mx/dp/B0CW6B3XBB",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "kensen Afeitadora Cabeza Hombre, Maquina Afeitar Hombre para Calvo, 7D Cabezales Maquina para Afeitar Cabeza en Seco y Húmedo con Pantalla LED, 100 mins Uso, IPX6 Impermeable, USB-C, 8100/8500RPM",
-        "url": "https://www.amazon.com.mx/dp/B0GCBYTYM2",
-        "price": 953.1,
-        "model": "8100/8500RPM"
-      },
-      {
-        "store": "amazon",
-        "name": "VGR 197 & 995 - Cortapelos profesional para hombres, juego de cortapelos inalámbrico y recortador con cuchillas de cerámica, cortadora de pelo profesional para hombre con 10 peines, luces indicadoras",
-        "url": "https://www.amazon.com.mx/dp/B0G34LGD1V",
-        "price": 849.99,
-        "model": null
       }
     ]
   },
   "walmart|HR2244": {
-    "ts": "2026-08-21T07:58:47.737520+00:00",
+    "ts": "2026-08-23T08:19:17.248807+00:00",
     "items": []
   },
   "sams|HR2244": {
-    "ts": "2026-08-21T07:58:50.904194+00:00",
+    "ts": "2026-08-23T08:19:19.274195+00:00",
     "items": []
   },
   "amazon|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-21T07:58:55.110813+00:00",
+    "ts": "2026-08-23T08:19:44.019779+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "INTASTING Hervidor Eléctrico, Hervidor Eléctrico Cuello de Cisne, Control de Temperatura Preciso ±1℉, Interior de Acero Inoxidable, Calentamiento Rápido para Café de Goteo, Té y Agua Hirviendo, 0.9L",
-        "url": "https://www.amazon.com.mx/dp/B0FL11V12P",
-        "price": 1291.68,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS OMEGA | Hervidor eléctrico de cristal 1.8 L con luz LED | Tetera rápida 1000W con apagado automático | Jarra inalámbrica 360° de vidrio templado para té, café y bebidas calientes",
-        "url": "https://www.amazon.com.mx/dp/B08GYCQLCM",
-        "price": 289.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Hervidor Eléctrico de Viaje 500ML Acero Inoxidable Apagado Automático 110V | Sellado Prueba de Fugas, Portátil Tetera Eléctrica de Viaje, Caldera de Agua Caliente Personal, Mini Taza para Hacer Té Café",
-        "url": "https://www.amazon.com.mx/dp/B0CNJQ4DCR",
-        "price": 403.38,
-        "model": "500ML"
-      },
-      {
-        "store": "amazon",
-        "name": "KIROGILY Tetera Electrica Cuello Cisne de 1 L, Hervidor Agua Electrico 800W | Tetera Electrica Calentamiento Rápido, Kettle de Acero Inoxidable 304, Cuello de Cisne Portátil, con Apagado Automático",
-        "url": "https://www.amazon.com.mx/dp/B0FM87M9PJ",
-        "price": 679.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Smeg Hervidor Electrico color Negro, Pequeño, Negro",
         "url": "https://www.amazon.com.mx/dp/B0784716VV",
         "price": 3806.22,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG - Hervidor de agua con 7 tazas (champaña mate)",
-        "url": "https://www.amazon.com.mx/dp/B094YNT135",
-        "price": 4685.95,
         "model": null
       },
       {
@@ -8436,24 +7606,38 @@
       },
       {
         "store": "amazon",
-        "name": "Smeg KLF03PBUS 50's Retro Style Aesthetic Electric Kettle with Embossed Logo, Pastel Blue",
-        "url": "https://www.amazon.com.mx/dp/B077PJF9DF",
-        "price": 4685.95,
-        "model": "KLF03PBUS"
+        "name": "Smeg Hervidor Electrico color Rojo, Pequeño, Rojo",
+        "url": "https://www.amazon.com.mx/dp/B077PMH82M",
+        "price": 3822.32,
+        "model": null
       },
       {
         "store": "amazon",
         "name": "Smeg Hervidor Electrico color Rosa, Pequeño, Rosa",
         "url": "https://www.amazon.com.mx/dp/B078466G12",
-        "price": 4552.83,
+        "price": 4512.31,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Smeg Hervidor Electrico color Rojo, Pequeño, Rojo",
-        "url": "https://www.amazon.com.mx/dp/B077PMH82M",
-        "price": 3822.32,
+        "name": "Cuisinart Hervidor Eléctrico Soho 1 L Acero Inoxidable | Construcción interior de doble pared con acero inoxidable, Exterior frío al tacto. Ebullición rápida, Apagado automático",
+        "url": "https://www.amazon.com.mx/dp/B0DD5FH26S",
+        "price": 799.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG - Hervidor de agua con 7 tazas (champaña mate)",
+        "url": "https://www.amazon.com.mx/dp/B094YNT135",
+        "price": 4686.76,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TAURUS OMEGA | Hervidor eléctrico de cristal 1.8 L con luz LED | Tetera rápida 1000W con apagado automático | Jarra inalámbrica 360° de vidrio templado para té, café y bebidas calientes",
+        "url": "https://www.amazon.com.mx/dp/B08GYCQLCM",
+        "price": 289.0,
+        "model": "1000W"
       },
       {
         "store": "amazon",
@@ -8468,17 +7652,38 @@
         "url": "https://www.amazon.com.mx/dp/B09D3YPBR8",
         "price": 3667.03,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg Mini hervidor de agua eléctrico estilo retro de los años 50, 3 tazas con base antideslizante de doble pared e indicador de nivel de agua (color crema)",
+        "url": "https://www.amazon.com.mx/dp/B09D3Y8XKN",
+        "price": 4243.47,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg KLF03SSUS Hervidor Electrico, color Plata/Cromo, Pequeño",
+        "url": "https://www.amazon.com.mx/dp/B077PMHCC3",
+        "price": 5375.8,
+        "model": "KLF03SSUS"
+      },
+      {
+        "store": "amazon",
+        "name": "Hamilton Beach Vidrio Eléctrica De 1,7, Tetera Pequeño Electrodoméstico Cocina, Negro (Black), 1.7 Litros",
+        "url": "https://www.amazon.com.mx/dp/B00CXMO01I",
+        "price": 479.0,
+        "model": null
       }
     ]
   },
   "walmart|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-21T07:59:01.220904+00:00",
+    "ts": "2026-08-23T08:19:49.099852+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Hervidor eléctrico SMEG 800 ml color Azul",
         "url": "https://www.walmart.com.mx/ip/Hervidor-electrico-SMEG-800-ml-color-Azul/00081289502241?athbdg=L1300",
-        "price": 4889.0,
+        "price": 5149.0,
         "model": null
       },
       {
@@ -8512,287 +7717,12 @@
     ]
   },
   "sams|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-21T07:59:04.961667+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Hervidor Eléctrico Cuisinart  Doble Pared CK-10TRES",
-        "url": "https://www.sams.com.mx/ip/hervidor-electrico-cuisinart-doble-pared-ck-10tres/981041128",
-        "price": 799.0,
-        "model": "CK-10TRES"
-      },
-      {
-        "store": "sams",
-        "name": "Hervidor Eléctrico Elle GOURMET Inalámbrico 4 Programas 1.7L Color Blanco Base Rotatoria",
-        "url": "https://www.sams.com.mx/ip/hervidor-electrico-elle-gourmet-inalambrico-4-programas-1-7l-color-blanco-base-rotatoria/981051407",
-        "price": 1932.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Hervidor Eléctrico Daewoo Inalámbrico 1.7 L Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/hervidor-electrico-daewoo-inalambrico-1-7-l-acero-inoxidable/981009935",
-        "price": 450.12,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Desayuno 4 en 1 Daewoo  Sandwichera + Licuadora Personal + Hervidor Eléctrico + Exprimidor de Cítricos",
-        "url": "https://www.sams.com.mx/ip/combo-desayuno-4-en-1-daewoo-sandwichera-licuadora-personal-hervidor-electrico-exprimidor-de-citricos/981043951",
-        "price": 1999.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-21T07:59:57.579737+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "KOSPET Tank T4C Reloj Inteligente Hombre con Linterna LED, Pantalla AMOLED 1,5\", GPS Doble Banda y Brújula, Monitoreo de Salud 24/7, Resistente al Agua 5ATM, Compatible con Android y iOS (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0GC5TV6C6",
-        "price": 3199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KOSPET Tank M4 Reloj Hombre Smart Watch, 100M Impermeable, AMOLED 1.96“ | Acero Inox, Buceo 10ATM, 3 Modos Buceo, GPS Doble Banda, Mapas Offline, 23 Deportes, Monitor Salud 24/7, 15 Días de Batería",
-        "url": "https://www.amazon.com.mx/dp/B0FR7SLL8T",
-        "price": 3999.0,
-        "model": "10ATM"
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Rainbow | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
-        "url": "https://www.amazon.com.mx/dp/B0DSGN7ZGH",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Band 10 Smartwatch, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 1.72\", Hasta 21 días de Batería, 150+ Modos Deportivos, Gestión de Sueño Optimizado y Heart Rate",
-        "url": "https://www.amazon.com.mx/dp/B0DYF82545",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "COOSPO Monitor de frecuencia cardíaca con correa para el pecho, sensor de frecuencia cardíaca Bluetooth ANT+ con batería de 400H, HRM funciona con Strava/Wahoo Fitness/Polar Beat/Peloton/DDP Yoga App",
-        "url": "https://www.amazon.com.mx/dp/B07JPD924Y",
-        "price": 657.76,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Fenix 7 Pro Solar, Gris Pizarra/Negro 47 mm",
-        "url": "https://www.amazon.com.mx/dp/B0BYFD4QBJ",
-        "price": 15069.92,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Index Sleep Monitor",
-        "url": "https://www.amazon.com.mx/dp/B0FCMW5K7P",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Smart Band Cirqa, French Gray S/M",
-        "url": "https://www.amazon.com.mx/dp/B0H94CWH3Q",
-        "price": 4075.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Polar H10 - Correa de Pecho para Monitor de frecuencia cardíaca, Ant + Bluetooth, Sensor HR Impermeable para Hombres y Mujeres",
-        "url": "https://www.amazon.com.mx/dp/B07PM54P4N",
-        "price": 1972.56,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Soporte de Bicicleta para Forerunner y Fenix, Negro",
-        "url": "https://www.amazon.com.mx/dp/B000VK5BMQ",
-        "price": 319.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Access, HRM 600, M-XL",
-        "url": "https://www.amazon.com.mx/dp/B0F7ZGDDCX",
-        "price": 3332.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Smart Band Cirqa, Black L/XL",
-        "url": "https://www.amazon.com.mx/dp/B0H93Y497R",
-        "price": 4074.47,
-        "model": null
-      }
-    ]
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-21T08:00:00.466866+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Glass, Slate Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-glass-slate-gray/00075375933806?athbdg=L6000",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Sapphire soft Gold",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-sapphire-soft-gold/00075375933798?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Glass, Slate Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-glass-slate-gray/00075375933815?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar Graphite",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-graphite/00075375933935?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, AMOLED, Sapphire Orange",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-amoled-sapphire-orange/00075375933807?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 43mm, AMOLED, Whitestone",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-43mm-amoled-whitestone/00075375933797?athbdg=L6000",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 47mm, Sapphire Solar, Carbon Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-47mm-sapphire-solar-carbon-gray/00075375933932?athbdg=L1300",
-        "price": 19548.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, AMOLED,Sapphire, Orange",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-amoled-sapphire-orange/00075375933816?athbdg=L1300",
-        "price": 21248.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin, monitor deportivo, fenix 8, 51mm, Sapphire Solar, Carbon Gray",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-fenix-8-51mm-sapphire-solar-carbon-gray/00075375933938?athbdg=L1300",
-        "price": 21248.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor Deportivo, Vivoactive 6",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-vivoactive-6/00075375934283?athbdg=L1300",
-        "price": 5353.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor Deportivo, Descent G2, Paloma",
-        "url": "https://www.walmart.com.mx/ip/garmin-monitor-deportivo-descent-g2-paloma/00075375935108?athbdg=L6000",
-        "price": 13139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Monitor deportivo Garmin Fenix 8 51mm Sapphire Solar",
-        "url": "https://www.walmart.com.mx/ip/monitor-deportivo-garmin-fenix-8-51mm-sapphire-solar/00075375933941?athbdg=L1300",
-        "price": 21248.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|GARMINENTRENAMIENTOMONITORFENIX": {
-    "ts": "2026-08-21T08:00:04.916901+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Fenix 8 Solar 51 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-fenix-8-solar-51-mm/981042772",
-        "price": 21249.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Multideporte Garmin  Fenix 8 43 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-multideporte-garmin-fenix-8-43-mm/981029652",
-        "price": 19549.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
-        "price": 8398.82,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Multideporte Premium Garmin  con GPS Fenix 8 51 mm",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-premium-garmin-con-gps-fenix-8-51-mm/981029654",
-        "price": 21249.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Reloj Inteligente Multideporte Garmin  Premium con GPS Fenix 8 Zafiro Solar 47mm",
-        "url": "https://www.sams.com.mx/ip/reloj-inteligente-multideporte-garmin-premium-con-gps-fenix-8-zafiro-solar-47mm/981029653",
-        "price": 19549.0,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T08:19:51.387693+00:00",
+    "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-08-21T08:00:29.355427+00:00",
+    "ts": "2026-08-23T08:20:08.093088+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Celular motorla RAZR 70 Ultra Cocoa",
-        "url": "https://www.amazon.com.mx/dp/B0GYRLQD7J",
-        "price": 25999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Celular motorla RAZR 70 Ultra Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GYRR2DZD",
-        "price": 24315.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HN22XQ",
-        "price": 11589.39,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Celular RAZR 70 512 GB Verde",
-        "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
-        "price": 19999.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
@@ -8809,13 +7739,6 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
-        "price": 12199.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
         "name": "Celular motorla RAZR 70 Ultra Azul",
         "url": "https://www.amazon.com.mx/dp/B0GYRR2DZD",
         "price": 24315.0,
@@ -8823,9 +7746,9 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola RAZR 50 Ultra Peach Fuzz (12GB RAM/512GB), 50MP, Celular Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0FCX5D1HW",
-        "price": 19999.0,
+        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
+        "price": 12199.0,
         "model": "RAM/512GB"
       },
       {
@@ -8844,148 +7767,98 @@
       },
       {
         "store": "amazon",
+        "name": "Motorola RAZR 50 Ultra Peach Fuzz (12GB RAM/512GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FCX5D1HW",
+        "price": 19999.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2368.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Cel Moto G06 4GB+8GB(Boost)+64GB Tapestry (Azul)(4g Lte) | 4GB RAM, 8GB Boost, 4G LTE, 6.88\" pantalla, Helio G81",
+        "url": "https://www.amazon.com.mx/dp/B0GLF2LKH7",
+        "price": 1794.0,
+        "model": "4GB+8GB"
+      },
+      {
+        "store": "amazon",
         "name": "Motorola Combo Edge 50 Neo 8+256gb + Buds Bass",
         "url": "https://www.amazon.com.mx/dp/B0GRWSP7NC",
         "price": 5399.0,
         "model": "8+256gb"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
+        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
+        "price": 15299.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
+        "price": 5485.0,
+        "model": "RAM/256GB"
       }
     ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-08-21T08:00:32.015508+00:00",
+    "ts": "2026-08-23T08:20:14.253592+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
-        "url": "https://www.walmart.com.mx/ip/Motorola-RAZR-60-Ultra-5G-512GB-ROM-16GB-RAM-Dual-SIM-GSM-Unlocked-Pantone-Mountain-Trail/00084002329317",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked -Pantone Cabaret",
-        "url": "https://www.walmart.com.mx/ip/Motorola-RAZR-60-Ultra-5G-512GB-ROM-16GB-RAM-Dual-SIM-GSM-Unlocked-Pantone-Cabaret/00084002329473",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Motorola Razr 60 5G / 512GB Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Razr-60-5G-512GB-Azul-Desbloqueado/00084002329101?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-razr-60-5g-512gb-azul-desbloqueado/00084002329101?athbdg=L1300",
         "price": 14999.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
-        "name": "Vizvera para Motorola Razr 50 Ultra 2024/Razr 60 Pro 2025, con Protector de Pantalla y Funda de Teléfono a Prueba de Golpes de Cuero PU Ultrafino Mate PC - Verde",
-        "url": "https://www.walmart.com.mx/ip/Vizvera-para-Motorola-Razr-50-Ultra-2024-Razr-60-Pro-2025-con-Protector-de-Pantalla-y-Funda-de-Telefono-a-Prueba-de-Golpes-de-Cuero-PU-Ultrafino-Mate-PC-Verde/00858168544911",
-        "price": 573.81,
-        "model": "2024/Razr"
-      },
-      {
-        "store": "walmart",
         "name": "Vizvera para Motorola Razr 50 Ultra 2024/Razr 60 Pro 2025, con Protector de Pantalla y Funda de Teléfono a Prueba de Golpes de Cuero PU Ultrafino Mate PC - Negro",
-        "url": "https://www.walmart.com.mx/ip/Vizvera-para-Motorola-Razr-50-Ultra-2024-Razr-60-Pro-2025-con-Protector-de-Pantalla-y-Funda-de-Telefono-a-Prueba-de-Golpes-de-Cuero-PU-Ultrafino-Mate-PC-Negro/00858168544896",
+        "url": "https://www.walmart.com.mx/ip/vizvera-para-motorola-razr-50-ultra-2024-razr-60-pro-2025-con-protector-de-pantalla-y-funda-de-telefono-a-prueba-de-golpes-de-cuero-pu-ultrafino-mate-pc-negro/00858168544896",
         "price": 532.56,
         "model": "2024/Razr"
       },
       {
         "store": "walmart",
         "name": "Oupeigar para Motorola Razr 50 Ultra/Razr 60 Pro Funda Tipo Armadura para Teléfono, con Cubierta de Bisagra, Protector de Pantalla Integrado, Funda a Prueba de Golpes con Carga Inalámbrica - Titanio",
-        "url": "https://www.walmart.com.mx/ip/Oupeigar-para-Motorola-Razr-50-Ultra-Razr-60-Pro-Funda-Tipo-Armadura-para-Telefono-con-Cubierta-de-Bisagra-Protector-de-Pantalla-Integrado-Funda-a-Prueba-de-Golpes-con-Carga-Inalambrica-Titanio/00063540530807",
+        "url": "https://www.walmart.com.mx/ip/oupeigar-para-motorola-razr-50-ultra-razr-60-pro-funda-tipo-armadura-para-telefono-con-cubierta-de-bisagra-protector-de-pantalla-integrado-funda-a-prueba-de-golpes-con-carga-inalambrica-titanio/00063540530807",
         "price": 485.43,
         "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked -Pantone Cabaret",
+        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-cabaret/00084002329473",
+        "price": 45859.37,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
+        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-mountain-trail/00084002329317",
+        "price": 45859.37,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Vizvera para Motorola Razr 50 Ultra 2024/Razr 60 Pro 2025, con Protector de Pantalla y Funda de Teléfono a Prueba de Golpes de Cuero PU Ultrafino Mate PC - Verde",
+        "url": "https://www.walmart.com.mx/ip/vizvera-para-motorola-razr-50-ultra-2024-razr-60-pro-2025-con-protector-de-pantalla-y-funda-de-telefono-a-prueba-de-golpes-de-cuero-pu-ultrafino-mate-pc-verde/00858168544911",
+        "price": 573.81,
+        "model": "2024/Razr"
       }
     ]
   },
   "sams|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
-    "ts": "2026-08-21T08:00:37.277510+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr  70 256 GB Gris Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-70-256-gb-gris-telcel/981054346",
-        "price": 18412.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  G17 Power Celeste 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-g17-power-celeste-256-gb-desbloqueado/981050389",
-        "price": 6645.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-azul-desbloqueado/981036597",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G17 Power Azul 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g17-power-azul-256-gb-desbloqueado/981050100",
-        "price": 6645.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 50 Pro 512 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-50-pro-512-gb-morado-desbloqueado/981021857",
-        "price": 11251.97,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Uva Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-uva-desbloqueado/981038720",
-        "price": 10329.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Edge 60 Pro 512 GB Gris Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-pro-512-gb-gris-desbloqueado/981038682",
-        "price": 10329.23,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T08:20:15.588413+00:00",
+    "items": []
   },
   "amazon|BASICS1": {
     "ts": "2026-08-21T08:39:33.512011+00:00",
