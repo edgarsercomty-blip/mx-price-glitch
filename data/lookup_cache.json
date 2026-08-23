@@ -4804,8 +4804,36 @@
     ]
   },
   "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-21T02:18:27.487051+00:00",
+    "ts": "2026-08-23T02:19:48.373738+00:00",
     "items": [
+      {
+        "store": "amazon",
+        "name": "Lavadora Estadounidense Enchufe Portátil de Plegable 2, 8 L | Diseño Compacto, 36 W de Potencia, Estructura en Abs y Tpe, Uso Práctico en Viaje y Apartamento",
+        "url": "https://www.amazon.com.mx/dp/B0FQ1TQNRZ",
+        "price": 1463.19,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Ultrasónica Portátil USB Mini para Viaje y Hogar, Máquina de Limpieza Automática Multifuncional Turbo, Ideal para Joyas y Gafas, Verde",
+        "url": "https://www.amazon.com.mx/dp/B07P62MFTW",
+        "price": 245.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Portátil Plegable 2.8 L Enchufe Estadounidense | 3 Modos Ajustables, Motor de Cobre de Alta Potencia, 36 W, Abs Tpe Pvc",
+        "url": "https://www.amazon.com.mx/dp/B0F556PPH9",
+        "price": 1205.89,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Portátil Plegable Mini de 2, 8 L Enchufe Estadounidense | Abs y Tpe, 36 W de Potencia, Diseño Plegable Compacto, Cobre y Pvc en Componentes",
+        "url": "https://www.amazon.com.mx/dp/B0DNZVD6P5",
+        "price": 1185.79,
+        "model": null
+      },
       {
         "store": "amazon",
         "name": "Midea - Lavadora Una Tina 10.1 kg Blanca Dual Force",
@@ -4815,29 +4843,22 @@
       },
       {
         "store": "amazon",
-        "name": "Midea. MLTS101M2SGDW Lavadora Semiautomatica Una Tina 101 kg Dual Force Blanca + MRD190CCDLSW Refrigerador Single Door Low Frost Jazz Black 7 Pies Cubicos",
-        "url": "https://www.amazon.com.mx/dp/B0F6GW5SSY",
-        "price": 6745.71,
-        "model": "MLTS101M2SGDW"
-      },
-      {
-        "store": "amazon",
         "name": "Lavadora Ultrasónica Portátil USB Mini para Viaje y Hogar, Máquina de Limpieza Automática Multifuncional Turbo, Ideal para Joyas y Gafas, Verde",
         "url": "https://www.amazon.com.mx/dp/B07P62MFTW",
-        "price": 238.0,
+        "price": 245.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Manguera de Drenaje Pe Azul para Lavadora Semiautomática 1.6 M | Diámetro Interno 16mm, Espesor Reforzado, Clip Incluido, Uso en Lavandería y Cocina",
-        "url": "https://www.amazon.com.mx/dp/B0D319J7QL",
-        "price": 133.79,
+        "name": "Manguera 1.6m PE de Entrada Azul para Lavadora Semiautomática | Diámetro Interno 16mm, Diseño, Resistente a Heladas, para Lavandería y Cocina",
+        "url": "https://www.amazon.com.mx/dp/B0FPZGZ9QQ",
+        "price": 125.79,
         "model": null
       }
     ]
   },
   "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-21T02:19:24.752955+00:00",
+    "ts": "2026-08-23T02:19:58.103643+00:00",
     "items": [
       {
         "store": "walmart",
@@ -4849,7 +4870,7 @@
     ]
   },
   "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-21T02:19:29.092286+00:00",
+    "ts": "2026-08-23T02:20:05.309064+00:00",
     "items": []
   },
   "amazon|MIDEAREFRIGERADORFRENCHDOORMIDEAINOX": {
@@ -33531,6 +33552,196 @@
         "name": "Smartphone Xiaomi  Note 13 Pro 256 GB Verde AT&T",
         "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-note-13-pro-256-gb-verde-at-t/981020294",
         "price": 7978.36,
+        "model": null
+      }
+    ]
+  },
+  "amazon|LIKPINKSHOULDERCUEROBOLSAPINK": {
+    "ts": "2026-08-23T02:19:22.911067+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "KKXIU",
+        "url": "https://www.amazon.com.mx/dp/B0GT3L1TMS",
+        "price": 653.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Generic",
+        "url": "https://www.amazon.com.mx/dp/B0HDLB1FFB",
+        "price": 557.77,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bolso Señoras Pequeño,Bolsas de Mano Punk Bolso Y2K Vintage PU Cuero Hombro Bolso Tendencia Ligero Bolso Hobo Portátil Elegante para Mujeres Citas Fiesta Compras y Concerts.",
+        "url": "https://www.amazon.com.mx/dp/B0GGH8CRSM",
+        "price": 251.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tote Bolsa para Mujeres, Bolso de Mano con Asa Bandolera, Crossbody Bolsos, Gran Capacidad Suave PU Cuero Señora Bolsos de Hombro (Marrón)",
+        "url": "https://www.amazon.com.mx/dp/B07Z3RCWNK",
+        "price": 321.5,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KKXIU",
+        "url": "https://www.amazon.com.mx/dp/B0CTGXTZ7J",
+        "price": 646.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bolso de Hombro Ajustable de Cuero de Primera Calidad para Hombres y Mujeres, 2026 Nuevas Bolsas de Cuero Ajustables para Debajo del Brazo",
+        "url": "https://www.amazon.com.mx/dp/B0GT9ND6WX",
+        "price": 289.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TOP BAND",
+        "url": "https://www.amazon.com.mx/dp/B088PHSTCM",
+        "price": 1040.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YOUNXSL Shoulder Bag for Women PU Leather Purse Bowknot Handbag Fashion Top-Handle Satchel Ladies Crossbody",
+        "url": "https://www.amazon.com.mx/dp/B09VX1FRN3",
+        "price": 529.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Dreubea",
+        "url": "https://www.amazon.com.mx/dp/B08G4D8JP4",
+        "price": 449.94,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "YNIQUE",
+        "url": "https://www.amazon.com.mx/dp/B07F87LTMJ",
+        "price": 485.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bolso de piel auténtica para mujer, diseño de candado, versátil",
+        "url": "https://www.amazon.com.mx/dp/B0F5W9G7XW",
+        "price": 1499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Novedad personalizada para mujer 3D señoras diseñador de cuero con asa superior bolso bolso bolso bandolera bolso bandolera",
+        "url": "https://www.amazon.com.mx/dp/B0CHLZ9JHF",
+        "price": 605.08,
+        "model": null
+      }
+    ]
+  },
+  "walmart|LIKPINKSHOULDERCUEROBOLSAPINK": {
+    "ts": "2026-08-23T02:19:39.438366+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
+        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260386240",
+        "price": 695.56,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa Shoulder Likëpink Elegancia vibrante para mujer",
+        "url": "https://www.walmart.com.mx/ip/Bolsa-Shoulder-Likepink-Elegancia-vibrante-para-mujer/00750304661365",
+        "price": 599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
+        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260382913",
+        "price": 509.43,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
+        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260382986",
+        "price": 526.71,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Conjunto de bolso de 3 piezas para mujer de gran capacidad Tote Shoulder bandoleras Portatarjetas Bolso de moda de cuero PU para trabajo Compras de viajes Negro Rojo Marrón 38.5x27x10.5cm",
+        "url": "https://www.walmart.com.mx/ip/Conjunto-de-bolso-de-3-piezas-para-mujer-de-gran-capacidad-Tote-Shoulder-bandoleras-Portatarjetas-Bolso-de-moda-de-cuero-PU-para-trabajo-Compras-de-viajes-Negro-Rojo-Marron-38-5x27x10-5cm/00687264532806?athbdg=L6000",
+        "price": 220.58,
+        "model": "5x27x10"
+      },
+      {
+        "store": "walmart",
+        "name": "LHSHIDU Leather Vintage Crossbody Bags for Women Roomy Multi Pockets Sling Bag Fanny Purse Shoulder Bags Chest Bag for Casual Travel Shopping(Pink)",
+        "url": "https://www.walmart.com.mx/ip/LHSHIDU-Leather-Vintage-Crossbody-Bags-for-Women-Roomy-Multi-Pockets-Sling-Bag-Fanny-Purse-Shoulder-Bags-Chest-Bag-for-Casual-Travel-Shopping-Pink/00089678562726?athbdg=L6000",
+        "price": 663.5,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Women’s Shoulder Bag | Fashion Casual Handbag & Messenger Purse | PU Leather Crossbody Tote | Adjustable Strap | Versatile Elegant Style | Beige Black Pink Blue | 23x21x7cm | 1 Pc",
+        "url": "https://www.walmart.com.mx/ip/Women-s-Shoulder-Bag-Fashion-Casual-Handbag-Messenger-Purse-PU-Leather-Crossbody-Tote-Adjustable-Strap-Versatile-Elegant-Style-Beige-Black-Pink-Blue-23x21x7cm-1-Pc/00807190042413?athbdg=L1300",
+        "price": 127.32,
+        "model": "23x21x7cm"
+      },
+      {
+        "store": "walmart",
+        "name": "Candy Color Jelly Bag for Storage 1Pcs Single Shoulder Pink Handbag",
+        "url": "https://www.walmart.com.mx/ip/Candy-Color-Jelly-Bag-for-Storage-1Pcs-Single-Shoulder-Pink-Handbag/00571373493986",
+        "price": 547.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Women's Shoulder Handbag | Casual Messenger Bag | Crossbody Tote Purse | Vegan Leather | Adjustable Strap | Fits Phone Wallet Keys | Stylish Design | 7.09x5.51x0.79in | 1 Pack | Pink Blue Beige",
+        "url": "https://www.walmart.com.mx/ip/Women-s-Shoulder-Handbag-Casual-Messenger-Bag-Crossbody-Tote-Purse-Vegan-Leather-Adjustable-Strap-Fits-Phone-Wallet-Keys-Stylish-Design-7-09x5-51x0-79in-1-Pack-Pink-Blue-Beige/00967114852204?athbdg=L1300",
+        "price": 125.83,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Striped Velvet Corduroy Canvas Tote Bag | Large Capacity Handheld Shoulder Crossbody Satchel | Casual Commuter Shopping Purse | 33x31cm | White Black Pink Brown | 1 Pc",
+        "url": "https://www.walmart.com.mx/ip/Striped-Velvet-Corduroy-Canvas-Tote-Bag-Large-Capacity-Handheld-Shoulder-Crossbody-Satchel-Casual-Commuter-Shopping-Purse-33x31cm-White-Black-Pink-Brown-1-Pc/00807190040324?athbdg=L1300",
+        "price": 192.38,
+        "model": "33x31cm"
+      },
+      {
+        "store": "walmart",
+        "name": "Chic Round Shoulder Bag Women For Daily Use And Travel 24X16X16CM Pink 1Pcs",
+        "url": "https://www.walmart.com.mx/ip/Chic-Round-Shoulder-Bag-Women-For-Daily-Use-And-Travel-24X16X16CM-Pink-1Pcs/00416355391274",
+        "price": 728.0,
+        "model": "24X16X16CM"
+      },
+      {
+        "store": "walmart",
+        "name": "Large Quilted Puffer Bag For Women Lightweight Shoulder And Crossbody Bag Spacious Handbag Great For Travel Or Work dark pink",
+        "url": "https://www.walmart.com.mx/ip/Large-Quilted-Puffer-Bag-For-Women-Lightweight-Shoulder-And-Crossbody-Bag-Spacious-Handbag-Great-For-Travel-Or-Work-dark-pink/00705413606614?athbdg=L1300",
+        "price": 978.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|LIKPINKSHOULDERCUEROBOLSAPINK": {
+    "ts": "2026-08-23T02:19:46.133942+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Bolsa Tote Pink Lady  Rosa Claro",
+        "url": "https://www.sams.com.mx/ip/bolsa-tote-pink-lady-rosa-claro/981022023",
+        "price": 817.37,
         "model": null
       }
     ]

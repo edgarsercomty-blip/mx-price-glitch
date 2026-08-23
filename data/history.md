@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (920)
+# Historial de ofertas encontradas (921)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 02:20 | -21% | liverpool | [Bolsa Shoulder Lik Pink De Cuero Para Mujer](https://www.liverpool.com.mx/tienda/pdp/bolsa-shoulder-lik-pink-de-cuero-para-mujer/1146202850) | $899 | $899 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-23 00:45 | -24% | liverpool | [Congelador Midea Mdrc564Fzm01 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc564fzm01-deshielo-manual-con-drenaje-15-pies-cubicos/1179145002) | $9,913 | $9,913 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-22 22:57 | -48% | liverpool | [Teclado Conexion Inalambrica Logitech Rugged Folio](https://www.liverpool.com.mx/tienda/pdp/teclado-conexion-inalambrica-logitech-rugged-folio/1094709365) | $1,784 | $1,784 en liverpool vs mercado -> -48% bajo la competencia |
 | 2026-08-22 22:40 | -68% | liverpool | [Licuadora Oster Blstpeg Cpb 6 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-oster-blstpeg-cpb-6-velocidades/1133854084) | $617 | $617 en liverpool vs mercado -> -68% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 13:29 | -20% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | $64,000 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 13:29 | -20% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | $2,400 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-30 13:29 | -21% | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, S…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $13,859 | $13,859 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-07-30 13:29 | -23% | palacio | [Laptop, LOQ 15IRX10, 15.6", Intel Core i5, 32 GB, 512 G…](https://www.elpalaciodehierro.com/lenovo-laptop-loq-15irx10-15.6-intel-core-i5-32-gb-512-gb-ssd-gris-45353662.html) | $23,939 | $23,939 en palacio vs mercado -> -23% bajo la competencia |
