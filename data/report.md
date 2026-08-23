@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-23 21:13 UTC
+# Errores/chollos de precio — 2026-08-23 21:36 UTC
 
-- Productos revisados: **1669**
+- Productos revisados: **1653**
 - Umbral de diferencia: **20%**
 - Hallazgos: **38**
 
@@ -30,10 +30,10 @@
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $2,000 | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas T…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | Confirmado vs competencia | $7,999 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
-| -25% | $1,501 | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500) | $4,499 | Confirmado vs competencia | $4,499 en walmart vs walmart $6,000, walmart $6,000, liverpool $7,999 -> -25% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -25% | $1,421 | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | Confirmado vs competencia | $4,266 en liverpool vs mercado -> -25% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
