@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 07:19 UTC",
-  "products_scanned": 1670,
+  "generated_at": "2026-08-23 07:50 UTC",
+  "products_scanned": 1609,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 42,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 70.0,
+      "detail": "$600 en palacio vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.77,
+      "store": "palacio",
+      "name": "Panel para refrigerador One Door 11 p3",
+      "url": "https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html",
+      "price": 599.7,
+      "list_price": 1999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42614838",
         "outlet": false
       }
     },
@@ -69,22 +90,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 11623.64,
+      "savings": 2780.0,
       "store": "palacio",
-      "name": "Laptop TUF FA607NUQ-RL038W R7, 16\", AMD Ryzen 7 170, 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html",
-      "price": 21375.36,
-      "list_price": 33399.0,
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
       "ean": null,
-      "model": "FA607NUQ-RL038W",
-      "brand": "Asus",
+      "model": null,
+      "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45650688",
+        "id": "45000830",
         "outlet": false
       }
     },
@@ -174,6 +195,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 29.0,
+      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9569.71,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
+      "price": 23429.29,
+      "list_price": 32999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44444419",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 23111.14,
+      "store": "palacio",
+      "name": "Laptop Asus ProArt, 16\", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html",
+      "price": 56888.96,
+      "list_price": 88889.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45241138",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -237,22 +300,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 7499.75,
+      "savings": 999.8,
       "store": "palacio",
-      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
+      "name": "Celular Y19S 256 GB 6 GB Plata Telcel",
+      "url": "https://www.elpalaciodehierro.com/vivo-celular-y19s-256-gb-6-gb-plata-telcel-44747549.html",
+      "price": 2999.39,
+      "list_price": 4998.99,
       "ean": null,
       "model": null,
-      "brand": "Motorola",
+      "brand": "VIVO",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45558414",
+        "id": "44747549",
         "outlet": false
       }
     },
@@ -337,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
-      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3761.78,
-      "store": "palacio",
-      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
-      "price": 11627.32,
-      "list_price": 17099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369608",
         "outlet": false
       }
     },
@@ -490,6 +532,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
+      "detail": "$2,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 748.5,
+      "store": "palacio",
+      "name": "Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html",
+      "price": 2495.0,
+      "list_price": 4990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45481963",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 5938.5,
@@ -505,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2259.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -657,27 +741,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -716,6 +779,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$19,999 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4999.8,
+      "store": "palacio",
+      "name": "Monitor para entrenamiento Fénix",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-fenix-44110959.html",
+      "price": 19999.2,
+      "list_price": 24999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44110959",
+        "outlet": false
       }
     },
     {
