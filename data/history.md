@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (934)
+# Historial de ofertas encontradas (935)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 19:51 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulga…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | $7,999 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-23 19:37 | -44% | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500) | $4,499 | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
 | 2026-08-23 19:16 | -44% | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500) | $4,499 | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
 | 2026-08-23 18:55 | -25% | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-31 13:08 | -30% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | $7,699 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-07-31 13:08 | -38% | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | $7,154 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-31 08:20 | -20% | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-31 08:20 | -20% | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | $4,799 en liverpool vs mercado -> -20% bajo la competencia |
