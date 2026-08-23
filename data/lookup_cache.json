@@ -25614,5 +25614,131 @@
   "sams|XIAOMICRYSTALRESAMOLEDXIAOMITELCEL": {
     "ts": "2026-08-23T19:16:03.507472+00:00",
     "items": []
+  },
+  "amazon|XIAOMICRYSTALRESAMOLEDTELCELXIAOMI": {
+    "ts": "2026-08-23T19:37:22.016892+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "XIAOMI REDMI Note 15 Celular 8G RAM+256G ROM Negro Cámara de 108 MP | Batería 6000 mAh, Cámara 108 MP, Pantalla AMOLED FHD+ 6,77'', MediaTek Helio G100-Ultra, Resistencia IP64",
+        "url": "https://www.amazon.com.mx/dp/B0G8D3P12C",
+        "price": 4674.0,
+        "model": "G100-Ultra"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI REDMI Note 15 Celular 8G RAM+256G ROM Morado Cámara de 108 MP | Batería 6000 mAh, Cámara 108 MP, Pantalla AMOLED FHD+ 6,77\", MediaTek Helio G100-Ultra, Resistencia IP64",
+        "url": "https://www.amazon.com.mx/dp/B0G7YW2BM9",
+        "price": 5399.0,
+        "model": "G100-Ultra"
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI POCO F7 Ultra Smartphone 12GB RAM 512GB ROM, Pantalla Flow AMOLED WQHD+ de 120Hz de 6.67”, Snapdragon 8 Elite, VisionBoost D7, Triple Cámara 50MP con OIS, HyperCharge de 120W, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F1MVHNH4",
+        "price": 15298.2,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Atwist Pantalla para Xiaomi Redmi 13C LCD Display - para Redmi 13C LCD Touch Digitizer para Redmi 13C 6.74\" Pantalla de Repuesto 23100RN82L 23106RN0DA 23108RN04Y Cristal Montaje con Marco",
+        "url": "https://www.amazon.com.mx/dp/B0DSH2KH4M",
+        "price": 849.62,
+        "model": "23100RN82L"
+      }
+    ]
+  },
+  "walmart|XIAOMICRYSTALRESAMOLEDTELCELXIAOMI": {
+    "ts": "2026-08-23T19:37:39.207467+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-128-GB-Negro-Telcel/00750622735649?athbdg=L1500",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Redmi 15C 128 GB + 4GB RAM | Batería 6000mAh | Cámara 50MP | 6.9\" 120Hz | Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15C-128-GB-4GB-RAM-Bateria-6000mAh-Camara-50MP-6-9-120Hz-Desbloqueado/00693255445590",
+        "price": 2999.0,
+        "model": "6000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C Azul 128 GB ATT",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-Azul-128-GB-ATT/00750188266474?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C Azul 128 GB ATT",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-Azul-128-GB-ATT/00750188266182?athbdg=L1300",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C Verde 128 GB ATT",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-Verde-128-GB-ATT/00750188266473?athbdg=L1300",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi Redmi 14C de 128 GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Redmi-14C-de-128-GB-Negro-Desbloqueado/00694181279831",
+        "price": 2997.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "XIAOMI REDMI A5 3GB RAM 64GB Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/XIAOMI-REDMI-A5-3GB-RAM-64GB-Midnight-Black/00693255442592",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 4+128 Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-4-128-Negro-Desbloqueado/00750665820630?athbdg=L6000",
+        "price": 2999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi  Redmi 9c 64gb 3gb Ram Global Dual Sim Lavanda Purpura",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-9c-64gb-3gb-Ram-Global-Dual-Sim-Lavanda-Purpura/00693417775966",
+        "price": 2749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Redmi 15c 256gb Dual SIM 4gb RAM Negro",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15c-256gb-Dual-SIM-4gb-RAM-Negro/00693255444481",
+        "price": 3249.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi A5 Dual SIM 64GB Negro Ocaso 3GB RAM",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Dual-SIM-64GB-Negro-Ocaso-3GB-RAM/00693255442531",
+        "price": 2299.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|XIAOMICRYSTALRESAMOLEDTELCELXIAOMI": {
+    "ts": "2026-08-23T19:37:40.018928+00:00",
+    "items": []
   }
 }

@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (933)
+# Historial de ofertas encontradas (934)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 19:37 | -44% | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500) | $4,499 | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
 | 2026-08-23 19:16 | -44% | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500) | $4,499 | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
 | 2026-08-23 18:55 | -25% | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-23 15:28 | -26% | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | $12,927 en liverpool vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-31 13:08 | -38% | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | $7,154 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-07-31 08:20 | -20% | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | $1,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -20% | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | $4,799 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-31 08:20 | -20% | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | $9,771 en palacio vs mercado -> -20% bajo la competencia |
