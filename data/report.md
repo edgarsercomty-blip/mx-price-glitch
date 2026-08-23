@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-23 23:12 UTC
+# Errores/chollos de precio — 2026-08-23 23:37 UTC
 
-- Productos revisados: **1641**
+- Productos revisados: **1647**
 - Umbral de diferencia: **20%**
-- Hallazgos: **36**
+- Hallazgos: **35**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -28,7 +28,6 @@
 | -26% | $2,205 | liverpool | [Congelador Midea Mfcd09P2Nabw Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mfcd09p2nabw-horizontal-9-pies-cubicos/1110040357) | $6,199 | Confirmado vs competencia | $6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
-| -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $2,000 | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas T…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | Confirmado vs competencia | $7,999 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
