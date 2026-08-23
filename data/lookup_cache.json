@@ -7861,312 +7861,16 @@
     "items": []
   },
   "amazon|BASICS1": {
-    "ts": "2026-08-21T08:39:33.512011+00:00",
+    "ts": "2026-08-23T08:52:16.498909+00:00",
     "items": []
   },
   "walmart|BASICS1": {
-    "ts": "2026-08-21T08:39:37.784408+00:00",
+    "ts": "2026-08-23T08:52:22.432796+00:00",
     "items": []
   },
   "sams|BASICS1": {
-    "ts": "2026-08-21T08:39:41.204232+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Colchón Matrimonial Luuna  Basics 2",
-        "url": "https://www.sams.com.mx/ip/colchon-matrimonial-luuna-basics-2/981003708",
-        "price": 6339.53,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Colchón Individual Luuna  Basics 2",
-        "url": "https://www.sams.com.mx/ip/colchon-individual-luuna-basics-2/981003842",
-        "price": 4909.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Colchón Queen Size Luuna  Basics 2",
-        "url": "https://www.sams.com.mx/ip/colchon-queen-size-luuna-basics-2/981003709",
-        "price": 5890.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Colchón King Size Luuna  Basics 2",
-        "url": "https://www.sams.com.mx/ip/colchon-king-size-luuna-basics-2/981003710",
-        "price": 9103.68,
-        "model": null
-      }
-    ]
-  },
-  "amazon|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-21T08:39:44.009658+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Lamicall Soporte para Audífonos, Base Audífonos Gamer de Mesa : válido para Todos los Auriculares Música, Base Universal de Escritorio para Auriculares, Organizador de Escritorio- Negro",
-        "url": "https://www.amazon.com.mx/dp/B07ZYTS86X",
-        "price": 449.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Alomia Funda Compatible con AirPods Pro 2. Funda de Silicona Compatible con Apple Airpods Pro 2. Protege Tus audífonos de caídas, rayones, Polvo y Suciedad. Modelo Maleta con Stickers (Maleta Negra)",
-        "url": "https://www.amazon.com.mx/dp/B0CCWYVNLK",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Alomia Funda Impermeable Compatible con Airpods Pro 2 Gen. Funda a Prueba de Salpicaduras y Polvo. Soporte de Carga inalámbrica con mosqueton. Airpods Pro Case. (Blanco y Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0BZ5QMZJ8",
-        "price": 128.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Alomia Funda Uso Rudo Compatible con AirPods Pro 2. Funda con Bloqueo de Seguridad. Protege de caídas, rayones y Polvo con Kit de Limpieza y 3 Pares de Almohadillas (S/M/L) (Color Blanco)",
-        "url": "https://www.amazon.com.mx/dp/B0CSR9VW8W",
-        "price": 279.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "P1 Aviation Pilot Headset for Student Pilots Flight Schools Flight Instructors Features 24 db PNR Rating, Noise Canceling Microphone, Acoustic Foam Ear Cups, AUX Port Input with GA Dual Plugs",
-        "url": "https://www.amazon.com.mx/dp/B01CBJ29C4",
-        "price": 2858.51,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Alomia Pluma de limpieza para Airpods. Kit de limpieza. Incluye Cepillo para audífonos. Herramientas de limpieza para audífonos. Incluye paquete de 4 brochas de limpieza. Airpods Pro Cleaner Kit.",
-        "url": "https://www.amazon.com.mx/dp/B09VCVSWSL",
-        "price": 199.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Alomia Kit de limpieza multifuncional para Airpods, Incluye Cepillo para audífonos y 4 brochas de limpieza. Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0BD5ZMY8V",
-        "price": 138.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Auriculares P1 para Aviación General para Pilotos - Mono, Reducción de Ruido Pasiva, Micrófono con Cancelación de Ruido, Almohadillas Acústicas, Puerto AUX, Conector Dual GA con Bolsa para Auriculares",
-        "url": "https://www.amazon.com.mx/dp/B08BS31STS",
-        "price": 2968.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "eKids Spiderman - Auriculares para niños, Diadema Ajustable, Sonido estéreo, Conector de 3.5 mm, cableado, sin enredos, Control de Volumen, Auriculares para niños sobre la Oreja para la Escuela, el",
-        "url": "https://www.amazon.com.mx/dp/B00IUQF7YK",
-        "price": 344.12,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sony EX14AP Audífonos con micrófono In-Ear manos libres, Negro",
-        "url": "https://www.amazon.com.mx/dp/B07C7CQPKP",
-        "price": 179.0,
-        "model": "EX14AP"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Sound - Earbuds 3S Auriculares Manos Libres, con Cable Plano Que no se enreda, Nueva Línea",
-        "url": "https://www.amazon.com.mx/dp/B09D1M6VR9",
-        "price": 99.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sony MDR-ZX110/BCUC Audífonos de Diadema Plegables y Giratorios, color Negro",
-        "url": "https://www.amazon.com.mx/dp/B072XQ7CXL",
-        "price": 299.0,
-        "model": "MDR-ZX110/BCUC"
-      }
-    ]
-  },
-  "walmart|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-21T08:39:59.964504+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Audífono Inalámbrico STF Aurum On Ear Plata",
-        "url": "https://www.walmart.com.mx/ip/audifono-inalambrico-stf-aurum-on-ear-plata/00750303521644?athbdg=L1300",
-        "price": 339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audifonos On-ear Audiobahn HARMONY",
-        "url": "https://www.walmart.com.mx/ip/audifonos-on-ear-audiobahn-harmony/00750305088758?athbdg=L1300",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audifonos Alambricos Aiwa Aiwa ON EAR",
-        "url": "https://www.walmart.com.mx/ip/audifonos-alambricos-aiwa-aiwa-on-ear/00750302599083?athbdg=L6000",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbrico On ear STF Aurum Color Negro",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambrico-on-ear-stf-aurum-color-negro/00750303521645?athbdg=L1510",
-        "price": 339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbrico On ear STF Aurum Color Azul",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambrico-on-ear-stf-aurum-color-azul/00750303521646?athbdg=L1300",
-        "price": 339.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos in-ear inalámbricos Portatiles color Azul cielo",
-        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-inalambricos-portatiles-color-azul-cielo/00750304510356",
-        "price": 739.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos in-ear inalámbricos Portatiles color champagne",
-        "url": "https://www.walmart.com.mx/ip/audifonos-in-ear-inalambricos-portatiles-color-champagne/00750304510355",
-        "price": 709.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Audiobahn HARMONY Bluetooth Inalámbricos de Diadema on-ear",
-        "url": "https://www.walmart.com.mx/ip/audifonos-audiobahn-harmony-bluetooth-inalambricos-de-diadema-on-ear/00750305088759?athbdg=L1300",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Over Ear Aurum Stf Color Negro",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-over-ear-aurum-stf-color-negro/00750305176774?athbdg=L6000",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos On Ear Sony MDR-ZX310AP Plegables Blancos 1 Pieza",
-        "url": "https://www.walmart.com.mx/ip/audifonos-on-ear-sony-mdr-zx310ap-plegables-blancos-1-pieza/00002724286967",
-        "price": 659.0,
-        "model": "MDR-ZX310AP"
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos On Ear Maxell Alámbricos Blanco",
-        "url": "https://www.walmart.com.mx/ip/audifonos-on-ear-maxell-alambricos-blanco/00002521549986",
-        "price": 379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audífonos Inalámbricos Over Ear Aurum Stf Color Rosa",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-over-ear-aurum-stf-color-rosa/00750305176776?athbdg=L6000",
-        "price": 799.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|ALOMIAAUDIFONOSALOMIAPORTAEAR": {
-    "ts": "2026-08-21T08:40:06.617331+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Auriculares Con Bluetooth SkullCandy Dime EVO S2DTW-S740",
-        "url": "https://www.sams.com.mx/ip/auriculares-con-bluetooth-skullcandy-dime-evo-s2dtw-s740/981043681",
-        "price": 1021.98,
-        "model": "S2DTW-S740"
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos Member's Mark MM Flow Headphones",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-member-s-mark-mm-flow-headphones/981042536",
-        "price": 675.31,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Honor  Magic7 Lite 5G 512 GB Cian Telcel + Audífonos Honor Choice Headphones",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-honor-magic7-lite-5g-512-gb-cian-telcel-audifonos-honor-choice-headphones/981034191",
-        "price": 8998.31,
-        "model": "Magic7"
-      },
-      {
-        "store": "sams",
-        "name": "Cajuela Porta Casco para Motocicleta Vento  G1",
-        "url": "https://www.sams.com.mx/ip/cajuela-porta-casco-para-motocicleta-vento-g1/981039126",
-        "price": 1226.57,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X7c 256 GB Blanco Telcel + Earbuds",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x7c-256-gb-blanco-telcel-earbuds/981031788",
-        "price": 4998.38,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Auricular Manos Libres Jabra  Bluetooth Talk 5 Negro",
-        "url": "https://www.sams.com.mx/ip/auricular-manos-libres-jabra-bluetooth-talk-5-negro/980024207",
-        "price": 510.47,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Maletín Delsey Paris  Porta Laptop 15.6\" 394416100",
-        "url": "https://www.sams.com.mx/ip/maletin-delsey-paris-porta-laptop-15-6-394416100/981037560",
-        "price": 1431.18,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos STF  On Ear Naranja",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-naranja/981053793",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos STF  On Ear Negro",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-negro/981053799",
-        "price": 756.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos STF  On Ear Negro",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-negro/981053797",
-        "price": 490.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos STF  On Ear Lila",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-stf-on-ear-lila/981053798",
-        "price": 490.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Audífonos Inalámbricos Sony  On-Ear WH-CH520 Beige",
-        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-sony-on-ear-wh-ch520-beige/981009312",
-        "price": 1018.9,
-        "model": "WH-CH520"
-      }
-    ]
+    "ts": "2026-08-23T08:52:25.869812+00:00",
+    "items": []
   },
   "amazon|MOTOROLACELULARULTRACOCOARAZR": {
     "ts": "2026-08-21T09:18:33.501793+00:00",
@@ -28789,5 +28493,139 @@
   "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
     "ts": "2026-08-23T07:50:53.605038+00:00",
     "items": []
+  },
+  "amazon|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-08-23T08:52:29.569232+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Garmin Reloj Venu X1 Frech Gray | Monitoreo de salud y bienestar 24/7, características de entrenamiento avanzadas, linterna integrada, lente de zafiro",
+        "url": "https://www.amazon.com.mx/dp/B0GF446459",
+        "price": 11679.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin 010-02173-12 Venu Monitor Garmin Venu Negro, color Negro, pack of/paquete de 1",
+        "url": "https://www.amazon.com.mx/dp/B07VXR4B2D",
+        "price": 7586.39,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin, Smart Band Cirqa, Black L/XL",
+        "url": "https://www.amazon.com.mx/dp/B0H93Y497R",
+        "price": 4075.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin, Smart Band Cirqa, French Gray S/M",
+        "url": "https://www.amazon.com.mx/dp/B0H94CWH3Q",
+        "price": 4075.42,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 4 Health Fitness - Reloj inteligente GPS de 41 mm AMOLED | Lunar Gold, 010-03013-00, incluye base de carga, cubierta antipolvo de silicona, paquete de 3 y protector de visualización",
+        "url": "https://www.amazon.com.mx/dp/B0FX9ZJBP9",
+        "price": 12262.53,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 3s Ivory",
+        "url": "https://www.amazon.com.mx/dp/B0CDC6C4TQ",
+        "price": 6474.73,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Index Sleep Monitor",
+        "url": "https://www.amazon.com.mx/dp/B0FCMW5K7P",
+        "price": 2699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 3s Dust Rose",
+        "url": "https://www.amazon.com.mx/dp/B0CDC4ZVHZ",
+        "price": 6502.04,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin® Forerunner® 570, 42 mm, Reloj Inteligente avanzado con GPS para Correr y triatlón, visualización AMOLED, características de Entrenamiento y recuperación, Whitestone/Cloud Blue | GPS Plus Multibanda Satiq, almacenamiento de música de 8 GB, GPS hasta 18 horas, Satiq hasta 14 horas, 5 Atm",
+        "url": "https://www.amazon.com.mx/dp/B0F8QY6GPR",
+        "price": 9489.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 2 Negro 45 mm",
+        "url": "https://www.amazon.com.mx/dp/B0912JT6R1",
+        "price": 6792.62,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 3 Black | Reloj inteligente AMOLED de 1,4 pulgadas, micrófono y altavoz, música, GarminPay, +30 aplicaciones deportivas, GPS, Cardio",
+        "url": "https://www.amazon.com.mx/dp/B0CDC6H66Y",
+        "price": 6442.33,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Garmin Venu 4, 45 mm, Reloj Inteligente GPS avanzado para Salud y Fitness, visualización Brillante y Colorida, Linterna integrada, 12 días de duración de la batería, Black w/Slate + Leather, WW",
+        "url": "https://www.amazon.com.mx/dp/B0FRG1TXC6",
+        "price": 10709.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-08-23T08:52:36.563453+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Garmin Monitor deportivo, Venu X1, GPS, Black",
+        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-deportivo-Venu-X1-GPS-Black/00075375934274?athbdg=L1300",
+        "price": 12408.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin Monitor deportivo, Venu X1, GPS, Moss",
+        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-deportivo-Venu-X1-GPS-Moss/00075375934275?athbdg=L1300",
+        "price": 12408.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Garmin Monitor Deportivo, Descent G2, Paloma",
+        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-Deportivo-Descent-G2-Paloma/00075375935108?athbdg=L6000",
+        "price": 13139.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|GARMINENTRENAMIENTOMONITORVENU": {
+    "ts": "2026-08-23T08:52:45.522982+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Venu X1",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-venu-x1/981042771",
+        "price": 12409.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
+        "price": 8398.82,
+        "model": null
+      }
+    ]
   }
 }

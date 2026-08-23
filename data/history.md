@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (926)
+# Historial de ofertas encontradas (927)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 08:52 | -20% | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-23 02:39 | -22% | sams | [Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts c…](https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199) | $1,599 | $1,599 en sams vs mercado -> -22% bajo la competencia |
 | 2026-08-23 02:39 | -22% | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B09M6V52FR) | $791 | $791 en amazon vs mercado -> -22% bajo la competencia |
 | 2026-08-23 02:39 | -28% | liverpool | [Smartwatch Samsung Galaxy Watch Ultra 47 Mm Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-ultra-47-mm-unisex-con-gps/1158643512) | $5,199 | $5,199 en liverpool vs mercado -> -28% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 21:34 | -20% | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
