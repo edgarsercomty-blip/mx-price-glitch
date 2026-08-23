@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (931)
+# Historial de ofertas encontradas (932)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 18:54 | -40% | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Su…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | $3,792 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-08-23 15:28 | -26% | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | $12,927 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-08-23 15:28 | -27% | amazon | [Hoka Clifton 10 Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0D5G83VGH) | $2,912 | $2,912 en amazon vs mercado -> -27% bajo la competencia |
 | 2026-08-23 15:28 | -32% | walmart | [Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9…](https://www.walmart.com.mx/ip/congelador-refrigerador-horizontal-midea-mfcd09p2nabw-9-pies-blanco-1-midea-9-pies-mfcd09p2nabw-blanco/00694046191005) | $6,399 | $6,399 en walmart vs mercado -> -32% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-31 08:20 | -20% | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | $4,799 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -20% | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | $9,771 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -21% | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $24,700 | $24,700 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-07-31 08:20 | -38% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $2,245 | $2,245 en liverpool vs mercado -> -38% bajo la competencia |

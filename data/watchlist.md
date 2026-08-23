@@ -1,4 +1,4 @@
-# Productos en vigilancia (775)
+# Productos en vigilancia (776)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -779,3 +779,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Samsung 12000 Btu Ar12Bvhqasi …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-samsung-12000-btu-ar12bvhqasi-ax-220-v/1133849153) | $4,368 | -37% |
 | 🟢 disponible | amazon | [Hoka Clifton 10 Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0D5G83VGH) | $2,912 | -27% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu Setcm…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | -26% |
+| 🟢 disponible | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | -40% |
