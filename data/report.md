@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-23 20:12 UTC
+# Errores/chollos de precio — 2026-08-23 20:42 UTC
 
-- Productos revisados: **1654**
+- Productos revisados: **1660**
 - Umbral de diferencia: **20%**
-- Hallazgos: **36**
+- Hallazgos: **37**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -19,7 +19,7 @@
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $3,610 | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | Confirmado vs competencia | $11,589 en palacio vs mercado -> -24% bajo la competencia |
-| -44% | $3,500 | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500) | $4,499 | Confirmado vs competencia | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
+| -44% | $3,500 | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500) | $4,499 | Confirmado vs competencia | $4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia |
 | -20% | $3,421 | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $13,684 | Confirmado vs competencia | $13,684 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $3,200 | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | Confirmado vs competencia | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | -22% | $2,876 | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | Confirmado vs competencia | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
@@ -37,8 +37,9 @@
 | -25% | $1,421 | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | Confirmado vs competencia | $4,266 en liverpool vs mercado -> -25% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
-| -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs walmart $4,079, walmart $5,409 -> -25% bajo la competencia |
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -22% | $720 | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | Confirmado vs competencia | $2,520 en palacio vs mercado -> -22% bajo la competencia |
+| -30% | $600 | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | Confirmado vs competencia | $1,364 en liverpool vs mercado -> -30% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 20:12 UTC",
-  "products_scanned": 1654,
+  "generated_at": "2026-08-23 20:42 UTC",
+  "products_scanned": 1660,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -33,7 +33,7 @@
       "savings": 3500.2,
       "store": "walmart",
       "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
-      "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
+      "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500",
       "price": 4499.0,
       "list_price": null,
       "ean": null,
@@ -106,6 +106,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 47.9,
+      "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.9,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
+      "price": 1364.35,
+      "list_price": 2619.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165916841",
+        "marketplace": null
       }
     },
     {
@@ -342,7 +363,7 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$2,694 en palacio vs walmart $4,079, walmart $5,409 -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 898.0,
       "store": "palacio",
