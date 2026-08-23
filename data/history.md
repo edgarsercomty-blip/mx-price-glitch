@@ -4,7 +4,7 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
-| 2026-08-23 18:54 | -40% | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Su…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | $3,792 en liverpool vs mercado -> -40% bajo la competencia |
+| 2026-08-23 18:55 | -25% | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
 | 2026-08-23 15:28 | -26% | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | $12,927 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-08-23 15:28 | -27% | amazon | [Hoka Clifton 10 Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0D5G83VGH) | $2,912 | $2,912 en amazon vs mercado -> -27% bajo la competencia |
 | 2026-08-23 15:28 | -32% | walmart | [Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9…](https://www.walmart.com.mx/ip/congelador-refrigerador-horizontal-midea-mfcd09p2nabw-9-pies-blanco-1-midea-9-pies-mfcd09p2nabw-blanco/00694046191005) | $6,399 | $6,399 en walmart vs mercado -> -32% bajo la competencia |
