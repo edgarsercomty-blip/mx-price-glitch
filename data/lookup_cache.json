@@ -2170,7 +2170,7 @@
     "items": []
   },
   "amazon|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
-    "ts": "2026-08-21T05:24:27.446374+00:00",
+    "ts": "2026-08-23T05:58:44.913521+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2202,9 +2202,9 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W, Vaso de Vidrio 1.5 L, 1 Velocidad + Pulso | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
+        "name": "Oster Licuadora Clásica 1000 W 3 Velocidades con Vaso de Vidrio | Prepara sopas y recetas frías, cuchilla trituradora de hielo, acople metálico y motor reversible, palanca, BLSTBESTE-013",
         "url": "https://www.amazon.com.mx/dp/B08V5LRRXS",
-        "price": 1452.35,
+        "price": 1452.38,
         "model": "BLSTBESTE-013"
       },
       {
@@ -2216,10 +2216,24 @@
       },
       {
         "store": "amazon",
+        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
+        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
+        "price": 592.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Oster - Licuadora Pro 1200 con tarro de vidrio, taza de batido de 710 ml, níquel cepillado",
         "url": "https://www.amazon.com.mx/dp/B00XHXN54K",
         "price": 2190.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
+        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
+        "price": 1425.0,
+        "model": "BLST4127"
       },
       {
         "store": "amazon",
@@ -2230,24 +2244,10 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Licuadora ® Con Vaso De Vidrio Y Dos Velocidades Más Pulso Blstkagrpb",
-        "url": "https://www.amazon.com.mx/dp/B08DPVJ3MP",
-        "price": 592.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Licuadora Clásica, con 2 Velocidades, y Vaso de Vidrio Refractario Boroclass®, Cromada, BLST4127",
-        "url": "https://www.amazon.com.mx/dp/B08V5PD4F4",
-        "price": 1489.0,
-        "model": "BLST4127"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Licuadora Clásica 1000 W con Vaso de Vidrio 1.25 L y 3 Velocidades | Prepara recetas frías y calientes, cuchilla trituradora de hielo, perilla ergonómica y acople metálico, BLST4128-013",
-        "url": "https://www.amazon.com.mx/dp/B08V5LXDZZ",
-        "price": 1278.0,
-        "model": "BLST4128-013"
+        "name": "Oster Batidora de Mano 320 W con 7 Velocidades y Función Turbo | Prepara merengues y masas para galletas, incluye batidores y ganchos amasadores, almacenamiento práctico, rojo, FPSTHM360R",
+        "url": "https://www.amazon.com.mx/dp/B09YDK2QLT",
+        "price": 517.0,
+        "model": "FPSTHM360R"
       },
       {
         "store": "amazon",
@@ -2259,47 +2259,40 @@
     ]
   },
   "walmart|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
-    "ts": "2026-08-21T05:24:29.779479+00:00",
+    "ts": "2026-08-23T05:58:48.173755+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Kitchenaid 7KHBV83MPA Licuadora De Inmersión Kit Accesorios",
-        "url": "https://www.walmart.com.mx/ip/Kitchenaid-7KHBV83MPA-Licuadora-De-Inmersion-Kit-Accesorios/00088304969541",
-        "price": 1999.0,
-        "model": "7KHBV83MPA"
+        "name": "Licuadora Multiusos SOKANY 5000w 9 Velocidades 2 En 1 Procesador Color Negro",
+        "url": "https://www.walmart.com.mx/ip/licuadora-multiusos-sokany-5000w-9-velocidades-2-en-1-procesador-color-negro/00697482428207",
+        "price": 999.0,
+        "model": "5000w"
       },
       {
         "store": "walmart",
         "name": "Licuadora Oster Profesional XTREME MIX con iBLEND y MAX CRUSH Vaso de Vidrio Gris",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-Oster-Profesional-XTREME-MIX-con-iBLEND-y-MAX-CRUSH-Vaso-de-Vidrio-Gris/00005389117568?athbdg=L1600",
+        "url": "https://www.walmart.com.mx/ip/licuadora-oster-profesional-xtreme-mix-con-iblend-y-max-crush-vaso-de-vidrio-gris/00005389117568?athbdg=L1600",
         "price": 2071.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Oster Licuadora Profesional XTREME MIX con iBLEND y MAX CRUSH, 1500 W, 2 L, Jarra de Vidrio Boroclas",
-        "url": "https://www.walmart.com.mx/ip/Oster-Licuadora-Profesional-XTREME-MIX-con-iBLEND-y-MAX-CRUSH-1500-W-2-L-Jarra-de-Vidrio-Boroclas/00005389117570?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/oster-licuadora-profesional-xtreme-mix-con-iblend-y-max-crush-1500-w-2-l-jarra-de-vidrio-boroclas/00005389117570?athbdg=L1300",
         "price": 4605.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Licuadora KitchenAid 10 Velocidades 1700 W 2 L Color Rojo",
-        "url": "https://www.walmart.com.mx/ip/Licuadora-KitchenAid-10-Velocidades-1700-W-2-L-Color-Rojo/00088304992554",
-        "price": 1799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Oster Extremo Mix Blender, 1500 Vatios de Alta Velocidad Blender con Hoja de 10 Puntos, Cocina de 8 Tazas Blender con Programas Automáticos",
-        "url": "https://www.walmart.com.mx/ip/Oster-Extremo-Mix-Blender-1500-Vatios-de-Alta-Velocidad-Blender-con-Hoja-de-10-Puntos-Cocina-de-8-Tazas-Blender-con-Programas-Automaticos/00005389117665?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/oster-extremo-mix-blender-1500-vatios-de-alta-velocidad-blender-con-hoja-de-10-puntos-cocina-de-8-tazas-blender-con-programas-automaticos/00005389117665?athbdg=L1300",
         "price": 3309.0,
         "model": null
       }
     ]
   },
   "sams|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
-    "ts": "2026-08-21T05:24:35.277473+00:00",
+    "ts": "2026-08-23T05:58:54.928204+00:00",
     "items": [
       {
         "store": "sams",
@@ -2333,273 +2326,20 @@
         "store": "sams",
         "name": "Licuadora Power XL SENSIMAX 10 Velocidades 2 L 900 Watts Tecnología silenciosa BL7019-0MPLA",
         "url": "https://www.sams.com.mx/ip/licuadora-power-xl-sensimax-10-velocidades-2-l-900-watts-tecnologia-silenciosa-bl7019-0mpla/981051095",
-        "price": 1533.47,
+        "price": 3579.46,
         "model": "BL7019-0MPLA"
       },
       {
         "store": "sams",
         "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
         "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-        "price": 2043.94,
-        "model": null
-      }
-    ]
-  },
-  "amazon|OSTERCAFETERA2217257TAZAS": {
-    "ts": "2026-08-21T05:24:48.276543+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Genérico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripción.",
-        "url": "https://www.amazon.com.mx/dp/B0FMBLSGSJ",
-        "price": 365.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "5 Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Mrcoffee | Jarra de repuesto de vidrio resistente al calor de 0.75L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WN7PCY",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera negra de 4 tazas práctica y fácil de usar",
-        "url": "https://www.amazon.com.mx/dp/B071K9BB9J",
-        "price": 670.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
-        "price": 398.0,
-        "model": "12Tazas"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de repuesto para cafetera de 5 tazas, Cristal, Negro. Oster",
-        "url": "https://www.amazon.com.mx/dp/B0BMQ24YSV",
-        "price": 349.98,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Univen - Cafetera de vidrio de 4 tazas compatible con cafetera Oster modelo 3301 y 4287",
-        "url": "https://www.amazon.com.mx/dp/B0DFDST5ZP",
-        "price": 729.71,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
-        "price": 305.35,
-        "model": "CM321DMX"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERA2217257TAZAS": {
-    "ts": "2026-08-21T05:24:50.921234+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Jarra de Repuesto para Cafetera Oster 12 Tazas de Capacidad, Vidrio, Compatible con las Cafeteras BVSTDC12, BVSTSRCS12",
-        "url": "https://www.walmart.com.mx/ip/jarra-de-repuesto-para-cafetera-oster-12-tazas-de-capacidad-vidrio-compatible-con-las-cafeteras-bvstdc12-bvstsrcs12/00005389115382?athbdg=L1600",
-        "price": 209.0,
-        "model": "BVSTSRCS12"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704?athbdg=L6000",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Jarra de Repuesto para Cafetera Oster de 12 Tazas Genérica Jarras 12 tazas",
-        "url": "https://www.walmart.com.mx/ip/jarra-de-repuesto-para-cafetera-oster-de-12-tazas-generica-jarras-12-tazas/00068005821743?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "CAFETERA ELECTRICA OSTER PROGRAMABLE 12 TAZAS NEGRA",
-        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-oster-programable-12-tazas-negra/00005389117867?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 10 Tazas Cromo",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster&reg; Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-reg-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046425652021",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Programable Oster 12 Tazas Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-programable-oster-12-tazas-roja/00005389114276",
-        "price": 638.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERA2217257TAZAS": {
-    "ts": "2026-08-21T05:24:53.963387+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 698.0,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
+        "price": 1599.0,
         "model": null
       }
     ]
   },
   "amazon|OSTERCAFETERAPERFECTMAXIMABREW": {
-    "ts": "2026-08-21T05:24:59.778002+00:00",
+    "ts": "2026-08-23T05:58:57.413999+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2617,10 +2357,10 @@
       },
       {
         "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew BVSTEM7201-013 | Compacta, portafiltro 58 mm, bomba 15 bar, Thermoblock, tubo vapor acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FW5R4Y6K",
-        "price": 5500.0,
-        "model": "BVSTEM7201-013"
+        "name": "De'Longhi Cafetera Tipo Barista para Espresso EC260BK Stilosa",
+        "url": "https://www.amazon.com.mx/dp/B08C96BG9H",
+        "price": 1799.0,
+        "model": "EC260BK"
       },
       {
         "store": "amazon",
@@ -2635,13 +2375,6 @@
         "url": "https://www.amazon.com.mx/dp/B07WG2ZQDG",
         "price": 11999.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "De'Longhi Cafetera Tipo Barista para Espresso EC260BK Stilosa",
-        "url": "https://www.amazon.com.mx/dp/B08C96BG9H",
-        "price": 3321.1,
-        "model": "EC260BK"
       },
       {
         "store": "amazon",
@@ -2673,22 +2406,29 @@
       },
       {
         "store": "amazon",
-        "name": "Cuisinart Cafetera Grind & Brew con Molinillo de Café, 8/10/12 oz, Compatible con Cápsulas, 40 oz",
-        "url": "https://www.amazon.com.mx/dp/B0C1Q4V3J3",
-        "price": 3681.89,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
         "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
         "price": 499.0,
         "model": "BVSTDCS12B013"
+      },
+      {
+        "store": "amazon",
+        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
+        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
+        "price": 1033.62,
+        "model": "BVSTRF100"
+      },
+      {
+        "store": "amazon",
+        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
+        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
+        "price": 699.0,
+        "model": null
       }
     ]
   },
   "walmart|OSTERCAFETERAPERFECTMAXIMABREW": {
-    "ts": "2026-08-21T05:25:02.214900+00:00",
+    "ts": "2026-08-23T05:59:00.915612+00:00",
     "items": [
       {
         "store": "walmart",
@@ -2707,7 +2447,7 @@
     ]
   },
   "sams|OSTERCAFETERAPERFECTMAXIMABREW": {
-    "ts": "2026-08-21T05:25:10.175397+00:00",
+    "ts": "2026-08-23T05:59:10.277387+00:00",
     "items": [
       {
         "store": "sams",
@@ -8809,161 +8549,6 @@
         "url": "https://www.sams.com.mx/ip/pantalla-hisense-100-uled-mini-led-4k-google-tv-100u7qg/981040715",
         "price": 62401.96,
         "model": "100U7QG"
-      }
-    ]
-  },
-  "amazon|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-08-21T05:24:37.566994+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Compacta Espresso con 15 Bar y hasta 2 Espressos por Ciclo | Prepara espresso, cappuccinos y lattes, compatible con cápsulas Dolce Gusto, incluye accesorios, BVSTEM5502",
-        "url": "https://www.amazon.com.mx/dp/B0FXJCPT55",
-        "price": 1971.0,
-        "model": "BVSTEM5502"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
-        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
-        "price": 2362.24,
-        "model": "BVSTDC4411-013ris"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Automática de Espresso PrimaLatte con Auto-Frothing | Para Latte y Cappuccino, Café Molido y Cápsulas, Limpieza Automática, Accesorios Incluidos, Acero Inoxidable, BVSTEM6604SS",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3VPMPK",
-        "price": 2983.17,
-        "model": "BVSTEM6604SS"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Chefman Máquina de espresso Chefman CraftBrew, cafetera digital con bomba de 15 bares con varilla de vapor para café con leche y capuchino, compacta con depósito de agua extraíble de 1.8L",
-        "url": "https://www.amazon.com.mx/dp/B0DMQMC4CD",
-        "price": 1699.32,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-08-21T05:24:41.132856+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
-        "price": 10555.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Espresso y Capuchino Chefman Panel Touch Acero Inoxidable 1.8 Litros RJ54-I-SV-MX",
-        "url": "https://www.walmart.com.mx/ip/cafetera-espresso-y-capuchino-chefman-panel-touch-acero-inoxidable-1-8-litros-rj54-i-sv-mx/00081008784646",
-        "price": 2599.0,
-        "model": "RJ54-I-SV-MX"
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAPANELACEROTOUCH": {
-    "ts": "2026-08-21T05:24:45.310960+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
       }
     ]
   },

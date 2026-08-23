@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23 05:21 UTC",
-  "products_scanned": 1568,
+  "generated_at": "2026-08-23 05:59 UTC",
+  "products_scanned": 1575,
   "threshold_pct": 20.0,
   "count": 38,
   "findings": [
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45421529",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 36.0,
-      "detail": "$56,889 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 23111.14,
-      "store": "palacio",
-      "name": "Laptop Asus ProArt, 16\", AMD Ryzen AI 9, RAM 64 GB, SSD 2 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html",
-      "price": 56888.96,
-      "list_price": 88889.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45241138",
         "outlet": false
       }
     },
@@ -652,6 +631,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },
