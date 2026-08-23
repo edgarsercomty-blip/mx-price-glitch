@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 09:18 UTC",
-  "products_scanned": 1574,
+  "generated_at": "2026-08-23 09:46 UTC",
+  "products_scanned": 1609,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 40,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -254,6 +254,27 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1421.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Luuna Basics1 10",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
+      "price": 4266.15,
+      "list_price": 12189.0,
+      "ean": null,
+      "model": "Basics1",
+      "brand": "LUUNA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178927540",
+        "marketplace": null
       }
     },
     {

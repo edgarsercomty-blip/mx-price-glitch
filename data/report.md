@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-23 09:18 UTC
+# Errores/chollos de precio — 2026-08-23 09:46 UTC
 
-- Productos revisados: **1574**
+- Productos revisados: **1609**
 - Umbral de diferencia: **20%**
-- Hallazgos: **39**
+- Hallazgos: **40**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -33,6 +33,7 @@
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
+| -25% | $1,421 | liverpool | [Colchon En Caja Luuna Basics1 10](https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540) | $4,266 | Confirmado vs competencia | $4,266 en liverpool vs mercado -> -25% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,000 | palacio | [Celular Y19S 256 GB 6 GB Plata Telcel](https://www.elpalaciodehierro.com/vivo-celular-y19s-256-gb-6-gb-plata-telcel-44747549.html) | $2,999 | Confirmado vs competencia | $2,999 en palacio vs mercado -> -25% bajo la competencia |
