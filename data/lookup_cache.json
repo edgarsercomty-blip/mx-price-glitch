@@ -1165,14 +1165,35 @@
     ]
   },
   "amazon|CX1405CTA": {
-    "ts": "2026-08-21T14:54:55.622755+00:00",
+    "ts": "2026-08-23T15:13:13.806178+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Protector de visualización antiluz azul para ASUS ChromeBook CM1 CX1 CX3 CX9 CM14 CX14 CX34/ChromeBook 14 CM1400 CM1402CM2A CX1400 CX1400CKA CX3400 CX3401 CX3401 CXX 444 444 CX1405 CX1405CTA (no",
-        "url": "https://www.amazon.com.mx/dp/B0F671D243",
-        "price": 331.34,
-        "model": "CX34/ChromeBook"
+        "name": "OKASIS Laptop 14 Pulgadas, Ordenador Portátil 14 Pulgadas,8GB DDR4,512GB SSD,1080P FHD Display, PC portatil Procesador 5305U, Batería 38 WH, Dos Altavoces Estéreo, Tipo C, USB 3.0, 2024",
+        "url": "https://www.amazon.com.mx/dp/B0DQCSD8QN",
+        "price": 4489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Dell Notebook Computer 14 Pulgadas Latitude 5440 Laptop, Business | 14 pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0FH22S6KS",
+        "price": 8799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14 Flip Laptop Copilot+ PC, pantalla táctil OLED WUXGA de 14”, 8 núcleos AI Intel Core Ultra 5 226V, gráficos Intel Arc, 16 GB RAM 1 TB SSD, Win 11 H, gris mate, TP3407SA-ES54T, con",
+        "url": "https://www.amazon.com.mx/dp/B0FM715566",
+        "price": 24989.99,
+        "model": "TP3407SA-ES54T"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook - Laptop de 14 pulgadas, FHD (1920 x 1080), Intel Core i3-1315U de 6 núcleos, gráficos Intel UHD, cámara de privacidad, bisagra Lay-Flat 180°, Windows 11 Home, con mouse inalámbrico (16",
+        "url": "https://www.amazon.com.mx/dp/B0FMXRTPZ7",
+        "price": 14041.99,
+        "model": "i3-1315U"
       },
       {
         "store": "amazon",
@@ -1183,9 +1204,9 @@
       },
       {
         "store": "amazon",
-        "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
-        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
-        "price": 337.07,
+        "name": "Juego completo de tornillos para portátil Para ASUS Chromebook CX14 CX1405 | CX1405CKA CX1405CTA",
+        "url": "https://www.amazon.com.mx/dp/B0FT8JKXDH",
+        "price": 369.99,
         "model": "CX1405CKA"
       },
       {
@@ -1197,23 +1218,9 @@
       },
       {
         "store": "amazon",
-        "name": "Gintai Conector USB-C para ASUS Chromebook CX1405 CX1405CKA CX1405CTA | Adaptador USB C Jack USB C Tipo C Port Jack Dock Plug",
-        "url": "https://www.amazon.com.mx/dp/B0HCCFVYRT",
-        "price": 712.84,
-        "model": "CX1405CKA"
-      },
-      {
-        "store": "amazon",
-        "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.5",
-        "url": "https://www.amazon.com.mx/dp/B0H6MXSJTZ",
-        "price": 613.79,
-        "model": "CX1405CKA"
-      },
-      {
-        "store": "amazon",
-        "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.15",
-        "url": "https://www.amazon.com.mx/dp/B0H6MPCCBJ",
-        "price": 655.28,
+        "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
+        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
+        "price": 337.07,
         "model": "CX1405CKA"
       },
       {
@@ -1232,74 +1239,39 @@
       },
       {
         "store": "amazon",
-        "name": "Gintai Base para Ordenador portátil ASUS Chromebook CX1405 CX1505 (Gruesa) | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
-        "url": "https://www.amazon.com.mx/dp/B0H6MN28BX",
-        "price": 621.12,
+        "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.5",
+        "url": "https://www.amazon.com.mx/dp/B0H6MXSJTZ",
+        "price": 613.79,
         "model": "CX1405CKA"
       },
       {
         "store": "amazon",
-        "name": "Gintai Base para Ordenador portátil ASUS Chromebook CX1405 CX1505 (Delgada) | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
-        "url": "https://www.amazon.com.mx/dp/B0H6MLXYG9",
-        "price": 663.91,
-        "model": "CX1405CKA"
-      },
-      {
-        "store": "amazon",
-        "name": "Gintai Base Gruesa y Fina para Ordenador portátil ASUS Chromebook CX1405 CX1505 | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A Feet Base Cushion Pads Plata",
-        "url": "https://www.amazon.com.mx/dp/B0H6M65D4V",
-        "price": 753.57,
+        "name": "Alfombrilla para Ordenador portátil ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 | CX1505CKA CX1505CTA NB7336A Silver 3.1*0.6*0.15",
+        "url": "https://www.amazon.com.mx/dp/B0H6MPCCBJ",
+        "price": 655.28,
         "model": "CX1405CKA"
       }
     ]
   },
   "walmart|CX1405CTA": {
-    "ts": "2026-08-21T14:54:59.154551+00:00",
+    "ts": "2026-08-23T15:13:17.541758+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Laptop Asus Chromebook CX1405CTA-C8G128-C1 Celeron 8GB 128GB",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-chromebook-cx1405cta-c8g128-c1-celeron-8gb-128gb/00019929125379?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Chromebook-CX1405CTA-C8G128-C1-Celeron-8GB-128GB/00019929125379?athbdg=L1300",
         "price": 5697.0,
         "model": "CX1405CTA-C8G128-C1"
       }
     ]
   },
   "sams|CX1405CTA": {
-    "ts": "2026-08-21T14:55:07.528474+00:00",
+    "ts": "2026-08-23T15:13:18.529960+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-21T14:55:10.808257+00:00",
+    "ts": "2026-08-23T15:13:20.940635+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Huawei Watch Kids X1 Smartwatch Azul | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
-        "url": "https://www.amazon.com.mx/dp/B0H5KCVHGV",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "PTHTECHUS 4G Reloj Inteligente para niños, Smartwatch for Kids con GPS y teléfono, SOS, videollamada, Chat de Voz Modo Escuela Podómetro Despertador Cámara Regalos para niñas de 4 a 12 años（Morado）",
-        "url": "https://www.amazon.com.mx/dp/B0FHV99B7M",
-        "price": 1268.01,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "PTHTECHUS 4G Reloj Inteligente para niños, Smartwatch teléfonos con una Llamada SOS Camera de Video Música 8 Juegos, Pantalla táctil HD,Reloj para niños Regalos para niños",
-        "url": "https://www.amazon.com.mx/dp/B0D5MH9HD1",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Azul)",
-        "url": "https://www.amazon.com.mx/dp/B0CS33HCCY",
-        "price": 1499.0,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
@@ -1344,9 +1316,9 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Blanco | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GWMJ3VC5",
-        "price": 2645.02,
+        "name": "MOKAST 4G Reloj Inteligente para Niños y Niñas, Smartwatch for Kids con GPS, SOS, videollamada, Chat de Voz, Modo Escuela, Podómetro,Despertador, Regalos para niñas de 4-12 años (4G Azul)",
+        "url": "https://www.amazon.com.mx/dp/B0H2PL378M",
+        "price": 1172.39,
         "model": null
       },
       {
@@ -1355,109 +1327,52 @@
         "url": "https://www.amazon.com.mx/dp/B0DFW58SWH",
         "price": 199.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Suoman 2 Piezas Funda para Huawei Watch Kids 4 Pro, [No Protector Pantalla] Cubierta Protectora del Parachoques Integral TPU Funda Protectora para Huawei Watch Kids 4 Pro (Rosa+Transparente)",
+        "url": "https://www.amazon.com.mx/dp/B0CYLGBC2V",
+        "price": 189.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Morado",
+        "url": "https://www.amazon.com.mx/dp/B0H67RKZML",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "PTHTECHUS 4G Reloj Inteligente para niños, Smartwatch for Kids con GPS y teléfono, SOS, videollamada, Chat de Voz Modo Escuela Podómetro Despertador Cámara Regalos para niñas de 4 a 12 años（Rosa）",
+        "url": "https://www.amazon.com.mx/dp/B0FHVC8CSR",
+        "price": 1204.6,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "USB Cable Cargador para Huawei Honor Watch, Compatible con Huawei Band 11 10 9 8 7 6, Fit 3 2 New/Mini, Kids Watch 5X 4X 5/4 Pro, Honor Band 10 9 7 6 2i Chnice ES Smart Watch Cable",
+        "url": "https://www.amazon.com.mx/dp/B0GYRWPMJK",
+        "price": 139.0,
+        "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-21T14:55:19.107710+00:00",
+    "ts": "2026-08-23T15:13:23.271077+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Reloj Inteligente Huawei Watch Kids 4 Pro Azul",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-huawei-watch-kids-4-pro-azul/00694148724058",
+        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Huawei-Watch-Kids-4-Pro-Azul/00694148724058",
         "price": 3799.0,
         "model": null
       }
     ]
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-21T14:55:22.881472+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
-        "price": 3500.71,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
-        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
-        "price": 5930.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Edredón Refrescante Individual Chill Kids  Arcoíris 1 pza",
-        "url": "https://www.sams.com.mx/ip/edredon-refrescante-individual-chill-kids-arcoiris-1-pza/981030912",
-        "price": 919.67,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jugo del Valle Kids Surtido Tetrapack 40 pzas de 200 ml c/u",
-        "url": "https://www.sams.com.mx/ip/jugo-del-valle-kids-surtido-tetrapack-40-pzas-de-200-ml-c-u/000356520",
-        "price": 224.04,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Agua Bonafont Kids Surtidos 24 pzas de 300ml",
-        "url": "https://www.sams.com.mx/ip/agua-bonafont-kids-surtidos-24-pzas-de-300ml/000208453",
-        "price": 170.84,
-        "model": "300ml"
-      },
-      {
-        "store": "sams",
-        "name": "Organizador de Juguetes Kids House Princesas",
-        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-princesas/981013426",
-        "price": 1328.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Lápices de Colores Bic Kids con 40 pzas",
-        "url": "https://www.sams.com.mx/ip/set-de-lapices-de-colores-bic-kids-con-40-pzas/981037902",
-        "price": 207.66,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set Primaria Bic Kids con 41 pzas",
-        "url": "https://www.sams.com.mx/ip/set-primaria-bic-kids-con-41-pzas/981036157",
-        "price": 357.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Organizador de Juguetes Kids House Frozen",
-        "url": "https://www.sams.com.mx/ip/organizador-de-juguetes-kids-house-frozen/981013428",
-        "price": 1328.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Mesa Infantil Kids House Princesas",
-        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-princesas/981013424",
-        "price": 1727.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Mesa Infantil Kids House Frozen",
-        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-frozen/981013422",
-        "price": 1727.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Set de Mesa Infantil Kids House Mickey",
-        "url": "https://www.sams.com.mx/ip/set-de-mesa-infantil-kids-house-mickey/981013425",
-        "price": 1727.84,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T15:13:24.303308+00:00",
+    "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-08-22T21:13:03.658270+00:00",
@@ -7202,395 +7117,6 @@
   "sams|BASICS1": {
     "ts": "2026-08-23T08:52:25.869812+00:00",
     "items": []
-  },
-  "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
-    "ts": "2026-08-21T14:55:25.753951+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0DNLLZDPG",
-        "price": 5999.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
-        "price": 7599.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Celular 12+256G, Cámara Selfie Ultra Gran Angular de 60 MP, Mejor Expresión con IA, 100W Supercharge Turbo, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0DNKPS4NK",
-        "price": 5779.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
-        "price": 7999.0,
-        "model": "12+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
-        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
-        "price": 2371.98,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 14 Pro Smartphone 12G+512G, Cámara Selfie Dual Ultra Retrato de 50 MP, Gestos en el Aire con IA, Batería de 5500 mAh, Supercharge, Pantalla Flawless Quad-Curved de 6.78\", Celular Negro",
-        "url": "https://www.amazon.com.mx/dp/B0G75QYMW5",
-        "price": 8990.0,
-        "model": "12G+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, Cancelación de Ruido con IA, Gran Batería de 5170 mAh y Dual Supercharge, Cristal Mate y Diseño de Bordes Planos, Dorado",
-        "url": "https://www.amazon.com.mx/dp/B0FNX52WTR",
-        "price": 11990.0,
-        "model": "12+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
-        "price": 15999.0,
-        "model": "12+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 14 Smartphone 12G+512G, Cámara Selfie para Retratos de 50 MP, Batería de 5500 mAh, Supercharge, Mejor expresión con IA, Pantalla OLED de 6.7\" y 120 Hz, Celular Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
-        "price": 9999.0,
-        "model": "12G+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
-        "price": 9999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
-        "url": "https://www.amazon.com.mx/dp/B0H6XS5VNF",
-        "price": 15999.0,
-        "model": "12+256GB"
-      }
-    ]
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
-    "ts": "2026-08-21T14:55:43.196024+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
-        "price": 1639.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Huawei Nova 9 128GB Azul Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/huawei-nova-9-128gb-azul-reacondicionado/00061726141888?athbdg=L1500",
-        "price": 8199.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
-        "price": 4599.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
-    "ts": "2026-08-21T14:55:48.343407+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
-        "price": 3500.71,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
-        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
-        "price": 5930.33,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-plata-desbloqueado/981018271",
-        "price": 7671.47,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-verde-desbloqueado/981018260",
-        "price": 8129.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung  Galaxy A07 128 GB Negro Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-128-gb-negro-desbloqueado/981053650",
-        "price": 2288.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A56 256 GB Negro Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-negro-desbloqueado/981033457",
-        "price": 6956.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Oppo Reno 12 Pro 512GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-oppo-reno-12-pro-512gb-plata-desbloqueado/981029685",
-        "price": 13297.95,
-        "model": "512GB"
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25 256 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-256-gb-azul-desbloqueado/981040836",
-        "price": 16613.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy A07 64 GB Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a07-64-gb-black-desbloqueado/981040852",
-        "price": 1913.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
-    "ts": "2026-08-21T14:55:53.351544+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Double Zip Wristlet Michael Kors 35F8STVW0B Michael Kors 35F8STVW0B",
-        "url": "https://www.walmart.com.mx/ip/double-zip-wristlet-michael-kors-35f8stvw0b-michael-kors-35f8stvw0b/00019231778386",
-        "price": 1402.83,
-        "model": "35F8STVW0B"
-      },
-      {
-        "store": "walmart",
-        "name": "ARMAZÓN MICHAEL KORS MK4073U 3332",
-        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-mk4073u-3332/00074420333683",
-        "price": 3049.0,
-        "model": "MK4073U"
-      },
-      {
-        "store": "walmart",
-        "name": "BOLSA MICHAEL KORS ORIGINAL JET SET DOME MEDIUM LEATHER BLACK",
-        "url": "https://www.walmart.com.mx/ip/bolsa-michael-kors-original-jet-set-dome-medium-leather-black/00019490065660",
-        "price": 1636.83,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bandolera De Piel Michael Kors Con Monograma Marrón",
-        "url": "https://www.walmart.com.mx/ip/bandolera-de-piel-michael-kors-con-monograma-marron/00019287793856?athbdg=L1300",
-        "price": 3329.48,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS KONA MK1089 10197C 59-14-140",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-kona-mk1089-10197c-59-14-140/00074420333694",
-        "price": 3199.0,
-        "model": "MK1089"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS BERKSHIRES MK2102 3666G",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-berkshires-mk2102-3666g/00074420333679",
-        "price": 3199.0,
-        "model": "MK2102"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS CHELSEA MK5004 11588H 59MM",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-chelsea-mk5004-11588h-59mm/00074420333712",
-        "price": 3199.0,
-        "model": "MK5004"
-      },
-      {
-        "store": "walmart",
-        "name": "ARMAZÓN MICHAEL KORS ARMAZÓN MK4048 3293",
-        "url": "https://www.walmart.com.mx/ip/armazon-michael-kors-armazon-mk4048-3293/00074420333682",
-        "price": 3049.0,
-        "model": "MK4048"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS MK1019 116371 59MM CAREY",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-116371-59mm-carey/00074420333689",
-        "price": 3199.0,
-        "model": "MK1019"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS MK1018 11475D 56MM",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1018-11475d-56mm/00074420333697",
-        "price": 3199.0,
-        "model": "MK1018"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS MK1019 11645A 59MM DORADO",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-mk1019-11645a-59mm-dorado/00074420333696",
-        "price": 3199.0,
-        "model": "MK1019"
-      },
-      {
-        "store": "walmart",
-        "name": "LENTE DE SOL MICHAEL KORS ULA MK2050 303413",
-        "url": "https://www.walmart.com.mx/ip/lente-de-sol-michael-kors-ula-mk2050-303413/00074420333681",
-        "price": 3199.0,
-        "model": "MK2050"
-      }
-    ]
-  },
-  "sams|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
-    "ts": "2026-08-21T14:55:59.545683+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Eau De Parfum Spray Vaporisateur Michael Kors  Gorgeous para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-spray-vaporisateur-michael-kors-gorgeous-para-dama-100-ml/981031791",
-        "price": 981.26,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Michael Kors  Wonderlust para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-wonderlust-para-dama-100-ml/981018528",
-        "price": 1226.57,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum Michael Kors  Pour Femme para Dama 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pour-femme-para-dama-100-ml/981040614",
-        "price": 1144.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Eau de Parfum  MICHAEL KORS  Pur Homme para Caballero 100 ml",
-        "url": "https://www.sams.com.mx/ip/eau-de-parfum-michael-kors-pur-homme-para-caballero-100-ml/981040613",
-        "price": 1144.94,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Sartén de Acero Inoxidable Member's Mark  3 Capas 10\"",
-        "url": "https://www.sams.com.mx/ip/sarten-de-acero-inoxidable-member-s-mark-3-capas-10/981039085",
-        "price": 556.51,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Batería de Acero Inoxidable Member's Mark  con 15 pzas",
-        "url": "https://www.sams.com.mx/ip/bateria-de-acero-inoxidable-member-s-mark-con-15-pzas/980034852",
-        "price": 3373.85,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Olla de Acero Inoxidable Member's Mark  con Tapa 17 L",
-        "url": "https://www.sams.com.mx/ip/olla-de-acero-inoxidable-member-s-mark-con-tapa-17-l/981035093",
-        "price": 1237.23,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Manija de Acero Inoxidable para Baño Yale Lazio MX86037",
-        "url": "https://www.sams.com.mx/ip/manija-de-acero-inoxidable-para-bano-yale-lazio-mx86037/981040841",
-        "price": 748.99,
-        "model": "MX86037"
-      },
-      {
-        "store": "sams",
-        "name": "Bufetera Jocca  de Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/bufetera-jocca-de-acero-inoxidable/980017351",
-        "price": 3129.34,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Molino de Café Daewoo Acero Inoxidable",
-        "url": "https://www.sams.com.mx/ip/molino-de-cafe-daewoo-acero-inoxidable/981009296",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jarra Térmica Technoware  Acero Inoxidable 2 Pzas",
-        "url": "https://www.sams.com.mx/ip/jarra-termica-technoware-acero-inoxidable-2-pzas/000234556",
-        "price": 643.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cucharas para Té Tramontina  Acero Inoxidable 36 pzas",
-        "url": "https://www.sams.com.mx/ip/cucharas-para-te-tramontina-acero-inoxidable-36-pzas/000599748",
-        "price": 346.78,
-        "model": null
-      }
-    ]
   },
   "amazon|OSTERCAFETERATAZASGOTEOACERO": {
     "ts": "2026-08-21T15:24:10.509203+00:00",
