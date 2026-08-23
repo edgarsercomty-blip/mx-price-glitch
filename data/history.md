@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (927)
+# Historial de ofertas encontradas (931)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 15:28 | -26% | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | $12,927 en liverpool vs mercado -> -26% bajo la competencia |
+| 2026-08-23 15:28 | -27% | amazon | [Hoka Clifton 10 Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0D5G83VGH) | $2,912 | $2,912 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-08-23 15:28 | -32% | walmart | [Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9…](https://www.walmart.com.mx/ip/congelador-refrigerador-horizontal-midea-mfcd09p2nabw-9-pies-blanco-1-midea-9-pies-mfcd09p2nabw-blanco/00694046191005) | $6,399 | $6,399 en walmart vs mercado -> -32% bajo la competencia |
+| 2026-08-23 15:28 | -37% | liverpool | [Aire Acondicionado Mini Split Samsung 12000 Btu Ar12Bvh…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-samsung-12000-btu-ar12bvhqasi-ax-220-v/1133849153) | $4,368 | $4,368 en liverpool vs walmart $6,895 -> -37% bajo la competencia |
 | 2026-08-23 08:52 | -20% | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | $11,679 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-23 02:39 | -22% | sams | [Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts c…](https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199) | $1,599 | $1,599 en sams vs mercado -> -22% bajo la competencia |
 | 2026-08-23 02:39 | -22% | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B09M6V52FR) | $791 | $791 en amazon vs mercado -> -22% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-31 08:20 | -20% | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | $9,771 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-07-31 08:20 | -21% | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $24,700 | $24,700 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-07-31 08:20 | -38% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $2,245 | $2,245 en liverpool vs mercado -> -38% bajo la competencia |
-| 2026-07-30 22:41 | -40% | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Dats…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $20,246 | $20,246 en liverpool vs mercado -> -40% bajo la competencia |
-| 2026-07-30 21:34 | -20% | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
