@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (921)
+# Historial de ofertas encontradas (926)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-23 02:39 | -22% | sams | [Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts c…](https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199) | $1,599 | $1,599 en sams vs mercado -> -22% bajo la competencia |
+| 2026-08-23 02:39 | -22% | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B09M6V52FR) | $791 | $791 en amazon vs mercado -> -22% bajo la competencia |
+| 2026-08-23 02:39 | -28% | liverpool | [Smartwatch Samsung Galaxy Watch Ultra 47 Mm Unisex Con …](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-ultra-47-mm-unisex-con-gps/1158643512) | $5,199 | $5,199 en liverpool vs mercado -> -28% bajo la competencia |
+| 2026-08-23 02:39 | -32% | walmart | [Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9…](https://www.walmart.com.mx/ip/Congelador-Refrigerador-Horizontal-Midea-Mfcd09p2nabw-9-Pies-blanco-1-MIDEA-9-Pies-MFCD09P2NABW-Blanco/00694046191005?athbdg=L1300) | $6,399 | $6,399 en walmart vs mercado -> -32% bajo la competencia |
+| 2026-08-23 02:39 | -66% | amazon | [Genérico Memoria TF 256GB para Fotos, Música, Documento…](https://www.amazon.com.mx/dp/B0GZJ15GSL) | $429 | $429 en amazon vs walmart $1,259, walmart $1,299, walmart $1,629 -> -66% bajo la competencia |
 | 2026-08-23 02:20 | -21% | liverpool | [Bolsa Shoulder Lik Pink De Cuero Para Mujer](https://www.liverpool.com.mx/tienda/pdp/bolsa-shoulder-lik-pink-de-cuero-para-mujer/1146202850) | $899 | $899 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-23 00:45 | -24% | liverpool | [Congelador Midea Mdrc564Fzm01 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc564fzm01-deshielo-manual-con-drenaje-15-pies-cubicos/1179145002) | $9,913 | $9,913 en liverpool vs mercado -> -24% bajo la competencia |
 | 2026-08-22 22:57 | -48% | liverpool | [Teclado Conexion Inalambrica Logitech Rugged Folio](https://www.liverpool.com.mx/tienda/pdp/teclado-conexion-inalambrica-logitech-rugged-folio/1094709365) | $1,784 | $1,784 en liverpool vs mercado -> -48% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | $559 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo-trippy/1136430544) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-07-30 20:13 | -20% | liverpool | [Correa Para Smartwatch Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579) | $119 | $119 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-30 20:13 | -20% | liverpool | [Correa Para Reloj Mobo Trippy](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552) | $183 | $183 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-07-30 20:13 | -21% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $11,384 | $11,384 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-07-30 13:29 | -20% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $64,000 | $64,000 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 13:29 | -20% | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | $2,400 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-07-30 13:29 | -21% | palacio | [Laptop, Vivobook, 16", Intel Core Ultra 5, RAM 16 GB, S…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-16-intel-core-ultra-5-ram-16-gb-ssd-512-gb-44634308.html) | $13,859 | $13,859 en palacio vs mercado -> -21% bajo la competencia |
