@@ -24982,5 +24982,117 @@
   "sams|APPLEIPHONERETINAAPPLESUPER": {
     "ts": "2026-08-23T22:39:41.964825+00:00",
     "items": []
+  },
+  "amazon|APPLERETINAIPHONESUPERAPPLE": {
+    "ts": "2026-08-23T23:12:25.606788+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTQR8G",
+        "price": 5734.42,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Azul Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLRVZLC",
+        "price": 5661.6,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 Pro 1TB Plata Desbloqueado (Reacondicionado) Esim | 6.1\" Super Retina XDR OLED",
+        "url": "https://www.amazon.com.mx/dp/B0BNLT9HT5",
+        "price": 11599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
+        "price": 8009.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
+        "price": 5169.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
+        "price": 5727.0,
+        "model": "128GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 256GB Medianoche Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLR1LW2",
+        "price": 7789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 16e 128 GB: Diseñado para Apple Intelligence, Chip A18, superbatería, cámara Fusion de 48 MP, Pantalla Super Retina XDR de 6.1 Pulgadas, Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DXQHQW12",
+        "price": 12799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 14 256GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0BNLTK9N7",
+        "price": 7402.36,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 15 Pro MAX 512GB Titanio Negro Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0CLQ2RHD2",
+        "price": 13959.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 16e 128 GB: Diseñado para Apple Intelligence, Chip A18, superbatería, cámara Fusion de 48 MP, Pantalla Super Retina XDR de 6.1 Pulgadas, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DXQGLDBD",
+        "price": 12749.15,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 16 Pro Max 256GB Titanio del Desierto Desbloqueado (Reacondicionado) Esim",
+        "url": "https://www.amazon.com.mx/dp/B0DHJ9SCJ4",
+        "price": 15799.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "walmart|APPLERETINAIPHONESUPERAPPLE": {
+    "ts": "2026-08-23T23:12:32.686476+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Celular APPLE iPhone 15 128GB Chip A16 6.1\" OLED Super Retina XDR",
+        "url": "https://www.walmart.com.mx/ip/Celular-APPLE-iPhone-15-128GB-Chip-A16-6-1-OLED-Super-Retina-XDR/00019594903593?athbdg=L1600",
+        "price": 11859.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Apple iPhone 14 Pro 1 TB Plateado Reacondicionado Grado A Pantalla Súper Retina XDR",
+        "url": "https://www.walmart.com.mx/ip/Apple-iPhone-14-Pro-1-TB-Plateado-Reacondicionado-Grado-A-Pantalla-Super-Retina-XDR/00075150363812?athbdg=L1500",
+        "price": 9799.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLERETINAIPHONESUPERAPPLE": {
+    "ts": "2026-08-23T23:12:34.180315+00:00",
+    "items": []
   }
 }
