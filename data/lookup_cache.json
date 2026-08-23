@@ -7106,147 +7106,6 @@
     "ts": "2026-08-23T08:52:25.869812+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-08-21T19:53:38.665279+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Espresso Perfect Brew con Molinillo y 30 Configuraciones | Prepara espresso, lattes y cappuccinos, con tubo de vapor, portafiltro de 58 mm y accesorios, BVSTEM7301",
-        "url": "https://www.amazon.com.mx/dp/B0FJ2ZPT8S",
-        "price": 7799.0,
-        "model": "BVSTEM7301"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera PrimaLatte 2 Touch con Panel Táctil y 19 Bar de Presión | Prepara espresso, cappuccino y latte, compatible con café molido, sobres E.S.E. y cápsulas Nespresso, Rojo, BVSTEM680R",
-        "url": "https://www.amazon.com.mx/dp/B0BY3L3CV7",
-        "price": 4899.0,
-        "model": "BVSTEM680R"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-08-21T19:53:54.307489+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster PrimaLatte™ 2 Touch, Panel Táctil, 19 Bares de Presión, Compatibe con cápsulas, Roja",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-primalatte-2-touch-panel-tactil-19-bares-de-presion-compatibe-con-capsulas-roja/00005389116966",
-        "price": 10555.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 458.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATOUCHGOTEOPANEL": {
-    "ts": "2026-08-21T19:53:58.173971+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      }
-    ]
-  },
   "amazon|APPLERETINAIPHONESUPERAPPLE": {
     "ts": "2026-08-21T21:14:36.260423+00:00",
     "items": [
@@ -25739,6 +25598,111 @@
   },
   "sams|XIAOMICRYSTALRESAMOLEDTELCELXIAOMI": {
     "ts": "2026-08-23T19:37:40.018928+00:00",
+    "items": []
+  },
+  "amazon|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
+    "ts": "2026-08-23T20:11:55.069002+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Touch Xiaomi 11T / 11T Pro",
+        "url": "https://www.amazon.com.mx/dp/B09K6DMZTF",
+        "price": 507.07,
+        "model": null
+      }
+    ]
+  },
+  "walmart|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
+    "ts": "2026-08-23T20:11:59.219482+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi A5 Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Negro-Telcel/00750622735931?athbdg=L1500",
+        "price": 1797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Negro-Telcel/00750622736050?athbdg=L1300",
+        "price": 4049.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Negro-Telcel/00750622735685?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-128GB-Negro-Telcel/00750622736044?athbdg=L1300",
+        "price": 2519.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-128-GB-Negro-Telcel/00750622735649?athbdg=L1500",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Negro-Telcel/00750622736047?athbdg=L1300",
+        "price": 2789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Verde-Telcel/00750622735686?athbdg=L6000",
+        "price": 3797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15C 256GB Verde Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Verde-Telcel/00750622736049?athbdg=L1300",
+        "price": 2789.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
+        "price": 4499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Redmi 15C 128 GB + 4GB RAM | Batería 6000mAh | Cámara 50MP | 6.9\" 120Hz | Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15C-128-GB-4GB-RAM-Bateria-6000mAh-Camara-50MP-6-9-120Hz-Desbloqueado/00693255445590",
+        "price": 2999.0,
+        "model": "6000mAh"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi A5 Dorado Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Dorado-Telcel/00750622735933?athbdg=L1500",
+        "price": 1797.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Dorado-Telcel/00750622736052?athbdg=L1300",
+        "price": 4049.0,
+        "model": "256GB"
+      }
+    ]
+  },
+  "sams|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
+    "ts": "2026-08-23T20:12:00.255359+00:00",
     "items": []
   }
 }
