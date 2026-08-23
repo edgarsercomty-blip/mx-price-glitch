@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 15:54 UTC",
-  "products_scanned": 1626,
+  "generated_at": "2026-08-23 16:14 UTC",
+  "products_scanned": 1640,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -338,6 +338,27 @@
       "extra": {
         "id": "43294637",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2522.17,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+      "price": 7746.2,
+      "list_price": 16299.0,
+      "ean": null,
+      "model": "50Qd8Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197752251",
+        "marketplace": null
       }
     },
     {
