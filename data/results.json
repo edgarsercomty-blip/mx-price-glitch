@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 12:21 UTC",
-  "products_scanned": 1610,
+  "generated_at": "2026-08-23 13:07 UTC",
+  "products_scanned": 1674,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 38,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,26 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 24.1,
+      "detail": "$10,999 en amazon vs palacio $17,791 -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6792.36,
+      "store": "amazon",
+      "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
+      "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
+      "price": 10999.0,
+      "list_price": 14499.0,
+      "ean": null,
+      "model": "RAM/512GB",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0GZJ5VFKS"
       }
     },
     {
@@ -233,6 +253,27 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1421.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Luuna Basics1 10",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
+      "price": 4266.15,
+      "list_price": 12189.0,
+      "ean": null,
+      "model": "Basics1",
+      "brand": "LUUNA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178927540",
+        "marketplace": null
       }
     },
     {
@@ -674,27 +715,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {

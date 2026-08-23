@@ -2898,7 +2898,7 @@
     "items": []
   },
   "amazon|ASUSVIVOBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T12:28:00.442633+00:00",
+    "ts": "2026-08-23T13:06:47.345655+00:00",
     "items": [
       {
         "store": "amazon",
@@ -2909,24 +2909,24 @@
       },
       {
         "store": "amazon",
+        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
+        "price": 14997.0,
+        "model": "13TOPS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 14 (2026)/ Intel Core 3 304 (IA NPU 15 Tops) / 8GB DDR5 / 512GB SSD (Incluye Mouse Alámbrico)",
+        "url": "https://www.amazon.com.mx/dp/B0H5LMJ3MD",
+        "price": 12999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
         "name": "ASUS ExpertBook Ultra Copilot+ PC / 14\" 3K OLED Touch/Intel Core Ultra X7 358H/ 64GB RAM / 2TB SSD/Windows 11 Pro / (Garantía y Servicio en México) (Incluye Sleeve + Dongle LAN)",
         "url": "https://www.amazon.com.mx/dp/B0GY1THSDP",
-        "price": 73118.39,
+        "price": 72963.3,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS V400 AiO 23.8\" FHD 100Hz / Intel Core 3 100U / 8GB + 512GB SSD/Windows 11 Home/Incluye Teclado y Mouse Alámbricos (Grantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0H26WKBZ4",
-        "price": 20999.0,
-        "model": "100Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Expertbook P5/ 14\"/Intel Core Ultra 5/16GB - 512SSD/Lector de Huellas/Teclado retroiluminado en Español con tecla Copilot (Garantía y Servicio con la Marca en México)",
-        "url": "https://www.amazon.com.mx/dp/B0DLXWNDBW",
-        "price": 24802.0,
-        "model": "512SSD/Lector"
       },
       {
         "store": "amazon",
@@ -2944,10 +2944,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Vivobook 16\" WUXGA Laptop Intel Core i7-1355U, 16 GB RAM, 512 GB SSD, Intel Iris Xe Graphics, Notebook portátil ligero, negro, Windows 11",
-        "url": "https://www.amazon.com.mx/dp/B0G1CNGSX5",
-        "price": 12213.41,
-        "model": "i7-1355U"
+        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
+        "price": 7169.0,
+        "model": "1215U"
       },
       {
         "store": "amazon",
@@ -2958,10 +2958,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
-        "price": 7169.0,
-        "model": "1215U"
+        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
+        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
+        "price": 9408.0,
+        "model": "1334U"
       },
       {
         "store": "amazon",
@@ -2972,22 +2972,22 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
-        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
-        "price": 9408.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
         "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
         "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
         "price": 12389.0,
         "model": "1334U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 20599.0,
+        "model": "144Hz"
       }
     ]
   },
   "walmart|ASUSVIVOBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T12:28:04.881456+00:00",
+    "ts": "2026-08-23T13:06:52.280830+00:00",
     "items": [
       {
         "store": "walmart",
@@ -3005,10 +3005,10 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS Vivobook 16 F1605VA Intel Core i7-1355U 16GB RAM 512GB SSD 16″ WUXGA",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-f1605va-intel-core-i7-1355u-16gb-ram-512gb-ssd-16-wuxga/00003787398005?athbdg=L1300",
-        "price": 14999.0,
-        "model": "i7-1355U"
+        "name": "Laptop ASUS Vivobook 15 Intel Core i3 1315U 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-intel-core-i3-1315u-8gb-ram-512gb-ssd-15-6-windows-11-home-teclado-en-espanol/00019710590862?athbdg=L1300",
+        "price": 8999.0,
+        "model": "1315U"
       },
       {
         "store": "walmart",
@@ -3019,10 +3019,10 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop Asus Vivobook F1404VA-NK1055X: Intel Core i5 1334U, RAM 8GB DDR4, SSD 512GB, Pantalla 14\", Windows 11 Pro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-f1404va-nk1055x-intel-core-i5-1334u-ram-8gb-ddr4-ssd-512gb-pantalla-14-windows-11-pro/00019710590859?athbdg=L1300",
-        "price": 10099.0,
-        "model": "F1404VA-NK1055X"
+        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 1TB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-1tb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230278526?athbdg=L1300",
+        "price": 10999.0,
+        "model": "i3-1315U"
       },
       {
         "store": "walmart",
@@ -3040,17 +3040,17 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 8GB RAM 128GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-8gb-ram-128gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046045033850?athbdg=L1300",
-        "price": 8499.0,
-        "model": "i3-1315U"
+        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 24GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-24gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046207935298?athbdg=L1300",
+        "price": 12699.0,
+        "model": "i5-1334U"
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 1TB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-1tb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230278526?athbdg=L1300",
-        "price": 10999.0,
-        "model": "i3-1315U"
+        "name": "Laptop ASUS Vivobook 14 Intel Core i7 1255U 8GB RAM 512GB SSD 14' Windows 11 Home Teclado en Español plateado",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i7-1255u-8gb-ram-512gb-ssd-14-windows-11-home-teclado-en-espanol-plateado/00019710558668?athbdg=L6000",
+        "price": 16999.0,
+        "model": "1255U"
       },
       {
         "store": "walmart",
@@ -3061,10 +3061,10 @@
       },
       {
         "store": "walmart",
-        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807?athbdg=L1300",
-        "price": 17999.0,
-        "model": "13900H"
+        "name": "Laptop ASUS Vivobook 14 Intel Core i3 1315U 8GB RAM 128GB SSD 14\" Windows 11 Home Teclado en Ingles azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-windows-11-home-teclado-en-ingles-azul/00019710586511?athbdg=L1300",
+        "price": 8499.0,
+        "model": "1315U"
       },
       {
         "store": "walmart",
@@ -3076,93 +3076,8 @@
     ]
   },
   "sams|ASUSVIVOBOOKLAPTOPINTELCORE": {
-    "ts": "2026-08-21T12:28:08.753931+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Laptop HP  IA Intel Core Ultra 5/24 GB RAM/512 GB SSD 15-FD2360LA",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-ia-intel-core-ultra-5-24-gb-ram-512-gb-ssd-15-fd2360la/981046122",
-        "price": 16366.98,
-        "model": "15-FD2360LA"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming HP  Victus Intel Core i5/8 GB RAM/512 GB SSD 15-fa2009la + Control HyperX",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-hp-victus-intel-core-i5-8-gb-ram-512-gb-ssd-15-fa2009la-control-hyperx/981043179",
-        "price": 16366.98,
-        "model": "15-fa2009la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092",
-        "price": 9205.98,
-        "model": "15-fd0331la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-        "price": 10228.98,
-        "model": "15-eg2523la"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
-        "price": 19435.96,
-        "model": "X1504MA-BQ353W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 14 Intel Core 7/16 GB RAM/512 GB SSD X1404VA-EB1684W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-14-intel-core-7-16-gb-ram-512-gb-ssd-x1404va-eb1684w/981055739",
-        "price": 22914.16,
-        "model": "X1404VA-EB1684W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop HP  Intel Core i5/8 GB RAM/512 GB SSD 15-fd0151la + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-intel-core-i5-8-gb-ram-512-gb-ssd-15-fd0151la-mochila/981039238",
-        "price": 13297.98,
-        "model": "15-fd0151la"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
-        "price": 13297.98,
-        "model": "X1504VA-NJ2530W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
-        "price": 15343.98,
-        "model": "D1605YA-MB470W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
-        "price": 8899.08,
-        "model": "E1404GA-NK136W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop HP  OmniBook 5 AI Intel Core Ultra 5/16 GB RAM/512 GB SSD 16-af1053la",
-        "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ai-intel-core-ultra-5-16-gb-ram-512-gb-ssd-16-af1053la/981043907",
-        "price": 16878.48,
-        "model": "16-af1053la"
-      }
-    ]
+    "ts": "2026-08-23T13:06:54.378073+00:00",
+    "items": []
   },
   "amazon|APPLEESTRELLATELCELIPHONE128": {
     "ts": "2026-08-21T23:57:24.760527+00:00",
@@ -3970,7 +3885,7 @@
     "items": []
   },
   "amazon|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-21T12:28:16.675173+00:00",
+    "ts": "2026-08-23T13:07:02.390205+00:00",
     "items": [
       {
         "store": "amazon",
@@ -3988,10 +3903,10 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 17 256 GB | Negro, Pantalla 6.3 Pulgadas ProMotion, Chip A19, Cámara Frontal Center Stage, Solo eSIM, Mayor Resistencia Rayones",
-        "url": "https://www.amazon.com.mx/dp/B0FQFPN51G",
-        "price": 19999.0,
-        "model": null
+        "name": "OnePlus 15 5G Gaming Phone 512gb ROM 16gb Ram Dual Sim Snapdragon 8 Elite Gen 5 Carga Inalámbrica 50w Pantalla 6.78 Amoled 1.5K 165hz 7300mah NFC Triple cámara 50mp OIS IP68/IP69 eSIM Global Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FXM38NG5",
+        "price": 17499.0,
+        "model": "IP68/IP69"
       },
       {
         "store": "amazon",
@@ -3999,13 +3914,6 @@
         "url": "https://www.amazon.com.mx/dp/B08S7PDN5P",
         "price": 854.05,
         "model": "4g/LTE"
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
-        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
-        "price": 7599.0,
-        "model": "12+512G"
       },
       {
         "store": "amazon",
@@ -4023,6 +3931,13 @@
       },
       {
         "store": "amazon",
+        "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Verde",
+        "url": "https://www.amazon.com.mx/dp/B0C7SBBXR7",
+        "price": 7599.0,
+        "model": "12+512G"
+      },
+      {
+        "store": "amazon",
         "name": "HUAWEI Nova 13 Pro Celular 12+512G, Cámara Selfie Dual Ultra Retrato de 60 MP, Mejor Expresión con IA, Supercharge Turbo de 100 W, Gran Batería de 5000 mAh, Blanco",
         "url": "https://www.amazon.com.mx/dp/B0C7RZ6PHT",
         "price": 7999.0,
@@ -4030,10 +3945,24 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Nova 14 Pro Smartphone 12G+512G, Cámara Selfie Dual Ultra Retrato de 50 MP, Gestos en el Aire con IA, Batería de 5500 mAh, Supercharge, Pantalla Flawless Quad-Curved de 6.78\", Celular Negro",
-        "url": "https://www.amazon.com.mx/dp/B0G75QYMW5",
-        "price": 8990.0,
-        "model": "12G+512G"
+        "name": "HUAWEI Pura 90s Pro 12+256GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XMFMF8",
+        "price": 15999.0,
+        "model": "12+256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Blanco + Regalo FreeBuds 6i",
+        "url": "https://www.amazon.com.mx/dp/B0D81RDDQR",
+        "price": 9999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Pura 90s Pro 12+512GB | Pantalla LTPO OLED 6.6\" 1-120Hz, Cámara 50MP + Teleobjetivo Macro 50MP, Batería 6000 mAh, 66W SuperCharge, EMUI 16",
+        "url": "https://www.amazon.com.mx/dp/B0H6XMWVJK",
+        "price": 18999.0,
+        "model": "12+512GB"
       },
       {
         "store": "amazon",
@@ -4041,200 +3970,101 @@
         "url": "https://www.amazon.com.mx/dp/B0G75T37DS",
         "price": 9999.0,
         "model": "12G+512G"
-      },
-      {
-        "store": "amazon",
-        "name": "Huawei Nova 12s, 8+256, Cámara Selfie de 60 MP con Ultra Gran Angular, Supercharge Turbo de 66W, Azul + Regalo FreeBuds 6i",
-        "url": "https://www.amazon.com.mx/dp/B0D832FN5D",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Honor 600 12GB+512GB, Naranja, Smartphone 5G, Cámara IA 200MP | Pantalla AMOLED 1.5K de 120Hz, batería de 7000mAh y carga rápida de 80W.",
-        "url": "https://www.amazon.com.mx/dp/B0H3QNKD35",
-        "price": 10229.0,
-        "model": "12GB+512GB"
       }
     ]
   },
   "walmart|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-21T12:28:30.190520+00:00",
+    "ts": "2026-08-23T13:07:07.199679+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Y5P-32GB-Dual-Sim-2GB-Ram-Huawei-Verde-Esmeralda-Desbloqueado/00690144339895",
-        "price": 1639.0,
-        "model": null
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
+        "price": 15499.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
         "name": "Huawei Nova 12S 8+256 Pantalla OLED 6.7\" 50MP",
-        "url": "https://www.walmart.com.mx/ip/Huawei-Nova-12S-8-256-Pantalla-OLED-6-7-50MP/00694210311830",
+        "url": "https://www.walmart.com.mx/ip/huawei-nova-12s-8-256-pantalla-oled-6-7-50mp/00694210311830",
         "price": 4999.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Huawei Nova 12S 8+256 Pantalla OLED 6.7\" 50MP Blanco",
-        "url": "https://www.walmart.com.mx/ip/Huawei-Nova-12S-8-256-Pantalla-OLED-6-7-50MP-Blanco/00694210311829",
+        "url": "https://www.walmart.com.mx/ip/huawei-nova-12s-8-256-pantalla-oled-6-7-50mp-blanco/00694210311829",
         "price": 5290.0,
         "model": null
       },
       {
         "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Smartphone Xiaomi Poco M8 Pro 5G 512GB Negro Desbloqueado + Audífonos",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Poco-M8-Pro-5G-512GB-Negro-Desbloqueado-Audifonos/00750665822103?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-pro-5g-512gb-negro-desbloqueado-audifonos/00750665822103?athbdg=L1300",
         "price": 7099.0,
         "model": "512GB"
       },
       {
         "store": "walmart",
+        "name": "Smartphone Y5P 32GB Dual Sim 2GB Ram Huawei Verde Esmeralda Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-y5p-32gb-dual-sim-2gb-ram-huawei-verde-esmeralda-desbloqueado/00690144339895",
+        "price": 1639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "price": 11499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Huawei Nova 9 128GB Azul Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/Huawei-Nova-9-128GB-Azul-Reacondicionado/00061726141888?athbdg=L1500",
+        "url": "https://www.walmart.com.mx/ip/huawei-nova-9-128gb-azul-reacondicionado/00061726141888?athbdg=L1500",
         "price": 8199.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Moto Edge 50 Neo 12GB 512GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Moto-Edge-50-Neo-12GB-512GB-Gris-Desbloqueado/00084002326807?athbdg=L6000",
-        "price": 18057.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
         "name": "Hyundai, Hyline Plus Smartphone, Pantalla Digital 6.56, Android 13, Celular Con Sensor De Huella, Almacenamiento 64GB (Azul)",
-        "url": "https://www.walmart.com.mx/ip/Hyundai-Hyline-Plus-Smartphone-Pantalla-Digital-6-56-Android-13-Celular-Con-Sensor-De-Huella-Almacenamiento-64GB-Azul/00081012726080?athbdg=L6000",
+        "url": "https://www.walmart.com.mx/ip/hyundai-hyline-plus-smartphone-pantalla-digital-6-56-android-13-celular-con-sensor-de-huella-almacenamiento-64gb-azul-/00081012726080?athbdg=L6000",
         "price": 2997.5,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartphone Xiaomi Poco M8 Pro 5G 12+512 GB Plata+Audifonos Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Poco-M8-Pro-5G-12-512-GB-Plata-Audifonos-Desbloqueado/00750665822104?athbdg=L1300",
-        "price": 7099.0,
-        "model": null
+        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "price": 15499.0,
+        "model": "256GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Xiaomi Poco M8 Pro 5G 12+512 GB Verde+Audifonos Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Poco-M8-Pro-5G-12-512-GB-Verde-Audifonos-Desbloqueado/00750665822105?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-poco-m8-pro-5g-12-512-gb-verde-audifonos-desbloqueado/00750665822105?athbdg=L1300",
         "price": 7099.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Koala Grey Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-Edge-50-5G-512GB-12GB-RAM-Koala-Grey-Desbloqueado/00084002326556?athbdg=L1300",
-        "price": 4741.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Samsung Galaxy S24+ (Versión Estadounidense de 512 GB), Smartphone Android Desbloqueado con Cámara de 50 MP, Video 8K y Batería de Larga Duración (Violeta Cobalto).",
-        "url": "https://www.walmart.com.mx/ip/Samsung-Galaxy-S24-Version-Estadounidense-de-512-GB-Smartphone-Android-Desbloqueado-con-Camara-de-50-MP-Video-8K-y-Bateria-de-Larga-Duracion-Violeta-Cobalto/00088727680063?athbdg=L1300",
-        "price": 17979.46,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 5G / 512GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-60-5G-512GB-Verde-Desbloqueado/00084002328705?athbdg=L1300",
-        "price": 5498.0,
-        "model": "512GB"
+        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
+        "price": 13999.0,
+        "model": "128GB"
       }
     ]
   },
   "sams|HUAWEIDESBLOQUEADOCELULARNOVA512": {
-    "ts": "2026-08-21T12:28:33.403000+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-plata-desbloqueado/981018271",
-        "price": 7671.47,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Honor  X8b 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-honor-x8b-512-gb-verde-desbloqueado/981018260",
-        "price": 8129.86,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-azul-desbloqueado/981040788",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-plata-desbloqueado/981040794",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S25+ 512 GB Menta Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-512-gb-menta-desbloqueado/981040795",
-        "price": 24920.28,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-azul-desbloqueado/981036597",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S26+ 512 GB Violet Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-512-gb-violet-desbloqueado/981050361",
-        "price": 24436.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Samsung Galaxy S26+ 512 GB Black Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s26-512-gb-black-desbloqueado/981050360",
-        "price": 24436.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 50 Pro 512 GB Morado Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-50-pro-512-gb-morado-desbloqueado/981021857",
-        "price": 11251.97,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T13:07:08.678233+00:00",
+    "items": []
   },
   "amazon|MICHAELKORSINOXIDABLETRICOLORCORREAACERO": {
     "ts": "2026-08-21T13:29:05.058443+00:00",
