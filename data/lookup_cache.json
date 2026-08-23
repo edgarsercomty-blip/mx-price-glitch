@@ -6717,175 +6717,6 @@
     "ts": "2026-08-23T08:52:25.869812+00:00",
     "items": []
   },
-  "amazon|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-21T23:40:48.142813+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Cecotec Cafetera de Goteo Coffee 56 Time 1000W Acero Inoxidable Pantalla LCD 1,3L",
-        "url": "https://www.amazon.com.mx/dp/B0GV1PTTW7",
-        "price": 1049.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart DCC-3400 - Cafetera térmica programable (12 tazas, acero inoxidable) | Cafetera diaria con programabilidad 24 horas, ajuste de 1-4 tazas, opciones de fuerza y pausa de preparación, DCC-3400NAS",
-        "url": "https://www.amazon.com.mx/dp/B01N6T5QNO",
-        "price": 2784.7,
-        "model": "DCC-3400NAS"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-21T23:40:51.387429+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de goteo de acero inoxidable, cafetera de goteo manual, tetera, cafetera Oro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-de-acero-inoxidable-cafetera-de-goteo-manual-tetera-cafetera-oro/00078671130106?athbdg=L1300",
-        "price": 789.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATOUCHACEROGOTEO": {
-    "ts": "2026-08-21T23:41:00.490849+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera de Cápsulas Krups Dolce Gusto Genio S Touch KP440EMX",
-        "url": "https://www.sams.com.mx/ip/cafetera-de-capsulas-krups-dolce-gusto-genio-s-touch-kp440emx/980032174",
-        "price": 2109.43,
-        "model": "KP440EMX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      }
-    ]
-  },
   "amazon|OSTERCAFETERAPANELGOTEOTOUCH": {
     "ts": "2026-08-22T01:01:18.915225+00:00",
     "items": [
@@ -25094,5 +24925,202 @@
   "sams|APPLERETINAIPHONESUPERAPPLE": {
     "ts": "2026-08-23T23:12:34.180315+00:00",
     "items": []
+  },
+  "amazon|MOBOTRIPPYCORREARELOJMOBO": {
+    "ts": "2026-08-23T23:53:38.688268+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "2 Piezas Correas de Reloj Trenzadas Magnéticas para Xiaomi Redmi Watch 6/5/4, Correa Elástica Suave de Nailon Deportivo para Xiaomi Band 8/9 Pro Correa",
+        "url": "https://www.amazon.com.mx/dp/B0H443ZFW6",
+        "price": 229.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correas para reloj Moonswatch, de goma curvada, sin espacios libres, para Omega X Swatch Moonswatch Speedmaster/Rolex/SEIKO 20 mm, Swatch Omega Moonswatch Speedmaster, correa de repuesto unisex",
+        "url": "https://www.amazon.com.mx/dp/B0BVMM7FW1",
+        "price": 299.99,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Wanme Correas Compatible con reloj de 20 mm y 22 mm para Hombre y Mujer, correa de repuesto de liberación rápida, correas trenzadas elásticas ajustables para hombres y mujeres",
+        "url": "https://www.amazon.com.mx/dp/B0F9DZ6QHC",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa de Reloj de Liberación Rápida 20 mm,Correa reloj híbridas de Cuero y Silicona para Samsung Galaxy Watch 4/Watch 6/Watch 5;Amazfit bip,Amazfit gts 2 min;Huawei Watch gt2 42mm/gt3 42mm",
+        "url": "https://www.amazon.com.mx/dp/B08HMZ1M2J",
+        "price": 349.99,
+        "model": "42mm/gt3"
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Correa Acero Inoxidable Para Reloj | Banda Metal de Liberación Rápida con Eslabones Extraíbles,Incluye Barras de Resorte y Herramienta para Hombres y Mujeres",
+        "url": "https://www.amazon.com.mx/dp/B07F22V7JX",
+        "price": 379.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correa de reloj balístico universal de 20 mm, 22 mm, 18 mm, 24 mm, correa de repuesto de lona de nailon, cierre ajustable, para reloj inteligente, deportivo, rastreador de fitness",
+        "url": "https://www.amazon.com.mx/dp/B07TK34FMG",
+        "price": 289.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Correa resistente compatible con Samsung Watch Ultra de 47 mm, correa deportiva de silicona suave transpirable sin huecos para Galaxy Watch Ultra Band para hombres",
+        "url": "https://www.amazon.com.mx/dp/B0D9GXZBHR",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Vanjua - Correa de reloj de 18 mm, 19 mm, 20 mm, 22 mm, correa de repuesto magnética ajustable de acero inoxidable, correas de repuesto para hombres y mujeres",
+        "url": "https://www.amazon.com.mx/dp/B0F83B8MYM",
+        "price": 384.96,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TStrap Correa de reloj de nailon de 20 mm, estilo OTAN, color negro, cierre rápido, correa de lona militar para hombre y mujer, correa inteligente de 18 mm, 20 mm, 22 mm, 24 mm",
+        "url": "https://www.amazon.com.mx/dp/B0B15B7PBC",
+        "price": 279.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TStrap Correa de reloj de nailon de 20 mm, estilo OTAN, color negro, cierre rápido, correa de lona militar para hombre y mujer, correa inteligente de 18 mm, 20 mm, 22 mm, 24 mm",
+        "url": "https://www.amazon.com.mx/dp/B0B15D4658",
+        "price": 279.3,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "TStrap - Correa de silicona para hombre, correa de silicona de liberación rápida, color negro, suave, impermeable, cierre de pulsera de reloj inteligente, repuesto para reloj, 18 mm, 19 mm, 20 mm, 21",
+        "url": "https://www.amazon.com.mx/dp/B0CZ3VWQ5K",
+        "price": 282.55,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fullmosa Axus Correa Piel para Reloj,Correa/Banda/Pulsera/Strap 14mm 16mm 18mm 19mm 20mm 22mm 24mm Para Samsung Galaxy Watch 5/4/3,Huawei GT2,Garmin Watch | Correa/banda/pulsera/correa de 14 mm, 16 mm, 18 mm, 19 mm, 20 mm, 22 mm, 24 mm, para Samsung Galaxy Watch 7/6/5/4/3",
+        "url": "https://www.amazon.com.mx/dp/B071LFMWQ9",
+        "price": 329.99,
+        "model": null
+      }
+    ]
+  },
+  "walmart|MOBOTRIPPYCORREARELOJMOBO": {
+    "ts": "2026-08-23T23:53:42.522577+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Mobo SmartWatch Knock Negro – Reloj Inteligente",
+        "url": "https://www.walmart.com.mx/ip/mobo-smartwatch-knock-negro-reloj-inteligente/00084279704093?athbdg=L1300",
+        "price": 932.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa de reloj MoKo Ocean Band compatible con Apple Watch Ultra 2",
+        "url": "https://www.walmart.com.mx/ip/correa-de-reloj-moko-ocean-band-compatible-con-apple-watch-ultra-2/00084040145192?athbdg=L1300",
+        "price": 619.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Mobo Grit Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-mobo-grit-negro/00084279704224?athbdg=L6000",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente con correa de silicona EK-C1 Montre Connectee, color negro, de Eclock, unisex, 1 unidad",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-con-correa-de-silicona-ek-c1-montre-connectee-color-negro-de-eclock-unisex-1-unidad/00370102080852?athbdg=L1300",
+        "price": 502.99,
+        "model": "EK-C1"
+      },
+      {
+        "store": "walmart",
+        "name": "Correa para Reloj Inteligente GRV 139-220 mm Negra de Silicona FC1",
+        "url": "https://www.walmart.com.mx/ip/correa-para-reloj-inteligente-grv-139-220-mm-negra-de-silicona-fc1/00506093556046?athbdg=L1300",
+        "price": 359.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "40 Correas de Repuesto de Goma para Correa de Reloj.",
+        "url": "https://www.walmart.com.mx/ip/40-correas-de-repuesto-de-goma-para-correa-de-reloj-/00078650330351?athbdg=L1300",
+        "price": 219.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente  Blossom Negro Con Correa De Acero Inoxidable Negro",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-blossom-negro-con-correa-de-acero-inoxidable-negro/00750304511628",
+        "price": 659.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa para reloj inteligente CARBINOX Metal, 22 mm, acero inoxidable",
+        "url": "https://www.walmart.com.mx/ip/correa-para-reloj-inteligente-carbinox-metal-22-mm-acero-inoxidable/00019816836930?athbdg=L1300",
+        "price": 609.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente Gadgets&fun Smartwatch correas de vinyl piel para llamadas y mensajes",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-gadgets-fun-smartwatch-correas-de-vinyl-piel-para-llamadas-y-mensajes/00750663182340",
+        "price": 749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correas para Reloj Inteligente Popglory P66 P95 22 mm Acero Inoxidable",
+        "url": "https://www.walmart.com.mx/ip/correas-para-reloj-inteligente-popglory-p66-p95-22-mm-acero-inoxidable/00697319386134",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Mujer Hombre Deportivo de la Correa Negro 1.39 Frequency Cardiaca Sueño",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-mujer-hombre-deportivo-de-la-correa-negro-1-39-frequency-cardiaca-sueno/00750305714370",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Accutime Spider-Man para Niños con Cámara, Juegos y Correa",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-accutime-spider-man-para-ninos-con-camara-juegos-y-correa/00003050653890?athbdg=L1300",
+        "price": 1039.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|MOBOTRIPPYCORREARELOJMOBO": {
+    "ts": "2026-08-23T23:53:49.273283+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Correa 23 mm Negro",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-correa-23-mm-negro/981028531",
+        "price": 817.38,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Mini Correa 21 mm Rosa",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-mini-correa-21-mm-rosa/981028529",
+        "price": 817.38,
+        "model": null
+      }
+    ]
   }
 }
