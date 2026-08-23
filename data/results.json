@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 22:12 UTC",
-  "products_scanned": 1660,
+  "generated_at": "2026-08-23 22:39 UTC",
+  "products_scanned": 1629,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,499 en walmart vs liverpool $7,999 -> -44% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3500.2,
-      "store": "walmart",
-      "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
-      "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500",
-      "price": 4499.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": "Xiaomi",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00750622735804"
       }
     },
     {
@@ -383,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2522.17,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
-      "price": 7746.2,
-      "list_price": 16299.0,
-      "ean": null,
-      "model": "50Qd8Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197752251",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -656,6 +615,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.0,
+      "store": "liverpool",
+      "name": "Asiento Para Bicicleta Shotgun",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
+      "price": 2290.0,
+      "list_price": 2290.0,
+      "ean": null,
+      "model": null,
+      "brand": "SHOTGUN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1105905200",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,999 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.8,
+      "store": "liverpool",
+      "name": "Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas Telcel",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938",
+      "price": 7999.2,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1191864938",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 5.0,
       "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -673,27 +674,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
