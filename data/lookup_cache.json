@@ -1,47 +1,12 @@
 {
   "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-21T04:05:33.048822+00:00",
+    "ts": "2026-08-23T04:53:50.523582+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
         "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
-        "price": 5135.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
-        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
-        "price": 5533.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NB5BTK",
-        "price": 6019.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
-        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
-        "price": 4699.0,
-        "model": "8GB-256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
-        "price": 6305.87,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
-        "price": 6019.0,
+        "price": 5485.0,
         "model": "RAM/256GB"
       },
       {
@@ -53,24 +18,45 @@
       },
       {
         "store": "amazon",
-        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
-        "price": 5182.0,
-        "model": "512GB"
+        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
+        "price": 5533.0,
+        "model": "256GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 70 Fusion FIFA | Detalles en oro",
-        "url": "https://www.amazon.com.mx/dp/B0GQ72SFWR",
-        "price": 7159.0,
-        "model": null
+        "name": "Motorola Moto Edge 50 Fusión 8+256GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0FXNDMTVQ",
+        "price": 4209.0,
+        "model": "8+256GB"
       },
       {
         "store": "amazon",
-        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
-        "price": 8499.0,
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul - Versión Internacional",
+        "url": "https://www.amazon.com.mx/dp/B0F1NB5BTK",
+        "price": 6019.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6294.0,
         "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
+        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
+        "price": 4699.0,
+        "model": "8GB-256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
+        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
+        "price": 6064.59,
+        "model": "RAM/256GB"
       },
       {
         "store": "amazon",
@@ -81,104 +67,118 @@
       },
       {
         "store": "amazon",
+        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
+        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
+        "price": 11199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, Sony Lytia Cámara con AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve Screen 120Hz, 68W CHGR Azul.",
         "url": "https://www.amazon.com.mx/dp/B0F4RHMM5G",
         "price": 5594.0,
         "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Combo Edge 50 Neo 8+256gb + Buds Bass",
+        "url": "https://www.amazon.com.mx/dp/B0GRWSP7NC",
+        "price": 5399.0,
+        "model": "8+256gb"
       }
     ]
   },
   "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-21T04:05:36.433956+00:00",
+    "ts": "2026-08-23T04:53:53.688300+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Turquesa Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-fusion-5g-256gb-turquesa-desbloqueado/00084002328739?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-60-Fusion-5G-256GB-Turquesa-Desbloqueado/00084002328739?athbdg=L1300",
         "price": 5196.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
+        "name": "Celular Motorola Edge 50 Fusion 8GB RAM + 256GB de Almacenamiento Liberado Nuevo Mashmallos Blue",
+        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-50-Fusion-8GB-RAM-256GB-de-Almacenamiento-Liberado-Nuevo-Mashmallos-Blue/00084002327390?athbdg=L1300",
+        "price": 4429.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Azul-Desbloqueado/00084002328756?athbdg=L1300",
+        "price": 4699.0,
+        "model": "256Gb+8Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Marron Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Marron-Desbloqueado/00750622735965",
+        "price": 6899.0,
+        "model": "256Gb+8Gb"
+      },
+      {
+        "store": "walmart",
         "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019663085013?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00019702146653?athbdg=L1300",
+        "price": 6799.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00019663085013?athbdg=L1300",
+        "price": 6799.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
+        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-70-Fusion-5G-8GB-RAM-256GB-Almacenamiento-7000-mAh-Nuevo-Liberado/00750304110536?athbdg=L1300",
         "price": 6799.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
         "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727?athbdg=L1300",
-        "price": 4690.0,
+        "url": "https://www.walmart.com.mx/ip/Telefono-Celular-Smartphone-Motorola-Edge-60-Fusion-5G-DUAL-SIM-8GB-RAM-256GB-Almacenamiento-Nuevo-Liberado/00084002328727?athbdg=L1300",
+        "price": 4972.0,
         "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 50 Fusion 8GB RAM + 256GB de Almacenamiento Liberado Nuevo Mashmallos Blue",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-50-fusion-8gb-ram-256gb-de-almacenamiento-liberado-nuevo-mashmallos-blue/00084002327390?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019702146653?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB AZULADO más motorola MOTO BUDS BASS PANTONE BLUE JEWEL",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-50-fusion-8gb-ram-256-gb-azulado-mas-motorola-moto-buds-bass-pantone-blue-jewel/00046022564579?athbdg=L1300",
-        "price": 4678.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram Azul",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-fusion-5g-dual-sim-256gb-8ram-azul/00084002326276?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256gb"
       },
       {
         "store": "walmart",
         "name": "Smartphone Moto Edge 70 Fusion 8GB 256GB Silhouette Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-moto-edge-70-fusion-8gb-256gb-silhouette-desbloqueado/00084049361779?athbdg=L1300",
-        "price": 6290.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB VERDE AZULADO más motorola MOTO BUDS BASS PANTONE DRAK SHADOW",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-50-fusion-8gb-ram-256-gb-verde-azulado-mas-motorola-moto-buds-bass-pantone-drak-shadow/00046022573511?athbdg=L1300",
-        "price": 4677.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA MOTO EDGE 60 FUSION 12GB RAM 256GB ROM PANTONE MYKONOS BLUE",
-        "url": "https://www.walmart.com.mx/ip/motorola-moto-edge-60-fusion-12gb-ram-256gb-rom-pantone-mykonos-blue/00084002328585?athbdg=L1300",
-        "price": 5684.0,
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Moto-Edge-70-Fusion-8GB-256GB-Silhouette-Desbloqueado/00084049361779?athbdg=L1300",
+        "price": 6288.0,
         "model": "256GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Motorola Edge 50 Fusion 5G Dual Sim 256GB Verde Azulado 8GB Ram + Moto Buds",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-50-fusion-5g-dual-sim-256gb-verde-azulado-8gb-ram-moto-buds/00084002326673?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Edge-50-Fusion-5G-Dual-Sim-256GB-Verde-Azulado-8GB-Ram-Moto-Buds/00084002326673?athbdg=L1300",
         "price": 4699.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto Edge 50 Fusion 5G Dual sim 256gb 8ram Azul",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-Edge-50-Fusion-5G-Dual-sim-256gb-8ram-Azul/00084002326276?athbdg=L1300",
+        "price": 4429.0,
+        "model": "256gb"
+      },
+      {
+        "store": "walmart",
+        "name": "motorola EDGE 50 FUSION 8GB RAM 256GB ROM Forest Green",
+        "url": "https://www.walmart.com.mx/ip/motorola-EDGE-50-FUSION-8GB-RAM-256GB-ROM-Forest-Green/00084002328396?athbdg=L1300",
+        "price": 4272.0,
         "model": "256GB"
       }
     ]
   },
   "sams|MOTOROLADESBLOQUEADOCELULARFUSIONEDGE": {
-    "ts": "2026-08-21T04:05:39.955559+00:00",
+    "ts": "2026-08-23T04:54:02.151564+00:00",
     "items": [
       {
         "store": "sams",
@@ -191,14 +191,7 @@
         "store": "sams",
         "name": "Smartphone Motorola  Edge 70 Fusion 256 GB FIFA World Cup 2026 Azul Desbloqueado",
         "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-70-fusion-256-gb-fifa-world-cup-2026-azul-desbloqueado/981051351",
-        "price": 11249.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
+        "price": 7770.71,
         "model": null
       },
       {
@@ -210,15 +203,22 @@
       },
       {
         "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-rosa-telcel/981034185",
-        "price": 9205.96,
+        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
+        "price": 8692.43,
         "model": null
       },
       {
         "store": "sams",
         "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Azul AT&T",
         "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-at-t/981040143",
+        "price": 9205.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Motorola  Edge 60 Fusion 256 GB Rosa Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-rosa-telcel/981034185",
         "price": 9205.96,
         "model": null
       },
@@ -261,13 +261,13 @@
         "store": "sams",
         "name": "Combo Smartphone Motorola Moto Edge 70 Fusion 256 GB Azul Telcel + Audífonos",
         "url": "https://www.sams.com.mx/ip/combo-smartphone-motorola-moto-edge-70-fusion-256-gb-azul-telcel-audifonos/981052262",
-        "price": 11251.97,
+        "price": 7770.71,
         "model": null
       }
     ]
   },
   "amazon|UN50M70HAFXZX": {
-    "ts": "2026-08-21T04:05:00.560619+00:00",
+    "ts": "2026-08-23T04:53:34.742148+00:00",
     "items": [
       {
         "store": "amazon",
@@ -286,11 +286,11 @@
     ]
   },
   "walmart|UN50M70HAFXZX": {
-    "ts": "2026-08-21T04:05:26.249396+00:00",
+    "ts": "2026-08-23T04:53:41.739044+00:00",
     "items": []
   },
   "sams|UN50M70HAFXZX": {
-    "ts": "2026-08-21T04:05:29.250569+00:00",
+    "ts": "2026-08-23T04:53:47.949658+00:00",
     "items": [
       {
         "store": "sams",
@@ -302,7 +302,7 @@
     ]
   },
   "amazon|UN43M70HAFXZX": {
-    "ts": "2026-08-21T04:04:52.307599+00:00",
+    "ts": "2026-08-23T04:53:17.080907+00:00",
     "items": [
       {
         "store": "amazon",
@@ -310,6 +310,13 @@
         "url": "https://www.amazon.com.mx/dp/B0GXGJVCMV",
         "price": 4490.0,
         "model": "UN43M70HAFXZX"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smart TV de 43\" Pulgadas Clase Crystal U8000F Ultra HD 4K Tizen, Diseño MetalStream, HDR, PurColor, One UI Tizen (2025) - UN43U8000FBXZA (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FDY8DJQ5",
+        "price": 4198.0,
+        "model": "UN43U8000FBXZA"
       },
       {
         "store": "amazon",
@@ -328,11 +335,11 @@
     ]
   },
   "walmart|UN43M70HAFXZX": {
-    "ts": "2026-08-21T04:04:55.227831+00:00",
+    "ts": "2026-08-23T04:53:25.883331+00:00",
     "items": []
   },
   "sams|UN43M70HAFXZX": {
-    "ts": "2026-08-21T04:04:58.156226+00:00",
+    "ts": "2026-08-23T04:53:32.363663+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWATCH": {
