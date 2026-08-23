@@ -4785,7 +4785,7 @@
     "items": []
   },
   "walmart|CO905KS": {
-    "ts": "2026-08-21T00:45:02.834222+00:00",
+    "ts": "2026-08-23T00:45:11.150580+00:00",
     "items": [
       {
         "store": "walmart",
@@ -8577,285 +8577,16 @@
     "items": []
   },
   "amazon|MDRC564FZM01": {
-    "ts": "2026-08-21T00:44:31.757834+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Congelador Midea Inverter Quattro Blanco 15 Pies Cúbicos;MDRC564FZM01, con 4 canastas y doble puerta",
-        "url": "https://www.amazon.com.mx/dp/B0GCPBX6LH",
-        "price": 9999.0,
-        "model": "MDRC564FZM01"
-      }
-    ]
+    "ts": "2026-08-23T00:44:53.685323+00:00",
+    "items": []
   },
   "walmart|MDRC564FZM01": {
-    "ts": "2026-08-21T00:44:35.919815+00:00",
+    "ts": "2026-08-23T00:45:03.439482+00:00",
     "items": []
   },
   "sams|MDRC564FZM01": {
-    "ts": "2026-08-21T00:44:41.064338+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Congelador MIDEA  Horizontal  15 Pies Cúbicos MDRC564FZM01",
-        "url": "https://www.sams.com.mx/ip/congelador-midea-horizontal-15-pies-cubicos-mdrc564fzm01/981052257",
-        "price": 9999.0,
-        "model": "MDRC564FZM01"
-      }
-    ]
-  },
-  "amazon|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-08-21T00:44:43.408053+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Laptop de 14 pulgadas FHD, procesador Intel Core i3-1315U, 8 GB RAM, SSD de 128 GB, Windows 11 Home, Intel UHD Graphics, Wi-Fi, Bluetooth, Quiet Blue, X1404VA-I38128",
-        "url": "https://www.amazon.com.mx/dp/B0FF4LGG9D",
-        "price": 6279.0,
-        "model": "X1404VA-I38128"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16\" WUXGA Laptop Intel Core i7-1355U, 16 GB RAM, 512 GB SSD, Intel Iris Xe Graphics, Notebook portátil ligero, negro, Windows 11",
-        "url": "https://www.amazon.com.mx/dp/B0G1CNGSX5",
-        "price": 12213.41,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop VivoBook: Procesador Intel Core i3 1215U (hasta 4.4 GHz), Memoria de 8GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED Full HD (1920 x 1080), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0GTS1RLDS",
-        "price": 7169.0,
-        "model": "1215U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14\" Fhd Display Laptop, Intel Core 5 120U Graphics, 8GB Ddr4, 256GB Ssd, Wi-fi 6, Bluetooth, Copilot Ai, Windows 11 Home en Modo S, Azul | 14\" FHD, Intel Core 5 120U, 8GB DDR4, 256GB SSD, Wi-Fi 6, Windows 11 Home en modo S, azul silencioso",
-        "url": "https://www.amazon.com.mx/dp/B0G1H9GYNJ",
-        "price": 8049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook Go 15 15.6\" FHD 60Hz Laptop con procesador Intel N150, Intel UHD Graphics, 8GB RAM, 128GB SSD, Plata fría",
-        "url": "https://www.amazon.com.mx/dp/B0GPSX4BWX",
-        "price": 7404.79,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Asus Laptop Vivobook 14: Procesador Intel Core I5 1334U (Hasta 4.6 Ghz) | Memoria de 16GB Ddr4, Ssd de 1TB, Pantalla de 14\" Led Full Hd (1920 X 1080), S.o. Windows 11 Pro.",
-        "url": "https://www.amazon.com.mx/dp/B00UNGDD0A",
-        "price": 12979.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED (1920 x 1200), Video UHD Graphics, S.O. Windows 11 Home.",
-        "url": "https://www.amazon.com.mx/dp/B0FP98S86K",
-        "price": 18499.0,
-        "model": "13900H"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
-        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
-        "price": 20599.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Asus Laptop Vivobook 14 Intel Core I5 1334U 16GB Ssd 512GB 14\" Fhd Teclado Español Mochila Mouse Ideal para Estudiantes y Profesionales",
-        "url": "https://www.amazon.com.mx/dp/B0FWV7H3N5",
-        "price": 12389.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Laptop Vivobook 14 Intel Core i5 1334U 8GB RAM 512GB SSD 14\" Windows 11 Home Teclado en Español",
-        "url": "https://www.amazon.com.mx/dp/B0FMP8D83Z",
-        "price": 9408.0,
-        "model": "1334U"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 2026/NPU dedicada para Aplicaciones de IA/8GB RAM/512GB SSD/Incluye Mochila y Mouse/Garantia con la Marca en México",
-        "url": "https://www.amazon.com.mx/dp/B0GZJ5VFKS",
-        "price": 10999.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "ASUS Vivobook 16X 16 WUXGA (1920x1200) IPS Laptop 2025 Nuevo | Intel i9-13900H de 14 núcleos | Intel Iris Xe Graphics | Teclado retroiluminado | Huella Dactilar | Wi-Fi 6E | 16GB DDR4 1TB SSD | Win10",
-        "url": "https://www.amazon.com.mx/dp/B0FYPJWY9T",
-        "price": 18239.0,
-        "model": "1920x1200"
-      }
-    ]
-  },
-  "walmart|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-08-21T00:44:56.237674+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
-        "price": 25999.0,
-        "model": "FX607"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807?athbdg=L1300",
-        "price": 17999.0,
-        "model": "13900H"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046373228812?athbdg=L1300",
-        "price": 10579.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 16GB RAM | 1TB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-16gb-ram-1tb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046113099307?athbdg=L1300",
-        "price": 12499.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14: Procesador Intel Core i5 1334U (hasta 4.6 Ghz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 14\" LED Full HD (1920 x 1080), S.O. Windows 11 Pro.",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-procesador-intel-core-i5-1334u-hasta-4-6-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-14-led-full-hd-1920-x-1080-s-o-windows-11-pro-/00060336939790?athbdg=L1300",
-        "price": 12269.0,
-        "model": "1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 1TB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-1tb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230278526?athbdg=L1300",
-        "price": 10999.0,
-        "model": "i3-1315U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 16 F1605VA Intel Core i7-1355U 16GB RAM 512GB SSD 16″ WUXGA",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-f1605va-intel-core-i7-1355u-16gb-ram-512gb-ssd-16-wuxga/00003787398005?athbdg=L1300",
-        "price": 14999.0,
-        "model": "i7-1355U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 14 | Intel Core i5-1334U 13ª Generación | Pantalla 14” Full HD | 8GB RAM | 512GB SSD | Wi-Fi 6E | Windows 11 Home | Color Azul | Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i5-1334u-13-generacion-pantalla-14-full-hd-8gb-ram-512gb-ssd-wi-fi-6e-windows-11-home-color-azul-teclado-en-espanol/00046207935250?athbdg=L1300",
-        "price": 9999.0,
-        "model": "i5-1334U"
-      },
-      {
-        "store": "walmart",
-        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
-        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
-        "price": 26634.65,
-        "model": "2880x1800"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop Asus Vivobook F1404VA-NK1055X: Intel Core i5 1334U, RAM 8GB DDR4, SSD 512GB, Pantalla 14\", Windows 11 Pro",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-f1404va-nk1055x-intel-core-i5-1334u-ram-8gb-ddr4-ssd-512gb-pantalla-14-windows-11-pro/00019710590859?athbdg=L1300",
-        "price": 10099.0,
-        "model": "F1404VA-NK1055X"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS VivoBook 14 Intel Core i3-1315U 13 Va Gen, 16GB RAM 512GB SSD 14” FHD Windows 11 Home – Teclado en Inglés",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-14-intel-core-i3-1315u-13-va-gen-16gb-ram-512gb-ssd-14-fhd-windows-11-home-teclado-en-ingles/00046230309449?athbdg=L1300",
-        "price": 10199.0,
-        "model": "i3-1315U"
-      },
-      {
-        "store": "walmart",
-        "name": "Laptop ASUS Vivobook 15 Intel Core i3 1315U 8GB RAM 512GB SSD 15.6\" Windows 11 Home Teclado en Español",
-        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-intel-core-i3-1315u-8gb-ram-512gb-ssd-15-6-windows-11-home-teclado-en-espanol/00019710590862?athbdg=L1300",
-        "price": 8999.0,
-        "model": "1315U"
-      }
-    ]
-  },
-  "sams|ASUSVIVOBOOKGRAPHICSLAPTOPINTEL": {
-    "ts": "2026-08-21T00:45:00.723729+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 15 Core i5/16 GB RAM/512 GB SSD X1504VA-NJ2530W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-15-core-i5-16-gb-ram-512-gb-ssd-x1504va-nj2530w-mochila-mouse/981035873",
-        "price": 13297.98,
-        "model": "X1504VA-NJ2530W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 14 AMD Ryzen 5/8 GB RAM/512 GB SSD E1404FA-NK341W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-14-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1404fa-nk341w-mochila-mouse/981035376",
-        "price": 9819.78,
-        "model": "E1404FA-NK341W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 15 Intel Core 5/8 GB RAM/512 GB SSD X1504MA-BQ353W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-15-intel-core-5-8-gb-ram-512-gb-ssd-x1504ma-bq353w/981055738",
-        "price": 19435.96,
-        "model": "X1504MA-BQ353W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 16 AMD Ryzen 7/16 GB RAM/512 GB SDD D1605YA-MB470W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-16-amd-ryzen-7-16-gb-ram-512-gb-sdd-d1605ya-mb470w-backpack-mouse/981020164",
-        "price": 15343.98,
-        "model": "D1605YA-MB470W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
-        "price": 8899.08,
-        "model": "E1404GA-NK136W"
-      },
-      {
-        "store": "sams",
-        "name": "Laptop Asus Vivobook 14 Intel Core 7/16 GB RAM/512 GB SSD X1404VA-EB1684W",
-        "url": "https://www.sams.com.mx/ip/laptop-asus-vivobook-14-intel-core-7-16-gb-ram-512-gb-ssd-x1404va-eb1684w/981055739",
-        "price": 22914.16,
-        "model": "X1404VA-EB1684W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook Go 15 AMD Ryzen 5/8 GB RAM/512 GB SSD E1504FA-BQ5166W + Mochila + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-go-15-amd-ryzen-5-8-gb-ram-512-gb-ssd-e1504fa-bq5166w-mochila-mouse/981054227",
-        "price": 14627.87,
-        "model": "E1504FA-BQ5166W"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
-        "price": 18412.98,
-        "model": "M1407KA-LY137W"
-      },
-      {
-        "store": "sams",
-        "name": "Monitor Portátil Asus  MB16AHVE",
-        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
-        "price": 2454.18,
-        "model": "MB16AHVE"
-      },
-      {
-        "store": "sams",
-        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
-        "price": 17389.98,
-        "model": "M1605NAQ-MB107W"
-      }
-    ]
+    "ts": "2026-08-23T00:45:08.755746+00:00",
+    "items": []
   },
   "liverpool|DGUNL7157": {
     "ts": "2026-08-21T02:25:18.777111+00:00",
@@ -33533,6 +33264,273 @@
         "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
         "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
         "price": 1424.02,
+        "model": null
+      }
+    ]
+  },
+  "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
+    "ts": "2026-08-23T00:44:33.371757+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DDY56M4B",
+        "price": 815.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
+        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
+        "price": 609.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 5 Lite con GPS, iOS & Android, 5ATM, Oro | Pantalla AMOLED 1.96'', Hasta 18 días de Batería, 150+ Modos Deportivos, Llamadas Bluetooth, Monitor de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0DFHG6YZ7",
+        "price": 871.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
+        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Smartwatch Galaxy Fit 3 Oro Rosa, Nacional con Garantía",
+        "url": "https://www.amazon.com.mx/dp/B0CSYH6QFW",
+        "price": 699.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Negro | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
+        "url": "https://www.amazon.com.mx/dp/B08N64F336",
+        "price": 3099.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S4 41mm con GPS, iOS & Android, Negro | Pantalla AMOLED de 41mm, Hasta 8 días de Batería, 150+ Modos Deportivos, Ciclo Menstrual, Correa Fluororubber",
+        "url": "https://www.amazon.com.mx/dp/B0FHWQ4SZP",
+        "price": 2118.35,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Rainbow | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
+        "url": "https://www.amazon.com.mx/dp/B0DSGN7ZGH",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Azul | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQLMGTTS",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "KELUONA Smartwatch ZL02 Deportivo, Reloj Inteligente, Correa Negra | Función de Llamadas, Impermeable IP67, Monitor De Frecuencia Cardíaca/Oxígeno en Sangre/Presión Arterial",
+        "url": "https://www.amazon.com.mx/dp/B0DZC5Y9YV",
+        "price": 342.02,
+        "model": null
+      }
+    ]
+  },
+  "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
+    "ts": "2026-08-23T00:44:44.940117+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "XIAOMI Watch S4 Smartwatch Plata – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-plata-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181270743?athbdg=L1300",
+        "price": 3742.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00063790280930",
+        "price": 729.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
+        "price": 998.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
+        "price": 1199.0,
+        "model": "watch3"
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca, Color Rosa",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca-color-rosa/00693255441984",
+        "price": 949.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
+        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
+        "price": 959.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
+        "price": 1031.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154?athbdg=L6000",
+        "price": 985.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
+        "price": 720.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
+        "price": 1089.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SmartWatch Xiaomi Amazfit Band 7 Pantalla AMOLED HD 1.47 5 ATM",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-amazfit-band-7-pantalla-amoled-hd-1-47-5-atm/00085003765671",
+        "price": 998.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
+        "price": 1589.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
+    "ts": "2026-08-23T00:44:51.286982+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 570 con GPS 42 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-42-mm/981042767",
+        "price": 11498.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 570 con GPS 47 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-47-mm/981042768",
+        "price": 11498.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Negro 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-negro-22-mm/981042770",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Gris 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-gris-22-mm/981042769",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Instinct 3 con GPS Amoled 50 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-instinct-3-con-gps-amoled-50-mm/981042296",
+        "price": 8221.0,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
+        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
+        "price": 6955.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Xiaomi  Redmi Note 15T 512 GB Bait + Audífonos Buds 8 Lite",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15t-512-gb-bait-audifonos-buds-8-lite/981050290",
+        "price": 12321.01,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
+        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
+        "price": 3485.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Smartphone Xiaomi  15T Pro 512 GB Moca Bait + Tablet Redmi Pad 2",
+        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-15t-pro-512-gb-moca-bait-tablet-redmi-pad-2/981050291",
+        "price": 19435.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
+        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
+        "price": 5088.4,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone XIAOMI  14C 256 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-14c-256-gb-negro-telcel/981031041",
+        "price": 2911.46,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartphone Xiaomi  Note 13 Pro 256 GB Verde AT&T",
+        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-note-13-pro-256-gb-verde-at-t/981020294",
+        "price": 7978.36,
         "model": null
       }
     ]
