@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 17:36 UTC",
-  "products_scanned": 1602,
+  "generated_at": "2026-08-23 17:52 UTC",
+  "products_scanned": 1600,
   "threshold_pct": 20.0,
-  "count": 39,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -657,27 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -716,27 +695,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
