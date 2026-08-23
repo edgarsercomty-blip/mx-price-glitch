@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23 09:46 UTC",
-  "products_scanned": 1609,
+  "generated_at": "2026-08-23 10:14 UTC",
+  "products_scanned": 1577,
   "threshold_pct": 20.0,
   "count": 40,
   "findings": [
@@ -699,23 +699,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 599.0,
-      "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
       "ean": null,
       "model": null,
-      "brand": "SHOTGUN",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1105905200",
-        "marketplace": null
+        "id": "44824190",
+        "outlet": false
       }
     },
     {

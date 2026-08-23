@@ -1249,49 +1249,6 @@
       }
     ]
   },
-  "amazon|FA607NUQRL038W": {
-    "ts": "2026-08-21T09:54:14.451269+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "JBL Bar 2.1 Deep Bass (MK2) – Barra de Sonido de 2.1 Canales con subwoofer inalámbrico (6.5 Pulgadas), Salida máxima de 300 W, activación Bluetooth (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0BQQ2RD1C",
-        "price": 5799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HJDWQN Reloj Despertador Digital LED con Luminosidad Regulable 12/24H | Reloj Despertador Indicación de Fecha Hora, Despertador y Temperatura, para Oficina Dormitorio Regalos Navideños",
-        "url": "https://www.amazon.com.mx/dp/B0H1GX37HT",
-        "price": 228.99,
-        "model": "12/24H"
-      }
-    ]
-  },
-  "walmart|FA607NUQRL038W": {
-    "ts": "2026-08-21T09:54:18.136109+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Laptop Asus TUF FA607NUQ-RL038W R7 RTX 4050 16GB 512GB Gris",
-        "url": "https://www.walmart.com.mx/ip/Laptop-Asus-TUF-FA607NUQ-RL038W-R7-RTX-4050-16GB-512GB-Gris/00019929141377?athbdg=L6000",
-        "price": 32999.0,
-        "model": "FA607NUQ-RL038W"
-      }
-    ]
-  },
-  "sams|FA607NUQRL038W": {
-    "ts": "2026-08-21T09:54:20.955327+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
-        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
-        "price": 30688.95,
-        "model": "FA607NUQ-RL044W"
-      }
-    ]
-  },
   "amazon|CX1405CTA": {
     "ts": "2026-08-21T14:54:55.622755+00:00",
     "items": [
@@ -2844,41 +2801,27 @@
     "items": []
   },
   "amazon|REEBOKSMARTBANDREEBOKRBK": {
-    "ts": "2026-08-21T09:54:04.216710+00:00",
+    "ts": "2026-08-23T10:14:09.182598+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "Reebok Pulse SMARTWATCH - Vector Azul",
-        "url": "https://www.amazon.com.mx/dp/B0FPRJQ4C4",
-        "price": 2756.53,
-        "model": null
-      },
       {
         "store": "amazon",
         "name": "Reebok - Sport Pack, Smartwatch y Audifonos, Color Rosa",
         "url": "https://www.amazon.com.mx/dp/B0F1DWY8GP",
-        "price": 634.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Reebok - Reloj Inteligente, Edicion LS, Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DWV83HHB",
-        "price": 469.0,
+        "price": 580.49,
         "model": null
       },
       {
         "store": "amazon",
         "name": "Reebok - Active Pack, Smartwatch y Audifonos, Color Azul",
         "url": "https://www.amazon.com.mx/dp/B0DRPS3DJB",
-        "price": 634.45,
+        "price": 634.24,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Reebok - Reloj Inteligente, Edicion EB, Color Verde",
-        "url": "https://www.amazon.com.mx/dp/B0DS9BQ4V2",
-        "price": 1979.0,
+        "name": "Reebok - Reloj Inteligente, Edicion ST, Color Negro",
+        "url": "https://www.amazon.com.mx/dp/B0DWTTS9WG",
+        "price": 1499.0,
         "model": null
       },
       {
@@ -2890,24 +2833,10 @@
       },
       {
         "store": "amazon",
-        "name": "Reebok - Reloj Inteligente, Edicion ST, Color Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DWTTS9WG",
-        "price": 1499.0,
+        "name": "Reebok Icon Smartwatch de 10 días de duración de la batería, rastreador de fitness con monitor de frecuencia cardíaca, notificaciones inteligentes, reloj deportivo impermeable para estilos de vida",
+        "url": "https://www.amazon.com.mx/dp/B0FPZR1JMP",
+        "price": 2552.36,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Reebok - Active Pack, Smartwatch y Audifonos, Color Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0DRPRWPX4",
-        "price": 672.39,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bettdow Smartband FB048 Pulsera Inteligente con Llamadas Bluetooth, 1.47\" Pantalla TFT, 100+ Modos Deporte, IP68, Monitoreo Continuo 24/7, 7 Días Batería, Oro Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0FBWL2281",
-        "price": 449.99,
-        "model": "FB048"
       },
       {
         "store": "amazon",
@@ -2918,10 +2847,10 @@
       },
       {
         "store": "amazon",
-        "name": "Reebok Icon Smartwatch de 10 días de duración de la batería, rastreador de fitness con monitor de frecuencia cardíaca, notificaciones inteligentes, reloj deportivo impermeable para estilos de vida",
-        "url": "https://www.amazon.com.mx/dp/B0FPZR1JMP",
-        "price": 2438.85,
-        "model": null
+        "name": "Bettdow Smartband FB048 Pulsera Inteligente con Llamadas Bluetooth, 1.47\" Pantalla TFT, 100+ Modos Deporte, IP68, Monitoreo Continuo 24/7, 7 Días Batería, Oro Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0FBWL2281",
+        "price": 449.99,
+        "model": "FB048"
       },
       {
         "store": "amazon",
@@ -2929,17 +2858,52 @@
         "url": "https://www.amazon.com.mx/dp/B0FHQJQBNS",
         "price": 498.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pulsera Actividad, IP68 Impermeable Relojes Inteligentes con Monitor de Ritmo Cardíaco, Monitor de Presión Arterial y Calorías, Grabadora de Sueño, Podómetro, Pulsera Inteligente para Android y iOS",
+        "url": "https://www.amazon.com.mx/dp/B08739G198",
+        "price": 360.1,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "2one Reloj Inteligente Mujer, 1.45\" Smartwatch con Llamadas Bluetooth, Resistente Al Agua IP68 Smart Watch, Más De 120+ Modos Deportivos, y Monitoreo de SpO2 y Estrés (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0FNRFMVKB",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "EASYTAO Smartwatch Hombre Alexa, Llamadas Bluetooth, IP68, 1.91'' HD | Reloj Inteligente, Fitness Tracker, SpO2/Frecuencia Cardíaca, Monitor de Sueño, 100+ Modos Deportivos, iPhone y Android",
+        "url": "https://www.amazon.com.mx/dp/B0D66BQHK8",
+        "price": 699.0,
+        "model": "SpO2/Frecuencia"
+      },
+      {
+        "store": "amazon",
+        "name": "Reebok - Reloj Inteligente, Edicion LS, Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0DWTTSMX7",
+        "price": 799.0,
+        "model": null
       }
     ]
   },
   "walmart|REEBOKSMARTBANDREEBOKRBK": {
-    "ts": "2026-08-21T09:54:08.267802+00:00",
+    "ts": "2026-08-23T10:14:14.594730+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "SMARTWATCH REEBOK WATCH QB NEGRO",
         "url": "https://www.walmart.com.mx/ip/smartwatch-reebok-watch-qb-negro/00311410012609",
         "price": 1309.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SMARTWATCH REEBOK WATCH ST NEGRO",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-reebok-watch-st-negro/00311410013033",
+        "price": 1499.0,
         "model": null
       },
       {
@@ -2958,9 +2922,9 @@
       },
       {
         "store": "walmart",
-        "name": "SMARTWATCH REEBOK WATCH ST NEGRO",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-reebok-watch-st-negro/00311410013033",
-        "price": 1499.0,
+        "name": "Smartwatch Reebok Icon 2.04\" AMOLED con batería de 10 días",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-reebok-icon-2-04-amoled-con-bateria-de-10-dias/00084380810906?athbdg=L1300",
+        "price": 2889.0,
         "model": null
       },
       {
@@ -2972,24 +2936,17 @@
       },
       {
         "store": "walmart",
+        "name": "Banda Reebok Reebok Hand Wraps B Multicolor I33035 Multicolor",
+        "url": "https://www.walmart.com.mx/ip/banda-reebok-reebok-hand-wraps-b-multicolor-i33035-multicolor/00505543610158?athbdg=L1300",
+        "price": 189.0,
+        "model": "I33035"
+      },
+      {
+        "store": "walmart",
         "name": "Tenis Reebok Blanco para Hombre [RBK500] blanco 27.5",
         "url": "https://www.walmart.com.mx/ip/tenis-reebok-blanco-para-hombre-rbk500-blanco-27-5/00120016102543?athbdg=L1300",
         "price": 639.0,
         "model": "RBK500"
-      },
-      {
-        "store": "walmart",
-        "name": "AUDIFONO REEBOK VOGUE STYLISH NEGRO TWS",
-        "url": "https://www.walmart.com.mx/ip/audifono-reebok-vogue-stylish-negro-tws/00311410012900",
-        "price": 529.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "AUDIFONO REEBOK VOGUE STYLISH BLANCO TWS",
-        "url": "https://www.walmart.com.mx/ip/audifono-reebok-vogue-stylish-blanco-tws/00311410012899",
-        "price": 529.0,
-        "model": null
       },
       {
         "store": "walmart",
@@ -3000,10 +2957,17 @@
       },
       {
         "store": "walmart",
-        "name": "Tenis Reebok Princess Unisex Original J95361 Reebok J95361$$Negro$$Sintetico",
-        "url": "https://www.walmart.com.mx/ip/tenis-reebok-princess-unisex-original-j95361-reebok-j95361-negro-sintetico/00405194206537?athbdg=L1300",
-        "price": 1099.0,
-        "model": "J95361"
+        "name": "AUDIFONO REEBOK VOGUE STYLISH NEGRO TWS",
+        "url": "https://www.walmart.com.mx/ip/audifono-reebok-vogue-stylish-negro-tws/00311410012900",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis De Seguridad Dieléctricos Reebok Work Sublite",
+        "url": "https://www.walmart.com.mx/ip/tenis-de-seguridad-dielectricos-reebok-work-sublite/00069077463245?athbdg=L1300",
+        "price": 2849.0,
+        "model": null
       },
       {
         "store": "walmart",
@@ -3011,104 +2975,12 @@
         "url": "https://www.walmart.com.mx/ip/tenis-reebok-blanco-para-unisex-smash-100208245/00120014381184?athbdg=L1300",
         "price": 759.0,
         "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "AUDIFONO REEBOK POD1 EARCLIP AZUL TWS",
-        "url": "https://www.walmart.com.mx/ip/audifono-reebok-pod1-earclip-azul-tws/00311410012910",
-        "price": 699.0,
-        "model": null
       }
     ]
   },
   "sams|REEBOKSMARTBANDREEBOKRBK": {
-    "ts": "2026-08-21T09:54:12.005096+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Tines para Niña Reebok  Blanco/Multicolor 8 Pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-nina-reebok-blanco-multicolor-8-pares/981013268",
-        "price": 213.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tines para Niño Reebok  Multicolor 8 Pares",
-        "url": "https://www.sams.com.mx/ip/tines-para-nino-reebok-multicolor-8-pares/981013266",
-        "price": 213.8,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "HIPSTER Reebok  RVW241PB803SX002",
-        "url": "https://www.sams.com.mx/ip/hipster-reebok-rvw241pb803sx002/981019598",
-        "price": 458.29,
-        "model": "RVW241PB803SX002"
-      },
-      {
-        "store": "sams",
-        "name": "Bóxer para Caballero Reebok   Frescura Iónica Talla G Negro 4 pzas",
-        "url": "https://www.sams.com.mx/ip/boxer-para-caballero-reebok-frescura-ionica-talla-g-negro-4-pzas/981010764",
-        "price": 560.59,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "HIPSTER Reebok  RVW241PB803SX011",
-        "url": "https://www.sams.com.mx/ip/hipster-reebok-rvw241pb803sx011/981019607",
-        "price": 458.29,
-        "model": "RVW241PB803SX011"
-      },
-      {
-        "store": "sams",
-        "name": "Bikini Hipster Reebok  Talla M Multicolor Frios 5 pzas",
-        "url": "https://www.sams.com.mx/ip/bikini-hipster-reebok-talla-m-multicolor-frios-5-pzas/981019634",
-        "price": 458.29,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Boxer para Caballero Reebok  Slip de Alto Rendimiento Talla L 4 pzas",
-        "url": "https://www.sams.com.mx/ip/boxer-para-caballero-reebok-slip-de-alto-rendimiento-talla-l-4-pzas/981019659",
-        "price": 560.59,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Boyshort Reebok  Talla EG 5 pzas",
-        "url": "https://www.sams.com.mx/ip/boyshort-reebok-talla-eg-5-pzas/981019648",
-        "price": 458.29,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Boxer para Caballero Reebok  Slip de Alto Rendimiento Talla Ch 4 pzas",
-        "url": "https://www.sams.com.mx/ip/boxer-para-caballero-reebok-slip-de-alto-rendimiento-talla-ch-4-pzas/981019657",
-        "price": 560.59,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "BOYSHORT Reebok  RVW221PB829SX006",
-        "url": "https://www.sams.com.mx/ip/boyshort-reebok-rvw221pb829sx006/981019650",
-        "price": 458.29,
-        "model": "RVW221PB829SX006"
-      },
-      {
-        "store": "sams",
-        "name": "Bikini Hipster Reebok  Talla CH Multicolor Claros 5 pzas",
-        "url": "https://www.sams.com.mx/ip/bikini-hipster-reebok-talla-ch-multicolor-claros-5-pzas/981019641",
-        "price": 458.29,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Tenis Reebok  Negro Talla 23",
-        "url": "https://www.sams.com.mx/ip/tenis-reebok-negro-talla-23/981043011",
-        "price": 1021.96,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-23T10:14:15.425470+00:00",
+    "items": []
   },
   "amazon|ASUSVIVOBOOKLAPTOPINTELCORE": {
     "ts": "2026-08-21T12:28:00.442633+00:00",
@@ -7871,210 +7743,6 @@
   "sams|BASICS1": {
     "ts": "2026-08-23T08:52:25.869812+00:00",
     "items": []
-  },
-  "amazon|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-21T09:54:24.496655+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Celular motorla RAZR 70 Ultra Cocoa",
-        "url": "https://www.amazon.com.mx/dp/B0GYRLQD7J",
-        "price": 25999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FFDKFZN1",
-        "price": 7797.0,
-        "model": "12/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Celular motorla RAZR 70 Ultra Azul",
-        "url": "https://www.amazon.com.mx/dp/B0GYRR2DZD",
-        "price": 24315.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HN22XQ",
-        "price": 11589.39,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Celular RAZR 70 512 GB Verde",
-        "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
-        "price": 12199.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Vihibii - Funda para Motorola Razr Ultra 2025 con protección de bisagras, color rosa intenso | Moto Razr 2025, protector de visualización exterior, ajuste delgado, textura antideslizante, duradero",
-        "url": "https://www.amazon.com.mx/dp/B0H2HTCBP4",
-        "price": 513.52,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda para Motorola Moto RAZR 70 Ultra Case, TPU + Piel Sintética Funda Protección cámara (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0H568Y54J",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Protector de Pantalla para Moto Razr 60 Ultra/ 2025/Razr Plus 2024 | Mica de Cristal Vidrio Templado, Antiarañazos, Sin Burbujas, 2 Piezas",
-        "url": "https://www.amazon.com.mx/dp/B0GH7VKG3V",
-        "price": 228.0,
-        "model": "2025/Razr"
-      },
-      {
-        "store": "amazon",
-        "name": "Miimall Funda delgada para Motorola Razr Ultra 2025 con protector de pantalla y soporte, [Protección de bisagra][Protección de cuerpo completo] Funda antideslizante y antiarañazos para Razr 60 Ultra a",
-        "url": "https://www.amazon.com.mx/dp/B0F9LBY38V",
-        "price": 428.37,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda para Motorola Moto RAZR 50 Ultra Case, TPU + Piel Sintética Funda Protección cámara (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0FJS7J13C",
-        "price": 298.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "LEKEVO - Funda magnética para Motorola Razr Ultra 2025, compatible con Magsafe, translúcido mate, TPU protector de parachoques delgado y suave para Moto Razr Ultra 2025, color rosa intenso",
-        "url": "https://www.amazon.com.mx/dp/B0FCMPWK4W",
-        "price": 345.64,
-        "model": null
-      }
-    ]
-  },
-  "walmart|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-21T09:54:58.195910+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Vizvera para Motorola Razr 50 Ultra 2024/Razr 60 Pro 2025, con Protector de Pantalla y Funda de Teléfono a Prueba de Golpes de Cuero PU Ultrafino Mate PC - Negro",
-        "url": "https://www.walmart.com.mx/ip/vizvera-para-motorola-razr-50-ultra-2024-razr-60-pro-2025-con-protector-de-pantalla-y-funda-de-telefono-a-prueba-de-golpes-de-cuero-pu-ultrafino-mate-pc-negro/00858168544896",
-        "price": 532.56,
-        "model": "2024/Razr"
-      },
-      {
-        "store": "walmart",
-        "name": "Oupeigar para Motorola Razr 50 Ultra/Razr 60 Pro Funda Tipo Armadura para Teléfono, con Cubierta de Bisagra, Protector de Pantalla Integrado, Funda a Prueba de Golpes con Carga Inalámbrica - Titanio",
-        "url": "https://www.walmart.com.mx/ip/oupeigar-para-motorola-razr-50-ultra-razr-60-pro-funda-tipo-armadura-para-telefono-con-cubierta-de-bisagra-protector-de-pantalla-integrado-funda-a-prueba-de-golpes-con-carga-inalambrica-titanio/00063540530807",
-        "price": 485.43,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Vizvera para Motorola Razr 50 Ultra 2024/Razr 60 Pro 2025, con Protector de Pantalla y Funda de Teléfono a Prueba de Golpes de Cuero PU Ultrafino Mate PC - Verde",
-        "url": "https://www.walmart.com.mx/ip/vizvera-para-motorola-razr-50-ultra-2024-razr-60-pro-2025-con-protector-de-pantalla-y-funda-de-telefono-a-prueba-de-golpes-de-cuero-pu-ultrafino-mate-pc-verde/00858168544911",
-        "price": 573.81,
-        "model": "2024/Razr"
-      }
-    ]
-  },
-  "sams|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-21T09:55:05.079927+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-azul-desbloqueado/981038950",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-60-512-gb-verde-desbloqueado/981038939",
-        "price": 12887.75,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Razr  70 256 GB Gris Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-razr-70-256-gb-gris-telcel/981054346",
-        "price": 18412.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto E 15 64 GB Azul Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-e-15-64-gb-azul-desbloqueado/981038951",
-        "price": 2246.5,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Moto G06 256 GB Café Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-256-gb-cafe-desbloqueado/981042534",
-        "price": 3579.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto G15 256 GB Verde Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g15-256-gb-verde-telcel/981031685",
-        "price": 4087.9,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto g77 256 GB Esmeralda Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g77-256-gb-esmeralda-telcel/981053017",
-        "price": 8182.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  G17 Power Celeste 256 GB Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-g17-power-celeste-256-gb-desbloqueado/981050389",
-        "price": 6645.41,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola  Edge 60 512 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-edge-60-512-gb-verde-desbloqueado/981036681",
-        "price": 8692.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto G06 128 GB Verde Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g06-128-gb-verde-telcel/981045741",
-        "price": 3067.96,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto g17 256 GB Rosa Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g17-256-gb-rosa-telcel/981050725",
-        "price": 5625.47,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Motorola Moto g77 256 GB Cáfe Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-motorola-moto-g77-256-gb-cafe-telcel/981050847",
-        "price": 8182.96,
-        "model": null
-      }
-    ]
   },
   "amazon|ZIDS240NSS": {
     "ts": "2026-08-21T10:20:49.970060+00:00",
