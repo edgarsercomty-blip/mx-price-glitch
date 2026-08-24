@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23 23:53 UTC",
-  "products_scanned": 1756,
+  "generated_at": "2026-08-24 00:42 UTC",
+  "products_scanned": 1671,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -673,48 +673,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1173032684",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$183 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 45.8,
-      "store": "liverpool",
-      "name": "Correa Para Reloj Mobo Trippy",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo-trippy/1136430552",
-      "price": 183.2,
-      "list_price": 229.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430552",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$119 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 29.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Mobo",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-mobo/1136430579",
-      "price": 119.2,
-      "list_price": 149.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOBO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1136430579",
         "marketplace": null
       }
     },
