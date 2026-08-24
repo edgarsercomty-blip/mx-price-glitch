@@ -2824,99 +2824,6 @@
     "ts": "2026-08-24T00:42:35.963850+00:00",
     "items": []
   },
-  "amazon|CO905KS": {
-    "ts": "2026-08-22T16:12:59.925251+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Ninja CO905KS Deluxe Kitchen System, Potencia 1600W, Procesador con Licuadora, Jarra 86oz, 2 Vasos 24oz, Tecnología Auto-IQ, Sistema de Cocina Profesional Multifuncional, Color Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0D9WV919N",
-        "price": 2679.0,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Licuadora Ninja Deluxe 1600W Sistema de Cocina 3 en 1 – Procesador de Alimentos 9 Tazas, Jarra 2.6 L, 2 Vasos Portátiles 700 ml.",
-        "url": "https://www.amazon.com.mx/dp/B0FXJHFH41",
-        "price": 5599.0,
-        "model": "1600W"
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja Detect Pro Sistema de Cocina BlendSense 1800W Plata TB401LAA | BlendSense Ajusta Velocidad Solo | Jarra + Procesador + Vaso Personal | 1800W | 1 Toque",
-        "url": "https://www.amazon.com.mx/dp/B0F35QN76L",
-        "price": 3890.0,
-        "model": "TB401LAA"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (jarra 88 onzas)",
-        "url": "https://www.amazon.com.mx/dp/B0GG63FKFL",
-        "price": 2027.26,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Sistema de Cocina Chef Deluxe | 650W de Potencia | Más de 10 Accesorios para Licuar, Triturar, Rebanar y Más | Panel Digital | Acabados de Acero Inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0F14ZXFZQ",
-        "price": 2992.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Ninja CO351B SS351 Foodi Potente sistema de licuadora para batidos, 4 en 1 + procesador de alimentos, una sola porción, 1400 WP, smartTORQUE, 6 programas predeterminados Auto-iQ (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09RQDDYNH",
-        "price": 2378.0,
-        "model": "CO351B"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
-        "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
-        "price": 388.44,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (Recipiente 72 oz / 2.1 L)",
-        "url": "https://www.amazon.com.mx/dp/B0GG5XXQLG",
-        "price": 2047.0,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Base de motor original de repuesto de 1600 vatios compatible con Ninja Costco CO905KS Deluxe Blender",
-        "url": "https://www.amazon.com.mx/dp/B0H351DFVK",
-        "price": 1602.03,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "URPOW? Licuadora Profesiona 9500W Profesional Cocina 10 en 1 | Extractor de Jugo con 3 Contenedores , Licuadoras de Alta Potencia,Blender Multifuncional para Carne, Batidos y Jugos",
-        "url": "https://www.amazon.com.mx/dp/B0GYHNKRZ6",
-        "price": 1699.0,
-        "model": "9500W"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
-        "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
-        "price": 540.26,
-        "model": "CO905KS"
-      },
-      {
-        "store": "amazon",
-        "name": "Repuesto original de 6 cuchillas apiladas compatibles con Ninja Costco CO905KS",
-        "url": "https://www.amazon.com.mx/dp/B0GSXZX6X1",
-        "price": 540.26,
-        "model": "CO905KS"
-      }
-    ]
-  },
-  "sams|CO905KS": {
-    "ts": "2026-08-22T16:13:01.336084+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
     "ts": "2026-08-22T17:54:06.647686+00:00",
     "items": [
@@ -4011,14 +3918,35 @@
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-22T16:13:08.455793+00:00",
+    "ts": "2026-08-24T16:39:13.652121+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, Batería 5000mAh, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FRNCLG2X",
-        "price": 2990.0,
-        "model": "5000mAh"
+        "name": "Apple iPhone 13 Pro (1 TB) - Azul Sierra",
+        "url": "https://www.amazon.com.mx/dp/B09G95TGCS",
+        "price": 17902.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO A6k Morado, 256GB+4GB RAM, Pantalla LCD 6.75” 120Hz, Cámara 50MP, Batería 6100mAh, Resistencia IP64 contra Agua y Polvo",
+        "url": "https://www.amazon.com.mx/dp/B0GTNCYW2W",
+        "price": 6499.0,
+        "model": "256GB+4GB"
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
+        "price": 19999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy S25 FE - Teléfono Celular (2025), Smartphone AI de 256 GB, Android Desbloqueado, visualización Grande, batería de 4900 mAh, cámara de Alta resolución, edición de Fotos AI, Duradero",
+        "url": "https://www.amazon.com.mx/dp/B0FG1X2XHF",
+        "price": 10749.0,
+        "model": null
       },
       {
         "store": "amazon",
@@ -4026,20 +3954,6 @@
         "url": "https://www.amazon.com.mx/dp/B0FLL9MGZG",
         "price": 2990.0,
         "model": "Galaxy-A17"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 4G, 128GB, 4GB Ram, Pantalla Super Amoled 6.7\", Triple C?mara 50MP, 5000mAh, Gris",
-        "url": "https://www.amazon.com.mx/dp/B0FRNCQ2CL",
-        "price": 3007.0,
-        "model": "5000mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 5G Ai (128 GB + 4 GB) desbloqueado (compatible con T-Mobile Mint Tello & Global) SM-A176B/International/DS Dual SIM / 17 cm 50 MP Triple (paquete de cargador rápido de 25 W, negro)",
-        "url": "https://www.amazon.com.mx/dp/B0G2YMNR4T",
-        "price": 3217.0,
-        "model": "SM-A176B/International/DS"
       },
       {
         "store": "amazon",
@@ -4057,10 +3971,17 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A17 4G Azul 4GB 128GB Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0FTGHMRKP",
-        "price": 2898.0,
-        "model": "128GB"
+        "name": "Samsung Galaxy A17 4G, 128GB, 4GB Ram, Pantalla Super Amoled 6.7\", Triple C?mara 50MP, 5000mAh, Gris",
+        "url": "https://www.amazon.com.mx/dp/B0FRNCQ2CL",
+        "price": 3007.0,
+        "model": "5000mAh"
+      },
+      {
+        "store": "amazon",
+        "name": "Samsung Galaxy A17 6+128GB Azul Claro",
+        "url": "https://www.amazon.com.mx/dp/B0FSF35HP1",
+        "price": 3684.0,
+        "model": "6+128GB"
       },
       {
         "store": "amazon",
@@ -4078,118 +3999,104 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy A17 4G Gris 4GB 128GB Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0FT1V5HXP",
+        "name": "Samsung Galaxy A17 4G Azul 4GB 128GB Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FTGHMRKP",
         "price": 2898.0,
         "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 6+128GB Azul Claro",
-        "url": "https://www.amazon.com.mx/dp/B0FSF35HP1",
-        "price": 3683.0,
-        "model": "6+128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, 5000mAh, Azul",
-        "url": "https://www.amazon.com.mx/dp/B0FRN7T6R2",
-        "price": 3397.0,
-        "model": "5000mAh"
       }
     ]
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-22T16:13:14.074001+00:00",
+    "ts": "2026-08-24T16:39:37.576071+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A26 5G Blanco desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Blanco-desbloqueado-128GB/00880609724418",
-        "price": 4599.0,
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
+        "price": 15499.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 LTE Gris 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-gris-128gb-desbloqueado/00880609766826?athbdg=L1300",
+        "price": 2888.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Gris",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Dual-SIM-Desbloqueado-128GB-4GB-RAM-Gris/00880609765123?athbdg=L6000",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-dual-sim-desbloqueado-128gb-4gb-ram-gris/00880609765123?athbdg=L6000",
         "price": 3499.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 LTE Negro 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-LTE-Negro-128GB-Desbloqueado/00880609766688?athbdg=L1300",
-        "price": 3098.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
         "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Negro-desbloqueado-128GB/00880609709043",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
         "price": 4599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Black 128GB , 6GB RAM Dual SIM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-black-128gb-6gb-ram-dual-sim-desbloqueado/00880609766722?athbdg=L1300",
+        "price": 3549.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 4G Ligth Blue 128GB , 6GB RAM Dual SIM Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Ligth-Blue-128GB-6GB-RAM-Dual-SIM-Desbloqueado/00880609766803",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-ligth-blue-128gb-6gb-ram-dual-sim-desbloqueado/00880609766803",
         "price": 3599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S26 Ultra Negro 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-negro-512gb-desbloqueado/00880609786828",
+        "price": 26299.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Black",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-dual-sim-desbloqueado-128gb-4gb-ram-black/00880609765115",
+        "price": 3269.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
         "name": "Smartphone Samsung Galaxy A17 LTE 4+128GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-LTE-4-128GB-Gris-Desbloqueado/00750665820968?athbdg=L1300",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-4-128gb-gris-desbloqueado/00750665820968?athbdg=L1300",
         "price": 3399.0,
         "model": "4+128GB"
       },
       {
         "store": "walmart",
         "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-FE-5G-Azul-Desbloqueado-128GB/00880609574579",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
         "price": 11499.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Black",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-Dual-SIM-Desbloqueado-128GB-4GB-RAM-Black/00880609765115",
-        "price": 3269.0,
+        "name": "Smartphone Samsung Galaxy A17 LTE Negro 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-negro-128gb-desbloqueado/00880609766688?athbdg=L1300",
+        "price": 3098.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 4G/LTE 128GB 4GB RAM Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A17-4G-LTE-128GB-4GB-RAM-Gris-Desbloqueado/00590310851812",
-        "price": 3049.0,
-        "model": "4G/LTE"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A26 5G Verde Claro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-A26-5G-Verde-Claro-desbloqueado-128GB/00880609724419",
-        "price": 4779.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Samsung Galaxy A17 4G Negro 4GB 128GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Samsung-Galaxy-A17-4G-Negro-4GB-128GB-Desbloqueado/00076404678023?athbdg=L1300",
-        "price": 2898.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Samsung-Galaxy-S24-12GB-RAM-256GB-ROM-Negro-Onix-Desbloqueado/00880609533830",
-        "price": 15499.0,
-        "model": "256GB"
+        "name": "Smartphone Samsung Galaxy S26 Ultra Azul Claro 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-azul-claro-512gb-desbloqueado/00880609786709",
+        "price": 26299.0,
+        "model": "512GB"
       }
     ]
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-22T16:13:14.941188+00:00",
+    "ts": "2026-08-24T16:39:38.611208+00:00",
     "items": []
   },
   "amazon|CO401B": {
@@ -5902,188 +5809,6 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-08-24T15:20:56.074673+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-08-22T16:13:17.803529+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de Repuesto para Cafetera, 12 Tazas, 16.1 cm de Altura, Compatible con Modelos Oster BVSTRC12, BVSTDC12X, BVSTDCP12X",
-        "url": "https://www.amazon.com.mx/dp/B0FWGQ6KCC",
-        "price": 465.0,
-        "model": "BVSTDCP12X"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster® Cafetera Térmica Programable de 10 Tazas, línea Gourmet Collection, Plateada, BVSTDC4411-013ris, Mod BVSTDC4411",
-        "url": "https://www.amazon.com.mx/dp/B0FH3857PX",
-        "price": 2799.0,
-        "model": "BVSTDC4411-013ris"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Mr. Coffee Cafetera programable de 10 tazas, jarra térmica aislada, selección de fuerza de preparación, cerveza ahora o más tarde, acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B08MX4XG97",
-        "price": 2049.44,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera de 12 tazas Oster® negra sistema de switch BVSTDCS12B013 | Sistema de switch, Negro, BVSTDCS12B013",
-        "url": "https://www.amazon.com.mx/dp/B08V9FHQWN",
-        "price": 499.0,
-        "model": "BVSTDCS12B013"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS COLUMBA | Cafetera Percoladora 40 Tazas 4.5L de Acero Inoxidable | Mantiene Café Caliente | Dispensador con Una Mano | Filtro Reutilizable | Ideal para Eventos, Oficina y Negocio",
-        "url": "https://www.amazon.com.mx/dp/B01K35QTOM",
-        "price": 599.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
-        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
-        "price": 299.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-08-22T16:13:22.233648+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 10 Tazas Cromo",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-10-tazas-cromo/00003426445851",
-        "price": 2799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-12-tazas-negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
-        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
-        "price": 635.0,
-        "model": "BVST/DC05-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
-        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
-        "price": 4439.77,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAPANELTAZASACERO": {
-    "ts": "2026-08-22T16:13:22.902686+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERATAZASACEROPANEL": {
@@ -23446,6 +23171,188 @@
   },
   "sams|INALAMBRICOSAURICULARESXIAOMIREDMI": {
     "ts": "2026-08-24T15:47:15.713677+00:00",
+    "items": []
+  },
+  "amazon|VELOCIBICICLETAINFANTILRODADAVELOCI": {
+    "ts": "2026-08-24T16:38:52.710110+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Bicicleta de Balance para Niños, Coche de Equilibrio Infantil con Pedales y Ruedas Neumáticas Amortiguadoras 12 Pulgadas, Asiento Ajustable y Manillar Completo, Edades de 2 a 5 Años",
+        "url": "https://www.amazon.com.mx/dp/B0FR58M2JN",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta Infantil para Niñas, Rodada 16 con Ruedas de Entrenamiento, Canastilla Asiento de Muñeca y Accesorios, Frenos V-Brakes Rin de Acero, Asiento y Manubrio Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0F2BGMRVS",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Turbo Bicicleta R20 Princess Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0C9BK9RC5",
+        "price": 3709.16,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Cross Giselle R20 1V Niña Ruedas 20 Pulgadas, Frenos Contrapedal, Acero Crema/Verde Claro",
+        "url": "https://www.amazon.com.mx/dp/B09F8Y33BF",
+        "price": 2955.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Heart Beat Rodada 12 Lila Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1V3WZQ4",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
+        "price": 3119.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Mädel BMX Rodada 16 Turqueza Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1V5DGX3",
+        "price": 2719.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Racing Rodada 16 Naranja",
+        "url": "https://www.amazon.com.mx/dp/B0DX8C2D4T",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "CASA EASTER Bicicleta Infantil para Niñas, Rodada 16 con Ruedas de Entrenamiento, Canastilla Asiento de Muñeca y Accesorios, Rin de Acero, Asiento y Manubrio Ajustable Mod: RM02-16",
+        "url": "https://www.amazon.com.mx/dp/B0FVWCL23Q",
+        "price": 1699.0,
+        "model": "RM02-16"
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Orion Rodada 12 Azul Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0DWVFDV6W",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Princess Rodada 12 Rosa Intantil",
+        "url": "https://www.amazon.com.mx/dp/B0G26X46TM",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Speed Up BMX Rodada 16 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1VBCVV5",
+        "price": 2399.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETAINFANTILRODADAVELOCI": {
+    "ts": "2026-08-24T16:38:57.948710+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Lithium Rodada 12 Naranja Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Lithium-Rodada-12-Naranja-Infantil/00750305357666?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Lithium Rodada 12 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Lithium-Rodada-12-Rojo-Infantil/00750305544773?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Madchen BMX Rodada 16 Rosa Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Madchen-BMX-Rodada-16-Rosa-Infantil/00750305544782?athbdg=L1300",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Dino Rodada 12 Azul Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Dino-Rodada-12-Azul-Infantil/00750305544770?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Heart Beat Rodada 12 Lila Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Heart-Beat-Rodada-12-Lila-Infantil/00750305544772?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Speedup Rodada 16 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Speedup-Rodada-16-Rojo-Infantil/00750305544714?athbdg=L1300",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Riot-Rodada-20-Rojo-Infantil/00750305544795?athbdg=L1300",
+        "price": 3119.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amore Rodada 12 Rosa Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Amore-Rodada-12-Rosa-Infantil/00750305544769?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 16 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Riot-Rodada-16-Rojo-Infantil/00750305544785?athbdg=L1300",
+        "price": 2719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Heroes Rodada 16 Azul Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Heroes-Rodada-16-Azul-Infantil/00750305357670?athbdg=L1300",
+        "price": 2879.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Mädel BMX Rodada 16 Turqueza Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Madel-BMX-Rodada-16-Turqueza-Infantil/00750305544783?athbdg=L1300",
+        "price": 2719.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Amore BMX Rodada 16 Rosa Infantil",
+        "url": "https://www.walmart.com.mx/ip/Bicicleta-Veloci-Amore-BMX-Rodada-16-Rosa-Infantil/00750305544776?athbdg=L1300",
+        "price": 2719.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETAINFANTILRODADAVELOCI": {
+    "ts": "2026-08-24T16:38:58.437743+00:00",
     "items": []
   }
 }
