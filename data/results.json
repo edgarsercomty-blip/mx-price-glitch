@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 05:03 UTC",
-  "products_scanned": 1645,
+  "generated_at": "2026-08-24 05:54 UTC",
+  "products_scanned": 1605,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -212,26 +212,6 @@
       "extra": {
         "id": "45384039",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 14.6,
-      "detail": "$298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 101.0,
-      "store": "amazon",
-      "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-      "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-      "price": 298.0,
-      "list_price": 349.0,
-      "ean": null,
-      "model": "BVSTDCS51B",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0F8KF41L9"
       }
     },
     {
@@ -451,27 +431,6 @@
       "likely_typo": false,
       "savings": 10799.82,
       "store": "palacio",
-      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
-      "price": 35399.41,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600330",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10799.82,
-      "store": "palacio",
       "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
       "price": 35399.41,
@@ -631,27 +590,6 @@
       "extra": {
         "id": "45262440",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.0,
-      "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
-      "ean": null,
-      "model": null,
-      "brand": "SHOTGUN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1105905200",
-        "marketplace": null
       }
     },
     {
