@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24 19:45 UTC",
-  "products_scanned": 1629,
+  "generated_at": "2026-08-24 20:19 UTC",
+  "products_scanned": 1637,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs walmart $3,669, walmart $3,929 -> -50% bajo la competencia",
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
       "savings": 1745.0,
       "store": "palacio",
@@ -547,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },
