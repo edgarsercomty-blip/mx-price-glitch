@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24 21:20 UTC",
-  "products_scanned": 1580,
+  "generated_at": "2026-08-24 21:48 UTC",
+  "products_scanned": 1571,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs walmart $3,819, walmart $5,379 -> -50% bajo la competencia",
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
       "likely_typo": false,
       "savings": 1745.0,
       "store": "palacio",
@@ -23,26 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$383 en amazon vs amazon $616, amazon $735, amazon $1,053 -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 232.88,
-      "store": "amazon",
-      "name": "Piezas de repuesto para licuadora Ninja Foodi Ultimate SS400 SS401 CO401B (disco de rallado)",
-      "url": "https://www.amazon.com.mx/dp/B0CW3T2PD2",
-      "price": 383.14,
-      "list_price": 127.71,
-      "ean": null,
-      "model": "CO401B",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0CW3T2PD2"
       }
     },
     {
@@ -399,27 +379,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 804.77,
-      "store": "palacio",
-      "name": "Smartwach Kids 4 Pro Nina",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
-      "price": 2519.28,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123334",
         "outlet": false
       }
     },
