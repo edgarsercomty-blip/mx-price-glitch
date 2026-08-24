@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24 17:47 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-24 18:26 UTC",
+  "products_scanned": 1583,
   "threshold_pct": 20.0,
   "count": 34,
   "findings": [
@@ -65,6 +65,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
+        "marketplace": null
       }
     },
     {
@@ -342,6 +363,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2522.17,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+      "price": 7746.2,
+      "list_price": 16299.0,
+      "ean": null,
+      "model": "50Qd8Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197752251",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -552,27 +594,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 599.0,
-      "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
-      "ean": null,
-      "model": null,
-      "brand": "SHOTGUN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1105905200",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -590,27 +611,6 @@
       "extra": {
         "id": "44824190",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 740.0,
-      "store": "liverpool",
-      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
-      "price": 2959.0,
-      "list_price": 7398.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1189090401",
-        "marketplace": null
       }
     },
     {

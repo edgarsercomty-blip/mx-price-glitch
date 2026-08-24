@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-24 17:47 UTC
+# Errores/chollos de precio — 2026-08-24 18:26 UTC
 
-- Productos revisados: **1623**
+- Productos revisados: **1583**
 - Umbral de diferencia: **20%**
 - Hallazgos: **34**
 
@@ -11,6 +11,7 @@
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $7,500 | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $7,500 | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
+| -31% | $7,251 | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $16,148 | Confirmado vs competencia | $16,148 en liverpool vs mercado -> -31% bajo la competencia |
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
 | -30% | $4,500 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
@@ -19,6 +20,7 @@
 | -24% | $3,610 | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | Confirmado vs competencia | $11,589 en palacio vs mercado -> -24% bajo la competencia |
 | -22% | $2,876 | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | Confirmado vs competencia | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | -30% | $2,860 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,819 | Confirmado vs competencia | $6,819 en palacio vs mercado -> -30% bajo la competencia |
+| -25% | $2,522 | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8S…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | Confirmado vs competencia | $7,746 en liverpool vs mercado -> -25% bajo la competencia |
 | -30% | $2,400 | liverpool | [Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloqueado](https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788) | $5,599 | Confirmado vs competencia | $5,599 en liverpool vs mercado -> -30% bajo la competencia |
 | -25% | $2,394 | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | Confirmado vs competencia | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
@@ -36,7 +38,5 @@
 | -24% | $805 | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | Confirmado vs competencia | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $740 | liverpool | [Bicicleta Infantil Veloci Rodada 24 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401) | $2,959 | Confirmado vs competencia | $2,959 en liverpool vs mercado -> -20% bajo la competencia |
 | -30% | $600 | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | Confirmado vs competencia | $1,364 en liverpool vs mercado -> -30% bajo la competencia |
-| -21% | $599 | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,290 | Confirmado vs competencia | $2,290 en liverpool vs mercado -> -21% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |

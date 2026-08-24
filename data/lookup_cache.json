@@ -2825,27 +2825,20 @@
     "items": []
   },
   "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-22T17:54:06.647686+00:00",
+    "ts": "2026-08-24T18:26:37.039053+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Samsung Galaxy Watch8 Classic Black 46mm",
         "url": "https://www.amazon.com.mx/dp/B0FCNPJPGH",
-        "price": 3699.0,
-        "model": "Watch8"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy Watch8 Classic White 46mm",
-        "url": "https://www.amazon.com.mx/dp/B0FCNBRS44",
-        "price": 3699.0,
+        "price": 4631.35,
         "model": "Watch8"
       },
       {
         "store": "amazon",
         "name": "Samsung Galaxy Watch Ultra 47mm Titanio Gris",
         "url": "https://www.amazon.com.mx/dp/B0FCNT2GG1",
-        "price": 5799.0,
+        "price": 5809.07,
         "model": null
       },
       {
@@ -2857,9 +2850,16 @@
       },
       {
         "store": "amazon",
+        "name": "Samsung Galaxy Watch8 Classic White 46mm",
+        "url": "https://www.amazon.com.mx/dp/B0FCNBRS44",
+        "price": 4631.35,
+        "model": "Watch8"
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Galaxy Watch8 44mm (BT) Plata",
         "url": "https://www.amazon.com.mx/dp/B0FCP4BLXH",
-        "price": 3899.0,
+        "price": 4499.0,
         "model": "Watch8"
       },
       {
@@ -2871,16 +2871,23 @@
       },
       {
         "store": "amazon",
+        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
+        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
+        "price": 12096.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Samsung Galaxy Watch8 40mm (BT) Plata",
         "url": "https://www.amazon.com.mx/dp/B0FCNNNJ5L",
-        "price": 3699.0,
+        "price": 4499.0,
         "model": "Watch8"
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy Watch Ultra 2 Titanium Gris",
-        "url": "https://www.amazon.com.mx/dp/B0H1D46MPG",
-        "price": 14264.46,
+        "name": "Samsung - Galaxy Fit 3 - Pantalla AMOLED de 1.6 pulgadas, duración de batería de 14 días, 100+ caras de reloj, 100+ modos de ejercicio, modelo internacional - Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0CW3X1S7B",
+        "price": 742.0,
         "model": null
       },
       {
@@ -2892,10 +2899,10 @@
       },
       {
         "store": "amazon",
-        "name": "Reloj Inteligente Samsung Galaxy Watch Ultra (2025) de 47 mm LTE, Carcasa de Titanio, Entrenamiento avanzado del sueño, Entrenador de Correr, puntuación de energía, Seguimiento de frecuencia cardíaca",
-        "url": "https://www.amazon.com.mx/dp/B0F7Q4L81N",
-        "price": 12078.7,
-        "model": null
+        "name": "Samsung L705F Galaxy Watch Ultra (2025), 47 mm, eSIM, Titanium Blue",
+        "url": "https://www.amazon.com.mx/dp/B0FK1ZWRQW",
+        "price": 8974.32,
+        "model": "L705F"
       },
       {
         "store": "amazon",
@@ -2903,18 +2910,11 @@
         "url": "https://www.amazon.com.mx/dp/B0D7K7C1S7",
         "price": 6999.0,
         "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sin Brecha Un Clic Magnético Correa para Galaxy Watch 7 6 5 4 FE 40mm 44mm Watch 6 4 Classic 47mm 43mm 46mm Watch 5 Pro 45mm, Metálica de Acero Inoxidable Correas Compatible con Samsung Watch",
-        "url": "https://www.amazon.com.mx/dp/B0FCG1BL9B",
-        "price": 254.32,
-        "model": null
       }
     ]
   },
   "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-22T17:54:09.755558+00:00",
+    "ts": "2026-08-24T18:26:41.243242+00:00",
     "items": [
       {
         "store": "walmart",
@@ -2932,13 +2932,6 @@
       },
       {
         "store": "walmart",
-        "name": "Reloj inteligente Samsung Galaxy Watch 8 40 mm Bluetooth 2025 plateado",
-        "url": "https://www.walmart.com.mx/ip/Reloj-inteligente-Samsung-Galaxy-Watch-8-40-mm-Bluetooth-2025-plateado/00074276130764?athbdg=L1300",
-        "price": 4769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch Ultra Gris",
         "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Ultra-Gris/00880609760415?athbdg=L1300",
         "price": 7199.0,
@@ -2948,7 +2941,7 @@
         "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch8 44 mm Gris",
         "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch8-44-mm-Gris/00880609741638?athbdg=L1300",
-        "price": 5739.0,
+        "price": 5398.0,
         "model": "Watch8"
       },
       {
@@ -2957,13 +2950,6 @@
         "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch8-44-mm-Plata/00880609741628?athbdg=L1300",
         "price": 4699.0,
         "model": "Watch8"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Samsung Galaxy Watch Active 40 mm Plata",
-        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-Active-40-mm-Plata/00075357523873?athbdg=L1300",
-        "price": 2579.0,
-        "model": null
       },
       {
         "store": "walmart",
@@ -2976,14 +2962,14 @@
         "store": "walmart",
         "name": "Restored Reloj inteligente Samsung Galaxy Watch Active 2 40mm Negro Reacondicionado (Refurbished)",
         "url": "https://www.walmart.com.mx/ip/Restored-Reloj-inteligente-Samsung-Galaxy-Watch-Active-2-40mm-Negro-Reacondicionado-Refurbished/00071475244742?athbdg=L1500",
-        "price": 2329.0,
+        "price": 2359.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smartwatch Samsung Galaxy Watch 3 41mm GPS LTE",
         "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Watch-3-41mm-GPS-LTE/00088727642016?athbdg=L1300",
-        "price": 7739.0,
+        "price": 7689.0,
         "model": null
       },
       {
@@ -2997,13 +2983,27 @@
         "store": "walmart",
         "name": "SAMSUNG Electronics Galaxy Watch 4 Classic Reloj Inteligente de 46 mm con rastreador de Monitor ECG para Salud, Correr, ciclos de sueño, GPS, versión de EE. UU, Plateado (renovado)",
         "url": "https://www.walmart.com.mx/ip/SAMSUNG-Electronics-Galaxy-Watch-4-Classic-Reloj-Inteligente-de-46-mm-con-rastreador-de-Monitor-ECG-para-Salud-Correr-ciclos-de-sueno-GPS-version-de-EE-UU-Plateado-renovado/00070233853613?athbdg=L1300",
-        "price": 2079.0,
+        "price": 2279.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Electronics Galaxy Watch 4 Classic 46mm Reloj inteligente con monitor ECG para salud, fitness, correr, ciclos de sueño, detección de caídas GPS, color negro (Reacondicionado)",
+        "url": "https://www.walmart.com.mx/ip/Samsung-Electronics-Galaxy-Watch-4-Classic-46mm-Reloj-inteligente-con-monitor-ECG-para-salud-fitness-correr-ciclos-de-sueno-deteccion-de-caidas-GPS-color-negro-Reacondicionado/00065694245359",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Samsung Galaxy Fit3 Dark Grey",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Samsung-Galaxy-Fit3-Dark-Grey/00880609536951?athbdg=L1300",
+        "price": 664.0,
         "model": null
       }
     ]
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
-    "ts": "2026-08-22T17:54:10.403106+00:00",
+    "ts": "2026-08-24T18:26:42.879448+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
@@ -5809,188 +5809,6 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-08-24T15:20:56.074673+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-08-22T18:16:17.883920+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Filtro para Cafetera, 8-12 Taza Cápsulas Filtro de Café Acero Inoxidable, Reutilizable Cápsulas Filtro Cafetera, Apto Para Cafeteras y Cerveceros",
-        "url": "https://www.amazon.com.mx/dp/B0FXGNS5S5",
-        "price": 199.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "600ML Cafetera de Goteo, Cafetera de Vidrio Resistente a Altas Temperaturas, con Filtro Reutilizable de Acero Inoxidable, Mango cómodo y vidrio borosilicato, suficiente para preparar 3 tazas.",
-        "url": "https://www.amazon.com.mx/dp/B0H1WQ9318",
-        "price": 369.0,
-        "model": "600ML"
-      },
-      {
-        "store": "amazon",
-        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
-        "price": 305.35,
-        "model": "CM321DMX"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra De Vidrio Compatible Con Cafetera Oster y Black&Decker De 12 Tazas Marca: Generico Medidas altura 14cm base 15.1cm tapa 10.1cm Tapa Intercambiable, Modelos compatibles en la descripcion.",
-        "url": "https://www.amazon.com.mx/dp/B0H9VCKVFK",
-        "price": 298.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-08-22T18:16:24.500322+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Análoga 5 Tazas Oster Color Negra BVST/DC05-013",
-        "url": "https://www.walmart.com.mx/ip/cafetera-analoga-5-tazas-oster-color-negra-bvst-dc05-013/00060567128327?athbdg=L1300",
-        "price": 635.0,
-        "model": "BVST/DC05-013"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-capacidad-de-5-tazas-filtro-permanente-color-negro-modelo-bvstdcs51b-ne/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAACEROGOTEOTAZAS": {
-    "ts": "2026-08-22T18:16:25.324348+00:00",
     "items": []
   },
   "amazon|SAMSUNGSAMSUNGGALAXYA07LCD": {
@@ -23227,6 +23045,411 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
     "ts": "2026-08-24T17:10:07.872587+00:00",
+    "items": []
+  },
+  "amazon|BG1051LA": {
+    "ts": "2026-08-24T18:26:19.315183+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Cabezal De Impresión BH-10 CH-10 BH-10 CH-10, Compatible con Las Impresoras para Canon G2160 G3160 G5010 G6010 G7010 —— Alto Volumen De Impresión con Chip BH-10",
+        "url": "https://www.amazon.com.mx/dp/B0FMDTC6MF",
+        "price": 576.16,
+        "model": "BH-10"
+      },
+      {
+        "store": "amazon",
+        "name": "Cabezal de Repuesto Bg2000 Compatible con Philips Norelco Bodygroom Serie 7000 (Bg7030, Bg7040) Y Serie 5000 (Bg5025) Bg2000/40. Lámina de Repuesto para Afeitadora/Recortadora Bodygroom.",
+        "url": "https://www.amazon.com.mx/dp/B0DR27BFQS",
+        "price": 180.0,
+        "model": "Bg2000/40"
+      },
+      {
+        "store": "amazon",
+        "name": "LinMei 2 cabezales de repuesto BG2000 compatibles con Bodygroom Series 7000 (BG7030/BG7040), 5000 (BG5025) y 3000 – Sistema de afeitado en seco/húmedo hipoalergénico",
+        "url": "https://www.amazon.com.mx/dp/B0FCYDS9H1",
+        "price": 355.18,
+        "model": "BG7030/BG7040"
+      },
+      {
+        "store": "amazon",
+        "name": "Cabezal De Impresión BH-10 CH-10 BH-10 CH-10, Compatible con Las Impresoras para Canon G2160 G3160 G5010 G6010 G7010 —— Alto Volumen De Impresión con Chip Combo Pack",
+        "url": "https://www.amazon.com.mx/dp/B0FMDHXN4Q",
+        "price": 1523.99,
+        "model": "BH-10"
+      },
+      {
+        "store": "amazon",
+        "name": "BH-1 CH-1 BH1 CH1 Cabezal De Impresión De Alto Para Canon G1100 G2100 color | Con Cabezal De Impresión Chip Para Canon G1100, G2100, G3100, G4100, G1110, G1111, G2110, G2111, G3110, G3111, G4110, G4111",
+        "url": "https://www.amazon.com.mx/dp/B0HDYHG27L",
+        "price": 633.31,
+        "model": "G1100"
+      },
+      {
+        "store": "amazon",
+        "name": "Deal4GO - Altavoz interno izquierdo y derecho CGDGM 0CGDGM PK23000RB00 de repuesto para Dell Latitude 5470 e5470 P62G",
+        "url": "https://www.amazon.com.mx/dp/B07GMPGY8T",
+        "price": 338.38,
+        "model": "PK23000RB00"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible Con Philips, Norelco Bodygroom BG2024, BG2038, BG2020, TT2020, TT2021, TT2030, TT2040，QG3280 Repuesto Cabezal Afeitado Recortadora",
+        "url": "https://www.amazon.com.mx/dp/B0G1Z9SB82",
+        "price": 429.55,
+        "model": "BG2024"
+      },
+      {
+        "store": "amazon",
+        "name": "Peine Guía Compatible Con Afeitadora Philips Bodygroom | Reemplazo de peine bidireccional de 2mm 3mm 5mm 7mm, BG3005 BG3007 BG3010 BG3011 BG3012 BG3015 BG3016",
+        "url": "https://www.amazon.com.mx/dp/B0H9WVQ323",
+        "price": 700.98,
+        "model": "BG3005"
+      },
+      {
+        "store": "amazon",
+        "name": "BG2000 - Cabezal de repuesto para Philips Norelco Bodygroom BG7040 BG7030 BG5025 BG2039 (2 unidades)",
+        "url": "https://www.amazon.com.mx/dp/B09JG9PDZ5",
+        "price": 614.89,
+        "model": "BG2000"
+      },
+      {
+        "store": "amazon",
+        "name": "Cabezal De Impresión BH-1 CH-1 Compatible Para Canon G1100 G2100 G3100 1 | Compatible Con Impresoras Para Canon G4100, G1110, G1111, G2110, G2111, G3110, G3111, G4110 Y G4111",
+        "url": "https://www.amazon.com.mx/dp/B0HF7QRFKK",
+        "price": 659.47,
+        "model": "G1100"
+      },
+      {
+        "store": "amazon",
+        "name": "LinMei Cabezal De Repuesto Bg2000 Compatible Con Bodygroom Series 7000 (Bg7030/Bg7040), 5000 (Bg5025) Y 3000 – Sistema De Afeitado Hipoalergénico Para Uso En Seco Y Húmedo.",
+        "url": "https://www.amazon.com.mx/dp/B0FCYDS8K6",
+        "price": 101.76,
+        "model": "Bg7030/Bg7040"
+      },
+      {
+        "store": "amazon",
+        "name": "Compatible con Tambor OPC Canon, G50 G51. | G50,G51,IR2522,IR2525, tambor opc",
+        "url": "https://www.amazon.com.mx/dp/B0HFXM6LJ7",
+        "price": 1021.39,
+        "model": "IR2522"
+      }
+    ]
+  },
+  "walmart|BG1051LA": {
+    "ts": "2026-08-24T18:26:21.957787+00:00",
+    "items": []
+  },
+  "sams|BG1051LA": {
+    "ts": "2026-08-24T18:26:23.501317+00:00",
+    "items": []
+  },
+  "amazon|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-24T18:26:28.709131+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Bicicleta de Balance para Niños, Coche de Equilibrio Infantil con Pedales y Ruedas Neumáticas Amortiguadoras 12 Pulgadas, Asiento Ajustable y Manillar Completo, Edades de 2 a 5 Años",
+        "url": "https://www.amazon.com.mx/dp/B0FR58M2JN",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta Infantil para Niñas, Rodada 16 con Ruedas de Entrenamiento, Canastilla Asiento de Muñeca y Accesorios, Frenos V-Brakes Rin de Acero, Asiento y Manubrio Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0F2BGMRVS",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bicicleta Infantil para Niñas, Rodada 12 con Ruedas de Entrenamiento, Canastilla Asiento de Muñeca y Accesorios, Frenos V-Brakes Rin de Acero, Asiento y Manubrio Ajustable",
+        "url": "https://www.amazon.com.mx/dp/B0F8F18XVQ",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Benotto Bicicleta Cross Giselle R20 1V Niña Ruedas 20 Pulgadas, Frenos Contrapedal, Acero Crema/Verde Claro",
+        "url": "https://www.amazon.com.mx/dp/B09F8Y33BF",
+        "price": 2955.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Heart Beat Rodada 12 Lila Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1V3WZQ4",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G232YZWN",
+        "price": 3119.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Mädel BMX Rodada 16 Turqueza Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1V5DGX3",
+        "price": 2719.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Racing Rodada 16 Naranja",
+        "url": "https://www.amazon.com.mx/dp/B0DX8C2D4T",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Princess Rodada 12 Rosa Intantil",
+        "url": "https://www.amazon.com.mx/dp/B0G26X46TM",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Orion Rodada 12 Azul Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0DWVFDV6W",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Speed Up BMX Rodada 16 Rojo Infantil",
+        "url": "https://www.amazon.com.mx/dp/B0G1VBCVV5",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VELOCI Bicicleta Raider Blue Rodada 12 Plata Infantil | Estructura de acero",
+        "url": "https://www.amazon.com.mx/dp/B0H9P3YFF7",
+        "price": 1839.0,
+        "model": null
+      }
+    ]
+  },
+  "walmart|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-24T18:26:33.355517+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bicicleta de Montaña Monk Messer Rodada 26",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-de-montana-monk-messer-rodada-26/00750227122227",
+        "price": 4599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Street Cross Dinos Eva Rodada 12 Naranja Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-street-cross-dinos-eva-rodada-12-naranja-infantil/00750305714095?athbdg=L1300",
+        "price": 1119.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Heart Beat Rodada 12 Violeta Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-heart-beat-rodada-12-violeta-infantil/00750305544771?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 1 Velocidad Starbike Monk Starbike BTM",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-1-velocidad-starbike-monk-starbike-btm/00750225267252",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Riot Rodada 20 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-riot-rodada-20-rojo-infantil/00750305544795?athbdg=L1300",
+        "price": 3119.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Madchen BMX Rodada 16 Rosa Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-madchen-bmx-rodada-16-rosa-infantil/00750305544782?athbdg=L1300",
+        "price": 2399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 18 Velocidades Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-18-velocidades-starbike-monk-starbike-mtb/00750225267267",
+        "price": 2899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Nautilus D/Susp Rodada 20 Gris Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-nautilus-d-susp-rodada-20-gris-infantil/00750306181607?athbdg=L1300",
+        "price": 2639.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Lithium Rodada 12 Naranja Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-lithium-rodada-12-naranja-infantil/00750305357666?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Montaña Rodada 26 1 Velocidad Starbike Monk Starbike MTB",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-montana-rodada-26-1-velocidad-starbike-monk-starbike-mtb/00750225267255",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta Veloci Lithium Rodada 12 Rojo Infantil",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-veloci-lithium-rodada-12-rojo-infantil/00750305544773?athbdg=L1300",
+        "price": 1999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bicicleta BENOTTO Montaña PMO R26 1V Hombre Frenos V Acero",
+        "url": "https://www.walmart.com.mx/ip/bicicleta-benotto-montana-pmo-r26-1v-hombre-frenos-v-acero/00750230679185",
+        "price": 2999.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|VELOCIBICICLETAINFANTILVELOCIRODADA": {
+    "ts": "2026-08-24T18:26:33.933951+00:00",
+    "items": []
+  },
+  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-24T18:26:45.694864+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "truefree B1 Audífonos de Oído Abierto Inalámbricos Bluetooth 5.4 Opean-Ear Graves dinámicos, 4 mics para Llamadas claras, conexión Dual, Ajuste Ligero y Seguro, Ideales para Deportes, Control de App",
+        "url": "https://www.amazon.com.mx/dp/B0DSNZDH28",
+        "price": 395.71,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SoundPEATS Runfree Lite2 Audífonos Bluetooth Inalámbricos de Conducción de Aire, Audífonos de Oído Abierto Altavoces de 16.2mm Bajos Potentes Llamadas Claras para Deportes con Aplicación",
+        "url": "https://www.amazon.com.mx/dp/B0CYGXLLRN",
+        "price": 730.52,
+        "model": "Lite2"
+      },
+      {
+        "store": "amazon",
+        "name": "Audifonos Inalambricos In Ear | Audífonos Bluetooth con Estuche de Carga Portátil | Auriculares Inalámbricos Calidad de Sonido HiFi - Earbuds Audífonos con Cancelación de Ruido",
+        "url": "https://www.amazon.com.mx/dp/B0D4ZG53WB",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "QCY Crossky C30 Audífonos de Oído Abierto, Bluetooth 5.4 Audífonos Inalámbricos Deportivos, Conexión Multipunto, Ajuste Seguro, Auriculares con Clip y 4 micrófono ENC para Entrenamientos/Correr",
+        "url": "https://www.amazon.com.mx/dp/B0DCHLDJC2",
+        "price": 506.72,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Naranja eléctrico",
+        "url": "https://www.amazon.com.mx/dp/B0DT29FZCP",
+        "price": 4572.84,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Negro Azabache",
+        "url": "https://www.amazon.com.mx/dp/B0FPH55VMK",
+        "price": 3199.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Negro Azabache",
+        "url": "https://www.amazon.com.mx/dp/B0DT2LXYPQ",
+        "price": 3971.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 Horas de Compatibilidad con Apple y Android Micrófono Integrado, Gris tormenta",
+        "url": "https://www.amazon.com.mx/dp/B0D3JCYKG4",
+        "price": 1356.31,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Solo Buds - Audífonos inalámbricos Bluetooth 12 Horas de Compatibilidad con Apple y Android Micrófono Integrado, Negro Mate",
+        "url": "https://www.amazon.com.mx/dp/B0D3JBQSCN",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Gris Grava",
+        "url": "https://www.amazon.com.mx/dp/B0FPGQGW2K",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro - Auriculares Bluetooth Inalámbricos, Azul Marino (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B084B1HC6T",
+        "price": 3105.78,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
+        "url": "https://www.amazon.com.mx/dp/B0DT21Q6M9",
+        "price": 4572.84,
+        "model": null
+      }
+    ]
+  },
+  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-24T18:26:50.324405+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Auriculares Inalámbricos Bluetooth - Cancelación de Ruido, Monitor de Ritmo Cardíaco, IPX4, Batería de Hasta 45H y Estuche de Carga, Funciona con Apple y Android - Negro Azabach",
+        "url": "https://www.walmart.com.mx/ip/Beats-Powerbeats-Pro-2-Auriculares-Inalambricos-Bluetooth-Cancelacion-de-Ruido-Monitor-de-Ritmo-Cardiaco-IPX4-Bateria-de-Hasta-45H-y-Estuche-de-Carga-Funciona-con-Apple-y-Android-Negro-Azabach/00019594959084?athbdg=L1300",
+        "price": 6017.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats - Powerbeats Fit - Auriculares inalámbricos para entrenamiento con cancelación de ruido con el",
+        "url": "https://www.walmart.com.mx/ip/Beats-Powerbeats-Fit-Auriculares-inalambricos-para-entrenamiento-con-cancelacion-de-ruido-con-el/00046491334436?athbdg=L1300",
+        "price": 5039.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
+        "url": "https://www.walmart.com.mx/ip/Beats-Powerbeats-Pro-2-Bluetooth-Audifonos-inalambricos-cancelacion-de-Ruido-IPX4-hasta-45-Horas-de-bateria-con-el-Estuche-de-Carga-compatibles-con-Apple-y-Android-Arena-movediza/00019594959090?athbdg=L1300",
+        "price": 6896.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Beats Powerbeats Pro 2 Auriculares Inalámbricos Bluetooth - Cancelación de Ruido, Monitor de Ritmo Cardíaco, IPX4, Batería de Hasta 45H y Estuche de Carga, Funciona con Apple y Android - Naranja Eléct",
+        "url": "https://www.walmart.com.mx/ip/Beats-Powerbeats-Pro-2-Auriculares-Inalambricos-Bluetooth-Cancelacion-de-Ruido-Monitor-de-Ritmo-Cardiaco-IPX4-Bateria-de-Hasta-45H-y-Estuche-de-Carga-Funciona-con-Apple-y-Android-Naranja-Elect/00019594959100",
+        "price": 5219.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
+    "ts": "2026-08-24T18:26:51.139636+00:00",
     "items": []
   }
 }
