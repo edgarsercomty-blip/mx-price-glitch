@@ -3828,330 +3828,8 @@
     "ts": "2026-08-24T08:37:50.358157+00:00",
     "items": []
   },
-  "amazon|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-22T14:40:20.178121+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13 Mini, 128GB, Blanco Estrella (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LKW2R37",
-        "price": 5250.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 128GB Rosa Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLMVN3JH",
-        "price": 8013.41,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Blanco Estelar Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0BNLTV9K3",
-        "price": 5727.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 13, 128GB, Medianoche (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09LNW3CY2",
-        "price": 5169.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Rojo Desbloqueado (Reacondicionado) Esim | Aluminio",
-        "url": "https://www.amazon.com.mx/dp/B0BNLRMG3J",
-        "price": 5898.03,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GB Blanco Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4XRSWTJ",
-        "price": 7569.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 Plus 128GB Azul Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CLNG21Z8",
-        "price": 8966.81,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 14 128GB Amarillo Desbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0CG7ZDWGK",
-        "price": 6389.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12 Pro, 128GB, Grafito (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PCDP3LM",
-        "price": 5099.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple Iphone 16e 128GB Negro Desbloqueado (Reacondicionado Premium) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0GZLKVF6W",
-        "price": 8181.4,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Verde (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNZDM7L",
-        "price": 4987.36,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 12, 128GB, Negro (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08PNCYYVZ",
-        "price": 4837.36,
-        "model": "128GB"
-      }
-    ]
-  },
-  "walmart|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-22T14:40:38.318385+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "iPhone 14 Apple 128 GB Medianoche Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-14-apple-128-gb-medianoche-telcel/00750622734822?athbdg=L1600",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16 Apple 128 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16-apple-128-gb-negro-telcel/00750622735694?athbdg=L6000",
-        "price": 17499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 16e Apple 128GB Blanco Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-16e-apple-128gb-blanco-telcel/00750622735939?athbdg=L1300",
-        "price": 12799.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "iPhone 15 Apple 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/iphone-15-apple-128gb-negro-telcel/00750622735238?athbdg=L6000",
-        "price": 14999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "APPLE IPHONE 16 128GB - TEAL",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00454999553908?athbdg=L1600",
-        "price": 15499.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "APPLE IPHONE 16 128GB TEAL",
-        "url": "https://www.walmart.com.mx/ip/apple-iphone-16-128gb-teal/00019595019412?athbdg=L1300",
-        "price": 15929.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|APPLEESTRELLAIPHONETELCEL128": {
-    "ts": "2026-08-22T14:40:39.474679+00:00",
-    "items": []
-  },
-  "amazon|VIVOCELULARTELCELY19S256": {
-    "ts": "2026-08-22T14:40:41.382964+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
-        "price": 19999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "artfone 4G Teléfono Móvil para Personas Mayores con Botón Grande, Teléfono Basico para Ancianos 4g/LTE, con Función SOS, Volumen Alto, 1800 mAh con Base de Carga, Un Solo SIM, Linterna (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B08S7PDN5P",
-        "price": 854.05,
-        "model": "4g/LTE"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 15 (128 GB) - Negro",
-        "url": "https://www.amazon.com.mx/dp/B0CHX41WDS",
-        "price": 14999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "artfone Teléfono Móvil 4G para Adultos Mayores y Usuarios Senior, con Botones Grandes, Función SOS, Volumen Alto, Cámara, Batería 1800mAh, Base de Carga, Dual SIM y Linterna (Plateado)",
-        "url": "https://www.amazon.com.mx/dp/B0DD1GWSN9",
-        "price": 850.01,
-        "model": "1800mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "VIVO Y04 256GB + 4GB RAM | Batería 5500mAh | Pantalla 6.74\" 90Hz | Cámara 13MP | IP64 Resistente | Android 14 (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B08X1HLX69",
-        "price": 2999.0,
-        "model": "5500mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Celular Realme C85 | 8 GB RAM + 256 GB | Dual SIM | Snapdragon 685 | Batería 7000mAh | Carga Rápida 45W | Pantalla 6.8\" 144Hz | Cámara 50 MP | IP69 | Negro",
-        "url": "https://www.amazon.com.mx/dp/B0H1JVPRZ1",
-        "price": 3990.0,
-        "model": "7000mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Smartphone m5a Dual Sim 256gb 8gb Ram Negro Cámara Triple 50mp Batería 5000mah (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0GY4HJGHG",
-        "price": 2399.97,
-        "model": "5000mah"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 16e 128GBNegroDesbloqueado (Reacondicionado) Esim",
-        "url": "https://www.amazon.com.mx/dp/B0F4RM7Y2L",
-        "price": 7299.0,
-        "model": "128GBNegroDesbloqueado"
-      },
-      {
-        "store": "amazon",
-        "name": "Y15 Celular para Adulto Mayor 4G Liberado, Smartphone Android 14 5.5”, 3GB RAM 32GB, Botón SOS, Teclas Físicas, Volumen Alto, Videollamadas, Cámara 13MP+5MP, Telcel Movistar AT&T Bait Altan CFE",
-        "url": "https://www.amazon.com.mx/dp/B0H2J36DV8",
-        "price": 1659.0,
-        "model": "13MP+5MP"
-      },
-      {
-        "store": "amazon",
-        "name": "40SE Celular Smartphone 4G Liberado, 12GB RAM, 256GB ROM, Pantalla 6.75\" 90Hz NXTVISION, Cámara 50MP, Altavoces Estéreo, Batería 5010mAh, Android 13, WiFi, GPS (Gris Mate)",
-        "url": "https://www.amazon.com.mx/dp/B0H2GW2T6C",
-        "price": 2599.97,
-        "model": "5010mAh"
-      },
-      {
-        "store": "amazon",
-        "name": "Smartphone m5a Dual Sim 256gb 8gb Ram Negro Cámara Triple 50mp Batería 5000mah (Azul)",
-        "url": "https://www.amazon.com.mx/dp/B0GY4D41NY",
-        "price": 2399.97,
-        "model": "5000mah"
-      },
-      {
-        "store": "amazon",
-        "name": "Tecno Celular Spark 30 Pro Dual SIM 256GB ROM 8GB RAM 6.78\" Mediatek Helio G100 AMOLED 120Hz Pantalla Cámara 108MP IP54 Batería 5000mAh Carga de 33W Altavoces Bimétricos Versión Global",
-        "url": "https://www.amazon.com.mx/dp/B0DL5D99RH",
-        "price": 3579.0,
-        "model": "5000mAh"
-      }
-    ]
-  },
-  "walmart|VIVOCELULARTELCELY19S256": {
-    "ts": "2026-08-22T14:40:50.935283+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular vivo  smartphone Y19s  Dual SIM – 256GB ROM, 16GB RAM (8+8 Extendida), Pantalla 90Hz, Batería 5500mAh – Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-vivo-smartphone-y19s-dual-sim-256gb-rom-16gb-ram-8-8-extendida-pantalla-90hz-bateria-5500mah-desbloqueado/00750305813404",
-        "price": 4749.0,
-        "model": "5500mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular vivo smartphone Y04 Dual SIM – 256GB ROM, Pantalla 6.74\" 90Hz, Batería 5150mAh – Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-vivo-smartphone-y04-dual-sim-256gb-rom-pantalla-6-74-90hz-bateria-5150mah-desbloqueado/00750305813406?athbdg=L1300",
-        "price": 2149.0,
-        "model": "5150mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
-        "price": 13999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular vivo Smartphone Y21D Smartphone 16GB RAM (8+8 Extendida) 256GB ROM Pantalla HD+ Batería Larga Duración Celular Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-vivo-smartphone-y21d-smartphone-16gb-ram-8-8-extendida-256gb-rom-pantalla-hd-bateria-larga-duracion-celular-desbloqueado/00693220451130?athbdg=L1300",
-        "price": 2849.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular smartphone vivo T5 4g Negro | Origin 6 | 7200 Mah Flashcharge | 8gb + 256 Gb",
-        "url": "https://www.walmart.com.mx/ip/celular-smartphone-vivo-t5-4g-negro-origin-6-7200-mah-flashcharge-8gb-256-gb/00693220453196?athbdg=L1300",
-        "price": 4849.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular smartphone vivo V60 Lite 4g Azul 8gb+256gb Nuevo Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-smartphone-vivo-v60-lite-4g-azul-8gb-256gb-nuevo-desbloqueado/00693220452460?athbdg=L1300",
-        "price": 6049.0,
-        "model": "8gb+256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular smartphone Vivo T5 Pro 5g  Negro | 8 + 256gb | 6500 Mah | Cámara 50mp",
-        "url": "https://www.walmart.com.mx/ip/celular-smartphone-vivo-t5-pro-5g-negro-8-256gb-6500-mah-camara-50mp/00693220453135?athbdg=L1300",
-        "price": 6349.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular vivo Smartphone X300 12gb 256gb Dual Sim 5g Negro Versión Global - Cámara Zeiss 200mp, Flashcharge 90w, Ip68",
-        "url": "https://www.walmart.com.mx/ip/celular-vivo-smartphone-x300-12gb-256gb-dual-sim-5g-negro-version-global-camara-zeiss-200mp-flashcharge-90w-ip68/00693220451296?athbdg=L1300",
-        "price": 16999.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone VIVO Y04 Nacional 256GB Memoria 4GB Negro Jade",
-        "url": "https://www.walmart.com.mx/ip/smartphone-vivo-y04-nacional-256gb-memoria-4gb-negro-jade/00693220450172?athbdg=L1300",
-        "price": 2049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular smartphone vivo Y04 Lavanda 128GB 4GB RAM Desbloqueado | Nuevo | Tienda Oficial vivo México",
-        "url": "https://www.walmart.com.mx/ip/celular-smartphone-vivo-y04-lavanda-128gb-4gb-ram-desbloqueado-nuevo-tienda-oficial-vivo-mexico/00693220453141?athbdg=L1300",
-        "price": 1849.0,
-        "model": "128GB"
-      }
-    ]
-  },
-  "sams|VIVOCELULARTELCELY19S256": {
-    "ts": "2026-08-22T14:40:53.091295+00:00",
-    "items": []
-  },
   "amazon|RENO13": {
-    "ts": "2026-08-22T14:40:55.533895+00:00",
+    "ts": "2026-08-24T15:20:19.936971+00:00",
     "items": [
       {
         "store": "amazon",
@@ -4162,38 +3840,31 @@
       },
       {
         "store": "amazon",
-        "name": "Apple iPhone 13 Pro (1 TB) - Azul Sierra",
-        "url": "https://www.amazon.com.mx/dp/B09G95TGCS",
-        "price": 17902.69,
+        "name": "Funda Protectora Militar Resistente para OPPO Reno 13 5G, Protección contra Caídas Uso Rudo Panel PC con Bisel TPU, Soporte de Anillo, Airbags en Esquinas, Transparente",
+        "url": "https://www.amazon.com.mx/dp/B0FJNNX9F2",
+        "price": 214.2,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro 12+256GB, Naranja con FreeBuds Pro 5 Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0HB14C2JD",
-        "price": 15999.0,
-        "model": "12+256GB"
+        "name": "Kepuch Silklike Funda para OPPO Reno 13 5G China - Case Carcasa Placa de Metal Incorporada - Verde",
+        "url": "https://www.amazon.com.mx/dp/B0F2H2T2TY",
+        "price": 119.96,
+        "model": null
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Pura 90s Pro Max 12+512GB, Naranja con FreeBuds Pro 5 Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0H9ZYLBNT",
-        "price": 22999.0,
-        "model": "12+512GB"
+        "name": "OPPO A6k Morado, 256GB+4GB RAM, Pantalla LCD 6.75” 120Hz, Cámara 50MP, Batería 6100mAh, Resistencia IP64 contra Agua y Polvo",
+        "url": "https://www.amazon.com.mx/dp/B0GTNCYW2W",
+        "price": 6499.0,
+        "model": "256GB+4GB"
       },
       {
         "store": "amazon",
         "name": "OPPO Reno14F 5G Verde Luminoso 256GB + 12GB, Pantalla 6.5 AMOLED 120Hz, Cámara 50MP + 8MP + 32MP, Flash IA, Livephoto & Editor AI 2.0, Snapdragon 6, Carga Rápida 45W + Buds 3 De Regalo",
         "url": "https://www.amazon.com.mx/dp/B0FZN7G726",
-        "price": 8599.0,
+        "price": 7999.0,
         "model": "Reno14F"
-      },
-      {
-        "store": "amazon",
-        "name": "OPPO Reno14 5G Blanco Ópalo 512GB + 12GB, Pantalla 6.5 AMOLED 1.5K 120Hz, Cámara 50MP + 8MP + 50MP, Flash IA, Livephoto & Editor IA 2.0, Dimensity 8350, Carga Rápida 80W + 1 Accesorio De Regalo",
-        "url": "https://www.amazon.com.mx/dp/B0FNGJ3KRT",
-        "price": 11999.0,
-        "model": "Reno14"
       },
       {
         "store": "amazon",
@@ -4211,13 +3882,6 @@
       },
       {
         "store": "amazon",
-        "name": "JS Funda para OPPO Reno 13 F 4G/5G Case Uso Rudo Protector cámara Soporte Grado Militar Antigolpes rígido Acrílico Carcasa Cover",
-        "url": "https://www.amazon.com.mx/dp/B0FBG29MNB",
-        "price": 133.0,
-        "model": "4G/5G"
-      },
-      {
-        "store": "amazon",
         "name": "Funda para OPPO Reno 13 5G Uso Rudo Case Acrílico Anti-Amarillo Carcasa Bumper Antiarañazos Respaldo Antigolpes Cover Transparente XC",
         "url": "https://www.amazon.com.mx/dp/B0F5MMNP3L",
         "price": 112.64,
@@ -4225,10 +3889,24 @@
       },
       {
         "store": "amazon",
+        "name": "JS Funda para OPPO Reno 13 F 4G/5G Case Uso Rudo Protector cámara Soporte Grado Militar Antigolpes rígido Acrílico Carcasa Cover",
+        "url": "https://www.amazon.com.mx/dp/B0FBG29MNB",
+        "price": 133.0,
+        "model": "4G/5G"
+      },
+      {
+        "store": "amazon",
         "name": "Funda Protectora Militar Resistente para OPPO Reno 13 5G, Protección contra Caídas Uso Rudo Panel PC con Bisel TPU, Soporte de Anillo, Airbags en Esquinas, Negro",
         "url": "https://www.amazon.com.mx/dp/B0FJNM7342",
         "price": 214.2,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO Reno14 5G Blanco Ópalo 512GB + 12GB, Pantalla 6.5 AMOLED 1.5K 120Hz, Cámara 50MP + 8MP + 50MP, Flash IA, Livephoto & Editor IA 2.0, Dimensity 8350, Carga Rápida 80W + 1 Accesorio De Regalo",
+        "url": "https://www.amazon.com.mx/dp/B0FNGJ3KRT",
+        "price": 11999.0,
+        "model": "Reno14"
       },
       {
         "store": "amazon",
@@ -4240,20 +3918,13 @@
     ]
   },
   "walmart|RENO13": {
-    "ts": "2026-08-22T14:40:58.427857+00:00",
+    "ts": "2026-08-24T15:20:39.496045+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "For Oppo Reno13 5G (Global) Case Wallet Leather Stand Protective Phone Cover - Black",
         "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-case-wallet-leather-stand-protective-phone-cover-black/00498359197172",
         "price": 541.0,
-        "model": "Reno13"
-      },
-      {
-        "store": "walmart",
-        "name": "For Oppo Reno13 F 4G Screen Protector 0.3mm Ultra Clear Tempered Glass Film",
-        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-f-4g-screen-protector-0-3mm-ultra-clear-tempered-glass-film/00834333049422",
-        "price": 507.0,
         "model": "Reno13"
       },
       {
@@ -4265,9 +3936,9 @@
       },
       {
         "store": "walmart",
-        "name": "For Oppo Reno13 5G (Global) Leather Case Wallet Stand Solid Color Anti Drop Phone Cover - Green",
-        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-leather-case-wallet-stand-solid-color-anti-drop-phone-cover-green/00311405929063",
-        "price": 519.0,
+        "name": "For Oppo Reno13 F 4G Screen Protector 0.3mm Ultra Clear Tempered Glass Film",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-f-4g-screen-protector-0-3mm-ultra-clear-tempered-glass-film/00834333049422",
+        "price": 507.0,
         "model": "Reno13"
       },
       {
@@ -4293,9 +3964,16 @@
       },
       {
         "store": "walmart",
-        "name": "For Oppo Reno13 5G (Global) Wallet Case with Wrist Strap Cat Pattern Imprint Leather Phone Cover - G",
-        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-with-wrist-strap-cat-pattern-imprint-leather-phone-cover-g/00311405929446",
-        "price": 519.0,
+        "name": "For Oppo Reno13 5G (Global) Wallet Case with Shoulder Strap Leather Phone Cover - Black",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-with-shoulder-strap-leather-phone-cover-black/00416355399751",
+        "price": 700.0,
+        "model": "Reno13"
+      },
+      {
+        "store": "walmart",
+        "name": "For Oppo Reno13 5G (Global) Wallet Case Rhombus Imprinted Leather Phone Cover - Black",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-rhombus-imprinted-leather-phone-cover-black/00571373495022",
+        "price": 525.0,
         "model": "Reno13"
       },
       {
@@ -4321,233 +3999,15 @@
       },
       {
         "store": "walmart",
-        "name": "For Oppo Reno13 5G (Global) Wallet Case Rhombus Imprinted Leather Phone Cover - Black",
-        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-rhombus-imprinted-leather-phone-cover-black/00571373495022",
-        "price": 525.0,
+        "name": "For Oppo Reno13 5G (Global) Wallet Case with Wrist Strap Cat Pattern Imprint Leather Phone Cover - G",
+        "url": "https://www.walmart.com.mx/ip/for-oppo-reno13-5g-global-wallet-case-with-wrist-strap-cat-pattern-imprint-leather-phone-cover-g/00311405929446",
+        "price": 519.0,
         "model": "Reno13"
       }
     ]
   },
   "sams|RENO13": {
-    "ts": "2026-08-22T14:41:10.098228+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartphone Oppo Reno 12 Pro 512GB Plata Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-oppo-reno-12-pro-512gb-plata-desbloqueado/981029685",
-        "price": 13297.95,
-        "model": "512GB"
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Midnight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
-        "price": 10227.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "iPhone 13 Apple  128 GB Starlight Telcel",
-        "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
-        "price": 10227.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Carcasa para MacBook Air 13\" Tucano  Nido Transparente",
-        "url": "https://www.sams.com.mx/ip/carcasa-para-macbook-air-13-tucano-nido-transparente/981050013",
-        "price": 781.72,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Carcasa para Mackbook Air 13\" Tucano  Nido Negra",
-        "url": "https://www.sams.com.mx/ip/carcasa-para-mackbook-air-13-tucano-nido-negra/981050012",
-        "price": 781.72,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Batería de Cocina Tramontina  13 pzas",
-        "url": "https://www.sams.com.mx/ip/bateria-de-cocina-tramontina-13-pzas/981033363",
-        "price": 1533.48,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Caldo de Pollo Knorr Professional  13 kg",
-        "url": "https://www.sams.com.mx/ip/caldo-de-pollo-knorr-professional-13-kg/000184945",
-        "price": 1565.19,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Contenedor para Alimentos Rubbermaid  13 L FG330900CLR",
-        "url": "https://www.sams.com.mx/ip/contenedor-para-alimentos-rubbermaid-13-l-fg330900clr/981036504",
-        "price": 940.13,
-        "model": "FG330900CLR"
-      },
-      {
-        "store": "sams",
-        "name": "Pilas Auditivas Rayovac  Tipo 13 con 48 pzas",
-        "url": "https://www.sams.com.mx/ip/pilas-auditivas-rayovac-tipo-13-con-48-pzas/980021484",
-        "price": 316.09,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Jeans para Dama Member's Mark  Talla 13 Negro",
-        "url": "https://www.sams.com.mx/ip/jeans-para-dama-member-s-mark-talla-13-negro/981016138",
-        "price": 285.39,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Capri para Dama Eddie Bauer  Seagrass Talla 13",
-        "url": "https://www.sams.com.mx/ip/capri-para-dama-eddie-bauer-seagrass-talla-13/981045588",
-        "price": 607.64,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Maletín para Laptop Tucano  Dritta de 13\" y 14\" Azul",
-        "url": "https://www.sams.com.mx/ip/maletin-para-laptop-tucano-dritta-de-13-y-14-azul/981050008",
-        "price": 781.72,
-        "model": null
-      }
-    ]
-  },
-  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-22T14:41:52.523511+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Gris Grava",
-        "url": "https://www.amazon.com.mx/dp/B0FPGQGW2K",
-        "price": 3399.14,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para entrenamiento con cancelación de ruido, IPX4, hasta 30 horas de batería con el estuche de carga, compatibles con Apple y Android - Naranja destello",
-        "url": "https://www.amazon.com.mx/dp/B0FPGQ1K9D",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats - Powerbeats Fit - Audífonos inalámbricos para Entrenamiento con cancelación de Ruido, IPX4, hasta 30 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Rosa Intenso",
-        "url": "https://www.amazon.com.mx/dp/B0FPGQMMGN",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos AirPods 4 de Apple con Bluetooth,Audio Espacial Personalizado,Resistentes al Polvo,al Agua y al Sudor,Chip H2,hasta 30 Horas de batería,fácil configuración para el iPhone",
-        "url": "https://www.amazon.com.mx/dp/B0DGJ7MDGW",
-        "price": 2249.25,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Apple EarPods Headphones with 3.5mm Plug",
-        "url": "https://www.amazon.com.mx/dp/B0D9ML2N4G",
-        "price": 549.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
-        "url": "https://www.amazon.com.mx/dp/B0DT21Q6M9",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Naranja eléctrico",
-        "url": "https://www.amazon.com.mx/dp/B0DT29FZCP",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "EarPods with Lightning Connector",
-        "url": "https://www.amazon.com.mx/dp/B0D7FVQ1ZB",
-        "price": 549.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Audífonos inalámbricos AirPods Pro 3 de Apple, Cancelación Activa de Ruido, Traducción en Vivo, Detección de la frecuencia Cardiaca, audífonos Bluetooth, Audio Espacial, Sonido de Alta fidelidad",
-        "url": "https://www.amazon.com.mx/dp/B0FQGG9VLN",
-        "price": 4899.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Morado dinámico",
-        "url": "https://www.amazon.com.mx/dp/B0DT1ZV981",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Beats Powerbeats Pro - Auriculares Bluetooth Inalámbricos, Azul Marino (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B084B1HC6T",
-        "price": 3105.78,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sony IER-EX15C | Auriculares in Ear con Cable USB-C, Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FMLMMZQT",
-        "price": 298.27,
-        "model": "IER-EX15C"
-      }
-    ]
-  },
-  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-22T14:42:44.185468+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Apple iPad Pro de 11 pulgadas (M4): diseñado para Apple Intelligence, pantalla Ultra Retina XDR, 256 GB, cámara frontal/trasera de 12 MP, escáner LiDAR, Wi-Fi 6E + celular 5G, duración de batería para",
-        "url": "https://www.walmart.com.mx/ip/apple-ipad-pro-de-11-pulgadas-m4-disenado-para-apple-intelligence-pantalla-ultra-retina-xdr-256-gb-camara-frontal-trasera-de-12-mp-escaner-lidar-wi-fi-6e-celular-5g-duracion-de-bateria-para/00019594922896",
-        "price": 20999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Beats Powerbeats Pro 2 Bluetooth Audífonos inalámbricos- cancelación de Ruido, IPX4, hasta 45 Horas de batería con el Estuche de Carga, compatibles con Apple y Android - Arena movediza",
-        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-pro-2-bluetooth-audifonos-inalambricos-cancelacion-de-ruido-ipx4-hasta-45-horas-de-bateria-con-el-estuche-de-carga-compatibles-con-apple-y-android-arena-movediza/00019594959090?athbdg=L1300",
-        "price": 6896.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Audifonos inalambricos Beats Powerbeats Pro - Negro Beats Power",
-        "url": "https://www.walmart.com.mx/ip/audifonos-inalambricos-beats-powerbeats-pro-negro-beats-power/00063790215450?athbdg=L1300",
-        "price": 3359.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Apple Watch Serie 7 GPS Caja De Acero Inoxidable Grafito 41 mm Correa Milanesa Grafito MKHK3LL/A",
-        "url": "https://www.walmart.com.mx/ip/apple-watch-serie-7-gps-caja-de-acero-inoxidable-grafito-41-mm-correa-milanesa-grafito-mkhk3ll-a/00019425256662",
-        "price": 16429.71,
-        "model": "MKHK3LL/A"
-      },
-      {
-        "store": "walmart",
-        "name": "Beats - Powerbeats Fit - Auriculares inalámbricos para entrenamiento con cancelación de ruido con el",
-        "url": "https://www.walmart.com.mx/ip/beats-powerbeats-fit-auriculares-inalambricos-para-entrenamiento-con-cancelacion-de-ruido-con-el/00046491334436?athbdg=L1300",
-        "price": 5039.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-08-22T14:42:45.120870+00:00",
+    "ts": "2026-08-24T15:20:40.326419+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
@@ -6444,176 +5904,36 @@
       }
     ]
   },
-  "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-22T14:41:16.462997+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cecotec Cafetera de Goteo Coffee 56 Time 1000W Acero Inoxidable Pantalla LCD 1,3L",
-        "url": "https://www.amazon.com.mx/dp/B0GV1PTTW7",
-        "price": 1049.0,
-        "model": "1000W"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
-        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
-        "price": 745.69,
-        "model": "BVSTDCP121M"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster ESPRESSO MAKER PB SLIM OS | Prepara espresso, cappuccino y latte, sistema de preinfusión e incluye accesorios profesionales, BVSTEM7200",
-        "url": "https://www.amazon.com.mx/dp/B0BY3N2M7S",
-        "price": 3269.0,
-        "model": "BVSTEM7200"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-22T14:41:48.344829+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2075.68,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de goteo de acero inoxidable, cafetera de goteo manual, tetera, cafetera Oro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-de-acero-inoxidable-cafetera-de-goteo-manual-tetera-cafetera-oro/00078671130106?athbdg=L1300",
-        "price": 789.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTOUCH": {
-    "ts": "2026-08-22T14:41:48.876909+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-08-22T14:56:28.929586+00:00",
+    "ts": "2026-08-24T15:20:46.263280+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Smartphone Samsung Galaxy A26 6GB 128GB Negro Desbloqueado",
-        "url": "https://www.amazon.com.mx/dp/B0DZHPR6CS",
-        "price": 4286.0,
-        "model": "128GB"
+        "name": "Samsung Galaxy S25 FE - Teléfono Celular (2025), Smartphone AI de 256 GB, Android Desbloqueado, visualización Grande, batería de 4900 mAh, cámara de Alta resolución, edición de Fotos AI, Duradero",
+        "url": "https://www.amazon.com.mx/dp/B0FG1X2XHF",
+        "price": 10749.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Apple iPhone 13 Pro (1 TB) - Azul Sierra",
+        "url": "https://www.amazon.com.mx/dp/B09G95TGCS",
+        "price": 17902.69,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "OPPO A6x Gris Desbloqueado, 128GB+4GB, Pantalla 6.75\" 120 Hz, Batería de Larga Duración (6100 mAh)",
+        "url": "https://www.amazon.com.mx/dp/B0G61PJWGX",
+        "price": 3699.0,
+        "model": "128GB+4GB"
+      },
+      {
+        "store": "amazon",
+        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
+        "price": 19999.0,
+        "model": "256GB"
       },
       {
         "store": "amazon",
@@ -6621,6 +5941,13 @@
         "url": "https://www.amazon.com.mx/dp/B08L34JQ9C",
         "price": 3397.42,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smartphone Samsung Galaxy A26 6GB 128GB Negro Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DZHPR6CS",
+        "price": 4286.0,
+        "model": "128GB"
       },
       {
         "store": "amazon",
@@ -6640,7 +5967,7 @@
         "store": "amazon",
         "name": "Samsung Galaxy S23 128GB Lavanda Desbloqueado (Reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B0C5SBB117",
-        "price": 5427.31,
+        "price": 5475.0,
         "model": "128GB"
       },
       {
@@ -6652,10 +5979,10 @@
       },
       {
         "store": "amazon",
-        "name": "Samsung Galaxy S20 FE, 128 GB, Cloud Mint - Totalmente desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B08L34NZDM",
-        "price": 3387.0,
-        "model": null
+        "name": "Samsung Galaxy-A17 Gray 128GB",
+        "url": "https://www.amazon.com.mx/dp/B0FLM3PHDN",
+        "price": 2888.0,
+        "model": "Galaxy-A17"
       },
       {
         "store": "amazon",
@@ -6663,67 +5990,18 @@
         "url": "https://www.amazon.com.mx/dp/B0FT79VQQK",
         "price": 2119.0,
         "model": "4+128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy S22 Plus 8 Ram 128GB Fantasma Negro Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0B3P43FSM",
-        "price": 4547.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy S21 FE 128GB Grafito Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09SHJGLNN",
-        "price": 3587.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy S22 Ultra 8 Ram 128GB Vino Burgundy Desbloqueado (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0B6WNSGDK",
-        "price": 6999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Galaxy A17 4G, 128GB, 4GB RAM, Pantalla Super AMOLED 6.7\", Triple Cámara 50MP, Batería 5000mAh, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FRNCLG2X",
-        "price": 2990.0,
-        "model": "5000mAh"
       }
     ]
   },
   "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-08-22T14:56:54.488719+00:00",
+    "ts": "2026-08-24T15:20:55.100272+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 8GB RAM 128GB ROM Violeta Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-8gb-ram-128gb-rom-violeta-cobalto-desbloqueado/00880609533793",
-        "price": 13999.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 12GB RAM 256GB ROM Negro Onix Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-12gb-ram-256gb-rom-negro-onix-desbloqueado/00880609533830",
+        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
         "price": 15499.0,
         "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
-        "price": 11499.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
-        "price": 4599.0,
-        "model": "128GB"
       },
       {
         "store": "walmart",
@@ -6741,50 +6019,71 @@
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 4G Ligth Blue 128GB , 6GB RAM Dual SIM Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-ligth-blue-128gb-6gb-ram-dual-sim-desbloqueado/00880609766803",
-        "price": 3599.0,
+        "name": "Smartphone Samsung Galaxy A26 5G Negro desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a26-5g-negro-desbloqueado-128gb/00880609709043",
+        "price": 4599.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy S24+ 256GB Gris Marmol Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-256gb-gris-marmol-desbloqueado/00880609533836",
-        "price": 15499.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A17 LTE 4+128GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-lte-4-128gb-gris-desbloqueado/00750665820968?athbdg=L1300",
-        "price": 3399.0,
-        "model": "4+128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A36 6GB RAM 128GB ROM Lavanda Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a36-6gb-ram-128gb-rom-lavanda-desbloqueado/00880609708869?athbdg=L1300",
-        "price": 4819.0,
+        "name": "Smartphone Samsung Galaxy A17 4G Dual SIM Desbloqueado 128GB , 4GB RAM Gris",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a17-4g-dual-sim-desbloqueado-128gb-4gb-ram-gris/00880609765123?athbdg=L6000",
+        "price": 3499.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Smartphone Samsung Galaxy A16 4GB RAM 128GB ROM Negro Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4gb-ram-128gb-rom-negro-desbloqueado/00880609582072",
-        "price": 3069.0,
+        "name": "Smartphone Samsung Galaxy A07 128GB Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-negro-desbloqueado/00880609764998?athbdg=L1300",
+        "price": 2316.0,
         "model": "128GB"
       },
       {
         "store": "walmart",
-        "name": "Samsung Galaxy S26 Ultra Azul Cielo 1TB 16GB Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-s26-ultra-azul-cielo-1tb-16gb-desbloqueado/00880609786683",
-        "price": 22999.0,
-        "model": null
+        "name": "Smartphone Samsung Galaxy S26 Ultra Negro 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-negro-512gb-desbloqueado/00880609786828",
+        "price": 26299.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Teléfono Inteligente Samsung Galaxy G998U S21 Ultra 5G 128GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/telefono-inteligente-samsung-galaxy-g998u-s21-ultra-5g-128gb-desbloqueado/00073925239234?athbdg=L1500",
+        "price": 7749.0,
+        "model": "G998U"
+      },
+      {
+        "store": "walmart",
+        "name": "Samsung Galaxy A36 5G Serie a 128GB Teléfono Celular Android Desbloqueado con Cámara de 50MP, Impresionante Negro",
+        "url": "https://www.walmart.com.mx/ip/samsung-galaxy-a36-5g-serie-a-128gb-telefono-celular-android-desbloqueado-con-camara-de-50mp-impresionante-negro/00880609704867?athbdg=L1300",
+        "price": 6292.82,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S24 FE 5G Azul Desbloqueado 128GB",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s24-fe-5g-azul-desbloqueado-128gb/00880609574579",
+        "price": 11499.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy A07 128GB Violeta Claro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a07-128gb-violeta-claro-desbloqueado/00880609765000",
+        "price": 2372.0,
+        "model": "128GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Samsung Galaxy S26 Ultra Azul Claro 512GB Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s26-ultra-azul-claro-512gb-desbloqueado/00880609786709",
+        "price": 26299.0,
+        "model": "512GB"
       }
     ]
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-08-22T14:56:55.714921+00:00",
+    "ts": "2026-08-24T15:20:56.074673+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERAPANELACEROGOTEO": {
