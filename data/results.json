@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 00:42 UTC",
-  "products_scanned": 1671,
+  "generated_at": "2026-08-24 02:18 UTC",
+  "products_scanned": 1682,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 47.9,
+      "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.9,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Watch S3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841",
+      "price": 1364.35,
+      "list_price": 2619.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1165916841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -153,23 +174,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 29.0,
-      "detail": "$23,429 en palacio vs mercado -> -29% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$250 en liverpool vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
-      "savings": 9569.71,
-      "store": "palacio",
-      "name": "Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html",
-      "price": 23429.29,
-      "list_price": 32999.0,
+      "savings": 99.8,
+      "store": "liverpool",
+      "name": "Plato Ensalada Zahra Ramadan De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431",
+      "price": 249.5,
+      "list_price": 499.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "POTTERY BARN",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44444419",
-        "outlet": false
+        "productId": "1167857431",
+        "marketplace": null
       }
     },
     {
@@ -636,27 +657,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,999 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1999.8,
-      "store": "liverpool",
-      "name": "Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas Telcel",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938",
-      "price": 7999.2,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1191864938",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 5.0,
       "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -694,27 +694,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43135869",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$13,684 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3421.08,
-      "store": "palacio",
-      "name": "CAFETERA PERFECT BREW MAXIMA",
-      "url": "https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html",
-      "price": 13684.3,
-      "list_price": 19549.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926489",
         "outlet": false
       }
     },
