@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 04:10 UTC",
-  "products_scanned": 1674,
+  "generated_at": "2026-08-24 05:03 UTC",
+  "products_scanned": 1645,
   "threshold_pct": 20.0,
-  "count": 38,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -174,27 +174,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$250 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 99.8,
-      "store": "liverpool",
-      "name": "Plato Ensalada Zahra Ramadan De Ceramica",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431",
-      "price": 249.5,
-      "list_price": 499.0,
-      "ean": null,
-      "model": null,
-      "brand": "POTTERY BARN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1167857431",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
       "likely_typo": false,
@@ -237,23 +216,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 65.0,
-      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "discount_pct": 14.6,
+      "detail": "$298 en amazon vs liverpool $399, amazon $761 -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 1421.0,
-      "store": "liverpool",
-      "name": "Colchon En Caja Luuna Basics1 10",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
-      "price": 4266.15,
-      "list_price": 12189.0,
+      "savings": 101.0,
+      "store": "amazon",
+      "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
+      "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
+      "price": 298.0,
+      "list_price": 349.0,
       "ean": null,
-      "model": "Basics1",
-      "brand": "LUUNA",
+      "model": "BVSTDCS51B",
+      "brand": null,
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1178927540",
-        "marketplace": null
+        "asin": "B0F8KF41L9"
       }
     },
     {
@@ -678,27 +656,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 5.0,
       "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -716,27 +673,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
