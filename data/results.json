@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 12:41 UTC",
-  "products_scanned": 1610,
+  "generated_at": "2026-08-24 13:44 UTC",
+  "products_scanned": 1678,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -69,23 +69,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "discount_pct": 35.0,
+      "detail": "$2,404 en liverpool vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
+      "savings": 1294.65,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934",
+      "price": 2404.35,
+      "list_price": 3699.0,
       "ean": null,
       "model": null,
-      "brand": "Smeg",
+      "brand": "XIAOMI",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000830",
-        "outlet": false
+        "productId": "1185267934",
+        "marketplace": null
       }
     },
     {
@@ -107,6 +107,48 @@
       "extra": {
         "productId": "1165916841",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$5,599 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2400.0,
+      "store": "liverpool",
+      "name": "Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloqueado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788",
+      "price": 5599.2,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "MOTOROLA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1201134788",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824648",
+        "outlet": false
       }
     },
     {
@@ -212,6 +254,48 @@
       "extra": {
         "productId": "1178927540",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45558414",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45630424",
+        "outlet": false
       }
     },
     {
@@ -363,13 +447,34 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 39.0,
+      "detail": "$11,589 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3609.81,
+      "store": "palacio",
+      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
+      "price": 11589.39,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44616285",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
       "savings": 10799.82,
       "store": "palacio",
-      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
       "price": 35399.41,
       "list_price": 59999.0,
       "ean": null,
@@ -378,7 +483,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44600329",
+        "id": "44600330",
         "outlet": false
       }
     },
@@ -400,27 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
         "outlet": false
       }
     },
@@ -531,22 +615,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 599.0,
+      "savings": 199.8,
       "store": "liverpool",
-      "name": "Asiento Para Bicicleta Shotgun",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
-      "price": 2290.0,
-      "list_price": 2290.0,
+      "name": "Smartband Reebok Rbk",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023",
+      "price": 799.2,
+      "list_price": 999.0,
       "ean": null,
       "model": null,
-      "brand": "SHOTGUN",
+      "brand": "REEBOK",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1105905200",
+        "productId": "1196432023",
         "marketplace": null
       }
     },
@@ -589,6 +673,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43135869",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001062",
         "outlet": false
       }
     },

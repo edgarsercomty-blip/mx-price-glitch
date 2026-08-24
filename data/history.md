@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (937)
+# Historial de ofertas encontradas (939)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-24 13:44 | -30% | liverpool | [Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloquead…](https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788) | $5,599 | $5,599 en liverpool vs mercado -> -30% bajo la competencia |
+| 2026-08-24 13:44 | -35% | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex C…](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934) | $2,404 | $2,404 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-24 02:35 | -22% | liverpool | [Aire Acondicionado Mini Split Hisense Frio 24000 Btu Ac…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-24000-btu-ac242cf-220-v/1133063826) | $10,709 | $10,709 en liverpool vs walmart $15,999 -> -22% bajo la competencia |
 | 2026-08-24 02:35 | -25% | amazon | [Puma Softride Harli - Zapatos de Entrenamiento sin Cord…](https://www.amazon.com.mx/dp/B0DDTV7HZ2) | $823 | $823 en amazon vs mercado -> -25% bajo la competencia |
 | 2026-08-23 19:51 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulga…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | $7,999 en liverpool vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-07-31 20:16 | -38% | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $799 | $799 en liverpool vs mercado -> -38% bajo la competencia |
 | 2026-07-31 17:09 | -37% | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | 2026-07-31 16:43 | -36% | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | $979 en liverpool vs mercado -> -36% bajo la competencia |
-| 2026-07-31 13:08 | -22% | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $2,789 | $2,789 en palacio vs mercado -> -22% bajo la competencia |
-| 2026-07-31 13:08 | -30% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,699 | $7,699 en palacio vs mercado -> -30% bajo la competencia |
