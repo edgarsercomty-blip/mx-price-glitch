@@ -1,5 +1,16 @@
-# 🆕 Nuevos posibles errores de precio — 2026-08-24 15:20 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-08-24 15:47 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **10**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -40% | $7,090 | liverpool | [Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276) | $10,400 | Confirmado vs competencia | $10,400 en liverpool vs mercado -> -40% bajo la competencia |
+| -36% | $3,800 | mercadolibre | [Pantalla Samsung 55 Pulgadas Series Uhd 4k Smart Tizen Tv](https://www.mercadolibre.com.mx/pantalla-samsung-55-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM54912419) | $6,899 | Confirmado vs competencia | $6,899 en mercadolibre vs mercado -> -36% bajo la competencia |
+| -32% | $2,950 | walmart | [Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9 Pies…](https://www.walmart.com.mx/ip/Congelador-Refrigerador-Horizontal-Midea-Mfcd09p2nabw-9-Pies-blanco-1-MIDEA-9-Pies-MFCD09P2NABW-Blanco/00694046191005) | $6,399 | Confirmado vs competencia | $6,399 en walmart vs mercado -> -32% bajo la competencia |
+| -24% | $1,470 | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color…](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,529 | Confirmado vs competencia | $4,529 en mercadolibre vs mercado -> -24% bajo la competencia |
+| -23% | $600 | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear con Clip …](https://www.amazon.com.mx/dp/B0H1D82JGT) | $2,000 | Confirmado vs competencia | $2,000 en amazon vs mercado -> -23% bajo la competencia |
+| -26% | $500 | walmart | [Lavadora Portátil Plegable con Centrifugadora - Capacidad de…](https://www.walmart.com.mx/ip/lavadora-portatil-plegable-con-centrifugadora-capacidad-de-12-13-litros-solucion-silenciosa-y-compacta-para-ropa-interior-ropa-de-bebe-calcetines/00088162813722) | $1,387 | Confirmado vs competencia | $1,387 en walmart vs mercado -> -26% bajo la competencia |
+| -27% | $356 | amazon | [Baseus Bowie MC2 Audífonos Inalámbricos Open Ear con Clip \| …](https://www.amazon.com.mx/dp/B0H1CW5XT4) | $944 | Confirmado vs competencia | $944 en amazon vs mercado -> -27% bajo la competencia |
+| -31% | $241 | mercadolibre | [Celular Económico Q-touch Q524 32gb + 2gb Ram Negro](https://www.mercadolibre.com.mx/celular-economico-q-touch-q524-32gb-2gb-ram-negro/p/MLM71607723) | $532 | Confirmado vs competencia | $532 en mercadolibre vs mercado -> -31% bajo la competencia |
+| -46% | $193 | amazon | [Ebien \| Stevia Gotero Líquido Tripack 105ml (3 x 35ml) Endul…](https://www.amazon.com.mx/dp/B0933PXDTC) | $229 | Confirmado vs competencia | $229 en amazon vs mercadolibre $422, amazon $509 -> -46% bajo la competencia |
+| -21% | $78 | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $288 | Confirmado vs competencia | $288 en mercadolibre vs mercado -> -21% bajo la competencia |
