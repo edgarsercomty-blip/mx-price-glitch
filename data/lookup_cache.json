@@ -1401,41 +1401,13 @@
     ]
   },
   "amazon|SMEGCAFETERASMEG": {
-    "ts": "2026-08-22T07:48:23.963054+00:00",
+    "ts": "2026-08-24T08:37:05.289549+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino de cuchillas integrado, Programable 24 horas, Función Grind OFF para café molido, Apagado automático",
-        "url": "https://www.amazon.com.mx/dp/B08DCK4MPV",
-        "price": 2659.26,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino profesional integradro, Jarra de vidrio 12 tazas, Tolva para almacenar 250 g sellada, Programable 24 horas",
-        "url": "https://www.amazon.com.mx/dp/B079NM2ZYN",
-        "price": 3799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart Cafetera Coffee Center 4 en 1 SS-4N1ES con Barista Bar | Prepara 12 tazas o una sola. Compatible con K-Cup y Nespresso original line. Varilla para espumar. Espresso sencillo o doble",
-        "url": "https://www.amazon.com.mx/dp/B0BWSMV57F",
-        "price": 5662.6,
-        "model": "SS-4N1ES"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
-        "price": 4264.0,
+        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
+        "price": 16994.25,
         "model": null
       },
       {
@@ -1454,16 +1426,9 @@
       },
       {
         "store": "amazon",
-        "name": "Smeg 50's - Cafetera estética de goteo de estilo retro con jarra de vidrio de 10 tazas, función de inicio automático, placa de mantenimiento caliente y dos ajustes de fuerza de café (negro mate)",
-        "url": "https://www.amazon.com.mx/dp/B0GRD5YKRL",
-        "price": 5297.29,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
-        "url": "https://www.amazon.com.mx/dp/B0H1F2Y9QJ",
-        "price": 16994.25,
+        "name": "SMEG Cafetera de Goteo 10 Tazas con Programación Automática Diseño Retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B08KFQNWRZ",
+        "price": 4920.0,
         "model": null
       },
       {
@@ -1475,10 +1440,17 @@
       },
       {
         "store": "amazon",
-        "name": "Filtro De Café En Polvo Compatible Con SMEG DCF02 Cafeteras, Accesorios De Filtro De Acero Inoxidable, Filtro De Repuesto, Ajuste Preciso, A Prueba De Fugas.",
-        "url": "https://www.amazon.com.mx/dp/B0FXXD2VNH",
-        "price": 459.0,
-        "model": "DCF02"
+        "name": "SMEG Cafetera Automática Bean to Cup con Molino Integrado 19 Bar Diseño retro 50's Style",
+        "url": "https://www.amazon.com.mx/dp/B0H1DW21HL",
+        "price": 14551.07,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg 50's - Cafetera estética de goteo de estilo retro con jarra de vidrio de 10 tazas, función de inicio automático, placa de mantenimiento caliente y dos ajustes de fuerza de café (negro mate)",
+        "url": "https://www.amazon.com.mx/dp/B0GRD5YKRL",
+        "price": 5297.29,
+        "model": null
       },
       {
         "store": "amazon",
@@ -1486,101 +1458,214 @@
         "url": "https://www.amazon.com.mx/dp/B0DK4Q1DBG",
         "price": 632.75,
         "model": "DCGC01"
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro De Café En Polvo Compatible Con SMEG DCF02 Cafeteras, Accesorios De Filtro De Acero Inoxidable, Filtro De Repuesto, Ajuste Preciso, A Prueba De Fugas.",
+        "url": "https://www.amazon.com.mx/dp/B0FXXD2VNH",
+        "price": 452.72,
+        "model": "DCF02"
+      },
+      {
+        "store": "amazon",
+        "name": "SMEG CGF03 Molinillo de café de fresas, molinillo de fresas cónico eléctrico con 15 ajustes de molienda, 8 ajustes preestablecidos, tolva de granos de café de 240 g, expreso, molino de café moka y",
+        "url": "https://www.amazon.com.mx/dp/B0GS416JVP",
+        "price": 5003.84,
+        "model": "CGF03"
+      },
+      {
+        "store": "amazon",
+        "name": "Filtro de Café Reutilizable para SMEG DCF02, Filtro Permanente de Acero Inoxidable de Grado Alimenticio, Cartucho Reemplazable Ecológico y Anti-Fugas para Cafetera SMEG",
+        "url": "https://www.amazon.com.mx/dp/B0GLF6PWZJ",
+        "price": 780.0,
+        "model": "DCF02"
+      },
+      {
+        "store": "amazon",
+        "name": "Smeg - Jarra de electrodomésticos pequeños con tapa, 1 pieza, para preparación de bebidas, recomendada para Smeg DCF01BLAU SI00 - Modelos DCF01CRUS",
+        "url": "https://www.amazon.com.mx/dp/B0C7R6LDDJ",
+        "price": 1390.88,
+        "model": "DCF01BLAU"
       }
     ]
   },
   "walmart|SMEGCAFETERASMEG": {
-    "ts": "2026-08-22T07:48:51.439857+00:00",
+    "ts": "2026-08-24T08:37:18.480092+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
+        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
+        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
+        "price": 799.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
-        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502534",
+        "url": "https://www.walmart.com.mx/ip/smeg-cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-italia/00081289502534?athbdg=L1300",
         "price": 15433.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Negra",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Negra/00081289502157",
-        "price": 5799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Verde Pastel",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Verde-Pastel/00081289502160",
-        "price": 7469.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Plata",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Plata/00081289502162",
-        "price": 13235.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Roja",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Roja/00081289502161",
-        "price": 7469.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Crema",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Crema/00081289502158",
-        "price": 6799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Smeg 10 Tazas Azul Pastel",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-de-Goteo-Smeg-10-Tazas-Azul-Pastel/00081289502159",
-        "price": 5395.17,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smeg DCF02PBUK - Máquina de café por goteo, modo de arranque automático, filtro reutilizable, visual",
-        "url": "https://www.walmart.com.mx/ip/Smeg-DCF02PBUK-Maquina-de-cafe-por-goteo-modo-de-arranque-automatico-filtro-reutilizable-visual/00801770928066",
+        "url": "https://www.walmart.com.mx/ip/smeg-dcf02pbuk-maquina-de-cafe-por-goteo-modo-de-arranque-automatico-filtro-reutilizable-visual/00801770928066",
         "price": 13102.9,
         "model": "DCF02PBUK"
       },
       {
         "store": "walmart",
-        "name": "Cafetera Smeg estilo retro de los 50, 10 tazas, negro mate",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Smeg-estilo-retro-de-los-50-10-tazas-negro-mate/00081289502394",
-        "price": 7469.0,
+        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
+        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
+        "price": 2075.68,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Smeg 10 Tazas Plata",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-plata/00081289502162",
+        "price": 13235.9,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Smeg - Smeg - Coffee Machine - 11+ - Filter Coffee Machine - White",
-        "url": "https://www.walmart.com.mx/ip/Smeg-Smeg-Coffee-Machine-11-Filter-Coffee-Machine-White/00801770928055",
+        "url": "https://www.walmart.com.mx/ip/smeg-smeg-coffee-machine-11-filter-coffee-machine-white/00801770928055",
         "price": 16196.81,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "SMEG Máquina de café totalmente automática con molinillo integrado y varita de vapor BCC02RDMUS, roj",
-        "url": "https://www.walmart.com.mx/ip/SMEG-Maquina-de-cafe-totalmente-automatica-con-molinillo-integrado-y-varita-de-vapor-BCC02RDMUS-roj/00081289502227",
-        "price": 29935.9,
-        "model": "BCC02RDMUS"
+        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
+        "url": "https://www.walmart.com.mx/ip/cafetera-profesional-de-gran-capacidad-acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
+        "price": 2478.35,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Smeg 10 Tazas Negra",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-negra/00081289502157",
+        "price": 5799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Smeg 10 Tazas Azul Pastel",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-azul-pastel/00081289502159",
+        "price": 5395.17,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera eléctrica comercial de gran capacidad - Acero inoxidable doble pared, fácil limpieza, calentamiento rápido, control automático de temperatura, grifo seguro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-comercial-de-gran-capacidad-acero-inoxidable-doble-pared-facil-limpieza-calentamiento-rapido-control-automatico-de-temperatura-grifo-seguro/00088162832809",
+        "price": 4938.47,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera de Goteo Smeg 10 Tazas Crema",
+        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-smeg-10-tazas-crema/00081289502158",
+        "price": 6799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Preparación rápida y eficiente - Cafetera industrial eléctrica de acero inoxidable - Doble pared, ideal para bodas y buffets, dispensador seguro y fácil mantenimiento - Capacidad 14L",
+        "url": "https://www.walmart.com.mx/ip/preparacion-rapida-y-eficiente-cafetera-industrial-electrica-de-acero-inoxidable-doble-pared-ideal-para-bodas-y-buffets-dispensador-seguro-y-facil-mantenimiento-capacidad-14l/00088162832721",
+        "price": 2489.0,
+        "model": null
       }
     ]
   },
   "sams|SMEGCAFETERASMEG": {
-    "ts": "2026-08-22T07:48:52.477871+00:00",
-    "items": []
+    "ts": "2026-08-24T08:37:21.662923+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Parrilla Eléctrica Chefman  RJ23-SM-V3-MX Antiadherente Color Negro",
+        "url": "https://www.sams.com.mx/ip/parrilla-electrica-chefman-rj23-sm-v3-mx-antiadherente-color-negro/981053287",
+        "price": 551.37,
+        "model": "RJ23-SM-V3-MX"
+      },
+      {
+        "store": "sams",
+        "name": "Bikini Nautica  Navy Talla EG",
+        "url": "https://www.sams.com.mx/ip/bikini-nautica-navy-talla-eg/981044735",
+        "price": 408.18,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla EG",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg/981046298",
+        "price": 948.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chaleco Ligero Wheaterproof  Talla EG Plata",
+        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-plata/981028223",
+        "price": 50.12,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Gris talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-gris-talla-eg/981045190",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Azul talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-azul-talla-eg/981045194",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Beige Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-beige-talla-eg/981048487",
+        "price": 613.79,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Pijama para Dama Dkny  Negro talla EG",
+        "url": "https://www.sams.com.mx/ip/pijama-para-dama-dkny-negro-talla-eg/981045186",
+        "price": 561.61,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Chaleco Ligero Wheaterproof  Talla EG Rojo",
+        "url": "https://www.sams.com.mx/ip/chaleco-ligero-wheaterproof-talla-eg-rojo/981028215",
+        "price": 612.76,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Faja Cinturilla BellaForm  Talla EG Negro",
+        "url": "https://www.sams.com.mx/ip/faja-cinturilla-bellaform-talla-eg-negro/981046302",
+        "price": 948.15,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Negro Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-negro-talla-eg/981048486",
+        "price": 613.79,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Jogger para Caballero Hurley  Marino Talla EG",
+        "url": "https://www.sams.com.mx/ip/jogger-para-caballero-hurley-marino-talla-eg/981048489",
+        "price": 613.79,
+        "model": null
+      }
+    ]
   },
   "amazon|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
     "ts": "2026-08-23T05:58:44.913521+00:00",
@@ -3661,265 +3746,41 @@
     "ts": "2026-08-24T06:38:00.144823+00:00",
     "items": []
   },
-  "amazon|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-22T07:49:29.462371+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "iPhone 17 256GB: Pantalla de 6.3 Pulgadas con Promotion, Chip A19, cámara Frontal Center Stage para Selfies grupales más Inteligentes, Mayor Resistencia a los rayones, Solo eSIM;Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0FQFQ7RJ4",
-        "price": 19999.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
-        "price": 5485.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Apple iPhone 17e (512 GB) - Negro",
-        "url": "https://www.amazon.com.mx/dp/B0GQVG2JNK",
-        "price": 19199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "iPhone 17 Pro 512GB:Pantalla 6.3 Pulgadas con Promotion de hasta 120 Hz,Chip A19 Pro,Extraordinaria duración de la batería,Sistema de cámaras Pro Fusion con cámara Frontal CenterStage;Naranja cósmico",
-        "url": "https://www.amazon.com.mx/dp/B0FQFTXGNG",
-        "price": 33498.9,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HN22XQ",
-        "price": 11589.39,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
-        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
-        "price": 12199.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0FFDKFZN1",
-        "price": 7797.0,
-        "model": "12/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Celular Edge 70 Pro 512GB Azul",
-        "url": "https://www.amazon.com.mx/dp/B0H2FX3QJH",
-        "price": 15299.0,
-        "model": "512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Celular RAZR 70 512 GB Verde",
-        "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Verde",
-        "url": "https://www.amazon.com.mx/dp/B0F3HQ8MPY",
-        "price": 6129.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
-        "price": 6294.0,
-        "model": "RAM/512GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Pro, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HTCM9R",
-        "price": 8496.0,
-        "model": "RAM/512GB"
-      }
-    ]
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-22T07:49:32.717032+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Razr 60 5G / 512GB Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-razr-60-5g-512gb-azul-desbloqueado/00084002329101?athbdg=L1300",
-        "price": 14999.0,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Verde Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-verde-desbloqueado/00084049360332?athbdg=L1300",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727",
-        "price": 4690.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 70 / 512 GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-70-512-gb-gris-desbloqueado/00084049360331?athbdg=L1300",
-        "price": 10999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Pro 12+512 GB Cobalto Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-pro-12-512-gb-cobalto-desbloqueado/00750665822136?athbdg=L1300",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Teléfono Celular Motorola Edge 60 Pro 5G DUAL sim 8GB + 256GB 6000Mah Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-motorola-edge-60-pro-5g-dual-sim-8gb-256gb-6000mah-nuevo-liberado/00084002328889",
-        "price": 6899.0,
-        "model": "6000Mah"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked -Pantone Cabaret",
-        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-cabaret/00084002329473",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
-        "url": "https://www.walmart.com.mx/ip/motorola-razr-60-ultra-5g-512gb-rom-16gb-ram-dual-sim-gsm-unlocked-pantone-mountain-trail/00084002329317",
-        "price": 45859.37,
-        "model": "512GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Celular Motorola G06 Power 120Ghz 7000 mAh 4GB + 8GB RAM BOST + 64GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-celular-motorola-g06-power-120ghz-7000-mah-4gb-8gb-ram-bost-64gb-almacenamiento-nuevo-liberado/00084049360318",
-        "price": 1869.0,
-        "model": "120Ghz"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Pro 12+512 GB Gris Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-pro-12-512-gb-gris-desbloqueado/00750665822137?athbdg=L1300",
-        "price": 8499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 Pro Dual sim 512gb 12ram-Azul",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-pro-dual-sim-512gb-12ram-azul/00084002327459",
-        "price": 6729.0,
-        "model": "12ram-Azul"
-      }
-    ]
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARRAZR512": {
-    "ts": "2026-08-22T07:49:33.537789+00:00",
-    "items": []
-  },
   "amazon|MDRC280FZM30": {
-    "ts": "2026-08-22T08:19:38.252687+00:00",
+    "ts": "2026-08-24T08:37:27.802742+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Nuur - Frigobar Mini con Llave de Seguridad 46 Litros 1.6 Pies, Puerta de Acero Inoxidable Reversible, 7 Niveles de Temperatura, Congelador Integrado, Compresor Silencioso, Compacto - FRIGO46L",
-        "url": "https://www.amazon.com.mx/dp/B0FBLFDS4B",
-        "price": 3352.0,
-        "model": "FRIGO46L"
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart Mini Fridge CCF-31ES 31 F.T. Compacto Acero Inoxidable | Refrigerador compacto de acero inoxidable,Termostato regulable,Congelador separado,Puerta reversible,Estantes extraíbles",
-        "url": "https://www.amazon.com.mx/dp/B0DPGJPX2Z",
-        "price": 3799.0,
-        "model": "CCF-31ES"
-      },
-      {
-        "store": "amazon",
-        "name": "SANGKEE Refrigerador Portátil 40L con Ruedas, 12V/24V y AC | -20°C a 20°C, compresor, modos HH/ECO, protección de batería, LED, <45 dB, para auto, camping y hogar",
-        "url": "https://www.amazon.com.mx/dp/B0F3JPXPXP",
-        "price": 6067.0,
-        "model": "12V/24V"
+        "name": "Midea MDRC280FZM30 Congelador Triple Cooling System Negro 7 Pies Cúbicos",
+        "url": "https://www.amazon.com.mx/dp/B0DMCD7Q5X",
+        "price": 5999.0,
+        "model": "MDRC280FZM30"
       }
     ]
   },
   "walmart|MDRC280FZM30": {
-    "ts": "2026-08-22T08:20:05.217743+00:00",
+    "ts": "2026-08-24T08:37:30.100415+00:00",
     "items": []
   },
   "sams|MDRC280FZM30": {
-    "ts": "2026-08-22T08:20:06.058072+00:00",
+    "ts": "2026-08-24T08:37:33.257114+00:00",
     "items": []
   },
   "amazon|MDRC205FZM01": {
-    "ts": "2026-08-22T08:20:15.744050+00:00",
+    "ts": "2026-08-24T08:37:35.095765+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Midea MDRC205FZM01 Congelador Triple Cooling System 5 Pies Cúbicos",
         "url": "https://www.amazon.com.mx/dp/B0DG5RXR52",
-        "price": 4499.0,
-        "model": "MDRC205FZM01"
-      },
-      {
-        "store": "amazon",
-        "name": "Nuur - Frigobar Mini con Llave de Seguridad 46 Litros 1.6 Pies, Puerta de Acero Inoxidable Reversible, 7 Niveles de Temperatura, Congelador Integrado, Compresor Silencioso, Compacto - FRIGO46L",
-        "url": "https://www.amazon.com.mx/dp/B0FBLFDS4B",
-        "price": 3352.0,
-        "model": "FRIGO46L"
-      },
-      {
-        "store": "amazon",
-        "name": "Upstreman Frigobar de Doble Puerta con Congelador 87 L Negro | Con termostato de 7 niveles y cajon para verduras. Funcionamiento silencioso 38 dB. Medidas 46.5 x 49.5 x 85 cm.",
-        "url": "https://www.amazon.com.mx/dp/B0CM5R97SV",
-        "price": 8249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart Mini Fridge CCF-31ES 31 F.T. Compacto Acero Inoxidable | Refrigerador compacto de acero inoxidable,Termostato regulable,Congelador separado,Puerta reversible,Estantes extraíbles",
-        "url": "https://www.amazon.com.mx/dp/B0DPGJPX2Z",
-        "price": 3799.0,
-        "model": "CCF-31ES"
-      },
-      {
-        "store": "amazon",
-        "name": "Midea MDRC205FZM01 Congelador Triple Cooling System 5 Pies Cúbicos",
-        "url": "https://www.amazon.com.mx/dp/B0DG5RXR52",
-        "price": 4499.0,
+        "price": 4699.0,
         "model": "MDRC205FZM01"
       },
       {
         "store": "amazon",
         "name": "Midea Congelador Triple Cooling System 5 Pies + 7 Pies",
         "url": "https://www.amazon.com.mx/dp/B0H6Y5GYFT",
-        "price": 10298.0,
+        "price": 10498.0,
         "model": null
       },
       {
@@ -3928,232 +3789,43 @@
         "url": "https://www.amazon.com.mx/dp/B0FBLFDS4B",
         "price": 3352.0,
         "model": "FRIGO46L"
-      },
-      {
-        "store": "amazon",
-        "name": "Haofy Mini Refrigerador Compacto 10 litros para Automóvil y Hogar Doble Función Enfría y Calienta Funcionamiento Silencioso Enchufe DC12V para Viajes y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0D3XPJ4B2",
-        "price": 2405.0,
-        "model": "DC12V"
       }
     ]
   },
   "walmart|MDRC205FZM01": {
-    "ts": "2026-08-22T08:20:38.030469+00:00",
+    "ts": "2026-08-24T08:37:39.203822+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Congelador Refrigerador Midea 5 Pies MDRC205FZM01 Blanco",
-        "url": "https://www.walmart.com.mx/ip/Congelador-Refrigerador-Midea-5-Pies-MDRC205FZM01-Blanco/00694046193701",
-        "price": 4499.0,
+        "url": "https://www.walmart.com.mx/ip/congelador-refrigerador-midea-5-pies-mdrc205fzm01-blanco/00694046193701?athbdg=L1600",
+        "price": 6164.0,
         "model": "MDRC205FZM01"
       }
     ]
   },
   "sams|MDRC205FZM01": {
-    "ts": "2026-08-22T08:20:39.108108+00:00",
+    "ts": "2026-08-24T08:37:42.143151+00:00",
     "items": []
   },
   "amazon|MFCD09P2NABW": {
-    "ts": "2026-08-22T08:20:40.910707+00:00",
+    "ts": "2026-08-24T08:37:44.816798+00:00",
     "items": []
   },
   "walmart|MFCD09P2NABW": {
-    "ts": "2026-08-22T08:20:43.572555+00:00",
+    "ts": "2026-08-24T08:37:47.297806+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9 Pies blanco 1 MIDEA 9 Pies MFCD09P2NABW Blanco",
-        "url": "https://www.walmart.com.mx/ip/congelador-refrigerador-horizontal-midea-mfcd09p2nabw-9-pies-blanco-1-midea-9-pies-mfcd09p2nabw-blanco/00694046191005?athbdg=L1300",
-        "price": 8404.0,
+        "url": "https://www.walmart.com.mx/ip/Congelador-Refrigerador-Horizontal-Midea-Mfcd09p2nabw-9-Pies-blanco-1-MIDEA-9-Pies-MFCD09P2NABW-Blanco/00694046191005?athbdg=L1300",
+        "price": 6399.0,
         "model": "Mfcd09p2nabw"
       }
     ]
   },
   "sams|MFCD09P2NABW": {
-    "ts": "2026-08-22T08:20:44.319851+00:00",
-    "items": []
-  },
-  "amazon|MOTOROLADESBLOQUEADOCELULARFUSIONMORADO": {
-    "ts": "2026-08-22T08:21:01.155263+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0F2M75N3G",
-        "price": 5485.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Turquesa, Compatible con Todas Las Redes",
-        "url": "https://www.amazon.com.mx/dp/B0F2LWP4YC",
-        "price": 5159.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
-        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
-        "price": 5533.0,
-        "model": "256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Moto Edge 70 Fusión 8+256GB Silhouette (Azul) Edición Audífonos Moto Buds Bass | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ758H1R",
-        "price": 6701.0,
-        "model": "8+256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 50 Fusion 5G 8GB-256GB Verde (Forest Green) XT2429-2",
-        "url": "https://www.amazon.com.mx/dp/B0G4VKDSKP",
-        "price": 4699.0,
-        "model": "8GB-256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Verde - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NCK834",
-        "price": 6064.59,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus | Sony LYTIA™ 710",
-        "url": "https://www.amazon.com.mx/dp/B0GQ75CXX5",
-        "price": 11199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 70 Fusion Plus",
-        "url": "https://www.amazon.com.mx/dp/B0GQ63CSGH",
-        "price": 11199.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60 Fusion, (8GB RAM/256GB), 50MP, Celular Desbloqueado, Color Azul - Versión Internacional",
-        "url": "https://www.amazon.com.mx/dp/B0F1NB5BTK",
-        "price": 6019.0,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
-        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
-        "price": 2371.98,
-        "model": "RAM/256GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Cel Moto G06 4GB+8GB(Boost)+64GB Tapestry (Azul)(4g Lte) | 4GB RAM, 8GB Boost, 4G LTE, 6.88\" pantalla, Helio G81",
-        "url": "https://www.amazon.com.mx/dp/B0GLF2LKH7",
-        "price": 1799.0,
-        "model": "4GB+8GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
-        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
-        "price": 6294.0,
-        "model": "RAM/512GB"
-      }
-    ]
-  },
-  "walmart|MOTOROLADESBLOQUEADOCELULARFUSIONMORADO": {
-    "ts": "2026-08-22T08:21:06.222282+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Azul Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-60-fusion-256gb-8gb-ram-azul-desbloqueado/00084002328756?athbdg=L1300",
-        "price": 4699.0,
-        "model": "256Gb+8Gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Edge 60 Fusion 5G / 256GB Turquesa Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-edge-60-fusion-5g-256gb-turquesa-desbloqueado/00084002328739?athbdg=L1300",
-        "price": 5196.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727",
-        "price": 4690.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 60 Fusion 5G DUAL SIM 8GB RAM  + 256GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-60-fusion-5g-dual-sim-8gb-ram-256gb-almacenamiento-nuevo-liberado/00084002328727?athbdg=L1300",
-        "price": 4690.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Celular Motorola Edge 50 Fusion 8GB RAM + 256GB de Almacenamiento Liberado Nuevo Mashmallos Blue",
-        "url": "https://www.walmart.com.mx/ip/celular-motorola-edge-50-fusion-8gb-ram-256gb-de-almacenamiento-liberado-nuevo-mashmallos-blue/00084002327390?athbdg=L1300",
-        "price": 4429.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Teléfono Celular Motorola Edge 60 Pro 5G DUAL sim 8GB + 256GB 6000Mah Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-motorola-edge-60-pro-5g-dual-sim-8gb-256gb-6000mah-nuevo-liberado/00084002328889",
-        "price": 6899.0,
-        "model": "6000Mah"
-      },
-      {
-        "store": "walmart",
-        "name": "Telefono Celular Smartphone Motorola Edge 70 Fusion 5G 8GB RAM + 256GB Almacenamiento 7000 mAh Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/telefono-celular-smartphone-motorola-edge-70-fusion-5g-8gb-ram-256gb-almacenamiento-7000-mah-nuevo-liberado/00019663085013?athbdg=L1300",
-        "price": 6799.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB AZULADO más motorola MOTO BUDS BASS PANTONE BLUE JEWEL",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-50-fusion-8gb-ram-256-gb-azulado-mas-motorola-moto-buds-bass-pantone-blue-jewel/00046022564579?athbdg=L1300",
-        "price": 4678.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Celular Motorola G06 Power 120Ghz 7000 mAh 4GB + 8GB RAM BOST + 64GB Almacenamiento Nuevo Liberado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-celular-motorola-g06-power-120ghz-7000-mah-4gb-8gb-ram-bost-64gb-almacenamiento-nuevo-liberado/00084049360318",
-        "price": 1869.0,
-        "model": "120Ghz"
-      },
-      {
-        "store": "walmart",
-        "name": "MOTOROLA EDGE 50 FUSION 8GB RAM 256 GB VERDE AZULADO más motorola MOTO BUDS BASS PANTONE DRAK SHADOW",
-        "url": "https://www.walmart.com.mx/ip/motorola-edge-50-fusion-8gb-ram-256-gb-verde-azulado-mas-motorola-moto-buds-bass-pantone-drak-shadow/00046022573511?athbdg=L1300",
-        "price": 4677.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Motorola Moto Edge 50 Pro Dual sim 512gb 12ram-Azul",
-        "url": "https://www.walmart.com.mx/ip/smartphone-motorola-moto-edge-50-pro-dual-sim-512gb-12ram-azul/00084002327459",
-        "price": 6729.0,
-        "model": "12ram-Azul"
-      }
-    ]
-  },
-  "sams|MOTOROLADESBLOQUEADOCELULARFUSIONMORADO": {
-    "ts": "2026-08-22T08:21:07.408697+00:00",
+    "ts": "2026-08-24T08:37:50.358157+00:00",
     "items": []
   },
   "amazon|OSTERCAFETERATOUCHACEROPANEL": {
@@ -7010,554 +6682,8 @@
     "ts": "2026-08-24T05:03:03.322785+00:00",
     "items": []
   },
-  "amazon|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
-    "ts": "2026-08-22T07:48:04.982142+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Caño compatible con/pieza de repuesto para exprimidor Smeg 694250071 CJF01",
-        "url": "https://www.amazon.com.mx/dp/B0CSTD9VHG",
-        "price": 854.17,
-        "model": "CJF01"
-      },
-      {
-        "store": "amazon",
-        "name": "Juego de repuesto de pieza de salida y sello de copa frontal para mantenimiento de exprimidores, para modelos de exprimidor HU9026 de 3ª generación y 19SGM en mantenimiento del hogar",
-        "url": "https://www.amazon.com.mx/dp/B0HDXSKFC9",
-        "price": 245.62,
-        "model": "HU9026"
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg SMTC01 Tagliolini accesorio, Plata",
-        "url": "https://www.amazon.com.mx/dp/B00ZAPU1YK",
-        "price": 2760.55,
-        "model": "SMTC01"
-      },
-      {
-        "store": "amazon",
-        "name": "Compatible con SMEG accesorios para máquina de café | Reemplazo de la cubierta de la bandeja de goteo, funciona como bandeja for tazas",
-        "url": "https://www.amazon.com.mx/dp/B0GWF824SF",
-        "price": 887.64,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BJE200XL BJE510XL",
-        "url": "https://www.amazon.com.mx/dp/B0DB1KMSZK",
-        "price": 346.67,
-        "model": "BJE200XL"
-      },
-      {
-        "store": "amazon",
-        "name": "Piezas de repuesto, extractor 7 aletas copa 24 oz | Compatible con IQ BN801 SS101 BL480-30 BL641.",
-        "url": "https://www.amazon.com.mx/dp/B0HDSMDJ7D",
-        "price": 506.6,
-        "model": "BL480-30"
-      },
-      {
-        "store": "amazon",
-        "name": "Pieza mezcladora exprimidora de conjunto de corte de cuchilla | Pieza de montaje de corte de cuchilla apta para licuadoras comerciales HR2095 HR2096 HR2097 HR2194 HR2195 HR2196",
-        "url": "https://www.amazon.com.mx/dp/B0HF8MKD4L",
-        "price": 182.09,
-        "model": "HR2095"
-      },
-      {
-        "store": "amazon",
-        "name": "For piezas de repuesto Extractor 7 aletas taza 24 oz | Compatible con A11R.",
-        "url": "https://www.amazon.com.mx/dp/B0HDS9458T",
-        "price": 770.72,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "For piezas de repuesto, extractor 7 aletas copa 24 oz",
-        "url": "https://www.amazon.com.mx/dp/B0HDSCK3JY",
-        "price": 719.28,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "WR02X30247 - Cafetera para nevera original WR01X28779, WR01X26387, WR01X24989, WR01X26292",
-        "url": "https://www.amazon.com.mx/dp/B0D24FF2XW",
-        "price": 2079.0,
-        "model": "WR02X30247"
-      },
-      {
-        "store": "amazon",
-        "name": "Batidor Especial Compatible Con CHEFTRONIC SM-966 SM-1086s SM-983s 1ud | Para SM-1086s/SM-986s/SM-1083s/SM-983s Batidor especial Acero inoxidable Fijación fácil",
-        "url": "https://www.amazon.com.mx/dp/B0HF19TGFV",
-        "price": 374.7,
-        "model": "SM-1086s/SM-986s/SM-1083s/SM-983s"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach Commercial 990035800 - Embrague de goma",
-        "url": "https://www.amazon.com.mx/dp/B001E0DXXQ",
-        "price": 600.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
-    "ts": "2026-08-22T07:48:10.140468+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "COMBO CAFETERA + EXPRIMIDOR DE CITRICOS + TOSTADOR",
-        "url": "https://www.walmart.com.mx/ip/COMBO-CAFETERA-EXPRIMIDOR-DE-CITRICOS-TOSTADOR/00005087580552?athbdg=L1300",
-        "price": 1695.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
-        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502534?athbdg=L1300",
-        "price": 15433.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smeg Cafetera espresso manual con varilla de vapor, 15 bares de presión, filtro porta de acero inoxidable, calentador de tazas pasivo, controles fáciles de usar y cuchara medidora fabricada en Italia",
-        "url": "https://www.walmart.com.mx/ip/Smeg-Cafetera-espresso-manual-con-varilla-de-vapor-15-bares-de-presion-filtro-porta-de-acero-inoxidable-calentador-de-tazas-pasivo-controles-faciles-de-usar-y-cuchara-medidora-fabricada-en-Italia/00081289502537?athbdg=L1300",
-        "price": 15890.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, con crema Tritan Renew CFJ11CRUS",
-        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-con-crema-Tritan-Renew-CFJ11CRUS/00081289502337?athbdg=L1300",
-        "price": 6529.0,
-        "model": "CFJ11CRUS"
-      },
-      {
-        "store": "walmart",
-        "name": "Exprimidor de Citricos Smeg con Boquilla Antigoteo Negro",
-        "url": "https://www.walmart.com.mx/ip/Exprimidor-de-Citricos-Smeg-con-Boquilla-Antigoteo-Negro/00081289502081?athbdg=L1300",
-        "price": 6529.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Blanco",
-        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-2-Rebanadas-Interfaz-Multifuncion-Color-Blanco/00081289502087",
-        "price": 7499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Verde Pastel",
-        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Verde-Pastel/00081289502117?athbdg=L1300",
-        "price": 7999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-2-Rebanadas-Interfaz-Multifuncion-Color-Negro/00081289502003?athbdg=L1300",
-        "price": 5059.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, negro",
-        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-negro/00081289502336?athbdg=L1300",
-        "price": 6509.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Crema",
-        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Crema/00081289502113",
-        "price": 7415.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, rojo",
-        "url": "https://www.walmart.com.mx/ip/SMEG-Exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-rojo/00081289502342?athbdg=L1300",
-        "price": 4709.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Tostador-Smeg-4-Rebanadas-Interfaz-Multifuncion-Color-Negro/00081289502115?athbdg=L1300",
-        "price": 5569.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|SMEGEXPRIMIDORCRITRICOSCAFETERATOSTADOR": {
-    "ts": "2026-08-22T07:48:11.236210+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-22T07:48:16.816580+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Negra con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LPC1L",
-        "price": 1740.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 6369.09,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66JB886",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 6369.09,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
-        "price": 3589.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-22T07:48:20.213228+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
-        "price": 4269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
-        "price": 4079.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
-        "price": 4959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, Amarillo Mango",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-de-de-longhi-con-aeroccino-amarillo-mango/00004438700923?athbdg=L1300",
-        "price": 5379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
-        "price": 4099.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERAVERTUOSUMMER": {
-    "ts": "2026-08-22T07:48:20.987753+00:00",
-    "items": []
-  },
-  "amazon|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-22T07:48:55.203598+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "RongZy Pantalla LCD para Xiaomi Redmi 13C 23100RN82 (Negro)",
-        "url": "https://www.amazon.com.mx/dp/B0CW1MNWFS",
-        "price": 818.84,
-        "model": "23100RN82"
-      },
-      {
-        "store": "amazon",
-        "name": "Yodoit Pantalla para Xiaomi Redmi Note 7 / Redmi Note 7 Pro Display Negro, LCD Pantalla y Digitalizador Pantalla Táctil de Cristal Reemplazo con Herramienta 6.3 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B09J2C42WV",
-        "price": 499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Duotipa - visualización LCD de 6.7 pulgadas para Xiaomi Poco C65/Redmi 13C LCD de visualización táctil digitalizador de repuesto con juegos de herramientas, color negro",
-        "url": "https://www.amazon.com.mx/dp/B0DSW3LG4K",
-        "price": 395.35,
-        "model": "C65/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "Sustitución de teléfonos móviles Pantalla LCD TFT para para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
-        "url": "https://www.amazon.com.mx/dp/B0FD36J575",
-        "price": 449.97,
-        "model": "10C/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla LCD IPS de repuesto para Xiaomi Redmi 14C con montaje de marco negro de 6.9 pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F3VHXY7H",
-        "price": 423.96,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla Digital LCD de Repuesto Compatible con Xiaomi Poco C75 / Redmi 14C (Negro con Marco) Pantalla LCD táctil digitalizador Montaje con Herramienta de reparación de 6,88 Pulgadas",
-        "url": "https://www.amazon.com.mx/dp/B0F1FVSYGK",
-        "price": 544.91,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TFT LCD Screen For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 with Digitizer Full Assembly For para Xiaomi para Redmi 10C/para Redmi 10 India/Poco C40 Recambio",
-        "url": "https://www.amazon.com.mx/dp/B0HDB2SNHX",
-        "price": 337.35,
-        "model": "10C/para"
-      },
-      {
-        "store": "amazon",
-        "name": "Reemplazo para Xiaomi Redmi 10c visualización LCD con marco para redmi 220333QAG 220333QBI 220333QNY 220333QL LCD panel de visualización táctil digitalizador conjunto con kit de reparación",
-        "url": "https://www.amazon.com.mx/dp/B0DY67N78L",
-        "price": 474.93,
-        "model": "220333QAG"
-      },
-      {
-        "store": "amazon",
-        "name": "Pantalla LCD del teléfono Celular Pantalla LCD TFT para Xiaomi Redmi 10C/Redmi 10 India/Poco C40 con Digitizer Ensamblaje Completo",
-        "url": "https://www.amazon.com.mx/dp/B0BLH5C1G2",
-        "price": 393.72,
-        "model": "10C/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "A-MIND para Xiaomi Redmi 13C 4G/5G 6.7 pulgadas visualización LCD de repuesto de visualización táctil digitalizador con herramientas de reparación",
-        "url": "https://www.amazon.com.mx/dp/B0DYJD98HT",
-        "price": 477.67,
-        "model": "4G/5G"
-      },
-      {
-        "store": "amazon",
-        "name": "TFT LCD Screen For Xiaomi Redmi 10C/Redmi 10 India/Poco C40 with Digitizer Full Assembly For Xiaomi Redmi 10C/Redmi 10 India/Poco C40",
-        "url": "https://www.amazon.com.mx/dp/B0HCSV3D7Q",
-        "price": 337.77,
-        "model": "10C/Redmi"
-      },
-      {
-        "store": "amazon",
-        "name": "Reemplazo para Xiaomi Redmi Note 11 | Note 11s 4G | Poco M4 Pro 4G visualización LCD para Redmi Note11 Note11s 2201117TG 2201117SG 2201117PG visualización LCD táctil digitalizador Asamblea con kit de",
-        "url": "https://www.amazon.com.mx/dp/B0DDQB7FPB",
-        "price": 495.45,
-        "model": "2201117TG"
-      }
-    ]
-  },
-  "walmart|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-22T07:48:58.254588+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi A5 Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Negro-Telcel/00750622735931?athbdg=L1500",
-        "price": 1797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Negro-Telcel/00750622736050?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Verde-Telcel/00750622736049?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-128GB-Negro-Telcel/00750622736044?athbdg=L1300",
-        "price": 2519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Negro-Telcel/00750622735685?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Negro-Telcel/00750622736047?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi A5 Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Dorado-Telcel/00750622735933?athbdg=L1500",
-        "price": 1797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
-        "price": 4499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-128-GB-Negro-Telcel/00750622735649?athbdg=L1500",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Verde-Telcel/00750622735686?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Dorado-Telcel/00750622736052?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15c-8gb-Ram-256gb-Midnight-Black/00693255444480",
-        "price": 3175.0,
-        "model": "256gb"
-      }
-    ]
-  },
-  "sams|XIAOMITELCELXIAOMIREDMILCD": {
-    "ts": "2026-08-22T07:48:58.966295+00:00",
-    "items": []
-  },
-  "amazon|SHOTGUNBICICLETAASIENTOSHOTGUN": {
-    "ts": "2026-08-22T07:49:02.468060+00:00",
+  "amazon|SHOTGUNBICICLETASHOTGUNASIENTO": {
+    "ts": "2026-08-24T08:37:54.961846+00:00",
     "items": [
       {
         "store": "amazon",
@@ -7575,37 +6701,16 @@
       },
       {
         "store": "amazon",
+        "name": "Kids Ride Shotgun Accesorio de Manubrio MTB para Niños | Accesorio para el Asiento de Bicicleta de Montaña Shotgun | Fácil Instalación y Remoción (Manubrio de Bicicleta para Niños 2.0)",
+        "url": "https://www.amazon.com.mx/dp/B09TJQ9TBJ",
+        "price": 1070.19,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Accesorio para manubrio MTB para niños | Accesorio para el asiento de bicicleta de montaña de escopeta | Fácil montaje y extracción (manubrio de bicicleta para niños)",
         "url": "https://www.amazon.com.mx/dp/B09T5KQCXT",
         "price": 1779.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Kids Ride Shotgun Accesorio de Manubrio MTB para Niños | Accesorio para el Asiento de Bicicleta de Montaña Shotgun | Fácil Instalación y Remoción (Manubrio de Bicicleta para Niños 2.0)",
-        "url": "https://www.amazon.com.mx/dp/B09TJQ9TBJ",
-        "price": 1066.18,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "FINYQBET Delantero Asiento para Bicicleta de Niños, Ajustable y Seguro con Reposabrazos Desmontable, Ideal para Bicicletas de Montaña y Plegables, Perfecto para Niños de 8 Meses a 6 Años",
-        "url": "https://www.amazon.com.mx/dp/B0D9LVYMRG",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Asiento de Bicicleta para Niños Reemplazo con Manillar, Asiento de Bicicleta Infantil Desmontable Montado en la Parte Delantera con Pedales para Niños de 2~5 Años",
-        "url": "https://www.amazon.com.mx/dp/B0C9GR5C4S",
-        "price": 771.63,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Asiento de bicicleta para niños, montado en la parte delantera y manubrio de bicicleta para niños, desmontable, montado en la parte delantera, asiento de bicicleta para niños, con pedal de barandilla",
-        "url": "https://www.amazon.com.mx/dp/B0GRFM3XRV",
-        "price": 841.5,
         "model": null
       },
       {
@@ -7617,909 +6722,61 @@
       },
       {
         "store": "amazon",
-        "name": "Asiento de bicicleta para niños, montado en la parte delantera y manubrio de bicicleta para niños, asiento de bicicleta desmontable montado en la parte delantera con pedales de pie para niños de 2 a 5",
-        "url": "https://www.amazon.com.mx/dp/B0CYL9N6N9",
-        "price": 671.11,
+        "name": "Dilwe EC90 Black Line Universal Absorción de Golpes Asiento de Bicicleta de Montaña Asientos de Bicicleta de Carretera Cojín Accesorio de Ciclismo",
+        "url": "https://www.amazon.com.mx/dp/B0B5B62Q5C",
+        "price": 506.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Repuesto de Asiento de Bicicleta para NiñOs con Manillar, Sillín Frontal Universal Bicicleta para Niños 2-8 Años 35kg-Negro",
-        "url": "https://www.amazon.com.mx/dp/B0F2HPY1V9",
-        "price": 599.99,
-        "model": "35kg-Negro"
-      },
-      {
-        "store": "amazon",
-        "name": "Asiento de bicicleta para niños montado en la parte delantera y manillar Asiento de bicicleta para niños desmontable Asientos de bicicleta para niños montados en la parte delantera Asientos de",
-        "url": "https://www.amazon.com.mx/dp/B0DZ5KHQS6",
-        "price": 707.41,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "FINYQBET Asiento para Bicicleta Niños Frontal con Reposapiés Abatibles y Reposabrazos Antideslizantes, Compatible con Bicicletas de Montaña y Plegables, Cómodo y Seguro para Bebés y Niños Pequeños",
-        "url": "https://www.amazon.com.mx/dp/B0DL5W2357",
-        "price": 479.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|SHOTGUNBICICLETAASIENTOSHOTGUN": {
-    "ts": "2026-08-22T07:49:24.800335+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Asiento Infantil para Bicicleta SHOTGUN Pro Montado al Frente Ajustable",
-        "url": "https://www.walmart.com.mx/ip/Asiento-Infantil-para-Bicicleta-SHOTGUN-Pro-Montado-al-Frente-Ajustable/00942103607199",
-        "price": 8649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Asiento de bicicleta SHOTGUN Pro Combo de montaje delantero para niños de 2 a 5 años",
-        "url": "https://www.walmart.com.mx/ip/Asiento-de-bicicleta-SHOTGUN-Pro-Combo-de-montaje-delantero-para-ninos-de-2-a-5-anos/00942103607201",
-        "price": 9859.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Asiento de bicicleta infantil con soporte frontal tipo escopeta para niños de 2 a 5 años",
-        "url": "https://www.walmart.com.mx/ip/Asiento-de-bicicleta-infantil-con-soporte-frontal-tipo-escopeta-para-ninos-de-2-a-5-anos/00942103607083",
-        "price": 7029.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|SHOTGUNBICICLETAASIENTOSHOTGUN": {
-    "ts": "2026-08-22T07:49:25.661188+00:00",
-    "items": []
-  },
-  "amazon|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-22T07:49:37.055092+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera 12 Tazas con Sistema de Goteo Vortex, CM0916B | Filtro permanente con función mantener caliente y dispositivo de interrupción de colado",
-        "url": "https://www.amazon.com.mx/dp/B0CYQL7WXT",
-        "price": 346.0,
-        "model": "CM0916B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1450.58,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
-        "price": 305.35,
-        "model": "CM321DMX"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-22T07:50:17.596856+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2075.68,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Eléctrica Automática CM003 de Goteo 1.8L (12 Tazas), Pantalla Táctil Programable, Temporizador 24h, Mantenimiento de Calor 120 Min, Incluye Filtro Permanente, Negro y Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-automatica-cm003-de-goteo-1-8l-12-tazas-pantalla-tactil-programable-temporizador-24h-mantenimiento-de-calor-120-min-incluye-filtro-permanente-negro-y-acero-inoxidable/00076283205603?athbdg=L6000",
-        "price": 1500.0,
-        "model": "CM003"
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Kenmore Cafetera de goteo de 12 tazas Filtro reutilizable Temporizador programable Pantalla digital Control de aroma Jarra de vidrio Filtro de agua de carbón Regular Negrita Acero inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-kenmore-cafetera-de-goteo-de-12-tazas-filtro-reutilizable-temporizador-programable-pantalla-digital-control-de-aroma-jarra-de-vidrio-filtro-de-agua-de-carbon-regular-negrita-acero-inoxidable/00005958664527?athbdg=L1300",
-        "price": 4107.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAGOTEOACEROTAZAS": {
-    "ts": "2026-08-22T07:50:18.351228+00:00",
-    "items": []
-  },
-  "amazon|SMEGEXPRIMIDORCRITRICOSTOSTADORCAFETERA": {
-    "ts": "2026-08-22T08:18:19.066800+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Cuisinart Cafetera con Molino Integrado 12 Tazas Jarra de Vidrio | Molino de cuchillas integrado, Programable 24 horas, Función Grind OFF para café molido, Apagado automático",
-        "url": "https://www.amazon.com.mx/dp/B08DCK4MPV",
-        "price": 2659.26,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Exprimidor Eléctrico de Cítricos CITRUSMAX 200W | Exprimidor de Naranjas y Limones | 2 Conos Dual-Press | Filtro Ajustable | Antiderrame | Acero Inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0CQ9FZDG7",
-        "price": 817.38,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cuisinart Exprimidor de Jugos Cítricos Acero Inoxidable Compacto | Exprimidor automático, cuerpo de acero inoxidable,función Final-Spin, 3 configuraciones de control de pulpa y antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B004VS32HA",
-        "price": 1253.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg Exprimidor de cítricos, verde pastel",
-        "url": "https://www.amazon.com.mx/dp/B0CKCS8BVD",
-        "price": 3883.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG 50's Exprimidor de cítricos estilo retro con boquilla sin goteo, activación automática y deformación eficiente, con Tritan Renew Pastel Blue CFJ11PBUS",
-        "url": "https://www.amazon.com.mx/dp/B0D347ZSJT",
-        "price": 4685.95,
-        "model": "CFJ11PBUS"
-      },
-      {
-        "store": "amazon",
-        "name": "Bandeja colectora de zumo compatible con/pieza de repuesto para Smeg 699170575 CJF01 exprimidor de cítricos",
-        "url": "https://www.amazon.com.mx/dp/B0CSTDP8V9",
-        "price": 930.2,
-        "model": "CJF01"
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg 50s - Licuadora, verde pastel, 48 Ounces, 1",
-        "url": "https://www.amazon.com.mx/dp/B01GW1EVZK",
-        "price": 10188.03,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg Presse-Agrumes Rouge 70W CJF01RDEU extensión de la garantía",
-        "url": "https://www.amazon.com.mx/dp/B07D5F92CY",
-        "price": 5299.0,
-        "model": "CJF01RDEU"
-      },
-      {
-        "store": "amazon",
-        "name": "SMEG CJF11PBEU, Exprimidor de cítricos 50's Style, Pastel blue",
-        "url": "https://www.amazon.com.mx/dp/B0BPB8VD2N",
-        "price": 5999.0,
-        "model": "CJF11PBEU"
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg - Citrus Squeezer - 11+ - Citrus Squeezer - White",
-        "url": "https://www.amazon.com.mx/dp/B07CG7VMLP",
-        "price": 6200.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Smeg - Estantes para sándwiches (2 Unidades)",
-        "url": "https://www.amazon.com.mx/dp/B00QJ353TA",
-        "price": 1558.42,
-        "model": null
-      }
-    ]
-  },
-  "walmart|SMEGEXPRIMIDORCRITRICOSTOSTADORCAFETERA": {
-    "ts": "2026-08-22T08:19:09.894754+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Combo Tostador 7 Niveles + Cafetera 12 Tazasd + Exprimidor 1.2 Litros Koblenz 3pz",
-        "url": "https://www.walmart.com.mx/ip/combo-tostador-7-niveles-cafetera-12-tazasd-exprimidor-1-2-litros-koblenz-3pz/00046703317488?athbdg=L1300",
-        "price": 1499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, con crema Tritan Renew CFJ11CRUS",
-        "url": "https://www.walmart.com.mx/ip/smeg-exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-con-crema-tritan-renew-cfj11crus/00081289502337?athbdg=L1300",
-        "price": 6529.0,
-        "model": "CFJ11CRUS"
-      },
-      {
-        "store": "walmart",
-        "name": "COMBO CAFETERA + EXPRIMIDOR DE CITRICOS + TOSTADOR",
-        "url": "https://www.walmart.com.mx/ip/combo-cafetera-exprimidor-de-citricos-tostador/00005087580552?athbdg=L1300",
-        "price": 1695.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Exprimidor de Citricos Smeg con Boquilla Antigoteo Negro",
-        "url": "https://www.walmart.com.mx/ip/exprimidor-de-citricos-smeg-con-boquilla-antigoteo-negro/00081289502081?athbdg=L1300",
-        "price": 6529.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, negro",
-        "url": "https://www.walmart.com.mx/ip/smeg-exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-negro/00081289502336?athbdg=L1300",
-        "price": 6509.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Crema",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-4-rebanadas-interfaz-multifuncion-color-crema/00081289502113",
-        "price": 7415.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Rosa",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-4-rebanadas-interfaz-multifuncion-color-rosa/00081289502118?athbdg=L1300",
-        "price": 7589.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 4 Rebanadas Interfaz Multifunción Color Negro",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-4-rebanadas-interfaz-multifuncion-color-negro/00081289502115?athbdg=L1300",
-        "price": 5569.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Negro",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-2-rebanadas-interfaz-multifuncion-color-negro/00081289502003?athbdg=L1300",
-        "price": 5059.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 2 Rebanadas Interfaz Multifunción Color Blanco",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-2-rebanadas-interfaz-multifuncion-color-blanco/00081289502087",
-        "price": 7499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SMEG Exprimidor de cítricos estilo retro años 50 con boquilla antigoteo, activación automática y colado eficiente, rojo",
-        "url": "https://www.walmart.com.mx/ip/smeg-exprimidor-de-citricos-estilo-retro-anos-50-con-boquilla-antigoteo-activacion-automatica-y-colado-eficiente-rojo/00081289502342?athbdg=L1300",
-        "price": 4709.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Tostador Smeg 2 Rebanadas Interfaz multifunción color Gris",
-        "url": "https://www.walmart.com.mx/ip/tostador-smeg-2-rebanadas-interfaz-multifuncion-color-gris/00081289502186?athbdg=L1300",
-        "price": 6509.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|SMEGEXPRIMIDORCRITRICOSTOSTADORCAFETERA": {
-    "ts": "2026-08-22T08:19:10.616046+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-22T08:19:18.281718+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66JB886",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra con Aeroccino 3 + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVVZWW",
-        "price": 3589.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Citiz&Milk Negra con Aeroccino 3 + 7 Cápsulas",
-        "url": "https://www.amazon.com.mx/dp/B0BMM2XYX9",
-        "price": 4990.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66JB886",
-        "price": 2694.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
-        "price": 6369.09,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
-        "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
-        "price": 6999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Roja con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0C66LP9GM",
-        "price": 1745.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Negra + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSX7MKT6",
-        "price": 5999.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-22T08:19:25.456163+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
-        "price": 7599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712119?athbdg=L6000",
-        "price": 3369.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Summer Limited Edition",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-summer-limited-edition/00002161481499?athbdg=L1300",
-        "price": 4269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Pop+ Amarilla con Aeroccino3",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-pop-amarilla-con-aeroccino3/00004438751922?athbdg=L1300",
-        "price": 4079.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
-        "price": 4959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3949.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-deluxe/00002161480465",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Up de DeLonghi Blanca",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-blanca/00004438712001?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ de De'Longhi con Aeroccino, Amarillo Mango",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-de-de-longhi-con-aeroccino-amarillo-mango/00004438700923?athbdg=L1300",
-        "price": 5379.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Deluxe",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-deluxe/00002161481379?athbdg=L1300",
-        "price": 4099.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|NESPRESSOAEROCCINOCAFETERASUMMERVERTUO": {
-    "ts": "2026-08-22T08:19:26.262764+00:00",
-    "items": []
-  },
-  "amazon|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-22T08:19:29.506190+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "XIAOMI REDMI 15C 4GB 128GB Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FQZYY2B5",
-        "price": 2399.0,
-        "model": "128GB"
-      },
-      {
-        "store": "amazon",
-        "name": "Xiaomi Redmi 15C 4GB RAM 128GB ROM, MediaTek Helio G81-Ultra, Pantalla 6.9\" 120Hz, Cámara 50MP, Batería 6000mAh, Carga 33W, IP64, HyperOS 2 Azul",
-        "url": "https://www.amazon.com.mx/dp/B0FQZYGSCD",
-        "price": 2399.0,
-        "model": "G81-Ultra"
-      },
-      {
-        "store": "amazon",
-        "name": "Funda Mica para Xiaomi Poco C85 4G y para Redmi 15C 4G (no for 5G) Case Uso Rudo Acrílico Carcasa + 2 Piezas Protector de Pantalla Cristal Templado Screen Cover SJ(Negro+ 2 Mica)",
-        "url": "https://www.amazon.com.mx/dp/B0FQ65HTBS",
-        "price": 174.24,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "LeYi Funda para Xiaomi Redmi 15C 4G/5G con [2 pcs Cristal Vidrio Templado] 15 C Case Uso Rudo Carcasa Cubierta de cámara Deslizante Proteger Anillo 360 Soporte Silicona TPU Armor Bumper, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0FP29QH8R",
+        "name": "Raganet, Asiento de Bicicleta, Sillín de Reemplazo, Cojín Suave, Cómodo e Impermeable, Prostático. Compatible con la Mayoría de Bicicletas, Unisex",
+        "url": "https://www.amazon.com.mx/dp/B0B3CF77WS",
         "price": 159.0,
-        "model": "4G/5G"
-      },
-      {
-        "store": "amazon",
-        "name": "TUNKARMOR Funda para Xiaomi Poco C85 5G y Redmi 15C 5G Case Uso Rudo - Incluye 2 películas Protectoras templadas con Ventana Deslizante de protección de la cámara y Soporte para el teléfono Rosa",
-        "url": "https://www.amazon.com.mx/dp/B0FWQXJMMW",
-        "price": 249.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Funda para Xiaomi Poco C85 4G y para Redmi 15C 4G(no for 5G) Case Uso Rudo Protector cámara Soporte Acrílico Carcasa Cover SJ Negro",
-        "url": "https://www.amazon.com.mx/dp/B0DT5MXXJF",
-        "price": 130.24,
+        "name": "FINYQBET Delantero Asiento para Bicicleta de Niños, Ajustable y Seguro con Reposabrazos Desmontable, Ideal para Bicicletas de Montaña y Plegables, Perfecto para Niños de 8 Meses a 6 Años",
+        "url": "https://www.amazon.com.mx/dp/B0D9LVYMRG",
+        "price": 799.0,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Funda para Xiaomi Poco C85 y Redmi 15C 4G, Funda Tipo Cartera Cuero Flip Folio con 4 Ranuras para Tarjetas, Carcasa con Soporte Plegable y Cierre Magnético para Xiaomi Redmi 15C - Rojo",
-        "url": "https://www.amazon.com.mx/dp/B0FVSDZPK1",
-        "price": 269.0,
+        "name": "Accesorios para Bicicleta,Asiento para Bicicleta con Luz Trasera | Asiento de Bicicleta Comfort Sillín Reducir la Vibración para Bicicleta de Montaña, Urbana,Carrera y Ejercicio",
+        "url": "https://www.amazon.com.mx/dp/B0GCYVZ7F6",
+        "price": 179.1,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Funda para Xiaomi Poco C85/ Redmi 15C 4G Case Transparente Uso Rudo Acrílico PC, Borde Flexible TPU Cover, Protectora de Cámara Lente Shockproof Rigido Carcasa Bumper",
-        "url": "https://www.amazon.com.mx/dp/B0FRMBR9MZ",
-        "price": 138.0,
+        "name": "Asiento de Bicicleta para Niños Reemplazo con Manillar, Asiento de Bicicleta Infantil Desmontable Montado en la Parte Delantera con Pedales para Niños de 2~5 Años",
+        "url": "https://www.amazon.com.mx/dp/B0C9GR5C4S",
+        "price": 762.89,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "XIAOMI REDMI Note 15 Pro Celular 8G RAM+256G ROM Negro Cámara de 200MP",
-        "url": "https://www.amazon.com.mx/dp/B0G8KB7TF6",
-        "price": 5188.0,
-        "model": "RAM+256G"
-      },
-      {
-        "store": "amazon",
-        "name": "JS Funda para Redmi 15C 4G y para Xiaomi Poco C85 4G (No For 5G) Case Uso Rudo Protector cámara Soporte Grado Militar Antigolpes rígido Acrílico Carcasa Cover",
-        "url": "https://www.amazon.com.mx/dp/B0DT7GHPVG",
-        "price": 133.0,
+        "name": "WOTOW Cojín de Gel para Asiento de Bicicleta, Cómodo Cojín Acolchado y Sílice para Sillín de Bicicleta Montaña Carretera Spinning y Ciclismo al Aire Libre con Cubierta Resistente al Agua y Polvo",
+        "url": "https://www.amazon.com.mx/dp/B07B97TSMP",
+        "price": 151.99,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "USTIYA Funda Mica x2 para Xiaomi Poco C85 y para Redmi 15C 4G Case Matte Acrílico Uso Rudo Carcasa Protectora de cámara Cover Protector de Pantalla Cristal Templado Screen Con Correa Cordón Negro FGKM",
-        "url": "https://www.amazon.com.mx/dp/B0FRZ5XJ24",
-        "price": 178.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Funda para Xiaomi Redmi 15C 4G Case Prueba Caídas, Borde TPU y Uso Rudo PC Disipación Calor Cover, Anillo de Hierro Metálica y Protección Completa Cámara",
-        "url": "https://www.amazon.com.mx/dp/B0FS1N89SL",
-        "price": 216.6,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-22T08:19:32.987200+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-256gb-negro-telcel/00750622736047?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-256gb-verde-telcel/00750622736049?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-8gb-ram-256gb-midnight-black/00693255444480",
-        "price": 3175.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 4+128 Negro Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-4-128-negro-desbloqueado/00750665820604?athbdg=L6000",
-        "price": 2999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 256gb Dual SIM 4gb RAM Negro",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-256gb-dual-sim-4gb-ram-negro/00693255444481",
-        "price": 3249.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15c 8gb Ram 256gb Verde Claro",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-8gb-ram-256gb-verde-claro/00693255445614",
-        "price": 3175.0,
-        "model": "256gb"
-      },
-      {
-        "store": "walmart",
-        "name": "Redmi 15C 128GB ROM 4GB RAM Pantalla Dot Drop de 6,9\" Cámara 50 MP - Negro Medianoche",
-        "url": "https://www.walmart.com.mx/ip/redmi-15c-128gb-rom-4gb-ram-pantalla-dot-drop-de-6-9-camara-50-mp-negro-medianoche/00693255444485?athbdg=L6000",
-        "price": 2398.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-256gb-dorado-telcel/00750622736052?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15c-128gb-negro-telcel/00750622736044?athbdg=L1300",
-        "price": 2519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15C 128 GB + 4GB RAM | Batería 6000mAh | Cámara 50MP | 6.9\" 120Hz | Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-redmi-15c-128-gb-4gb-ram-bateria-6000mah-camara-50mp-6-9-120hz-desbloqueado/00693255445590",
-        "price": 2999.0,
-        "model": "6000mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-15-256gb-negro-telcel/00750622736050?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-14c-256-gb-verde-telcel/00750622735686?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|XIAOMITELCELXIAOMIREDMI15C": {
-    "ts": "2026-08-22T08:19:34.714943+00:00",
-    "items": []
-  },
-  "amazon|SHOTGUNBICICLETASHOTGUNASIENTO": {
-    "ts": "2026-08-22T08:20:47.471463+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "AUTOWT Comfort Asiento de Bicicleta, Reemplazo Sillín Bicicleta Acolchado Suave Espuma Memoria Alta Densidad Doble Amortiguación Goma Suspensión Ajuste Universal para Bicicletas para Mujer Hombre",
-        "url": "https://www.amazon.com.mx/dp/B0888P2YDY",
-        "price": 359.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Línea EC90, Asiento de Bicicleta de Montaña con Absorción de Impacto Universal, Asiento de Bicicleta de Carretera, Cojín, Accesorios para Bicicleta, Negro",
-        "url": "https://www.amazon.com.mx/dp/B0C69M56KJ",
-        "price": 469.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Sendowtek Sillín Bicicleta MTB, Sillín de Bicicleta Cómodo, Asiento de Bicicleta de Montaña, Asiento de Gel para Bicicleta, MTB Bike Seat, Cojín Ancho, Impermeable, Transpirable, Próstata Suave",
-        "url": "https://www.amazon.com.mx/dp/B0CPF1X9HX",
-        "price": 259.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Asiento de bicicleta universal cómodo marrón, duradero de piel sintética para asiento de bicicleta, remaches, retro, color marrón",
-        "url": "https://www.amazon.com.mx/dp/B0C4HS4525",
-        "price": 583.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Escopeta para niños – Combos de asiento de bicicleta infantil y manubrio – Montaje delantero, para niños de 2 a 5 años, se adapta a la mayoría de bicicletas de montaña modernas para adultos, ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0DXZ58CDX",
-        "price": 7139.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Kids Ride Shotgun - Combos de Asiento de Bicicleta Infantil y manubrio - Montaje Delantero, para niños de 2 a 5 años, se Adapta a la mayoría de Bicicletas de montaña Modernas para Adultos, Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B08J2F2PKY",
-        "price": 3184.35,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio para manubrio MTB para niños | Accesorio para el asiento de bicicleta de montaña de escopeta | Fácil montaje y extracción (manubrio de bicicleta para niños)",
-        "url": "https://www.amazon.com.mx/dp/B09T5KQCXT",
-        "price": 1779.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Kids Ride Shotgun Accesorio de Manubrio MTB para Niños | Accesorio para el Asiento de Bicicleta de Montaña Shotgun | Fácil Instalación y Remoción (Manubrio de Bicicleta para Niños 2.0)",
-        "url": "https://www.amazon.com.mx/dp/B09TJQ9TBJ",
-        "price": 1068.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cojín De Asiento Moto para Royal Enfield Shotgun 650 | Estructura De Gel Panal Absorbe Impactos. Conducto De Aire Central Mantiene Ventilación. Partículas Antideslizantes.",
-        "url": "https://www.amazon.com.mx/dp/B0H9KNX2R4",
-        "price": 1300.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cojín de Aire 3D para Motocicleta Royal for Enfield Shotgun 650",
-        "url": "https://www.amazon.com.mx/dp/B0H9KRWZW1",
-        "price": 690.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cojín Asiento Gel Transpirable para Royal Enfield Shotgun 650 | Estructura De Panal Hueca Dispersa Peso En Viajes. Funda De Malla De Secado Rápido Mantiene Frescura.",
-        "url": "https://www.amazon.com.mx/dp/B0H9S4FFR9",
-        "price": 1057.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cojín De Asiento De Motocicleta para Royal Enfield Shotgun 650 | Malla Secado Rápido Estructura Gel Espuma Impermeable Ranura Transpirable Absorción Impactos Correa Antirrobo",
-        "url": "https://www.amazon.com.mx/dp/B0HB747M1Y",
-        "price": 1093.99,
+        "name": "QICHEN Cojín para Asiento de Bicicleta,Funda para Asiento de Bicicleta Acolchada,Cojines cómodos para Hombres y Mujeres",
+        "url": "https://www.amazon.com.mx/dp/B0C7YCWVKR",
+        "price": 179.0,
         "model": null
       }
     ]
   },
   "walmart|SHOTGUNBICICLETASHOTGUNASIENTO": {
-    "ts": "2026-08-22T08:20:52.207501+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Asiento Infantil para Bicicleta SHOTGUN Pro Montado al Frente Ajustable",
-        "url": "https://www.walmart.com.mx/ip/asiento-infantil-para-bicicleta-shotgun-pro-montado-al-frente-ajustable/00942103607199?athbdg=L1300",
-        "price": 8649.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Asiento de bicicleta SHOTGUN Pro Combo de montaje delantero para niños de 2 a 5 años",
-        "url": "https://www.walmart.com.mx/ip/asiento-de-bicicleta-shotgun-pro-combo-de-montaje-delantero-para-ninos-de-2-a-5-anos/00942103607201?athbdg=L1300",
-        "price": 9859.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Asiento de bicicleta infantil con soporte frontal tipo escopeta para niños de 2 a 5 años",
-        "url": "https://www.walmart.com.mx/ip/asiento-de-bicicleta-infantil-con-soporte-frontal-tipo-escopeta-para-ninos-de-2-a-5-anos/00942103607083?athbdg=L1300",
-        "price": 7029.0,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-24T08:38:03.988456+00:00",
+    "items": []
   },
   "sams|SHOTGUNBICICLETASHOTGUNASIENTO": {
-    "ts": "2026-08-22T08:20:58.096257+00:00",
+    "ts": "2026-08-24T08:38:07.798880+00:00",
     "items": [
       {
         "store": "sams",
@@ -8529,188 +6786,6 @@
         "model": null
       }
     ]
-  },
-  "amazon|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-22T08:21:10.391938+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Mr. Coffee Cafetera programable de 10 tazas, jarra térmica aislada, selección de fuerza de preparación, cerveza ahora o más tarde, acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B08MX4XG97",
-        "price": 2049.44,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Hukën x MasterChef | Cafetera Smart-Brew 12 Tazas | Touch Panel | Jarra de Vidrio | Pausa para Servir | Reloj Digital | Filtro Permanente | Acero Inoxidable | Mantiene Calor 2h | Intensidad Ajustable",
-        "url": "https://www.amazon.com.mx/dp/B0CX6D9MF2",
-        "price": 889.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
-        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
-        "price": 745.69,
-        "model": "BVSTDCP121M"
-      },
-      {
-        "store": "amazon",
-        "name": "Jarra de Repuesto para Cafetera, 12 Tazas, 16.1 cm de Altura, Compatible con Modelos Oster BVSTRC12, BVSTDC12X, BVSTDCP12X",
-        "url": "https://www.amazon.com.mx/dp/B0FWGQ6KCC",
-        "price": 465.0,
-        "model": "BVSTDCP12X"
-      },
-      {
-        "store": "amazon",
-        "name": "12Tazas Jarra de Repuesto Cafetera, Compatible Modelos Oster y Black&Decker | Jarra de repuesto de vidrio resistente al calor de 1.8L, con pico vertedor fácil y asa cómoda, sin BPA",
-        "url": "https://www.amazon.com.mx/dp/B0H1WNYLW1",
-        "price": 398.0,
-        "model": "12Tazas"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Accesorio Jarra Vidrio Para Cafetera Oster 5 Tazas",
-        "url": "https://www.amazon.com.mx/dp/B0FQFW4D6J",
-        "price": 299.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-22T08:21:44.646987+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-percoladora-comercial-de-14-L-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2075.68,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-de-8-tazas-en-Acero-Inoxidable/00005389114124",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-de-Goteo-Color-Negro/00005389117864",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-de-Panel-Tactil-de-12-Tazas-Plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster, Capacidad de 5 Tazas, Filtro Permanente, Color Negro, Modelo BVSTDCS51B-NE",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Capacidad-de-5-Tazas-Filtro-Permanente-Color-Negro-Modelo-BVSTDCS51B-NE/00046525567063",
-        "price": 800.0,
-        "model": "BVSTDCS51B-NE"
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/Oster-Cafetera-de-5-tazas-con-filtro-permanente-Negro-BVSTDC05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-Programable-12-Tazas-Negro/00005389114272",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-Oster-12-Tazas-Negro/00005389114704",
-        "price": 458.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera profesional de gran capacidad - Acero inoxidable doble pared, calentamiento rápido",
-        "url": "https://www.walmart.com.mx/ip/Cafetera-profesional-de-gran-capacidad-Acero-inoxidable-doble-pared-calentamiento-rapido/00088162832695",
-        "price": 4439.77,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATOUCHACEROTAZAS": {
-    "ts": "2026-08-22T08:21:45.459016+00:00",
-    "items": []
   },
   "amazon|MOTOROLADESBLOQUEADOCELULARMORADOFUSION": {
     "ts": "2026-08-22T08:50:59.473522+00:00",
@@ -23540,5 +21615,454 @@
   "sams|APPLEIPHONERETINASUPERAPPLE": {
     "ts": "2026-08-24T05:54:27.303497+00:00",
     "items": []
+  },
+  "amazon|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-24T08:36:50.518234+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Pottery Barn Plato de ensalada con forma de concha de cerámica para granero bajo el mar",
+        "url": "https://www.amazon.com.mx/dp/B0B5FBWL9J",
+        "price": 2394.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn - Plato de ensalada de renos de China, zorra",
+        "url": "https://www.amazon.com.mx/dp/B09NQPJBVY",
+        "price": 3263.87,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn Studio Plato de cena crema",
+        "url": "https://www.amazon.com.mx/dp/B09JGQ1CG2",
+        "price": 2729.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn - Plato de aperitivo de reno, bailarín",
+        "url": "https://www.amazon.com.mx/dp/B09NQNZ2SP",
+        "price": 2528.61,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn - Plato de ensalada de renos de China, Prancer",
+        "url": "https://www.amazon.com.mx/dp/B09NQQ26D3",
+        "price": 2729.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn - Plato de ensalada de renos de China, Donner",
+        "url": "https://www.amazon.com.mx/dp/B09NQP26QC",
+        "price": 2729.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn China Plato de ensalada de reno, Blitzen",
+        "url": "https://www.amazon.com.mx/dp/B09NQP5M5X",
+        "price": 2729.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn - Plato de ensalada de renos, bailarín",
+        "url": "https://www.amazon.com.mx/dp/B09NQMZT9Y",
+        "price": 2729.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn Sausalito - Plato para especias",
+        "url": "https://www.amazon.com.mx/dp/B09JGPVD5M",
+        "price": 2461.77,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Tunisian Sunset - tazón de cerámica para servir de 13.3 pulgadas, 139 onzas, multicolor con patrón floral bohemio, plato decorativo grande para entretenimiento, ensalada, frutas o decoración rústica",
+        "url": "https://www.amazon.com.mx/dp/B01ENM7CCE",
+        "price": 1187.9,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Pottery Barn Plato de cena cuadrado asiático amarillo",
+        "url": "https://www.amazon.com.mx/dp/B09NS267GM",
+        "price": 2595.45,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Plato de ensalada de renos Pottery Granero",
+        "url": "https://www.amazon.com.mx/dp/B00484GRS8",
+        "price": 2817.17,
+        "model": null
+      }
+    ]
+  },
+  "walmart|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-24T08:36:59.588986+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Plato Home Trends para Ensalada de Cerámica Blanco",
+        "url": "https://www.walmart.com.mx/ip/plato-home-trends-para-ensalada-de-ceramica-blanco/00489512585348?athbdg=L6000",
+        "price": 99.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "ColoMX Bandeja para hornear cerámica Restaurante para hornear Disminución de la ensalada Tazón Hotel Hotel Bakeware de cerámica",
+        "url": "https://www.walmart.com.mx/ip/colomx-bandeja-para-hornear-ceramica-restaurante-para-hornear-disminucion-de-la-ensalada-tazon-hotel-hotel-bakeware-de-ceramica/00701415660961?athbdg=L6000",
+        "price": 598.99,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cuenco de cerámica para ensalada, multifuncional, redondo, sencillo, para servir alimentos. Lámina",
+        "url": "https://www.walmart.com.mx/ip/cuenco-de-ceramica-para-ensalada-multifuncional-redondo-sencillo-para-servir-alimentos-lamina/00078756543057?athbdg=L1300",
+        "price": 739.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "1 juego de ensaladero decorativo de cerámica de cerámica para la ensalada de la cuchara de cerámica de cerámica para el accesorio",
+        "url": "https://www.walmart.com.mx/ip/1-juego-de-ensaladero-decorativo-de-ceramica-de-ceramica-para-la-ensalada-de-la-cuchara-de-ceramica-de-ceramica-para-el-accesorio/00471397850408?athbdg=L1300",
+        "price": 457.29,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cuenco de Cerámica para Ensalada, Plato Redondo Multifuncional, Moderno, para Postre, Vajilla para Cafetería, Hogar, Restaurante, Ensalada Y Aperitivo",
+        "url": "https://www.walmart.com.mx/ip/cuenco-de-ceramica-para-ensalada-plato-redondo-multifuncional-moderno-para-postre-vajilla-para-cafeteria-hogar-restaurante-ensalada-y-aperitivo/00078711350971?athbdg=L1300",
+        "price": 589.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Plato de cerámica para ensalada con esmalte craquelado, vajilla decorativa, plato , plato para servir de forma Irregular para aperitivos de",
+        "url": "https://www.walmart.com.mx/ip/plato-de-ceramica-para-ensalada-con-esmalte-craquelado-vajilla-decorativa-plato-plato-para-servir-de-forma-irregular-para-aperitivos-de/00078689480495?athbdg=L1300",
+        "price": 1069.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Plato Thyme & Table Redono de Ensalada Atlántico de Cerámica Azul",
+        "url": "https://www.walmart.com.mx/ip/plato-thyme-table-redono-de-ensalada-atlantico-de-ceramica-azul/00019655719747?athbdg=L6000",
+        "price": 119.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Plato Chefmaker Cerámica con Relieve 19 cm Arena",
+        "url": "https://www.walmart.com.mx/ip/plato-chefmaker-ceramica-con-relieve-19-cm-arena/00750091600625?athbdg=L6000",
+        "price": 79.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bandeja para hornear cerámica Restaurante para hornear Disminución de la ensalada Tazón Hotel Hotel Bakeware de cerámica",
+        "url": "https://www.walmart.com.mx/ip/bandeja-para-hornear-ceramica-restaurante-para-hornear-disminucion-de-la-ensalada-tazon-hotel-hotel-bakeware-de-ceramica/00440167684762?athbdg=L1300",
+        "price": 281.51,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cuenco de cerámica para ensalada y postre, recipiente redondo multiusos para alimentos para el hogar. Lámina",
+        "url": "https://www.walmart.com.mx/ip/cuenco-de-ceramica-para-ensalada-y-postre-recipiente-redondo-multiusos-para-alimentos-para-el-hogar-lamina/00078770315125?athbdg=L1300",
+        "price": 739.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Plato de cerámica para ensalada, aperitivos, elegante, multiusos, moderno, para decoración. Blanco",
+        "url": "https://www.walmart.com.mx/ip/plato-de-ceramica-para-ensalada-aperitivos-elegante-multiusos-moderno-para-decoracion-blanco/00078701055388?athbdg=L1300",
+        "price": 1019.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Plato de ensalada de cerámica, frutero, plato irregular, vajilla para bocadillos y frutas.",
+        "url": "https://www.walmart.com.mx/ip/plato-de-ensalada-de-ceramica-frutero-plato-irregular-vajilla-para-bocadillos-y-frutas-/00078758605016?athbdg=L1300",
+        "price": 729.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|POTTERYBARNENSALADACERAMICARAMADANZAHRA": {
+    "ts": "2026-08-24T08:37:02.363189+00:00",
+    "items": []
+  },
+  "amazon|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-24T08:38:14.243371+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S16 OLED 3k/ AMD Ryzen AI 7 350/50 TOPS/24GB -1TB SSD/AMD Radeon Graphics/Carga rapida USB-C/Teclado en español + Funda (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F41C72RP",
+        "price": 22999.0,
+        "model": "TOPS/24GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/Ryzen AI 5 340/50 Tops/ 16GB - 512 GB SSD/Reconocimiento Facial/Cargador USB-C + Incluye Funda/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0F3ZT4G53",
+        "price": 16499.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Edición Ceraluminum Ryzen AI 9 465/50 TOPS/16 3K OLED /32GB /1TB SSD/+ Funda/Garantía y Servicio con la Marca en México",
+        "url": "https://www.amazon.com.mx/dp/B0GQJTC2RZ",
+        "price": 36999.0,
+        "model": "TOPS/16"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 OLED/AMD Ryzen AI 7 / AMD Radeon Graphics | 16GB RAM/ 1TB SSD//Teclado en Español/ (Garantía y Servicio en México) (Incluye Sleeve)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3T23HQ",
+        "price": 23999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 Laptop - AMD Ryzen 5-8GB RAM - NVIDIA GEFORCE MX350-256GB SSD - Win 10, gris claro",
+        "url": "https://www.amazon.com.mx/dp/B08C81JT39",
+        "price": 12913.8,
+        "model": "MX350-256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 15 Business Slim Laptop, 15.6\" FHD 100% sRGB, AMD Ryzen 5 7535U, teclado retroiluminado, Wi-Fi 6E, USB C, Windows 11 Home, con paño (16 GB LPDDR5 RAM | 2 TB SSD)",
+        "url": "https://www.amazon.com.mx/dp/B0DP9NKV3T",
+        "price": 21419.99,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16 Procesador AMD Ryzen 7-7730U 16GB RAM 512GB SSD Pantalla WUXGA 16 Pulgadas",
+        "url": "https://www.amazon.com.mx/dp/B0F2VNQKX1",
+        "price": 13499.0,
+        "model": "7-7730U"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, 16\" 3K visualización táctil (2880x1800), AMD Radeon 880M, W11 Home, Teclado QWERTY Estadounidense",
+        "url": "https://www.amazon.com.mx/dp/B0DJH4XLBS",
+        "price": 43285.48,
+        "model": "2880x1800"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook S 16 Laptop, AMD Ryzen AI 9 365, 24 GB DDR5 RAM, 1 TB PCIe SSD, pantalla táctil de 16” 3K (2880x1800), AMD Radeon 880M, W11 Pro",
+        "url": "https://www.amazon.com.mx/dp/B0DSLHKSQX",
+        "price": 44090.0,
+        "model": "2880x1800"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Expertbook P1/Ryzen 7/ 16GB RAM - 512SSD/ Wi-Fi 6 + Bluetooth 5.4/Diseñada para Seguridad empresarial/Teclado en español + Mochila y Mouse (Servicio y garantía con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FWM13GBK",
+        "price": 15999.0,
+        "model": "P1/Ryzen"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Zenbook 14 AI Laptop | visualización táctil WUXGA OLED de 14 pulgadas | AMD Ryzen AI 7 350 (hasta 50 NPU) | SSD DDR5 de 32 GB de 1 TB | para Creator Business Professional Win11 Pro con accesorio",
+        "url": "https://www.amazon.com.mx/dp/B0G5YG6H5Q",
+        "price": 36950.0,
+        "model": "Win11"
+      }
+    ]
+  },
+  "walmart|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-24T08:38:17.265771+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook 16: Procesador Intel Core i9 13900H (hasta 5.4 GHz), Memoria de 16GB DDR4, SSD de 1TB, Pantalla de 16\" LED WUXGA, Video UHD Graphics, S.O. Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-16-procesador-intel-core-i9-13900h-hasta-5-4-ghz-memoria-de-16gb-ddr4-ssd-de-1tb-pantalla-de-16-led-wuxga-video-uhd-graphics-s-o-windows-11-home/00019710580807",
+        "price": 17999.0,
+        "model": "13900H"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Zenbook UM3406KA-QD096W AMD Ryzen AI 5 340 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-zenbook-um3406ka-qd096w-amd-ryzen-ai-5-340-16gb-512gb/00019710588042?athbdg=L1300",
+        "price": 19497.0,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook Go 15 Laptop 15.6” FHD AMD Ryzen 5 8GB RAM 512GB SSD Windows 11 AMD Radeon WiFi Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-go-15-laptop-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-windows-11-amd-radeon-wifi-bluetooth/00019929131680?athbdg=L1300",
+        "price": 8489.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS TUF FX607 R5 16GB 512GB 4050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-fx607-r5-16gb-512gb-4050/00019710590016",
+        "price": 25999.0,
+        "model": "FX607"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus VivoBook Go 15.6\" FHD AMD Ryzen 5 8GB RAM 512GB SSD W11 Negro",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-go-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-w11-negro/00065396995296?athbdg=L1300",
+        "price": 8629.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop ASUS VivoBook D413UA, AMD Ryzen 7 5700U, RAM 8GB, SSD 512GB, Pantalla 14 LED, Windows 11 Home. Asus D413UA-R78G512",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-d413ua-amd-ryzen-7-5700u-ram-8gb-ssd-512gb-pantalla-14-led-windows-11-home-asus-d413ua-r78g512/00019555353315",
+        "price": 13786.26,
+        "model": "D413UA-R78G512"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus E1404FA-EB923W R5 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-e1404fa-eb923w-r5-16gb-512gb/00019929140091",
+        "price": 11997.0,
+        "model": "E1404FA-EB923W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS Vivobook S16 Laptop OLED de 16″ – Intel Core Ultra 9 285H Supera a AMD Ryzen 9 8945HS, 32GB RAM/ 1TB SSD, 2880x1800 DCI-P3 100%, Ketboard Retroiluminado RGB, Windows 11, Business AI Copilot PC",
+        "url": "https://www.walmart.com.mx/ip/asus-vivobook-s16-laptop-oled-de-16-intel-core-ultra-9-285h-supera-a-amd-ryzen-9-8945hs-32gb-ram-1tb-ssd-2880x1800-dci-p3-100-ketboard-retroiluminado-rgb-windows-11-business-ai-copilot-pc/00019710535553?athbdg=L6000",
+        "price": 26634.65,
+        "model": "2880x1800"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook 15.6\" Fhd Amd Ryzen 5 8gb Ram 512gb Ssd Negra",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-15-6-fhd-amd-ryzen-5-8gb-ram-512gb-ssd-negra/00065796826744?athbdg=L1300",
+        "price": 9129.0,
+        "model": "512gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1605NAQ-MB087W R7 16GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1605naq-mb087w-r7-16gb-512gb/00019929143351",
+        "price": 13997.0,
+        "model": "M1605NAQ-MB087W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS TUF Gaming A18 NVIDIA GeForce RTX 5070 AMD Ryzen 7 260 64GB RAM 1TB SSD 18\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-tuf-gaming-a18-nvidia-geforce-rtx-5070-amd-ryzen-7-260-64gb-ram-1tb-ssd-18-windows-11-home-teclado-en-ingles/00070452118382?athbdg=L1300",
+        "price": 59999.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Vivobook M1407KA-LY147W R AI5 16GB 1TB Azul",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-vivobook-m1407ka-ly147w-r-ai5-16gb-1tb-azul/00019929116770",
+        "price": 14491.0,
+        "model": "M1407KA-LY147W"
+      }
+    ]
+  },
+  "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
+    "ts": "2026-08-24T08:38:20.777153+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fc0377la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fc0377la/981050997",
+        "price": 14320.98,
+        "model": "15-fc0377la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905",
+        "price": 13297.98,
+        "model": "15-fc0276la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Gaming HP  Victus AMD Ryzen 7/16 GB RAM/512 GB SSD 15-fb3021la",
+        "url": "https://www.sams.com.mx/ip/laptop-gaming-hp-victus-amd-ryzen-7-16-gb-ram-512-gb-ssd-15-fb3021la/981043563",
+        "price": 23527.98,
+        "model": "15-fb3021la"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop HP  Pavilion Aero AMD Ryzen 7/16 GB RAM/1 TB SSD 13-bg0000la",
+        "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-aero-amd-ryzen-7-16-gb-ram-1-tb-ssd-13-bg0000la/981023372",
+        "price": 29254.71,
+        "model": "13-bg0000la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus Zenbook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD UM3406KA-QD096W + Funda",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-zenbook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-um3406ka-qd096w-funda/981035880",
+        "price": 23016.48,
+        "model": "UM3406KA-QD096W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming Asus  AMD Ryzen 5/16 GB RAM/512 GB SSD FA607NU-RL110W + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-amd-ryzen-5-16-gb-ram-512-gb-ssd-fa607nu-rl110w-mouse/981036055",
+        "price": 23016.48,
+        "model": "FA607NU-RL110W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  AMD Ryzen 7/ 16 GB RAM/1 TB SDD M1605NAQ-MB231W + Backpack + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-amd-ryzen-7-16-gb-ram-1-tb-sdd-m1605naq-mb231w-backpack-mouse/981052329",
+        "price": 15282.6,
+        "model": "M1605NAQ-MB231W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 3/8 GB RAM/512 GB SSD 15-fc0000la + Multifuncional IA 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-3-8-gb-ram-512-gb-ssd-15-fc0000la-multifuncional-ia-2375/981008584",
+        "price": 10433.57,
+        "model": "15-fc0000la"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Asus  Vivobook AMD Ryzen 7/16 GB RAM/512 GB SSD M1605NAQ-MB107W + Mochila + Mouse ",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-amd-ryzen-7-16-gb-ram-512-gb-ssd-m1605naq-mb107w-mochila-mouse/981052326",
+        "price": 17389.98,
+        "model": "M1605NAQ-MB107W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop Gaming ASUS TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA607NUQ-RL044W + Mochila",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa607nuq-rl044w-mochila/981055132",
+        "price": 30688.95,
+        "model": "FA607NUQ-RL044W"
+      },
+      {
+        "store": "sams",
+        "name": "Monitor Portátil Asus  MB16AHVE",
+        "url": "https://www.sams.com.mx/ip/monitor-portatil-asus-mb16ahve/981053733",
+        "price": 2454.18,
+        "model": "MB16AHVE"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
+        "price": 13809.48,
+        "model": "15-fc0253la"
+      }
+    ]
   }
 }

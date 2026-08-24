@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 07:42 UTC",
-  "products_scanned": 1624,
+  "generated_at": "2026-08-24 08:38 UTC",
+  "products_scanned": 1669,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$4,800 en liverpool vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2699.73,
-      "store": "liverpool",
-      "name": "Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drenaje 7 Pies Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011",
-      "price": 4799.52,
-      "list_price": 5999.4,
-      "ean": null,
-      "model": "Mdrc280Fzm30",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152344011",
         "marketplace": null
       }
     },
@@ -174,22 +153,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$6,199 en liverpool vs walmart $8,404 -> -26% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$250 en liverpool vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
-      "savings": 2204.8,
+      "savings": 99.8,
       "store": "liverpool",
-      "name": "Congelador Midea Mfcd09P2Nabw Horizontal 9 Pies Cubicos",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mfcd09p2nabw-horizontal-9-pies-cubicos/1110040357",
-      "price": 6199.2,
-      "list_price": 7749.0,
+      "name": "Plato Ensalada Zahra Ramadan De Ceramica",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431",
+      "price": 249.5,
+      "list_price": 499.0,
       "ean": null,
-      "model": "Mfcd09P2Nabw",
-      "brand": "MIDEA",
+      "model": null,
+      "brand": "POTTERY BARN",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1110040357",
+        "productId": "1167857431",
         "marketplace": null
       }
     },
@@ -212,6 +191,27 @@
       "extra": {
         "id": "45384039",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$4,266 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1421.0,
+      "store": "liverpool",
+      "name": "Colchon En Caja Luuna Basics1 10",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/colchon-en-caja-luuna-basics1-10/1178927540",
+      "price": 4266.15,
+      "list_price": 12189.0,
+      "ean": null,
+      "model": "Basics1",
+      "brand": "LUUNA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1178927540",
+        "marketplace": null
       }
     },
     {
@@ -468,27 +468,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.5,
-      "detail": "$10,709 en liverpool vs walmart $15,999 -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3059.83,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Hisense Frio 24000 Btu Ac242Cf 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-24000-btu-ac242cf-220-v/1133063826",
-      "price": 10709.41,
-      "list_price": 17999.0,
-      "ean": null,
-      "model": "Ac242Cf",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133063826",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -552,27 +531,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262439",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -594,22 +552,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 5.0,
-      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$4,800 en liverpool vs amazon $5,999 -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3199.65,
+      "savings": 1199.48,
       "store": "liverpool",
-      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
-      "price": 12799.35,
-      "list_price": 13473.0,
+      "name": "Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drenaje 7 Pies Cubicos",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011",
+      "price": 4799.52,
+      "list_price": 5999.4,
       "ean": null,
-      "model": null,
-      "brand": "APPLE",
+      "model": "Mdrc280Fzm30",
+      "brand": "MIDEA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1173032684",
+        "productId": "1152344011",
         "marketplace": null
       }
     },
