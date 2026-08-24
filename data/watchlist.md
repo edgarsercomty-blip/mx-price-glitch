@@ -265,7 +265,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unise…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html) | $11,499 | -20% |
 | 🟢 disponible | palacio | [Monitor deportivo Instinct 3 – Tactical Edition](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-%E2%80%93-tactical-edition-44733803.html) | $10,499 | -27% |
 | 🟢 disponible | palacio | [Smartwatch Huawei Watch Gt5 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt5-hombre-44319260.html) | $2,400 | -20% |
-| 🟢 disponible | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,779 | -49% |
+| 🟢 disponible | liverpool | [Licuadora Ninja Co905Ks 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co905ks-3-velocidades/1178822116) | $3,629 | -49% |
 | 🟢 disponible | liverpool | [Licuadora Ninja Bn701 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-bn701-3-velocidades/1125550718) | $2,239 | -22% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Dust Rose Soft Gold Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-dust-rose-soft-gold-deportivo-43401372.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Azul/Blanco Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html) | $11,499 | -20% |
@@ -694,7 +694,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-rojo/p/MLM41822619) | $999 | -50% |
 | 🟢 disponible | walmart | [Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led](https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984) | $999 | -34% |
 | 🟢 disponible | walmart | [Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pantalla …](https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469) | $499 | -27% |
-| 🟢 disponible | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | -20% |
+| 🟢 disponible | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $14,149 | -20% |
 | 🟢 disponible | amazon | [HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, …](https://www.amazon.com.mx/dp/B0FNX81ZQH) | $9,999 | -58% |
 | 🟢 disponible | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clase 10,…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | -35% |
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |
@@ -710,7 +710,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $10,229 | -28% |
 | 🟢 disponible | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600) | $5,490 | -21% |
 | 🟢 disponible | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SS…](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $14,321 | -20% |
-| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $3,248 | -30% |
+| 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $3,247 | -30% |
 | 🟢 disponible | amazon | [Vaso De Vidrio Para Licuadora Compatible InfinyForce LN8148M…](https://www.amazon.com.mx/dp/B0F3444GH7) | $215 | -73% |
 | 🟢 disponible | amazon | [Mustela Maternidad Aceite Prevención Estrías Corporal, 105ml](https://www.amazon.com.mx/dp/B01CGE66TG) | $130 | -63% |
 | 🟢 disponible | mercadolibre | [Pantalla Lcd De Repuesto Para Multiusos De 3.0 Pulgadas](https://www.mercadolibre.com.mx/pantalla-lcd-superior-superior-para-lite-ndsl/p/MLM2039943132) | $336 | -21% |
@@ -763,7 +763,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Consola Microsoft Xbox Series X 2TB Galaxy Black Edición Esp…](https://www.mercadolibre.com.mx/consola-microsoft-xbox-series-x-2tb-galaxy-black-edicion-especial-con-control-inalambrico-negro-y-wi-fi/p/MLM54551840) | $30,000 | -27% |
 | 🟢 disponible | amazon | [Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutiliz…](https://www.amazon.com.mx/dp/B0F8KF41L9) | $298 | -25% |
 | 🟢 disponible | palacio | [Combo de Cafetera, Tostador y Exprimidor de crítricos](https://www.elpalaciodehierro.com/smeg-combo-de-cafetera-tostador-y-exprimidor-de-critricos-44923017.html) | $6,400 | -50% |
-| 🟢 disponible | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,290 | -21% |
+| 🟢 disponible | liverpool | [Asiento Para Bicicleta Shotgun](https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200) | $2,889 | -21% |
 | 🟢 disponible | amazon | [256GB SANDISK Ultra MICROSDXC MEM](https://www.amazon.com.mx/dp/B08KSL4RNQ) | $773 | -39% |
 | 🟢 disponible | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color…](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,529 | -24% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8S…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | -25% |
