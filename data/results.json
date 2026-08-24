@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 02:18 UTC",
-  "products_scanned": 1682,
+  "generated_at": "2026-08-24 02:35 UTC",
+  "products_scanned": 2779,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 45,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,26 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$719 en mercadolibre vs mercado -> -44% bajo la competencia",
+      "likely_typo": false,
+      "savings": 553.5,
+      "store": "mercadolibre",
+      "name": "Controles Del Reproductor De Consola #x8 | Inalambricos",
+      "url": "https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168",
+      "price": 719.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM2047274168"
       }
     },
     {
@@ -86,6 +106,67 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$952 en amazon vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 461.79,
+      "store": "amazon",
+      "name": "PUMA Pounce Lite",
+      "url": "https://www.amazon.com.mx/dp/B0D1YLWQQ1",
+      "price": 951.63,
+      "list_price": 317.21,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0D1YLWQQ1"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4128.48,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
+      "price": 8663.52,
+      "list_price": 18049.0,
+      "ean": null,
+      "model": "Wa20A3350Gw",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1106592728",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$6,399 en walmart vs mercado -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2950.0,
+      "store": "walmart",
+      "name": "Congelador Refrigerador Horizontal Midea Mfcd09p2nabw 9 Pies blanco 1 MIDEA 9 Pies MFCD09P2NABW Blanco",
+      "url": "https://www.walmart.com.mx/ip/Congelador-Refrigerador-Horizontal-Midea-Mfcd09p2nabw-9-Pies-blanco-1-MIDEA-9-Pies-MFCD09P2NABW-Blanco/00694046191005?athbdg=L1300",
+      "price": 6399.0,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": "Mfcd09p2nabw",
+      "brand": "Midea",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694046191005"
       }
     },
     {
@@ -363,6 +444,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.7,
+      "detail": "$823 en amazon vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 270.38,
+      "store": "amazon",
+      "name": "Puma Softride Harli - Zapatos de Entrenamiento sin Cordones para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0DDTV7HZ2",
+      "price": 822.83,
+      "list_price": 1435.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DDTV7HZ2"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$7,296 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -573,6 +674,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.5,
+      "detail": "$10,709 en liverpool vs walmart $15,999 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3059.83,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Hisense Frio 24000 Btu Ac242Cf 220 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-24000-btu-ac242cf-220-v/1133063826",
+      "price": 10709.41,
+      "list_price": 17999.0,
+      "ean": null,
+      "model": "Ac242Cf",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133063826",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -636,6 +758,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1439.0,
+      "store": "walmart",
+      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
+      "url": "https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600",
+      "price": 5490.0,
+      "list_price": 7990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00692172704679"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -653,6 +795,67 @@
       "extra": {
         "productId": "1105905200",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$794 en amazon vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 206.21,
+      "store": "amazon",
+      "name": "Keds WH61626 Tenis de piel para Dama",
+      "url": "https://www.amazon.com.mx/dp/B0CNV44WCH",
+      "price": 794.14,
+      "list_price": 264.71,
+      "ean": null,
+      "model": "WH61626",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0CNV44WCH"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$4,769 en mercadolibre vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1230.0,
+      "store": "mercadolibre",
+      "name": "Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color Gris",
+      "url": "https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243",
+      "price": 4769.0,
+      "list_price": 4769.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM26088243"
       }
     },
     {
