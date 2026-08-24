@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (949)
+# Historial de ofertas encontradas (950)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-24 22:46 | -35% | liverpool | [Porta Audifonos In Ear Otterbox](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531) | $129 | $129 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-24 15:47 | -21% | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $288 | $288 en mercadolibre vs mercado -> -21% bajo la competencia |
 | 2026-08-24 15:47 | -23% | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear con …](https://www.amazon.com.mx/dp/B0H1D82JGT) | $2,000 | $2,000 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-08-24 15:47 | -24% | mercadolibre | [Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata …](https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243) | $4,529 | $4,529 en mercadolibre vs mercado -> -24% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-04 04:01 | -21% | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | $8,232 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-03 22:19 | -80% | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Sup…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | $900 en liverpool vs mercado -> -80% bajo la competencia |
 | 2026-08-03 13:28 | -25% | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | $2,309 en liverpool vs mercado -> -25% bajo la competencia |
-| 2026-08-03 10:34 | -20% | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $1,796 | $1,796 en liverpool vs mercado -> -20% bajo la competencia |
