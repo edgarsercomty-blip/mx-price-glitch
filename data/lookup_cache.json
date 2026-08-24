@@ -1183,13 +1183,13 @@
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-22T21:13:03.658270+00:00",
+    "ts": "2026-08-24T21:20:38.042457+00:00",
     "items": [
       {
         "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Pop Titán con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0C66FNTKK",
-        "price": 1895.0,
+        "price": 1894.98,
         "model": null
       },
       {
@@ -1201,58 +1201,9 @@
       },
       {
         "store": "amazon",
-        "name": "Nespresso Vertuo variedad 30 cápsulas | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX7YL7",
-        "price": 635.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Essenza Mini Negra + 7 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B073QVQNKN",
-        "price": 3490.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Next Negro con Aeroccino 3 + 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
         "url": "https://www.amazon.com.mx/dp/B0DD9HJNB7",
         "price": 3493.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Colombia 30 cápsulas Vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX27GB",
-        "price": 645.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Intenso 30 cápsulas Vertuo | Compatible con máquinas vertuo",
-        "url": "https://www.amazon.com.mx/dp/B084HX2K5L",
-        "price": 615.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso, Café Vertuo Mug, Paquete de 30 cápsulas de Sistema Vertuo (Incluye 10 cápsulas de diferente variedad), 750 gramos",
-        "url": "https://www.amazon.com.mx/dp/B09CCHZRZ4",
-        "price": 582.05,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
-        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
-        "price": 5999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
-        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
-        "price": 1949.0,
         "model": null
       },
       {
@@ -1264,15 +1215,64 @@
       },
       {
         "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca + 22 cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSXM518L",
+        "price": 5999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "Nespresso Cafetera Vertuo Up Negra con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
         "url": "https://www.amazon.com.mx/dp/B0GSXH6L3F",
         "price": 6369.09,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Pop Beige con 12 Cápsulas | Incluye Winset de Cápsulas de regalo",
+        "url": "https://www.amazon.com.mx/dp/B0HBVJ3SMD",
+        "price": 1949.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Cafetera Vertuo Up Blanca con Aeroccino 3 + 22 Cápsulas | Incluye Winset de Cápsulas de regalo y 10 cápsulas México",
+        "url": "https://www.amazon.com.mx/dp/B0GSX3XKLC",
+        "price": 6999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Cafetera y espresso de De'Longhi con espumador de leche, rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0FGGSB7XB",
+        "price": 3532.23,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ Deluxe Cafetera y Espresso de Breville, Titan",
+        "url": "https://www.amazon.com.mx/dp/B0C5ZP4TX7",
+        "price": 2334.24,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Cafetera y espresso de edición limitada de De'Longhi, amarillo pastel",
+        "url": "https://www.amazon.com.mx/dp/B0DZH3VRT7",
+        "price": 2851.92,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Nespresso Vertuo Pop+ - Máquina para hacer café y expreso de De'Longhi, color rosa caramelo",
+        "url": "https://www.amazon.com.mx/dp/B0F2P1SSB2",
+        "price": 2648.95,
         "model": null
       }
     ]
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-22T21:13:08.849575+00:00",
+    "ts": "2026-08-24T21:20:50.024397+00:00",
     "items": [
       {
         "store": "walmart",
@@ -1283,16 +1283,9 @@
       },
       {
         "store": "walmart",
-        "name": "Nespresso Vertuo Pop+ Cafetera combinada de espresso y café con espumador de leche gris",
-        "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-pop-cafetera-combinada-de-espresso-y-cafe-con-espumador-de-leche-gris/00002161480859?athbdg=L1300",
-        "price": 3929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y espresso Nespresso Vertuo Pop+ de edición limitada de Breville, oro negro mate",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-pop-de-edicion-limitada-de-breville-oro-negro-mate/00002161481377?athbdg=L1300",
-        "price": 6014.0,
+        "name": "Máquina de café y espresso Nespresso Vertuo Next De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-de-longhi/00004438712022",
+        "price": 3448.85,
         "model": null
       },
       {
@@ -1306,99 +1299,70 @@
         "store": "walmart",
         "name": "Nespresso Vertuo Next Coffee & Nespresso BNV550GRY1BUC1Nespresso",
         "url": "https://www.walmart.com.mx/ip/nespresso-vertuo-next-coffee-nespresso-bnv550gry1buc1nespresso/00002161480207?athbdg=L1300",
-        "price": 8613.0,
+        "price": 6750.0,
         "model": "BNV550GRY1BUC1Nespresso"
       },
       {
         "store": "walmart",
         "name": "Máquina de café y espresso Nespresso Vertuo Next 1.1L",
         "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-next-1-1l/00002161480206?athbdg=L1300",
-        "price": 6209.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next DeLonghi",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-delonghi/00004438761208?athbdg=L1300",
-        "price": 4959.0,
+        "price": 6179.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera Nespresso Vertuo Up de DeLonghi Grafito",
         "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-up-de-delonghi-grafito/00004438732003?athbdg=L1300",
-        "price": 5269.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Nespresso Vertuo Next ENV120GYAE Reacondicionado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-nespresso-vertuo-next-env120gyae-reacondicionado/00004438701205?athbdg=L1300",
-        "price": 4069.0,
-        "model": "ENV120GYAE"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y cafetera espresso Nespresso Vertuo Next Breville",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-next-breville/00002161480202?athbdg=L1300",
-        "price": 3929.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera y Espresso Nespresso Vertuo Next de De'Longhi con e Nespresso Nespresso",
-        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-de-de-longhi-con-e-nespresso-nespresso/00004438701206?athbdg=L1300",
-        "price": 4499.0,
+        "price": 6749.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Cafetera y Espresso Nespresso Vertuo Breville Chrome",
         "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-breville-chrome/00002161499982?athbdg=L1300",
-        "price": 5469.0,
+        "price": 5439.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo 1597ml De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-1597ml-de-longhi/00004438700135?athbdg=L1300",
+        "price": 6369.0,
+        "model": "1597ml"
+      },
+      {
+        "store": "walmart",
+        "name": "Máquina de café y espresso Nespresso Vertuo De'Longhi",
+        "url": "https://www.walmart.com.mx/ip/maquina-de-cafe-y-espresso-nespresso-vertuo-de-longhi/00004438702135?athbdg=L1300",
+        "price": 6109.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y espresso Nespresso Vertuo Next Deluxe, cromo puro con espumador de leche Aeroccino, 1,1 litros, negro, cromo oscuro",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-espresso-nespresso-vertuo-next-deluxe-cromo-puro-con-espumador-de-leche-aeroccino-1-1-litros-negro-cromo-oscuro/00002161480211?athbdg=L1300",
+        "price": 7599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480804?athbdg=L1300",
+        "price": 5379.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cafetera y cafetera espresso Nespresso Vertuo Pop+ Breville",
+        "url": "https://www.walmart.com.mx/ip/cafetera-y-cafetera-espresso-nespresso-vertuo-pop-breville/00002161480797?athbdg=L1300",
+        "price": 3819.0,
         "model": null
       }
     ]
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-22T21:13:15.843786+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Red + Aeroccino3",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-red-aeroccino3/981042223",
-        "price": 3998.0,
-        "model": "Aeroccino3"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Pop Titan",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781",
-        "price": 1964.16,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso Vertuo Pop Deluxe  + Aeroccino 4",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-deluxe-aeroccino-4/981009422",
-        "price": 3474.11,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nespresso  Vertuo Lattissima Negro GDV5-MX-BK-NE",
-        "url": "https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-lattissima-negro-gdv5-mx-bk-ne/981040913",
-        "price": 8799.0,
-        "model": "GDV5-MX-BK-NE"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Nesspresso  Vertuo Pop Beige",
-        "url": "https://www.sams.com.mx/ip/cafetera-nesspresso-vertuo-pop-beige/981053671",
-        "price": 3999.0,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-24T21:20:53.111462+00:00",
+    "items": []
   },
   "amazon|SMEGCAFETERASMEG": {
     "ts": "2026-08-24T08:37:05.289549+00:00",
@@ -3918,14 +3882,14 @@
     "items": []
   },
   "amazon|CO401B": {
-    "ts": "2026-08-22T21:12:38.171643+00:00",
+    "ts": "2026-08-24T21:20:19.237289+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Ninja CO351B SS351 Foodi Potente sistema de licuadora para batidos, 4 en 1 + procesador de alimentos, una sola porción, 1400 WP, smartTORQUE, 6 programas predeterminados Auto-iQ (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B09RQDDYNH",
-        "price": 2378.0,
-        "model": "CO351B"
+        "name": "Ninja Foodi CO401B, Licuadora de Uso Profesional, 7 Funciones en 1, Procesador de Alimentos y Extractor de Nutrientes, 3 Cuchillas, 2 Tapas, 2 Termos y 2 Extractores de Nutrientes (Reacondicionado) | 7 Funciones en 1, Procesador de Alimentos y Extractor de Nutrientes, 3 Cuchillas, 2 Tapas, 2 Termos",
+        "url": "https://www.amazon.com.mx/dp/B0BW9SPXLK",
+        "price": 2790.0,
+        "model": "CO401B"
       },
       {
         "store": "amazon",
@@ -3936,13 +3900,6 @@
       },
       {
         "store": "amazon",
-        "name": "Ninja Foodi CO401B, Licuadora de Uso Profesional, 7 Funciones en 1, Procesador de Alimentos y Extractor de Nutrientes, 3 Cuchillas, 2 Tapas, 2 Termos y 2 Extractores de Nutrientes (Reacondicionado) | 7 Funciones en 1, Procesador de Alimentos y Extractor de Nutrientes, 3 Cuchillas, 2 Tapas, 2 Termos",
-        "url": "https://www.amazon.com.mx/dp/B0BW9SPXLK",
-        "price": 2790.0,
-        "model": "CO401B"
-      },
-      {
-        "store": "amazon",
         "name": "Licuadora para batidos con manipulador integrado de 14 onzas y 18 onzas con tapa de almacenamiento y cuchillas HybridEdg, compatible con licuadora Ninja Foodi Smoothie CO101B, CO150B, CO351B, CO401B",
         "url": "https://www.amazon.com.mx/dp/B0GTHL5M1Z",
         "price": 1519.1,
@@ -3950,17 +3907,17 @@
       },
       {
         "store": "amazon",
-        "name": "Piezas de repuesto para licuadora Ninja Foodi Blender Ultimate SS400 SS401 CO401B (Cuchilla única)",
-        "url": "https://www.amazon.com.mx/dp/B0CW3S1P7M",
-        "price": 617.23,
-        "model": "CO401B"
+        "name": "Cuchilla apilada para licuadora Ninja SS201 SS300 SS351 SS351TGT SS400 SS401 CO351B CO401B, Conjunto de Cuchilla trituradora para procesador de Alimentos Ninja",
+        "url": "https://www.amazon.com.mx/dp/B0GJL5RLBK",
+        "price": 734.93,
+        "model": "SS351TGT"
       },
       {
         "store": "amazon",
-        "name": "Cuchilla apilada para licuadora Ninja SS201 SS300 SS351 SS351TGT SS400 SS401 CO351B CO401B, Conjunto de Cuchilla trituradora para procesador de Alimentos Ninja",
-        "url": "https://www.amazon.com.mx/dp/B0GJL5RLBK",
-        "price": 733.19,
-        "model": "SS351TGT"
+        "name": "Piezas de repuesto para licuadora Ninja Foodi Blender Ultimate SS400 SS401 CO401B (Cuchilla única)",
+        "url": "https://www.amazon.com.mx/dp/B0CW3S1P7M",
+        "price": 616.02,
+        "model": "CO401B"
       },
       {
         "store": "amazon",
@@ -3975,38 +3932,24 @@
         "url": "https://www.amazon.com.mx/dp/B0CW3RL675",
         "price": 1123.02,
         "model": "CO401B"
-      },
-      {
-        "store": "amazon",
-        "name": "NutriBullet Pro - Juego de 9 piezas de batidora/mezcladora de alta velocidad de 900 W (canela mate, rojo oscuro)",
-        "url": "https://www.amazon.com.mx/dp/B0BS23FLBW",
-        "price": 1917.89,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Philips Licuadora Serie 5000 1200W, Jarra Tritan de 3L, ProBlend 6 | Cuchillas Desmontables – acero inoxidable y 5 velocidades para batir, mezclar y picar (HR2240/91)",
-        "url": "https://www.amazon.com.mx/dp/B0BSK9M5VC",
-        "price": 1538.0,
-        "model": "HR2240/91"
       }
     ]
   },
   "walmart|CO401B": {
-    "ts": "2026-08-22T21:12:47.547348+00:00",
+    "ts": "2026-08-24T21:20:24.661174+00:00",
     "items": [
-      {
-        "store": "walmart",
-        "name": "Licuadora con procesador 1200 Watts Ninja  CO401B",
-        "url": "https://www.walmart.com.mx/ip/licuadora-con-procesador-1200-watts-ninja-co401b/00069183502001?athbdg=L1300",
-        "price": 2749.0,
-        "model": "CO401B"
-      },
       {
         "store": "walmart",
         "name": "Licuadora Ninja CO401B Foodi Power Ultimate 2,1 L 7 funciones",
         "url": "https://www.walmart.com.mx/ip/licuadora-ninja-co401b-foodi-power-ultimate-2-1-l-7-funciones/00075283089170?athbdg=L1500",
         "price": 2690.0,
+        "model": "CO401B"
+      },
+      {
+        "store": "walmart",
+        "name": "Licuadora con procesador 1200 Watts Ninja  CO401B",
+        "url": "https://www.walmart.com.mx/ip/licuadora-con-procesador-1200-watts-ninja-co401b/00069183502001?athbdg=L1300",
+        "price": 2749.0,
         "model": "CO401B"
       },
       {
@@ -4026,7 +3969,7 @@
     ]
   },
   "sams|CO401B": {
-    "ts": "2026-08-22T21:12:54.697053+00:00",
+    "ts": "2026-08-24T21:20:31.389006+00:00",
     "items": []
   },
   "amazon|MDRC564FZM01": {
@@ -5628,259 +5571,6 @@
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-08-24T15:20:56.074673+00:00",
     "items": []
-  },
-  "amazon|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-22T21:13:18.389347+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "Hamilton Beach 49970-MX Cafetera Personal Ejecutiva, 1 Taza, 350 ml",
-        "url": "https://www.amazon.com.mx/dp/B07GC5FV6K",
-        "price": 489.0,
-        "model": "49970-MX"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS COFFEE MAX 6, Cafetera de Goteo con Filtro Permanente, 600 ml, Cafetera 6 Tazas, Anti-goteo, 650 W, Jarra de vidrio, Placa calefactora, Interruptor luminoso",
-        "url": "https://www.amazon.com.mx/dp/B00UW1MANW",
-        "price": 329.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Individual con Termo 16 oz y Filtro Permanente, CM618 | Cesta de filtro extraíble, apagado automático y piezas aptas para lavavajillas",
-        "url": "https://www.amazon.com.mx/dp/B008YS1WXE",
-        "price": 446.41,
-        "model": "CM618"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 5 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8K7MQ11",
-        "price": 419.0,
-        "model": "BVSTDCP51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "TAURUS MEDEA 2000 | Cafetera personal | Taza de cerámica incluida | Negra | Filtro lavable y reutilizable | Interruptor luminoso",
-        "url": "https://www.amazon.com.mx/dp/B0D163BP7Z",
-        "price": 283.38,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla LED | Función Pausa y Servir, Apagado Automático, Filtro Reutilizable, Jarra con Medidas, Negro, BVSTDCP121M",
-        "url": "https://www.amazon.com.mx/dp/B0F8KZFBLC",
-        "price": 745.69,
-        "model": "BVSTDCP121M"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "T-fal Cafetera de Goteo Heliera Petit Inox CM321DMX | Acabado de acero inoxidable, capacidad 6 tazas (0.6L), sistema antigoteo",
-        "url": "https://www.amazon.com.mx/dp/B08JHFCQYJ",
-        "price": 305.35,
-        "model": "CM321DMX"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-22T21:13:22.213023+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 5 Tazas de Goteo Switch Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-5-tazas-de-goteo-switch-color-negro/00005389117859?athbdg=L1300",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas de Goteo Color Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-de-goteo-color-negro/00005389117864?athbdg=L1600",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster Programable de 8 tazas en Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-programable-de-8-tazas-en-acero-inoxidable/00005389114124?athbdg=L1300",
-        "price": 593.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Máquina de Espresso Automática con Tanque de Leche Masterchef by Hukën",
-        "url": "https://www.walmart.com.mx/ip/maquina-de-espresso-automatica-con-tanque-de-leche-masterchef-by-huken/00750303997351",
-        "price": 2659.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Jarra de Repuesto para Cafetera Oster 12 Tazas de Capacidad, Vidrio, Compatible con las Cafeteras BVSTDC12, BVSTSRCS12",
-        "url": "https://www.walmart.com.mx/ip/jarra-de-repuesto-para-cafetera-oster-12-tazas-de-capacidad-vidrio-compatible-con-las-cafeteras-bvstdc12-bvstsrcs12/00005389115382?athbdg=L1600",
-        "price": 209.0,
-        "model": "BVSTSRCS12"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Eléctrica Automática CM003 de Goteo 1.8L (12 Tazas), Pantalla Táctil Programable, Temporizador 24h, Mantenimiento de Calor 120 Min, Incluye Filtro Permanente, Negro y Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/cafetera-electrica-automatica-cm003-de-goteo-1-8l-12-tazas-pantalla-tactil-programable-temporizador-24h-mantenimiento-de-calor-120-min-incluye-filtro-permanente-negro-y-acero-inoxidable/00076283205603?athbdg=L6000",
-        "price": 1500.0,
-        "model": "CM003"
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Urna Masterchef By Huken Acero 30 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-urna-masterchef-by-huken-acero-30-tazas/00750303997314",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Oster® Cafetera de 5 tazas con filtro permanente, Negro, BVSTDC05",
-        "url": "https://www.walmart.com.mx/ip/oster-cafetera-de-5-tazas-con-filtro-permanente-negro-bvstdc05/00046309803270",
-        "price": 771.0,
-        "model": "BVSTDC05"
-      },
-      {
-        "store": "walmart",
-        "name": "Molino De Café MasterChef 200 gramos Negro",
-        "url": "https://www.walmart.com.mx/ip/molino-de-cafe-masterchef-200-gramos-negro/00750303211577",
-        "price": 769.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERATAZASACEROGOTEO": {
-    "ts": "2026-08-22T21:13:27.494136+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Member's Mark  de Acero Inoxidable Capacidad para 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-member-s-mark-de-acero-inoxidable-capacidad-para-100-tazas/981046224",
-        "price": 1424.02,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Daewoo Retro Breakfast 10 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-daewoo-retro-breakfast-10-tazas/981010846",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Percoladora Turmix  Eléctrica de 100 Tazas",
-        "url": "https://www.sams.com.mx/ip/cafetera-percoladora-turmix-electrica-de-100-tazas/981043184",
-        "price": 2127.84,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Oster  3 en 1 para Frappé  2185756",
-        "url": "https://www.sams.com.mx/ip/cafetera-oster-3-en-1-para-frappe-2185756/981045241",
-        "price": 1798.43,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera T-Fal  14 Tazas con Filtro Permanente Excellence",
-        "url": "https://www.sams.com.mx/ip/cafetera-t-fal-14-tazas-con-filtro-permanente-excellence/981001727",
-        "price": 820.45,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Programable Hamilton Beach  para 12 Tazas 46299J-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-programable-hamilton-beach-para-12-tazas-46299j-mx/981050203",
-        "price": 561.61,
-        "model": "46299J-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera con Molino Cuisinart  Grind & Brew 12 Tazas DGB-800ES ",
-        "url": "https://www.sams.com.mx/ip/cafetera-con-molino-cuisinart-grind-brew-12-tazas-dgb-800es/981040728",
-        "price": 3799.0,
-        "model": "DGB-800ES"
-      },
-      {
-        "store": "sams",
-        "name": "Cafetera Hamilton Beach  Easy Access 12 Tazas Programable Negra  llenado frontal Mod.46310-MX",
-        "url": "https://www.sams.com.mx/ip/cafetera-hamilton-beach-easy-access-12-tazas-programable-negra-llenado-frontal-mod-46310-mx/980017593",
-        "price": 698.0,
-        "model": "46310-MX"
-      },
-      {
-        "store": "sams",
-        "name": "Combo de Electrodomésticos  KOBLENZ  Cafetera de 4 Tazas CKM-650 EIN y Jarra Electrica 1.7 L TEKM-1500 IN",
-        "url": "https://www.sams.com.mx/ip/combo-de-electrodomesticos-koblenz-cafetera-de-4-tazas-ckm-650-ein-y-jarra-electrica-1-7-l-tekm-1500-in/981050964",
-        "price": 1324.79,
-        "model": "TEKM-1500"
-      },
-      {
-        "store": "sams",
-        "name": "Filtros para Café Brew Rite  para Cafeteras Domésticas 500 pzas",
-        "url": "https://www.sams.com.mx/ip/filtros-para-cafe-brew-rite-para-cafeteras-domesticas-500-pzas/000030258",
-        "price": 91.03,
-        "model": null
-      }
-    ]
   },
   "amazon|NUTRIBULLETLICUADORABLENDERGRISECOMBO": {
     "ts": "2026-08-22T21:37:17.124671+00:00",
