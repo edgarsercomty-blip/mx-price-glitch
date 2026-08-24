@@ -6444,153 +6444,6 @@
       }
     ]
   },
-  "amazon|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-08-22T14:12:52.223457+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 8 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4404",
-        "url": "https://www.amazon.com.mx/dp/B0CVY1HQ4H",
-        "price": 1319.25,
-        "model": "BVSTDC4404"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera Gourmet Collection con jarra térmica | Jarrá Térmica, Sistema de Colado, Apagado automático, panel digital, mantiene el café caliente",
-        "url": "https://www.amazon.com.mx/dp/B00TSPIIDO",
-        "price": 2079.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable Capacidad 12 Tazas, Pantalla Táctil LED | Programa el café hasta 24 hrs de anticipación, pausa para servir, apagado automático, filtro reutilizable, BVSTDC4403",
-        "url": "https://www.amazon.com.mx/dp/B0CVXXFPSX",
-        "price": 799.0,
-        "model": "BVSTDC4403"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK+DECKER - Cafetera térmica programable de 12 tazas con fuerza de infusión y tecnología VORTEX, color negro y acero | Cafetera programable con cabezal de ducha Vortex, control de fuerza de infusión y boquilla Perfect Pour sin desorden.",
-        "url": "https://www.amazon.com.mx/dp/B0C2JK9Y8V",
-        "price": 1474.65,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera, de 5 Tazas de Capacidad, con Filtro Reutilizable, Botón con Luz de Encendido y Apagado, Función Pausa y Servir, Ventanilla de Agua, Jarra con Medidas, Color Negro, BVSTDCS51B",
-        "url": "https://www.amazon.com.mx/dp/B0F8KF41L9",
-        "price": 298.0,
-        "model": "BVSTDCS51B"
-      },
-      {
-        "store": "amazon",
-        "name": "Cafetera Eléctrica Programable 12 Tazas, Pantalla Táctil y Temporizador | Jarra de Vidrio, Filtro Permanente, Placa Caliente con Pausa Automática, Acero Inoxidable, Ideal para Desayuno y Oficina",
-        "url": "https://www.amazon.com.mx/dp/B0G48FXXZ1",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Black+Decker Cafetera Digital Programable 12 Tazas, CM2046S-LA | Jarra térmica de acero inoxidable con panel digital y sistema de goteo vortex",
-        "url": "https://www.amazon.com.mx/dp/B09429ZVXJ",
-        "price": 2099.0,
-        "model": "CM2046S-LA"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera de Goteo Programable, 12 Tazas, Sistema Medición por Colores | Indicador de frescura, sistema de preinfusión para un sabor más robusto, pausa para servir, filtro permanente, BVSTRF100",
-        "url": "https://www.amazon.com.mx/dp/B07WGR4CLQ",
-        "price": 1033.62,
-        "model": "BVSTRF100"
-      },
-      {
-        "store": "amazon",
-        "name": "BLACK + DECKER - Cafetera térmica Black & Decker CM2035B para 12 tazas, color negro y plateado | Cafetera programable con selector de fuerza de preparación, boquilla sin goteo y cesta de preparación apta para lavaplatos.",
-        "url": "https://www.amazon.com.mx/dp/B00LU2I3V0",
-        "price": 1527.33,
-        "model": "CM2035B"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster Cafetera para Espresso y Cappuccino con Jarra de Vidrio | Tubo de vapor para espumar leche, con perilla de control, incluye cuchara medidora/aplanador, BVSTEM330",
-        "url": "https://www.amazon.com.mx/dp/B0CVXZ5KFB",
-        "price": 918.0,
-        "model": "BVSTEM330"
-      },
-      {
-        "store": "amazon",
-        "name": "BOGNER cafetera 2 en 1. Cafetera espresso 20 bares presión y de goteo 12 tazas 1000w de potencia. Fabricada en acero inoxidable. Segura, fácil de usar y limpiar",
-        "url": "https://www.amazon.com.mx/dp/B0BYTMN9XM",
-        "price": 2745.36,
-        "model": "1000w"
-      },
-      {
-        "store": "amazon",
-        "name": "Oster ESPRESSO MAKER PB SLIM OS | Prepara espresso, cappuccino y latte, sistema de preinfusión e incluye accesorios profesionales, BVSTEM7200",
-        "url": "https://www.amazon.com.mx/dp/B0BY3N2M7S",
-        "price": 3269.0,
-        "model": "BVSTEM7200"
-      }
-    ]
-  },
-  "walmart|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-08-22T14:12:59.691991+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster de Panel Táctil de 12 Tazas Plateado",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-de-panel-tactil-de-12-tazas-plateado/00005389117460?athbdg=L1300",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de Goteo Oster 12 Tazas",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-oster-12-tazas/00003426448464",
-        "price": 1349.9,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera Oster 12 Tazas Negro",
-        "url": "https://www.walmart.com.mx/ip/cafetera-oster-12-tazas-negro/00005389114704",
-        "price": 399.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bonavita Enthusiast - Cafetera de goteo de 8 tazas, con jarra térmica, panel de acero inoxidable, de",
-        "url": "https://www.walmart.com.mx/ip/bonavita-enthusiast-cafetera-de-goteo-de-8-tazas-con-jarra-termica-panel-de-acero-inoxidable-de/00081006050079?athbdg=L1300",
-        "price": 6279.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera de goteo de acero inoxidable, cafetera de goteo manual, tetera, cafetera Argén",
-        "url": "https://www.walmart.com.mx/ip/cafetera-de-goteo-de-acero-inoxidable-cafetera-de-goteo-manual-tetera-cafetera-argen/00078671130971?athbdg=L1300",
-        "price": 519.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Cafetera percoladora comercial de 14 L con dispensador de café y agua caliente, control automático de temperatura, grifo integrado y cuerpo de acero inoxidable, ideal para eventos y negocios",
-        "url": "https://www.walmart.com.mx/ip/cafetera-percoladora-comercial-de-14-l-con-dispensador-de-cafe-y-agua-caliente-control-automatico-de-temperatura-grifo-integrado-y-cuerpo-de-acero-inoxidable-ideal-para-eventos-y-negocios/00696796021469",
-        "price": 2075.68,
-        "model": null
-      }
-    ]
-  },
-  "sams|OSTERCAFETERAPANELGOTEOACERO": {
-    "ts": "2026-08-22T14:13:00.771847+00:00",
-    "items": []
-  },
   "amazon|OSTERCAFETERAGOTEOACEROTOUCH": {
     "ts": "2026-08-22T14:41:16.462997+00:00",
     "items": [
@@ -21699,6 +21552,215 @@
   },
   "sams|MOTOROLADESBLOQUEADOCELULARRAZR512": {
     "ts": "2026-08-24T13:44:34.936827+00:00",
+    "items": []
+  },
+  "amazon|MAS12H2AGM32": {
+    "ts": "2026-08-24T14:32:52.341792+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Midea Aire Acondicionado Minisplit MAS12H2AGM32 Xtreme Plus Save 32 Inverter SEER 20, 1 Ton, Frío Calor, 220V, APP Control",
+        "url": "https://www.amazon.com.mx/dp/B0DTWN841C",
+        "price": 8819.0,
+        "model": "MAS12H2AGM32"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense Aire acondicionado portátil, SACC 8.000 BTU, doble manguera, 4 modos (frío, calor, ventilador, deshumidificador) WiFi, control remoto hasta 51 m2., AP55023HR1GD, blanco (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D1GYY1Q8",
+        "price": 4499.0,
+        "model": "AP55023HR1GD"
+      },
+      {
+        "store": "amazon",
+        "name": "Midea Minisplit MAS18H2AGM32 Xtreme Plus Save 32 Inverter SEER 20 1.5 Ton Frío Calor 220V APP + MAS12H2AGM32 1 Ton",
+        "url": "https://www.amazon.com.mx/dp/B0H6Y472HV",
+        "price": 29109.0,
+        "model": "MAS18H2AGM32"
+      }
+    ]
+  },
+  "walmart|MAS12H2AGM32": {
+    "ts": "2026-08-24T14:32:54.935557+00:00",
+    "items": []
+  },
+  "sams|MAS12H2AGM32": {
+    "ts": "2026-08-24T14:32:57.941578+00:00",
+    "items": []
+  },
+  "amazon|MOTOROLADESBLOQUEADOCELULARRAZRRAM": {
+    "ts": "2026-08-24T14:33:03.262671+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HN22XQ",
+        "price": 11589.39,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
+        "price": 12199.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0FFDKFZN1",
+        "price": 7797.0,
+        "model": "12/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Celular motorla RAZR 70 Ultra Azul",
+        "url": "https://www.amazon.com.mx/dp/B0GYRR2DZD",
+        "price": 24315.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Celular RAZR 70 512 GB Verde",
+        "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60 Fusion 5G, 12GB RAM Boost, 256GB ROM, cámara Sony Lytia con tecnología AI, IP69, MTK Dimensity 7300, 6.7 Pulgadas pOLED Quad Curve 120Hz, 68W CHGR Gris",
+        "url": "https://www.amazon.com.mx/dp/B0F4RCYRL6",
+        "price": 5529.0,
+        "model": "256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola G06 Azul (4GB RAM/256GB), Celular Desbloqueado | Pantalla más grande",
+        "url": "https://www.amazon.com.mx/dp/B0FWH6W2C8",
+        "price": 2368.0,
+        "model": "RAM/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Azul",
+        "url": "https://www.amazon.com.mx/dp/B0F3HK21XF",
+        "price": 6294.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Verde Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0DBLWFYVT",
+        "price": 5179.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola Edge 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Verde",
+        "url": "https://www.amazon.com.mx/dp/B0F3HQ8MPY",
+        "price": 6129.0,
+        "model": "RAM/512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Celular motorla RAZR 70 Ultra Cocoa",
+        "url": "https://www.amazon.com.mx/dp/B0GYRLQD7J",
+        "price": 25999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Motorola RAZR 50 Ultra Peach Fuzz (12GB RAM/512GB), 50MP, Celular Desbloqueado",
+        "url": "https://www.amazon.com.mx/dp/B0FCX5D1HW",
+        "price": 19999.0,
+        "model": "RAM/512GB"
+      }
+    ]
+  },
+  "walmart|MOTOROLADESBLOQUEADOCELULARRAZRRAM": {
+    "ts": "2026-08-24T14:33:10.371727+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Razr 60 5G / 512GB Azul Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Razr-60-5G-512GB-Azul-Desbloqueado/00084002329101?athbdg=L1300",
+        "price": 14999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Motorola Edge 60 Fusion 256Gb+8Gb RAM Marron Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-60-Fusion-256Gb-8Gb-RAM-Marron-Desbloqueado/00750622735965",
+        "price": 6899.0,
+        "model": "256Gb+8Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto Edge 50 5G 512GB 12GB RAM Peach Fuzz Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-Edge-50-5G-512GB-12GB-RAM-Peach-Fuzz-Desbloqueado/00084002326558?athbdg=L6000",
+        "price": 15847.18,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 Power 8GB RAM 256GB Arándano Desbloqueado +Audífonos",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-G17-Power-8GB-RAM-256GB-Arandano-Desbloqueado-Audifonos/00590797724551",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto e32 Gris 4GB RAM 64GB ROM Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-e32-Gris-4GB-RAM-64GB-ROM-Desbloqueado/00084002322877?athbdg=L6000",
+        "price": 4799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G17 Power 8GB RAM 256GB Azul Desbloqueado +Audífonos",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-G17-Power-8GB-RAM-256GB-Azul-Desbloqueado-Audifonos/00590797724618",
+        "price": 5999.0,
+        "model": "256GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Celular Motorola Edge 30 Neo 128Gb+8Gb RAM Negro Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Celular-Motorola-Edge-30-Neo-128Gb-8Gb-RAM-Negro-Desbloqueado/00750622734762",
+        "price": 4199.0,
+        "model": "128Gb+8Gb"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola  Moto G Pure 32GB 3GB RAM Desbloqueado Deep Indigo",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-G-Pure-32GB-3GB-RAM-Desbloqueado-Deep-Indigo/00084002322322",
+        "price": 2749.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Motorola RAZR 60 Ultra 5G 512GB ROM 16GB RAM Dual SIM GSM Unlocked - Pantone Mountain Trail",
+        "url": "https://www.walmart.com.mx/ip/Motorola-RAZR-60-Ultra-5G-512GB-ROM-16GB-RAM-Dual-SIM-GSM-Unlocked-Pantone-Mountain-Trail/00084002329317",
+        "price": 45859.37,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola Moto G62 5G 4GB RAM 128 GB ROM Azul Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-Moto-G62-5G-4GB-RAM-128-GB-ROM-Azul-Desbloqueado/00750304593985?athbdg=L6000",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartphone Motorola G62 5G 6GB RAM 128GB ROM Gris Desbloqueado",
+        "url": "https://www.walmart.com.mx/ip/Smartphone-Motorola-G62-5G-6GB-RAM-128GB-ROM-Gris-Desbloqueado/00767203582831",
+        "price": 2929.0,
+        "model": "128GB"
+      }
+    ]
+  },
+  "sams|MOTOROLADESBLOQUEADOCELULARRAZRRAM": {
+    "ts": "2026-08-24T14:33:14.902876+00:00",
     "items": []
   }
 }

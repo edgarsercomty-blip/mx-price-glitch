@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 13:44 UTC",
-  "products_scanned": 1678,
+  "generated_at": "2026-08-24 14:33 UTC",
+  "products_scanned": 1630,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -65,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$2,404 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1294.65,
-      "store": "liverpool",
-      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934",
-      "price": 2404.35,
-      "list_price": 3699.0,
-      "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1185267934",
-        "marketplace": null
       }
     },
     {
@@ -211,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1167857431",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$2,404 en liverpool vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 832.27,
+      "store": "liverpool",
+      "name": "Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934",
+      "price": 2404.35,
+      "list_price": 3699.0,
+      "ean": null,
+      "model": null,
+      "brand": "XIAOMI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1185267934",
         "marketplace": null
       }
     },
@@ -611,6 +611,27 @@
       "extra": {
         "id": "45262440",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 599.0,
+      "store": "liverpool",
+      "name": "Asiento Para Bicicleta Shotgun",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/asiento-para-bicicleta-shotgun/1105905200",
+      "price": 2290.0,
+      "list_price": 2290.0,
+      "ean": null,
+      "model": null,
+      "brand": "SHOTGUN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1105905200",
+        "marketplace": null
       }
     },
     {
