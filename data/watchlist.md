@@ -226,7 +226,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $8,624 | -25% |
-| 🟢 disponible | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $19,499 | -24% |
+| 🟢 disponible | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $17,999 | -24% |
 | 🟢 disponible | palacio | [Kindle Colorsoft, 7", 16 GB, RAM 1 GB, Linux, MTK MT8113S, W…](https://www.elpalaciodehierro.com/amazon-kindle-colorsoft-7-16-gb-ram-1-gb-linux-mtk-mt8113s-wi-fi-negro-45205059.html) | $3,849 | -23% |
 | 🟢 disponible | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | -20% |
 | 🟢 disponible | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html) | $18,399 | -20% |
@@ -778,7 +778,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Fi…](https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199) | $1,599 | -22% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Samsung 12000 Btu Ar12Bvhqasi …](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-samsung-12000-btu-ar12bvhqasi-ax-220-v/1133849153) | $4,368 | -37% |
 | 🟢 disponible | amazon | [Hoka Clifton 10 Zapatillas para Mujer](https://www.amazon.com.mx/dp/B0D5G83VGH) | $2,912 | -27% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu Setcm…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $12,927 | -26% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Mirage 1800 Btu Setcm…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-mirage-1800-btu-setcmc181v-230-v/1124242891) | $14,774 | -26% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | -25% |
 | 🟢 disponible | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500) | $4,499 | -44% |
 | 🟢 disponible | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas T…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | -20% |

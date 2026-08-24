@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 06:38 UTC",
-  "products_scanned": 1645,
+  "generated_at": "2026-08-24 07:42 UTC",
+  "products_scanned": 1624,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 31,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,6 +90,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 47.9,
       "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -107,27 +128,6 @@
       "extra": {
         "productId": "1165916841",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.7,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
-        "outlet": false
       }
     },
     {
@@ -211,48 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45384039",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
-      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45630424",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
-      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558414",
         "outlet": false
       }
     },
@@ -405,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 39.0,
-      "detail": "$11,589 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3609.81,
-      "store": "palacio",
-      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
-      "price": 11589.39,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44616285",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -463,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44302743",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2259.0,
+      "store": "palacio",
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -594,6 +552,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262439",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$2,290 en liverpool vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -611,27 +590,6 @@
       "extra": {
         "productId": "1105905200",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
       }
     },
     {
@@ -673,27 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43135869",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001062",
         "outlet": false
       }
     },
