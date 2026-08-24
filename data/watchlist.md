@@ -506,7 +506,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | -22% |
 | 🟢 disponible | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | -21% |
 | 🟢 disponible | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $22,499 | -20% |
-| 🟢 disponible | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $779 | -34% |
+| 🟢 disponible | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $778 | -34% |
 | 🟢 disponible | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | -28% |
 | 🟢 disponible | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | -24% |
 | 🟢 disponible | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | -24% |
