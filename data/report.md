@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-24 23:15 UTC
+# Errores/chollos de precio — 2026-08-24 23:38 UTC
 
-- Productos revisados: **1677**
+- Productos revisados: **1658**
 - Umbral de diferencia: **20%**
-- Hallazgos: **35**
+- Hallazgos: **34**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -13,19 +13,18 @@
 | -25% | $7,500 | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | -31% | $7,251 | liverpool | [Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryze…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841) | $16,148 | Confirmado vs competencia | $16,148 en liverpool vs mercado -> -31% bajo la competencia |
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
-| -32% | $4,554 | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | Confirmado vs competencia | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
 | -30% | $4,500 | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
 | -24% | $3,610 | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | Confirmado vs competencia | $11,589 en palacio vs mercado -> -24% bajo la competencia |
+| -24% | $3,036 | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | Confirmado vs competencia | $9,866 en liverpool vs mercado -> -24% bajo la competencia |
 | -22% | $2,876 | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | Confirmado vs competencia | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | -30% | $2,860 | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,819 | Confirmado vs competencia | $6,819 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,400 | liverpool | [Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloqueado](https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788) | $5,599 | Confirmado vs competencia | $5,599 en liverpool vs mercado -> -30% bajo la competencia |
 | -25% | $2,394 | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | Confirmado vs competencia | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
-| -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |

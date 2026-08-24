@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24 23:15 UTC",
-  "products_scanned": 1677,
+  "generated_at": "2026-08-24 23:38 UTC",
+  "products_scanned": 1658,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -86,27 +86,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$9,866 en liverpool vs mercado -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4553.7,
-      "store": "liverpool",
-      "name": "Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451",
-      "price": 9866.35,
-      "list_price": 15179.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1142674451",
-        "marketplace": null
       }
     },
     {
@@ -447,6 +426,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 35.0,
+      "detail": "$9,866 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3035.8,
+      "store": "liverpool",
+      "name": "Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451",
+      "price": 9866.35,
+      "list_price": 15179.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1142674451",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -568,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },
