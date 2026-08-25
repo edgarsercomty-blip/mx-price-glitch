@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 22:18 UTC",
-  "products_scanned": 1660,
+  "generated_at": "2026-08-25 22:48 UTC",
+  "products_scanned": 1632,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 36,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -484,27 +484,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1201664248",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$54,095 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15697.34,
-      "store": "liverpool",
-      "name": "Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y Fabrica De Hielo Gemidf25Eyrcfs",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508",
-      "price": 54095.44,
-      "list_price": 96599.0,
-      "ean": null,
-      "model": "Gemidf25Eyrcfs",
-      "brand": "IO MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1130251508",
         "marketplace": null
       }
     },
