@@ -4007,18 +4007,6 @@
       }
     ]
   },
-  "amazon|BASICS1": {
-    "ts": "2026-08-23T08:52:16.498909+00:00",
-    "items": []
-  },
-  "walmart|BASICS1": {
-    "ts": "2026-08-23T08:52:22.432796+00:00",
-    "items": []
-  },
-  "sams|BASICS1": {
-    "ts": "2026-08-23T08:52:25.869812+00:00",
-    "items": []
-  },
   "palacio|RS20P3GBN": {
     "ts": "2026-08-24T02:32:46.478283+00:00",
     "items": [
@@ -5284,140 +5272,6 @@
   "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
     "ts": "2026-08-25T02:13:31.032532+00:00",
     "items": []
-  },
-  "amazon|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-08-23T08:52:29.569232+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Garmin Reloj Venu X1 Frech Gray | Monitoreo de salud y bienestar 24/7, características de entrenamiento avanzadas, linterna integrada, lente de zafiro",
-        "url": "https://www.amazon.com.mx/dp/B0GF446459",
-        "price": 11679.2,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin 010-02173-12 Venu Monitor Garmin Venu Negro, color Negro, pack of/paquete de 1",
-        "url": "https://www.amazon.com.mx/dp/B07VXR4B2D",
-        "price": 7586.39,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Smart Band Cirqa, Black L/XL",
-        "url": "https://www.amazon.com.mx/dp/B0H93Y497R",
-        "price": 4075.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin, Smart Band Cirqa, French Gray S/M",
-        "url": "https://www.amazon.com.mx/dp/B0H94CWH3Q",
-        "price": 4075.42,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 4 Health Fitness - Reloj inteligente GPS de 41 mm AMOLED | Lunar Gold, 010-03013-00, incluye base de carga, cubierta antipolvo de silicona, paquete de 3 y protector de visualización",
-        "url": "https://www.amazon.com.mx/dp/B0FX9ZJBP9",
-        "price": 12262.53,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 3s Ivory",
-        "url": "https://www.amazon.com.mx/dp/B0CDC6C4TQ",
-        "price": 6474.73,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Index Sleep Monitor",
-        "url": "https://www.amazon.com.mx/dp/B0FCMW5K7P",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 3s Dust Rose",
-        "url": "https://www.amazon.com.mx/dp/B0CDC4ZVHZ",
-        "price": 6502.04,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin® Forerunner® 570, 42 mm, Reloj Inteligente avanzado con GPS para Correr y triatlón, visualización AMOLED, características de Entrenamiento y recuperación, Whitestone/Cloud Blue | GPS Plus Multibanda Satiq, almacenamiento de música de 8 GB, GPS hasta 18 horas, Satiq hasta 14 horas, 5 Atm",
-        "url": "https://www.amazon.com.mx/dp/B0F8QY6GPR",
-        "price": 9489.6,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 2 Negro 45 mm",
-        "url": "https://www.amazon.com.mx/dp/B0912JT6R1",
-        "price": 6792.62,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 3 Black | Reloj inteligente AMOLED de 1,4 pulgadas, micrófono y altavoz, música, GarminPay, +30 aplicaciones deportivas, GPS, Cardio",
-        "url": "https://www.amazon.com.mx/dp/B0CDC6H66Y",
-        "price": 6442.33,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Garmin Venu 4, 45 mm, Reloj Inteligente GPS avanzado para Salud y Fitness, visualización Brillante y Colorida, Linterna integrada, 12 días de duración de la batería, Black w/Slate + Leather, WW",
-        "url": "https://www.amazon.com.mx/dp/B0FRG1TXC6",
-        "price": 10709.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-08-23T08:52:36.563453+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor deportivo, Venu X1, GPS, Black",
-        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-deportivo-Venu-X1-GPS-Black/00075375934274?athbdg=L1300",
-        "price": 12408.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor deportivo, Venu X1, GPS, Moss",
-        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-deportivo-Venu-X1-GPS-Moss/00075375934275?athbdg=L1300",
-        "price": 12408.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Garmin Monitor Deportivo, Descent G2, Paloma",
-        "url": "https://www.walmart.com.mx/ip/Garmin-Monitor-Deportivo-Descent-G2-Paloma/00075375935108?athbdg=L6000",
-        "price": 13139.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|GARMINENTRENAMIENTOMONITORVENU": {
-    "ts": "2026-08-23T08:52:45.522982+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Venu X1",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-venu-x1/981042771",
-        "price": 12409.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
-        "price": 8398.82,
-        "model": null
-      }
-    ]
   },
   "amazon|15FD0161LA": {
     "ts": "2026-08-23T12:20:27.017991+00:00",
@@ -18395,6 +18249,188 @@
   },
   "sams|ASUSLAPTOPGAMINGNVIDIAINTEL": {
     "ts": "2026-08-25T07:59:55.111984+00:00",
+    "items": []
+  },
+  "amazon|ASUSNVIDIALAPTOPGAMINGINTEL": {
+    "ts": "2026-08-25T09:25:21.095530+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lenovo Laptop Gamer LOQ RTX 5050|15.6\" FHD Intel Core i5 |32GB RAM 512GB SSD| PC con IA | NVIDIA GeForce| Teclado Retroiluminado, Windows 11 Home",
+        "url": "https://www.amazon.com.mx/dp/B0FW19P9DD",
+        "price": 22999.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Vivobook 16/ Intel Ultra 5 Serie 225H/ Intel Graphics/AI Boost NPU 13TOPS /16GB - 512 SSD/Teclado en español (Garantia y Servicio con la Marca en Mexico)",
+        "url": "https://www.amazon.com.mx/dp/B0CTY9H3RM",
+        "price": 14997.0,
+        "model": "13TOPS"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming OMEN 16-am0014la, Intel Core i7, 16GB RAM, 1TB SSD, 16\", NVIDIA GeForce RTX 5060(8GB), 2K 1920x1200, Windows 11 Home,Teclado en Español, Garantía México, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FPSYMMN6",
+        "price": 32406.01,
+        "model": "16-am0014la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop Gaming HyperX OMEN 15-ga0001la, Intel Core i7, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 5060 (8GB), 15.3\", 2K (1920x1200), Windows 11 Home, Teclado en Español, Garantía Mexico, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GYTYG3LB",
+        "price": 32759.0,
+        "model": "15-ga0001la"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16/ 16\" 144Hz / Intel Core i5 / RTX 5050 (GDDR7) | 16GB RAM/ 512GB SSD//Teclado en Español/ (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GTMTTS6G",
+        "price": 20599.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS Laptop TUF Gaming A16 144Hz / AMD Ryzen 7 /RTX 4050 /16GB DDR5 /512GB SSD/Teclado RGB Español | Gris (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GQ5BVH48",
+        "price": 18999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F16 Intel Core 5/NVIDIA GeForce RTX 4050/ 16GB- 512 SDD/FHD+ 16:10 144Hz/Wi-Fi 6 + Bluetooth 5.3 (Garantía y Servicio con la Marca en México)",
+        "url": "https://www.amazon.com.mx/dp/B0FH429674",
+        "price": 18499.0,
+        "model": "144Hz/Wi-Fi"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming F15 Laptop Gamer 15.6\" FHD 144Hz, Intel Core i5-11400H 2.7GHz, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050 4GB, Windows 11 Home, Negro Grafito",
+        "url": "https://www.amazon.com.mx/dp/B0CCGDQZ1M",
+        "price": 18948.8,
+        "model": "i5-11400H"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF Gaming A16/ 16\" 144Hz / AMD Ryzen 7 /RTX 5050 (GDDR6) | 16GB RAM/ 1TB SSD//Teclado en Español (Garantía y Servicio en México) (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0GS3GDJQ2",
+        "price": 26999.0,
+        "model": "144Hz"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS TUF F16 Gaming Laptop 2025, Intel i7-14650HX (16 núcleos), NVIDIA GeForce RTX 5060, visualización IPS de 16 Pulgadas 165Hz, 32GB DDR5, 1TB SSD, Dolby Atmos, Wi-Fi 6E, Windows 11 Pro, Accesorios",
+        "url": "https://www.amazon.com.mx/dp/B0FPFZ6T6S",
+        "price": 38990.0,
+        "model": "i7-14650HX"
+      },
+      {
+        "store": "amazon",
+        "name": "Laptop Gaming Lenovo LOQ | AMD Ryzen 7 7735HS | 16GB RAM 512GB SSD | 15,6\" FHD | NVIDIA GeForce RTX 4050 | con AI | Windows 11 (Modelo 2026)",
+        "url": "https://www.amazon.com.mx/dp/B0H2X6BJM1",
+        "price": 21999.0,
+        "model": "7735HS"
+      },
+      {
+        "store": "amazon",
+        "name": "ASUS - TUF Gaming F16 (2025) Laptop de juegos, pantalla de 16 pulgadas FHD+ 165Hz 16:10, procesador Intel® Core™ i5 13450HX, NVIDIA® GeForce RTX™ 5050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6E, Win 11",
+        "url": "https://www.amazon.com.mx/dp/B0FFDDFW47",
+        "price": 34728.74,
+        "model": "13450HX"
+      }
+    ]
+  },
+  "walmart|ASUSNVIDIALAPTOPGAMINGINTEL": {
+    "ts": "2026-08-25T09:25:25.049285+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FA607NU-RL062W NVIDIA GeForce RTX 4050 AMD Ryzen 5 7535HS 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fa607nu-rl062w-nvidia-geforce-rtx-4050-amd-ryzen-5-7535hs-8gb-512gb/00019710588583",
+        "price": 23999.0,
+        "model": "FA607NU-RL062W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer Asus ROG Zephyrus GU605CP 16\" OLED 240Hz Intel Core Ultra 9 285H 16GB RAM 1TB SSD NVIDIA RTX 5070 8GB Windows 11 RGB Teclado Retroiluminado Eclipse Gray",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-zephyrus-gu605cp-16-oled-240hz-intel-core-ultra-9-285h-16gb-ram-1tb-ssd-nvidia-rtx-5070-8gb-windows-11-rgb-teclado-retroiluminado-eclipse-gray/00019710587789?athbdg=L1300",
+        "price": 39199.0,
+        "model": "GU605CP"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592?athbdg=L1600",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus Gaming V16 V3607VM-RP033W C7 16GB 1TB RTX 5060",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-gaming-v16-v3607vm-rp033w-c7-16gb-1tb-rtx-5060/00019929143346",
+        "price": 29997.0,
+        "model": "V3607VM-RP033W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605?athbdg=L1300",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FA607NU-RL062W NVIDIA GeForce RTX 4050 AMD Ryzen 5 7535HS 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fa607nu-rl062w-nvidia-geforce-rtx-4050-amd-ryzen-5-7535hs-8gb-512gb/00019710588583?athbdg=L6000",
+        "price": 23999.0,
+        "model": "FA607NU-RL062W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX608JHR-RV147W Ci5 16GB 1TB RTX 5050",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx608jhr-rv147w-ci5-16gb-1tb-rtx-5050/00019929125395",
+        "price": 23997.0,
+        "model": "FX608JHR-RV147W"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS TUF F16 Gaming Laptop RTX 4050 -Intel Core 5 210H Beat AMD Ryzen7 7435HS -16\" FHD+ 144Hz- 32GB RAM-1TB SSD-RGB Teclado Retroiluminado-Laptop para Gamer PC",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-f16-gaming-laptop-rtx-4050-intel-core-5-210h-beat-amd-ryzen7-7435hs-16-fhd-144hz-32gb-ram-1tb-ssd-rgb-teclado-retroiluminado-laptop-para-gamer-pc/00019710588139?athbdg=L1300",
+        "price": 30341.79,
+        "model": "RAM-1TB"
+      },
+      {
+        "store": "walmart",
+        "name": "ASUS-TUF F16 Gaming-Laptop RTX 4050 - Intel Core 5 210H Beat AMD Ryzen 7 7435HS - Pantalla FHD+ de 16\" 144Hz - 16GB RAM - 1TB PCIe SSD - Teclado Retroiluminado Rgb - G-Sync - Portatil Gamer PC - Wind",
+        "url": "https://www.walmart.com.mx/ip/asus-tuf-f16-gaming-laptop-rtx-4050-intel-core-5-210h-beat-amd-ryzen-7-7435hs-pantalla-fhd-de-16-144hz-16gb-ram-1tb-pcie-ssd-teclado-retroiluminado-rgb-g-sync-portatil-gamer-pc-wind/00019710588137?athbdg=L1300",
+        "price": 26176.79,
+        "model": "7435HS"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL022W NVIDIA GeForce RTX 3050 Intel Core 5 210H 8GB 512GB",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl022w-nvidia-geforce-rtx-3050-intel-core-5-210h-8gb-512gb/00019710599592",
+        "price": 15497.0,
+        "model": "FX607VJ-RL022W"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Gamer ASUS ROG Strix G16 NVIDIA GeForce RTX 5060 Intel Core i9 14900HX 16GB RAM 1TB SSD 16\" Windows 11 Home Teclado en Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-gamer-asus-rog-strix-g16-nvidia-geforce-rtx-5060-intel-core-i9-14900hx-16gb-ram-1tb-ssd-16-windows-11-home-teclado-en-ingles/00019710588176?athbdg=L6000",
+        "price": 67429.0,
+        "model": "14900HX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Asus TUF Gaming FX607VJ-RL805W NVIDIA GeForce RTX 3050 C5 8G 512G",
+        "url": "https://www.walmart.com.mx/ip/laptop-asus-tuf-gaming-fx607vj-rl805w-nvidia-geforce-rtx-3050-c5-8g-512g/00019929107605",
+        "price": 14997.0,
+        "model": "FX607VJ-RL805W"
+      }
+    ]
+  },
+  "sams|ASUSNVIDIALAPTOPGAMINGINTEL": {
+    "ts": "2026-08-25T09:25:28.465085+00:00",
     "items": []
   }
 }
