@@ -1,9 +1,16 @@
-# Historial de ofertas encontradas (956)
+# Historial de ofertas encontradas (963)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-25 15:56 | -23% | amazon | [Calvin Klein Carlla Zapatillas para Mujer \| Zapatos cas…](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $815 | $815 en amazon vs mercado -> -23% bajo la competencia |
+| 2026-08-25 15:56 | -24% | amazon | [CHEFOLLA Sartén Blanco Antiadherente Granito Cerámica M…](https://www.amazon.com.mx/dp/B0C53RX5NG) | $296 | $296 en amazon vs mercado -> -24% bajo la competencia |
+| 2026-08-25 15:56 | -26% | walmart | [Lavadora Portátil Plegable con Centrifugadora - Capacid…](https://www.walmart.com.mx/ip/Lavadora-Portatil-Plegable-con-Centrifugadora-Capacidad-de-12-13-Litros-Solucion-Silenciosa-y-Compacta-para-Ropa-Interior-Ropa-de-Bebe-Calcetines/00088162813722) | $1,387 | $1,387 en walmart vs mercado -> -26% bajo la competencia |
+| 2026-08-25 15:56 | -27% | amazon | [Bolsas de Mujer, Bolso Crossbody Mujer, Bandolera Cross…](https://www.amazon.com.mx/dp/B0DRYPYWHM) | $217 | $217 en amazon vs mercado -> -27% bajo la competencia |
+| 2026-08-25 15:56 | -37% | amazon | [Conjuntos Casuales para Mujer, Conjunto Short Leggins Y…](https://www.amazon.com.mx/dp/B0GGQXGZJD) | $69 | $69 en amazon vs mercado -> -37% bajo la competencia |
+| 2026-08-25 15:56 | -52% | mercadolibre | [Lavadora Automática Mabe 21kg Aqua Saver Green Blanca C…](https://www.mercadolibre.com.mx/lavadora-automatica-mabe-21kg-aqua-saver-green-blanca-color-blanco/p/MLM16178049) | $8,329 | $8,329 en mercadolibre vs mercado -> -52% bajo la competencia |
+| 2026-08-25 15:56 | -80% | amazon | [ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB M…](https://www.amazon.com.mx/dp/B07RLHSKJ7) | $1,951 | $1,951 en amazon vs walmart $9,790 -> -80% bajo la competencia |
 | 2026-08-25 15:27 | -20% | liverpool | [Cortina Doble Black Out Xtellar](https://www.liverpool.com.mx/tienda/pdp/cortina-doble-black-out-xtellar/1177778041) | $899 | $899 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-25 11:48 | -22% | liverpool | [Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508) | $54,095 | $54,095 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-25 07:10 | -34% | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,424 | $1,424 en liverpool vs mercado -> -34% bajo la competencia |
@@ -397,10 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-06 09:09 | -46% | liverpool | [Pantalla Smart Tv Tcl Qled De 65 Pulgadas 4K Uhd 65Q6K …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-65-pulgadas-4k-uhd-65q6k-con-google-tv/1173699375) | $10,499 | $10,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-08-06 09:09 | -47% | liverpool | [Pantalla Smart Tv Hisense Uhd De 65 Pulgadas 4K Uhd 65A…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-uhd-de-65-pulgadas-4k-uhd-65a65nv-con-ai-sports-mode/1178739405) | $9,499 | $9,499 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-08-06 09:09 | -47% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | $12,099 en liverpool vs mercado -> -47% bajo la competencia |
-| 2026-08-06 09:09 | -48% | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu85…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $10,499 | $10,499 en liverpool vs mercado -> -48% bajo la competencia |
-| 2026-08-06 09:09 | -48% | liverpool | [Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367) | $7,299 | $7,299 en liverpool vs mercado -> -48% bajo la competencia |
-| 2026-08-06 09:09 | -50% | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50N…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $7,499 | $7,499 en liverpool vs mercado -> -50% bajo la competencia |
-| 2026-08-06 09:09 | -52% | liverpool | [Television Hisense Qled De 4K Uhd 75Qd6Sfm Con Fire Os …](https://www.liverpool.com.mx/tienda/pdp/television-hisense-qled-de-4k-uhd-75qd6sfm-con-fire-os-con-ai-picture/1197715665) | $10,999 | $10,999 en liverpool vs mercado -> -52% bajo la competencia |
-| 2026-08-06 09:09 | -59% | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $10,499 | $10,499 en liverpool vs mercado -> -59% bajo la competencia |
-| 2026-08-05 10:14 | -21% | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-08-05 03:55 | -39% | liverpool | [Licuadora Hamilton Beach 53521Fg 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266) | $545 | $545 en liverpool vs mercado -> -39% bajo la competencia |
