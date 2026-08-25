@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 00:42 UTC",
-  "products_scanned": 1624,
+  "generated_at": "2026-08-25 02:13 UTC",
+  "products_scanned": 1612,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.6,
-      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7251.1,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
-      "price": 16148.0,
-      "list_price": 31389.0,
-      "ean": null,
-      "model": "Bg1051La",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180419841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 47.9,
       "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -127,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1165916841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$5,599 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2400.0,
-      "store": "liverpool",
-      "name": "Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloqueado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788",
-      "price": 5599.2,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "MOTOROLA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1201134788",
         "marketplace": null
       }
     },
@@ -190,27 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42077608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 38.0,
-      "detail": "$6,819 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2859.74,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 6819.38,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
         "outlet": false
       }
     },
@@ -405,69 +342,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 39.0,
-      "detail": "$11,589 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3609.81,
-      "store": "palacio",
-      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
-      "price": 11589.39,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44616285",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$9,866 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3035.8,
-      "store": "liverpool",
-      "name": "Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451",
-      "price": 9866.35,
-      "list_price": 15179.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1142674451",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10799.82,
-      "store": "palacio",
-      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
-      "price": 35399.41,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600330",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -506,6 +380,48 @@
       "extra": {
         "productId": "1201664248",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 39.0,
+      "detail": "$11,589 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3229.83,
+      "store": "palacio",
+      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
+      "price": 11589.39,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44616285",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 38.0,
+      "detail": "$6,819 en palacio vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1869.83,
+      "store": "palacio",
+      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
+      "price": 6819.38,
+      "list_price": 10999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45421529",
+        "outlet": false
       }
     },
     {
@@ -573,48 +489,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 740.0,
-      "store": "liverpool",
-      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
-      "price": 2959.0,
-      "list_price": 7398.0,
-      "ean": null,
-      "model": null,
-      "brand": "VELOCI",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1189090401",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -653,6 +527,48 @@
       "extra": {
         "productId": "1152344011",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 5.0,
+      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.65,
+      "store": "liverpool",
+      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
+      "price": 12799.35,
+      "list_price": 13473.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173032684",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {

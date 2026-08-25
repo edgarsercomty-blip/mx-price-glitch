@@ -212,7 +212,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Next Negra Aeroccino XL](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-next-negra-aeroccino-xl-44672817.html) | $3,374 | -29% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Azul, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-azul-desbloqueado-44600286.html) | $8,399 | -20% |
 | 🟢 disponible | palacio | [Celular Moto G15 128 GB 4 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-g15-128-gb-4-gb-gris-desbloqueado-44495620.html) | $2,589 | -26% |
-| 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | -24% |
+| 🟢 disponible | palacio | [Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html) | $11,589 | -22% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-negro-desbloqueado-45273248.html) | $21,774 | -28% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Edge 256 GB, RAM 12 GB, Black - Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-edge-256-gb-ram-12-gb-black---desbloqueado-44677942.html) | $17,099 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26+ 512 GB, RAM 12 GB, violeta desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-512-gb-ram-12-gb-violeta-desbloqueado-45273249.html) | $21,774 | -28% |
@@ -475,7 +475,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | -20% |
 | 🟢 disponible | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | -20% |
 | 🟢 disponible | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB, SSD…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | -35% |
-| 🟢 disponible | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,819 | -30% |
+| 🟢 disponible | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,819 | -22% |
 | 🟢 disponible | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $3,374 | -22% |
 | 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | -37% |
@@ -694,7 +694,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Licuadora Profesional Moledor 2 En 1 15 Velocidades Vaso 2lt…](https://www.mercadolibre.com.mx/licuadora-profesional-moledor-2-en-1-15-velocidades-vaso-2lt-color-rojo/p/MLM41822619) | $999 | -50% |
 | 🟢 disponible | walmart | [Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led](https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984) | $999 | -34% |
 | 🟢 disponible | walmart | [Auriculares Oído Abierto VEATOOL M94 Bluetooth5.4, Pantalla …](https://www.walmart.com.mx/ip/auriculares-oido-abierto-veatool-m94-bluetooth5-4-pantalla-tactil-tarjeta-tf-60h-enc-eq-ipx7/00931344898469) | $499 | -27% |
-| 🟢 disponible | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $14,149 | -20% |
+| 🟢 disponible | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | -20% |
 | 🟢 disponible | amazon | [HUAWEI Pura 80 Celular, 12+256G, Cámara XMAGE Ultra Chroma, …](https://www.amazon.com.mx/dp/B0FNX81ZQH) | $9,999 | -58% |
 | 🟢 disponible | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clase 10,…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | -35% |
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |

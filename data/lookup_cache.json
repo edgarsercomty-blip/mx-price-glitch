@@ -2970,25 +2970,6 @@
     "ts": "2026-08-24T18:26:42.879448+00:00",
     "items": []
   },
-  "walmart|CO905KS": {
-    "ts": "2026-08-23T00:45:11.150580+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "LICUADORA PROCESADORA PROFESIONAL NINJA CO905KS 7 PROGRAMAS",
-        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-profesional-ninja-co905ks-7-programas/00062235663503?athbdg=L6000",
-        "price": 7798.0,
-        "model": "CO905KS"
-      },
-      {
-        "store": "walmart",
-        "name": "Licuadora Procesadora Ninja 7 Programas CO905KS Negro",
-        "url": "https://www.walmart.com.mx/ip/licuadora-procesadora-ninja-7-programas-co905ks-negro/00073238802721?athbdg=L1300",
-        "price": 2839.0,
-        "model": "CO905KS"
-      }
-    ]
-  },
   "amazon|MLTS101M2SGDW": {
     "ts": "2026-08-23T02:19:48.373738+00:00",
     "items": [
@@ -3970,18 +3951,6 @@
   },
   "sams|CO401B": {
     "ts": "2026-08-24T21:20:31.389006+00:00",
-    "items": []
-  },
-  "amazon|MDRC564FZM01": {
-    "ts": "2026-08-23T00:44:53.685323+00:00",
-    "items": []
-  },
-  "walmart|MDRC564FZM01": {
-    "ts": "2026-08-23T00:45:03.439482+00:00",
-    "items": []
-  },
-  "sams|MDRC564FZM01": {
-    "ts": "2026-08-23T00:45:08.755746+00:00",
     "items": []
   },
   "liverpool|DGUNL7157": {
@@ -5755,7 +5724,7 @@
     "items": []
   },
   "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-23T00:44:33.371757+00:00",
+    "ts": "2026-08-25T02:13:25.248061+00:00",
     "items": [
       {
         "store": "amazon",
@@ -5768,21 +5737,7 @@
         "store": "amazon",
         "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Negro | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
         "url": "https://www.amazon.com.mx/dp/B0GQL9JZS7",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
-        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "XIAOMI Redmi Watch 5 Active, iOS & Android, 5ATM, Negro | Pantalla LCD 2\", Hasta 18 días de Batería, Llamadas Bluetooth, 140+ Modos Deportivos, Monitoreo de Frecuencia Cardiaca 24h",
-        "url": "https://www.amazon.com.mx/dp/B0DFZPR9Z4",
-        "price": 609.0,
+        "price": 1699.0,
         "model": null
       },
       {
@@ -5794,16 +5749,9 @@
       },
       {
         "store": "amazon",
-        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
-        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Smartwatch Galaxy Fit 3 Oro Rosa, Nacional con Garantía",
-        "url": "https://www.amazon.com.mx/dp/B0CSYH6QFW",
-        "price": 699.0,
+        "name": "XIAOMI Redmi Watch 6 con GPS, iOS & Android, 5ATM, Gris | Pantalla AMOLED de 2.07'', Hasta 24 días de Batería, 150+ Modos Deportivos, Monitoreo cardíaco, sueño y estrés",
+        "url": "https://www.amazon.com.mx/dp/B0GQLM2HG7",
+        "price": 1599.0,
         "model": null
       },
       {
@@ -5822,6 +5770,20 @@
       },
       {
         "store": "amazon",
+        "name": "XIAOMI Watch 5 Smartwatch 47mm con GPS & NFC, Solo para Android, Negro | Pantalla ultra-grande de 1.54\", Hasta 6 días de Batería, 150+ Modos Deportivos, Seguimiento Fitness, Controles gestual",
+        "url": "https://www.amazon.com.mx/dp/B0G5PXKTVZ",
+        "price": 4999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S5 46mm con GPS & NFC, iOS & Android, Plata | AMOLED de 1,48'', Hasta 21 días de Batería, 150+ Modos Deportivos, Monitoreo mejorado de la frecuencia cardíaca y del sueño",
+        "url": "https://www.amazon.com.mx/dp/B08N65WJVL",
+        "price": 3039.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
         "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Rainbow | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
         "url": "https://www.amazon.com.mx/dp/B0DSGN7ZGH",
         "price": 2299.0,
@@ -5836,190 +5798,112 @@
       },
       {
         "store": "amazon",
-        "name": "KELUONA Smartwatch ZL02 Deportivo, Reloj Inteligente, Correa Negra | Función de Llamadas, Impermeable IP67, Monitor De Frecuencia Cardíaca/Oxígeno en Sangre/Presión Arterial",
-        "url": "https://www.amazon.com.mx/dp/B0DZC5Y9YV",
-        "price": 342.02,
+        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Negro | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
+        "url": "https://www.amazon.com.mx/dp/B0DSGLPKCC",
+        "price": 2299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "XIAOMI Watch S4 con GPS, iOS & Android, Modo Deportivo Avanzado, Plata | Pantalla AMOLED de 1.43'', Hasta 10 días de Batería, 150+ Modos Deportivos, Monitor Frecuencia Cardíaca y Sueño",
+        "url": "https://www.amazon.com.mx/dp/B0DSJMB91W",
+        "price": 2299.0,
         "model": null
       }
     ]
   },
   "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-23T00:44:44.940117+00:00",
+    "ts": "2026-08-25T02:13:29.675361+00:00",
     "items": [
       {
         "store": "walmart",
-        "name": "XIAOMI Watch S4 Smartwatch Plata – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-watch-s4-smartwatch-plata-bateria-hasta-15d-pantalla-amoled-1-43-compatible-con-android-y-ios-corona-giratoria-bisel-intercambiable-resistente-al-agua-5-atm-hr-y-spo2/00694181270743?athbdg=L1300",
-        "price": 3742.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00063790280930",
-        "price": 729.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
         "name": "Smartwatch Xiaomi Redmi Watch 5 Lite Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-negro/00694181279153",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Xiaomi-Redmi-Watch-5-Lite-Negro/00694181279153",
         "price": 998.0,
         "model": null
       },
       {
         "store": "walmart",
-        "name": "SmartWatch Redmi Watch 3 Active Negro Xiaomi watch3",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-redmi-watch-3-active-negro-xiaomi-watch3/00694181272639",
-        "price": 1199.0,
-        "model": "watch3"
+        "name": "XIAOMI Watch S4 Smartwatch Plata – Batería hasta 15d, Pantalla AMOLED 1.43\", Compatible con Android y iOS, Corona Giratoria, Bisel Intercambiable, Resistente al Agua, 5 ATM, HR y spO2",
+        "url": "https://www.walmart.com.mx/ip/XIAOMI-Watch-S4-Smartwatch-Plata-Bateria-hasta-15d-Pantalla-AMOLED-1-43-Compatible-con-Android-y-iOS-Corona-Giratoria-Bisel-Intercambiable-Resistente-al-Agua-5-ATM-HR-y-spO2/00694181270743?athbdg=L1300",
+        "price": 3742.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
+        "url": "https://www.walmart.com.mx/ip/Smartwatch-Xiaomi-Redmi-Watch-5-Lite-Color-Gold/00694181279155",
+        "price": 1031.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Xiaomi-Redmi-Watch-5-Active-Midnight-Black/00694181279158",
+        "price": 720.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
+        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Redmi-Watch-5-Active-Matte-Silver-Plateado/00694181279154?athbdg=L6000",
+        "price": 985.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Xiaomi Smart Band 9 Pro Rose Gold – 1.74\" AMOLED, 1200 nits de Brillo, batería de 21 días, 150+ Modos Deportivos, 5 ATM Resistente al Agua, GNSS y Sensor SPO₂, Bluetooth 5.4, 60 Hz Refresh",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Smart-Band-9-Pro-Rose-Gold-1-74-AMOLED-1200-nits-de-Brillo-bateria-de-21-dias-150-Modos-Deportivos-5-ATM-Resistente-al-Agua-GNSS-y-Sensor-SPO-Bluetooth-5-4-60-Hz-Refresh/00694181278968?athbdg=L1300",
+        "price": 2539.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
+        "url": "https://www.walmart.com.mx/ip/Reloj-inteligente-Xiaomi-Redmi-Watch-5-Lite-con-AMOLED-de-1-96-pulgadas/00693417772266?athbdg=L1300",
+        "price": 1579.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Mi watch Xiaomi Xiaomi Mi watch",
+        "url": "https://www.walmart.com.mx/ip/Mi-watch-Xiaomi-Xiaomi-Mi-watch/00693417772305",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "SmartWatch Xiaomi Smart Band 9 Active Beige",
+        "url": "https://www.walmart.com.mx/ip/SmartWatch-Xiaomi-Smart-Band-9-Active-Beige/00694181270631",
+        "price": 559.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
+        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Xiaomi-Redmi-Watch-5-Active-Midnight-Black/00063790280930",
+        "price": 729.0,
+        "model": null
       },
       {
         "store": "walmart",
         "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca, Color Rosa",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca-color-rosa/00693255441984",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Smart-Band-10-reloj-inteligente-monitor-de-fitness-pantalla-AMOLED-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-ATM-SPO-y-medicion-de-frecuencia-cardiaca-Color-Rosa/00693255441984",
         "price": 949.0,
         "model": null
       },
       {
         "store": "walmart",
         "name": "Xiaomi Smart Band 10, reloj inteligente, monitor de fitness, pantalla AMOLED de 1,72 pulgadas, batería de 21 días, resistencia al agua 5 ATM, SPO₂ y medición de frecuencia cardíaca",
-        "url": "https://www.walmart.com.mx/ip/xiaomi-smart-band-10-reloj-inteligente-monitor-de-fitness-pantalla-amoled-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-atm-spo-y-medicion-de-frecuencia-cardiaca/00693255441981",
+        "url": "https://www.walmart.com.mx/ip/Xiaomi-Smart-Band-10-reloj-inteligente-monitor-de-fitness-pantalla-AMOLED-de-1-72-pulgadas-bateria-de-21-dias-resistencia-al-agua-5-ATM-SPO-y-medicion-de-frecuencia-cardiaca/00693255441981",
         "price": 959.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Xiaomi Redmi Watch 5 Lite, Color Gold",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-redmi-watch-5-lite-color-gold/00694181279155",
-        "price": 1031.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Redmi Watch 5 Active Matte Silver, Plateado",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-redmi-watch-5-active-matte-silver-plateado/00694181279154?athbdg=L6000",
-        "price": 985.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj Inteligente Xiaomi Redmi Watch 5 Active Midnight Black",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-midnight-black/00694181279158",
-        "price": 720.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Active 2.0\" LCD 5ATM",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-active-2-0-lcd-5atm/00694181270326?athbdg=L1300",
-        "price": 1089.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "SmartWatch Xiaomi Amazfit Band 7 Pantalla AMOLED HD 1.47 5 ATM",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-xiaomi-amazfit-band-7-pantalla-amoled-hd-1-47-5-atm/00085003765671",
-        "price": 998.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente Xiaomi Redmi Watch 5 Lite con AMOLED de 1.96 pulgadas",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-xiaomi-redmi-watch-5-lite-con-amoled-de-1-96-pulgadas/00693417772266?athbdg=L1300",
-        "price": 1589.0,
         "model": null
       }
     ]
   },
   "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-23T00:44:51.286982+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 570 con GPS 42 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-42-mm/981042767",
-        "price": 11498.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 570 con GPS 47 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-47-mm/981042768",
-        "price": 11498.52,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 970 con GPS Negro 22 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-negro-22-mm/981042770",
-        "price": 15698.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Forerunner 970 con GPS Gris 22 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-gris-22-mm/981042769",
-        "price": 15698.95,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartwatch Garmin  Instinct 3 con GPS Amoled 50 mm",
-        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-instinct-3-con-gps-amoled-50-mm/981042296",
-        "price": 8221.0,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 13 256 GB Verde Desbloqueado",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-13-256-gb-verde-desbloqueado/981018055",
-        "price": 6955.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  Redmi Note 15T 512 GB Bait + Audífonos Buds 8 Lite",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-redmi-note-15t-512-gb-bait-audifonos-buds-8-lite/981050290",
-        "price": 12321.01,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-15-256-gb-negro-bait/981041135",
-        "price": 3485.36,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Combo Smartphone Xiaomi  15T Pro 512 GB Moca Bait + Tablet Redmi Pad 2",
-        "url": "https://www.sams.com.mx/ip/combo-smartphone-xiaomi-15t-pro-512-gb-moca-bait-tablet-redmi-pad-2/981050291",
-        "price": 19435.98,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Redmi Note 15 256 GB Negro Bait",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-note-15-256-gb-negro-bait/981050421",
-        "price": 5088.4,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone XIAOMI  14C 256 GB Negro Telcel",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-14c-256-gb-negro-telcel/981031041",
-        "price": 2911.46,
-        "model": null
-      },
-      {
-        "store": "sams",
-        "name": "Smartphone Xiaomi  Note 13 Pro 256 GB Verde AT&T",
-        "url": "https://www.sams.com.mx/ip/smartphone-xiaomi-note-13-pro-256-gb-verde-at-t/981020294",
-        "price": 7978.36,
-        "model": null
-      }
-    ]
+    "ts": "2026-08-25T02:13:31.032532+00:00",
+    "items": []
   },
   "amazon|LIKPINKSHOULDERCUEROBOLSAPINK": {
     "ts": "2026-08-23T02:19:22.911067+00:00",
