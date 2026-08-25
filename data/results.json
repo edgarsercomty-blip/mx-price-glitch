@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 09:25 UTC",
-  "products_scanned": 1556,
+  "generated_at": "2026-08-25 10:03 UTC",
+  "products_scanned": 1607,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -221,27 +221,6 @@
       "likely_typo": false,
       "savings": 7499.75,
       "store": "palacio",
-      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558414",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
       "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
       "price": 22499.25,
@@ -253,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45630424",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45558414",
         "outlet": false
       }
     },
@@ -295,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -358,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600329",
         "outlet": false
       }
     },
@@ -473,27 +515,6 @@
       "likely_typo": false,
       "savings": 2079.84,
       "store": "palacio",
-      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
       "name": "Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado",
       "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html",
       "price": 7799.4,
@@ -505,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
         "outlet": false
       }
     },
@@ -590,27 +632,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
