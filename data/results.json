@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 11:48 UTC",
-  "products_scanned": 1643,
+  "generated_at": "2026-08-25 12:29 UTC",
+  "products_scanned": 1594,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1165916841",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 51.9,
-      "detail": "$11,895 en liverpool vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5104.0,
-      "store": "liverpool",
-      "name": "Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984",
-      "price": 11895.2,
-      "list_price": 24749.0,
-      "ean": null,
-      "model": null,
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1180161984",
         "marketplace": null
       }
     },
@@ -589,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },
