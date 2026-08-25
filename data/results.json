@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 03:13 UTC",
-  "products_scanned": 1646,
+  "generated_at": "2026-08-25 04:01 UTC",
+  "products_scanned": 1611,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 81.5,
-      "detail": "$129 en liverpool vs mercado -> -35% bajo la competencia",
-      "likely_typo": false,
-      "savings": 70.0,
-      "store": "liverpool",
-      "name": "Porta Audifonos In Ear Otterbox",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531",
-      "price": 129.0,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "OTTERBOX",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "99983790531",
         "marketplace": null
       }
     },
