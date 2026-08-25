@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25 19:58 UTC",
-  "products_scanned": 1618,
+  "generated_at": "2026-08-25 20:27 UTC",
+  "products_scanned": 1603,
   "threshold_pct": 20.0,
   "count": 37,
   "findings": [
@@ -23,6 +23,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.7,
+      "detail": "$1,998 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1331.0,
+      "store": "liverpool",
+      "name": "Licuadora Blst412813 Oster Dorado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blst412813-oster-dorado/1166351762",
+      "price": 1998.0,
+      "list_price": 3429.0,
+      "ean": null,
+      "model": "Blst412813",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1166351762",
+        "marketplace": null
       }
     },
     {
@@ -695,27 +716,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {

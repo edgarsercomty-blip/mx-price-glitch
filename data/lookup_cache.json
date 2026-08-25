@@ -5377,111 +5377,6 @@
     "ts": "2026-08-25T18:58:49.600319+00:00",
     "items": []
   },
-  "amazon|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
-    "ts": "2026-08-23T20:11:55.069002+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Touch Xiaomi 11T / 11T Pro",
-        "url": "https://www.amazon.com.mx/dp/B09K6DMZTF",
-        "price": 507.07,
-        "model": null
-      }
-    ]
-  },
-  "walmart|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
-    "ts": "2026-08-23T20:11:59.219482+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi A5 Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Negro-Telcel/00750622735931?athbdg=L1500",
-        "price": 1797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Negro-Telcel/00750622736050?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Negro-Telcel/00750622735685?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 128GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-128GB-Negro-Telcel/00750622736044?athbdg=L1300",
-        "price": 2519.0,
-        "model": "128GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 128 GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-128-GB-Negro-Telcel/00750622735649?athbdg=L1500",
-        "price": 3999.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Negro-Telcel/00750622736047?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 14C 256 GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-14C-256-GB-Verde-Telcel/00750622735686?athbdg=L6000",
-        "price": 3797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15C 256GB Verde Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15C-256GB-Verde-Telcel/00750622736049?athbdg=L1300",
-        "price": 2789.0,
-        "model": "256GB"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi Note 14 Negro Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-Note-14-Negro-Telcel/00750622735804?athbdg=L1500",
-        "price": 4499.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Xiaomi Redmi 15C 128 GB + 4GB RAM | Batería 6000mAh | Cámara 50MP | 6.9\" 120Hz | Desbloqueado",
-        "url": "https://www.walmart.com.mx/ip/Xiaomi-Redmi-15C-128-GB-4GB-RAM-Bateria-6000mAh-Camara-50MP-6-9-120Hz-Desbloqueado/00693255445590",
-        "price": 2999.0,
-        "model": "6000mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi A5 Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-A5-Dorado-Telcel/00750622735933?athbdg=L1500",
-        "price": 1797.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartphone Xiaomi Redmi 15 256GB Dorado Telcel",
-        "url": "https://www.walmart.com.mx/ip/Smartphone-Xiaomi-Redmi-15-256GB-Dorado-Telcel/00750622736052?athbdg=L1300",
-        "price": 4049.0,
-        "model": "256GB"
-      }
-    ]
-  },
-  "sams|XIAOMICRYSTALRESXIAOMITELCELAMOLED": {
-    "ts": "2026-08-23T20:12:00.255359+00:00",
-    "items": []
-  },
   "amazon|XIAOMICRYSTALRESTELCELAMOLEDXIAOMI": {
     "ts": "2026-08-23T20:41:19.930069+00:00",
     "items": [
@@ -19259,6 +19154,18 @@
   },
   "sams|ASUSLAPTOPNVIDIAGAMINGINTEL": {
     "ts": "2026-08-25T17:27:22.128729+00:00",
+    "items": []
+  },
+  "amazon|BLST412813": {
+    "ts": "2026-08-25T20:27:02.524887+00:00",
+    "items": []
+  },
+  "walmart|BLST412813": {
+    "ts": "2026-08-25T20:27:04.021834+00:00",
+    "items": []
+  },
+  "sams|BLST412813": {
+    "ts": "2026-08-25T20:27:05.849640+00:00",
     "items": []
   }
 }
