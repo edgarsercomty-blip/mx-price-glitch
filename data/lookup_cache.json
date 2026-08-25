@@ -249,188 +249,6 @@
     "ts": "2026-08-25T04:55:13.220019+00:00",
     "items": []
   },
-  "amazon|HUAWEISMARTWATCH": {
-    "ts": "2026-08-23T11:36:56.032164+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Negro | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GX1W277X",
-        "price": 2317.7,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GKRPMMR1",
-        "price": 819.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 11 Smartwatch Caja de Polímeros Durables, Negro | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GKRGHNQ1",
-        "price": 749.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Negro Polimero",
-        "url": "https://www.amazon.com.mx/dp/B0DWFQCY3V",
-        "price": 649.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 10 Smartwatch, Monitoreo deportivo con IA, Monitoreo de sueño avanzado, Asistente de bienestar emocional, Carga rápida, Compatible con iOS y Android, Rosa Polimero",
-        "url": "https://www.amazon.com.mx/dp/B0DWFPS6W6",
-        "price": 679.32,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch FIT 5 Smartwatch con GPS, Morado | Hasta 10 días de batería, Miniejercicios, Gestión Avanzada de la Salud, Monitor de frecuencia cardíaca, SPO₂, iOS y Android",
-        "url": "https://www.amazon.com.mx/dp/B0GWM6N26K",
-        "price": 2699.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, iOS & Android, Negro | Pantalla de 1.82\", Hasta 10 días de Batería, 100+ Modos Deportivos, Rastreador de fitness con SpO₂, Bienestar Emocional",
-        "url": "https://www.amazon.com.mx/dp/B0F32PTQD3",
-        "price": 2099.4,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 11 Smartwatch Caja de Polímeros Durables, Morado | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GKRDB22X",
-        "price": 799.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 11 Smartwatch Caja de Aleación de Aluminio, Negro | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\", Nuevo Monitoreo de Sueño, Bienestar Emocional, Bluetooth, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GKRXKGCT",
-        "price": 781.93,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch Kids 4 Pro (GPS)(Garantía en México) - Smartwatch, Reloj Inteligente, Pantalla AMOLED 1.41'', 8GB ROM, Cámara Frontal 5MP, Touch Screen, Bluetooth, Compatible con Android & iOS, Rosa",
-        "url": "https://www.amazon.com.mx/dp/B09ML1499B",
-        "price": 2299.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Band 11 Pro Smartwatch con GPS, Caja de Aleación de Aluminio, Negro | Hasta 14 Días Autonomía, Gran Pantalla de 1.62\" AMOLED 2000 Nits, Posicionamiento GNSS, Bluetooth, 5 ATM, Android y iOS",
-        "url": "https://www.amazon.com.mx/dp/B0GL9C7WJD",
-        "price": 999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "HUAWEI Watch FIT 4 Smartwatch con GPS, iOS & Android, Morado | Pantalla de 1.82\", Hasta 10 días de Batería, 100+ Modos Deportivos, Rastreador de fitness con SpO₂, Bienestar Emocional",
-        "url": "https://www.amazon.com.mx/dp/B0F32TCXN4",
-        "price": 2099.4,
-        "model": null
-      }
-    ]
-  },
-  "walmart|HUAWEISMARTWATCH": {
-    "ts": "2026-08-23T11:36:59.496236+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Infinix Smartwatch Pantalla TFT 2.04\", Reloj Inteligente Ligero, Batería de 10 Días (300mAh), Monitor de Salud, Compatible con iOS y Android",
-        "url": "https://www.walmart.com.mx/ip/infinix-smartwatch-pantalla-tft-2-04-reloj-inteligente-ligero-bateria-de-10-dias-300mah-monitor-de-salud-compatible-con-ios-y-android/00489494707005",
-        "price": 549.0,
-        "model": "300mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit 5 - Blanco",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-blanco/00955617172758?athbdg=L1300",
-        "price": 2199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit 5 - Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-negro/00955568795608?athbdg=L1300",
-        "price": 2199.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Infinix XWatch 3 GT Smartwatch Deportivo, Pantalla HD IPS, Batería de Larga Duración 15 Días (500mAh), Monitor de Actividad, Compatible con iOS y Android",
-        "url": "https://www.walmart.com.mx/ip/infinix-xwatch-3-gt-smartwatch-deportivo-pantalla-hd-ips-bateria-de-larga-duracion-15-dias-500mah-monitor-de-actividad-compatible-con-ios-y-android/00489494702402",
-        "price": 950.0,
-        "model": "500mAh"
-      },
-      {
-        "store": "walmart",
-        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Sharp-Edged Design, Seguimiento de la Salud, Resistente al Agua, Compatible con iOS y Android, Negro Mate",
-        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-sharp-edged-design-seguimiento-de-la-salud-resistente-al-agua-compatible-con-ios-y-android-negro-mate/00019457000223?athbdg=L1300",
-        "price": 5133.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Gt 6 46mm Reloj Inteligente Color Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-gt-6-46mm-reloj-inteligente-color-negro/00694210316871",
-        "price": 4390.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Reloj inteligente pantalla AMOLED 2.13.Infinix XWATCH 3 CHIC llamadas Bluetooth",
-        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-pantalla-amoled-2-13-infinix-xwatch-3-chic-llamadas-bluetooth/00489494702400",
-        "price": 899.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "HUAWEI Watch GT 5 41mm Smartwatch (GPS), hasta 7 Días de BaterÍa, Nueva experiencia de carrera y bicicleta, Sharp-Edged Design, Seguimiento de la salud, Compatible con iOS y Android, Azul",
-        "url": "https://www.walmart.com.mx/ip/huawei-watch-gt-5-41mm-smartwatch-gps-hasta-7-dias-de-bateria-nueva-experiencia-de-carrera-y-bicicleta-sharp-edged-design-seguimiento-de-la-salud-compatible-con-ios-y-android-azul/00019457000224?athbdg=L1300",
-        "price": 6228.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "HUAWEI Watch 5, Smartwatch con eSIM & GPS, Tecnología Multi-Sensing X-Tap, Medición de Oxígeno en Sangre en la Yema del Dedo, Panorama de Salud, iOS y Android, 46mm Carbono Acero Inoxidable",
-        "url": "https://www.walmart.com.mx/ip/huawei-watch-5-smartwatch-con-esim-gps-tecnologia-multi-sensing-x-tap-medicion-de-oxigeno-en-sangre-en-la-yema-del-dedo-panorama-de-salud-ios-y-android-46mm-carbono-acero-inoxidable/00694210315468?athbdg=L1300",
-        "price": 7630.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Watch Fit Negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-negro/00694148723310",
-        "price": 3299.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Smartwatch Huawei Fit 4 AMOLED 1.82” GPS 5ATM negro",
-        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-fit-4-amoled-1-82-gps-5atm-negro/00694210315534",
-        "price": 2389.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "HUAWEI WATCH FIT 3, Rosa Suave, Pantalla AMOLED de 1.82, Diseño Ultradelgado, Monitoreo Integral del Ejercicio, Gestión Integral de la Salud, Batería de 10 Días, Compatible con iOS y Android",
-        "url": "https://www.walmart.com.mx/ip/huawei-watch-fit-3-rosa-suave-pantalla-amoled-de-1-82-diseno-ultradelgado-monitoreo-integral-del-ejercicio-gestion-integral-de-la-salud-bateria-de-10-dias-compatible-con-ios-y-android/00694210311854",
-        "price": 2999.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|HUAWEISMARTWATCH": {
-    "ts": "2026-08-23T11:37:00.713781+00:00",
-    "items": []
-  },
   "amazon|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
     "ts": "2026-08-23T20:41:27.707567+00:00",
     "items": [
@@ -18795,6 +18613,200 @@
   },
   "sams|15IRH10": {
     "ts": "2026-08-25T11:18:25.371753+00:00",
+    "items": []
+  },
+  "amazon|HPOMNIBOOKLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-25T11:47:57.481638+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0372la, AMD Ryzen 7, 16 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GR26DSNZ",
+        "price": 12999.0,
+        "model": "15-fc0372la"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 3 17-dp0105dx, Laptop de 17.3\" Full HD, AMD Ryzen 5 40, 8 GB de RAM, SSD 512 GB, AMD Radeon 610M, Windows 11 Home, Plata",
+        "url": "https://www.amazon.com.mx/dp/B0HFPZ621D",
+        "price": 14999.0,
+        "model": "17-dp0105dx"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 3 Laptop de 16\", Pantalla Táctil 2K, AMD Ryzen 3 30, 8 GB RAM, 256 GB SSD, GPU AMD Radeon 610M, Windows 11 Home, Plata Mica",
+        "url": "https://www.amazon.com.mx/dp/B0GQB1C381",
+        "price": 14414.87,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop ProBook 4 AIG1a, Pantalla de 16\" 1920x1200 WUXGA, AMD Ryzen 7 250, 24GB DDR5 RAM, 512GB SSD, Windows 11 Pro, Español (CH0N6LT), Color Plata, Garantía y Servicio en México",
+        "url": "https://www.amazon.com.mx/dp/B0GYKM2VXB",
+        "price": 17574.05,
+        "model": "1920x1200"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Omnibook AMD Ryzen AI 7 350 16GB RAM DDR5 1TB SSD Laptop 16 WUXGA Touchscreen Gamer",
+        "url": "https://www.amazon.com.mx/dp/B0F91PF5Z3",
+        "price": 16988.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 255R G10, Procesador AMD Ryzen 5 7535U, Pantalla 15.6 Pulgadas Full HD, 16GB RAM DDR5, SSD 512GB, Windows 11 Home, Gráficos AMD Radeon",
+        "url": "https://www.amazon.com.mx/dp/B0HDFYTFWL",
+        "price": 13199.0,
+        "model": "7535U"
+      },
+      {
+        "store": "amazon",
+        "name": "HP 2026 AI Omnibook, portátil IPS 2K de 16 pulgadas, procesador AMD Ryzen 7 350 hasta 5 GHz, DDR5 de 16 GB, SSD de 512 GB, HDMI, teclado retroiluminado, wifi ultrarrápido de 6ª generación, sistema",
+        "url": "https://www.amazon.com.mx/dp/B0GW9P7ZXT",
+        "price": 13229.22,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 3 Laptop Ryzen AI 5 340 16GB 512GB Pantalla 15.6\" IPS Copilot+",
+        "url": "https://www.amazon.com.mx/dp/B0H6NSBGKK",
+        "price": 15699.0,
+        "model": "512GB"
+      },
+      {
+        "store": "amazon",
+        "name": "HP OmniBook 5 Business Laptop, 16\" WUXGA 60Hz, AMD Ryzen AI 7 350 8-Core, AMD Radeon 860M Graphics, 16GB RAM - 512GB SSD, W11H - Wi-Fi 6E - Bluetooth 5.4-1080p FHD + cámara IR - Glacier Silver",
+        "url": "https://www.amazon.com.mx/dp/B0B7B97CWJ",
+        "price": 19399.0,
+        "model": "4-1080p"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 255R: Procesador AMD Ryzen 5 7520U (hasta 4.3 GHz), Memoria de 16GB LPDDR5, SSD de 512GB, Pantalla de 15.6\" LED, Video Radeon Graphics, S.O. Windows 11 Home.",
+        "url": "https://www.amazon.com.mx/dp/B0H37NZRWN",
+        "price": 10499.0,
+        "model": "LPDDR5"
+      },
+      {
+        "store": "amazon",
+        "name": "HP Laptop 15-fc0265la, AMD Ryzen 5, 8 GB, 512 GB SSD, 15.6\", FHD, Windows 11 Home, Teclado en Español, Garantía México, Plateado",
+        "url": "https://www.amazon.com.mx/dp/B0GH9PDZGN",
+        "price": 9999.0,
+        "model": "15-fc0265la"
+      },
+      {
+        "store": "amazon",
+        "name": "Hp Omnibook Amd Ryzen Ia 7 350 16GB Ram 512GB Ssd 16\" Wuxga 1920 Px X 1200 | Laptop Optimizada con Inteligencia Artificial",
+        "url": "https://www.amazon.com.mx/dp/B0FWFLYPGY",
+        "price": 15568.0,
+        "model": "512GB"
+      }
+    ]
+  },
+  "walmart|HPOMNIBOOKLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-25T11:48:02.902865+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Laptop HP 14-em0017la AMD Ryzen 5 8GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-14-em0017la-amd-ryzen-5-8gb-ram-512gb-ssd/00019812284399",
+        "price": 10996.0,
+        "model": "14-em0017la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop Hp Omnibook 3 Touch 16\" Ryzen 5 8GB 256GB Plata 16-BY0015DX",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-3-touch-16-ryzen-5-8gb-256gb-plata-16-by0015dx/00082184431452?athbdg=L1300",
+        "price": 9089.0,
+        "model": "16-BY0015DX"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP Ominibook 5: Procesador AMD Ryzen AI 7 350 (hasta 5.0 GHz), Memoria de 16GB DDR5, SSD de 512GB, Pantalla de 16\" LED, Video Radeon Graphics, S.O. Windows 11 Home. Teclado Versión en Inglés.",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-ominibook-5-procesador-amd-ryzen-ai-7-350-hasta-5-0-ghz-memoria-de-16gb-ddr5-ssd-de-512gb-pantalla-de-16-led-video-radeon-graphics-s-o-windows-11-home-teclado-version-en-ingles-/00019899010957?athbdg=L1300",
+        "price": 17649.0,
+        "model": "512GB"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP Pavilion Aero 13-bg0002la AMD Ryzen 5 16GB RAM 512GB SSD",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-pavilion-aero-13-bg0002la-amd-ryzen-5-16gb-ram-512gb-ssd/00019812284427",
+        "price": 14996.0,
+        "model": "13-bg0002la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop AI PC HP OmniBook 3 15-fn0505nr Ryzen AI 5 340 16GB DDR5 512GB SSD Pantalla 15.6\" Touch IPS FHD Copilot+ PC NPU 50 TOP Windows 11 Teclado Ingles",
+        "url": "https://www.walmart.com.mx/ip/laptop-ai-pc-hp-omnibook-3-15-fn0505nr-ryzen-ai-5-340-16gb-ddr5-512gb-ssd-pantalla-15-6-touch-ips-fhd-copilot-pc-npu-50-top-windows-11-teclado-ingles/00070452118637?athbdg=L1300",
+        "price": 17899.0,
+        "model": "15-fn0505nr"
+      },
+      {
+        "store": "walmart",
+        "name": "Notebook HP Omnibook Ryzen AI 7 350 1TB SSD 16GB RAM 16 WUXGA",
+        "url": "https://www.walmart.com.mx/ip/notebook-hp-omnibook-ryzen-ai-7-350-1tb-ssd-16gb-ram-16-wuxga/00019899071071?athbdg=L6000",
+        "price": 18905.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 Flip 14-fp0054la Intel Core i5 10 núcleos 16GB RAM 512GB SSD Táctil",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-flip-14-fp0054la-intel-core-i5-10-nucleos-16gb-ram-512gb-ssd-tactil/00019925125687",
+        "price": 15996.0,
+        "model": "14-fp0054la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP 255 G10 15.6” FHD AMD Ryzen™ 3 7335U | 16GB DDR5 | SSD 1TB NVMe | Radeon 660M | Windows 11 Home | Wi-Fi 6 | Teclado Retroiluminado en Español.",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-255-g10-15-6-fhd-amd-ryzen-3-7335u-16gb-ddr5-ssd-1tb-nvme-radeon-660m-windows-11-home-wi-fi-6-teclado-retroiluminado-en-espanol-/00046218049350?athbdg=L1300",
+        "price": 12899.0,
+        "model": "7335U"
+      },
+      {
+        "store": "walmart",
+        "name": "HP Omnibook 5 16 inch Laptop AMD Ryzen 5-8540U AI PC 8GB RAM 512GB SSD WIN 11 Glacier Silver 16-BC1052WM",
+        "url": "https://www.walmart.com.mx/ip/hp-omnibook-5-16-inch-laptop-amd-ryzen-5-8540u-ai-pc-8gb-ram-512gb-ssd-win-11-glacier-silver-16-bc1052wm/00019899010959?athbdg=L6000",
+        "price": 11999.0,
+        "model": "16-BC1052WM"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop HP OmniBook 5 AI 16-af1073la Intel Core Ultra 7 12 nucleos 16GB RAM 512GB SSD Plata",
+        "url": "https://www.walmart.com.mx/ip/laptop-hp-omnibook-5-ai-16-af1073la-intel-core-ultra-7-12-nucleos-16gb-ram-512gb-ssd-plata/00019925143578",
+        "price": 20996.0,
+        "model": "16-af1073la"
+      },
+      {
+        "store": "walmart",
+        "name": "Laptop AI PC HP OmniBook 5 Ryzen AI 7 350 NPU 50 TOPS 16GB LPDDR5x 512GB SSD Pantalla 16\" IPS FHD+ Teclado Ingles Copilot+ PC",
+        "url": "https://www.walmart.com.mx/ip/laptop-ai-pc-hp-omnibook-5-ryzen-ai-7-350-npu-50-tops-16gb-lpddr5x-512gb-ssd-pantalla-16-ips-fhd-teclado-ingles-copilot-pc/00070452118598?athbdg=L1300",
+        "price": 16999.0,
+        "model": "LPDDR5x"
+      },
+      {
+        "store": "walmart",
+        "name": "Lenovo IdeaPad Slim 3 Laptop con Pantalla Táctil de 15.3\", AMD Ryzen 7 170, 16GB DDR5, 1TB SSD, Windows 11 Home",
+        "url": "https://www.walmart.com.mx/ip/lenovo-ideapad-slim-3-laptop-con-pantalla-tactil-de-15-3-amd-ryzen-7-170-16gb-ddr5-1tb-ssd-windows-11-home/00019927542765",
+        "price": 17119.91,
+        "model": null
+      }
+    ]
+  },
+  "sams|HPOMNIBOOKLAPTOPRADEONRYZEN": {
+    "ts": "2026-08-25T11:48:03.812346+00:00",
+    "items": []
+  },
+  "amazon|GEMIDF25EYRCFS": {
+    "ts": "2026-08-25T11:48:05.635500+00:00",
+    "items": []
+  },
+  "walmart|GEMIDF25EYRCFS": {
+    "ts": "2026-08-25T11:48:09.873497+00:00",
+    "items": []
+  },
+  "sams|GEMIDF25EYRCFS": {
+    "ts": "2026-08-25T11:48:11.909980+00:00",
     "items": []
   }
 }

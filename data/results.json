@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 11:18 UTC",
-  "products_scanned": 1601,
+  "generated_at": "2026-08-25 11:48 UTC",
+  "products_scanned": 1643,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1165916841",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 51.9,
+      "detail": "$11,895 en liverpool vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5104.0,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 3 15 6 Pulgadas Full Hd Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-3-15-6-pulgadas-full-hd-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180161984",
+      "price": 11895.2,
+      "list_price": 24749.0,
+      "ean": null,
+      "model": null,
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180161984",
         "marketplace": null
       }
     },
@@ -447,6 +468,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$54,095 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15697.34,
+      "store": "liverpool",
+      "name": "Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y Fabrica De Hielo Gemidf25Eyrcfs",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508",
+      "price": 54095.44,
+      "list_price": 96599.0,
+      "ean": null,
+      "model": "Gemidf25Eyrcfs",
+      "brand": "IO MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1130251508",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 39.0,
       "detail": "$11,589 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -552,23 +594,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 740.0,
-      "store": "liverpool",
-      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
-      "price": 2959.0,
-      "list_price": 7398.0,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
       "ean": null,
       "model": null,
-      "brand": "VELOCI",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1189090401",
-        "marketplace": null
+        "id": "44824190",
+        "outlet": false
       }
     },
     {
