@@ -2971,34 +2971,34 @@
     "items": []
   },
   "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-23T02:19:48.373738+00:00",
+    "ts": "2026-08-25T02:25:20.292011+00:00",
     "items": [
       {
         "store": "amazon",
-        "name": "Lavadora Estadounidense Enchufe Portátil de Plegable 2, 8 L | Diseño Compacto, 36 W de Potencia, Estructura en Abs y Tpe, Uso Práctico en Viaje y Apartamento",
-        "url": "https://www.amazon.com.mx/dp/B0FQ1TQNRZ",
-        "price": 1463.19,
+        "name": "Mini lavadora y secadora, lavadora compacta de montaje en pared para lavandería doméstica, lavado de alta temperatura, panel táctil LED, múltiples modos",
+        "url": "https://www.amazon.com.mx/dp/B0GSPDPGKH",
+        "price": 10118.71,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Lavadora Ultrasónica Portátil USB Mini para Viaje y Hogar, Máquina de Limpieza Automática Multifuncional Turbo, Ideal para Joyas y Gafas, Verde",
-        "url": "https://www.amazon.com.mx/dp/B07P62MFTW",
-        "price": 245.0,
+        "name": "Mini Lavadora Y Secadora Portátil 2 En 1 - Lavadora De Tambor Frontal Totalmente Automática con Panel De Control LCD - para Ropa Pequeña, Ropa Interior Y Calcetines Desktop",
+        "url": "https://www.amazon.com.mx/dp/B0GC3534MD",
+        "price": 3941.99,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "Lavadora Portátil Plegable 2.8 L Enchufe Estadounidense | 3 Modos Ajustables, Motor de Cobre de Alta Potencia, 36 W, Abs Tpe Pvc",
-        "url": "https://www.amazon.com.mx/dp/B0F556PPH9",
-        "price": 1205.89,
-        "model": null
+        "name": "AsiXXSix Lavadora Portátil, 7.5L Mini Lavadora de Cubo para Calcetines Ropa Interior Toallas, Plegable Automática con Centrifugado Suave (Enchufe de EE. UU.), Púrpura, 9gi5yac4k-14",
+        "url": "https://www.amazon.com.mx/dp/B0C6R2ZP99",
+        "price": 924.0,
+        "model": "9gi5yac4k-14"
       },
       {
         "store": "amazon",
-        "name": "Lavadora Portátil Plegable Mini de 2, 8 L Enchufe Estadounidense | Abs y Tpe, 36 W de Potencia, Diseño Plegable Compacto, Cobre y Pvc en Componentes",
-        "url": "https://www.amazon.com.mx/dp/B0DNZVD6P5",
-        "price": 1185.79,
+        "name": "Lavadora Portátil, Mini Lavadora Plegable con 2 Tubos de Agua | Lavadora Portátil de Ropa Limpieza Profunda, Lavadora con Centrifugado Adecuado para Apartamento, Hogar, Dormitorios",
+        "url": "https://www.amazon.com.mx/dp/B0DGKGFFMR",
+        "price": 569.0,
         "model": null
       },
       {
@@ -3021,23 +3021,43 @@
         "url": "https://www.amazon.com.mx/dp/B0FPZGZ9QQ",
         "price": 125.79,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Portátil | Mini Lavadora Plegable 8.5L | Plegable Lavadora Portátil de Ropa con 2 Tubos de Agua | 3 Modos Automático para Calcetines, Ropa Bebé, Toallas o Artículos Pequeños",
+        "url": "https://www.amazon.com.mx/dp/B0FN46YXV8",
+        "price": 529.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Portátil Plegable 11L, Mini Lavadora Automática con Temporizador y Tubo de Drenaje, Lavadora Portátil de Ropa, 3 Niveles, Ideal para Viajes, Caravanas, Departamentos y Ropa de Bebé",
+        "url": "https://www.amazon.com.mx/dp/B0FS724RF3",
+        "price": 899.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Srliya Lavadora Manual de Ropa, Lavadora Giratoria Portátil con Manivela y Diseño Compacto y Liviano para Dormitorio, Apartamento Pequeño, que Ahorra Energía",
+        "url": "https://www.amazon.com.mx/dp/B0H7GPJ7VQ",
+        "price": 1659.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora de Ropa Portátil, Capacidad de 8 L, Lavadora de Ropa Interior de Escritorio, Eliminación Rápida de Manchas, Admite Lavado de Agua en Espiral, Bajo Desgaste de la Ropa,",
+        "url": "https://www.amazon.com.mx/dp/B0DK7QS5BB",
+        "price": 123.0,
+        "model": null
       }
     ]
   },
   "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-23T02:19:58.103643+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Lavadora Semiautomática Midea Mlts101m2sgd Blanca 10.1kg 127 V",
-        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-midea-mlts101m2sgd-blanca-10-1kg-127-v/00694587831604?athbdg=L1300",
-        "price": 2399.0,
-        "model": "Mlts101m2sgd"
-      }
-    ]
+    "ts": "2026-08-25T02:25:25.196065+00:00",
+    "items": []
   },
   "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-23T02:20:05.309064+00:00",
+    "ts": "2026-08-25T02:25:27.760879+00:00",
     "items": []
   },
   "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
@@ -3952,107 +3972,6 @@
   "sams|CO401B": {
     "ts": "2026-08-24T21:20:31.389006+00:00",
     "items": []
-  },
-  "liverpool|DGUNL7157": {
-    "ts": "2026-08-23T02:26:04.000408+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Lentes De Sol Vogue Fashion 0Vo4356S280 7157 Para Hombre",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/lentes-de-sol-vogue-fashion-0vo4356s280-7157-para-hombre/1200669904",
-        "price": 1919.2,
-        "model": "0Vo4356S280"
-      }
-    ]
-  },
-  "palacio|DGUNL7157": {
-    "ts": "2026-08-23T02:26:04.363082+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Tenis Casuales Portofino Mujer",
-        "url": "https://www.elpalaciodehierro.com/dolce-gabbana-tenis-casuales-portofino-mujer-41366714.html",
-        "price": 15000.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Invert Amplio Mujer",
-        "url": "https://www.elpalaciodehierro.com/desigual-jeans-invert-amplio-mujer-45677519.html",
-        "price": 3090.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis DG Country Road Mujer",
-        "url": "https://www.elpalaciodehierro.com/dolce-gabbana-tenis-dg-country-road-mujer-45182841.html",
-        "price": 19500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis DG Country Road Mujer",
-        "url": "https://www.elpalaciodehierro.com/dolce-gabbana-tenis-dg-country-road-mujer-45182830.html",
-        "price": 19500.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mezcal 7 Deseos Tobalá, 750 ml",
-        "url": "https://www.elpalaciodehierro.com/7-deseos-mezcal-mezcal-7-deseos-tobala-750-ml-45144905.html",
-        "price": 1455.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans Modern Dojo recto Mujer",
-        "url": "https://www.elpalaciodehierro.com/7-for-all-mankind-jeans-modern-dojo-recto-mujer-45261036.html",
-        "price": 4769.1,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Figura de Acción The Black Series - Imperial Remnant Snowtrooper",
-        "url": "https://www.elpalaciodehierro.com/star-wars-figura-de-accion-the-black-series---imperial-remnant-snowtrooper-45628729.html",
-        "price": 879.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Figura de Acción Black Series The Mandalorian & Grogu Imperial Remnant AT-AT Driver",
-        "url": "https://www.elpalaciodehierro.com/star-wars-figura-de-accion-black-series-the-mandalorian-grogu-imperial-remnant-at-at-driver-45536313.html",
-        "price": 879.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Jeans 2062 D-Strukt Slim Hombre",
-        "url": "https://www.elpalaciodehierro.com/diesel-jeans-2062-d-strukt-slim-hombre-44760582.html",
-        "price": 7890.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Figura de acción Master of the Universe - Vehículo de ataque Roton",
-        "url": "https://www.elpalaciodehierro.com/mattel-figura-de-accion-master-of-the-universe---vehiculo-de-ataque-roton-45322642.html",
-        "price": 1069.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Born Ready: All American Volume Thirteen",
-        "url": "https://www.elpalaciodehierro.com/gandhi-born-ready-all-american-volume-thirteen-45651216.html",
-        "price": 545.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Dios es redondo",
-        "url": "https://www.elpalaciodehierro.com/gandhi-dios-es-redondo-45342642.html",
-        "price": 398.0,
-        "model": null
-      }
-    ]
   },
   "mercadolibre|DGUNL7157": {
     "ts": "2026-08-23T02:27:23.501807+00:00",
@@ -5903,204 +5822,6 @@
   },
   "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
     "ts": "2026-08-25T02:13:31.032532+00:00",
-    "items": []
-  },
-  "amazon|LIKPINKSHOULDERCUEROBOLSAPINK": {
-    "ts": "2026-08-23T02:19:22.911067+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "KKXIU",
-        "url": "https://www.amazon.com.mx/dp/B0GT3L1TMS",
-        "price": 653.64,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Generic",
-        "url": "https://www.amazon.com.mx/dp/B0HDLB1FFB",
-        "price": 557.77,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bolso Señoras Pequeño,Bolsas de Mano Punk Bolso Y2K Vintage PU Cuero Hombro Bolso Tendencia Ligero Bolso Hobo Portátil Elegante para Mujeres Citas Fiesta Compras y Concerts.",
-        "url": "https://www.amazon.com.mx/dp/B0GGH8CRSM",
-        "price": 251.1,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Tote Bolsa para Mujeres, Bolso de Mano con Asa Bandolera, Crossbody Bolsos, Gran Capacidad Suave PU Cuero Señora Bolsos de Hombro (Marrón)",
-        "url": "https://www.amazon.com.mx/dp/B07Z3RCWNK",
-        "price": 321.5,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "KKXIU",
-        "url": "https://www.amazon.com.mx/dp/B0CTGXTZ7J",
-        "price": 646.9,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bolso de Hombro Ajustable de Cuero de Primera Calidad para Hombres y Mujeres, 2026 Nuevas Bolsas de Cuero Ajustables para Debajo del Brazo",
-        "url": "https://www.amazon.com.mx/dp/B0GT9ND6WX",
-        "price": 289.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "TOP BAND",
-        "url": "https://www.amazon.com.mx/dp/B088PHSTCM",
-        "price": 1040.39,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YOUNXSL Shoulder Bag for Women PU Leather Purse Bowknot Handbag Fashion Top-Handle Satchel Ladies Crossbody",
-        "url": "https://www.amazon.com.mx/dp/B09VX1FRN3",
-        "price": 529.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Dreubea",
-        "url": "https://www.amazon.com.mx/dp/B08G4D8JP4",
-        "price": 449.94,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "YNIQUE",
-        "url": "https://www.amazon.com.mx/dp/B07F87LTMJ",
-        "price": 485.99,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Bolso de piel auténtica para mujer, diseño de candado, versátil",
-        "url": "https://www.amazon.com.mx/dp/B0F5W9G7XW",
-        "price": 1499.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Novedad personalizada para mujer 3D señoras diseñador de cuero con asa superior bolso bolso bolso bandolera bolso bandolera",
-        "url": "https://www.amazon.com.mx/dp/B0CHLZ9JHF",
-        "price": 605.08,
-        "model": null
-      }
-    ]
-  },
-  "walmart|LIKPINKSHOULDERCUEROBOLSAPINK": {
-    "ts": "2026-08-23T02:19:39.438366+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
-        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260386240",
-        "price": 695.56,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Bolsa Shoulder Likëpink Elegancia vibrante para mujer",
-        "url": "https://www.walmart.com.mx/ip/Bolsa-Shoulder-Likepink-Elegancia-vibrante-para-mujer/00750304661365",
-        "price": 599.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
-        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260382913",
-        "price": 509.43,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Mujer Bolso de Cuero Sintético, Shoulder Bag con Cremalleras, Grande Capacidad, Para Viaje y Compras, Resistente, Impermeable, Organizador, Portátil, con Correa Ajustable, Cuero Sintético,",
-        "url": "https://www.walmart.com.mx/ip/Mujer-Bolso-de-Cuero-Sintetico-Shoulder-Bag-con-Cremalleras-Grande-Capacidad-Para-Viaje-y-Compras-Resistente-Impermeable-Organizador-Portatil-con-Correa-Ajustable-Cuero-Sintetico/00785260382986",
-        "price": 526.71,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Conjunto de bolso de 3 piezas para mujer de gran capacidad Tote Shoulder bandoleras Portatarjetas Bolso de moda de cuero PU para trabajo Compras de viajes Negro Rojo Marrón 38.5x27x10.5cm",
-        "url": "https://www.walmart.com.mx/ip/Conjunto-de-bolso-de-3-piezas-para-mujer-de-gran-capacidad-Tote-Shoulder-bandoleras-Portatarjetas-Bolso-de-moda-de-cuero-PU-para-trabajo-Compras-de-viajes-Negro-Rojo-Marron-38-5x27x10-5cm/00687264532806?athbdg=L6000",
-        "price": 220.58,
-        "model": "5x27x10"
-      },
-      {
-        "store": "walmart",
-        "name": "LHSHIDU Leather Vintage Crossbody Bags for Women Roomy Multi Pockets Sling Bag Fanny Purse Shoulder Bags Chest Bag for Casual Travel Shopping(Pink)",
-        "url": "https://www.walmart.com.mx/ip/LHSHIDU-Leather-Vintage-Crossbody-Bags-for-Women-Roomy-Multi-Pockets-Sling-Bag-Fanny-Purse-Shoulder-Bags-Chest-Bag-for-Casual-Travel-Shopping-Pink/00089678562726?athbdg=L6000",
-        "price": 663.5,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Women’s Shoulder Bag | Fashion Casual Handbag & Messenger Purse | PU Leather Crossbody Tote | Adjustable Strap | Versatile Elegant Style | Beige Black Pink Blue | 23x21x7cm | 1 Pc",
-        "url": "https://www.walmart.com.mx/ip/Women-s-Shoulder-Bag-Fashion-Casual-Handbag-Messenger-Purse-PU-Leather-Crossbody-Tote-Adjustable-Strap-Versatile-Elegant-Style-Beige-Black-Pink-Blue-23x21x7cm-1-Pc/00807190042413?athbdg=L1300",
-        "price": 127.32,
-        "model": "23x21x7cm"
-      },
-      {
-        "store": "walmart",
-        "name": "Candy Color Jelly Bag for Storage 1Pcs Single Shoulder Pink Handbag",
-        "url": "https://www.walmart.com.mx/ip/Candy-Color-Jelly-Bag-for-Storage-1Pcs-Single-Shoulder-Pink-Handbag/00571373493986",
-        "price": 547.0,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Women's Shoulder Handbag | Casual Messenger Bag | Crossbody Tote Purse | Vegan Leather | Adjustable Strap | Fits Phone Wallet Keys | Stylish Design | 7.09x5.51x0.79in | 1 Pack | Pink Blue Beige",
-        "url": "https://www.walmart.com.mx/ip/Women-s-Shoulder-Handbag-Casual-Messenger-Bag-Crossbody-Tote-Purse-Vegan-Leather-Adjustable-Strap-Fits-Phone-Wallet-Keys-Stylish-Design-7-09x5-51x0-79in-1-Pack-Pink-Blue-Beige/00967114852204?athbdg=L1300",
-        "price": 125.83,
-        "model": null
-      },
-      {
-        "store": "walmart",
-        "name": "Striped Velvet Corduroy Canvas Tote Bag | Large Capacity Handheld Shoulder Crossbody Satchel | Casual Commuter Shopping Purse | 33x31cm | White Black Pink Brown | 1 Pc",
-        "url": "https://www.walmart.com.mx/ip/Striped-Velvet-Corduroy-Canvas-Tote-Bag-Large-Capacity-Handheld-Shoulder-Crossbody-Satchel-Casual-Commuter-Shopping-Purse-33x31cm-White-Black-Pink-Brown-1-Pc/00807190040324?athbdg=L1300",
-        "price": 192.38,
-        "model": "33x31cm"
-      },
-      {
-        "store": "walmart",
-        "name": "Chic Round Shoulder Bag Women For Daily Use And Travel 24X16X16CM Pink 1Pcs",
-        "url": "https://www.walmart.com.mx/ip/Chic-Round-Shoulder-Bag-Women-For-Daily-Use-And-Travel-24X16X16CM-Pink-1Pcs/00416355391274",
-        "price": 728.0,
-        "model": "24X16X16CM"
-      },
-      {
-        "store": "walmart",
-        "name": "Large Quilted Puffer Bag For Women Lightweight Shoulder And Crossbody Bag Spacious Handbag Great For Travel Or Work dark pink",
-        "url": "https://www.walmart.com.mx/ip/Large-Quilted-Puffer-Bag-For-Women-Lightweight-Shoulder-And-Crossbody-Bag-Spacious-Handbag-Great-For-Travel-Or-Work-dark-pink/00705413606614?athbdg=L1300",
-        "price": 978.0,
-        "model": null
-      }
-    ]
-  },
-  "sams|LIKPINKSHOULDERCUEROBOLSAPINK": {
-    "ts": "2026-08-23T02:19:46.133942+00:00",
-    "items": [
-      {
-        "store": "sams",
-        "name": "Bolsa Tote Pink Lady  Rosa Claro",
-        "url": "https://www.sams.com.mx/ip/bolsa-tote-pink-lady-rosa-claro/981022023",
-        "price": 817.37,
-        "model": null
-      }
-    ]
-  },
-  "amazon|DGUNL7157": {
-    "ts": "2026-08-23T02:26:08.502905+00:00",
-    "items": []
-  },
-  "walmart|DGUNL7157": {
-    "ts": "2026-08-23T02:26:21.416166+00:00",
     "items": []
   },
   "liverpool|WHCH520": {
@@ -21222,6 +20943,1054 @@
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
     "ts": "2026-08-24T23:38:22.960279+00:00",
+    "items": []
+  },
+  "liverpool|1500W": {
+    "ts": "2026-08-25T02:22:59.240496+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Calefactor Portatil Electrico Midea De 100 V",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/calefactor-portatil-electrico-midea-de-100-v/1168419933",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Kit Ranuradora De Concreto Truper 1500 W",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/kit-ranuradora-de-concreto-truper-1500-w/999673706224",
+        "price": 2949.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Subwoofer Steelpro Wt 12",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/subwoofer-steelpro-wt-12/1172441536",
+        "price": 2799.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Sarten Electrico Con Tapa Shtark De Acero",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/sarten-electrico-con-tapa-shtark-de-acero/1194914012",
+        "price": 876.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Motocicleta Urbana Omo Mobility Athena X3 2024",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/motocicleta-urbana-omo-mobility-athena-x3-2024/99983303162",
+        "price": 24999.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Subwoofer Rock Series Rks 12D1Xs",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/subwoofer-rock-series-rks-12d1xs/1166207297",
+        "price": 5283.0,
+        "model": "12D1Xs"
+      },
+      {
+        "store": "liverpool",
+        "name": "Sierra Circular Bosch 06016B30G1 1500 W",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/sierra-circular-bosch-06016b30g1-1500-w/1109957522",
+        "price": 3324.3,
+        "model": "06016B30G1"
+      },
+      {
+        "store": "liverpool",
+        "name": "Amplificador Para Auto Audiobahn Murder4Drd De 12 V",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/amplificador-para-auto-audiobahn-murder4drd-de-12-v/1187887786",
+        "price": 2649.0,
+        "model": "Murder4Drd"
+      },
+      {
+        "store": "liverpool",
+        "name": "Pistola De Calor Truper De 1500 W Pisca A2",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pistola-de-calor-truper-de-1500-w-pisca-a2/1185895161",
+        "price": 799.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Aire Acondicionado Mini Split Frikko Avant3 220 V",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-frikko-avant3-220-v/1202386896",
+        "price": 5523.37,
+        "model": "Avant3"
+      },
+      {
+        "store": "liverpool",
+        "name": "Maquina De Humo Steelpro Inlander",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/maquina-de-humo-steelpro-inlander/1199319163",
+        "price": 5939.0,
+        "model": null
+      },
+      {
+        "store": "liverpool",
+        "name": "Subwoofer Audiobahn Aw102Se",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/subwoofer-audiobahn-aw102se/1170300889",
+        "price": 1949.0,
+        "model": "Aw102Se"
+      }
+    ]
+  },
+  "palacio|1500W": {
+    "ts": "2026-08-25T02:22:59.501445+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Multiestilizador Shark Glam Sistema de Estilizado y Secado por Aire, 1500 W",
+        "url": "https://www.elpalaciodehierro.com/shark-multiestilizador-shark-glam-sistema-de-estilizado-y-secado-por-aire-1500-w-45131021.html",
+        "price": 6399.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Multiestilizador Shark Glam Sistema de Estilizado y Secado por Aire, 1500 W",
+        "url": "https://www.elpalaciodehierro.com/shark-multiestilizador-shark-glam-sistema-de-estilizado-y-secado-por-aire-1500-w-45131020.html",
+        "price": 6399.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Streaming Inalámbrica Beosound A9 5.G Natural Aluminium 1500 W",
+        "url": "https://www.elpalaciodehierro.com/bang-olufsen-bocina-streaming-inalambrica-beosound-a9-5.g-natural-aluminium-1500-w-45047168.html",
+        "price": 97000.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Farol navideño Clásico con Guirnalda 50 Luces Led",
+        "url": "https://www.elpalaciodehierro.com/ph-1888-farol-navideno-clasico-con-guirnalda-50-luces-led-45198479.html",
+        "price": 4929.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cargador inalámbrico Inkerie USB-C, 15W",
+        "url": "https://www.elpalaciodehierro.com/kikkerland-cargador-inalambrico-inkerie-usb-c-15w-45570797.html",
+        "price": 689.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cargador de pared P100, 100W, Negro",
+        "url": "https://www.elpalaciodehierro.com/adam-elements-cargador-de-pared-p100-100w-negro-45232336.html",
+        "price": 1199.25,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Subwoofer LifeStyle 200W",
+        "url": "https://www.elpalaciodehierro.com/bose-subwoofer-lifestyle-200w-45371040.html",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Subwoofer LifeStyle 200W",
+        "url": "https://www.elpalaciodehierro.com/bose-subwoofer-lifestyle-200w-45371041.html",
+        "price": 22999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Cable USB Casa C100 100 W trenzado Negro",
+        "url": "https://www.elpalaciodehierro.com/adam-elements-cable-usb-casa-c100-100-w-trenzado-negro-43584763.html",
+        "price": 349.5,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
+        "price": 8699.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit Inverter 12,000 BTU's, 1 tonelada, 220 V, Frío",
+        "url": "https://www.elpalaciodehierro.com/carrier-aire-acondicionado-minisplit-inverter-12000-btus-1-tonelada-220-v-frio-43801443.html",
+        "price": 11143.44,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Amplificador integrado A-50 Icon A50 110W",
+        "url": "https://www.elpalaciodehierro.com/onkyo-amplificador-integrado-a-50-icon-a50-110w-45479622.html",
+        "price": 34874.25,
+        "model": null
+      }
+    ]
+  },
+  "amazon|1500W": {
+    "ts": "2026-08-25T02:23:03.609566+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "LiteFuze LT Series - Convertidor de Voltaje de 1500 W - Convertidor de Potencia de 110 V a 220 V/220 V a 110 V, Cable Totalmente Conectado a Tierra, Enchufe Universal, Certificado CE",
+        "url": "https://www.amazon.com.mx/dp/B008GQTXNU",
+        "price": 1833.43,
+        "model": "V/220"
+      },
+      {
+        "store": "amazon",
+        "name": "DC 24V 62.5A 1500W Fuente de Alimentación Transformador 110V CA a CC 24V Convertidor 62.5A 1500W Alimentacion Adaptador para 24Volt LED lámpara Motor Bomba CCTV Cámara Seguridad Car Stereo",
+        "url": "https://www.amazon.com.mx/dp/B0DS2BGKDJ",
+        "price": 2094.29,
+        "model": "24Volt"
+      },
+      {
+        "store": "amazon",
+        "name": "URPOWㅤ 1500W Subwoofer Amplificado para Coche, Bajo Amplificado para Auto | 10 Pulgadas, Sonido Envolvente Estéreo Completo de 360°con Luces de Colores Controlables por App",
+        "url": "https://www.amazon.com.mx/dp/B0G11DLCKC",
+        "price": 1599.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Inversor de Corriente 1500W con Interruptor Remoto y Zócalo USB, Adecuado para Diversos Dispositivos",
+        "url": "https://www.amazon.com.mx/dp/B0H1SBVD7K",
+        "price": 2389.0,
+        "model": "1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i (2025) Fuente de Alimentación ATX Silenciosa Totalmente Modular con Cable 12V-2x6 – Compatible con ATX 3.1 y PCIe 5.1, Eficiencia Cybenetics Platinum – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0F1NGKBK3",
+        "price": 6319.0,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "NZXT C1500 Platinum ATX 3.1 | Fuente de alimentación para Juegos de PC de bajo Ruido Totalmente Modular | 1500 vatios | 80 Plus Platino | Conectores duales de 12 V-2 x 6 | Modo Ventilador Cero |",
+        "url": "https://www.amazon.com.mx/dp/B0D1VDZST3",
+        "price": 6724.57,
+        "model": "C1500"
+      },
+      {
+        "store": "amazon",
+        "name": "Corsair HX1500i Shift Fuente de Alimentación de Alto Rendimiento – iCUE Link System Hub Integrado, Doble Cable Nativo 12V-2x6, ATX 3.1 & PCIe 5.1, Conectores Laterales, Cybenetics Platinum – Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FR5CFDYK",
+        "price": 9060.19,
+        "model": "HX1500i"
+      },
+      {
+        "store": "amazon",
+        "name": "VICA V2500 Regulador Electrónico de Voltaje 2500 VA / 1500 W con 8 Tomas reguladas, supresor de Picos y Puertos RJ11 y RJ45 | Empotrable y Certificado Nom",
+        "url": "https://www.amazon.com.mx/dp/B00C0BJFP8",
+        "price": 761.0,
+        "model": "V2500"
+      },
+      {
+        "store": "amazon",
+        "name": "Kleinstad Regulador De Voltaje 2500VA/1500W (línea Blanca)",
+        "url": "https://www.amazon.com.mx/dp/B07W1ZTP66",
+        "price": 1950.0,
+        "model": "2500VA/1500W"
+      },
+      {
+        "store": "amazon",
+        "name": "CyberPower Línea Blanca LB2500VR, Regulador de Voltaje Automático 2500VA/ 1500W, 120V, Protección contra Sobretensiones, Temporizador de Retardo.",
+        "url": "https://www.amazon.com.mx/dp/B0FGC3FQ4W",
+        "price": 1779.0,
+        "model": "LB2500VR"
+      },
+      {
+        "store": "amazon",
+        "name": "Inversor de potencia de 1500 W, 12 V CC a 110 V/120 V CA con visualización | Pico de 3000 W, 2 salidas de CA, puerto USB de 3.1 A, clips de batería, convertidor de coche con para RV, camión, camping",
+        "url": "https://www.amazon.com.mx/dp/B0GL1ZP45S",
+        "price": 2133.2,
+        "model": "V/120"
+      },
+      {
+        "store": "amazon",
+        "name": "Inversor de onda sinusoidal pura de 1500 W, 12 V CC a CA 110 V/120 V, inversor para vehículos recreativos con control remoto, inversor de batería solar de 12 V para cortes de energía, camio",
+        "url": "https://www.amazon.com.mx/dp/B0GBHHQ4PK",
+        "price": 2396.66,
+        "model": "V/120"
+      }
+    ]
+  },
+  "sams|1500W": {
+    "ts": "2026-08-25T02:23:04.339490+00:00",
+    "items": []
+  },
+  "mercadolibre|1500W": {
+    "ts": "2026-08-25T02:24:30.489816+00:00",
+    "items": []
+  },
+  "amazon|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-08-25T02:24:52.553983+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Urna de café de 80 tazas, dispensador de café con aislamiento de doble pared de 12 litros/3.2 galones, dispensador grande de bebidas calientes de acero inoxidable con control automático de temperatura",
+        "url": "https://www.amazon.com.mx/dp/B0G5YJTSBC",
+        "price": 3834.99,
+        "model": "litros/3"
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PRNWPB",
+        "price": 3572.28,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Urna de café de 120 tazas, dispensador de bebidas calientes de acero inoxidable de gran capacidad de 18 L/4.8 galones, extracción rápida y rápida, llave de control de temperatura automático, urna",
+        "url": "https://www.amazon.com.mx/dp/B0G3PTJSGM",
+        "price": 3348.73,
+        "model": null
+      }
+    ]
+  },
+  "sams|TOWALLMARKTEMPERATURAINOXIDABLEAUTOMATICOANTIGOTEO": {
+    "ts": "2026-08-25T02:24:53.563608+00:00",
+    "items": []
+  },
+  "walmart|ENTRENAMIENTOCORDONESSOFTRIDEZAPATOS": {
+    "ts": "2026-08-25T02:25:16.200256+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Bolsa de entrenamiento de baloncesto | Mochila deportiva multifuncional con cordón | Mochila de viaje portátil para ropa, zapatos y equipo de gimnasio",
+        "url": "https://www.walmart.com.mx/ip/bolsa-de-entrenamiento-de-baloncesto-mochila-deportiva-multifuncional-con-cordon-mochila-de-viaje-portatil-para-ropa-zapatos-y-equipo-de-gimnasio/00877216698635?athbdg=L1300",
+        "price": 208.33,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa de entrenamiento de baloncesto | Mochila deportiva multifuncional con cordón | Mochila de viaje portátil para ropa, zapatos y equipo de gimnasio",
+        "url": "https://www.walmart.com.mx/ip/bolsa-de-entrenamiento-de-baloncesto-mochila-deportiva-multifuncional-con-cordon-mochila-de-viaje-portatil-para-ropa-zapatos-y-equipo-de-gimnasio/00877216698633?athbdg=L1300",
+        "price": 212.29,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Bolsa de entrenamiento de baloncesto | Mochila deportiva multifuncional con cordón | Mochila de viaje portátil para ropa, zapatos y equipo de gimnasio",
+        "url": "https://www.walmart.com.mx/ip/bolsa-de-entrenamiento-de-baloncesto-mochila-deportiva-multifuncional-con-cordon-mochila-de-viaje-portatil-para-ropa-zapatos-y-equipo-de-gimnasio/00877216698634?athbdg=L1300",
+        "price": 208.33,
+        "model": null
+      }
+    ]
+  },
+  "sams|ENTRENAMIENTOCORDONESSOFTRIDEZAPATOS": {
+    "ts": "2026-08-25T02:25:17.867999+00:00",
+    "items": []
+  },
+  "walmart|POUNCELITEPUMA": {
+    "ts": "2026-08-25T02:25:31.401477+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Tenis Puma para Niño Pounce Lite AC PS Negro-Blanco",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-para-nino-pounce-lite-ac-ps-negro-blanco/00406798339767?athbdg=L6000",
+        "price": 1199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Hombre 310778-21 negro 25.5",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-hombre-310778-21-negro-25-5/00406915704818",
+        "price": 1699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Mujer 312239-11 negro 25.5",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-mujer-312239-11-negro-25-5/00406798356282",
+        "price": 1699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Mujer 310778-19 lila 24",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-mujer-310778-19-lila-24/00406915703789",
+        "price": 1699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Hombre 310778-25 verde 28",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-hombre-310778-25-verde-28/00406915705091",
+        "price": 1699.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS PUMA POUNCE LITE 31077838 UNISEX GRIS 26.5CM",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-31077838-unisex-gris-26-5cm/00406916139987",
+        "price": 1597.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite Mujer Original 312239 11",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-mujer-original-312239-11/00406798356279?athbdg=L6000",
+        "price": 1899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite JR UNISEX 401512-01 negro 25",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-jr-unisex-401512-01-negro-25/00406798339850?athbdg=L6000",
+        "price": 1899.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Hombre 310778-01 negro 27.5",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-hombre-310778-01-negro-27-5/00406798325745",
+        "price": 1597.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite JR UNISEX 401512-07 azul marino 24",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-jr-unisex-401512-07-azul-marino-24/00406915711513",
+        "price": 1449.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "TENIS PUMA POUNCE LITE KNIT WNS 31382702 DAMA ROSA 23.5CM",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-knit-wns-31382702-dama-rosa-23-5cm/00406916171076",
+        "price": 1597.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Tenis Puma Pounce Lite para Hombre 310778-34 rojo 27",
+        "url": "https://www.walmart.com.mx/ip/tenis-puma-pounce-lite-para-hombre-310778-34-rojo-27/00406916139652",
+        "price": 1699.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|POUNCELITEPUMA": {
+    "ts": "2026-08-25T02:25:32.481554+00:00",
+    "items": []
+  },
+  "amazon|HISENSECONGELADORCUBICOSHISENSEPIES": {
+    "ts": "2026-08-25T02:25:43.891462+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Nuur - Frigobar Mini con Llave de Seguridad 46 Litros 1.6 Pies, Puerta de Acero Inoxidable Reversible, 7 Niveles de Temperatura, Congelador Integrado, Compresor Silencioso, Compacto - FRIGO46L",
+        "url": "https://www.amazon.com.mx/dp/B0FBLFDS4B",
+        "price": 3352.0,
+        "model": "FRIGO46L"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense FC50D6AWX1-Congelador, 5 pies cúbicos, Blanco | Temperatura ajustable,Fast Freeze,Cerradura de seguridad,Gas refrigerante R600a,Puerta Flotante, 62x56x85cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B08D8JX2MT",
+        "price": 4359.0,
+        "model": "FC50D6AWX1-Congelador"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense FC70D6BWX Congelador,7 pies cúbicos,Blanco | Temperatura ajustable,Fast Freeze,Cerradura de seguridad,Gas refrigerante R600a,,89x56x84cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B092LFXKB4",
+        "price": 5544.0,
+        "model": "89x56x84cm"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense FC70D6BBX-Congelador, 7 pies cúbicos,Negro | Temperatura ajustable,Fast Freeze,Cerradura de seguridad,Gas refrigerante R600a,,89x56x85cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0CLQYQW8Y",
+        "price": 6499.0,
+        "model": "FC70D6BBX-Congelador"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RR33D6AGX1- Frigobar,3.3 pies cúbicos,Gris | Estantes Para Botellas de 2 Litros, Termostato Ajustable, Congelador Independiente, 48x45x84cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0BF8X3KTT",
+        "price": 2999.0,
+        "model": "RR33D6AGX1"
+      },
+      {
+        "store": "amazon",
+        "name": "Congelador Horizontal Hisense 7 Pies Cúbicos Blanco FC70D6BWX + ESTRA. Termo Insulado 2L, Rojo, Boquilla Antigoteo, Material Reciclado, Conservación de Temperatura, Ideal para Bebidas Frías",
+        "url": "https://www.amazon.com.mx/dp/B0F8L1ZQ5G",
+        "price": 5881.58,
+        "model": "FC70D6BWX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RR16D6AGX1- Frigobar,1.6 pies cúbicos, Gris | Estantes Para Botellas de 2 Litros,Termostato Ajustable,Sello De Puerta Antibacteriano,45x47x50cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0BF8SXK5M",
+        "price": 1990.0,
+        "model": "RR16D6AGX1"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RR63D6WBX-Refrigerador Una Puerta,6.3 pies cúbicos,Negro | Dispensador de Agua,Diseño ÚnicoY Elegante, Zona De Enfriamiento, Iluminación LED, 52x54x128cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B07JQBB65R",
+        "price": 4490.0,
+        "model": "RR63D6WBX-Refrigerador"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RT31D6AGX1- Frigobar,3.1 pies cúbicos, Gris | Estantes Para Botellas de 2 Litros, Base Ajustable, Termostato Ajustable, Silencioso, 48x51x86cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0CW83NF8H",
+        "price": 3999.0,
+        "model": "RT31D6AGX1"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RT31D6ABX1- Frigobar,3.1 pies cúbicos,Congelador independiente,Termostato ajustable,Silencioso,Estantes para botellas de 2 litros,48x51x86cm(AnchoxLargoxAlto),Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CW7WR35Z",
+        "price": 5533.99,
+        "model": "RT31D6ABX1"
+      },
+      {
+        "store": "amazon",
+        "name": "Congelador Hisense 7 pies cúbicos Negro Hisense FC70D6CBX",
+        "url": "https://www.amazon.com.mx/dp/B0BBY1JY87",
+        "price": 7990.0,
+        "model": "FC70D6CBX"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense RR43D6ABX1- Frigobar,4.4 pies cúbicos, Negro | Congelador independiente, Termostato ajustable, Estantes para botellas de 2 litros, 48x56x84cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0F1SVLT69",
+        "price": 3999.0,
+        "model": "RR43D6ABX1"
+      }
+    ]
+  },
+  "sams|HISENSECONGELADORCUBICOSHISENSEPIES": {
+    "ts": "2026-08-25T02:25:45.214796+00:00",
+    "items": []
+  },
+  "amazon|ATVIOQUEMADORESESTUFAATVIONEGRA": {
+    "ts": "2026-08-25T02:25:49.044150+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "SIGNA Parrilla De Gas 6 Quemadores De Acero Inoxidable Negra Estufa Compatible Con Gas LP Empotrable Encendido Electronico Parrilla Electrica De Estructura Metalica (Negra)",
+        "url": "https://www.amazon.com.mx/dp/B0DGJ6C7ZY",
+        "price": 2049.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Juego De 4 Quemadores Estufa Iem Mabe Easy",
+        "url": "https://www.amazon.com.mx/dp/B08VLZ6Z87",
+        "price": 146.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Kit de 6 Tapas Negras para Quemador Acrs Whrpool",
+        "url": "https://www.amazon.com.mx/dp/B0FPZBJZY5",
+        "price": 350.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Raganet, Parrilla de Gas con 4 Quemadores, de Cristal Templado, Encendido Eléctrico, Estufa Empotrable y De Mesa, Compatible con Gas Natural y Gas LP, Medidas: 58cm Largo X 11cm Alto X 51cm Ancho",
+        "url": "https://www.amazon.com.mx/dp/B0CDZKWXPH",
+        "price": 1296.98,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "ECOCINARE - PARRILLA DE GAS DE 2 QUEMADORES DE CRISTAL COLOR NEGRO Empotrable, Estufa Empotrable, Minimalista Compatible con Gas LP y Gas Natural AHORRA ESPACIO",
+        "url": "https://www.amazon.com.mx/dp/B0CFG7JBYR",
+        "price": 1269.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Funda para Quemadores de Estufa, 10 PCS Protectores Reutilizables para Estufa, Fácil de Limpiar. Protectores de Estufa de Gas, Cortables, Antiadherentes (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0D8P4ZPZN",
+        "price": 139.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "IEM - Parrilla con gabinete Mabe 20'' 4 quemadores - PIG510NN",
+        "url": "https://www.amazon.com.mx/dp/B00XD4N16A",
+        "price": 3069.0,
+        "model": "PIG510NN"
+      },
+      {
+        "store": "amazon",
+        "name": "Kit de 6 Quemadores para estufa compatible con mabe con tapas",
+        "url": "https://www.amazon.com.mx/dp/B0G1W6V167",
+        "price": 829.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Parrilla a Gas Estufa Vidrio Templado Empotrable | Hierro Fundido, Encendido Eléctrico, Perillas Metalicas | Incluye Accesorios | Gas LP y Gas Natural | Acero Inoxidable (Negro 5 Quemadores)",
+        "url": "https://www.amazon.com.mx/dp/B0GGM6D9D9",
+        "price": 1799.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "SELECTSHOP Parrilla De Gas 5 Quemadores De Acero Inoxidable Estufa Compatible Con Gas LP Empotrable o De Sobreponer Encendido Electronico Parrilla Electrica De Estructura Metalica (Negro)",
+        "url": "https://www.amazon.com.mx/dp/B0DF3VSLJS",
+        "price": 1849.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Genérico Juego de 4 Quemadores Sin Guía para Estufa de Gas Modelo Supermatik, Compatibles con Estufas Acros y Whirlpool, Número de Parte 98016327, Recambio Original, Color Negro",
+        "url": "https://www.amazon.com.mx/dp/B0FG664Y16",
+        "price": 199.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Parrilla De Gas Empotrable 4 Quemadores | Acero Negro | Gas LP Y Gas Natural | Encendido Electrónico | Cocina Moderna - Fácil Limpieza",
+        "url": "https://www.amazon.com.mx/dp/B0DMPSJKPM",
+        "price": 2375.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|ATVIOQUEMADORESESTUFAATVIONEGRA": {
+    "ts": "2026-08-25T02:25:50.165884+00:00",
+    "items": []
+  },
+  "amazon|CO905KS": {
+    "ts": "2026-08-25T02:25:52.111392+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Ninja CO905KS Deluxe Kitchen System, Potencia 1600W, Procesador con Licuadora, Jarra 86oz, 2 Vasos 24oz, Tecnología Auto-IQ, Sistema de Cocina Profesional Multifuncional, Color Negro (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B0D9WV919N",
+        "price": 2679.0,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Licuadora Ninja Deluxe 1600W Sistema de Cocina 3 en 1 – Procesador de Alimentos 9 Tazas, Jarra 2.6 L, 2 Vasos Portátiles 700 ml.",
+        "url": "https://www.amazon.com.mx/dp/B0FXJHFH41",
+        "price": 3490.0,
+        "model": "1600W"
+      },
+      {
+        "store": "amazon",
+        "name": "Hukën x MasterChef | Sistema de Cocina Chef Deluxe | 650W de Potencia | Más de 10 Accesorios para Licuar, Triturar, Rebanar y Más | Panel Digital | Acabados de Acero Inoxidable",
+        "url": "https://www.amazon.com.mx/dp/B0F14ZXFZQ",
+        "price": 2508.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (jarra 88 onzas)",
+        "url": "https://www.amazon.com.mx/dp/B0GG63FKFL",
+        "price": 2022.32,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Ninja CO351B SS351 Foodi Potente sistema de licuadora para batidos, 4 en 1 + procesador de alimentos, una sola porción, 1400 WP, smartTORQUE, 6 programas predeterminados Auto-iQ (reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B09RQDDYNH",
+        "price": 2378.0,
+        "model": "CO351B"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (Recipiente 72 oz / 2.1 L)",
+        "url": "https://www.amazon.com.mx/dp/B0GG5XXQLG",
+        "price": 2042.0,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto originales OEM compatibles con licuadora Ninja Costco CO905KS Deluxe (disco de rallador)",
+        "url": "https://www.amazon.com.mx/dp/B0GSYDK6DW",
+        "price": 539.49,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Ninja Costco CO905KS Deluxe (Tapa para jarra)",
+        "url": "https://www.amazon.com.mx/dp/B0GG62VQB1",
+        "price": 724.54,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
+        "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
+        "price": 388.44,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Base de motor original de repuesto de 1600 vatios compatible con Ninja Costco CO905KS Deluxe Blender",
+        "url": "https://www.amazon.com.mx/dp/B0H351DFVK",
+        "price": 1606.32,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Piezas de repuesto originales compatibles con Ninja Costco CO905KS Deluxe Blender (tapa de tolva de alimento)",
+        "url": "https://www.amazon.com.mx/dp/B0GG642C53",
+        "price": 1046.61,
+        "model": "CO905KS"
+      },
+      {
+        "store": "amazon",
+        "name": "Repuesto original de 6 cuchillas apiladas compatibles con Ninja Costco CO905KS",
+        "url": "https://www.amazon.com.mx/dp/B0GSXZX6X1",
+        "price": 539.49,
+        "model": "CO905KS"
+      }
+    ]
+  },
+  "sams|CO905KS": {
+    "ts": "2026-08-25T02:25:53.093412+00:00",
+    "items": []
+  },
+  "amazon|LRK2311A": {
+    "ts": "2026-08-25T02:25:59.080206+00:00",
+    "items": []
+  },
+  "walmart|LRK2311A": {
+    "ts": "2026-08-25T02:26:01.576712+00:00",
+    "items": []
+  },
+  "sams|LRK2311A": {
+    "ts": "2026-08-25T02:26:02.374854+00:00",
+    "items": []
+  },
+  "amazon|SEMIAUTOMATICACENTRIFUGADOWESTINGHOUSELAVADORA": {
+    "ts": "2026-08-25T02:26:05.604644+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Lavadora Portátil | Centrifugado de Alta Velocidad y Limpieza Profunda | Mini Lavadora Plegable | Portátil para Viajes, Apartamento, Hogar | Ideal para Ropa Interior (Verde)",
+        "url": "https://www.amazon.com.mx/dp/B0GFNPCZHZ",
+        "price": 539.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "AsiXXSix Lavadora Portátil, 7.5L Mini Lavadora de Cubo para Calcetines Ropa Interior Toallas, Plegable Automática con Centrifugado Suave (Enchufe de EE. UU.), Púrpura, 9gi5yac4k-14",
+        "url": "https://www.amazon.com.mx/dp/B0C6R2ZP99",
+        "price": 924.0,
+        "model": "9gi5yac4k-14"
+      },
+      {
+        "store": "amazon",
+        "name": "KIMISS Lavadora plegable de 6.5L, para viajes y camping, centrifugado suave, alta velocidad, capacidad grande, lavadora mini portátil",
+        "url": "https://www.amazon.com.mx/dp/B0D5DRKMXM",
+        "price": 523.2,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Fockety Lavadora Portátil, Mini Lavadora y Secadora Plegables de 15 L, Mini Lavadora para Calcetines, Ropa de bebé, Toallas, Ropa Interior, Apartamento, Dormitorio, (Enchufe de EE. UU.)",
+        "url": "https://www.amazon.com.mx/dp/B0CMR11RXL",
+        "price": 1434.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1102PCN1-Lavadora doble tina,Semiautomática, 11 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado, Lámpara UV, Smart Fuzzy Logic Control,Lavado rápido, 84x63x111cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B09ZKGRGQ6",
+        "price": 2990.0,
+        "model": "WSA1102PCN1-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1304P-Lavadora doble tina, Semiautomática, 13 Kg, Blanco/Gris | Temporizador de Lavado y Centrifugado, Diseño de Vanguardia, Secado Con Aire, Filtro Mágico,80x47x98cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B08DMTC63M",
+        "price": 5159.0,
+        "model": "WSA1304P-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Giantex Lavadora portátil mini, capacidad de 5.5 lbs, lavadora compacta pequeña para lavandería con centrifugado y manguera de drenaje, lavadora semiautomática para apartamentos, dormitorios, RV",
+        "url": "https://www.amazon.com.mx/dp/B0F93PDSR5",
+        "price": 1982.12,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Acros - Lavadora Semiautomática Maxspin (13 Kg), Color Blanco",
+        "url": "https://www.amazon.com.mx/dp/B0BPTQWHQZ",
+        "price": 3999.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "White Westinghouse | Lavadora doble tina | 11 kg | WWXCTT11703BK | Gabinete en polipropileno | 4 niveles de agua | 3 perillas de control | Bajo consumo de energía | Ahorro de agua",
+        "url": "https://www.amazon.com.mx/dp/B0DVJVQMCP",
+        "price": 3953.0,
+        "model": "WWXCTT11703BK"
+      },
+      {
+        "store": "amazon",
+        "name": "Koblenz Lavadora Compacta Semiautomática de 6 Kg con Timer y Paro Automático, 2 Velocidades, Sistema de Impulsor Reversible, Perilla Selectora, Fácil de Limpiar y Mover, Blanca LCK-60",
+        "url": "https://www.amazon.com.mx/dp/B073TZNBNB",
+        "price": 2354.55,
+        "model": "LCK-60"
+      },
+      {
+        "store": "amazon",
+        "name": "Hisense WSA1804P-Lavadora doble tina, Semiautomática, 18 Kg, Gris | Temporizador de Lavado y Centrifugado,Diseño de Vanguardia, Secado Con Aire, Filtro Mágico, 89x54x104cm(AnchoxLargoxAlto)",
+        "url": "https://www.amazon.com.mx/dp/B0F1XHVCZH",
+        "price": 5744.0,
+        "model": "WSA1804P-Lavadora"
+      },
+      {
+        "store": "amazon",
+        "name": "Lavadora Midea Semiautomática Dos Tinas 13Kg Twin Force Pulsator Blanca; MT100W130/W-MX; Impulsor De Doble Fuerza",
+        "url": "https://www.amazon.com.mx/dp/B0CCK9FRVK",
+        "price": 4130.51,
+        "model": "MT100W130/W-MX"
+      }
+    ]
+  },
+  "walmart|SEMIAUTOMATICACENTRIFUGADOWESTINGHOUSELAVADORA": {
+    "ts": "2026-08-25T02:26:22.854040+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Lavadora White Westinghouse 25 kg Gris WWXCTT332009QBK Semiautomática Doble Tina",
+        "url": "https://www.walmart.com.mx/ip/lavadora-white-westinghouse-25-kg-gris-wwxctt332009qbk-semiautomatica-doble-tina/00084184810288?athbdg=L1300",
+        "price": 7999.0,
+        "model": "WWXCTT332009QBK"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática de doble tina White Westinghouse 19 kg WWXCTT301408Q",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-de-doble-tina-white-westinghouse-19-kg-wwxctt301408q/00084184810287?athbdg=L1300",
+        "price": 5599.0,
+        "model": "WWXCTT301408Q"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática White-Westinghouse 11 kg WWXCTT11703BK",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-white-westinghouse-11-kg-wwxctt11703bk/00084184810283?athbdg=L1300",
+        "price": 3899.0,
+        "model": "WWXCTT11703BK"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora semiautomática de doble tina White Westinghouse 13 kg WWXCTT23905QB",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-de-doble-tina-white-westinghouse-13-kg-wwxctt23905qb/00084184810284?athbdg=L1300",
+        "price": 4799.0,
+        "model": "WWXCTT23905QB"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Semiautomática White-Westinghouse 15 kg WWXCTT251006Q",
+        "url": "https://www.walmart.com.mx/ip/lavadora-semiautomatica-white-westinghouse-15-kg-wwxctt251006q/00084184810285?athbdg=L6000",
+        "price": 12980.0,
+        "model": "WWXCTT251006Q"
+      },
+      {
+        "store": "walmart",
+        "name": "Hisense Lavadora Doble Tina WSA1304P,Semiautomática,13 Kg,Temporizador de Lavado y Centrifugado,80x47x98cm(AnchoxLargoxAlto),Blanco/Gris",
+        "url": "https://www.walmart.com.mx/ip/hisense-lavadora-doble-tina-wsa1304p-semiautomatica-13-kg-temporizador-de-lavado-y-centrifugado-80x47x98cm-anchoxlargoxalto-blanco-gris/00690110183278?athbdg=L1300",
+        "price": 3819.0,
+        "model": "80x47x98cm"
+      },
+      {
+        "store": "walmart",
+        "name": "Lavadora Dace De Dos Tinas Capacidad De Lavado Hasta 12 Kg Y Centrifugado Hasta 6 Kg",
+        "url": "https://www.walmart.com.mx/ip/lavadora-dace-de-dos-tinas-capacidad-de-lavado-hasta-12-kg-y-centrifugado-hasta-6-kg/00489705969638",
+        "price": 4869.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|SEMIAUTOMATICACENTRIFUGADOWESTINGHOUSELAVADORA": {
+    "ts": "2026-08-25T02:26:23.311197+00:00",
+    "items": []
+  },
+  "amazon|INALAMBRICOMICROSOFTESPECIALCONTROL": {
+    "ts": "2026-08-25T02:26:26.238819+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "Control inalámbrico Xbox - Edición Especial Mineral Camo para Xbox Series X|S, Xbox One, y dispositivos Windows - Edición Especial Edition",
+        "url": "https://www.amazon.com.mx/dp/B093X5V1N9",
+        "price": 2215.14,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Xbox Wireless Controller Ice Breaker Special Edition - Wireless & Bluetooth Connectivity - New Hybrid D-Pad - New Share Button - Featuring Textured Grip",
+        "url": "https://www.amazon.com.mx/dp/B0FLLXHPM9",
+        "price": 1559.17,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control inalámbrico Xbox - Daystrike Camo - Special Edition",
+        "url": "https://www.amazon.com.mx/dp/B08ZNJBQKQ",
+        "price": 1684.55,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Microsoft Mando inalámbrico Xbox One Arctic Camo edición especial (Reacondicionado)",
+        "url": "https://www.amazon.com.mx/dp/B094DX5L5Q",
+        "price": 1122.01,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Inalámbrico Xbox - Remix - Controladores inalámbricos Edition",
+        "url": "https://www.amazon.com.mx/dp/B0BW31WYTG",
+        "price": 2482.37,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control inalámbrico Xbox - Edición Especial Arctic Camo para Xbox Series X|S, Xbox One, y dispositivos Windows - Edición Limitada Edition",
+        "url": "https://www.amazon.com.mx/dp/B0CZ4H1JTZ",
+        "price": 2122.13,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Microsoft QAS-00007 Wireless Controller Robot in White 2 Pack",
+        "url": "https://www.amazon.com.mx/dp/B0DMGG32G4",
+        "price": 2742.89,
+        "model": "QAS-00007"
+      },
+      {
+        "store": "amazon",
+        "name": "Xbox Wireless Controller – Ice Breaker Special Edition Series X|S, One, PC und cloudfähige Geräte",
+        "url": "https://www.amazon.com.mx/dp/B0FKGVK6KK",
+        "price": 1753.32,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Inalámbrico Xbox One - Limited Edition - Gears 5",
+        "url": "https://www.amazon.com.mx/dp/B07VRD1TT1",
+        "price": 3299.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Control Xbox inalámbrico Nocturnal Vapor - Edición Limitada Edition",
+        "url": "https://www.amazon.com.mx/dp/B0CTS4LGFZ",
+        "price": 2386.03,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Microsoft Paquete De 2 Controladores Inalámbricos Xbox Qau-00082",
+        "url": "https://www.amazon.com.mx/dp/B0DMHLF8W7",
+        "price": 4933.77,
+        "model": "Qau-00082"
+      },
+      {
+        "store": "amazon",
+        "name": "Xbox 360 Wireless Controller – Limited Edition – Call Of Duty Special Edition Azul (Refurbished Certificado)",
+        "url": "https://www.amazon.com.mx/dp/B0186MWG82",
+        "price": 3029.55,
+        "model": null
+      }
+    ]
+  },
+  "walmart|INALAMBRICOMICROSOFTESPECIALCONTROL": {
+    "ts": "2026-08-25T02:26:57.486495+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Control Inalámbrico Xbox One Series Microsoft X/S Pulse Red",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-Xbox-One-Series-Microsoft-X-S-Pulse-Red/00088984270710",
+        "price": 1599.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control inalámbrico para Xbox Series X/S Edición Especial DOOM: The Dark Ages",
+        "url": "https://www.walmart.com.mx/ip/Control-inalambrico-para-Xbox-Series-X-S-Edicion-Especial-DOOM-The-Dark-Ages/00063791344037?athbdg=L1300",
+        "price": 1979.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control XBOX ONE MICROSOFT Inalambrico + Cable USB-C 1V8-000016",
+        "url": "https://www.walmart.com.mx/ip/Control-XBOX-ONE-MICROSOFT-Inalambrico-Cable-USB-C-1V8-000016/00070452113776",
+        "price": 1498.0,
+        "model": "1V8-000016"
+      },
+      {
+        "store": "walmart",
+        "name": "Control inalámbrico Microsoft Xbox Core Carbon Black USB-C",
+        "url": "https://www.walmart.com.mx/ip/Control-inalambrico-Microsoft-Xbox-Core-Carbon-Black-USB-C/00064966190466?athbdg=L1300",
+        "price": 1619.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Controlador Bluetooth inalámbrico Microsoft Xbox Series X/S",
+        "url": "https://www.walmart.com.mx/ip/Controlador-Bluetooth-inalambrico-Microsoft-Xbox-Series-X-S/00068019370960?athbdg=L1300",
+        "price": 2579.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Inalámbrico Para Microsoft Xbox Series Color Azul",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-Para-Microsoft-Xbox-Series-Color-Azul/00065796862686?athbdg=L1300",
+        "price": 1239.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Inalambrico XBOX Series Bluetooth Pc Android Xcloud Microsoft QAT-00001",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-XBOX-Series-Bluetooth-Pc-Android-Xcloud-Microsoft-QAT-00001/00088984261158",
+        "price": 1526.0,
+        "model": "QAT-00001"
+      },
+      {
+        "store": "walmart",
+        "name": "Control inalámbrico Microsoft Xbox One sin Bluetooth",
+        "url": "https://www.walmart.com.mx/ip/Control-inalambrico-Microsoft-Xbox-One-sin-Bluetooth/00064085294866",
+        "price": 2499.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Inalámbrico Xbox One Series Microsoft X/S Robot White",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-Xbox-One-Series-Microsoft-X-S-Robot-White/00088984271688",
+        "price": 1690.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Controlador inalámbrico Microsoft Xbox con cable USB-C para PC",
+        "url": "https://www.walmart.com.mx/ip/Controlador-inalambrico-Microsoft-Xbox-con-cable-USB-C-para-PC/00019664113373",
+        "price": 2072.89,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Inalámbrico Microsoft para Xbox One Shock Blue Accesorio",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-Microsoft-para-Xbox-One-Shock-Blue-Accesorio/00088984261387",
+        "price": 1399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Control Inalambrico Xbox Verde",
+        "url": "https://www.walmart.com.mx/ip/Control-Inalambrico-Xbox-Verde/00750304428822?athbdg=L1300",
+        "price": 1299.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|INALAMBRICOMICROSOFTESPECIALCONTROL": {
+    "ts": "2026-08-25T02:26:57.823130+00:00",
     "items": []
   }
 }

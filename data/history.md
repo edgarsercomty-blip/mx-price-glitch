@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (950)
+# Historial de ofertas encontradas (953)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-25 02:26 | -26% | walmart | [Cafetera comercial para bebidas calientes - Doble pared…](https://www.walmart.com.mx/ip/cafetera-comercial-para-bebidas-calientes-doble-pared-de-acero-inoxidable-grifo-antigoteo-control-automatico-de-temperatura-16l-4-2gal-ideal-para-catering-bodas-y-bufes/00088162832915) | $2,621 | $2,621 en walmart vs mercado -> -26% bajo la competencia |
+| 2026-08-25 02:26 | -27% | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,199 | $2,199 en liverpool vs mercado -> -27% bajo la competencia |
+| 2026-08-25 02:26 | -21% | walmart | [Estufa de Piso 50 cm (20 pulgadas) NEGRO EM5031BAPN1 - …](https://www.walmart.com.mx/ip/estufa-de-piso-50-cm-20-pulgadas-negro-em5031bapn1-mabe/00075763840434) | $4,499 | 🔁 DE NUEVO DISPONIBLE en walmart: $4,499 (estaba agotado) |
 | 2026-08-24 22:46 | -35% | liverpool | [Porta Audifonos In Ear Otterbox](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531) | $129 | $129 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-24 15:47 | -21% | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $288 | $288 en mercadolibre vs mercado -> -21% bajo la competencia |
 | 2026-08-24 15:47 | -23% | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear con …](https://www.amazon.com.mx/dp/B0H1D82JGT) | $2,000 | $2,000 en amazon vs mercado -> -23% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-04 12:20 | -21% | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-04 10:02 | -21% | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $16,087 | $16,087 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-04 10:02 | -21% | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | $14,122 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-08-04 04:01 | -21% | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | $8,232 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-08-03 22:19 | -80% | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Sup…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $900 | $900 en liverpool vs mercado -> -80% bajo la competencia |
-| 2026-08-03 13:28 | -25% | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | $2,309 en liverpool vs mercado -> -25% bajo la competencia |

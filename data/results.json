@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 02:13 UTC",
-  "products_scanned": 1612,
+  "generated_at": "2026-08-25 02:26 UTC",
+  "products_scanned": 2696,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 47,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,6 +23,67 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$719 en mercadolibre vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 550.0,
+      "store": "mercadolibre",
+      "name": "Controles Del Reproductor De Consola #x8 | Inalambricos",
+      "url": "https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168",
+      "price": 719.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM2047274168"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$10,400 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7090.4,
+      "store": "liverpool",
+      "name": "Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor 12000 Btu Aa Aru122Nfw 12 220V 220 V",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276",
+      "price": 10399.6,
+      "list_price": 25999.0,
+      "ean": null,
+      "model": "Aru122Nfw",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1163538276",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.5,
+      "detail": "$999 en walmart vs amazon $1,599, amazon $2,389 -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 600.0,
+      "store": "walmart",
+      "name": "Batidora De Pedestal PrettyCare 1500W 5.5L 11 Vel Led",
+      "url": "https://www.walmart.com.mx/ip/batidora-de-pedestal-prettycare-1500w-5-5l-11-vel-led/00858168936984",
+      "price": 999.0,
+      "list_price": 2299.0,
+      "ean": null,
+      "model": "1500W",
+      "brand": "Prettycare",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00858168936984"
       }
     },
     {
@@ -90,6 +151,47 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$952 en amazon vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 461.79,
+      "store": "amazon",
+      "name": "PUMA Pounce Lite",
+      "url": "https://www.amazon.com.mx/dp/B0D1YLWQQ1",
+      "price": 951.63,
+      "list_price": 317.21,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0D1YLWQQ1"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4128.48,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
+      "price": 8663.52,
+      "list_price": 18049.0,
+      "ean": null,
+      "model": "Wa20A3350Gw",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1106592728",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 47.9,
       "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -149,6 +251,127 @@
       "extra": {
         "id": "42077608",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,699 en mercadolibre vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1941.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Semiautomática White-Westinghouse de 13 kg y Doble Tina con Centrifugado",
+      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221",
+      "price": 4699.0,
+      "list_price": null,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM47040221"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$388 en amazon vs amazon $539, amazon $539, amazon $725 -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 151.05,
+      "store": "amazon",
+      "name": "Piezas de repuesto OEM genuinas compatibles con licuadora Deluxe Ninja Costco CO905KS (Cuchilla para masa)",
+      "url": "https://www.amazon.com.mx/dp/B0GSXY99RP",
+      "price": 388.44,
+      "list_price": 129.48,
+      "ean": null,
+      "model": "CO905KS",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0GSXY99RP"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$21,599 en mercadolibre vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8401.0,
+      "store": "mercadolibre",
+      "name": "Consola Microsoft Xbox Series X 2TB Galaxy Black Edición Especial con Control Inalámbrico Negro y Wi-Fi",
+      "url": "https://www.mercadolibre.com.mx/consola-microsoft-xbox-series-x-2tb-galaxy-black-edicion-especial-con-control-inalambrico-negro-y-wi-fi/p/MLM54551840",
+      "price": 21599.0,
+      "list_price": 21599.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM54551840"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.7,
+      "detail": "$2,199 en liverpool vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 800.0,
+      "store": "liverpool",
+      "name": "Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2Sgdw",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386",
+      "price": 2199.0,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": "Mlts101M2Sgdw",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1127610386",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.2,
+      "detail": "$1,387 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 499.99,
+      "store": "walmart",
+      "name": "Lavadora Portátil Plegable con Centrifugadora - Capacidad de 12-13 Litros - Solución Silenciosa y Compacta para Ropa Interior, Ropa de Bebé, Calcetines",
+      "url": "https://www.walmart.com.mx/ip/lavadora-portatil-plegable-con-centrifugadora-capacidad-de-12-13-litros-solucion-silenciosa-y-compacta-para-ropa-interior-ropa-de-bebe-calcetines/00088162813722",
+      "price": 1387.0,
+      "list_price": 1986.3,
+      "ean": null,
+      "model": null,
+      "brand": "Towallmark",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00088162813722"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 56.5,
+      "detail": "$2,621 en walmart vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 910.4,
+      "store": "walmart",
+      "name": "Cafetera comercial para bebidas calientes - Doble pared de acero inoxidable - Grifo antigoteo - Control automático de temperatura - 16L/4.2Gal, ideal para catering, bodas y bufés",
+      "url": "https://www.walmart.com.mx/ip/cafetera-comercial-para-bebidas-calientes-doble-pared-de-acero-inoxidable-grifo-antigoteo-control-automatico-de-temperatura-16l-4-2gal-ideal-para-catering-bodas-y-bufes/00088162832915",
+      "price": 2621.38,
+      "list_price": 6029.0,
+      "ean": null,
+      "model": "16L/4",
+      "brand": "Towallmark",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00088162832915"
       }
     },
     {
@@ -279,6 +502,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.7,
+      "detail": "$823 en amazon vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 270.38,
+      "store": "amazon",
+      "name": "Puma Softride Harli - Zapatos de Entrenamiento sin Cordones para Mujer",
+      "url": "https://www.amazon.com.mx/dp/B0DDTV7HZ2",
+      "price": 822.83,
+      "list_price": 1435.0,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0DDTV7HZ2"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$7,296 en liverpool vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -363,6 +606,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 23.1,
+      "detail": "$2,000 en amazon vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 600.0,
+      "store": "amazon",
+      "name": "Baseus Inspire XC1 Audífonos Inalámbricos Open Ear, Sound by Bose | Dolby Audio, Hi-Res Wireless, LDAC, Driver Híbrido de 2 Vías, 4 Micrófonos, IP66, Hasta 40 Horas de Batería",
+      "url": "https://www.amazon.com.mx/dp/B0H153K79Y",
+      "price": 1999.99,
+      "list_price": 2599.99,
+      "ean": null,
+      "model": null,
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "asin": "B0H153K79Y"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -380,6 +643,26 @@
       "extra": {
         "productId": "1201664248",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 22.4,
+      "detail": "$8,990 en walmart vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2600.0,
+      "store": "walmart",
+      "name": "Estufa Atvio 30 Pulgadas de Gas con 6 Quemadores Negra",
+      "url": "https://www.walmart.com.mx/ip/estufa-atvio-30-pulgadas-de-gas-con-6-quemadores-negra/00694427167560?athbdg=L1300",
+      "price": 8990.0,
+      "list_price": 11590.0,
+      "ean": null,
+      "model": null,
+      "brand": "Atvio",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00694427167560"
       }
     },
     {
@@ -484,6 +767,67 @@
       "currency": "MXN",
       "extra": {
         "id": "45262440",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 31.3,
+      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1439.0,
+      "store": "walmart",
+      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
+      "url": "https://www.walmart.com.mx/ip/Congelador-Hisense-7-Pies-Cubicos-Blanco/00692172704679?athbdg=L1600",
+      "price": 5490.0,
+      "list_price": 7990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "00692172704679"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": null,
+      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1300.0,
+      "store": "mercadolibre",
+      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
+      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
+      "price": 4999.0,
+      "list_price": null,
+      "ean": null,
+      "model": "Lrk-2311a",
+      "brand": null,
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "mlm": "MLM46517919"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },
