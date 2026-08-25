@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (955)
+# Historial de ofertas encontradas (956)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-25 15:27 | -20% | liverpool | [Cortina Doble Black Out Xtellar](https://www.liverpool.com.mx/tienda/pdp/cortina-doble-black-out-xtellar/1177778041) | $899 | $899 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-25 11:48 | -22% | liverpool | [Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508) | $54,095 | $54,095 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-25 07:10 | -34% | liverpool | [Combo Licuadora Vaso Oster 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726) | $1,424 | $1,424 en liverpool vs mercado -> -34% bajo la competencia |
 | 2026-08-25 02:26 | -26% | walmart | [Cafetera comercial para bebidas calientes - Doble pared…](https://www.walmart.com.mx/ip/cafetera-comercial-para-bebidas-calientes-doble-pared-de-acero-inoxidable-grifo-antigoteo-control-automatico-de-temperatura-16l-4-2gal-ideal-para-catering-bodas-y-bufes/00088162832915) | $2,621 | $2,621 en walmart vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-06 09:09 | -59% | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $10,499 | $10,499 en liverpool vs mercado -> -59% bajo la competencia |
 | 2026-08-05 10:14 | -21% | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-05 03:55 | -39% | liverpool | [Licuadora Hamilton Beach 53521Fg 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266) | $545 | $545 en liverpool vs mercado -> -39% bajo la competencia |
-| 2026-08-04 12:20 | -21% | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | $7,799 en palacio vs mercado -> -21% bajo la competencia |

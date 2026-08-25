@@ -698,21 +698,21 @@
     "items": []
   },
   "amazon|CX1405CTA": {
-    "ts": "2026-08-23T15:13:13.806178+00:00",
+    "ts": "2026-08-25T15:25:37.552630+00:00",
     "items": [
-      {
-        "store": "amazon",
-        "name": "OKASIS Laptop 14 Pulgadas, Ordenador Portátil 14 Pulgadas,8GB DDR4,512GB SSD,1080P FHD Display, PC portatil Procesador 5305U, Batería 38 WH, Dos Altavoces Estéreo, Tipo C, USB 3.0, 2024",
-        "url": "https://www.amazon.com.mx/dp/B0DQCSD8QN",
-        "price": 4489.0,
-        "model": "512GB"
-      },
       {
         "store": "amazon",
         "name": "Dell Notebook Computer 14 Pulgadas Latitude 5440 Laptop, Business | 14 pulgadas",
         "url": "https://www.amazon.com.mx/dp/B0FH22S6KS",
         "price": 8799.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Amazon Renewed Lenovo Thinkpad T14s (G2) Laptop de Negocios | 14\" Fhd (1920 X 1080), Core I7-1185g7 3.0-4.8ghz, 512GB Ssd, 32GB Ram, C?mara Web, Windows 11 Pro (Renovado)",
+        "url": "https://www.amazon.com.mx/dp/B0FS74RYHT",
+        "price": 10799.0,
+        "model": "I7-1185g7"
       },
       {
         "store": "amazon",
@@ -723,10 +723,10 @@
       },
       {
         "store": "amazon",
-        "name": "ASUS Vivobook - Laptop de 14 pulgadas, FHD (1920 x 1080), Intel Core i3-1315U de 6 núcleos, gráficos Intel UHD, cámara de privacidad, bisagra Lay-Flat 180°, Windows 11 Home, con mouse inalámbrico (16",
-        "url": "https://www.amazon.com.mx/dp/B0FMXRTPZ7",
-        "price": 14041.99,
-        "model": "i3-1315U"
+        "name": "Lenovo ThinkPad L14 Gen 3 Laptop, Core i5-12th, 16GB 256GB(reacondicionado) | 14 Pulgadas FHD (1920 x 1080), 16GB RAM, 256GB SSD, Windows 11 Pro",
+        "url": "https://www.amazon.com.mx/dp/B0H71P8XHM",
+        "price": 7699.0,
+        "model": "i5-12th"
       },
       {
         "store": "amazon",
@@ -737,23 +737,23 @@
       },
       {
         "store": "amazon",
-        "name": "Juego completo de tornillos para portátil Para ASUS Chromebook CX14 CX1405 | CX1405CKA CX1405CTA",
-        "url": "https://www.amazon.com.mx/dp/B0FT8JKXDH",
-        "price": 369.99,
+        "name": "Gintai Pies de Goma Antideslizantes para ASUS Chromebook CX1405 CX1505 | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A 2piezas plateado goma base Bottom Cover Rubber Non-Slip Bumper Feet Pad",
+        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
+        "price": 337.07,
         "model": "CX1405CKA"
       },
       {
         "store": "amazon",
-        "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
+        "name": "Gintai Pies de Goma Antideslizantes para ASUS Chromebook CX1405 CX1505 | CX1405CKA CX1405CTA CX1505CKA CX1505CTA NB7336A 2piezas plateado goma base Bottom Cover Rubber Non-Slip Bumper Feet Pad",
         "url": "https://www.amazon.com.mx/dp/B0HDSNF7Q4",
         "price": 337.07,
         "model": "CX1405CKA"
       },
       {
         "store": "amazon",
-        "name": "Pies de goma antideslizantes goma base para ASUS Chromebook CX1405 CX1505 | CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA NB7336A 2piezas plateado Bottom Cover Rubber Non-Slip Bumper Feet Pad",
-        "url": "https://www.amazon.com.mx/dp/B0HDSSZ43C",
-        "price": 337.07,
+        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras gruesas de goma para pies ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
+        "url": "https://www.amazon.com.mx/dp/B0H6XBYWKP",
+        "price": 520.24,
         "model": "CX1405CKA"
       },
       {
@@ -765,9 +765,9 @@
       },
       {
         "store": "amazon",
-        "name": "JINTAI - Tiras de goma para ASUS Chromebook CX1405 CX1505 | Tiras gruesas de goma para pies ASUS Chromebook CX1405 CX1405CKA CX1405CTA CX1505 CX1505CKA CX1505CTA",
-        "url": "https://www.amazon.com.mx/dp/B0H6XBYWKP",
-        "price": 520.24,
+        "name": "Juego Completo de Tornillos para portátil ASUS Chromebook CX14 CX1405 CX1405CKA CX1405CTA Juego Completo de Tornillos para portátil",
+        "url": "https://www.amazon.com.mx/dp/B0FQBR7DBB",
+        "price": 724.86,
         "model": "CX1405CKA"
       },
       {
@@ -787,23 +787,23 @@
     ]
   },
   "walmart|CX1405CTA": {
-    "ts": "2026-08-23T15:13:17.541758+00:00",
+    "ts": "2026-08-25T15:25:40.377553+00:00",
     "items": [
       {
         "store": "walmart",
         "name": "Laptop Asus Chromebook CX1405CTA-C8G128-C1 Celeron 8GB 128GB",
         "url": "https://www.walmart.com.mx/ip/Laptop-Asus-Chromebook-CX1405CTA-C8G128-C1-Celeron-8GB-128GB/00019929125379?athbdg=L1300",
-        "price": 5697.0,
+        "price": 4997.0,
         "model": "CX1405CTA-C8G128-C1"
       }
     ]
   },
   "sams|CX1405CTA": {
-    "ts": "2026-08-23T15:13:18.529960+00:00",
+    "ts": "2026-08-25T15:25:42.913800+00:00",
     "items": []
   },
   "amazon|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-23T15:13:20.940635+00:00",
+    "ts": "2026-08-25T15:25:50.751532+00:00",
     "items": [
       {
         "store": "amazon",
@@ -835,13 +835,6 @@
       },
       {
         "store": "amazon",
-        "name": "Huawei Watch Kids X1 Pro Smartwatch Negro | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
-        "url": "https://www.amazon.com.mx/dp/B0GWJDWNVW",
-        "price": 5599.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "4G Reloj Inteligente Niños con GPS y Videollamada, Smartwatch para Niño Niña con SOS, Teléfono/Videollamadas/Chat Voz, Modo Escuela, Podómetro, Juegos, Relojes Teléfono Regalos para Infantil (Azul)",
         "url": "https://www.amazon.com.mx/dp/B0CS33HCCY",
         "price": 1499.0,
@@ -849,9 +842,9 @@
       },
       {
         "store": "amazon",
-        "name": "MOKAST 4G Reloj Inteligente para Niños y Niñas, Smartwatch for Kids con GPS, SOS, videollamada, Chat de Voz, Modo Escuela, Podómetro,Despertador, Regalos para niñas de 4-12 años (4G Azul)",
-        "url": "https://www.amazon.com.mx/dp/B0H2PL378M",
-        "price": 1172.39,
+        "name": "Huawei Watch Kids X1 Pro Smartwatch Negro | Reloj inteligente para Niños, Localización precisa, Videollamadas HD de 1.82”, SOS, Control Parental, Batería de 850 mAh",
+        "url": "https://www.amazon.com.mx/dp/B0GWJDWNVW",
+        "price": 5599.0,
         "model": null
       },
       {
@@ -863,16 +856,16 @@
       },
       {
         "store": "amazon",
-        "name": "Suoman 2 Piezas Funda para Huawei Watch Kids 4 Pro, [No Protector Pantalla] Cubierta Protectora del Parachoques Integral TPU Funda Protectora para Huawei Watch Kids 4 Pro (Rosa+Transparente)",
-        "url": "https://www.amazon.com.mx/dp/B0CYLGBC2V",
-        "price": 189.99,
+        "name": "EASYTAO Reloj Inteligente Niños,Detección de Actividad,no Requiere Celular | Smartwatch niños, Contador de Pasos, Monitor de Frecuencia Cardíaca, Monitoreo del Sueño, 80 Modos de Ejercicio",
+        "url": "https://www.amazon.com.mx/dp/B0GY7K3SVH",
+        "price": 629.1,
         "model": null
       },
       {
         "store": "amazon",
-        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Morado",
-        "url": "https://www.amazon.com.mx/dp/B0H67RKZML",
-        "price": 199.0,
+        "name": "Suoman 2 Piezas Funda para Huawei Watch Kids 4 Pro, [No Protector Pantalla] Cubierta Protectora del Parachoques Integral TPU Funda Protectora para Huawei Watch Kids 4 Pro (Rosa+Transparente)",
+        "url": "https://www.amazon.com.mx/dp/B0CYLGBC2V",
+        "price": 189.99,
         "model": null
       },
       {
@@ -888,23 +881,107 @@
         "url": "https://www.amazon.com.mx/dp/B0GYRWPMJK",
         "price": 139.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "USTIYA 4 en 1 Mica Funda Para HUAWEI WATCH KIDS X1 / X1 Pro Case con 2 Protector Piezas Pantalla HD Cristal Vidrio Templado Glass y bumper caratula de silicona Absorción de golpes Rosa",
+        "url": "https://www.amazon.com.mx/dp/B0H67GT1T3",
+        "price": 199.0,
+        "model": null
       }
     ]
   },
   "walmart|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-23T15:13:23.271077+00:00",
+    "ts": "2026-08-25T15:26:31.745745+00:00",
     "items": [
       {
         "store": "walmart",
+        "name": "STA Smart Watch, 180+ Modos de Ejercicio, 2.01 pulgadas Fitness Tracker con Bluetooth Calling, Rosa",
+        "url": "https://www.walmart.com.mx/ip/sta-smart-watch-180-modos-de-ejercicio-2-01-pulgadas-fitness-tracker-con-bluetooth-calling-rosa/00093780410985",
+        "price": 589.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Reloj Inteligente Huawei Watch Kids 4 Pro Rosa",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-huawei-watch-kids-4-pro-rosa/00694148724057",
+        "price": 3718.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
         "name": "Reloj Inteligente Huawei Watch Kids 4 Pro Azul",
-        "url": "https://www.walmart.com.mx/ip/Reloj-Inteligente-Huawei-Watch-Kids-4-Pro-Azul/00694148724058",
+        "url": "https://www.walmart.com.mx/ip/reloj-inteligente-huawei-watch-kids-4-pro-azul/00694148724058",
         "price": 3799.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Watch para niños Reloj Waterproof IP68 con Figuras Intercambiables Zeta Kids4",
+        "url": "https://www.walmart.com.mx/ip/smart-watch-para-ninos-reloj-waterproof-ip68-con-figuras-intercambiables-zeta-kids4/00750303067660",
+        "price": 549.0,
+        "model": "Kids4"
+      },
+      {
+        "store": "walmart",
+        "name": "Smart Watch GT4 HUAWEI 46mm Negro Mate hasta 7 Días de Bateria",
+        "url": "https://www.walmart.com.mx/ip/smart-watch-gt4-huawei-46mm-negro-mate-hasta-7-dias-de-bateria/00694210310483",
+        "price": 4199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Morado",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-morado/00070452118691?athbdg=L1300",
+        "price": 3399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit 5 - Morado",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-morado/00955928136422?athbdg=L1300",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch HUAWEI Watch Fit 4 Pantalla Touch AMOLED 1.82\" Bluetooth 5.2 Android iOS Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-4-pantalla-touch-amoled-1-82-bluetooth-5-2-android-ios-negro/00070452118690?athbdg=L1300",
+        "price": 3399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit 5 - Blanco",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-blanco/00955617172758?athbdg=L1300",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Smartwatch Huawei Watch Fit 5 - Negro",
+        "url": "https://www.walmart.com.mx/ip/smartwatch-huawei-watch-fit-5-negro/00955568795608?athbdg=L1300",
+        "price": 2199.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa Para Huawei Watch Fit 3 y 4, Acero Inoxidable, Eslabones + Mica",
+        "url": "https://www.walmart.com.mx/ip/correa-para-huawei-watch-fit-3-y-4-acero-inoxidable-eslabones-mica/00750306137824?athbdg=L1300",
+        "price": 258.55,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Correa De Silicon Sport Unisex Para Huawei Watch Fit",
+        "url": "https://www.walmart.com.mx/ip/correa-de-silicon-sport-unisex-para-huawei-watch-fit/00750304875676?athbdg=L1300",
+        "price": 84.15,
         "model": null
       }
     ]
   },
   "sams|HUAWEISMARTWACHKIDS": {
-    "ts": "2026-08-23T15:13:24.303308+00:00",
+    "ts": "2026-08-25T15:26:32.714258+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
@@ -5069,7 +5146,7 @@
     "items": []
   },
   "amazon|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-23T14:42:03.802352+00:00",
+    "ts": "2026-08-25T15:26:37.332118+00:00",
     "items": [
       {
         "store": "amazon",
@@ -5101,17 +5178,17 @@
       },
       {
         "store": "amazon",
-        "name": "Celular motorla RAZR 70 Ultra Cocoa",
-        "url": "https://www.amazon.com.mx/dp/B0GYRLQD7J",
-        "price": 25999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Motorola RAZR+ 2025 | Desbloqueado | Hecho para US 12/256GB | Cámara de 50MP | Pantone Mocha Mousse (Reacondicionado)",
         "url": "https://www.amazon.com.mx/dp/B0FFDKFZN1",
         "price": 7797.0,
         "model": "12/256GB"
+      },
+      {
+        "store": "amazon",
+        "name": "Celular motorla RAZR 70 Ultra Cocoa",
+        "url": "https://www.amazon.com.mx/dp/B0GYRLQD7J",
+        "price": 25999.0,
+        "model": null
       },
       {
         "store": "amazon",
@@ -5129,20 +5206,6 @@
       },
       {
         "store": "amazon",
-        "name": "Motorola Celular RAZR 70 512 GB Verde",
-        "url": "https://www.amazon.com.mx/dp/B0GYQH5Q6H",
-        "price": 19999.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "JS Funda para Motorola Moto RAZR 50 Ultra Case Uso Rudo Protector cámara Soporte Grado Militar Antigolpes rígido Acrílico Carcasa Cover",
-        "url": "https://www.amazon.com.mx/dp/B0FMQR7QBP",
-        "price": 249.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
         "name": "Motorola RAZR 60, (12GB RAM/512GB), 50MP, Celular Desbloqueado, Color Blanco",
         "url": "https://www.amazon.com.mx/dp/B0F3HSGLJP",
         "price": 12199.0,
@@ -5154,11 +5217,25 @@
         "url": "https://www.amazon.com.mx/dp/B0FJS4DNTC",
         "price": 199.0,
         "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Protector de Pantalla para Moto Razr 60 Ultra/ 2025/Razr Plus 2024 | Mica de Cristal Vidrio Templado, Antiarañazos, Sin Burbujas, 2 Piezas",
+        "url": "https://www.amazon.com.mx/dp/B0GH7VKG3V",
+        "price": 228.0,
+        "model": "2025/Razr"
+      },
+      {
+        "store": "amazon",
+        "name": "Miimall para Motorola RAZR Ultra 2026/2025/2024 con Protector de Pantalla de Privacidad [Compatible con MagSafe] Protección de Bisagra ySoporte Oculto para RAZR Ultra 70 Cubierta, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0GYWPYPGC",
+        "price": 669.92,
+        "model": null
       }
     ]
   },
   "walmart|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-23T14:42:12.086669+00:00",
+    "ts": "2026-08-25T15:26:59.517756+00:00",
     "items": [
       {
         "store": "walmart",
@@ -5184,735 +5261,7 @@
     ]
   },
   "sams|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-23T14:42:15.971308+00:00",
-    "items": []
-  },
-  "liverpool|86QNED82ASG": {
-    "ts": "2026-08-23T15:21:47.114744+00:00",
-    "items": []
-  },
-  "amazon|86QNED82ASG": {
-    "ts": "2026-08-23T15:21:55.565196+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Toshiba televisión Z670RM Pantalla 65“ Pulgadas, Mini-LED 4K Smart TV，Diseñado en Japón,REGZA Engine ZRi，144Hz Nativos，REGZA Power Audio Pro，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSVMDLN7",
-        "price": 11985.0,
-        "model": "Z670RM"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión UR9S Pantalla 65“ Pulgadas，RGB Mini-LED 4K AI Smart TV，180Hz Nativos，Procesador RGB Hi-View AI，Dolby Vision·Atmos，IMAX Enhanced,Google【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9CD9R3",
-        "price": 29990.0,
-        "model": "180Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión QD8S Pantalla 75“ Pulgadas,Mini-LED 4K Smart TV,144Hz Nativos，Procesador Hi-View AI，Dolby Vision·Atmos，Al Sound，Fire TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GSRQSCD5",
-        "price": 14899.0,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Control Remoto Magic IA Mr25ga 2025 Akb76046605 Original",
-        "url": "https://www.amazon.com.mx/dp/B0FPFP3DLL",
-        "price": 649.35,
-        "model": "Akb76046605"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense televisión U6S Pantalla 75“ Pulgadas,Mini-LED 4K AI Smart TV,144Hz Nativos，Procesador Hi-View AI，IMAX Enhanced,Subwoofer Integrado,Vidaa TV【Patrocinador Oficial de FIFA World Cup 2026™】",
-        "url": "https://www.amazon.com.mx/dp/B0GS9JGDFT",
-        "price": 14906.06,
-        "model": "144Hz"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung Smart Tizen Tv Clase Q72dd, Series Qled 4K Ultra Hd, 75\" Pulgadas, Modo Ambiente, Acelerador de Movimiento de 120 Hz Cineasta, Barra de Juegos, Multivista (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GML6RKMC",
-        "price": 12699.0,
-        "model": "Q72dd"
-      },
-      {
-        "store": "amazon",
-        "name": "Hisense Pantalla Smart TV 4k 50 50r6e Led (Renewed/Reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B07NW1HKQS",
-        "price": 5699.0,
-        "model": "50r6e"
-      },
-      {
-        "store": "amazon",
-        "name": "LG Smart TV de 55\" Pulgadas, Series OLED 4K Ultra HD con tecnología AI, Alexa Incorporado a7 AI Procesador Gen6, 120 Hz, Modo Juego - OLED55B3PUA, 2023",
-        "url": "https://www.amazon.com.mx/dp/B0DX8HCLT1",
-        "price": 17999.0,
-        "model": "OLED55B3PUA"
-      },
-      {
-        "store": "amazon",
-        "name": "LG 32 Smart TV de 32\" Pulgadas Clase HD 720p Procesador de Inteligencia Artificial Alpha a5 Gen6 (2025) - 32LR600BZUC",
-        "url": "https://www.amazon.com.mx/dp/B0FJ3SDWBB",
-        "price": 3299.0,
-        "model": "32LR600BZUC"
-      },
-      {
-        "store": "amazon",
-        "name": "Samsung, Clase QLED 4K Q60D Series Quantum HDR Smart TV con Seguimiento de Objetos Sound Lite, Motion Xcelerator, Diseño Delgado, Centro de Juegos, Alexa Incorporado (Q60DD) (Reacondicionado) (65\")",
-        "url": "https://www.amazon.com.mx/dp/B0DTQC9XTX",
-        "price": 8869.0,
-        "model": "Q60DD"
-      },
-      {
-        "store": "amazon",
-        "name": "Lg Pantalla 75UA7700AUA 75” Uhd Ai 4K Smart Tv Webos Led con Hdr y Asistentes de Voz Integrados (reacondicionado) (reacondicionado)",
-        "url": "https://www.amazon.com.mx/dp/B0GZWXTTSB",
-        "price": 10899.0,
-        "model": "75UA7700AUA"
-      }
-    ]
-  },
-  "walmart|86QNED82ASG": {
-    "ts": "2026-08-23T15:21:59.272697+00:00",
-    "items": []
-  },
-  "sams|86QNED82ASG": {
-    "ts": "2026-08-23T15:22:00.663308+00:00",
-    "items": []
-  },
-  "mercadolibre|86QNED82ASG": {
-    "ts": "2026-08-23T15:23:26.735551+00:00",
-    "items": []
-  },
-  "amazon|WD1600S": {
-    "ts": "2026-08-23T15:23:41.705926+00:00",
-    "items": []
-  },
-  "walmart|WD1600S": {
-    "ts": "2026-08-23T15:23:43.578187+00:00",
-    "items": []
-  },
-  "sams|WD1600S": {
-    "ts": "2026-08-23T15:23:44.551247+00:00",
-    "items": []
-  },
-  "palacio|AR12BVHQASI": {
-    "ts": "2026-08-23T15:24:39.496574+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit Inverter 11,000 BTU's, 1 Tonelada 220V Frío",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-11000-btus-1-tonelada-220v-frio-45305632.html",
-        "price": 7133.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit Inverter WindFree 12,000 BTUs, 1 Tonelada 220V Frio",
-        "url": "https://www.elpalaciodehierro.com/samsung-aire-acondicionado-minisplit-inverter-windfree-12000-btus-1-tonelada-220v-frio-44531366.html",
-        "price": 11831.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit LG Dual Inverter AI Air  1 Tonelada Sólo Frío 220V VA122C5",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-ai-air--1-tonelada-solo-frio-220v-va122c5-44456600.html",
-        "price": 12979.41,
-        "model": "VA122C5"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
-        "price": 11799.41,
-        "model": "VM121C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
-        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
-        "price": 8699.42,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
-        "price": 8351.28,
-        "model": "AP12CWN2"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM122C9 12,000 BTU-h 1 Tonelada 220V Solo Frío",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm122c9-12000-btu-h-1-tonelada-220v-solo-frio-40785870.html",
-        "price": 11799.41,
-        "model": "VM122C9"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Portátil 3 en 1 1 Tonelada Solo Frío 110V  LP1225WC",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-3-en-1-1-tonelada-solo-frio-110v--lp1225wc-44737810.html",
-        "price": 9989.46,
-        "model": "LP1225WC"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Portátil AP14HWRL 12,000 BTU's, 1 Tonelada 110 V Frío/Caliente",
-        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap14hwrl-12000-btus-1-tonelada-110-v-frio%2Fcaliente-45533202.html",
-        "price": 14999.0,
-        "model": "AP14HWRL"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit LG Dual Inverter Acabado Espejo 1 Tonelada Frío y Calor 220V VR122HD",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-acabado-espejo-1-tonelada-frio-y-calor-220v-vr122hd-38983629.html",
-        "price": 16639.36,
-        "model": "VR122HD"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit LG Dual Inverter 1 Tonelada Sólo Frío 110V Dual Inverter, Auto Clean VM121C10",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-1-tonelada-solo-frio-110v-dual-inverter-auto-clean-vm121c10-45586025.html",
-        "price": 12799.36,
-        "model": "VM121C10"
-      },
-      {
-        "store": "palacio",
-        "name": "Aire Acondicionado Minisplit LG Dual Inverter AI Air 1 Tonelada Sólo Frío 110V VA121C5",
-        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-ai-air-1-tonelada-solo-frio-110v-va121c5-45450539.html",
-        "price": 12389.41,
-        "model": "VA121C5"
-      }
-    ]
-  },
-  "amazon|AR12BVHQASI": {
-    "ts": "2026-08-23T15:24:41.548585+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Minisplit Samsung Advance 1Tr Solo Frio Inverter | Inverter, 12,000 BTU, Tecnología Digital Inverter, Fast Cooling, Filtro HD Lavable",
-        "url": "https://www.amazon.com.mx/dp/B0HD3LS1RY",
-        "price": 7475.0,
-        "model": null
-      }
-    ]
-  },
-  "walmart|AR12BVHQASI": {
-    "ts": "2026-08-23T15:24:46.282318+00:00",
-    "items": [
-      {
-        "store": "walmart",
-        "name": "Minisplit Samsung Inverter Solo Frío 1 Tonelada (12000 BTUS) 220V AR12BVHQASI/AX",
-        "url": "https://www.walmart.com.mx/ip/minisplit-samsung-inverter-solo-frio-1-tonelada-12000-btus-220v-ar12bvhqasi-ax/00880609446616",
-        "price": 6895.0,
-        "model": "AR12BVHQASI/AX"
-      }
-    ]
-  },
-  "sams|AR12BVHQASI": {
-    "ts": "2026-08-23T15:24:47.932777+00:00",
-    "items": []
-  },
-  "mercadolibre|AR12BVHQASI": {
-    "ts": "2026-08-23T15:25:08.141846+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Aire Acondicionado Samsung Minisplit Advance 1 Ton Frío 220v Blanco",
-        "url": "https://www.mercadolibre.com.mx/aire-acondicionado-samsung-minisplit-advance-1-ton-frio-220v-blanco/p/MLM63267399",
-        "price": 11000.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Marcha Automotriz Bosch Dd Cw 12v 3.0kw 10d John Deere",
-        "url": "https://www.mercadolibre.com.mx/marcha-automotriz-bosch-dd-cw-12v-30kw-10d-john-deere/up/MLMU2960129118",
-        "price": 7916.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Minisplit Samsung Inverter Advance 1t Solo Frio 220v",
-        "url": "https://www.mercadolibre.com.mx/minisplit-samsung-inverter-advance-1t-solo-frio-220v/up/MLMU4120383017",
-        "price": 7000.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Refrigerante Rosa Original Vw Audi Ht12 Ready Mix 12pzas",
-        "url": "https://www.mercadolibre.com.mx/refrigerante-rosa-original-vw-audi-ht12-ready-mix-12pzas/up/MLMU3721886843",
-        "price": 2349.0,
-        "model": "12pzas"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bomba Agua Auxiliar Para Audi Q7 3.6l 2010",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=mIRxnV%2B%2FTEPsyV%2FaFxell9FlifQdqNYFHgOwAWiava6uo2Fn3xJlec6UWQcj%2FxGOAYtaespwN6QFFGIhMwzBmJEvU9ys57CQ4EKmxu8jmSswb%2FIHJPdcneH61I4NObPvhCpx7kpJFjiaRQb6it%2B0skkow%2FP3t35v5l2o1byDHou4k8yxSmr258%2BjRzItoJBMVGT1oFxMIpA4LIWrjFD7SkK0MWgmb0vEg1fE7DFYUZQYPFK4T507GUrZMGN4g7jmQYJP0l4mmKwzV1mYP223AfD%2FpX31qkJF2IoQ0dInySLVQszY6UtmqJcPgqqHLnQdVCLv%2FJWMiayutOrI57Vk6CEs%2Fv6wGgr86GGOkXRBNbj1CenavEHearnOlq4MG%2FRw9tA2EX6kg2Lr1e%2FG0tAi4X0o6wgT%2FATlKIEpJY1JhKZP5a83YBuswnTOp1vW9qghNpyE7vWYIWJyBm6Z9GfWNvcqHyb%2B9CspucEDr5VgrBvx%2BSfTFn1tgM4OPLYTKBNhE4cxetSzYd5HlU6OOzqhDW5D4zZOZ1xDG8eBqbHlCyCSZOo65vMyCrCPS5kd7seli6arlNV1ZfbAnO7WEntzko%2B6U1ijnEmh3hx%2BD4KdhepSMJ9QrlpgLtLQP039k7LAN4CBdeV5wWZql5MpLMfUp8uPy9sNholXpY4GGjy5ER3P5671oe%2FrNsBdu6PDLdTnyHtptJJNSRYW9TCtMn5ijiaOQQ0sFXw6R%2BOmuLl8cGvm0sFgFovWUYHm0JlzJL4%2F1ElK7TCwRAqvX1w%2FdyKD5CGGA%2FiZvvIXaiTiuFWZRIZOsEOUlhVGJn5aTJd5JWYEW899e3L8B3q3KS6Ws6WfFKZliday0K1ncI6OKGiSuzVbQn1anFwlFr%2BH%2B8fiYPUM96U8vNXY5u3veDbrYG4Y6qILR%2FRGgC%2Fwj16VyvsVA0U0fZmJR0YRWDiHkGdpJLeNZb8Bmc9Q3C7%2FNArYT2nqaelLgNwhS0M%3D&pdp_filters=item_id%3AMLM3641894780",
-        "price": 2814.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Batería De Gel Lth Agm 12v 660 Amperes Modelo L-47-660",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=Rm4IHdPREd8LT5QsPOXL5bAZiZPFe%2Fj7Pm3KSbwAHU%2FpMxtiibYz3xOsMwlung80xyprrnwOp7smXnM4QuATkVchHKtZV6b3rcvy3OW96AWI3n2c3y7me%2FrMTaK8rYSz8nI37K%2FtmeuaRJUhbE%2F%2Fna%2F%2FVy%2Bvw5ofsWtFhOfjcpI0PIQoypZmeKQMIeQLDJM%2BcbyLmLRFWm5X3ahj1NXB8wc5tPrHyd7g5nPAebY1utE7N5IASHnWOdQRaugEgqswOLm5xTfm1xCuyrD9fHhZLbw0MHHePMfgsQ2X9VdKg6felHuOTNdQH7xwSzB1Kq8ZUeQyKGCRFaUfakNMLEJ4PyvYA0tNtWdcIkDlfISkKNQzd9webIsMbkloJx%2BjjI5AcVpxtBvFIiNFCPZKVy8I49R6FTaxkMYy5dSnYgyhscAYBD9ISiyjsH1iUdfd8y%2Fye1cOsL6Viz0%2FDlUtcGH334lD22jRbryHyAi%2BXi%2B0kJGlAmvH0DitAq9JI3GLEGTH8A8A5e%2B8G7B%2FJzIUrrimwMV03O3L1gz05d6%2FOEWIZLAq268hcZWCYhYGsYrsOKhedKiI42f7I9A%2BnJcuV0utsRkYDNyf1pB%2B7HwUVlqwNeIkjQ7wD9nkNnVehCkRgFn%2BczUruwM5QJ1A%2B%2Fg44flXiGAkQyM0MOMJRBIHi8w3Rs%2FMqq4YKxRjX03mPVsTDndeABxjJg1sidbtWZHiOB8iMr3b9gbH2LfOTAAEeGmD86qAgOo1D1EgzH8WzF4ukRB6DvnV7mCKqJThLb9jSIMw%2F91Ke6MdHDp5adh5NxYSoxnXy5JNiz2YeNrNu13vpJrG1QGRkZosd%2Folym77CykQuQFYDx%2FPG9%2BqBSh8ueJC%2Bi5L5hQ%2BDIXmv%2FU8sw%2F77Ey6oai7LremHP8lo6vOOtXrj6pWKs%2FriWMqBonBZMzi7VPp7orJrcysbgCIVI7HlcZ0DFPMOpTpxr%2Bp363YeuscUafzRHNjrKYNSGpGFwM453Ww&pdp_filters=item_id%3AMLM2291551775",
-        "price": 6949.0,
-        "model": "L-47-660"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Batería Mvvton Agm Mv12-12 Plomo-ácido Sellada Vrla 12v 12ah",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=RHAvGMWfQTsuzvMe516s12%2F6%2FKk6tPHGSSvehWFD6p%2B1OpbrxCm%2BvkBLdMVyfZp44IqLclzuTcRF9VLOeD44Rp3a1VRsT35NK2aUj%2Fej%2Bga0u0NWWPLisITFh%2Bt6m2IEB6opKtSAaUpfx46QM7QEMHgMoSYgxavCa3Zrecqg4VmKMAz9hsLEfH5THPJCCri7onsYtdlRHwkupyNg8XpC%2BnSsT4f6TPPfan39hNV%2Bfw44o1LDD0t6wH3fuI%2BnDzKemXfF%2BcSGkeHS3dMIH1Tt9SRr3asHKFQqPLAN61h3McbR0GuElJq75ovrWOAOMvuE4fxc8SYR%2FKiowLifAP0dwJ6Xo1xEbm6cdMe8mgNmDMi598JcllAGJi9Qztlk7iWe04SFSyzphBk30GTf8aXet1THBrx2sooSJDtTPeZfeVDJ0ZM%2BH%2FlufCR%2BPtHdPKTH7xW542bbjFW%2B0EB%2BYhHNzkggJCsTu9iMrp2ukOLZIw7gtxAablYRz6wwl0GaSi5PrM4%2FAzr0CJBIC69B3aCnEv3XVH%2BIvY7MKi6DZRCljuslK0PBbQZtZMKWDXHicz9VjOErjDagcT3nVPIn%2B3HAjQRsOuBkYsh7aJSTUhV7ZH%2FxDgwthr8GmAIL8KQnm38DF%2BK12Dm6DWQLpxx2lb1xrSt5QJBRjnHVc6QQTFnzCWvT6r0uiD6t2j381LIz0ob5mQCPDa3hgmNM7K%2BttobYDUGSbEv4B8b3JEsHk5jznvEhWwya0Dw4e4TUtvo2A6ITuJWQvbZI9DgCQmag7cLSrRg%2F5ciApMQ3VZNW4FUrP7a7QS65wAU16PAXl0mmNr93mbjPsW5i8jd%2FWg9ahQmpC247zp2rBV87AT7mPlqvhpk9ysLdjQnczYDFQIJtx%2BtCYEBM2kHsxG%2BGkSG7UgJwW5hyeTqtg8%2Fq%2BtyVOIRolIIa9zsnLEIbL8UjdVq562kcsNZ4sOjHb%2BURay8e9VF9kgWKpLJxfApeU%2FVhgwNdXF09vVmHQnLUBg%3D%3D&pdp_filters=item_id%3AMLM2315483457",
-        "price": 838.0,
-        "model": "Mv12-12"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Batería Ritar Agm Rt12120 Sellada Plomo-ácido Vrla 12v 12ah",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=4RFSAbXb1Lh%2FrWqK%2BdCZrCocYszklZweWss%2ByDapxkrxCsR%2FGPaqAEOO%2FUYLlhWGA4zJpP5v8POizeFEcw2uadJwfhuaTlcKZ6QkA3%2B02l5pUAPK8BGQYWMoM1TUD16A3ise1gucdClxT2e2zd0XGbENO6SDDOgjbcXRdLVkXdHDP6uTd%2Foz%2FopOvTnjCXrvVmsFbj1O5esf9QdSV%2Bghcm%2FD7mgdTaHM95ozwgx4BI1RyRJGZKH7OMPqJERwf3U1hJxFpQzOsbOAT7hlX79pYih3KKif7ttExO1oRtejOGwKQF3s203c29QNcx8DMOmbGEfuaPW2ELBaikgWE%2F14H6dR%2BadiLzdQaL9IRrqDBgpa%2F0t%2F6B7%2Bzg5Y6xjyCOva%2BiYLBZFXj7vT7DU0mCwQupNHH8aX97sFwoheU7NQZchbHd49tQ9h%2BKGyEMT%2BaCf%2BBrz2mssxx78ljFz289QozBs62DkpXaD%2F4aRTtD3eD2PQJfF8mymYGbF48h77dBXEOFt07NYZsOSBdAuMHEWBSV9na6w1uUV%2FmT22tPqNW04ntF4XHasQ%2FtypoaZkUzKPMuXT4jsE%2BgnDn9ez%2FSmsATfkELjKOKP%2BS%2Fz5c10%2FKDsMCUrChXGqsiPvLcX%2BDbOd9tC76cu9DOFcuYi3%2BIK2VBpSAdPGrMUK0kbkGrarWyj27YkRjJVEtfM3gJZy33xF61b8S1aA2tDLaLTX7crPvT8tcLtznUFj9f%2Fhz%2FLMhz%2F4n%2BZTbK3TdM%2BcnpzSjrMF5XItAO52%2FGxVFGuljJCePyvEsQ9t6QWN%2FG%2BK0%2F1%2BMhBeF6hWuQJhc1U2L8EPCrqwMKE369IIfc8T8n1kOf0vRYsOw4PziRBtaIeRLlGm%2FnkQCPqa1QJtgIVpBcHsc0hvSdj9LDMSbUnuXFWraIJBahhtxdPv6cvcDIO9%2B8Xx8%2BGgY3ITyKPtlWwGhdrc4jizZCyJXfwbZf16L1vf%2BEp8RewxoLDCAR1LfMQAmzRkDJkOVB7y%2Blda&pdp_filters=item_id%3AMLM2315522329",
-        "price": 932.0,
-        "model": "Rt12120"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bomba De Agua C/carter Audi A5 Quattro L4 2.0l 2010 2011 Kg",
-        "url": "https://www.mercadolibre.com.mx/bomba-de-agua-ccarter-audi-a5-quattro-l4-20l-2010-2011-kg/up/MLMU3477253142",
-        "price": 3450.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Sop. De Trans. Audi Q7 3.6l V6 20072010 Tras.",
-        "url": "https://www.mercadolibre.com.mx/sop-de-trans-audi-q7-36l-v6-20072010-tras/up/MLMU571719873",
-        "price": 792.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "A8 Quattro 04-10 Tolva Izquierda,",
-        "url": "https://www.mercadolibre.com.mx/a8-quattro-0410-tolva-izquierda/up/MLMU901588112",
-        "price": 1650.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Aire Acondicionado 12000 Btus Samsung Ar12bvhqasi/ax Alb Color Blanco",
-        "url": "https://www.mercadolibre.com.mx/aire-acondicionado-12000-btus-samsung-ar12bvhqasiax-alb-color-blanco/p/MLM28423029",
-        "price": 8000.0,
-        "model": "Ar12bvhqasi/ax"
-      }
-    ]
-  },
-  "palacio|SETCMC181V": {
-    "ts": "2026-08-23T15:25:08.297712+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45479174.html",
-        "price": 1399.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de lana corte regular cuadros Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-traje-de-lana-corte-regular-cuadros-hombre-45192179.html",
-        "price": 5749.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8377.41,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador top mount 19 p3 RMS510IVMRP0 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-rms510ivmrp0-negro-44964260.html",
-        "price": 11504.41,
-        "model": "RMS510IVMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 18 p3 WT1818A",
-        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-18-p3-wt1818a-44231452.html",
-        "price": 11626.74,
-        "model": "WT1818A"
-      },
-      {
-        "store": "palacio",
-        "name": "Traje de corte slim con microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-traje-de-corte-slim-con-microdiseno-hombre-45026115.html",
-        "price": 4999.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
-        "price": 10047.36,
-        "model": "RMA300FXMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Traje Regular Microdiseño Hombre",
-        "url": "https://www.elpalaciodehierro.com/nautica-traje-regular-microdiseno-hombre-45599340.html",
-        "price": 5199.2,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Traje corte slim liso Hombre",
-        "url": "https://www.elpalaciodehierro.com/nautica-traje-corte-slim-liso-hombre-45192197.html",
-        "price": 3249.5,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RME360FZMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rme360fzmrp0-negro-41637772.html",
-        "price": 13331.34,
-        "model": "RME360FZMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html",
-        "price": 21559.44,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Camisa microdiseño manga larga Hombre",
-        "url": "https://www.elpalaciodehierro.com/michael-kors-camisa-microdiseno-manga-larga-hombre-45383631.html",
-        "price": 1399.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|SETCMC181V": {
-    "ts": "2026-08-23T15:25:12.049194+00:00",
-    "items": []
-  },
-  "walmart|SETCMC181V": {
-    "ts": "2026-08-23T15:25:30.157152+00:00",
-    "items": []
-  },
-  "sams|SETCMC181V": {
-    "ts": "2026-08-23T15:25:30.626760+00:00",
-    "items": []
-  },
-  "mercadolibre|SETCMC181V": {
-    "ts": "2026-08-23T15:25:39.290635+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Mirage Setcmc181v Aire Acondicionado Mini Split Magnum22 Inverter Con Calefación 1.5ton 230v, Blanco",
-        "url": "https://www.mercadolibre.com.mx/mirage-setcmc181v-aire-acondicionado-mini-split-magnum22-inverter-con-calefacion-15ton-230v-blanco/p/MLM37507820",
-        "price": 17500.0,
-        "model": "Setcmc181v"
-      }
-    ]
-  },
-  "liverpool|WM25BFXS": {
-    "ts": "2026-08-23T15:25:41.469246+00:00",
-    "items": []
-  },
-  "amazon|WM25BFXS": {
-    "ts": "2026-08-23T15:25:44.543503+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "mabe Horno de microondas 0.7 pies cúbicos (20 L) 120 V Silver Mabe - HMM70SEJ",
-        "url": "https://www.amazon.com.mx/dp/B0788Y8VZQ",
-        "price": 1629.0,
-        "model": "HMM70SEJ"
-      },
-      {
-        "store": "amazon",
-        "name": "Whirlpool WM1211D Horno de Microondas con 1.1 Pies Cúbicos, Plata",
-        "url": "https://www.amazon.com.mx/dp/B00TS44MZ8",
-        "price": 2198.3,
-        "model": "WM1211D"
-      },
-      {
-        "store": "amazon",
-        "name": "Horno de Microondas Westinghouse, Capacidad de 0.7 Pies Cúbicos, Color Negro, Modelo WKMWW2008",
-        "url": "https://www.amazon.com.mx/dp/B0GXCGQYTG",
-        "price": 1299.0,
-        "model": "WKMWW2008"
-      },
-      {
-        "store": "amazon",
-        "name": "Winia Horno de microondas de 0.7 p3 mod. KOS-63MSSA",
-        "url": "https://www.amazon.com.mx/dp/B0D94WRYLD",
-        "price": 1299.0,
-        "model": "KOS-63MSSA"
-      },
-      {
-        "store": "amazon",
-        "name": "Horno de microondas Whirlpool de 0.7 pies cúbicos / 20 L Negro modelo WM-1807B",
-        "url": "https://www.amazon.com.mx/dp/B092RMLPN4",
-        "price": 1909.0,
-        "model": "WM-1807B"
-      },
-      {
-        "store": "amazon",
-        "name": "Whirlpool Whirpool Horno de Microondas 1.1 Pies C?bicos Silver Black | Wm1211db",
-        "url": "https://www.amazon.com.mx/dp/B0GXTX6XVW",
-        "price": 2398.0,
-        "model": "Wm1211db"
-      },
-      {
-        "store": "amazon",
-        "name": "HORNO DE MICROONDAS WHIRLPOOL MOD. WM3911D AIRFRY",
-        "url": "https://www.amazon.com.mx/dp/B00D1SF3G4",
-        "price": 4090.98,
-        "model": "WM3911D"
-      },
-      {
-        "store": "amazon",
-        "name": "Horno De Microondas Whirlpool WM1807D",
-        "url": "https://www.amazon.com.mx/dp/B093TP2YJM",
-        "price": 1790.0,
-        "model": "WM1807D"
-      },
-      {
-        "store": "amazon",
-        "name": "Horno de Microondas Winia 1.1 Pies Cúbicos Gris KOS-1N3MSSA",
-        "url": "https://www.amazon.com.mx/dp/B0D938RZHQ",
-        "price": 1985.0,
-        "model": "KOS-1N3MSSA"
-      },
-      {
-        "store": "amazon",
-        "name": "Whirlpool 30 Pulgadas. 1.9 Cu. Microondas sobre el Rango de Ft",
-        "url": "https://www.amazon.com.mx/dp/B0FTGHZFB6",
-        "price": 9991.0,
-        "model": null
-      },
-      {
-        "store": "amazon",
-        "name": "Horno de microondas Whirlpool de 0.7 pies cúbicos / 20 L Blanco modelo WM-1807W",
-        "url": "https://www.amazon.com.mx/dp/B092RPPHC6",
-        "price": 1999.0,
-        "model": "WM-1807W"
-      },
-      {
-        "store": "amazon",
-        "name": "Whirlpool WMMS3130RZ - Microondas de acero inoxidable",
-        "url": "https://www.amazon.com.mx/dp/B0FF3ZB5VG",
-        "price": 8289.0,
-        "model": "WMMS3130RZ"
-      }
-    ]
-  },
-  "walmart|WM25BFXS": {
-    "ts": "2026-08-23T15:26:03.278924+00:00",
-    "items": []
-  },
-  "sams|WM25BFXS": {
-    "ts": "2026-08-23T15:26:04.397379+00:00",
-    "items": []
-  },
-  "mercadolibre|WM25BFXS": {
-    "ts": "2026-08-23T15:26:17.676671+00:00",
-    "items": [
-      {
-        "store": "mercadolibre",
-        "name": "Banda Lavadora M 19.5 Lg Daewoo Samsung",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=5uOm3p4bZvFPAveaExCZwFjH5MzhhpesIWeuPIo1ICOIRZjKN1Gc1jGCrIxSQGndWZXl8%2FQjSfdNjeSUI4La%2FXND73tgLNy1drDbump4ymI7WsDuUDDRWsIOJD2fbsYI%2FGE%2BYIMT77CrwFgs2tD%2FL58GmqKBhLa%2FBMfnPiGmPTQCeFmwgcX1oanDNw267ozpDCFp5YGibRy6wFidrggxx8bqKxJcVsheTt3rW4pqCiNf5kMhhO9zaiYQT7DCMw%2BSv7ZjU%2F3iPFgRYkOQB4S52YEI1lB7uw5Qvr6yiQooqHucwn9e7N0zJpa30wXKkTiqnR6y6nLGEXpXthwOKwy6T%2BJ58s7rGNRypBo3uJOoAHJ0V%2BU5MAGsk7grY1kmmfhWxnGSM4AmTU54a8DpQxx%2BcTZtL4oZm8jytmu%2BdHnh1nH0ENAgtYPtYYBmGkIL5QfPjlsKBYhF8VLY2dFJYFYqSFE4ZPHkYW1Gw3VASBZu68HnRgRpKvoT9YJzg03WTQk3vcj06Ub7XLhlHQVSNpqWUi3sudZbgn%2F3Kjrpb09zcErO6UR7RoUaOWE2tSp46Q%2FkG7WJI5bFMquaSWlvMd8AXGXxiy5Ak5lmDFXKAz3THVeFziuY0pxofzfC5ArQ7shsIyfDJO9Py1K%2BWhXuPY%2FQfwy7fBZJN3wksDqKfykB4GdDafdRYPYRgfc7BrkSTOKt9uzBEEJi4tv6KZmI4wiO1LTy9DkcPkF%2FQsU8WDFFzRdGnXQL6mb46%2FtJhscjK7Idei7sUrpCFwo4332pEOkPetvVf%2BwSTOHUWHpHnv6F6Qswlr9ysNmw%2F2xIN4skbz121OWoxPJHjUVPRNmcn%2B3AxBPqx%2FN02Hdf8UiM4A9Qf3fcuxBByCrs6TdooOdbYtDqoYskfSDVw%2FZbRUlT%2FqjKxZDZpqYXNqhBg%2FMcx4IoEuCX1Brb9e6OvPDVZ1MnWrXo2v6wIAVUrNEqGsfLSWSoX3BV&pdp_filters=item_id%3AMLM3083856632",
-        "price": 100.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Switch Para Puerta De Lavadora Sirve Lg Ebf61315802",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=vG%2BCqmT6QlJ%2FLakVLTGgzAld%2BaZKvdjIiiq9H4XEiGcfhRqPhtee6ioTc%2FerDDvZQ6EioOKdTRYLO3PdzAw5qpVAEF9vOSDRGb7RYciXk1TBVFGvIHXSgMoHtzofm6%2B2AkmIgLb9gFeuW9QwCGEBW8eW%2Fwi21z9yorG41Z7cqDlRS9UWPzZ8D5A36ZHad1dVa28rGT5hbGVAQrax%2B6FlGsoU0wwwk9yT6oCrPebLQBTIAGY2oZdN0Kb3js8Bwd49dn6unNvvaLrm85JUQ5tbMXiuZNaWGmpl6%2F3KEVDxUpvtsH0RMKJYNK6D4QTvRNkfXK2rxPKn3yoif7ghAEPm1lBcLdVDFrzPGdPoPRvRdL36%2F1dRQUgtwCE5v728JUvuC02chaloRR5DEZWmtSUq06OKdlwMV9fkvMn7cgIoPiHCQlvPPj8BU0pcJkg8fEoTIuVO8TxQ8Wf6WPqRq9rDpVtNdt%2Bh8WRcj8z9KYXIcdqqbQ0nWy7OpEhQQflLQmPNPbLwoxQ0XXvT00hDfGRPnD19FFkmsbv%2FR2af7gugLKgoiVcNYKYjMeHbMipN79UOKTsz%2BY8a92g72w%2BVsY4XlFN6blMo1CwQTaYO7pI4v523iZsP9MTwVZS8NfsO8rMK2NGoIssy2sGVPeAervBHk%2FI7oGvlmyu1xH5d0fPyU5S5WspZyDDHKBBAVPNKb%2Fx8UZeFb06QtBok1ZbCCbmMCZODUPR6z1WLRswJYMndu1Ku%2FvwKH0sjjuifEj2YB6yho5t2THoZFAKbZaHacKQHveBOzeK70TSk%2Fkmc9z8N4106yU4uDwkfxFRlXcTswJsR3YHnLSzb0Sx8H3pVQtG10mPeISrHCBMqOw3nK%2Bk%2FaNPlrrHhP3RZOnnsYA1U3D5lCCqylpjgrGJNWQyQ25vfdPjcn0cJtOemfCDAlnk3Zv6CDlOwZ54gGSQB8eeVoz3Y0Oroa5QrxJyHsST%2BFysV0ZeMppxq8DYnYvssdF61GEbw&pdp_filters=item_id%3AMLM3680346496",
-        "price": 459.0,
-        "model": "Ebf61315802"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Motor Lavadora 134156400 Frigidaire3/4hp 110v Original Nuevo",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=I7FDPEzq3gd2Bu4I1PHB%2BYrV%2B6uZbnVR3fvmCJO6gDB17nq75j65NQPiG3C87pQZgfEiK%2BeilMMr%2ByV4grz2ddGAOccS%2Bcj3xmIIhmQ2cmh2zuv9WGRTw082jJuU8VTpzmNNiloip6YXmNckr2I6Rt7Mnz0eUjEnbtRVtZDeYbG0OLjNamGLKwkCU%2BayQkMgojrXY5a8KR2rMDtNa3dy6wPq2DmmMrA6Xq7LmC40FviET6vSVSuwb0WBSDzcbcYxLBer9kQVLlRmZLdyxUEIik9hLXZp4cq8%2BX%2BJtM2mae%2FpPieQBTO8%2B9dicR15q7I6RI7xDzu2K6vC07k0Dwcwazs0Qn6qZ4EV3J8AQeLKa8rL1BonMjmejzJUnPBt50522jW2vcdJPIOShL8tIs%2BftUQnIDIOQfGXCnptFYVxihsKP2kZnJ64dUQ%2FSBhmEzLOyrGZ40R071vXVVdPdbZgPrXLYtyVHlBvUrDSSuEcjx49iALsffh5oU3tlKjJ%2BFcFLpelyuim8yf6BBlZGWmrGmWOmNlr9TCGolth031EfnrqIzeT%2FUmzPDv0mkn28EMbjSZbSPUvBy3lqNEJdIEmlgsa7VREdIjmYCn2NVr8KPmvj71tqnc0b8hNCwOUXGLnyx4BRUDPImcB98V6jWi4l2hpy61H6Bdo1sMeoUJPJJ0qv03lDN6caCLQhF7naYn3JTlOI0A6qs0f1h4jWh8IcG%2Fch9LYQsKnfkDudxcFOFMzAhrVJJ2NWP4JlNmHnQDiRRR3B%2FKtaQX4k3pHm3h8m5j7%2B04a0QyA7B23gu4Vcak0OFbS%2Bfw7v8k3IRGLb51KNpJUzmxMLc3HpZ5tiXiIomVaREPAfu6A7J%2FqRyQD93mmntmLO0rjumFbPAE6fVuh7LV%2Fu898IwMF542YUf8HDbATC3Ir5tK34XWyJ4NRiFfuT1VuGNKTBR6%2FmPpFG7mRXcbFWhdwoIAEapQcC2MSBrpwuB8Xu6oZKrMeBgsmsKJNNsNwxixFzw%3D%3D&pdp_filters=item_id%3AMLM2111730419",
-        "price": 5250.0,
-        "model": "Frigidaire3/4hp"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Licuadora 2 En 1 Para Batidos 500w 4 Velocidades Blanco",
-        "url": "https://click1.mercadolibre.com.mx/mclics/clicks/external/MLM/count?a=Mhl4oqG8EotLvjGmcQiRDgOYvVP8BUZZdu1lGUONAfZneIQzqXq3MCX3dhwS9qvdTH7CH2uGUwTryycLQag8ecPv4A6r1fswGTK4UMWfotE%2Fr4YVgcOEZ5jbz9DYcm2T4Kj9IjWmZSdHQe%2FufFGtfvcNLadwg0yv2FoDxKgY53eJWj5atBC91oVSr28%2FQdvUV3dDruXGtBBbLWI8Dzq88zBpRl8yMTe%2FTo6JkTkjgMURSneyv8ifZUKIjysI0uGy%2FlrdKQGl0Q5lH9b6O8mPjgMLG1vxPAcF%2FCJUrkVrWqm5FFcEDaKwpsDhigt7LdVAP56uglImj3yaWP%2BnhN6%2BgbVZEQd5yxv%2B2khiMY0CFDaBH2WDJpNNONUS0pF5j3DxmNNQlHMz2Teg5SCraQA8VrVxUjZvWUzhzSFyp3QltoMn7W8fv1Fj9NB0k%2Fo8rUhgEr6014ARhFe35VZI52683KYmSnsb6RhCo5dJmLxYOJwbqsd%2BvKiUgCf%2BQ%2BT0l5rtcZKl3NTyXu8nwGsypntQ0zXivXAKszpIKwNX%2FtUKtRVu25H0E4BOqDuZyOC1Ptg%2BzxeVeNDWQbWtVEGirkKIJ4wE4gDNcf7FgrmbtvTWdTvaH2qdzB8faPfhEVXDS7rgBglr4ZesXg%2Bo8qbke%2BtqcTnd7vy%2FYqqzZhD4YUyrVnjNAEAfIk3z9X0T8IrekFWlYRl6YI5U%2FuZhUiFOwpsYoM3R%2FTlzhBSPooSKdDRRkyzDiDSlDIJ8dwfTr5%2FWsWEES8vnqtZZEP5%2F%2B3d01yXDjNc1WLlstm85W3yfpiobmkpxgyaokJSOK%2B2qaCuJ5WdlbMP%2B7ZaHgx2c%2F0USMYd2%2Bq0UkJajZgBXAIfCrZ79arLZjkcKD6fgfijKkfTsolJqSmMkGgreIvbvsLvVaj39xedZJRUrtyZbs8jIpmYU2HrFeHsElutLPiYLIAXn%2FdQKViEGEzaD5LEDU2IxHXZLQ03lVsrannftgYkCf9%2BxTslMPttz9Ngx&pdp_filters=item_id%3AMLM2522369315",
-        "price": 699.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Banda Lavadora Whirlpool Digital W10006384 Original",
-        "url": "https://www.mercadolibre.com.mx/banda-lavadora-whirlpool-digital-w10006384-original/p/MLM2063278527",
-        "price": 318.0,
-        "model": "W10006384"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Banda Lavadora Y Centro De Lavado Easy Made Iem 3 Piezas",
-        "url": "https://www.mercadolibre.com.mx/banda-lavadora-y-centro-de-lavado-easy-made-iem-pack-3-pza/p/MLM2083357122",
-        "price": 299.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Bomba Para Lavadora Lg (doble Motor) Aha75853813",
-        "url": "https://www.mercadolibre.com.mx/bomba-para-lavadora-lg-doble-motor-aha75853813/up/MLMU3670676723",
-        "price": 1694.0,
-        "model": "Aha75853813"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Revestime Lavasecadora Samsung18/10kg Wd18t6000gp/ax Frontal",
-        "url": "https://www.mercadolibre.com.mx/revestime-lavasecadora-samsung1810kg-wd18t6000gpax-frontal/up/MLMU3952423834",
-        "price": 429.0,
-        "model": "Samsung18/10kg"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Forro P/ Lavasecadora Samsung 12.5 K Eco Bubble. Imp 1 Beige",
-        "url": "https://www.mercadolibre.com.mx/forro-p-lavasecadora-samsung-125-k-eco-bubble-imp-1-beige/up/MLMU3901433703",
-        "price": 385.0,
-        "model": null
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Motor Bizhub 361 27la80032 50m0703010",
-        "url": "https://www.mercadolibre.com.mx/motor-bizhub-361-27la80032-50m0703010/up/MLMU998354146",
-        "price": 499.0,
-        "model": "50m0703010"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Banda Lavadora WMP Easy Daewoo Whirlpool Acros Modelo 3L-260 Goma",
-        "url": "https://www.mercadolibre.com.mx/banda-lavadora-wmp-easy-daewoo-whirlpool-acros-modelo-3l-260-goma/p/MLM55246331",
-        "price": 149.0,
-        "model": "3L-260"
-      },
-      {
-        "store": "mercadolibre",
-        "name": "Banda Lavadora Y Centro De Lavado Easy Made Iem 3 Piezas",
-        "url": "https://www.mercadolibre.com.mx/banda-lavadora-y-centro-de-lavado-easy-made-iem-3-piezas/p/MLM2070381939",
-        "price": 299.0,
-        "model": null
-      }
-    ]
-  },
-  "palacio|MF200D125WB": {
-    "ts": "2026-08-23T15:26:17.855505+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
-        "price": 14639.6,
-        "model": "RMB520IWMRP1"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 10 p3 RMA250FYMRX0",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-10-p3-rma250fymrx0-44621889.html",
-        "price": 8377.41,
-        "model": "RMA250FYMRX0"
-      },
-      {
-        "store": "palacio",
-        "name": "Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carga frontal WM25BFXS.DF22BFX",
-        "url": "https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html",
-        "price": 40479.54,
-        "model": "WM25BFXS"
-      },
-      {
-        "store": "palacio",
-        "name": "Congelador 15 p3 Blanco",
-        "url": "https://www.elpalaciodehierro.com/mabe-congelador-15-p3-blanco-44662603.html",
-        "price": 13544.37,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Aire acondicionado Minisplit MMT12CABWCAM3, 12000 BTUs, 1 tonelada, 115 V Frio",
-        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-minisplit-mmt12cabwcam3-12000-btus-1-tonelada-115-v-frio-44662196.html",
-        "price": 6999.44,
-        "model": "MMT12CABWCAM3"
-      },
-      {
-        "store": "palacio",
-        "name": "Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED7020RU",
-        "url": "https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html",
-        "price": 21089.26,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 28943.52,
-        "model": "WD22BV2S6R"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 11p3 RMA300FXMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-11p3-rma300fxmrp0-negro-44064365.html",
-        "price": 10047.36,
-        "model": "RMA300FXMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Secadora a Gas 22 Kg Energy Saver Green Carga Frontal Blanca",
-        "url": "https://www.elpalaciodehierro.com/mabe-secadora-a-gas-22-kg-energy-saver-green-carga-frontal-blanca-40283500.html",
-        "price": 12341.34,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrp0-negro-41539023.html",
-        "price": 16103.39,
-        "model": "RMB400IBMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Top Mount 14 p3 RME360FZMRP0 Negro",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-14-p3-rme360fzmrp0-negro-41637772.html",
-        "price": 13331.34,
-        "model": "RME360FZMRP0"
-      },
-      {
-        "store": "palacio",
-        "name": "Refrigerador Dúplex 22 p3",
-        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964263.html",
-        "price": 21559.44,
-        "model": null
-      }
-    ]
-  },
-  "amazon|MF200D125WB": {
-    "ts": "2026-08-23T15:26:20.269234+00:00",
-    "items": [
-      {
-        "store": "amazon",
-        "name": "Funda Cubierta Revestimiento Forro Para Lavadoras Lavasecadora Midea 12 Kg Small2 Mf200d125wb/t",
-        "url": "https://www.amazon.com.mx/dp/B0H8R1VTMV",
-        "price": 399.0,
-        "model": "Mf200d125wb/t"
-      }
-    ]
-  },
-  "walmart|MF200D125WB": {
-    "ts": "2026-08-23T15:26:25.165579+00:00",
-    "items": []
-  },
-  "sams|MF200D125WB": {
-    "ts": "2026-08-23T15:26:26.589961+00:00",
+    "ts": "2026-08-25T15:27:00.557807+00:00",
     "items": []
   },
   "mercadolibre|MF200D125WB": {
@@ -18526,6 +17875,188 @@
   },
   "sams|HUAWEIDESBLOQUEADOCELULARNOVARAM": {
     "ts": "2026-08-25T13:31:38.917408+00:00",
+    "items": []
+  },
+  "amazon|XTELLARXTELLARCORTINADOBLEBLACK": {
+    "ts": "2026-08-25T15:25:26.724959+00:00",
+    "items": [
+      {
+        "store": "amazon",
+        "name": "NANWEI Cortinas Blackout para Recamara con Aislamiento Térmico, Cortinas para Sala 100% Poliéster Tela, Reducción de Ruido, Suave Cortinas con Bolsillo para Barra, 2 Paneles, 132 x 241 cm,Negro",
+        "url": "https://www.amazon.com.mx/dp/B0CNPRG2N7",
+        "price": 427.64,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "NANWEI Cortinas Blackout con Aislamiento Térmico para Recámara Ventana, con Ojales en la Parte Superior, Suave 100% Poliéster Tela Impermeable, Reducción Ruido, 2 Paneles, 132 x 241 cm, Negro",
+        "url": "https://www.amazon.com.mx/dp/B0BWXVTJX1",
+        "price": 534.65,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Melocotton Juego de Cortina Black out 2.75 x 2.15 m. Bloquea la luz Solar Cada Hoja Mide 137.5 m x 2.15 m Alto, 100% Microfibra Poliéster. Ideal para Sala, Recámara y Todas Las áreas del hogar.",
+        "url": "https://www.amazon.com.mx/dp/B09WBV38YB",
+        "price": 498.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cortinas Blackout para Recamara 2 Paneles 132 * 213 cm,Cortinas Opacas Gris | con Aislamiento Térmico,con Ojales en la Parte Superior,Suave 100% Poliéster Tela Impermeable,Cortina para Salón,Dormitorio",
+        "url": "https://www.amazon.com.mx/dp/B0CH4NPH83",
+        "price": 369.54,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "GRALI Cortinas para Ventanas Beige, Zigzag Cortinas de Doble Vista, Tela 70% Black out & Suave al Tacto, Cortina con Ojales Superior, 254 x 274 cm, 1 Panel",
+        "url": "https://www.amazon.com.mx/dp/B0DDBSPMF5",
+        "price": 1010.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Bujasso - Cortinas beige con 80% de bloqueo de luz con superposición de gasa, paneles de ventana térmicos aislados de doble capa combinables, 241 cm para sala de estar y dormitorio, cortinas beige con",
+        "url": "https://www.amazon.com.mx/dp/B0BB19BXP8",
+        "price": 1161.46,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cortinas Blackout 100% 2 Paneles,Cortinas para Recamara y Sala con Forro Negro,Suave 100% Microfibra Poliéster Impermeable,Anillo de Sujeción,Reducción de Ruido,150 * 230cm（Negro）",
+        "url": "https://www.amazon.com.mx/dp/B0G4CC4V7G",
+        "price": 298.99,
+        "model": "230cm"
+      },
+      {
+        "store": "amazon",
+        "name": "TIPIACE Funda de cortina doble pesada con riel, silencio nano (Black) | Rieles de cortina de aleación de aluminio, montado en el techo o en la pared, para separador de salón y dormitorio",
+        "url": "https://www.amazon.com.mx/dp/B0BKY18TNG",
+        "price": 800.0,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "MaKefeile - Cortinas divisoras de habitación, opacas, con aislamiento térmico, reducción de ruido, para riel en recámara, ventana, sala de estar, techo, de 15 x 9 pies (ancho x alto), gris oscuro",
+        "url": "https://www.amazon.com.mx/dp/B0C9LXGF1J",
+        "price": 1405.74,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "VIOPY 100% Lino Cortinas Blackout, Beige, 132An x 213Al cm (2 Paneles) | Poliéster Impermeable, Aislamiento Térmico, Respaldo Recubierto, Cortinas de Lino, Ojal Superior",
+        "url": "https://www.amazon.com.mx/dp/B0F989Y43S",
+        "price": 499.0,
+        "model": "132An"
+      },
+      {
+        "store": "amazon",
+        "name": "Cortinas 100% opacas para recámara, cortinas de doble capa color marfil, cortina negra de 63 pulgadas de largo con superposición transparente para sala de estar, cortinas de ventana de",
+        "url": "https://www.amazon.com.mx/dp/B0FHJST11S",
+        "price": 1128.35,
+        "model": null
+      },
+      {
+        "store": "amazon",
+        "name": "Cortinas Blackout 100% 2 Paneles,Cortinas para Recamara y Sala con Forro Negro,Suave 100% Microfibra Poliéster Impermeable,Anillo de Sujeción,Reducción de Ruido,150 * 230cm (Gris)",
+        "url": "https://www.amazon.com.mx/dp/B0G4CCTMHL",
+        "price": 298.99,
+        "model": "230cm"
+      }
+    ]
+  },
+  "walmart|XTELLARXTELLARCORTINADOBLEBLACK": {
+    "ts": "2026-08-25T15:25:33.463139+00:00",
+    "items": [
+      {
+        "store": "walmart",
+        "name": "Cortinas Black Out Lisa Gris Oxford con Argollas 2.20 X 2.75 Castelog C8072",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-Black-Out-Lisa-Gris-Oxford-con-Argollas-2-20-X-2-75-Castelog-C8072/00075051298072",
+        "price": 678.0,
+        "model": "C8072"
+      },
+      {
+        "store": "walmart",
+        "name": "Cortina Blackout Opaca Ventana 132x137cm Dormitorio 1 Panele Xtellar  negro",
+        "url": "https://www.walmart.com.mx/ip/Cortina-Blackout-Opaca-Ventana-132x137cm-Dormitorio-1-Panele-Xtellar-negro/00750232875023?athbdg=L6000",
+        "price": 669.0,
+        "model": "132x137cm"
+      },
+      {
+        "store": "walmart",
+        "name": "Panel De Cortina Con Ojales Eclipse Negro, 132 x 213 cm",
+        "url": "https://www.walmart.com.mx/ip/Panel-De-Cortina-Con-Ojales-Eclipse-Negro-132-x-213-cm/00008180680497?athbdg=L6000",
+        "price": 349.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortinas Joydeco Black Blackout de lino sintético 100% negro, 2,4 m",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-Joydeco-Black-Blackout-de-lino-sintetico-100-negro-2-4-m/00084049550764",
+        "price": 1509.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortinas XiDi de 52 pulgadas, blanco y negro, doble capa, con forma de estrella",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-XiDi-de-52-pulgadas-blanco-y-negro-doble-capa-con-forma-de-estrella/00046097322801?athbdg=L1300",
+        "price": 1349.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortinas Black Out Castelog Lisa Gris Plata con Argollas C8078",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-Black-Out-Castelog-Lisa-Gris-Plata-con-Argollas-C8078/00075051298078",
+        "price": 678.0,
+        "model": "C8078"
+      },
+      {
+        "store": "walmart",
+        "name": "Cortina doble capa XiDi Rainbow con estrellas y blackout translúcida",
+        "url": "https://www.walmart.com.mx/ip/Cortina-doble-capa-XiDi-Rainbow-con-estrellas-y-blackout-translucida/00046078256748?athbdg=L1300",
+        "price": 579.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortina De Interior Home Styles Ondas 135 x 213 cm, Poliéster",
+        "url": "https://www.walmart.com.mx/ip/Cortina-De-Interior-Home-Styles-Ondas-135-x-213-cm-Poliester/00750114394912?athbdg=L6000",
+        "price": 299.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortinas TOWN & COUNTRY LUXE Talia de doble capa, 52 x 120 cm, paquete de 2",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-TOWN-COUNTRY-LUXE-Talia-de-doble-capa-52-x-120-cm-paquete-de-2/00006424704725?athbdg=L1300",
+        "price": 1269.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortinas TOWN & COUNTRY LUXE Talia de doble capa, 52 x 96 cm, color arena",
+        "url": "https://www.walmart.com.mx/ip/Cortinas-TOWN-COUNTRY-LUXE-Talia-de-doble-capa-52-x-96-cm-color-arena/00064247201905?athbdg=L1300",
+        "price": 1149.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortina para Ventana Home Creations Blackout Gris",
+        "url": "https://www.walmart.com.mx/ip/Cortina-para-Ventana-Home-Creations-Blackout-Gris/00750626521443?athbdg=L6000",
+        "price": 399.0,
+        "model": null
+      },
+      {
+        "store": "walmart",
+        "name": "Cortina XiDi, 244 x 132 cm, diseño Blackout Stars, doble capa",
+        "url": "https://www.walmart.com.mx/ip/Cortina-XiDi-244-x-132-cm-diseno-Blackout-Stars-doble-capa/00046083131964?athbdg=L1300",
+        "price": 979.0,
+        "model": null
+      }
+    ]
+  },
+  "sams|XTELLARXTELLARCORTINADOBLEBLACK": {
+    "ts": "2026-08-25T15:25:34.734077+00:00",
     "items": []
   }
 }

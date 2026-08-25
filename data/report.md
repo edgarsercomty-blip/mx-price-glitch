@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-25 14:23 UTC
+# Errores/chollos de precio — 2026-08-25 15:27 UTC
 
-- Productos revisados: **1607**
+- Productos revisados: **1673**
 - Umbral de diferencia: **20%**
-- Hallazgos: **35**
+- Hallazgos: **36**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -40,4 +40,5 @@
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $600 | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | Confirmado vs competencia | $1,364 en liverpool vs mercado -> -30% bajo la competencia |
+| -20% | $227 | liverpool | [Cortina Doble Black Out Xtellar](https://www.liverpool.com.mx/tienda/pdp/cortina-doble-black-out-xtellar/1177778041) | $899 | Confirmado vs competencia | $899 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |

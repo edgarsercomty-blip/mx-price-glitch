@@ -1,4 +1,4 @@
-# Productos en vigilancia (789)
+# Productos en vigilancia (790)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -793,3 +793,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Otterbox](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531) | $199 | -35% |
 | 🟢 disponible | walmart | [Cafetera comercial para bebidas calientes - Doble pared de a…](https://www.walmart.com.mx/ip/cafetera-comercial-para-bebidas-calientes-doble-pared-de-acero-inoxidable-grifo-antigoteo-control-automatico-de-temperatura-16l-4-2gal-ideal-para-catering-bodas-y-bufes/00088162832915) | $2,621 | -26% |
 | 🟢 disponible | liverpool | [Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508) | $54,095 | -22% |
+| 🟢 disponible | liverpool | [Cortina Doble Black Out Xtellar](https://www.liverpool.com.mx/tienda/pdp/cortina-doble-black-out-xtellar/1177778041) | $899 | -20% |
