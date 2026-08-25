@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 13:31 UTC",
-  "products_scanned": 1590,
+  "generated_at": "2026-08-25 14:23 UTC",
+  "products_scanned": 1607,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -379,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 804.77,
+      "store": "palacio",
+      "name": "Smartwach Kids 4 Pro Nina",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
+      "price": 2519.28,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44123334",
         "outlet": false
       }
     },
