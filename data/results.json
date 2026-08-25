@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 07:10 UTC",
-  "products_scanned": 1607,
+  "generated_at": "2026-08-25 07:59 UTC",
+  "products_scanned": 1659,
   "threshold_pct": 20.0,
-  "count": 33,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -65,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,424 en liverpool vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 742.5,
-      "store": "liverpool",
-      "name": "Combo Licuadora Vaso Oster 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726",
-      "price": 1424.25,
-      "list_price": 1899.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854726",
-        "marketplace": null
       }
     },
     {
@@ -211,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45384039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6459.8,
+      "store": "palacio",
+      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
+      "price": 19379.4,
+      "list_price": 32299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45244409",
         "outlet": false
       }
     },
@@ -632,6 +632,27 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {
