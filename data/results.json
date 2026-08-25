@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-08-25 15:56 UTC",
-  "products_scanned": 2810,
+  "generated_at": "2026-08-25 16:11 UTC",
+  "products_scanned": 1672,
   "threshold_pct": 20.0,
-  "count": 51,
+  "count": 35,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$1,951 en amazon vs walmart $9,790 -> -80% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7839.02,
-      "store": "amazon",
-      "name": "ADATA Premier Pro Tarjeta de Memoria MicroSD de 512GB MicroSDXC/SDCH UHS-I U3 Class 10 (V30S) A2",
-      "url": "https://www.amazon.com.mx/dp/B07RLHSKJ7",
-      "price": 1950.98,
-      "list_price": 198.02,
-      "ean": null,
-      "model": "512GB",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B07RLHSKJ7"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$8,329 en mercadolibre vs mercado -> -52% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9092.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Automática Mabe 21kg Aqua Saver Green Blanca Color Blanco",
-      "url": "https://www.mercadolibre.com.mx/lavadora-automatica-mabe-21kg-aqua-saver-green-blanca-color-blanco/p/MLM16178049",
-      "price": 8329.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM16178049"
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -63,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$10,400 en liverpool vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7090.4,
-      "store": "liverpool",
-      "name": "Aire Acondicionado Mini Split Inverter Hisense Frio Y Calor 12000 Btu Aa Aru122Nfw 12 220V 220 V",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-hisense-frio-y-calor-12000-btu-aa-aru122nfw-12-220v-220-v/1163538276",
-      "price": 10399.6,
-      "list_price": 25999.0,
-      "ean": null,
-      "model": "Aru122Nfw",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1163538276",
-        "marketplace": null
       }
     },
     {
@@ -109,26 +48,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 36.7,
-      "detail": "$69 en amazon vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 40.0,
-      "store": "amazon",
-      "name": "Conjuntos Casuales para Mujer, Conjunto Short Leggins Y Top 2 Pieza Mujer, Casual Dama Salir, Cómodo y Ligero",
-      "url": "https://www.amazon.com.mx/dp/B0GGQXGZJD",
-      "price": 69.0,
-      "list_price": 109.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0GGQXGZJD"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 36.0,
       "detail": "$21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia",
       "likely_typo": false,
@@ -146,27 +65,6 @@
       "extra": {
         "id": "45650688",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4128.48,
-      "store": "liverpool",
-      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
-      "price": 8663.52,
-      "list_price": 18049.0,
-      "ean": null,
-      "model": "Wa20A3350Gw",
-      "brand": "SAMSUNG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1106592728",
-        "marketplace": null
       }
     },
     {
@@ -255,46 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,699 en mercadolibre vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1941.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Semiautomática White-Westinghouse de 13 kg y Doble Tina con Centrifugado",
-      "url": "https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221",
-      "price": 4699.0,
-      "list_price": null,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM47040221"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 19.3,
-      "detail": "$217 en amazon vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 81.0,
-      "store": "amazon",
-      "name": "Bolsas de Mujer, Bolso Crossbody Mujer, Bandolera Crossbody Mujer, Chica y Ligero, Bolsa Crossbody Mujers Ajustable, Moda, Casual, Compras, Citas, Viajes, Fiestas, Trabajo",
-      "url": "https://www.amazon.com.mx/dp/B0DRYPYWHM",
-      "price": 217.0,
-      "list_price": 269.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0DRYPYWHM"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 26.7,
       "detail": "$2,199 en liverpool vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -312,47 +170,6 @@
       "extra": {
         "productId": "1127610386",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.2,
-      "detail": "$1,387 en walmart vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 499.99,
-      "store": "walmart",
-      "name": "Lavadora Portátil Plegable con Centrifugadora - Capacidad de 12-13 Litros - Solución Silenciosa y Compacta para Ropa Interior, Ropa de Bebé, Calcetines",
-      "url": "https://www.walmart.com.mx/ip/Lavadora-Portatil-Plegable-con-Centrifugadora-Capacidad-de-12-13-Litros-Solucion-Silenciosa-y-Compacta-para-Ropa-Interior-Ropa-de-Bebe-Calcetines/00088162813722",
-      "price": 1387.0,
-      "list_price": 1986.3,
-      "ean": null,
-      "model": null,
-      "brand": "Towallmark",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00088162813722"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$23,597 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 8401.54,
-      "store": "palacio",
-      "name": "Refrigerador French Door Xpert Inverter 31p3",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html",
-      "price": 23597.46,
-      "list_price": 43699.0,
-      "ean": null,
-      "model": null,
-      "brand": "Whirlpool",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45040174",
-        "outlet": false
       }
     },
     {
@@ -588,26 +405,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 23.9,
-      "detail": "$296 en amazon vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 93.0,
-      "store": "amazon",
-      "name": "CHEFOLLA Sartén Blanco Antiadherente Granito Cerámica Mango Baquelita 20CM | Sartén de chef de Piedra de Granito, fácil limpieza, apto lavavajillas. Base para inducción, gas y cerámica.",
-      "url": "https://www.amazon.com.mx/dp/B0C53RX5NG",
-      "price": 296.0,
-      "list_price": 389.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0C53RX5NG"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -646,26 +443,6 @@
       "extra": {
         "id": "44302743",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 47.5,
-      "detail": "$815 en amazon vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 242.05,
-      "store": "amazon",
-      "name": "Calvin Klein Carlla Zapatillas para Mujer | Zapatos casuales",
-      "url": "https://www.amazon.com.mx/dp/B0BTTQVSM6",
-      "price": 815.3,
-      "list_price": 1553.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B0BTTQVSM6"
       }
     },
     {
@@ -754,26 +531,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 7.5,
-      "detail": "$791 en amazon vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 216.05,
-      "store": "amazon",
-      "name": "Calvin Klein Tenis para Mujer",
-      "url": "https://www.amazon.com.mx/dp/B09M6V52FR",
-      "price": 791.49,
-      "list_price": 855.7,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "asin": "B09M6V52FR"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -837,46 +594,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 31.3,
-      "detail": "$5,490 en walmart vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1439.0,
-      "store": "walmart",
-      "name": "Congelador Hisense 7 Pies Cúbicos Blanco",
-      "url": "https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600",
-      "price": 5490.0,
-      "list_price": 7990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "00692172704679"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": null,
-      "detail": "$4,999 en mercadolibre vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1300.0,
-      "store": "mercadolibre",
-      "name": "Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco",
-      "url": "https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919",
-      "price": 4999.0,
-      "list_price": null,
-      "ean": null,
-      "model": "Lrk-2311a",
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM46517919"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -894,26 +611,6 @@
       "extra": {
         "id": "44824190",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$4,769 en mercadolibre vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1230.0,
-      "store": "mercadolibre",
-      "name": "Frigobar Lake Midea 3.4 Pies Cúbicos Dos Puertas Plata Color Gris",
-      "url": "https://www.mercadolibre.com.mx/frigobar-lake-midea-34-pies-cubicos-dos-puertas-plata-color-gris/p/MLM26088243",
-      "price": 4769.0,
-      "list_price": 4769.0,
-      "ean": null,
-      "model": null,
-      "brand": null,
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "mlm": "MLM26088243"
       }
     },
     {
@@ -977,27 +674,6 @@
       "extra": {
         "productId": "1173032684",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
