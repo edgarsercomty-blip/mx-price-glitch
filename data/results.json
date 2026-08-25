@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25 19:30 UTC",
-  "products_scanned": 1632,
+  "generated_at": "2026-08-25 19:58 UTC",
+  "products_scanned": 1618,
   "threshold_pct": 20.0,
   "count": 37,
   "findings": [
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1152345921",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.6,
+      "detail": "$16,148 en liverpool vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7251.1,
+      "store": "liverpool",
+      "name": "Laptop Hp Omnibook 7 Aero13 Bg1051La 13 Pulgadas 2K Amd Ryzen Ai 5 340 Amd Radeon 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-omnibook-7-aero13-bg1051la-13-pulgadas-2k-amd-ryzen-ai-5-340-amd-radeon-16-gb-ram-512-gb-ssd/1180419841",
+      "price": 16148.0,
+      "list_price": 31389.0,
+      "ean": null,
+      "model": "Bg1051La",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1180419841",
         "marketplace": null
       }
     },
@@ -400,27 +421,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45369614",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 28.0,
-      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 804.77,
-      "store": "palacio",
-      "name": "Smartwach Kids 4 Pro Nina",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
-      "price": 2519.28,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44123334",
         "outlet": false
       }
     },
