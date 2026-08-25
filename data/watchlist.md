@@ -1,4 +1,4 @@
-# Productos en vigilancia (794)
+# Productos en vigilancia (795)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -283,7 +283,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 negro](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-negro-44784098.html) | $11,679 | -20% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-para-entrenamiento-44965114.html) | $9,199 | -25% |
 | 🟢 disponible | liverpool | [Combo Licuadora Ninja Ss100 2 Velocidades](https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-ninja-ss100-2-velocidades/1165527719) | $1,698 | -23% |
-| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | -26% |
+| 🟢 disponible | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $3,889 | -26% |
 | 🟢 disponible | liverpool | [Bowl Sicily De Ceramica](https://www.liverpool.com.mx/tienda/pdp/bowl-sicily-de-ceramica/1067167747) | $235 | -23% |
 | 🟢 disponible | liverpool | [Bolsa W P](https://www.liverpool.com.mx/tienda/pdp/bolsa-w-p/1100981536) | $175 | -26% |
 | 🟢 disponible | liverpool | [Set Licuadora Nutribullet Triple Prep System Nbks50100 11 Ve…](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-nutribullet-triple-prep-system-nbks50100-11-velocidades/1172621941) | $3,400 | -31% |
@@ -699,7 +699,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clase 10,…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | -35% |
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |
 | 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12mm Di…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | -21% |
-| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $14,999 | -27% |
+| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $17,499 | -27% |
 | 🟢 disponible | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | -21% |
 | 🟢 disponible | sams | [Kit de Impresora Canon Ivy Mini Portátil Blanca + Paquete de…](https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145) | $1,022 | -52% |
 | 🟢 disponible | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $6,136 | -20% |
@@ -798,3 +798,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Conjuntos Casuales para Mujer, Conjunto Short Leggins Y Top …](https://www.amazon.com.mx/dp/B0GGQXGZJD) | $69 | -37% |
 | 🟢 disponible | amazon | [Bolsas de Mujer, Bolso Crossbody Mujer, Bandolera Crossbody …](https://www.amazon.com.mx/dp/B0DRYPYWHM) | $217 | -27% |
 | 🟢 disponible | amazon | [CHEFOLLA Sartén Blanco Antiadherente Granito Cerámica Mango …](https://www.amazon.com.mx/dp/B0C53RX5NG) | $296 | -24% |
+| 🟢 disponible | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | -35% |

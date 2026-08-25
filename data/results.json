@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25 18:00 UTC",
-  "products_scanned": 1606,
+  "generated_at": "2026-08-25 18:58 UTC",
+  "products_scanned": 1613,
   "threshold_pct": 20.0,
-  "count": 35,
+  "count": 37,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -86,6 +86,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,792 en liverpool vs mercado -> -35% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2053.74,
+      "store": "liverpool",
+      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
+      "price": 3791.52,
+      "list_price": 4739.4,
+      "ean": null,
+      "model": "Mt100W150",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152345921",
+        "marketplace": null
       }
     },
     {
@@ -610,6 +631,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },

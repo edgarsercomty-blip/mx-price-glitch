@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (963)
+# Historial de ofertas encontradas (964)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-25 18:58 | -35% | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Su…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | $3,792 en liverpool vs mercado -> -35% bajo la competencia |
 | 2026-08-25 15:56 | -23% | amazon | [Calvin Klein Carlla Zapatillas para Mujer \| Zapatos cas…](https://www.amazon.com.mx/dp/B0BTTQVSM6) | $815 | $815 en amazon vs mercado -> -23% bajo la competencia |
 | 2026-08-25 15:56 | -24% | amazon | [CHEFOLLA Sartén Blanco Antiadherente Granito Cerámica M…](https://www.amazon.com.mx/dp/B0C53RX5NG) | $296 | $296 en amazon vs mercado -> -24% bajo la competencia |
 | 2026-08-25 15:56 | -26% | walmart | [Lavadora Portátil Plegable con Centrifugadora - Capacid…](https://www.walmart.com.mx/ip/Lavadora-Portatil-Plegable-con-Centrifugadora-Capacidad-de-12-13-Litros-Solucion-Silenciosa-y-Compacta-para-Ropa-Interior-Ropa-de-Bebe-Calcetines/00088162813722) | $1,387 | $1,387 en walmart vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-06 09:09 | -44% | liverpool | [Pantalla Smart Tv Hisense Qled De 55 Pulgadas 4K Uhd 55…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-55-pulgadas-4k-uhd-55qd6sfm-con-fire-os-con-ai-smooth-motion/1197517707) | $7,299 | $7,299 en liverpool vs mercado -> -44% bajo la competencia |
 | 2026-08-06 09:09 | -46% | liverpool | [Pantalla Smart Tv Tcl Qled De 65 Pulgadas 4K Uhd 65Q6K …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-65-pulgadas-4k-uhd-65q6k-con-google-tv/1173699375) | $10,499 | $10,499 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-08-06 09:09 | -47% | liverpool | [Pantalla Smart Tv Hisense Uhd De 65 Pulgadas 4K Uhd 65A…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-uhd-de-65-pulgadas-4k-uhd-65a65nv-con-ai-sports-mode/1178739405) | $9,499 | $9,499 en liverpool vs mercado -> -47% bajo la competencia |
-| 2026-08-06 09:09 | -47% | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | $12,099 en liverpool vs mercado -> -47% bajo la competencia |
