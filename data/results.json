@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26 02:20 UTC",
+  "generated_at": "2026-08-26 02:22 UTC",
   "products_scanned": 1578,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -86,6 +86,27 @@
       "extra": {
         "id": "45650688",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$8,664 en liverpool vs walmart $12,792 -> -32% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4128.48,
+      "store": "liverpool",
+      "name": "Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw Ax",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728",
+      "price": 8663.52,
+      "list_price": 18049.0,
+      "ean": null,
+      "model": "Wa20A3350Gw",
+      "brand": "SAMSUNG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1106592728",
+        "marketplace": null
       }
     },
     {
@@ -552,6 +573,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -590,27 +632,6 @@
       "extra": {
         "productId": "1152344011",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
       }
     },
     {
