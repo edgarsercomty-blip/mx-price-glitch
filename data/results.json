@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26 16:14 UTC",
-  "products_scanned": 1649,
+  "generated_at": "2026-08-26 17:00 UTC",
+  "products_scanned": 1648,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$21,000 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10499.72,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html",
-      "price": 20999.58,
-      "list_price": 49999.0,
-      "ean": null,
-      "model": "QNED92",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44776799",
         "outlet": false
       }
     },
@@ -804,6 +783,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -842,6 +842,27 @@
       "extra": {
         "productId": "1196431612",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {
