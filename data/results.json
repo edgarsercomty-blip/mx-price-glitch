@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 04:59 UTC",
-  "products_scanned": 1575,
+  "generated_at": "2026-08-26 05:35 UTC",
+  "products_scanned": 1574,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
@@ -447,6 +447,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$399 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 120.0,
+      "store": "liverpool",
+      "name": "Cafetera De Goteo Oster Bvstdcs51B Ne",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931",
+      "price": 399.0,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "Bvstdcs51B",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1194721931",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -547,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },
