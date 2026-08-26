@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26 07:10 UTC",
-  "products_scanned": 1560,
+  "generated_at": "2026-08-26 08:01 UTC",
+  "products_scanned": 1563,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 35,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45650688",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
         "outlet": false
       }
     },
@@ -237,6 +258,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6459.8,
+      "store": "palacio",
+      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
+      "price": 19379.4,
+      "list_price": 32299.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45244409",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -274,27 +316,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45558414",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
         "outlet": false
       }
     },
@@ -448,21 +469,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
+      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 5938.5,
+      "savings": 2259.0,
       "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 19795.0,
-      "list_price": 39590.0,
+      "name": "Hervidor Electrico Blue Mediterraneo",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
+      "price": 7530.0,
+      "list_price": 15060.0,
       "ean": null,
       "model": null,
       "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44302743",
+        "id": "44519347",
         "outlet": false
       }
     },
@@ -505,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1201664248",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$54,095 en liverpool vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 15697.34,
+      "store": "liverpool",
+      "name": "Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y Fabrica De Hielo Gemidf25Eyrcfs",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508",
+      "price": 54095.44,
+      "list_price": 96599.0,
+      "ean": null,
+      "model": "Gemidf25Eyrcfs",
+      "brand": "IO MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1130251508",
         "marketplace": null
       }
     },
@@ -636,43 +678,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 919.8,
+      "savings": 7349.85,
       "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
+      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44951471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1798.0,
-      "store": "palacio",
-      "name": "Cafetera Gran Lattissima Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
-      "price": 7192.0,
-      "list_price": 8990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43135869",
+        "id": "45262437",
         "outlet": false
       }
     },
