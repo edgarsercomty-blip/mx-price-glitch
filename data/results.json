@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 14:22 UTC",
-  "products_scanned": 1727,
+  "generated_at": "2026-08-26 16:03 UTC",
+  "products_scanned": 1641,
   "threshold_pct": 20.0,
   "count": 44,
   "findings": [
@@ -27,22 +27,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 41.7,
-      "detail": "$1,998 en liverpool vs mercado -> -40% bajo la competencia",
+      "discount_pct": 62.7,
+      "detail": "$653 en liverpool vs mercado -> -45% bajo la competencia",
       "likely_typo": false,
-      "savings": 1331.0,
+      "savings": 531.23,
       "store": "liverpool",
-      "name": "Licuadora Blst412813 Oster Dorado",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blst412813-oster-dorado/1166351762",
-      "price": 1998.0,
-      "list_price": 3429.0,
+      "name": "Smartwatch Generica Para Mujer Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682",
+      "price": 652.9,
+      "list_price": 1750.0,
       "ean": null,
-      "model": "Blst412813",
-      "brand": "OSTER",
+      "model": null,
+      "brand": "GENÉRICA",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1166351762",
+        "productId": "999680512682",
         "marketplace": null
       }
     },
