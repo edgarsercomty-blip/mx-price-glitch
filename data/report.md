@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-26 17:00 UTC
+# Errores/chollos de precio — 2026-08-26 19:19 UTC
 
-- Productos revisados: **1648**
+- Productos revisados: **1591**
 - Umbral de diferencia: **20%**
 - Hallazgos: **44**
 
@@ -19,6 +19,7 @@
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
 | -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
+| -21% | $3,200 | liverpool | [Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381) | $11,999 | Confirmado vs competencia | $11,999 en liverpool vs mercado -> -21% bajo la competencia |
 | -22% | $2,876 | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | Confirmado vs competencia | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | -25% | $2,394 | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | Confirmado vs competencia | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
 | -26% | $2,212 | liverpool | [Congelador Midea Mfcd09P2Nabw Horizontal 9 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mfcd09p2nabw-horizontal-9-pies-cubicos/1110040357) | $6,199 | Confirmado vs competencia | $6,199 en liverpool vs mercado -> -26% bajo la competencia |
@@ -28,12 +29,11 @@
 | -29% | $1,925 | liverpool | [Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drenaje 7 …](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011) | $4,800 | Confirmado vs competencia | $4,800 en liverpool vs mercado -> -29% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
-| -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| -21% | $1,700 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $1,580 | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | Confirmado vs competencia | $3,792 en liverpool vs mercado -> -29% bajo la competencia |
 | -26% | $1,541 | liverpool | [Congelador Midea Mdrc205Fzm01 Deshielo Manual Con Drenaje 5 …](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc205fzm01-deshielo-manual-con-drenaje-5-pies-cubicos/1152345832) | $4,320 | Confirmado vs competencia | $4,320 en liverpool vs mercado -> -26% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
-| -24% | $1,090 | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $3,499 | Confirmado vs competencia | $3,499 en liverpool vs mercado -> -24% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $920 | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | Confirmado vs competencia | $3,679 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |

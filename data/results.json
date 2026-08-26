@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 17:00 UTC",
-  "products_scanned": 1648,
+  "generated_at": "2026-08-26 19:19 UTC",
+  "products_scanned": 1591,
   "threshold_pct": 20.0,
   "count": 44,
   "findings": [
@@ -27,15 +27,15 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 62.7,
+      "discount_pct": 63.0,
       "detail": "$653 en liverpool vs mercado -> -45% bajo la competencia",
       "likely_typo": false,
-      "savings": 531.23,
+      "savings": 531.47,
       "store": "liverpool",
       "name": "Smartwatch Generica Para Mujer Con Gps",
       "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682",
-      "price": 652.9,
-      "list_price": 1750.0,
+      "price": 652.66,
+      "list_price": 1763.18,
       "ean": null,
       "model": null,
       "brand": "GENÉRICA",
@@ -552,27 +552,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$3,499 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1090.0,
-      "store": "liverpool",
-      "name": "Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior Lmdx1123Hbab0",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830",
-      "price": 3499.0,
-      "list_price": 3499.0,
-      "ean": null,
-      "model": "Lmdx1123Hbab0",
-      "brand": "MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1162817830",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -723,7 +702,7 @@
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1685.58,
+      "savings": 1699.74,
       "store": "palacio",
       "name": "Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX",
       "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html",
@@ -737,6 +716,27 @@
       "extra": {
         "id": "45366544",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.8,
+      "detail": "$11,999 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3200.0,
+      "store": "liverpool",
+      "name": "Laptop Asus Vivobook 14 14 Pulgadas Wuxga Intel Core I7 Intel Uhd Graphics 16 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-14-pulgadas-wuxga-intel-core-i7-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1175126381",
+      "price": 11999.2,
+      "list_price": 18999.0,
+      "ean": null,
+      "model": null,
+      "brand": "ASUS",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1175126381",
+        "marketplace": null
       }
     },
     {
