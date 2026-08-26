@@ -10713,5 +10713,803 @@
   "sams|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
     "ts": "2026-08-26T14:22:28.070413+00:00",
     "items": []
+  },
+  "palacio|JUMP05": {
+    "ts": "2026-08-26T16:12:41.335598+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de corte recto Mujer",
+        "url": "https://www.elpalaciodehierro.com/adolfo-dominguez-jumpsuit-de-corte-recto-mujer-45251705.html",
+        "price": 6195.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit Regular Mujer",
+        "url": "https://www.elpalaciodehierro.com/mango-jumpsuit-regular-mujer-45423125.html",
+        "price": 1399.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit corte regular Lauren Mujer",
+        "url": "https://www.elpalaciodehierro.com/desigual-jumpsuit-corte-regular-lauren-mujer-45681300.html",
+        "price": 6090.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit para entrenamiento de corte flared Mujer",
+        "url": "https://www.elpalaciodehierro.com/born-jumpsuit-para-entrenamiento-de-corte-flared-mujer-45208439.html",
+        "price": 1870.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de corte regular Mujer",
+        "url": "https://www.elpalaciodehierro.com/adolfo-dominguez-jumpsuit-de-corte-regular-mujer-45643589.html",
+        "price": 5272.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de mezclilla crote recto Mujer",
+        "url": "https://www.elpalaciodehierro.com/levis-jumpsuit-de-mezclilla-crote-recto-mujer-45457342.html",
+        "price": 1749.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit corte regular Lanzarote con rayas Mujer",
+        "url": "https://www.elpalaciodehierro.com/womensecret-jumpsuit-corte-regular-lanzarote-con-rayas-mujer-45438394.html",
+        "price": 1190.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit Palazzo De Satín Marino Cuello Alto Alforzas Y Cinturón Mujer",
+        "url": "https://www.elpalaciodehierro.com/julio-jumpsuit-palazzo-de-satin-marino-cuello-alto-alforzas-y-cinturon-mujer-45615984.html",
+        "price": 2599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de corte recto Mujer",
+        "url": "https://www.elpalaciodehierro.com/mango-jumpsuit-de-corte-recto-mujer-45532787.html",
+        "price": 1607.33,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit Ajustado Mujer",
+        "url": "https://www.elpalaciodehierro.com/guess-jumpsuit-ajustado-mujer-45181299.html",
+        "price": 2034.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de corte recto Mujer",
+        "url": "https://www.elpalaciodehierro.com/mango-jumpsuit-de-corte-recto-mujer-45532795.html",
+        "price": 1103.31,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jumpsuit de corte regular Mujer",
+        "url": "https://www.elpalaciodehierro.com/mango-jumpsuit-de-corte-regular-mujer-45431382.html",
+        "price": 999.5,
+        "model": null
+      }
+    ]
+  },
+  "amazon|JUMP05": {
+    "ts": "2026-08-26T16:12:44.169115+00:00",
+    "items": []
+  },
+  "walmart|JUMP05": {
+    "ts": "2026-08-26T16:12:45.570957+00:00",
+    "items": []
+  },
+  "sams|JUMP05": {
+    "ts": "2026-08-26T16:12:47.145855+00:00",
+    "items": []
+  },
+  "mercadolibre|JUMP05": {
+    "ts": "2026-08-26T16:12:48.526906+00:00",
+    "items": []
+  },
+  "palacio|ARU122NFW": {
+    "ts": "2026-08-26T16:12:56.420107+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil LG Dual Inverter 3 en 1 1 Tonelada  Sólo Frío 110V  LP1419IVSM",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-lg-dual-inverter-3-en-1-1-tonelada--solo-frio-110v--lp1419ivsm-42341583.html",
+        "price": 11339.46,
+        "model": "LP1419IVSM"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Minisplit Inverter ART121KAW, 12000 BTU's, 1 Tonelada, 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-minisplit-inverter-art121kaw-12000-btus-1-tonelada-110-v-frio-45484553.html",
+        "price": 8567.32,
+        "model": "ART121KAW"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil 4 en 1 1 Tonelada Frío y Calor 110V  LP1425WH",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-portatil-4-en-1-1-tonelada-frio-y-calor-110v--lp1425wh-44548090.html",
+        "price": 10529.46,
+        "model": "LP1425WH"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit LG Dual Inverter AI Air  1 Tonelada Sólo Frío 220V VA122C5",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-ai-air--1-tonelada-solo-frio-220v-va122c5-44456600.html",
+        "price": 12979.41,
+        "model": "VA122C5"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire acondicionado Portátil AP12CWN2, 12000 BTU's, 1 Tonelada 110 V Frío",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap12cwn2-12000-btus-1-tonelada-110-v-frio-45484552.html",
+        "price": 8351.28,
+        "model": "AP12CWN2"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit BIG Inverter SW362H8 Enfriamiento 33,000 BTU-h, Calefacción 29,000 BTU-h 3 Toneladas 220V",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-big-inverter-sw362h8%C2%A0enfriamiento-33000-btu-h-calefaccion-29000-btu-h-3-toneladas-220v-40338133.html",
+        "price": 33279.36,
+        "model": "SW362H8"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM121C9 12,000 BTU-h 1 Tonelada 115V Solo Frio",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm121c9-12000-btu-h-1-tonelada-115v-solo-frio-40785903.html",
+        "price": 11799.41,
+        "model": "VM121C9"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portatil 12000 BTUs Blanco",
+        "url": "https://www.elpalaciodehierro.com/carrier-aire-acondicionado-portatil-12000-btus-blanco-42588350.html",
+        "price": 8057.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portatil 12,000 BTUS, 115 V, Frio - Calor",
+        "url": "https://www.elpalaciodehierro.com/mabe-aire-acondicionado-portatil-12000-btus-115-v-frio---calor-43361395.html",
+        "price": 8699.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit LG Dual Inverter Acabado Espejo 1 Tonelada Frío y Calor 220V VR122HD",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-lg-dual-inverter-acabado-espejo-1-tonelada-frio-y-calor-220v-vr122hd-38983629.html",
+        "price": 16639.36,
+        "model": "VR122HD"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Portátil AP14HWRL 12,000 BTU's, 1 Tonelada 110 V Frío/Caliente",
+        "url": "https://www.elpalaciodehierro.com/hisense-aire-acondicionado-portatil-ap14hwrl-12000-btus-1-tonelada-110-v-frio%2Fcaliente-45533202.html",
+        "price": 14999.0,
+        "model": "AP14HWRL"
+      },
+      {
+        "store": "palacio",
+        "name": "Aire Acondicionado Minisplit DUALCOOL Inverter VM242C9 22,000 BTU-h 2 Toneladas 220V Solo Frío",
+        "url": "https://www.elpalaciodehierro.com/lg-aire-acondicionado-minisplit-dualcool-inverter-vm242c9-22000-btu-h-2-toneladas-220v-solo-frio-40785873.html",
+        "price": 17699.41,
+        "model": "VM242C9"
+      }
+    ]
+  },
+  "amazon|ARU122NFW": {
+    "ts": "2026-08-26T16:12:57.648567+00:00",
+    "items": []
+  },
+  "walmart|ARU122NFW": {
+    "ts": "2026-08-26T16:12:59.517988+00:00",
+    "items": []
+  },
+  "sams|ARU122NFW": {
+    "ts": "2026-08-26T16:13:01.877804+00:00",
+    "items": []
+  },
+  "mercadolibre|ARU122NFW": {
+    "ts": "2026-08-26T16:13:03.990433+00:00",
+    "items": []
+  },
+  "palacio|EMPRN121": {
+    "ts": "2026-08-26T16:13:09.399378+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Collar Chelsea Mujer",
+        "url": "https://www.elpalaciodehierro.com/kurt-geiger-collar-chelsea-mujer-45396145.html",
+        "price": 2190.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lápices de Colores Aqua 24 Pzs",
+        "url": "https://www.elpalaciodehierro.com/graf-von-faber-castell-lapices-de-colores-aqua-24-pzs-43468916.html",
+        "price": 1063.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Emma",
+        "url": "https://www.elpalaciodehierro.com/gandhi-emma-45301358.html",
+        "price": 469.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Elden Ring Shadow of The Erdtree Collectors Edition PS5",
+        "url": "https://www.elpalaciodehierro.com/playstation-elden-ring-shadow-of-the-erdtree-collectors-edition-ps5-43918528.html",
+        "price": 6499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jane Eyre",
+        "url": "https://www.elpalaciodehierro.com/gandhi-jane-eyre-45301361.html",
+        "price": 499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Collar con Esmeralda y Diamantes Mujer",
+        "url": "https://www.elpalaciodehierro.com/eugenia-collar-con-esmeralda-y-diamantes-mujer-43781272.html",
+        "price": 15227.75,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Game Card Case Eevee Cottage Core",
+        "url": "https://www.elpalaciodehierro.com/nintendo-game-card-case-eevee-cottage-core-45305658.html",
+        "price": 509.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para hombre The Challenger De Vestir, Dorado",
+        "url": "https://www.elpalaciodehierro.com/ingersoll-reloj-para-hombre-the-challenger-de-vestir-dorado-43162248.html",
+        "price": 12775.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Elden Ring Nightreign Deluxe Edition PS5",
+        "url": "https://www.elpalaciodehierro.com/playstation-elden-ring-nightreign-deluxe-edition-ps5-44642525.html",
+        "price": 999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maletín Werks Traveler 7.0 Compact liso Unisex",
+        "url": "https://www.elpalaciodehierro.com/victorinox-maletin-werks-traveler-7.0-compact-liso-unisex-45183976.html",
+        "price": 7385.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Maletín Werks Traveler 7.0 liso Hombre",
+        "url": "https://www.elpalaciodehierro.com/victorinox-maletin-werks-traveler-7.0-liso-hombre-45134429.html",
+        "price": 6969.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para hombre The Challenger De Vestir, Plateado",
+        "url": "https://www.elpalaciodehierro.com/ingersoll-reloj-para-hombre-the-challenger-de-vestir-plateado-43162249.html",
+        "price": 12600.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|EMPRN121": {
+    "ts": "2026-08-26T16:13:10.678729+00:00",
+    "items": []
+  },
+  "walmart|EMPRN121": {
+    "ts": "2026-08-26T16:13:11.917821+00:00",
+    "items": []
+  },
+  "sams|EMPRN121": {
+    "ts": "2026-08-26T16:13:13.510368+00:00",
+    "items": []
+  },
+  "mercadolibre|EMPRN121": {
+    "ts": "2026-08-26T16:13:14.595500+00:00",
+    "items": []
+  },
+  "liverpool|QNED92": {
+    "ts": "2026-08-26T16:13:15.455481+00:00",
+    "items": [
+      {
+        "store": "liverpool",
+        "name": "Pantalla Smart Tv Lg Qned De 85 Pulgadas 4K Uhd 85Qned92Asa Con Evo Ai",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-85-pulgadas-4k-uhd-85qned92asa-con-evo-ai/1179495119",
+        "price": 31499.3,
+        "model": "85Qned92Asa"
+      },
+      {
+        "store": "liverpool",
+        "name": "Control Remoto Para Smart Tv Lg Mr25Ga Compatible Con Lg Magic Remote Misma Version",
+        "url": "https://www.liverpool.com.mx/tienda/pdp/control-remoto-para-smart-tv-lg-mr25ga-compatible-con-lg-magic-remote-misma-version/1189683002",
+        "price": 1899.0,
+        "model": "Mr25Ga"
+      }
+    ]
+  },
+  "amazon|QNED92": {
+    "ts": "2026-08-26T16:13:16.528105+00:00",
+    "items": []
+  },
+  "walmart|QNED92": {
+    "ts": "2026-08-26T16:13:18.188586+00:00",
+    "items": []
+  },
+  "sams|QNED92": {
+    "ts": "2026-08-26T16:13:20.937807+00:00",
+    "items": []
+  },
+  "mercadolibre|QNED92": {
+    "ts": "2026-08-26T16:13:24.667709+00:00",
+    "items": []
+  },
+  "palacio|WD1600S": {
+    "ts": "2026-08-26T16:13:24.850841+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 12 Kg de Carga Frontal WD12VVC4S6S Acero",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-12-kg-de-carga-frontal-wd12vvc4s6s-acero-40785905.html",
+        "price": 11039.52,
+        "model": "WD12VVC4S6S"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora eléctrica 16 Kg, 8 Kg secado Carga frontal WD16EGNTS6P",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-16-kg-8-kg-secado-carga-frontal-wd16egnts6p-45049858.html",
+        "price": 16499.5,
+        "model": "WD16EGNTS6P"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
+        "price": 8231.58,
+        "model": "8MWTW1824WJM"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica 13 Kg, 8 Kg Frontal WD13FG6B34BEAX Blanca",
+        "url": "https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-13-kg-8-kg-frontal-wd13fg6b34beax-blanca-45208018.html",
+        "price": 13907.39,
+        "model": "WD13FG6B34BEAX"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora Eléctrica 26 Kg Carga Superior 8MWTW2654WRM",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-electrica-26-kg-carga-superior-8mwtw2654wrm-44767439.html",
+        "price": 15639.32,
+        "model": "8MWTW2654WRM"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 28943.52,
+        "model": "WD22BV2S6R"
+      },
+      {
+        "store": "palacio",
+        "name": "Lav carga superior 18 Kg Xpert Dual Wash",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-lav-carga-superior-18-kg-xpert-dual-wash-43127039.html",
+        "price": 12759.42,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Combo lavadora y secadora, 24 Kg Carga Frontal",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-combo-lavadora-y-secadora-24-kg-carga-frontal-45401077.html",
+        "price": 40919.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Combo Secadora Gas 23KgPedestal",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-combo-secadora-gas-23kgpedestal-42879141.html",
+        "price": 18095.42,
+        "model": "23KgPedestal"
+      },
+      {
+        "store": "palacio",
+        "name": "Batidor Globo Profi Plus",
+        "url": "https://www.elpalaciodehierro.com/wmf-batidor-globo-profi-plus-10544587.html",
+        "price": 594.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Decantador de cristal",
+        "url": "https://www.elpalaciodehierro.com/wmf-decantador-de-cristal-12633092.html",
+        "price": 2039.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Batidor de globo Profi Plus",
+        "url": "https://www.elpalaciodehierro.com/wmf-batidor-de-globo-profi-plus-44713412.html",
+        "price": 551.65,
+        "model": null
+      }
+    ]
+  },
+  "mercadolibre|WD1600S": {
+    "ts": "2026-08-26T16:13:26.419108+00:00",
+    "items": []
+  },
+  "palacio|HR2263": {
+    "ts": "2026-08-26T16:13:26.720294+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Smartwatch GT 6 Unisex",
+        "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130971.html",
+        "price": 2819.53,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
+        "price": 20783.52,
+        "model": "WM22VV2S6GR"
+      },
+      {
+        "store": "palacio",
+        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
+        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
+        "price": 28943.52,
+        "model": "WD22BV2S6R"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Deportivo Forerunner 570 Azul/Blanco Unisex",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Deportivo vívoactive 6 para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivoactive-6-para-entrenamiento-44529805.html",
+        "price": 6299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
+        "price": 11499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis para Correr Kanagawa Hombre",
+        "url": "https://www.elpalaciodehierro.com/norda-tenis-para-correr-kanagawa-hombre-45316392.html",
+        "price": 6990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis para Correr Kanagawa Hombre",
+        "url": "https://www.elpalaciodehierro.com/norda-tenis-para-correr-kanagawa-hombre-45316410.html",
+        "price": 6990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Deportivo vívoactive 6 para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivoactive-6-para-entrenamiento-44529804.html",
+        "price": 6299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monito deportivo vívoactive 6 para entrenamiento",
+        "url": "https://www.elpalaciodehierro.com/garmin-monito-deportivo-vivoactive-6-para-entrenamiento-44529806.html",
+        "price": 6299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Horno Electrico HGP6065EWAI1 23.6quot en Acero Inoxidable",
+        "url": "https://www.elpalaciodehierro.com/ge-profile-horno-electrico-hgp6065ewai1-23.6quot-en-acero-inoxidable-43793804.html",
+        "price": 23759.34,
+        "model": "HGP6065EWAI1"
+      },
+      {
+        "store": "palacio",
+        "name": "Guitarra eléctrica Streamliner G2622",
+        "url": "https://www.elpalaciodehierro.com/gretsch-guitarra-electrica-streamliner-g2622-45080931.html",
+        "price": 11199.3,
+        "model": "G2622"
+      }
+    ]
+  },
+  "amazon|HR2263": {
+    "ts": "2026-08-26T16:13:27.839593+00:00",
+    "items": []
+  },
+  "walmart|HR2263": {
+    "ts": "2026-08-26T16:13:29.257449+00:00",
+    "items": []
+  },
+  "sams|HR2263": {
+    "ts": "2026-08-26T16:13:30.799906+00:00",
+    "items": []
+  },
+  "mercadolibre|HR2263": {
+    "ts": "2026-08-26T16:13:32.952734+00:00",
+    "items": []
+  },
+  "liverpool|100U7QG": {
+    "ts": "2026-08-26T16:13:34.993917+00:00",
+    "items": []
+  },
+  "amazon|100U7QG": {
+    "ts": "2026-08-26T16:13:38.765116+00:00",
+    "items": []
+  },
+  "walmart|100U7QG": {
+    "ts": "2026-08-26T16:13:40.217798+00:00",
+    "items": []
+  },
+  "sams|100U7QG": {
+    "ts": "2026-08-26T16:13:41.961212+00:00",
+    "items": []
+  },
+  "mercadolibre|100U7QG": {
+    "ts": "2026-08-26T16:13:43.170981+00:00",
+    "items": []
+  },
+  "liverpool|WM25BFXS": {
+    "ts": "2026-08-26T16:13:45.561374+00:00",
+    "items": []
+  },
+  "amazon|WM25BFXS": {
+    "ts": "2026-08-26T16:13:47.081625+00:00",
+    "items": []
+  },
+  "walmart|WM25BFXS": {
+    "ts": "2026-08-26T16:13:49.684177+00:00",
+    "items": []
+  },
+  "sams|WM25BFXS": {
+    "ts": "2026-08-26T16:13:52.337068+00:00",
+    "items": []
+  },
+  "mercadolibre|WM25BFXS": {
+    "ts": "2026-08-26T16:13:54.111037+00:00",
+    "items": []
+  },
+  "palacio|RS20P3GBN": {
+    "ts": "2026-08-26T16:13:54.302373+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Galaxy SmartTag2 negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-galaxy-smarttag2-negro-43520787.html",
+        "price": 295.26,
+        "model": "SmartTag2"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 22 p3 GF22BGSK",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-22-p3-gf22bgsk-44431732.html",
+        "price": 17279.46,
+        "model": "GF22BGSK"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13974.35,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Family Hub Dúplex 22 p3 Black Matte",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-family-hub-duplex-22-p3-black-matte-41544712.html",
+        "price": 31217.34,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 p3 RS27T5200S9 Plata",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-p3-rs27t5200s9-plata-40854949.html",
+        "price": 21401.42,
+        "model": "RS27T5200S9"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Door in Door 28 p3 Bespoke Side by Side RS28CB760A12EM Blanco",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-door-in-door-28-p3-bespoke-side-by-side-rs28cb760a12em-blanco-43134433.html",
+        "price": 32367.32,
+        "model": "RS28CB760A12EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Secadora a gas 22 Kg carga superior DT22EGTX",
+        "url": "https://www.elpalaciodehierro.com/lg-secadora-a-gas-22-kg-carga-superior-dt22egtx-45001057.html",
+        "price": 16429.47,
+        "model": "DT22EGTX"
+      },
+      {
+        "store": "palacio",
+        "name": "Cámara Réflex EOS RP Mirrorless, 24-105mm, 26.2 MP",
+        "url": "https://www.elpalaciodehierro.com/canon-camara-reflex-eos-rp-mirrorless-24-105mm-26.2-mp-42809440.html",
+        "price": 28119.24,
+        "model": "24-105mm"
+      },
+      {
+        "store": "palacio",
+        "name": "Bocina Smart y CD R3B-SG, Wi-Fi Bluetooth 120 V",
+        "url": "https://www.elpalaciodehierro.com/ruark-bocina-smart-y-cd-r3b-sg-wi-fi-bluetooth-120-v-43508971.html",
+        "price": 16799.3,
+        "model": "R3B-SG"
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Unisex Automático Centrix Diamonds Classic Carátula Negra",
+        "url": "https://www.elpalaciodehierro.com/rado-reloj-unisex-automatico-centrix-diamonds-classic-caratula-negra-43124504.html",
+        "price": 51750.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj para hombre Rocky Casual, Negro",
+        "url": "https://www.elpalaciodehierro.com/tommy-hilfiger-reloj-para-hombre-rocky-casual-negro-44864482.html",
+        "price": 3149.3,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Reloj Unisex Automático Centrix Diamonds Classic Carátula Café",
+        "url": "https://www.elpalaciodehierro.com/rado-reloj-unisex-automatico-centrix-diamonds-classic-caratula-cafe-43124494.html",
+        "price": 55350.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RS20P3GBN": {
+    "ts": "2026-08-26T16:13:55.512656+00:00",
+    "items": []
+  },
+  "walmart|RS20P3GBN": {
+    "ts": "2026-08-26T16:13:56.979154+00:00",
+    "items": []
+  },
+  "sams|RS20P3GBN": {
+    "ts": "2026-08-26T16:14:00.709480+00:00",
+    "items": []
+  },
+  "mercadolibre|RS20P3GBN": {
+    "ts": "2026-08-26T16:14:03.947522+00:00",
+    "items": []
+  },
+  "palacio|RR43D6AGX1": {
+    "ts": "2026-08-26T16:14:04.097666+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+        "price": 14639.6,
+        "model": "RMB520IWMRP1"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 32 p3 GM90FIP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-32-p3-gm90fip-45001054.html",
+        "price": 22619.42,
+        "model": "GM90FIP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door, 25 p3 Básico negro",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-basico-negro-44229198.html",
+        "price": 18359.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25 p3 GM65FPP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
+        "price": 19764.41,
+        "model": "GM65FPP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 12979.41,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans Recto Niña",
+        "url": "https://www.elpalaciodehierro.com/mango-jeans-recto-nina-44914357.html",
+        "price": 356.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador dúplex 27 p3 Side by Side VS28LNP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-duplex-27-p3-side-by-side-vs28lnp-44968791.html",
+        "price": 27341.38,
+        "model": "VS28LNP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door Bottom Dark 708 L PFF25LERCDS",
+        "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-french-door-bottom-dark-708-l-pff25lercds-42917670.html",
+        "price": 32767.36,
+        "model": "PFF25LERCDS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 9 p3 Xpert Inverter",
+        "url": "https://www.elpalaciodehierro.com/whirlpool-refrigerador-top-mount-9-p3-xpert-inverter-45106915.html",
+        "price": 12599.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Gemelo, 1020 L, GEMPDF19EBTCDS, Negro",
+        "url": "https://www.elpalaciodehierro.com/ge-profile-refrigerador-gemelo-1020-l-gempdf19ebtcds-negro-42970045.html",
+        "price": 68375.34,
+        "model": "GEMPDF19EBTCDS"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Duplex side-by-side 20.8 p3 KRSC536RJP",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-duplex-side-by-side-20.8-p3-krsc536rjp-45441414.html",
+        "price": 61949.3,
+        "model": "KRSC536RJP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador door in door 22 p3 Side by Side VS23JNT",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-door-in-door-22-p3-side-by-side-vs23jnt-44968790.html",
+        "price": 24359.42,
+        "model": "VS23JNT"
+      }
+    ]
+  },
+  "amazon|RR43D6AGX1": {
+    "ts": "2026-08-26T16:14:06.257605+00:00",
+    "items": []
+  },
+  "walmart|RR43D6AGX1": {
+    "ts": "2026-08-26T16:14:07.731688+00:00",
+    "items": []
+  },
+  "sams|RR43D6AGX1": {
+    "ts": "2026-08-26T16:14:09.026610+00:00",
+    "items": []
+  },
+  "mercadolibre|RR43D6AGX1": {
+    "ts": "2026-08-26T16:14:10.351930+00:00",
+    "items": []
   }
 }
