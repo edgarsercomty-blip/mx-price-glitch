@@ -790,7 +790,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Baseus Bowie MC2 Audífonos Inalámbricos Open Ear con Clip \| …](https://www.amazon.com.mx/dp/B0H1CW5XT4) | $944 | -27% |
 | 🟢 disponible | walmart | [Lavadora Portátil Plegable con Centrifugadora - Capacidad de…](https://www.walmart.com.mx/ip/Lavadora-Portatil-Plegable-con-Centrifugadora-Capacidad-de-12-13-Litros-Solucion-Silenciosa-y-Compacta-para-Ropa-Interior-Ropa-de-Bebe-Calcetines/00088162813722) | $1,387 | -26% |
 | 🟢 disponible | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear con Clip …](https://www.amazon.com.mx/dp/B0H1D82JGT) | $2,000 | -23% |
-| 🟢 disponible | liverpool | [Porta Audifonos In Ear Otterbox](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531) | $199 | -35% |
+| 🟢 disponible | liverpool | [Porta Audifonos In Ear Otterbox](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-otterbox/99983790531) | $699 | -35% |
 | 🟢 disponible | walmart | [Cafetera comercial para bebidas calientes - Doble pared de a…](https://www.walmart.com.mx/ip/cafetera-comercial-para-bebidas-calientes-doble-pared-de-acero-inoxidable-grifo-antigoteo-control-automatico-de-temperatura-16l-4-2gal-ideal-para-catering-bodas-y-bufes/00088162832915) | $2,621 | -26% |
 | 🟢 disponible | liverpool | [Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508) | $54,095 | -22% |
 | 🟢 disponible | liverpool | [Cortina Doble Black Out Xtellar](https://www.liverpool.com.mx/tienda/pdp/cortina-doble-black-out-xtellar/1177778041) | $899 | -20% |
