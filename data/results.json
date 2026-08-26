@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 04:19 UTC",
-  "products_scanned": 1636,
+  "generated_at": "2026-08-26 04:59 UTC",
+  "products_scanned": 1575,
   "threshold_pct": 20.0,
   "count": 32,
   "findings": [
@@ -216,27 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6459.8,
-      "store": "palacio",
-      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
-      "price": 19379.4,
-      "list_price": 32299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45244409",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -401,6 +380,27 @@
       "extra": {
         "id": "45369614",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$3,499 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1090.0,
+      "store": "liverpool",
+      "name": "Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior Lmdx1123Hbab0",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830",
+      "price": 3499.0,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": "Lmdx1123Hbab0",
+      "brand": "MABE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1162817830",
+        "marketplace": null
       }
     },
     {
