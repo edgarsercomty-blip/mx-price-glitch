@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26 13:37 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-26 14:22 UTC",
+  "products_scanned": 1727,
   "threshold_pct": 20.0,
-  "count": 37,
+  "count": 44,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -90,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000830",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 47.9,
       "detail": "$1,364 en liverpool vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -174,6 +153,69 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 767.45,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729905",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 767.45,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729902",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 767.45,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729903",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$3,792 en liverpool vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -212,6 +254,27 @@
       "extra": {
         "productId": "1152344011",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4055.21,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
+      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
+      "price": 10399.2,
+      "list_price": 18570.0,
+      "ean": null,
+      "model": "65Z670RM",
+      "brand": "Toshiba",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45315663",
+        "outlet": false
       }
     },
     {
@@ -300,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6459.8,
-      "store": "palacio",
-      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
-      "price": 19379.4,
-      "list_price": 32299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45244409",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -358,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45558414",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1249.75,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3749.25,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -468,6 +531,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 28.0,
+      "detail": "$2,519 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 804.77,
+      "store": "palacio",
+      "name": "Smartwach Kids 4 Pro Nina",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html",
+      "price": 2519.28,
+      "list_price": 3499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44123334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$3,499 en liverpool vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -494,6 +578,27 @@
       "likely_typo": false,
       "savings": 10799.82,
       "store": "palacio",
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600330",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.82,
+      "store": "palacio",
       "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
       "price": 35399.41,
@@ -511,21 +616,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
+      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 2259.0,
+      "savings": 5938.5,
       "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
+      "name": "Cafetera DG Smeg",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
+      "price": 19795.0,
+      "list_price": 39590.0,
       "ean": null,
       "model": null,
       "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44519347",
+        "id": "44302743",
         "outlet": false
       }
     },
@@ -589,6 +694,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1130251508",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,387 en liverpool vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 651.6,
+      "store": "liverpool",
+      "name": "Licuadora Kitchenaid 7Ksb1325M 3 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527",
+      "price": 2387.4,
+      "list_price": 3979.0,
+      "ean": null,
+      "model": "7Ksb1325M",
+      "brand": "KITCHENAID",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1109351527",
         "marketplace": null
       }
     },
@@ -720,22 +846,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 7349.85,
+      "savings": 919.8,
       "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
       "ean": null,
       "model": null,
-      "brand": "Huawei",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45262437",
+        "id": "44951471",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1798.0,
+      "store": "palacio",
+      "name": "Cafetera Gran Lattissima Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
+      "price": 7192.0,
+      "list_price": 8990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43135869",
         "outlet": false
       }
     },

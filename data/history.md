@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (970)
+# Historial de ofertas encontradas (975)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-26 14:22 | -21% | liverpool | [Licuadora Kitchenaid 7Ksb1325M 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527) | $2,387 | $2,387 en liverpool vs mercado -> -21% bajo la competencia |
+| 2026-08-26 14:22 | -28% | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | $10,399 en palacio vs mercado -> -28% bajo la competencia |
+| 2026-08-26 14:22 | -30% | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $1,799 | $1,799 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-26 14:22 | -30% | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $1,799 | $1,799 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-08-26 14:22 | -30% | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $1,799 | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-08-26 11:46 | -20% | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-26 09:04 | -26% | liverpool | [Congelador Midea Mdrc205Fzm01 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc205fzm01-deshielo-manual-con-drenaje-5-pies-cubicos/1152345832) | $4,320 | $4,320 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-08-26 06:03 | -47% | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | $654 en liverpool vs mercado -> -47% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 07:54 | -28% | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | $1,349 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-08-07 03:35 | -34% | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $519 | $519 en liverpool vs mercado -> -34% bajo la competencia |
 | 2026-08-06 15:30 | -20% | palacio | [Celular Moto Edge 60 fusion, RAM 8 GB, 256 GB mocha mou…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-ram-8-gb-256-gb-mocha-mousse-desbloqueado-44951467.html) | $7,199 | $7,199 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-06 15:30 | -20% | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | $10,639 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-06 11:35 | -20% | palacio | [Celular Moto Signature 1 TB, 16 GB RAM olivo, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-signature-1-tb-16-gb-ram-olivo-desbloqueado-45260351.html) | $23,999 | $23,999 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-06 11:35 | -21% | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | $475 en liverpool vs mercado -> -21% bajo la competencia |
-| 2026-08-06 11:35 | -22% | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | $13,859 en liverpool vs mercado -> -22% bajo la competencia |
-| 2026-08-06 09:09 | -35% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | $7,149 en palacio vs mercado -> -35% bajo la competencia |
