@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (969)
+# Historial de ofertas encontradas (970)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-26 11:46 | -20% | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-26 09:04 | -26% | liverpool | [Congelador Midea Mdrc205Fzm01 Deshielo Manual Con Drena…](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc205fzm01-deshielo-manual-con-drenaje-5-pies-cubicos/1152345832) | $4,320 | $4,320 en liverpool vs mercado -> -26% bajo la competencia |
 | 2026-08-26 06:03 | -47% | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | $654 en liverpool vs mercado -> -47% bajo la competencia |
 | 2026-08-26 05:35 | -23% | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $399 | $399 en liverpool vs mercado -> -23% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-06 11:35 | -21% | liverpool | [Set Toallas Cocina 4 Piezas](https://www.liverpool.com.mx/tienda/pdp/set-toallas-cocina-4-piezas/1168713092) | $475 | $475 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-06 11:35 | -22% | liverpool | [Refrigerador French Door Tcl 18 Pies Cubicos Inverter Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-french-door-tcl-18-pies-cubicos-inverter-y-no-frost-tfr18si/1166524551) | $13,859 | $13,859 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-06 09:09 | -35% | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloquead…](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $7,149 | $7,149 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-08-06 09:09 | -41% | liverpool | [Pantalla Smart Tv Hisense Qled De 50 Pulgadas 4K Uhd 50…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-50-pulgadas-4k-uhd-50qd6sfm-con-ai-smooth-motion/1197753044) | $6,999 | $6,999 en liverpool vs mercado -> -41% bajo la competencia |

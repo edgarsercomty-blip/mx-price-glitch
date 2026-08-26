@@ -1,4 +1,4 @@
-# Productos en vigilancia (799)
+# Productos en vigilancia (800)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -803,3 +803,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $399 | -23% |
 | 🟢 disponible | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $653 | -45% |
 | 🟢 disponible | liverpool | [Congelador Midea Mdrc205Fzm01 Deshielo Manual Con Drenaje 5 …](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc205fzm01-deshielo-manual-con-drenaje-5-pies-cubicos/1152345832) | $4,320 | -26% |
+| 🟢 disponible | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | -20% |
