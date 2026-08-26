@@ -699,7 +699,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clase 10,…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | -35% |
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |
 | 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12mm Di…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | -21% |
-| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $17,499 | -27% |
+| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $14,999 | -27% |
 | 🟢 disponible | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | -21% |
 | 🟢 disponible | sams | [Kit de Impresora Canon Ivy Mini Portátil Blanca + Paquete de…](https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145) | $1,022 | -52% |
 | 🟢 disponible | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $6,136 | -20% |
@@ -801,4 +801,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | -29% |
 | 🟢 disponible | liverpool | [Licuadora Blst412813 Oster Dorado](https://www.liverpool.com.mx/tienda/pdp/licuadora-blst412813-oster-dorado/1166351762) | $1,998 | -40% |
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $399 | -23% |
-| 🟢 disponible | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | -47% |
+| 🟢 disponible | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | -45% |

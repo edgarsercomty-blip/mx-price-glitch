@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 06:03 UTC",
-  "products_scanned": 1573,
+  "generated_at": "2026-08-26 07:10 UTC",
+  "products_scanned": 1560,
   "threshold_pct": 20.0,
   "count": 34,
   "findings": [
@@ -28,9 +28,9 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 62.7,
-      "detail": "$654 en liverpool vs mercado -> -47% bajo la competencia",
+      "detail": "$654 en liverpool vs mercado -> -45% bajo la competencia",
       "likely_typo": false,
-      "savings": 576.82,
+      "savings": 530.54,
       "store": "liverpool",
       "name": "Smartwatch Generica Para Mujer Con Gps",
       "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682",
@@ -510,27 +510,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$54,095 en liverpool vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 15697.34,
-      "store": "liverpool",
-      "name": "Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y Fabrica De Hielo Gemidf25Eyrcfs",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508",
-      "price": 54095.44,
-      "list_price": 96599.0,
-      "ean": null,
-      "model": "Gemidf25Eyrcfs",
-      "brand": "IO MABE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1130251508",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -653,6 +632,27 @@
       "extra": {
         "productId": "1152344011",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 919.8,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3679.2,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
       }
     },
     {

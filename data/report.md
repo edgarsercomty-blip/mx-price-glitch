@@ -1,12 +1,11 @@
-# Errores/chollos de precio — 2026-08-26 06:03 UTC
+# Errores/chollos de precio — 2026-08-26 07:10 UTC
 
-- Productos revisados: **1573**
+- Productos revisados: **1560**
 - Umbral de diferencia: **20%**
 - Hallazgos: **34**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -22% | $15,697 | liverpool | [Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508) | $54,095 | Confirmado vs competencia | $54,095 en liverpool vs mercado -> -22% bajo la competencia |
 | -35% | $11,624 | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | Confirmado vs competencia | $21,375 en palacio vs walmart $32,999 -> -35% bajo la competencia |
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
@@ -32,11 +31,12 @@
 | -20% | $1,199 | liverpool | [Congelador Midea Mdrc280Fzm30 Deshielo Manual Con Drenaje 7 …](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc280fzm30-deshielo-manual-con-drenaje-7-pies-cubicos/1152344011) | $4,800 | Confirmado vs competencia | $4,800 en liverpool vs amazon $5,999 -> -20% bajo la competencia |
 | -24% | $1,090 | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $3,499 | Confirmado vs competencia | $3,499 en liverpool vs mercado -> -24% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
+| -20% | $920 | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | Confirmado vs competencia | $3,679 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -27% | $800 | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $600 | liverpool | [Smartwatch Xiaomi Watch S3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-watch-s3-unisex-con-gps/1165916841) | $1,364 | Confirmado vs competencia | $1,364 en liverpool vs mercado -> -30% bajo la competencia |
-| -47% | $577 | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | Confirmado vs competencia | $654 en liverpool vs mercado -> -47% bajo la competencia |
+| -45% | $531 | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $654 | Confirmado vs competencia | $654 en liverpool vs mercado -> -45% bajo la competencia |
 | -20% | $200 | liverpool | [Smartband Reebok Rbk](https://www.liverpool.com.mx/tienda/pdp/smartband-reebok-rbk/1196432023) | $799 | Confirmado vs competencia | $799 en liverpool vs mercado -> -20% bajo la competencia |
 | -23% | $120 | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -23% bajo la competencia |
