@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 12:31 UTC",
-  "products_scanned": 1570,
+  "generated_at": "2026-08-26 13:37 UTC",
+  "products_scanned": 1623,
   "threshold_pct": 20.0,
   "count": 37,
   "findings": [
@@ -23,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 62.7,
-      "detail": "$653 en liverpool vs mercado -> -45% bajo la competencia",
-      "likely_typo": false,
-      "savings": 531.14,
-      "store": "liverpool",
-      "name": "Smartwatch Generica Para Mujer Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682",
-      "price": 652.99,
-      "list_price": 1750.0,
-      "ean": null,
-      "model": null,
-      "brand": "GENÉRICA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "999680512682",
-        "marketplace": null
       }
     },
     {
@@ -673,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
         "outlet": false
       }
     },
