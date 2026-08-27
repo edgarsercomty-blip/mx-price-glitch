@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (977)
+# Historial de ofertas encontradas (979)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-27 14:36 | -20% | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD …](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $11,060 | $11,060 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-08-27 14:36 | -40% | liverpool | [Laptop 2 En 1 Touch Lenovo Ideapad Slim 3 15Irh10 15 3 …](https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-lenovo-ideapad-slim-3-15irh10-15-3-pulgadas-hd-intel-core-i5-intel-uhd-graphics-8-gb-ram-512-gb-ssd/999679929364) | $12,678 | $12,678 en liverpool vs mercado -> -40% bajo la competencia |
 | 2026-08-27 10:51 | -28% | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,199 | $5,199 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-08-26 16:14 | -33% | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART …](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $21,000 | $21,000 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-26 14:22 | -21% | liverpool | [Licuadora Kitchenaid 7Ksb1325M 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527) | $2,387 | $2,387 en liverpool vs mercado -> -21% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 07:54 | -21% | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | $6,313 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-08-07 07:54 | -22% | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | $2,520 en palacio vs mercado -> -22% bajo la competencia |
 | 2026-08-07 07:54 | -24% | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | $5,142 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-08-07 07:54 | -24% | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | $2,519 en palacio vs mercado -> -24% bajo la competencia |
-| 2026-08-07 07:54 | -28% | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | $1,349 en palacio vs mercado -> -28% bajo la competencia |

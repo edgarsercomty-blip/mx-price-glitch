@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-08-27 10:51 UTC",
-  "products_scanned": 1546,
+  "generated_at": "2026-08-27 14:36 UTC",
+  "products_scanned": 1665,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 39,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1279.6,
+      "store": "palacio",
+      "name": "Licuadora HR2244 91 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
+      "price": 1119.65,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": "HR2244",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215652",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -48,6 +69,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 42.4,
+      "detail": "$12,678 en liverpool vs mercado -> -40% bajo la competencia",
+      "likely_typo": false,
+      "savings": 8521.2,
+      "store": "liverpool",
+      "name": "Laptop 2 En 1 Touch Lenovo Ideapad Slim 3 15Irh10 15 3 Pulgadas Hd Intel Core I5 Intel Uhd Graphics 8 Gb Ram 512 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-lenovo-ideapad-slim-3-15irh10-15-3-pulgadas-hd-intel-core-i5-intel-uhd-graphics-8-gb-ram-512-gb-ssd/999679929364",
+      "price": 12678.0,
+      "list_price": 21999.0,
+      "ean": null,
+      "model": "15Irh10",
+      "brand": "LENOVO",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "999679929364",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
       "likely_typo": false,
@@ -65,27 +107,6 @@
       "extra": {
         "productId": "1172657709",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$21,000 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10499.72,
-      "store": "palacio",
-      "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
-      "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html",
-      "price": 20999.58,
-      "list_price": 49999.0,
-      "ean": null,
-      "model": "QNED92",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44776799",
-        "outlet": false
       }
     },
     {
@@ -111,22 +132,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 4499.7,
+      "savings": 767.45,
       "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
       "ean": null,
       "model": null,
-      "brand": "Apple",
+      "brand": "KitchenAid",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "42824648",
+        "id": "44729903",
         "outlet": false
       }
     },
@@ -174,48 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729903",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,792 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1579.8,
-      "store": "liverpool",
-      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
-      "price": 3791.52,
-      "list_price": 4739.4,
-      "ean": null,
-      "model": "Mt100W150",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152345921",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -253,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1181496939",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,792 en liverpool vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1411.95,
+      "store": "liverpool",
+      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
+      "price": 3791.52,
+      "list_price": 4739.4,
+      "ean": null,
+      "model": "Mt100W150",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152345921",
         "marketplace": null
       }
     },
@@ -384,6 +384,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2522.17,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+      "price": 7746.2,
+      "list_price": 16299.0,
+      "ean": null,
+      "model": "50Qd8Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197752251",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 32.0,
       "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -400,6 +421,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45369608",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11021.78,
+      "store": "palacio",
+      "name": "Laptop, Zenbook S, 16\", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html",
+      "price": 34067.32,
+      "list_price": 50099.0,
+      "ean": null,
+      "model": null,
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45369614",
         "outlet": false
       }
     },
@@ -468,27 +510,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 0.0,
       "detail": "$399 en liverpool vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -531,23 +552,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$54,095 en liverpool vs mercado -> -22% bajo la competencia",
+      "discount_pct": 36.0,
+      "detail": "$21,375 en palacio vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
-      "savings": 15697.34,
-      "store": "liverpool",
-      "name": "Refrigerador Bottom Mount Io Mabe 48 Pies Cubicos No Frost Y Fabrica De Hielo Gemidf25Eyrcfs",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-io-mabe-48-pies-cubicos-no-frost-y-fabrica-de-hielo-gemidf25eyrcfs/1130251508",
-      "price": 54095.44,
-      "list_price": 96599.0,
+      "savings": 6011.82,
+      "store": "palacio",
+      "name": "Laptop TUF FA607NUQ-RL038W R7, 16\", AMD Ryzen 7 170, 16 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html",
+      "price": 21375.36,
+      "list_price": 33399.0,
       "ean": null,
-      "model": "Gemidf25Eyrcfs",
-      "brand": "IO MABE",
+      "model": "FA607NUQ-RL038W",
+      "brand": "Asus",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1130251508",
-        "marketplace": null
+        "id": "45650688",
+        "outlet": false
       }
     },
     {
@@ -568,6 +589,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366544",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2079.84,
+      "store": "palacio",
+      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
+      "price": 7799.4,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262441",
         "outlet": false
       }
     },
@@ -615,6 +657,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 5.0,
+      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.65,
+      "store": "liverpool",
+      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
+      "price": 12799.35,
+      "list_price": 13473.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173032684",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$1,039 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -636,23 +699,44 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 5.0,
-      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$559 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3199.65,
+      "savings": 139.8,
       "store": "liverpool",
-      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
-      "price": 12799.35,
-      "list_price": 13473.0,
+      "name": "Correa Para Smartwatch Spigen",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144",
+      "price": 559.2,
+      "list_price": 699.0,
       "ean": null,
       "model": null,
-      "brand": "APPLE",
+      "brand": "SPIGEN",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1173032684",
+        "productId": "1159846144",
         "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$11,060 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2765.05,
+      "store": "palacio",
+      "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
+      "price": 11060.2,
+      "list_price": 16265.0,
+      "ean": null,
+      "model": "15FD0161LA",
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45371050",
+        "outlet": false
       }
     },
     {
@@ -678,22 +762,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 7349.85,
+      "savings": 1798.0,
       "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
+      "name": "Cafetera Gran Lattissima Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
+      "price": 7192.0,
+      "list_price": 8990.0,
       "ean": null,
       "model": null,
-      "brand": "Huawei",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45262437",
+        "id": "43135869",
         "outlet": false
       }
     },
@@ -715,6 +799,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     }
