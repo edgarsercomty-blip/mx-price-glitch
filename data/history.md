@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (976)
+# Historial de ofertas encontradas (977)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-27 10:51 | -28% | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,199 | $5,199 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-08-26 16:14 | -33% | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART …](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $21,000 | $21,000 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-26 14:22 | -21% | liverpool | [Licuadora Kitchenaid 7Ksb1325M 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527) | $2,387 | $2,387 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-26 14:22 | -28% | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | $10,399 en palacio vs mercado -> -28% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 07:54 | -24% | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-08-07 07:54 | -24% | palacio | [Smartwach Kids 4 Pro Nina](https://www.elpalaciodehierro.com/huawei-smartwach-kids-4-pro-nina-44123334.html) | $2,519 | $2,519 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-08-07 07:54 | -28% | palacio | [Smartwatch Fit 3 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-fit-3-unisex-44123344.html) | $1,349 | $1,349 en palacio vs mercado -> -28% bajo la competencia |
-| 2026-08-07 03:35 | -34% | liverpool | [Smartwatch Lab G Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-lab-g-unisex-con-gps/1190794349) | $519 | $519 en liverpool vs mercado -> -34% bajo la competencia |
