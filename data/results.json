@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26 22:18 UTC",
-  "products_scanned": 1598,
+  "generated_at": "2026-08-27 03:23 UTC",
+  "products_scanned": 1580,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -112,27 +112,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4499.7,
-      "store": "palacio",
-      "name": "iPhone 14 128 GB Blanco Estrella Telcel",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html",
-      "price": 10499.3,
-      "list_price": 14999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42824648",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$9,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 3899.7,
@@ -212,27 +191,6 @@
       "extra": {
         "id": "44729902",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,792 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1579.8,
-      "store": "liverpool",
-      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
-      "price": 3791.52,
-      "list_price": 4739.4,
-      "ean": null,
-      "model": "Mt100W150",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152345921",
-        "marketplace": null
       }
     },
     {
@@ -660,7 +618,7 @@
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1699.74,
+      "savings": 1685.58,
       "store": "palacio",
       "name": "Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX",
       "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html",
