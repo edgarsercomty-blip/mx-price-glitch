@@ -1,14 +1,13 @@
-# Errores/chollos de precio — 2026-08-28 00:12 UTC
+# Errores/chollos de precio — 2026-08-28 08:34 UTC
 
-- Productos revisados: **1574**
+- Productos revisados: **1623**
 - Umbral de diferencia: **20%**
-- Hallazgos: **36**
+- Hallazgos: **34**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -24% | $11,022 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -24% bajo la competencia |
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
-| -22% | $6,012 | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $21,375 | Confirmado vs competencia | $21,375 en palacio vs mercado -> -22% bajo la competencia |
 | -43% | $6,000 | liverpool | [Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351) | $7,999 | Confirmado vs competencia | $7,999 en liverpool vs mercado -> -43% bajo la competencia |
 | -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
@@ -24,7 +23,7 @@
 | -28% | $1,981 | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integrada…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,199 | Confirmado vs competencia | $5,199 en liverpool vs mercado -> -28% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
-| -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| -21% | $1,700 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
 | -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -53% | $1,280 | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | Confirmado vs competencia | $1,120 en palacio vs mercado -> -53% bajo la competencia |
@@ -38,7 +37,6 @@
 | -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $767 | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
-| -43% | $485 | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $652 | Confirmado vs competencia | $652 en liverpool vs mercado -> -43% bajo la competencia |
 | -20% | $260 | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | Confirmado vs competencia | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
+| -27% | $243 | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $652 | Confirmado vs competencia | $652 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $140 | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | Confirmado vs competencia | $559 en liverpool vs mercado -> -20% bajo la competencia |
-| -23% | $120 | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $399 | Confirmado vs competencia | $399 en liverpool vs mercado -> -23% bajo la competencia |
