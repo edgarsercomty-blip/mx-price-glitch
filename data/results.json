@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-28 20:22 UTC",
-  "products_scanned": 1621,
+  "generated_at": "2026-08-28 23:50 UTC",
+  "products_scanned": 1627,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 31,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 65.0,
-      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1279.6,
-      "store": "palacio",
-      "name": "Licuadora HR2244 91 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
-      "price": 1119.65,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": "HR2244",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45215652",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -44,27 +23,6 @@
       "extra": {
         "id": "43394466",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.1,
-      "detail": "$7,999 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6000.44,
-      "store": "liverpool",
-      "name": "Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351",
-      "price": 7999.0,
-      "list_price": 15399.0,
-      "ean": null,
-      "model": "Wt18Dv6",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1188874351",
-        "marketplace": null
       }
     },
     {
@@ -195,27 +153,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$6,929 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2749.75,
-      "store": "palacio",
-      "name": "Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html",
-      "price": 6929.37,
-      "list_price": 10999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45421529",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -258,27 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$9,599 en palacio vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3519.78,
-      "store": "palacio",
-      "name": "Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html",
-      "price": 9599.4,
-      "list_price": 15999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45273257",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 26.7,
       "detail": "$2,199 en liverpool vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -316,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45384039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.8,
+      "store": "palacio",
+      "name": "Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273257",
         "outlet": false
       }
     },
@@ -448,27 +385,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 32.0,
-      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3761.78,
-      "store": "palacio",
-      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
-      "price": 11627.32,
-      "list_price": 17099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
       "detail": "$34,067 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
       "savings": 11021.78,
@@ -531,27 +447,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 0.0,
-      "detail": "$399 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 120.0,
-      "store": "liverpool",
-      "name": "Cafetera De Goteo Oster Bvstdcs51B Ne",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931",
-      "price": 399.0,
-      "list_price": 399.0,
-      "ean": null,
-      "model": "Bvstdcs51B",
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1194721931",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -569,27 +464,6 @@
       "extra": {
         "productId": "1201664248",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.0,
-      "detail": "$11,969 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3229.83,
-      "store": "palacio",
-      "name": "Celular Razr 60, 512 GB, RAM 12 GB, Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-60-512-gb-ram-12-gb-azul-desbloqueado-44616285.html",
-      "price": 11969.37,
-      "list_price": 18999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44616285",
-        "outlet": false
       }
     },
     {
@@ -653,6 +527,27 @@
       "extra": {
         "id": "44824190",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 5.0,
+      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.65,
+      "store": "liverpool",
+      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
+      "price": 12799.35,
+      "list_price": 13473.0,
+      "ean": null,
+      "model": null,
+      "brand": "APPLE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1173032684",
+        "marketplace": null
       }
     },
     {
