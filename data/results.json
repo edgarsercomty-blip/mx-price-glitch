@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28 08:34 UTC",
-  "products_scanned": 1623,
+  "generated_at": "2026-08-28 12:26 UTC",
+  "products_scanned": 1573,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 32,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,22 +48,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.1,
-      "detail": "$7,999 en liverpool vs mercado -> -43% bajo la competencia",
+      "discount_pct": 41.7,
+      "detail": "$1,998 en liverpool vs mercado -> -40% bajo la competencia",
       "likely_typo": false,
-      "savings": 6000.44,
+      "savings": 1331.0,
       "store": "liverpool",
-      "name": "Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351",
-      "price": 7999.0,
-      "list_price": 15399.0,
+      "name": "Licuadora Blst412813 Oster Dorado",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-blst412813-oster-dorado/1166351762",
+      "price": 1998.0,
+      "list_price": 3429.0,
       "ean": null,
-      "model": "Wt18Dv6",
-      "brand": "LG",
+      "model": "Blst412813",
+      "brand": "OSTER",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1188874351",
+        "productId": "1166351762",
         "marketplace": null
       }
     },
@@ -116,27 +116,6 @@
       "likely_typo": false,
       "savings": 767.45,
       "store": "palacio",
-      "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729902",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
       "name": "Licuadora Pure Power 10 velocidades",
       "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html",
       "price": 1799.4,
@@ -148,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44729905",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 767.45,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729902",
         "outlet": false
       }
     },
@@ -280,27 +280,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,089 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1029.75,
@@ -316,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43926491",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1249.75,
+      "store": "palacio",
+      "name": "Licuadora Xpert Series 9 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
+      "price": 3749.25,
+      "list_price": 4999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Oster",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42107714",
         "outlet": false
       }
     },
@@ -358,27 +358,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1186067394",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.5,
-      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2522.17,
-      "store": "liverpool",
-      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
-      "price": 7746.2,
-      "list_price": 16299.0,
-      "ean": null,
-      "model": "50Qd8Sfm",
-      "brand": "HISENSE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1197752251",
         "marketplace": null
       }
     },
@@ -489,6 +468,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 0.0,
+      "detail": "$399 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 120.0,
+      "store": "liverpool",
+      "name": "Cafetera De Goteo Oster Bvstdcs51B Ne",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931",
+      "price": 399.0,
+      "list_price": 399.0,
+      "ean": null,
+      "model": "Bvstdcs51B",
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1194721931",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$9,911 en liverpool vs mercado -> -22% bajo la competencia",
       "likely_typo": false,
@@ -513,7 +513,7 @@
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1699.74,
+      "savings": 1685.58,
       "store": "palacio",
       "name": "Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX",
       "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html",
@@ -569,48 +569,6 @@
       "extra": {
         "id": "44824190",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$1,039 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.8,
-      "store": "liverpool",
-      "name": "Kit Smartwatch Reebok Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612",
-      "price": 1039.2,
-      "list_price": 1299.0,
-      "ean": null,
-      "model": null,
-      "brand": "REEBOK",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1196431612",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$559 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 139.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Spigen",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144",
-      "price": 559.2,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "SPIGEN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1159846144",
-        "marketplace": null
       }
     },
     {
@@ -683,27 +641,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
       "price": 3199.2,
@@ -715,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001063",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001062",
         "outlet": false
       }
     }

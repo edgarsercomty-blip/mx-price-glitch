@@ -155,42 +155,6 @@
     "ts": "2026-08-28T08:34:50.275368+00:00",
     "items": []
   },
-  "amazon|MDRC280FZM30": {
-    "ts": "2026-08-26T09:04:03.085558+00:00",
-    "items": []
-  },
-  "walmart|MDRC280FZM30": {
-    "ts": "2026-08-26T09:04:04.754720+00:00",
-    "items": []
-  },
-  "sams|MDRC280FZM30": {
-    "ts": "2026-08-26T09:04:06.533569+00:00",
-    "items": []
-  },
-  "amazon|MDRC205FZM01": {
-    "ts": "2026-08-26T09:04:08.493688+00:00",
-    "items": []
-  },
-  "walmart|MDRC205FZM01": {
-    "ts": "2026-08-26T09:04:09.932873+00:00",
-    "items": []
-  },
-  "sams|MDRC205FZM01": {
-    "ts": "2026-08-26T09:04:11.463679+00:00",
-    "items": []
-  },
-  "amazon|MFCD09P2NABW": {
-    "ts": "2026-08-26T09:04:12.859172+00:00",
-    "items": []
-  },
-  "walmart|MFCD09P2NABW": {
-    "ts": "2026-08-26T09:04:14.499160+00:00",
-    "items": []
-  },
-  "sams|MFCD09P2NABW": {
-    "ts": "2026-08-26T09:04:16.035723+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-08-26T16:03:44.069283+00:00",
     "items": []
@@ -336,27 +300,15 @@
     "items": []
   },
   "amazon|ASUSZENBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-26T11:04:51.531755+00:00",
+    "ts": "2026-08-28T12:26:53.623713+00:00",
     "items": []
   },
   "walmart|ASUSZENBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-26T11:04:53.168717+00:00",
+    "ts": "2026-08-28T12:26:55.328134+00:00",
     "items": []
   },
   "sams|ASUSZENBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-26T11:04:55.523616+00:00",
-    "items": []
-  },
-  "amazon|REEBOKSMARTWATCHREEBOKGPS": {
-    "ts": "2026-08-26T11:46:42.325327+00:00",
-    "items": []
-  },
-  "walmart|REEBOKSMARTWATCHREEBOKGPS": {
-    "ts": "2026-08-26T11:46:43.937214+00:00",
-    "items": []
-  },
-  "sams|REEBOKSMARTWATCHREEBOKGPS": {
-    "ts": "2026-08-26T11:46:45.832694+00:00",
+    "ts": "2026-08-28T12:26:57.418426+00:00",
     "items": []
   },
   "amazon|65Z670RM": {
@@ -2008,6 +1960,470 @@
   },
   "mercadolibre|12CHSD": {
     "ts": "2026-08-28T00:12:36.530732+00:00",
+    "items": []
+  },
+  "palacio|65QNED81BSG": {
+    "ts": "2026-08-28T12:25:48.612272+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Mini-LED 4K UN65M80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-mini-led-4k-un65m80hafxzx-45368302.html",
+        "price": 13499.01,
+        "model": "UN65M80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana Mini-LED 4K Google TV 65QM7L SQD",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-mini-led-4k-google-tv-65qm7l-sqd-45360022.html",
+        "price": 18289.41,
+        "model": "65QM7L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Crystal 4K UN65U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-crystal-4k-un65u8500hfxzx-45366548.html",
+        "price": 10798.83,
+        "model": "UN65U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED85 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned85-4k-smart-tv-2025-44633940.html",
+        "price": 21239.41,
+        "model": "QNED85"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q6k-44576454.html",
+        "price": 10087.48,
+        "model": "65Q6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
+        "price": 35998.83,
+        "model": "MRN65R85HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Apple TV Tercera Generacion 4K 64 GB Wi-Fi, Negro",
+        "url": "https://www.elpalaciodehierro.com/apple-apple-tv-tercera-generacion-4k-64-gb-wi-fi-negro-42903548.html",
+        "price": 4299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
+        "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
+        "price": 10399.2,
+        "model": "65Z670RM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-85-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44777571.html",
+        "price": 33599.58,
+        "model": "QNED92"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 2025",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html",
+        "price": 20999.58,
+        "model": "QNED92"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
+        "price": 17913.06,
+        "model": "QN55QN80HAFXZX"
+      }
+    ]
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-08-28T12:25:50.126103+00:00",
+    "items": []
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-08-28T12:25:51.512788+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-08-28T12:25:52.732225+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED81BSG": {
+    "ts": "2026-08-28T12:25:53.951699+00:00",
+    "items": []
+  },
+  "palacio|98Q7K": {
+    "ts": "2026-08-28T12:25:56.315036+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Fire TV 98QM64L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-fire-tv-98qm64l-45360020.html",
+        "price": 41999.3,
+        "model": "98QM64L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 100 Pulgadas Plana Hi-QLED 4K 100QD6SFM",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-hi-qled-4k-100qd6sfm-45464467.html",
+        "price": 33599.44,
+        "model": "100QD6SFM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html",
+        "price": 30239.44,
+        "model": "98A400"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 86 Pulgadas Plana QNED 4K 86QNED82ASG",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-86-pulgadas-plana-qned-4k-86qned82asg-44633929.html",
+        "price": 22799.62,
+        "model": "86QNED82ASG"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 115 pulgadas Plana LED 4K AiPQ Pro Quad Core 115QM891G",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-115-pulgadas-plana-led-4k-aipq-pro-quad-core-115qm891g-44576116.html",
+        "price": 282351.44,
+        "model": "115QM891G"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-Mini LED 98QM6K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-mini-led-98qm6k-44576133.html",
+        "price": 40819.48,
+        "model": "98QM6K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 75 Pulgadas Plana Neo QLED 4K QN75QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-neo-qled-4k-qn75qn80hafxzx-45367573.html",
+        "price": 31999.1,
+        "model": "QN75QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 pulgadas 98QM7L SQD-Mini LED",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-98qm7l-sqd-mini-led-45360024.html",
+        "price": 55999.3,
+        "model": "98QM7L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QD-MINILED Google TV 98Qm7K",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-qd-miniled-google-tv-98qm7k-44589396.html",
+        "price": 55327.44,
+        "model": "98Qm7K"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 98 Pulgadas Plana QLED 4K",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-98-pulgadas-plana-qled-4k-45699577.html",
+        "price": 128570.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 86 Pulgadas Plana OLED 4K Micro RGB 86MRGB95BSA",
+        "url": "https://www.elpalaciodehierro.com/lg-pantalla-86-pulgadas-plana-oled-4k-micro-rgb-86mrgb95bsa-45464471.html",
+        "price": 83999.3,
+        "model": "86MRGB95BSA"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 85 Pulgadas Plana Mini-LED 4K UN85M80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-mini-led-4k-un85m80hafxzx-45368364.html",
+        "price": 23398.83,
+        "model": "UN85M80HAFXZX"
+      }
+    ]
+  },
+  "amazon|98Q7K": {
+    "ts": "2026-08-28T12:25:59.334744+00:00",
+    "items": []
+  },
+  "walmart|98Q7K": {
+    "ts": "2026-08-28T12:26:01.165729+00:00",
+    "items": []
+  },
+  "sams|98Q7K": {
+    "ts": "2026-08-28T12:26:03.228187+00:00",
+    "items": []
+  },
+  "mercadolibre|98Q7K": {
+    "ts": "2026-08-28T12:26:04.318061+00:00",
+    "items": []
+  },
+  "liverpool|65QNED9MASA": {
+    "ts": "2026-08-28T12:26:12.866749+00:00",
+    "items": []
+  },
+  "amazon|65QNED9MASA": {
+    "ts": "2026-08-28T12:26:14.314141+00:00",
+    "items": []
+  },
+  "walmart|65QNED9MASA": {
+    "ts": "2026-08-28T12:26:16.338553+00:00",
+    "items": []
+  },
+  "sams|65QNED9MASA": {
+    "ts": "2026-08-28T12:26:18.485347+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED9MASA": {
+    "ts": "2026-08-28T12:26:19.599783+00:00",
+    "items": []
+  },
+  "palacio|RT14N6CDX": {
+    "ts": "2026-08-28T12:26:19.781085+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door, 25 p3 Básico negro",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-basico-negro-44229198.html",
+        "price": 18359.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 p3 RS27T5200S9 Plata",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-p3-rs27t5200s9-plata-40854949.html",
+        "price": 21401.42,
+        "model": "RS27T5200S9"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 20 p3 LT57BPSX Plata",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-mount-20-p3-lt57bpsx-plata-43815235.html",
+        "price": 12979.41,
+        "model": "LT57BPSX"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop ROG G615JMR-RV279W, 16\", Ci7 Intel Core i7, 16 GB, SSD 1 TB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-rog-g615jmr-rv279w-16-ci7-intel-core-i7-16-gb-ssd-1-tb-45650687.html",
+        "price": 32399.19,
+        "model": "G615JMR-RV279W"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount de 15 p3, TMF, RT42DG6774S9EM acero inoxidable",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-de-15-p3-tmf-rt42dg6774s9em-acero-inoxidable-43689718.html",
+        "price": 13974.35,
+        "model": "RT42DG6774S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25 p3 GM65FPP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
+        "price": 19764.41,
+        "model": "GM65FPP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
+        "price": 13844.35,
+        "model": "RT42DG6734B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor Gamer 27 Pulgadas Plana 4K G7 LS27FG702ELXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-monitor-gamer-27-pulgadas-plana-4k-g7-ls27fg702elxzx-45191529.html",
+        "price": 11004.29,
+        "model": "LS27FG702ELXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador door in door 27 p3 Side by Side VS28XCT",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-door-in-door-27-p3-side-by-side-vs28xct-44968793.html",
+        "price": 39352.41,
+        "model": "VS28XCT"
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor gamer 27 pulgadas curva LED TUF Gaming Full HD 180 Hz VG27VQ3B",
+        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-27-pulgadas-curva-led-tuf-gaming-full-hd-180-hz-vg27vq3b-44875867.html",
+        "price": 5399.1,
+        "model": "VG27VQ3B"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor 27 Pulgadas Oled QHD 27GX790A B AWM",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-27-pulgadas-oled-qhd-27gx790a-b-awm-45081045.html",
+        "price": 14999.4,
+        "model": "27GX790A"
+      }
+    ]
+  },
+  "amazon|RT14N6CDX": {
+    "ts": "2026-08-28T12:26:20.903905+00:00",
+    "items": []
+  },
+  "walmart|RT14N6CDX": {
+    "ts": "2026-08-28T12:26:22.206947+00:00",
+    "items": []
+  },
+  "sams|RT14N6CDX": {
+    "ts": "2026-08-28T12:26:23.579091+00:00",
+    "items": []
+  },
+  "mercadolibre|RT14N6CDX": {
+    "ts": "2026-08-28T12:26:25.325862+00:00",
+    "items": []
+  },
+  "palacio|RB15N6FBX1": {
+    "ts": "2026-08-28T12:26:25.553604+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door, 25 p3 Básico negro",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-basico-negro-44229198.html",
+        "price": 18359.49,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25 p3 GM65FPP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
+        "price": 19764.41,
+        "model": "GM65FPP"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans de corte Recto Bebé",
+        "url": "https://www.elpalaciodehierro.com/polo-ralph-lauren-jeans-de-corte-recto-bebe-43495166.html",
+        "price": 719.2,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Bottom Mount 15 p3 RMB400IBMRP0 Negro",
+        "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrp0-negro-41539023.html",
+        "price": 16103.39,
+        "model": "RMB400IBMRP0"
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans regular Bebé",
+        "url": "https://www.elpalaciodehierro.com/tommy-hilfiger-jeans-regular-bebe-44964752.html",
+        "price": 1299.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
+        "price": 13844.35,
+        "model": "RT42DG6734B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis casuales con cuadros Hombre",
+        "url": "https://www.elpalaciodehierro.com/burberry-tenis-casuales-con-cuadros-hombre-44183997.html",
+        "price": 15490.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Tenis casuales en piel Knight Hombre",
+        "url": "https://www.elpalaciodehierro.com/burberry-tenis-casuales-en-piel-knight-hombre-45508428.html",
+        "price": 15990.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25.8 p",
+        "url": "https://www.elpalaciodehierro.com/kitchenaid-refrigerador-french-door-25.8-p-37265890.html",
+        "price": 125225.8,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Panel Superior para Refrigerador Bespoke Flex French Door de 29 p3",
+        "url": "https://www.elpalaciodehierro.com/samsung-panel-superior-para-refrigerador-bespoke-flex-french-door-de-29-p3-42685424.html",
+        "price": 599.7,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Jeans Slim Hombre",
+        "url": "https://www.elpalaciodehierro.com/burberry-jeans-slim-hombre-45509173.html",
+        "price": 16490.0,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RB15N6FBX1": {
+    "ts": "2026-08-28T12:26:26.684067+00:00",
+    "items": []
+  },
+  "walmart|RB15N6FBX1": {
+    "ts": "2026-08-28T12:26:27.995903+00:00",
+    "items": []
+  },
+  "sams|RB15N6FBX1": {
+    "ts": "2026-08-28T12:26:29.377291+00:00",
+    "items": []
+  },
+  "mercadolibre|RB15N6FBX1": {
+    "ts": "2026-08-28T12:26:30.567073+00:00",
+    "items": []
+  },
+  "amazon|BLST412813": {
+    "ts": "2026-08-28T12:26:31.848766+00:00",
+    "items": []
+  },
+  "walmart|BLST412813": {
+    "ts": "2026-08-28T12:26:33.993449+00:00",
+    "items": []
+  },
+  "sams|BLST412813": {
+    "ts": "2026-08-28T12:26:35.369173+00:00",
+    "items": []
+  },
+  "amazon|BVSTDCS51B": {
+    "ts": "2026-08-28T12:26:44.663689+00:00",
+    "items": []
+  },
+  "walmart|BVSTDCS51B": {
+    "ts": "2026-08-28T12:26:50.847198+00:00",
+    "items": []
+  },
+  "sams|BVSTDCS51B": {
+    "ts": "2026-08-28T12:26:52.313214+00:00",
     "items": []
   }
 }
