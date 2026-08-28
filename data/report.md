@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-08-27 23:57 UTC
+# Errores/chollos de precio — 2026-08-28 00:12 UTC
 
-- Productos revisados: **1576**
+- Productos revisados: **1574**
 - Umbral de diferencia: **20%**
 - Hallazgos: **36**
 
@@ -35,9 +35,9 @@
 | -27% | $800 | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
-| -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $767 | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
+| -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
 | -43% | $485 | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $652 | Confirmado vs competencia | $652 en liverpool vs mercado -> -43% bajo la competencia |
 | -20% | $260 | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | Confirmado vs competencia | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
 | -20% | $140 | liverpool | [Correa Para Smartwatch Spigen](https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144) | $559 | Confirmado vs competencia | $559 en liverpool vs mercado -> -20% bajo la competencia |
