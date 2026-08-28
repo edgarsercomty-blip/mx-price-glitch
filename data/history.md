@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (980)
+# Historial de ofertas encontradas (981)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-28 20:22 | -27% | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | $9,599 en palacio vs mercado -> -27% bajo la competencia |
 | 2026-08-27 23:57 | -43% | liverpool | [Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351) | $7,999 | $7,999 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-27 14:36 | -20% | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD …](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $11,060 | $11,060 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-27 14:36 | -40% | liverpool | [Laptop 2 En 1 Touch Lenovo Ideapad Slim 3 15Irh10 15 3 …](https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-lenovo-ideapad-slim-3-15irh10-15-3-pulgadas-hd-intel-core-i5-intel-uhd-graphics-8-gb-ram-512-gb-ssd/999679929364) | $12,678 | $12,678 en liverpool vs mercado -> -40% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 08:46 | -20% | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | $30,239 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 07:54 | -20% | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | $6,479 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 07:54 | -21% | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | $6,313 en palacio vs mercado -> -21% bajo la competencia |
-| 2026-08-07 07:54 | -22% | palacio | [Smartwatch GT 6 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-gt-6-unisex-45130972.html) | $2,520 | $2,520 en palacio vs mercado -> -22% bajo la competencia |
