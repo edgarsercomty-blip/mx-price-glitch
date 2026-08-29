@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (981)
+# Historial de ofertas encontradas (982)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-29 07:35 | -25% | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | $4,949 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-28 20:22 | -27% | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | $9,599 en palacio vs mercado -> -27% bajo la competencia |
 | 2026-08-27 23:57 | -43% | liverpool | [Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351) | $7,999 | $7,999 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-27 14:36 | -20% | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD …](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $11,060 | $11,060 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 13:55 | -43% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | $399 en liverpool vs mercado -> -43% bajo la competencia |
 | 2026-08-07 08:46 | -20% | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | $30,239 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-07 07:54 | -20% | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | $6,479 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-07 07:54 | -21% | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | $6,313 en palacio vs mercado -> -21% bajo la competencia |

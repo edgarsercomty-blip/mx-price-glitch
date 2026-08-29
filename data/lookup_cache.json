@@ -96,15 +96,15 @@
     "items": []
   },
   "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-27T03:22:32.584736+00:00",
+    "ts": "2026-08-29T07:35:37.002123+00:00",
     "items": []
   },
   "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-27T03:22:34.326666+00:00",
+    "ts": "2026-08-29T07:35:38.503270+00:00",
     "items": []
   },
   "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-27T03:22:36.131406+00:00",
+    "ts": "2026-08-29T07:35:40.013475+00:00",
     "items": []
   },
   "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
@@ -141,18 +141,6 @@
   },
   "sams|LMQ73214VBAB0": {
     "ts": "2026-08-28T08:34:50.275368+00:00",
-    "items": []
-  },
-  "amazon|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-27T03:22:27.347901+00:00",
-    "items": []
-  },
-  "walmart|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-27T03:22:28.967586+00:00",
-    "items": []
-  },
-  "sams|XIAOMISMARTWATCHXIAOMIWATCHGPS": {
-    "ts": "2026-08-27T03:22:31.313740+00:00",
     "items": []
   },
   "amazon|15FD0161LA": {
@@ -204,39 +192,15 @@
     "items": []
   },
   "amazon|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-27T03:22:37.478999+00:00",
+    "ts": "2026-08-29T07:35:45.975987+00:00",
     "items": []
   },
   "walmart|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-27T03:22:39.280989+00:00",
+    "ts": "2026-08-29T07:35:47.502116+00:00",
     "items": []
   },
   "sams|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-27T03:22:41.472017+00:00",
-    "items": []
-  },
-  "amazon|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-27T03:22:43.162596+00:00",
-    "items": []
-  },
-  "walmart|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-27T03:22:45.270667+00:00",
-    "items": []
-  },
-  "sams|ASUSVIVOBOOKLAPTOPRYZENAMD": {
-    "ts": "2026-08-27T03:22:48.187193+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-27T03:22:51.229808+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-27T03:22:53.109869+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
-    "ts": "2026-08-27T03:22:54.734057+00:00",
+    "ts": "2026-08-29T07:35:49.332739+00:00",
     "items": []
   },
   "amazon|15IRH10": {
@@ -345,30 +309,6 @@
   },
   "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
     "ts": "2026-08-28T23:50:05.855802+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-08-27T03:22:56.113685+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-08-27T03:22:58.114503+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
-    "ts": "2026-08-27T03:22:59.747554+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-27T03:23:01.379667+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-27T03:23:03.823613+00:00",
-    "items": []
-  },
-  "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
-    "ts": "2026-08-27T03:23:05.228977+00:00",
     "items": []
   },
   "liverpool|UN98DU9000FXZX": {
@@ -2308,6 +2248,276 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-08-29T02:54:37.557956+00:00",
+    "items": []
+  },
+  "palacio|50QD8SFM": {
+    "ts": "2026-08-29T07:35:12.301062+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 32 p3 RF32CG5N10S9EM Silver",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-32-p3-rf32cg5n10s9em-silver-43388831.html",
+        "price": 23759.34,
+        "model": "RF32CG5N10S9EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 25 p3 GM65FPP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-25-p3-gm65fpp-45001052.html",
+        "price": 19764.41,
+        "model": "GM65FPP"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Crystal 4K UN55U8500HFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-crystal-4k-un55u8500hfxzx-45366545.html",
+        "price": 8998.92,
+        "model": "UN55U8500HFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador door in door 28 p3 Side by Side VS28QBP",
+        "url": "https://www.elpalaciodehierro.com/lg-refrigerador-door-in-door-28-p3-side-by-side-vs28qbp-44968792.html",
+        "price": 23519.44,
+        "model": "VS28QBP"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Dúplex 27 Pies Family Hub RS27T5561B1-EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-duplex-27-pies-family-hub-rs27t5561b1-em-44065378.html",
+        "price": 33871.42,
+        "model": "RS27T5561B1-EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 31 p3 Family Hub RF32CG5911B1EM",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-french-door-31-p3-family-hub-rf32cg5911b1em-43388829.html",
+        "price": 55691.32,
+        "model": "RF32CG5911B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor 32 Pulgadas Plana LCD MyView Smart FULL HD 60 Hz 32SR50F",
+        "url": "https://www.elpalaciodehierro.com/lg-monitor-32-pulgadas-plana-lcd-myview-smart-full-hd-60-hz-32sr50f-44224419.html",
+        "price": 6839.1,
+        "model": "32SR50F"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador Top Mount 15 p3 RT42DG6734B1EM Negro",
+        "url": "https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-15-p3-rt42dg6734b1em-negro-43689717.html",
+        "price": 13844.35,
+        "model": "RT42DG6734B1EM"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Plana Neo QLED 4K QN55QN80HAFXZX",
+        "url": "https://www.elpalaciodehierro.com/samsung-pantalla-55-pulgadas-plana-neo-qled-4k-qn55qn80hafxzx-45366547.html",
+        "price": 17913.06,
+        "model": "QN55QN80HAFXZX"
+      },
+      {
+        "store": "palacio",
+        "name": "Refrigerador French Door 541 L HSM541HMNSS0",
+        "url": "https://www.elpalaciodehierro.com/haier-refrigerador-french-door-541-l-hsm541hmnss0-43793807.html",
+        "price": 28049.34,
+        "model": "HSM541HMNSS0"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 50 Pulgadas Plana QLED 4K Google TV 50Q65L",
+        "url": "https://www.elpalaciodehierro.com/tcl-pantalla-50-pulgadas-plana-qled-4k-google-tv-50q65l-45657636.html",
+        "price": 12999.0,
+        "model": "50Q65L"
+      },
+      {
+        "store": "palacio",
+        "name": "Pantalla 55 Pulgadas Hi-QLED 4K 55QD6SFM",
+        "url": "https://www.elpalaciodehierro.com/hisense-pantalla-55-pulgadas-hi-qled-4k-55qd6sfm-45467917.html",
+        "price": 8252.37,
+        "model": "55QD6SFM"
+      }
+    ]
+  },
+  "mercadolibre|50QD8SFM": {
+    "ts": "2026-08-29T07:35:13.571292+00:00",
+    "items": []
+  },
+  "palacio|RT16N6DDX": {
+    "ts": "2026-08-29T07:35:16.337834+00:00",
+    "items": [
+      {
+        "store": "palacio",
+        "name": "iPhone 16e 128 GB Negro Telcel",
+        "url": "https://www.elpalaciodehierro.com/apple-iphone-16e-128-gb-negro-telcel-44537980.html",
+        "price": 12749.15,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop Gaming TUF F16, 16\", Nvidia RTX 4050, Intel Core 5, RAM 16 GB DDR5, SSD 512 GB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-f16-16-nvidia-rtx-4050-intel-core-5-ram-16-gb-ddr5-ssd-512-gb-45244352.html",
+        "price": 18495.36,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop ROG G615JMR-RV279W, 16\", Ci7 Intel Core i7, 16 GB, SSD 1 TB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-rog-g615jmr-rv279w-16-ci7-intel-core-i7-16-gb-ssd-1-tb-45650687.html",
+        "price": 32399.19,
+        "model": "G615JMR-RV279W"
+      },
+      {
+        "store": "palacio",
+        "name": "iPhone 17 Pro 256 GB Azul Telcel",
+        "url": "https://www.elpalaciodehierro.com/apple-iphone-17-pro-256-gb-azul-telcel-45003914.html",
+        "price": 28499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "IPhone 17 Pro 256 GB Naranja Telcel",
+        "url": "https://www.elpalaciodehierro.com/apple-iphone-17-pro-256-gb-naranja-telcel-45003915.html",
+        "price": 28499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop TUF Gaming 16 NVIDIA GeForce RTX 3050, Intel Core 5 Processor 210H, RAM DDR4 16GB, SSD 512GB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-16-nvidia-geforce-rtx-3050-intel-core-5-processor-210h-ram-ddr4-16gb-ssd-512gb-44894555.html",
+        "price": 19799.1,
+        "model": "512GB"
+      },
+      {
+        "store": "palacio",
+        "name": "Laptop TUF FA607NUQ-RL038W R7, 16\", AMD Ryzen 7 170, 16 GB, SSD 512 GB",
+        "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html",
+        "price": 21375.36,
+        "model": "FA607NUQ-RL038W"
+      },
+      {
+        "store": "palacio",
+        "name": "IPhone 17 Pro 1 TB Naranja",
+        "url": "https://www.elpalaciodehierro.com/apple-iphone-17-pro-1-tb-naranja-45003912.html",
+        "price": 38499.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "IPhone 17e 512 GB Rosa Telcel",
+        "url": "https://www.elpalaciodehierro.com/apple-iphone-17e-512-gb-rosa-telcel-45335870.html",
+        "price": 19999.0,
+        "model": null
+      },
+      {
+        "store": "palacio",
+        "name": "LG MON 27MR400 PC MONITOR",
+        "url": "https://www.elpalaciodehierro.com/lg-lg-mon-27mr400-pc-monitor-44224418.html",
+        "price": 3799.0,
+        "model": "27MR400"
+      },
+      {
+        "store": "palacio",
+        "name": "Monitor gamer 27 pulgadas curva LED TUF Gaming Full HD 180 Hz VG27VQ3B",
+        "url": "https://www.elpalaciodehierro.com/asus-monitor-gamer-27-pulgadas-curva-led-tuf-gaming-full-hd-180-hz-vg27vq3b-44875867.html",
+        "price": 5399.1,
+        "model": "VG27VQ3B"
+      },
+      {
+        "store": "palacio",
+        "name": "Tira de luces LED Wi-Fi, RGBIC, 5 mts",
+        "url": "https://www.elpalaciodehierro.com/nexxt-tira-de-luces-led-wi-fi-rgbic-5-mts-44299164.html",
+        "price": 714.35,
+        "model": null
+      }
+    ]
+  },
+  "amazon|RT16N6DDX": {
+    "ts": "2026-08-29T07:35:17.649852+00:00",
+    "items": []
+  },
+  "walmart|RT16N6DDX": {
+    "ts": "2026-08-29T07:35:19.160509+00:00",
+    "items": []
+  },
+  "sams|RT16N6DDX": {
+    "ts": "2026-08-29T07:35:20.649868+00:00",
+    "items": []
+  },
+  "mercadolibre|RT16N6DDX": {
+    "ts": "2026-08-29T07:35:21.920540+00:00",
+    "items": []
+  },
+  "amazon|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-29T07:35:23.385011+00:00",
+    "items": []
+  },
+  "walmart|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-29T07:35:24.922333+00:00",
+    "items": []
+  },
+  "sams|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
+    "ts": "2026-08-29T07:35:26.521323+00:00",
+    "items": []
+  },
+  "amazon|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-29T07:35:27.803951+00:00",
+    "items": []
+  },
+  "walmart|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-29T07:35:29.283352+00:00",
+    "items": []
+  },
+  "sams|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
+    "ts": "2026-08-29T07:35:30.967029+00:00",
+    "items": []
+  },
+  "amazon|HUAWEISMARTWATCH": {
+    "ts": "2026-08-29T07:35:32.276323+00:00",
+    "items": []
+  },
+  "walmart|HUAWEISMARTWATCH": {
+    "ts": "2026-08-29T07:35:34.155844+00:00",
+    "items": []
+  },
+  "sams|HUAWEISMARTWATCH": {
+    "ts": "2026-08-29T07:35:35.645681+00:00",
+    "items": []
+  },
+  "amazon|CO401B": {
+    "ts": "2026-08-29T07:35:41.292266+00:00",
+    "items": []
+  },
+  "walmart|CO401B": {
+    "ts": "2026-08-29T07:35:42.812239+00:00",
+    "items": []
+  },
+  "sams|CO401B": {
+    "ts": "2026-08-29T07:35:44.361989+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGCELULARTELCEL128A27": {
+    "ts": "2026-08-29T07:35:50.601752+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGCELULARTELCEL128A27": {
+    "ts": "2026-08-29T07:35:52.152862+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGCELULARTELCEL128A27": {
+    "ts": "2026-08-29T07:35:53.684540+00:00",
+    "items": []
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
+    "ts": "2026-08-29T07:35:54.963809+00:00",
+    "items": []
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
+    "ts": "2026-08-29T07:35:56.534816+00:00",
+    "items": []
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARHUAWEIMATE": {
+    "ts": "2026-08-29T07:35:58.078298+00:00",
     "items": []
   }
 }
