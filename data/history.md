@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (984)
+# Historial de ofertas encontradas (986)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-29 22:41 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $5,599 | $5,599 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-08-29 22:41 | -22% | liverpool | [Refrigerador Top Mount Lg 11 Pies Cubicos No Frost Inve…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-lg-11-pies-cubicos-no-frost-inverter-gt35wp/1179238752) | $9,519 | $9,519 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-29 14:41 | -23% | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,499 | $5,499 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-08-29 14:41 | -29% | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | $6,200 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-29 07:35 | -25% | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | $4,949 en palacio vs mercado -> -25% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -38% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $20,250 | $20,250 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-08-07 17:43 | -40% | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | $2,694 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-07 17:43 | -40% | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | $16,199 en palacio vs mercado -> -40% bajo la competencia |
-| 2026-08-07 17:43 | -53% | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | $1,120 en palacio vs mercado -> -53% bajo la competencia |
-| 2026-08-07 13:55 | -43% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | $399 en liverpool vs mercado -> -43% bajo la competencia |

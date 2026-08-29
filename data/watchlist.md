@@ -1,4 +1,4 @@
-# Productos en vigilancia (797)
+# Productos en vigilancia (799)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -403,7 +403,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Expreso ECF02CRUS Crema](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02crus-crema-44011026.html) | $5,495 | -23% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 55 Pulgadas 4K 55Qned83Asg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-55-pulgadas-4k-55qned83asg-con-evo-ai/1183858552) | $12,099 | -47% |
 | 🟢 disponible | liverpool | [Laptop Asus Vivobook 14 Pulgadas Full Hd Intel Core I5 Intel…](https://www.liverpool.com.mx/tienda/pdp/laptop-asus-vivobook-14-pulgadas-full-hd-intel-core-i5-intel-uhd-graphics-16-gb-ram-512-gb-ssd/1192640331) | $11,983 | -28% |
-| 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $10,045 | -28% |
+| 🟢 disponible | liverpool | [Refrigerador Top Mount Mabe 14 Pies Cubicos Tecnologia No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-mabe-14-pies-cubicos-tecnologia-no-frost-rme360fzmrp0/1105337163) | $11,479 | -28% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 20 Kg Automatica Carga Superior Wa20A3350Gw…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-20-kg-automatica-carga-superior-wa20a3350gw-ax/1106592728) | $8,664 | -32% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 19 Kg Automatica Carga Superior Wa19Cg6746B…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-19-kg-automatica-carga-superior-wa19cg6746bvax/1164464136) | $10,199 | -22% |
 | 🟢 disponible | liverpool | [Lavadora Samsung 22 Kg Automatica Carga Superior Wa22C3544Gv…](https://www.liverpool.com.mx/tienda/pdp/lavadora-samsung-22-kg-automatica-carga-superior-wa22c3544gvax/1148765673) | $10,859 | -22% |
@@ -465,7 +465,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop, 15-fd0237la, 15.6", AMD Ryzen 3 7320U, RAM 8 GB, SSD…](https://www.elpalaciodehierro.com/hp-laptop-15-fd0237la-15.6-amd-ryzen-3-7320u-ram-8-gb-ssd-512-gb-44850166.html) | $7,154 | -35% |
 | 🟢 disponible | palacio | [Celular Edge 70 Fusion 5G, 256 GB, RAM 8 GB Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-edge-70-fusion-5g-256-gb-ram-8-gb-desbloqueado-45421529.html) | $6,929 | -28% |
 | 🟢 disponible | palacio | [Celular Galaxy A17 128 GB 4 GB Negro Telcel](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-128-gb-4-gb-negro-telcel-45324315.html) | $3,599 | -22% |
-| 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $979 | -22% |
+| 🟢 disponible | liverpool | [Licuadora T Fal Infinyforce Xl 14 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-t-fal-infinyforce-xl-14-velocidades/1123821595) | $1,049 | -22% |
 | 🟢 disponible | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | -37% |
 | 🟢 disponible | liverpool | [Licuadora Flavorstone Sapphire 4 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-flavorstone-sapphire-4-velocidades/1178603252) | $1,233 | -30% |
 | 🟢 disponible | palacio | [Panel para refrigerador One Door 11 p3](https://www.elpalaciodehierro.com/samsung-panel-para-refrigerador-one-door-11-p3-42614838.html) | $600 | -43% |
@@ -786,7 +786,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Conjuntos Casuales para Mujer, Conjunto Short Leggins Y Top …](https://www.amazon.com.mx/dp/B0GGQXGZJD) | $69 | -37% |
 | 🟢 disponible | amazon | [Bolsas de Mujer, Bolso Crossbody Mujer, Bandolera Crossbody …](https://www.amazon.com.mx/dp/B0DRYPYWHM) | $217 | -27% |
 | 🟢 disponible | amazon | [CHEFOLLA Sartén Blanco Antiadherente Granito Cerámica Mango …](https://www.amazon.com.mx/dp/B0C53RX5NG) | $296 | -24% |
-| 🟢 disponible | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | -27% |
+| 🟢 disponible | liverpool | [Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superio…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921) | $3,792 | -25% |
 | 🟢 disponible | liverpool | [Licuadora Blst412813 Oster Dorado](https://www.liverpool.com.mx/tienda/pdp/licuadora-blst412813-oster-dorado/1166351762) | $1,998 | -40% |
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcs51B Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcs51b-ne/1194721931) | $479 | -23% |
 | 🟢 disponible | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $652 | -27% |
@@ -801,3 +801,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | -25% |
 | 🟢 disponible | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | -25% |
 | 🟢 disponible | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | -29% |
+| 🟢 disponible | liverpool | [Refrigerador Top Mount Lg 11 Pies Cubicos No Frost Inverter …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-lg-11-pies-cubicos-no-frost-inverter-gt35wp/1179238752) | $9,519 | -22% |
+| 🟢 disponible | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $5,599 | -20% |
