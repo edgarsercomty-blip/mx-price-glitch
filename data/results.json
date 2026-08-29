@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 07:35 UTC",
-  "products_scanned": 1503,
+  "generated_at": "2026-08-29 09:34 UTC",
+  "products_scanned": 1501,
   "threshold_pct": 20.0,
-  "count": 31,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -568,27 +568,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262437",
         "outlet": false
       }
     },

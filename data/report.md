@@ -1,15 +1,14 @@
-# Errores/chollos de precio — 2026-08-29 07:35 UTC
+# Errores/chollos de precio — 2026-08-29 09:34 UTC
 
-- Productos revisados: **1503**
+- Productos revisados: **1501**
 - Umbral de diferencia: **20%**
-- Hallazgos: **31**
+- Hallazgos: **30**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | -20% | $8,517 | palacio | [Laptop, Zenbook S, 16", AMD Ryzen AI 9, RAM 32 GB, SSD 1 TB](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-16-amd-ryzen-ai-9-ram-32-gb-ssd-1-tb-45369614.html) | $34,067 | Confirmado vs competencia | $34,067 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $7,500 | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $7,350 | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
