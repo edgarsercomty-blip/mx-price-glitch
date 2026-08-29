@@ -1,4 +1,4 @@
-# Productos en vigilancia (798)
+# Productos en vigilancia (797)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -21,7 +21,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Pantalla Smart TV LG 55 pulgadas AI OLED evo OLED55C5 4K 202…](https://www.walmart.com.mx/ip/pantalla-smart-tv-lg-55-pulgadas-ai-oled-evo-oled55c5-4k-2025/00880609645302) | $17,999 | -31% |
 | 🟢 disponible | walmart | [Licuadora Hamilton Beach 5 velocidades 950 W 1.53 L Mod. 536…](https://www.walmart.com.mx/ip/licuadora-hamilton-beach-5-velocidades-950-w-1-53-l-mod-53602-color-plata/00004009453602?athbdg=L1300) | $1,449 | -22% |
 | 🟢 disponible | amazon | [UGREEN Nexode 100W Cargador USB Tipo C GAN con 4 Puertos, Ch…](https://www.amazon.com.mx/dp/B091Z6JNX4) | $669 | -46% |
-| 🟢 disponible | palacio | [Lavadora Automática 22 Kg de carga superior LMH72211WBAB0 bl…](https://www.elpalaciodehierro.com/mabe-lavadora-automatica-22-kg-de-carga-superior-lmh72211wbab0-blanca-43133035.html) | $7,860 | -59% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana QLED 4K UHD Google TV 75Q6K](https://www.elpalaciodehierro.com/tcl-pantalla-75-pulgadas-plana-qled-4k-uhd-google-tv-75q6k-44576283.html) | $12,544 | -45% |
 | 🟢 disponible | walmart | [Smartphone Samsung Galaxy S25 Ultra 1TB Negro Titanio + Boci…](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-1tb-negro-titanio-bocina-desbloqueado/00750665822495?athbdg=L1300) | $20,499 | -45% |
 | 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $9,999 | -32% |
