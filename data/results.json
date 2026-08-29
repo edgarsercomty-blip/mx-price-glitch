@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 18:06 UTC",
-  "products_scanned": 1629,
+  "generated_at": "2026-08-29 20:11 UTC",
+  "products_scanned": 1624,
   "threshold_pct": 20.0,
-  "count": 36,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$1,424 en liverpool vs mercado -> -34% bajo la competencia",
+      "likely_typo": false,
+      "savings": 742.5,
+      "store": "liverpool",
+      "name": "Combo Licuadora Vaso Oster 5 Velocidades",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726",
+      "price": 1424.25,
+      "list_price": 1899.0,
+      "ean": null,
+      "model": null,
+      "brand": "OSTER",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1133854726",
         "marketplace": null
       }
     },
@@ -216,6 +237,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,792 en liverpool vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1411.95,
+      "store": "liverpool",
+      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
+      "price": 3791.52,
+      "list_price": 4739.4,
+      "ean": null,
+      "model": "Mt100W150",
+      "brand": "MIDEA",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1152345921",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 26.7,
       "detail": "$2,199 en liverpool vs mercado -> -27% bajo la competencia",
       "likely_typo": false,
@@ -301,27 +343,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1649.75,
-      "store": "palacio",
-      "name": "Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html",
-      "price": 4949.25,
-      "list_price": 6599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45655094",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 7499.75,
@@ -337,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45630424",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1649.75,
+      "store": "palacio",
+      "name": "Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html",
+      "price": 4949.25,
+      "list_price": 6599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45655094",
         "outlet": false
       }
     },
@@ -610,6 +652,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
+      "ean": null,
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43133039",
         "outlet": false
       }
     },
